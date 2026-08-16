@@ -1,0 +1,3457 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.0,
+  "text": "Today we're discussing what Andre"
+ },
+ {
+  "start": 1.64,
+  "duration": 5.32,
+  "text": "Karpathy's weekend project about auto"
+ },
+ {
+  "start": 4.0,
+  "duration": 4.24,
+  "text": "research can tell us about the future of"
+ },
+ {
+  "start": 6.96,
+  "duration": 3.28,
+  "text": "work."
+ },
+ {
+  "start": 8.24,
+  "duration": 4.72,
+  "text": "Now today we are talking about a new"
+ },
+ {
+  "start": 10.24,
+  "duration": 4.6,
+  "text": "project from Andre Karpathy called auto"
+ },
+ {
+  "start": 12.96,
+  "duration": 4.08,
+  "text": "research. And you might notice that we"
+ },
+ {
+  "start": 14.84,
+  "duration": 3.8,
+  "text": "are doing an entire episode about this"
+ },
+ {
+  "start": 17.04,
+  "duration": 3.6,
+  "text": "instead of our normal division into the"
+ },
+ {
+  "start": 18.64,
+  "duration": 3.92,
+  "text": "headlines in the main episode. It's"
+ },
+ {
+  "start": 20.64,
+  "duration": 3.48,
+  "text": "because I think that this topic is"
+ },
+ {
+  "start": 22.56,
+  "duration": 3.52,
+  "text": "actually even more significant than it"
+ },
+ {
+  "start": 24.12,
+  "duration": 3.4,
+  "text": "seems on the surface of it. One would be"
+ },
+ {
+  "start": 26.08,
+  "duration": 2.92,
+  "text": "tempted to think that all of us nerds"
+ },
+ {
+  "start": 27.52,
+  "duration": 3.16,
+  "text": "were just getting overexcited because"
+ },
+ {
+  "start": 29.0,
+  "duration": 3.16,
+  "text": "Andre Karpathy, who is held in such"
+ },
+ {
+  "start": 30.68,
+  "duration": 3.56,
+  "text": "esteem, released a new GitHub"
+ },
+ {
+  "start": 32.16,
+  "duration": 3.84,
+  "text": "repository. And while that is certainly"
+ },
+ {
+  "start": 34.24,
+  "duration": 3.0,
+  "text": "true, there is something bigger going on"
+ },
+ {
+  "start": 36.0,
+  "duration": 2.6,
+  "text": "here."
+ },
+ {
+  "start": 37.24,
+  "duration": 3.28,
+  "text": "You might remember a couple months ago"
+ },
+ {
+  "start": 38.6,
+  "duration": 4.68,
+  "text": "me talking about something called Ralph"
+ },
+ {
+  "start": 40.52,
+  "duration": 4.28,
+  "text": "Wiggum. Ralph is, in simplest terms, a"
+ },
+ {
+  "start": 43.28,
+  "duration": 3.12,
+  "text": "software development loop that keeps"
+ },
+ {
+  "start": 44.8,
+  "duration": 3.32,
+  "text": "running, building software in an"
+ },
+ {
+  "start": 46.4,
+  "duration": 3.08,
+  "text": "iterative and persistent way by looping"
+ },
+ {
+  "start": 48.12,
+  "duration": 3.52,
+  "text": "the same instructions over and over and"
+ },
+ {
+  "start": 49.48,
+  "duration": 4.12,
+  "text": "over again. It's named after Simpsons"
+ },
+ {
+  "start": 51.64,
+  "duration": 3.56,
+  "text": "character Ralph Wiggum for his lovable"
+ },
+ {
+  "start": 53.6,
+  "duration": 3.36,
+  "text": "and indomitable persistence despite"
+ },
+ {
+  "start": 55.2,
+  "duration": 3.0,
+  "text": "whatever's going on around him. Now"
+ },
+ {
+  "start": 56.96,
+  "duration": 3.44,
+  "text": "we'll talk more about Ralph in a little"
+ },
+ {
+  "start": 58.2,
+  "duration": 4.68,
+  "text": "bit, but the key concept to take away is"
+ },
+ {
+  "start": 60.4,
+  "duration": 5.0,
+  "text": "this idea of an iterative loop."
+ },
+ {
+  "start": 62.88,
+  "duration": 4.28,
+  "text": "Karpathy's auto research is also at core"
+ },
+ {
+  "start": 65.4,
+  "duration": 4.44,
+  "text": "about an iterative loop. And I think"
+ },
+ {
+  "start": 67.16,
+  "duration": 4.56,
+  "text": "combined what you have is arguably a new"
+ },
+ {
+  "start": 69.84,
+  "duration": 3.32,
+  "text": "type of work primitive."
+ },
+ {
+  "start": 71.72,
+  "duration": 2.76,
+  "text": "Primitives are the basic building blocks"
+ },
+ {
+  "start": 73.16,
+  "duration": 3.36,
+  "text": "of work that are so fundamental that"
+ },
+ {
+  "start": 74.48,
+  "duration": 3.64,
+  "text": "they show up everywhere across roles and"
+ },
+ {
+  "start": 76.52,
+  "duration": 3.68,
+  "text": "industries and that people reach for"
+ },
+ {
+  "start": 78.12,
+  "duration": 4.0,
+  "text": "automatically once they have it. New"
+ },
+ {
+  "start": 80.2,
+  "duration": 4.08,
+  "text": "ones don't come around very often, and"
+ },
+ {
+  "start": 82.12,
+  "duration": 4.32,
+  "text": "so this idea that agentic loops might be"
+ },
+ {
+  "start": 84.28,
+  "duration": 3.56,
+  "text": "one is, I think, worthy of some serious"
+ },
+ {
+  "start": 86.44,
+  "duration": 3.16,
+  "text": "scrutiny."
+ },
+ {
+  "start": 87.84,
+  "duration": 3.04,
+  "text": "But let's talk about what Andre actually"
+ },
+ {
+  "start": 89.6,
+  "duration": 4.12,
+  "text": "released first and then we will come"
+ },
+ {
+  "start": 90.88,
+  "duration": 4.96,
+  "text": "back to that. On Saturday, Andre, who"
+ },
+ {
+  "start": 93.72,
+  "duration": 3.64,
+  "text": "was on the founding team at OpenAI and"
+ },
+ {
+  "start": 95.84,
+  "duration": 3.32,
+  "text": "who was previously the director of AI at"
+ },
+ {
+  "start": 97.36,
+  "duration": 3.72,
+  "text": "Tesla and who you might remember from"
+ },
+ {
+  "start": 99.16,
+  "duration": 3.84,
+  "text": "coining such terms as vibe coding last"
+ },
+ {
+  "start": 101.08,
+  "duration": 3.56,
+  "text": "February and who has now suggested we"
+ },
+ {
+  "start": 103.0,
+  "duration": 3.92,
+  "text": "are in a different era of agentic"
+ },
+ {
+  "start": 104.64,
+  "duration": 4.52,
+  "text": "engineering as of this February, again"
+ },
+ {
+  "start": 106.92,
+  "duration": 4.08,
+  "text": "tweeted on Saturday, \"I packaged up the"
+ },
+ {
+  "start": 109.16,
+  "duration": 3.92,
+  "text": "auto research project into a new"
+ },
+ {
+  "start": 111.0,
+  "duration": 4.04,
+  "text": "self-contained minimal repo if people"
+ },
+ {
+  "start": 113.08,
+  "duration": 4.16,
+  "text": "would like to play over the weekend."
+ },
+ {
+  "start": 115.04,
+  "duration": 4.68,
+  "text": "It's basically nano chat LLM training"
+ },
+ {
+  "start": 117.24,
+  "duration": 4.6,
+  "text": "core stripped down to a single GPU. One"
+ },
+ {
+  "start": 119.72,
+  "duration": 4.32,
+  "text": "file version of around 630 lines of"
+ },
+ {
+  "start": 121.84,
+  "duration": 3.72,
+  "text": "code, then the human iterates on the"
+ },
+ {
+  "start": 124.04,
+  "duration": 3.04,
+  "text": "prompt.md,"
+ },
+ {
+  "start": 125.56,
+  "duration": 3.36,
+  "text": "an AI agent iterates on the training"
+ },
+ {
+  "start": 127.08,
+  "duration": 3.48,
+  "text": "code.py."
+ },
+ {
+  "start": 128.92,
+  "duration": 3.0,
+  "text": "The goal is to engineer your agents to"
+ },
+ {
+  "start": 130.56,
+  "duration": 2.92,
+  "text": "make the fastest research project"
+ },
+ {
+  "start": 131.92,
+  "duration": 3.92,
+  "text": "indefinitely and without any of your own"
+ },
+ {
+  "start": 133.48,
+  "duration": 4.36,
+  "text": "involvement. In the image, which he"
+ },
+ {
+  "start": 135.84,
+  "duration": 3.8,
+  "text": "shared alongside it, every dot is a"
+ },
+ {
+  "start": 137.84,
+  "duration": 4.04,
+  "text": "complete LLM training run that lasts"
+ },
+ {
+  "start": 139.64,
+  "duration": 4.0,
+  "text": "exactly 5 minutes. The agent works in an"
+ },
+ {
+  "start": 141.88,
+  "duration": 3.16,
+  "text": "autonomous loop on a Git feature branch"
+ },
+ {
+  "start": 143.64,
+  "duration": 2.88,
+  "text": "and accumulates Git commits to the"
+ },
+ {
+  "start": 145.04,
+  "duration": 3.2,
+  "text": "training script as it finds better"
+ },
+ {
+  "start": 146.52,
+  "duration": 3.48,
+  "text": "settings of lower variation loss by the"
+ },
+ {
+  "start": 148.24,
+  "duration": 3.6,
+  "text": "end of the neural network architecture,"
+ },
+ {
+  "start": 150.0,
+  "duration": 3.959,
+  "text": "the optimizer, all the hyperparameters,"
+ },
+ {
+  "start": 151.84,
+  "duration": 3.48,
+  "text": "etc. You can imagine comparing the"
+ },
+ {
+  "start": 153.959,
+  "duration": 4.121,
+  "text": "research progress of different prompts,"
+ },
+ {
+  "start": 155.32,
+  "duration": 5.4,
+  "text": "different agents, etc. Part code, part"
+ },
+ {
+  "start": 158.08,
+  "duration": 4.92,
+  "text": "sci-fi, and a pinch of psychosis."
+ },
+ {
+  "start": 160.72,
+  "duration": 4.04,
+  "text": "As a caption to the image he wrote, \"One"
+ },
+ {
+  "start": 163.0,
+  "duration": 3.4,
+  "text": "day, frontier AI research used to be"
+ },
+ {
+  "start": 164.76,
+  "duration": 3.24,
+  "text": "done by meat computers in between"
+ },
+ {
+  "start": 166.4,
+  "duration": 3.24,
+  "text": "eating, sleeping, having other fun, and"
+ },
+ {
+  "start": 168.0,
+  "duration": 3.08,
+  "text": "synchronizing once in a while using"
+ },
+ {
+  "start": 169.64,
+  "duration": 4.36,
+  "text": "sound wave interconnect in the ritual of"
+ },
+ {
+  "start": 171.08,
+  "duration": 4.68,
+  "text": "a group meeting. That era is long gone."
+ },
+ {
+  "start": 174.0,
+  "duration": 3.44,
+  "text": "Research is now entirely the domain of"
+ },
+ {
+  "start": 175.76,
+  "duration": 3.28,
+  "text": "autonomous swarms of AI agents running"
+ },
+ {
+  "start": 177.44,
+  "duration": 3.56,
+  "text": "across compute cluster mega structures"
+ },
+ {
+  "start": 179.04,
+  "duration": 4.12,
+  "text": "in the skies. The agents claim that we"
+ },
+ {
+  "start": 181.0,
+  "duration": 4.16,
+  "text": "are now in the 10,205th generation of"
+ },
+ {
+  "start": 183.16,
+  "duration": 3.16,
+  "text": "the codebase. In any case, no one could"
+ },
+ {
+  "start": 185.16,
+  "duration": 3.24,
+  "text": "tell if that's right or wrong as the"
+ },
+ {
+  "start": 186.32,
+  "duration": 3.68,
+  "text": "code, {quote} {unquote}, is now a"
+ },
+ {
+  "start": 188.4,
+  "duration": 4.119,
+  "text": "self-modifying binary that has grown"
+ },
+ {
+  "start": 190.0,
+  "duration": 4.84,
+  "text": "beyond human comprehension.\" This repo"
+ },
+ {
+  "start": 192.519,
+  "duration": 3.801,
+  "text": "is the story of how it all began."
+ },
+ {
+  "start": 194.84,
+  "duration": 3.16,
+  "text": "So, let's talk about what auto research"
+ },
+ {
+  "start": 196.32,
+  "duration": 3.48,
+  "text": "actually is, at least in the version"
+ },
+ {
+  "start": 198.0,
+  "duration": 3.68,
+  "text": "that was released by Andre."
+ },
+ {
+  "start": 199.8,
+  "duration": 3.92,
+  "text": "Auto research is a system for training a"
+ },
+ {
+  "start": 201.68,
+  "duration": 3.4,
+  "text": "small language model. Basically, the"
+ },
+ {
+  "start": 203.72,
+  "duration": 3.44,
+  "text": "kind of model that powers all of these"
+ },
+ {
+  "start": 205.08,
+  "duration": 3.52,
+  "text": "AI tools, but much smaller. The type of"
+ },
+ {
+  "start": 207.16,
+  "duration": 3.359,
+  "text": "model that could one day run on, for"
+ },
+ {
+  "start": 208.6,
+  "duration": 3.639,
+  "text": "example, an edge device like a phone."
+ },
+ {
+  "start": 210.519,
+  "duration": 3.281,
+  "text": "The goal is to make a model as good as"
+ },
+ {
+  "start": 212.239,
+  "duration": 4.401,
+  "text": "possible at understanding and generating"
+ },
+ {
+  "start": 213.8,
+  "duration": 4.159,
+  "text": "text. Normally or classically, a human"
+ },
+ {
+  "start": 216.64,
+  "duration": 2.879,
+  "text": "researcher would sit there tweaking the"
+ },
+ {
+  "start": 217.959,
+  "duration": 2.921,
+  "text": "training setup, doing things like"
+ },
+ {
+  "start": 219.519,
+  "duration": 2.72,
+  "text": "adjusting the model's architecture,"
+ },
+ {
+  "start": 220.88,
+  "duration": 2.32,
+  "text": "changing how fast it learns,"
+ },
+ {
+  "start": 222.239,
+  "duration": 3.0,
+  "text": "experimenting with different"
+ },
+ {
+  "start": 223.2,
+  "duration": 3.84,
+  "text": "optimization strategy. They'd run an"
+ },
+ {
+  "start": 225.239,
+  "duration": 3.841,
+  "text": "experiment, check the results, decide"
+ },
+ {
+  "start": 227.04,
+  "duration": 3.44,
+  "text": "what to try next, and repeat. That's"
+ },
+ {
+  "start": 229.08,
+  "duration": 3.0,
+  "text": "basically the core loop of machine"
+ },
+ {
+  "start": 230.48,
+  "duration": 3.84,
+  "text": "learning research, and it's bottlenecked"
+ },
+ {
+  "start": 232.08,
+  "duration": 4.12,
+  "text": "by how fast a human can iterate."
+ },
+ {
+  "start": 234.32,
+  "duration": 4.32,
+  "text": "Auto research instead hands that entire"
+ },
+ {
+  "start": 236.2,
+  "duration": 4.36,
+  "text": "loop to an AI agent. And it does so in"
+ },
+ {
+  "start": 238.64,
+  "duration": 3.04,
+  "text": "an intentionally simplified and tiny"
+ },
+ {
+  "start": 240.56,
+  "duration": 2.68,
+  "text": "way."
+ },
+ {
+  "start": 241.68,
+  "duration": 2.68,
+  "text": "In this repo, there are just three files"
+ },
+ {
+  "start": 243.24,
+  "duration": 3.24,
+  "text": "that matter."
+ },
+ {
+  "start": 244.36,
+  "duration": 3.32,
+  "text": "The first is prepare.py,"
+ },
+ {
+  "start": 246.48,
+  "duration": 3.12,
+  "text": "which is fixed infrastructure that"
+ },
+ {
+  "start": 247.68,
+  "duration": 3.88,
+  "text": "doesn't change. It downloads the"
+ },
+ {
+  "start": 249.6,
+  "duration": 4.2,
+  "text": "training data, trains a tokenizer, and"
+ },
+ {
+  "start": 251.56,
+  "duration": 3.76,
+  "text": "handles evaluation. The second is"
+ },
+ {
+  "start": 253.8,
+  "duration": 3.279,
+  "text": "train.py."
+ },
+ {
+  "start": 255.32,
+  "duration": 3.4,
+  "text": "This contains the entire GPT model"
+ },
+ {
+  "start": 257.079,
+  "duration": 3.0,
+  "text": "definition, the optimizer, and the"
+ },
+ {
+  "start": 258.72,
+  "duration": 3.12,
+  "text": "training loop."
+ },
+ {
+  "start": 260.079,
+  "duration": 4.001,
+  "text": "This is the single file the AI agent is"
+ },
+ {
+  "start": 261.84,
+  "duration": 4.4,
+  "text": "allowed to edit. Everything in it is"
+ },
+ {
+  "start": 264.08,
+  "duration": 3.8,
+  "text": "fair game. The model architecture, the"
+ },
+ {
+  "start": 266.24,
+  "duration": 3.4,
+  "text": "hyperparameters, the batch size, the"
+ },
+ {
+  "start": 267.88,
+  "duration": 3.8,
+  "text": "attention parameters, the learning rate"
+ },
+ {
+  "start": 269.64,
+  "duration": 4.52,
+  "text": "schedule, literally everything."
+ },
+ {
+  "start": 271.68,
+  "duration": 4.12,
+  "text": "The third file is program.md. And this"
+ },
+ {
+  "start": 274.16,
+  "duration": 3.56,
+  "text": "is the most conceptually important one,"
+ },
+ {
+  "start": 275.8,
+  "duration": 4.28,
+  "text": "especially in the context of this idea"
+ },
+ {
+  "start": 277.72,
+  "duration": 4.16,
+  "text": "of these loops being larger primitives."
+ },
+ {
+  "start": 280.08,
+  "duration": 3.16,
+  "text": "It's a markdown file, plain text written"
+ },
+ {
+  "start": 281.88,
+  "duration": 3.32,
+  "text": "in English, that contains the"
+ },
+ {
+  "start": 283.24,
+  "duration": 3.72,
+  "text": "instructions for the AI agent. It"
+ },
+ {
+  "start": 285.2,
+  "duration": 3.6,
+  "text": "describes how the agent should behave as"
+ },
+ {
+  "start": 286.96,
+  "duration": 3.84,
+  "text": "a researcher, what kind of experiments"
+ },
+ {
+  "start": 288.8,
+  "duration": 4.16,
+  "text": "to try, what to be cautious about, and"
+ },
+ {
+  "start": 290.8,
+  "duration": 3.84,
+  "text": "when to be bold versus conservative."
+ },
+ {
+  "start": 292.96,
+  "duration": 3.48,
+  "text": "This is the file that the human in this"
+ },
+ {
+  "start": 294.64,
+  "duration": 3.12,
+  "text": "equation edits."
+ },
+ {
+  "start": 296.44,
+  "duration": 3.04,
+  "text": "So, the way that this is going to work"
+ },
+ {
+  "start": 297.76,
+  "duration": 3.48,
+  "text": "is you point an AI agent like Claude or"
+ },
+ {
+  "start": 299.48,
+  "duration": 3.4,
+  "text": "Codex or whatever at the repo and tell"
+ },
+ {
+  "start": 301.24,
+  "duration": 3.64,
+  "text": "it to read program.md and start"
+ },
+ {
+  "start": 302.88,
+  "duration": 3.88,
+  "text": "experimenting. The agent reads the"
+ },
+ {
+  "start": 304.88,
+  "duration": 4.64,
+  "text": "instructions, looks at the current state"
+ },
+ {
+  "start": 306.76,
+  "duration": 4.88,
+  "text": "of train.py, decides on a modification"
+ },
+ {
+  "start": 309.52,
+  "duration": 3.36,
+  "text": "to try, makes the edit, and kicks off a"
+ },
+ {
+  "start": 311.64,
+  "duration": 3.16,
+  "text": "training run."
+ },
+ {
+  "start": 312.88,
+  "duration": 3.64,
+  "text": "Every training run has a fixed 5-minute"
+ },
+ {
+  "start": 314.8,
+  "duration": 3.08,
+  "text": "budget. When the run finishes, the"
+ },
+ {
+  "start": 316.52,
+  "duration": 3.08,
+  "text": "system evaluates the model on a"
+ },
+ {
+  "start": 317.88,
+  "duration": 3.88,
+  "text": "validation set and produces a single"
+ },
+ {
+  "start": 319.6,
+  "duration": 4.48,
+  "text": "number. In this case, that's validation"
+ },
+ {
+  "start": 321.76,
+  "duration": 4.36,
+  "text": "BPB or val BPB, which stands for"
+ },
+ {
+  "start": 324.08,
+  "duration": 4.12,
+  "text": "validation bits per byte."
+ },
+ {
+  "start": 326.12,
+  "duration": 4.12,
+  "text": "In this case, lower is better."
+ },
+ {
+  "start": 328.2,
+  "duration": 4.04,
+  "text": "The agent then makes a decision. If the"
+ },
+ {
+  "start": 330.24,
+  "duration": 3.84,
+  "text": "new val BPB is lower than the previous"
+ },
+ {
+  "start": 332.24,
+  "duration": 3.72,
+  "text": "best, the change is kept, it gets"
+ },
+ {
+  "start": 334.08,
+  "duration": 3.8,
+  "text": "committed to a get feature branch, it"
+ },
+ {
+  "start": 335.96,
+  "duration": 3.44,
+  "text": "becomes the new baseline, and the agent"
+ },
+ {
+  "start": 337.88,
+  "duration": 2.8,
+  "text": "builds on top of it for the next"
+ },
+ {
+  "start": 339.4,
+  "duration": 3.0,
+  "text": "experiment."
+ },
+ {
+  "start": 340.68,
+  "duration": 3.36,
+  "text": "If the val BPB is the same or higher,"
+ },
+ {
+  "start": 342.4,
+  "duration": 3.16,
+  "text": "the change is discarded. The agent"
+ },
+ {
+  "start": 344.04,
+  "duration": 3.32,
+  "text": "reverts to the previous best version and"
+ },
+ {
+  "start": 345.56,
+  "duration": 3.72,
+  "text": "tries something different. Then the loop"
+ },
+ {
+  "start": 347.36,
+  "duration": 3.36,
+  "text": "repeats indefinitely."
+ },
+ {
+  "start": 349.28,
+  "duration": 3.12,
+  "text": "Because of that 5-minute constraint, you"
+ },
+ {
+  "start": 350.72,
+  "duration": 3.52,
+  "text": "can run this for an hour and and get 12"
+ },
+ {
+  "start": 352.4,
+  "duration": 3.36,
+  "text": "experiments. You can run it overnight"
+ },
+ {
+  "start": 354.24,
+  "duration": 3.44,
+  "text": "and get about 100."
+ },
+ {
+  "start": 355.76,
+  "duration": 3.52,
+  "text": "The session that Andre shared showed 83"
+ },
+ {
+  "start": 357.68,
+  "duration": 3.24,
+  "text": "experiments, of which 15 had"
+ },
+ {
+  "start": 359.28,
+  "duration": 4.96,
+  "text": "improvements that they kept, and which"
+ },
+ {
+  "start": 360.92,
+  "duration": 5.44,
+  "text": "drove the val BPB from 0.9979 down to"
+ },
+ {
+  "start": 364.24,
+  "duration": 4.2,
+  "text": "0.9697."
+ },
+ {
+  "start": 366.36,
+  "duration": 3.88,
+  "text": "So basically, instead of the researcher"
+ },
+ {
+  "start": 368.44,
+  "duration": 3.48,
+  "text": "running the research, at this point they"
+ },
+ {
+  "start": 370.24,
+  "duration": 2.88,
+  "text": "are designing the arena that the"
+ },
+ {
+  "start": 371.92,
+  "duration": 3.84,
+  "text": "research lives in, which is the"
+ },
+ {
+  "start": 373.12,
+  "duration": 4.32,
+  "text": "program.md file. Andre describes it as a"
+ },
+ {
+  "start": 375.76,
+  "duration": 3.84,
+  "text": "super lightweight skill, and basically"
+ },
+ {
+  "start": 377.44,
+  "duration": 3.92,
+  "text": "it's a research strategy document."
+ },
+ {
+  "start": 379.6,
+  "duration": 3.36,
+  "text": "Karpathy explicitly says you are not"
+ },
+ {
+  "start": 381.36,
+  "duration": 3.4,
+  "text": "touching any of the Python files like"
+ },
+ {
+  "start": 382.96,
+  "duration": 3.36,
+  "text": "you normally would as a researcher."
+ },
+ {
+  "start": 384.76,
+  "duration": 3.52,
+  "text": "Instead, you are programming the"
+ },
+ {
+  "start": 386.32,
+  "duration": 4.12,
+  "text": "program.md markdown file that provide"
+ },
+ {
+  "start": 388.28,
+  "duration": 4.12,
+  "text": "context to the AI agents and set up your"
+ },
+ {
+  "start": 390.44,
+  "duration": 3.32,
+  "text": "autonomous research org."
+ },
+ {
+  "start": 392.4,
+  "duration": 3.2,
+  "text": "The human's job becomes write a better"
+ },
+ {
+  "start": 393.76,
+  "duration": 4.2,
+  "text": "memo, and the agent's job is execute"
+ },
+ {
+  "start": 395.6,
+  "duration": 4.08,
+  "text": "research within the frame the memo sets."
+ },
+ {
+  "start": 397.96,
+  "duration": 3.76,
+  "text": "The loop between them is mediated by a"
+ },
+ {
+  "start": 399.68,
+  "duration": 4.4,
+  "text": "single unambiguous number. In the case"
+ },
+ {
+  "start": 401.72,
+  "duration": 3.44,
+  "text": "of Andre's experiment, the val BPB, that"
+ },
+ {
+  "start": 404.08,
+  "duration": 3.12,
+  "text": "tells you whether things are getting"
+ },
+ {
+  "start": 405.16,
+  "duration": 3.44,
+  "text": "better or worse. And that is the whole"
+ },
+ {
+  "start": 407.2,
+  "duration": 2.56,
+  "text": "system."
+ },
+ {
+  "start": 408.6,
+  "duration": 3.36,
+  "text": "Almost immediately, people started"
+ },
+ {
+  "start": 409.76,
+  "duration": 3.76,
+  "text": "squawking about this. Lior Alexander"
+ },
+ {
+  "start": 411.96,
+  "duration": 3.12,
+  "text": "wrote, \"You don't write the training"
+ },
+ {
+  "start": 413.52,
+  "duration": 3.0,
+  "text": "code anymore. You write a prompt that"
+ },
+ {
+  "start": 415.08,
+  "duration": 3.4,
+  "text": "tells an AI agent how to think about"
+ },
+ {
+  "start": 416.52,
+  "duration": 3.52,
+  "text": "research. The agent edits the code,"
+ },
+ {
+  "start": 418.48,
+  "duration": 2.84,
+  "text": "trains a small model for exactly 5"
+ },
+ {
+  "start": 420.04,
+  "duration": 3.36,
+  "text": "minutes, checks the score, keeps or"
+ },
+ {
+  "start": 421.32,
+  "duration": 4.76,
+  "text": "discards the result, and loops all"
+ },
+ {
+  "start": 423.4,
+  "duration": 4.8,
+  "text": "night. No human in the loop. That fixed"
+ },
+ {
+  "start": 426.08,
+  "duration": 3.4,
+  "text": "5-minute clock is the quiet genius. No"
+ },
+ {
+  "start": 428.2,
+  "duration": 2.64,
+  "text": "matter what the agent changes, the"
+ },
+ {
+  "start": 429.48,
+  "duration": 3.24,
+  "text": "network size, the learning rate, the"
+ },
+ {
+  "start": 430.84,
+  "duration": 3.88,
+  "text": "entire architecture, every run gets"
+ },
+ {
+  "start": 432.72,
+  "duration": 3.6,
+  "text": "compared on equal footing. This turns"
+ },
+ {
+  "start": 434.72,
+  "duration": 3.32,
+  "text": "open-ended research into a game with a"
+ },
+ {
+  "start": 436.32,
+  "duration": 3.24,
+  "text": "clear score.\""
+ },
+ {
+  "start": 438.04,
+  "duration": 4.04,
+  "text": "Cosmic Labs co-founder Meg McNulty"
+ },
+ {
+  "start": 439.56,
+  "duration": 4.44,
+  "text": "writes, \"Wild shift. Turning a single"
+ },
+ {
+  "start": 442.08,
+  "duration": 3.839,
+  "text": "GPU into an autonomous experiment loop"
+ },
+ {
+  "start": 444.0,
+  "duration": 3.56,
+  "text": "changes the pace of iteration. If the"
+ },
+ {
+  "start": 445.919,
+  "duration": 3.561,
+  "text": "evaluation metric is well designed, the"
+ },
+ {
+  "start": 447.56,
+  "duration": 4.0,
+  "text": "system can explore hundreds of ideas far"
+ },
+ {
+  "start": 449.48,
+  "duration": 3.439,
+  "text": "faster than manual tuning.\""
+ },
+ {
+  "start": 451.56,
+  "duration": 3.16,
+  "text": "Craig Hewitt argued that the specific"
+ },
+ {
+  "start": 452.919,
+  "duration": 3.681,
+  "text": "context of training LLMs isn't what"
+ },
+ {
+  "start": 454.72,
+  "duration": 3.6,
+  "text": "matters. Instead, he called it the"
+ },
+ {
+  "start": 456.6,
+  "duration": 3.68,
+  "text": "cleanest example of the agent loop"
+ },
+ {
+  "start": 458.32,
+  "duration": 4.2,
+  "text": "that's about to eat everything."
+ },
+ {
+  "start": 460.28,
+  "duration": 4.28,
+  "text": "One, human writes a strategy doc. Two,"
+ },
+ {
+  "start": 462.52,
+  "duration": 3.88,
+  "text": "agent executes experiments autonomously."
+ },
+ {
+  "start": 464.56,
+  "duration": 4.28,
+  "text": "Three, clear metric decides what stays"
+ },
+ {
+  "start": 466.4,
+  "duration": 4.48,
+  "text": "and what gets tossed. Four, repeat 100 x"
+ },
+ {
+  "start": 468.84,
+  "duration": 3.32,
+  "text": "overnight. The person who figures out"
+ },
+ {
+  "start": 470.88,
+  "duration": 2.96,
+  "text": "how to apply this pattern to business"
+ },
+ {
+  "start": 472.16,
+  "duration": 3.72,
+  "text": "problems, not just ML research, is going"
+ },
+ {
+  "start": 473.84,
+  "duration": 3.8,
+  "text": "to build something massive. The code is"
+ },
+ {
+  "start": 475.88,
+  "duration": 3.76,
+  "text": "almost irrelevant. The architecture and"
+ },
+ {
+  "start": 477.64,
+  "duration": 3.72,
+  "text": "mindset is everything."
+ },
+ {
+  "start": 479.64,
+  "duration": 4.0,
+  "text": "Daniel Miessler called this automation"
+ },
+ {
+  "start": 481.36,
+  "duration": 4.04,
+  "text": "of the scientific method. And It's Me"
+ },
+ {
+  "start": 483.64,
+  "duration": 3.2,
+  "text": "Chase also noticed that this would be"
+ },
+ {
+  "start": 485.4,
+  "duration": 3.84,
+  "text": "valuable for things outside of ML"
+ },
+ {
+  "start": 486.84,
+  "duration": 4.16,
+  "text": "research as well. He writes, \"While this"
+ },
+ {
+  "start": 489.24,
+  "duration": 3.64,
+  "text": "was made for self-improving LLMs, the"
+ },
+ {
+  "start": 491.0,
+  "duration": 3.8,
+  "text": "framework could be applied to anything."
+ },
+ {
+  "start": 492.88,
+  "duration": 4.039,
+  "text": "One, AI agent reads context and previous"
+ },
+ {
+  "start": 494.8,
+  "duration": 4.32,
+  "text": "results. Two, proposes targeted code"
+ },
+ {
+  "start": 496.919,
+  "duration": 4.041,
+  "text": "edits. Three, runs a fast reproducible"
+ },
+ {
+  "start": 499.12,
+  "duration": 4.04,
+  "text": "experiment. Four, gets an objective"
+ },
+ {
+  "start": 500.96,
+  "duration": 4.52,
+  "text": "scalar score. Five, get commits only the"
+ },
+ {
+  "start": 503.16,
+  "duration": 4.12,
+  "text": "winners or reverts. Six, repeats forever"
+ },
+ {
+  "start": 505.48,
+  "duration": 3.24,
+  "text": "on a feature branch.\""
+ },
+ {
+  "start": 507.28,
+  "duration": 3.08,
+  "text": "And of course, many made the connection"
+ },
+ {
+  "start": 508.72,
+  "duration": 3.879,
+  "text": "to the Ralph Wiggum loop that was"
+ },
+ {
+  "start": 510.36,
+  "duration": 3.92,
+  "text": "popularized a couple months ago. Newser"
+ },
+ {
+  "start": 512.599,
+  "duration": 3.241,
+  "text": "on writes, \"Sounds like a hyper mode"
+ },
+ {
+  "start": 514.28,
+  "duration": 3.6,
+  "text": "Ralph Wiggum from a few months ago."
+ },
+ {
+  "start": 515.84,
+  "duration": 3.44,
+  "text": "Instead of looping until a task is done,"
+ },
+ {
+  "start": 517.88,
+  "duration": 3.56,
+  "text": "you give the agent a benchmark on what"
+ },
+ {
+  "start": 519.28,
+  "duration": 3.36,
+  "text": "to improve. Goal isn't completion, but"
+ },
+ {
+  "start": 521.44,
+  "duration": 3.32,
+  "text": "continuous improvement against a"
+ },
+ {
+  "start": 522.64,
+  "duration": 3.32,
+  "text": "measurable target.\" Co-founder Nick"
+ },
+ {
+  "start": 524.76,
+  "duration": 3.44,
+  "text": "called it the Ralph Wiggum loop for"
+ },
+ {
+  "start": 525.96,
+  "duration": 3.72,
+  "text": "science. Define what winning looks like,"
+ },
+ {
+  "start": 528.2,
+  "duration": 3.2,
+  "text": "hand over the variables, let the agent"
+ },
+ {
+  "start": 529.68,
+  "duration": 3.48,
+  "text": "find what drives it."
+ },
+ {
+  "start": 531.4,
+  "duration": 3.16,
+  "text": "Y Combinator president Garry Tan made"
+ },
+ {
+  "start": 533.16,
+  "duration": 3.92,
+  "text": "this connection as well in a blog post"
+ },
+ {
+  "start": 534.56,
+  "duration": 4.12,
+  "text": "about auto research. Garry writes, \"Auto"
+ },
+ {
+  "start": 537.08,
+  "duration": 3.64,
+  "text": "research didn't emerge from nothing. The"
+ },
+ {
+  "start": 538.68,
+  "duration": 3.84,
+  "text": "same pattern, put an AI in a loop with"
+ },
+ {
+  "start": 540.72,
+  "duration": 3.04,
+  "text": "clear success metrics, was already"
+ },
+ {
+  "start": 542.52,
+  "duration": 3.0,
+  "text": "working in software development by"
+ },
+ {
+  "start": 543.76,
+  "duration": 3.16,
+  "text": "mid-2025.\""
+ },
+ {
+  "start": 545.52,
+  "duration": 3.4,
+  "text": "Jeffrey Huntley, a developer working"
+ },
+ {
+  "start": 546.92,
+  "duration": 4.0,
+  "text": "from rural Australia, invented what he"
+ },
+ {
+  "start": 548.92,
+  "duration": 3.6,
+  "text": "calls the Ralph Wiggum technique. Feed a"
+ },
+ {
+  "start": 550.92,
+  "duration": 3.52,
+  "text": "prompt to a coding agent, whatever it"
+ },
+ {
+  "start": 552.52,
+  "duration": 3.92,
+  "text": "produces, feed back in. Loop until it"
+ },
+ {
+  "start": 554.44,
+  "duration": 3.32,
+  "text": "works. The loop is the hero, not the"
+ },
+ {
+  "start": 556.44,
+  "duration": 2.72,
+  "text": "model."
+ },
+ {
+  "start": 557.76,
+  "duration": 3.92,
+  "text": "Now, expanding on the Wiggum loop just a"
+ },
+ {
+  "start": 559.16,
+  "duration": 4.6,
+  "text": "little bit, basically what you have is a"
+ },
+ {
+  "start": 561.68,
+  "duration": 4.4,
+  "text": "script that runs an AI coding agent in a"
+ },
+ {
+  "start": 563.76,
+  "duration": 4.36,
+  "text": "loop over time. Each iteration of the"
+ },
+ {
+  "start": 566.08,
+  "duration": 3.759,
+  "text": "loop does the same thing. It feeds the"
+ },
+ {
+  "start": 568.12,
+  "duration": 3.6,
+  "text": "agent a prompt that includes a project"
+ },
+ {
+  "start": 569.839,
+  "duration": 3.481,
+  "text": "specification, tells the agent to read"
+ },
+ {
+  "start": 571.72,
+  "duration": 3.48,
+  "text": "the current state of the code base, pick"
+ },
+ {
+  "start": 573.32,
+  "duration": 3.32,
+  "text": "a task to work on, implement it, run the"
+ },
+ {
+  "start": 575.2,
+  "duration": 3.64,
+  "text": "tests, and commit it if everything"
+ },
+ {
+  "start": 576.64,
+  "duration": 4.12,
+  "text": "passes. When the agent is done with its"
+ },
+ {
+  "start": 578.84,
+  "duration": 3.84,
+  "text": "task or when it runs out of context"
+ },
+ {
+  "start": 580.76,
+  "duration": 3.96,
+  "text": "window, the loop terminates the agent"
+ },
+ {
+  "start": 582.68,
+  "duration": 4.08,
+  "text": "process and spins up a brand new one."
+ },
+ {
+  "start": 584.72,
+  "duration": 3.96,
+  "text": "Fresh context window, no memory of the"
+ },
+ {
+  "start": 586.76,
+  "duration": 3.64,
+  "text": "previous session. The new agent reads"
+ },
+ {
+  "start": 588.68,
+  "duration": 3.36,
+  "text": "the same spec, looks at the code base,"
+ },
+ {
+  "start": 590.4,
+  "duration": 3.68,
+  "text": "which now includes the previous agent's"
+ },
+ {
+  "start": 592.04,
+  "duration": 3.76,
+  "text": "commits, figures out what's been done"
+ },
+ {
+  "start": 594.08,
+  "duration": 3.96,
+  "text": "and what still needs doing, picks the"
+ },
+ {
+  "start": 595.8,
+  "duration": 3.52,
+  "text": "next task, and goes."
+ },
+ {
+  "start": 598.04,
+  "duration": 3.4,
+  "text": "Now, there are a couple things that the"
+ },
+ {
+  "start": 599.32,
+  "duration": 3.44,
+  "text": "Ralph loop was trying to solve for."
+ },
+ {
+  "start": 601.44,
+  "duration": 2.84,
+  "text": "In a traditional session, if you keep"
+ },
+ {
+  "start": 602.76,
+  "duration": 3.12,
+  "text": "going long enough, the context window is"
+ },
+ {
+  "start": 604.28,
+  "duration": 2.84,
+  "text": "going to fill up. The model starts"
+ },
+ {
+  "start": 605.88,
+  "duration": 3.52,
+  "text": "losing track of earlier parts of the"
+ },
+ {
+  "start": 607.12,
+  "duration": 3.52,
+  "text": "conversation and the response degrades."
+ },
+ {
+  "start": 609.4,
+  "duration": 2.68,
+  "text": "The Ralph loop's solution is to"
+ },
+ {
+  "start": 610.64,
+  "duration": 3.92,
+  "text": "deliberately kill the agent and start"
+ },
+ {
+  "start": 612.08,
+  "duration": 4.32,
+  "text": "fresh before that happens. Memory then"
+ },
+ {
+  "start": 614.56,
+  "duration": 3.36,
+  "text": "doesn't live in the AI context window,"
+ },
+ {
+  "start": 616.4,
+  "duration": 3.24,
+  "text": "it lives in the files and in the code"
+ },
+ {
+  "start": 617.92,
+  "duration": 3.84,
+  "text": "that's been written. The Git commit"
+ },
+ {
+  "start": 619.64,
+  "duration": 4.12,
+  "text": "history, a progress.txt file that each"
+ },
+ {
+  "start": 621.76,
+  "duration": 3.28,
+  "text": "agent appends to, and a JSON-based"
+ },
+ {
+  "start": 623.76,
+  "duration": 2.72,
+  "text": "product requirements document that"
+ },
+ {
+  "start": 625.04,
+  "duration": 3.28,
+  "text": "tracks which tasks are done and which"
+ },
+ {
+  "start": 626.48,
+  "duration": 3.68,
+  "text": "aren't. Every new agent instance"
+ },
+ {
+  "start": 628.32,
+  "duration": 3.44,
+  "text": "bootstraps its understanding from these"
+ },
+ {
+  "start": 630.16,
+  "duration": 3.6,
+  "text": "external artifacts, not from a"
+ },
+ {
+  "start": 631.76,
+  "duration": 3.84,
+  "text": "conversation history."
+ },
+ {
+  "start": 633.76,
+  "duration": 3.44,
+  "text": "Each individual agent session then might"
+ },
+ {
+  "start": 635.6,
+  "duration": 3.32,
+  "text": "not be perfect, but the loop corrects"
+ },
+ {
+  "start": 637.2,
+  "duration": 3.08,
+  "text": "for that over time because state is"
+ },
+ {
+  "start": 638.92,
+  "duration": 3.12,
+  "text": "externalized and the system is"
+ },
+ {
+  "start": 640.28,
+  "duration": 3.0,
+  "text": "self-healing."
+ },
+ {
+  "start": 642.04,
+  "duration": 2.56,
+  "text": "So, part of what Ralph was trying to"
+ },
+ {
+  "start": 643.28,
+  "duration": 3.08,
+  "text": "solve for was just the limits of the"
+ },
+ {
+  "start": 644.6,
+  "duration": 3.36,
+  "text": "context window, but the other part is"
+ },
+ {
+  "start": 646.36,
+  "duration": 2.8,
+  "text": "that people want agents that work while"
+ },
+ {
+  "start": 647.96,
+  "duration": 3.12,
+  "text": "they sleep or while they're doing other"
+ },
+ {
+  "start": 649.16,
+  "duration": 3.12,
+  "text": "things. And this is a way to solve for"
+ },
+ {
+  "start": 651.08,
+  "duration": 3.4,
+  "text": "that."
+ },
+ {
+  "start": 652.28,
+  "duration": 3.8,
+  "text": "So, with connection to Ralph loops made,"
+ },
+ {
+  "start": 654.48,
+  "duration": 4.12,
+  "text": "many people started exploring auto"
+ },
+ {
+  "start": 656.08,
+  "duration": 3.8,
+  "text": "research in other contexts. Varun Mather"
+ },
+ {
+  "start": 658.6,
+  "duration": 2.88,
+  "text": "wrote, \"I hooked this up to a"
+ },
+ {
+  "start": 659.88,
+  "duration": 3.28,
+  "text": "peer-to-peer astrophysics researcher"
+ },
+ {
+  "start": 661.48,
+  "duration": 3.12,
+  "text": "agent, which gossips and collaborates"
+ },
+ {
+  "start": 663.16,
+  "duration": 3.44,
+  "text": "with other such agents in your open"
+ },
+ {
+  "start": 664.6,
+  "duration": 4.32,
+  "text": "clause to one, learn how to train an"
+ },
+ {
+  "start": 666.6,
+  "duration": 4.16,
+  "text": "astrophysics model, two, train a new"
+ },
+ {
+  "start": 668.92,
+  "duration": 4.16,
+  "text": "astrophysics model, three, use it to"
+ },
+ {
+  "start": 670.76,
+  "duration": 4.44,
+  "text": "write papers, four, peer agents based on"
+ },
+ {
+  "start": 673.08,
+  "duration": 3.32,
+  "text": "Frontier Lab models critique it, five,"
+ },
+ {
+  "start": 675.2,
+  "duration": 3.0,
+  "text": "surface breakthroughs, and then feed"
+ },
+ {
+  "start": 676.4,
+  "duration": 3.48,
+  "text": "back in that loop.\""
+ },
+ {
+  "start": 678.2,
+  "duration": 3.88,
+  "text": "Getting a little bit more practical,"
+ },
+ {
+  "start": 679.88,
+  "duration": 3.44,
+  "text": "Vadim, the CEO of Ugola, writes, \"I"
+ },
+ {
+  "start": 682.08,
+  "duration": 3.04,
+  "text": "built a version of this for my whole"
+ },
+ {
+  "start": 683.32,
+  "duration": 3.6,
+  "text": "company. The core problem with most"
+ },
+ {
+  "start": 685.12,
+  "duration": 3.56,
+  "text": "agent setups, they output something and"
+ },
+ {
+  "start": 686.92,
+  "duration": 3.8,
+  "text": "stop. The agent writes an email, sends"
+ },
+ {
+  "start": 688.68,
+  "duration": 3.24,
+  "text": "an email, generates code, done."
+ },
+ {
+  "start": 690.72,
+  "duration": 2.36,
+  "text": "The next time it runs, it starts from"
+ },
+ {
+  "start": 691.92,
+  "duration": 2.48,
+  "text": "zero."
+ },
+ {
+  "start": 693.08,
+  "duration": 3.36,
+  "text": "No memory of what worked, no memory of"
+ },
+ {
+  "start": 694.4,
+  "duration": 4.28,
+  "text": "what failed, pure amnesia. That's not"
+ },
+ {
+  "start": 696.44,
+  "duration": 3.84,
+  "text": "automation, that's a script you babysit."
+ },
+ {
+  "start": 698.68,
+  "duration": 3.72,
+  "text": "The fix is one principle, close the"
+ },
+ {
+  "start": 700.28,
+  "duration": 3.64,
+  "text": "loop. Every agent in my setup on Open"
+ },
+ {
+  "start": 702.4,
+  "duration": 3.36,
+  "text": "Claw reads a shared brain file before"
+ },
+ {
+  "start": 703.92,
+  "duration": 4.64,
+  "text": "doing any work, then writes back to it"
+ },
+ {
+  "start": 705.76,
+  "duration": 4.8,
+  "text": "after. I call it learnings.md. It's"
+ },
+ {
+  "start": 708.56,
+  "duration": 4.32,
+  "text": "baked into every agent system prompt."
+ },
+ {
+  "start": 710.56,
+  "duration": 3.8,
+  "text": "Before starting work, read learnings.md."
+ },
+ {
+  "start": 712.88,
+  "duration": 3.76,
+  "text": "After completing work, append what you"
+ },
+ {
+  "start": 714.36,
+  "duration": 4.24,
+  "text": "learned to learnings.md. That's the"
+ },
+ {
+  "start": 716.64,
+  "duration": 3.64,
+  "text": "foundation. One file, all agents read"
+ },
+ {
+  "start": 718.6,
+  "duration": 3.6,
+  "text": "it, all agents write to it. Now they're"
+ },
+ {
+  "start": 720.28,
+  "duration": 4.4,
+  "text": "not isolated processes. They're a"
+ },
+ {
+  "start": 722.2,
+  "duration": 4.32,
+  "text": "network that accumulates knowledge."
+ },
+ {
+  "start": 724.68,
+  "duration": 3.36,
+  "text": "So basically, Vadim is describing a loop"
+ },
+ {
+  "start": 726.52,
+  "duration": 2.96,
+  "text": "for the entire agentic process of his"
+ },
+ {
+  "start": 728.04,
+  "duration": 3.44,
+  "text": "company."
+ },
+ {
+  "start": 729.48,
+  "duration": 3.32,
+  "text": "In an article on X, he writes, \"Most"
+ },
+ {
+  "start": 731.48,
+  "duration": 3.48,
+  "text": "marketing teams run around 30"
+ },
+ {
+  "start": 732.8,
+  "duration": 5.44,
+  "text": "experiments a year. The next generation"
+ },
+ {
+  "start": 734.96,
+  "duration": 4.92,
+  "text": "will run 36,500 plus easily."
+ },
+ {
+  "start": 738.24,
+  "duration": 3.96,
+  "text": "Things like new landing pages, new ad"
+ },
+ {
+  "start": 739.88,
+  "duration": 3.36,
+  "text": "creative, maybe a subject line test."
+ },
+ {
+  "start": 742.2,
+  "duration": 2.48,
+  "text": "Except, what if you applied an"
+ },
+ {
+  "start": 743.24,
+  "duration": 3.36,
+  "text": "experiment loop?"
+ },
+ {
+  "start": 744.68,
+  "duration": 3.48,
+  "text": "Eric writes, \"Modify a variable, deploy"
+ },
+ {
+  "start": 746.6,
+  "duration": 3.84,
+  "text": "it, measure one metric, keep or discard,"
+ },
+ {
+  "start": 748.16,
+  "duration": 3.72,
+  "text": "repeat forever. Cold email, ad creative,"
+ },
+ {
+  "start": 750.44,
+  "duration": 2.84,
+  "text": "landing pages, job postings, YouTube"
+ },
+ {
+  "start": 751.88,
+  "duration": 3.08,
+  "text": "thumbnails, discovery call scripts, they"
+ },
+ {
+  "start": 753.28,
+  "duration": 2.76,
+  "text": "all follow the same loop.\""
+ },
+ {
+  "start": 754.96,
+  "duration": 2.92,
+  "text": "He also gives the example of cold"
+ },
+ {
+  "start": 756.04,
+  "duration": 3.88,
+  "text": "outreach, which is their first test. The"
+ },
+ {
+  "start": 757.88,
+  "duration": 3.76,
+  "text": "setup is 15 inboxes and around 300"
+ },
+ {
+  "start": 759.92,
+  "duration": 3.88,
+  "text": "emails per day with the agent modifying"
+ },
+ {
+  "start": 761.64,
+  "duration": 4.28,
+  "text": "one variable per experiment. Sends 100"
+ },
+ {
+  "start": 763.8,
+  "duration": 3.48,
+  "text": "emails, waits 72 hours, scores positive"
+ },
+ {
+  "start": 765.92,
+  "duration": 2.6,
+  "text": "reply rate, keeps or discards, and"
+ },
+ {
+  "start": 767.28,
+  "duration": 2.8,
+  "text": "repeats."
+ },
+ {
+  "start": 768.52,
+  "duration": 2.84,
+  "text": "Roberto Nickson wrote about how the auto"
+ },
+ {
+  "start": 770.08,
+  "duration": 3.6,
+  "text": "research model could be applied to"
+ },
+ {
+  "start": 771.36,
+  "duration": 4.76,
+  "text": "advertising. One, you define success,"
+ },
+ {
+  "start": 773.68,
+  "duration": 4.32,
+  "text": "purchases, apps installs, whatever, and"
+ },
+ {
+  "start": 776.12,
+  "duration": 3.28,
+  "text": "set a budget. Two, Meta, Google,"
+ },
+ {
+  "start": 778.0,
+  "duration": 3.0,
+  "text": "TikTok's infinite content machine"
+ },
+ {
+  "start": 779.4,
+  "duration": 3.76,
+  "text": "generates thousands of ad variations,"
+ },
+ {
+  "start": 781.0,
+  "duration": 3.88,
+  "text": "copy format, imagery, et cetera. Test"
+ },
+ {
+  "start": 783.16,
+  "duration": 3.84,
+  "text": "real time against live audiences, keeps"
+ },
+ {
+  "start": 784.88,
+  "duration": 4.52,
+  "text": "what works, kills what doesn't. Four,"
+ },
+ {
+  "start": 787.0,
+  "duration": 4.6,
+  "text": "agent loop runs continuously. A campaign"
+ },
+ {
+  "start": 789.4,
+  "duration": 3.8,
+  "text": "moves from fixed asset to a living"
+ },
+ {
+  "start": 791.6,
+  "duration": 4.04,
+  "text": "organism, ever evolving towards your"
+ },
+ {
+  "start": 793.2,
+  "duration": 4.639,
+  "text": "stated goals. So, humans define goals"
+ },
+ {
+  "start": 795.64,
+  "duration": 3.68,
+  "text": "and set guardrails, essentially a system"
+ },
+ {
+  "start": 797.839,
+  "duration": 3.441,
+  "text": "prompt in this case, i.e., brand"
+ },
+ {
+  "start": 799.32,
+  "duration": 4.519,
+  "text": "guidelines, and then press go."
+ },
+ {
+  "start": 801.28,
+  "duration": 4.08,
+  "text": "Everything else is automated. Now, apply"
+ },
+ {
+  "start": 803.839,
+  "duration": 3.601,
+  "text": "this to any business function with a"
+ },
+ {
+  "start": 805.36,
+  "duration": 3.04,
+  "text": "measurable outcome and fast feedback"
+ },
+ {
+  "start": 807.44,
+  "duration": 3.04,
+  "text": "loop."
+ },
+ {
+  "start": 808.4,
+  "duration": 3.76,
+  "text": "And so this brings up the question, does"
+ },
+ {
+  "start": 810.48,
+  "duration": 3.84,
+  "text": "this type of agentic loop primitive work"
+ },
+ {
+  "start": 812.16,
+  "duration": 4.68,
+  "text": "for every context or are there some"
+ },
+ {
+  "start": 814.32,
+  "duration": 4.0,
+  "text": "specific set of characteristics? I think"
+ },
+ {
+  "start": 816.84,
+  "duration": 3.88,
+  "text": "you're going to see this loop applied to"
+ },
+ {
+  "start": 818.32,
+  "duration": 3.68,
+  "text": "a huge range of activities, but where"
+ },
+ {
+  "start": 820.72,
+  "duration": 3.2,
+  "text": "it's going to initially be most"
+ },
+ {
+  "start": 822.0,
+  "duration": 3.88,
+  "text": "successful are areas where there are"
+ },
+ {
+  "start": 823.92,
+  "duration": 3.72,
+  "text": "five things that are true."
+ },
+ {
+  "start": 825.88,
+  "duration": 3.52,
+  "text": "First, there is a score, something that"
+ },
+ {
+  "start": 827.64,
+  "duration": 3.6,
+  "text": "is scorable. In other words, that the"
+ },
+ {
+  "start": 829.4,
+  "duration": 3.96,
+  "text": "loop can tell better from worse without"
+ },
+ {
+  "start": 831.24,
+  "duration": 3.56,
+  "text": "asking a human. The more subjective"
+ },
+ {
+  "start": 833.36,
+  "duration": 2.92,
+  "text": "worse are better is the harder this is"
+ },
+ {
+  "start": 834.8,
+  "duration": 3.08,
+  "text": "going to be, although even that's not"
+ },
+ {
+  "start": 836.28,
+  "duration": 3.04,
+  "text": "impossible. You just have to build some"
+ },
+ {
+  "start": 837.88,
+  "duration": 3.6,
+  "text": "sort of objective scoring into the"
+ },
+ {
+  "start": 839.32,
+  "duration": 3.88,
+  "text": "system. The second requirement is that"
+ },
+ {
+  "start": 841.48,
+  "duration": 3.08,
+  "text": "iterations are fast and cheap."
+ },
+ {
+  "start": 843.2,
+  "duration": 3.36,
+  "text": "Basically, that bad attempts waste"
+ },
+ {
+  "start": 844.56,
+  "duration": 3.56,
+  "text": "minutes, not months. The environment"
+ },
+ {
+  "start": 846.56,
+  "duration": 3.6,
+  "text": "needs to be bounded with the agent"
+ },
+ {
+  "start": 848.12,
+  "duration": 3.8,
+  "text": "having a defined work and action space."
+ },
+ {
+  "start": 850.16,
+  "duration": 3.6,
+  "text": "The cost of a bad iteration needs to be"
+ },
+ {
+  "start": 851.92,
+  "duration": 3.76,
+  "text": "low, i.e. you're not going to try this"
+ },
+ {
+  "start": 853.76,
+  "duration": 3.96,
+  "text": "live with legal filings, and the agent"
+ },
+ {
+  "start": 855.68,
+  "duration": 3.8,
+  "text": "needs to be able to leave traces."
+ },
+ {
+  "start": 857.72,
+  "duration": 3.44,
+  "text": "So with Claude, we designed an eval loop"
+ },
+ {
+  "start": 859.48,
+  "duration": 4.28,
+  "text": "readiness map, which basically plots"
+ },
+ {
+  "start": 861.16,
+  "duration": 4.72,
+  "text": "things on an x-axis of how automatable"
+ },
+ {
+  "start": 863.76,
+  "duration": 4.6,
+  "text": "the evaluation is and a y-axis of"
+ },
+ {
+  "start": 865.88,
+  "duration": 4.44,
+  "text": "iteration speed. The top area of the map"
+ },
+ {
+  "start": 868.36,
+  "duration": 4.2,
+  "text": "then are work processes that have"
+ },
+ {
+  "start": 870.32,
+  "duration": 4.72,
+  "text": "seconds-long iteration speed with fully"
+ },
+ {
+  "start": 872.56,
+  "duration": 4.08,
+  "text": "automated evaluation possible."
+ },
+ {
+  "start": 875.04,
+  "duration": 3.64,
+  "text": "On the other end of the spectrum is"
+ },
+ {
+  "start": 876.64,
+  "duration": 4.04,
+  "text": "where evaluation is largely or entirely"
+ },
+ {
+  "start": 878.68,
+  "duration": 3.44,
+  "text": "subjective and the iteration speed is"
+ },
+ {
+  "start": 880.68,
+  "duration": 3.4,
+  "text": "months."
+ },
+ {
+  "start": 882.12,
+  "duration": 3.719,
+  "text": "So what are some examples?"
+ },
+ {
+  "start": 884.08,
+  "duration": 3.88,
+  "text": "Up in the top quadrant where iteration"
+ },
+ {
+  "start": 885.839,
+  "duration": 4.041,
+  "text": "speed is seconds and evaluation can be"
+ },
+ {
+  "start": 887.96,
+  "duration": 3.879,
+  "text": "fully automated is things like code"
+ },
+ {
+  "start": 889.88,
+  "duration": 4.04,
+  "text": "generation. Some of the other ones that"
+ },
+ {
+  "start": 891.839,
+  "duration": 3.841,
+  "text": "Claude came up with were game AI and NPC"
+ },
+ {
+  "start": 893.92,
+  "duration": 3.64,
+  "text": "behavior, ad bidding optimization,"
+ },
+ {
+  "start": 895.68,
+  "duration": 3.28,
+  "text": "algorithmic trading, and then of course"
+ },
+ {
+  "start": 897.56,
+  "duration": 3.32,
+  "text": "we've got LLM training research"
+ },
+ {
+  "start": 898.96,
+  "duration": 3.44,
+  "text": "according to Andre Karpathy."
+ },
+ {
+  "start": 900.88,
+  "duration": 2.92,
+  "text": "Moving down where you start to have"
+ },
+ {
+  "start": 902.4,
+  "duration": 2.64,
+  "text": "iteration speed that's a little bit"
+ },
+ {
+  "start": 903.8,
+  "duration": 3.0,
+  "text": "slower and automation that's a little"
+ },
+ {
+  "start": 905.04,
+  "duration": 4.28,
+  "text": "bit more partial, you have things like"
+ },
+ {
+  "start": 906.8,
+  "duration": 4.6,
+  "text": "content moderation, AB testing copy,"
+ },
+ {
+  "start": 909.32,
+  "duration": 3.76,
+  "text": "supply chain routing, and then so on and"
+ },
+ {
+  "start": 911.4,
+  "duration": 3.32,
+  "text": "so forth. It goes down all the way to"
+ },
+ {
+  "start": 913.08,
+  "duration": 3.68,
+  "text": "the other end of the spectrum, something"
+ },
+ {
+  "start": 914.72,
+  "duration": 3.88,
+  "text": "like political negotiation is subjective"
+ },
+ {
+  "start": 916.76,
+  "duration": 4.28,
+  "text": "and takes months. Therapy and"
+ },
+ {
+  "start": 918.6,
+  "duration": 4.16,
+  "text": "counseling, highly subjective with very"
+ },
+ {
+  "start": 921.04,
+  "duration": 3.08,
+  "text": "low iteration speed."
+ },
+ {
+  "start": 922.76,
+  "duration": 3.32,
+  "text": "And whether each of these individual"
+ },
+ {
+  "start": 924.12,
+  "duration": 3.68,
+  "text": "inputs is right or wrong, and I don't"
+ },
+ {
+  "start": 926.08,
+  "duration": 4.24,
+  "text": "agree with where Claude put all of them,"
+ },
+ {
+  "start": 927.8,
+  "duration": 5.64,
+  "text": "the point is this. It is my very strong"
+ },
+ {
+  "start": 930.32,
+  "duration": 5.36,
+  "text": "instinct that every single work process"
+ },
+ {
+  "start": 933.44,
+  "duration": 4.68,
+  "text": "that has the ability to have success"
+ },
+ {
+  "start": 935.68,
+  "duration": 3.76,
+  "text": "measured and scored in an objective way"
+ },
+ {
+  "start": 938.12,
+  "duration": 3.32,
+  "text": "is going to have people experimenting"
+ },
+ {
+  "start": 939.44,
+  "duration": 3.92,
+  "text": "with agentic loops around it."
+ },
+ {
+  "start": 941.44,
+  "duration": 3.76,
+  "text": "Now, I think what makes this a primitive"
+ },
+ {
+  "start": 943.36,
+  "duration": 2.72,
+  "text": "is that this is not just a new job,"
+ },
+ {
+  "start": 945.2,
+  "duration": 2.48,
+  "text": "although I'm sure there will be"
+ },
+ {
+  "start": 946.08,
+  "duration": 2.88,
+  "text": "specialists. This is something that"
+ },
+ {
+  "start": 947.68,
+  "duration": 4.16,
+  "text": "people are going to do within their"
+ },
+ {
+  "start": 948.96,
+  "duration": 5.28,
+  "text": "existing roles, in the same way that or"
+ },
+ {
+  "start": 951.84,
+  "duration": 3.92,
+  "text": "slide decks or email or spreadsheets are"
+ },
+ {
+  "start": 954.24,
+  "duration": 3.36,
+  "text": "primitives that people use and cut"
+ },
+ {
+  "start": 955.76,
+  "duration": 2.96,
+  "text": "across every function."
+ },
+ {
+  "start": 957.6,
+  "duration": 3.08,
+  "text": "What we're going to have in the future"
+ },
+ {
+  "start": 958.72,
+  "duration": 3.84,
+  "text": "is things like this. A product manager"
+ },
+ {
+  "start": 960.68,
+  "duration": 3.32,
+  "text": "writing a PRD, kicking off a Ralph loop"
+ },
+ {
+  "start": 962.56,
+  "duration": 3.2,
+  "text": "before dinner, and reviewing the PR in"
+ },
+ {
+  "start": 964.0,
+  "duration": 3.88,
+  "text": "the morning. A sales rep writing"
+ },
+ {
+  "start": 965.76,
+  "duration": 3.56,
+  "text": "targeting criteria and tone guidelines,"
+ },
+ {
+  "start": 967.88,
+  "duration": 3.4,
+  "text": "pointing a loop at 200 leads overnight,"
+ },
+ {
+  "start": 969.32,
+  "duration": 3.84,
+  "text": "and reviewing the top 30. A financial"
+ },
+ {
+  "start": 971.28,
+  "duration": 3.56,
+  "text": "analyst defining constraints, looping"
+ },
+ {
+  "start": 973.16,
+  "duration": 3.52,
+  "text": "through portfolio allocation back tests,"
+ },
+ {
+  "start": 974.84,
+  "duration": 3.32,
+  "text": "and reviewing the optimized output. A"
+ },
+ {
+  "start": 976.68,
+  "duration": 3.08,
+  "text": "recruiter writing a scoring rubric,"
+ },
+ {
+  "start": 978.16,
+  "duration": 3.8,
+  "text": "looping through 500 resumes, and"
+ },
+ {
+  "start": 979.76,
+  "duration": 4.16,
+  "text": "reviewing flagged edge cases. A QA"
+ },
+ {
+  "start": 981.96,
+  "duration": 3.28,
+  "text": "engineer writing acceptance criteria,"
+ },
+ {
+  "start": 983.92,
+  "duration": 3.32,
+  "text": "and then looping through test generation"
+ },
+ {
+  "start": 985.24,
+  "duration": 3.2,
+  "text": "and execution. A lawyer writing a risk"
+ },
+ {
+  "start": 987.24,
+  "duration": 3.48,
+  "text": "flag checklist and looping through a"
+ },
+ {
+  "start": 988.44,
+  "duration": 3.6,
+  "text": "stack of vendor contracts."
+ },
+ {
+  "start": 990.72,
+  "duration": 3.56,
+  "text": "Now, interestingly, there is already"
+ },
+ {
+  "start": 992.04,
+  "duration": 3.28,
+  "text": "very clearly a lot of work to productize"
+ },
+ {
+  "start": 994.28,
+  "duration": 3.04,
+  "text": "this."
+ },
+ {
+  "start": 995.32,
+  "duration": 3.76,
+  "text": "Also, on Saturday, March 7th, Claude"
+ },
+ {
+  "start": 997.32,
+  "duration": 4.68,
+  "text": "code creator Boris Cherny wrote,"
+ },
+ {
+  "start": 999.08,
+  "duration": 4.52,
+  "text": "\"Released today, /loop. /loop is a"
+ },
+ {
+  "start": 1002.0,
+  "duration": 4.64,
+  "text": "powerful new way to schedule recurring"
+ },
+ {
+  "start": 1003.6,
+  "duration": 6.16,
+  "text": "tasks for up to 3 days at a time. E.g.,"
+ },
+ {
+  "start": 1006.64,
+  "duration": 4.68,
+  "text": "/loop babysit all my PRs, auto-fix build"
+ },
+ {
+  "start": 1009.76,
+  "duration": 4.28,
+  "text": "issues, and when comments come in, use a"
+ },
+ {
+  "start": 1011.32,
+  "duration": 4.4,
+  "text": "work tree agent to fix them. E.g., /loop"
+ },
+ {
+  "start": 1014.04,
+  "duration": 3.04,
+  "text": "every morning using the Slack MCP to"
+ },
+ {
+  "start": 1015.72,
+  "duration": 2.84,
+  "text": "give me a summary of top posts I was"
+ },
+ {
+  "start": 1017.08,
+  "duration": 3.6,
+  "text": "tagged in.\""
+ },
+ {
+  "start": 1018.56,
+  "duration": 3.76,
+  "text": "Think about the heartbeat in Open Claw."
+ },
+ {
+  "start": 1020.68,
+  "duration": 3.8,
+  "text": "The heartbeat is effectively the core"
+ },
+ {
+  "start": 1022.32,
+  "duration": 4.36,
+  "text": "loop of any Open Claw agent, where by"
+ },
+ {
+  "start": 1024.48,
+  "duration": 4.24,
+  "text": "default every 30 minutes, the heartbeat"
+ },
+ {
+  "start": 1026.68,
+  "duration": 4.24,
+  "text": "fires, creating a moment for the agent"
+ },
+ {
+  "start": 1028.72,
+  "duration": 4.479,
+  "text": "to wake up, ask where things are, and"
+ },
+ {
+  "start": 1030.92,
+  "duration": 3.76,
+  "text": "continue on with its core mission."
+ },
+ {
+  "start": 1033.199,
+  "duration": 3.201,
+  "text": "And yet, even with all this change that"
+ },
+ {
+  "start": 1034.68,
+  "duration": 2.8,
+  "text": "I'm describing, this is almost certainly"
+ },
+ {
+  "start": 1036.4,
+  "duration": 3.16,
+  "text": "not the end state of the Loops"
+ },
+ {
+  "start": 1037.48,
+  "duration": 4.12,
+  "text": "primitive. Andre himself wrote about"
+ },
+ {
+  "start": 1039.56,
+  "duration": 4.12,
+  "text": "this on Sunday. The next step for auto"
+ },
+ {
+  "start": 1041.6,
+  "duration": 4.0,
+  "text": "research, he says, is that it has to be"
+ },
+ {
+  "start": 1043.68,
+  "duration": 3.84,
+  "text": "asynchronously massive collaborative for"
+ },
+ {
+  "start": 1045.6,
+  "duration": 3.84,
+  "text": "agents. The goal is not to emulate a"
+ },
+ {
+  "start": 1047.52,
+  "duration": 4.28,
+  "text": "single PhD student, it's to emulate a"
+ },
+ {
+  "start": 1049.44,
+  "duration": 3.92,
+  "text": "research community of them. Current code"
+ },
+ {
+  "start": 1051.8,
+  "duration": 2.92,
+  "text": "synchronously grows a single thread of"
+ },
+ {
+  "start": 1053.36,
+  "duration": 3.4,
+  "text": "commits in a particular research"
+ },
+ {
+  "start": 1054.72,
+  "duration": 3.8,
+  "text": "direction, but the original repo is more"
+ },
+ {
+  "start": 1056.76,
+  "duration": 3.52,
+  "text": "of a seed from which could sprout"
+ },
+ {
+  "start": 1058.52,
+  "duration": 3.12,
+  "text": "commits contributed by agents on all"
+ },
+ {
+  "start": 1060.28,
+  "duration": 3.36,
+  "text": "kinds of different research directions"
+ },
+ {
+  "start": 1061.64,
+  "duration": 3.76,
+  "text": "or for different compute platforms."
+ },
+ {
+  "start": 1063.64,
+  "duration": 3.56,
+  "text": "GitHub is almost but not really suited"
+ },
+ {
+  "start": 1065.4,
+  "duration": 3.36,
+  "text": "for this. It has a softly built an"
+ },
+ {
+  "start": 1067.2,
+  "duration": 3.36,
+  "text": "assumption of one master branch which"
+ },
+ {
+  "start": 1068.76,
+  "duration": 4.0,
+  "text": "temporarily forks off into PRs just to"
+ },
+ {
+  "start": 1070.56,
+  "duration": 3.64,
+  "text": "merge back a bit later. I'm not actually"
+ },
+ {
+  "start": 1072.76,
+  "duration": 2.84,
+  "text": "sure what this collaborative version"
+ },
+ {
+  "start": 1074.2,
+  "duration": 2.76,
+  "text": "should look like, but it's a big idea"
+ },
+ {
+  "start": 1075.6,
+  "duration": 3.48,
+  "text": "that is more general than just the auto"
+ },
+ {
+  "start": 1076.96,
+  "duration": 3.4,
+  "text": "research repo specifically. Agents can"
+ },
+ {
+  "start": 1079.08,
+  "duration": 2.64,
+  "text": "in principle easily juggle and"
+ },
+ {
+  "start": 1080.36,
+  "duration": 3.2,
+  "text": "collaborate on thousands of commits"
+ },
+ {
+  "start": 1081.72,
+  "duration": 3.48,
+  "text": "across arbitrary branch structures."
+ },
+ {
+  "start": 1083.56,
+  "duration": 3.32,
+  "text": "Existing abstractions will accumulate"
+ },
+ {
+  "start": 1085.2,
+  "duration": 4.36,
+  "text": "stress as intelligence, attention, and"
+ },
+ {
+  "start": 1086.88,
+  "duration": 4.44,
+  "text": "tenacity cease to be bottlenecks."
+ },
+ {
+  "start": 1089.56,
+  "duration": 2.92,
+  "text": "Other people picked up this theme. Like"
+ },
+ {
+  "start": 1091.32,
+  "duration": 2.72,
+  "text": "Heron writes,"
+ },
+ {
+  "start": 1092.48,
+  "duration": 4.16,
+  "text": "\"The missing layer is memory across the"
+ },
+ {
+  "start": 1094.04,
+  "duration": 4.04,
+  "text": "swarm. Right now, each agents run in an"
+ },
+ {
+  "start": 1096.64,
+  "duration": 3.04,
+  "text": "isolated thread with no awareness of"
+ },
+ {
+  "start": 1098.08,
+  "duration": 3.88,
+  "text": "what other agents tried, what worked,"
+ },
+ {
+  "start": 1099.68,
+  "duration": 3.68,
+  "text": "what conflicted. Git tracks code changes"
+ },
+ {
+  "start": 1101.96,
+  "duration": 3.28,
+  "text": "but not decisions, reasoning, or failed"
+ },
+ {
+  "start": 1103.36,
+  "duration": 3.44,
+  "text": "experiments. You need a semantic memory"
+ },
+ {
+  "start": 1105.24,
+  "duration": 4.04,
+  "text": "layer underneath the branches so Agent"
+ },
+ {
+  "start": 1106.8,
+  "duration": 4.76,
+  "text": "47 knows Agent 12 already tried that"
+ },
+ {
+  "start": 1109.28,
+  "duration": 4.56,
+  "text": "direction and it didn't converge.\""
+ },
+ {
+  "start": 1111.56,
+  "duration": 3.68,
+  "text": "Kathy F writes, \"The real unlock is when"
+ },
+ {
+  "start": 1113.84,
+  "duration": 3.08,
+  "text": "these agent researchers can share"
+ },
+ {
+  "start": 1115.24,
+  "duration": 3.16,
+  "text": "negative results efficiently. In"
+ },
+ {
+  "start": 1116.92,
+  "duration": 3.16,
+  "text": "academia, failed experiments go to the"
+ },
+ {
+  "start": 1118.4,
+  "duration": 3.24,
+  "text": "graveyard. In a collaborative agent"
+ },
+ {
+  "start": 1120.08,
+  "duration": 2.76,
+  "text": "network, every failure is a data point"
+ },
+ {
+  "start": 1121.64,
+  "duration": 2.44,
+  "text": "that prunes the search tree for"
+ },
+ {
+  "start": 1122.84,
+  "duration": 3.36,
+  "text": "everyone.\""
+ },
+ {
+  "start": 1124.08,
+  "duration": 4.08,
+  "text": "Eugene Gin goes farther saying,"
+ },
+ {
+  "start": 1126.2,
+  "duration": 3.96,
+  "text": "\"AGI is billions of AI agents doing"
+ },
+ {
+  "start": 1128.16,
+  "duration": 3.0,
+  "text": "autonomous research together. Figuring"
+ },
+ {
+  "start": 1130.16,
+  "duration": 2.96,
+  "text": "out the right abstraction for"
+ },
+ {
+  "start": 1131.16,
+  "duration": 4.28,
+  "text": "multi-agent collaboration is the key."
+ },
+ {
+  "start": 1133.12,
+  "duration": 3.68,
+  "text": "GitHub is not good for agents.\""
+ },
+ {
+  "start": 1135.44,
+  "duration": 3.0,
+  "text": "Dan Romero wonders if it's going to look"
+ },
+ {
+  "start": 1136.8,
+  "duration": 3.76,
+  "text": "closer to a social network than to a new"
+ },
+ {
+  "start": 1138.44,
+  "duration": 4.24,
+  "text": "version of GitHub. Maltbook, he writes,"
+ },
+ {
+  "start": 1140.56,
+  "duration": 3.28,
+  "text": "was too anthroskeuomorphic, but an"
+ },
+ {
+  "start": 1142.68,
+  "duration": 2.8,
+  "text": "agent-native social network to"
+ },
+ {
+  "start": 1143.84,
+  "duration": 3.24,
+  "text": "collaborate on auto research is"
+ },
+ {
+  "start": 1145.48,
+  "duration": 3.6,
+  "text": "interesting."
+ },
+ {
+  "start": 1147.08,
+  "duration": 3.52,
+  "text": "As we round the corner here, already we"
+ },
+ {
+  "start": 1149.08,
+  "duration": 3.72,
+  "text": "were living in a world where our"
+ },
+ {
+  "start": 1150.6,
+  "duration": 3.44,
+  "text": "comparative advantage as humans had been"
+ },
+ {
+  "start": 1152.8,
+  "duration": 2.64,
+  "text": "retreating to a higher level of"
+ },
+ {
+  "start": 1154.04,
+  "duration": 3.4,
+  "text": "abstraction."
+ },
+ {
+  "start": 1155.44,
+  "duration": 4.44,
+  "text": "The new high-value skills around agent"
+ },
+ {
+  "start": 1157.44,
+  "duration": 4.52,
+  "text": "loops are things like arena design, i.e."
+ },
+ {
+  "start": 1159.88,
+  "duration": 3.56,
+  "text": "writing the program.md file, and"
+ },
+ {
+  "start": 1161.96,
+  "duration": 3.84,
+  "text": "creating the context in which the agent"
+ },
+ {
+  "start": 1163.44,
+  "duration": 4.36,
+  "text": "is operating, evaluator construction or"
+ },
+ {
+  "start": 1165.8,
+  "duration": 3.24,
+  "text": "building the score function, i.e. being"
+ },
+ {
+  "start": 1167.8,
+  "duration": 2.52,
+  "text": "able to tell the agent what good"
+ },
+ {
+  "start": 1169.04,
+  "duration": 2.92,
+  "text": "actually is and building a scoring"
+ },
+ {
+  "start": 1170.32,
+  "duration": 3.44,
+  "text": "system for it, and then there's other"
+ },
+ {
+  "start": 1171.96,
+  "duration": 3.56,
+  "text": "skills like loop operation, problem"
+ },
+ {
+  "start": 1173.76,
+  "duration": 3.2,
+  "text": "decomposition, but the point is that all"
+ },
+ {
+  "start": 1175.52,
+  "duration": 2.84,
+  "text": "of these things operate on a much higher"
+ },
+ {
+  "start": 1176.96,
+  "duration": 3.08,
+  "text": "level of abstraction than most of our"
+ },
+ {
+  "start": 1178.36,
+  "duration": 3.32,
+  "text": "work tasks today."
+ },
+ {
+  "start": 1180.04,
+  "duration": 4.52,
+  "text": "One interesting experiment to run this"
+ },
+ {
+  "start": 1181.68,
+  "duration": 4.76,
+  "text": "week is to as you're working, find the"
+ },
+ {
+  "start": 1184.56,
+  "duration": 4.6,
+  "text": "things that you repeatedly do or a part"
+ },
+ {
+  "start": 1186.44,
+  "duration": 4.8,
+  "text": "of doing where you know right now what"
+ },
+ {
+  "start": 1189.16,
+  "duration": 4.0,
+  "text": "better looks like. Ask if you could"
+ },
+ {
+  "start": 1191.24,
+  "duration": 4.16,
+  "text": "encapsulate that judgment clearly enough"
+ },
+ {
+  "start": 1193.16,
+  "duration": 4.56,
+  "text": "for an agent to use it as a score."
+ },
+ {
+  "start": 1195.4,
+  "duration": 4.64,
+  "text": "If you can, you might be able to point a"
+ },
+ {
+  "start": 1197.72,
+  "duration": 4.16,
+  "text": "loop at that part of your job to work on"
+ },
+ {
+  "start": 1200.04,
+  "duration": 3.52,
+  "text": "your behalf overnight, and that likely"
+ },
+ {
+  "start": 1201.88,
+  "duration": 3.08,
+  "text": "gives you a preview of the next version"
+ },
+ {
+  "start": 1203.56,
+  "duration": 3.24,
+  "text": "of your job."
+ },
+ {
+  "start": 1204.96,
+  "duration": 3.36,
+  "text": "One of the great challenges right now,"
+ },
+ {
+  "start": 1206.8,
+  "duration": 3.96,
+  "text": "as someone who thinks about how to help"
+ },
+ {
+  "start": 1208.32,
+  "duration": 4.84,
+  "text": "individuals and companies adopt AI, is"
+ },
+ {
+  "start": 1210.76,
+  "duration": 3.64,
+  "text": "that every week the capability overhang"
+ },
+ {
+  "start": 1213.16,
+  "duration": 3.44,
+  "text": "gets bigger."
+ },
+ {
+  "start": 1214.4,
+  "duration": 4.12,
+  "text": "In other words, the gap between meeting"
+ },
+ {
+  "start": 1216.6,
+  "duration": 3.2,
+  "text": "companies and people where they are and"
+ },
+ {
+  "start": 1218.52,
+  "duration": 3.32,
+  "text": "what I think they should be actually"
+ },
+ {
+  "start": 1219.8,
+  "duration": 3.28,
+  "text": "doing gets wider."
+ },
+ {
+  "start": 1221.84,
+  "duration": 3.0,
+  "text": "At some point it's so wide that it"
+ },
+ {
+  "start": 1223.08,
+  "duration": 3.48,
+  "text": "almost becomes malfeasance to meet them"
+ },
+ {
+  "start": 1224.84,
+  "duration": 3.04,
+  "text": "where they are. And yet what other"
+ },
+ {
+  "start": 1226.56,
+  "duration": 3.08,
+  "text": "choice is there?"
+ },
+ {
+  "start": 1227.88,
+  "duration": 3.44,
+  "text": "The only other choice that I've found is"
+ },
+ {
+  "start": 1229.64,
+  "duration": 3.28,
+  "text": "to try to provide as many resources as I"
+ },
+ {
+  "start": 1231.32,
+  "duration": 2.84,
+  "text": "can for the people who are living at the"
+ },
+ {
+  "start": 1232.92,
+  "duration": 3.24,
+  "text": "other side of that gap and who are"
+ },
+ {
+  "start": 1234.16,
+  "duration": 3.72,
+  "text": "really pushing the boundaries. And if"
+ },
+ {
+  "start": 1236.16,
+  "duration": 3.48,
+  "text": "you think that you had an advantage when"
+ },
+ {
+  "start": 1237.88,
+  "duration": 4.28,
+  "text": "you were just vibe coding with lovable"
+ },
+ {
+  "start": 1239.64,
+  "duration": 4.0,
+  "text": "or cloud code, let me tell you, if you"
+ },
+ {
+  "start": 1242.16,
+  "duration": 3.24,
+  "text": "start to figure out how to implement"
+ },
+ {
+  "start": 1243.64,
+  "duration": 3.88,
+  "text": "agentic loops in your work, you are"
+ },
+ {
+  "start": 1245.4,
+  "duration": 4.48,
+  "text": "going to literally run circles, looping"
+ },
+ {
+  "start": 1247.52,
+  "duration": 4.68,
+  "text": "circles, around everyone else."
+ },
+ {
+  "start": 1249.88,
+  "duration": 4.24,
+  "text": "My spidey sense says that what auto"
+ },
+ {
+  "start": 1252.2,
+  "duration": 3.32,
+  "text": "research represents is bigger than just"
+ },
+ {
+  "start": 1254.12,
+  "duration": 3.2,
+  "text": "a weekend project for one of AI's"
+ },
+ {
+  "start": 1255.52,
+  "duration": 2.92,
+  "text": "favorite people, and I'm excited to dig"
+ },
+ {
+  "start": 1257.32,
+  "duration": 2.2,
+  "text": "in further."
+ },
+ {
+  "start": 1258.44,
+  "duration": 2.8,
+  "text": "For now, that is going to do it for"
+ },
+ {
+  "start": 1259.52,
+  "duration": 3.44,
+  "text": "today's AI daily brief. Thanks for"
+ },
+ {
+  "start": 1261.24,
+  "duration": 5.28,
+  "text": "listening or watching as always, and"
+ },
+ {
+  "start": 1262.96,
+  "duration": 3.56,
+  "text": "until next time, peace."
+ }
+]

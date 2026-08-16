@@ -1,0 +1,2352 @@
+[
+ {
+  "start": 0.4,
+  "duration": 3.36,
+  "text": "Today, we have some agent skills best"
+ },
+ {
+  "start": 1.72,
+  "duration": 3.64,
+  "text": "practices from the people who created"
+ },
+ {
+  "start": 3.76,
+  "duration": 3.28,
+  "text": "agent skills."
+ },
+ {
+  "start": 5.36,
+  "duration": 3.76,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 7.04,
+  "duration": 5.12,
+  "text": "Today, we are doing a bit more of a"
+ },
+ {
+  "start": 9.12,
+  "duration": 5.16,
+  "text": "practical hands-on style episode. It was"
+ },
+ {
+  "start": 12.16,
+  "duration": 4.6,
+  "text": "inspired by this post from Tariq over at"
+ },
+ {
+  "start": 14.28,
+  "duration": 5.16,
+  "text": "the Claude Code team at Anthropic called"
+ },
+ {
+  "start": 16.76,
+  "duration": 5.88,
+  "text": "Lessons from Building Claude Code, How"
+ },
+ {
+  "start": 19.44,
+  "duration": 5.0,
+  "text": "We Use Skills. And the context for this"
+ },
+ {
+  "start": 22.64,
+  "duration": 4.12,
+  "text": "is that if you take away one theme from"
+ },
+ {
+  "start": 24.44,
+  "duration": 4.76,
+  "text": "pretty much all of 2026's episodes so"
+ },
+ {
+  "start": 26.76,
+  "duration": 5.679,
+  "text": "far, it's that we are moving into a much"
+ },
+ {
+  "start": 29.2,
+  "duration": 5.8,
+  "text": "more agentic era of AI. Skills are a key"
+ },
+ {
+  "start": 32.439,
+  "duration": 4.281,
+  "text": "component of how to get value out of"
+ },
+ {
+  "start": 35.0,
+  "duration": 3.56,
+  "text": "agents. And so, today we're going to"
+ },
+ {
+  "start": 36.72,
+  "duration": 4.0,
+  "text": "first give a little bit of a background"
+ },
+ {
+  "start": 38.56,
+  "duration": 3.96,
+  "text": "of what skills are, talk about some of"
+ },
+ {
+  "start": 40.72,
+  "duration": 3.52,
+  "text": "these lessons and best practices from"
+ },
+ {
+  "start": 42.52,
+  "duration": 3.04,
+  "text": "the team at Claude Code, and then share"
+ },
+ {
+  "start": 44.24,
+  "duration": 3.48,
+  "text": "a few more resources where you can take"
+ },
+ {
+  "start": 45.56,
+  "duration": 3.2,
+  "text": "the conversation farther."
+ },
+ {
+  "start": 47.72,
+  "duration": 3.16,
+  "text": "First of all, let's talk about what"
+ },
+ {
+  "start": 48.76,
+  "duration": 4.24,
+  "text": "skills are. The official GitHub repo"
+ },
+ {
+  "start": 50.88,
+  "duration": 3.64,
+  "text": "calls them a simple open format for"
+ },
+ {
+  "start": 53.0,
+  "duration": 3.4,
+  "text": "giving agents new capabilities and"
+ },
+ {
+  "start": 54.52,
+  "duration": 3.68,
+  "text": "expertise. Skills are folders of"
+ },
+ {
+  "start": 56.4,
+  "duration": 3.32,
+  "text": "instructions, scripts, and resources"
+ },
+ {
+  "start": 58.2,
+  "duration": 3.96,
+  "text": "that agents can discover and use to"
+ },
+ {
+  "start": 59.72,
+  "duration": 4.92,
+  "text": "perform better at specific tasks. Write"
+ },
+ {
+  "start": 62.16,
+  "duration": 4.88,
+  "text": "once, use everywhere. The background is"
+ },
+ {
+  "start": 64.64,
+  "duration": 5.0,
+  "text": "this. As AI coding agents were getting"
+ },
+ {
+  "start": 67.04,
+  "duration": 4.16,
+  "text": "more and more capable throughout 2025,"
+ },
+ {
+  "start": 69.64,
+  "duration": 3.12,
+  "text": "people started to hit a very similar"
+ },
+ {
+  "start": 71.2,
+  "duration": 3.08,
+  "text": "wall, which was basically that system"
+ },
+ {
+  "start": 72.76,
+  "duration": 3.36,
+  "text": "prompts kept ballooning. Every new"
+ },
+ {
+  "start": 74.28,
+  "duration": 3.68,
+  "text": "capability meant more instructions, more"
+ },
+ {
+  "start": 76.12,
+  "duration": 4.04,
+  "text": "examples, and more edge cases crammed"
+ },
+ {
+  "start": 77.96,
+  "duration": 3.72,
+  "text": "into a single context window. Of course,"
+ },
+ {
+  "start": 80.16,
+  "duration": 2.48,
+  "text": "the more you try to jam into a context"
+ },
+ {
+  "start": 81.68,
+  "duration": 2.68,
+  "text": "window, the more you're going to have"
+ },
+ {
+  "start": 82.64,
+  "duration": 3.32,
+  "text": "performance degradation. Having to"
+ },
+ {
+  "start": 84.36,
+  "duration": 3.28,
+  "text": "juggle all of that knowledge all at once"
+ },
+ {
+  "start": 85.96,
+  "duration": 3.92,
+  "text": "was crowding out space for actual"
+ },
+ {
+  "start": 87.64,
+  "duration": 3.64,
+  "text": "execution on the task at hand. That led"
+ },
+ {
+  "start": 89.88,
+  "duration": 3.6,
+  "text": "to agents getting slower, more"
+ },
+ {
+  "start": 91.28,
+  "duration": 4.6,
+  "text": "expensive, and less reliable. Now, the"
+ },
+ {
+  "start": 93.48,
+  "duration": 4.84,
+  "text": "insight that ended up driving skills was"
+ },
+ {
+  "start": 95.88,
+  "duration": 4.56,
+  "text": "that agents don't need access to all of"
+ },
+ {
+  "start": 98.32,
+  "duration": 3.8,
+  "text": "their knowledge all the time. What they"
+ },
+ {
+  "start": 100.44,
+  "duration": 3.76,
+  "text": "need is to be able to load the right"
+ },
+ {
+  "start": 102.12,
+  "duration": 4.08,
+  "text": "knowledge at the right moment."
+ },
+ {
+  "start": 104.2,
+  "duration": 3.96,
+  "text": "On October 16th, Anthropic officially"
+ },
+ {
+  "start": 106.2,
+  "duration": 3.48,
+  "text": "announced skills in a blog post. The"
+ },
+ {
+  "start": 108.16,
+  "duration": 3.6,
+  "text": "post was called Equipping Agents for the"
+ },
+ {
+  "start": 109.68,
+  "duration": 3.96,
+  "text": "Real World with Agent Skills, and framed"
+ },
+ {
+  "start": 111.76,
+  "duration": 3.44,
+  "text": "the issue as this. Claude is powerful,"
+ },
+ {
+  "start": 113.64,
+  "duration": 3.6,
+  "text": "but real work requires procedural"
+ },
+ {
+  "start": 115.2,
+  "duration": 3.96,
+  "text": "knowledge and organizational context."
+ },
+ {
+  "start": 117.24,
+  "duration": 3.2,
+  "text": "They write, As model capabilities"
+ },
+ {
+  "start": 119.16,
+  "duration": 3.4,
+  "text": "improve, we can now build"
+ },
+ {
+  "start": 120.44,
+  "duration": 3.96,
+  "text": "general-purpose agents with full-fledged"
+ },
+ {
+  "start": 122.56,
+  "duration": 3.76,
+  "text": "computing environments. Claude Code, for"
+ },
+ {
+  "start": 124.4,
+  "duration": 3.44,
+  "text": "example, can accomplish complex tasks"
+ },
+ {
+  "start": 126.32,
+  "duration": 3.68,
+  "text": "across domains using local code"
+ },
+ {
+  "start": 127.84,
+  "duration": 4.0,
+  "text": "execution and file systems. But as these"
+ },
+ {
+  "start": 130.0,
+  "duration": 3.76,
+  "text": "agents become more powerful, we need"
+ },
+ {
+  "start": 131.84,
+  "duration": 3.44,
+  "text": "more composable, scalable, and portable"
+ },
+ {
+  "start": 133.76,
+  "duration": 3.8,
+  "text": "ways to equip them with domain-specific"
+ },
+ {
+  "start": 135.28,
+  "duration": 3.84,
+  "text": "expertise. This led us to create agent"
+ },
+ {
+  "start": 137.56,
+  "duration": 3.08,
+  "text": "skills, organized folders of"
+ },
+ {
+  "start": 139.12,
+  "duration": 2.8,
+  "text": "instructions, scripts, and resources"
+ },
+ {
+  "start": 140.64,
+  "duration": 2.52,
+  "text": "that agents can discover and load"
+ },
+ {
+  "start": 141.92,
+  "duration": 3.56,
+  "text": "dynamically to perform better at"
+ },
+ {
+  "start": 143.16,
+  "duration": 4.88,
+  "text": "specific tasks. So, what a skill"
+ },
+ {
+  "start": 145.48,
+  "duration": 4.92,
+  "text": "actually is is a directory anchored by a"
+ },
+ {
+  "start": 148.04,
+  "duration": 4.68,
+  "text": "markdown file. Every skill directory is"
+ },
+ {
+  "start": 150.4,
+  "duration": 3.68,
+  "text": "going to have a skill.md file. That's"
+ },
+ {
+  "start": 152.72,
+  "duration": 3.2,
+  "text": "going to have some required metadata"
+ },
+ {
+  "start": 154.08,
+  "duration": 4.4,
+  "text": "like a name and a short description."
+ },
+ {
+  "start": 155.92,
+  "duration": 3.96,
+  "text": "When agents have access to skills,"
+ },
+ {
+  "start": 158.48,
+  "duration": 3.68,
+  "text": "rather than having to have all of the"
+ },
+ {
+  "start": 159.88,
+  "duration": 4.32,
+  "text": "context all at once, they simply load up"
+ },
+ {
+  "start": 162.16,
+  "duration": 4.08,
+  "text": "the name and the description. The idea"
+ },
+ {
+  "start": 164.2,
+  "duration": 3.84,
+  "text": "of progressive disclosure in skills is"
+ },
+ {
+  "start": 166.24,
+  "duration": 3.52,
+  "text": "to give the agent just the information"
+ },
+ {
+  "start": 168.04,
+  "duration": 3.28,
+  "text": "that it needs in order to make good"
+ },
+ {
+  "start": 169.76,
+  "duration": 3.8,
+  "text": "decisions without overloading its"
+ },
+ {
+  "start": 171.32,
+  "duration": 4.6,
+  "text": "context. So, basically, the first layer"
+ },
+ {
+  "start": 173.56,
+  "duration": 4.0,
+  "text": "of detail is just the short description,"
+ },
+ {
+  "start": 175.92,
+  "duration": 3.6,
+  "text": "which means that when the agent is doing"
+ },
+ {
+  "start": 177.56,
+  "duration": 4.0,
+  "text": "a task, it has those descriptions in"
+ },
+ {
+  "start": 179.52,
+  "duration": 3.48,
+  "text": "mind and can go call up that skill if it"
+ },
+ {
+  "start": 181.56,
+  "duration": 2.92,
+  "text": "seems like it would be useful. The"
+ },
+ {
+  "start": 183.0,
+  "duration": 3.28,
+  "text": "second level of detail in this"
+ },
+ {
+  "start": 184.48,
+  "duration": 4.52,
+  "text": "progressive disclosure regime is the"
+ },
+ {
+  "start": 186.28,
+  "duration": 4.16,
+  "text": "actual body of the skill.md file. If the"
+ },
+ {
+  "start": 189.0,
+  "duration": 3.28,
+  "text": "agent thinks that that skill is going to"
+ },
+ {
+  "start": 190.44,
+  "duration": 3.36,
+  "text": "be useful, it'll move from just reading"
+ },
+ {
+  "start": 192.28,
+  "duration": 3.4,
+  "text": "the description to reading the contents"
+ },
+ {
+  "start": 193.8,
+  "duration": 3.76,
+  "text": "of that skill.md."
+ },
+ {
+  "start": 195.68,
+  "duration": 4.12,
+  "text": "Now, the skill.md body is still very"
+ },
+ {
+  "start": 197.56,
+  "duration": 4.36,
+  "text": "small. While the metadata is tiny at"
+ },
+ {
+  "start": 199.8,
+  "duration": 4.52,
+  "text": "roughly 100 tokens per skill, even the"
+ },
+ {
+  "start": 201.92,
+  "duration": 4.08,
+  "text": "full skill.md body is recommended to"
+ },
+ {
+  "start": 204.32,
+  "duration": 3.64,
+  "text": "stay pretty small."
+ },
+ {
+  "start": 206.0,
+  "duration": 4.48,
+  "text": "This leads to the third level of detail"
+ },
+ {
+  "start": 207.96,
+  "duration": 4.6,
+  "text": "in progressive disclosure. Basically, as"
+ },
+ {
+  "start": 210.48,
+  "duration": 3.76,
+  "text": "skills grow in complexity, they also"
+ },
+ {
+  "start": 212.56,
+  "duration": 4.24,
+  "text": "might have context that's relevant only"
+ },
+ {
+  "start": 214.24,
+  "duration": 3.92,
+  "text": "in specific scenarios. And in fact, this"
+ },
+ {
+  "start": 216.8,
+  "duration": 3.32,
+  "text": "is a really important part that gets"
+ },
+ {
+  "start": 218.16,
+  "duration": 3.52,
+  "text": "missed. In the article from Anthropic's"
+ },
+ {
+  "start": 220.12,
+  "duration": 2.68,
+  "text": "Tariq that we're going to come back to,"
+ },
+ {
+  "start": 221.68,
+  "duration": 2.68,
+  "text": "he writes,"
+ },
+ {
+  "start": 222.8,
+  "duration": 3.24,
+  "text": "A common misconception we hear about"
+ },
+ {
+  "start": 224.36,
+  "duration": 3.64,
+  "text": "skills is that they are just markdown"
+ },
+ {
+  "start": 226.04,
+  "duration": 3.72,
+  "text": "files. But the most interesting part of"
+ },
+ {
+  "start": 228.0,
+  "duration": 3.68,
+  "text": "skills is that they're not just text"
+ },
+ {
+  "start": 229.76,
+  "duration": 4.24,
+  "text": "files. They're folders that can include"
+ },
+ {
+  "start": 231.68,
+  "duration": 3.52,
+  "text": "scripts, assets, data, etc. that the"
+ },
+ {
+  "start": 234.0,
+  "duration": 3.6,
+  "text": "agent can discover, explore, and"
+ },
+ {
+  "start": 235.2,
+  "duration": 4.4,
+  "text": "manipulate. Basically, you can bundle"
+ },
+ {
+  "start": 237.6,
+  "duration": 4.32,
+  "text": "additional context in the form of other"
+ },
+ {
+  "start": 239.6,
+  "duration": 4.76,
+  "text": "markdown files or references or scripts"
+ },
+ {
+  "start": 241.92,
+  "duration": 4.32,
+  "text": "that get linked out to from the skill.md"
+ },
+ {
+  "start": 244.36,
+  "duration": 3.6,
+  "text": "file. The analogy they say is a"
+ },
+ {
+  "start": 246.24,
+  "duration": 3.28,
+  "text": "well-organized manual that starts with a"
+ },
+ {
+  "start": 247.96,
+  "duration": 2.88,
+  "text": "table of contents, then specific"
+ },
+ {
+  "start": 249.52,
+  "duration": 2.6,
+  "text": "chapters, and finally a detailed"
+ },
+ {
+  "start": 250.84,
+  "duration": 2.92,
+  "text": "appendix."
+ },
+ {
+  "start": 252.12,
+  "duration": 3.28,
+  "text": "Almost immediately, skills began being"
+ },
+ {
+  "start": 253.76,
+  "duration": 4.24,
+  "text": "adopted outside of just the Anthropic"
+ },
+ {
+  "start": 255.4,
+  "duration": 4.8,
+  "text": "ecosystem. OpenAI added skill support to"
+ },
+ {
+  "start": 258.0,
+  "duration": 3.88,
+  "text": "both ChatGPT and the GitHub Copilot"
+ },
+ {
+  "start": 260.2,
+  "duration": 3.24,
+  "text": "family of coding agents all adopted the"
+ },
+ {
+  "start": 261.88,
+  "duration": 3.92,
+  "text": "standard, and other ecosystems and"
+ },
+ {
+  "start": 263.44,
+  "duration": 4.28,
+  "text": "harnesses have jumped on board as well."
+ },
+ {
+  "start": 265.8,
+  "duration": 4.0,
+  "text": "The launch of OpenClaude really took the"
+ },
+ {
+  "start": 267.72,
+  "duration": 3.8,
+  "text": "skills conversation to the next level."
+ },
+ {
+  "start": 269.8,
+  "duration": 3.52,
+  "text": "As people started en masse building all"
+ },
+ {
+  "start": 271.52,
+  "duration": 3.8,
+  "text": "of these different agents, a lot of them"
+ },
+ {
+  "start": 273.32,
+  "duration": 3.44,
+  "text": "had common skills needs. Like, for"
+ },
+ {
+  "start": 275.32,
+  "duration": 3.56,
+  "text": "example, understanding how to use"
+ },
+ {
+  "start": 276.76,
+  "duration": 3.48,
+  "text": "specific tools, how to interact with"
+ },
+ {
+  "start": 278.88,
+  "duration": 3.2,
+  "text": "certain types of file formats like"
+ },
+ {
+  "start": 280.24,
+  "duration": 3.28,
+  "text": "documents and PDFs, or how to take"
+ },
+ {
+  "start": 282.08,
+  "duration": 3.72,
+  "text": "specific actions like transcribing"
+ },
+ {
+  "start": 283.52,
+  "duration": 3.68,
+  "text": "audio. A site called ClaudeHub quickly"
+ },
+ {
+  "start": 285.8,
+  "duration": 4.12,
+  "text": "launched that now has something like"
+ },
+ {
+  "start": 287.2,
+  "duration": 4.48,
+  "text": "28,000 skills. Other people have their"
+ },
+ {
+  "start": 289.92,
+  "duration": 4.08,
+  "text": "own collections focused on particular"
+ },
+ {
+  "start": 291.68,
+  "duration": 4.56,
+  "text": "use cases or areas of interest."
+ },
+ {
+  "start": 294.0,
+  "duration": 4.48,
+  "text": "And yet, what Anthropic found when they"
+ },
+ {
+  "start": 296.24,
+  "duration": 4.4,
+  "text": "actually sat back and looked was that as"
+ },
+ {
+  "start": 298.48,
+  "duration": 4.44,
+  "text": "many skills as there were available,"
+ },
+ {
+  "start": 300.64,
+  "duration": 4.96,
+  "text": "many if not most of them could fit into"
+ },
+ {
+  "start": 302.92,
+  "duration": 4.48,
+  "text": "one of nine categories."
+ },
+ {
+  "start": 305.6,
+  "duration": 3.92,
+  "text": "Library and API reference, product"
+ },
+ {
+  "start": 307.4,
+  "duration": 3.96,
+  "text": "verification, data and analysis,"
+ },
+ {
+  "start": 309.52,
+  "duration": 4.04,
+  "text": "business automation, scaffolding and"
+ },
+ {
+  "start": 311.36,
+  "duration": 4.52,
+  "text": "templates, code quality and review,"
+ },
+ {
+  "start": 313.56,
+  "duration": 4.24,
+  "text": "CI/CD and deployment, incident runbooks,"
+ },
+ {
+  "start": 315.88,
+  "duration": 3.72,
+  "text": "and infrastructure ops."
+ },
+ {
+  "start": 317.8,
+  "duration": 3.04,
+  "text": "So, that's what led them to this post."
+ },
+ {
+  "start": 319.6,
+  "duration": 3.24,
+  "text": "Let's talk first about some of the"
+ },
+ {
+  "start": 320.84,
+  "duration": 3.44,
+  "text": "categories in this taxonomy, and then"
+ },
+ {
+  "start": 322.84,
+  "duration": 3.24,
+  "text": "some of the more general best practices"
+ },
+ {
+  "start": 324.28,
+  "duration": 2.84,
+  "text": "that Anthropic shared."
+ },
+ {
+  "start": 326.08,
+  "duration": 2.72,
+  "text": "I'm not going to go through all nine"
+ },
+ {
+  "start": 327.12,
+  "duration": 2.68,
+  "text": "categories, but let's talk about a"
+ },
+ {
+  "start": 328.8,
+  "duration": 2.56,
+  "text": "couple."
+ },
+ {
+  "start": 329.8,
+  "duration": 3.48,
+  "text": "One key category they found was data"
+ },
+ {
+  "start": 331.36,
+  "duration": 3.56,
+  "text": "fetching and analysis, skills that, for"
+ },
+ {
+  "start": 333.28,
+  "duration": 2.8,
+  "text": "example, connect to your data. These"
+ },
+ {
+  "start": 334.92,
+  "duration": 2.48,
+  "text": "skills, they write, might include"
+ },
+ {
+  "start": 336.08,
+  "duration": 3.44,
+  "text": "libraries to fetch your data with"
+ },
+ {
+  "start": 337.4,
+  "duration": 3.92,
+  "text": "credentials, specific dashboard IDs,"
+ },
+ {
+  "start": 339.52,
+  "duration": 3.8,
+  "text": "etc., as well as instructions on common"
+ },
+ {
+  "start": 341.32,
+  "duration": 3.2,
+  "text": "workflows or ways to get data. Another"
+ },
+ {
+  "start": 343.32,
+  "duration": 2.68,
+  "text": "category, which I can see being"
+ },
+ {
+  "start": 344.52,
+  "duration": 3.4,
+  "text": "important to listeners of this show, is"
+ },
+ {
+  "start": 346.0,
+  "duration": 3.12,
+  "text": "business process and team automation. In"
+ },
+ {
+  "start": 347.92,
+  "duration": 3.32,
+  "text": "other words, skills that automate"
+ },
+ {
+  "start": 349.12,
+  "duration": 3.48,
+  "text": "repetitive workflows into one command."
+ },
+ {
+  "start": 351.24,
+  "duration": 3.08,
+  "text": "They write, These skills are usually"
+ },
+ {
+  "start": 352.6,
+  "duration": 3.48,
+  "text": "fairly simple instructions, but might"
+ },
+ {
+  "start": 354.32,
+  "duration": 4.08,
+  "text": "have more complicated dependencies on"
+ },
+ {
+  "start": 356.08,
+  "duration": 4.8,
+  "text": "other skills or MCPs. An example might"
+ },
+ {
+  "start": 358.4,
+  "duration": 4.04,
+  "text": "be a weekly recap skill where merge PRs"
+ },
+ {
+  "start": 360.88,
+  "duration": 3.72,
+  "text": "plus closed tickets plus deploys come"
+ },
+ {
+  "start": 362.44,
+  "duration": 3.76,
+  "text": "together in a formatted recap post."
+ },
+ {
+  "start": 364.6,
+  "duration": 3.12,
+  "text": "Another category in their key taxonomy"
+ },
+ {
+  "start": 366.2,
+  "duration": 2.56,
+  "text": "of skills, which relates to some"
+ },
+ {
+  "start": 367.72,
+  "duration": 2.6,
+  "text": "conversations we've been having"
+ },
+ {
+  "start": 368.76,
+  "duration": 3.28,
+  "text": "recently, is about code quality and"
+ },
+ {
+  "start": 370.32,
+  "duration": 3.64,
+  "text": "review. Now, the conversation that we've"
+ },
+ {
+  "start": 372.04,
+  "duration": 3.68,
+  "text": "been sharing here is one about what"
+ },
+ {
+  "start": 373.96,
+  "duration": 3.24,
+  "text": "happens when coding agent sprawl gets"
+ },
+ {
+  "start": 375.72,
+  "duration": 3.12,
+  "text": "sufficient that it just becomes"
+ },
+ {
+  "start": 377.2,
+  "duration": 3.2,
+  "text": "impossible for humans to review all the"
+ },
+ {
+  "start": 378.84,
+  "duration": 3.28,
+  "text": "code. There are some who are arguing"
+ },
+ {
+  "start": 380.4,
+  "duration": 3.16,
+  "text": "that we're already far past that point,"
+ },
+ {
+  "start": 382.12,
+  "duration": 3.44,
+  "text": "while others cling on to the idea that"
+ },
+ {
+  "start": 383.56,
+  "duration": 4.32,
+  "text": "humans need to have the final look. My"
+ },
+ {
+  "start": 385.56,
+  "duration": 3.88,
+  "text": "very strong instinct is that even if it"
+ },
+ {
+  "start": 387.88,
+  "duration": 2.84,
+  "text": "would be better if all code that was"
+ },
+ {
+  "start": 389.44,
+  "duration": 2.84,
+  "text": "released as products and services"
+ },
+ {
+  "start": 390.72,
+  "duration": 2.64,
+  "text": "actually had human review, I don't think"
+ },
+ {
+  "start": 392.28,
+  "duration": 3.36,
+  "text": "that there's any chance that that"
+ },
+ {
+  "start": 393.36,
+  "duration": 3.68,
+  "text": "paradigm gets out of 2026. I think we're"
+ },
+ {
+  "start": 395.64,
+  "duration": 3.24,
+  "text": "going to have to solve the problem of"
+ },
+ {
+  "start": 397.04,
+  "duration": 3.04,
+  "text": "code review in new ways, which I'll be"
+ },
+ {
+  "start": 398.88,
+  "duration": 2.96,
+  "text": "clear is a problem that I am not"
+ },
+ {
+  "start": 400.08,
+  "duration": 2.92,
+  "text": "qualified to solve, but I just think"
+ },
+ {
+  "start": 401.84,
+  "duration": 2.96,
+  "text": "that we're going to be producing such an"
+ },
+ {
+  "start": 403.0,
+  "duration": 2.92,
+  "text": "incredibly high volume of code that at"
+ },
+ {
+  "start": 404.8,
+  "duration": 2.72,
+  "text": "some point we'll give up the ghost on"
+ },
+ {
+  "start": 405.92,
+  "duration": 3.08,
+  "text": "the idea of being able to review it all."
+ },
+ {
+  "start": 407.52,
+  "duration": 3.4,
+  "text": "That makes code quality and review"
+ },
+ {
+  "start": 409.0,
+  "duration": 4.04,
+  "text": "skills seem all the more potentially"
+ },
+ {
+  "start": 410.92,
+  "duration": 3.88,
+  "text": "important. This Anthropic describes as"
+ },
+ {
+  "start": 413.04,
+  "duration": 3.68,
+  "text": "skills that enforce code quality inside"
+ },
+ {
+  "start": 414.8,
+  "duration": 4.36,
+  "text": "of your org and help review code. Some"
+ },
+ {
+  "start": 416.72,
+  "duration": 4.12,
+  "text": "of the examples are adversarial review,"
+ },
+ {
+  "start": 419.16,
+  "duration": 3.16,
+  "text": "which would spawn a fresh eye sub-agent"
+ },
+ {
+  "start": 420.84,
+  "duration": 2.84,
+  "text": "to critique, implement fixes, and"
+ },
+ {
+  "start": 422.32,
+  "duration": 3.72,
+  "text": "iterate until findings degrade into"
+ },
+ {
+  "start": 423.68,
+  "duration": 4.52,
+  "text": "nitpicks, or a code style skill that"
+ },
+ {
+  "start": 426.04,
+  "duration": 4.6,
+  "text": "enforces code styling, especially styles"
+ },
+ {
+  "start": 428.2,
+  "duration": 3.72,
+  "text": "that Claude does not do well by default."
+ },
+ {
+  "start": 430.64,
+  "duration": 3.04,
+  "text": "Interestingly, and I think related to"
+ },
+ {
+  "start": 431.92,
+  "duration": 4.0,
+  "text": "that, Tariq argues that one of the"
+ },
+ {
+  "start": 433.68,
+  "duration": 4.16,
+  "text": "highest ROI categories are verification"
+ },
+ {
+  "start": 435.92,
+  "duration": 3.72,
+  "text": "skills. They describe this as skills"
+ },
+ {
+  "start": 437.84,
+  "duration": 3.52,
+  "text": "that describe how to test or verify that"
+ },
+ {
+  "start": 439.64,
+  "duration": 3.56,
+  "text": "your code is working. Verification"
+ },
+ {
+  "start": 441.36,
+  "duration": 3.76,
+  "text": "skills are extremely useful for ensuring"
+ },
+ {
+  "start": 443.2,
+  "duration": 3.4,
+  "text": "Claude's output is correct. It can be"
+ },
+ {
+  "start": 445.12,
+  "duration": 3.08,
+  "text": "worth having an engineer spend a week"
+ },
+ {
+  "start": 446.6,
+  "duration": 3.36,
+  "text": "just making your verification skills"
+ },
+ {
+  "start": 448.2,
+  "duration": 3.12,
+  "text": "excellent. Consider techniques like"
+ },
+ {
+  "start": 449.96,
+  "duration": 2.88,
+  "text": "having Claude record a video of its"
+ },
+ {
+  "start": 451.32,
+  "duration": 3.44,
+  "text": "output so you can see exactly what is"
+ },
+ {
+  "start": 452.84,
+  "duration": 4.28,
+  "text": "tested, or enforcing programmatic"
+ },
+ {
+  "start": 454.76,
+  "duration": 3.6,
+  "text": "assertions on state at each step."
+ },
+ {
+  "start": 457.12,
+  "duration": 2.68,
+  "text": "So, there are more categories in the"
+ },
+ {
+  "start": 458.36,
+  "duration": 3.08,
+  "text": "taxonomy, but that gives you a feel for"
+ },
+ {
+  "start": 459.8,
+  "duration": 3.6,
+  "text": "what Anthropic is seeing in terms of"
+ },
+ {
+  "start": 461.44,
+  "duration": 3.44,
+  "text": "their most valuable skills."
+ },
+ {
+  "start": 463.4,
+  "duration": 3.6,
+  "text": "Now, admittedly, this is from the Claude"
+ },
+ {
+  "start": 464.88,
+  "duration": 3.96,
+  "text": "Code team, so it's going to index highly"
+ },
+ {
+  "start": 467.0,
+  "duration": 3.04,
+  "text": "technical. Whereas, if you had an agent"
+ },
+ {
+  "start": 468.84,
+  "duration": 3.04,
+  "text": "builder who is mostly focused on"
+ },
+ {
+  "start": 470.04,
+  "duration": 3.56,
+  "text": "business processes, you'd probably see"
+ },
+ {
+  "start": 471.88,
+  "duration": 3.68,
+  "text": "more gradations of this category for"
+ },
+ {
+  "start": 473.6,
+  "duration": 4.36,
+  "text": "business process and team automation."
+ },
+ {
+  "start": 475.56,
+  "duration": 3.88,
+  "text": "Maybe even more useful then are Tariq"
+ },
+ {
+  "start": 477.96,
+  "duration": 3.32,
+  "text": "and Claude Code's tips for actually"
+ },
+ {
+  "start": 479.44,
+  "duration": 3.64,
+  "text": "making skills."
+ },
+ {
+  "start": 481.28,
+  "duration": 3.72,
+  "text": "One thing that a number of folks missed"
+ },
+ {
+  "start": 483.08,
+  "duration": 4.08,
+  "text": "is that Anthropic actually just updated"
+ },
+ {
+  "start": 485.0,
+  "duration": 3.92,
+  "text": "their skill creator tool. Skill creator,"
+ },
+ {
+  "start": 487.16,
+  "duration": 3.44,
+  "text": "they write, helps you write evals, run"
+ },
+ {
+  "start": 488.92,
+  "duration": 3.32,
+  "text": "benchmarks, and keep your skills working"
+ },
+ {
+  "start": 490.6,
+  "duration": 3.56,
+  "text": "as models evolve. And it was meant to"
+ },
+ {
+  "start": 492.24,
+  "duration": 3.4,
+  "text": "answer a specific challenge. Since"
+ },
+ {
+  "start": 494.16,
+  "duration": 3.24,
+  "text": "launching agent skills last October,"
+ },
+ {
+  "start": 495.64,
+  "duration": 3.56,
+  "text": "they wrote, We've noticed that most"
+ },
+ {
+  "start": 497.4,
+  "duration": 3.6,
+  "text": "authors are subject matter experts, not"
+ },
+ {
+  "start": 499.2,
+  "duration": 3.12,
+  "text": "engineers. They know their workflows,"
+ },
+ {
+  "start": 501.0,
+  "duration": 3.16,
+  "text": "but don't have the tools to tell whether"
+ },
+ {
+  "start": 502.32,
+  "duration": 3.28,
+  "text": "a skill still works with a new model,"
+ },
+ {
+  "start": 504.16,
+  "duration": 3.12,
+  "text": "triggers when it should, or if it"
+ },
+ {
+  "start": 505.6,
+  "duration": 2.96,
+  "text": "actually improved after an edit."
+ },
+ {
+  "start": 507.28,
+  "duration": 2.6,
+  "text": "Ultimately, they write, the goal is"
+ },
+ {
+  "start": 508.56,
+  "duration": 3.04,
+  "text": "bringing some of the rigor of software"
+ },
+ {
+  "start": 509.88,
+  "duration": 3.36,
+  "text": "development, like testing, benchmarking,"
+ },
+ {
+  "start": 511.6,
+  "duration": 3.28,
+  "text": "and iterative improvement, to skill"
+ },
+ {
+  "start": 513.24,
+  "duration": 2.96,
+  "text": "authoring without requiring anyone to"
+ },
+ {
+  "start": 514.88,
+  "duration": 2.76,
+  "text": "write code."
+ },
+ {
+  "start": 516.2,
+  "duration": 2.8,
+  "text": "Solopreneur and educator Ali Lemon"
+ },
+ {
+  "start": 517.64,
+  "duration": 3.32,
+  "text": "actually called this out as a fairly big"
+ },
+ {
+  "start": 519.0,
+  "duration": 3.44,
+  "text": "deal. He wrote, Anthropic shipped three"
+ },
+ {
+  "start": 520.96,
+  "duration": 3.44,
+  "text": "upgrades to skills that fix most"
+ },
+ {
+  "start": 522.44,
+  "duration": 3.6,
+  "text": "problems almost everyone runs into."
+ },
+ {
+  "start": 524.4,
+  "duration": 2.76,
+  "text": "Problem one, you had no way to measure"
+ },
+ {
+  "start": 526.04,
+  "duration": 3.08,
+  "text": "how well your skills were actually"
+ },
+ {
+  "start": 527.16,
+  "duration": 3.4,
+  "text": "performing. Now, you can run evals that"
+ },
+ {
+  "start": 529.12,
+  "duration": 3.16,
+  "text": "test your skill against multiple prompts"
+ },
+ {
+  "start": 530.56,
+  "duration": 3.2,
+  "text": "and get a score. Problem two, your"
+ },
+ {
+  "start": 532.28,
+  "duration": 3.12,
+  "text": "skills break when models update and you"
+ },
+ {
+  "start": 533.76,
+  "duration": 3.28,
+  "text": "don't notice. With the new skill"
+ },
+ {
+  "start": 535.4,
+  "duration": 3.4,
+  "text": "creator, you can run AB tests comparing"
+ },
+ {
+  "start": 537.04,
+  "duration": 3.76,
+  "text": "your skill and raw Claude. Problem"
+ },
+ {
+  "start": 538.8,
+  "duration": 3.2,
+  "text": "number three, he writes, Claude doesn't"
+ },
+ {
+  "start": 540.8,
+  "duration": 2.48,
+  "text": "even use your skill half the time"
+ },
+ {
+  "start": 542.0,
+  "duration": 3.12,
+  "text": "because the description is too vague or"
+ },
+ {
+  "start": 543.28,
+  "duration": 3.28,
+  "text": "too specific. Now, the skill creator"
+ },
+ {
+  "start": 545.12,
+  "duration": 3.04,
+  "text": "rewrites your descriptions automatically"
+ },
+ {
+  "start": 546.56,
+  "duration": 2.96,
+  "text": "so they trigger at the right time."
+ },
+ {
+  "start": 548.16,
+  "duration": 2.4,
+  "text": "Anthropic, he points out, ran this on"
+ },
+ {
+  "start": 549.52,
+  "duration": 3.32,
+  "text": "their own skills and saw better"
+ },
+ {
+  "start": 550.56,
+  "duration": 3.6,
+  "text": "triggering five out of six times."
+ },
+ {
+  "start": 552.84,
+  "duration": 3.24,
+  "text": "Now, one other note from the skill"
+ },
+ {
+  "start": 554.16,
+  "duration": 3.8,
+  "text": "creator that I thought was valuable is"
+ },
+ {
+  "start": 556.08,
+  "duration": 3.88,
+  "text": "the framework for organizing skills into"
+ },
+ {
+  "start": 557.96,
+  "duration": 4.48,
+  "text": "two categories. They call those two"
+ },
+ {
+  "start": 559.96,
+  "duration": 4.16,
+  "text": "categories, one, capability uplift,"
+ },
+ {
+  "start": 562.44,
+  "duration": 3.4,
+  "text": "skills that help Claude do something the"
+ },
+ {
+  "start": 564.12,
+  "duration": 3.36,
+  "text": "base model either can't do or can't do"
+ },
+ {
+  "start": 565.84,
+  "duration": 3.52,
+  "text": "consistently, i.e. certain types of"
+ },
+ {
+  "start": 567.48,
+  "duration": 3.36,
+  "text": "document creation. And then the second"
+ },
+ {
+  "start": 569.36,
+  "duration": 3.12,
+  "text": "category of skills are called encoded"
+ },
+ {
+  "start": 570.84,
+  "duration": 3.36,
+  "text": "preference skills that document"
+ },
+ {
+  "start": 572.48,
+  "duration": 3.6,
+  "text": "workflows where Claude can already do"
+ },
+ {
+  "start": 574.2,
+  "duration": 4.0,
+  "text": "each piece, but the skill sequences them"
+ },
+ {
+  "start": 576.08,
+  "duration": 3.4,
+  "text": "according to your team's processes. The"
+ },
+ {
+  "start": 578.2,
+  "duration": 2.52,
+  "text": "distinction matters, they say, because"
+ },
+ {
+  "start": 579.48,
+  "duration": 2.76,
+  "text": "these two types of skills may need"
+ },
+ {
+  "start": 580.72,
+  "duration": 3.44,
+  "text": "testing for different reasons."
+ },
+ {
+  "start": 582.24,
+  "duration": 3.84,
+  "text": "Capability uplift skills may become less"
+ },
+ {
+  "start": 584.16,
+  "duration": 3.16,
+  "text": "necessary as models improve, while"
+ },
+ {
+  "start": 586.08,
+  "duration": 3.16,
+  "text": "encoded preference skills are more"
+ },
+ {
+  "start": 587.32,
+  "duration": 4.56,
+  "text": "durable, but only as valuable as their"
+ },
+ {
+  "start": 589.24,
+  "duration": 5.08,
+  "text": "fidelity to your actual workflow."
+ },
+ {
+  "start": 591.88,
+  "duration": 4.12,
+  "text": "So, back to Tariq's post. Here are some"
+ },
+ {
+  "start": 594.32,
+  "duration": 2.68,
+  "text": "of their top tips for making skills"
+ },
+ {
+  "start": 596.0,
+  "duration": 3.04,
+  "text": "better."
+ },
+ {
+  "start": 597.0,
+  "duration": 3.48,
+  "text": "The first is don't state the obvious."
+ },
+ {
+  "start": 599.04,
+  "duration": 3.24,
+  "text": "They write, \"If you're publishing a"
+ },
+ {
+  "start": 600.48,
+  "duration": 3.64,
+  "text": "skill that is primarily about knowledge,"
+ },
+ {
+  "start": 602.28,
+  "duration": 2.92,
+  "text": "try to focus on information that pushes"
+ },
+ {
+  "start": 604.12,
+  "duration": 2.96,
+  "text": "Claude out of its normal way of"
+ },
+ {
+  "start": 605.2,
+  "duration": 3.56,
+  "text": "thinking. The front-end design skill is"
+ },
+ {
+  "start": 607.08,
+  "duration": 3.28,
+  "text": "a great example. It was built by one of"
+ },
+ {
+  "start": 608.76,
+  "duration": 2.96,
+  "text": "the engineers at Anthropic by iterating"
+ },
+ {
+  "start": 610.36,
+  "duration": 3.28,
+  "text": "with customers on improving Claude's"
+ },
+ {
+  "start": 611.72,
+  "duration": 3.16,
+  "text": "design taste, avoiding classic patterns"
+ },
+ {
+  "start": 613.64,
+  "duration": 3.48,
+  "text": "like the Inter font and purple"
+ },
+ {
+  "start": 614.88,
+  "duration": 4.6,
+  "text": "gradients.\" The second tip is to build a"
+ },
+ {
+  "start": 617.12,
+  "duration": 4.2,
+  "text": "gotcha section. In fact, Tariq argues"
+ },
+ {
+  "start": 619.48,
+  "duration": 4.12,
+  "text": "that the highest signal content in any"
+ },
+ {
+  "start": 621.32,
+  "duration": 3.8,
+  "text": "skill is the gotcha section. These"
+ },
+ {
+  "start": 623.6,
+  "duration": 3.4,
+  "text": "sections articulate common failure"
+ },
+ {
+  "start": 625.12,
+  "duration": 3.48,
+  "text": "points that Claude runs into when using"
+ },
+ {
+  "start": 627.0,
+  "duration": 3.04,
+  "text": "your skill. And ideally, he says you"
+ },
+ {
+  "start": 628.6,
+  "duration": 3.96,
+  "text": "update your skill over time to capture"
+ },
+ {
+  "start": 630.04,
+  "duration": 3.84,
+  "text": "these gotchas. A third tip goes back to"
+ },
+ {
+  "start": 632.56,
+  "duration": 3.68,
+  "text": "that idea that people still think of"
+ },
+ {
+  "start": 633.88,
+  "duration": 4.2,
+  "text": "skills as just a single markdown file"
+ },
+ {
+  "start": 636.24,
+  "duration": 3.32,
+  "text": "rather than an entire folder. And Tariq"
+ },
+ {
+  "start": 638.08,
+  "duration": 4.04,
+  "text": "says you should think of the entire file"
+ },
+ {
+  "start": 639.56,
+  "duration": 4.16,
+  "text": "system as a form of context engineering."
+ },
+ {
+  "start": 642.12,
+  "duration": 3.8,
+  "text": "They also suggest you should avoid"
+ },
+ {
+  "start": 643.72,
+  "duration": 3.48,
+  "text": "railroading Claude. I give Claude the"
+ },
+ {
+  "start": 645.92,
+  "duration": 3.56,
+  "text": "information it needs, but give it the"
+ },
+ {
+  "start": 647.2,
+  "duration": 4.2,
+  "text": "flexibility to adapt to the situation."
+ },
+ {
+  "start": 649.48,
+  "duration": 3.68,
+  "text": "As Tariq puts it in the conclusion, this"
+ },
+ {
+  "start": 651.4,
+  "duration": 3.64,
+  "text": "should be thought of more as a grab bag"
+ },
+ {
+  "start": 653.16,
+  "duration": 3.48,
+  "text": "of useful tips than as some sort of"
+ },
+ {
+  "start": 655.04,
+  "duration": 3.28,
+  "text": "definitive guide. That makes sense"
+ },
+ {
+  "start": 656.64,
+  "duration": 3.12,
+  "text": "because right now, everyone is just"
+ },
+ {
+  "start": 658.32,
+  "duration": 3.04,
+  "text": "racing to figure out how to actually"
+ },
+ {
+  "start": 659.76,
+  "duration": 3.48,
+  "text": "engage with the new capabilities of"
+ },
+ {
+  "start": 661.36,
+  "duration": 3.12,
+  "text": "agents. And so every bit of advice at"
+ },
+ {
+  "start": 663.24,
+  "duration": 3.599,
+  "text": "this point is going to be at least a"
+ },
+ {
+  "start": 664.48,
+  "duration": 4.28,
+  "text": "little bit a work in progress. Now, one"
+ },
+ {
+  "start": 666.839,
+  "duration": 3.401,
+  "text": "of the interesting things then is how"
+ },
+ {
+  "start": 668.76,
+  "duration": 4.32,
+  "text": "all of these work in progress lessons"
+ },
+ {
+  "start": 670.24,
+  "duration": 4.2,
+  "text": "apply to different categories of users."
+ },
+ {
+  "start": 673.08,
+  "duration": 3.16,
+  "text": "The most obvious is probably the"
+ },
+ {
+  "start": 674.44,
+  "duration": 3.48,
+  "text": "advanced agent builders who are building"
+ },
+ {
+  "start": 676.24,
+  "duration": 3.8,
+  "text": "and maintaining complex multi-agent"
+ },
+ {
+  "start": 677.92,
+  "duration": 3.919,
+  "text": "teams. For them, obviously, skills are"
+ },
+ {
+  "start": 680.04,
+  "duration": 3.76,
+  "text": "essentially a modular architecture for"
+ },
+ {
+  "start": 681.839,
+  "duration": 3.321,
+  "text": "agent capabilities. And frankly, this is"
+ },
+ {
+  "start": 683.8,
+  "duration": 3.32,
+  "text": "kind of the audience that Tariq most"
+ },
+ {
+  "start": 685.16,
+  "duration": 4.12,
+  "text": "wrote this post for. A level down from"
+ },
+ {
+  "start": 687.12,
+  "duration": 3.92,
+  "text": "that are the individual power users,"
+ },
+ {
+  "start": 689.28,
+  "duration": 4.08,
+  "text": "which I guess is a lot of you fall into"
+ },
+ {
+  "start": 691.04,
+  "duration": 4.36,
+  "text": "this category. This is not a person"
+ },
+ {
+  "start": 693.36,
+  "duration": 3.84,
+  "text": "who's building complex agent teams and"
+ },
+ {
+  "start": 695.4,
+  "duration": 3.88,
+  "text": "orchestration models. Instead, they are"
+ },
+ {
+  "start": 697.2,
+  "duration": 4.24,
+  "text": "using one or a small number of agents to"
+ },
+ {
+  "start": 699.28,
+  "duration": 3.48,
+  "text": "get their own work done faster or better"
+ },
+ {
+  "start": 701.44,
+  "duration": 3.96,
+  "text": "or do things that weren't possible"
+ },
+ {
+  "start": 702.76,
+  "duration": 4.32,
+  "text": "before. For that type of user, skills"
+ },
+ {
+  "start": 705.4,
+  "duration": 3.56,
+  "text": "are basically reusable prompts with"
+ },
+ {
+  "start": 707.08,
+  "duration": 4.0,
+  "text": "superpowers. The difference between a"
+ },
+ {
+  "start": 708.96,
+  "duration": 4.32,
+  "text": "skill and a saved prompt is that a skill"
+ },
+ {
+  "start": 711.08,
+  "duration": 4.32,
+  "text": "can include actual code, templates,"
+ },
+ {
+  "start": 713.28,
+  "duration": 4.2,
+  "text": "reference data, and examples, not just"
+ },
+ {
+  "start": 715.4,
+  "duration": 3.92,
+  "text": "instructions. The practical value then"
+ },
+ {
+  "start": 717.48,
+  "duration": 3.56,
+  "text": "is you figure out how to get the agent"
+ },
+ {
+  "start": 719.32,
+  "duration": 3.519,
+  "text": "to do something well once, and then you"
+ },
+ {
+  "start": 721.04,
+  "duration": 4.0,
+  "text": "package it so it works reliably every"
+ },
+ {
+  "start": 722.839,
+  "duration": 4.441,
+  "text": "time. The stand-up post example from"
+ },
+ {
+  "start": 725.04,
+  "duration": 4.12,
+  "text": "Tariq's post is perfect for this tier."
+ },
+ {
+  "start": 727.28,
+  "duration": 3.36,
+  "text": "This is an automation of a daily task"
+ },
+ {
+  "start": 729.16,
+  "duration": 3.08,
+  "text": "you do. And the type of thing that you"
+ },
+ {
+  "start": 730.64,
+  "duration": 3.76,
+  "text": "want to happen consistently over and"
+ },
+ {
+  "start": 732.24,
+  "duration": 3.72,
+  "text": "over again. This also helps demonstrate"
+ },
+ {
+  "start": 734.4,
+  "duration": 3.6,
+  "text": "why that gotcha section can be really"
+ },
+ {
+  "start": 735.96,
+  "duration": 3.44,
+  "text": "valuable. Every time the agent makes a"
+ },
+ {
+  "start": 738.0,
+  "duration": 3.0,
+  "text": "mistake, you add it to the skill so it"
+ },
+ {
+  "start": 739.4,
+  "duration": 3.0,
+  "text": "doesn't happen again, and the skill"
+ },
+ {
+  "start": 741.0,
+  "duration": 3.36,
+  "text": "becomes a living document that gets"
+ },
+ {
+  "start": 742.4,
+  "duration": 3.96,
+  "text": "smarter over time. This also helps you"
+ },
+ {
+  "start": 744.36,
+  "duration": 4.04,
+  "text": "stay not locked into one specific"
+ },
+ {
+  "start": 746.36,
+  "duration": 4.52,
+  "text": "ecosystem. Because skills are supported"
+ },
+ {
+  "start": 748.4,
+  "duration": 4.08,
+  "text": "by Codex, Claude Code, Cursor, etc.,"
+ },
+ {
+  "start": 750.88,
+  "duration": 3.16,
+  "text": "you're not locked into any one tool's"
+ },
+ {
+  "start": 752.48,
+  "duration": 3.88,
+  "text": "prompting format."
+ },
+ {
+  "start": 754.04,
+  "duration": 4.64,
+  "text": "But what about for the mainstream user?"
+ },
+ {
+  "start": 756.36,
+  "duration": 4.4,
+  "text": "The person who isn't even yet fully in"
+ },
+ {
+  "start": 758.68,
+  "duration": 3.56,
+  "text": "Claude Code or Codex? People who are"
+ },
+ {
+  "start": 760.76,
+  "duration": 2.76,
+  "text": "using off-the-shelf tools or"
+ },
+ {
+  "start": 762.24,
+  "duration": 3.8,
+  "text": "experimenting with Perplexity AI"
+ },
+ {
+  "start": 763.52,
+  "duration": 4.36,
+  "text": "computer or Notion custom agents?"
+ },
+ {
+  "start": 766.04,
+  "duration": 4.52,
+  "text": "What's interesting here is that the"
+ },
+ {
+  "start": 767.88,
+  "duration": 4.76,
+  "text": "design pattern holds. And you can see"
+ },
+ {
+  "start": 770.56,
+  "duration": 4.84,
+  "text": "even in these simpler prosumer and"
+ },
+ {
+  "start": 772.64,
+  "duration": 4.64,
+  "text": "consumer tools, the idea of skills as"
+ },
+ {
+  "start": 775.4,
+  "duration": 4.12,
+  "text": "reusable capabilities infiltrating into"
+ },
+ {
+  "start": 777.28,
+  "duration": 5.0,
+  "text": "the mainstream. In fact, earlier this"
+ },
+ {
+  "start": 779.52,
+  "duration": 4.88,
+  "text": "week, Notion announced custom skills for"
+ },
+ {
+  "start": 782.28,
+  "duration": 3.96,
+  "text": "Notion AI. In their announcement tweet,"
+ },
+ {
+  "start": 784.4,
+  "duration": 3.64,
+  "text": "they write, \"Write a prompt, you'll use"
+ },
+ {
+  "start": 786.24,
+  "duration": 4.0,
+  "text": "it once. Write a skill, and you'll use"
+ },
+ {
+  "start": 788.04,
+  "duration": 4.12,
+  "text": "it forever.\" And this is the mental"
+ },
+ {
+  "start": 790.24,
+  "duration": 3.76,
+  "text": "model shift, even if you are not an"
+ },
+ {
+  "start": 792.16,
+  "duration": 3.76,
+  "text": "agent builder with Claude Code. The"
+ },
+ {
+  "start": 794.0,
+  "duration": 5.0,
+  "text": "shift is from thinking about ad hoc"
+ },
+ {
+  "start": 795.92,
+  "duration": 4.88,
+  "text": "prompting to reusable capabilities. For"
+ },
+ {
+  "start": 799.0,
+  "duration": 3.839,
+  "text": "a lot of folks out there, you're not"
+ },
+ {
+  "start": 800.8,
+  "duration": 4.16,
+  "text": "ultimately going to have to care about"
+ },
+ {
+  "start": 802.839,
+  "duration": 3.201,
+  "text": "the full architecture of skill.md files,"
+ },
+ {
+  "start": 804.96,
+  "duration": 2.84,
+  "text": "and progressive disclosure, and all"
+ },
+ {
+  "start": 806.04,
+  "duration": 3.56,
+  "text": "these things. Those folks just know they"
+ },
+ {
+  "start": 807.8,
+  "duration": 3.52,
+  "text": "can teach the AI to do a specific thing"
+ },
+ {
+  "start": 809.6,
+  "duration": 3.52,
+  "text": "their way, give it a name, and invoke it"
+ },
+ {
+  "start": 811.32,
+  "duration": 3.88,
+  "text": "whenever they want. For some, it'll"
+ },
+ {
+  "start": 813.12,
+  "duration": 3.36,
+  "text": "almost be an update to custom GPTs,"
+ },
+ {
+  "start": 815.2,
+  "duration": 3.2,
+  "text": "which for many became essential even"
+ },
+ {
+  "start": 816.48,
+  "duration": 3.28,
+  "text": "though they never fully took off."
+ },
+ {
+  "start": 818.4,
+  "duration": 3.2,
+  "text": "Now, you can see how Notion has"
+ },
+ {
+  "start": 819.76,
+  "duration": 4.12,
+  "text": "simplified skills into their own"
+ },
+ {
+  "start": 821.6,
+  "duration": 4.6,
+  "text": "ecosystem. Basically, you can take any"
+ },
+ {
+  "start": 823.88,
+  "duration": 4.959,
+  "text": "page in Notion, click the menu, and turn"
+ },
+ {
+  "start": 826.2,
+  "duration": 4.88,
+  "text": "that page into a skill. And the point is"
+ },
+ {
+  "start": 828.839,
+  "duration": 4.321,
+  "text": "that this concept of skills as reusable"
+ },
+ {
+  "start": 831.08,
+  "duration": 4.88,
+  "text": "capabilities is a concept that is"
+ },
+ {
+  "start": 833.16,
+  "duration": 4.56,
+  "text": "converging across the entire AI stack."
+ },
+ {
+  "start": 835.96,
+  "duration": 3.84,
+  "text": "From consumer uses up to much more"
+ },
+ {
+  "start": 837.72,
+  "duration": 4.56,
+  "text": "advanced uses all at once. The"
+ },
+ {
+  "start": 839.8,
+  "duration": 5.039,
+  "text": "underlying idea is that AI is less and"
+ },
+ {
+  "start": 842.28,
+  "duration": 5.04,
+  "text": "less a one-off conversation and more and"
+ },
+ {
+  "start": 844.839,
+  "duration": 4.681,
+  "text": "more a library of reliable, repeatable"
+ },
+ {
+  "start": 847.32,
+  "duration": 3.68,
+  "text": "capabilities. Skills, I think, are a"
+ },
+ {
+  "start": 849.52,
+  "duration": 3.439,
+  "text": "useful framework for that, no matter"
+ },
+ {
+  "start": 851.0,
+  "duration": 3.12,
+  "text": "what level you're engaging with it on."
+ },
+ {
+  "start": 852.959,
+  "duration": 2.241,
+  "text": "And hopefully, this episode has given"
+ },
+ {
+  "start": 854.12,
+  "duration": 3.16,
+  "text": "you a little bit of a better starting"
+ },
+ {
+  "start": 855.2,
+  "duration": 4.32,
+  "text": "point. We might go deeper in a future"
+ },
+ {
+  "start": 857.28,
+  "duration": 3.6,
+  "text": "operator episode, but for now, that is"
+ },
+ {
+  "start": 859.52,
+  "duration": 2.96,
+  "text": "going to do it for today's AI Daily"
+ },
+ {
+  "start": 860.88,
+  "duration": 3.72,
+  "text": "Brief. Appreciate you listening or"
+ },
+ {
+  "start": 862.48,
+  "duration": 5.28,
+  "text": "watching, as always, and until next"
+ },
+ {
+  "start": 864.6,
+  "duration": 3.16,
+  "text": "time, peace."
+ }
+]

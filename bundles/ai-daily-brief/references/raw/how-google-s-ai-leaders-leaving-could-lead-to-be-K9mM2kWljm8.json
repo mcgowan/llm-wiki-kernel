@@ -1,0 +1,4702 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.56,
+  "text": "Today on the AI Daily Brief, a massive"
+ },
+ {
+  "start": 2.48,
+  "duration": 4.32,
+  "text": "AI leadership shakeup at Google, and"
+ },
+ {
+  "start": 4.56,
+  "duration": 4.44,
+  "text": "before that in the headlines, Meta drops"
+ },
+ {
+  "start": 6.8,
+  "duration": 3.84,
+  "text": "two new models in a coding harness. The"
+ },
+ {
+  "start": 9.0,
+  "duration": 3.2,
+  "text": "AI Daily Brief is a daily podcast and"
+ },
+ {
+  "start": 10.64,
+  "duration": 4.32,
+  "text": "video about the most important news and"
+ },
+ {
+  "start": 12.2,
+  "duration": 4.12,
+  "text": "discussions in AI."
+ },
+ {
+  "start": 14.96,
+  "duration": 3.12,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 16.32,
+  "duration": 4.56,
+  "text": "headlines, all the daily AI news you"
+ },
+ {
+  "start": 18.08,
+  "duration": 5.12,
+  "text": "need in around 5 minutes. Meta continues"
+ },
+ {
+  "start": 20.88,
+  "duration": 5.16,
+  "text": "its comeback kid quest with the release"
+ },
+ {
+  "start": 23.2,
+  "duration": 4.32,
+  "text": "of Muse Spark 1.2 and Muse Code."
+ },
+ {
+  "start": 26.04,
+  "duration": 3.08,
+  "text": "Alongside the twin model release, they"
+ },
+ {
+  "start": 27.52,
+  "duration": 4.04,
+  "text": "are releasing their first coding harness"
+ },
+ {
+  "start": 29.12,
+  "duration": 4.32,
+  "text": "as well. Meta described Muse Spark 1.2"
+ },
+ {
+  "start": 31.56,
+  "duration": 3.64,
+  "text": "as a coding focused update to the 1.1"
+ },
+ {
+  "start": 33.44,
+  "duration": 3.12,
+  "text": "version, which was released in July."
+ },
+ {
+  "start": 35.2,
+  "duration": 3.0,
+  "text": "This is the first model that Meta has"
+ },
+ {
+  "start": 36.56,
+  "duration": 2.72,
+  "text": "trained in a harness, improving its"
+ },
+ {
+  "start": 38.2,
+  "duration": 3.08,
+  "text": "agentic capabilities in that"
+ },
+ {
+  "start": 39.28,
+  "duration": 3.44,
+  "text": "environment. The results look like a"
+ },
+ {
+  "start": 41.28,
+  "duration": 4.24,
+  "text": "pretty strong coding model on the"
+ },
+ {
+  "start": 42.72,
+  "duration": 5.0,
+  "text": "benchmarks. It scored 82.9% on Terminal"
+ },
+ {
+  "start": 45.52,
+  "duration": 4.68,
+  "text": "Bench 2.1, placing it between Opus 5 and"
+ },
+ {
+  "start": 47.72,
+  "duration": 4.88,
+  "text": "GPT-5.6 Tera. On Deep Sue, it scored"
+ },
+ {
+  "start": 50.2,
+  "duration": 4.48,
+  "text": "59.3%, placing it behind Opus 5 and"
+ },
+ {
+  "start": 52.6,
+  "duration": 4.24,
+  "text": "GPT-5.6 Tera, trailing by around five"
+ },
+ {
+  "start": 54.68,
+  "duration": 4.04,
+  "text": "points. Meta chose not to compare Muse"
+ },
+ {
+  "start": 56.84,
+  "duration": 3.32,
+  "text": "Spark to the frontier models, likely"
+ },
+ {
+  "start": 58.72,
+  "duration": 3.72,
+  "text": "because it's not in the same size class"
+ },
+ {
+  "start": 60.16,
+  "duration": 3.88,
+  "text": "as Fable 5 or GPT-5.6 Soul, and the"
+ },
+ {
+  "start": 62.44,
+  "duration": 3.52,
+  "text": "model appears to be designed to be cheap"
+ },
+ {
+  "start": 64.04,
+  "duration": 3.24,
+  "text": "and efficient as a daily driver, rather"
+ },
+ {
+  "start": 65.96,
+  "duration": 3.72,
+  "text": "than taking on the larger models on the"
+ },
+ {
+  "start": 67.28,
+  "duration": 5.0,
+  "text": "benchmarks. Artificial Analysis had"
+ },
+ {
+  "start": 69.68,
+  "duration": 4.72,
+  "text": "similar findings. The model scored 54 on"
+ },
+ {
+  "start": 72.28,
+  "duration": 4.96,
+  "text": "the AA Intelligence Index, placing it"
+ },
+ {
+  "start": 74.4,
+  "duration": 5.4,
+  "text": "behind Opus 5, GPT-5.6 Tera, and Kimiko"
+ },
+ {
+  "start": 77.24,
+  "duration": 5.64,
+  "text": "3, tying it with Grok 4.5 and putting it"
+ },
+ {
+  "start": 79.8,
+  "duration": 5.56,
+  "text": "a few points ahead of GLM 5.2. AA also"
+ },
+ {
+  "start": 82.88,
+  "duration": 4.04,
+  "text": "wrote that Spark 1.2 is, quote, \"Among"
+ },
+ {
+  "start": 85.36,
+  "duration": 3.68,
+  "text": "the most cost-efficient models at its"
+ },
+ {
+  "start": 86.92,
+  "duration": 4.24,
+  "text": "intelligence level.\" It cost 40 cents"
+ },
+ {
+  "start": 89.04,
+  "duration": 3.92,
+  "text": "per task on their benchmark which gave"
+ },
+ {
+  "start": 91.16,
+  "duration": 4.8,
+  "text": "it a similar cost to intelligence ratio"
+ },
+ {
+  "start": 92.96,
+  "duration": 5.2,
+  "text": "as Grok 4.5 and GPT-5.6 Soul turned down"
+ },
+ {
+  "start": 95.96,
+  "duration": 4.44,
+  "text": "to medium effort settings. Its run was"
+ },
+ {
+  "start": 98.16,
+  "duration": 3.96,
+  "text": "around half the cost of Kimiko 3,"
+ },
+ {
+  "start": 100.4,
+  "duration": 3.2,
+  "text": "further reinforcing the idea that every"
+ },
+ {
+  "start": 102.12,
+  "duration": 3.56,
+  "text": "Chinese model is not just some"
+ },
+ {
+  "start": 103.6,
+  "duration": 4.12,
+  "text": "incredibly low-cost wonder. Muse Spark"
+ },
+ {
+  "start": 105.68,
+  "duration": 4.2,
+  "text": "1.2's run on the AA Index was around"
+ },
+ {
+  "start": 107.72,
+  "duration": 4.68,
+  "text": "half the cost of Kimiko 3 with results"
+ },
+ {
+  "start": 109.88,
+  "duration": 4.44,
+  "text": "in the same ballpark. AA also noted that"
+ },
+ {
+  "start": 112.4,
+  "duration": 3.16,
+  "text": "the three-point overall improvement was"
+ },
+ {
+  "start": 114.32,
+  "duration": 3.4,
+  "text": "almost entirely down to agentic"
+ },
+ {
+  "start": 115.56,
+  "duration": 4.56,
+  "text": "performance. The update delivered a big"
+ },
+ {
+  "start": 117.72,
+  "duration": 4.2,
+  "text": "jump on GDP val, making it the sixth"
+ },
+ {
+  "start": 120.12,
+  "duration": 4.72,
+  "text": "highest ranked model behind Opus 5,"
+ },
+ {
+  "start": 121.92,
+  "duration": 5.64,
+  "text": "Fable 5, Quan 38 Max, GPT 560 and Kimmy"
+ },
+ {
+  "start": 124.84,
+  "duration": 4.36,
+  "text": "K3. On the harness side, the biggest"
+ },
+ {
+  "start": 127.56,
+  "duration": 4.36,
+  "text": "thing besides Meta actually bringing a"
+ },
+ {
+  "start": 129.2,
+  "duration": 4.48,
+  "text": "coding harness to market is sub-agents."
+ },
+ {
+  "start": 131.92,
+  "duration": 3.039,
+  "text": "In his launch thread, once again on"
+ },
+ {
+  "start": 133.68,
+  "duration": 2.8,
+  "text": "Twitter where Mark Zuckerberg has been"
+ },
+ {
+  "start": 134.959,
+  "duration": 3.561,
+  "text": "spending a lot more time recently,"
+ },
+ {
+  "start": 136.48,
+  "duration": 3.8,
+  "text": "Zuckerberg wrote, \"Muse code runs"
+ },
+ {
+  "start": 138.52,
+  "duration": 3.28,
+  "text": "specialized background agents that stay"
+ },
+ {
+  "start": 140.28,
+  "duration": 3.4,
+  "text": "active your whole session. So, they"
+ },
+ {
+  "start": 141.8,
+  "duration": 3.76,
+  "text": "build up context over time instead of"
+ },
+ {
+  "start": 143.68,
+  "duration": 3.72,
+  "text": "starting from scratch on every task."
+ },
+ {
+  "start": 145.56,
+  "duration": 3.56,
+  "text": "When a job is big enough, it fans out to"
+ },
+ {
+  "start": 147.4,
+  "duration": 3.72,
+  "text": "separate sub-agents working in parallel"
+ },
+ {
+  "start": 149.12,
+  "duration": 4.24,
+  "text": "in isolated work trees. Your working"
+ },
+ {
+  "start": 151.12,
+  "duration": 3.8,
+  "text": "copy is never touched. In testing, we"
+ },
+ {
+  "start": 153.36,
+  "duration": 4.0,
+  "text": "had it build six features for a game"
+ },
+ {
+  "start": 154.92,
+  "duration": 3.96,
+  "text": "simultaneously with no collisions.\" Meta"
+ },
+ {
+  "start": 157.36,
+  "duration": 3.4,
+  "text": "saw very strong performance for long"
+ },
+ {
+  "start": 158.88,
+  "duration": 3.2,
+  "text": "horizon tasks with this architecture."
+ },
+ {
+  "start": 160.76,
+  "duration": 3.08,
+  "text": "During testing, they deployed the model"
+ },
+ {
+  "start": 162.08,
+  "duration": 3.92,
+  "text": "to a kernel optimization task and the"
+ },
+ {
+  "start": 163.84,
+  "duration": 3.52,
+  "text": "model successfully ran for 24 hours,"
+ },
+ {
+  "start": 166.0,
+  "duration": 3.12,
+  "text": "executing more than a thousand tool"
+ },
+ {
+  "start": 167.36,
+  "duration": 3.72,
+  "text": "calls and delivering steady improvements"
+ },
+ {
+  "start": 169.12,
+  "duration": 3.52,
+  "text": "throughout the session. Meta is also"
+ },
+ {
+  "start": 171.08,
+  "duration": 2.72,
+  "text": "selling Muse code as suitable for"
+ },
+ {
+  "start": 172.64,
+  "duration": 3.2,
+  "text": "professional work due to its"
+ },
+ {
+  "start": 173.8,
+  "duration": 3.6,
+  "text": "auditability. The harness logs every"
+ },
+ {
+  "start": 175.84,
+  "duration": 3.2,
+  "text": "tool call and code edit and has the"
+ },
+ {
+  "start": 177.4,
+  "duration": 4.119,
+  "text": "ability to use these logs to restart"
+ },
+ {
+  "start": 179.04,
+  "duration": 3.88,
+  "text": "midway through a task if it crashes."
+ },
+ {
+  "start": 181.519,
+  "duration": 2.841,
+  "text": "Now, aside from the release, Zuckerberg"
+ },
+ {
+  "start": 182.92,
+  "duration": 3.0,
+  "text": "also teased parts of the future road"
+ },
+ {
+  "start": 184.36,
+  "duration": 3.64,
+  "text": "map. He wrote that larger and more"
+ },
+ {
+  "start": 185.92,
+  "duration": 3.56,
+  "text": "capable models are on the way, as well"
+ },
+ {
+  "start": 188.0,
+  "duration": 3.0,
+  "text": "as hinting that Muse code might be"
+ },
+ {
+  "start": 189.48,
+  "duration": 2.84,
+  "text": "open-sourced."
+ },
+ {
+  "start": 191.0,
+  "duration": 2.68,
+  "text": "Now, so far if you dig around, you can"
+ },
+ {
+  "start": 192.32,
+  "duration": 3.08,
+  "text": "find both positive and negative"
+ },
+ {
+  "start": 193.68,
+  "duration": 3.2,
+  "text": "responses. I would say overall, the"
+ },
+ {
+  "start": 195.4,
+  "duration": 2.88,
+  "text": "steady drumbeat of each sequential"
+ },
+ {
+  "start": 196.88,
+  "duration": 3.079,
+  "text": "release getting a little bit better for"
+ },
+ {
+  "start": 198.28,
+  "duration": 3.64,
+  "text": "Meta and them getting closer and closer"
+ },
+ {
+  "start": 199.959,
+  "duration": 4.0,
+  "text": "to relevant again continues with this"
+ },
+ {
+  "start": 201.92,
+  "duration": 3.48,
+  "text": "set of releases. Teasing what will be"
+ },
+ {
+  "start": 203.959,
+  "duration": 3.0,
+  "text": "the subject of our main episode, Hater"
+ },
+ {
+  "start": 205.4,
+  "duration": 3.32,
+  "text": "wrote, \"How quickly the tables have"
+ },
+ {
+  "start": 206.959,
+  "duration": 3.401,
+  "text": "turned. Meta is starting to look like"
+ },
+ {
+  "start": 208.72,
+  "duration": 3.4,
+  "text": "Google, moving fast, shipping AI"
+ },
+ {
+  "start": 210.36,
+  "duration": 3.48,
+  "text": "products, and finally building momentum."
+ },
+ {
+  "start": 212.12,
+  "duration": 3.56,
+  "text": "Meanwhile, mighty Google suddenly looks"
+ },
+ {
+  "start": 213.84,
+  "duration": 3.52,
+  "text": "like last year's Meta, confused,"
+ },
+ {
+  "start": 215.68,
+  "duration": 3.559,
+  "text": "reactive, and somehow watching everyone"
+ },
+ {
+  "start": 217.36,
+  "duration": 3.68,
+  "text": "else move faster.\""
+ },
+ {
+  "start": 219.239,
+  "duration": 3.201,
+  "text": "Now, this was not the only Meta story in"
+ },
+ {
+  "start": 221.04,
+  "duration": 3.4,
+  "text": "the news. Not to be left out of the"
+ },
+ {
+  "start": 222.44,
+  "duration": 3.48,
+  "text": "current trend, Meta's agents have also"
+ },
+ {
+  "start": 224.44,
+  "duration": 3.4,
+  "text": "escaped containment and hacked into"
+ },
+ {
+  "start": 225.92,
+  "duration": 3.44,
+  "text": "third-party systems. Meta said that"
+ },
+ {
+  "start": 227.84,
+  "duration": 3.52,
+  "text": "during cybersecurity testing for Muse"
+ },
+ {
+  "start": 229.36,
+  "duration": 3.8,
+  "text": "Spark 1.1, the model left its sandbox"
+ },
+ {
+  "start": 231.36,
+  "duration": 3.64,
+  "text": "and exploited a vulnerability to break"
+ },
+ {
+  "start": 233.16,
+  "duration": 3.76,
+  "text": "into systems owned by another unnamed"
+ },
+ {
+  "start": 235.0,
+  "duration": 3.64,
+  "text": "company. A meta spokesperson said the"
+ },
+ {
+  "start": 236.92,
+  "duration": 3.6,
+  "text": "issue was a misconfigured sandbox"
+ },
+ {
+  "start": 238.64,
+  "duration": 3.64,
+  "text": "provided by security evaluation partner"
+ },
+ {
+  "start": 240.52,
+  "duration": 3.28,
+  "text": "Irregular. Irregular, by the way, was"
+ },
+ {
+  "start": 242.28,
+  "duration": 3.44,
+  "text": "also involved in the incidents reported"
+ },
+ {
+  "start": 243.8,
+  "duration": 3.2,
+  "text": "by OpenAI and Anthropic, with those"
+ },
+ {
+  "start": 245.72,
+  "duration": 2.72,
+  "text": "companies stating that the sandbox"
+ },
+ {
+  "start": 247.0,
+  "duration": 3.12,
+  "text": "failed to quarantine the model away from"
+ },
+ {
+  "start": 248.44,
+  "duration": 3.44,
+  "text": "the open internet. Meta said that the"
+ },
+ {
+  "start": 250.12,
+  "duration": 3.44,
+  "text": "hack was carried out, quote, \"in a"
+ },
+ {
+  "start": 251.88,
+  "duration": 3.56,
+  "text": "manner similar to previously reported"
+ },
+ {
+  "start": 253.56,
+  "duration": 3.28,
+  "text": "instances with other companies. They're"
+ },
+ {
+  "start": 255.44,
+  "duration": 2.6,
+  "text": "still conducting an investigation and"
+ },
+ {
+  "start": 256.84,
+  "duration": 2.72,
+  "text": "said they will provide a full report"
+ },
+ {
+  "start": 258.04,
+  "duration": 3.12,
+  "text": "once they have all the facts.\" But a"
+ },
+ {
+  "start": 259.56,
+  "duration": 3.12,
+  "text": "spokesperson for Irregular confirmed"
+ },
+ {
+  "start": 261.16,
+  "duration": 3.8,
+  "text": "that the meta incident involved the"
+ },
+ {
+  "start": 262.68,
+  "duration": 4.84,
+  "text": "exact same sandboxing issue previously"
+ },
+ {
+  "start": 264.96,
+  "duration": 4.88,
+  "text": "disclosed by the other labs."
+ },
+ {
+  "start": 267.52,
+  "duration": 4.24,
+  "text": "Moving over to another hot button topic,"
+ },
+ {
+  "start": 269.84,
+  "duration": 3.64,
+  "text": "ByteDance's founder has ruled out"
+ },
+ {
+  "start": 271.76,
+  "duration": 3.92,
+  "text": "distillation as a way to keep up in the"
+ },
+ {
+  "start": 273.48,
+  "duration": 3.84,
+  "text": "AI race. On Wednesday, The Information"
+ },
+ {
+  "start": 275.68,
+  "duration": 3.92,
+  "text": "reported on a meeting held last month"
+ },
+ {
+  "start": 277.32,
+  "duration": 3.88,
+  "text": "shortly after the release of Kimiko 3."
+ },
+ {
+  "start": 279.6,
+  "duration": 3.12,
+  "text": "ByteDance founder Zhang Yiming told his"
+ },
+ {
+  "start": 281.2,
+  "duration": 3.24,
+  "text": "AI team that they wouldn't resort to"
+ },
+ {
+  "start": 282.72,
+  "duration": 3.76,
+  "text": "distillation even if it means falling"
+ },
+ {
+  "start": 284.44,
+  "duration": 3.24,
+  "text": "behind the other Chinese labs. He said"
+ },
+ {
+  "start": 286.48,
+  "duration": 2.76,
+  "text": "that ByteDance should be, quote,"
+ },
+ {
+  "start": 287.68,
+  "duration": 3.84,
+  "text": "\"willing to sacrifice some short-term"
+ },
+ {
+  "start": 289.24,
+  "duration": 3.76,
+  "text": "gains for longer-term These comments"
+ },
+ {
+  "start": 291.52,
+  "duration": 2.76,
+  "text": "reportedly came in response to AI"
+ },
+ {
+  "start": 293.0,
+  "duration": 2.88,
+  "text": "leaders at the company proposing a"
+ },
+ {
+  "start": 294.28,
+  "duration": 3.96,
+  "text": "distillation project as a way to catch"
+ },
+ {
+  "start": 295.88,
+  "duration": 4.039,
+  "text": "up quickly. Notably, ByteDance is, at"
+ },
+ {
+  "start": 298.24,
+  "duration": 3.76,
+  "text": "this particular moment, something of an"
+ },
+ {
+  "start": 299.919,
+  "duration": 4.841,
+  "text": "outlier among the Chinese labs. Their"
+ },
+ {
+  "start": 302.0,
+  "duration": 3.919,
+  "text": "latest LLM, called Seed 2.1 Pro, went"
+ },
+ {
+  "start": 304.76,
+  "duration": 3.92,
+  "text": "pretty well unnoticed when it was"
+ },
+ {
+  "start": 305.919,
+  "duration": 4.441,
+  "text": "released in June. It ranks 19th on Arena"
+ },
+ {
+  "start": 308.68,
+  "duration": 3.8,
+  "text": "AI's coding leaderboard, distantly"
+ },
+ {
+  "start": 310.36,
+  "duration": 3.52,
+  "text": "behind models from Deep Seek, Z AI,"
+ },
+ {
+  "start": 312.48,
+  "duration": 3.56,
+  "text": "Alibaba's Qwen team, and Moonshot's"
+ },
+ {
+  "start": 313.88,
+  "duration": 3.68,
+  "text": "Kimiko team. On the flip side, ByteDance"
+ },
+ {
+  "start": 316.04,
+  "duration": 3.08,
+  "text": "does produce the highly acclaimed Seed"
+ },
+ {
+  "start": 317.56,
+  "duration": 2.44,
+  "text": "Dance video models, but their text"
+ },
+ {
+  "start": 319.12,
+  "duration": 2.88,
+  "text": "models have never been all that"
+ },
+ {
+  "start": 320.0,
+  "duration": 3.36,
+  "text": "competitive. They're also the only major"
+ },
+ {
+  "start": 322.0,
+  "duration": 3.0,
+  "text": "Chinese lab that keeps their LLMs"
+ },
+ {
+  "start": 323.36,
+  "duration": 3.96,
+  "text": "proprietary rather than releasing them"
+ },
+ {
+  "start": 325.0,
+  "duration": 4.8,
+  "text": "as open weights. Sources suggested that"
+ },
+ {
+  "start": 327.32,
+  "duration": 3.92,
+  "text": "the hesitancy to distill US models stems"
+ },
+ {
+  "start": 329.8,
+  "duration": 3.92,
+  "text": "from ByteDance having experienced the"
+ },
+ {
+  "start": 331.24,
+  "duration": 3.679,
+  "text": "wrath of US policymakers. Washington has"
+ },
+ {
+  "start": 333.72,
+  "duration": 2.76,
+  "text": "threatened to ban their core product,"
+ },
+ {
+  "start": 334.919,
+  "duration": 3.681,
+  "text": "TikTok, multiple times over recent"
+ },
+ {
+  "start": 336.48,
+  "duration": 4.0,
+  "text": "years. That situation was resolved last"
+ },
+ {
+  "start": 338.6,
+  "duration": 3.319,
+  "text": "year with a forced sale of portions of"
+ },
+ {
+  "start": 340.48,
+  "duration": 2.96,
+  "text": "the US-facing infrastructure stack,"
+ },
+ {
+  "start": 341.919,
+  "duration": 3.841,
+  "text": "including data handling and algorithm"
+ },
+ {
+  "start": 343.44,
+  "duration": 4.08,
+  "text": "control. And so, either A, ByteDance"
+ },
+ {
+  "start": 345.76,
+  "duration": 3.36,
+  "text": "leadership is in no rush to provoke"
+ },
+ {
+  "start": 347.52,
+  "duration": 3.52,
+  "text": "another round of scrutiny on TikTok by"
+ },
+ {
+  "start": 349.12,
+  "duration": 4.08,
+  "text": "getting caught distilling US models. Or"
+ },
+ {
+  "start": 351.04,
+  "duration": 4.04,
+  "text": "B, and this is kind of where I would put"
+ },
+ {
+  "start": 353.2,
+  "duration": 4.4,
+  "text": "my money, having gone through the"
+ },
+ {
+  "start": 355.08,
+  "duration": 4.24,
+  "text": "process of getting to a resolution with"
+ },
+ {
+  "start": 357.6,
+  "duration": 3.12,
+  "text": "the US, I think they might see the"
+ },
+ {
+  "start": 359.32,
+  "duration": 3.68,
+  "text": "writing on the wall for other Chinese"
+ },
+ {
+  "start": 360.72,
+  "duration": 4.0,
+  "text": "labs and see an opportunity to tortoise"
+ },
+ {
+  "start": 363.0,
+  "duration": 3.24,
+  "text": "and the hare it by being the one Chinese"
+ },
+ {
+  "start": 364.72,
+  "duration": 3.24,
+  "text": "lab that can continue to play in the US"
+ },
+ {
+  "start": 366.24,
+  "duration": 3.4,
+  "text": "environment based on not resorting to"
+ },
+ {
+  "start": 367.96,
+  "duration": 3.8,
+  "text": "the same techniques that are arising the"
+ },
+ {
+  "start": 369.64,
+  "duration": 3.88,
+  "text": "US's ire elsewhere."
+ },
+ {
+  "start": 371.76,
+  "duration": 2.84,
+  "text": "Over in chip world, Anthropic is getting"
+ },
+ {
+  "start": 373.52,
+  "duration": 2.72,
+  "text": "into the chip-making game with the"
+ },
+ {
+  "start": 374.6,
+  "duration": 3.44,
+  "text": "creation of an in-house chip design"
+ },
+ {
+  "start": 376.24,
+  "duration": 3.24,
+  "text": "team. Business Insider reports that"
+ },
+ {
+  "start": 378.04,
+  "duration": 3.32,
+  "text": "Anthropic is beginning to staff up the"
+ },
+ {
+  "start": 379.48,
+  "duration": 3.6,
+  "text": "new team with a spokesperson confirming"
+ },
+ {
+  "start": 381.36,
+  "duration": 3.48,
+  "text": "the move stating that Anthropic wants to"
+ },
+ {
+  "start": 383.08,
+  "duration": 3.36,
+  "text": "co-design hardware and models to allow"
+ },
+ {
+  "start": 384.84,
+  "duration": 3.44,
+  "text": "them to run faster and more efficiently"
+ },
+ {
+  "start": 386.44,
+  "duration": 3.84,
+  "text": "at the scale our customers need, {quote}"
+ },
+ {
+  "start": 388.28,
+  "duration": 3.32,
+  "text": "unquote. According to earlier reports,"
+ },
+ {
+  "start": 390.28,
+  "duration": 3.44,
+  "text": "Samsung is being considered as a"
+ },
+ {
+  "start": 391.6,
+  "duration": 3.68,
+  "text": "manufacturing partner. Over the past"
+ },
+ {
+  "start": 393.72,
+  "duration": 3.48,
+  "text": "year, Anthropic has taken a multi-chip"
+ },
+ {
+  "start": 395.28,
+  "duration": 3.44,
+  "text": "approach across various applications."
+ },
+ {
+  "start": 397.2,
+  "duration": 3.56,
+  "text": "They're using chips from Amazon, Google,"
+ },
+ {
+  "start": 398.72,
+  "duration": 3.4,
+  "text": "Nvidia, and AMD. And at this stage,"
+ },
+ {
+  "start": 400.76,
+  "duration": 2.96,
+  "text": "while all of the frontier labs have"
+ },
+ {
+  "start": 402.12,
+  "duration": 3.64,
+  "text": "started to dabble with custom silicon,"
+ },
+ {
+  "start": 403.72,
+  "duration": 3.32,
+  "text": "we're yet to see a huge benefit."
+ },
+ {
+  "start": 405.76,
+  "duration": 2.84,
+  "text": "Certainly, even these customization"
+ },
+ {
+  "start": 407.04,
+  "duration": 3.64,
+  "text": "projects are not in the short term about"
+ },
+ {
+  "start": 408.6,
+  "duration": 3.24,
+  "text": "replacing other things, as witnessed by"
+ },
+ {
+  "start": 410.68,
+  "duration": 2.64,
+  "text": "the fact that earlier this week,"
+ },
+ {
+  "start": 411.84,
+  "duration": 3.36,
+  "text": "Bloomberg reported that Anthropic is in"
+ },
+ {
+  "start": 413.32,
+  "duration": 3.2,
+  "text": "talks with Blackstone to issue 36"
+ },
+ {
+  "start": 415.2,
+  "duration": 3.64,
+  "text": "billion in debt to fund the use of"
+ },
+ {
+  "start": 416.52,
+  "duration": 4.08,
+  "text": "Google's TPUs."
+ },
+ {
+  "start": 418.84,
+  "duration": 4.4,
+  "text": "Finally today, two SaaS-pocalypse"
+ },
+ {
+  "start": 420.6,
+  "duration": 4.44,
+  "text": "adjacent stories. Figma is seeing echoes"
+ },
+ {
+  "start": 423.24,
+  "duration": 3.2,
+  "text": "of that SaaS-pocalypse moment as what"
+ },
+ {
+  "start": 425.04,
+  "duration": 3.12,
+  "text": "the market perceives as weak earnings"
+ },
+ {
+  "start": 426.44,
+  "duration": 3.84,
+  "text": "sending the stock plummeting. On"
+ },
+ {
+  "start": 428.16,
+  "duration": 3.84,
+  "text": "Wednesday night, Figma reported 48%"
+ },
+ {
+  "start": 430.28,
+  "duration": 4.84,
+  "text": "annualized growth, but forecast a"
+ },
+ {
+  "start": 432.0,
+  "duration": 4.96,
+  "text": "significant slowdown to 36% for Q3. Now,"
+ },
+ {
+  "start": 435.12,
+  "duration": 3.24,
+  "text": "technically, these earnings beat analyst"
+ },
+ {
+  "start": 436.96,
+  "duration": 3.28,
+  "text": "expectations and saw a hike in"
+ },
+ {
+  "start": 438.36,
+  "duration": 3.04,
+  "text": "forecasts, but slowing growth is the"
+ },
+ {
+  "start": 440.24,
+  "duration": 2.96,
+  "text": "canary in the coal mine that SaaS"
+ },
+ {
+  "start": 441.4,
+  "duration": 3.04,
+  "text": "investors have been watching for. Part"
+ },
+ {
+  "start": 443.2,
+  "duration": 3.68,
+  "text": "of the issue is the transition to"
+ },
+ {
+  "start": 444.44,
+  "duration": 4.12,
+  "text": "usage-based pricing. AI sales provided a"
+ },
+ {
+  "start": 446.88,
+  "duration": 3.2,
+  "text": "tailwind to this quarter's earnings, but"
+ },
+ {
+  "start": 448.56,
+  "duration": 3.56,
+  "text": "there's a fear that increased costs will"
+ },
+ {
+  "start": 450.08,
+  "duration": 4.04,
+  "text": "drive user attrition. In an interview"
+ },
+ {
+  "start": 452.12,
+  "duration": 3.64,
+  "text": "following earnings, CFO Pravir Melwani"
+ },
+ {
+  "start": 454.12,
+  "duration": 3.28,
+  "text": "said, \"We've transitioned from that"
+ },
+ {
+  "start": 455.76,
+  "duration": 2.72,
+  "text": "moment of unlimited beta, free without"
+ },
+ {
+  "start": 457.4,
+  "duration": 2.88,
+  "text": "limits, now to one where we've"
+ },
+ {
+  "start": 458.48,
+  "duration": 3.52,
+  "text": "effectively monetized Figma's AI tools"
+ },
+ {
+  "start": 460.28,
+  "duration": 3.0,
+  "text": "on the other side. Largely, we've been"
+ },
+ {
+  "start": 462.0,
+  "duration": 3.24,
+  "text": "able to make that transition pretty"
+ },
+ {
+  "start": 463.28,
+  "duration": 3.64,
+  "text": "seamlessly. Investors, however, were"
+ },
+ {
+  "start": 465.24,
+  "duration": 4.28,
+  "text": "less convinced sending the stock down by"
+ },
+ {
+  "start": 466.92,
+  "duration": 4.52,
+  "text": "15% in after-hours trading."
+ },
+ {
+  "start": 469.52,
+  "duration": 4.96,
+  "text": "On the flip side is Shopify. They"
+ },
+ {
+  "start": 471.44,
+  "duration": 4.96,
+  "text": "reported 34% revenue growth and 68%"
+ },
+ {
+  "start": 474.48,
+  "duration": 4.2,
+  "text": "growth in operating income, both beating"
+ },
+ {
+  "start": 476.4,
+  "duration": 4.48,
+  "text": "analyst expectations. Operating costs"
+ },
+ {
+  "start": 478.68,
+  "duration": 5.04,
+  "text": "meanwhile are rising at 21%, which came"
+ },
+ {
+  "start": 480.88,
+  "duration": 4.72,
+  "text": "in below expectations. What's more,"
+ },
+ {
+  "start": 483.72,
+  "duration": 4.32,
+  "text": "Shopify delivered a huge hike to"
+ },
+ {
+  "start": 485.6,
+  "duration": 4.48,
+  "text": "expectations, forecasting Q3 revenue"
+ },
+ {
+  "start": 488.04,
+  "duration": 3.68,
+  "text": "growth in the mid-30s. So, how were they"
+ },
+ {
+  "start": 490.08,
+  "duration": 3.36,
+  "text": "able to do this? President Harley"
+ },
+ {
+  "start": 491.72,
+  "duration": 4.04,
+  "text": "Finkelstein credits the rise of AI"
+ },
+ {
+  "start": 493.44,
+  "duration": 3.72,
+  "text": "search. While publishers have lamented"
+ },
+ {
+  "start": 495.76,
+  "duration": 3.56,
+  "text": "AI search for undermining their web"
+ },
+ {
+  "start": 497.16,
+  "duration": 4.44,
+  "text": "traffic, the same isn't true for Shopify"
+ },
+ {
+  "start": 499.32,
+  "duration": 3.72,
+  "text": "merchants. Finkelstein said that AI had"
+ },
+ {
+  "start": 501.6,
+  "duration": 3.28,
+  "text": "been a {quote} complement to search"
+ },
+ {
+  "start": 503.04,
+  "duration": 3.6,
+  "text": "rather than a substitute for it."
+ },
+ {
+  "start": 504.88,
+  "duration": 4.12,
+  "text": "AI-driven traffic to Shopify stores is"
+ },
+ {
+  "start": 506.64,
+  "duration": 4.64,
+  "text": "up 3x year-over-year, while traditional"
+ },
+ {
+  "start": 509.0,
+  "duration": 4.039,
+  "text": "search continues to grow alongside."
+ },
+ {
+  "start": 511.28,
+  "duration": 3.04,
+  "text": "And according to Finkelstein, AI has"
+ },
+ {
+  "start": 513.039,
+  "duration": 3.921,
+  "text": "been particularly helpful to some of the"
+ },
+ {
+  "start": 514.32,
+  "duration": 4.08,
+  "text": "smaller brands. On TBPN he said, \"The"
+ },
+ {
+  "start": 516.96,
+  "duration": 3.32,
+  "text": "merchants that seem to be benefiting the"
+ },
+ {
+  "start": 518.4,
+  "duration": 4.12,
+  "text": "most from agentic commerce are not the"
+ },
+ {
+  "start": 520.28,
+  "duration": 3.319,
+  "text": "big box stores. It's the long tail of"
+ },
+ {
+  "start": 522.52,
+  "duration": 3.64,
+  "text": "these specialized independent"
+ },
+ {
+  "start": 523.599,
+  "duration": 4.361,
+  "text": "businesses.\" He continued, \"Agentic"
+ },
+ {
+  "start": 526.16,
+  "duration": 3.0,
+  "text": "commerce is merit-based. It's not based"
+ },
+ {
+  "start": 527.96,
+  "duration": 3.0,
+  "text": "on who is supplying the most amount of"
+ },
+ {
+  "start": 529.16,
+  "duration": 3.08,
+  "text": "ad dollars. It is a much better shopping"
+ },
+ {
+  "start": 530.96,
+  "duration": 4.68,
+  "text": "experience and I still think it could"
+ },
+ {
+  "start": 532.24,
+  "duration": 5.64,
+  "text": "get better.\" Harley continued, \"75% of"
+ },
+ {
+  "start": 535.64,
+  "duration": 4.6,
+  "text": "all AI-attributed purchases in Q2 on"
+ },
+ {
+  "start": 537.88,
+  "duration": 5.0,
+  "text": "Shopify are from outside of our top 100"
+ },
+ {
+  "start": 540.24,
+  "duration": 5.16,
+  "text": "categories. Agentic shopping is not, 'I"
+ },
+ {
+  "start": 542.88,
+  "duration": 3.76,
+  "text": "want yoga pants.' It's 'I want reef-safe"
+ },
+ {
+  "start": 545.4,
+  "duration": 3.32,
+  "text": "sunscreen that doesn't leave a white"
+ },
+ {
+  "start": 546.64,
+  "duration": 3.6,
+  "text": "cast on my black leather.'\" He basically"
+ },
+ {
+  "start": 548.72,
+  "duration": 3.08,
+  "text": "explained that AI shopping has allowed"
+ },
+ {
+  "start": 550.24,
+  "duration": 3.28,
+  "text": "the smaller merchants that use Shopify"
+ },
+ {
+  "start": 551.8,
+  "duration": 3.64,
+  "text": "to compete on an even playing field with"
+ },
+ {
+  "start": 553.52,
+  "duration": 3.56,
+  "text": "the e-commerce giants, saying, \"While"
+ },
+ {
+  "start": 555.44,
+  "duration": 3.92,
+  "text": "search engines rank by popularity"
+ },
+ {
+  "start": 557.08,
+  "duration": 4.04,
+  "text": "against a handful of keywords, AI agents"
+ },
+ {
+  "start": 559.36,
+  "duration": 3.52,
+  "text": "make multiple calls into Shopify's"
+ },
+ {
+  "start": 561.12,
+  "duration": 3.36,
+  "text": "catalog, working with richer structured"
+ },
+ {
+  "start": 562.88,
+  "duration": 2.959,
+  "text": "data to match products with the buyer's"
+ },
+ {
+  "start": 564.48,
+  "duration": 3.68,
+  "text": "specific intent rather than just"
+ },
+ {
+  "start": 565.839,
+  "duration": 3.681,
+  "text": "keywords. When a buyer asks an AI"
+ },
+ {
+  "start": 568.16,
+  "duration": 3.2,
+  "text": "assistant for the best car seat that"
+ },
+ {
+  "start": 569.52,
+  "duration": 3.84,
+  "text": "fits three across a sedan, traditional"
+ },
+ {
+  "start": 571.36,
+  "duration": 3.56,
+  "text": "search focuses on the keyword car seat."
+ },
+ {
+  "start": 573.36,
+  "duration": 3.44,
+  "text": "An agent, however, understands the"
+ },
+ {
+  "start": 574.92,
+  "duration": 3.68,
+  "text": "actual need, the dimensions, the vehicle"
+ },
+ {
+  "start": 576.8,
+  "duration": 3.08,
+  "text": "type, and the fact that they need three."
+ },
+ {
+  "start": 578.6,
+  "duration": 2.76,
+  "text": "It searches across all of those"
+ },
+ {
+  "start": 579.88,
+  "duration": 3.16,
+  "text": "constraints at once to find the product"
+ },
+ {
+  "start": 581.36,
+  "duration": 3.68,
+  "text": "that actually works, not just the one"
+ },
+ {
+  "start": 583.04,
+  "duration": 4.12,
+  "text": "that ranks highest. The stock was up as"
+ },
+ {
+  "start": 585.04,
+  "duration": 4.24,
+  "text": "much as 25% on Wednesday following"
+ },
+ {
+  "start": 587.16,
+  "duration": 4.44,
+  "text": "earnings. Shopify's largest intraday"
+ },
+ {
+  "start": 589.28,
+  "duration": 4.12,
+  "text": "trade since late 2024."
+ },
+ {
+  "start": 591.6,
+  "duration": 3.8,
+  "text": "Now, I have not been tracking my 2026"
+ },
+ {
+  "start": 593.4,
+  "duration": 2.96,
+  "text": "predictions all of that closely. That is"
+ },
+ {
+  "start": 595.4,
+  "duration": 2.16,
+  "text": "something that I will do at the end of"
+ },
+ {
+  "start": 596.36,
+  "duration": 3.04,
+  "text": "the year, of course, in our fun end of"
+ },
+ {
+  "start": 597.56,
+  "duration": 3.32,
+  "text": "year content. But, I do want to call out"
+ },
+ {
+  "start": 599.4,
+  "duration": 3.2,
+  "text": "this one specifically because it was"
+ },
+ {
+  "start": 600.88,
+  "duration": 3.36,
+  "text": "probably the weirdest surprise to be"
+ },
+ {
+  "start": 602.6,
+  "duration": 4.52,
+  "text": "included kind of thing that I had in"
+ },
+ {
+  "start": 604.24,
+  "duration": 4.8,
+  "text": "there. One of my AI predictions for 2026"
+ },
+ {
+  "start": 607.12,
+  "duration": 3.88,
+  "text": "was that Shopify actually had a unique"
+ },
+ {
+  "start": 609.04,
+  "duration": 3.8,
+  "text": "role to play. Not only is there this"
+ },
+ {
+  "start": 611.0,
+  "duration": 3.04,
+  "text": "dimension of how agentic searching can"
+ },
+ {
+  "start": 612.84,
+  "duration": 3.32,
+  "text": "improve the shopping experience for"
+ },
+ {
+  "start": 614.04,
+  "duration": 4.24,
+  "text": "buyers, but the way that Shopify has"
+ },
+ {
+  "start": 616.16,
+  "duration": 4.0,
+  "text": "integrated AI for the actual store"
+ },
+ {
+  "start": 618.28,
+  "duration": 4.96,
+  "text": "owners is exactly the sort of"
+ },
+ {
+  "start": 620.16,
+  "duration": 5.72,
+  "text": "unbelievably powerful, self-evident use"
+ },
+ {
+  "start": 623.24,
+  "duration": 4.32,
+  "text": "case that for a ton of small business"
+ },
+ {
+  "start": 625.88,
+  "duration": 4.0,
+  "text": "entrepreneurs who now make their living"
+ },
+ {
+  "start": 627.56,
+  "duration": 3.92,
+  "text": "from Shopify shows just how valuable"
+ },
+ {
+  "start": 629.88,
+  "duration": 3.56,
+  "text": "this technology can be without anyone"
+ },
+ {
+  "start": 631.48,
+  "duration": 3.32,
+  "text": "having to convince them. I'm very glad"
+ },
+ {
+  "start": 633.44,
+  "duration": 3.12,
+  "text": "to see the company doing well, and I"
+ },
+ {
+  "start": 634.8,
+  "duration": 2.64,
+  "text": "hope it will continue to do well. For"
+ },
+ {
+  "start": 636.56,
+  "duration": 2.84,
+  "text": "now though, that is going to do it for"
+ },
+ {
+  "start": 637.44,
+  "duration": 3.76,
+  "text": "today's headlines. Next up, the main"
+ },
+ {
+  "start": 639.4,
+  "duration": 4.04,
+  "text": "episode."
+ },
+ {
+  "start": 641.2,
+  "duration": 5.04,
+  "text": "Welcome back to the AI Daily Brief. Some"
+ },
+ {
+  "start": 643.44,
+  "duration": 5.56,
+  "text": "absolutely seismic shake-ups over in"
+ },
+ {
+  "start": 646.24,
+  "duration": 5.24,
+  "text": "Google land today. Both DeepMind CEO"
+ },
+ {
+  "start": 649.0,
+  "duration": 4.24,
+  "text": "Demis Hassabis and Chief Scientist Jeff"
+ },
+ {
+  "start": 651.48,
+  "duration": 4.28,
+  "text": "Dean have stepped aside from their"
+ },
+ {
+  "start": 653.24,
+  "duration": 4.76,
+  "text": "current roles, marking what is probably"
+ },
+ {
+  "start": 655.76,
+  "duration": 4.48,
+  "text": "the biggest shake-up in a frontier lab"
+ },
+ {
+  "start": 658.0,
+  "duration": 4.88,
+  "text": "since the utter chaos around Sam Altman"
+ },
+ {
+  "start": 660.24,
+  "duration": 4.24,
+  "text": "at OpenAI at the end of 2023. Now, the"
+ },
+ {
+  "start": 662.88,
+  "duration": 3.16,
+  "text": "questions are, of course, what this says"
+ },
+ {
+  "start": 664.48,
+  "duration": 3.44,
+  "text": "about what's going on for Google, what"
+ },
+ {
+  "start": 666.04,
+  "duration": 4.08,
+  "text": "the implications are for the Google AI"
+ },
+ {
+  "start": 667.92,
+  "duration": 3.96,
+  "text": "project. And to reveal my cards a little"
+ },
+ {
+  "start": 670.12,
+  "duration": 4.16,
+  "text": "bit, while I think that the obvious"
+ },
+ {
+  "start": 671.88,
+  "duration": 3.64,
+  "text": "first instinct is to be quite concerned,"
+ },
+ {
+  "start": 674.28,
+  "duration": 2.96,
+  "text": "I also think that there are some strong"
+ },
+ {
+  "start": 675.52,
+  "duration": 3.24,
+  "text": "counterpoints and maybe a different"
+ },
+ {
+  "start": 677.24,
+  "duration": 3.28,
+  "text": "conclusion than some others are coming"
+ },
+ {
+  "start": 678.76,
+  "duration": 3.64,
+  "text": "to that I will share a little bit later."
+ },
+ {
+  "start": 680.52,
+  "duration": 3.36,
+  "text": "But, let's get into the details first."
+ },
+ {
+  "start": 682.4,
+  "duration": 3.8,
+  "text": "Both Hassabis and Dean announced their"
+ },
+ {
+  "start": 683.88,
+  "duration": 4.04,
+  "text": "exits and future plans on Wednesday."
+ },
+ {
+  "start": 686.2,
+  "duration": 4.04,
+  "text": "Hassabis will step aside as DeepMind"
+ },
+ {
+  "start": 687.92,
+  "duration": 4.64,
+  "text": "CEO, but will remain as DeepMind"
+ },
+ {
+  "start": 690.24,
+  "duration": 4.08,
+  "text": "chairman. Koray Kavukcuoglu, formerly"
+ },
+ {
+  "start": 692.56,
+  "duration": 3.4,
+  "text": "the CTO at DeepMind, will take over"
+ },
+ {
+  "start": 694.32,
+  "duration": 4.24,
+  "text": "day-to-day leadership at the division,"
+ },
+ {
+  "start": 695.96,
+  "duration": 4.6,
+  "text": "but not as CEO, instead as senior vice"
+ },
+ {
+  "start": 698.56,
+  "duration": 3.36,
+  "text": "president for DeepMind. In other words,"
+ },
+ {
+  "start": 700.56,
+  "duration": 3.56,
+  "text": "the division will no longer have an"
+ },
+ {
+  "start": 701.92,
+  "duration": 4.64,
+  "text": "independent CEO as does YouTube, Google"
+ },
+ {
+  "start": 704.12,
+  "duration": 4.6,
+  "text": "Cloud, and Waymo. Hassabis will remain"
+ },
+ {
+  "start": 706.56,
+  "duration": 4.04,
+  "text": "in his position as leader of Isomorphic"
+ },
+ {
+  "start": 708.72,
+  "duration": 4.52,
+  "text": "Labs, the drug discovery spin-off"
+ },
+ {
+  "start": 710.6,
+  "duration": 4.84,
+  "text": "incubated by Google since 2021. He will"
+ },
+ {
+  "start": 713.24,
+  "duration": 3.76,
+  "text": "also take over as chief scientist for"
+ },
+ {
+  "start": 715.44,
+  "duration": 3.64,
+  "text": "all of Google."
+ },
+ {
+  "start": 717.0,
+  "duration": 4.6,
+  "text": "In a public note, Alphabet CEO Sundar"
+ },
+ {
+  "start": 719.08,
+  "duration": 3.64,
+  "text": "Pichai wrote, \"Demis has described us as"
+ },
+ {
+  "start": 721.6,
+  "duration": 2.8,
+  "text": "standing in the foothills of the"
+ },
+ {
+  "start": 722.72,
+  "duration": 4.04,
+  "text": "singularity and has been spending a lot"
+ },
+ {
+  "start": 724.4,
+  "duration": 4.0,
+  "text": "of his time engaging externally. He and"
+ },
+ {
+  "start": 726.76,
+  "duration": 3.16,
+  "text": "I have been long discussing a role that"
+ },
+ {
+  "start": 728.4,
+  "duration": 3.88,
+  "text": "allows him to put his full attention on"
+ },
+ {
+  "start": 729.92,
+  "duration": 3.68,
+  "text": "actively shaping the future of AGI. It's"
+ },
+ {
+  "start": 732.28,
+  "duration": 3.2,
+  "text": "work that is vitally important to"
+ },
+ {
+  "start": 733.6,
+  "duration": 3.68,
+  "text": "Alphabet and humanity, and I can't"
+ },
+ {
+  "start": 735.48,
+  "duration": 3.92,
+  "text": "imagine a better person than Demis to do"
+ },
+ {
+  "start": 737.28,
+  "duration": 4.08,
+  "text": "it.\" In his own public message, Demis"
+ },
+ {
+  "start": 739.4,
+  "duration": 3.52,
+  "text": "added, \"We have arrived at a pivotal"
+ },
+ {
+  "start": 741.36,
+  "duration": 3.28,
+  "text": "moment in human history. I have been"
+ },
+ {
+  "start": 742.92,
+  "duration": 3.16,
+  "text": "working towards AGI my whole life, and"
+ },
+ {
+  "start": 744.64,
+  "duration": 3.52,
+  "text": "now, like many of you, I feel it is"
+ },
+ {
+  "start": 746.08,
+  "duration": 3.68,
+  "text": "close at hand. It's critical that we"
+ },
+ {
+  "start": 748.16,
+  "duration": 3.8,
+  "text": "collectively get the next steps right to"
+ },
+ {
+  "start": 749.76,
+  "duration": 3.52,
+  "text": "ensure this all goes well for and we"
+ },
+ {
+  "start": 751.96,
+  "duration": 2.96,
+  "text": "usher in an incredible new age of"
+ },
+ {
+  "start": 753.28,
+  "duration": 3.16,
+  "text": "discovery and wonder. With this"
+ },
+ {
+  "start": 754.92,
+  "duration": 2.72,
+  "text": "backdrop, I've decided that now is the"
+ },
+ {
+  "start": 756.44,
+  "duration": 2.88,
+  "text": "right time for me to hand over my"
+ },
+ {
+  "start": 757.64,
+  "duration": 3.52,
+  "text": "day-to-day operational responsibilities"
+ },
+ {
+  "start": 759.32,
+  "duration": 3.44,
+  "text": "at DeepMind so that I have the time and"
+ },
+ {
+  "start": 761.16,
+  "duration": 3.24,
+  "text": "space to focus on the big picture and"
+ },
+ {
+  "start": 762.76,
+  "duration": 3.32,
+  "text": "help influence what is to come to the"
+ },
+ {
+  "start": 764.4,
+  "duration": 3.92,
+  "text": "best of my ability.\""
+ },
+ {
+  "start": 766.08,
+  "duration": 3.96,
+  "text": "Now, as surprising as Demis's move was,"
+ },
+ {
+  "start": 768.32,
+  "duration": 4.16,
+  "text": "in many ways Jeff Dean is the even"
+ },
+ {
+  "start": 770.04,
+  "duration": 5.0,
+  "text": "bigger Google institution. Dean has been"
+ },
+ {
+  "start": 772.48,
+  "duration": 4.32,
+  "text": "at Google since 1999,"
+ },
+ {
+  "start": 775.04,
+  "duration": 4.4,
+  "text": "led the separate Google AI team between"
+ },
+ {
+  "start": 776.8,
+  "duration": 5.2,
+  "text": "2018 and 2023, and served as Google's"
+ },
+ {
+  "start": 779.44,
+  "duration": 4.64,
+  "text": "chief scientist from 2023 onwards."
+ },
+ {
+  "start": 782.0,
+  "duration": 3.4,
+  "text": "Unlike Demis, Dean is leaving for"
+ },
+ {
+  "start": 784.08,
+  "duration": 2.56,
+  "text": "something new."
+ },
+ {
+  "start": 785.4,
+  "duration": 2.96,
+  "text": "In the same note where he talked about"
+ },
+ {
+  "start": 786.64,
+  "duration": 3.24,
+  "text": "Demis's departure, Sundar Pichai wrote"
+ },
+ {
+  "start": 788.36,
+  "duration": 3.68,
+  "text": "that Dean and Google senior fellow"
+ },
+ {
+  "start": 789.88,
+  "duration": 3.36,
+  "text": "Sanjay Ghemawat are, quote, \"launching"
+ },
+ {
+  "start": 792.04,
+  "duration": 2.96,
+  "text": "an independent public benefit"
+ },
+ {
+  "start": 793.24,
+  "duration": 3.96,
+  "text": "corporation to accelerate discoveries in"
+ },
+ {
+  "start": 795.0,
+  "duration": 4.44,
+  "text": "ML, science, and engineering.\" In a"
+ },
+ {
+  "start": 797.2,
+  "duration": 3.84,
+  "text": "follow-up post on X, Jeff Dean announced"
+ },
+ {
+  "start": 799.44,
+  "duration": 3.16,
+  "text": "that his new startup is called Discovery"
+ },
+ {
+  "start": 801.04,
+  "duration": 4.0,
+  "text": "Loop and will focus on automated"
+ },
+ {
+  "start": 802.6,
+  "duration": 4.36,
+  "text": "research. He wrote, \"Our general"
+ },
+ {
+  "start": 805.04,
+  "duration": 3.84,
+  "text": "approach is to automate the experimental"
+ },
+ {
+  "start": 806.96,
+  "duration": 3.56,
+  "text": "loop. We think this approach is broadly"
+ },
+ {
+  "start": 808.88,
+  "duration": 3.4,
+  "text": "applicable across many fields of science"
+ },
+ {
+  "start": 810.52,
+  "duration": 2.92,
+  "text": "and engineering. We'll initially focus"
+ },
+ {
+  "start": 812.28,
+  "duration": 2.8,
+  "text": "on machine learning research and"
+ },
+ {
+  "start": 813.44,
+  "duration": 3.28,
+  "text": "engineering, but believe the approach"
+ },
+ {
+  "start": 815.08,
+  "duration": 3.52,
+  "text": "can help with important sub problems in"
+ },
+ {
+  "start": 816.72,
+  "duration": 3.4,
+  "text": "nearly every one of the 14 National"
+ },
+ {
+  "start": 818.6,
+  "duration": 3.32,
+  "text": "Academy of Engineering Grand Challenge"
+ },
+ {
+  "start": 820.12,
+  "duration": 3.32,
+  "text": "problems. We think doing this well"
+ },
+ {
+  "start": 821.92,
+  "duration": 3.68,
+  "text": "requires strong expertise in machine"
+ },
+ {
+  "start": 823.44,
+  "duration": 3.8,
+  "text": "learning as well as large-scale systems."
+ },
+ {
+  "start": 825.6,
+  "duration": 2.96,
+  "text": "In a press release the company wrote,"
+ },
+ {
+  "start": 827.24,
+  "duration": 3.2,
+  "text": "\"While science and engineering have"
+ },
+ {
+  "start": 828.56,
+  "duration": 3.76,
+  "text": "tremendously advanced society over past"
+ },
+ {
+  "start": 830.44,
+  "duration": 3.4,
+  "text": "centuries, progress has traditionally"
+ },
+ {
+  "start": 832.32,
+  "duration": 3.04,
+  "text": "relied on slow sequential human"
+ },
+ {
+  "start": 833.84,
+  "duration": 3.24,
+  "text": "iterations, creating a significant"
+ },
+ {
+  "start": 835.36,
+  "duration": 3.24,
+  "text": "bottleneck.\" Discovery Loop is"
+ },
+ {
+  "start": 837.08,
+  "duration": 3.64,
+  "text": "developing advanced AI systems that"
+ },
+ {
+  "start": 838.6,
+  "duration": 3.68,
+  "text": "leverage massive computational scale to"
+ },
+ {
+  "start": 840.72,
+  "duration": 3.32,
+  "text": "fundamentally transform the speed and"
+ },
+ {
+  "start": 842.28,
+  "duration": 4.0,
+  "text": "efficiency of innovation by automating"
+ },
+ {
+  "start": 844.04,
+  "duration": 3.48,
+  "text": "complete experimental loops. In other"
+ },
+ {
+  "start": 846.28,
+  "duration": 3.16,
+  "text": "words, if you thought that loops were"
+ },
+ {
+  "start": 847.52,
+  "duration": 3.68,
+  "text": "just a buzzword or just something for AI"
+ },
+ {
+  "start": 849.44,
+  "duration": 3.28,
+  "text": "coding, Jeff Dean is trying to say that"
+ },
+ {
+  "start": 851.2,
+  "duration": 3.28,
+  "text": "he and his team believe that that is not"
+ },
+ {
+  "start": 852.72,
+  "duration": 3.48,
+  "text": "the case and that this is in fact the"
+ },
+ {
+  "start": 854.48,
+  "duration": 3.32,
+  "text": "pattern that will lead to other types of"
+ },
+ {
+  "start": 856.2,
+  "duration": 4.08,
+  "text": "major advances."
+ },
+ {
+  "start": 857.8,
+  "duration": 4.4,
+  "text": "Google will be investing in Discovery"
+ },
+ {
+  "start": 860.28,
+  "duration": 3.76,
+  "text": "Loop as an initial backer, but"
+ },
+ {
+  "start": 862.2,
+  "duration": 3.6,
+  "text": "importantly the company will be run"
+ },
+ {
+  "start": 864.04,
+  "duration": 4.32,
+  "text": "independently and has raised outside"
+ },
+ {
+  "start": 865.8,
+  "duration": 4.44,
+  "text": "capital from a range of top VCs."
+ },
+ {
+  "start": 868.36,
+  "duration": 4.24,
+  "text": "Somewhat hilariously Jeff posted a few"
+ },
+ {
+  "start": 870.24,
+  "duration": 3.48,
+  "text": "slides from his pitch deck, but Sicheng"
+ },
+ {
+  "start": 872.6,
+  "duration": 2.76,
+  "text": "from Runway got it right when he"
+ },
+ {
+  "start": 873.72,
+  "duration": 3.6,
+  "text": "retweeted that and said, \"Lol, there are"
+ },
+ {
+  "start": 875.36,
+  "duration": 4.68,
+  "text": "precisely zero VCs in the Valley who"
+ },
+ {
+  "start": 877.32,
+  "duration": 4.12,
+  "text": "needed to see a deck from Jeff Dean.\""
+ },
+ {
+  "start": 880.04,
+  "duration": 2.84,
+  "text": "Now, listeners who work in the tech"
+ },
+ {
+  "start": 881.44,
+  "duration": 2.96,
+  "text": "industry will already understand the"
+ },
+ {
+  "start": 882.88,
+  "duration": 3.48,
+  "text": "gravity of these moves, but for those"
+ },
+ {
+  "start": 884.4,
+  "duration": 3.92,
+  "text": "outside of Silicon Valley, it's worth"
+ },
+ {
+  "start": 886.36,
+  "duration": 3.32,
+  "text": "emphasizing just how important these two"
+ },
+ {
+  "start": 888.32,
+  "duration": 3.6,
+  "text": "figures have been to Google's AI"
+ },
+ {
+  "start": 889.68,
+  "duration": 4.56,
+  "text": "journey. Hassabis founded DeepMind as an"
+ },
+ {
+  "start": 891.92,
+  "duration": 4.84,
+  "text": "independent AI lab in 2010 and until the"
+ },
+ {
+  "start": 894.24,
+  "duration": 4.08,
+  "text": "formation of OpenAI, they were the locus"
+ },
+ {
+  "start": 896.76,
+  "duration": 3.72,
+  "text": "of pretty much all major advances in the"
+ },
+ {
+  "start": 898.32,
+  "duration": 4.24,
+  "text": "field. They were acquired by Google in"
+ },
+ {
+  "start": 900.48,
+  "duration": 4.04,
+  "text": "2014 and the following year they grabbed"
+ },
+ {
+  "start": 902.56,
+  "duration": 3.88,
+  "text": "major headlines after pitting their Go"
+ },
+ {
+  "start": 904.52,
+  "duration": 4.319,
+  "text": "playing algorithm AlphaGo against"
+ },
+ {
+  "start": 906.44,
+  "duration": 3.96,
+  "text": "grandmaster Fan Hui. Go is considered a"
+ },
+ {
+  "start": 908.839,
+  "duration": 3.121,
+  "text": "much more complicated game than chess,"
+ },
+ {
+  "start": 910.4,
+  "duration": 3.08,
+  "text": "so at the time it was baffling that a"
+ },
+ {
+  "start": 911.96,
+  "duration": 3.32,
+  "text": "machine could beat a top-ranked human"
+ },
+ {
+  "start": 913.48,
+  "duration": 3.96,
+  "text": "player. The most famous moment in that"
+ },
+ {
+  "start": 915.28,
+  "duration": 4.04,
+  "text": "match was move 37 when the machine"
+ },
+ {
+  "start": 917.44,
+  "duration": 3.56,
+  "text": "played a completely or seemingly"
+ },
+ {
+  "start": 919.32,
+  "duration": 4.2,
+  "text": "unintuitive move that no human would"
+ },
+ {
+  "start": 921.0,
+  "duration": 3.96,
+  "text": "have made. It was so unorthodox in fact"
+ },
+ {
+  "start": 923.52,
+  "duration": 3.84,
+  "text": "that the commentators believed that it"
+ },
+ {
+  "start": 924.96,
+  "duration": 3.84,
+  "text": "was an error or a glitch. But, the move"
+ },
+ {
+  "start": 927.36,
+  "duration": 3.12,
+  "text": "paid dividends later in the match and"
+ },
+ {
+  "start": 928.8,
+  "duration": 3.56,
+  "text": "was crucial to the victory."
+ },
+ {
+  "start": 930.48,
+  "duration": 4.64,
+  "text": "Still, that early triumph was eclipsed"
+ },
+ {
+  "start": 932.36,
+  "duration": 4.24,
+  "text": "in 2018 by the release of AlphaFold, an"
+ },
+ {
+  "start": 935.12,
+  "duration": 3.6,
+  "text": "AI model that could predict protein"
+ },
+ {
+  "start": 936.6,
+  "duration": 3.6,
+  "text": "folding based on an amino acid sequence."
+ },
+ {
+  "start": 938.72,
+  "duration": 3.64,
+  "text": "This was one of the core problems in"
+ },
+ {
+  "start": 940.2,
+  "duration": 3.84,
+  "text": "biology and drug making, and won Demis"
+ },
+ {
+  "start": 942.36,
+  "duration": 3.16,
+  "text": "Hassabis the Nobel Prize in Chemistry in"
+ },
+ {
+  "start": 944.04,
+  "duration": 2.96,
+  "text": "2024."
+ },
+ {
+  "start": 945.52,
+  "duration": 3.24,
+  "text": "While it is certainly the case that none"
+ },
+ {
+  "start": 947.0,
+  "duration": 4.04,
+  "text": "of DeepMind's achievements are solely"
+ },
+ {
+  "start": 948.76,
+  "duration": 3.24,
+  "text": "attributable to Hassabis, he has been"
+ },
+ {
+  "start": 951.04,
+  "duration": 2.8,
+  "text": "the steady hand at the head of the"
+ },
+ {
+  "start": 952.0,
+  "duration": 3.92,
+  "text": "organization since its inception 16"
+ },
+ {
+  "start": 953.84,
+  "duration": 4.48,
+  "text": "years ago. For most folks, the only"
+ },
+ {
+  "start": 955.92,
+  "duration": 4.44,
+  "text": "potential knock on his leadership has"
+ },
+ {
+  "start": 958.32,
+  "duration": 4.76,
+  "text": "been his near exclusive focus on"
+ },
+ {
+  "start": 960.36,
+  "duration": 4.92,
+  "text": "long-term, high-minded goals. From the"
+ },
+ {
+  "start": 963.08,
+  "duration": 4.2,
+  "text": "beginning, Hassabis has been extremely"
+ },
+ {
+  "start": 965.28,
+  "duration": 3.48,
+  "text": "AGI-pilled and viewed the ultimate goal"
+ },
+ {
+  "start": 967.28,
+  "duration": 2.84,
+  "text": "of the technology as things like"
+ },
+ {
+  "start": 968.76,
+  "duration": 3.56,
+  "text": "unlocking the ability to cure all"
+ },
+ {
+  "start": 970.12,
+  "duration": 3.56,
+  "text": "diseases. This arguably led him to"
+ },
+ {
+  "start": 972.32,
+  "duration": 3.2,
+  "text": "forego the commercial opportunity of"
+ },
+ {
+  "start": 973.68,
+  "duration": 4.32,
+  "text": "chatbots after the release of ChatGPT in"
+ },
+ {
+  "start": 975.52,
+  "duration": 4.56,
+  "text": "2022, with Google failing to release any"
+ },
+ {
+  "start": 978.0,
+  "duration": 4.24,
+  "text": "sort of viable competitor until 2024"
+ },
+ {
+  "start": 980.08,
+  "duration": 4.24,
+  "text": "with Gemini 2. Jeff Dean, as I"
+ },
+ {
+  "start": 982.24,
+  "duration": 4.36,
+  "text": "mentioned, joined Google in 1999 as"
+ },
+ {
+  "start": 984.32,
+  "duration": 3.48,
+  "text": "employee number 30, and has been at the"
+ },
+ {
+  "start": 986.6,
+  "duration": 3.0,
+  "text": "heart of every major technology"
+ },
+ {
+  "start": 987.8,
+  "duration": 3.68,
+  "text": "developed at the company ever since. He"
+ },
+ {
+  "start": 989.6,
+  "duration": 3.28,
+  "text": "is a virtuoso-level programmer mentioned"
+ },
+ {
+  "start": 991.48,
+  "duration": 3.48,
+  "text": "in the same breath as luminaries like"
+ },
+ {
+  "start": 992.88,
+  "duration": 3.84,
+  "text": "John Carmack or Linus Torvalds, and"
+ },
+ {
+  "start": 994.96,
+  "duration": 3.36,
+  "text": "arguably has been more instrumental in"
+ },
+ {
+  "start": 996.72,
+  "duration": 3.72,
+  "text": "Google's commercial AI strategy than"
+ },
+ {
+  "start": 998.32,
+  "duration": 4.6,
+  "text": "even Hassabis from his role as the head"
+ },
+ {
+  "start": 1000.44,
+  "duration": 4.44,
+  "text": "of Google AI and then chief scientist."
+ },
+ {
+  "start": 1002.92,
+  "duration": 4.0,
+  "text": "Dean also seems like he is just a really"
+ },
+ {
+  "start": 1004.88,
+  "duration": 3.8,
+  "text": "good guy. The number of stories about"
+ },
+ {
+  "start": 1006.92,
+  "duration": 4.12,
+  "text": "him being a fantastic and generous"
+ },
+ {
+  "start": 1008.68,
+  "duration": 4.12,
+  "text": "mentor to everyone in the company have"
+ },
+ {
+  "start": 1011.04,
+  "duration": 3.32,
+  "text": "just been pouring out, meaning that the"
+ },
+ {
+  "start": 1012.8,
+  "duration": 2.72,
+  "text": "loss for Google truly is more than"
+ },
+ {
+  "start": 1014.36,
+  "duration": 3.84,
+  "text": "technical."
+ },
+ {
+  "start": 1015.52,
+  "duration": 4.44,
+  "text": "So, what does this mean for DeepMind?"
+ },
+ {
+  "start": 1018.2,
+  "duration": 3.68,
+  "text": "One important piece of context is that"
+ },
+ {
+  "start": 1019.96,
+  "duration": 3.72,
+  "text": "Hassabis and Dean aren't actually the"
+ },
+ {
+  "start": 1021.88,
+  "duration": 3.959,
+  "text": "first high-profile exits from Google's"
+ },
+ {
+  "start": 1023.68,
+  "duration": 3.88,
+  "text": "AI work over the past year."
+ },
+ {
+  "start": 1025.839,
+  "duration": 4.161,
+  "text": "Last month, John Jumper left the company"
+ },
+ {
+  "start": 1027.56,
+  "duration": 3.96,
+  "text": "after 9 years and joined Anthropic."
+ },
+ {
+  "start": 1030.0,
+  "duration": 3.56,
+  "text": "Jumper had been a key part of the"
+ },
+ {
+  "start": 1031.52,
+  "duration": 3.88,
+  "text": "AlphaFold project with contributions so"
+ },
+ {
+  "start": 1033.56,
+  "duration": 3.279,
+  "text": "notable that he shared the Nobel Prize"
+ },
+ {
+  "start": 1035.4,
+  "duration": 3.76,
+  "text": "with Demis."
+ },
+ {
+  "start": 1036.839,
+  "duration": 4.921,
+  "text": "That same week, legendary AI researcher"
+ },
+ {
+  "start": 1039.16,
+  "duration": 4.32,
+  "text": "Noam Shazeer left to join OpenAI."
+ },
+ {
+  "start": 1041.76,
+  "duration": 4.199,
+  "text": "Shazeer had been part of early chatbot"
+ },
+ {
+  "start": 1043.48,
+  "duration": 4.12,
+  "text": "efforts at Google, but left in 2021 to"
+ },
+ {
+  "start": 1045.959,
+  "duration": 3.281,
+  "text": "found Character AI after getting"
+ },
+ {
+  "start": 1047.6,
+  "duration": 3.88,
+  "text": "frustrated with Google's refusal to"
+ },
+ {
+  "start": 1049.24,
+  "duration": 4.48,
+  "text": "release a commercial chatbot. Then he"
+ },
+ {
+  "start": 1051.48,
+  "duration": 4.52,
+  "text": "returned in 2024 as part of a $2.7"
+ },
+ {
+  "start": 1053.72,
+  "duration": 4.2,
+  "text": "billion acquihire deal, and since then"
+ },
+ {
+  "start": 1056.0,
+  "duration": 3.32,
+  "text": "had served as the tech lead on Gemini,"
+ },
+ {
+  "start": 1057.92,
+  "duration": 3.56,
+  "text": "playing a major role in getting the"
+ },
+ {
+  "start": 1059.32,
+  "duration": 3.96,
+  "text": "product up to snuff. So then, one"
+ },
+ {
+  "start": 1061.48,
+  "duration": 3.56,
+  "text": "possible and plausible interpretation of"
+ },
+ {
+  "start": 1063.28,
+  "duration": 3.48,
+  "text": "this week's news is a continuation of"
+ },
+ {
+  "start": 1065.04,
+  "duration": 2.88,
+  "text": "the brain drain that's been happening at"
+ },
+ {
+  "start": 1066.76,
+  "duration": 3.36,
+  "text": "Google throughout throughout the year."
+ },
+ {
+  "start": 1067.92,
+  "duration": 5.36,
+  "text": "Core Auto's Rohan Aneel summed this up,"
+ },
+ {
+  "start": 1070.12,
+  "duration": 4.2,
+  "text": "\"Pour one out for Big G, it's so over.\""
+ },
+ {
+  "start": 1073.28,
+  "duration": 2.96,
+  "text": "And I would say on average, that is"
+ },
+ {
+  "start": 1074.32,
+  "duration": 4.48,
+  "text": "probably the most common category of"
+ },
+ {
+  "start": 1076.24,
+  "duration": 4.44,
+  "text": "response. Tenebris writes, \"Demis is"
+ },
+ {
+  "start": 1078.8,
+  "duration": 3.8,
+  "text": "ousted as DeepMind CEO and Jeff Dean and"
+ },
+ {
+  "start": 1080.68,
+  "duration": 3.32,
+  "text": "Sanjay are leaving to start a Neo Lab."
+ },
+ {
+  "start": 1082.6,
+  "duration": 3.08,
+  "text": "They're all being very careful to frame"
+ },
+ {
+  "start": 1084.0,
+  "duration": 3.2,
+  "text": "these as positive shifts, but there's no"
+ },
+ {
+  "start": 1085.68,
+  "duration": 3.0,
+  "text": "way in hell Demis would have accepted"
+ },
+ {
+  "start": 1087.2,
+  "duration": 3.16,
+  "text": "this willingly, and there's no way"
+ },
+ {
+  "start": 1088.68,
+  "duration": 4.32,
+  "text": "Sundar happily accepted Jeff doing this"
+ },
+ {
+  "start": 1090.36,
+  "duration": 4.48,
+  "text": "as a totally independent new PBC rather"
+ },
+ {
+  "start": 1093.0,
+  "duration": 3.4,
+  "text": "than a bet under Alphabet.\""
+ },
+ {
+  "start": 1094.84,
+  "duration": 3.28,
+  "text": "Tough to see an interpretation other"
+ },
+ {
+  "start": 1096.4,
+  "duration": 4.72,
+  "text": "than Jeff losing confidence in working"
+ },
+ {
+  "start": 1098.12,
+  "duration": 4.92,
+  "text": "on AGI under Google. Very bad day for"
+ },
+ {
+  "start": 1101.12,
+  "duration": 3.84,
+  "text": "Alphabet overall."
+ },
+ {
+  "start": 1103.04,
+  "duration": 4.36,
+  "text": "Author Take Him writes, \"Jeff Dean"
+ },
+ {
+  "start": 1104.96,
+  "duration": 3.88,
+  "text": "leaving is a huge red flag. He created"
+ },
+ {
+  "start": 1107.4,
+  "duration": 4.32,
+  "text": "nearly everything important to Google"
+ },
+ {
+  "start": 1108.84,
+  "duration": 4.56,
+  "text": "from AI to TPUs to search. This is a day"
+ },
+ {
+  "start": 1111.72,
+  "duration": 3.24,
+  "text": "for the history books.\""
+ },
+ {
+  "start": 1113.4,
+  "duration": 3.68,
+  "text": "Markets seem to agree with Google down"
+ },
+ {
+  "start": 1114.96,
+  "duration": 3.48,
+  "text": "4% on the day, although honestly some"
+ },
+ {
+  "start": 1117.08,
+  "duration": 4.0,
+  "text": "were surprised that the market impact"
+ },
+ {
+  "start": 1118.44,
+  "duration": 4.52,
+  "text": "was that little. Sajid Mahmood wrote,"
+ },
+ {
+  "start": 1121.08,
+  "duration": 3.68,
+  "text": "\"Google being down only 4% on Jeff Demis"
+ },
+ {
+  "start": 1122.96,
+  "duration": 3.12,
+  "text": "news either means one, markets are dumb"
+ },
+ {
+  "start": 1124.76,
+  "duration": 3.04,
+  "text": "and don't understand how valuable they"
+ },
+ {
+  "start": 1126.08,
+  "duration": 3.12,
+  "text": "are, or two, markets are smart and"
+ },
+ {
+  "start": 1127.8,
+  "duration": 2.76,
+  "text": "already priced in the risk of top-tier"
+ },
+ {
+  "start": 1129.2,
+  "duration": 3.6,
+  "text": "talent leaving.\""
+ },
+ {
+  "start": 1130.56,
+  "duration": 4.44,
+  "text": "Former DeepMind researcher Susan Zhang"
+ },
+ {
+  "start": 1132.8,
+  "duration": 3.8,
+  "text": "wrote a very cryptic post about internal"
+ },
+ {
+  "start": 1135.0,
+  "duration": 2.92,
+  "text": "politics at Google, adding in a"
+ },
+ {
+  "start": 1136.6,
+  "duration": 3.16,
+  "text": "follow-up that she had gotten pretty"
+ },
+ {
+  "start": 1137.92,
+  "duration": 3.24,
+  "text": "burned out by certain people who just"
+ },
+ {
+  "start": 1139.76,
+  "duration": 2.72,
+  "text": "say yes to everything to avoid ever"
+ },
+ {
+  "start": 1141.16,
+  "duration": 2.6,
+  "text": "making a hard call and leave it to all"
+ },
+ {
+  "start": 1142.48,
+  "duration": 2.92,
+  "text": "the hungry minions to backstab each"
+ },
+ {
+  "start": 1143.76,
+  "duration": 2.92,
+  "text": "other until success finds a cursed hole"
+ },
+ {
+  "start": 1145.4,
+  "duration": 2.84,
+  "text": "to crawl out of."
+ },
+ {
+  "start": 1146.68,
+  "duration": 4.08,
+  "text": "So perhaps reports that there are some"
+ },
+ {
+  "start": 1148.24,
+  "duration": 4.36,
+  "text": "culture issues aren't that far off."
+ },
+ {
+  "start": 1150.76,
+  "duration": 3.72,
+  "text": "And yet practically speaking, some are"
+ },
+ {
+  "start": 1152.6,
+  "duration": 3.48,
+  "text": "arguing that this might just at this"
+ },
+ {
+  "start": 1154.48,
+  "duration": 3.92,
+  "text": "point be a formalization of something"
+ },
+ {
+  "start": 1156.08,
+  "duration": 3.84,
+  "text": "that had effectively already happened."
+ },
+ {
+  "start": 1158.4,
+  "duration": 3.32,
+  "text": "Shortly after the announcement, reports"
+ },
+ {
+  "start": 1159.92,
+  "duration": 3.12,
+  "text": "surfaced that suggested that Demis had"
+ },
+ {
+  "start": 1161.72,
+  "duration": 4.08,
+  "text": "already been checked out for the better"
+ },
+ {
+  "start": 1163.04,
+  "duration": 4.76,
+  "text": "part of a year. Writes Semafor, Google"
+ },
+ {
+  "start": 1165.8,
+  "duration": 3.24,
+  "text": "DeepMind CEO Demis Hassabis' departure"
+ },
+ {
+  "start": 1167.8,
+  "duration": 3.36,
+  "text": "Wednesday from the top job at the"
+ },
+ {
+  "start": 1169.04,
+  "duration": 4.76,
+  "text": "company he founded in 2010 and sold to"
+ },
+ {
+  "start": 1171.16,
+  "duration": 4.12,
+  "text": "Google in 2014 was at least a year in"
+ },
+ {
+  "start": 1173.8,
+  "duration": 3.16,
+  "text": "the making, said two people familiar"
+ },
+ {
+  "start": 1175.28,
+  "duration": 2.84,
+  "text": "with his thinking. Hassabis had been"
+ },
+ {
+  "start": 1176.96,
+  "duration": 2.32,
+  "text": "drifting away from the day-to-day"
+ },
+ {
+  "start": 1178.12,
+  "duration": 3.2,
+  "text": "responsibilities of running the"
+ },
+ {
+  "start": 1179.28,
+  "duration": 4.08,
+  "text": "company's Gemini AI models and its"
+ },
+ {
+  "start": 1181.32,
+  "duration": 3.6,
+  "text": "consumer AI strategy, increasingly"
+ },
+ {
+  "start": 1183.36,
+  "duration": 4.08,
+  "text": "shifting them to Kevon Coglu, the"
+ },
+ {
+  "start": 1184.92,
+  "duration": 4.08,
+  "text": "company's chief AI architect. Said both"
+ },
+ {
+  "start": 1187.44,
+  "duration": 3.48,
+  "text": "sources, Hassabis wasn't pushed out"
+ },
+ {
+  "start": 1189.0,
+  "duration": 3.52,
+  "text": "against his will. Rather, he struggled"
+ },
+ {
+  "start": 1190.92,
+  "duration": 3.28,
+  "text": "to get satisfaction out of being in the"
+ },
+ {
+  "start": 1192.52,
+  "duration": 3.6,
+  "text": "role of a tech executive rather than a"
+ },
+ {
+  "start": 1194.2,
+  "duration": 3.4,
+  "text": "visionary scientist."
+ },
+ {
+  "start": 1196.12,
+  "duration": 2.96,
+  "text": "Now this would seem to line up with how"
+ },
+ {
+  "start": 1197.6,
+  "duration": 3.4,
+  "text": "Sundar Pichai described Demis'"
+ },
+ {
+  "start": 1199.08,
+  "duration": 3.56,
+  "text": "departure. Pichai referred to the shift"
+ },
+ {
+  "start": 1201.0,
+  "duration": 3.24,
+  "text": "away from DeepMind to lead Isomorphic"
+ },
+ {
+  "start": 1202.64,
+  "duration": 3.88,
+  "text": "Labs and take on the role of chief"
+ },
+ {
+  "start": 1204.24,
+  "duration": 3.8,
+  "text": "scientist as, quote, truly his life's"
+ },
+ {
+  "start": 1206.52,
+  "duration": 3.12,
+  "text": "work and purpose."
+ },
+ {
+  "start": 1208.04,
+  "duration": 4.28,
+  "text": "And for a lot of folks, this is the"
+ },
+ {
+  "start": 1209.64,
+  "duration": 5.56,
+  "text": "self-evident point. One biopharma and"
+ },
+ {
+  "start": 1212.32,
+  "duration": 4.52,
+  "text": "CEO Parm kinda crashed out, smashing the"
+ },
+ {
+  "start": 1215.2,
+  "duration": 3.64,
+  "text": "keyboard in all caps."
+ },
+ {
+  "start": 1216.84,
+  "duration": 3.2,
+  "text": "He is still the CEO of Isomorphic Labs."
+ },
+ {
+  "start": 1218.84,
+  "duration": 3.56,
+  "text": "He is doing the right thing. He is"
+ },
+ {
+  "start": 1220.04,
+  "duration": 3.8,
+  "text": "building drugs instead of Gemini Pro 7.5"
+ },
+ {
+  "start": 1222.4,
+  "duration": 3.0,
+  "text": "max parallel reasoning for you to code"
+ },
+ {
+  "start": 1223.84,
+  "duration": 3.56,
+  "text": "Python better. So he can keep his"
+ },
+ {
+  "start": 1225.4,
+  "duration": 3.28,
+  "text": "promise of saving lives."
+ },
+ {
+  "start": 1227.4,
+  "duration": 2.64,
+  "text": "Now another big implication though of"
+ },
+ {
+  "start": 1228.68,
+  "duration": 3.16,
+  "text": "the move is that Hassabis will have the"
+ },
+ {
+  "start": 1230.04,
+  "duration": 3.88,
+  "text": "opportunity to focus on policy with"
+ },
+ {
+  "start": 1231.84,
+  "duration": 3.52,
+  "text": "day-to-day operations off his plate. And"
+ },
+ {
+  "start": 1233.92,
+  "duration": 3.24,
+  "text": "we've certainly seen some evidence of"
+ },
+ {
+  "start": 1235.36,
+  "duration": 3.56,
+  "text": "this with Hassabis publishing a lengthy"
+ },
+ {
+  "start": 1237.16,
+  "duration": 3.84,
+  "text": "proposal for frontier AI regulations"
+ },
+ {
+  "start": 1238.92,
+  "duration": 3.88,
+  "text": "last month. The core idea was to create"
+ },
+ {
+  "start": 1241.0,
+  "duration": 3.32,
+  "text": "a self-regulatory body to enable"
+ },
+ {
+  "start": 1242.8,
+  "duration": 3.28,
+  "text": "collaboration between the major labs and"
+ },
+ {
+  "start": 1244.32,
+  "duration": 3.96,
+  "text": "government regulators modeled after"
+ },
+ {
+  "start": 1246.08,
+  "duration": 4.16,
+  "text": "FINRA in financial regulation."
+ },
+ {
+  "start": 1248.28,
+  "duration": 3.76,
+  "text": "Wrote journalist Alex Heath, Inside"
+ },
+ {
+  "start": 1250.24,
+  "duration": 3.96,
+  "text": "Google DeepMind, Demis Hassabis leaving"
+ },
+ {
+  "start": 1252.04,
+  "duration": 4.08,
+  "text": "his CEO post landed with essentially a"
+ },
+ {
+  "start": 1254.2,
+  "duration": 3.44,
+  "text": "shrug. Sources tell me he's already been"
+ },
+ {
+  "start": 1256.12,
+  "duration": 4.2,
+  "text": "disengaged from day-to-day management"
+ },
+ {
+  "start": 1257.64,
+  "duration": 3.76,
+  "text": "for a while now. However, says Alex,"
+ },
+ {
+  "start": 1260.32,
+  "duration": 3.84,
+  "text": "that doesn't mean that there aren't big"
+ },
+ {
+  "start": 1261.4,
+  "duration": 4.52,
+  "text": "implications. He continued, But Demis"
+ },
+ {
+  "start": 1264.16,
+  "duration": 3.4,
+  "text": "was a firewall between DeepMind and the"
+ },
+ {
+  "start": 1265.92,
+  "duration": 3.12,
+  "text": "rest of Google even as the two got"
+ },
+ {
+  "start": 1267.56,
+  "duration": 3.32,
+  "text": "pulled closer over the last couple of"
+ },
+ {
+  "start": 1269.04,
+  "duration": 4.88,
+  "text": "years. I expect that distance to"
+ },
+ {
+  "start": 1270.88,
+  "duration": 5.36,
+  "text": "dissolve more with him stepping back."
+ },
+ {
+  "start": 1273.92,
+  "duration": 4.6,
+  "text": "To some the bigger surprise is both Jeff"
+ },
+ {
+  "start": 1276.24,
+  "duration": 4.36,
+  "text": "Dean leaving to start a new company, but"
+ },
+ {
+  "start": 1278.52,
+  "duration": 4.24,
+  "text": "also that company not being incubated"
+ },
+ {
+  "start": 1280.6,
+  "duration": 3.68,
+  "text": "within the larger Alphabet structure."
+ },
+ {
+  "start": 1282.76,
+  "duration": 3.12,
+  "text": "Indeed in some ways the entire premise"
+ },
+ {
+  "start": 1284.28,
+  "duration": 3.28,
+  "text": "of Google's parent company Alphabet is"
+ },
+ {
+  "start": 1285.88,
+  "duration": 2.76,
+  "text": "to function as an incubator on a grand"
+ },
+ {
+  "start": 1287.56,
+  "duration": 2.6,
+  "text": "scale."
+ },
+ {
+  "start": 1288.64,
+  "duration": 3.84,
+  "text": "Some now think the explanation is pretty"
+ },
+ {
+  "start": 1290.16,
+  "duration": 4.64,
+  "text": "simple. Author Teke Yemane again writes,"
+ },
+ {
+  "start": 1292.48,
+  "duration": 3.96,
+  "text": "\"OMG they didn't want to work with TPUs."
+ },
+ {
+  "start": 1294.8,
+  "duration": 3.6,
+  "text": "Jensen is probably calling Jeff Dean"
+ },
+ {
+  "start": 1296.44,
+  "duration": 3.52,
+  "text": "right now. Google's infrastructure works"
+ },
+ {
+  "start": 1298.4,
+  "duration": 3.52,
+  "text": "well for big consumer apps, large ad"
+ },
+ {
+  "start": 1299.96,
+  "duration": 3.2,
+  "text": "systems and search, but he said it has"
+ },
+ {
+  "start": 1301.92,
+  "duration": 2.68,
+  "text": "very different requirements than the"
+ },
+ {
+  "start": 1303.16,
+  "duration": 3.2,
+  "text": "type of infrastructure we want to build"
+ },
+ {
+  "start": 1304.6,
+  "duration": 3.24,
+  "text": "for research.\" In other words, this"
+ },
+ {
+  "start": 1306.36,
+  "duration": 3.4,
+  "text": "isn't some crazy big Machiavellian"
+ },
+ {
+  "start": 1307.84,
+  "duration": 3.48,
+  "text": "thing. It is just talent following"
+ },
+ {
+  "start": 1309.76,
+  "duration": 3.72,
+  "text": "compute and the right type of compute"
+ },
+ {
+  "start": 1311.32,
+  "duration": 3.44,
+  "text": "for the project at hand. And there are"
+ },
+ {
+  "start": 1313.48,
+  "duration": 3.36,
+  "text": "still some keeping the faith over at"
+ },
+ {
+  "start": 1314.76,
+  "duration": 3.84,
+  "text": "Google. Very visible member of the team"
+ },
+ {
+  "start": 1316.84,
+  "duration": 4.68,
+  "text": "Logan Kilpatrick tweeted that he"
+ },
+ {
+  "start": 1318.6,
+  "duration": 4.24,
+  "text": "remained steadfast bullish on Gemini."
+ },
+ {
+  "start": 1321.52,
+  "duration": 3.76,
+  "text": "But a lot of folks are asking where the"
+ },
+ {
+  "start": 1322.84,
+  "duration": 3.76,
+  "text": "heck Gemini is. In fact, some actually"
+ },
+ {
+  "start": 1325.28,
+  "duration": 3.64,
+  "text": "thought that we were finally going to"
+ },
+ {
+  "start": 1326.6,
+  "duration": 3.96,
+  "text": "get Gemini 3.5 Pro alongside these"
+ },
+ {
+  "start": 1328.92,
+  "duration": 3.44,
+  "text": "announcements. Although then the leaker"
+ },
+ {
+  "start": 1330.56,
+  "duration": 2.84,
+  "text": "said that it was being pushed a day, so"
+ },
+ {
+  "start": 1332.36,
+  "duration": 3.2,
+  "text": "who knows? Maybe by the time you're"
+ },
+ {
+  "start": 1333.4,
+  "duration": 4.56,
+  "text": "listening to this Gemini 3.5 Pro will"
+ },
+ {
+  "start": 1335.56,
+  "duration": 4.8,
+  "text": "actually be out. And yet I don't think"
+ },
+ {
+  "start": 1337.96,
+  "duration": 3.64,
+  "text": "that 3.5 Pro is likely to solve all"
+ },
+ {
+  "start": 1340.36,
+  "duration": 3.72,
+  "text": "their problems or answer the big"
+ },
+ {
+  "start": 1341.6,
+  "duration": 4.12,
+  "text": "questions. Alex Heath again reported,"
+ },
+ {
+  "start": 1344.08,
+  "duration": 3.64,
+  "text": "\"Google is currently running behind the"
+ },
+ {
+  "start": 1345.72,
+  "duration": 3.76,
+  "text": "frontier especially on coding and the"
+ },
+ {
+  "start": 1347.72,
+  "duration": 4.0,
+  "text": "internal sentiment I'm hearing on Gemini"
+ },
+ {
+  "start": 1349.48,
+  "duration": 3.96,
+  "text": "4 is muted. On its current trajectory"
+ },
+ {
+  "start": 1351.72,
+  "duration": 3.28,
+  "text": "it's not expected to push frontier AI"
+ },
+ {
+  "start": 1353.44,
+  "duration": 4.68,
+  "text": "forward the way Fable and Soul just"
+ },
+ {
+  "start": 1355.0,
+  "duration": 4.28,
+  "text": "did.\" And this could be a major issue."
+ },
+ {
+  "start": 1358.12,
+  "duration": 3.12,
+  "text": "Wall Street might be willing to have a"
+ },
+ {
+  "start": 1359.28,
+  "duration": 4.32,
+  "text": "muted response to serious top talent"
+ },
+ {
+  "start": 1361.24,
+  "duration": 4.2,
+  "text": "leaving, but proof of what it feels like"
+ },
+ {
+  "start": 1363.6,
+  "duration": 3.48,
+  "text": "that Google is unable to keep up with"
+ },
+ {
+  "start": 1365.44,
+  "duration": 4.04,
+  "text": "OpenAI and Anthropic at the state of the"
+ },
+ {
+  "start": 1367.08,
+  "duration": 4.32,
+  "text": "art would have some serious financial"
+ },
+ {
+  "start": 1369.48,
+  "duration": 3.64,
+  "text": "market implications."
+ },
+ {
+  "start": 1371.4,
+  "duration": 3.76,
+  "text": "You know, in the past one of my cautions"
+ },
+ {
+  "start": 1373.12,
+  "duration": 4.48,
+  "text": "around personnel movements has been that"
+ },
+ {
+  "start": 1375.16,
+  "duration": 4.8,
+  "text": "there is so much that goes into any"
+ },
+ {
+  "start": 1377.6,
+  "duration": 4.4,
+  "text": "individual's decisions about what they"
+ },
+ {
+  "start": 1379.96,
+  "duration": 4.64,
+  "text": "spend their time on that I think it is"
+ },
+ {
+  "start": 1382.0,
+  "duration": 4.6,
+  "text": "very easy to significantly overestimate"
+ },
+ {
+  "start": 1384.6,
+  "duration": 4.16,
+  "text": "the broader implications of a personnel"
+ },
+ {
+  "start": 1386.6,
+  "duration": 3.92,
+  "text": "move when a lot of it in many cases is"
+ },
+ {
+  "start": 1388.76,
+  "duration": 3.48,
+  "text": "in fact just personal."
+ },
+ {
+  "start": 1390.52,
+  "duration": 4.04,
+  "text": "Taking Demis in that light, he is"
+ },
+ {
+  "start": 1392.24,
+  "duration": 3.96,
+  "text": "certainly not short on resources. He has"
+ },
+ {
+  "start": 1394.56,
+  "duration": 3.8,
+  "text": "been in this leadership role for a very"
+ },
+ {
+  "start": 1396.2,
+  "duration": 3.72,
+  "text": "long time. He has dealt with a huge"
+ },
+ {
+  "start": 1398.36,
+  "duration": 3.48,
+  "text": "amount of internal politics as Google"
+ },
+ {
+  "start": 1399.92,
+  "duration": 3.72,
+  "text": "reorganized its AI divisions numerous"
+ },
+ {
+  "start": 1401.84,
+  "duration": 4.08,
+  "text": "times, and he's found himself in the"
+ },
+ {
+  "start": 1403.64,
+  "duration": 3.56,
+  "text": "dogfight of all business dogfights when"
+ },
+ {
+  "start": 1405.92,
+  "duration": 2.76,
+  "text": "that's never where he really wanted to"
+ },
+ {
+  "start": 1407.2,
+  "duration": 3.72,
+  "text": "be in the first place."
+ },
+ {
+  "start": 1408.68,
+  "duration": 4.16,
+  "text": "I think Sundar Pichai's analysis that"
+ },
+ {
+  "start": 1410.92,
+  "duration": 4.04,
+  "text": "where he's moving is a better type of"
+ },
+ {
+  "start": 1412.84,
+  "duration": 4.64,
+  "text": "fit for him is true even if there's more"
+ },
+ {
+  "start": 1414.96,
+  "duration": 5.2,
+  "text": "going on than that post lets on. And for"
+ },
+ {
+  "start": 1417.48,
+  "duration": 4.88,
+  "text": "Jeff Dean, as deeply associated with so"
+ },
+ {
+  "start": 1420.16,
+  "duration": 5.28,
+  "text": "many of Google's innovations as he is,"
+ },
+ {
+  "start": 1422.36,
+  "duration": 5.2,
+  "text": "after 27 years at a single company in"
+ },
+ {
+  "start": 1425.44,
+  "duration": 3.84,
+  "text": "the modern age that we live in, can you"
+ },
+ {
+  "start": 1427.56,
+  "duration": 4.0,
+  "text": "really fault the guy for wanting to go"
+ },
+ {
+  "start": 1429.28,
+  "duration": 4.44,
+  "text": "out and do something on his own in a new"
+ },
+ {
+  "start": 1431.56,
+  "duration": 3.52,
+  "text": "context without the bureaucracy, with"
+ },
+ {
+  "start": 1433.72,
+  "duration": 2.56,
+  "text": "just a bunch of big brain bro and"
+ },
+ {
+  "start": 1435.08,
+  "duration": 3.36,
+  "text": "bro-ettes that he got to pick for"
+ },
+ {
+  "start": 1436.28,
+  "duration": 4.32,
+  "text": "himself? I think the bigger story is"
+ },
+ {
+  "start": 1438.44,
+  "duration": 4.68,
+  "text": "that the man lasted for 27 years at a"
+ },
+ {
+  "start": 1440.6,
+  "duration": 4.6,
+  "text": "big company, even one as cool as Google."
+ },
+ {
+  "start": 1443.12,
+  "duration": 3.92,
+  "text": "And yet still, while one or even two"
+ },
+ {
+  "start": 1445.2,
+  "duration": 3.52,
+  "text": "changes might be seen as individual data"
+ },
+ {
+  "start": 1447.04,
+  "duration": 3.08,
+  "text": "points, combine these with the other"
+ },
+ {
+  "start": 1448.72,
+  "duration": 2.88,
+  "text": "high-profile departures from the last"
+ },
+ {
+  "start": 1450.12,
+  "duration": 3.6,
+  "text": "couple of months and it certainly does"
+ },
+ {
+  "start": 1451.6,
+  "duration": 4.2,
+  "text": "seem to be a pattern. And it's a pattern"
+ },
+ {
+  "start": 1453.72,
+  "duration": 3.92,
+  "text": "that's happening in a context that is"
+ },
+ {
+  "start": 1455.8,
+  "duration": 4.24,
+  "text": "undoubtedly, at least in most people's"
+ },
+ {
+  "start": 1457.64,
+  "duration": 5.4,
+  "text": "eyes, of Google having fallen critically"
+ },
+ {
+  "start": 1460.04,
+  "duration": 4.48,
+  "text": "behind in the AI race. Take Ham who I've"
+ },
+ {
+  "start": 1463.04,
+  "duration": 3.32,
+  "text": "quoted a couple times in this show,"
+ },
+ {
+  "start": 1464.52,
+  "duration": 3.48,
+  "text": "wrote a post in July called Google is a"
+ },
+ {
+  "start": 1466.36,
+  "duration": 3.72,
+  "text": "secular short."
+ },
+ {
+  "start": 1468.0,
+  "duration": 3.76,
+  "text": "In it he argued, \"Hassabis and Demis"
+ },
+ {
+  "start": 1470.08,
+  "duration": 3.0,
+  "text": "mind chase one shiny vanity science"
+ },
+ {
+  "start": 1471.76,
+  "duration": 3.28,
+  "text": "project after another while being"
+ },
+ {
+  "start": 1473.08,
+  "duration": 4.0,
+  "text": "blindsided by every major commercial AI"
+ },
+ {
+  "start": 1475.04,
+  "duration": 4.6,
+  "text": "advance from LLMs and reasoning models"
+ },
+ {
+  "start": 1477.08,
+  "duration": 4.88,
+  "text": "to agentic AI. They miss and fall behind"
+ },
+ {
+  "start": 1479.64,
+  "duration": 3.84,
+  "text": "every big AI wave. Most importantly,"
+ },
+ {
+  "start": 1481.96,
+  "duration": 3.24,
+  "text": "Google has fallen critically behind in"
+ },
+ {
+  "start": 1483.48,
+  "duration": 4.2,
+  "text": "the third major wave of AI computing,"
+ },
+ {
+  "start": 1485.2,
+  "duration": 4.04,
+  "text": "coding agents and agentic AI. Anthropic"
+ },
+ {
+  "start": 1487.68,
+  "duration": 3.04,
+  "text": "and OpenAI are thriving by selling"
+ },
+ {
+  "start": 1489.24,
+  "duration": 2.76,
+  "text": "coding agents to corporations,"
+ },
+ {
+  "start": 1490.72,
+  "duration": 2.56,
+  "text": "generating billions in revenue that"
+ },
+ {
+  "start": 1492.0,
+  "duration": 3.4,
+  "text": "could turn into hundreds of billions in"
+ },
+ {
+  "start": 1493.28,
+  "duration": 3.56,
+  "text": "the coming years. Gemini has become a"
+ },
+ {
+  "start": 1495.4,
+  "duration": 3.52,
+  "text": "laughing stock among AI model"
+ },
+ {
+  "start": 1496.84,
+  "duration": 3.92,
+  "text": "enthusiasts in Silicon Valley. Where is"
+ },
+ {
+  "start": 1498.92,
+  "duration": 3.88,
+  "text": "Gemini on the coding agent leaderboards?"
+ },
+ {
+  "start": 1500.76,
+  "duration": 3.48,
+  "text": "Nowhere. Bloomberg also reported that"
+ },
+ {
+  "start": 1502.8,
+  "duration": 3.64,
+  "text": "Google is months behind schedule with"
+ },
+ {
+  "start": 1504.24,
+  "duration": 4.32,
+  "text": "Gemini 3.5 Pro as it tries to improve"
+ },
+ {
+  "start": 1506.44,
+  "duration": 3.72,
+  "text": "its coding capabilities. Many wonder why"
+ },
+ {
+  "start": 1508.56,
+  "duration": 3.6,
+  "text": "Google, with all of its resources, can't"
+ },
+ {
+  "start": 1510.16,
+  "duration": 4.36,
+  "text": "beat a tiny Chinese startup like Kimi"
+ },
+ {
+  "start": 1512.16,
+  "duration": 4.04,
+  "text": "maker Moonshot in the AI model race."
+ },
+ {
+  "start": 1514.52,
+  "duration": 3.48,
+  "text": "Even the one time Gemini caught up with"
+ },
+ {
+  "start": 1516.2,
+  "duration": 3.48,
+  "text": "its release late last year, it was state"
+ },
+ {
+  "start": 1518.0,
+  "duration": 4.08,
+  "text": "of the art for just 6 days before being"
+ },
+ {
+  "start": 1519.68,
+  "duration": 3.88,
+  "text": "overtaken by Anthropic's Claude Opus."
+ },
+ {
+  "start": 1522.08,
+  "duration": 3.52,
+  "text": "And so, while that is obviously not an"
+ },
+ {
+  "start": 1523.56,
+  "duration": 3.4,
+  "text": "argument that this is good for Google,"
+ },
+ {
+  "start": 1525.6,
+  "duration": 3.8,
+  "text": "it is instead simply an argument about"
+ },
+ {
+  "start": 1526.96,
+  "duration": 4.2,
+  "text": "the facts, about where they are today. I"
+ },
+ {
+  "start": 1529.4,
+  "duration": 3.8,
+  "text": "think that some parts of this history"
+ },
+ {
+  "start": 1531.16,
+  "duration": 4.16,
+  "text": "are fairly undeniable."
+ },
+ {
+  "start": 1533.2,
+  "duration": 3.96,
+  "text": "Perhaps most emblematic of this is the"
+ },
+ {
+  "start": 1535.32,
+  "duration": 4.28,
+  "text": "failure to launch ChatGPT before"
+ },
+ {
+  "start": 1537.16,
+  "duration": 4.72,
+  "text": "ChatGPT. Midjourney's Cheng Lu recently"
+ },
+ {
+  "start": 1539.6,
+  "duration": 3.72,
+  "text": "tweeted, \"I sometimes think about that"
+ },
+ {
+  "start": 1541.88,
+  "duration": 3.96,
+  "text": "Jeff Dean interview where he said that"
+ },
+ {
+  "start": 1543.32,
+  "duration": 4.12,
+  "text": "they had an internal bot before ChatGPT,"
+ },
+ {
+  "start": 1545.84,
+  "duration": 2.64,
+  "text": "but didn't think it was better than just"
+ },
+ {
+  "start": 1547.44,
+  "duration": 3.16,
+  "text": "Googling.\""
+ },
+ {
+  "start": 1548.48,
+  "duration": 5.16,
+  "text": "Tibo, who now leads Codex and ChatGPT at"
+ },
+ {
+  "start": 1550.6,
+  "duration": 5.88,
+  "text": "OpenAI, responded and said, \"I was part"
+ },
+ {
+  "start": 1553.64,
+  "duration": 5.28,
+  "text": "of that team. Basically, ChatGPT 1 year"
+ },
+ {
+  "start": 1556.48,
+  "duration": 4.56,
+  "text": "before it came out, called LM Chat and"
+ },
+ {
+  "start": 1558.92,
+  "duration": 3.92,
+  "text": "then another code name. Google was too"
+ },
+ {
+  "start": 1561.04,
+  "duration": 3.04,
+  "text": "nervous to release it and DeepMind was"
+ },
+ {
+  "start": 1562.84,
+  "duration": 3.76,
+  "text": "blocked from shipping products that"
+ },
+ {
+  "start": 1564.08,
+  "duration": 3.84,
+  "text": "could disrupt Google. I think about this"
+ },
+ {
+  "start": 1566.6,
+  "duration": 3.12,
+  "text": "a lot.\""
+ },
+ {
+  "start": 1567.92,
+  "duration": 3.92,
+  "text": "Now, anyone who was around back then can"
+ },
+ {
+  "start": 1569.72,
+  "duration": 4.64,
+  "text": "remember just how insane it was for all"
+ },
+ {
+  "start": 1571.84,
+  "duration": 4.2,
+  "text": "of 2023 and the beginning of 2024 that"
+ },
+ {
+  "start": 1574.36,
+  "duration": 3.2,
+  "text": "Google had not only let the startup"
+ },
+ {
+  "start": 1576.04,
+  "duration": 3.6,
+  "text": "flank it, but that it simply couldn't"
+ },
+ {
+  "start": 1577.56,
+  "duration": 3.64,
+  "text": "catch up. Where it finally started to"
+ },
+ {
+  "start": 1579.64,
+  "duration": 3.88,
+  "text": "get some of its mojo back was in late"
+ },
+ {
+  "start": 1581.2,
+  "duration": 3.96,
+  "text": "2024, specifically with the release of"
+ },
+ {
+  "start": 1583.52,
+  "duration": 3.52,
+  "text": "Notebook LM, which was their first"
+ },
+ {
+  "start": 1585.16,
+  "duration": 3.88,
+  "text": "genuine consumer AI product hit, pretty"
+ },
+ {
+  "start": 1587.04,
+  "duration": 5.0,
+  "text": "much ever. That momentum rolled into"
+ },
+ {
+  "start": 1589.04,
+  "duration": 4.72,
+  "text": "2025 and Gemini actually became a major"
+ },
+ {
+  "start": 1592.04,
+  "duration": 3.72,
+  "text": "model, getting to hundreds and hundreds"
+ },
+ {
+  "start": 1593.76,
+  "duration": 4.24,
+  "text": "of millions of monthly active users and"
+ },
+ {
+  "start": 1595.76,
+  "duration": 4.6,
+  "text": "seemingly coming into 2026 positioning"
+ },
+ {
+  "start": 1598.0,
+  "duration": 4.56,
+  "text": "Google to compete. Alas, since then we"
+ },
+ {
+  "start": 1600.36,
+  "duration": 4.08,
+  "text": "have seen that where the AI battle has"
+ },
+ {
+  "start": 1602.56,
+  "duration": 3.68,
+  "text": "shifted in terms of coding agents and"
+ },
+ {
+  "start": 1604.44,
+  "duration": 3.88,
+  "text": "harnesses as the anchor for everything"
+ },
+ {
+  "start": 1606.24,
+  "duration": 4.52,
+  "text": "else has left them completely in the"
+ },
+ {
+  "start": 1608.32,
+  "duration": 4.12,
+  "text": "dust. You can feel throughout all of"
+ },
+ {
+  "start": 1610.76,
+  "duration": 4.8,
+  "text": "this sourcing and reporting and even"
+ },
+ {
+  "start": 1612.44,
+  "duration": 5.52,
+  "text": "public comments, how dismissive and"
+ },
+ {
+  "start": 1615.56,
+  "duration": 4.68,
+  "text": "disinterested Demis Hassabis has always"
+ },
+ {
+  "start": 1617.96,
+  "duration": 3.88,
+  "text": "been in these sort of things. It feels"
+ },
+ {
+  "start": 1620.24,
+  "duration": 3.52,
+  "text": "like even getting to Gemini was like"
+ },
+ {
+  "start": 1621.84,
+  "duration": 3.16,
+  "text": "pulling teeth and a compromise to be"
+ },
+ {
+  "start": 1623.76,
+  "duration": 2.48,
+  "text": "able to spend time on what he really"
+ },
+ {
+  "start": 1625.0,
+  "duration": 3.56,
+  "text": "wanted to do."
+ },
+ {
+  "start": 1626.24,
+  "duration": 4.6,
+  "text": "The point being, without any disrespect"
+ },
+ {
+  "start": 1628.56,
+  "duration": 5.04,
+  "text": "to the unique and incredible attributes"
+ },
+ {
+  "start": 1630.84,
+  "duration": 4.96,
+  "text": "of Demis Hassabis as a scientist and as"
+ },
+ {
+  "start": 1633.6,
+  "duration": 4.64,
+  "text": "a leader for one type of organization,"
+ },
+ {
+  "start": 1635.8,
+  "duration": 4.28,
+  "text": "if we are taking it on evidence alone,"
+ },
+ {
+  "start": 1638.24,
+  "duration": 3.96,
+  "text": "he has not done the job that has been"
+ },
+ {
+  "start": 1640.08,
+  "duration": 4.6,
+  "text": "expected of him as the leader of"
+ },
+ {
+  "start": 1642.2,
+  "duration": 4.2,
+  "text": "Google's AI organization. And yes, you"
+ },
+ {
+  "start": 1644.68,
+  "duration": 3.16,
+  "text": "might be thinking, well, isn't that a"
+ },
+ {
+  "start": 1646.4,
+  "duration": 3.04,
+  "text": "little uncharitable? I mean, look at all"
+ },
+ {
+  "start": 1647.84,
+  "duration": 3.68,
+  "text": "the things that they put out. But this"
+ },
+ {
+  "start": 1649.44,
+  "duration": 3.76,
+  "text": "is kind of like Real Madrid in soccer."
+ },
+ {
+  "start": 1651.52,
+  "duration": 3.04,
+  "text": "When you get to a certain level, you"
+ },
+ {
+  "start": 1653.2,
+  "duration": 2.72,
+  "text": "don't get points for putting points on"
+ },
+ {
+  "start": 1654.56,
+  "duration": 3.36,
+  "text": "the board. You only get points for"
+ },
+ {
+  "start": 1655.92,
+  "duration": 3.48,
+  "text": "winning. When a team like Madrid doesn't"
+ },
+ {
+  "start": 1657.92,
+  "duration": 3.08,
+  "text": "win La Liga and doesn't win the"
+ },
+ {
+  "start": 1659.4,
+  "duration": 3.84,
+  "text": "Champions League, those seasons are"
+ },
+ {
+  "start": 1661.0,
+  "duration": 3.76,
+  "text": "considered a failure, full stop. And"
+ },
+ {
+  "start": 1663.24,
+  "duration": 2.56,
+  "text": "hard questions start getting asked about"
+ },
+ {
+  "start": 1664.76,
+  "duration": 3.4,
+  "text": "whether there need to be personnel"
+ },
+ {
+  "start": 1665.8,
+  "duration": 3.64,
+  "text": "changes and coaching changes. And yes, I"
+ },
+ {
+  "start": 1668.16,
+  "duration": 2.88,
+  "text": "am among those who are soccer pill"
+ },
+ {
+  "start": 1669.44,
+  "duration": 2.92,
+  "text": "coming off of the World Cup. But the"
+ },
+ {
+  "start": 1671.04,
+  "duration": 3.2,
+  "text": "point is that Google is in that similar"
+ },
+ {
+  "start": 1672.36,
+  "duration": 3.72,
+  "text": "position. Anything less than"
+ },
+ {
+  "start": 1674.24,
+  "duration": 3.84,
+  "text": "state-of-the-art models, anything less"
+ },
+ {
+  "start": 1676.08,
+  "duration": 3.72,
+  "text": "than growing consumer usage, these"
+ },
+ {
+  "start": 1678.08,
+  "duration": 4.48,
+  "text": "things are going to be considered"
+ },
+ {
+  "start": 1679.8,
+  "duration": 4.68,
+  "text": "failures. And it seems very possible"
+ },
+ {
+  "start": 1682.56,
+  "duration": 3.2,
+  "text": "that this particular leadership change"
+ },
+ {
+  "start": 1684.48,
+  "duration": 3.4,
+  "text": "was overdue."
+ },
+ {
+  "start": 1685.76,
+  "duration": 3.84,
+  "text": "Not only that, if we are for the world's"
+ },
+ {
+  "start": 1687.88,
+  "duration": 3.08,
+  "text": "sake just trying to allocate people"
+ },
+ {
+  "start": 1689.6,
+  "duration": 3.56,
+  "text": "where their gifts are most going to"
+ },
+ {
+  "start": 1690.96,
+  "duration": 4.12,
+  "text": "impact the world, getting Demis out of"
+ },
+ {
+  "start": 1693.16,
+  "duration": 3.68,
+  "text": "that commercialized role and into a"
+ },
+ {
+  "start": 1695.08,
+  "duration": 3.84,
+  "text": "place where he can do either A more"
+ },
+ {
+  "start": 1696.84,
+  "duration": 3.76,
+  "text": "science or B more policy shaping could"
+ },
+ {
+  "start": 1698.92,
+  "duration": 3.56,
+  "text": "be better for everyone."
+ },
+ {
+  "start": 1700.6,
+  "duration": 3.36,
+  "text": "Martin Shkreli wrote, \"Bye Google. As"
+ },
+ {
+  "start": 1702.48,
+  "duration": 3.2,
+  "text": "much respect as I have for DeepMind Co,"
+ },
+ {
+  "start": 1703.96,
+  "duration": 4.24,
+  "text": "which is a lot, Google is bigger than"
+ },
+ {
+  "start": 1705.68,
+  "duration": 3.96,
+  "text": "any person. Further, losing these fine"
+ },
+ {
+  "start": 1708.2,
+  "duration": 3.44,
+  "text": "engineers may result in the board of"
+ },
+ {
+  "start": 1709.64,
+  "duration": 3.64,
+  "text": "directors asking, what is going on here?"
+ },
+ {
+  "start": 1711.64,
+  "duration": 3.0,
+  "text": "And changing management or making other"
+ },
+ {
+  "start": 1713.28,
+  "duration": 2.32,
+  "text": "changes which course correct for the"
+ },
+ {
+  "start": 1714.64,
+  "duration": 2.16,
+  "text": "better.\""
+ },
+ {
+  "start": 1715.6,
+  "duration": 3.44,
+  "text": "Now, to the extent that the reporting"
+ },
+ {
+  "start": 1716.8,
+  "duration": 3.32,
+  "text": "around broader culture issues is true,"
+ },
+ {
+  "start": 1719.04,
+  "duration": 2.52,
+  "text": "it's going to take more than just a"
+ },
+ {
+  "start": 1720.12,
+  "duration": 3.48,
+  "text": "leadership switch to solve those"
+ },
+ {
+  "start": 1721.56,
+  "duration": 4.4,
+  "text": "problems. But a leadership switch isn't"
+ },
+ {
+  "start": 1723.6,
+  "duration": 4.28,
+  "text": "a bad place to start. Look, in short,"
+ },
+ {
+  "start": 1725.96,
+  "duration": 3.08,
+  "text": "from where Google was, they were never"
+ },
+ {
+  "start": 1727.88,
+  "duration": 2.68,
+  "text": "going to get back to where they needed"
+ },
+ {
+  "start": 1729.04,
+  "duration": 2.88,
+  "text": "to be with the same arrangement that"
+ },
+ {
+  "start": 1730.56,
+  "duration": 3.64,
+  "text": "they had used to lose their place in the"
+ },
+ {
+  "start": 1731.92,
+  "duration": 3.92,
+  "text": "race over the last year. I would not be"
+ },
+ {
+  "start": 1734.2,
+  "duration": 3.28,
+  "text": "even close to counting them out, and I"
+ },
+ {
+  "start": 1735.84,
+  "duration": 3.28,
+  "text": "think there's a strong argument that"
+ },
+ {
+  "start": 1737.48,
+  "duration": 3.56,
+  "text": "being able to now redesign the"
+ },
+ {
+  "start": 1739.12,
+  "duration": 4.76,
+  "text": "organization to be exactly what it needs"
+ },
+ {
+  "start": 1741.04,
+  "duration": 4.24,
+  "text": "to be could, in some number of months,"
+ },
+ {
+  "start": 1743.88,
+  "duration": 3.08,
+  "text": "leave Google in a much better position"
+ },
+ {
+  "start": 1745.28,
+  "duration": 2.84,
+  "text": "than it is today. Then again, maybe the"
+ },
+ {
+  "start": 1746.96,
+  "duration": 2.76,
+  "text": "whole thing flops and they just sell"
+ },
+ {
+  "start": 1748.12,
+  "duration": 3.56,
+  "text": "TPUs and cloud access forever, and it's"
+ },
+ {
+  "start": 1749.72,
+  "duration": 4.68,
+  "text": "still a big company, and who cares? In"
+ },
+ {
+  "start": 1751.68,
+  "duration": 4.44,
+  "text": "either case, no doubt it is huge news,"
+ },
+ {
+  "start": 1754.4,
+  "duration": 2.64,
+  "text": "something to be debated and discussed."
+ },
+ {
+  "start": 1756.12,
+  "duration": 3.16,
+  "text": "For now, though, that is going to do it"
+ },
+ {
+  "start": 1757.04,
+  "duration": 3.88,
+  "text": "for today's AI Daily Brief. Appreciate"
+ },
+ {
+  "start": 1759.28,
+  "duration": 5.2,
+  "text": "you listening or watching, as always,"
+ },
+ {
+  "start": 1760.92,
+  "duration": 3.56,
+  "text": "and until next time, peace."
+ }
+]

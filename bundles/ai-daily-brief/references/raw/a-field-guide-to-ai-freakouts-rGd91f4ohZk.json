@@ -1,0 +1,3527 @@
+[
+ {
+  "start": 1.04,
+  "duration": 4.64,
+  "text": "Today on the AI Daily Brief, a field"
+ },
+ {
+  "start": 3.12,
+  "duration": 4.4,
+  "text": "guide to AI market freakouts. The AI"
+ },
+ {
+  "start": 5.68,
+  "duration": 3.12,
+  "text": "Daily Brief is a daily podcast and video"
+ },
+ {
+  "start": 7.52,
+  "duration": 4.92,
+  "text": "about the most important news and"
+ },
+ {
+  "start": 8.8,
+  "duration": 3.64,
+  "text": "discussions in AI."
+ },
+ {
+  "start": 13.599,
+  "duration": 3.201,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 14.96,
+  "duration": 3.2,
+  "text": "before we dive in. A couple people have"
+ },
+ {
+  "start": 16.8,
+  "duration": 2.88,
+  "text": "asked me recently if there are better"
+ },
+ {
+  "start": 18.16,
+  "duration": 3.039,
+  "text": "ways that they can support the show."
+ },
+ {
+  "start": 19.68,
+  "duration": 2.96,
+  "text": "First of all, you listening is all the"
+ },
+ {
+  "start": 21.199,
+  "duration": 3.121,
+  "text": "support I need. I appreciate you being"
+ },
+ {
+  "start": 22.64,
+  "duration": 3.44,
+  "text": "here and diving deep with me in this"
+ },
+ {
+  "start": 24.32,
+  "duration": 4.16,
+  "text": "incredibly fascinating and important AI"
+ },
+ {
+  "start": 26.08,
+  "duration": 4.64,
+  "text": "world. Second, already one of the things"
+ },
+ {
+  "start": 28.48,
+  "duration": 4.079,
+  "text": "that you guys do very frequently, which"
+ },
+ {
+  "start": 30.72,
+  "duration": 3.519,
+  "text": "is incredibly helpful for the show, is"
+ },
+ {
+  "start": 32.559,
+  "duration": 3.921,
+  "text": "just sharing it. For those who don't"
+ },
+ {
+  "start": 34.239,
+  "duration": 4.881,
+  "text": "know, I recently updated the AI daily"
+ },
+ {
+  "start": 36.48,
+  "duration": 5.04,
+  "text": "brief.ai website to turn every episode"
+ },
+ {
+  "start": 39.12,
+  "duration": 3.599,
+  "text": "into a set of sharable cards. Some of"
+ },
+ {
+  "start": 41.52,
+  "duration": 3.039,
+  "text": "them are quotes, some of them are"
+ },
+ {
+  "start": 42.719,
+  "duration": 3.601,
+  "text": "themes, some of them are statistics, and"
+ },
+ {
+  "start": 44.559,
+  "duration": 3.601,
+  "text": "each of them can be shared directly to"
+ },
+ {
+  "start": 46.32,
+  "duration": 3.04,
+  "text": "various social media platforms or as an"
+ },
+ {
+  "start": 48.16,
+  "duration": 2.8,
+  "text": "image that you can put anywhere you"
+ },
+ {
+  "start": 49.36,
+  "duration": 3.039,
+  "text": "want. The most valuable way the show"
+ },
+ {
+  "start": 50.96,
+  "duration": 2.88,
+  "text": "grows is when you share it with new"
+ },
+ {
+  "start": 52.399,
+  "duration": 3.68,
+  "text": "listeners. So, that is always"
+ },
+ {
+  "start": 53.84,
+  "duration": 4.32,
+  "text": "appreciated. Lastly, for whatever"
+ },
+ {
+  "start": 56.079,
+  "duration": 4.241,
+  "text": "reason, Apple and Spotify both very"
+ },
+ {
+  "start": 58.16,
+  "duration": 3.68,
+  "text": "highly reward ratings and reviews. So,"
+ },
+ {
+  "start": 60.32,
+  "duration": 3.52,
+  "text": "if you have not at this point left a"
+ },
+ {
+  "start": 61.84,
+  "duration": 3.76,
+  "text": "fivestar rating on those platforms, that"
+ },
+ {
+  "start": 63.84,
+  "duration": 3.2,
+  "text": "is helpful as well. Mostly though, like"
+ },
+ {
+  "start": 65.6,
+  "duration": 3.76,
+  "text": "I said, I am just excited to have you"
+ },
+ {
+  "start": 67.04,
+  "duration": 4.079,
+  "text": "here as we explore this insane world."
+ },
+ {
+  "start": 69.36,
+  "duration": 3.04,
+  "text": "The one other note today is that it was"
+ },
+ {
+  "start": 71.119,
+  "duration": 3.281,
+  "text": "one of those days where even all of the"
+ },
+ {
+  "start": 72.4,
+  "duration": 3.84,
+  "text": "headlines fit inside the main theme. So,"
+ },
+ {
+  "start": 74.4,
+  "duration": 3.68,
+  "text": "we just have one extended theme for the"
+ },
+ {
+  "start": 76.24,
+  "duration": 2.96,
+  "text": "entire episode. Tomorrow we will be back"
+ },
+ {
+  "start": 78.08,
+  "duration": 3.359,
+  "text": "with our normal division between"
+ },
+ {
+  "start": 79.2,
+  "duration": 4.32,
+  "text": "headlines in Maine. But for now, let's"
+ },
+ {
+  "start": 81.439,
+  "duration": 3.601,
+  "text": "talk about the patternicity in AI market"
+ },
+ {
+  "start": 83.52,
+  "duration": 3.599,
+  "text": "freakouts and what they mean for the"
+ },
+ {
+  "start": 85.04,
+  "duration": 4.079,
+  "text": "future of AI."
+ },
+ {
+  "start": 87.119,
+  "duration": 4.64,
+  "text": "Welcome back to the AI daily brief. We"
+ },
+ {
+  "start": 89.119,
+  "duration": 5.601,
+  "text": "are in the midst right now of our latest"
+ },
+ {
+  "start": 91.759,
+  "duration": 5.281,
+  "text": "round of AI FUD and concern. Now, this"
+ },
+ {
+  "start": 94.72,
+  "duration": 3.84,
+  "text": "one specifically is about Chinese AI and"
+ },
+ {
+  "start": 97.04,
+  "duration": 3.2,
+  "text": "how it might impact the revenue"
+ },
+ {
+  "start": 98.56,
+  "duration": 3.199,
+  "text": "potential of companies like OpenAI and"
+ },
+ {
+  "start": 100.24,
+  "duration": 3.36,
+  "text": "Anthropic, especially as they position"
+ },
+ {
+  "start": 101.759,
+  "duration": 3.521,
+  "text": "to go public later this year or early"
+ },
+ {
+  "start": 103.6,
+  "duration": 3.6,
+  "text": "next year. Having watched this very"
+ },
+ {
+  "start": 105.28,
+  "duration": 3.199,
+  "text": "closely now for the last few years, I"
+ },
+ {
+  "start": 107.2,
+  "duration": 3.599,
+  "text": "think there are some pretty clear"
+ },
+ {
+  "start": 108.479,
+  "duration": 4.561,
+  "text": "patterns in the specific ways in which"
+ },
+ {
+  "start": 110.799,
+  "duration": 3.201,
+  "text": "investors get stressed about AI. And so"
+ },
+ {
+  "start": 113.04,
+  "duration": 2.96,
+  "text": "that's what we're going to talk about"
+ },
+ {
+  "start": 114.0,
+  "duration": 3.759,
+  "text": "today. However, to get into it, we first"
+ },
+ {
+  "start": 116.0,
+  "duration": 3.36,
+  "text": "need to do an update in this particular"
+ },
+ {
+  "start": 117.759,
+  "duration": 4.0,
+  "text": "round of concern as the Trump"
+ },
+ {
+  "start": 119.36,
+  "duration": 4.96,
+  "text": "administration levies new allegations"
+ },
+ {
+  "start": 121.759,
+  "duration": 4.081,
+  "text": "against Moonshot. Earlier this week,"
+ },
+ {
+  "start": 124.32,
+  "duration": 3.52,
+  "text": "Treasury Secretary Scott Bessant"
+ },
+ {
+  "start": 125.84,
+  "duration": 3.6,
+  "text": "proposed that Chinese AI companies could"
+ },
+ {
+  "start": 127.84,
+  "duration": 3.759,
+  "text": "face sanctions as a response to"
+ },
+ {
+  "start": 129.44,
+  "duration": 4.56,
+  "text": "distillation attacks. And while model"
+ },
+ {
+  "start": 131.599,
+  "duration": 4.0,
+  "text": "distillation has been a hot topic for"
+ },
+ {
+  "start": 134.0,
+  "duration": 3.28,
+  "text": "over a year when it comes to Chinese"
+ },
+ {
+  "start": 135.599,
+  "duration": 3.28,
+  "text": "model performance, this was the first"
+ },
+ {
+  "start": 137.28,
+  "duration": 3.28,
+  "text": "time a member of the executive suggested"
+ },
+ {
+  "start": 138.879,
+  "duration": 4.0,
+  "text": "the government might do something about"
+ },
+ {
+  "start": 140.56,
+  "duration": 4.0,
+  "text": "it. Bessent doubled down on his policy"
+ },
+ {
+  "start": 142.879,
+  "duration": 4.401,
+  "text": "view on Wednesday, writing in a post on"
+ },
+ {
+  "start": 144.56,
+  "duration": 4.8,
+  "text": "X, \"We support open- source AI in the"
+ },
+ {
+  "start": 147.28,
+  "duration": 4.64,
+  "text": "innovation it unlocks. But open source"
+ },
+ {
+  "start": 149.36,
+  "duration": 5.12,
+  "text": "is not open season on American IP. When"
+ },
+ {
+  "start": 151.92,
+  "duration": 4.24,
+  "text": "PRC firms conduct covert industrial-cale"
+ },
+ {
+  "start": 154.48,
+  "duration": 4.0,
+  "text": "distillation attacks that cross the line"
+ },
+ {
+  "start": 156.16,
+  "duration": 4.56,
+  "text": "into IP theft, sanctions and entity list"
+ },
+ {
+  "start": 158.48,
+  "duration": 4.08,
+  "text": "designations will be on the table. Now,"
+ },
+ {
+  "start": 160.72,
+  "duration": 3.599,
+  "text": "that post came hours after White House"
+ },
+ {
+  "start": 162.56,
+  "duration": 4.08,
+  "text": "Office of Science and Technology policy"
+ },
+ {
+  "start": 164.319,
+  "duration": 4.0,
+  "text": "director Michael Katzios made specific"
+ },
+ {
+  "start": 166.64,
+  "duration": 5.04,
+  "text": "allegations against Moonshot, the"
+ },
+ {
+  "start": 168.319,
+  "duration": 5.28,
+  "text": "creators of Kimmy K3. Wrote, \"We have"
+ },
+ {
+  "start": 171.68,
+  "duration": 3.44,
+  "text": "information that Moonshot AI distilled"
+ },
+ {
+  "start": 173.599,
+  "duration": 3.601,
+  "text": "anthropics fable for the development of"
+ },
+ {
+  "start": 175.12,
+  "duration": 3.839,
+  "text": "its K3 model. To do this, they developed"
+ },
+ {
+  "start": 177.2,
+  "duration": 3.6,
+  "text": "a sophisticated internal platform to"
+ },
+ {
+  "start": 178.959,
+  "duration": 3.601,
+  "text": "conduct large-scale distillation against"
+ },
+ {
+  "start": 180.8,
+  "duration": 3.12,
+  "text": "US models, allowing them to quickly"
+ },
+ {
+  "start": 182.56,
+  "duration": 3.679,
+  "text": "switch between multiple methods of"
+ },
+ {
+  "start": 183.92,
+  "duration": 4.64,
+  "text": "access to avoid detection. Moonshot AAI"
+ },
+ {
+  "start": 186.239,
+  "duration": 4.72,
+  "text": "has also acquired GB300 equipped servers"
+ },
+ {
+  "start": 188.56,
+  "duration": 4.319,
+  "text": "and has accessed GB300s in Thailand"
+ },
+ {
+  "start": 190.959,
+  "duration": 3.521,
+  "text": "likely to train its AI models. The"
+ },
+ {
+  "start": 192.879,
+  "duration": 3.601,
+  "text": "United States strongly supports the free"
+ },
+ {
+  "start": 194.48,
+  "duration": 3.52,
+  "text": "and fair development of AI, including a"
+ },
+ {
+  "start": 196.48,
+  "duration": 3.2,
+  "text": "thriving competitive ecosystem that"
+ },
+ {
+  "start": 198.0,
+  "duration": 3.2,
+  "text": "spans frontier models, specialized"
+ },
+ {
+  "start": 199.68,
+  "duration": 3.36,
+  "text": "systems, open source frameworks, and"
+ },
+ {
+  "start": 201.2,
+  "duration": 3.28,
+  "text": "openweight models. Legitimate AI"
+ },
+ {
+  "start": 203.04,
+  "duration": 3.04,
+  "text": "distillation used to create smaller,"
+ },
+ {
+  "start": 204.48,
+  "duration": 3.52,
+  "text": "more efficient models plays a vital role"
+ },
+ {
+  "start": 206.08,
+  "duration": 3.84,
+  "text": "in this open innovation ecosystem."
+ },
+ {
+  "start": 208.0,
+  "duration": 3.2,
+  "text": "However, large-scale covert industrial"
+ },
+ {
+  "start": 209.92,
+  "duration": 2.64,
+  "text": "distillation aimed at stealing"
+ },
+ {
+  "start": 211.2,
+  "duration": 2.8,
+  "text": "proprietary US technology and"
+ },
+ {
+  "start": 212.56,
+  "duration": 3.52,
+  "text": "undermining American research is"
+ },
+ {
+  "start": 214.0,
+  "duration": 3.68,
+  "text": "unacceptable. Now, here once again,"
+ },
+ {
+  "start": 216.08,
+  "duration": 3.439,
+  "text": "while there have long been whispers of"
+ },
+ {
+  "start": 217.68,
+  "duration": 4.0,
+  "text": "Chinese labs getting access to Nvidia"
+ },
+ {
+  "start": 219.519,
+  "duration": 3.921,
+  "text": "GPUs through illicit pathways across"
+ },
+ {
+  "start": 221.68,
+  "duration": 3.279,
+  "text": "Southeast Asia, this is the first time a"
+ },
+ {
+  "start": 223.44,
+  "duration": 3.68,
+  "text": "government official has made specific"
+ },
+ {
+  "start": 224.959,
+  "duration": 3.681,
+  "text": "claims about the practice. Anthropic"
+ },
+ {
+  "start": 227.12,
+  "duration": 3.36,
+  "text": "head of public policy and former State"
+ },
+ {
+  "start": 228.64,
+  "duration": 3.36,
+  "text": "Department official Sarah Hec confirmed"
+ },
+ {
+  "start": 230.48,
+  "duration": 3.28,
+  "text": "that Anthropic is working with the"
+ },
+ {
+  "start": 232.0,
+  "duration": 4.319,
+  "text": "administration on this matter with Hec"
+ },
+ {
+  "start": 233.76,
+  "duration": 4.72,
+  "text": "writing, \"Licit adversarial distillation"
+ },
+ {
+  "start": 236.319,
+  "duration": 3.84,
+  "text": "is IP theft, an industrial espionage"
+ },
+ {
+  "start": 238.48,
+  "duration": 3.52,
+  "text": "that supports adversary military and"
+ },
+ {
+  "start": 240.159,
+  "duration": 3.36,
+  "text": "intelligence capabilities. It is a"
+ },
+ {
+  "start": 242.0,
+  "duration": 3.12,
+  "text": "national challenge that creates serious"
+ },
+ {
+  "start": 243.519,
+  "duration": 3.92,
+  "text": "national security risks for the United"
+ },
+ {
+  "start": 245.12,
+  "duration": 4.24,
+  "text": "States and democratic allies.\" Following"
+ },
+ {
+  "start": 247.439,
+  "duration": 3.44,
+  "text": "the posts, the information reported that"
+ },
+ {
+  "start": 249.36,
+  "duration": 3.36,
+  "text": "the Commerce Department has an active"
+ },
+ {
+  "start": 250.879,
+  "duration": 3.521,
+  "text": "investigation into Moonshot and other"
+ },
+ {
+  "start": 252.72,
+  "duration": 4.479,
+  "text": "Chinese labs for circumventing export"
+ },
+ {
+  "start": 254.4,
+  "duration": 4.079,
+  "text": "controls to access Nvidia GPUs. Signal"
+ },
+ {
+  "start": 257.199,
+  "duration": 3.361,
+  "text": "summed up the feeling of many when they"
+ },
+ {
+  "start": 258.479,
+  "duration": 4.081,
+  "text": "wrote, \"Wow, am I understanding this"
+ },
+ {
+  "start": 260.56,
+  "duration": 3.919,
+  "text": "correctly? One, put Chinese models on"
+ },
+ {
+  "start": 262.56,
+  "duration": 3.6,
+  "text": "the entity list. Two, force American"
+ },
+ {
+  "start": 264.479,
+  "duration": 3.681,
+  "text": "companies to buy more expensive AI from"
+ },
+ {
+  "start": 266.16,
+  "duration": 3.52,
+  "text": "American labs. Three, watch the rest of"
+ },
+ {
+  "start": 268.16,
+  "duration": 3.44,
+  "text": "the world use cheaper models with equal"
+ },
+ {
+  "start": 269.68,
+  "duration": 3.84,
+  "text": "or better intelligence. Four, discover"
+ },
+ {
+  "start": 271.6,
+  "duration": 3.68,
+  "text": "that distillation did not magically stop"
+ },
+ {
+  "start": 273.52,
+  "duration": 3.36,
+  "text": "because Washington published a list."
+ },
+ {
+  "start": 275.28,
+  "duration": 2.88,
+  "text": "Five, make American businesses less"
+ },
+ {
+  "start": 276.88,
+  "duration": 3.28,
+  "text": "competitive globally while raising"
+ },
+ {
+  "start": 278.16,
+  "duration": 3.68,
+  "text": "prices for ordinary Americans. Six,"
+ },
+ {
+  "start": 280.16,
+  "duration": 3.36,
+  "text": "meanwhile, none of this stops Chinese AI"
+ },
+ {
+  "start": 281.84,
+  "duration": 3.359,
+  "text": "labs from becoming better and better."
+ },
+ {
+  "start": 283.52,
+  "duration": 2.959,
+  "text": "Congratulations. You protected domestic"
+ },
+ {
+  "start": 285.199,
+  "duration": 3.121,
+  "text": "AI companies by taxing the"
+ },
+ {
+  "start": 286.479,
+  "duration": 4.481,
+  "text": "competitiveness of the entire country."
+ },
+ {
+  "start": 288.32,
+  "duration": 4.64,
+  "text": "What a colossal mess. Now, for what it's"
+ },
+ {
+  "start": 290.96,
+  "duration": 3.84,
+  "text": "worth, it's not even particularly clear"
+ },
+ {
+  "start": 292.96,
+  "duration": 3.76,
+  "text": "how much support Besson and Kratzios"
+ },
+ {
+  "start": 294.8,
+  "duration": 3.679,
+  "text": "have within the White House. Wired wrote"
+ },
+ {
+  "start": 296.72,
+  "duration": 3.44,
+  "text": "on Wednesday, the Trump administration"
+ },
+ {
+  "start": 298.479,
+  "duration": 3.761,
+  "text": "is split over how to respond to the"
+ },
+ {
+  "start": 300.16,
+  "duration": 3.68,
+  "text": "rapid rise of China's leading AI models."
+ },
+ {
+  "start": 302.24,
+  "duration": 3.12,
+  "text": "The debate is broadly divided between"
+ },
+ {
+  "start": 303.84,
+  "duration": 3.04,
+  "text": "parts of the White House, which has"
+ },
+ {
+  "start": 305.36,
+  "duration": 3.679,
+  "text": "pushed for stricter controls on Chinese"
+ },
+ {
+  "start": 306.88,
+  "duration": 3.599,
+  "text": "AI that may soon rival the powerful US"
+ },
+ {
+  "start": 309.039,
+  "duration": 2.801,
+  "text": "models and the Commerce Department,"
+ },
+ {
+  "start": 310.479,
+  "duration": 3.521,
+  "text": "which has viewed those restrictions as"
+ },
+ {
+  "start": 311.84,
+  "duration": 3.76,
+  "text": "unworkable. Sources said that Commerce"
+ },
+ {
+  "start": 314.0,
+  "duration": 3.44,
+  "text": "Secretary Howard Lutnik would prefer to"
+ },
+ {
+  "start": 315.6,
+  "duration": 3.599,
+  "text": "combat Chinese AI with competition. He"
+ },
+ {
+  "start": 317.44,
+  "duration": 3.44,
+  "text": "has pitched incentives for US labs to"
+ },
+ {
+  "start": 319.199,
+  "duration": 3.201,
+  "text": "open source their models and spoken with"
+ },
+ {
+  "start": 320.88,
+  "duration": 3.759,
+  "text": "multiple labs about the idea in recent"
+ },
+ {
+  "start": 322.4,
+  "duration": 3.519,
+  "text": "weeks, writes Andrew Curran. The"
+ },
+ {
+  "start": 324.639,
+  "duration": 2.801,
+  "text": "Commerce Department is apparently"
+ },
+ {
+  "start": 325.919,
+  "duration": 3.041,
+  "text": "arguing strongly against regulation,"
+ },
+ {
+  "start": 327.44,
+  "duration": 2.96,
+  "text": "which they see as unworkable. They are"
+ },
+ {
+  "start": 328.96,
+  "duration": 3.28,
+  "text": "certain to have David Saxs on their"
+ },
+ {
+  "start": 330.4,
+  "duration": 3.519,
+  "text": "side. American open source may have a"
+ },
+ {
+  "start": 332.24,
+  "duration": 3.04,
+  "text": "surprise ally in Howard Lutnik."
+ },
+ {
+  "start": 333.919,
+  "duration": 3.201,
+  "text": "According to the report, he's arguing"
+ },
+ {
+  "start": 335.28,
+  "duration": 3.52,
+  "text": "for direct incentives to US open source"
+ },
+ {
+  "start": 337.12,
+  "duration": 3.68,
+  "text": "software to accelerate development so"
+ },
+ {
+  "start": 338.8,
+  "duration": 3.52,
+  "text": "they can match Chinese OSS. Commerce"
+ },
+ {
+  "start": 340.8,
+  "duration": 3.28,
+  "text": "sees this as a way to avoid regulating"
+ },
+ {
+  "start": 342.32,
+  "duration": 3.04,
+  "text": "anyone. Apparently, Lutnik has even met"
+ },
+ {
+  "start": 344.08,
+  "duration": 2.8,
+  "text": "directly with leaders at Unnamed"
+ },
+ {
+  "start": 345.36,
+  "duration": 3.279,
+  "text": "American Labs to discuss how best to"
+ },
+ {
+  "start": 346.88,
+  "duration": 3.92,
+  "text": "accomplish this. Perhaps a rebirth of"
+ },
+ {
+  "start": 348.639,
+  "duration": 3.12,
+  "text": "OpenAI OSS with federal funding. He"
+ },
+ {
+  "start": 350.8,
+  "duration": 2.64,
+  "text": "should meet with news and prime"
+ },
+ {
+  "start": 351.759,
+  "duration": 4.481,
+  "text": "intellect among others. In my opinion,"
+ },
+ {
+  "start": 353.44,
+  "duration": 5.039,
+  "text": "exciting developments, writes AEI's Ryan"
+ },
+ {
+  "start": 356.24,
+  "duration": 5.6,
+  "text": "Fedic. This might be the most important"
+ },
+ {
+  "start": 358.479,
+  "duration": 4.56,
+  "text": "week for US AI policy so far in 2026."
+ },
+ {
+  "start": 361.84,
+  "duration": 3.44,
+  "text": "Now, one group that's watching this"
+ },
+ {
+  "start": 363.039,
+  "duration": 4.16,
+  "text": "whole thing very closely is investors."
+ },
+ {
+  "start": 365.28,
+  "duration": 3.6,
+  "text": "There has been a growing concern, the"
+ },
+ {
+  "start": 367.199,
+  "duration": 3.361,
+  "text": "latest in a long line of AI market"
+ },
+ {
+  "start": 368.88,
+  "duration": 3.36,
+  "text": "concerns, that if all of a sudden"
+ },
+ {
+  "start": 370.56,
+  "duration": 3.52,
+  "text": "enterprise buyers get all costconcious"
+ },
+ {
+  "start": 372.24,
+  "duration": 3.04,
+  "text": "and they look to cheaper alternatives,"
+ },
+ {
+  "start": 374.08,
+  "duration": 2.8,
+  "text": "they're going to find themselves moving"
+ },
+ {
+  "start": 375.28,
+  "duration": 3.039,
+  "text": "towards these open China models,"
+ },
+ {
+  "start": 376.88,
+  "duration": 2.8,
+  "text": "undercutting the revenue coming to the"
+ },
+ {
+  "start": 378.319,
+  "duration": 3.121,
+  "text": "major American labs with big"
+ },
+ {
+  "start": 379.68,
+  "duration": 3.44,
+  "text": "implications across the market. And for"
+ },
+ {
+  "start": 381.44,
+  "duration": 3.039,
+  "text": "people who are watching closely, all of"
+ },
+ {
+  "start": 383.12,
+  "duration": 2.72,
+  "text": "this is part of a broader market"
+ },
+ {
+  "start": 384.479,
+  "duration": 3.921,
+  "text": "narrative story that's been happening"
+ },
+ {
+  "start": 385.84,
+  "duration": 4.639,
+  "text": "now for coming up on four years. Since"
+ },
+ {
+  "start": 388.4,
+  "duration": 3.76,
+  "text": "the end of 2022 when chat GPT was"
+ },
+ {
+  "start": 390.479,
+  "duration": 3.84,
+  "text": "released, which was right in the midst"
+ },
+ {
+  "start": 392.16,
+  "duration": 4.56,
+  "text": "of the Fed rate hiking cycle, it has"
+ },
+ {
+  "start": 394.319,
+  "duration": 4.16,
+  "text": "been AI versus everything in markets."
+ },
+ {
+  "start": 396.72,
+  "duration": 3.84,
+  "text": "Indeed, back in the early days of the AI"
+ },
+ {
+  "start": 398.479,
+  "duration": 3.761,
+  "text": "boom at the beginning of 2023, there was"
+ },
+ {
+  "start": 400.56,
+  "duration": 3.199,
+  "text": "a lot of confusion on why markets were"
+ },
+ {
+  "start": 402.24,
+  "duration": 3.28,
+  "text": "ripping while the Fed was still raising"
+ },
+ {
+  "start": 403.759,
+  "duration": 3.921,
+  "text": "interest rates. The Fed didn't stop"
+ },
+ {
+  "start": 405.52,
+  "duration": 3.84,
+  "text": "hiking until July, and it became obvious"
+ },
+ {
+  "start": 407.68,
+  "duration": 4.16,
+  "text": "that rate policy would do nothing to"
+ },
+ {
+  "start": 409.36,
+  "duration": 4.32,
+  "text": "deter AI investment. At this point, AI"
+ },
+ {
+  "start": 411.84,
+  "duration": 3.84,
+  "text": "has become a structural part of the US"
+ },
+ {
+  "start": 413.68,
+  "duration": 4.0,
+  "text": "economy and arguably the most important"
+ },
+ {
+  "start": 415.68,
+  "duration": 4.799,
+  "text": "part. According to Bloomberg, AI"
+ },
+ {
+  "start": 417.68,
+  "duration": 4.639,
+  "text": "investment now represents 25% of US GDP"
+ },
+ {
+  "start": 420.479,
+  "duration": 4.241,
+  "text": "growth, the largest single contribution"
+ },
+ {
+  "start": 422.319,
+  "duration": 3.6,
+  "text": "of any sector in history. JP Morgan"
+ },
+ {
+  "start": 424.72,
+  "duration": 4.879,
+  "text": "analysts claimed that since the release"
+ },
+ {
+  "start": 425.919,
+  "duration": 6.4,
+  "text": "of CHBT in late 2022, AI drove 75% of"
+ },
+ {
+  "start": 429.599,
+  "duration": 4.561,
+  "text": "returns in the S&P 500, 80% of earnings"
+ },
+ {
+  "start": 432.319,
+  "duration": 3.841,
+  "text": "growth, and 90% of capital spending"
+ },
+ {
+  "start": 434.16,
+  "duration": 3.92,
+  "text": "growth. In a very real way, then the AI"
+ },
+ {
+  "start": 436.16,
+  "duration": 4.159,
+  "text": "industry is now the driving force in the"
+ },
+ {
+  "start": 438.08,
+  "duration": 4.88,
+  "text": "US economy and US markets. As a"
+ },
+ {
+  "start": 440.319,
+  "duration": 4.72,
+  "text": "consequence of this, the market is extra"
+ },
+ {
+  "start": 442.96,
+  "duration": 3.679,
+  "text": "terrified of AI going badly or reversing"
+ },
+ {
+  "start": 445.039,
+  "duration": 3.761,
+  "text": "because they feel like so much is riding"
+ },
+ {
+  "start": 446.639,
+  "duration": 4.161,
+  "text": "on it. And in this context, AI bubble"
+ },
+ {
+  "start": 448.8,
+  "duration": 3.679,
+  "text": "talk isn't just a catchy headline, but"
+ },
+ {
+  "start": 450.8,
+  "duration": 3.44,
+  "text": "is a persistent and central piece of"
+ },
+ {
+  "start": 452.479,
+  "duration": 3.681,
+  "text": "market analysis. While acknowledging"
+ },
+ {
+  "start": 454.24,
+  "duration": 3.519,
+  "text": "that this is a bit reductive, at this"
+ },
+ {
+  "start": 456.16,
+  "duration": 3.52,
+  "text": "point, one can be forgiven for looking"
+ },
+ {
+  "start": 457.759,
+  "duration": 4.0,
+  "text": "at the American economy as basically a"
+ },
+ {
+  "start": 459.68,
+  "duration": 3.28,
+  "text": "bet on AI being transformative enough to"
+ },
+ {
+  "start": 461.759,
+  "duration": 2.72,
+  "text": "drive enough revenue to make the"
+ },
+ {
+  "start": 462.96,
+  "duration": 3.359,
+  "text": "infrastructure buildout justified. So,"
+ },
+ {
+  "start": 464.479,
+  "duration": 3.201,
+  "text": "the party gets to continue. And by the"
+ },
+ {
+  "start": 466.319,
+  "duration": 3.121,
+  "text": "way, even if you're not typically"
+ },
+ {
+  "start": 467.68,
+  "duration": 3.12,
+  "text": "interested in markets, we're now at a"
+ },
+ {
+  "start": 469.44,
+  "duration": 2.64,
+  "text": "point in the AI boom where everyone"
+ },
+ {
+  "start": 470.8,
+  "duration": 3.36,
+  "text": "needs to pay attention and understand"
+ },
+ {
+  "start": 472.08,
+  "duration": 4.88,
+  "text": "the narrative, given that around 50% of"
+ },
+ {
+  "start": 474.16,
+  "duration": 4.479,
+  "text": "the S&P 500 is now AI or AI exposed"
+ },
+ {
+  "start": 476.96,
+  "duration": 3.44,
+  "text": "stocks. That means that even if you are"
+ },
+ {
+  "start": 478.639,
+  "duration": 4.161,
+  "text": "just a passive indexer or contribute to"
+ },
+ {
+  "start": 480.4,
+  "duration": 4.96,
+  "text": "a 401k, you, my friend, have significant"
+ },
+ {
+  "start": 482.8,
+  "duration": 3.92,
+  "text": "AI exposure. Now, with this background,"
+ },
+ {
+  "start": 485.36,
+  "duration": 3.04,
+  "text": "let's talk about the stuff that freaks"
+ },
+ {
+  "start": 486.72,
+  "duration": 2.96,
+  "text": "investors out. The one that we are"
+ },
+ {
+  "start": 488.4,
+  "duration": 3.12,
+  "text": "living through right now, of course, is"
+ },
+ {
+  "start": 489.68,
+  "duration": 3.84,
+  "text": "cheap models undercutting anthropic and"
+ },
+ {
+  "start": 491.52,
+  "duration": 3.679,
+  "text": "OpenAI's ability to charge a premium and"
+ },
+ {
+  "start": 493.52,
+  "duration": 4.0,
+  "text": "continue to grow their revenue. This is"
+ },
+ {
+  "start": 495.199,
+  "duration": 3.521,
+  "text": "the freakout dour, but it's had various"
+ },
+ {
+  "start": 497.52,
+  "duration": 3.2,
+  "text": "versions going all the way back to the"
+ },
+ {
+  "start": 498.72,
+  "duration": 3.44,
+  "text": "deepseek moment at the beginning of 2025"
+ },
+ {
+  "start": 500.72,
+  "duration": 3.36,
+  "text": "when the market believed that a Chinese"
+ },
+ {
+  "start": 502.16,
+  "duration": 3.52,
+  "text": "lab had produced Frontier AI for a few"
+ },
+ {
+  "start": 504.08,
+  "duration": 3.44,
+  "text": "million bucks when the US labs were"
+ },
+ {
+  "start": 505.68,
+  "duration": 3.12,
+  "text": "spending billions on training runs. Now,"
+ },
+ {
+  "start": 507.52,
+  "duration": 3.2,
+  "text": "there were a ton of things wrong with"
+ },
+ {
+  "start": 508.8,
+  "duration": 3.2,
+  "text": "how Deep Seek had been presented. People"
+ },
+ {
+  "start": 510.72,
+  "duration": 2.72,
+  "text": "learned about the difference between"
+ },
+ {
+  "start": 512.0,
+  "duration": 3.519,
+  "text": "compute for training and compute for"
+ },
+ {
+  "start": 513.44,
+  "duration": 3.76,
+  "text": "inference. Some of Deepseek's claims"
+ },
+ {
+  "start": 515.519,
+  "duration": 3.281,
+  "text": "started to have big asterisks around"
+ },
+ {
+  "start": 517.2,
+  "duration": 3.519,
+  "text": "them. And finally, markets also"
+ },
+ {
+  "start": 518.8,
+  "duration": 3.76,
+  "text": "ultimately discovered that Deepseek R1"
+ },
+ {
+  "start": 520.719,
+  "duration": 3.44,
+  "text": "wasn't actually ahead of the best models"
+ },
+ {
+  "start": 522.56,
+  "duration": 3.36,
+  "text": "trained in the US. It was simply the"
+ },
+ {
+  "start": 524.159,
+  "duration": 3.921,
+  "text": "first and only free reasoning model on"
+ },
+ {
+  "start": 525.92,
+  "duration": 4.0,
+  "text": "the market with open AIS01 still locked"
+ },
+ {
+  "start": 528.08,
+  "duration": 3.28,
+  "text": "behind subscription. We now find"
+ },
+ {
+  "start": 529.92,
+  "duration": 3.44,
+  "text": "ourselves at another deep-seek moment"
+ },
+ {
+  "start": 531.36,
+  "duration": 4.08,
+  "text": "with the release of Kimmy K3 which in"
+ },
+ {
+  "start": 533.36,
+  "duration": 5.12,
+  "text": "many ways was teed up with the Amuse"
+ },
+ {
+  "start": 535.44,
+  "duration": 4.64,
+  "text": "Bouch of GLM 5.2 when Fable was offline"
+ },
+ {
+  "start": 538.48,
+  "duration": 3.2,
+  "text": "courtesy of the US government. Now to"
+ },
+ {
+  "start": 540.08,
+  "duration": 3.439,
+  "text": "many investors the oversimplified"
+ },
+ {
+  "start": 541.68,
+  "duration": 3.92,
+  "text": "understanding of the situation is a"
+ },
+ {
+  "start": 543.519,
+  "duration": 3.921,
+  "text": "hardwired belief that Chinese AI is"
+ },
+ {
+  "start": 545.6,
+  "duration": 3.76,
+  "text": "cheap while US AI is eyewateringly"
+ },
+ {
+  "start": 547.44,
+  "duration": 3.28,
+  "text": "expensive. And it didn't help that K3"
+ },
+ {
+  "start": 549.36,
+  "duration": 2.96,
+  "text": "arrived just after we had had a"
+ },
+ {
+  "start": 550.72,
+  "duration": 3.6,
+  "text": "month-long narrative about US companies"
+ },
+ {
+  "start": 552.32,
+  "duration": 3.76,
+  "text": "slashing token budgets. Now, we are not"
+ },
+ {
+  "start": 554.32,
+  "duration": 3.28,
+  "text": "out of this deepseek moment yet, but"
+ },
+ {
+  "start": 556.08,
+  "duration": 4.0,
+  "text": "among other things that will help drag"
+ },
+ {
+  "start": 557.6,
+  "duration": 4.88,
+  "text": "us out is the recognition that while K3"
+ },
+ {
+  "start": 560.08,
+  "duration": 4.56,
+  "text": "is, yes, cheaper, it is nowhere near as"
+ },
+ {
+  "start": 562.48,
+  "duration": 3.76,
+  "text": "cheap as some believe. K3 is currently"
+ },
+ {
+  "start": 564.64,
+  "duration": 3.04,
+  "text": "being served at around a third of the"
+ },
+ {
+  "start": 566.24,
+  "duration": 3.76,
+  "text": "price of Fable or half the price of"
+ },
+ {
+  "start": 567.68,
+  "duration": 4.0,
+  "text": "Opus. That's still a meaningful savings,"
+ },
+ {
+  "start": 570.0,
+  "duration": 3.12,
+  "text": "but it's not pennies on the dollar like"
+ },
+ {
+  "start": 571.68,
+  "duration": 3.44,
+  "text": "I believe many analysts have in their"
+ },
+ {
+  "start": 573.12,
+  "duration": 4.24,
+  "text": "heads. Still, what is real is that US"
+ },
+ {
+  "start": 575.12,
+  "duration": 4.32,
+  "text": "companies are looking for ways to manage"
+ },
+ {
+  "start": 577.36,
+  "duration": 4.0,
+  "text": "their AI budgets, especially as more"
+ },
+ {
+  "start": 579.44,
+  "duration": 3.44,
+  "text": "agentic use cases come online with"
+ },
+ {
+  "start": 581.36,
+  "duration": 3.68,
+  "text": "potential implications for the market"
+ },
+ {
+  "start": 582.88,
+  "duration": 3.76,
+  "text": "success of the leading companies. Now,"
+ },
+ {
+  "start": 585.04,
+  "duration": 3.28,
+  "text": "zooming back into previous versions of"
+ },
+ {
+  "start": 586.64,
+  "duration": 3.759,
+  "text": "the market freakout, another one that"
+ },
+ {
+  "start": 588.32,
+  "duration": 3.68,
+  "text": "related to the durability of revenue was"
+ },
+ {
+  "start": 590.399,
+  "duration": 3.681,
+  "text": "the concern around the circularity of"
+ },
+ {
+  "start": 592.0,
+  "duration": 3.839,
+  "text": "revenue. This concern really picked up"
+ },
+ {
+  "start": 594.08,
+  "duration": 3.28,
+  "text": "between the end of last summer and last"
+ },
+ {
+  "start": 595.839,
+  "duration": 3.281,
+  "text": "fall when you started to see graphics"
+ },
+ {
+  "start": 597.36,
+  "duration": 3.44,
+  "text": "like this one floating around showing"
+ },
+ {
+  "start": 599.12,
+  "duration": 3.36,
+  "text": "maps of all the deals that Nvidia and"
+ },
+ {
+  "start": 600.8,
+  "duration": 2.88,
+  "text": "others were making across the industry."
+ },
+ {
+  "start": 602.48,
+  "duration": 2.88,
+  "text": "While many of those deals were"
+ },
+ {
+  "start": 603.68,
+  "duration": 3.599,
+  "text": "small-scale investments in startup labs"
+ },
+ {
+  "start": 605.36,
+  "duration": 3.44,
+  "text": "and neoclouds, at that point there had"
+ },
+ {
+  "start": 607.279,
+  "duration": 3.041,
+  "text": "been recent reports that Nvidia had"
+ },
+ {
+  "start": 608.8,
+  "duration": 3.52,
+  "text": "struck a deal to invest up to a h 100red"
+ },
+ {
+  "start": 610.32,
+  "duration": 3.6,
+  "text": "billion in open AI. Some investors saw"
+ },
+ {
+  "start": 612.32,
+  "duration": 3.28,
+  "text": "this potential investment as likely to"
+ },
+ {
+  "start": 613.92,
+  "duration": 3.359,
+  "text": "flow straight back into Nvidia as chip"
+ },
+ {
+  "start": 615.6,
+  "duration": 3.44,
+  "text": "revenue, massively and in their minds"
+ },
+ {
+  "start": 617.279,
+  "duration": 3.12,
+  "text": "artificially boosting the bottom line."
+ },
+ {
+  "start": 619.04,
+  "duration": 2.88,
+  "text": "Now, that deal, by the way, ended up"
+ },
+ {
+  "start": 620.399,
+  "duration": 3.361,
+  "text": "closing at 30 billion in February"
+ },
+ {
+  "start": 621.92,
+  "duration": 3.68,
+  "text": "alongside 50 billion from Amazon and 30"
+ },
+ {
+  "start": 623.76,
+  "duration": 3.44,
+  "text": "billion from SoftBank. And for some, the"
+ },
+ {
+  "start": 625.6,
+  "duration": 3.2,
+  "text": "circular financing means that this isn't"
+ },
+ {
+  "start": 627.2,
+  "duration": 3.44,
+  "text": "just OpenAI and Anthropics revenue"
+ },
+ {
+  "start": 628.8,
+  "duration": 3.68,
+  "text": "that's suspect, but also a concern that"
+ },
+ {
+  "start": 630.64,
+  "duration": 2.96,
+  "text": "Nvidia and the other hyperscalers and"
+ },
+ {
+  "start": 632.48,
+  "duration": 2.479,
+  "text": "everyone all the way down the chip"
+ },
+ {
+  "start": 633.6,
+  "duration": 4.0,
+  "text": "supply chain are built on shaky"
+ },
+ {
+  "start": 634.959,
+  "duration": 4.641,
+  "text": "foundations. Now, since people love"
+ },
+ {
+  "start": 637.6,
+  "duration": 4.0,
+  "text": "analogy, the other reason that circular"
+ },
+ {
+  "start": 639.6,
+  "duration": 3.6,
+  "text": "financing has been a concern is the"
+ },
+ {
+  "start": 641.6,
+  "duration": 4.16,
+  "text": "history of circular financing popping"
+ },
+ {
+  "start": 643.2,
+  "duration": 4.24,
+  "text": "bubbles. Some credit the.com crash to a"
+ },
+ {
+  "start": 645.76,
+  "duration": 3.519,
+  "text": "type of circular or vendor financing"
+ },
+ {
+  "start": 647.44,
+  "duration": 3.36,
+  "text": "coming unstuck. Hardware providers like"
+ },
+ {
+  "start": 649.279,
+  "duration": 2.961,
+  "text": "Cisco would sell equipment to fledgling"
+ },
+ {
+  "start": 650.8,
+  "duration": 2.8,
+  "text": "startups on finance. So when the"
+ },
+ {
+  "start": 652.24,
+  "duration": 3.2,
+  "text": "startups went belly up, the hardware"
+ },
+ {
+  "start": 653.6,
+  "duration": 3.359,
+  "text": "manufacturers were left holding the bag."
+ },
+ {
+  "start": 655.44,
+  "duration": 3.28,
+  "text": "That practice was actually made illegal"
+ },
+ {
+  "start": 656.959,
+  "duration": 3.601,
+  "text": "in the early 2000s as a result. And"
+ },
+ {
+  "start": 658.72,
+  "duration": 3.6,
+  "text": "there are a few key differences this"
+ },
+ {
+  "start": 660.56,
+  "duration": 3.04,
+  "text": "time. In this case, Nvidia isn't"
+ },
+ {
+  "start": 662.32,
+  "duration": 3.28,
+  "text": "actually participating in vendor"
+ },
+ {
+  "start": 663.6,
+  "duration": 4.08,
+  "text": "financing. Openai is paying cash for"
+ },
+ {
+  "start": 665.6,
+  "duration": 3.919,
+  "text": "their GPUs. Even if some of that cash is"
+ },
+ {
+  "start": 667.68,
+  "duration": 3.68,
+  "text": "investment money from Nvidia. What this"
+ },
+ {
+  "start": 669.519,
+  "duration": 3.44,
+  "text": "means is that if OpenAI runs out of"
+ },
+ {
+  "start": 671.36,
+  "duration": 3.039,
+  "text": "runway, Nvidia doesn't have a debt"
+ },
+ {
+  "start": 672.959,
+  "duration": 2.721,
+  "text": "default on their hands in a massive hole"
+ },
+ {
+  "start": 674.399,
+  "duration": 3.361,
+  "text": "in their balance sheet. They just have"
+ },
+ {
+  "start": 675.68,
+  "duration": 3.76,
+  "text": "devalued OpenAI stock. The companies"
+ },
+ {
+  "start": 677.76,
+  "duration": 3.44,
+  "text": "this time around are also categorically"
+ },
+ {
+  "start": 679.44,
+  "duration": 4.0,
+  "text": "different. OpenAI and Anthropic are"
+ },
+ {
+  "start": 681.2,
+  "duration": 3.84,
+  "text": "nothing like Pets.com in their scale or"
+ },
+ {
+  "start": 683.44,
+  "duration": 4.32,
+  "text": "legitimacy or the scale of their"
+ },
+ {
+  "start": 685.04,
+  "duration": 4.799,
+  "text": "revenue. The next category of AI market"
+ },
+ {
+  "start": 687.76,
+  "duration": 4.319,
+  "text": "freakout has a chance to come up renewed"
+ },
+ {
+  "start": 689.839,
+  "duration": 3.921,
+  "text": "every few months. That concern is AI"
+ },
+ {
+  "start": 692.079,
+  "duration": 3.841,
+  "text": "companies not showing revenue growing"
+ },
+ {
+  "start": 693.76,
+  "duration": 3.68,
+  "text": "fast enough to justify spend. And this"
+ },
+ {
+  "start": 695.92,
+  "duration": 3.12,
+  "text": "has been the big story for hyperscaler"
+ },
+ {
+  "start": 697.44,
+  "duration": 3.28,
+  "text": "earnings every quarter since the AI"
+ },
+ {
+  "start": 699.04,
+  "duration": 3.919,
+  "text": "buildout began. At the beginning of the"
+ },
+ {
+  "start": 700.72,
+  "duration": 5.119,
+  "text": "year, some hint of AI ROI tended to be"
+ },
+ {
+  "start": 702.959,
+  "duration": 5.44,
+  "text": "enough for investors. In January, Meta"
+ },
+ {
+  "start": 705.839,
+  "duration": 4.081,
+  "text": "reported 24% revenue growth, suggesting"
+ },
+ {
+  "start": 708.399,
+  "duration": 2.481,
+  "text": "that AI was driving a boost in ad"
+ },
+ {
+  "start": 709.92,
+  "duration": 3.28,
+  "text": "revenue, and that was enough for"
+ },
+ {
+  "start": 710.88,
+  "duration": 4.24,
+  "text": "investors. The stock soared by 10% that"
+ },
+ {
+  "start": 713.2,
+  "duration": 3.28,
+  "text": "night. As the year continues, investors"
+ },
+ {
+  "start": 715.12,
+  "duration": 3.12,
+  "text": "are starting to ask a little more from"
+ },
+ {
+  "start": 716.48,
+  "duration": 3.52,
+  "text": "the hyperscalers, but some are still"
+ },
+ {
+  "start": 718.24,
+  "duration": 3.36,
+  "text": "able to deliver. As an example, on"
+ },
+ {
+  "start": 720.0,
+  "duration": 2.88,
+  "text": "Wednesday of this week, Google showed"
+ },
+ {
+  "start": 721.6,
+  "duration": 2.96,
+  "text": "just how much it's going to take to"
+ },
+ {
+  "start": 722.88,
+  "duration": 3.36,
+  "text": "appease this particular market. They"
+ },
+ {
+  "start": 724.56,
+  "duration": 3.92,
+  "text": "delivered a huge earnings beat,"
+ },
+ {
+  "start": 726.24,
+  "duration": 4.159,
+  "text": "reporting 24% overall growth and a"
+ },
+ {
+  "start": 728.48,
+  "duration": 3.599,
+  "text": "fairly massive 82% growth for their"
+ },
+ {
+  "start": 730.399,
+  "duration": 3.521,
+  "text": "cloud division year-over-year. They're"
+ },
+ {
+  "start": 732.079,
+  "duration": 4.401,
+  "text": "making money handover fist serving AI"
+ },
+ {
+  "start": 733.92,
+  "duration": 4.32,
+  "text": "inference, but the stock didn't soar. In"
+ },
+ {
+  "start": 736.48,
+  "duration": 3.44,
+  "text": "fact, the numbers that the investors"
+ },
+ {
+  "start": 738.24,
+  "duration": 3.2,
+  "text": "were focused on were not the growth of"
+ },
+ {
+  "start": 739.92,
+  "duration": 3.52,
+  "text": "their cloud division, but the growth of"
+ },
+ {
+  "start": 741.44,
+  "duration": 4.16,
+  "text": "their capex spend, wrote the Wall Street"
+ },
+ {
+  "start": 743.44,
+  "duration": 3.92,
+  "text": "Journal. Wall Street's tolerance for"
+ },
+ {
+  "start": 745.6,
+  "duration": 3.52,
+  "text": "artificial intelligence investment might"
+ },
+ {
+  "start": 747.36,
+  "duration": 3.84,
+  "text": "seem to have no limits, but Google"
+ },
+ {
+  "start": 749.12,
+  "duration": 4.08,
+  "text": "Parent Alphabet found one on Wednesday."
+ },
+ {
+  "start": 751.2,
+  "duration": 3.439,
+  "text": "200 billion. At the beginning of the"
+ },
+ {
+  "start": 753.2,
+  "duration": 3.92,
+  "text": "year, Google estimated that they would"
+ },
+ {
+  "start": 754.639,
+  "duration": 4.481,
+  "text": "spend between 185 billion on capex,"
+ },
+ {
+  "start": 757.12,
+  "duration": 3.68,
+  "text": "making this only an 8% increase that can"
+ },
+ {
+  "start": 759.12,
+  "duration": 3.839,
+  "text": "mostly be chocked up to cost pressure in"
+ },
+ {
+  "start": 760.8,
+  "duration": 4.0,
+  "text": "the supply chain. And yet still, that"
+ },
+ {
+  "start": 762.959,
+  "duration": 3.761,
+  "text": "$200 billion number was the breaking"
+ },
+ {
+  "start": 764.8,
+  "duration": 4.08,
+  "text": "point for some. Brian Malbury of Sax"
+ },
+ {
+  "start": 766.72,
+  "duration": 4.48,
+  "text": "Investment Management commented, \"The"
+ },
+ {
+  "start": 768.88,
+  "duration": 3.92,
+  "text": "200 was the do not cross line. You can't"
+ },
+ {
+  "start": 771.2,
+  "duration": 3.68,
+  "text": "be offloading this much cash and not"
+ },
+ {
+  "start": 772.8,
+  "duration": 3.599,
+  "text": "talking about it.\" Now, likely this is"
+ },
+ {
+  "start": 774.88,
+  "duration": 3.28,
+  "text": "just the psychological shock of a big"
+ },
+ {
+  "start": 776.399,
+  "duration": 4.721,
+  "text": "round number, but it also demonstrates"
+ },
+ {
+  "start": 778.16,
+  "duration": 4.32,
+  "text": "the point. Even at 82% growth, investors"
+ },
+ {
+  "start": 781.12,
+  "duration": 2.959,
+  "text": "aren't sure that revenue growth will"
+ },
+ {
+  "start": 782.48,
+  "duration": 3.599,
+  "text": "continue to justify the escalating"
+ },
+ {
+  "start": 784.079,
+  "duration": 4.481,
+  "text": "capex. Google stock was the first to see"
+ },
+ {
+  "start": 786.079,
+  "duration": 4.481,
+  "text": "the result, falling by 1.2% in overnight"
+ },
+ {
+  "start": 788.56,
+  "duration": 4.079,
+  "text": "markets. So obviously, the market"
+ },
+ {
+  "start": 790.56,
+  "duration": 4.64,
+  "text": "freakout concern of revenue growth not"
+ },
+ {
+  "start": 792.639,
+  "duration": 5.121,
+  "text": "growing fast enough has a twin in capex"
+ },
+ {
+  "start": 795.2,
+  "duration": 4.0,
+  "text": "growing too fast. The more capex grows,"
+ },
+ {
+  "start": 797.76,
+  "duration": 3.44,
+  "text": "the bigger the hill that revenue has to"
+ },
+ {
+  "start": 799.2,
+  "duration": 3.52,
+  "text": "climb to justify it. To some investors,"
+ },
+ {
+  "start": 801.2,
+  "duration": 2.96,
+  "text": "the concern is that they just don't"
+ },
+ {
+  "start": 802.72,
+  "duration": 3.2,
+  "text": "understand where this all ends."
+ },
+ {
+  "start": 804.16,
+  "duration": 3.2,
+  "text": "Hyperscalers have now raised capex"
+ },
+ {
+  "start": 805.92,
+  "duration": 3.52,
+  "text": "guidance every quarter for the past 3"
+ },
+ {
+  "start": 807.36,
+  "duration": 3.44,
+  "text": "years. combined capex is now looking"
+ },
+ {
+  "start": 809.44,
+  "duration": 3.36,
+  "text": "like it will exceed a trillion dollars"
+ },
+ {
+  "start": 810.8,
+  "duration": 3.36,
+  "text": "next year and could head even higher."
+ },
+ {
+  "start": 812.8,
+  "duration": 3.279,
+  "text": "Now, of course, part of the challenge"
+ },
+ {
+  "start": 814.16,
+  "duration": 4.16,
+  "text": "here is that we are just in totally"
+ },
+ {
+  "start": 816.079,
+  "duration": 4.56,
+  "text": "uncharted waters. Seeing companies go"
+ },
+ {
+  "start": 818.32,
+  "duration": 4.639,
+  "text": "from 1 billion in revenue to 30 billion"
+ },
+ {
+  "start": 820.639,
+  "duration": 4.241,
+  "text": "in revenue in less than 2 years has"
+ },
+ {
+  "start": 822.959,
+  "duration": 4.241,
+  "text": "absolutely no precedent in the history"
+ },
+ {
+  "start": 824.88,
+  "duration": 4.079,
+  "text": "of any markets anywhere at any time in"
+ },
+ {
+  "start": 827.2,
+  "duration": 3.04,
+  "text": "history. Now, of course, part of the"
+ },
+ {
+  "start": 828.959,
+  "duration": 3.921,
+  "text": "reason that the bubble narrative from"
+ },
+ {
+  "start": 830.24,
+  "duration": 4.32,
+  "text": "late 2025 calmed down this year was"
+ },
+ {
+  "start": 832.88,
+  "duration": 3.92,
+  "text": "exactly the sort of hyperrowth from"
+ },
+ {
+  "start": 834.56,
+  "duration": 3.839,
+  "text": "OpenAI and Anthropic. Whereas many"
+ },
+ {
+  "start": 836.8,
+  "duration": 3.52,
+  "text": "investors were counting the number of"
+ },
+ {
+  "start": 838.399,
+  "duration": 4.081,
+  "text": "total knowledge worker seats available,"
+ },
+ {
+  "start": 840.32,
+  "duration": 3.68,
+  "text": "multiplying that by 20 or 30 and not"
+ },
+ {
+  "start": 842.48,
+  "duration": 3.68,
+  "text": "finding enough revenue to really justify"
+ },
+ {
+  "start": 844.0,
+  "duration": 3.92,
+  "text": "this big capex spend. When agentic use"
+ },
+ {
+  "start": 846.16,
+  "duration": 3.52,
+  "text": "cases came online and we started to see"
+ },
+ {
+  "start": 847.92,
+  "duration": 3.359,
+  "text": "employees spending hundreds or even"
+ },
+ {
+  "start": 849.68,
+  "duration": 3.44,
+  "text": "thousands of dollars a month, it helped"
+ },
+ {
+  "start": 851.279,
+  "duration": 3.92,
+  "text": "jog investors to realize that this is"
+ },
+ {
+  "start": 853.12,
+  "duration": 3.44,
+  "text": "not just a different category of SAS and"
+ },
+ {
+  "start": 855.199,
+  "duration": 2.721,
+  "text": "represents something fundamentally"
+ },
+ {
+  "start": 856.56,
+  "duration": 2.719,
+  "text": "different. Still, fundamentally"
+ },
+ {
+  "start": 857.92,
+  "duration": 3.2,
+  "text": "different isn't necessarily comfortable"
+ },
+ {
+  "start": 859.279,
+  "duration": 3.201,
+  "text": "for investors who like having clear"
+ },
+ {
+  "start": 861.12,
+  "duration": 2.32,
+  "text": "patterns and history that they can draw"
+ },
+ {
+  "start": 862.48,
+  "duration": 3.12,
+  "text": "from as they're making their"
+ },
+ {
+  "start": 863.44,
+  "duration": 4.32,
+  "text": "allocations. And even in that new"
+ },
+ {
+  "start": 865.6,
+  "duration": 4.08,
+  "text": "context of massive agentic spend, that"
+ },
+ {
+  "start": 867.76,
+  "duration": 3.92,
+  "text": "in and of itself has created new"
+ },
+ {
+  "start": 869.68,
+  "duration": 4.0,
+  "text": "categories of concern. One of the big"
+ },
+ {
+  "start": 871.68,
+  "duration": 4.399,
+  "text": "recurring AI market freakout themes is"
+ },
+ {
+  "start": 873.68,
+  "duration": 3.76,
+  "text": "any suggestions of limits of AI spend."
+ },
+ {
+  "start": 876.079,
+  "duration": 3.841,
+  "text": "Last year, of course, we had a version"
+ },
+ {
+  "start": 877.44,
+  "duration": 5.28,
+  "text": "of this in the notorious MIT report that"
+ },
+ {
+  "start": 879.92,
+  "duration": 5.12,
+  "text": "claimed that 95% of Gen AI pilots fail."
+ },
+ {
+  "start": 882.72,
+  "duration": 3.919,
+  "text": "And while the study was absolute garbage"
+ },
+ {
+  "start": 885.04,
+  "duration": 3.039,
+  "text": "social science that MIT should be"
+ },
+ {
+  "start": 886.639,
+  "duration": 3.121,
+  "text": "embarrassed to have its name anything"
+ },
+ {
+  "start": 888.079,
+  "duration": 3.361,
+  "text": "associated with, all that mattered was"
+ },
+ {
+  "start": 889.76,
+  "duration": 4.48,
+  "text": "the headline. And that headline found"
+ },
+ {
+  "start": 891.44,
+  "duration": 4.399,
+  "text": "its way into every desk on Wall Street."
+ },
+ {
+  "start": 894.24,
+  "duration": 3.2,
+  "text": "This year's version of that is a little"
+ },
+ {
+  "start": 895.839,
+  "duration": 3.521,
+  "text": "less stupid because at least it's based"
+ },
+ {
+  "start": 897.44,
+  "duration": 3.68,
+  "text": "in reality, which is of course the idea"
+ },
+ {
+  "start": 899.36,
+  "duration": 3.76,
+  "text": "of token caps as companies begin to"
+ },
+ {
+  "start": 901.12,
+  "duration": 3.519,
+  "text": "limit AI use. Now, once again, the"
+ },
+ {
+  "start": 903.12,
+  "duration": 3.839,
+  "text": "headlines are more dramatic than the"
+ },
+ {
+  "start": 904.639,
+  "duration": 4.64,
+  "text": "actual policies. Uber is capping users,"
+ },
+ {
+  "start": 906.959,
+  "duration": 3.841,
+  "text": "for example, at $1,500 per month, and"
+ },
+ {
+  "start": 909.279,
+  "duration": 3.68,
+  "text": "Tesla, another company in a similar"
+ },
+ {
+  "start": 910.8,
+  "duration": 3.76,
+  "text": "boat, is allowing workers to use $200"
+ },
+ {
+  "start": 912.959,
+  "duration": 3.68,
+  "text": "worth of tokens a week with the ability"
+ },
+ {
+  "start": 914.56,
+  "duration": 3.839,
+  "text": "to request larger budgets. Importantly,"
+ },
+ {
+  "start": 916.639,
+  "duration": 3.601,
+  "text": "we've barely scratched the surface on"
+ },
+ {
+  "start": 918.399,
+  "duration": 3.521,
+  "text": "the ability for most knowledge workers"
+ },
+ {
+  "start": 920.24,
+  "duration": 3.52,
+  "text": "to use anywhere near that sort of token"
+ },
+ {
+  "start": 921.92,
+  "duration": 3.52,
+  "text": "budgets. Meaning that even if every"
+ },
+ {
+  "start": 923.76,
+  "duration": 3.199,
+  "text": "company adopted similar policies, there"
+ },
+ {
+  "start": 925.44,
+  "duration": 3.44,
+  "text": "is still an enormous amount of growth to"
+ },
+ {
+  "start": 926.959,
+  "duration": 3.44,
+  "text": "be had. But still, the market"
+ },
+ {
+  "start": 928.88,
+  "duration": 2.8,
+  "text": "understands that everyone will be"
+ },
+ {
+  "start": 930.399,
+  "duration": 3.041,
+  "text": "looking for ways to bring their token"
+ },
+ {
+  "start": 931.68,
+  "duration": 4.159,
+  "text": "budgets under control, creating a new"
+ },
+ {
+  "start": 933.44,
+  "duration": 4.079,
+  "text": "looming threat of cheaper inference."
+ },
+ {
+  "start": 935.839,
+  "duration": 2.881,
+  "text": "Now, one last recurring market freakout"
+ },
+ {
+  "start": 937.519,
+  "duration": 2.801,
+  "text": "that is worth mentioning for"
+ },
+ {
+  "start": 938.72,
+  "duration": 3.6,
+  "text": "completeness, even though it hasn't been"
+ },
+ {
+  "start": 940.32,
+  "duration": 3.68,
+  "text": "much of a concern this year, is the idea"
+ },
+ {
+  "start": 942.32,
+  "duration": 3.84,
+  "text": "of performance plateaus that once again"
+ },
+ {
+  "start": 944.0,
+  "duration": 3.68,
+  "text": "lead to reduced spend. If AI performance"
+ },
+ {
+  "start": 946.16,
+  "duration": 2.799,
+  "text": "hits the wall, that limits what it can"
+ },
+ {
+  "start": 947.68,
+  "duration": 2.719,
+  "text": "do, which limits the amount that"
+ },
+ {
+  "start": 948.959,
+  "duration": 3.201,
+  "text": "companies will spend on it, which limits"
+ },
+ {
+  "start": 950.399,
+  "duration": 3.761,
+  "text": "the total revenue growth, which makes it"
+ },
+ {
+  "start": 952.16,
+  "duration": 3.84,
+  "text": "harder to justify the capex. This was"
+ },
+ {
+  "start": 954.16,
+  "duration": 3.44,
+  "text": "the big fear in the fall of 2024 when"
+ },
+ {
+  "start": 956.0,
+  "duration": 3.279,
+  "text": "the major narrative was the pre-training"
+ },
+ {
+  "start": 957.6,
+  "duration": 3.44,
+  "text": "scaling wall. There were rumors at the"
+ },
+ {
+  "start": 959.279,
+  "duration": 3.521,
+  "text": "time that both Anthropic and OpenAI had"
+ },
+ {
+  "start": 961.04,
+  "duration": 3.359,
+  "text": "scuttled flagship pre-training runs over"
+ },
+ {
+  "start": 962.8,
+  "duration": 2.88,
+  "text": "the summer as the minor performance"
+ },
+ {
+  "start": 964.399,
+  "duration": 3.521,
+  "text": "boost they were seeing didn't justify"
+ },
+ {
+  "start": 965.68,
+  "duration": 4.719,
+  "text": "the increased cost. Now, from where we"
+ },
+ {
+  "start": 967.92,
+  "duration": 5.2,
+  "text": "are today, that argument looks quaint,"
+ },
+ {
+  "start": 970.399,
+  "duration": 4.401,
+  "text": "ridiculous, insane, like Gary Marcus and"
+ },
+ {
+  "start": 973.12,
+  "duration": 3.36,
+  "text": "Ed Zitron were actively trying to lose"
+ },
+ {
+  "start": 974.8,
+  "duration": 3.039,
+  "text": "you money. A few months later, we got a"
+ },
+ {
+  "start": 976.48,
+  "duration": 3.599,
+  "text": "glimpse of AI reasoning for the first"
+ },
+ {
+  "start": 977.839,
+  "duration": 3.761,
+  "text": "time with 01 that pre-training was not"
+ },
+ {
+  "start": 980.079,
+  "duration": 3.68,
+  "text": "the only vector to getting increased"
+ },
+ {
+  "start": 981.6,
+  "duration": 3.359,
+  "text": "performance out of AI. Now, subsequent"
+ },
+ {
+  "start": 983.759,
+  "duration": 2.961,
+  "text": "to that, we've also just seen"
+ },
+ {
+  "start": 984.959,
+  "duration": 3.44,
+  "text": "pre-training very clearly not having hit"
+ },
+ {
+  "start": 986.72,
+  "duration": 3.84,
+  "text": "a wall with pretty much no one being"
+ },
+ {
+  "start": 988.399,
+  "duration": 3.36,
+  "text": "willing to argue that Fable 5 isn't an"
+ },
+ {
+  "start": 990.56,
+  "duration": 3.76,
+  "text": "entirely different beast to, for"
+ },
+ {
+  "start": 991.759,
+  "duration": 4.961,
+  "text": "example, Opus 3. So, if these are all"
+ },
+ {
+  "start": 994.32,
+  "duration": 3.92,
+  "text": "the common categories of investor"
+ },
+ {
+  "start": 996.72,
+  "duration": 3.76,
+  "text": "freakouts that we've seen in the 3 and a"
+ },
+ {
+  "start": 998.24,
+  "duration": 5.519,
+  "text": "half year history of AI, let's now turn"
+ },
+ {
+  "start": 1000.48,
+  "duration": 5.2,
+  "text": "to some important caveats."
+ },
+ {
+  "start": 1003.759,
+  "duration": 3.841,
+  "text": "First up, it may or may not surprise you"
+ },
+ {
+  "start": 1005.68,
+  "duration": 4.159,
+  "text": "to find that there is a pretty"
+ },
+ {
+  "start": 1007.6,
+  "duration": 4.08,
+  "text": "consistent seasonality to the FUD. It's"
+ },
+ {
+  "start": 1009.839,
+  "duration": 4.081,
+  "text": "almost like investors want a reason to"
+ },
+ {
+  "start": 1011.68,
+  "duration": 4.24,
+  "text": "not care as much in August. Now, summer"
+ },
+ {
+  "start": 1013.92,
+  "duration": 3.68,
+  "text": "doldrums are a well-known phenomenon in"
+ },
+ {
+  "start": 1015.92,
+  "duration": 3.76,
+  "text": "markets, and the AI boom seems to"
+ },
+ {
+  "start": 1017.6,
+  "duration": 3.76,
+  "text": "amplify the effect. This is not just a"
+ },
+ {
+  "start": 1019.68,
+  "duration": 3.12,
+  "text": "theory. There is a ton of research that"
+ },
+ {
+  "start": 1021.36,
+  "duration": 3.04,
+  "text": "momentum breakdowns occur over the"
+ },
+ {
+  "start": 1022.8,
+  "duration": 3.039,
+  "text": "summer, particularly when momentum"
+ },
+ {
+  "start": 1024.4,
+  "duration": 3.76,
+  "text": "stocks like semiconductors are driving"
+ },
+ {
+  "start": 1025.839,
+  "duration": 4.161,
+  "text": "the rally. And this has been a historic"
+ },
+ {
+  "start": 1028.16,
+  "duration": 3.279,
+  "text": "summer breakdown. Last week, Morgan"
+ },
+ {
+  "start": 1030.0,
+  "duration": 3.52,
+  "text": "Stanley noted that momentum stocks are"
+ },
+ {
+  "start": 1031.439,
+  "duration": 3.681,
+  "text": "down 40% this month, making it the worst"
+ },
+ {
+  "start": 1033.52,
+  "duration": 4.799,
+  "text": "month on record, beating the previous"
+ },
+ {
+  "start": 1035.12,
+  "duration": 4.88,
+  "text": "worst of 29% in early 2021. Now, that's"
+ },
+ {
+  "start": 1038.319,
+  "duration": 3.441,
+  "text": "not to dismiss all of this draw down as"
+ },
+ {
+  "start": 1040.0,
+  "duration": 3.199,
+  "text": "a quirk of the market. In a note earlier"
+ },
+ {
+  "start": 1041.76,
+  "duration": 2.96,
+  "text": "this week, Goldman Sachs said that hedge"
+ },
+ {
+  "start": 1043.199,
+  "duration": 2.801,
+  "text": "funds have sold tech stocks in record"
+ },
+ {
+  "start": 1044.72,
+  "duration": 3.04,
+  "text": "numbers, but it is still worth"
+ },
+ {
+  "start": 1046.0,
+  "duration": 3.919,
+  "text": "contextualizing the fears that you see"
+ },
+ {
+  "start": 1047.76,
+  "duration": 3.919,
+  "text": "with that summer seasonality."
+ },
+ {
+  "start": 1049.919,
+  "duration": 3.76,
+  "text": "Now, here's another really important"
+ },
+ {
+  "start": 1051.679,
+  "duration": 3.521,
+  "text": "caveat. As much as I might bemoone the"
+ },
+ {
+  "start": 1053.679,
+  "duration": 2.961,
+  "text": "fact that an entire generation watched"
+ },
+ {
+  "start": 1055.2,
+  "duration": 2.88,
+  "text": "the big short, thought Michael Bur was"
+ },
+ {
+  "start": 1056.64,
+  "duration": 3.039,
+  "text": "cool, and spent the next decade calling"
+ },
+ {
+  "start": 1058.08,
+  "duration": 3.44,
+  "text": "everything a bubble, the fact that the"
+ },
+ {
+  "start": 1059.679,
+  "duration": 3.681,
+  "text": "market is so determined to have a bubble"
+ },
+ {
+  "start": 1061.52,
+  "duration": 3.6,
+  "text": "logic at all times is one of the biggest"
+ },
+ {
+  "start": 1063.36,
+  "duration": 3.28,
+  "text": "things preventing a runaway bubble."
+ },
+ {
+  "start": 1065.12,
+  "duration": 2.88,
+  "text": "Every time this market gets a little"
+ },
+ {
+  "start": 1066.64,
+  "duration": 2.96,
+  "text": "over its skis, there is a pressure"
+ },
+ {
+  "start": 1068.0,
+  "duration": 3.2,
+  "text": "release to moderate it a little. We're"
+ },
+ {
+  "start": 1069.6,
+  "duration": 3.92,
+  "text": "just not seeing the frenetic runaway"
+ },
+ {
+  "start": 1071.2,
+  "duration": 4.08,
+  "text": "market we saw in 1999 and 2000 with boom"
+ },
+ {
+  "start": 1073.52,
+  "duration": 3.84,
+  "text": "and bust IPOs every other day driving"
+ },
+ {
+  "start": 1075.28,
+  "duration": 4.16,
+  "text": "100x gains and massive losses. The"
+ },
+ {
+  "start": 1077.36,
+  "duration": 4.16,
+  "text": "reason why the late 2025's bubble talk"
+ },
+ {
+  "start": 1079.44,
+  "duration": 4.08,
+  "text": "dissipated is that agents changed the"
+ },
+ {
+  "start": 1081.52,
+  "duration": 4.399,
+  "text": "dollar logic and we saw the numbers show"
+ },
+ {
+  "start": 1083.52,
+  "duration": 4.0,
+  "text": "up in Enthropic and Open AI. Rational"
+ },
+ {
+  "start": 1085.919,
+  "duration": 3.921,
+  "text": "concern followed by evidence to the"
+ },
+ {
+  "start": 1087.52,
+  "duration": 3.6,
+  "text": "contrary. Now, when it comes to how I"
+ },
+ {
+  "start": 1089.84,
+  "duration": 3.199,
+  "text": "think we drag ourselves out of this"
+ },
+ {
+  "start": 1091.12,
+  "duration": 3.52,
+  "text": "round of concern, one of my strongest"
+ },
+ {
+  "start": 1093.039,
+  "duration": 3.841,
+  "text": "candidates will be an increasing"
+ },
+ {
+  "start": 1094.64,
+  "duration": 4.0,
+  "text": "recognition that things like token caps"
+ },
+ {
+  "start": 1096.88,
+  "duration": 3.84,
+  "text": "matter far less than the realization"
+ },
+ {
+  "start": 1098.64,
+  "duration": 3.52,
+  "text": "that we're using a vanishingly small"
+ },
+ {
+  "start": 1100.72,
+  "duration": 3.68,
+  "text": "portion of the intelligence that will"
+ },
+ {
+  "start": 1102.16,
+  "duration": 4.639,
+  "text": "ultimately demand. The room to run will"
+ },
+ {
+  "start": 1104.4,
+  "duration": 4.0,
+  "text": "give us room to run. I also believe that"
+ },
+ {
+  "start": 1106.799,
+  "duration": 3.921,
+  "text": "at the speed at which an infrastructure"
+ },
+ {
+  "start": 1108.4,
+  "duration": 4.56,
+  "text": "buildout is even possible, it's almost"
+ },
+ {
+  "start": 1110.72,
+  "duration": 4.0,
+  "text": "impossible for capacity to grow faster"
+ },
+ {
+  "start": 1112.96,
+  "duration": 3.52,
+  "text": "than demand. In other words, building"
+ },
+ {
+  "start": 1114.72,
+  "duration": 3.839,
+  "text": "data centers just takes a really, really"
+ },
+ {
+  "start": 1116.48,
+  "duration": 3.199,
+  "text": "long time. And half of data centers that"
+ },
+ {
+  "start": 1118.559,
+  "duration": 2.961,
+  "text": "were announced this year have either"
+ },
+ {
+  "start": 1119.679,
+  "duration": 3.201,
+  "text": "been canceled or delayed. Bears are"
+ },
+ {
+  "start": 1121.52,
+  "duration": 3.12,
+  "text": "calling this a sign that the demand just"
+ },
+ {
+  "start": 1122.88,
+  "duration": 3.2,
+  "text": "isn't there. But there is literally zero"
+ },
+ {
+  "start": 1124.64,
+  "duration": 3.6,
+  "text": "evidence of this. And the simpler"
+ },
+ {
+  "start": 1126.08,
+  "duration": 3.599,
+  "text": "explanation is simply that it's a really"
+ },
+ {
+  "start": 1128.24,
+  "duration": 3.76,
+  "text": "hard to permit and construct a data"
+ },
+ {
+  "start": 1129.679,
+  "duration": 4.88,
+  "text": "center. and B, data center builders have"
+ },
+ {
+  "start": 1132.0,
+  "duration": 4.24,
+  "text": "done a spectacularly bad job up to this"
+ },
+ {
+  "start": 1134.559,
+  "duration": 3.281,
+  "text": "point of actually addressing citizen"
+ },
+ {
+  "start": 1136.24,
+  "duration": 3.28,
+  "text": "concerns in their communities, leading"
+ },
+ {
+  "start": 1137.84,
+  "duration": 3.28,
+  "text": "to an upswell in anti-data center"
+ },
+ {
+  "start": 1139.52,
+  "duration": 3.68,
+  "text": "activity. In other words, there are just"
+ },
+ {
+  "start": 1141.12,
+  "duration": 4.0,
+  "text": "these built-in road bumps that will slow"
+ },
+ {
+  "start": 1143.2,
+  "duration": 3.92,
+  "text": "things down and give everyone more time"
+ },
+ {
+  "start": 1145.12,
+  "duration": 3.84,
+  "text": "to adjust. Now, when it comes to this"
+ },
+ {
+  "start": 1147.12,
+  "duration": 3.52,
+  "text": "latest round of FUD with China, I think"
+ },
+ {
+  "start": 1148.96,
+  "duration": 3.599,
+  "text": "one of the ways that it becomes resolved"
+ },
+ {
+  "start": 1150.64,
+  "duration": 3.52,
+  "text": "is people realizing that it doesn't"
+ },
+ {
+  "start": 1152.559,
+  "duration": 2.641,
+  "text": "really matter if your model is cheap if"
+ },
+ {
+  "start": 1154.16,
+  "duration": 3.2,
+  "text": "you don't have the inference to serve"
+ },
+ {
+  "start": 1155.2,
+  "duration": 3.839,
+  "text": "it. Moonshot was completely tapped out"
+ },
+ {
+  "start": 1157.36,
+  "duration": 3.6,
+  "text": "of compute on opening weekend and I"
+ },
+ {
+  "start": 1159.039,
+  "duration": 4.0,
+  "text": "think it is extraordinarily questionable"
+ },
+ {
+  "start": 1160.96,
+  "duration": 4.0,
+  "text": "whether all of the Chinese AI companies"
+ },
+ {
+  "start": 1163.039,
+  "duration": 3.361,
+  "text": "put together can serve even a tiny"
+ },
+ {
+  "start": 1164.96,
+  "duration": 3.92,
+  "text": "fraction of the users that the US"
+ },
+ {
+  "start": 1166.4,
+  "duration": 5.84,
+  "text": "companies do. And lastly, and really"
+ },
+ {
+  "start": 1168.88,
+  "duration": 5.52,
+  "text": "importantly, look at the utter explosion"
+ },
+ {
+  "start": 1172.24,
+  "duration": 4.16,
+  "text": "of companies flooding into this new"
+ },
+ {
+  "start": 1174.4,
+  "duration": 4.0,
+  "text": "opportunity driven by alternative model"
+ },
+ {
+  "start": 1176.4,
+  "duration": 4.08,
+  "text": "architectures and the hunt for cheaper"
+ },
+ {
+  "start": 1178.4,
+  "duration": 3.6,
+  "text": "inference. We are seeing routers"
+ },
+ {
+  "start": 1180.48,
+  "duration": 3.439,
+  "text": "announced every day. We're seeing"
+ },
+ {
+  "start": 1182.0,
+  "duration": 3.6,
+  "text": "fine-tuning and post-train model plays"
+ },
+ {
+  "start": 1183.919,
+  "duration": 3.601,
+  "text": "actually working. many of which are"
+ },
+ {
+  "start": 1185.6,
+  "duration": 4.0,
+  "text": "verticalized to specific industries."
+ },
+ {
+  "start": 1187.52,
+  "duration": 4.24,
+  "text": "We're seeing a flourishing, in other"
+ },
+ {
+  "start": 1189.6,
+  "duration": 4.0,
+  "text": "words, of companies flooding in to solve"
+ },
+ {
+  "start": 1191.76,
+  "duration": 3.68,
+  "text": "a market opportunity. And that's even"
+ },
+ {
+  "start": 1193.6,
+  "duration": 3.92,
+  "text": "before we see these potential incentives"
+ },
+ {
+  "start": 1195.44,
+  "duration": 3.76,
+  "text": "for US open- source efforts if those"
+ },
+ {
+  "start": 1197.52,
+  "duration": 3.84,
+  "text": "should happen. Investor Nick Carter"
+ },
+ {
+  "start": 1199.2,
+  "duration": 3.68,
+  "text": "wrote, \"The US government does not owe"
+ },
+ {
+  "start": 1201.36,
+  "duration": 3.28,
+  "text": "either of the large labs a business"
+ },
+ {
+  "start": 1202.88,
+  "duration": 3.36,
+  "text": "model. If the economics of selling"
+ },
+ {
+  "start": 1204.64,
+  "duration": 3.279,
+  "text": "tokens don't work due to distillation,"
+ },
+ {
+  "start": 1206.24,
+  "duration": 3.36,
+  "text": "cheap clones, Chinese AI magic, the"
+ },
+ {
+  "start": 1207.919,
+  "duration": 3.281,
+  "text": "American enterprise and consumer will be"
+ },
+ {
+  "start": 1209.6,
+  "duration": 3.199,
+  "text": "a-okay. They will benefit from"
+ },
+ {
+  "start": 1211.2,
+  "duration": 3.2,
+  "text": "hyperdelation and the cost of digital"
+ },
+ {
+  "start": 1212.799,
+  "duration": 3.361,
+  "text": "cognition just like everyone else. The"
+ },
+ {
+  "start": 1214.4,
+  "duration": 3.44,
+  "text": "hyperscalers will be fine. It's just"
+ },
+ {
+  "start": 1216.16,
+  "duration": 3.2,
+  "text": "open AI and anthropic that won't be in"
+ },
+ {
+  "start": 1217.84,
+  "duration": 2.88,
+  "text": "their current forms at least. If they're"
+ },
+ {
+  "start": 1219.36,
+  "duration": 3.199,
+  "text": "willing to adapt, they can develop new"
+ },
+ {
+  "start": 1220.72,
+  "duration": 3.68,
+  "text": "business models. So what if the token"
+ },
+ {
+  "start": 1222.559,
+  "duration": 3.441,
+  "text": "merchants don't do well? The neoclouds"
+ },
+ {
+  "start": 1224.4,
+  "duration": 3.36,
+  "text": "will be fine. The internet companies"
+ },
+ {
+  "start": 1226.0,
+  "duration": 2.88,
+  "text": "will be fine. The consumers get cheaper"
+ },
+ {
+  "start": 1227.76,
+  "duration": 3.919,
+  "text": "queries. The enterprise will still"
+ },
+ {
+  "start": 1228.88,
+  "duration": 4.48,
+  "text": "incorporate AI. The AI capex supercycle"
+ },
+ {
+  "start": 1231.679,
+  "duration": 3.441,
+  "text": "will still produce tokens closed weight"
+ },
+ {
+  "start": 1233.36,
+  "duration": 5.12,
+  "text": "or not. American firms will consume"
+ },
+ {
+  "start": 1235.12,
+  "duration": 5.2,
+  "text": "these tokens. My general base case is"
+ },
+ {
+  "start": 1238.48,
+  "duration": 3.439,
+  "text": "that every Frontier token for at least"
+ },
+ {
+  "start": 1240.32,
+  "duration": 3.359,
+  "text": "the next 5 years gets bought at a"
+ },
+ {
+  "start": 1241.919,
+  "duration": 3.521,
+  "text": "premium price even as cheaper workloads"
+ },
+ {
+  "start": 1243.679,
+  "duration": 3.201,
+  "text": "come online. I just think the amount of"
+ },
+ {
+  "start": 1245.44,
+  "duration": 2.8,
+  "text": "premium state-of-the-art tokens that"
+ },
+ {
+  "start": 1246.88,
+  "duration": 3.2,
+  "text": "we're going to be able to produce will"
+ },
+ {
+  "start": 1248.24,
+  "duration": 3.679,
+  "text": "still be ahead of demand even with a lot"
+ },
+ {
+  "start": 1250.08,
+  "duration": 3.2,
+  "text": "of nonpremium tokens being consumed as"
+ },
+ {
+  "start": 1251.919,
+  "duration": 3.041,
+  "text": "well. I think the viability of"
+ },
+ {
+  "start": 1253.28,
+  "duration": 4.24,
+  "text": "alternative architectures and new model"
+ },
+ {
+  "start": 1254.96,
+  "duration": 4.16,
+  "text": "approaches relieves larger macroeconomic"
+ },
+ {
+  "start": 1257.52,
+  "duration": 2.8,
+  "text": "pressure on OpenAI and anthropic to"
+ },
+ {
+  "start": 1259.12,
+  "duration": 3.2,
+  "text": "carry the whole market by better"
+ },
+ {
+  "start": 1260.32,
+  "duration": 3.44,
+  "text": "distributing the revenue gains of AI. I"
+ },
+ {
+  "start": 1262.32,
+  "duration": 2.88,
+  "text": "think natural enterprise inertia"
+ },
+ {
+  "start": 1263.76,
+  "duration": 2.799,
+  "text": "combines with the inherent long horizon"
+ },
+ {
+  "start": 1265.2,
+  "duration": 2.959,
+  "text": "of the infrastructure buildout to"
+ },
+ {
+  "start": 1266.559,
+  "duration": 3.12,
+  "text": "stretch the adaptive timeline in a way"
+ },
+ {
+  "start": 1268.159,
+  "duration": 3.121,
+  "text": "that allows the economy to adapt better"
+ },
+ {
+  "start": 1269.679,
+  "duration": 3.441,
+  "text": "than if the only factor was raw model"
+ },
+ {
+  "start": 1271.28,
+  "duration": 3.2,
+  "text": "capability. And yet with all of this, I"
+ },
+ {
+  "start": 1273.12,
+  "duration": 2.799,
+  "text": "think there will be a neverending"
+ },
+ {
+  "start": 1274.48,
+  "duration": 2.8,
+  "text": "sequence of new flood, which by the way"
+ },
+ {
+  "start": 1275.919,
+  "duration": 3.281,
+  "text": "will frequently coincide with"
+ },
+ {
+  "start": 1277.28,
+  "duration": 3.6,
+  "text": "pre-existing market seasonality. But"
+ },
+ {
+  "start": 1279.2,
+  "duration": 3.12,
+  "text": "also that at the end of the day, these"
+ },
+ {
+  "start": 1280.88,
+  "duration": 3.36,
+  "text": "fairly consistent and patternistic"
+ },
+ {
+  "start": 1282.32,
+  "duration": 3.359,
+  "text": "market freakouts ultimately reduce the"
+ },
+ {
+  "start": 1284.24,
+  "duration": 4.08,
+  "text": "likelihood that a full bubble is able to"
+ },
+ {
+  "start": 1285.679,
+  "duration": 4.321,
+  "text": "form. Anyways friends, that is my take."
+ },
+ {
+  "start": 1288.32,
+  "duration": 3.12,
+  "text": "That's what I believe. And for now, that"
+ },
+ {
+  "start": 1290.0,
+  "duration": 2.96,
+  "text": "is going to do it for today's AI daily"
+ },
+ {
+  "start": 1291.44,
+  "duration": 3.119,
+  "text": "brief. Appreciate you listening or"
+ },
+ {
+  "start": 1292.96,
+  "duration": 5.079,
+  "text": "watching. As always, until [music] next"
+ },
+ {
+  "start": 1294.559,
+  "duration": 3.48,
+  "text": "time, peace."
+ },
+ {
+  "start": 1299.534,
+  "duration": 2.02,
+  "text": "[music]"
+ }
+]

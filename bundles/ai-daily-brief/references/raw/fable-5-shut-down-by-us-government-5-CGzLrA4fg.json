@@ -1,0 +1,3927 @@
+[
+ {
+  "start": 0.0,
+  "duration": 3.88,
+  "text": "In this emergency episode, we are"
+ },
+ {
+  "start": 1.48,
+  "duration": 5.56,
+  "text": "discussing the US government shutting"
+ },
+ {
+  "start": 3.88,
+  "duration": 4.96,
+  "text": "down Anthropic's Fable 5. The AI Daily"
+ },
+ {
+  "start": 7.04,
+  "duration": 3.52,
+  "text": "Brief is a daily podcast and video about"
+ },
+ {
+  "start": 8.84,
+  "duration": 3.12,
+  "text": "the most important news and discussions"
+ },
+ {
+  "start": 10.56,
+  "duration": 3.16,
+  "text": "in AI."
+ },
+ {
+  "start": 11.96,
+  "duration": 3.36,
+  "text": "Hello friends, welcome back to the AI"
+ },
+ {
+  "start": 13.72,
+  "duration": 3.2,
+  "text": "Daily Brief. For the first time in the"
+ },
+ {
+  "start": 15.32,
+  "duration": 3.44,
+  "text": "three-year history of this show, news"
+ },
+ {
+  "start": 16.92,
+  "duration": 4.08,
+  "text": "has broken on a Friday afternoon that is"
+ },
+ {
+  "start": 18.76,
+  "duration": 4.6,
+  "text": "too significant to wait until Monday to"
+ },
+ {
+  "start": 21.0,
+  "duration": 4.0,
+  "text": "explore. Last night, just before 9:00"
+ },
+ {
+  "start": 23.36,
+  "duration": 3.68,
+  "text": "Eastern time in the US, Anthropic"
+ },
+ {
+  "start": 25.0,
+  "duration": 3.92,
+  "text": "tweeted, \"The US government, citing"
+ },
+ {
+  "start": 27.04,
+  "duration": 4.4,
+  "text": "national security authorities, has"
+ },
+ {
+  "start": 28.92,
+  "duration": 5.32,
+  "text": "issued an export control directive to"
+ },
+ {
+  "start": 31.44,
+  "duration": 5.2,
+  "text": "suspend all access to Fable 5 and Mythos"
+ },
+ {
+  "start": 34.24,
+  "duration": 4.76,
+  "text": "5 by any foreign national, whether"
+ },
+ {
+  "start": 36.64,
+  "duration": 4.52,
+  "text": "inside or outside the United States,"
+ },
+ {
+  "start": 39.0,
+  "duration": 4.2,
+  "text": "including foreign national Anthropic"
+ },
+ {
+  "start": 41.16,
+  "duration": 4.24,
+  "text": "employees. The net effect of this order"
+ },
+ {
+  "start": 43.2,
+  "duration": 4.76,
+  "text": "is that we must abruptly disable Fable 5"
+ },
+ {
+  "start": 45.4,
+  "duration": 5.0,
+  "text": "and Mythos 5 for all our customers to"
+ },
+ {
+  "start": 47.96,
+  "duration": 4.4,
+  "text": "ensure compliance. Access to all other"
+ },
+ {
+  "start": 50.4,
+  "duration": 3.52,
+  "text": "Claude models is not affected. We"
+ },
+ {
+  "start": 52.36,
+  "duration": 2.92,
+  "text": "apologize for this disruption to our"
+ },
+ {
+  "start": 53.92,
+  "duration": 2.72,
+  "text": "customers. We believe this is a"
+ },
+ {
+  "start": 55.28,
+  "duration": 3.52,
+  "text": "misunderstanding and are working to"
+ },
+ {
+  "start": 56.64,
+  "duration": 4.48,
+  "text": "restore access as soon as possible.\""
+ },
+ {
+  "start": 58.8,
+  "duration": 4.48,
+  "text": "After this absolutely stunning news,"
+ },
+ {
+  "start": 61.12,
+  "duration": 3.84,
+  "text": "journalists and internet sleuths flew"
+ },
+ {
+  "start": 63.28,
+  "duration": 3.72,
+  "text": "into a tizzy to try to figure out what"
+ },
+ {
+  "start": 64.96,
+  "duration": 3.52,
+  "text": "the heck had actually just happened. The"
+ },
+ {
+  "start": 67.0,
+  "duration": 3.2,
+  "text": "Wall Street Journal added some color,"
+ },
+ {
+  "start": 68.48,
+  "duration": 4.2,
+  "text": "reporting that Commerce Secretary Howard"
+ },
+ {
+  "start": 70.2,
+  "duration": 4.76,
+  "text": "Lutnick had sent a letter to Anthropic"
+ },
+ {
+  "start": 72.68,
+  "duration": 4.24,
+  "text": "CEO Dario Amodei announcing that the new"
+ },
+ {
+  "start": 74.96,
+  "duration": 4.08,
+  "text": "models Fable 5 and Mythos 5 were now"
+ },
+ {
+  "start": 76.92,
+  "duration": 3.92,
+  "text": "subject to export restrictions, meaning"
+ },
+ {
+  "start": 79.04,
+  "duration": 3.32,
+  "text": "usage by customers outside the US as"
+ },
+ {
+  "start": 80.84,
+  "duration": 3.8,
+  "text": "well as foreign nationals within the US"
+ },
+ {
+  "start": 82.36,
+  "duration": 4.44,
+  "text": "would be prohibited. So, where did this"
+ },
+ {
+  "start": 84.64,
+  "duration": 4.12,
+  "text": "seemingly capricious policy come from?"
+ },
+ {
+  "start": 86.8,
+  "duration": 3.72,
+  "text": "It was apparently a report from another"
+ },
+ {
+  "start": 88.76,
+  "duration": 3.96,
+  "text": "company about a jailbreak it had"
+ },
+ {
+  "start": 90.52,
+  "duration": 3.96,
+  "text": "discovered. Anthropic gave more details"
+ },
+ {
+  "start": 92.72,
+  "duration": 2.96,
+  "text": "in their blog post writing, \"We received"
+ },
+ {
+  "start": 94.48,
+  "duration": 3.88,
+  "text": "the directive from the government today"
+ },
+ {
+  "start": 95.68,
+  "duration": 4.24,
+  "text": "at 5:21 p.m. The letter did not provide"
+ },
+ {
+  "start": 98.36,
+  "duration": 4.24,
+  "text": "specific details of its national"
+ },
+ {
+  "start": 99.92,
+  "duration": 4.12,
+  "text": "security concern. Our understanding is"
+ },
+ {
+  "start": 102.6,
+  "duration": 3.36,
+  "text": "that the government believes that it has"
+ },
+ {
+  "start": 104.04,
+  "duration": 4.12,
+  "text": "become aware of a method of bypassing or"
+ },
+ {
+  "start": 105.96,
+  "duration": 3.88,
+  "text": "jailbreaking Fable 5. We reviewed a"
+ },
+ {
+  "start": 108.16,
+  "duration": 3.68,
+  "text": "demonstration of this specific technique"
+ },
+ {
+  "start": 109.84,
+  "duration": 4.24,
+  "text": "being used to identify a small number of"
+ },
+ {
+  "start": 111.84,
+  "duration": 3.6,
+  "text": "previously known minor vulnerabilities."
+ },
+ {
+  "start": 114.08,
+  "duration": 2.92,
+  "text": "These vulnerabilities all appear"
+ },
+ {
+  "start": 115.44,
+  "duration": 2.96,
+  "text": "relatively simple and we have found that"
+ },
+ {
+  "start": 117.0,
+  "duration": 2.76,
+  "text": "other publicly available methods are"
+ },
+ {
+  "start": 118.4,
+  "duration": 3.24,
+  "text": "able to discover them as well without"
+ },
+ {
+  "start": 119.76,
+  "duration": 3.68,
+  "text": "requiring a bypass."
+ },
+ {
+  "start": 121.64,
+  "duration": 4.16,
+  "text": "And basically from there went on to say"
+ },
+ {
+  "start": 123.44,
+  "duration": 3.6,
+  "text": "that they just don't buy the US's logic."
+ },
+ {
+  "start": 125.8,
+  "duration": 2.84,
+  "text": "They point out that in the weeks leading"
+ },
+ {
+  "start": 127.04,
+  "duration": 3.16,
+  "text": "up to the release of Fable, they worked"
+ },
+ {
+  "start": 128.64,
+  "duration": 3.28,
+  "text": "with the US government and many others"
+ },
+ {
+  "start": 130.2,
+  "duration": 3.68,
+  "text": "to red team Fable safeguards for a"
+ },
+ {
+  "start": 131.92,
+  "duration": 3.56,
+  "text": "significant amount of time. They pointed"
+ },
+ {
+  "start": 133.88,
+  "duration": 3.4,
+  "text": "out that quote no testers have yet been"
+ },
+ {
+  "start": 135.48,
+  "duration": 3.6,
+  "text": "able to find a universal jailbreak, a"
+ },
+ {
+  "start": 137.28,
+  "duration": 4.0,
+  "text": "jailbreak method that can very broadly"
+ },
+ {
+  "start": 139.08,
+  "duration": 3.56,
+  "text": "bypass the model safeguards. Indeed,"
+ },
+ {
+  "start": 141.28,
+  "duration": 2.96,
+  "text": "they write, we suspect that perfect"
+ },
+ {
+  "start": 142.64,
+  "duration": 4.0,
+  "text": "jailbreak resistance is not currently"
+ },
+ {
+  "start": 144.24,
+  "duration": 3.8,
+  "text": "possible for any model provider. Every"
+ },
+ {
+  "start": 146.64,
+  "duration": 3.4,
+  "text": "safeguard used in the industry is"
+ },
+ {
+  "start": 148.04,
+  "duration": 3.76,
+  "text": "vulnerable to non-universal jailbreaks,"
+ },
+ {
+  "start": 150.04,
+  "duration": 3.64,
+  "text": "which can elicit some cyber information"
+ },
+ {
+  "start": 151.8,
+  "duration": 3.44,
+  "text": "in specific circumstances, and it is"
+ },
+ {
+  "start": 153.68,
+  "duration": 3.52,
+  "text": "likely that universal jailbreaks will"
+ },
+ {
+  "start": 155.24,
+  "duration": 3.88,
+  "text": "eventually be found in the future."
+ },
+ {
+  "start": 157.2,
+  "duration": 3.12,
+  "text": "They said, given that perfect jailbreak"
+ },
+ {
+  "start": 159.12,
+  "duration": 3.44,
+  "text": "resistance does not appear to be"
+ },
+ {
+  "start": 160.32,
+  "duration": 4.6,
+  "text": "possible today, Anthropic adopted a"
+ },
+ {
+  "start": 162.56,
+  "duration": 3.88,
+  "text": "defense-in-depth strategy with Fable 5."
+ },
+ {
+  "start": 164.92,
+  "duration": 3.8,
+  "text": "We aimed to make jailbreaks either"
+ },
+ {
+  "start": 166.44,
+  "duration": 3.96,
+  "text": "narrow or very expensive to produce, and"
+ },
+ {
+  "start": 168.72,
+  "duration": 3.12,
+  "text": "to combine this with thorough monitoring"
+ },
+ {
+  "start": 170.4,
+  "duration": 3.16,
+  "text": "to quickly detect and shut down any"
+ },
+ {
+  "start": 171.84,
+  "duration": 3.08,
+  "text": "successful attacks."
+ },
+ {
+  "start": 173.56,
+  "duration": 3.2,
+  "text": "Hearkening back to the controversy of"
+ },
+ {
+  "start": 174.92,
+  "duration": 3.48,
+  "text": "this week, they continue, this is also"
+ },
+ {
+  "start": 176.76,
+  "duration": 3.52,
+  "text": "why Anthropic has required 30-day"
+ },
+ {
+  "start": 178.4,
+  "duration": 3.64,
+  "text": "retention of customer data with Fable, a"
+ },
+ {
+  "start": 180.28,
+  "duration": 3.56,
+  "text": "policy change that carries real cost for"
+ },
+ {
+  "start": 182.04,
+  "duration": 3.919,
+  "text": "us with customers, but that allows us to"
+ },
+ {
+  "start": 183.84,
+  "duration": 3.6,
+  "text": "research and mitigate jailbreaks."
+ },
+ {
+  "start": 185.959,
+  "duration": 2.881,
+  "text": "Importantly, they conclude, we have not"
+ },
+ {
+  "start": 187.44,
+  "duration": 3.04,
+  "text": "even received a disclosure of a"
+ },
+ {
+  "start": 188.84,
+  "duration": 3.8,
+  "text": "concerning non-universal potential"
+ },
+ {
+  "start": 190.48,
+  "duration": 3.44,
+  "text": "jailbreak that led to a harmful result."
+ },
+ {
+  "start": 192.64,
+  "duration": 2.84,
+  "text": "The potential jailbreaks that have been"
+ },
+ {
+  "start": 193.92,
+  "duration": 3.72,
+  "text": "disclosed to us are either entirely"
+ },
+ {
+  "start": 195.48,
+  "duration": 4.32,
+  "text": "benign responses or are minor findings"
+ },
+ {
+  "start": 197.64,
+  "duration": 3.44,
+  "text": "that provide no mytho-specific uplift."
+ },
+ {
+  "start": 199.8,
+  "duration": 2.84,
+  "text": "To date, they write, the government has"
+ },
+ {
+  "start": 201.08,
+  "duration": 3.36,
+  "text": "only given us verbal evidence of a"
+ },
+ {
+  "start": 202.64,
+  "duration": 3.72,
+  "text": "potential narrow non-universal"
+ },
+ {
+  "start": 204.44,
+  "duration": 3.36,
+  "text": "jailbreak, which essentially consists of"
+ },
+ {
+  "start": 206.36,
+  "duration": 3.879,
+  "text": "asking the model to read a specific"
+ },
+ {
+  "start": 207.8,
+  "duration": 3.84,
+  "text": "codebase and fix any software flaws. Our"
+ },
+ {
+  "start": 210.239,
+  "duration": 2.481,
+  "text": "understanding is that one potential"
+ },
+ {
+  "start": 211.64,
+  "duration": 2.8,
+  "text": "jailbreak was shared with the"
+ },
+ {
+  "start": 212.72,
+  "duration": 3.08,
+  "text": "government. We have reviewed a report"
+ },
+ {
+  "start": 214.44,
+  "duration": 3.079,
+  "text": "that we believe is the basis of the"
+ },
+ {
+  "start": 215.8,
+  "duration": 3.24,
+  "text": "government's directive and validated"
+ },
+ {
+  "start": 217.519,
+  "duration": 3.081,
+  "text": "that the level of capability displayed"
+ },
+ {
+  "start": 219.04,
+  "duration": 4.6,
+  "text": "there is widely available from other"
+ },
+ {
+  "start": 220.6,
+  "duration": 4.76,
+  "text": "models, including OpenAI's GPT-5.5, and"
+ },
+ {
+  "start": 223.64,
+  "duration": 3.84,
+  "text": "is used every day by the defenders who"
+ },
+ {
+  "start": 225.36,
+  "duration": 3.48,
+  "text": "keep systems safe. Given that then, they"
+ },
+ {
+  "start": 227.48,
+  "duration": 2.64,
+  "text": "write, we are complying with the"
+ },
+ {
+  "start": 228.84,
+  "duration": 3.44,
+  "text": "government's legal directive and are"
+ },
+ {
+  "start": 230.12,
+  "duration": 4.52,
+  "text": "removing access to Fable 5 and Mythos 5"
+ },
+ {
+  "start": 232.28,
+  "duration": 3.8,
+  "text": "for all users. However, we disagree that"
+ },
+ {
+  "start": 234.64,
+  "duration": 3.08,
+  "text": "the finding of a narrow potential"
+ },
+ {
+  "start": 236.08,
+  "duration": 3.16,
+  "text": "jailbreak should be cause for recalling"
+ },
+ {
+  "start": 237.72,
+  "duration": 3.44,
+  "text": "a commercial model deployed to hundreds"
+ },
+ {
+  "start": 239.24,
+  "duration": 3.76,
+  "text": "of millions of people. If this standard"
+ },
+ {
+  "start": 241.16,
+  "duration": 3.36,
+  "text": "was applied across the industry, we"
+ },
+ {
+  "start": 243.0,
+  "duration": 3.16,
+  "text": "believe it would essentially halt all"
+ },
+ {
+  "start": 244.52,
+  "duration": 3.16,
+  "text": "new model deployments for all frontier"
+ },
+ {
+  "start": 246.16,
+  "duration": 2.6,
+  "text": "model providers."
+ },
+ {
+  "start": 247.68,
+  "duration": 2.72,
+  "text": "Now, the Wall Street Journal later"
+ },
+ {
+  "start": 248.76,
+  "duration": 3.28,
+  "text": "added, \"The jailbreak research in"
+ },
+ {
+  "start": 250.4,
+  "duration": 3.68,
+  "text": "question was done by researchers at"
+ },
+ {
+  "start": 252.04,
+  "duration": 3.56,
+  "text": "Amazon, who used a series of prompts to"
+ },
+ {
+  "start": 254.08,
+  "duration": 2.84,
+  "text": "get Anthropic's models to provide them"
+ },
+ {
+  "start": 255.6,
+  "duration": 3.24,
+  "text": "with information about a handful of"
+ },
+ {
+  "start": 256.92,
+  "duration": 4.12,
+  "text": "security vulnerabilities.\""
+ },
+ {
+  "start": 258.84,
+  "duration": 3.36,
+  "text": "Now, one note is people will clarify is"
+ },
+ {
+  "start": 261.04,
+  "duration": 2.76,
+  "text": "that although the Wall Street Journal"
+ },
+ {
+  "start": 262.2,
+  "duration": 3.88,
+  "text": "reported that the research was done by"
+ },
+ {
+  "start": 263.8,
+  "duration": 3.76,
+  "text": "Amazon, the journal did not report that"
+ },
+ {
+  "start": 266.08,
+  "duration": 3.12,
+  "text": "it was Amazon who shared the findings"
+ },
+ {
+  "start": 267.56,
+  "duration": 3.72,
+  "text": "with the US government."
+ },
+ {
+  "start": 269.2,
+  "duration": 3.6,
+  "text": "Nick on X writes, \"Project Glasswing's"
+ },
+ {
+  "start": 271.28,
+  "duration": 3.16,
+  "text": "whole purpose is to literally do"
+ },
+ {
+  "start": 272.8,
+  "duration": 3.44,
+  "text": "security tests to find vulnerabilities"
+ },
+ {
+  "start": 274.44,
+  "duration": 3.16,
+  "text": "and share findings. Amazon is a"
+ },
+ {
+  "start": 276.24,
+  "duration": 3.12,
+  "text": "Glasswing partner and Anthropic"
+ },
+ {
+  "start": 277.6,
+  "duration": 4.2,
+  "text": "investor. So, why would they file a"
+ },
+ {
+  "start": 279.36,
+  "duration": 4.2,
+  "text": "federal complaint?\" Now, Prinz on X put"
+ },
+ {
+  "start": 281.8,
+  "duration": 2.92,
+  "text": "together a bunch of different posts to"
+ },
+ {
+  "start": 283.56,
+  "duration": 3.359,
+  "text": "try to put together something of a"
+ },
+ {
+  "start": 284.72,
+  "duration": 4.56,
+  "text": "timeline of what happened. They argued"
+ },
+ {
+  "start": 286.919,
+  "duration": 4.0,
+  "text": "that contra to Anthropic's argument that"
+ },
+ {
+  "start": 289.28,
+  "duration": 3.4,
+  "text": "every safeguard used in the industry is"
+ },
+ {
+  "start": 290.919,
+  "duration": 3.0,
+  "text": "vulnerable to non-universal jailbreaks,"
+ },
+ {
+  "start": 292.68,
+  "duration": 3.8,
+  "text": "and they stated that clearly when they"
+ },
+ {
+  "start": 293.919,
+  "duration": 4.121,
+  "text": "released Fable 5, quote, \"My best guess"
+ },
+ {
+  "start": 296.48,
+  "duration": 2.72,
+  "text": "is that the US government did not fully"
+ },
+ {
+  "start": 298.04,
+  "duration": 3.44,
+  "text": "realize this at the time when the"
+ },
+ {
+  "start": 299.2,
+  "duration": 4.12,
+  "text": "release of Fable 5 was approved.\" Now,"
+ },
+ {
+  "start": 301.48,
+  "duration": 4.04,
+  "text": "Prinz added that per Axios, the"
+ },
+ {
+  "start": 303.32,
+  "duration": 3.84,
+  "text": "government contacted Anthropic to ask to"
+ },
+ {
+  "start": 305.52,
+  "duration": 3.72,
+  "text": "pause releasing the models, but was"
+ },
+ {
+  "start": 307.16,
+  "duration": 3.48,
+  "text": "unsuccessful. Or as they put it,"
+ },
+ {
+  "start": 309.24,
+  "duration": 2.52,
+  "text": "Anthropic told the government to pound"
+ },
+ {
+  "start": 310.64,
+  "duration": 2.8,
+  "text": "sand."
+ },
+ {
+  "start": 311.76,
+  "duration": 4.159,
+  "text": "Now, it's hard to wrap our heads around"
+ },
+ {
+  "start": 313.44,
+  "duration": 4.4,
+  "text": "just how consequential this is. Rishi"
+ },
+ {
+  "start": 315.919,
+  "duration": 3.801,
+  "text": "Sharma was one of many to point out that"
+ },
+ {
+  "start": 317.84,
+  "duration": 3.56,
+  "text": "a huge number of Anthropic's technical"
+ },
+ {
+  "start": 319.72,
+  "duration": 4.199,
+  "text": "staff, including no less than Andre"
+ },
+ {
+  "start": 321.4,
+  "duration": 5.08,
+  "text": "Karpathy, are not US citizens, but"
+ },
+ {
+  "start": 323.919,
+  "duration": 4.081,
+  "text": "instead here on things like EB-1 visas."
+ },
+ {
+  "start": 326.48,
+  "duration": 2.96,
+  "text": "Meaning that even internally, they are"
+ },
+ {
+  "start": 328.0,
+  "duration": 2.8,
+  "text": "not allowed to interact with these"
+ },
+ {
+  "start": 329.44,
+  "duration": 3.88,
+  "text": "models now."
+ },
+ {
+  "start": 330.8,
+  "duration": 4.36,
+  "text": "So, where we sit, at least at 7:32 a.m."
+ },
+ {
+  "start": 333.32,
+  "duration": 3.32,
+  "text": "Eastern time on Saturday morning, is"
+ },
+ {
+  "start": 335.16,
+  "duration": 3.0,
+  "text": "that Fable and Mythos are not available"
+ },
+ {
+  "start": 336.64,
+  "duration": 2.6,
+  "text": "to anyone right now, and you got to"
+ },
+ {
+  "start": 338.16,
+  "duration": 2.36,
+  "text": "think that there is a flurry of"
+ },
+ {
+  "start": 339.24,
+  "duration": 2.52,
+  "text": "behind-the-scenes activity trying to"
+ },
+ {
+  "start": 340.52,
+  "duration": 2.56,
+  "text": "resolve this as fast as humanly"
+ },
+ {
+  "start": 341.76,
+  "duration": 2.72,
+  "text": "possible."
+ },
+ {
+  "start": 343.08,
+  "duration": 4.12,
+  "text": "So, what does the Chattering Class"
+ },
+ {
+  "start": 344.48,
+  "duration": 4.2,
+  "text": "think? Dan Robustus on X teed up pretty"
+ },
+ {
+  "start": 347.2,
+  "duration": 2.58,
+  "text": "much the entire conversation when he"
+ },
+ {
+  "start": 348.68,
+  "duration": 1.72,
+  "text": "wrote, \"Am I mad at Anthropic"
+ },
+ {
+  "start": 349.78,
+  "duration": 2.86,
+  "text": "[clears throat]"
+ },
+ {
+  "start": 350.4,
+  "duration": 5.44,
+  "text": "or the US government? Both? Probably"
+ },
+ {
+  "start": 352.64,
+  "duration": 4.64,
+  "text": "both.\" Yeah, it's both. So, let's talk"
+ },
+ {
+  "start": 355.84,
+  "duration": 3.28,
+  "text": "first about the US government side, or"
+ },
+ {
+  "start": 357.28,
+  "duration": 4.12,
+  "text": "specifically the \"What the hell are you"
+ },
+ {
+  "start": 359.12,
+  "duration": 4.32,
+  "text": "doing, US government?\" side. Many"
+ },
+ {
+  "start": 361.4,
+  "duration": 5.16,
+  "text": "pointed out that the specific pretext"
+ },
+ {
+  "start": 363.44,
+  "duration": 5.08,
+  "text": "for this banning is incredibly loose. AI"
+ },
+ {
+  "start": 366.56,
+  "duration": 4.28,
+  "text": "entrepreneur Bindu Reddy wrote, \"This is"
+ },
+ {
+  "start": 368.52,
+  "duration": 3.72,
+  "text": "really stupid. The US banned Fable just"
+ },
+ {
+  "start": 370.84,
+  "duration": 3.0,
+  "text": "because it responded with information"
+ },
+ {
+  "start": 372.24,
+  "duration": 3.92,
+  "text": "that is already freely available on the"
+ },
+ {
+  "start": 373.84,
+  "duration": 3.64,
+  "text": "internet. Every other model can easily"
+ },
+ {
+  "start": 376.16,
+  "duration": 2.6,
+  "text": "be made to respond to some silly"
+ },
+ {
+  "start": 377.48,
+  "duration": 2.68,
+  "text": "questions about common security"
+ },
+ {
+  "start": 378.76,
+  "duration": 2.88,
+  "text": "vulnerabilities or how to make drugs or"
+ },
+ {
+  "start": 380.16,
+  "duration": 3.68,
+  "text": "whatever. The cluelessness of the"
+ },
+ {
+  "start": 381.64,
+  "duration": 4.279,
+  "text": "government is astounding.\" In the Wall"
+ },
+ {
+  "start": 383.84,
+  "duration": 3.76,
+  "text": "Street Journal, the CEO of cybersecurity"
+ },
+ {
+  "start": 385.919,
+  "duration": 3.521,
+  "text": "firm Let's Security, Katie Moussouris,"
+ },
+ {
+  "start": 387.6,
+  "duration": 3.52,
+  "text": "wrote, \"Who at the White House evaluated"
+ },
+ {
+  "start": 389.44,
+  "duration": 3.44,
+  "text": "this and thought it was a threat? It's a"
+ },
+ {
+  "start": 391.12,
+  "duration": 3.0,
+  "text": "complete overreaction because this is"
+ },
+ {
+  "start": 392.88,
+  "duration": 3.72,
+  "text": "exactly the kind of prompting that"
+ },
+ {
+  "start": 394.12,
+  "duration": 4.48,
+  "text": "defenders would do.\" AI policy expert"
+ },
+ {
+  "start": 396.6,
+  "duration": 3.68,
+  "text": "Dean Ball wrote, \"I can't tell if this"
+ },
+ {
+  "start": 398.6,
+  "duration": 3.64,
+  "text": "is lawfare against Anthropic in"
+ },
+ {
+  "start": 400.28,
+  "duration": 3.88,
+  "text": "particular or extreme national security"
+ },
+ {
+  "start": 402.24,
+  "duration": 4.0,
+  "text": "hoggery. Regardless, it's simply"
+ },
+ {
+  "start": 404.16,
+  "duration": 3.52,
+  "text": "cartoonish.\" Council on Foreign"
+ },
+ {
+  "start": 406.24,
+  "duration": 3.2,
+  "text": "Relations senior fellow Chris Miller"
+ },
+ {
+  "start": 407.68,
+  "duration": 3.6,
+  "text": "wrote, \"If the Trump administration is"
+ },
+ {
+  "start": 409.44,
+  "duration": 3.68,
+  "text": "so concerned about access to advanced AI"
+ },
+ {
+  "start": 411.28,
+  "duration": 3.72,
+  "text": "models, why is it not enforcing the"
+ },
+ {
+  "start": 413.12,
+  "duration": 3.799,
+  "text": "export controls currently on the books"
+ },
+ {
+  "start": 415.0,
+  "duration": 3.44,
+  "text": "on advanced AI models or the export"
+ },
+ {
+  "start": 416.919,
+  "duration": 3.161,
+  "text": "controls that would require a license to"
+ },
+ {
+  "start": 418.44,
+  "duration": 3.64,
+  "text": "buy large numbers of AI chips to make"
+ },
+ {
+  "start": 420.08,
+  "duration": 4.24,
+  "text": "these models? Now, to be clear about"
+ },
+ {
+  "start": 422.08,
+  "duration": 3.92,
+  "text": "Chris's position, he later tweeted, \"I"
+ },
+ {
+  "start": 424.32,
+  "duration": 3.52,
+  "text": "actually think targeted export controls"
+ },
+ {
+  "start": 426.0,
+  "duration": 3.04,
+  "text": "on model access are prudent, but"
+ },
+ {
+  "start": 427.84,
+  "duration": 2.72,
+  "text": "across-the-board controls on all"
+ },
+ {
+  "start": 429.04,
+  "duration": 3.879,
+  "text": "countries on a single model without any"
+ },
+ {
+  "start": 430.56,
+  "duration": 3.84,
+  "text": "warning is highly questionable. Export"
+ },
+ {
+  "start": 432.919,
+  "duration": 3.681,
+  "text": "controls are a critical tool and an"
+ },
+ {
+  "start": 434.4,
+  "duration": 3.48,
+  "text": "extremely powerful one. Used correctly,"
+ },
+ {
+  "start": 436.6,
+  "duration": 3.4,
+  "text": "they have the potential to massively"
+ },
+ {
+  "start": 437.88,
+  "duration": 3.4,
+  "text": "extend the US lead in AI. Used"
+ },
+ {
+  "start": 440.0,
+  "duration": 2.88,
+  "text": "incorrectly, they will stifle AI"
+ },
+ {
+  "start": 441.28,
+  "duration": 3.32,
+  "text": "development. The Department of"
+ },
+ {
+  "start": 442.88,
+  "duration": 3.12,
+  "text": "Commerce's export control strategy has"
+ },
+ {
+  "start": 444.6,
+  "duration": 3.52,
+  "text": "been completely incoherent and"
+ },
+ {
+  "start": 446.0,
+  "duration": 4.16,
+  "text": "sabotaging. It is sending powerful AI"
+ },
+ {
+  "start": 448.12,
+  "duration": 3.52,
+  "text": "chips to China, not enforcing controls"
+ },
+ {
+  "start": 450.16,
+  "duration": 3.08,
+  "text": "that would prevent Chinese smuggling,"
+ },
+ {
+  "start": 451.64,
+  "duration": 3.04,
+  "text": "creating massive loopholes that allow AI"
+ },
+ {
+  "start": 453.24,
+  "duration": 2.84,
+  "text": "chips to be sent to China, and"
+ },
+ {
+  "start": 454.68,
+  "duration": 3.64,
+  "text": "preventing US AI companies from"
+ },
+ {
+  "start": 456.08,
+  "duration": 4.64,
+  "text": "releasing their own models. This has to"
+ },
+ {
+  "start": 458.32,
+  "duration": 4.12,
+  "text": "stop. We urgently need a smart export"
+ },
+ {
+  "start": 460.72,
+  "duration": 3.6,
+  "text": "control strategy that applies robust"
+ },
+ {
+  "start": 462.44,
+  "duration": 3.32,
+  "text": "export controls to deny our adversaries"
+ },
+ {
+  "start": 464.32,
+  "duration": 3.4,
+  "text": "access to advanced technology while"
+ },
+ {
+  "start": 465.76,
+  "duration": 4.28,
+  "text": "advantaging US companies. Commerce and"
+ },
+ {
+  "start": 467.72,
+  "duration": 4.2,
+  "text": "BIS are consistently doing the opposite."
+ },
+ {
+  "start": 470.04,
+  "duration": 3.36,
+  "text": "If BIS doesn't understand how to use its"
+ },
+ {
+  "start": 471.92,
+  "duration": 3.28,
+  "text": "authorities or what the implications are"
+ },
+ {
+  "start": 473.4,
+  "duration": 3.16,
+  "text": "of its actions, then it needs to find"
+ },
+ {
+  "start": 475.2,
+  "duration": 2.96,
+  "text": "some new personnel who can actually"
+ },
+ {
+  "start": 476.56,
+  "duration": 4.08,
+  "text": "execute a competent export control"
+ },
+ {
+  "start": 478.16,
+  "duration": 4.08,
+  "text": "strategy. The current one is incoherent"
+ },
+ {
+  "start": 480.64,
+  "duration": 2.8,
+  "text": "and self-defeating."
+ },
+ {
+  "start": 482.24,
+  "duration": 3.08,
+  "text": "Many pointed out that it was also"
+ },
+ {
+  "start": 483.44,
+  "duration": 3.72,
+  "text": "hypocritical. Emerson Brooking from the"
+ },
+ {
+  "start": 485.32,
+  "duration": 3.16,
+  "text": "Atlantic Council reshared a post from"
+ },
+ {
+  "start": 487.16,
+  "duration": 3.0,
+  "text": "the White House Office of Science and"
+ },
+ {
+  "start": 488.48,
+  "duration": 3.68,
+  "text": "Technology Policy from just a couple of"
+ },
+ {
+  "start": 490.16,
+  "duration": 4.52,
+  "text": "weeks ago when they bit back at the New"
+ },
+ {
+  "start": 492.16,
+  "duration": 4.24,
+  "text": "York Times after the NYT reported that"
+ },
+ {
+  "start": 494.68,
+  "duration": 3.28,
+  "text": "President Trump had signed an executive"
+ },
+ {
+  "start": 496.4,
+  "duration": 3.12,
+  "text": "order asking tech companies to give the"
+ },
+ {
+  "start": 497.96,
+  "duration": 3.4,
+  "text": "government oversight of new AI models"
+ },
+ {
+  "start": 499.52,
+  "duration": 3.399,
+  "text": "before releasing them to the public. At"
+ },
+ {
+  "start": 501.36,
+  "duration": 3.52,
+  "text": "the time the White House account wrote,"
+ },
+ {
+  "start": 502.919,
+  "duration": 4.441,
+  "text": "\"Lazy and inaccurate reporting on this"
+ },
+ {
+  "start": 504.88,
+  "duration": 4.4,
+  "text": "policy. The EO creates a process for"
+ },
+ {
+  "start": 507.36,
+  "duration": 3.68,
+  "text": "frontier labs to voluntarily share"
+ },
+ {
+  "start": 509.28,
+  "duration": 3.68,
+  "text": "cutting-edge cyber models in order to"
+ },
+ {
+  "start": 511.04,
+  "duration": 3.2,
+  "text": "secure critical infrastructure and"
+ },
+ {
+  "start": 512.96,
+  "duration": 3.28,
+  "text": "strengthen the government's own cyber"
+ },
+ {
+  "start": 514.24,
+  "duration": 3.799,
+  "text": "defenses. We are not conducting"
+ },
+ {
+  "start": 516.24,
+  "duration": 3.72,
+  "text": "oversight of all new models.\" And here's"
+ },
+ {
+  "start": 518.039,
+  "duration": 3.521,
+  "text": "the money quote, \"As that level of"
+ },
+ {
+  "start": 519.96,
+  "duration": 4.2,
+  "text": "government overreach would have chilling"
+ },
+ {
+  "start": 521.56,
+  "duration": 4.68,
+  "text": "effects on free speech and innovation.\""
+ },
+ {
+  "start": 524.16,
+  "duration": 3.96,
+  "text": "Indeed, the policy seems so baffling."
+ },
+ {
+  "start": 526.24,
+  "duration": 3.4,
+  "text": "For example, as Dean Ball again put it,"
+ },
+ {
+  "start": 528.12,
+  "duration": 3.4,
+  "text": "\"An administration whose posture is that"
+ },
+ {
+  "start": 529.64,
+  "duration": 4.12,
+  "text": "we should export advanced AI chips to"
+ },
+ {
+  "start": 531.52,
+  "duration": 3.72,
+  "text": "China which also wants to ban Britain"
+ },
+ {
+  "start": 533.76,
+  "duration": 3.48,
+  "text": "and every other non-American on Earth"
+ },
+ {
+  "start": 535.24,
+  "duration": 3.24,
+  "text": "from using our best models? I have no"
+ },
+ {
+  "start": 537.24,
+  "duration": 3.28,
+  "text": "words.\""
+ },
+ {
+  "start": 538.48,
+  "duration": 4.359,
+  "text": "Yes, to many the policy is so baffling"
+ },
+ {
+  "start": 540.52,
+  "duration": 3.52,
+  "text": "that it feels distinctly personal."
+ },
+ {
+  "start": 542.839,
+  "duration": 3.361,
+  "text": "Prestaging the next point we'll get"
+ },
+ {
+  "start": 544.04,
+  "duration": 3.96,
+  "text": "into, Josh Pigford wrote, \"Anthropic has"
+ },
+ {
+  "start": 546.2,
+  "duration": 3.36,
+  "text": "not done themselves any favors with"
+ },
+ {
+  "start": 548.0,
+  "duration": 3.8,
+  "text": "their hyperbole over the past 6 to 12"
+ },
+ {
+  "start": 549.56,
+  "duration": 4.6,
+  "text": "months, but I also guarantee this has"
+ },
+ {
+  "start": 551.8,
+  "duration": 4.28,
+  "text": "zero to do with national security.\""
+ },
+ {
+  "start": 554.16,
+  "duration": 3.84,
+  "text": "Now, adding evidence to that is when the"
+ },
+ {
+  "start": 556.08,
+  "duration": 3.96,
+  "text": "Department of War CIO Kirsten Davies"
+ },
+ {
+  "start": 558.0,
+  "duration": 3.72,
+  "text": "tweeted, \"We fully support POTUS and the"
+ },
+ {
+  "start": 560.04,
+  "duration": 3.24,
+  "text": "Secretary of War in prioritizing"
+ },
+ {
+  "start": 561.72,
+  "duration": 3.84,
+  "text": "national security and the security of"
+ },
+ {
+  "start": 563.28,
+  "duration": 3.8,
+  "text": "our warfighters, DIB partners, critical"
+ },
+ {
+  "start": 565.56,
+  "duration": 4.0,
+  "text": "infrastructure, international partners,"
+ },
+ {
+  "start": 567.08,
+  "duration": 3.8,
+  "text": "and allies. Some things are simply more"
+ },
+ {
+  "start": 569.56,
+  "duration": 3.88,
+  "text": "important than revenue cycles,"
+ },
+ {
+  "start": 570.88,
+  "duration": 3.92,
+  "text": "clickbait, and pre-IPO valuation.\""
+ },
+ {
+  "start": 573.44,
+  "duration": 3.12,
+  "text": "Now, I don't know who approved that"
+ },
+ {
+  "start": 574.8,
+  "duration": 3.8,
+  "text": "tweet and it could just be Davies'"
+ },
+ {
+  "start": 576.56,
+  "duration": 4.32,
+  "text": "opinion, but that level of animosity"
+ },
+ {
+  "start": 578.6,
+  "duration": 3.64,
+  "text": "specifically targeted at Anthropic makes"
+ },
+ {
+  "start": 580.88,
+  "duration": 2.88,
+  "text": "it seem like this has pretty much"
+ },
+ {
+  "start": 582.24,
+  "duration": 3.12,
+  "text": "nothing to do with Fable 5 and"
+ },
+ {
+  "start": 583.76,
+  "duration": 3.56,
+  "text": "everything to do with the relationship"
+ },
+ {
+  "start": 585.36,
+  "duration": 3.6,
+  "text": "between Anthropic and the government."
+ },
+ {
+  "start": 587.32,
+  "duration": 3.8,
+  "text": "Well-known tech journalist Ashley Vance"
+ },
+ {
+  "start": 588.96,
+  "duration": 3.96,
+  "text": "writes, \"This strikes me as so petty and"
+ },
+ {
+  "start": 591.12,
+  "duration": 3.08,
+  "text": "dumb on the government's part. They want"
+ },
+ {
+  "start": 592.92,
+  "duration": 2.56,
+  "text": "Anthropic to do their bidding and are"
+ },
+ {
+  "start": 594.2,
+  "duration": 3.6,
+  "text": "willing to hold the whole country back"
+ },
+ {
+  "start": 595.48,
+  "duration": 4.04,
+  "text": "as a result.\" Georgetown Law's Peter"
+ },
+ {
+  "start": 597.8,
+  "duration": 3.72,
+  "text": "Harrell is pissed. \"I find it"
+ },
+ {
+  "start": 599.52,
+  "duration": 3.6,
+  "text": "ridiculous,\" he writes, \"and un-American"
+ },
+ {
+  "start": 601.52,
+  "duration": 3.8,
+  "text": "for the government to tell me, as an"
+ },
+ {
+  "start": 603.12,
+  "duration": 4.12,
+  "text": "American, I cannot use an advanced AI"
+ },
+ {
+  "start": 605.32,
+  "duration": 3.84,
+  "text": "model because of a vague and non-public"
+ },
+ {
+  "start": 607.24,
+  "duration": 3.84,
+  "text": "alleged security threat. We should"
+ },
+ {
+  "start": 609.16,
+  "duration": 4.16,
+  "text": "regulate AI, but based on transparent"
+ },
+ {
+  "start": 611.08,
+  "duration": 4.72,
+  "text": "and impartial rules, and not 5:00 p.m."
+ },
+ {
+  "start": 613.32,
+  "duration": 4.6,
+  "text": "on a Friday dictats.\" Joey Politano"
+ },
+ {
+  "start": 615.8,
+  "duration": 4.68,
+  "text": "writes, \"All of the worst impulses of"
+ },
+ {
+  "start": 617.92,
+  "duration": 4.72,
+  "text": "the Trump presidency on full display. No"
+ },
+ {
+  "start": 620.48,
+  "duration": 4.64,
+  "text": "plan or strategy, everything reactive,"
+ },
+ {
+  "start": 622.64,
+  "duration": 3.92,
+  "text": "arbitrary, and maximally invasive."
+ },
+ {
+  "start": 625.12,
+  "duration": 2.52,
+  "text": "Anthropic is just repeatedly being"
+ },
+ {
+  "start": 626.56,
+  "duration": 3.04,
+  "text": "singled out because they have"
+ },
+ {
+  "start": 627.64,
+  "duration": 3.2,
+  "text": "insufficiently bent the knee.\""
+ },
+ {
+  "start": 629.6,
+  "duration": 3.0,
+  "text": "Putting it even more dramatically,"
+ },
+ {
+  "start": 630.84,
+  "duration": 3.44,
+  "text": "Lassana Harris writes, \"Trump really"
+ },
+ {
+  "start": 632.6,
+  "duration": 3.16,
+  "text": "wants to kill both OpenAI and Anthropic,"
+ },
+ {
+  "start": 634.28,
+  "duration": 3.84,
+  "text": "nationalize their tech, and then become"
+ },
+ {
+  "start": 635.76,
+  "duration": 3.88,
+  "text": "the emperor of mankind.\""
+ },
+ {
+  "start": 638.12,
+  "duration": 4.0,
+  "text": "Now, as much animosity as there is"
+ },
+ {
+  "start": 639.64,
+  "duration": 4.36,
+  "text": "towards the US government, frankly, most"
+ },
+ {
+  "start": 642.12,
+  "duration": 4.08,
+  "text": "of the industry's scorn right now is"
+ },
+ {
+  "start": 644.0,
+  "duration": 3.92,
+  "text": "being levied on Anthropic itself."
+ },
+ {
+  "start": 646.2,
+  "duration": 3.32,
+  "text": "AI builder Sarah Hooker writes, \"You"
+ },
+ {
+  "start": 647.92,
+  "duration": 3.52,
+  "text": "have to be humble even when pursuing"
+ },
+ {
+  "start": 649.52,
+  "duration": 3.4,
+  "text": "excellence. I think the arrogance with"
+ },
+ {
+  "start": 651.44,
+  "duration": 3.6,
+  "text": "which Anthropic has pursued the latest"
+ },
+ {
+  "start": 652.92,
+  "duration": 3.68,
+  "text": "release has universally landed poorly."
+ },
+ {
+  "start": 655.04,
+  "duration": 3.28,
+  "text": "It is presumed everyone else should just"
+ },
+ {
+  "start": 656.6,
+  "duration": 3.48,
+  "text": "be grateful to touch the technology even"
+ },
+ {
+  "start": 658.32,
+  "duration": 3.0,
+  "text": "if it is intentionally hobbled, and no"
+ },
+ {
+  "start": 660.08,
+  "duration": 2.759,
+  "text": "one else should be given permission to"
+ },
+ {
+  "start": 661.32,
+  "duration": 3.92,
+  "text": "develop the technology because it is too"
+ },
+ {
+  "start": 662.839,
+  "duration": 4.601,
+  "text": "dangerous.\" Jeremy Howard, who's no"
+ },
+ {
+  "start": 665.24,
+  "duration": 3.92,
+  "text": "hyperbolic ex-poster hater, wrote, \"I"
+ },
+ {
+  "start": 667.44,
+  "duration": 4.28,
+  "text": "disagree with this decision and I don't"
+ },
+ {
+  "start": 669.16,
+  "duration": 4.92,
+  "text": "like it, but also, how did Anthropic not"
+ },
+ {
+  "start": 671.72,
+  "duration": 4.52,
+  "text": "see this coming? It is the obvious"
+ },
+ {
+  "start": 674.08,
+  "duration": 4.2,
+  "text": "response to this is too dangerous for"
+ },
+ {
+  "start": 676.24,
+  "duration": 3.599,
+  "text": "anyone except us to use, since that"
+ },
+ {
+  "start": 678.28,
+  "duration": 3.8,
+  "text": "relies on a premise, we are uniquely"
+ },
+ {
+  "start": 679.839,
+  "duration": 3.921,
+  "text": "good, that almost no one agrees with.\""
+ },
+ {
+  "start": 682.08,
+  "duration": 3.4,
+  "text": "Dario Amodei, who spent the last few"
+ },
+ {
+  "start": 683.76,
+  "duration": 3.28,
+  "text": "days not being able to use Fable 5"
+ },
+ {
+  "start": 685.48,
+  "duration": 3.48,
+  "text": "because it knows that he is a biomedical"
+ },
+ {
+  "start": 687.04,
+  "duration": 3.68,
+  "text": "researcher, wrote, \"Happy now, Dario"
+ },
+ {
+  "start": 688.96,
+  "duration": 3.76,
+  "text": "Amodei? You got your wish for government"
+ },
+ {
+  "start": 690.72,
+  "duration": 4.24,
+  "text": "regulation after constant fear-mongering"
+ },
+ {
+  "start": 692.72,
+  "duration": 4.2,
+  "text": "to slow AI progress. Anthropic has done"
+ },
+ {
+  "start": 694.96,
+  "duration": 3.2,
+  "text": "tremendous damage to AI advancement."
+ },
+ {
+  "start": 696.92,
+  "duration": 3.04,
+  "text": "They succeeded in realizing this"
+ },
+ {
+  "start": 698.16,
+  "duration": 4.24,
+  "text": "nightmare scenario. It is a sad and"
+ },
+ {
+  "start": 699.96,
+  "duration": 3.8,
+  "text": "grave day for America and humanity."
+ },
+ {
+  "start": 702.4,
+  "duration": 2.8,
+  "text": "Now, summing up the sentiment behind"
+ },
+ {
+  "start": 703.76,
+  "duration": 2.84,
+  "text": "this was a three-panel cartoon that went"
+ },
+ {
+  "start": 705.2,
+  "duration": 3.28,
+  "text": "viral. In the first panel, a"
+ },
+ {
+  "start": 706.6,
+  "duration": 3.88,
+  "text": "concerned-looking Dario Amodei says,"
+ },
+ {
+  "start": 708.48,
+  "duration": 3.6,
+  "text": "\"This is the most dangerous AI yet. It"
+ },
+ {
+  "start": 710.48,
+  "duration": 3.0,
+  "text": "could kill us all. It will destroy all"
+ },
+ {
+  "start": 712.08,
+  "duration": 3.28,
+  "text": "global infrastructure. This can't be"
+ },
+ {
+  "start": 713.48,
+  "duration": 3.4,
+  "text": "allowed to fall into the wrong hands.\""
+ },
+ {
+  "start": 715.36,
+  "duration": 3.56,
+  "text": "In the middle panel, Donald Trump says,"
+ },
+ {
+  "start": 716.88,
+  "duration": 4.04,
+  "text": "\"Okay, it's banned.\" And in the third"
+ },
+ {
+  "start": 718.92,
+  "duration": 4.04,
+  "text": "and final panel, an apoplectic Dario"
+ },
+ {
+  "start": 720.92,
+  "duration": 3.24,
+  "text": "says, \"You can't do this.\""
+ },
+ {
+  "start": 722.96,
+  "duration": 3.0,
+  "text": "Investor, entrepreneur, and writer Will"
+ },
+ {
+  "start": 724.16,
+  "duration": 3.32,
+  "text": "Manidis was one of about a bajillion"
+ },
+ {
+  "start": 725.96,
+  "duration": 3.16,
+  "text": "people to point back to an old quote"
+ },
+ {
+  "start": 727.48,
+  "duration": 3.16,
+  "text": "from a recent Anthropic blog post that"
+ },
+ {
+  "start": 729.12,
+  "duration": 3.4,
+  "text": "said, \"The government should have the"
+ },
+ {
+  "start": 730.64,
+  "duration": 3.48,
+  "text": "power to block or deter deployment of"
+ },
+ {
+  "start": 732.52,
+  "duration": 3.08,
+  "text": "the model if it is determined in light"
+ },
+ {
+  "start": 734.12,
+  "duration": 3.64,
+  "text": "of third-party assessment to present"
+ },
+ {
+  "start": 735.6,
+  "duration": 4.28,
+  "text": "unacceptable risks.\" Will points out,"
+ },
+ {
+  "start": 737.76,
+  "duration": 3.04,
+  "text": "\"Dario, 48 hours ago, US government"
+ },
+ {
+  "start": 739.88,
+  "duration": 3.04,
+  "text": "should be able to block model"
+ },
+ {
+  "start": 740.8,
+  "duration": 4.44,
+  "text": "deployment. US government export"
+ },
+ {
+  "start": 742.92,
+  "duration": 3.4,
+  "text": "controls models.\" Dario says, \"Not like"
+ },
+ {
+  "start": 745.24,
+  "duration": 2.4,
+  "text": "that.\""
+ },
+ {
+  "start": 746.32,
+  "duration": 3.12,
+  "text": "Now, some trying to point out that"
+ },
+ {
+  "start": 747.64,
+  "duration": 3.6,
+  "text": "Anthropic did actually try to address"
+ },
+ {
+  "start": 749.44,
+  "duration": 3.48,
+  "text": "this in their blog post saying, \"As we"
+ },
+ {
+  "start": 751.24,
+  "duration": 3.36,
+  "text": "have stated we believe the government"
+ },
+ {
+  "start": 752.92,
+  "duration": 3.6,
+  "text": "should have the ability to block unsafe"
+ },
+ {
+  "start": 754.6,
+  "duration": 3.52,
+  "text": "deployments as part of a statutory"
+ },
+ {
+  "start": 756.52,
+  "duration": 3.92,
+  "text": "process that is transparent, fair,"
+ },
+ {
+  "start": 758.12,
+  "duration": 3.96,
+  "text": "clear, and grounded in technical facts."
+ },
+ {
+  "start": 760.44,
+  "duration": 2.88,
+  "text": "This action does not adhere to those"
+ },
+ {
+  "start": 762.08,
+  "duration": 3.0,
+  "text": "principles.\""
+ },
+ {
+  "start": 763.32,
+  "duration": 3.32,
+  "text": "Still, even with that caveat, a whole"
+ },
+ {
+  "start": 765.08,
+  "duration": 2.92,
+  "text": "lot of people felt like this was an ever"
+ },
+ {
+  "start": 766.64,
+  "duration": 3.92,
+  "text": "round find out kind of moment for"
+ },
+ {
+  "start": 768.0,
+  "duration": 4.16,
+  "text": "Anthropic. Investor Nick Carter wrote,"
+ },
+ {
+  "start": 770.56,
+  "duration": 3.279,
+  "text": "\"I can't believe Anthropic comparing"
+ },
+ {
+  "start": 772.16,
+  "duration": 4.64,
+  "text": "their product to nuclear weapons 800"
+ },
+ {
+  "start": 773.839,
+  "duration": 4.961,
+  "text": "times backfired on them. I am shocked.\""
+ },
+ {
+  "start": 776.8,
+  "duration": 4.24,
+  "text": "Author Tae Kim writes, \"So livid right"
+ },
+ {
+  "start": 778.8,
+  "duration": 3.56,
+  "text": "now. Anthropic overhyped Mythos scared"
+ },
+ {
+  "start": 781.04,
+  "duration": 2.6,
+  "text": "the living daylights out of the clueless"
+ },
+ {
+  "start": 782.36,
+  "duration": 2.96,
+  "text": "global politicians like Treasury"
+ },
+ {
+  "start": 783.64,
+  "duration": 3.16,
+  "text": "Secretary Besson and ECB President"
+ },
+ {
+  "start": 785.32,
+  "duration": 3.2,
+  "text": "Christine Lagarde and stoked a"
+ },
+ {
+  "start": 786.8,
+  "duration": 4.36,
+  "text": "regulatory panic that may set back the"
+ },
+ {
+  "start": 788.52,
+  "duration": 3.88,
+  "text": "entire AI industry.\" Expressing the same"
+ },
+ {
+  "start": 791.16,
+  "duration": 2.84,
+  "text": "sentiment but with a slightly more"
+ },
+ {
+  "start": 792.4,
+  "duration": 3.64,
+  "text": "dispassionate voice, entrepreneur John"
+ },
+ {
+  "start": 794.0,
+  "duration": 3.96,
+  "text": "Ennis wrote, \"My opinion is that Mythos"
+ },
+ {
+  "start": 796.04,
+  "duration": 3.52,
+  "text": "is the current best model, but not"
+ },
+ {
+  "start": 797.96,
+  "duration": 3.12,
+  "text": "actually some world-changing dangerous"
+ },
+ {
+  "start": 799.56,
+  "duration": 3.16,
+  "text": "model, and that Anthropic did their"
+ },
+ {
+  "start": 801.08,
+  "duration": 3.04,
+  "text": "usual song and dance about safety"
+ },
+ {
+  "start": 802.72,
+  "duration": 3.56,
+  "text": "largely because they didn't have enough"
+ },
+ {
+  "start": 804.12,
+  "duration": 3.48,
+  "text": "compute to serve it at scale. So, then"
+ },
+ {
+  "start": 806.28,
+  "duration": 3.08,
+  "text": "they launched Fable because they still"
+ },
+ {
+  "start": 807.6,
+  "duration": 3.04,
+  "text": "have to think about the IPO, but they"
+ },
+ {
+  "start": 809.36,
+  "duration": 2.6,
+  "text": "are still somewhat compute limited, so"
+ },
+ {
+  "start": 810.64,
+  "duration": 2.96,
+  "text": "they put all sorts of restrictions on"
+ },
+ {
+  "start": 811.96,
+  "duration": 3.36,
+  "text": "it. Around the same time, because they"
+ },
+ {
+  "start": 813.6,
+  "duration": 2.76,
+  "text": "are trying to get regulatory capture and"
+ },
+ {
+  "start": 815.32,
+  "duration": 3.36,
+  "text": "not because things are actually"
+ },
+ {
+  "start": 816.36,
+  "duration": 3.72,
+  "text": "dangerous, Dario did more scaremongering"
+ },
+ {
+  "start": 818.68,
+  "duration": 2.72,
+  "text": "and published his honestly confusing"
+ },
+ {
+  "start": 820.08,
+  "duration": 3.6,
+  "text": "white paper that offered no real"
+ },
+ {
+  "start": 821.4,
+  "duration": 3.16,
+  "text": "solutions. So, finally they succeeded."
+ },
+ {
+  "start": 823.68,
+  "duration": 2.04,
+  "text": "They managed to freak out the"
+ },
+ {
+  "start": 824.56,
+  "duration": 2.72,
+  "text": "government. Their cynical plan"
+ },
+ {
+  "start": 825.72,
+  "duration": 4.28,
+  "text": "backfired, and now it's a giant pain in"
+ },
+ {
+  "start": 827.28,
+  "duration": 4.36,
+  "text": "the butt. Or as Ben Recht simply put it,"
+ },
+ {
+  "start": 830.0,
+  "duration": 4.48,
+  "text": "they named it Fable and then acted"
+ },
+ {
+  "start": 831.64,
+  "duration": 4.88,
+  "text": "surprised when it came with a moral."
+ },
+ {
+  "start": 834.48,
+  "duration": 3.52,
+  "text": "Now, one thing that I will note is that"
+ },
+ {
+  "start": 836.52,
+  "duration": 3.56,
+  "text": "to their credit, the safetyists are not"
+ },
+ {
+  "start": 838.0,
+  "duration": 3.92,
+  "text": "dancing around excitedly. Eliezer"
+ },
+ {
+  "start": 840.08,
+  "duration": 3.68,
+  "text": "Yudkowsky, who I disagree with pretty"
+ },
+ {
+  "start": 841.92,
+  "duration": 3.24,
+  "text": "vehemently most of the time, wrote, \"I"
+ },
+ {
+  "start": 843.76,
+  "duration": 3.28,
+  "text": "can't tell today whether this ends up"
+ },
+ {
+  "start": 845.16,
+  "duration": 3.56,
+  "text": "good or bad. International treaties to"
+ },
+ {
+  "start": 847.04,
+  "duration": 3.64,
+  "text": "stop all further AI escalation would be"
+ },
+ {
+  "start": 848.72,
+  "duration": 4.08,
+  "text": "a definite good. Things short of that,"
+ },
+ {
+  "start": 850.68,
+  "duration": 4.12,
+  "text": "complicated. This has some bad aspects"
+ },
+ {
+  "start": 852.8,
+  "duration": 3.44,
+  "text": "like selectivity and likely overrule,"
+ },
+ {
+  "start": 854.8,
+  "duration": 3.16,
+  "text": "and good aspects like pushing against"
+ },
+ {
+  "start": 856.24,
+  "duration": 3.28,
+  "text": "the psychology of but no government"
+ },
+ {
+  "start": 857.96,
+  "duration": 3.44,
+  "text": "would ever dare tell AI companies to do"
+ },
+ {
+  "start": 859.52,
+  "duration": 3.12,
+  "text": "anything, so give up, or raising doubts"
+ },
+ {
+  "start": 861.4,
+  "duration": 3.4,
+  "text": "that impede venture funding for ever"
+ },
+ {
+  "start": 862.64,
+  "duration": 4.08,
+  "text": "bigger models. So, please stop tweeting"
+ },
+ {
+  "start": 864.8,
+  "duration": 3.2,
+  "text": "about how I must be celebrating this."
+ },
+ {
+  "start": 866.72,
+  "duration": 3.24,
+  "text": "I'm not one of the kids who immediately"
+ },
+ {
+  "start": 868.0,
+  "duration": 3.839,
+  "text": "goes into overacted victory paroxysms"
+ },
+ {
+  "start": 869.96,
+  "duration": 3.16,
+  "text": "about any hit on a perceived enemy. I"
+ },
+ {
+  "start": 871.839,
+  "duration": 2.721,
+  "text": "care about the effect on where things"
+ },
+ {
+  "start": 873.12,
+  "duration": 3.96,
+  "text": "end up a year later, and that's a little"
+ },
+ {
+  "start": 874.56,
+  "duration": 4.6,
+  "text": "harder to know the first day, you know?\""
+ },
+ {
+  "start": 877.08,
+  "duration": 4.36,
+  "text": "And in fact, trying to figure out where"
+ },
+ {
+  "start": 879.16,
+  "duration": 3.72,
+  "text": "this leads days, weeks, months, or years"
+ },
+ {
+  "start": 881.44,
+  "duration": 3.52,
+  "text": "from now was where a lot of the"
+ },
+ {
+  "start": 882.88,
+  "duration": 3.6,
+  "text": "conversation resolved. Aaron Levie"
+ },
+ {
+  "start": 884.96,
+  "duration": 3.6,
+  "text": "stating almost the obvious bluntly"
+ },
+ {
+  "start": 886.48,
+  "duration": 3.68,
+  "text": "writes, \"This is a big turning point for"
+ },
+ {
+  "start": 888.56,
+  "duration": 2.92,
+  "text": "AI regulation. The government is"
+ },
+ {
+  "start": 890.16,
+  "duration": 3.4,
+  "text": "starting to deem some models too"
+ },
+ {
+  "start": 891.48,
+  "duration": 3.56,
+  "text": "powerful for certain uses, which creates"
+ },
+ {
+  "start": 893.56,
+  "duration": 3.52,
+  "text": "a precedent for a range of possible"
+ },
+ {
+  "start": 895.04,
+  "duration": 3.44,
+  "text": "controls in the future. I'm in the camp"
+ },
+ {
+  "start": 897.08,
+  "duration": 3.44,
+  "text": "that this is unnecessary, and we should"
+ },
+ {
+  "start": 898.48,
+  "duration": 4.0,
+  "text": "be primarily regulating the use of AI as"
+ },
+ {
+  "start": 900.52,
+  "duration": 3.2,
+  "text": "opposed to the underlying models, but"
+ },
+ {
+  "start": 902.48,
+  "duration": 3.12,
+  "text": "equally there are plenty of people who"
+ },
+ {
+  "start": 903.72,
+  "duration": 3.36,
+  "text": "actually prefer this outcome. Either"
+ },
+ {
+  "start": 905.6,
+  "duration": 2.88,
+  "text": "way, it's unlikely that we're going back"
+ },
+ {
+  "start": 907.08,
+  "duration": 2.8,
+  "text": "to a world where the government doesn't"
+ },
+ {
+  "start": 908.48,
+  "duration": 3.359,
+  "text": "have far more meaningful involvement in"
+ },
+ {
+  "start": 909.88,
+  "duration": 3.6,
+  "text": "the rate of AI progress.\""
+ },
+ {
+  "start": 911.839,
+  "duration": 3.441,
+  "text": "Andrew Freedman wrote, \"This is a moment"
+ },
+ {
+  "start": 913.48,
+  "duration": 3.88,
+  "text": "we'll look back on as a major turning"
+ },
+ {
+  "start": 915.28,
+  "duration": 3.559,
+  "text": "point in AI. For years people in this"
+ },
+ {
+  "start": 917.36,
+  "duration": 2.96,
+  "text": "community have warned that AI policy"
+ },
+ {
+  "start": 918.839,
+  "duration": 2.801,
+  "text": "would get weird, that these systems"
+ },
+ {
+  "start": 920.32,
+  "duration": 2.4,
+  "text": "would grow powerful enough to put them"
+ },
+ {
+  "start": 921.64,
+  "duration": 2.48,
+  "text": "on a collision course with our"
+ },
+ {
+  "start": 922.72,
+  "duration": 3.0,
+  "text": "institutions, our economy, our"
+ },
+ {
+  "start": 924.12,
+  "duration": 3.0,
+  "text": "governments. I don't know what caused"
+ },
+ {
+  "start": 925.72,
+  "duration": 3.32,
+  "text": "this moment. I don't know what it means"
+ },
+ {
+  "start": 927.12,
+  "duration": 3.96,
+  "text": "for future models. I can't tell if this"
+ },
+ {
+  "start": 929.04,
+  "duration": 3.64,
+  "text": "is targeted specific to Anthropic, but I"
+ },
+ {
+  "start": 931.08,
+  "duration": 2.84,
+  "text": "can't think of a more overt act of"
+ },
+ {
+  "start": 932.68,
+  "duration": 3.96,
+  "text": "government intervention in our"
+ },
+ {
+  "start": 933.92,
+  "duration": 4.76,
+  "text": "capitalist society in my lifetime. AI"
+ },
+ {
+  "start": 936.64,
+  "duration": 3.36,
+  "text": "policy just got weird."
+ },
+ {
+  "start": 938.68,
+  "duration": 3.08,
+  "text": "Coining a new and I think important"
+ },
+ {
+  "start": 940.0,
+  "duration": 3.2,
+  "text": "term, Sterling Crispin wrote, \"The worst"
+ },
+ {
+  "start": 941.76,
+  "duration": 2.68,
+  "text": "thing about this Fable situation is that"
+ },
+ {
+  "start": 943.2,
+  "duration": 2.96,
+  "text": "it just created precedents for"
+ },
+ {
+  "start": 944.44,
+  "duration": 3.64,
+  "text": "capability thought crimes and drew a"
+ },
+ {
+  "start": 946.16,
+  "duration": 3.12,
+  "text": "clear line in the sand going forward."
+ },
+ {
+  "start": 948.08,
+  "duration": 3.44,
+  "text": "Are the next round of models going to"
+ },
+ {
+  "start": 949.28,
+  "duration": 4.16,
+  "text": "need DOW clearance before release? New"
+ },
+ {
+  "start": 951.52,
+  "duration": 3.32,
+  "text": "open-source models? This is not good for"
+ },
+ {
+  "start": 953.44,
+  "duration": 2.96,
+  "text": "progress.\""
+ },
+ {
+  "start": 954.84,
+  "duration": 3.8,
+  "text": "Daniel Jeffries wrote, \"We're seeing a"
+ },
+ {
+  "start": 956.4,
+  "duration": 3.56,
+  "text": "speed run of a hideous future play out."
+ },
+ {
+  "start": 958.64,
+  "duration": 3.04,
+  "text": "Nobody can build a business on this"
+ },
+ {
+  "start": 959.96,
+  "duration": 3.16,
+  "text": "quicksand and uncertainty. If we"
+ },
+ {
+  "start": 961.68,
+  "duration": 3.04,
+  "text": "continue with this wild gibbering"
+ },
+ {
+  "start": 963.12,
+  "duration": 3.16,
+  "text": "fear-mongering and the fear-based gated"
+ },
+ {
+  "start": 964.72,
+  "duration": 3.08,
+  "text": "access, and if we create the regulatory"
+ },
+ {
+  "start": 966.28,
+  "duration": 3.12,
+  "text": "capturing policies this insane and"
+ },
+ {
+  "start": 967.8,
+  "duration": 3.52,
+  "text": "idiotic and incoherent fear pushes the"
+ },
+ {
+  "start": 969.4,
+  "duration": 3.0,
+  "text": "clueless towards, we will absolutely"
+ },
+ {
+  "start": 971.32,
+  "duration": 2.44,
+  "text": "guarantee that the future of"
+ },
+ {
+  "start": 972.4,
+  "duration": 2.56,
+  "text": "intelligence gets built outside"
+ },
+ {
+  "start": 973.76,
+  "duration": 2.92,
+  "text": "America.\""
+ },
+ {
+  "start": 974.96,
+  "duration": 3.0,
+  "text": "Brian Chau writes, \"If this sticks, this"
+ },
+ {
+  "start": 976.68,
+  "duration": 3.0,
+  "text": "means Americans will need proof of"
+ },
+ {
+  "start": 977.96,
+  "duration": 3.16,
+  "text": "citizenship to gain access to models on"
+ },
+ {
+  "start": 979.68,
+  "duration": 3.16,
+  "text": "the level of Mythos. That means"
+ },
+ {
+  "start": 981.12,
+  "duration": 3.36,
+  "text": "potential ID verification not just on"
+ },
+ {
+  "start": 982.84,
+  "duration": 3.76,
+  "text": "Claude, but everywhere Fable is served"
+ },
+ {
+  "start": 984.48,
+  "duration": 4.48,
+  "text": "downstream. Cursor, Devin, OpenRouter,"
+ },
+ {
+  "start": 986.6,
+  "duration": 3.8,
+  "text": "etc. A law firm that uses Harvey serving"
+ },
+ {
+  "start": 988.96,
+  "duration": 3.24,
+  "text": "Fable 5 will get impacted just the"
+ },
+ {
+  "start": 990.4,
+  "duration": 3.16,
+  "text": "same.\" Brian also writes, \"How is"
+ },
+ {
+  "start": 992.2,
+  "duration": 3.08,
+  "text": "Anthropic supposed to serve Fable"
+ },
+ {
+  "start": 993.56,
+  "duration": 2.92,
+  "text": "through API billing? They will somehow"
+ },
+ {
+  "start": 995.28,
+  "duration": 3.24,
+  "text": "have to figure out a way to verify"
+ },
+ {
+  "start": 996.48,
+  "duration": 3.44,
+  "text": "citizenship with the end user. API"
+ },
+ {
+  "start": 998.52,
+  "duration": 3.44,
+  "text": "access will need to be drastically"
+ },
+ {
+  "start": 999.92,
+  "duration": 4.24,
+  "text": "changed before access, even to American"
+ },
+ {
+  "start": 1001.96,
+  "duration": 3.76,
+  "text": "companies and citizens, can be restored."
+ },
+ {
+  "start": 1004.16,
+  "duration": 3.04,
+  "text": "And of course, researchers at Frontier"
+ },
+ {
+  "start": 1005.72,
+  "duration": 3.44,
+  "text": "Labs themselves will no longer be able"
+ },
+ {
+  "start": 1007.2,
+  "duration": 4.48,
+  "text": "to use their own models.\" Brian points"
+ },
+ {
+  "start": 1009.16,
+  "duration": 4.32,
+  "text": "out also that OpenAI and Google DeepMind"
+ },
+ {
+  "start": 1011.68,
+  "duration": 4.0,
+  "text": "have incentives to ship anything Mythos"
+ },
+ {
+  "start": 1013.48,
+  "duration": 3.6,
+  "text": "caliber until this is resolved. If they"
+ },
+ {
+  "start": 1015.68,
+  "duration": 2.88,
+  "text": "release it, any company that can"
+ },
+ {
+  "start": 1017.08,
+  "duration": 3.36,
+  "text": "jailbreak the model can get export"
+ },
+ {
+  "start": 1018.56,
+  "duration": 3.0,
+  "text": "controls imposed on the model, and then"
+ },
+ {
+  "start": 1020.44,
+  "duration": 3.56,
+  "text": "they now have to deal with the same"
+ },
+ {
+  "start": 1021.56,
+  "duration": 3.96,
+  "text": "headaches. Plus, any non-US partners"
+ },
+ {
+  "start": 1024.0,
+  "duration": 3.68,
+  "text": "with Mythos access through Project"
+ },
+ {
+  "start": 1025.52,
+  "duration": 4.04,
+  "text": "Glasswing get cut off. Now that the US"
+ },
+ {
+  "start": 1027.68,
+  "duration": 3.56,
+  "text": "has exercised its kill switch once,"
+ },
+ {
+  "start": 1029.56,
+  "duration": 3.44,
+  "text": "expect other countries to operate with"
+ },
+ {
+  "start": 1031.24,
+  "duration": 4.24,
+  "text": "the assumption that Frontier access can"
+ },
+ {
+  "start": 1033.0,
+  "duration": 3.64,
+  "text": "and will be revoked unilaterally."
+ },
+ {
+  "start": 1035.48,
+  "duration": 3.08,
+  "text": "Honestly, one of the moments that I'm"
+ },
+ {
+  "start": 1036.64,
+  "duration": 3.4,
+  "text": "reminded of in AI history was when Sam"
+ },
+ {
+  "start": 1038.56,
+  "duration": 4.24,
+  "text": "Altman was first removed and then"
+ },
+ {
+  "start": 1040.04,
+  "duration": 3.72,
+  "text": "reinstated as OpenAI CEO. That was the"
+ },
+ {
+  "start": 1042.8,
+  "duration": 3.039,
+  "text": "beginning of the end of their"
+ },
+ {
+  "start": 1043.76,
+  "duration": 4.16,
+  "text": "relationship with Microsoft. Now,"
+ },
+ {
+  "start": 1045.839,
+  "duration": 3.161,
+  "text": "nominally Microsoft stuck with them with"
+ },
+ {
+  "start": 1047.92,
+  "duration": 2.36,
+  "text": "Satya Nadella playing a"
+ },
+ {
+  "start": 1049.0,
+  "duration": 3.32,
+  "text": "behind-the-scenes role trying to get"
+ },
+ {
+  "start": 1050.28,
+  "duration": 4.08,
+  "text": "everything sorted out. But from a sheer"
+ },
+ {
+  "start": 1052.32,
+  "duration": 3.8,
+  "text": "fiduciary responsibility standpoint,"
+ },
+ {
+  "start": 1054.36,
+  "duration": 3.44,
+  "text": "from that moment on, he had to start"
+ },
+ {
+  "start": 1056.12,
+  "duration": 3.12,
+  "text": "putting up walls with OpenAI and"
+ },
+ {
+  "start": 1057.8,
+  "duration": 3.4,
+  "text": "building resilience at Microsoft that"
+ },
+ {
+  "start": 1059.24,
+  "duration": 3.44,
+  "text": "was outside of OpenAI's models. The"
+ },
+ {
+  "start": 1061.2,
+  "duration": 3.56,
+  "text": "company had simply proven itself to be"
+ },
+ {
+  "start": 1062.68,
+  "duration": 3.52,
+  "text": "too capricious for Microsoft to trust"
+ },
+ {
+  "start": 1064.76,
+  "duration": 3.44,
+  "text": "it. And the entire history of how"
+ },
+ {
+  "start": 1066.2,
+  "duration": 4.44,
+  "text": "Microsoft has developed AI since has"
+ },
+ {
+  "start": 1068.2,
+  "duration": 3.8,
+  "text": "been shaped by that one moment. Connor"
+ },
+ {
+  "start": 1070.64,
+  "duration": 3.84,
+  "text": "Brown was one of many to point out the"
+ },
+ {
+  "start": 1072.0,
+  "duration": 4.28,
+  "text": "comparisons to the 1990s. He wrote,"
+ },
+ {
+  "start": 1074.48,
+  "duration": 3.44,
+  "text": "\"Welcome to the AI wars. We are now"
+ },
+ {
+  "start": 1076.28,
+  "duration": 3.0,
+  "text": "staring down the barrel of KYC and"
+ },
+ {
+  "start": 1077.92,
+  "duration": 3.24,
+  "text": "anti-compute laundering laws for"
+ },
+ {
+  "start": 1079.28,
+  "duration": 3.68,
+  "text": "frontier models. And this is just for"
+ },
+ {
+  "start": 1081.16,
+  "duration": 3.64,
+  "text": "mythos. What happens when we get further"
+ },
+ {
+  "start": 1082.96,
+  "duration": 3.36,
+  "text": "capability jumps? Will the public have"
+ },
+ {
+  "start": 1084.8,
+  "duration": 3.52,
+  "text": "access to frontier intelligence ever"
+ },
+ {
+  "start": 1086.32,
+  "duration": 3.04,
+  "text": "again? We fought this battle in the '90s"
+ },
+ {
+  "start": 1088.32,
+  "duration": 3.32,
+  "text": "for free and open access to"
+ },
+ {
+  "start": 1089.36,
+  "duration": 3.56,
+  "text": "cryptography, but it was not easy. The"
+ },
+ {
+  "start": 1091.64,
+  "duration": 2.52,
+  "text": "fight this time around will be much"
+ },
+ {
+  "start": 1092.92,
+  "duration": 2.36,
+  "text": "harder and the stakes will be much"
+ },
+ {
+  "start": 1094.16,
+  "duration": 2.96,
+  "text": "higher.\""
+ },
+ {
+  "start": 1095.28,
+  "duration": 3.8,
+  "text": "Now, one thing we haven't discussed yet,"
+ },
+ {
+  "start": 1097.12,
+  "duration": 4.36,
+  "text": "which I think is hugely important, is"
+ },
+ {
+  "start": 1099.08,
+  "duration": 4.16,
+  "text": "the impact in markets. Machine Learning"
+ },
+ {
+  "start": 1101.48,
+  "duration": 3.64,
+  "text": "Street Talk wrote, \"This will become a"
+ },
+ {
+  "start": 1103.24,
+  "duration": 3.32,
+  "text": "textbook example of how a company"
+ },
+ {
+  "start": 1105.12,
+  "duration": 3.84,
+  "text": "snatched defeat from the jaws of"
+ },
+ {
+  "start": 1106.56,
+  "duration": 5.16,
+  "text": "victory. Their BS game spectacularly"
+ },
+ {
+  "start": 1108.96,
+  "duration": 4.44,
+  "text": "backfired. You reap what you sow.\""
+ },
+ {
+  "start": 1111.72,
+  "duration": 3.08,
+  "text": "Daniel Woo writes, \"How does something"
+ },
+ {
+  "start": 1113.4,
+  "duration": 3.48,
+  "text": "like this not torpedo the AI"
+ },
+ {
+  "start": 1114.8,
+  "duration": 3.56,
+  "text": "intelligence explosion bull case? US"
+ },
+ {
+  "start": 1116.88,
+  "duration": 3.52,
+  "text": "government establishing precedent that"
+ },
+ {
+  "start": 1118.36,
+  "duration": 4.4,
+  "text": "access to anything as smart as Gable 5,"
+ },
+ {
+  "start": 1120.4,
+  "duration": 4.68,
+  "text": "which is not RSI and nowhere near AGI,"
+ },
+ {
+  "start": 1122.76,
+  "duration": 3.6,
+  "text": "will be banned. Even if Anthropic could"
+ },
+ {
+  "start": 1125.08,
+  "duration": 3.48,
+  "text": "make the model accessible to US"
+ },
+ {
+  "start": 1126.36,
+  "duration": 3.88,
+  "text": "nationals, how will any customer ensure"
+ },
+ {
+  "start": 1128.56,
+  "duration": 4.12,
+  "text": "compliance seeing as not all employees"
+ },
+ {
+  "start": 1130.24,
+  "duration": 4.0,
+  "text": "of US enterprises are US nationals? So,"
+ },
+ {
+  "start": 1132.68,
+  "duration": 3.12,
+  "text": "we have a situation where the labs need"
+ },
+ {
+  "start": 1134.24,
+  "duration": 3.04,
+  "text": "to spend increasing amounts of CAPEX to"
+ },
+ {
+  "start": 1135.8,
+  "duration": 3.48,
+  "text": "build more powerful models, but are"
+ },
+ {
+  "start": 1137.28,
+  "duration": 3.32,
+  "text": "restricted from monetizing them. I do"
+ },
+ {
+  "start": 1139.28,
+  "duration": 3.52,
+  "text": "not think the intelligence levels of"
+ },
+ {
+  "start": 1140.6,
+  "duration": 3.88,
+  "text": "Opus 4.8 and GPT 5.5 are enough to"
+ },
+ {
+  "start": 1142.8,
+  "duration": 3.64,
+  "text": "justify anywhere close to the amount of"
+ },
+ {
+  "start": 1144.48,
+  "duration": 3.84,
+  "text": "AI CAPEX being spent, let alone"
+ },
+ {
+  "start": 1146.44,
+  "duration": 3.92,
+  "text": "projected to be spent."
+ },
+ {
+  "start": 1148.32,
+  "duration": 3.44,
+  "text": "And in that scary reality, one person"
+ },
+ {
+  "start": 1150.36,
+  "duration": 3.48,
+  "text": "who potentially has a target on their"
+ },
+ {
+  "start": 1151.76,
+  "duration": 3.28,
+  "text": "head is Anthropic CEO Dario Amodei"
+ },
+ {
+  "start": 1153.84,
+  "duration": 3.0,
+  "text": "himself."
+ },
+ {
+  "start": 1155.04,
+  "duration": 3.68,
+  "text": "Tech commentator Robert Scoble writes,"
+ },
+ {
+  "start": 1156.84,
+  "duration": 4.0,
+  "text": "\"I can't see how Dario survives another"
+ },
+ {
+  "start": 1158.72,
+  "duration": 4.36,
+  "text": "week. Investors in Anthropic are pissed"
+ },
+ {
+  "start": 1160.84,
+  "duration": 4.0,
+  "text": "at his leadership.\" Lasan on X again"
+ },
+ {
+  "start": 1163.08,
+  "duration": 4.08,
+  "text": "writes, \"The realistic take on the"
+ },
+ {
+  "start": 1164.84,
+  "duration": 3.92,
+  "text": "Anthropic situation, investing in AI"
+ },
+ {
+  "start": 1167.16,
+  "duration": 3.12,
+  "text": "companies has just become permanently"
+ },
+ {
+  "start": 1168.76,
+  "duration": 3.8,
+  "text": "more risky as the US government could"
+ },
+ {
+  "start": 1170.28,
+  "duration": 4.32,
+  "text": "pull the plug at any moment.\" GDP on X"
+ },
+ {
+  "start": 1172.56,
+  "duration": 4.28,
+  "text": "writes, \"Anthropic IPO has been"
+ },
+ {
+  "start": 1174.6,
+  "duration": 3.48,
+  "text": "kneecapped. If Anthropic cannot offer"
+ },
+ {
+  "start": 1176.84,
+  "duration": 3.24,
+  "text": "the powerful models to the rest of the"
+ },
+ {
+  "start": 1178.08,
+  "duration": 4.6,
+  "text": "world, this reduces their global market"
+ },
+ {
+  "start": 1180.08,
+  "duration": 4.84,
+  "text": "share by 25%. Is it then still a $1"
+ },
+ {
+  "start": 1182.68,
+  "duration": 3.96,
+  "text": "trillion USD market cap company?\" Open"
+ },
+ {
+  "start": 1184.92,
+  "duration": 3.76,
+  "text": "source is already near Opus and Sonnet"
+ },
+ {
+  "start": 1186.64,
+  "duration": 3.96,
+  "text": "and will cross that tier soon. While I"
+ },
+ {
+  "start": 1188.68,
+  "duration": 3.64,
+  "text": "duly respect safety concerns, this is"
+ },
+ {
+  "start": 1190.6,
+  "duration": 3.6,
+  "text": "very broad and is akin to throwing the"
+ },
+ {
+  "start": 1192.32,
+  "duration": 4.2,
+  "text": "baby out with the bathwater. The world"
+ },
+ {
+  "start": 1194.2,
+  "duration": 4.0,
+  "text": "is going to be split by model access."
+ },
+ {
+  "start": 1196.52,
+  "duration": 3.96,
+  "text": "Lasan sharing the Wikipedia post for"
+ },
+ {
+  "start": 1198.2,
+  "duration": 4.28,
+  "text": "1987's Black Monday event on Wall Street"
+ },
+ {
+  "start": 1200.48,
+  "duration": 4.16,
+  "text": "wrote, \"Trump popping the AI bubble"
+ },
+ {
+  "start": 1202.48,
+  "duration": 3.8,
+  "text": "wasn't on my bingo card.\""
+ },
+ {
+  "start": 1204.64,
+  "duration": 3.88,
+  "text": "Now, I don't like to speculate on market"
+ },
+ {
+  "start": 1206.28,
+  "duration": 4.0,
+  "text": "reactions and I hope that investors can"
+ },
+ {
+  "start": 1208.52,
+  "duration": 3.68,
+  "text": "be a little bit dispassionate. But I"
+ },
+ {
+  "start": 1210.28,
+  "duration": 4.16,
+  "text": "more or less am of the belief that at"
+ },
+ {
+  "start": 1212.2,
+  "duration": 3.8,
+  "text": "this point the entire American economy"
+ },
+ {
+  "start": 1214.44,
+  "duration": 3.36,
+  "text": "kind of rests on the relationship"
+ },
+ {
+  "start": 1216.0,
+  "duration": 3.88,
+  "text": "between Anthropic and OpenAI's revenue"
+ },
+ {
+  "start": 1217.8,
+  "duration": 3.48,
+  "text": "continuing to go up and investors being"
+ },
+ {
+  "start": 1219.88,
+  "duration": 3.52,
+  "text": "willing to continue to fund the AI"
+ },
+ {
+  "start": 1221.28,
+  "duration": 4.24,
+  "text": "buildout. I think the sheer tonnage of"
+ },
+ {
+  "start": 1223.4,
+  "duration": 4.24,
+  "text": "damage that this move from the US"
+ },
+ {
+  "start": 1225.52,
+  "duration": 4.32,
+  "text": "government does, not just to Anthropic"
+ },
+ {
+  "start": 1227.64,
+  "duration": 3.64,
+  "text": "but to the entire US economy, is hard to"
+ },
+ {
+  "start": 1229.84,
+  "duration": 2.96,
+  "text": "overstate."
+ },
+ {
+  "start": 1231.28,
+  "duration": 3.64,
+  "text": "Certainly everyone around the world who"
+ },
+ {
+  "start": 1232.8,
+  "duration": 3.4,
+  "text": "is not American has to be feeling very"
+ },
+ {
+  "start": 1234.92,
+  "duration": 3.56,
+  "text": "different about things than they were"
+ },
+ {
+  "start": 1236.2,
+  "duration": 4.36,
+  "text": "just a day ago. VC Hemant Mohapatra"
+ },
+ {
+  "start": 1238.48,
+  "duration": 4.08,
+  "text": "writes, \"The sovereign AI's real moment"
+ },
+ {
+  "start": 1240.56,
+  "duration": 3.56,
+  "text": "is here. Nation states will soon start"
+ },
+ {
+  "start": 1242.56,
+  "duration": 2.76,
+  "text": "needing citizenship and or security"
+ },
+ {
+  "start": 1244.12,
+  "duration": 2.76,
+  "text": "clearances to work on their next"
+ },
+ {
+  "start": 1245.32,
+  "duration": 3.48,
+  "text": "state-of-the-art models, the way they do"
+ },
+ {
+  "start": 1246.88,
+  "duration": 4.2,
+  "text": "for defense, space, and nuclear tech."
+ },
+ {
+  "start": 1248.8,
+  "duration": 4.6,
+  "text": "It's only a matter of time. Talent wars"
+ },
+ {
+  "start": 1251.08,
+  "duration": 4.04,
+  "text": "here will be crazy.\" Alex Petropoulos"
+ },
+ {
+  "start": 1253.4,
+  "duration": 3.72,
+  "text": "writes, \"This should be a warning shot"
+ },
+ {
+  "start": 1255.12,
+  "duration": 4.28,
+  "text": "for all middle powers. Your access to"
+ },
+ {
+  "start": 1257.12,
+  "duration": 3.68,
+  "text": "frontier AI systems is not guaranteed."
+ },
+ {
+  "start": 1259.4,
+  "duration": 3.96,
+  "text": "You need to build and pull your leverage"
+ },
+ {
+  "start": 1260.8,
+  "duration": 4.36,
+  "text": "to secure access. A failure to do so is"
+ },
+ {
+  "start": 1263.36,
+  "duration": 3.72,
+  "text": "a threat to your R&D, economic, and"
+ },
+ {
+  "start": 1265.16,
+  "duration": 3.84,
+  "text": "defensive competitiveness.\""
+ },
+ {
+  "start": 1267.08,
+  "duration": 3.88,
+  "text": "Garry Tan writes, \"Up until now, the US"
+ },
+ {
+  "start": 1269.0,
+  "duration": 3.36,
+  "text": "position against China has been, we are"
+ },
+ {
+  "start": 1270.96,
+  "duration": 3.56,
+  "text": "the rule of law, predictable,"
+ },
+ {
+  "start": 1272.36,
+  "duration": 4.12,
+  "text": "trustworthy provider. They are arbitrary"
+ },
+ {
+  "start": 1274.52,
+  "duration": 4.32,
+  "text": "and politically directed. The asymmetry"
+ },
+ {
+  "start": 1276.48,
+  "duration": 4.16,
+  "text": "of the narrative just evaporated. Any"
+ },
+ {
+  "start": 1278.84,
+  "duration": 4.08,
+  "text": "procurement officer in Brussels, Tokyo,"
+ },
+ {
+  "start": 1280.64,
+  "duration": 4.04,
+  "text": "or São Paulo who watched this happen now"
+ },
+ {
+  "start": 1282.92,
+  "duration": 4.0,
+  "text": "has a defensible argument for sovereign"
+ },
+ {
+  "start": 1284.68,
+  "duration": 3.88,
+  "text": "AI hedging, EU model preference, or"
+ },
+ {
+  "start": 1286.92,
+  "duration": 3.68,
+  "text": "cautious experimentation with Chinese"
+ },
+ {
+  "start": 1288.56,
+  "duration": 3.64,
+  "text": "open weight alternatives. The Deep Seek"
+ },
+ {
+  "start": 1290.6,
+  "duration": 3.2,
+  "text": "and Quen quality gap is small enough"
+ },
+ {
+  "start": 1292.2,
+  "duration": 3.76,
+  "text": "that this matters."
+ },
+ {
+  "start": 1293.8,
+  "duration": 3.8,
+  "text": "British politician Tom Tugendhat wrote,"
+ },
+ {
+  "start": 1295.96,
+  "duration": 3.4,
+  "text": "\"Disabling Fable 5 and other models for"
+ },
+ {
+  "start": 1297.6,
+  "duration": 3.96,
+  "text": "foreigners is not a misunderstanding or"
+ },
+ {
+  "start": 1299.36,
+  "duration": 3.84,
+  "text": "a mistake. It's the inevitable result of"
+ },
+ {
+  "start": 1301.56,
+  "duration": 3.08,
+  "text": "technology shaping warfare so that"
+ },
+ {
+  "start": 1303.2,
+  "duration": 3.68,
+  "text": "sovereignty is more about code than"
+ },
+ {
+  "start": 1304.64,
+  "duration": 4.24,
+  "text": "cannons. With high energy costs and the"
+ },
+ {
+  "start": 1306.88,
+  "duration": 3.44,
+  "text": "emphasis on safety, not opportunity,"
+ },
+ {
+  "start": 1308.88,
+  "duration": 2.64,
+  "text": "Britain's response has been to build the"
+ },
+ {
+  "start": 1310.32,
+  "duration": 3.2,
+  "text": "break, cutting ourselves off from the"
+ },
+ {
+  "start": 1311.52,
+  "duration": 3.56,
+  "text": "future and tied ourselves to the past."
+ },
+ {
+  "start": 1313.52,
+  "duration": 2.76,
+  "text": "We cannot continue like this and remain"
+ },
+ {
+  "start": 1315.08,
+  "duration": 3.36,
+  "text": "sovereign."
+ },
+ {
+  "start": 1316.28,
+  "duration": 3.24,
+  "text": "The Europeans account on Twitter writes,"
+ },
+ {
+  "start": 1318.44,
+  "duration": 2.96,
+  "text": "\"The US government has ordered the"
+ },
+ {
+  "start": 1319.52,
+  "duration": 3.88,
+  "text": "suspension of access to Anthropic's"
+ },
+ {
+  "start": 1321.4,
+  "duration": 4.0,
+  "text": "frontier AI models Fable 5 and Mythos 5"
+ },
+ {
+  "start": 1323.4,
+  "duration": 4.44,
+  "text": "for all foreign nationals worldwide,"
+ },
+ {
+  "start": 1325.4,
+  "duration": 4.2,
+  "text": "citing national security concerns. Now,"
+ },
+ {
+  "start": 1327.84,
+  "duration": 3.32,
+  "text": "imagine a European company, hospital,"
+ },
+ {
+  "start": 1329.6,
+  "duration": 3.16,
+  "text": "ministry, or public administration that"
+ },
+ {
+  "start": 1331.16,
+  "duration": 3.44,
+  "text": "has built critical processes around a"
+ },
+ {
+  "start": 1332.76,
+  "duration": 4.24,
+  "text": "frontier AI model. From one day to the"
+ },
+ {
+  "start": 1334.6,
+  "duration": 4.28,
+  "text": "next, access disappears. Workflows stop,"
+ },
+ {
+  "start": 1337.0,
+  "duration": 3.76,
+  "text": "services are disrupted, teams scramble"
+ },
+ {
+  "start": 1338.88,
+  "duration": 3.84,
+  "text": "to migrate, millions are spent on energy"
+ },
+ {
+  "start": 1340.76,
+  "duration": 4.0,
+  "text": "replacements. This is what technological"
+ },
+ {
+  "start": 1342.72,
+  "duration": 3.48,
+  "text": "dependence looks like. When access to"
+ },
+ {
+  "start": 1344.76,
+  "duration": 3.24,
+  "text": "critical technologies depends on"
+ },
+ {
+  "start": 1346.2,
+  "duration": 3.24,
+  "text": "decisions taken by foreign governments,"
+ },
+ {
+  "start": 1348.0,
+  "duration": 4.08,
+  "text": "Europe no longer fully controls its"
+ },
+ {
+  "start": 1349.44,
+  "duration": 4.44,
+  "text": "ability to act, compete, or innovate."
+ },
+ {
+  "start": 1352.08,
+  "duration": 3.44,
+  "text": "Writes Harvard's Ben Murphy, \"This is"
+ },
+ {
+  "start": 1353.88,
+  "duration": 3.12,
+  "text": "another step on the Balkanization of"
+ },
+ {
+  "start": 1355.52,
+  "duration": 3.4,
+  "text": "technology."
+ },
+ {
+  "start": 1357.0,
+  "duration": 3.48,
+  "text": "Mall on X writes, \"The scariest part of"
+ },
+ {
+  "start": 1358.92,
+  "duration": 3.36,
+  "text": "this whole story is the dystopia looming"
+ },
+ {
+  "start": 1360.48,
+  "duration": 3.48,
+  "text": "on the horizon. It is the way the US"
+ },
+ {
+  "start": 1362.28,
+  "duration": 4.0,
+  "text": "government is literally creating a caste"
+ },
+ {
+  "start": 1363.96,
+  "duration": 3.8,
+  "text": "system based on access to intelligence."
+ },
+ {
+  "start": 1366.28,
+  "duration": 3.12,
+  "text": "This is even no longer a divide between"
+ },
+ {
+  "start": 1367.76,
+  "duration": 2.72,
+  "text": "rich and poor. It's a divide between"
+ },
+ {
+  "start": 1369.4,
+  "duration": 2.96,
+  "text": "those who are allowed to think at the"
+ },
+ {
+  "start": 1370.48,
+  "duration": 2.84,
+  "text": "frontier level, accelerate science and"
+ },
+ {
+  "start": 1372.36,
+  "duration": 2.68,
+  "text": "medicine, create breakthrough"
+ },
+ {
+  "start": 1373.32,
+  "duration": 2.92,
+  "text": "technologies, and those who simply"
+ },
+ {
+  "start": 1375.04,
+  "duration": 3.56,
+  "text": "happen to be citizens of another"
+ },
+ {
+  "start": 1376.24,
+  "duration": 4.72,
+  "text": "country. This is a new kind of iron"
+ },
+ {
+  "start": 1378.6,
+  "duration": 4.16,
+  "text": "curtain, digital, intellectual. And if"
+ },
+ {
+  "start": 1380.96,
+  "duration": 4.4,
+  "text": "they are testing this on Anthropic, who"
+ },
+ {
+  "start": 1382.76,
+  "duration": 4.72,
+  "text": "knows who they will come for tomorrow."
+ },
+ {
+  "start": 1385.36,
+  "duration": 3.6,
+  "text": "Now, I have no idea what happens next."
+ },
+ {
+  "start": 1387.48,
+  "duration": 3.48,
+  "text": "One has to think that the base case is"
+ },
+ {
+  "start": 1388.96,
+  "duration": 3.76,
+  "text": "that this gets reversed in some way, but"
+ },
+ {
+  "start": 1390.96,
+  "duration": 3.68,
+  "text": "make no mistake, this is an incredibly"
+ },
+ {
+  "start": 1392.72,
+  "duration": 3.2,
+  "text": "dramatic step. I will, of course,"
+ },
+ {
+  "start": 1394.64,
+  "duration": 2.72,
+  "text": "continue to bring updates as they"
+ },
+ {
+  "start": 1395.92,
+  "duration": 3.16,
+  "text": "happen, but for now, that's going to do"
+ },
+ {
+  "start": 1397.36,
+  "duration": 3.56,
+  "text": "it for this emergency episode of the AI"
+ },
+ {
+  "start": 1399.08,
+  "duration": 3.12,
+  "text": "Daily Brief. Tomorrow, I'll be moving"
+ },
+ {
+  "start": 1400.92,
+  "duration": 2.84,
+  "text": "things around a little bit and releasing"
+ },
+ {
+  "start": 1402.2,
+  "duration": 3.04,
+  "text": "the short weekly recap episode that I've"
+ },
+ {
+  "start": 1403.76,
+  "duration": 3.08,
+  "text": "been experimenting with, and then"
+ },
+ {
+  "start": 1405.24,
+  "duration": 3.12,
+  "text": "pushing what was originally going to be"
+ },
+ {
+  "start": 1406.84,
+  "duration": 3.52,
+  "text": "the Long Read Sunday episode for some"
+ },
+ {
+  "start": 1408.36,
+  "duration": 3.64,
+  "text": "time in the next week or so. Big thanks"
+ },
+ {
+  "start": 1410.36,
+  "duration": 5.24,
+  "text": "for listening or watching, as always,"
+ },
+ {
+  "start": 1412.0,
+  "duration": 3.6,
+  "text": "and until next time, peace."
+ }
+]

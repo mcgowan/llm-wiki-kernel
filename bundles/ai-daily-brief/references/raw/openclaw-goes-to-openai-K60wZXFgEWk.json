@@ -1,0 +1,2587 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.36,
+  "text": "As Openclaw goes to Open AI, we're"
+ },
+ {
+  "start": 2.72,
+  "duration": 2.92,
+  "text": "talking about how the project became the"
+ },
+ {
+  "start": 4.36,
+  "duration": 2.88,
+  "text": "biggest thing in artificial"
+ },
+ {
+  "start": 5.64,
+  "duration": 3.44,
+  "text": "intelligence."
+ },
+ {
+  "start": 7.24,
+  "duration": 4.28,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 9.08,
+  "duration": 4.08,
+  "text": "Today, we are talking about Openclaw,"
+ },
+ {
+  "start": 11.52,
+  "duration": 4.0,
+  "text": "the radically fast-growing project which"
+ },
+ {
+  "start": 13.16,
+  "duration": 4.16,
+  "text": "has encapsulated the agentic shift that"
+ },
+ {
+  "start": 15.52,
+  "duration": 3.92,
+  "text": "has happened more broadly in AI,"
+ },
+ {
+  "start": 17.32,
+  "duration": 4.48,
+  "text": "captured the attention of a huge number"
+ },
+ {
+  "start": 19.44,
+  "duration": 4.84,
+  "text": "of developers and non-developers alike,"
+ },
+ {
+  "start": 21.8,
+  "duration": 4.36,
+  "text": "and for many, cemented a transition into"
+ },
+ {
+  "start": 24.28,
+  "duration": 4.0,
+  "text": "a totally different mode of interaction"
+ },
+ {
+  "start": 26.16,
+  "duration": 3.44,
+  "text": "with AI with huge implications for the"
+ },
+ {
+  "start": 28.28,
+  "duration": 3.0,
+  "text": "future."
+ },
+ {
+  "start": 29.6,
+  "duration": 4.12,
+  "text": "So, let's talk about how from humble"
+ },
+ {
+  "start": 31.28,
+  "duration": 4.2,
+  "text": "origins, less than 3 months ago, this"
+ },
+ {
+  "start": 33.72,
+  "duration": 3.16,
+  "text": "project became the most important thing"
+ },
+ {
+  "start": 35.48,
+  "duration": 3.24,
+  "text": "in AI."
+ },
+ {
+  "start": 36.88,
+  "duration": 4.56,
+  "text": "For a quick TLDR, we turn to Aiden Bai,"
+ },
+ {
+  "start": 38.72,
+  "duration": 4.24,
+  "text": "who writes, \"Crazy timeline. Peter"
+ },
+ {
+  "start": 41.44,
+  "duration": 3.88,
+  "text": "Steinberger makes Claude bot out of"
+ },
+ {
+  "start": 42.96,
+  "duration": 4.56,
+  "text": "curiosity. In 2026, it breaks the"
+ },
+ {
+  "start": 45.32,
+  "duration": 4.16,
+  "text": "internet, gets 100,000 GitHub stars, and"
+ },
+ {
+  "start": 47.52,
+  "duration": 4.12,
+  "text": "Anthropic threatens a lawsuit. Claude"
+ },
+ {
+  "start": 49.48,
+  "duration": 4.04,
+  "text": "bot becomes Multibot, becomes Openclaw,"
+ },
+ {
+  "start": 51.64,
+  "duration": 4.36,
+  "text": "role-play sentient bots on Multibot Lex"
+ },
+ {
+  "start": 53.52,
+  "duration": 5.32,
+  "text": "Friedman podcast. OpenAI W, Anthropic L,"
+ },
+ {
+  "start": 56.0,
+  "duration": 5.36,
+  "text": "Openclaw is forever open source.\""
+ },
+ {
+  "start": 58.84,
+  "duration": 4.68,
+  "text": "Now, by way of background, Openclaw is"
+ },
+ {
+  "start": 61.36,
+  "duration": 3.8,
+  "text": "an agent platform that allows your AI to"
+ },
+ {
+  "start": 63.52,
+  "duration": 3.76,
+  "text": "access your systems and actually do"
+ },
+ {
+  "start": 65.16,
+  "duration": 4.16,
+  "text": "things. The project was started by"
+ },
+ {
+  "start": 67.28,
+  "duration": 4.68,
+  "text": "serial entrepreneur Peter Steinberger in"
+ },
+ {
+  "start": 69.32,
+  "duration": 3.72,
+  "text": "late November as Claude bot, c l a w d"
+ },
+ {
+  "start": 71.96,
+  "duration": 2.88,
+  "text": "bot."
+ },
+ {
+  "start": 73.04,
+  "duration": 3.24,
+  "text": "In January, as everyone came back with"
+ },
+ {
+  "start": 74.84,
+  "duration": 3.2,
+  "text": "the recognition that the latest"
+ },
+ {
+  "start": 76.28,
+  "duration": 3.64,
+  "text": "generation of models plus harnesses like"
+ },
+ {
+  "start": 78.04,
+  "duration": 4.24,
+  "text": "Claude code had really truly changed"
+ },
+ {
+  "start": 79.92,
+  "duration": 4.48,
+  "text": "things, Openclaw encapsulated a part of"
+ },
+ {
+  "start": 82.28,
+  "duration": 4.24,
+  "text": "that shift, which was the shift to true"
+ },
+ {
+  "start": 84.4,
+  "duration": 3.36,
+  "text": "autonomous agentic capabilities."
+ },
+ {
+  "start": 86.52,
+  "duration": 2.96,
+  "text": "Although the project had been around in"
+ },
+ {
+  "start": 87.76,
+  "duration": 3.24,
+  "text": "December, it was towards the back half"
+ },
+ {
+  "start": 89.48,
+  "duration": 3.0,
+  "text": "of January when people really started to"
+ },
+ {
+  "start": 91.0,
+  "duration": 3.04,
+  "text": "take notice."
+ },
+ {
+  "start": 92.48,
+  "duration": 3.8,
+  "text": "On January 23rd, you started seeing"
+ },
+ {
+  "start": 94.04,
+  "duration": 3.92,
+  "text": "posts like this one from Alex Finn. It's"
+ },
+ {
+  "start": 96.28,
+  "duration": 3.68,
+  "text": "Alex holding up a Mac Mini with the"
+ },
+ {
+  "start": 97.96,
+  "duration": 4.56,
+  "text": "caption, \"Just hired my first employee"
+ },
+ {
+  "start": 99.96,
+  "duration": 5.28,
+  "text": "today. The best part is he works 24/7"
+ },
+ {
+  "start": 102.52,
+  "duration": 5.2,
+  "text": "365. Welcome, Claude.\""
+ },
+ {
+  "start": 105.24,
+  "duration": 3.72,
+  "text": "That post got 2 million views."
+ },
+ {
+  "start": 107.72,
+  "duration": 2.84,
+  "text": "But of course, it was what people were"
+ },
+ {
+  "start": 108.96,
+  "duration": 3.84,
+  "text": "actually doing with Claude bot that"
+ },
+ {
+  "start": 110.56,
+  "duration": 3.64,
+  "text": "actually got people most excited."
+ },
+ {
+  "start": 112.8,
+  "duration": 2.96,
+  "text": "Alex again writes, \"For the first time"
+ },
+ {
+  "start": 114.2,
+  "duration": 4.16,
+  "text": "since its release, I haven't used Claude"
+ },
+ {
+  "start": 115.76,
+  "duration": 4.0,
+  "text": "code for 2 days. My Claude bot Henry has"
+ },
+ {
+  "start": 118.36,
+  "duration": 3.48,
+  "text": "though. He's been vibe coding for me"
+ },
+ {
+  "start": 119.76,
+  "duration": 4.08,
+  "text": "non-stop for 48 hours straight. I've"
+ },
+ {
+  "start": 121.84,
+  "duration": 4.32,
+  "text": "never produced so much code in my life."
+ },
+ {
+  "start": 123.84,
+  "duration": 4.0,
+  "text": "Vibe coding is dead. Vibe orchestration"
+ },
+ {
+  "start": 126.16,
+  "duration": 3.8,
+  "text": "has arrived."
+ },
+ {
+  "start": 127.84,
+  "duration": 4.2,
+  "text": "Summing up the tron of Alex Finn posts,"
+ },
+ {
+  "start": 129.96,
+  "duration": 4.08,
+  "text": "on January 25th he wrote, \"I woke up"
+ },
+ {
+  "start": 132.04,
+  "duration": 3.84,
+  "text": "this morning in my 24/7 AI employee"
+ },
+ {
+  "start": 134.04,
+  "duration": 3.56,
+  "text": "Claude bot Henry texted me that he did"
+ },
+ {
+  "start": 135.88,
+  "duration": 3.52,
+  "text": "all these tasks overnight without"
+ },
+ {
+  "start": 137.6,
+  "duration": 3.8,
+  "text": "asking. Read through all my emails and"
+ },
+ {
+  "start": 139.4,
+  "duration": 3.88,
+  "text": "built its own CRM, taking notes on every"
+ },
+ {
+  "start": 141.4,
+  "duration": 3.88,
+  "text": "interaction with every person. Fixed 18"
+ },
+ {
+  "start": 143.28,
+  "duration": 3.28,
+  "text": "bugs in my SaaS. Gave me three ideas for"
+ },
+ {
+  "start": 145.28,
+  "duration": 3.16,
+  "text": "new videos based on what is currently"
+ },
+ {
+  "start": 146.56,
+  "duration": 3.24,
+  "text": "trending on my X and YouTube. The idea"
+ },
+ {
+  "start": 148.44,
+  "duration": 3.36,
+  "text": "and script it gave me yesterday is now"
+ },
+ {
+  "start": 149.8,
+  "duration": 3.4,
+  "text": "by far my best performing video ever."
+ },
+ {
+  "start": 151.8,
+  "duration": 3.76,
+  "text": "And sent me a picture of what he looks"
+ },
+ {
+  "start": 153.2,
+  "duration": 3.96,
+  "text": "like generated by Nano banana.\""
+ },
+ {
+  "start": 155.56,
+  "duration": 3.36,
+  "text": "The point here is that these early"
+ },
+ {
+  "start": 157.16,
+  "duration": 3.88,
+  "text": "Claude bot users seem to be actually"
+ },
+ {
+  "start": 158.92,
+  "duration": 3.88,
+  "text": "getting value out of this thing."
+ },
+ {
+  "start": 161.04,
+  "duration": 3.2,
+  "text": "This wasn't just the promise of agents"
+ },
+ {
+  "start": 162.8,
+  "duration": 3.56,
+  "text": "that had been with us for years at this"
+ },
+ {
+  "start": 164.24,
+  "duration": 4.4,
+  "text": "point in AI, but agents actually"
+ },
+ {
+  "start": 166.36,
+  "duration": 4.68,
+  "text": "delivering real value. Working while"
+ },
+ {
+  "start": 168.64,
+  "duration": 3.76,
+  "text": "their partner humans slept."
+ },
+ {
+  "start": 171.04,
+  "duration": 3.64,
+  "text": "The first appearance of Claude bot on"
+ },
+ {
+  "start": 172.4,
+  "duration": 3.96,
+  "text": "this show was Monday, January 26th. In"
+ },
+ {
+  "start": 174.68,
+  "duration": 3.44,
+  "text": "the episode Ralph Wigam, Claude bot and"
+ },
+ {
+  "start": 176.36,
+  "duration": 4.28,
+  "text": "Mac minis, how pros are vibe coding in"
+ },
+ {
+  "start": 178.12,
+  "duration": 4.24,
+  "text": "2026. And over the course of that week"
+ },
+ {
+  "start": 180.64,
+  "duration": 4.0,
+  "text": "interesting Claude bot would grow to new"
+ },
+ {
+  "start": 182.36,
+  "duration": 4.68,
+  "text": "levels. Driven both by interest in the"
+ },
+ {
+  "start": 184.64,
+  "duration": 3.96,
+  "text": "capability set, but also by intrigue"
+ },
+ {
+  "start": 187.04,
+  "duration": 3.24,
+  "text": "around some things that felt a little"
+ },
+ {
+  "start": 188.6,
+  "duration": 3.76,
+  "text": "bit sci-fi."
+ },
+ {
+  "start": 190.28,
+  "duration": 4.32,
+  "text": "Alas, before we could get there, Claude"
+ },
+ {
+  "start": 192.36,
+  "duration": 3.68,
+  "text": "bot by that name ceased to be."
+ },
+ {
+  "start": 194.6,
+  "duration": 2.96,
+  "text": "After a friendly little cease and desist"
+ },
+ {
+  "start": 196.04,
+  "duration": 3.72,
+  "text": "from Anthropic who were worried about"
+ },
+ {
+  "start": 197.56,
+  "duration": 3.679,
+  "text": "the copyright implications of Claude,"
+ },
+ {
+  "start": 199.76,
+  "duration": 3.6,
+  "text": "spelled just a different way than their"
+ },
+ {
+  "start": 201.239,
+  "duration": 4.401,
+  "text": "Claude app, Peter Steinberger changed"
+ },
+ {
+  "start": 203.36,
+  "duration": 3.56,
+  "text": "the name to Mult bot or Multi. Keeping"
+ },
+ {
+  "start": 205.64,
+  "duration": 2.56,
+  "text": "the lobster theme but trying something"
+ },
+ {
+  "start": 206.92,
+  "duration": 2.76,
+  "text": "different."
+ },
+ {
+  "start": 208.2,
+  "duration": 2.96,
+  "text": "And the next part of the journey is"
+ },
+ {
+  "start": 209.68,
+  "duration": 3.96,
+  "text": "where even more people started paying"
+ },
+ {
+  "start": 211.16,
+  "duration": 3.88,
+  "text": "attention because it was extremely"
+ },
+ {
+  "start": 213.64,
+  "duration": 2.4,
+  "text": "sci-fi."
+ },
+ {
+  "start": 215.04,
+  "duration": 3.04,
+  "text": "In the middle of that week around the"
+ },
+ {
+  "start": 216.04,
+  "duration": 3.479,
+  "text": "28th or 29th, entrepreneur Matt Schlicht"
+ },
+ {
+  "start": 218.08,
+  "duration": 2.76,
+  "text": "decided it would be interesting if all"
+ },
+ {
+  "start": 219.519,
+  "duration": 3.921,
+  "text": "the Mult bots had a place where they"
+ },
+ {
+  "start": 220.84,
+  "duration": 5.119,
+  "text": "could talk. With his Claude bot / Mult"
+ },
+ {
+  "start": 223.44,
+  "duration": 4.12,
+  "text": "bot, Matt built Multbook, which was"
+ },
+ {
+  "start": 225.959,
+  "duration": 3.521,
+  "text": "exactly what it sounded like, a social"
+ },
+ {
+  "start": 227.56,
+  "duration": 4.2,
+  "text": "network for AI agents."
+ },
+ {
+  "start": 229.48,
+  "duration": 4.16,
+  "text": "In the first couple of days 2,000 agents"
+ },
+ {
+  "start": 231.76,
+  "duration": 4.32,
+  "text": "joined, starting some 10,000"
+ },
+ {
+  "start": 233.64,
+  "duration": 4.08,
+  "text": "conversations. But then on Friday, as I"
+ },
+ {
+  "start": 236.08,
+  "duration": 4.16,
+  "text": "started recording a show about it, that"
+ },
+ {
+  "start": 237.72,
+  "duration": 4.8,
+  "text": "number jumped from 2,000 to about 30,000"
+ },
+ {
+  "start": 240.24,
+  "duration": 3.76,
+  "text": "in a few hours. By the time I was ready"
+ },
+ {
+  "start": 242.52,
+  "duration": 5.0,
+  "text": "to publish the episode later that"
+ },
+ {
+  "start": 244.0,
+  "duration": 4.959,
+  "text": "evening, it was up to 100,000 bots."
+ },
+ {
+  "start": 247.52,
+  "duration": 3.76,
+  "text": "Now, a couple weeks on, Multibot has a"
+ },
+ {
+  "start": 248.959,
+  "duration": 4.441,
+  "text": "more than 2.7 million agents"
+ },
+ {
+  "start": 251.28,
+  "duration": 3.8,
+  "text": "interacting. And if nothing else, it's a"
+ },
+ {
+  "start": 253.4,
+  "duration": 3.92,
+  "text": "fascinating experiment in the"
+ },
+ {
+  "start": 255.08,
+  "duration": 4.279,
+  "text": "anthropology of agents that are"
+ },
+ {
+  "start": 257.32,
+  "duration": 3.36,
+  "text": "cosplaying as sentient."
+ },
+ {
+  "start": 259.359,
+  "duration": 2.721,
+  "text": "Now, I did a couple of episodes about"
+ },
+ {
+  "start": 260.68,
+  "duration": 3.239,
+  "text": "Multibot if you want to go back and find"
+ },
+ {
+  "start": 262.08,
+  "duration": 3.52,
+  "text": "out about that. But for our purposes"
+ },
+ {
+  "start": 263.919,
+  "duration": 3.041,
+  "text": "today, the thing to know is that it"
+ },
+ {
+  "start": 265.6,
+  "duration": 2.8,
+  "text": "represented the next phase of growth and"
+ },
+ {
+  "start": 266.96,
+  "duration": 3.6,
+  "text": "excitement for the Claude bot, now"
+ },
+ {
+  "start": 268.4,
+  "duration": 3.4,
+  "text": "Multibot project overall."
+ },
+ {
+  "start": 270.56,
+  "duration": 3.08,
+  "text": "Yet, if you're sitting there thinking,"
+ },
+ {
+  "start": 271.8,
+  "duration": 4.44,
+  "text": "\"God, Multibot just isn't really rolling"
+ },
+ {
+  "start": 273.64,
+  "duration": 4.56,
+  "text": "off the tongue.\" You are not alone."
+ },
+ {
+  "start": 276.24,
+  "duration": 3.72,
+  "text": "On January 30th, the project announced,"
+ },
+ {
+  "start": 278.2,
+  "duration": 4.84,
+  "text": "\"The lobster has molted into its final"
+ },
+ {
+  "start": 279.96,
+  "duration": 4.68,
+  "text": "form, Claude to Multibot to Open Claw.\""
+ },
+ {
+  "start": 283.04,
+  "duration": 3.24,
+  "text": "Creator Peter Steinberger said, \"Some"
+ },
+ {
+  "start": 284.64,
+  "duration": 3.6,
+  "text": "folks said molt was growing on them."
+ },
+ {
+  "start": 286.28,
+  "duration": 3.72,
+  "text": "Respectfully, not on me.\""
+ },
+ {
+  "start": 288.24,
+  "duration": 3.32,
+  "text": "Many of the early adopters breathed a"
+ },
+ {
+  "start": 290.0,
+  "duration": 2.68,
+  "text": "big sigh of relief and said, \"Oh my"
+ },
+ {
+  "start": 291.56,
+  "duration": 3.64,
+  "text": "goodness, I didn't want to say anything,"
+ },
+ {
+  "start": 292.68,
+  "duration": 4.04,
+  "text": "but man did I hate molt as a name.\""
+ },
+ {
+  "start": 295.2,
+  "duration": 2.719,
+  "text": "Yet others said, \"If you're calling it"
+ },
+ {
+  "start": 296.72,
+  "duration": 2.8,
+  "text": "Open Claw, aren't you just opening"
+ },
+ {
+  "start": 297.919,
+  "duration": 2.961,
+  "text": "yourselves up to a cease and desist from"
+ },
+ {
+  "start": 299.52,
+  "duration": 3.48,
+  "text": "OpenAI?\""
+ },
+ {
+  "start": 300.88,
+  "duration": 3.6,
+  "text": "Peter, however, said, \"Nope, all good.\""
+ },
+ {
+  "start": 303.0,
+  "duration": 4.28,
+  "text": "Letting folks know that he had called"
+ },
+ {
+  "start": 304.48,
+  "duration": 4.0,
+  "text": "Sam, Sam Altman, and checked."
+ },
+ {
+  "start": 307.28,
+  "duration": 2.28,
+  "text": "Now, in retrospect, this would end up"
+ },
+ {
+  "start": 308.48,
+  "duration": 2.64,
+  "text": "being one of the first pieces of"
+ },
+ {
+  "start": 309.56,
+  "duration": 3.359,
+  "text": "evidence of what would happen a couple"
+ },
+ {
+  "start": 311.12,
+  "duration": 4.44,
+  "text": "weeks down the line."
+ },
+ {
+  "start": 312.919,
+  "duration": 5.041,
+  "text": "From there, interest in Open Claw just"
+ },
+ {
+  "start": 315.56,
+  "duration": 3.64,
+  "text": "absolutely exploded."
+ },
+ {
+  "start": 317.96,
+  "duration": 2.6,
+  "text": "Millions of people checked it out,"
+ },
+ {
+  "start": 319.2,
+  "duration": 3.36,
+  "text": "hundreds of thousands started building"
+ },
+ {
+  "start": 320.56,
+  "duration": 4.52,
+  "text": "agents, Mac minis were sold out in many"
+ },
+ {
+  "start": 322.56,
+  "duration": 4.12,
+  "text": "places, and we had a true phenomenon on"
+ },
+ {
+  "start": 325.08,
+  "duration": 2.64,
+  "text": "our hands."
+ },
+ {
+  "start": 326.68,
+  "duration": 2.64,
+  "text": "At the end of last week, Peter"
+ },
+ {
+  "start": 327.72,
+  "duration": 3.56,
+  "text": "Steinberger appeared on the Lex Fridman"
+ },
+ {
+  "start": 329.32,
+  "duration": 3.92,
+  "text": "podcast. And in the more than 3-hour"
+ },
+ {
+  "start": 331.28,
+  "duration": 3.4,
+  "text": "conversation, they talked explicitly"
+ },
+ {
+  "start": 333.24,
+  "duration": 3.4,
+  "text": "about acquisition offers that had come"
+ },
+ {
+  "start": 334.68,
+  "duration": 3.239,
+  "text": "in from OpenAI and Meta."
+ },
+ {
+  "start": 336.64,
+  "duration": 2.96,
+  "text": "To some, it seemed like it was pretty"
+ },
+ {
+  "start": 337.919,
+  "duration": 3.481,
+  "text": "inevitable that Peter was going to join"
+ },
+ {
+  "start": 339.6,
+  "duration": 3.28,
+  "text": "up with one of these companies."
+ },
+ {
+  "start": 341.4,
+  "duration": 3.6,
+  "text": "After listening to the show, Chris Bader"
+ },
+ {
+  "start": 342.88,
+  "duration": 3.88,
+  "text": "wrote, \"Wow, Peter Steinberger losing 10"
+ },
+ {
+  "start": 345.0,
+  "duration": 4.12,
+  "text": "to 20k a month on Open Claw and set"
+ },
+ {
+  "start": 346.76,
+  "duration": 4.08,
+  "text": "partner with either OpenAI or Meta. Very"
+ },
+ {
+  "start": 349.12,
+  "duration": 3.28,
+  "text": "mixed feelings."
+ },
+ {
+  "start": 350.84,
+  "duration": 3.0,
+  "text": "When Beth Bezos said, \"Why can't he just"
+ },
+ {
+  "start": 352.4,
+  "duration": 2.68,
+  "text": "raise a seed round? He could crowdfund a"
+ },
+ {
+  "start": 353.84,
+  "duration": 3.0,
+  "text": "hundred million.\""
+ },
+ {
+  "start": 355.08,
+  "duration": 3.48,
+  "text": "Chris responded, \"Per the Lex interview"
+ },
+ {
+  "start": 356.84,
+  "duration": 3.76,
+  "text": "last night, he said he had offers from"
+ },
+ {
+  "start": 358.56,
+  "duration": 4.6,
+  "text": "all the big VCs. Doesn't want to be a"
+ },
+ {
+  "start": 360.6,
+  "duration": 4.0,
+  "text": "CEO because he's been there, done that."
+ },
+ {
+  "start": 363.16,
+  "duration": 3.84,
+  "text": "He's never worked at a big company and"
+ },
+ {
+  "start": 364.6,
+  "duration": 3.44,
+  "text": "wants to have that experience.\""
+ },
+ {
+  "start": 367.0,
+  "duration": 3.04,
+  "text": "Now, from the standpoint of the"
+ },
+ {
+  "start": 368.04,
+  "duration": 4.04,
+  "text": "potential acquirers, it was pretty"
+ },
+ {
+  "start": 370.04,
+  "duration": 3.8,
+  "text": "obvious why they would be interested."
+ },
+ {
+  "start": 372.08,
+  "duration": 4.0,
+  "text": "Daniel Fox showed a chart of third-party"
+ },
+ {
+  "start": 373.84,
+  "duration": 4.12,
+  "text": "app development velocity by platform 60"
+ },
+ {
+  "start": 376.08,
+  "duration": 4.2,
+  "text": "days after launch, and Open Claw was"
+ },
+ {
+  "start": 377.96,
+  "duration": 4.84,
+  "text": "ahead of everything from Android to iOS"
+ },
+ {
+  "start": 380.28,
+  "duration": 4.36,
+  "text": "to Facebook to you name it. On the same"
+ },
+ {
+  "start": 382.8,
+  "duration": 3.4,
+  "text": "day the podcast with Lex came out,"
+ },
+ {
+  "start": 384.64,
+  "duration": 4.24,
+  "text": "Yuchen Chin showed a chart of the"
+ },
+ {
+  "start": 386.2,
+  "duration": 4.719,
+  "text": "extreme growth in GitHub stars, writing,"
+ },
+ {
+  "start": 388.88,
+  "duration": 4.56,
+  "text": "\"Open Claw passing VS Code in GitHub"
+ },
+ {
+  "start": 390.919,
+  "duration": 5.881,
+  "text": "stars, 2Xing PyTorch, and 3Xing Claude"
+ },
+ {
+  "start": 393.44,
+  "duration": 4.76,
+  "text": "Code was not on my 2026 bingo card.\""
+ },
+ {
+  "start": 396.8,
+  "duration": 2.64,
+  "text": "Peter Steinberger might have actually"
+ },
+ {
+  "start": 398.2,
+  "duration": 3.2,
+  "text": "built the first one-person"
+ },
+ {
+  "start": 399.44,
+  "duration": 3.96,
+  "text": "billion-dollar company staffed entirely"
+ },
+ {
+  "start": 401.4,
+  "duration": 3.36,
+  "text": "by AI agents."
+ },
+ {
+  "start": 403.4,
+  "duration": 3.4,
+  "text": "Now, for some after that episode with"
+ },
+ {
+  "start": 404.76,
+  "duration": 3.4,
+  "text": "Lex, it felt kind of inevitable that at"
+ },
+ {
+  "start": 406.8,
+  "duration": 3.36,
+  "text": "least Peter himself was going to make"
+ },
+ {
+  "start": 408.16,
+  "duration": 3.92,
+  "text": "some big move. And that move was"
+ },
+ {
+  "start": 410.16,
+  "duration": 3.6,
+  "text": "ultimately announced on Sunday night"
+ },
+ {
+  "start": 412.08,
+  "duration": 3.68,
+  "text": "when Sam Altman tweeted, \"Peter"
+ },
+ {
+  "start": 413.76,
+  "duration": 4.0,
+  "text": "Steinberger is joining OpenAI to drive"
+ },
+ {
+  "start": 415.76,
+  "duration": 3.48,
+  "text": "the next generation of personal agents."
+ },
+ {
+  "start": 417.76,
+  "duration": 2.96,
+  "text": "He is a genius with a lot of amazing"
+ },
+ {
+  "start": 419.24,
+  "duration": 2.96,
+  "text": "ideas about the future of very smart"
+ },
+ {
+  "start": 420.72,
+  "duration": 3.52,
+  "text": "agents interacting with each other to do"
+ },
+ {
+  "start": 422.2,
+  "duration": 3.24,
+  "text": "very useful things for people. We expect"
+ },
+ {
+  "start": 424.24,
+  "duration": 3.44,
+  "text": "this will quickly become core to our"
+ },
+ {
+  "start": 425.44,
+  "duration": 3.56,
+  "text": "product offerings. Open Claw will live"
+ },
+ {
+  "start": 427.68,
+  "duration": 3.04,
+  "text": "in a foundation as an open-source"
+ },
+ {
+  "start": 429.0,
+  "duration": 3.52,
+  "text": "project that OpenAI will continue to"
+ },
+ {
+  "start": 430.72,
+  "duration": 3.36,
+  "text": "support. The future is going to be"
+ },
+ {
+  "start": 432.52,
+  "duration": 3.399,
+  "text": "extremely multi-agent, and it's"
+ },
+ {
+  "start": 434.08,
+  "duration": 3.6,
+  "text": "important to us to support open source"
+ },
+ {
+  "start": 435.919,
+  "duration": 3.641,
+  "text": "as part of that.\""
+ },
+ {
+  "start": 437.68,
+  "duration": 3.72,
+  "text": "Peter also wrote a post about the move"
+ },
+ {
+  "start": 439.56,
+  "duration": 4.08,
+  "text": "called Open Claw OpenAI in the future."
+ },
+ {
+  "start": 441.4,
+  "duration": 4.08,
+  "text": "He said, \"TLDR, I'm joining OpenAI to"
+ },
+ {
+  "start": 443.64,
+  "duration": 3.52,
+  "text": "work on bringing agents to everyone."
+ },
+ {
+  "start": 445.48,
+  "duration": 4.28,
+  "text": "Open Claw will move to a foundation and"
+ },
+ {
+  "start": 447.16,
+  "duration": 4.24,
+  "text": "stay open and independent.\" Peter wrote,"
+ },
+ {
+  "start": 449.76,
+  "duration": 2.96,
+  "text": "\"The last month was a whirlwind. Never"
+ },
+ {
+  "start": 451.4,
+  "duration": 3.4,
+  "text": "would I have expected that my playground"
+ },
+ {
+  "start": 452.72,
+  "duration": 3.56,
+  "text": "project would create such waves. The"
+ },
+ {
+  "start": 454.8,
+  "duration": 2.8,
+  "text": "internet got weird again, and it's been"
+ },
+ {
+  "start": 456.28,
+  "duration": 2.48,
+  "text": "incredibly fun to see how my work"
+ },
+ {
+  "start": 457.6,
+  "duration": 3.04,
+  "text": "inspired so many people around the"
+ },
+ {
+  "start": 458.76,
+  "duration": 3.48,
+  "text": "world. There's an endless array of"
+ },
+ {
+  "start": 460.64,
+  "duration": 2.8,
+  "text": "possibilities that opened up for me."
+ },
+ {
+  "start": 462.24,
+  "duration": 2.96,
+  "text": "Countless people trying to push me into"
+ },
+ {
+  "start": 463.44,
+  "duration": 3.0,
+  "text": "various directions, giving me advice,"
+ },
+ {
+  "start": 465.2,
+  "duration": 2.32,
+  "text": "asking how they can invest or what I"
+ },
+ {
+  "start": 466.44,
+  "duration": 2.36,
+  "text": "will do."
+ },
+ {
+  "start": 467.52,
+  "duration": 2.84,
+  "text": "Saying it's overwhelming is an"
+ },
+ {
+  "start": 468.8,
+  "duration": 3.68,
+  "text": "understatement."
+ },
+ {
+  "start": 470.36,
+  "duration": 4.28,
+  "text": "When I started exploring AI, my goal was"
+ },
+ {
+  "start": 472.48,
+  "duration": 3.64,
+  "text": "to have fun and inspire people. And here"
+ },
+ {
+  "start": 474.64,
+  "duration": 2.6,
+  "text": "we are, the lobster is taking over the"
+ },
+ {
+  "start": 476.12,
+  "duration": 2.64,
+  "text": "world."
+ },
+ {
+  "start": 477.24,
+  "duration": 3.48,
+  "text": "My next mission is to build an agent"
+ },
+ {
+  "start": 478.76,
+  "duration": 3.36,
+  "text": "that even my mom can use. That will need"
+ },
+ {
+  "start": 480.72,
+  "duration": 2.88,
+  "text": "a much broader change, a lot more"
+ },
+ {
+  "start": 482.12,
+  "duration": 2.92,
+  "text": "thought on how to do it safely, and"
+ },
+ {
+  "start": 483.6,
+  "duration": 2.56,
+  "text": "access to the very latest models and"
+ },
+ {
+  "start": 485.04,
+  "duration": 3.24,
+  "text": "research."
+ },
+ {
+  "start": 486.16,
+  "duration": 4.28,
+  "text": "Yes, I could totally see how Open Claw"
+ },
+ {
+  "start": 488.28,
+  "duration": 4.0,
+  "text": "could become a huge company. And no,"
+ },
+ {
+  "start": 490.44,
+  "duration": 3.28,
+  "text": "it's not really exciting for me. I'm a"
+ },
+ {
+  "start": 492.28,
+  "duration": 3.12,
+  "text": "builder at heart. I did the whole"
+ },
+ {
+  "start": 493.72,
+  "duration": 3.16,
+  "text": "creating a company game already, poured"
+ },
+ {
+  "start": 495.4,
+  "duration": 3.32,
+  "text": "13 years of my life into it, and learned"
+ },
+ {
+  "start": 496.88,
+  "duration": 4.039,
+  "text": "a lot. What I want is to change the"
+ },
+ {
+  "start": 498.72,
+  "duration": 3.92,
+  "text": "world, not build a large company. And"
+ },
+ {
+  "start": 500.919,
+  "duration": 3.481,
+  "text": "teaming up with OpenAI is the fastest"
+ },
+ {
+  "start": 502.64,
+  "duration": 3.04,
+  "text": "way to bring this to everyone."
+ },
+ {
+  "start": 504.4,
+  "duration": 2.8,
+  "text": "It's always been important to me that"
+ },
+ {
+  "start": 505.68,
+  "duration": 3.32,
+  "text": "Open Claw stays open source and given"
+ },
+ {
+  "start": 507.2,
+  "duration": 3.28,
+  "text": "the freedom to flourish. Ultimately, I"
+ },
+ {
+  "start": 509.0,
+  "duration": 3.08,
+  "text": "felt OpenAI was the best place to"
+ },
+ {
+  "start": 510.48,
+  "duration": 3.239,
+  "text": "continue pushing on my vision and expand"
+ },
+ {
+  "start": 512.08,
+  "duration": 3.28,
+  "text": "its reach. The more I talked with the"
+ },
+ {
+  "start": 513.719,
+  "duration": 3.281,
+  "text": "people there, the clearer it became that"
+ },
+ {
+  "start": 515.36,
+  "duration": 3.119,
+  "text": "we both share the same vision. The"
+ },
+ {
+  "start": 517.0,
+  "duration": 3.32,
+  "text": "community around Open Claw is something"
+ },
+ {
+  "start": 518.479,
+  "duration": 3.321,
+  "text": "magical, and OpenAI has made strong"
+ },
+ {
+  "start": 520.32,
+  "duration": 3.0,
+  "text": "commitments to enable me to dedicate my"
+ },
+ {
+  "start": 521.8,
+  "duration": 3.36,
+  "text": "time to it, and already sponsors the"
+ },
+ {
+  "start": 523.32,
+  "duration": 3.04,
+  "text": "project. To get this into a proper"
+ },
+ {
+  "start": 525.16,
+  "duration": 2.84,
+  "text": "structure, I'm working on making it a"
+ },
+ {
+  "start": 526.36,
+  "duration": 3.2,
+  "text": "foundation. It will stay a place for"
+ },
+ {
+  "start": 528.0,
+  "duration": 3.16,
+  "text": "thinkers, hackers, and people that want"
+ },
+ {
+  "start": 529.56,
+  "duration": 2.76,
+  "text": "a way to own their data, with the goal"
+ },
+ {
+  "start": 531.16,
+  "duration": 3.72,
+  "text": "of supporting even more models and"
+ },
+ {
+  "start": 532.32,
+  "duration": 4.48,
+  "text": "companies. Personally, I'm super excited"
+ },
+ {
+  "start": 534.88,
+  "duration": 3.28,
+  "text": "to join OpenAI, be part of the frontier"
+ },
+ {
+  "start": 536.8,
+  "duration": 3.44,
+  "text": "of AI research and development, and"
+ },
+ {
+  "start": 538.16,
+  "duration": 4.52,
+  "text": "continue building with all of you."
+ },
+ {
+  "start": 540.24,
+  "duration": 4.52,
+  "text": "The claw is the law."
+ },
+ {
+  "start": 542.68,
+  "duration": 4.52,
+  "text": "People were not surprised, but still"
+ },
+ {
+  "start": 544.76,
+  "duration": 4.16,
+  "text": "gobsmacked. Greg Eisenberg wrote, \"Peter"
+ },
+ {
+  "start": 547.2,
+  "duration": 5.24,
+  "text": "published the ClaudeBot project on"
+ },
+ {
+  "start": 548.92,
+  "duration": 5.48,
+  "text": "GitHub November 25th, 2025, 82 days ago."
+ },
+ {
+  "start": 552.44,
+  "duration": 3.12,
+  "text": "Is this the first one-person $1 billion"
+ },
+ {
+  "start": 554.4,
+  "duration": 2.48,
+  "text": "company?\""
+ },
+ {
+  "start": 555.56,
+  "duration": 2.88,
+  "text": "And indeed, a lot of the speculation"
+ },
+ {
+  "start": 556.88,
+  "duration": 3.84,
+  "text": "subsequent to the announcement was"
+ },
+ {
+  "start": 558.44,
+  "duration": 3.84,
+  "text": "around how much OpenAI had paid."
+ },
+ {
+  "start": 560.72,
+  "duration": 2.72,
+  "text": "That hasn't been revealed, but most"
+ },
+ {
+  "start": 562.28,
+  "duration": 3.28,
+  "text": "people think they probably parked a"
+ },
+ {
+  "start": 563.44,
+  "duration": 3.08,
+  "text": "truckload of money in front of Peter."
+ },
+ {
+  "start": 565.56,
+  "duration": 3.16,
+  "text": "The other biggest thread in the"
+ },
+ {
+  "start": 566.52,
+  "duration": 4.72,
+  "text": "conversation has been what Andrew Hart"
+ },
+ {
+  "start": 568.72,
+  "duration": 4.16,
+  "text": "called the crazy fumble by Anthropic."
+ },
+ {
+  "start": 571.24,
+  "duration": 3.48,
+  "text": "Hart writes, \"ClaudeBot became the"
+ },
+ {
+  "start": 572.88,
+  "duration": 3.6,
+  "text": "fastest growing AI project of all time,"
+ },
+ {
+  "start": 574.72,
+  "duration": 3.4,
+  "text": "generating nothing but goodwill. And"
+ },
+ {
+  "start": 576.48,
+  "duration": 3.08,
+  "text": "instead of Dario reaching out like Sam"
+ },
+ {
+  "start": 578.12,
+  "duration": 3.28,
+  "text": "and Mark did, they just pressured him"
+ },
+ {
+  "start": 579.56,
+  "duration": 3.72,
+  "text": "with legal threats."
+ },
+ {
+  "start": 581.4,
+  "duration": 3.52,
+  "text": "Nader Dabit writes, \"Maybe the fumble of"
+ },
+ {
+  "start": 583.28,
+  "duration": 3.28,
+  "text": "the decade by Anthropic. The most"
+ },
+ {
+  "start": 584.92,
+  "duration": 3.24,
+  "text": "popular and fastest growing open source"
+ },
+ {
+  "start": 586.56,
+  "duration": 3.4,
+  "text": "project of all time is not only named"
+ },
+ {
+  "start": 588.16,
+  "duration": 3.92,
+  "text": "after you, but most users are power"
+ },
+ {
+  "start": 589.96,
+  "duration": 3.32,
+  "text": "users of your product. Instead of trying"
+ },
+ {
+  "start": 592.08,
+  "duration": 3.0,
+  "text": "to collaborate or work with him, they"
+ },
+ {
+  "start": 593.28,
+  "duration": 3.36,
+  "text": "chose violence.\""
+ },
+ {
+  "start": 595.08,
+  "duration": 3.36,
+  "text": "Others though weren't sure."
+ },
+ {
+  "start": 596.64,
+  "duration": 4.08,
+  "text": "Tmux Vim on Twitter writes, \"What"
+ },
+ {
+  "start": 598.44,
+  "duration": 3.88,
+  "text": "exactly did Anthropic miss out on? A"
+ },
+ {
+  "start": 600.72,
+  "duration": 3.28,
+  "text": "Claude code wrapper that wastes tokens"
+ },
+ {
+  "start": 602.32,
+  "duration": 3.96,
+  "text": "like crazy?\""
+ },
+ {
+  "start": 604.0,
+  "duration": 5.16,
+  "text": "So, what did Anthropic miss out on? And"
+ },
+ {
+  "start": 606.28,
+  "duration": 4.72,
+  "text": "why was this a good move for OpenAI?"
+ },
+ {
+  "start": 609.16,
+  "duration": 3.32,
+  "text": "First of all, let's talk about the idea"
+ },
+ {
+  "start": 611.0,
+  "duration": 3.64,
+  "text": "that other companies could just build"
+ },
+ {
+  "start": 612.48,
+  "duration": 3.68,
+  "text": "the same thing. That Anthropic probably"
+ },
+ {
+  "start": 614.64,
+  "duration": 3.28,
+  "text": "is working on something similar or that"
+ },
+ {
+  "start": 616.16,
+  "duration": 4.04,
+  "text": "they saw it as competitive with Claude"
+ },
+ {
+  "start": 617.92,
+  "duration": 4.4,
+  "text": "Code Core and Claude Co-work."
+ },
+ {
+  "start": 620.2,
+  "duration": 4.16,
+  "text": "History is littered with technologies"
+ },
+ {
+  "start": 622.32,
+  "duration": 3.28,
+  "text": "that were the same or even better, but"
+ },
+ {
+  "start": 624.36,
+  "duration": 2.8,
+  "text": "which ultimately lost out to some"
+ },
+ {
+  "start": 625.6,
+  "duration": 3.16,
+  "text": "competitor, not because of any"
+ },
+ {
+  "start": 627.16,
+  "duration": 4.12,
+  "text": "technology reason, but because they"
+ },
+ {
+  "start": 628.76,
+  "duration": 4.16,
+  "text": "failed to create a Schelling point."
+ },
+ {
+  "start": 631.28,
+  "duration": 3.84,
+  "text": "A Schelling point is a focal point for a"
+ },
+ {
+  "start": 632.92,
+  "duration": 3.24,
+  "text": "community that comes in an uncoordinated"
+ },
+ {
+  "start": 635.12,
+  "duration": 2.44,
+  "text": "way."
+ },
+ {
+  "start": 636.16,
+  "duration": 3.0,
+  "text": "In other words, everyone gravitates and"
+ },
+ {
+  "start": 637.56,
+  "duration": 4.12,
+  "text": "circles around something without having"
+ },
+ {
+  "start": 639.16,
+  "duration": 4.16,
+  "text": "been told or forced by anyone to do so."
+ },
+ {
+  "start": 641.68,
+  "duration": 3.88,
+  "text": "Open Claw very obviously has an"
+ },
+ {
+  "start": 643.32,
+  "duration": 4.24,
+  "text": "unbelievable Schelling point."
+ },
+ {
+  "start": 645.56,
+  "duration": 3.56,
+  "text": "Yes, there are other ways to build"
+ },
+ {
+  "start": 647.56,
+  "duration": 3.68,
+  "text": "agents, but right now the way that"
+ },
+ {
+  "start": 649.12,
+  "duration": 3.08,
+  "text": "everyone is building agents is with Open"
+ },
+ {
+  "start": 651.24,
+  "duration": 2.48,
+  "text": "Claw."
+ },
+ {
+  "start": 652.2,
+  "duration": 3.16,
+  "text": "That absolutely does not mean it will"
+ },
+ {
+  "start": 653.72,
+  "duration": 3.88,
+  "text": "stay that way, nor does it mean that"
+ },
+ {
+  "start": 655.36,
+  "duration": 3.96,
+  "text": "Open Claw is perfect or unassailable."
+ },
+ {
+  "start": 657.6,
+  "duration": 3.239,
+  "text": "But it has an incredible amount of"
+ },
+ {
+  "start": 659.32,
+  "duration": 3.32,
+  "text": "community attention and focus and"
+ },
+ {
+  "start": 660.839,
+  "duration": 3.801,
+  "text": "builder energy right now. And the"
+ },
+ {
+  "start": 662.64,
+  "duration": 4.12,
+  "text": "technological capability set is kind of"
+ },
+ {
+  "start": 664.64,
+  "duration": 3.52,
+  "text": "the least important part."
+ },
+ {
+  "start": 666.76,
+  "duration": 3.52,
+  "text": "I've been working on a follow-up to the"
+ },
+ {
+  "start": 668.16,
+  "duration": 3.84,
+  "text": "AIDB New Year's project as our next free"
+ },
+ {
+  "start": 670.28,
+  "duration": 3.72,
+  "text": "fun self-directed program for a couple"
+ },
+ {
+  "start": 672.0,
+  "duration": 3.32,
+  "text": "weeks now, and I had already been"
+ },
+ {
+  "start": 674.0,
+  "duration": 2.44,
+  "text": "thinking about something for building"
+ },
+ {
+  "start": 675.32,
+  "duration": 2.84,
+  "text": "agents."
+ },
+ {
+  "start": 676.44,
+  "duration": 3.92,
+  "text": "Ultimately, I decided to just focus on"
+ },
+ {
+  "start": 678.16,
+  "duration": 4.32,
+  "text": "Open Claw, and so over the weekend, I"
+ },
+ {
+  "start": 680.36,
+  "duration": 3.6,
+  "text": "built clawcamp.ai."
+ },
+ {
+  "start": 682.48,
+  "duration": 2.96,
+  "text": "It is exactly what it sounds like. It's"
+ },
+ {
+  "start": 683.96,
+  "duration": 3.0,
+  "text": "a free self-directed program and"
+ },
+ {
+  "start": 685.44,
+  "duration": 3.12,
+  "text": "community for people to learn first how"
+ },
+ {
+  "start": 686.96,
+  "duration": 3.56,
+  "text": "to build agents and then how to build a"
+ },
+ {
+  "start": 688.56,
+  "duration": 3.279,
+  "text": "entire agent teams."
+ },
+ {
+  "start": 690.52,
+  "duration": 2.08,
+  "text": "And part of the reason that I decided to"
+ },
+ {
+  "start": 691.839,
+  "duration": 3.001,
+  "text": "just"
+ },
+ {
+  "start": 692.6,
+  "duration": 4.28,
+  "text": "on Open Claw is that shelling point that"
+ },
+ {
+  "start": 694.84,
+  "duration": 3.32,
+  "text": "I was just talking about. Because when"
+ },
+ {
+  "start": 696.88,
+  "duration": 3.52,
+  "text": "you have hundreds of thousands of"
+ },
+ {
+  "start": 698.16,
+  "duration": 3.72,
+  "text": "developers working on something, people"
+ },
+ {
+  "start": 700.4,
+  "duration": 3.6,
+  "text": "don't gravitate to the project just to"
+ },
+ {
+  "start": 701.88,
+  "duration": 3.56,
+  "text": "copy everyone else. They gravitate to"
+ },
+ {
+  "start": 704.0,
+  "duration": 4.12,
+  "text": "that project because the community"
+ },
+ {
+  "start": 705.44,
+  "duration": 5.2,
+  "text": "itself becomes self-reinforcing."
+ },
+ {
+  "start": 708.12,
+  "duration": 4.16,
+  "text": "There are literally hundreds and"
+ },
+ {
+  "start": 710.64,
+  "duration": 3.2,
+  "text": "hundreds of resources out there"
+ },
+ {
+  "start": 712.28,
+  "duration": 3.6,
+  "text": "available for Open Claw that have been"
+ },
+ {
+  "start": 713.84,
+  "duration": 4.28,
+  "text": "spun up and written and recorded in the"
+ },
+ {
+  "start": 715.88,
+  "duration": 4.44,
+  "text": "last couple weeks alone. Every day I"
+ },
+ {
+  "start": 718.12,
+  "duration": 5.12,
+  "text": "find 10 new ones. The Claw Camp"
+ },
+ {
+  "start": 720.32,
+  "duration": 5.04,
+  "text": "resources has of articles to help people"
+ },
+ {
+  "start": 723.24,
+  "duration": 3.8,
+  "text": "get started. And if I chose something"
+ },
+ {
+  "start": 725.36,
+  "duration": 3.92,
+  "text": "that wasn't Open Claw, there wouldn't"
+ },
+ {
+  "start": 727.04,
+  "duration": 3.8,
+  "text": "necessarily be that much information."
+ },
+ {
+  "start": 729.28,
+  "duration": 4.04,
+  "text": "You even have how-to articles that are"
+ },
+ {
+  "start": 730.84,
+  "duration": 4.2,
+  "text": "summarizing other how-to articles. Which"
+ },
+ {
+  "start": 733.32,
+  "duration": 3.96,
+  "text": "year wrote this great one? I've had 20"
+ },
+ {
+  "start": 735.04,
+  "duration": 4.48,
+  "text": "plus Open Claw articles to Opus 46."
+ },
+ {
+  "start": 737.28,
+  "duration": 4.0,
+  "text": "Here's the setup guide it built."
+ },
+ {
+  "start": 739.52,
+  "duration": 3.52,
+  "text": "So, Open Claw itself is very clearly a"
+ },
+ {
+  "start": 741.28,
+  "duration": 2.76,
+  "text": "very valuable project to be associated"
+ },
+ {
+  "start": 743.04,
+  "duration": 1.76,
+  "text": "with."
+ },
+ {
+  "start": 744.04,
+  "duration": 2.8,
+  "text": "There's another point though,"
+ },
+ {
+  "start": 744.8,
+  "duration": 4.28,
+  "text": "specifically for OpenAI, which is that"
+ },
+ {
+  "start": 746.84,
+  "duration": 3.88,
+  "text": "as time has gone on, it is undeniably"
+ },
+ {
+  "start": 749.08,
+  "duration": 3.76,
+  "text": "the case that lots of its co-founders"
+ },
+ {
+  "start": 750.72,
+  "duration": 3.76,
+  "text": "have left. Sam Altman and Greg Brockman"
+ },
+ {
+  "start": 752.84,
+  "duration": 3.56,
+  "text": "are still there, but it doesn't have the"
+ },
+ {
+  "start": 754.48,
+  "duration": 3.96,
+  "text": "big heroes of the developer community"
+ },
+ {
+  "start": 756.4,
+  "duration": 4.28,
+  "text": "like Ilya Sutskever or Andrej Karpathy"
+ },
+ {
+  "start": 758.44,
+  "duration": 4.2,
+  "text": "anymore. Peter Steinberger brings in a"
+ },
+ {
+  "start": 760.68,
+  "duration": 3.12,
+  "text": "new energy and excitement, not just for"
+ },
+ {
+  "start": 762.64,
+  "duration": 3.08,
+  "text": "people outside the company, but for"
+ },
+ {
+  "start": 763.8,
+  "duration": 4.12,
+  "text": "people inside the company. And you can"
+ },
+ {
+  "start": 765.72,
+  "duration": 4.16,
+  "text": "tell from all of the excited posts from"
+ },
+ {
+  "start": 767.92,
+  "duration": 4.36,
+  "text": "OpenAI team members that this is an"
+ },
+ {
+  "start": 769.88,
+  "duration": 4.16,
+  "text": "incredibly invigorating moment right as"
+ },
+ {
+  "start": 772.28,
+  "duration": 4.04,
+  "text": "the company seemingly turns a corner"
+ },
+ {
+  "start": 774.04,
+  "duration": 4.08,
+  "text": "where Codex is really spoken of in the"
+ },
+ {
+  "start": 776.32,
+  "duration": 4.48,
+  "text": "same breath, or for some even above"
+ },
+ {
+  "start": 778.12,
+  "duration": 4.56,
+  "text": "Claude code. For the first time in 2"
+ },
+ {
+  "start": 780.8,
+  "duration": 3.32,
+  "text": "years, Anthropic has a credible"
+ },
+ {
+  "start": 782.68,
+  "duration": 3.64,
+  "text": "competitor when it comes to coding"
+ },
+ {
+  "start": 784.12,
+  "duration": 3.8,
+  "text": "models. And this is a powerful move on"
+ },
+ {
+  "start": 786.32,
+  "duration": 3.84,
+  "text": "that front."
+ },
+ {
+  "start": 787.92,
+  "duration": 3.919,
+  "text": "There's also the obvious point that Sam"
+ },
+ {
+  "start": 790.16,
+  "duration": 3.72,
+  "text": "makes in his own post when he says, \"We"
+ },
+ {
+  "start": 791.839,
+  "duration": 3.481,
+  "text": "expect this.\" In other words, very smart"
+ },
+ {
+  "start": 793.88,
+  "duration": 3.04,
+  "text": "agents interacting with each other to do"
+ },
+ {
+  "start": 795.32,
+  "duration": 3.12,
+  "text": "very useful things for people, will"
+ },
+ {
+  "start": 796.92,
+  "duration": 2.88,
+  "text": "quickly become core to our product"
+ },
+ {
+  "start": 798.44,
+  "duration": 3.12,
+  "text": "offerings."
+ },
+ {
+  "start": 799.8,
+  "duration": 3.32,
+  "text": "Open Claw has for the first time in a"
+ },
+ {
+  "start": 801.56,
+  "duration": 3.96,
+  "text": "couple of years made the promise of"
+ },
+ {
+  "start": 803.12,
+  "duration": 4.4,
+  "text": "agents real, and so of course OpenAI"
+ },
+ {
+  "start": 805.52,
+  "duration": 3.44,
+  "text": "wants access to it."
+ },
+ {
+  "start": 807.52,
+  "duration": 3.88,
+  "text": "But what about the folks who think that"
+ },
+ {
+  "start": 808.96,
+  "duration": 3.64,
+  "text": "this is going to be bad for the project?"
+ },
+ {
+  "start": 811.4,
+  "duration": 2.92,
+  "text": "There are plenty of people who are"
+ },
+ {
+  "start": 812.6,
+  "duration": 4.28,
+  "text": "making jokes that open claw is now"
+ },
+ {
+  "start": 814.32,
+  "duration": 4.28,
+  "text": "closed claw. Raphael Schad writes, \"I"
+ },
+ {
+  "start": 816.88,
+  "duration": 3.6,
+  "text": "bet this causes lots of VC tears and"
+ },
+ {
+  "start": 818.6,
+  "duration": 3.16,
+  "text": "angry open source software folks.\" And"
+ },
+ {
+  "start": 820.48,
+  "duration": 2.4,
+  "text": "there are plenty of folks in and around"
+ },
+ {
+  "start": 821.76,
+  "duration": 2.28,
+  "text": "open source who seem to have that"
+ },
+ {
+  "start": 822.88,
+  "duration": 2.36,
+  "text": "opinion."
+ },
+ {
+  "start": 824.04,
+  "duration": 2.68,
+  "text": "But then there's also more sanguine"
+ },
+ {
+  "start": 825.24,
+  "duration": 3.24,
+  "text": "takes like this one from Simon Smith who"
+ },
+ {
+  "start": 826.72,
+  "duration": 3.36,
+  "text": "writes, \"This is probably the best"
+ },
+ {
+  "start": 828.48,
+  "duration": 4.48,
+  "text": "possible outcome for everyone except"
+ },
+ {
+  "start": 830.08,
+  "duration": 4.08,
+  "text": "Anthropic. Open claw gets support. Peter"
+ },
+ {
+  "start": 832.96,
+  "duration": 3.0,
+  "text": "gets relieved from killing himself"
+ },
+ {
+  "start": 834.16,
+  "duration": 3.12,
+  "text": "trying to manage open claw scaling, and"
+ },
+ {
+  "start": 835.96,
+  "duration": 3.36,
+  "text": "open claw-like capabilities get"
+ },
+ {
+  "start": 837.28,
+  "duration": 4.84,
+  "text": "democratized to the largest chatbot user"
+ },
+ {
+  "start": 839.32,
+  "duration": 4.12,
+  "text": "base. Huge win for open AI.\""
+ },
+ {
+  "start": 842.12,
+  "duration": 2.92,
+  "text": "And also, for those who are worried"
+ },
+ {
+  "start": 843.44,
+  "duration": 3.68,
+  "text": "about what the future of the open claw"
+ },
+ {
+  "start": 845.04,
+  "duration": 3.68,
+  "text": "project holds, how they're going to run"
+ },
+ {
+  "start": 847.12,
+  "duration": 3.36,
+  "text": "the project outside of open AI is"
+ },
+ {
+  "start": 848.72,
+  "duration": 3.12,
+  "text": "starting to come into view."
+ },
+ {
+  "start": 850.48,
+  "duration": 2.68,
+  "text": "Investor and entrepreneur Dave Morin"
+ },
+ {
+  "start": 851.84,
+  "duration": 3.0,
+  "text": "wrote, \"Been working with Peter"
+ },
+ {
+  "start": 853.16,
+  "duration": 3.92,
+  "text": "Steinberger on the open claw foundation"
+ },
+ {
+  "start": 854.84,
+  "duration": 3.56,
+  "text": "structure for weeks. A home for thinkers"
+ },
+ {
+  "start": 857.08,
+  "duration": 3.0,
+  "text": "and hackers and those that want to own"
+ },
+ {
+  "start": 858.4,
+  "duration": 3.44,
+  "text": "their data. Honored to serve as the"
+ },
+ {
+  "start": 860.08,
+  "duration": 3.72,
+  "text": "founding independent board member. This"
+ },
+ {
+  "start": 861.84,
+  "duration": 4.2,
+  "text": "community built something extraordinary."
+ },
+ {
+  "start": 863.8,
+  "duration": 5.6,
+  "text": "Our job is to protect it. Open source"
+ },
+ {
+  "start": 866.04,
+  "duration": 5.52,
+  "text": "forever. Excited to share more soon.\""
+ },
+ {
+  "start": 869.4,
+  "duration": 3.56,
+  "text": "Now, Dave is a serious dude who hasn't"
+ },
+ {
+  "start": 871.56,
+  "duration": 3.32,
+  "text": "chosen to get personally involved in"
+ },
+ {
+  "start": 872.96,
+  "duration": 3.48,
+  "text": "something like this for quite some time."
+ },
+ {
+  "start": 874.88,
+  "duration": 2.84,
+  "text": "And so, I personally am excited to see"
+ },
+ {
+  "start": 876.44,
+  "duration": 3.28,
+  "text": "how they structure the foundation and"
+ },
+ {
+  "start": 877.72,
+  "duration": 4.119,
+  "text": "what they do with it next."
+ },
+ {
+  "start": 879.72,
+  "duration": 4.4,
+  "text": "Ultimately, there is no doubt that this"
+ },
+ {
+  "start": 881.839,
+  "duration": 3.881,
+  "text": "is one of those moments for AI. Ali Kay"
+ },
+ {
+  "start": 884.12,
+  "duration": 3.36,
+  "text": "Miller wrote, \"I advise some of the"
+ },
+ {
+  "start": 885.72,
+  "duration": 3.76,
+  "text": "biggest C-suite folks on AI and I'll say"
+ },
+ {
+  "start": 887.48,
+  "duration": 4.16,
+  "text": "this. Agentic platforms like Claude,"
+ },
+ {
+  "start": 889.48,
+  "duration": 4.16,
+  "text": "Code, Codex, and open claw are the most"
+ },
+ {
+  "start": 891.64,
+  "duration": 4.04,
+  "text": "positive energy I've seen in those rooms"
+ },
+ {
+  "start": 893.64,
+  "duration": 4.12,
+  "text": "since ChatGPT launched."
+ },
+ {
+  "start": 895.68,
+  "duration": 3.76,
+  "text": "Enterprise adoption will be slower than"
+ },
+ {
+  "start": 897.76,
+  "duration": 2.96,
+  "text": "solopreneurs and startups, but these"
+ },
+ {
+  "start": 899.44,
+  "duration": 3.16,
+  "text": "leaders are quickly seeing that there's"
+ },
+ {
+  "start": 900.72,
+  "duration": 3.84,
+  "text": "no ceiling right now.\""
+ },
+ {
+  "start": 902.6,
+  "duration": 3.84,
+  "text": "Kitsy from Tinker Club writes, \"To me,"
+ },
+ {
+  "start": 904.56,
+  "duration": 3.24,
+  "text": "it doesn't matter who owns open claw."
+ },
+ {
+  "start": 906.44,
+  "duration": 4.08,
+  "text": "Claude bot was a concept, a"
+ },
+ {
+  "start": 907.8,
+  "duration": 4.32,
+  "text": "revolutionary idea, a paradigm shift."
+ },
+ {
+  "start": 910.52,
+  "duration": 4.08,
+  "text": "The core of it can be rebuilt in an hour"
+ },
+ {
+  "start": 912.12,
+  "duration": 4.52,
+  "text": "on top of any harness. It inspired me to"
+ },
+ {
+  "start": 914.6,
+  "duration": 4.0,
+  "text": "own my AI assistant, conversations, and"
+ },
+ {
+  "start": 916.64,
+  "duration": 3.32,
+  "text": "memory files. I also went deep into"
+ },
+ {
+  "start": 918.6,
+  "duration": 2.2,
+  "text": "self-hosting and ownership because of"
+ },
+ {
+  "start": 919.96,
+  "duration": 2.6,
+  "text": "it."
+ },
+ {
+  "start": 920.8,
+  "duration": 5.12,
+  "text": "I'm never going back to chatting with"
+ },
+ {
+  "start": 922.56,
+  "duration": 4.8,
+  "text": "GPT or Claude, no matter what."
+ },
+ {
+  "start": 925.92,
+  "duration": 2.92,
+  "text": "From where I'm sitting, we're now"
+ },
+ {
+  "start": 927.36,
+  "duration": 2.48,
+  "text": "entering the exciting next chapter of"
+ },
+ {
+  "start": 928.84,
+  "duration": 3.12,
+  "text": "AI."
+ },
+ {
+  "start": 929.84,
+  "duration": 3.6,
+  "text": "Open Claude has a big stake in it, and I"
+ },
+ {
+  "start": 931.96,
+  "duration": 3.2,
+  "text": "certainly am excited to see if Peter can"
+ },
+ {
+  "start": 933.44,
+  "duration": 3.2,
+  "text": "live up to that mission to make an open"
+ },
+ {
+  "start": 935.16,
+  "duration": 2.8,
+  "text": "Claude that would actually be useful for"
+ },
+ {
+  "start": 936.64,
+  "duration": 2.2,
+  "text": "his mom."
+ },
+ {
+  "start": 937.96,
+  "duration": 2.68,
+  "text": "For now, that is going to do it for"
+ },
+ {
+  "start": 938.84,
+  "duration": 3.48,
+  "text": "today's AI Daily Brief. Appreciate you"
+ },
+ {
+  "start": 940.64,
+  "duration": 5.28,
+  "text": "listening or watching, as always, and"
+ },
+ {
+  "start": 942.32,
+  "duration": 3.6,
+  "text": "until next time, peace."
+ }
+]

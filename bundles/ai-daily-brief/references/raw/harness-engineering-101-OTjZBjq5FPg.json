@@ -1,0 +1,3252 @@
+[
+ {
+  "start": 0.0,
+  "duration": 5.28,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 2.12,
+  "duration": 4.96,
+  "text": "Today, we are digging into a topic that"
+ },
+ {
+  "start": 5.28,
+  "duration": 3.2,
+  "text": "first, you might have heard this term"
+ },
+ {
+  "start": 7.08,
+  "duration": 4.32,
+  "text": "floating around a little bit, but"
+ },
+ {
+  "start": 8.48,
+  "duration": 4.8,
+  "text": "second, even if you haven't, if you are"
+ },
+ {
+  "start": 11.4,
+  "duration": 4.44,
+  "text": "among the subset of the audience that"
+ },
+ {
+  "start": 13.28,
+  "duration": 5.36,
+  "text": "has been dabbling with Claude code or"
+ },
+ {
+  "start": 15.84,
+  "duration": 4.84,
+  "text": "Codex or even using open claw, you have"
+ },
+ {
+  "start": 18.64,
+  "duration": 4.24,
+  "text": "been living in and doing this thing"
+ },
+ {
+  "start": 20.68,
+  "duration": 4.8,
+  "text": "whether you realize it or not. I'm"
+ },
+ {
+  "start": 22.88,
+  "duration": 4.08,
+  "text": "talking about harness engineering. And"
+ },
+ {
+  "start": 25.48,
+  "duration": 4.32,
+  "text": "you might notice that there is kind of a"
+ },
+ {
+  "start": 26.96,
+  "duration": 5.0,
+  "text": "lineage of engineerings that we focus on"
+ },
+ {
+  "start": 29.8,
+  "duration": 4.8,
+  "text": "that have changed over the years in AI."
+ },
+ {
+  "start": 31.96,
+  "duration": 4.56,
+  "text": "In 2023 and 2024, we talked a lot about"
+ },
+ {
+  "start": 34.6,
+  "duration": 4.24,
+  "text": "prompt engineering, the art and the"
+ },
+ {
+  "start": 36.52,
+  "duration": 3.88,
+  "text": "science of finding the right ways to"
+ },
+ {
+  "start": 38.84,
+  "duration": 4.76,
+  "text": "prompt the model to get the results that"
+ },
+ {
+  "start": 40.4,
+  "duration": 4.76,
+  "text": "you wanted. There was so much in prompt"
+ },
+ {
+  "start": 43.6,
+  "duration": 3.12,
+  "text": "engineering that people spent so much"
+ },
+ {
+  "start": 45.16,
+  "duration": 3.2,
+  "text": "time on. Think about the things that"
+ },
+ {
+  "start": 46.72,
+  "duration": 4.36,
+  "text": "everyone used to recommend like getting"
+ },
+ {
+  "start": 48.36,
+  "duration": 4.92,
+  "text": "the model to adopt a persona or later on"
+ },
+ {
+  "start": 51.08,
+  "duration": 4.0,
+  "text": "the whole idea of JSON engineering where"
+ },
+ {
+  "start": 53.28,
+  "duration": 3.64,
+  "text": "people hyper-structured their prompts in"
+ },
+ {
+  "start": 55.08,
+  "duration": 4.0,
+  "text": "the way that an engineer might. Now,"
+ },
+ {
+  "start": 56.92,
+  "duration": 4.56,
+  "text": "last year in 2025, we started to talk a"
+ },
+ {
+  "start": 59.08,
+  "duration": 4.72,
+  "text": "lot more about context engineering. The"
+ },
+ {
+  "start": 61.48,
+  "duration": 4.36,
+  "text": "idea of context engineering was that it"
+ },
+ {
+  "start": 63.8,
+  "duration": 4.2,
+  "text": "turned out that what mattered for AI"
+ },
+ {
+  "start": 65.84,
+  "duration": 4.44,
+  "text": "performance was not just the way you"
+ },
+ {
+  "start": 68.0,
+  "duration": 4.6,
+  "text": "spoke to the model, but what set of"
+ },
+ {
+  "start": 70.28,
+  "duration": 4.6,
+  "text": "information or context that model had"
+ },
+ {
+  "start": 72.6,
+  "duration": 3.8,
+  "text": "access to. Take the example of asking"
+ },
+ {
+  "start": 74.88,
+  "duration": 2.64,
+  "text": "ChatGPT to help you create a marketing"
+ },
+ {
+  "start": 76.4,
+  "duration": 2.92,
+  "text": "campaign."
+ },
+ {
+  "start": 77.52,
+  "duration": 3.48,
+  "text": "One part of getting good results, sure,"
+ },
+ {
+  "start": 79.32,
+  "duration": 3.52,
+  "text": "might be what you prompted for and how"
+ },
+ {
+  "start": 81.0,
+  "duration": 4.84,
+  "text": "you ask it, but obviously it's kind of"
+ },
+ {
+  "start": 82.84,
+  "duration": 4.48,
+  "text": "intuitive that if ChatGPT had access to"
+ },
+ {
+  "start": 85.84,
+  "duration": 3.44,
+  "text": "information about the performance of all"
+ },
+ {
+  "start": 87.32,
+  "duration": 3.52,
+  "text": "your past marketing campaigns, it might"
+ },
+ {
+  "start": 89.28,
+  "duration": 3.76,
+  "text": "be able to be more informed in how it"
+ },
+ {
+  "start": 90.84,
+  "duration": 3.32,
+  "text": "helped you. So, context engineering was"
+ },
+ {
+  "start": 93.04,
+  "duration": 3.08,
+  "text": "all about the way that we brought"
+ },
+ {
+  "start": 94.16,
+  "duration": 4.04,
+  "text": "together different context and gave AI"
+ },
+ {
+  "start": 96.12,
+  "duration": 4.12,
+  "text": "access to it. Now, interestingly,"
+ },
+ {
+  "start": 98.2,
+  "duration": 3.64,
+  "text": "context engineering actually kind of has"
+ },
+ {
+  "start": 100.24,
+  "duration": 3.88,
+  "text": "had divergent meanings for different"
+ },
+ {
+  "start": 101.84,
+  "duration": 4.2,
+  "text": "people. For engineers and developers,"
+ },
+ {
+  "start": 104.12,
+  "duration": 3.72,
+  "text": "context engineering has often been about"
+ },
+ {
+  "start": 106.04,
+  "duration": 3.88,
+  "text": "designing the systems that surround AI"
+ },
+ {
+  "start": 107.84,
+  "duration": 3.76,
+  "text": "and agents in order to better interact"
+ },
+ {
+  "start": 109.92,
+  "duration": 3.32,
+  "text": "with and use context, dealing with"
+ },
+ {
+  "start": 111.6,
+  "duration": 3.52,
+  "text": "problems like persistence and memory and"
+ },
+ {
+  "start": 113.24,
+  "duration": 3.04,
+  "text": "state. in a way, this is kind of a part"
+ },
+ {
+  "start": 115.12,
+  "duration": 3.28,
+  "text": "of what we'll talk about with harness"
+ },
+ {
+  "start": 116.28,
+  "duration": 4.44,
+  "text": "engineering. For lay people, for"
+ },
+ {
+  "start": 118.4,
+  "duration": 3.8,
+  "text": "non-technical users, context engineering"
+ },
+ {
+  "start": 120.72,
+  "duration": 3.4,
+  "text": "has been much more about what's the best"
+ },
+ {
+  "start": 122.2,
+  "duration": 4.36,
+  "text": "way to give AI access to the information"
+ },
+ {
+  "start": 124.12,
+  "duration": 3.88,
+  "text": "it needs to help me do its job."
+ },
+ {
+  "start": 126.56,
+  "duration": 3.199,
+  "text": "Now, it's important to note that while"
+ },
+ {
+  "start": 128.0,
+  "duration": 3.48,
+  "text": "prompt engineering might have decreased"
+ },
+ {
+  "start": 129.759,
+  "duration": 3.241,
+  "text": "a little bit in its importance scale,"
+ },
+ {
+  "start": 131.48,
+  "duration": 3.84,
+  "text": "context engineering is still very much"
+ },
+ {
+  "start": 133.0,
+  "duration": 4.64,
+  "text": "alive and important. In fact, I did that"
+ },
+ {
+  "start": 135.32,
+  "duration": 4.16,
+  "text": "entire episode about a week ago about"
+ },
+ {
+  "start": 137.64,
+  "duration": 4.16,
+  "text": "how to build a personal context"
+ },
+ {
+  "start": 139.48,
+  "duration": 5.0,
+  "text": "portfolio so that you could transport"
+ },
+ {
+  "start": 141.8,
+  "duration": 4.12,
+  "text": "your personal context from LLM to LLM or"
+ },
+ {
+  "start": 144.48,
+  "duration": 3.24,
+  "text": "agent to agent without having to repeat"
+ },
+ {
+  "start": 145.92,
+  "duration": 3.6,
+  "text": "yourself every time."
+ },
+ {
+  "start": 147.72,
+  "duration": 3.48,
+  "text": "But the term de jure right now is"
+ },
+ {
+  "start": 149.52,
+  "duration": 4.04,
+  "text": "harness engineering, which is"
+ },
+ {
+  "start": 151.2,
+  "duration": 4.52,
+  "text": "effectively about everything you put"
+ },
+ {
+  "start": 153.56,
+  "duration": 4.88,
+  "text": "around a model, the systems, the"
+ },
+ {
+  "start": 155.72,
+  "duration": 4.24,
+  "text": "tooling, the access that help it do what"
+ },
+ {
+  "start": 158.44,
+  "duration": 3.56,
+  "text": "it's meant to do."
+ },
+ {
+  "start": 159.96,
+  "duration": 3.12,
+  "text": "And when one starts to look around, you"
+ },
+ {
+  "start": 162.0,
+  "duration": 2.6,
+  "text": "kind of start to see the harness"
+ },
+ {
+  "start": 163.08,
+  "duration": 2.52,
+  "text": "engineering conversation popping up"
+ },
+ {
+  "start": 164.6,
+  "duration": 2.24,
+  "text": "everywhere."
+ },
+ {
+  "start": 165.6,
+  "duration": 3.56,
+  "text": "At the beginning of April, Cursor"
+ },
+ {
+  "start": 166.84,
+  "duration": 3.84,
+  "text": "launched its newest version, Cursor 3."
+ },
+ {
+  "start": 169.16,
+  "duration": 3.16,
+  "text": "In their announcement post, they wrote,"
+ },
+ {
+  "start": 170.68,
+  "duration": 3.76,
+  "text": "\"Software development is changing and so"
+ },
+ {
+  "start": 172.32,
+  "duration": 3.88,
+  "text": "is Cursor. In the last year, we moved"
+ },
+ {
+  "start": 174.44,
+  "duration": 3.88,
+  "text": "from manually editing files to working"
+ },
+ {
+  "start": 176.2,
+  "duration": 3.76,
+  "text": "with agents that write most of our code."
+ },
+ {
+  "start": 178.32,
+  "duration": 3.36,
+  "text": "How we create software will continue to"
+ },
+ {
+  "start": 179.96,
+  "duration": 3.52,
+  "text": "evolve as we enter the third era of"
+ },
+ {
+  "start": 181.68,
+  "duration": 3.12,
+  "text": "software development where fleets of"
+ },
+ {
+  "start": 183.48,
+  "duration": 3.2,
+  "text": "agents work autonomously to ship"
+ },
+ {
+  "start": 184.8,
+  "duration": 3.32,
+  "text": "improvements. We're building towards"
+ },
+ {
+  "start": 186.68,
+  "duration": 3.52,
+  "text": "this future, but there is a lot of work"
+ },
+ {
+  "start": 188.12,
+  "duration": 3.96,
+  "text": "left to make it happen. Engineers are"
+ },
+ {
+  "start": 190.2,
+  "duration": 2.96,
+  "text": "still micromanaging individual agents,"
+ },
+ {
+  "start": 192.08,
+  "duration": 2.76,
+  "text": "trying to keep track of different"
+ },
+ {
+  "start": 193.16,
+  "duration": 3.76,
+  "text": "conversations and jumping between"
+ },
+ {
+  "start": 194.84,
+  "duration": 4.56,
+  "text": "multiple terminals, tools, and windows."
+ },
+ {
+  "start": 196.92,
+  "duration": 4.32,
+  "text": "We're introducing Cursor 3, a unified"
+ },
+ {
+  "start": 199.4,
+  "duration": 4.04,
+  "text": "workspace for building software with"
+ },
+ {
+  "start": 201.24,
+  "duration": 3.96,
+  "text": "agents. The new Cursor interface brings"
+ },
+ {
+  "start": 203.44,
+  "duration": 3.2,
+  "text": "clarity to the work agents produce,"
+ },
+ {
+  "start": 205.2,
+  "duration": 3.0,
+  "text": "pulling you up to a higher level of"
+ },
+ {
+  "start": 206.64,
+  "duration": 3.56,
+  "text": "abstraction with the ability to dig"
+ },
+ {
+  "start": 208.2,
+  "duration": 3.24,
+  "text": "deeper when you want. It's faster,"
+ },
+ {
+  "start": 210.2,
+  "duration": 3.2,
+  "text": "cleaner, and more powerful with a"
+ },
+ {
+  "start": 211.44,
+  "duration": 3.84,
+  "text": "multi-repo layout, seamless handoff"
+ },
+ {
+  "start": 213.4,
+  "duration": 3.64,
+  "text": "between local and cloud agents, and the"
+ },
+ {
+  "start": 215.28,
+  "duration": 4.12,
+  "text": "option to switch back to the Cursor IDE"
+ },
+ {
+  "start": 217.04,
+  "duration": 4.0,
+  "text": "at any time.\" So, all of the features"
+ },
+ {
+  "start": 219.4,
+  "duration": 3.08,
+  "text": "that they then go on to announce, having"
+ },
+ {
+  "start": 221.04,
+  "duration": 3.24,
+  "text": "all of your agents in one place, the"
+ },
+ {
+  "start": 222.48,
+  "duration": 3.6,
+  "text": "ability to run many agents in parallel,"
+ },
+ {
+  "start": 224.28,
+  "duration": 4.32,
+  "text": "new UX for handoff between local and"
+ },
+ {
+  "start": 226.08,
+  "duration": 5.08,
+  "text": "cloud, all of this is the instantiation"
+ },
+ {
+  "start": 228.6,
+  "duration": 4.32,
+  "text": "of harness engineering into a product."
+ },
+ {
+  "start": 231.16,
+  "duration": 3.72,
+  "text": "Even more recently, we got Claude"
+ },
+ {
+  "start": 232.92,
+  "duration": 4.16,
+  "text": "managed agents. In their announcement"
+ },
+ {
+  "start": 234.88,
+  "duration": 4.2,
+  "text": "post, they said explicitly, \"It pairs an"
+ },
+ {
+  "start": 237.08,
+  "duration": 4.08,
+  "text": "agent harness tuned for performance with"
+ },
+ {
+  "start": 239.08,
+  "duration": 3.96,
+  "text": "production infrastructure.\" And in the"
+ },
+ {
+  "start": 241.16,
+  "duration": 3.52,
+  "text": "accompanying blog post, they basically"
+ },
+ {
+  "start": 243.04,
+  "duration": 2.84,
+  "text": "say, \"This is kind of all about"
+ },
+ {
+  "start": 244.68,
+  "duration": 2.72,
+  "text": "harnesses.\""
+ },
+ {
+  "start": 245.88,
+  "duration": 3.08,
+  "text": "The post was called \"Scaling Managed"
+ },
+ {
+  "start": 247.4,
+  "duration": 2.76,
+  "text": "Agents, Decoupling the Brain from the"
+ },
+ {
+  "start": 248.96,
+  "duration": 3.4,
+  "text": "Hands.\""
+ },
+ {
+  "start": 250.16,
+  "duration": 3.6,
+  "text": "Now, of course, in this metaphor, the"
+ },
+ {
+  "start": 252.36,
+  "duration": 2.52,
+  "text": "brain is the model and the hands are the"
+ },
+ {
+  "start": 253.76,
+  "duration": 2.28,
+  "text": "harness."
+ },
+ {
+  "start": 254.88,
+  "duration": 2.68,
+  "text": "\"Harnesses,\" they write, \"encode"
+ },
+ {
+  "start": 256.04,
+  "duration": 4.319,
+  "text": "assumptions that go stale as models"
+ },
+ {
+  "start": 257.56,
+  "duration": 4.68,
+  "text": "improved. Managed agents, then, is built"
+ },
+ {
+  "start": 260.359,
+  "duration": 4.121,
+  "text": "around interfaces that stay stable as"
+ },
+ {
+  "start": 262.24,
+  "duration": 3.92,
+  "text": "harnesses change.\" Now, we'll maybe come"
+ },
+ {
+  "start": 264.48,
+  "duration": 3.6,
+  "text": "back later to some of the specifics of"
+ },
+ {
+  "start": 266.16,
+  "duration": 3.88,
+  "text": "that new product, but again, the point"
+ },
+ {
+  "start": 268.08,
+  "duration": 3.36,
+  "text": "here is that harness engineering is kind"
+ },
+ {
+  "start": 270.04,
+  "duration": 3.0,
+  "text": "of everywhere."
+ },
+ {
+  "start": 271.44,
+  "duration": 3.36,
+  "text": "At the beginning of March, Latent Space"
+ },
+ {
+  "start": 273.04,
+  "duration": 3.6,
+  "text": "dropped a post called \"Is Harness"
+ },
+ {
+  "start": 274.8,
+  "duration": 3.84,
+  "text": "Engineering Real?\" And to provide"
+ },
+ {
+  "start": 276.64,
+  "duration": 3.92,
+  "text": "another analogy, their team references"
+ },
+ {
+  "start": 278.64,
+  "duration": 3.32,
+  "text": "back to when they worked in finance. It"
+ },
+ {
+  "start": 280.56,
+  "duration": 3.36,
+  "text": "doesn't say for sure, but I assume this"
+ },
+ {
+  "start": 281.96,
+  "duration": 3.76,
+  "text": "is Shawn/Swix writing because this was"
+ },
+ {
+  "start": 283.92,
+  "duration": 3.72,
+  "text": "part of his experience set, but whoever"
+ },
+ {
+  "start": 285.72,
+  "duration": 3.64,
+  "text": "it was wrote, \"A common debate in my"
+ },
+ {
+  "start": 287.64,
+  "duration": 4.12,
+  "text": "finance days was about the value of the"
+ },
+ {
+  "start": 289.36,
+  "duration": 4.68,
+  "text": "human versus the value of the seat. If a"
+ },
+ {
+  "start": 291.76,
+  "duration": 4.16,
+  "text": "trader made 3 million in profits, how"
+ },
+ {
+  "start": 294.04,
+  "duration": 3.52,
+  "text": "much of it was because of her skills and"
+ },
+ {
+  "start": 295.92,
+  "duration": 3.92,
+  "text": "how much was because of the position,"
+ },
+ {
+  "start": 297.56,
+  "duration": 3.96,
+  "text": "institution, and brand she is in? And"
+ },
+ {
+  "start": 299.84,
+  "duration": 4.08,
+  "text": "any generally competent human could have"
+ },
+ {
+  "start": 301.52,
+  "duration": 4.16,
+  "text": "made the same results.\" They continue,"
+ },
+ {
+  "start": 303.92,
+  "duration": 4.16,
+  "text": "\"The same debate is currently raging in"
+ },
+ {
+  "start": 305.68,
+  "duration": 4.2,
+  "text": "harness engineering, the system subset"
+ },
+ {
+  "start": 308.08,
+  "duration": 4.28,
+  "text": "of agent engineering, and the main job"
+ },
+ {
+  "start": 309.88,
+  "duration": 4.12,
+  "text": "of agent labs.\" Agent labs, by the way,"
+ },
+ {
+  "start": 312.36,
+  "duration": 3.4,
+  "text": "are how the Latent Space team refers to"
+ },
+ {
+  "start": 314.0,
+  "duration": 2.76,
+  "text": "everyone like Cursor, Cognition, et"
+ },
+ {
+  "start": 315.76,
+  "duration": 2.28,
+  "text": "cetera."
+ },
+ {
+  "start": 316.76,
+  "duration": 4.0,
+  "text": "\"The central tension,\" they continue,"
+ },
+ {
+  "start": 318.04,
+  "duration": 4.12,
+  "text": "\"is between big model and big harness."
+ },
+ {
+  "start": 320.76,
+  "duration": 3.72,
+  "text": "An AI framework founder you all know"
+ },
+ {
+  "start": 322.16,
+  "duration": 4.08,
+  "text": "once confided in me at an OpenAI event,"
+ },
+ {
+  "start": 324.48,
+  "duration": 4.48,
+  "text": "'I'm not sure these guys even want me to"
+ },
+ {
+  "start": 326.24,
+  "duration": 4.28,
+  "text": "exist.'\" To define harness, they write,"
+ },
+ {
+  "start": 328.96,
+  "duration": 3.44,
+  "text": "\"In every engineering discipline, a"
+ },
+ {
+  "start": 330.52,
+  "duration": 3.04,
+  "text": "harness is the same thing, the layer"
+ },
+ {
+  "start": 332.4,
+  "duration": 2.56,
+  "text": "that connects, protects, and"
+ },
+ {
+  "start": 333.56,
+  "duration": 2.88,
+  "text": "orchestrates components without doing"
+ },
+ {
+  "start": 334.96,
+  "duration": 3.4,
+  "text": "the work itself.\""
+ },
+ {
+  "start": 336.44,
+  "duration": 4.48,
+  "text": "They continue, \"Talking with the big"
+ },
+ {
+  "start": 338.36,
+  "duration": 4.76,
+  "text": "model guys, you really see it. Every"
+ },
+ {
+  "start": 340.92,
+  "duration": 4.4,
+  "text": "podcast with Boris Cherny and Cat Wu,"
+ },
+ {
+  "start": 343.12,
+  "duration": 3.88,
+  "text": "the creators of Claude code, emphasize"
+ },
+ {
+  "start": 345.32,
+  "duration": 4.0,
+  "text": "how minimal the harness of Claude code"
+ },
+ {
+  "start": 347.0,
+  "duration": 4.08,
+  "text": "is, meaning their job is mostly letting"
+ },
+ {
+  "start": 349.32,
+  "duration": 3.16,
+  "text": "the model express its full power in the"
+ },
+ {
+  "start": 351.08,
+  "duration": 2.56,
+  "text": "way that only the model maker knows"
+ },
+ {
+  "start": 352.48,
+  "duration": 2.8,
+  "text": "best.\""
+ },
+ {
+  "start": 353.64,
+  "duration": 3.12,
+  "text": "In one interview, Boris said, \"I would"
+ },
+ {
+  "start": 355.28,
+  "duration": 3.84,
+  "text": "like to say there's nothing that secret"
+ },
+ {
+  "start": 356.76,
+  "duration": 3.76,
+  "text": "in the sauce. Generally, our approach is"
+ },
+ {
+  "start": 359.12,
+  "duration": 3.4,
+  "text": "all the secret sauce, it's all in the"
+ },
+ {
+  "start": 360.52,
+  "duration": 3.96,
+  "text": "model. And this is the thinnest possible"
+ },
+ {
+  "start": 362.52,
+  "duration": 4.08,
+  "text": "wrapper over the model. We literally"
+ },
+ {
+  "start": 364.48,
+  "duration": 3.84,
+  "text": "could not build anything more minimal.\""
+ },
+ {
+  "start": 366.6,
+  "duration": 3.68,
+  "text": "Cat added, \"It is very much the simplest"
+ },
+ {
+  "start": 368.32,
+  "duration": 4.4,
+  "text": "thing I think by design.\""
+ },
+ {
+  "start": 370.28,
+  "duration": 4.36,
+  "text": "Noam Brown from OpenAI seems to agree."
+ },
+ {
+  "start": 372.72,
+  "duration": 3.6,
+  "text": "They quote him as saying, \"Before the"
+ },
+ {
+  "start": 374.64,
+  "duration": 2.84,
+  "text": "reasoning models emerged, there was like"
+ },
+ {
+  "start": 376.32,
+  "duration": 2.68,
+  "text": "all of this work that went into"
+ },
+ {
+  "start": 377.48,
+  "duration": 3.44,
+  "text": "engineering agentic systems that made a"
+ },
+ {
+  "start": 379.0,
+  "duration": 3.32,
+  "text": "lot of calls to GPT-4O or these"
+ },
+ {
+  "start": 380.92,
+  "duration": 3.72,
+  "text": "non-reasoning models to get reasoning"
+ },
+ {
+  "start": 382.32,
+  "duration": 3.76,
+  "text": "behavior. And then it turns out we just"
+ },
+ {
+  "start": 384.64,
+  "duration": 3.72,
+  "text": "created reasoning models and you don't"
+ },
+ {
+  "start": 386.08,
+  "duration": 4.4,
+  "text": "need this complex behavior. In fact, in"
+ },
+ {
+  "start": 388.36,
+  "duration": 3.24,
+  "text": "many ways it makes it worse. You just"
+ },
+ {
+  "start": 390.48,
+  "duration": 2.68,
+  "text": "give the reasoning model the same"
+ },
+ {
+  "start": 391.6,
+  "duration": 3.52,
+  "text": "question without any sort of scaffolding"
+ },
+ {
+  "start": 393.16,
+  "duration": 3.32,
+  "text": "and it just does it. And so, people are"
+ },
+ {
+  "start": 395.12,
+  "duration": 2.84,
+  "text": "building scaffolding on top of the"
+ },
+ {
+  "start": 396.48,
+  "duration": 3.16,
+  "text": "reasoning models right now, but I think"
+ },
+ {
+  "start": 397.96,
+  "duration": 3.24,
+  "text": "in many ways these scaffolds will just"
+ },
+ {
+  "start": 399.64,
+  "duration": 4.08,
+  "text": "be replaced by the reasoning models and"
+ },
+ {
+  "start": 401.2,
+  "duration": 3.96,
+  "text": "models in general becoming more capable."
+ },
+ {
+  "start": 403.72,
+  "duration": 3.24,
+  "text": "On the other side,\" says Latent Space,"
+ },
+ {
+  "start": 405.16,
+  "duration": 3.52,
+  "text": "\"are the big harness guys.\""
+ },
+ {
+  "start": 406.96,
+  "duration": 3.84,
+  "text": "Jerry Liu from Llama Index wrote a post"
+ },
+ {
+  "start": 408.68,
+  "duration": 4.04,
+  "text": "on this on X that he titled \"The Model"
+ },
+ {
+  "start": 410.8,
+  "duration": 3.16,
+  "text": "Harness Is Everything.\" He added a"
+ },
+ {
+  "start": 412.72,
+  "duration": 2.92,
+  "text": "picture that sums up his point as"
+ },
+ {
+  "start": 413.96,
+  "duration": 3.56,
+  "text": "saying, \"Agent reasoning is"
+ },
+ {
+  "start": 415.64,
+  "duration": 4.04,
+  "text": "exponentially improving, but models are"
+ },
+ {
+  "start": 417.52,
+  "duration": 3.76,
+  "text": "blank slates. The biggest barrier to AI"
+ },
+ {
+  "start": 419.68,
+  "duration": 3.0,
+  "text": "value is the user's own ability to"
+ },
+ {
+  "start": 421.28,
+  "duration": 3.44,
+  "text": "context and workflow engineer the"
+ },
+ {
+  "start": 422.68,
+  "duration": 3.6,
+  "text": "models. The more complex the business"
+ },
+ {
+  "start": 424.72,
+  "duration": 3.64,
+  "text": "process, the more complex the prompt"
+ },
+ {
+  "start": 426.28,
+  "duration": 3.72,
+  "text": "that users need to define.\""
+ },
+ {
+  "start": 428.36,
+  "duration": 3.12,
+  "text": "Now, where Latent Space comes out is"
+ },
+ {
+  "start": 430.0,
+  "duration": 3.52,
+  "text": "that while they might have some bias"
+ },
+ {
+  "start": 431.48,
+  "duration": 3.28,
+  "text": "towards the big model thesis, actually"
+ },
+ {
+  "start": 433.52,
+  "duration": 2.56,
+  "text": "referencing the bitter lesson that we"
+ },
+ {
+  "start": 434.76,
+  "duration": 3.28,
+  "text": "talked about in episodes a couple of"
+ },
+ {
+  "start": 436.08,
+  "duration": 4.44,
+  "text": "weeks ago, they also acknowledge that"
+ },
+ {
+  "start": 438.04,
+  "duration": 4.52,
+  "text": "harness engineering has real value."
+ },
+ {
+  "start": 440.52,
+  "duration": 4.16,
+  "text": "So, let's dive a little deeper into what"
+ },
+ {
+  "start": 442.56,
+  "duration": 3.32,
+  "text": "harness engineering actually is. And for"
+ },
+ {
+  "start": 444.68,
+  "duration": 3.32,
+  "text": "part of our guide, we're going to use a"
+ },
+ {
+  "start": 445.88,
+  "duration": 3.84,
+  "text": "post from humanlayer.dev from the middle"
+ },
+ {
+  "start": 448.0,
+  "duration": 3.72,
+  "text": "of March called \"Skill Issue, Harness"
+ },
+ {
+  "start": 449.72,
+  "duration": 4.08,
+  "text": "Engineering for Coding Agents.\""
+ },
+ {
+  "start": 451.72,
+  "duration": 3.44,
+  "text": "Author Kyle writes, \"We spent the last"
+ },
+ {
+  "start": 453.8,
+  "duration": 3.28,
+  "text": "year watching coding agents fail in"
+ },
+ {
+  "start": 455.16,
+  "duration": 3.44,
+  "text": "every conceivable way, ignoring"
+ },
+ {
+  "start": 457.08,
+  "duration": 3.04,
+  "text": "instructions, executing dangerous"
+ },
+ {
+  "start": 458.6,
+  "duration": 3.84,
+  "text": "commands unprompted, and going in"
+ },
+ {
+  "start": 460.12,
+  "duration": 4.52,
+  "text": "circles on the simplest of tasks. Every"
+ },
+ {
+  "start": 462.44,
+  "duration": 4.2,
+  "text": "time the instinct was the same, we just"
+ },
+ {
+  "start": 464.64,
+  "duration": 3.04,
+  "text": "need better models, GPT-6 will fix it,"
+ },
+ {
+  "start": 466.64,
+  "duration": 3.36,
+  "text": "we just need better instruction"
+ },
+ {
+  "start": 467.68,
+  "duration": 4.32,
+  "text": "following, it'll work when niche library"
+ },
+ {
+  "start": 470.0,
+  "duration": 3.36,
+  "text": "I'm using is in the training data. But"
+ },
+ {
+  "start": 472.0,
+  "duration": 2.92,
+  "text": "over the course of dozens of projects"
+ },
+ {
+  "start": 473.36,
+  "duration": 3.72,
+  "text": "and hundreds of agent sessions, we kept"
+ },
+ {
+  "start": 474.92,
+  "duration": 3.92,
+  "text": "arriving at the same conclusion. It's"
+ },
+ {
+  "start": 477.08,
+  "duration": 4.36,
+  "text": "not a model problem, it's a"
+ },
+ {
+  "start": 478.84,
+  "duration": 4.24,
+  "text": "configuration problem. Yes, models will"
+ },
+ {
+  "start": 481.44,
+  "duration": 3.68,
+  "text": "get smarter and yes, some existing"
+ },
+ {
+  "start": 483.08,
+  "duration": 3.28,
+  "text": "failure modes will disappear."
+ },
+ {
+  "start": 485.12,
+  "duration": 2.36,
+  "text": "And then because they are smarter, we"
+ },
+ {
+  "start": 486.36,
+  "duration": 2.48,
+  "text": "will give them new problems which are"
+ },
+ {
+  "start": 487.48,
+  "duration": 4.04,
+  "text": "bigger and harder and they will continue"
+ },
+ {
+  "start": 488.84,
+  "duration": 4.52,
+  "text": "to fail in unexpected ways. Unexpected"
+ },
+ {
+  "start": 491.52,
+  "duration": 3.92,
+  "text": "failure modes are a fundamental problem"
+ },
+ {
+  "start": 493.36,
+  "duration": 4.08,
+  "text": "for non-deterministic systems."
+ },
+ {
+  "start": 495.44,
+  "duration": 3.56,
+  "text": "So, instead of praying for GPT-6 for"
+ },
+ {
+  "start": 497.44,
+  "duration": 3.36,
+  "text": "Codex Ultra High Extended to save us"
+ },
+ {
+  "start": 499.0,
+  "duration": 3.32,
+  "text": "all, what if we focused instead on"
+ },
+ {
+  "start": 500.8,
+  "duration": 3.72,
+  "text": "answering the question, how do we get"
+ },
+ {
+  "start": 502.32,
+  "duration": 4.16,
+  "text": "the most out of today's models?\""
+ },
+ {
+  "start": 504.52,
+  "duration": 3.64,
+  "text": "And the next point that Kyle makes is"
+ },
+ {
+  "start": 506.48,
+  "duration": 2.8,
+  "text": "the one that I was saying before, which"
+ },
+ {
+  "start": 508.16,
+  "duration": 2.88,
+  "text": "is that most of us who have been"
+ },
+ {
+  "start": 509.28,
+  "duration": 3.84,
+  "text": "dabbling in these systems, be it open"
+ },
+ {
+  "start": 511.04,
+  "duration": 3.439,
+  "text": "claw or Claude code or Codex, have been"
+ },
+ {
+  "start": 513.12,
+  "duration": 2.96,
+  "text": "doing harness engineering whether we"
+ },
+ {
+  "start": 514.479,
+  "duration": 3.721,
+  "text": "realize it or not."
+ },
+ {
+  "start": 516.08,
+  "duration": 3.24,
+  "text": "He continues, \"There are lots of ways to"
+ },
+ {
+  "start": 518.2,
+  "duration": 3.12,
+  "text": "get better performance out of your"
+ },
+ {
+  "start": 519.32,
+  "duration": 3.56,
+  "text": "coding agent. If you use coding agents"
+ },
+ {
+  "start": 521.32,
+  "duration": 3.12,
+  "text": "for moderately hard tasks, you've"
+ },
+ {
+  "start": 522.88,
+  "duration": 4.84,
+  "text": "probably configured your coding agent a"
+ },
+ {
+  "start": 524.44,
+  "duration": 6.2,
+  "text": "bit. Have you used skills, MCP servers,"
+ },
+ {
+  "start": 527.72,
+  "duration": 5.4,
+  "text": "sub-agents, memory, agents.md files? A"
+ },
+ {
+  "start": 530.64,
+  "duration": 4.36,
+  "text": "coding agent equals AI models plus a"
+ },
+ {
+  "start": 533.12,
+  "duration": 3.4,
+  "text": "harness. These are all technically"
+ },
+ {
+  "start": 535.0,
+  "duration": 2.88,
+  "text": "separate concepts, but they are all part"
+ },
+ {
+  "start": 536.52,
+  "duration": 3.68,
+  "text": "of the coding agent's configuration"
+ },
+ {
+  "start": 537.88,
+  "duration": 4.68,
+  "text": "surface. Basically, what does the model"
+ },
+ {
+  "start": 540.2,
+  "duration": 3.56,
+  "text": "use to interact with its environment?"
+ },
+ {
+  "start": 542.56,
+  "duration": 2.88,
+  "text": "Harness engineering,\" they write,"
+ },
+ {
+  "start": 543.76,
+  "duration": 3.56,
+  "text": "\"describes the practice of leveraging"
+ },
+ {
+  "start": 545.44,
+  "duration": 3.48,
+  "text": "these configuration points to customize"
+ },
+ {
+  "start": 547.32,
+  "duration": 3.48,
+  "text": "and improve your coding agent's output"
+ },
+ {
+  "start": 548.92,
+  "duration": 4.24,
+  "text": "quality and reliability.\""
+ },
+ {
+  "start": 550.8,
+  "duration": 4.28,
+  "text": "They continue by arguing that harness"
+ },
+ {
+  "start": 553.16,
+  "duration": 3.68,
+  "text": "engineering is the subset of context"
+ },
+ {
+  "start": 555.08,
+  "duration": 3.84,
+  "text": "engineering which primarily involves"
+ },
+ {
+  "start": 556.84,
+  "duration": 3.8,
+  "text": "leveraging harness configuration points"
+ },
+ {
+  "start": 558.92,
+  "duration": 4.16,
+  "text": "to carefully manage the context window"
+ },
+ {
+  "start": 560.64,
+  "duration": 4.48,
+  "text": "of coding agents. It answers, \"How do we"
+ },
+ {
+  "start": 563.08,
+  "duration": 3.4,
+  "text": "give our coding agents new capabilities?"
+ },
+ {
+  "start": 565.12,
+  "duration": 3.04,
+  "text": "How do we teach it things about our code"
+ },
+ {
+  "start": 566.48,
+  "duration": 3.36,
+  "text": "base that aren't in the training data?"
+ },
+ {
+  "start": 568.16,
+  "duration": 3.4,
+  "text": "How do we increase task success rates"
+ },
+ {
+  "start": 569.84,
+  "duration": 2.88,
+  "text": "beyond magic prompts?\""
+ },
+ {
+  "start": 571.56,
+  "duration": 3.32,
+  "text": "And one of the things that they point"
+ },
+ {
+  "start": 572.72,
+  "duration": 4.44,
+  "text": "out is that harnesses aren't just one"
+ },
+ {
+  "start": 574.88,
+  "duration": 4.12,
+  "text": "thing. To some extent, harnesses work"
+ },
+ {
+  "start": 577.16,
+  "duration": 3.92,
+  "text": "backwards from what models can't do"
+ },
+ {
+  "start": 579.0,
+  "duration": 3.6,
+  "text": "natively to create some component to"
+ },
+ {
+  "start": 581.08,
+  "duration": 3.8,
+  "text": "solve for that."
+ },
+ {
+  "start": 582.6,
+  "duration": 3.6,
+  "text": "In another post from Viv from LangChain"
+ },
+ {
+  "start": 584.88,
+  "duration": 3.88,
+  "text": "called \"The Anatomy of an Agent"
+ },
+ {
+  "start": 586.2,
+  "duration": 4.4,
+  "text": "Harness,\" Viv added a chart that showed"
+ },
+ {
+  "start": 588.76,
+  "duration": 4.04,
+  "text": "the desired agent behavior versus what"
+ },
+ {
+  "start": 590.6,
+  "duration": 3.72,
+  "text": "the agent adds. For example, the simple"
+ },
+ {
+  "start": 592.8,
+  "duration": 3.6,
+  "text": "one that's a part of every Claude code"
+ },
+ {
+  "start": 594.32,
+  "duration": 3.68,
+  "text": "session, if the desired agent behavior"
+ },
+ {
+  "start": 596.4,
+  "duration": 4.2,
+  "text": "is to write and execute code, the"
+ },
+ {
+  "start": 598.0,
+  "duration": 3.96,
+  "text": "harness adds bash and code execution. If"
+ },
+ {
+  "start": 600.6,
+  "duration": 3.16,
+  "text": "the desired agent behavior is safe"
+ },
+ {
+  "start": 601.96,
+  "duration": 3.52,
+  "text": "execution and default tooling, the"
+ },
+ {
+  "start": 603.76,
+  "duration": 3.76,
+  "text": "harness adds sandboxed environments and"
+ },
+ {
+  "start": 605.48,
+  "duration": 3.24,
+  "text": "tooling. If the desired agent behavior"
+ },
+ {
+  "start": 607.52,
+  "duration": 2.96,
+  "text": "is remembering and accessing new"
+ },
+ {
+  "start": 608.72,
+  "duration": 3.36,
+  "text": "knowledge, the harness is going to need"
+ },
+ {
+  "start": 610.48,
+  "duration": 3.0,
+  "text": "to provide memory files, web search, and"
+ },
+ {
+  "start": 612.08,
+  "duration": 3.36,
+  "text": "MCPs."
+ },
+ {
+  "start": 613.48,
+  "duration": 4.08,
+  "text": "And importantly, when you've heard about"
+ },
+ {
+  "start": 615.44,
+  "duration": 4.48,
+  "text": "all of these techniques like Karpathy's"
+ },
+ {
+  "start": 617.56,
+  "duration": 5.12,
+  "text": "auto research or the Ralph Wigam loops,"
+ },
+ {
+  "start": 619.92,
+  "duration": 4.64,
+  "text": "those are harness additions to get to"
+ },
+ {
+  "start": 622.68,
+  "duration": 3.6,
+  "text": "the desired agent behavior of completing"
+ },
+ {
+  "start": 624.56,
+  "duration": 3.48,
+  "text": "long horizon work."
+ },
+ {
+  "start": 626.28,
+  "duration": 3.2,
+  "text": "They also point out that this is"
+ },
+ {
+  "start": 628.04,
+  "duration": 3.56,
+  "text": "something that the big labs are talking"
+ },
+ {
+  "start": 629.48,
+  "duration": 4.64,
+  "text": "about quite a bit now, too. Back in"
+ },
+ {
+  "start": 631.6,
+  "duration": 4.44,
+  "text": "February, OpenAI dropped a post called"
+ },
+ {
+  "start": 634.12,
+  "duration": 4.16,
+  "text": "harness engineering leveraging Codex in"
+ },
+ {
+  "start": 636.04,
+  "duration": 4.52,
+  "text": "an agent-first world. The place that"
+ },
+ {
+  "start": 638.28,
+  "duration": 3.68,
+  "text": "they start from in this post is the goal"
+ },
+ {
+  "start": 640.56,
+  "duration": 3.12,
+  "text": "of building and shipping an internal"
+ },
+ {
+  "start": 641.96,
+  "duration": 4.0,
+  "text": "beta of a software product with zero"
+ },
+ {
+  "start": 643.68,
+  "duration": 3.6,
+  "text": "lines of manually written code. That has"
+ },
+ {
+  "start": 645.96,
+  "duration": 2.92,
+  "text": "been the context through which they have"
+ },
+ {
+  "start": 647.28,
+  "duration": 3.6,
+  "text": "had to figure out what needed to be part"
+ },
+ {
+  "start": 648.88,
+  "duration": 3.4,
+  "text": "of the harness that they were designing."
+ },
+ {
+  "start": 650.88,
+  "duration": 3.68,
+  "text": "One of the big experiments that they"
+ },
+ {
+  "start": 652.28,
+  "duration": 4.24,
+  "text": "found was effectively that in this new"
+ },
+ {
+  "start": 654.56,
+  "duration": 3.8,
+  "text": "approach to engineering, they had to"
+ },
+ {
+  "start": 656.52,
+  "duration": 3.92,
+  "text": "uncover new ways of giving in the agent"
+ },
+ {
+  "start": 658.36,
+  "duration": 3.24,
+  "text": "progressively more context. This is this"
+ },
+ {
+  "start": 660.44,
+  "duration": 2.28,
+  "text": "idea which you might have heard me talk"
+ },
+ {
+  "start": 661.6,
+  "duration": 2.84,
+  "text": "about before called progressive"
+ },
+ {
+  "start": 662.72,
+  "duration": 3.52,
+  "text": "disclosure, which is a key part of the"
+ },
+ {
+  "start": 664.44,
+  "duration": 3.44,
+  "text": "way that agent skills have been designed"
+ },
+ {
+  "start": 666.24,
+  "duration": 3.96,
+  "text": "where skills that provide context"
+ },
+ {
+  "start": 667.88,
+  "duration": 3.92,
+  "text": "effectively unfold with the agent being"
+ },
+ {
+  "start": 670.2,
+  "duration": 3.0,
+  "text": "able to access the minimum amount of"
+ },
+ {
+  "start": 671.8,
+  "duration": 3.32,
+  "text": "information to know if it needs to go"
+ },
+ {
+  "start": 673.2,
+  "duration": 3.52,
+  "text": "deeper into that skill without having to"
+ },
+ {
+  "start": 675.12,
+  "duration": 3.84,
+  "text": "crowd out its context window with all"
+ },
+ {
+  "start": 676.72,
+  "duration": 4.08,
+  "text": "sorts of unnecessary information."
+ },
+ {
+  "start": 678.96,
+  "duration": 3.84,
+  "text": "The key part of the story, though, is in"
+ },
+ {
+  "start": 680.8,
+  "duration": 4.12,
+  "text": "some of the last lines in the post. They"
+ },
+ {
+  "start": 682.8,
+  "duration": 4.08,
+  "text": "conclude, \"Our most difficult challenge"
+ },
+ {
+  "start": 684.92,
+  "duration": 4.48,
+  "text": "is now center on designing environments,"
+ },
+ {
+  "start": 686.88,
+  "duration": 5.04,
+  "text": "feedback loops, and control systems that"
+ },
+ {
+  "start": 689.4,
+  "duration": 3.84,
+  "text": "help agents accomplish our goal building"
+ },
+ {
+  "start": 691.92,
+  "duration": 3.36,
+  "text": "and maintaining complex reliable"
+ },
+ {
+  "start": 693.24,
+  "duration": 4.32,
+  "text": "software at scale.\" That is a very"
+ },
+ {
+  "start": 695.28,
+  "duration": 3.6,
+  "text": "different proposition than just making a"
+ },
+ {
+  "start": 697.56,
+  "duration": 3.2,
+  "text": "model better."
+ },
+ {
+  "start": 698.88,
+  "duration": 3.84,
+  "text": "Now, as we get more discourse about"
+ },
+ {
+  "start": 700.76,
+  "duration": 3.4,
+  "text": "harness engineering, we also get more"
+ },
+ {
+  "start": 702.72,
+  "duration": 3.92,
+  "text": "maps and guides for what it actually"
+ },
+ {
+  "start": 704.16,
+  "duration": 3.76,
+  "text": "means. In an Anthropic Labs post, for"
+ },
+ {
+  "start": 706.64,
+  "duration": 3.0,
+  "text": "example, they describe the key"
+ },
+ {
+  "start": 707.92,
+  "duration": 3.76,
+  "text": "components of harness as a three-layer"
+ },
+ {
+  "start": 709.64,
+  "duration": 3.88,
+  "text": "architecture. The information layer,"
+ },
+ {
+  "start": 711.68,
+  "duration": 3.6,
+  "text": "which determines what information an"
+ },
+ {
+  "start": 713.52,
+  "duration": 3.96,
+  "text": "agent can see and what capability it can"
+ },
+ {
+  "start": 715.28,
+  "duration": 4.12,
+  "text": "invoke, i.e., memory and context"
+ },
+ {
+  "start": 717.48,
+  "duration": 4.0,
+  "text": "management and tools and skills. An"
+ },
+ {
+  "start": 719.4,
+  "duration": 4.6,
+  "text": "execution layer that determines how work"
+ },
+ {
+  "start": 721.48,
+  "duration": 3.64,
+  "text": "is decomposed, how agents collaborate,"
+ },
+ {
+  "start": 724.0,
+  "duration": 2.64,
+  "text": "and how to recover in the case of"
+ },
+ {
+  "start": 725.12,
+  "duration": 2.88,
+  "text": "failure, which is basically"
+ },
+ {
+  "start": 726.64,
+  "duration": 3.24,
+  "text": "orchestration and coordination and"
+ },
+ {
+  "start": 728.0,
+  "duration": 3.92,
+  "text": "infrastructure and guardrails. And a"
+ },
+ {
+  "start": 729.88,
+  "duration": 3.64,
+  "text": "feedback layer which determines how the"
+ },
+ {
+  "start": 731.92,
+  "duration": 2.76,
+  "text": "system can improve over time, whether"
+ },
+ {
+  "start": 733.52,
+  "duration": 3.16,
+  "text": "the results of the execution are"
+ },
+ {
+  "start": 734.68,
+  "duration": 3.96,
+  "text": "verified, and whether each failure is"
+ },
+ {
+  "start": 736.68,
+  "duration": 3.64,
+  "text": "recorded and transformed. So, that's"
+ },
+ {
+  "start": 738.64,
+  "duration": 3.32,
+  "text": "evaluation and verification and tracing"
+ },
+ {
+  "start": 740.32,
+  "duration": 3.16,
+  "text": "and observability."
+ },
+ {
+  "start": 741.96,
+  "duration": 4.48,
+  "text": "And there is increasing evidence out"
+ },
+ {
+  "start": 743.48,
+  "duration": 4.76,
+  "text": "there of the power of harnesses."
+ },
+ {
+  "start": 746.44,
+  "duration": 3.44,
+  "text": "Blitzcy, who has over the last year been"
+ },
+ {
+  "start": 748.24,
+  "duration": 4.84,
+  "text": "a frequent sponsor and collaborator on"
+ },
+ {
+  "start": 749.88,
+  "duration": 5.32,
+  "text": "the show, recently released a 66.5%"
+ },
+ {
+  "start": 753.08,
+  "duration": 4.4,
+  "text": "performance on SWE-bench Pro. That is"
+ },
+ {
+  "start": 755.2,
+  "duration": 4.0,
+  "text": "much higher than, for example, GPT-5.4's"
+ },
+ {
+  "start": 757.48,
+  "duration": 4.44,
+  "text": "57.7."
+ },
+ {
+  "start": 759.2,
+  "duration": 4.92,
+  "text": "Now, effectively, Blitzcy's whole thesis"
+ },
+ {
+  "start": 761.92,
+  "duration": 4.32,
+  "text": "could be reframed as being that the"
+ },
+ {
+  "start": 764.12,
+  "duration": 3.76,
+  "text": "harness layer, the agent scaffolding,"
+ },
+ {
+  "start": 766.24,
+  "duration": 2.72,
+  "text": "the orchestration, and the context"
+ },
+ {
+  "start": 767.88,
+  "duration": 3.24,
+  "text": "infrastructure wrapped around the"
+ },
+ {
+  "start": 768.96,
+  "duration": 3.48,
+  "text": "foundation models can unlock bigger"
+ },
+ {
+  "start": 771.12,
+  "duration": 2.68,
+  "text": "performance gains than the models"
+ },
+ {
+  "start": 772.44,
+  "duration": 3.04,
+  "text": "themselves."
+ },
+ {
+  "start": 773.8,
+  "duration": 3.24,
+  "text": "One of the key things that they found"
+ },
+ {
+  "start": 775.48,
+  "duration": 3.08,
+  "text": "when auditing their performance versus"
+ },
+ {
+  "start": 777.04,
+  "duration": 4.44,
+  "text": "GPT-5.4"
+ },
+ {
+  "start": 778.56,
+  "duration": 5.2,
+  "text": "is that in many cases GPT-5.4's failures"
+ },
+ {
+  "start": 781.48,
+  "duration": 3.96,
+  "text": "weren't catastrophic. It got close on"
+ },
+ {
+  "start": 783.76,
+  "duration": 3.76,
+  "text": "every problem, but missed intricate"
+ },
+ {
+  "start": 785.44,
+  "duration": 3.72,
+  "text": "details and corner cases."
+ },
+ {
+  "start": 787.52,
+  "duration": 3.319,
+  "text": "When Blitzcy succeeded on those same"
+ },
+ {
+  "start": 789.16,
+  "duration": 3.84,
+  "text": "tasks, it succeeded because its"
+ },
+ {
+  "start": 790.839,
+  "duration": 4.121,
+  "text": "knowledge graph gave its agents deep"
+ },
+ {
+  "start": 793.0,
+  "duration": 4.24,
+  "text": "code base context that a raw model doing"
+ },
+ {
+  "start": 794.96,
+  "duration": 4.0,
+  "text": "a single pass couldn't match."
+ },
+ {
+  "start": 797.24,
+  "duration": 3.4,
+  "text": "LangChain has also recently been writing"
+ },
+ {
+  "start": 798.96,
+  "duration": 3.2,
+  "text": "about how they've been improving agent"
+ },
+ {
+  "start": 800.64,
+  "duration": 2.56,
+  "text": "performance with harness engineering as"
+ },
+ {
+  "start": 802.16,
+  "duration": 2.88,
+  "text": "well."
+ },
+ {
+  "start": 803.2,
+  "duration": 3.639,
+  "text": "Nicolas Charrier thinks that there is"
+ },
+ {
+  "start": 805.04,
+  "duration": 3.2,
+  "text": "some amount of consensus around the"
+ },
+ {
+  "start": 806.839,
+  "duration": 3.801,
+  "text": "power of the harness that is starting to"
+ },
+ {
+  "start": 808.24,
+  "duration": 3.96,
+  "text": "happen. The AI entrepreneur recently"
+ },
+ {
+  "start": 810.64,
+  "duration": 3.36,
+  "text": "wrote a post on X called The Great"
+ },
+ {
+  "start": 812.2,
+  "duration": 4.24,
+  "text": "Convergence, and it plumbs through some"
+ },
+ {
+  "start": 814.0,
+  "duration": 4.12,
+  "text": "similar themes as my episode every AI"
+ },
+ {
+  "start": 816.44,
+  "duration": 4.28,
+  "text": "product is becoming every other AI"
+ },
+ {
+  "start": 818.12,
+  "duration": 4.96,
+  "text": "product, but puts it in the context of"
+ },
+ {
+  "start": 820.72,
+  "duration": 4.24,
+  "text": "the harness. Nicolas writes, \"Over the"
+ },
+ {
+  "start": 823.08,
+  "duration": 3.72,
+  "text": "last year, a strange thing has happened"
+ },
+ {
+  "start": 824.96,
+  "duration": 3.32,
+  "text": "in tech. Very different companies have"
+ },
+ {
+  "start": 826.8,
+  "duration": 2.84,
+  "text": "started moving towards the same product"
+ },
+ {
+  "start": 828.28,
+  "duration": 3.32,
+  "text": "shape, and it feels like everyone is"
+ },
+ {
+  "start": 829.64,
+  "duration": 2.92,
+  "text": "building the same thing.\" Linear"
+ },
+ {
+  "start": 831.6,
+  "duration": 2.68,
+  "text": "announced last week that they're"
+ },
+ {
+  "start": 832.56,
+  "duration": 3.48,
+  "text": "building coding agents. OpenAI is"
+ },
+ {
+  "start": 834.28,
+  "duration": 4.0,
+  "text": "deprecating Sora and focusing entirely"
+ },
+ {
+  "start": 836.04,
+  "duration": 4.12,
+  "text": "on Codex. Anthropic is obviously all in"
+ },
+ {
+  "start": 838.28,
+  "duration": 3.92,
+  "text": "on Claude Code and Co-work. Notion is"
+ },
+ {
+  "start": 840.16,
+  "duration": 3.52,
+  "text": "building agents for work. So are Google,"
+ },
+ {
+  "start": 842.2,
+  "duration": 4.0,
+  "text": "Microsoft, Meta, lovable Retool, and"
+ },
+ {
+  "start": 843.68,
+  "duration": 4.2,
+  "text": "many others. What changed, he writes,"
+ },
+ {
+  "start": 846.2,
+  "duration": 2.88,
+  "text": "\"is not just that models got better,"
+ },
+ {
+  "start": 847.88,
+  "duration": 3.4,
+  "text": "although that's a major part of it"
+ },
+ {
+  "start": 849.08,
+  "duration": 4.04,
+  "text": "working.\" He argues that the important"
+ },
+ {
+  "start": 851.28,
+  "duration": 3.52,
+  "text": "shift is the invention of what he calls"
+ },
+ {
+  "start": 853.12,
+  "duration": 3.44,
+  "text": "the general harness."
+ },
+ {
+  "start": 854.8,
+  "duration": 3.88,
+  "text": "The simple harness architecture diagram"
+ },
+ {
+  "start": 856.56,
+  "duration": 3.96,
+  "text": "that he describes, a user input hits"
+ },
+ {
+  "start": 858.68,
+  "duration": 3.96,
+  "text": "context engineering, which moves to the"
+ },
+ {
+  "start": 860.52,
+  "duration": 4.28,
+  "text": "model, which calls in tools, which"
+ },
+ {
+  "start": 862.64,
+  "duration": 3.64,
+  "text": "access context engineering in a loop"
+ },
+ {
+  "start": 864.8,
+  "duration": 2.76,
+  "text": "until the task result comes out on the"
+ },
+ {
+  "start": 866.28,
+  "duration": 3.32,
+  "text": "other side."
+ },
+ {
+  "start": 867.56,
+  "duration": 3.76,
+  "text": "Nicolas writes, \"Claude Code was a"
+ },
+ {
+  "start": 869.6,
+  "duration": 3.64,
+  "text": "massive breakthrough. Although initially"
+ },
+ {
+  "start": 871.32,
+  "duration": 3.16,
+  "text": "invented for coding use cases, it turns"
+ },
+ {
+  "start": 873.24,
+  "duration": 3.52,
+  "text": "out that a smart looping agent"
+ },
+ {
+  "start": 874.48,
+  "duration": 3.76,
+  "text": "generalizes incredibly well towards any"
+ },
+ {
+  "start": 876.76,
+  "duration": 3.64,
+  "text": "computer-based task if you give it the"
+ },
+ {
+  "start": 878.24,
+  "duration": 3.64,
+  "text": "right tools. So, this new technique"
+ },
+ {
+  "start": 880.4,
+  "duration": 3.8,
+  "text": "emerges and turns out to be a general"
+ },
+ {
+  "start": 881.88,
+  "duration": 4.12,
+  "text": "problem-solving machine. It also scales"
+ },
+ {
+  "start": 884.2,
+  "duration": 3.92,
+  "text": "on a very unique dimension. It can keep"
+ },
+ {
+  "start": 886.0,
+  "duration": 3.64,
+  "text": "running for a long time. It takes the"
+ },
+ {
+  "start": 888.12,
+  "duration": 3.8,
+  "text": "shape of a model harness, a goal, and a"
+ },
+ {
+  "start": 889.64,
+  "duration": 3.8,
+  "text": "set of tools. It runs in a loop calling"
+ },
+ {
+  "start": 891.92,
+  "duration": 4.0,
+  "text": "tools until it stops and produces a"
+ },
+ {
+  "start": 893.44,
+  "duration": 4.6,
+  "text": "result.\" He points out that so many of"
+ },
+ {
+  "start": 895.92,
+  "duration": 3.72,
+  "text": "the new agents that we're seeing all"
+ },
+ {
+  "start": 898.04,
+  "duration": 3.4,
+  "text": "come back to just a harness looping"
+ },
+ {
+  "start": 899.64,
+  "duration": 4.12,
+  "text": "agent architecture with the right tools"
+ },
+ {
+  "start": 901.44,
+  "duration": 4.8,
+  "text": "and context management. Ultimately, he"
+ },
+ {
+  "start": 903.76,
+  "duration": 3.88,
+  "text": "predicts that by the end of 2026, many"
+ },
+ {
+  "start": 906.24,
+  "duration": 3.44,
+  "text": "software companies will look like they"
+ },
+ {
+  "start": 907.64,
+  "duration": 3.6,
+  "text": "are selling the same thing. He writes"
+ },
+ {
+  "start": 909.68,
+  "duration": 3.32,
+  "text": "that it's not because the industry lost"
+ },
+ {
+  "start": 911.24,
+  "duration": 3.24,
+  "text": "imagination, but because the"
+ },
+ {
+  "start": 913.0,
+  "duration": 3.4,
+  "text": "architecture and economics are pushing"
+ },
+ {
+  "start": 914.48,
+  "duration": 3.68,
+  "text": "everyone towards the same destination,"
+ },
+ {
+  "start": 916.4,
+  "duration": 3.6,
+  "text": "self-improving software systems that can"
+ },
+ {
+  "start": 918.16,
+  "duration": 3.72,
+  "text": "take a goal, use tools, and produce"
+ },
+ {
+  "start": 920.0,
+  "duration": 3.64,
+  "text": "business outcomes. The harness, he"
+ },
+ {
+  "start": 921.88,
+  "duration": 2.84,
+  "text": "writes, explains the convergence. The"
+ },
+ {
+  "start": 923.64,
+  "duration": 2.84,
+  "text": "self-improvement explains the"
+ },
+ {
+  "start": 924.72,
+  "duration": 3.56,
+  "text": "acceleration. Once agents can be"
+ },
+ {
+  "start": 926.48,
+  "duration": 3.32,
+  "text": "monitored, evaluated, orchestrated, and"
+ },
+ {
+  "start": 928.28,
+  "duration": 3.32,
+  "text": "improved by changing their own code and"
+ },
+ {
+  "start": 929.8,
+  "duration": 3.08,
+  "text": "context, the companies that own more of"
+ },
+ {
+  "start": 931.6,
+  "duration": 3.479,
+  "text": "the loop will improve faster, and their"
+ },
+ {
+  "start": 932.88,
+  "duration": 4.48,
+  "text": "progress will compound. The winners, he"
+ },
+ {
+  "start": 935.079,
+  "duration": 3.801,
+  "text": "says, will not just have better models."
+ },
+ {
+  "start": 937.36,
+  "duration": 2.96,
+  "text": "They will have distribution, trusted"
+ },
+ {
+  "start": 938.88,
+  "duration": 3.079,
+  "text": "workflow positioning, proprietary"
+ },
+ {
+  "start": 940.32,
+  "duration": 4.08,
+  "text": "context, and the shortest path from"
+ },
+ {
+  "start": 941.959,
+  "duration": 5.12,
+  "text": "observation to improvement. Which brings"
+ },
+ {
+  "start": 944.4,
+  "duration": 4.88,
+  "text": "us back to Anthropic's managed agents."
+ },
+ {
+  "start": 947.079,
+  "duration": 3.361,
+  "text": "Because what they show is that we're now"
+ },
+ {
+  "start": 949.28,
+  "duration": 3.36,
+  "text": "at the point where we're not only"
+ },
+ {
+  "start": 950.44,
+  "duration": 4.0,
+  "text": "recognizing harness engineering, we're"
+ },
+ {
+  "start": 952.64,
+  "duration": 4.72,
+  "text": "starting to build towards inevitable"
+ },
+ {
+  "start": 954.44,
+  "duration": 4.24,
+  "text": "changes in what harness engineering is."
+ },
+ {
+  "start": 957.36,
+  "duration": 3.44,
+  "text": "Remember, the subtitle from their"
+ },
+ {
+  "start": 958.68,
+  "duration": 3.8,
+  "text": "accompanying blog post is, \"Harnesses"
+ },
+ {
+  "start": 960.8,
+  "duration": 4.279,
+  "text": "encode assumptions that go stale as"
+ },
+ {
+  "start": 962.48,
+  "duration": 4.479,
+  "text": "models improve.\" Managed agents is built"
+ },
+ {
+  "start": 965.079,
+  "duration": 3.561,
+  "text": "around interfaces that stay stable as"
+ },
+ {
+  "start": 966.959,
+  "duration": 3.321,
+  "text": "harnesses change."
+ },
+ {
+  "start": 968.64,
+  "duration": 3.28,
+  "text": "Here's how they set it up. A running"
+ },
+ {
+  "start": 970.28,
+  "duration": 3.04,
+  "text": "topic on the engineering blog is how to"
+ },
+ {
+  "start": 971.92,
+  "duration": 3.4,
+  "text": "build effective agents and design"
+ },
+ {
+  "start": 973.32,
+  "duration": 3.68,
+  "text": "harnesses for long-running work. A"
+ },
+ {
+  "start": 975.32,
+  "duration": 3.56,
+  "text": "common thread across this work is that"
+ },
+ {
+  "start": 977.0,
+  "duration": 4.16,
+  "text": "harnesses encode assumptions about what"
+ },
+ {
+  "start": 978.88,
+  "duration": 3.48,
+  "text": "Claude can't do on its own. This then"
+ },
+ {
+  "start": 981.16,
+  "duration": 3.28,
+  "text": "goes back to that idea from the"
+ },
+ {
+  "start": 982.36,
+  "duration": 3.479,
+  "text": "LangChain blog that the harness is about"
+ },
+ {
+  "start": 984.44,
+  "duration": 3.0,
+  "text": "adding things that address a certain"
+ },
+ {
+  "start": 985.839,
+  "duration": 3.041,
+  "text": "desired agent behavior that aren't in"
+ },
+ {
+  "start": 987.44,
+  "duration": 3.92,
+  "text": "the model natively."
+ },
+ {
+  "start": 988.88,
+  "duration": 4.04,
+  "text": "Continuing, Anthropic writes, \"However,"
+ },
+ {
+  "start": 991.36,
+  "duration": 3.2,
+  "text": "those assumptions need to be frequently"
+ },
+ {
+  "start": 992.92,
+  "duration": 4.12,
+  "text": "questioned because they can go stale as"
+ },
+ {
+  "start": 994.56,
+  "duration": 4.16,
+  "text": "models improve. As just one example, in"
+ },
+ {
+  "start": 997.04,
+  "duration": 4.6,
+  "text": "prior work we found that Claude Sonnet"
+ },
+ {
+  "start": 998.72,
+  "duration": 5.2,
+  "text": "4.5 would wrap up tasks prematurely as"
+ },
+ {
+  "start": 1001.64,
+  "duration": 4.0,
+  "text": "it sensed its context limit approaching,"
+ },
+ {
+  "start": 1003.92,
+  "duration": 3.64,
+  "text": "a behavior sometimes called context"
+ },
+ {
+  "start": 1005.64,
+  "duration": 4.0,
+  "text": "anxiety. We addressed this by adding"
+ },
+ {
+  "start": 1007.56,
+  "duration": 3.84,
+  "text": "context resets to the harness, but when"
+ },
+ {
+  "start": 1009.64,
+  "duration": 3.92,
+  "text": "we used the same harness on Claude Opus"
+ },
+ {
+  "start": 1011.4,
+  "duration": 5.439,
+  "text": "4.5, we found that the behavior was"
+ },
+ {
+  "start": 1013.56,
+  "duration": 4.88,
+  "text": "gone. The resets had become dead weight."
+ },
+ {
+  "start": 1016.839,
+  "duration": 4.12,
+  "text": "We expect harnesses to continue"
+ },
+ {
+  "start": 1018.44,
+  "duration": 4.2,
+  "text": "evolving, so we built managed agents, a"
+ },
+ {
+  "start": 1020.959,
+  "duration": 3.201,
+  "text": "hosted service in the Claude platform"
+ },
+ {
+  "start": 1022.64,
+  "duration": 3.68,
+  "text": "that runs long horizon agents on your"
+ },
+ {
+  "start": 1024.16,
+  "duration": 3.799,
+  "text": "behalf through a small set of interfaces"
+ },
+ {
+  "start": 1026.32,
+  "duration": 3.359,
+  "text": "meant to outlast any particular"
+ },
+ {
+  "start": 1027.959,
+  "duration": 4.201,
+  "text": "implementation, including the ones we"
+ },
+ {
+  "start": 1029.679,
+  "duration": 4.121,
+  "text": "run today.\" Basically, they say building"
+ },
+ {
+  "start": 1032.16,
+  "duration": 3.44,
+  "text": "managed agents meant solving an old"
+ },
+ {
+  "start": 1033.8,
+  "duration": 4.44,
+  "text": "problem in computing of how to design a"
+ },
+ {
+  "start": 1035.6,
+  "duration": 4.079,
+  "text": "system for programs as yet unthought of."
+ },
+ {
+  "start": 1038.24,
+  "duration": 3.88,
+  "text": "Another way to put it is that Anthropic"
+ },
+ {
+  "start": 1039.679,
+  "duration": 4.52,
+  "text": "is building a meta harness, a system"
+ },
+ {
+  "start": 1042.12,
+  "duration": 3.68,
+  "text": "that's deliberately unopinionated about"
+ },
+ {
+  "start": 1044.199,
+  "duration": 3.64,
+  "text": "what any specific harness should look"
+ },
+ {
+  "start": 1045.8,
+  "duration": 4.44,
+  "text": "like because they expect harnesses to"
+ },
+ {
+  "start": 1047.839,
+  "duration": 4.161,
+  "text": "keep changing as models improve."
+ },
+ {
+  "start": 1050.24,
+  "duration": 3.88,
+  "text": "Going back to that brains versus hands"
+ },
+ {
+  "start": 1052.0,
+  "duration": 4.4,
+  "text": "metaphor, effectively, Anthropic"
+ },
+ {
+  "start": 1054.12,
+  "duration": 3.84,
+  "text": "separated the agent loop, the brain,"
+ },
+ {
+  "start": 1056.4,
+  "duration": 3.84,
+  "text": "from the execution environment, the"
+ },
+ {
+  "start": 1057.96,
+  "duration": 3.4,
+  "text": "hands or sandbox, and even separated it"
+ },
+ {
+  "start": 1060.24,
+  "duration": 3.52,
+  "text": "from the event log, which is the"
+ },
+ {
+  "start": 1061.36,
+  "duration": 4.56,
+  "text": "session. Each can fail or be replaced"
+ },
+ {
+  "start": 1063.76,
+  "duration": 4.4,
+  "text": "independently. And I think that this has"
+ },
+ {
+  "start": 1065.92,
+  "duration": 4.64,
+  "text": "big implications for the debate that we"
+ },
+ {
+  "start": 1068.16,
+  "duration": 3.84,
+  "text": "started on of big harness versus big"
+ },
+ {
+  "start": 1070.56,
+  "duration": 3.72,
+  "text": "model in the way that Latent Space"
+ },
+ {
+  "start": 1072.0,
+  "duration": 4.8,
+  "text": "framed it. It sort of a little bit"
+ },
+ {
+  "start": 1074.28,
+  "duration": 4.72,
+  "text": "obliterates that debate. Anthropic is"
+ },
+ {
+  "start": 1076.8,
+  "duration": 4.08,
+  "text": "saying, effectively, \"Yes, harness"
+ },
+ {
+  "start": 1079.0,
+  "duration": 2.84,
+  "text": "engineering matters. In fact, it matters"
+ },
+ {
+  "start": 1080.88,
+  "duration": 2.52,
+  "text": "so much that we're building"
+ },
+ {
+  "start": 1081.84,
+  "duration": 4.08,
+  "text": "infrastructure to make harnesses"
+ },
+ {
+  "start": 1083.4,
+  "duration": 4.56,
+  "text": "disposable. The whole point is that any"
+ },
+ {
+  "start": 1085.92,
+  "duration": 3.64,
+  "text": "given harness is temporary. The"
+ },
+ {
+  "start": 1087.96,
+  "duration": 3.76,
+  "text": "discipline is permanent, the specific"
+ },
+ {
+  "start": 1089.56,
+  "duration": 3.72,
+  "text": "implementation is not.\""
+ },
+ {
+  "start": 1091.72,
+  "duration": 4.36,
+  "text": "But let's talk about why any of us"
+ },
+ {
+  "start": 1093.28,
+  "duration": 5.6,
+  "text": "should care. First of all, if you use"
+ },
+ {
+  "start": 1096.08,
+  "duration": 4.599,
+  "text": "Claude Code, Cursor, Codex, or Open"
+ },
+ {
+  "start": 1098.88,
+  "duration": 3.96,
+  "text": "Claw, which is by far the most"
+ },
+ {
+  "start": 1100.679,
+  "duration": 4.801,
+  "text": "successful open-source harness we've had"
+ },
+ {
+  "start": 1102.84,
+  "duration": 4.08,
+  "text": "so far, you are already doing harness"
+ },
+ {
+  "start": 1105.48,
+  "duration": 3.76,
+  "text": "engineering whether you call it that or"
+ },
+ {
+  "start": 1106.92,
+  "duration": 4.32,
+  "text": "not. Every time you write an agents.md"
+ },
+ {
+  "start": 1109.24,
+  "duration": 3.76,
+  "text": "file, structure your repo so the agent"
+ },
+ {
+  "start": 1111.24,
+  "duration": 3.84,
+  "text": "can navigate it, anything like that,"
+ },
+ {
+  "start": 1113.0,
+  "duration": 3.84,
+  "text": "you're building an outer harness."
+ },
+ {
+  "start": 1115.08,
+  "duration": 3.44,
+  "text": "Prigida Bakula actually distinguishes"
+ },
+ {
+  "start": 1116.84,
+  "duration": 3.52,
+  "text": "between the user harness and the outer"
+ },
+ {
+  "start": 1118.52,
+  "duration": 3.399,
+  "text": "harness. Basically, there's the inner"
+ },
+ {
+  "start": 1120.36,
+  "duration": 3.36,
+  "text": "harness, which is built by the builders"
+ },
+ {
+  "start": 1121.919,
+  "duration": 4.361,
+  "text": "of the coding agent, i.e., Anthropic or"
+ },
+ {
+  "start": 1123.72,
+  "duration": 4.76,
+  "text": "OpenAI, and the outer harness, which is"
+ },
+ {
+  "start": 1126.28,
+  "duration": 3.639,
+  "text": "built by you, the user. The outer"
+ },
+ {
+  "start": 1128.48,
+  "duration": 3.0,
+  "text": "harness is what's going to determine"
+ },
+ {
+  "start": 1129.919,
+  "duration": 3.521,
+  "text": "whether the agent produces good work"
+ },
+ {
+  "start": 1131.48,
+  "duration": 4.24,
+  "text": "around your specific code base or your"
+ },
+ {
+  "start": 1133.44,
+  "duration": 3.76,
+  "text": "specific goals. But I would argue that"
+ },
+ {
+  "start": 1135.72,
+  "duration": 3.8,
+  "text": "that is not the only reason to care"
+ },
+ {
+  "start": 1137.2,
+  "duration": 4.36,
+  "text": "about harness engineering. If you're an"
+ },
+ {
+  "start": 1139.52,
+  "duration": 4.52,
+  "text": "enterprise leader, the mental model"
+ },
+ {
+  "start": 1141.56,
+  "duration": 5.04,
+  "text": "matters because it reframes AI adoption"
+ },
+ {
+  "start": 1144.04,
+  "duration": 5.0,
+  "text": "from pick the best model to pick the"
+ },
+ {
+  "start": 1146.6,
+  "duration": 4.88,
+  "text": "best environment for agents to work in."
+ },
+ {
+  "start": 1149.04,
+  "duration": 3.879,
+  "text": "It is a technical capstone on the larger"
+ },
+ {
+  "start": 1151.48,
+  "duration": 4.36,
+  "text": "truth which all enterprises are"
+ },
+ {
+  "start": 1152.919,
+  "duration": 5.041,
+  "text": "realizing that AI success is not about"
+ },
+ {
+  "start": 1155.84,
+  "duration": 4.0,
+  "text": "dropping in a tool and hoping it works,"
+ },
+ {
+  "start": 1157.96,
+  "duration": 4.44,
+  "text": "but about designing a new system in"
+ },
+ {
+  "start": 1159.84,
+  "duration": 4.319,
+  "text": "which the capability set that AI has and"
+ },
+ {
+  "start": 1162.4,
+  "duration": 3.08,
+  "text": "that AI enables among your people can"
+ },
+ {
+  "start": 1164.159,
+  "duration": 2.801,
+  "text": "thrive."
+ },
+ {
+  "start": 1165.48,
+  "duration": 3.199,
+  "text": "One could torture the harness"
+ },
+ {
+  "start": 1166.96,
+  "duration": 3.12,
+  "text": "engineering frame of reference and,"
+ },
+ {
+  "start": 1168.679,
+  "duration": 3.761,
+  "text": "frankly, extrapolate it out to the"
+ },
+ {
+  "start": 1170.08,
+  "duration": 4.4,
+  "text": "entire organizational design need."
+ },
+ {
+  "start": 1172.44,
+  "duration": 3.8,
+  "text": "Simply put, the model and the tools are"
+ },
+ {
+  "start": 1174.48,
+  "duration": 3.52,
+  "text": "necessary but insufficient. The"
+ },
+ {
+  "start": 1176.24,
+  "duration": 3.76,
+  "text": "environment you put them in is going to"
+ },
+ {
+  "start": 1178.0,
+  "duration": 3.96,
+  "text": "determine the output quality."
+ },
+ {
+  "start": 1180.0,
+  "duration": 4.0,
+  "text": "And lastly, if you're just a consumer"
+ },
+ {
+  "start": 1181.96,
+  "duration": 3.56,
+  "text": "watching this, hopefully understanding"
+ },
+ {
+  "start": 1184.0,
+  "duration": 3.28,
+  "text": "harness engineering a little bit better"
+ },
+ {
+  "start": 1185.52,
+  "duration": 3.2,
+  "text": "will go some way to explain why every"
+ },
+ {
+  "start": 1187.28,
+  "duration": 3.92,
+  "text": "product seems to be turning into every"
+ },
+ {
+  "start": 1188.72,
+  "duration": 4.88,
+  "text": "other product. When we understand that"
+ },
+ {
+  "start": 1191.2,
+  "duration": 4.4,
+  "text": "the core loop of models calling tools in"
+ },
+ {
+  "start": 1193.6,
+  "duration": 3.96,
+  "text": "a loop until they are done, actually"
+ },
+ {
+  "start": 1195.6,
+  "duration": 4.0,
+  "text": "turns out to be general purpose, you"
+ },
+ {
+  "start": 1197.56,
+  "duration": 3.56,
+  "text": "understand why Linear is building coding"
+ },
+ {
+  "start": 1199.6,
+  "duration": 2.56,
+  "text": "agents and why Notion is building work"
+ },
+ {
+  "start": 1201.12,
+  "duration": 3.08,
+  "text": "agents and why they're all heading"
+ },
+ {
+  "start": 1202.16,
+  "duration": 3.8,
+  "text": "towards the same place. The harness"
+ },
+ {
+  "start": 1204.2,
+  "duration": 3.16,
+  "text": "enables them to use the models to"
+ },
+ {
+  "start": 1205.96,
+  "duration": 3.64,
+  "text": "accomplish whatever goal they were set"
+ },
+ {
+  "start": 1207.36,
+  "duration": 4.44,
+  "text": "out to do with a process that a pattern"
+ },
+ {
+  "start": 1209.6,
+  "duration": 3.6,
+  "text": "that starts to look really familiar."
+ },
+ {
+  "start": 1211.8,
+  "duration": 2.84,
+  "text": "Anyways guys, hopefully this was a"
+ },
+ {
+  "start": 1213.2,
+  "duration": 3.48,
+  "text": "valuable primer in a term that you're"
+ },
+ {
+  "start": 1214.64,
+  "duration": 3.08,
+  "text": "going to be hearing a lot more of. But"
+ },
+ {
+  "start": 1216.68,
+  "duration": 2.96,
+  "text": "for now, that's going to do it for"
+ },
+ {
+  "start": 1217.72,
+  "duration": 3.6,
+  "text": "today's AI daily brief. Appreciate you"
+ },
+ {
+  "start": 1219.64,
+  "duration": 5.2,
+  "text": "listening or watching as always and"
+ },
+ {
+  "start": 1221.32,
+  "duration": 3.52,
+  "text": "until next time, peace."
+ }
+]

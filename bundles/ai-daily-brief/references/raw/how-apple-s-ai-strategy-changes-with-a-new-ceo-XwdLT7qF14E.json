@@ -1,0 +1,2062 @@
+[
+ {
+  "start": 0.4,
+  "duration": 3.6,
+  "text": "Today, we're discussing Apple's new CEO,"
+ },
+ {
+  "start": 2.32,
+  "duration": 4.24,
+  "text": "and how it might change their AI"
+ },
+ {
+  "start": 4.0,
+  "duration": 5.0,
+  "text": "strategy, plus a bunch of other stories"
+ },
+ {
+  "start": 6.56,
+  "duration": 4.2,
+  "text": "from Big Tech's AI reset."
+ },
+ {
+  "start": 9.0,
+  "duration": 5.04,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 10.76,
+  "duration": 5.12,
+  "text": "Apple has had a weird relationship with"
+ },
+ {
+  "start": 14.04,
+  "duration": 4.28,
+  "text": "AI. For the first part of the"
+ },
+ {
+  "start": 15.88,
+  "duration": 4.48,
+  "text": "post-ChatGPT period, they kind of just"
+ },
+ {
+  "start": 18.32,
+  "duration": 3.44,
+  "text": "did nothing. The leader of their AI"
+ },
+ {
+  "start": 20.36,
+  "duration": 3.4,
+  "text": "efforts, John Giannandrea, was"
+ },
+ {
+  "start": 21.76,
+  "duration": 4.48,
+  "text": "reportedly skeptical of LLMs, and it"
+ },
+ {
+  "start": 23.76,
+  "duration": 4.2,
+  "text": "certainly showed in their non-action."
+ },
+ {
+  "start": 26.24,
+  "duration": 3.12,
+  "text": "Now, eventually, the pressure got too"
+ },
+ {
+  "start": 27.96,
+  "duration": 2.8,
+  "text": "much, and they did announce Apple"
+ },
+ {
+  "start": 29.36,
+  "duration": 4.16,
+  "text": "Intelligence. That was back in the"
+ },
+ {
+  "start": 30.76,
+  "duration": 4.44,
+  "text": "middle of 2024, only to promptly do"
+ },
+ {
+  "start": 33.52,
+  "duration": 3.6,
+  "text": "literally nothing with it, and not even"
+ },
+ {
+  "start": 35.2,
+  "duration": 3.52,
+  "text": "deliver on the most basic features that"
+ },
+ {
+  "start": 37.12,
+  "duration": 3.0,
+  "text": "they had promised, including the one"
+ },
+ {
+  "start": 38.72,
+  "duration": 3.68,
+  "text": "that really everyone wanted, which was"
+ },
+ {
+  "start": 40.12,
+  "duration": 3.92,
+  "text": "just an updated Siri. On and on, time"
+ },
+ {
+  "start": 42.4,
+  "duration": 2.84,
+  "text": "went, these problems didn't get fixed,"
+ },
+ {
+  "start": 44.04,
+  "duration": 3.36,
+  "text": "and people basically were counting them"
+ },
+ {
+  "start": 45.24,
+  "duration": 3.8,
+  "text": "out of the AI race. Then, something"
+ },
+ {
+  "start": 47.4,
+  "duration": 3.48,
+  "text": "interesting happened at the beginning of"
+ },
+ {
+  "start": 49.04,
+  "duration": 3.6,
+  "text": "this year. That was, of course, the"
+ },
+ {
+  "start": 50.88,
+  "duration": 3.56,
+  "text": "emergence of Open Claw, a new"
+ },
+ {
+  "start": 52.64,
+  "duration": 3.84,
+  "text": "open-source harness for agents that"
+ },
+ {
+  "start": 54.44,
+  "duration": 3.72,
+  "text": "really encapsulated the shift to the"
+ },
+ {
+  "start": 56.48,
+  "duration": 3.92,
+  "text": "agentic era that we've experienced in"
+ },
+ {
+  "start": 58.16,
+  "duration": 4.48,
+  "text": "2026. Now, even though it was not a"
+ },
+ {
+  "start": 60.4,
+  "duration": 4.439,
+  "text": "requirement, a huge number of people"
+ },
+ {
+  "start": 62.64,
+  "duration": 3.88,
+  "text": "raced out to get dedicated hardware for"
+ },
+ {
+  "start": 64.839,
+  "duration": 4.121,
+  "text": "their Open Claws, and of course, the"
+ },
+ {
+  "start": 66.52,
+  "duration": 4.2,
+  "text": "device of choice was the Mac Mini. So"
+ },
+ {
+  "start": 68.96,
+  "duration": 4.2,
+  "text": "much so that it led to the Mac Mini"
+ },
+ {
+  "start": 70.72,
+  "duration": 4.56,
+  "text": "being sold out in stores everywhere, all"
+ },
+ {
+  "start": 73.16,
+  "duration": 4.44,
+  "text": "around the country. On top of that,"
+ },
+ {
+  "start": 75.28,
+  "duration": 5.2,
+  "text": "every time some new feature came out,"
+ },
+ {
+  "start": 77.6,
+  "duration": 5.56,
+  "text": "Claw Desktop, Codex computer use, it's"
+ },
+ {
+  "start": 80.48,
+  "duration": 4.84,
+  "text": "always for Apple hardware. Max Weinbach"
+ },
+ {
+  "start": 83.16,
+  "duration": 3.16,
+  "text": "recently wrote, \"If you don't have a Mac"
+ },
+ {
+  "start": 85.32,
+  "duration": 2.84,
+  "text": "and are trying to keep up with the"
+ },
+ {
+  "start": 86.32,
+  "duration": 3.92,
+  "text": "cutting-edge AI, you literally can't."
+ },
+ {
+  "start": 88.16,
+  "duration": 4.16,
+  "text": "Everything is Mac-only or Mac-first."
+ },
+ {
+  "start": 90.24,
+  "duration": 3.44,
+  "text": "This is a huge deal. Leading AI products"
+ },
+ {
+  "start": 92.32,
+  "duration": 2.96,
+  "text": "are essentially built for Mac, with"
+ },
+ {
+  "start": 93.68,
+  "duration": 3.96,
+  "text": "everything else being an afterthought."
+ },
+ {
+  "start": 95.28,
+  "duration": 4.08,
+  "text": "This is significant. What's more, as"
+ },
+ {
+  "start": 97.64,
+  "duration": 3.56,
+  "text": "people started to become skeptical of"
+ },
+ {
+  "start": 99.36,
+  "duration": 3.48,
+  "text": "the hardware build-out that's going on,"
+ },
+ {
+  "start": 101.2,
+  "duration": 3.32,
+  "text": "Apple's complete non-participation in"
+ },
+ {
+  "start": 102.84,
+  "duration": 3.24,
+  "text": "that build-out started to seem like an"
+ },
+ {
+  "start": 104.52,
+  "duration": 4.48,
+  "text": "act of genius, rather than an act of"
+ },
+ {
+  "start": 106.08,
+  "duration": 4.44,
+  "text": "omission.\" AI commentator Ejaz wrote,"
+ },
+ {
+  "start": 109.0,
+  "duration": 4.0,
+  "text": "\"Apple really nailed AI by doing"
+ },
+ {
+  "start": 110.52,
+  "duration": 4.0,
+  "text": "nothing, lol. 135 billion in the bank,"
+ },
+ {
+  "start": 113.0,
+  "duration": 3.24,
+  "text": "stole Google's model for a measly 1"
+ },
+ {
+  "start": 114.52,
+  "duration": 3.0,
+  "text": "billion.\" By which he's talking about"
+ },
+ {
+  "start": 116.24,
+  "duration": 2.72,
+  "text": "the fact that Apple announced this year"
+ },
+ {
+  "start": 117.52,
+  "duration": 3.64,
+  "text": "that they would be using Gemini to power"
+ },
+ {
+  "start": 118.96,
+  "duration": 3.52,
+  "text": "Siri, now forcing competitors to plug"
+ },
+ {
+  "start": 121.16,
+  "duration": 4.0,
+  "text": "their models into Siri if they want to"
+ },
+ {
+  "start": 122.48,
+  "duration": 5.2,
+  "text": "access 2.5 billion Apple users. Patience"
+ },
+ {
+  "start": 125.16,
+  "duration": 4.4,
+  "text": "or laziness paid off massively. Chicago"
+ },
+ {
+  "start": 127.68,
+  "duration": 3.4,
+  "text": "Booth Professor Alex E Mac wrote, \"A"
+ },
+ {
+  "start": 129.56,
+  "duration": 3.08,
+  "text": "while ago, people were ripping on Apple"
+ },
+ {
+  "start": 131.08,
+  "duration": 3.28,
+  "text": "for not investing in AI like the other"
+ },
+ {
+  "start": 132.64,
+  "duration": 3.6,
+  "text": "tech companies, but Apple's edge has"
+ },
+ {
+  "start": 134.36,
+  "duration": 3.8,
+  "text": "always, in the Jobs-Cook era, been to"
+ },
+ {
+  "start": 136.24,
+  "duration": 3.84,
+  "text": "know its strength and play to it. Apple"
+ },
+ {
+  "start": 138.16,
+  "duration": 3.64,
+  "text": "is primarily a hardware company. Its"
+ },
+ {
+  "start": 140.08,
+  "duration": 3.56,
+  "text": "hardware is extremely popular because of"
+ },
+ {
+  "start": 141.8,
+  "duration": 3.88,
+  "text": "its usability. This allows Apple to"
+ },
+ {
+  "start": 143.64,
+  "duration": 3.8,
+  "text": "create a closed system, App Store, and"
+ },
+ {
+  "start": 145.68,
+  "duration": 3.4,
+  "text": "charge software and platform providers"
+ },
+ {
+  "start": 147.44,
+  "duration": 3.96,
+  "text": "fees to get access to its huge user"
+ },
+ {
+  "start": 149.08,
+  "duration": 3.6,
+  "text": "base. In AI, its strategy was always"
+ },
+ {
+  "start": 151.4,
+  "duration": 2.92,
+  "text": "going to be wait out the race, which is"
+ },
+ {
+  "start": 152.68,
+  "duration": 3.08,
+  "text": "still ongoing, and make a deal with who"
+ },
+ {
+  "start": 154.32,
+  "duration": 3.04,
+  "text": "they perceived to be the most compatible"
+ },
+ {
+  "start": 155.76,
+  "duration": 2.8,
+  "text": "with its hardware, instead of burning"
+ },
+ {
+  "start": 157.36,
+  "duration": 2.96,
+  "text": "through huge amounts of money without"
+ },
+ {
+  "start": 158.56,
+  "duration": 3.8,
+  "text": "any comparative advantage in the space,"
+ },
+ {
+  "start": 160.32,
+  "duration": 3.44,
+  "text": "cough, Meta. Apple kept making money,"
+ },
+ {
+  "start": 162.36,
+  "duration": 4.04,
+  "text": "and now has access to one of the top"
+ },
+ {
+  "start": 163.76,
+  "duration": 4.32,
+  "text": "models, while sitting on a pile of cash."
+ },
+ {
+  "start": 166.4,
+  "duration": 3.6,
+  "text": "So, for Alex here, the strategy, in his"
+ },
+ {
+  "start": 168.08,
+  "duration": 4.16,
+  "text": "estimation, was intentional. Tech"
+ },
+ {
+  "start": 170.0,
+  "duration": 4.16,
+  "text": "journalist David Pogue agrees, saying,"
+ },
+ {
+  "start": 172.24,
+  "duration": 3.4,
+  "text": "as summed up by Big Brain AI, that"
+ },
+ {
+  "start": 174.16,
+  "duration": 3.64,
+  "text": "Apple's AI slowness was actually a"
+ },
+ {
+  "start": 175.64,
+  "duration": 4.04,
+  "text": "deliberate privacy strategy."
+ },
+ {
+  "start": 177.8,
+  "duration": 3.96,
+  "text": "Now, I'm a lot more skeptical that this"
+ },
+ {
+  "start": 179.68,
+  "duration": 3.4,
+  "text": "was super intentional, as opposed to"
+ },
+ {
+  "start": 181.76,
+  "duration": 2.76,
+  "text": "just the default result of doing"
+ },
+ {
+  "start": 183.08,
+  "duration": 2.72,
+  "text": "nothing, which happened to work out."
+ },
+ {
+  "start": 184.52,
+  "duration": 4.04,
+  "text": "But, in either case, that sets the"
+ },
+ {
+  "start": 185.8,
+  "duration": 4.88,
+  "text": "context for the news that Apple CEO Tim"
+ },
+ {
+  "start": 188.56,
+  "duration": 3.68,
+  "text": "Cook is stepping down, and John Ternus,"
+ },
+ {
+  "start": 190.68,
+  "duration": 3.24,
+  "text": "who heads their hardware division, is"
+ },
+ {
+  "start": 192.24,
+  "duration": 3.64,
+  "text": "stepping into the role."
+ },
+ {
+  "start": 193.92,
+  "duration": 3.68,
+  "text": "Cook is leaving a 15-year legacy as the"
+ },
+ {
+  "start": 195.88,
+  "duration": 3.96,
+  "text": "head of Apple. When he took the role in"
+ },
+ {
+  "start": 197.6,
+  "duration": 3.72,
+  "text": "2011, it was obvious that he was not"
+ },
+ {
+  "start": 199.84,
+  "duration": 3.64,
+  "text": "just trying to follow in Steve Jobs'"
+ },
+ {
+  "start": 201.32,
+  "duration": 4.36,
+  "text": "shoes, that he was, indeed, a different"
+ },
+ {
+  "start": 203.48,
+  "duration": 4.04,
+  "text": "type of Apple CEO. Cook was promoted"
+ },
+ {
+  "start": 205.68,
+  "duration": 3.28,
+  "text": "from the COO role, and led huge"
+ },
+ {
+  "start": 207.52,
+  "duration": 2.84,
+  "text": "initiatives to outsource production to"
+ },
+ {
+  "start": 208.96,
+  "duration": 3.16,
+  "text": "China, while maintaining quality"
+ },
+ {
+  "start": 210.36,
+  "duration": 3.44,
+  "text": "standards. Cook doubled revenue and"
+ },
+ {
+  "start": 212.12,
+  "duration": 4.36,
+  "text": "profit within a decade, and transformed"
+ },
+ {
+  "start": 213.8,
+  "duration": 4.8,
+  "text": "Apple from a $350 billion tech giant to"
+ },
+ {
+  "start": 216.48,
+  "duration": 3.8,
+  "text": "the $4 trillion force they are today."
+ },
+ {
+  "start": 218.6,
+  "duration": 3.4,
+  "text": "Now, the skeptical take, as summed up by"
+ },
+ {
+  "start": 220.28,
+  "duration": 3.96,
+  "text": "Polymath on Twitter, is that that's an"
+ },
+ {
+  "start": 222.0,
+  "duration": 4.6,
+  "text": "11x market cap increase, while in the"
+ },
+ {
+  "start": 224.24,
+  "duration": 4.84,
+  "text": "same period, Microsoft saw 14x, Google"
+ },
+ {
+  "start": 226.6,
+  "duration": 5.36,
+  "text": "saw 20x, Amazon did 28x, and Facebook"
+ },
+ {
+  "start": 229.08,
+  "duration": 4.08,
+  "text": "did 35x. As they put it, \"Cook led Apple"
+ },
+ {
+  "start": 231.96,
+  "duration": 3.6,
+  "text": "through a period where every tech"
+ },
+ {
+  "start": 233.16,
+  "duration": 4.24,
+  "text": "company expanded, yay for him. And"
+ },
+ {
+  "start": 235.56,
+  "duration": 3.6,
+  "text": "ultimately, Cook was never known for his"
+ },
+ {
+  "start": 237.4,
+  "duration": 3.04,
+  "text": "product taste. Indeed, he had a"
+ },
+ {
+  "start": 239.16,
+  "duration": 2.96,
+  "text": "conservative view on product,"
+ },
+ {
+  "start": 240.44,
+  "duration": 3.4,
+  "text": "consistently choosing iteration, rather"
+ },
+ {
+  "start": 242.12,
+  "duration": 3.64,
+  "text": "than innovation. Outside of the"
+ },
+ {
+  "start": 243.84,
+  "duration": 3.2,
+  "text": "enormously successful AirPod, his tenure"
+ },
+ {
+  "start": 245.76,
+  "duration": 2.8,
+  "text": "featured no breakthrough product that"
+ },
+ {
+  "start": 247.04,
+  "duration": 3.64,
+  "text": "could match the iPhone, the iPod, or the"
+ },
+ {
+  "start": 248.56,
+  "duration": 3.28,
+  "text": "MacBook in a way that reshaped tech."
+ },
+ {
+  "start": 250.68,
+  "duration": 3.0,
+  "text": "Now, where the chinks in the armor"
+ },
+ {
+  "start": 251.84,
+  "duration": 4.48,
+  "text": "started to show was following the"
+ },
+ {
+  "start": 253.68,
+  "duration": 4.119,
+  "text": "release of ChatGPT in late 2022. Reports"
+ },
+ {
+  "start": 256.32,
+  "duration": 3.32,
+  "text": "at the time suggested that Apple didn't"
+ },
+ {
+  "start": 257.799,
+  "duration": 3.361,
+  "text": "understand the appeal of chatbots,"
+ },
+ {
+  "start": 259.64,
+  "duration": 3.04,
+  "text": "instead doubling down on Siri's voice"
+ },
+ {
+  "start": 261.16,
+  "duration": 3.24,
+  "text": "interface, even though that voice"
+ },
+ {
+  "start": 262.68,
+  "duration": 3.12,
+  "text": "interface was already, by that time,"
+ },
+ {
+  "start": 264.4,
+  "duration": 3.64,
+  "text": "behind relative to other voice"
+ },
+ {
+  "start": 265.8,
+  "duration": 3.56,
+  "text": "assistants. Now, holding aside the Mac"
+ },
+ {
+  "start": 268.04,
+  "duration": 3.28,
+  "text": "Mini renaissance that we've been talking"
+ },
+ {
+  "start": 269.36,
+  "duration": 3.92,
+  "text": "about, Polymath again sums up the Apple"
+ },
+ {
+  "start": 271.32,
+  "duration": 3.76,
+  "text": "screwed it up argument, writing,"
+ },
+ {
+  "start": 273.28,
+  "duration": 3.76,
+  "text": "\"Apple had the most compelling pre-AI"
+ },
+ {
+  "start": 275.08,
+  "duration": 3.44,
+  "text": "experience in Siri. They had everything."
+ },
+ {
+  "start": 277.04,
+  "duration": 3.04,
+  "text": "They had mountains of user data, audio"
+ },
+ {
+  "start": 278.52,
+  "duration": 3.08,
+  "text": "and transcription training data, the"
+ },
+ {
+  "start": 280.08,
+  "duration": 3.44,
+  "text": "biggest and most sophisticated user data"
+ },
+ {
+  "start": 281.6,
+  "duration": 3.6,
+  "text": "network in the world, by far, and they"
+ },
+ {
+  "start": 283.52,
+  "duration": 3.08,
+  "text": "blew it. They should be so far ahead of"
+ },
+ {
+  "start": 285.2,
+  "duration": 3.16,
+  "text": "the competition on AI that it makes"
+ },
+ {
+  "start": 286.6,
+  "duration": 3.48,
+  "text": "their competitors fall into despair."
+ },
+ {
+  "start": 288.36,
+  "duration": 3.32,
+  "text": "Instead, they are a non-player in the"
+ },
+ {
+  "start": 290.08,
+  "duration": 3.12,
+  "text": "biggest tech revolution since mobile,"
+ },
+ {
+  "start": 291.68,
+  "duration": 2.48,
+  "text": "maybe even since the internet. They"
+ },
+ {
+  "start": 293.2,
+  "duration": 2.32,
+  "text": "could have leveraged their data"
+ },
+ {
+  "start": 294.16,
+  "duration": 3.04,
+  "text": "advantage to create astonishingly"
+ },
+ {
+  "start": 295.52,
+  "duration": 3.2,
+  "text": "powerful models. They make their own"
+ },
+ {
+  "start": 297.2,
+  "duration": 3.08,
+  "text": "silicon. They could have beat Nvidia to"
+ },
+ {
+  "start": 298.72,
+  "duration": 3.48,
+  "text": "the punch on hardware if Cook had any"
+ },
+ {
+  "start": 300.28,
+  "duration": 3.44,
+  "text": "foresight. Instead, they just make"
+ },
+ {
+  "start": 302.2,
+  "duration": 3.28,
+  "text": "high-end devices, and now they also make"
+ },
+ {
+  "start": 303.72,
+  "duration": 3.68,
+  "text": "TV shows, and won an Oscar for a movie"
+ },
+ {
+  "start": 305.48,
+  "duration": 3.44,
+  "text": "no one saw. I'm sorry, but that's"
+ },
+ {
+  "start": 307.4,
+  "duration": 3.0,
+  "text": "underwhelming.\""
+ },
+ {
+  "start": 308.92,
+  "duration": 3.36,
+  "text": "So, wherever you find yourself between"
+ },
+ {
+  "start": 310.4,
+  "duration": 3.92,
+  "text": "these two extremes, this is the state of"
+ },
+ {
+  "start": 312.28,
+  "duration": 4.28,
+  "text": "play that John Ternus steps into. And"
+ },
+ {
+  "start": 314.32,
+  "duration": 4.24,
+  "text": "what's very clear is that the number one"
+ },
+ {
+  "start": 316.56,
+  "duration": 3.84,
+  "text": "question that Ternus is going to face is"
+ },
+ {
+  "start": 318.56,
+  "duration": 3.52,
+  "text": "around Apple. Whether he could get"
+ },
+ {
+  "start": 320.4,
+  "duration": 3.28,
+  "text": "Apple's AI strategy in order was one of"
+ },
+ {
+  "start": 322.08,
+  "duration": 3.48,
+  "text": "the three big questions The Information"
+ },
+ {
+  "start": 323.68,
+  "duration": 3.32,
+  "text": "suggested he faced, with the others"
+ },
+ {
+  "start": 325.56,
+  "duration": 3.04,
+  "text": "being, will he be able to actually"
+ },
+ {
+  "start": 327.0,
+  "duration": 3.36,
+  "text": "navigate the transition with Tim Cook"
+ },
+ {
+  "start": 328.6,
+  "duration": 3.08,
+  "text": "still around as executive chairman, and"
+ },
+ {
+  "start": 330.36,
+  "duration": 3.48,
+  "text": "whether he would be able to successfully"
+ },
+ {
+  "start": 331.68,
+  "duration": 4.12,
+  "text": "decouple Apple from Chinese suppliers."
+ },
+ {
+  "start": 333.84,
+  "duration": 4.36,
+  "text": "Other publications squarely pointed AI"
+ },
+ {
+  "start": 335.8,
+  "duration": 3.84,
+  "text": "as the thing. The Economist podcast"
+ },
+ {
+  "start": 338.2,
+  "duration": 3.24,
+  "text": "chose to highlight his quote,"
+ },
+ {
+  "start": 339.64,
+  "duration": 3.44,
+  "text": "\"incredibly daunting task of remaking"
+ },
+ {
+  "start": 341.44,
+  "duration": 3.4,
+  "text": "the company for the AI era.\" And the"
+ },
+ {
+  "start": 343.08,
+  "duration": 3.48,
+  "text": "Financial Times article was called,"
+ },
+ {
+  "start": 344.84,
+  "duration": 3.8,
+  "text": "\"Apple's next chief, John Ternus, faces"
+ },
+ {
+  "start": 346.56,
+  "duration": 3.92,
+  "text": "defining AI moment.\""
+ },
+ {
+  "start": 348.64,
+  "duration": 3.72,
+  "text": "Now, some think that Ternus is exactly"
+ },
+ {
+  "start": 350.48,
+  "duration": 3.52,
+  "text": "what's needed at Apple. Ben Bajarin, the"
+ },
+ {
+  "start": 352.36,
+  "duration": 3.6,
+  "text": "CEO of consumer research firm Creative"
+ },
+ {
+  "start": 354.0,
+  "duration": 3.44,
+  "text": "Strategies, said, \"Ternus is the right"
+ },
+ {
+  "start": 355.96,
+  "duration": 3.0,
+  "text": "person at the right time to take on the"
+ },
+ {
+  "start": 357.44,
+  "duration": 3.0,
+  "text": "next stage of growth at Apple. The"
+ },
+ {
+  "start": 358.96,
+  "duration": 3.32,
+  "text": "company is drastically increasing new"
+ },
+ {
+  "start": 360.44,
+  "duration": 3.32,
+  "text": "product launches in the next few years."
+ },
+ {
+  "start": 362.28,
+  "duration": 3.52,
+  "text": "They want to go on another growth cycle"
+ },
+ {
+  "start": 363.76,
+  "duration": 4.0,
+  "text": "with new and existing products.\""
+ },
+ {
+  "start": 365.8,
+  "duration": 4.0,
+  "text": "Now, in terms of who Ternus is, he is a"
+ },
+ {
+  "start": 367.76,
+  "duration": 3.64,
+  "text": "long-term Apple employee, having joined"
+ },
+ {
+  "start": 369.8,
+  "duration": 4.2,
+  "text": "the company in 2001, and risen through"
+ },
+ {
+  "start": 371.4,
+  "duration": 4.32,
+  "text": "the ranks. It is a very Apple-y strategy"
+ },
+ {
+  "start": 374.0,
+  "duration": 3.36,
+  "text": "to promote from within, and as The Wall"
+ },
+ {
+  "start": 375.72,
+  "duration": 3.44,
+  "text": "Street Journal puts it, Ternus was known"
+ },
+ {
+  "start": 377.36,
+  "duration": 3.12,
+  "text": "for deft politicking inside the giant"
+ },
+ {
+  "start": 379.16,
+  "duration": 3.2,
+  "text": "company."
+ },
+ {
+  "start": 380.48,
+  "duration": 3.12,
+  "text": "Now, for some, the promotion of Ternus,"
+ },
+ {
+  "start": 382.36,
+  "duration": 3.4,
+  "text": "as opposed to product lead Craig"
+ },
+ {
+  "start": 383.6,
+  "duration": 4.76,
+  "text": "Federighi, actually itself had to do"
+ },
+ {
+  "start": 385.76,
+  "duration": 5.08,
+  "text": "with AI. Said one anonymous former Apple"
+ },
+ {
+  "start": 388.36,
+  "duration": 3.76,
+  "text": "leader, quoted by the Financial Times,"
+ },
+ {
+  "start": 390.84,
+  "duration": 3.04,
+  "text": "\"For a time, it might have been Craig"
+ },
+ {
+  "start": 392.12,
+  "duration": 3.44,
+  "text": "Federighi a successor, but in my"
+ },
+ {
+  "start": 393.88,
+  "duration": 2.8,
+  "text": "opinion, he fumbled the bag on AI and"
+ },
+ {
+  "start": 395.56,
+  "duration": 2.52,
+  "text": "Siri.\""
+ },
+ {
+  "start": 396.68,
+  "duration": 2.76,
+  "text": "Bloomberg's Mark Gurman, who is possibly"
+ },
+ {
+  "start": 398.08,
+  "duration": 3.16,
+  "text": "the most well-informed journalist when"
+ },
+ {
+  "start": 399.44,
+  "duration": 3.32,
+  "text": "it comes to Apple, thinks that Ternus is"
+ },
+ {
+  "start": 401.24,
+  "duration": 2.92,
+  "text": "up to the task."
+ },
+ {
+  "start": 402.76,
+  "duration": 3.44,
+  "text": "He argued that Ternus will bring back"
+ },
+ {
+  "start": 404.16,
+  "duration": 3.44,
+  "text": "Jobs-era decisiveness, noting that he"
+ },
+ {
+  "start": 406.2,
+  "duration": 2.92,
+  "text": "will be stuck between maintaining the"
+ },
+ {
+  "start": 407.6,
+  "duration": 3.36,
+  "text": "juggernaut of the iPhone business, while"
+ },
+ {
+  "start": 409.12,
+  "duration": 3.16,
+  "text": "taking chances on new product. One of"
+ },
+ {
+  "start": 410.96,
+  "duration": 2.96,
+  "text": "Gurman's sources actually pointed to"
+ },
+ {
+  "start": 412.28,
+  "duration": 4.0,
+  "text": "decisiveness as the central difference"
+ },
+ {
+  "start": 413.92,
+  "duration": 3.88,
+  "text": "between Cook and Ternus. They commented,"
+ },
+ {
+  "start": 416.28,
+  "duration": 3.64,
+  "text": "\"Ternus will make decisions. If you go"
+ },
+ {
+  "start": 417.8,
+  "duration": 3.76,
+  "text": "to Tim with A or B, he won't pick. He'll"
+ },
+ {
+  "start": 419.92,
+  "duration": 3.6,
+  "text": "ask a series of questions instead, if he"
+ },
+ {
+  "start": 421.56,
+  "duration": 3.48,
+  "text": "has concerns. With Ternus,\" the source"
+ },
+ {
+  "start": 423.52,
+  "duration": 3.32,
+  "text": "said, \"it could be right or wrong, but"
+ },
+ {
+  "start": 425.04,
+  "duration": 3.56,
+  "text": "at least it's a decision.\" Certainly,"
+ },
+ {
+  "start": 426.84,
+  "duration": 3.6,
+  "text": "the lack of decisiveness has marred"
+ },
+ {
+  "start": 428.6,
+  "duration": 3.04,
+  "text": "Apple's AI story over the past years,"
+ },
+ {
+  "start": 430.44,
+  "duration": 2.92,
+  "text": "and even if you think they landed on"
+ },
+ {
+  "start": 431.64,
+  "duration": 3.48,
+  "text": "their feet, Apple went through multiple"
+ },
+ {
+  "start": 433.36,
+  "duration": 3.24,
+  "text": "reorganizations within their AI research"
+ },
+ {
+  "start": 435.12,
+  "duration": 3.0,
+  "text": "team, replaced their AI leader,"
+ },
+ {
+  "start": 436.6,
+  "duration": 2.8,
+  "text": "partnered with OpenAI, partnered with"
+ },
+ {
+  "start": 438.12,
+  "duration": 2.92,
+  "text": "Google, and of course, released their"
+ },
+ {
+  "start": 439.4,
+  "duration": 3.08,
+  "text": "own AI product that, as I mentioned"
+ },
+ {
+  "start": 441.04,
+  "duration": 3.56,
+  "text": "before, didn't deliver on any of the"
+ },
+ {
+  "start": 442.48,
+  "duration": 4.04,
+  "text": "advertised features. And still, given"
+ },
+ {
+  "start": 444.6,
+  "duration": 3.2,
+  "text": "the significance of Apple hardware, some"
+ },
+ {
+  "start": 446.52,
+  "duration": 3.12,
+  "text": "are wondering if Apple is going to"
+ },
+ {
+  "start": 447.8,
+  "duration": 3.76,
+  "text": "simply double down on hardware as their"
+ },
+ {
+  "start": 449.64,
+  "duration": 3.44,
+  "text": "AI strategy, with the appointment of"
+ },
+ {
+  "start": 451.56,
+  "duration": 3.6,
+  "text": "Ternus coming over from hardware"
+ },
+ {
+  "start": 453.08,
+  "duration": 3.96,
+  "text": "providing evidence of that approach."
+ },
+ {
+  "start": 455.16,
+  "duration": 3.88,
+  "text": "Overall, the market seems cautiously"
+ },
+ {
+  "start": 457.04,
+  "duration": 3.6,
+  "text": "optimistic, while the AI industry"
+ },
+ {
+  "start": 459.04,
+  "duration": 4.2,
+  "text": "itself, I would suggest, is a little"
+ },
+ {
+  "start": 460.64,
+  "duration": 4.8,
+  "text": "more skeptical. We've got WWDC coming"
+ },
+ {
+  "start": 463.24,
+  "duration": 3.64,
+  "text": "up, and a new iPhone slate in the fall,"
+ },
+ {
+  "start": 465.44,
+  "duration": 3.52,
+  "text": "but honestly, as it's been for a very"
+ },
+ {
+  "start": 466.88,
+  "duration": 4.12,
+  "text": "long time, just releasing an actually"
+ },
+ {
+  "start": 468.96,
+  "duration": 3.64,
+  "text": "good Siri would go a long way to getting"
+ },
+ {
+  "start": 471.0,
+  "duration": 2.88,
+  "text": "people excited about Apple AI once"
+ },
+ {
+  "start": 472.6,
+  "duration": 3.24,
+  "text": "again."
+ },
+ {
+  "start": 473.88,
+  "duration": 3.84,
+  "text": "Now, moving over to another company in"
+ },
+ {
+  "start": 475.84,
+  "duration": 3.6,
+  "text": "Big Tech that seemed to have incredible"
+ },
+ {
+  "start": 477.72,
+  "duration": 2.96,
+  "text": "wind in its sails coming into the year,"
+ },
+ {
+  "start": 479.44,
+  "duration": 3.64,
+  "text": "but has subsequently faced a new"
+ },
+ {
+  "start": 480.68,
+  "duration": 4.52,
+  "text": "headwind, Google has reportedly created"
+ },
+ {
+  "start": 483.08,
+  "duration": 3.68,
+  "text": "a strike team to catch up on AI coding."
+ },
+ {
+  "start": 485.2,
+  "duration": 2.84,
+  "text": "The Information reports that DeepMind"
+ },
+ {
+  "start": 486.76,
+  "duration": 3.04,
+  "text": "researchers have acknowledged that"
+ },
+ {
+  "start": 488.04,
+  "duration": 3.4,
+  "text": "Anthropic has the lead on coding, and"
+ },
+ {
+  "start": 489.8,
+  "duration": 3.68,
+  "text": "this so-called strike team aims to get"
+ },
+ {
+  "start": 491.44,
+  "duration": 3.76,
+  "text": "Gemini up to snuff. The reporting is"
+ },
+ {
+  "start": 493.48,
+  "duration": 3.76,
+  "text": "that Google co-founder Sergey Brin will"
+ },
+ {
+  "start": 495.2,
+  "duration": 3.48,
+  "text": "be directly involved with the team. In a"
+ },
+ {
+  "start": 497.24,
+  "duration": 3.48,
+  "text": "recent memo, Brin told DeepMind"
+ },
+ {
+  "start": 498.68,
+  "duration": 3.76,
+  "text": "staffers, \"To win the final sprint, we"
+ },
+ {
+  "start": 500.72,
+  "duration": 3.6,
+  "text": "must urgently bridge the gap in agentic"
+ },
+ {
+  "start": 502.44,
+  "duration": 4.24,
+  "text": "execution, and turn our models into"
+ },
+ {
+  "start": 504.32,
+  "duration": 4.16,
+  "text": "primary developers.\" Now, interestingly,"
+ },
+ {
+  "start": 506.68,
+  "duration": 3.64,
+  "text": "one nuance is that this project isn't"
+ },
+ {
+  "start": 508.48,
+  "duration": 3.96,
+  "text": "necessarily about releasing more"
+ },
+ {
+  "start": 510.32,
+  "duration": 3.92,
+  "text": "advanced coding models. Instead, writes"
+ },
+ {
+  "start": 512.44,
+  "duration": 3.52,
+  "text": "The Information, \"Google is now putting"
+ },
+ {
+  "start": 514.24,
+  "duration": 3.4,
+  "text": "more emphasis on models that write code"
+ },
+ {
+  "start": 515.96,
+  "duration": 3.48,
+  "text": "the company can use internally, a"
+ },
+ {
+  "start": 517.64,
+  "duration": 3.8,
+  "text": "strategy shift from focusing primarily"
+ },
+ {
+  "start": 519.44,
+  "duration": 3.36,
+  "text": "on coding models for external customers."
+ },
+ {
+  "start": 521.44,
+  "duration": 2.76,
+  "text": "That requires training the models on"
+ },
+ {
+  "start": 522.8,
+  "duration": 2.76,
+  "text": "Google's code, which is important for"
+ },
+ {
+  "start": 524.2,
+  "duration": 3.28,
+  "text": "performance, because Google's private"
+ },
+ {
+  "start": 525.56,
+  "duration": 3.36,
+  "text": "code base differs significantly from the"
+ },
+ {
+  "start": 527.48,
+  "duration": 3.2,
+  "text": "external code it uses to train"
+ },
+ {
+  "start": 528.92,
+  "duration": 3.4,
+  "text": "general-purpose coding models.\" The"
+ },
+ {
+  "start": 530.68,
+  "duration": 3.2,
+  "text": "article noted a recent quote from Claude"
+ },
+ {
+  "start": 532.32,
+  "duration": 3.88,
+  "text": "code developer Boris Cherney, who"
+ },
+ {
+  "start": 533.88,
+  "duration": 3.68,
+  "text": "recently said that pretty much 100%, his"
+ },
+ {
+  "start": 536.2,
+  "duration": 3.96,
+  "text": "words, of Anthropic's code is now"
+ },
+ {
+  "start": 537.56,
+  "duration": 4.44,
+  "text": "written by AI. By contrast, Google CFO"
+ },
+ {
+  "start": 540.16,
+  "duration": 3.36,
+  "text": "and Nat Ashkenazi said that coding"
+ },
+ {
+  "start": 542.0,
+  "duration": 3.08,
+  "text": "agents write around half of Google's"
+ },
+ {
+  "start": 543.52,
+  "duration": 3.96,
+  "text": "code now, during their February earnings"
+ },
+ {
+  "start": 545.08,
+  "duration": 4.32,
+  "text": "call. Even if, with the agentic coding"
+ },
+ {
+  "start": 547.48,
+  "duration": 3.64,
+  "text": "onslaught this year, Google has once"
+ },
+ {
+  "start": 549.4,
+  "duration": 3.36,
+  "text": "again fallen behind when it comes to the"
+ },
+ {
+  "start": 551.12,
+  "duration": 3.0,
+  "text": "AI narrative, it seems to me that"
+ },
+ {
+  "start": 552.76,
+  "duration": 3.28,
+  "text": "there's still a fair amount of optimism"
+ },
+ {
+  "start": 554.12,
+  "duration": 4.16,
+  "text": "about their ability to get back into it."
+ },
+ {
+  "start": 556.04,
+  "duration": 3.68,
+  "text": "Yuchen Jin writes, \"It's surprising to"
+ },
+ {
+  "start": 558.28,
+  "duration": 3.2,
+  "text": "me that Google has the world's largest"
+ },
+ {
+  "start": 559.72,
+  "duration": 3.24,
+  "text": "internal code base, yet lags behind"
+ },
+ {
+  "start": 561.48,
+  "duration": 3.48,
+  "text": "Anthropic and OpenAI in coding and"
+ },
+ {
+  "start": 562.96,
+  "duration": 4.16,
+  "text": "agents. I think Sergey, in founder mode,"
+ },
+ {
+  "start": 564.96,
+  "duration": 4.28,
+  "text": "can fix it again this time.\" Now, quiet"
+ },
+ {
+  "start": 567.12,
+  "duration": 3.64,
+  "text": "as they might have felt, Google I/O is"
+ },
+ {
+  "start": 569.24,
+  "duration": 3.12,
+  "text": "right around the corner in May, so I"
+ },
+ {
+  "start": 570.76,
+  "duration": 3.68,
+  "text": "expect we'll be hearing a lot more from"
+ },
+ {
+  "start": 572.36,
+  "duration": 3.76,
+  "text": "Gemini and the entire Google team in the"
+ },
+ {
+  "start": 574.44,
+  "duration": 3.92,
+  "text": "pretty near future."
+ },
+ {
+  "start": 576.12,
+  "duration": 3.8,
+  "text": "Over in Amazon, the company continues to"
+ },
+ {
+  "start": 578.36,
+  "duration": 3.8,
+  "text": "hedge their bets with a big investment"
+ },
+ {
+  "start": 579.92,
+  "duration": 3.76,
+  "text": "in Anthropic. So far this year, Amazon's"
+ },
+ {
+  "start": 582.16,
+  "duration": 3.4,
+  "text": "AI strategy has been in something of a"
+ },
+ {
+  "start": 583.68,
+  "duration": 3.48,
+  "text": "transition phase, shifting away from"
+ },
+ {
+  "start": 585.56,
+  "duration": 3.24,
+  "text": "home-grown models to focus on placing"
+ },
+ {
+  "start": 587.16,
+  "duration": 3.32,
+  "text": "big bets on the leading labs. They"
+ },
+ {
+  "start": 588.8,
+  "duration": 3.12,
+  "text": "shuttered their AGI lab, and instead"
+ },
+ {
+  "start": 590.48,
+  "duration": 3.84,
+  "text": "pushed their chips in on OpenAI,"
+ },
+ {
+  "start": 591.92,
+  "duration": 3.76,
+  "text": "committing to a $50 billion investment."
+ },
+ {
+  "start": 594.32,
+  "duration": 2.92,
+  "text": "Now, it seems as though they want to own"
+ },
+ {
+  "start": 595.68,
+  "duration": 3.6,
+  "text": "a slice of the entire segment, also"
+ },
+ {
+  "start": 597.24,
+  "duration": 4.0,
+  "text": "committing to a $25 billion investment"
+ },
+ {
+  "start": 599.28,
+  "duration": 3.32,
+  "text": "in Anthropic. The deal consists of 5"
+ },
+ {
+  "start": 601.24,
+  "duration": 3.0,
+  "text": "billion of commitment now and an"
+ },
+ {
+  "start": 602.6,
+  "duration": 3.6,
+  "text": "additional 20 billion tied to commercial"
+ },
+ {
+  "start": 604.24,
+  "duration": 3.24,
+  "text": "milestones. The companies frame the deal"
+ },
+ {
+  "start": 606.2,
+  "duration": 3.48,
+  "text": "as an expansion of their existing"
+ },
+ {
+  "start": 607.48,
+  "duration": 4.12,
+  "text": "partnership, which saw Amazon invest 8"
+ },
+ {
+  "start": 609.68,
+  "duration": 3.56,
+  "text": "billion over the past 18 months."
+ },
+ {
+  "start": 611.6,
+  "duration": 3.48,
+  "text": "Functionally, the deal looks a lot like"
+ },
+ {
+  "start": 613.24,
+  "duration": 3.36,
+  "text": "Anthropic paying for chips with equity."
+ },
+ {
+  "start": 615.08,
+  "duration": 3.08,
+  "text": "Amazon will provide 5 gigawatts of"
+ },
+ {
+  "start": 616.6,
+  "duration": 3.2,
+  "text": "compute using current and future"
+ },
+ {
+  "start": 618.16,
+  "duration": 3.32,
+  "text": "generations of their in-house Tranium"
+ },
+ {
+  "start": 619.8,
+  "duration": 3.16,
+  "text": "chips. This will include both training"
+ },
+ {
+  "start": 621.48,
+  "duration": 3.08,
+  "text": "and inference with Amazon noting that"
+ },
+ {
+  "start": 622.96,
+  "duration": 3.76,
+  "text": "significant Tranium 3 capacity is"
+ },
+ {
+  "start": 624.56,
+  "duration": 4.04,
+  "text": "expected online this year. The deal"
+ },
+ {
+  "start": 626.72,
+  "duration": 3.64,
+  "text": "could help resolve Anthropic's painful"
+ },
+ {
+  "start": 628.6,
+  "duration": 3.04,
+  "text": "inference shortage. Anthropic said that"
+ },
+ {
+  "start": 630.36,
+  "duration": 2.88,
+  "text": "the additional capacity will start"
+ },
+ {
+  "start": 631.64,
+  "duration": 3.04,
+  "text": "coming online this quarter, with 1"
+ },
+ {
+  "start": 633.24,
+  "duration": 2.96,
+  "text": "gigawatt expected to be added by the end"
+ },
+ {
+  "start": 634.68,
+  "duration": 3.12,
+  "text": "of the year. As part of the deal,"
+ },
+ {
+  "start": 636.2,
+  "duration": 3.68,
+  "text": "Anthropic will continue to serve Claude"
+ },
+ {
+  "start": 637.8,
+  "duration": 3.48,
+  "text": "through AWS, ensuring the platform has"
+ },
+ {
+  "start": 639.88,
+  "duration": 2.72,
+  "text": "full access to Anthropic's product"
+ },
+ {
+  "start": 641.28,
+  "duration": 2.84,
+  "text": "lineup."
+ },
+ {
+  "start": 642.6,
+  "duration": 3.52,
+  "text": "Lastly today, an interesting story out"
+ },
+ {
+  "start": 644.12,
+  "duration": 4.04,
+  "text": "of Meta. On the one hand, sources"
+ },
+ {
+  "start": 646.12,
+  "duration": 3.76,
+  "text": "suggest that Meta is planning a 10%"
+ },
+ {
+  "start": 648.16,
+  "duration": 3.76,
+  "text": "headcount reduction beginning in May,"
+ },
+ {
+  "start": 649.88,
+  "duration": 3.48,
+  "text": "impacting around 8,000 workers, with"
+ },
+ {
+  "start": 651.92,
+  "duration": 3.0,
+  "text": "those sources also suggesting that this"
+ },
+ {
+  "start": 653.36,
+  "duration": 3.36,
+  "text": "is the first round of layoffs with more"
+ },
+ {
+  "start": 654.92,
+  "duration": 3.64,
+  "text": "expected the second half of the year."
+ },
+ {
+  "start": 656.72,
+  "duration": 3.48,
+  "text": "This has not been confirmed yet, but has"
+ },
+ {
+  "start": 658.56,
+  "duration": 3.32,
+  "text": "been widely reported. But one"
+ },
+ {
+  "start": 660.2,
+  "duration": 3.16,
+  "text": "interesting story that is official is"
+ },
+ {
+  "start": 661.88,
+  "duration": 3.56,
+  "text": "that Meta is launching a new training"
+ },
+ {
+  "start": 663.36,
+  "duration": 3.56,
+  "text": "program focused on the physical trades."
+ },
+ {
+  "start": 665.44,
+  "duration": 2.84,
+  "text": "Called Level Up, the initiative provides"
+ },
+ {
+  "start": 666.92,
+  "duration": 3.64,
+  "text": "training for fiber technicians in"
+ },
+ {
+  "start": 668.28,
+  "duration": 3.76,
+  "text": "partnership with construction firm CBRE."
+ },
+ {
+  "start": 670.56,
+  "duration": 3.0,
+  "text": "The free 4-week training program is"
+ },
+ {
+  "start": 672.04,
+  "duration": 3.12,
+  "text": "available to Americans with no prior"
+ },
+ {
+  "start": 673.56,
+  "duration": 2.8,
+  "text": "experience and is suitable, they say,"
+ },
+ {
+  "start": 675.16,
+  "duration": 2.88,
+  "text": "for high school grads as well as"
+ },
+ {
+  "start": 676.36,
+  "duration": 3.24,
+  "text": "mid-career professionals. It includes"
+ },
+ {
+  "start": 678.04,
+  "duration": 3.6,
+  "text": "classroom instruction, hands-on lab, and"
+ },
+ {
+  "start": 679.6,
+  "duration": 3.32,
+  "text": "team activities. Successful graduates"
+ },
+ {
+  "start": 681.64,
+  "duration": 2.68,
+  "text": "will be offered work opportunities"
+ },
+ {
+  "start": 682.92,
+  "duration": 2.76,
+  "text": "through Meta's contractor network,"
+ },
+ {
+  "start": 684.32,
+  "duration": 3.2,
+  "text": "primarily working on data center"
+ },
+ {
+  "start": 685.68,
+  "duration": 3.96,
+  "text": "construction. These roles, Meta claims,"
+ },
+ {
+  "start": 687.52,
+  "duration": 3.28,
+  "text": "are highly paid and in high demand. The"
+ },
+ {
+  "start": 689.64,
+  "duration": 2.52,
+  "text": "company says they're aiming to train"
+ },
+ {
+  "start": 690.8,
+  "duration": 2.84,
+  "text": "thousands of people through the program"
+ },
+ {
+  "start": 692.16,
+  "duration": 3.0,
+  "text": "to address an acute labor shortage,"
+ },
+ {
+  "start": 693.64,
+  "duration": 3.8,
+  "text": "writing, \"We built this program with"
+ },
+ {
+  "start": 695.16,
+  "duration": 3.679,
+  "text": "CBRE because the fiber technician field"
+ },
+ {
+  "start": 697.44,
+  "duration": 3.36,
+  "text": "and broader construction industry is"
+ },
+ {
+  "start": 698.839,
+  "duration": 3.401,
+  "text": "facing a nationwide shortage at a time"
+ },
+ {
+  "start": 700.8,
+  "duration": 3.08,
+  "text": "when data center demand is higher than"
+ },
+ {
+  "start": 702.24,
+  "duration": 3.28,
+  "text": "ever.\" Said Dina Powell McCormick,"
+ },
+ {
+  "start": 703.88,
+  "duration": 3.52,
+  "text": "Meta's president and vice chairman, \"The"
+ },
+ {
+  "start": 705.52,
+  "duration": 3.6,
+  "text": "future of the AI revolution depends on a"
+ },
+ {
+  "start": 707.4,
+  "duration": 3.04,
+  "text": "highly skilled US workforce, one that"
+ },
+ {
+  "start": 709.12,
+  "duration": 2.76,
+  "text": "rises to the challenge of building and"
+ },
+ {
+  "start": 710.44,
+  "duration": 3.24,
+  "text": "maintaining the complex systems that"
+ },
+ {
+  "start": 711.88,
+  "duration": 3.48,
+  "text": "power innovation. Meta is proud to"
+ },
+ {
+  "start": 713.68,
+  "duration": 4.08,
+  "text": "invest in technician training to support"
+ },
+ {
+  "start": 715.36,
+  "duration": 3.92,
+  "text": "our ambitious infrastructure goals.\""
+ },
+ {
+  "start": 717.76,
+  "duration": 3.4,
+  "text": "Obviously, this is ultimately one small"
+ },
+ {
+  "start": 719.28,
+  "duration": 3.64,
+  "text": "initiative, but what I would say is yes,"
+ },
+ {
+  "start": 721.16,
+  "duration": 3.84,
+  "text": "more of this, please. The more that the"
+ },
+ {
+  "start": 722.92,
+  "duration": 3.48,
+  "text": "AI industry can show the creation side"
+ },
+ {
+  "start": 725.0,
+  "duration": 2.68,
+  "text": "of creative destruction, the better off"
+ },
+ {
+  "start": 726.4,
+  "duration": 2.64,
+  "text": "we're going to be."
+ },
+ {
+  "start": 727.68,
+  "duration": 3.159,
+  "text": "For now, that is going to do it for"
+ },
+ {
+  "start": 729.04,
+  "duration": 3.36,
+  "text": "today's AI Daily Brief. Thanks for"
+ },
+ {
+  "start": 730.839,
+  "duration": 5.161,
+  "text": "listening or watching, as always, and"
+ },
+ {
+  "start": 732.4,
+  "duration": 3.6,
+  "text": "until next time, peace."
+ }
+]

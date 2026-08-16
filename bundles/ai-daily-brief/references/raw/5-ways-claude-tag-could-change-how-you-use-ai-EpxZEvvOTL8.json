@@ -1,0 +1,3822 @@
+[
+ {
+  "start": 0.6,
+  "duration": 5.16,
+  "text": "Today on the AI Daily Brief, why Claude"
+ },
+ {
+  "start": 3.04,
+  "duration": 5.32,
+  "text": "Tag and approaches like it might change"
+ },
+ {
+  "start": 5.76,
+  "duration": 4.12,
+  "text": "how you use AI."
+ },
+ {
+  "start": 8.36,
+  "duration": 3.88,
+  "text": "Before that in the headlines, an"
+ },
+ {
+  "start": 9.88,
+  "duration": 5.96,
+  "text": "Anthropic customer has sued the US over"
+ },
+ {
+  "start": 12.24,
+  "duration": 5.24,
+  "text": "losing Fable, but can it possibly help?"
+ },
+ {
+  "start": 15.84,
+  "duration": 3.16,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 17.48,
+  "duration": 4.6,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 19.0,
+  "duration": 4.32,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 22.08,
+  "duration": 2.96,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 23.32,
+  "duration": 4.04,
+  "text": "before we dive in. I'm continuing to"
+ },
+ {
+  "start": 25.04,
+  "duration": 3.8,
+  "text": "remind folks about the Executive Agent"
+ },
+ {
+  "start": 27.36,
+  "duration": 3.24,
+  "text": "Leadership Program, which is the"
+ },
+ {
+  "start": 28.84,
+  "duration": 3.32,
+  "text": "enterprise-grade descendant of"
+ },
+ {
+  "start": 30.6,
+  "duration": 3.24,
+  "text": "Enterprise Claude now offered in"
+ },
+ {
+  "start": 32.16,
+  "duration": 2.76,
+  "text": "conjunction with Super Intelligent. You"
+ },
+ {
+  "start": 33.84,
+  "duration": 2.8,
+  "text": "can find out about that at"
+ },
+ {
+  "start": 34.92,
+  "duration": 4.32,
+  "text": "training.besuper.ai."
+ },
+ {
+  "start": 36.64,
+  "duration": 4.32,
+  "text": "The next cohort begins on Monday, June"
+ },
+ {
+  "start": 39.24,
+  "duration": 4.0,
+  "text": "29th. So, if you're interested in that,"
+ },
+ {
+  "start": 40.96,
+  "duration": 4.28,
+  "text": "check it out."
+ },
+ {
+  "start": 43.24,
+  "duration": 4.16,
+  "text": "Well, here we are heading towards the"
+ },
+ {
+  "start": 45.24,
+  "duration": 5.88,
+  "text": "back half of this week with a return of"
+ },
+ {
+  "start": 47.4,
+  "duration": 6.2,
+  "text": "Fable 5 no closer in sight. In fact, the"
+ },
+ {
+  "start": 51.12,
+  "duration": 5.36,
+  "text": "rumor mill suggests that we are not in"
+ },
+ {
+  "start": 53.6,
+  "duration": 4.64,
+  "text": "line for pretty much any models for some"
+ },
+ {
+  "start": 56.48,
+  "duration": 3.8,
+  "text": "time. Later this week I'm going to do a"
+ },
+ {
+  "start": 58.24,
+  "duration": 4.84,
+  "text": "show about what you can do to make the"
+ },
+ {
+  "start": 60.28,
+  "duration": 4.08,
+  "text": "most of this forced AI model pause. But"
+ },
+ {
+  "start": 63.08,
+  "duration": 2.84,
+  "text": "for now, let's look at some of the"
+ },
+ {
+  "start": 64.36,
+  "duration": 4.04,
+  "text": "conversations that are actually shaping"
+ },
+ {
+  "start": 65.92,
+  "duration": 4.0,
+  "text": "the discourse. Now, first up, I flagged"
+ },
+ {
+  "start": 68.4,
+  "duration": 3.48,
+  "text": "this before, but I want to take this"
+ },
+ {
+  "start": 69.92,
+  "duration": 3.88,
+  "text": "chance to flag it again. Right now,"
+ },
+ {
+  "start": 71.88,
+  "duration": 4.08,
+  "text": "emotions are running at an 11 when it"
+ },
+ {
+  "start": 73.8,
+  "duration": 4.24,
+  "text": "comes to this Anthropic news."
+ },
+ {
+  "start": 75.96,
+  "duration": 4.2,
+  "text": "I saw a post go viral on X about the"
+ },
+ {
+  "start": 78.04,
+  "duration": 3.84,
+  "text": "significance of this bipartisan letter"
+ },
+ {
+  "start": 80.16,
+  "duration": 3.4,
+  "text": "asking Jared Leto if Anthropic had been"
+ },
+ {
+  "start": 81.88,
+  "duration": 3.2,
+  "text": "singled out. But friends, this is at"
+ },
+ {
+  "start": 83.56,
+  "duration": 3.64,
+  "text": "this point about a week old, and these"
+ },
+ {
+  "start": 85.08,
+  "duration": 3.92,
+  "text": "sort of open congressional letters don't"
+ },
+ {
+  "start": 87.2,
+  "duration": 3.96,
+  "text": "actually do anything. They don't usually"
+ },
+ {
+  "start": 89.0,
+  "duration": 3.56,
+  "text": "get responses. This is, in a word, a"
+ },
+ {
+  "start": 91.16,
+  "duration": 3.12,
+  "text": "nothing burger."
+ },
+ {
+  "start": 92.56,
+  "duration": 2.84,
+  "text": "One thing that also probably amounts to"
+ },
+ {
+  "start": 94.28,
+  "duration": 3.32,
+  "text": "nothing, but is at least a little bit"
+ },
+ {
+  "start": 95.4,
+  "duration": 4.16,
+  "text": "more interesting, is that one Anthropic"
+ },
+ {
+  "start": 97.6,
+  "duration": 4.32,
+  "text": "customer is taking it upon themselves to"
+ },
+ {
+  "start": 99.56,
+  "duration": 4.24,
+  "text": "get the model reinstated by suing the"
+ },
+ {
+  "start": 101.92,
+  "duration": 4.12,
+  "text": "government. In a lawsuit filed on"
+ },
+ {
+  "start": 103.8,
+  "duration": 4.2,
+  "text": "Tuesday, a legal tech firm called Legion"
+ },
+ {
+  "start": 106.04,
+  "duration": 4.04,
+  "text": "claimed the ban was illegal and damaging"
+ },
+ {
+  "start": 108.0,
+  "duration": 3.48,
+  "text": "their business. \"The harm to Legion is"
+ },
+ {
+  "start": 110.08,
+  "duration": 3.28,
+  "text": "immediate, irreparable, and"
+ },
+ {
+  "start": 111.48,
+  "duration": 3.48,
+  "text": "existential,\" the lawsuit stated. \"The"
+ },
+ {
+  "start": 113.36,
+  "duration": 3.36,
+  "text": "pace of frontier AI advancement is"
+ },
+ {
+  "start": 114.96,
+  "duration": 3.72,
+  "text": "blistering, and competitive ground lost"
+ },
+ {
+  "start": 116.72,
+  "duration": 4.6,
+  "text": "during a suspension cannot be regained"
+ },
+ {
+  "start": 118.68,
+  "duration": 4.32,
+  "text": "after the fact. Certainly, regardless of"
+ },
+ {
+  "start": 121.32,
+  "duration": 3.36,
+  "text": "the ultimate success of this lawsuit, I"
+ },
+ {
+  "start": 123.0,
+  "duration": 3.72,
+  "text": "think that is a sentiment that many of"
+ },
+ {
+  "start": 124.68,
+  "duration": 3.96,
+  "text": "you listening now will agree with. The"
+ },
+ {
+  "start": 126.72,
+  "duration": 3.72,
+  "text": "filing claimed that export control laws"
+ },
+ {
+  "start": 128.64,
+  "duration": 3.88,
+  "text": "do not cover shutting down access to"
+ },
+ {
+  "start": 130.44,
+  "duration": 3.519,
+  "text": "cloud software, a point that many other"
+ },
+ {
+  "start": 132.52,
+  "duration": 3.6,
+  "text": "legal commentators made as soon as the"
+ },
+ {
+  "start": 133.959,
+  "duration": 4.081,
+  "text": "ban was announced. Serving computer code"
+ },
+ {
+  "start": 136.12,
+  "duration": 3.96,
+  "text": "or text outputs from a computer isn't"
+ },
+ {
+  "start": 138.04,
+  "duration": 4.36,
+  "text": "typically seen as an export that can be"
+ },
+ {
+  "start": 140.08,
+  "duration": 4.16,
+  "text": "proper subject of export controls. In"
+ },
+ {
+  "start": 142.4,
+  "duration": 4.48,
+  "text": "the alternative, if the ban relied on"
+ },
+ {
+  "start": 144.24,
+  "duration": 4.28,
+  "text": "IEEPA power similar to sanctions, the"
+ },
+ {
+  "start": 146.88,
+  "duration": 3.56,
+  "text": "lawsuit notes that these powers do not"
+ },
+ {
+  "start": 148.52,
+  "duration": 3.36,
+  "text": "apply to information and no prerequisite"
+ },
+ {
+  "start": 150.44,
+  "duration": 3.44,
+  "text": "national security emergency was"
+ },
+ {
+  "start": 151.88,
+  "duration": 3.48,
+  "text": "declared. Further, the lawsuit argues"
+ },
+ {
+  "start": 153.88,
+  "duration": 3.68,
+  "text": "the move was overbroad and possibly"
+ },
+ {
+  "start": 155.36,
+  "duration": 3.76,
+  "text": "retaliatory towards Anthropic. It also"
+ },
+ {
+  "start": 157.56,
+  "duration": 3.08,
+  "text": "notes the decision to block distribution"
+ },
+ {
+  "start": 159.12,
+  "duration": 2.88,
+  "text": "of a model directly contradicts the"
+ },
+ {
+  "start": 160.64,
+  "duration": 3.36,
+  "text": "executive order signed at the beginning"
+ },
+ {
+  "start": 162.0,
+  "duration": 4.0,
+  "text": "of June, which ruled out the idea of a"
+ },
+ {
+  "start": 164.0,
+  "duration": 3.68,
+  "text": "model licensing scheme. In making their"
+ },
+ {
+  "start": 166.0,
+  "duration": 3.28,
+  "text": "argument, Legion centers the facts on"
+ },
+ {
+  "start": 167.68,
+  "duration": 3.12,
+  "text": "their Canadian development team losing"
+ },
+ {
+  "start": 169.28,
+  "duration": 3.16,
+  "text": "access to the model, pointing out the"
+ },
+ {
+  "start": 170.8,
+  "duration": 4.0,
+  "text": "targeting allied nations with export"
+ },
+ {
+  "start": 172.44,
+  "duration": 3.64,
+  "text": "controls is highly unusual. Anthropic,"
+ },
+ {
+  "start": 174.8,
+  "duration": 2.28,
+  "text": "for their part, remains silent on the"
+ },
+ {
+  "start": 176.08,
+  "duration": 2.44,
+  "text": "matter, and there is certainly no"
+ },
+ {
+  "start": 177.08,
+  "duration": 3.36,
+  "text": "indication this lawsuit is being filed"
+ },
+ {
+  "start": 178.52,
+  "duration": 3.24,
+  "text": "on their behalf by a third party. In"
+ },
+ {
+  "start": 180.44,
+  "duration": 2.56,
+  "text": "comments to the press, they referred to"
+ },
+ {
+  "start": 181.76,
+  "duration": 2.6,
+  "text": "previous statements indicating they're"
+ },
+ {
+  "start": 183.0,
+  "duration": 3.32,
+  "text": "grateful to the administration for"
+ },
+ {
+  "start": 184.36,
+  "duration": 3.56,
+  "text": "working quickly to resolve the issue."
+ },
+ {
+  "start": 186.32,
+  "duration": 3.68,
+  "text": "Now, in terms of the potential success"
+ },
+ {
+  "start": 187.92,
+  "duration": 3.44,
+  "text": "of this, at this point, most legal"
+ },
+ {
+  "start": 190.0,
+  "duration": 2.8,
+  "text": "analysts that I've seen seem to think"
+ },
+ {
+  "start": 191.36,
+  "duration": 3.04,
+  "text": "that the administration has gone outside"
+ },
+ {
+  "start": 192.8,
+  "duration": 2.84,
+  "text": "the bounds of the law on this one, but"
+ },
+ {
+  "start": 194.4,
+  "duration": 3.16,
+  "text": "also that it's unlikely to be a"
+ },
+ {
+  "start": 195.64,
+  "duration": 3.04,
+  "text": "clear-cut decision for a judge. And"
+ },
+ {
+  "start": 197.56,
+  "duration": 2.52,
+  "text": "frankly, none of that is going to"
+ },
+ {
+  "start": 198.68,
+  "duration": 2.92,
+  "text": "actually matter because as long as"
+ },
+ {
+  "start": 200.08,
+  "duration": 3.6,
+  "text": "Anthropic is taking it seriously, which"
+ },
+ {
+  "start": 201.6,
+  "duration": 3.8,
+  "text": "they clearly are, presumably and oh my"
+ },
+ {
+  "start": 203.68,
+  "duration": 3.279,
+  "text": "gosh, hopefully, it'll be resolved"
+ },
+ {
+  "start": 205.4,
+  "duration": 2.92,
+  "text": "through negotiation before any legal"
+ },
+ {
+  "start": 206.959,
+  "duration": 3.721,
+  "text": "process could actually make it through"
+ },
+ {
+  "start": 208.32,
+  "duration": 4.44,
+  "text": "the courts. Now, the administration's"
+ },
+ {
+  "start": 210.68,
+  "duration": 4.0,
+  "text": "friskiness when it comes to controlling"
+ },
+ {
+  "start": 212.76,
+  "duration": 3.88,
+  "text": "the flow of AI is doing nothing but"
+ },
+ {
+  "start": 214.68,
+  "duration": 3.44,
+  "text": "increasing. The most recent news is that"
+ },
+ {
+  "start": 216.64,
+  "duration": 3.72,
+  "text": "the administration is now pressuring"
+ },
+ {
+  "start": 218.12,
+  "duration": 3.56,
+  "text": "Meta to agree to voluntary model review."
+ },
+ {
+  "start": 220.36,
+  "duration": 3.0,
+  "text": "Sources told the New York Times that the"
+ },
+ {
+  "start": 221.68,
+  "duration": 2.92,
+  "text": "White House is pressing Meta to submit"
+ },
+ {
+  "start": 223.36,
+  "duration": 3.159,
+  "text": "their AI models for safety and"
+ },
+ {
+  "start": 224.6,
+  "duration": 3.919,
+  "text": "performance testing prior to release."
+ },
+ {
+  "start": 226.519,
+  "duration": 4.44,
+  "text": "Meta is currently the lone holdout among"
+ },
+ {
+  "start": 228.519,
+  "duration": 3.961,
+  "text": "major AI labs after Microsoft, xAI, and"
+ },
+ {
+  "start": 230.959,
+  "duration": 3.001,
+  "text": "Google signed agreements shortly before"
+ },
+ {
+  "start": 232.48,
+  "duration": 3.36,
+  "text": "the recent executive order on AI and"
+ },
+ {
+  "start": 233.96,
+  "duration": 3.6,
+  "text": "cybersecurity. Now, reportedly, the"
+ },
+ {
+  "start": 235.84,
+  "duration": 3.2,
+  "text": "administration's request seemed to only"
+ },
+ {
+  "start": 237.56,
+  "duration": 2.88,
+  "text": "relate to testing at the Center for AI"
+ },
+ {
+  "start": 239.04,
+  "duration": 3.16,
+  "text": "Standard and Innovation at the Commerce"
+ },
+ {
+  "start": 240.44,
+  "duration": 3.16,
+  "text": "Department, not whatever additional"
+ },
+ {
+  "start": 242.2,
+  "duration": 3.52,
+  "text": "security testing has been going on at"
+ },
+ {
+  "start": 243.6,
+  "duration": 3.32,
+  "text": "the NSA. And Meta does seem to be"
+ },
+ {
+  "start": 245.72,
+  "duration": 3.28,
+  "text": "leaning towards an agreement with a"
+ },
+ {
+  "start": 246.92,
+  "duration": 3.8,
+  "text": "spokesperson commenting, \"We share the"
+ },
+ {
+  "start": 249.0,
+  "duration": 3.52,
+  "text": "administration's goal of advancing US"
+ },
+ {
+  "start": 250.72,
+  "duration": 3.28,
+  "text": "leadership on robust and secure frontier"
+ },
+ {
+  "start": 252.52,
+  "duration": 2.88,
+  "text": "AI. While we are working through the"
+ },
+ {
+  "start": 254.0,
+  "duration": 2.48,
+  "text": "details, we hope to sign the agreement"
+ },
+ {
+  "start": 255.4,
+  "duration": 2.839,
+  "text": "soon.\""
+ },
+ {
+  "start": 256.48,
+  "duration": 3.36,
+  "text": "Still, the whole idea of pressuring a"
+ },
+ {
+  "start": 258.239,
+  "duration": 3.241,
+  "text": "company to submit their technology for"
+ },
+ {
+  "start": 259.84,
+  "duration": 3.56,
+  "text": "government testing really highlights"
+ },
+ {
+  "start": 261.48,
+  "duration": 4.4,
+  "text": "just how air quotes voluntary the"
+ },
+ {
+  "start": 263.4,
+  "duration": 4.44,
+  "text": "program actually is."
+ },
+ {
+  "start": 265.88,
+  "duration": 3.36,
+  "text": "And having contained advanced AI models,"
+ },
+ {
+  "start": 267.84,
+  "duration": 2.76,
+  "text": "the Commerce Department is reportedly"
+ },
+ {
+  "start": 269.24,
+  "duration": 3.72,
+  "text": "turning to robots as their next"
+ },
+ {
+  "start": 270.6,
+  "duration": 4.08,
+  "text": "technology to ban. Politico reports that"
+ },
+ {
+  "start": 272.96,
+  "duration": 3.32,
+  "text": "Commerce Secretary Howard Lutnick held a"
+ },
+ {
+  "start": 274.68,
+  "duration": 3.28,
+  "text": "closed-door meeting on Monday to discuss"
+ },
+ {
+  "start": 276.28,
+  "duration": 3.56,
+  "text": "the risk of Chinese-made models."
+ },
+ {
+  "start": 277.96,
+  "duration": 3.36,
+  "text": "According to notes provided to Politico,"
+ },
+ {
+  "start": 279.84,
+  "duration": 3.4,
+  "text": "Lutnick said,"
+ },
+ {
+  "start": 281.32,
+  "duration": 3.64,
+  "text": "\"We don't want state-subsidized robotics"
+ },
+ {
+  "start": 283.24,
+  "duration": 3.679,
+  "text": "attacking us in America. This is the"
+ },
+ {
+  "start": 284.96,
+  "duration": 3.36,
+  "text": "arms race that is coming. Robotic arms"
+ },
+ {
+  "start": 286.919,
+  "duration": 2.801,
+  "text": "are coming. We need to make sure they're"
+ },
+ {
+  "start": 288.32,
+  "duration": 2.92,
+  "text": "produced in America, so we're going to"
+ },
+ {
+  "start": 289.72,
+  "duration": 2.92,
+  "text": "study those right now.\" Commerce"
+ },
+ {
+  "start": 291.24,
+  "duration": 3.24,
+  "text": "Department officials reportedly view"
+ },
+ {
+  "start": 292.64,
+  "duration": 3.52,
+  "text": "state-backed Chinese robot companies as"
+ },
+ {
+  "start": 294.48,
+  "duration": 3.08,
+  "text": "a massive threat, fearing they could"
+ },
+ {
+  "start": 296.16,
+  "duration": 3.92,
+  "text": "proliferate through global markets"
+ },
+ {
+  "start": 297.56,
+  "duration": 4.24,
+  "text": "before US alternatives hit scale."
+ },
+ {
+  "start": 300.08,
+  "duration": 2.88,
+  "text": "Chinese robots are already subject to"
+ },
+ {
+  "start": 301.8,
+  "duration": 2.56,
+  "text": "steep tariffs, but the Commerce"
+ },
+ {
+  "start": 302.96,
+  "duration": 3.32,
+  "text": "Department is considering additional"
+ },
+ {
+  "start": 304.36,
+  "duration": 3.32,
+  "text": "action. The Monday meeting included more"
+ },
+ {
+  "start": 306.28,
+  "duration": 3.12,
+  "text": "than a dozen executives from major"
+ },
+ {
+  "start": 307.68,
+  "duration": 4.08,
+  "text": "firms, including Boston Dynamics,"
+ },
+ {
+  "start": 309.4,
+  "duration": 3.68,
+  "text": "SpaceX, Siemens, and Goldman Sachs. The"
+ },
+ {
+  "start": 311.76,
+  "duration": 3.52,
+  "text": "major topic of the meeting was how the"
+ },
+ {
+  "start": 313.08,
+  "duration": 3.56,
+  "text": "US can best rebuild its industrial base,"
+ },
+ {
+  "start": 315.28,
+  "duration": 3.24,
+  "text": "but apparently the risks of Chinese"
+ },
+ {
+  "start": 316.64,
+  "duration": 3.08,
+  "text": "robots dominated the discussion. One"
+ },
+ {
+  "start": 318.52,
+  "duration": 2.36,
+  "text": "source said,"
+ },
+ {
+  "start": 319.72,
+  "duration": 2.68,
+  "text": "\"The whole idea that what we're going to"
+ },
+ {
+  "start": 320.88,
+  "duration": 3.36,
+  "text": "end up with is an American brain with a"
+ },
+ {
+  "start": 322.4,
+  "duration": 3.72,
+  "text": "Chinese body is a very, very bad"
+ },
+ {
+  "start": 324.24,
+  "duration": 3.56,
+  "text": "strategic plan.\""
+ },
+ {
+  "start": 326.12,
+  "duration": 3.68,
+  "text": "Now, it's unclear from the reporting how"
+ },
+ {
+  "start": 327.8,
+  "duration": 3.64,
+  "text": "fast we should expect a crackdown, but"
+ },
+ {
+  "start": 329.8,
+  "duration": 3.76,
+  "text": "the sabers are already rattling"
+ },
+ {
+  "start": 331.44,
+  "duration": 3.44,
+  "text": "elsewhere in Washington."
+ },
+ {
+  "start": 333.56,
+  "duration": 2.96,
+  "text": "On Monday, the X account for the"
+ },
+ {
+  "start": 334.88,
+  "duration": 3.28,
+  "text": "Congressional Select Committee on China"
+ },
+ {
+  "start": 336.52,
+  "duration": 3.8,
+  "text": "posted a screenshot of a Unitree"
+ },
+ {
+  "start": 338.16,
+  "duration": 4.56,
+  "text": "humanoid robot for sale through Amazon."
+ },
+ {
+  "start": 340.32,
+  "duration": 4.08,
+  "text": "It's priced at $17,990"
+ },
+ {
+  "start": 342.72,
+  "duration": 4.0,
+  "text": "and can ship to Washington in a month."
+ },
+ {
+  "start": 344.4,
+  "duration": 3.96,
+  "text": "The Select Committee added, \"Unitree was"
+ },
+ {
+  "start": 346.72,
+  "duration": 3.36,
+  "text": "recently designated as a Chinese"
+ },
+ {
+  "start": 348.36,
+  "duration": 3.52,
+  "text": "military company, and its products are a"
+ },
+ {
+  "start": 350.08,
+  "duration": 3.64,
+  "text": "threat to our national security. Yet,"
+ },
+ {
+  "start": 351.88,
+  "duration": 3.84,
+  "text": "here is Amazon selling a Unitree robot"
+ },
+ {
+  "start": 353.72,
+  "duration": 3.4,
+  "text": "in America. We need Chairman Molnar's"
+ },
+ {
+  "start": 355.72,
+  "duration": 3.52,
+  "text": "Guard Act to stop this threat and"
+ },
+ {
+  "start": 357.12,
+  "duration": 3.52,
+  "text": "support American robotics.\" Now, several"
+ },
+ {
+  "start": 359.24,
+  "duration": 2.92,
+  "text": "Chinese robotics firms have received the"
+ },
+ {
+  "start": 360.64,
+  "duration": 4.36,
+  "text": "same designation, which many see as a"
+ },
+ {
+  "start": 362.16,
+  "duration": 4.24,
+  "text": "precursor to a Huawei-style ban."
+ },
+ {
+  "start": 365.0,
+  "duration": 3.4,
+  "text": "Now, on the topic of American-made"
+ },
+ {
+  "start": 366.4,
+  "duration": 3.16,
+  "text": "robots, Elon Musk recently said that"
+ },
+ {
+  "start": 368.4,
+  "duration": 3.28,
+  "text": "they are in the final stages of"
+ },
+ {
+  "start": 369.56,
+  "duration": 3.68,
+  "text": "completion of Optimus 3, which he says"
+ },
+ {
+  "start": 371.68,
+  "duration": 3.04,
+  "text": "is really going to be by far the most"
+ },
+ {
+  "start": 373.24,
+  "duration": 3.44,
+  "text": "advanced robot in the world. Nothing's"
+ },
+ {
+  "start": 374.72,
+  "duration": 4.88,
+  "text": "even close. But, people are, I would"
+ },
+ {
+  "start": 376.68,
+  "duration": 5.8,
+  "text": "say, fairly skeptical of those claims."
+ },
+ {
+  "start": 379.6,
+  "duration": 4.76,
+  "text": "Speaking of Elon, though, xAI has"
+ },
+ {
+  "start": 382.48,
+  "duration": 4.04,
+  "text": "followed suit to OpenAI and Anthropic"
+ },
+ {
+  "start": 384.36,
+  "duration": 3.84,
+  "text": "introducing the goals primitive in an"
+ },
+ {
+  "start": 386.52,
+  "duration": 3.52,
+  "text": "update to their coding harness Grok"
+ },
+ {
+  "start": 388.2,
+  "duration": 4.2,
+  "text": "built. As with the goal command in"
+ },
+ {
+  "start": 390.04,
+  "duration": 3.92,
+  "text": "Codex, this allows users to define an"
+ },
+ {
+  "start": 392.4,
+  "duration": 3.64,
+  "text": "outcome and set Grok to work on a"
+ },
+ {
+  "start": 393.96,
+  "duration": 3.84,
+  "text": "long-horizon task. Grok will continue"
+ },
+ {
+  "start": 396.04,
+  "duration": 3.84,
+  "text": "working across multiple steps, deploying"
+ },
+ {
+  "start": 397.8,
+  "duration": 3.56,
+  "text": "sub-agents to complete individual tasks,"
+ },
+ {
+  "start": 399.88,
+  "duration": 2.88,
+  "text": "and orchestrating the entire process"
+ },
+ {
+  "start": 401.36,
+  "duration": 3.12,
+  "text": "without user intervention. The"
+ },
+ {
+  "start": 402.76,
+  "duration": 3.72,
+  "text": "orchestration process includes planning,"
+ },
+ {
+  "start": 404.48,
+  "duration": 4.4,
+  "text": "implementation, and verification to"
+ },
+ {
+  "start": 406.48,
+  "duration": 3.56,
+  "text": "ensure a high-quality output."
+ },
+ {
+  "start": 408.88,
+  "duration": 2.84,
+  "text": "So, a couple things to make this worthy"
+ },
+ {
+  "start": 410.04,
+  "duration": 3.6,
+  "text": "of inclusion here. First of all, it"
+ },
+ {
+  "start": 411.72,
+  "duration": 4.24,
+  "text": "reinforces the idea that {slash} goal is"
+ },
+ {
+  "start": 413.64,
+  "duration": 4.4,
+  "text": "an actual new AI UX primitive, not just"
+ },
+ {
+  "start": 415.96,
+  "duration": 4.08,
+  "text": "a generic feature. But, second, this is"
+ },
+ {
+  "start": 418.04,
+  "duration": 3.44,
+  "text": "our first glimpse of what the xAI cursor"
+ },
+ {
+  "start": 420.04,
+  "duration": 3.44,
+  "text": "partnership will look like after the"
+ },
+ {
+  "start": 421.48,
+  "duration": 3.92,
+  "text": "acquisition was finalized last week. The"
+ },
+ {
+  "start": 423.48,
+  "duration": 4.439,
+  "text": "goal command natively uses a fine-tune"
+ },
+ {
+  "start": 425.4,
+  "duration": 4.6,
+  "text": "of Grok called Grok build 0.1, as well"
+ },
+ {
+  "start": 427.919,
+  "duration": 4.281,
+  "text": "as Cursor's Composer 2.5 to complete its"
+ },
+ {
+  "start": 430.0,
+  "duration": 3.76,
+  "text": "tasks. And the combination has at least"
+ },
+ {
+  "start": 432.2,
+  "duration": 3.4,
+  "text": "the potential to be more than the sum of"
+ },
+ {
+  "start": 433.76,
+  "duration": 3.48,
+  "text": "its parts. Composer is known for"
+ },
+ {
+  "start": 435.6,
+  "duration": 3.68,
+  "text": "cost-effective high performance, making"
+ },
+ {
+  "start": 437.24,
+  "duration": 3.4,
+  "text": "it a natural fit for coding sub-agents."
+ },
+ {
+  "start": 439.28,
+  "duration": 3.12,
+  "text": "And while the latest version of the"
+ },
+ {
+  "start": 440.64,
+  "duration": 3.76,
+  "text": "flagship Grok model didn't grab that"
+ },
+ {
+  "start": 442.4,
+  "duration": 4.04,
+  "text": "much attention on release, one big point"
+ },
+ {
+  "start": 444.4,
+  "duration": 3.8,
+  "text": "of differentiation it tried to make was"
+ },
+ {
+  "start": 446.44,
+  "duration": 3.64,
+  "text": "a sophisticated orchestration process"
+ },
+ {
+  "start": 448.2,
+  "duration": 3.719,
+  "text": "built into the model. When used as a"
+ },
+ {
+  "start": 450.08,
+  "duration": 3.44,
+  "text": "chatbot, this mostly just resulted in"
+ },
+ {
+  "start": 451.919,
+  "duration": 3.241,
+  "text": "sub-agents arguing over how to interpret"
+ },
+ {
+  "start": 453.52,
+  "duration": 3.84,
+  "text": "information, but that same process"
+ },
+ {
+  "start": 455.16,
+  "duration": 3.24,
+  "text": "applied to coding tasks could make Grok"
+ },
+ {
+  "start": 457.36,
+  "duration": 2.92,
+  "text": "really good at that sort of"
+ },
+ {
+  "start": 458.4,
+  "duration": 3.56,
+  "text": "orchestration. We'll see what comes next"
+ },
+ {
+  "start": 460.28,
+  "duration": 3.4,
+  "text": "and whether this makes any waves, but"
+ },
+ {
+  "start": 461.96,
+  "duration": 3.88,
+  "text": "certainly the update to build reinforces"
+ },
+ {
+  "start": 463.68,
+  "duration": 4.28,
+  "text": "the idea that xAI at this point as much"
+ },
+ {
+  "start": 465.84,
+  "duration": 4.04,
+  "text": "as SpaceX is becoming a neo cloud isn't"
+ },
+ {
+  "start": 467.96,
+  "duration": 4.6,
+  "text": "quite done releasing AI products just"
+ },
+ {
+  "start": 469.88,
+  "duration": 3.96,
+  "text": "yet. Speaking of AI products, one that"
+ },
+ {
+  "start": 472.56,
+  "duration": 4.08,
+  "text": "is getting a lot of attention is"
+ },
+ {
+  "start": 473.84,
+  "duration": 4.48,
+  "text": "ByteDance's C Dance 2.5. We started to"
+ },
+ {
+  "start": 476.64,
+  "duration": 3.44,
+  "text": "get a ton of previews of the new model,"
+ },
+ {
+  "start": 478.32,
+  "duration": 4.48,
+  "text": "which doubles maximum clip length from"
+ },
+ {
+  "start": 480.08,
+  "duration": 4.44,
+  "text": "15 to 30 seconds and adds 4K resolution."
+ },
+ {
+  "start": 482.8,
+  "duration": 3.56,
+  "text": "The new version also supports up to 50"
+ },
+ {
+  "start": 484.52,
+  "duration": 4.16,
+  "text": "input references to use as objects or"
+ },
+ {
+  "start": 486.36,
+  "duration": 4.8,
+  "text": "characters within scenes. By comparison,"
+ },
+ {
+  "start": 488.68,
+  "duration": 4.52,
+  "text": "C Dance 2.0 could handle 12 references"
+ },
+ {
+  "start": 491.16,
+  "duration": 4.6,
+  "text": "and Google's VO 3.1 released back in"
+ },
+ {
+  "start": 493.2,
+  "duration": 4.08,
+  "text": "January maxed out at three. C Dance 2.5"
+ },
+ {
+  "start": 495.76,
+  "duration": 3.56,
+  "text": "is also able to make use of image,"
+ },
+ {
+  "start": 497.28,
+  "duration": 3.72,
+  "text": "video, and audio files as references,"
+ },
+ {
+  "start": 499.32,
+  "duration": 3.76,
+  "text": "the first time anyone has moved beyond"
+ },
+ {
+  "start": 501.0,
+  "duration": 3.44,
+  "text": "images. Now, so far it doesn't look like"
+ },
+ {
+  "start": 503.08,
+  "duration": 3.04,
+  "text": "anyone has actually got their hands on"
+ },
+ {
+  "start": 504.44,
+  "duration": 3.64,
+  "text": "the model, so we're just going off of a"
+ },
+ {
+  "start": 506.12,
+  "duration": 3.32,
+  "text": "demo clip provided by ByteDance. Yet,"
+ },
+ {
+  "start": 508.08,
+  "duration": 3.2,
+  "text": "that's enough for people to suggest that"
+ },
+ {
+  "start": 509.44,
+  "duration": 3.0,
+  "text": "this will be the mythos moment of video"
+ },
+ {
+  "start": 511.28,
+  "duration": 3.12,
+  "text": "models."
+ },
+ {
+  "start": 512.44,
+  "duration": 3.8,
+  "text": "Simon Smith, who I'm fairly sure isn't"
+ },
+ {
+  "start": 514.4,
+  "duration": 3.04,
+  "text": "getting paid by ByteDance. By the way,"
+ },
+ {
+  "start": 516.24,
+  "duration": 3.04,
+  "text": "that's a joke. If you've heard Simon"
+ },
+ {
+  "start": 517.44,
+  "duration": 3.719,
+  "text": "Smith quoted here, he is very, very much"
+ },
+ {
+  "start": 519.28,
+  "duration": 3.36,
+  "text": "not getting paid by ByteDance. Wondered"
+ },
+ {
+  "start": 521.159,
+  "duration": 3.521,
+  "text": "how they managed to gain such a big lead"
+ },
+ {
+  "start": 522.64,
+  "duration": 3.64,
+  "text": "in video. He asked,"
+ },
+ {
+  "start": 524.68,
+  "duration": 3.48,
+  "text": "\"C Dance seem to be pulling away in the"
+ },
+ {
+  "start": 526.28,
+  "duration": 3.8,
+  "text": "video generation race. Is there a"
+ },
+ {
+  "start": 528.16,
+  "duration": 3.4,
+  "text": "recursive feedback loop at work here? If"
+ },
+ {
+  "start": 530.08,
+  "duration": 2.84,
+  "text": "so, what is it? Are they generating"
+ },
+ {
+  "start": 531.56,
+  "duration": 3.12,
+  "text": "training data with each generation to"
+ },
+ {
+  "start": 532.92,
+  "duration": 2.88,
+  "text": "train the next? If so, what did they do"
+ },
+ {
+  "start": 534.68,
+  "duration": 2.8,
+  "text": "to increase quality with each"
+ },
+ {
+  "start": 535.8,
+  "duration": 3.16,
+  "text": "iteration?\" Whatever it is, the corpus"
+ },
+ {
+  "start": 537.48,
+  "duration": 4.32,
+  "text": "of training content they have access to"
+ },
+ {
+  "start": 538.96,
+  "duration": 4.08,
+  "text": "through TikTok seems to be paying off."
+ },
+ {
+  "start": 541.8,
+  "duration": 2.64,
+  "text": "Lastly today, I don't want to get into"
+ },
+ {
+  "start": 543.04,
+  "duration": 3.32,
+  "text": "it deeply, but one story that I am"
+ },
+ {
+  "start": 544.44,
+  "duration": 3.36,
+  "text": "keeping an eye on is some of the market"
+ },
+ {
+  "start": 546.36,
+  "duration": 3.16,
+  "text": "moves that I had previously discussed"
+ },
+ {
+  "start": 547.8,
+  "duration": 3.84,
+  "text": "with regard to Google specifically"
+ },
+ {
+  "start": 549.52,
+  "duration": 3.12,
+  "text": "moving to a broader AI sell-off. To the"
+ },
+ {
+  "start": 551.64,
+  "duration": 2.84,
+  "text": "extent that this becomes a more"
+ },
+ {
+  "start": 552.64,
+  "duration": 3.44,
+  "text": "significant narrative trend as opposed"
+ },
+ {
+  "start": 554.48,
+  "duration": 3.359,
+  "text": "to just a particular market moment,"
+ },
+ {
+  "start": 556.08,
+  "duration": 2.96,
+  "text": "we'll come back and explore it more. For"
+ },
+ {
+  "start": 557.839,
+  "duration": 4.721,
+  "text": "now, that's going to do it for today's"
+ },
+ {
+  "start": 559.04,
+  "duration": 5.0,
+  "text": "headlines. Next up, the main episode."
+ },
+ {
+  "start": 562.56,
+  "duration": 3.279,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 564.04,
+  "duration": 4.88,
+  "text": "Sometimes big stories in AI are"
+ },
+ {
+  "start": 565.839,
+  "duration": 4.561,
+  "text": "extremely obvious. For example, the US"
+ },
+ {
+  "start": 568.92,
+  "duration": 3.04,
+  "text": "government sending a note telling"
+ },
+ {
+  "start": 570.4,
+  "duration": 3.88,
+  "text": "Anthropic that they're using export"
+ },
+ {
+  "start": 571.96,
+  "duration": 4.36,
+  "text": "controls to deny access to the latest"
+ },
+ {
+  "start": 574.28,
+  "duration": 3.92,
+  "text": "model to everyone who's not American,"
+ },
+ {
+  "start": 576.32,
+  "duration": 3.24,
+  "text": "and Anthropic responding by taking down"
+ },
+ {
+  "start": 578.2,
+  "duration": 3.64,
+  "text": "the model that they had released just a"
+ },
+ {
+  "start": 579.56,
+  "duration": 4.36,
+  "text": "few days ago for everyone, that's a big"
+ },
+ {
+  "start": 581.84,
+  "duration": 3.48,
+  "text": "story in a very obvious way. Today's"
+ },
+ {
+  "start": 583.92,
+  "duration": 3.28,
+  "text": "story is big not because of some"
+ },
+ {
+  "start": 585.32,
+  "duration": 3.84,
+  "text": "geopolitical implications, but because"
+ },
+ {
+  "start": 587.2,
+  "duration": 4.16,
+  "text": "of the way that it potentially changes"
+ },
+ {
+  "start": 589.16,
+  "duration": 4.28,
+  "text": "at somewhat of a core level how we think"
+ },
+ {
+  "start": 591.36,
+  "duration": 3.44,
+  "text": "about interacting with AI at work. Now,"
+ },
+ {
+  "start": 593.44,
+  "duration": 3.32,
+  "text": "the feature we're discussing is called"
+ },
+ {
+  "start": 594.8,
+  "duration": 3.92,
+  "text": "Claude Tag, which Claude announced on"
+ },
+ {
+  "start": 596.76,
+  "duration": 3.28,
+  "text": "Tuesday as a new way for teams to work"
+ },
+ {
+  "start": 598.72,
+  "duration": 4.0,
+  "text": "with Claude. And to put it really"
+ },
+ {
+  "start": 600.04,
+  "duration": 4.76,
+  "text": "simply, it's basically Claude in Slack,"
+ },
+ {
+  "start": 602.72,
+  "duration": 4.68,
+  "text": "but not just as a different channel to"
+ },
+ {
+  "start": 604.8,
+  "duration": 4.68,
+  "text": "prompt Claude, but instead as a full"
+ },
+ {
+  "start": 607.4,
+  "duration": 3.4,
+  "text": "team member that has access to all of"
+ },
+ {
+  "start": 609.48,
+  "duration": 3.04,
+  "text": "the context from all the different"
+ },
+ {
+  "start": 610.8,
+  "duration": 3.12,
+  "text": "channels, as well as the different tools"
+ },
+ {
+  "start": 612.52,
+  "duration": 2.92,
+  "text": "that your team is already using."
+ },
+ {
+  "start": 613.92,
+  "duration": 3.6,
+  "text": "Anthropic writes,"
+ },
+ {
+  "start": 615.44,
+  "duration": 3.76,
+  "text": "\"Claude Tag is an evolution of Claude"
+ },
+ {
+  "start": 617.52,
+  "duration": 3.32,
+  "text": "Code made more proactive and built to"
+ },
+ {
+  "start": 619.2,
+  "duration": 2.96,
+  "text": "work with a full team. It's now one of"
+ },
+ {
+  "start": 620.84,
+  "duration": 3.72,
+  "text": "the main ways we get things done at"
+ },
+ {
+  "start": 622.16,
+  "duration": 3.84,
+  "text": "Anthropic. 65% of our product teams'"
+ },
+ {
+  "start": 624.56,
+  "duration": 3.72,
+  "text": "code now comes from our internal"
+ },
+ {
+  "start": 626.0,
+  "duration": 4.24,
+  "text": "version. Tag Claude with a request and"
+ },
+ {
+  "start": 628.28,
+  "duration": 3.0,
+  "text": "it breaks the task into stages, works"
+ },
+ {
+  "start": 630.24,
+  "duration": 2.88,
+  "text": "through them with the tools it has"
+ },
+ {
+  "start": 631.28,
+  "duration": 3.44,
+  "text": "access to, and responds in the thread"
+ },
+ {
+  "start": 633.12,
+  "duration": 4.04,
+  "text": "with what it creates. It'll write a"
+ },
+ {
+  "start": 634.72,
+  "duration": 4.36,
+  "text": "merge pull requests, run data analysis,"
+ },
+ {
+  "start": 637.16,
+  "duration": 3.84,
+  "text": "or help resolve an incident. In a"
+ },
+ {
+  "start": 639.08,
+  "duration": 3.48,
+  "text": "channel, that's a channel on Slack,"
+ },
+ {
+  "start": 641.0,
+  "duration": 3.16,
+  "text": "there's one Claude that interacts with"
+ },
+ {
+  "start": 642.56,
+  "duration": 3.36,
+  "text": "everyone, so a teammate can pick up"
+ },
+ {
+  "start": 644.16,
+  "duration": 3.2,
+  "text": "exactly where you left off. It builds"
+ },
+ {
+  "start": 645.92,
+  "duration": 3.12,
+  "text": "more context about the work as it"
+ },
+ {
+  "start": 647.36,
+  "duration": 3.88,
+  "text": "follows the channel, so you don't need"
+ },
+ {
+  "start": 649.04,
+  "duration": 3.88,
+  "text": "to explain things from scratch. Turn"
+ },
+ {
+  "start": 651.24,
+  "duration": 3.32,
+  "text": "ambient behavior on and Claude takes"
+ },
+ {
+  "start": 652.92,
+  "duration": 3.08,
+  "text": "initiative. It follows up on threads"
+ },
+ {
+  "start": 654.56,
+  "duration": 2.88,
+  "text": "that have gone quiet and flags what's"
+ },
+ {
+  "start": 656.0,
+  "duration": 2.68,
+  "text": "relevant from across its channels and"
+ },
+ {
+  "start": 657.44,
+  "duration": 2.96,
+  "text": "tools."
+ },
+ {
+  "start": 658.68,
+  "duration": 3.0,
+  "text": "So, for someone who's moving fast, you"
+ },
+ {
+  "start": 660.4,
+  "duration": 3.12,
+  "text": "could be forgiven for thinking it's just"
+ },
+ {
+  "start": 661.68,
+  "duration": 3.24,
+  "text": "another agent in Slack sort of"
+ },
+ {
+  "start": 663.52,
+  "duration": 3.4,
+  "text": "announcement, of which we've had a fair"
+ },
+ {
+  "start": 664.92,
+  "duration": 3.84,
+  "text": "few. But just based on the way that the"
+ },
+ {
+  "start": 666.92,
+  "duration": 4.4,
+  "text": "Anthropic team was talking about it,"
+ },
+ {
+  "start": 668.76,
+  "duration": 4.28,
+  "text": "there's clearly something going on here."
+ },
+ {
+  "start": 671.32,
+  "duration": 2.76,
+  "text": "Anthropic team member Alexander Brekken"
+ },
+ {
+  "start": 673.04,
+  "duration": 2.76,
+  "text": "writes,"
+ },
+ {
+  "start": 674.08,
+  "duration": 3.52,
+  "text": "\"Claude Tag has completely changed the"
+ },
+ {
+  "start": 675.8,
+  "duration": 3.36,
+  "text": "way we do work at Anthropic. Having the"
+ },
+ {
+  "start": 677.6,
+  "duration": 3.0,
+  "text": "multiplayer experience of Claude within"
+ },
+ {
+  "start": 679.16,
+  "duration": 3.0,
+  "text": "Slack with all of the fundamental"
+ },
+ {
+  "start": 680.6,
+  "duration": 3.08,
+  "text": "primitives of Claude Code, like"
+ },
+ {
+  "start": 682.16,
+  "duration": 3.44,
+  "text": "proactivity, sub-agents, and long"
+ },
+ {
+  "start": 683.68,
+  "duration": 4.04,
+  "text": "horizon task management, is an entirely"
+ },
+ {
+  "start": 685.6,
+  "duration": 4.04,
+  "text": "new way to do work asynchronously.\""
+ },
+ {
+  "start": 687.72,
+  "duration": 4.6,
+  "text": "Tobin South writes, \"Claude Tag is how I"
+ },
+ {
+  "start": 689.64,
+  "duration": 4.28,
+  "text": "do 90% plus of my work. I even had"
+ },
+ {
+  "start": 692.32,
+  "duration": 3.64,
+  "text": "people from Anthropic texting me"
+ },
+ {
+  "start": 693.92,
+  "duration": 3.88,
+  "text": "specifically when I didn't cover it on"
+ },
+ {
+  "start": 695.96,
+  "duration": 3.28,
+  "text": "yesterday's show, basically arguing"
+ },
+ {
+  "start": 697.8,
+  "duration": 3.48,
+  "text": "behind the scenes that this is a big"
+ },
+ {
+  "start": 699.24,
+  "duration": 3.32,
+  "text": "deal. Now, I had already begun planning"
+ },
+ {
+  "start": 701.28,
+  "duration": 3.0,
+  "text": "this episode when those texts started"
+ },
+ {
+  "start": 702.56,
+  "duration": 3.24,
+  "text": "coming in, but still that should tell"
+ },
+ {
+  "start": 704.28,
+  "duration": 3.72,
+  "text": "you how the team behind it views its"
+ },
+ {
+  "start": 705.8,
+  "duration": 4.0,
+  "text": "significance. Now, this is not the only"
+ },
+ {
+  "start": 708.0,
+  "duration": 3.64,
+  "text": "feature of this type that's available."
+ },
+ {
+  "start": 709.8,
+  "duration": 3.72,
+  "text": "Now, Anthropic is not the first company"
+ },
+ {
+  "start": 711.64,
+  "duration": 4.04,
+  "text": "to release something like this. The Semi"
+ },
+ {
+  "start": 713.52,
+  "duration": 4.16,
+  "text": "Analysis team wrote, \"Perplexity's"
+ },
+ {
+  "start": 715.68,
+  "duration": 4.0,
+  "text": "computer slot co-worker has been wildly"
+ },
+ {
+  "start": 717.68,
+  "duration": 3.28,
+  "text": "useful internally at Semi Analysis,"
+ },
+ {
+  "start": 719.68,
+  "duration": 2.76,
+  "text": "which is why Anthropic launched a"
+ },
+ {
+  "start": 720.96,
+  "duration": 3.52,
+  "text": "computing product. The team is"
+ },
+ {
+  "start": 722.44,
+  "duration": 3.52,
+  "text": "configuring Claude tag AI co-workers and"
+ },
+ {
+  "start": 724.48,
+  "duration": 3.28,
+  "text": "is excited to compare and contrast them"
+ },
+ {
+  "start": 725.96,
+  "duration": 4.04,
+  "text": "with Perplexity computer.\" Click"
+ },
+ {
+  "start": 727.76,
+  "duration": 4.72,
+  "text": "Health's Simon Smith wrote, \"Immediately"
+ },
+ {
+  "start": 730.0,
+  "duration": 4.4,
+  "text": "asked our CTO to activate Claude tag. We"
+ },
+ {
+  "start": 732.48,
+  "duration": 3.44,
+  "text": "already use ChatGPT workspace agents in"
+ },
+ {
+  "start": 734.4,
+  "duration": 3.2,
+  "text": "Slack. They're great for a bunch of use"
+ },
+ {
+  "start": 735.92,
+  "duration": 3.36,
+  "text": "cases like providing support based on"
+ },
+ {
+  "start": 737.6,
+  "duration": 3.28,
+  "text": "prior resolved Slack posts and"
+ },
+ {
+  "start": 739.28,
+  "duration": 3.48,
+  "text": "summarizing Slack activity to create a"
+ },
+ {
+  "start": 740.88,
+  "duration": 3.8,
+  "text": "weekly brief. The difference with Claude"
+ },
+ {
+  "start": 742.76,
+  "duration": 3.68,
+  "text": "tag is that this level of configuration"
+ },
+ {
+  "start": 744.68,
+  "duration": 3.28,
+  "text": "isn't even necessary. You just drop"
+ },
+ {
+  "start": 746.44,
+  "duration": 3.48,
+  "text": "Claude into a Slack channel and it picks"
+ },
+ {
+  "start": 747.96,
+  "duration": 3.48,
+  "text": "up the context and becomes useful. We"
+ },
+ {
+  "start": 749.92,
+  "duration": 3.52,
+  "text": "currently create one Slack channel per"
+ },
+ {
+  "start": 751.44,
+  "duration": 3.68,
+  "text": "project. We've historically also created"
+ },
+ {
+  "start": 753.44,
+  "duration": 2.88,
+  "text": "ChatGPT projects and Notebook LM"
+ },
+ {
+  "start": 755.12,
+  "duration": 3.36,
+  "text": "notebooks along with those Slack"
+ },
+ {
+  "start": 756.32,
+  "duration": 3.6,
+  "text": "channels to work with AI, duplicating or"
+ },
+ {
+  "start": 758.48,
+  "duration": 3.64,
+  "text": "triplicating context across all those"
+ },
+ {
+  "start": 759.92,
+  "duration": 3.56,
+  "text": "surfaces. Now, we can just create the"
+ },
+ {
+  "start": 762.12,
+  "duration": 3.08,
+  "text": "Slack channel as we've always done and"
+ },
+ {
+  "start": 763.48,
+  "duration": 3.72,
+  "text": "drop Claude in. I also think this will"
+ },
+ {
+  "start": 765.2,
+  "duration": 3.639,
+  "text": "massively help with AI diffusion. People"
+ },
+ {
+  "start": 767.2,
+  "duration": 2.76,
+  "text": "don't have to install Claude desktop to"
+ },
+ {
+  "start": 768.839,
+  "duration": 2.921,
+  "text": "access Claude's most powerful"
+ },
+ {
+  "start": 769.96,
+  "duration": 3.4,
+  "text": "capabilities in co-work and code. They"
+ },
+ {
+  "start": 771.76,
+  "duration": 3.44,
+  "text": "can just interact with Claude as if it's"
+ },
+ {
+  "start": 773.36,
+  "duration": 4.04,
+  "text": "another person in Slack.\""
+ },
+ {
+  "start": 775.2,
+  "duration": 3.96,
+  "text": "No less than Andrej Karpathy argued that"
+ },
+ {
+  "start": 777.4,
+  "duration": 4.0,
+  "text": "this is indeed a bigger deal than it"
+ },
+ {
+  "start": 779.16,
+  "duration": 4.72,
+  "text": "seems at first. He wrote,"
+ },
+ {
+  "start": 781.4,
+  "duration": 4.56,
+  "text": "\"This is a new paradigm for interacting"
+ },
+ {
+  "start": 783.88,
+  "duration": 3.6,
+  "text": "with Claude that is significantly more"
+ },
+ {
+  "start": 785.96,
+  "duration": 3.52,
+  "text": "in line with all the other human"
+ },
+ {
+  "start": 787.48,
+  "duration": 3.28,
+  "text": "activity org wide. Once you do all of"
+ },
+ {
+  "start": 789.48,
+  "duration": 3.24,
+  "text": "the under the hood engineering work to"
+ },
+ {
+  "start": 790.76,
+  "duration": 3.24,
+  "text": "make this just work, e.g., across tools,"
+ },
+ {
+  "start": 792.72,
+  "duration": 3.4,
+  "text": "integrations, compute environments,"
+ },
+ {
+  "start": 794.0,
+  "duration": 3.839,
+  "text": "memory, security, etc., Claude basically"
+ },
+ {
+  "start": 796.12,
+  "duration": 2.88,
+  "text": "joins the team in a seamless way. You"
+ },
+ {
+  "start": 797.839,
+  "duration": 2.721,
+  "text": "can talk to it as you would talk to a"
+ },
+ {
+  "start": 799.0,
+  "duration": 3.92,
+  "text": "person and it can help with a very large"
+ },
+ {
+  "start": 800.56,
+  "duration": 4.88,
+  "text": "variety of workloads. In my opinion,"
+ },
+ {
+  "start": 802.92,
+  "duration": 5.0,
+  "text": "this is the third major redesign of LLM"
+ },
+ {
+  "start": 805.44,
+  "duration": 4.76,
+  "text": "UI/UX. The first paradigm was that the"
+ },
+ {
+  "start": 807.92,
+  "duration": 3.92,
+  "text": "LLM is a website you go to. The second"
+ },
+ {
+  "start": 810.2,
+  "duration": 3.56,
+  "text": "was that it is an app you download on"
+ },
+ {
+  "start": 811.84,
+  "duration": 3.4,
+  "text": "your computer. The third one is that it"
+ },
+ {
+  "start": 813.76,
+  "duration": 3.4,
+  "text": "is a self-contained, persistent,"
+ },
+ {
+  "start": 815.24,
+  "duration": 4.0,
+  "text": "asynchronous entity with org-wide tools"
+ },
+ {
+  "start": 817.16,
+  "duration": 3.96,
+  "text": "and context working alongside teams of"
+ },
+ {
+  "start": 819.24,
+  "duration": 3.72,
+  "text": "humans. It really takes a while to wrap"
+ },
+ {
+  "start": 821.12,
+  "duration": 3.08,
+  "text": "your head around it, but it works and it"
+ },
+ {
+  "start": 822.96,
+  "duration": 3.24,
+  "text": "is awesome."
+ },
+ {
+  "start": 824.2,
+  "duration": 3.92,
+  "text": "Now, for a lot of folks, the big"
+ },
+ {
+  "start": 826.2,
+  "duration": 4.24,
+  "text": "eye-blinking statistic was that"
+ },
+ {
+  "start": 828.12,
+  "duration": 4.8,
+  "text": "Anthropic is saying that 65% of their"
+ },
+ {
+  "start": 830.44,
+  "duration": 5.68,
+  "text": "product team's code now comes from"
+ },
+ {
+  "start": 832.92,
+  "duration": 5.2,
+  "text": "Claude tag. Ejaz wrote, \"It's blowing my"
+ },
+ {
+  "start": 836.12,
+  "duration": 3.88,
+  "text": "mind that 65% of product code at"
+ },
+ {
+  "start": 838.12,
+  "duration": 3.52,
+  "text": "Anthropic is now written by tagging"
+ },
+ {
+  "start": 840.0,
+  "duration": 3.76,
+  "text": "Claude in group chats of staff"
+ },
+ {
+  "start": 841.64,
+  "duration": 3.48,
+  "text": "discussing what they want to build. RIP"
+ },
+ {
+  "start": 843.76,
+  "duration": 2.92,
+  "text": "the days of tediously writing long"
+ },
+ {
+  "start": 845.12,
+  "duration": 2.88,
+  "text": "product docs. Now, you can literally go"
+ },
+ {
+  "start": 846.68,
+  "duration": 3.28,
+  "text": "from Slack to a production-ready"
+ },
+ {
+  "start": 848.0,
+  "duration": 3.24,
+  "text": "feature. Claude code is barely a year"
+ },
+ {
+  "start": 849.96,
+  "duration": 3.64,
+  "text": "old, by the way.\""
+ },
+ {
+  "start": 851.24,
+  "duration": 4.68,
+  "text": "Developer Nick Dobos wrote, \"Anthropic"
+ },
+ {
+  "start": 853.6,
+  "duration": 4.08,
+  "text": "isn't using Claude code anymore? Major"
+ },
+ {
+  "start": 855.92,
+  "duration": 2.96,
+  "text": "agent UX shift alert. And I think this"
+ },
+ {
+  "start": 857.68,
+  "duration": 2.52,
+  "text": "is one of the sneaky things that's going"
+ },
+ {
+  "start": 858.88,
+  "duration": 3.16,
+  "text": "to take people a little while to fully"
+ },
+ {
+  "start": 860.2,
+  "duration": 4.0,
+  "text": "wrap their heads around. While you might"
+ },
+ {
+  "start": 862.04,
+  "duration": 4.6,
+  "text": "be tagging at Claude, what you're really"
+ },
+ {
+  "start": 864.2,
+  "duration": 4.36,
+  "text": "calling upon is Claude code.\""
+ },
+ {
+  "start": 866.64,
+  "duration": 4.04,
+  "text": "Now, certainly, both Anthropic and"
+ },
+ {
+  "start": 868.56,
+  "duration": 4.0,
+  "text": "OpenAI have already spent lots of cycles"
+ },
+ {
+  "start": 870.68,
+  "duration": 3.36,
+  "text": "trying to make the coding capabilities"
+ },
+ {
+  "start": 872.56,
+  "duration": 3.44,
+  "text": "of their tools more accessible for"
+ },
+ {
+  "start": 874.04,
+  "duration": 3.72,
+  "text": "non-coders, but this is the biggest move"
+ },
+ {
+  "start": 876.0,
+  "duration": 3.6,
+  "text": "in that direction yet. When Claude"
+ },
+ {
+  "start": 877.76,
+  "duration": 3.48,
+  "text": "already exists in the workspace that"
+ },
+ {
+  "start": 879.6,
+  "duration": 3.76,
+  "text": "you're operating in, the barrier to"
+ },
+ {
+  "start": 881.24,
+  "duration": 3.68,
+  "text": "using it to build something is having an"
+ },
+ {
+  "start": 883.36,
+  "duration": 3.479,
+  "text": "idea and dropping it into the Slack"
+ },
+ {
+  "start": 884.92,
+  "duration": 4.4,
+  "text": "where you're already working. Now, while"
+ },
+ {
+  "start": 886.839,
+  "duration": 3.841,
+  "text": "it's early days for non-Anthropic users,"
+ },
+ {
+  "start": 889.32,
+  "duration": 2.96,
+  "text": "many were quick to share what they had"
+ },
+ {
+  "start": 890.68,
+  "duration": 3.4,
+  "text": "learned from using Claude tag over the"
+ },
+ {
+  "start": 892.28,
+  "duration": 3.88,
+  "text": "past few weeks or months. Claude code"
+ },
+ {
+  "start": 894.08,
+  "duration": 4.12,
+  "text": "team member Tariq pointed out that each"
+ },
+ {
+  "start": 896.16,
+  "duration": 4.12,
+  "text": "Claude in each channel is different. One"
+ },
+ {
+  "start": 898.2,
+  "duration": 3.76,
+  "text": "suggestion he had was to introduce"
+ },
+ {
+  "start": 900.28,
+  "duration": 2.88,
+  "text": "{air-quotes} Claude to a new channel"
+ },
+ {
+  "start": 901.96,
+  "duration": 2.76,
+  "text": "with a pin message and a set of"
+ },
+ {
+  "start": 903.16,
+  "duration": 3.0,
+  "text": "instructions to remember, like which"
+ },
+ {
+  "start": 904.72,
+  "duration": 2.92,
+  "text": "persona to take, when to respond, et"
+ },
+ {
+  "start": 906.16,
+  "duration": 3.2,
+  "text": "cetera. He says you can think of it like"
+ },
+ {
+  "start": 907.64,
+  "duration": 3.52,
+  "text": "it's Claude.md because all of this will"
+ },
+ {
+  "start": 909.36,
+  "duration": 3.6,
+  "text": "get added to its memory. Tariq also"
+ },
+ {
+  "start": 911.16,
+  "duration": 3.8,
+  "text": "suggests having a personal channel,"
+ },
+ {
+  "start": 912.96,
+  "duration": 3.24,
+  "text": "e.g., Tariq-Claude, where you can tag"
+ },
+ {
+  "start": 914.96,
+  "duration": 3.0,
+  "text": "Claude for your own work and give it"
+ },
+ {
+  "start": 916.2,
+  "duration": 3.48,
+  "text": "instructions specific to you. You can"
+ },
+ {
+  "start": 917.96,
+  "duration": 3.84,
+  "text": "then forward other messages to that"
+ },
+ {
+  "start": 919.68,
+  "duration": 4.04,
+  "text": "channel, so your Claude can get to work"
+ },
+ {
+  "start": 921.8,
+  "duration": 3.8,
+  "text": "the way you like. He also noted that"
+ },
+ {
+  "start": 923.72,
+  "duration": 3.36,
+  "text": "this helps with overwhelm because when"
+ },
+ {
+  "start": 925.6,
+  "duration": 3.2,
+  "text": "things get going, it can be hard to keep"
+ },
+ {
+  "start": 927.08,
+  "duration": 3.52,
+  "text": "track of all the threads. He wrote, \"In"
+ },
+ {
+  "start": 928.8,
+  "duration": 3.32,
+  "text": "my personal channel, I like to ask"
+ },
+ {
+  "start": 930.6,
+  "duration": 3.36,
+  "text": "Claude to keep a pin message that it"
+ },
+ {
+  "start": 932.12,
+  "duration": 4.08,
+  "text": "updates with the status of everything.\""
+ },
+ {
+  "start": 933.96,
+  "duration": 3.68,
+  "text": "He even uses a set of emojis to be able"
+ },
+ {
+  "start": 936.2,
+  "duration": 3.44,
+  "text": "to help him understand where different"
+ },
+ {
+  "start": 937.64,
+  "duration": 3.84,
+  "text": "work streams are in a single glance."
+ },
+ {
+  "start": 939.64,
+  "duration": 3.8,
+  "text": "Chris Taylor from Fractional, who joined"
+ },
+ {
+  "start": 941.48,
+  "duration": 3.12,
+  "text": "the broader Anthropic ecosystem to run"
+ },
+ {
+  "start": 943.44,
+  "duration": 2.88,
+  "text": "their version of a forward-deployed"
+ },
+ {
+  "start": 944.6,
+  "duration": 3.44,
+  "text": "engineering group, described how they"
+ },
+ {
+  "start": 946.32,
+  "duration": 2.88,
+  "text": "had been using it across their company."
+ },
+ {
+  "start": 948.04,
+  "duration": 2.96,
+  "text": "He said it kind of works like a"
+ },
+ {
+  "start": 949.2,
+  "duration": 3.64,
+  "text": "co-worker that just picks things up. It"
+ },
+ {
+  "start": 951.0,
+  "duration": 3.0,
+  "text": "owns busy work, daily status summaries,"
+ },
+ {
+  "start": 952.84,
+  "duration": 2.64,
+  "text": "following up when people are out of"
+ },
+ {
+  "start": 954.0,
+  "duration": 3.2,
+  "text": "office, nudging teammates on open"
+ },
+ {
+  "start": 955.48,
+  "duration": 3.56,
+  "text": "to-dos, pushing back due dates as plans"
+ },
+ {
+  "start": 957.2,
+  "duration": 3.72,
+  "text": "shift. Chris said that when one of its"
+ },
+ {
+  "start": 959.04,
+  "duration": 3.4,
+  "text": "own scheduled tasks started misfiring,"
+ },
+ {
+  "start": 960.92,
+  "duration": 3.4,
+  "text": "it caught the bug, fixed it, and wrote"
+ },
+ {
+  "start": 962.44,
+  "duration": 3.68,
+  "text": "it up without being asked. He also said"
+ },
+ {
+  "start": 964.32,
+  "duration": 3.28,
+  "text": "that it manages itself. We needed"
+ },
+ {
+  "start": 966.12,
+  "duration": 3.04,
+  "text": "somewhere to track bugs and ideas for"
+ },
+ {
+  "start": 967.6,
+  "duration": 3.28,
+  "text": "Claude tag while we were testing it, so"
+ },
+ {
+  "start": 969.16,
+  "duration": 4.04,
+  "text": "it built that tracker for us and files"
+ },
+ {
+  "start": 970.88,
+  "duration": 3.84,
+  "text": "every new issue and use case on its own."
+ },
+ {
+  "start": 973.2,
+  "duration": 3.64,
+  "text": "Finally, reinforcing that this is in"
+ },
+ {
+  "start": 974.72,
+  "duration": 4.24,
+  "text": "fact a fully fledged version of Claude"
+ },
+ {
+  "start": 976.84,
+  "duration": 4.16,
+  "text": "code, not just Claude, he says it writes"
+ },
+ {
+  "start": 978.96,
+  "duration": 3.44,
+  "text": "and ships. Handed one of our codebases,"
+ },
+ {
+  "start": 981.0,
+  "duration": 3.08,
+  "text": "Claude read through it, wrote up the 10"
+ },
+ {
+  "start": 982.4,
+  "duration": 3.28,
+  "text": "most important problems to fix, stack"
+ },
+ {
+  "start": 984.08,
+  "duration": 4.32,
+  "text": "ranked, then made the changes and opened"
+ },
+ {
+  "start": 985.68,
+  "duration": 4.04,
+  "text": "them for review all in Slack. The Claude"
+ },
+ {
+  "start": 988.4,
+  "duration": 3.68,
+  "text": "dev team shared that they're using it"
+ },
+ {
+  "start": 989.72,
+  "duration": 3.8,
+  "text": "for incident response, bug triage,"
+ },
+ {
+  "start": 992.08,
+  "duration": 3.04,
+  "text": "dependent work, i.e., work that's"
+ },
+ {
+  "start": 993.52,
+  "duration": 4.08,
+  "text": "blocked on something else, background"
+ },
+ {
+  "start": 995.12,
+  "duration": 4.32,
+  "text": "watching, and monitoring metrics."
+ },
+ {
+  "start": 997.6,
+  "duration": 4.0,
+  "text": "Nityesh from the Every team wrote about"
+ },
+ {
+  "start": 999.44,
+  "duration": 4.68,
+  "text": "why this will feel familiar to many. He"
+ },
+ {
+  "start": 1001.6,
+  "duration": 4.4,
+  "text": "said, \"Claude tag has completely changed"
+ },
+ {
+  "start": 1004.12,
+  "duration": 4.2,
+  "text": "the way I do work for the last 4 months."
+ },
+ {
+  "start": 1006.0,
+  "duration": 3.839,
+  "text": "Except, it's not Claude tag. Anthropic"
+ },
+ {
+  "start": 1008.32,
+  "duration": 2.92,
+  "text": "only announced that a few hours ago, and"
+ },
+ {
+  "start": 1009.839,
+  "duration": 2.921,
+  "text": "I don't even have access to it. But, I"
+ },
+ {
+  "start": 1011.24,
+  "duration": 3.04,
+  "text": "did build a version of it for myself,"
+ },
+ {
+  "start": 1012.76,
+  "duration": 2.88,
+  "text": "which I've been using for months now.\""
+ },
+ {
+  "start": 1014.28,
+  "duration": 3.28,
+  "text": "Basically, he said that after open"
+ },
+ {
+  "start": 1015.64,
+  "duration": 3.56,
+  "text": "Claude came online, he built a harness"
+ },
+ {
+  "start": 1017.56,
+  "duration": 2.92,
+  "text": "that allowed him to turn any Mac into an"
+ },
+ {
+  "start": 1019.2,
+  "duration": 3.16,
+  "text": "AI employee with the Claude code"
+ },
+ {
+  "start": 1020.48,
+  "duration": 3.24,
+  "text": "headless mode. He then ended up building"
+ },
+ {
+  "start": 1022.36,
+  "duration": 2.599,
+  "text": "three such employees and had them"
+ },
+ {
+  "start": 1023.72,
+  "duration": 2.56,
+  "text": "working in Slack for the last few"
+ },
+ {
+  "start": 1024.959,
+  "duration": 3.681,
+  "text": "months."
+ },
+ {
+  "start": 1026.28,
+  "duration": 3.76,
+  "text": "Now, this idea of agents inside Slack is"
+ },
+ {
+  "start": 1028.64,
+  "duration": 3.28,
+  "text": "also something that we've experimented a"
+ },
+ {
+  "start": 1030.04,
+  "duration": 3.0,
+  "text": "lot with over here as well."
+ },
+ {
+  "start": 1031.92,
+  "duration": 3.039,
+  "text": "One of the reasons that I burned through"
+ },
+ {
+  "start": 1033.04,
+  "duration": 3.48,
+  "text": "a billion tokens in March is that I was"
+ },
+ {
+  "start": 1034.959,
+  "duration": 3.801,
+  "text": "experimenting with a series of AI"
+ },
+ {
+  "start": 1036.52,
+  "duration": 3.72,
+  "text": "enablement agents that lived in Slack"
+ },
+ {
+  "start": 1038.76,
+  "duration": 3.6,
+  "text": "and could do things like figuring out"
+ },
+ {
+  "start": 1040.24,
+  "duration": 4.0,
+  "text": "how we were using AI, providing coaching"
+ },
+ {
+  "start": 1042.36,
+  "duration": 3.719,
+  "text": "on how to better use AI, and developing"
+ },
+ {
+  "start": 1044.24,
+  "duration": 3.24,
+  "text": "overall AI strategy."
+ },
+ {
+  "start": 1046.079,
+  "duration": 3.561,
+  "text": "Now, you also might remember me talking"
+ },
+ {
+  "start": 1047.48,
+  "duration": 4.68,
+  "text": "about a month ago about how the team at"
+ },
+ {
+  "start": 1049.64,
+  "duration": 4.48,
+  "text": "Every had shifted their agent strategy"
+ },
+ {
+  "start": 1052.16,
+  "duration": 4.12,
+  "text": "from originally having every employee"
+ },
+ {
+  "start": 1054.12,
+  "duration": 4.08,
+  "text": "build an AI agent version of themselves"
+ },
+ {
+  "start": 1056.28,
+  "duration": 3.36,
+  "text": "to instead having a group of agents that"
+ },
+ {
+  "start": 1058.2,
+  "duration": 3.08,
+  "text": "worked across employees based on"
+ },
+ {
+  "start": 1059.64,
+  "duration": 3.88,
+  "text": "function and goal and had shared"
+ },
+ {
+  "start": 1061.28,
+  "duration": 3.88,
+  "text": "context. Claude Tag in many ways seems"
+ },
+ {
+  "start": 1063.52,
+  "duration": 3.84,
+  "text": "to be institutionalizing some of those"
+ },
+ {
+  "start": 1065.16,
+  "duration": 3.72,
+  "text": "shifts as best practice."
+ },
+ {
+  "start": 1067.36,
+  "duration": 3.36,
+  "text": "So, trying to sum this all up, let's"
+ },
+ {
+  "start": 1068.88,
+  "duration": 4.44,
+  "text": "talk about the five big shifts that I"
+ },
+ {
+  "start": 1070.72,
+  "duration": 4.76,
+  "text": "think Claude Tag could represent. And"
+ },
+ {
+  "start": 1073.32,
+  "duration": 4.48,
+  "text": "keep in mind, this is not just about"
+ },
+ {
+  "start": 1075.48,
+  "duration": 4.24,
+  "text": "Claude Tag as a feature, but about it as"
+ },
+ {
+  "start": 1077.8,
+  "duration": 3.48,
+  "text": "a leading indicator of how labs and"
+ },
+ {
+  "start": 1079.72,
+  "duration": 3.76,
+  "text": "agent app companies are thinking about"
+ },
+ {
+  "start": 1081.28,
+  "duration": 4.6,
+  "text": "the future of AI at work. The first big"
+ },
+ {
+  "start": 1083.48,
+  "duration": 4.4,
+  "text": "shift is from an app-native interface to"
+ },
+ {
+  "start": 1085.88,
+  "duration": 3.96,
+  "text": "existing workplace interfaces."
+ },
+ {
+  "start": 1087.88,
+  "duration": 4.04,
+  "text": "Obviously, this breaks agents out of the"
+ },
+ {
+  "start": 1089.84,
+  "duration": 3.6,
+  "text": "controlled settings of the web app or"
+ },
+ {
+  "start": 1091.92,
+  "duration": 3.76,
+  "text": "the desktop apps that the labs have"
+ },
+ {
+  "start": 1093.44,
+  "duration": 4.24,
+  "text": "built, and instead uses the existing"
+ },
+ {
+  "start": 1095.68,
+  "duration": 3.56,
+  "text": "spaces that people do work in. Now, to"
+ },
+ {
+  "start": 1097.68,
+  "duration": 3.24,
+  "text": "some extent, one has to think that this"
+ },
+ {
+  "start": 1099.24,
+  "duration": 3.56,
+  "text": "was inevitable. As you try to shift"
+ },
+ {
+  "start": 1100.92,
+  "duration": 3.48,
+  "text": "behavior and get everyone working in a"
+ },
+ {
+  "start": 1102.8,
+  "duration": 3.52,
+  "text": "new way, one of the biggest points of"
+ },
+ {
+  "start": 1104.4,
+  "duration": 3.76,
+  "text": "friction is the new interfaces that they"
+ },
+ {
+  "start": 1106.32,
+  "duration": 3.76,
+  "text": "have to go interact with. The fact that"
+ },
+ {
+  "start": 1108.16,
+  "duration": 3.44,
+  "text": "the full power of Claude code and"
+ },
+ {
+  "start": 1110.08,
+  "duration": 4.0,
+  "text": "everything that it can built is now"
+ },
+ {
+  "start": 1111.6,
+  "duration": 4.56,
+  "text": "accessible from the most default channel"
+ },
+ {
+  "start": 1114.08,
+  "duration": 3.84,
+  "text": "where people are working seems likely to"
+ },
+ {
+  "start": 1116.16,
+  "duration": 3.72,
+  "text": "me to make a big difference in terms of"
+ },
+ {
+  "start": 1117.92,
+  "duration": 3.84,
+  "text": "who accesses that power."
+ },
+ {
+  "start": 1119.88,
+  "duration": 4.24,
+  "text": "Likewise, this moves AI from a private"
+ },
+ {
+  "start": 1121.76,
+  "duration": 3.52,
+  "text": "chatbot to a shared teammate experience."
+ },
+ {
+  "start": 1124.12,
+  "duration": 2.96,
+  "text": "Now, of course, there have been no"
+ },
+ {
+  "start": 1125.28,
+  "duration": 3.2,
+  "text": "shortage of sharing-based features to"
+ },
+ {
+  "start": 1127.08,
+  "duration": 3.68,
+  "text": "break your personal chats out of their"
+ },
+ {
+  "start": 1128.48,
+  "duration": 4.0,
+  "text": "home. In fact, both OpenAI and Anthropic"
+ },
+ {
+  "start": 1130.76,
+  "duration": 3.64,
+  "text": "have released versions of better native"
+ },
+ {
+  "start": 1132.48,
+  "duration": 3.92,
+  "text": "website {slash} web app builders in"
+ },
+ {
+  "start": 1134.4,
+  "duration": 3.36,
+  "text": "order to help make sharing more easily."
+ },
+ {
+  "start": 1136.4,
+  "duration": 3.12,
+  "text": "This, of course, takes that to the next"
+ },
+ {
+  "start": 1137.76,
+  "duration": 3.36,
+  "text": "level, which also leads to our third"
+ },
+ {
+  "start": 1139.52,
+  "duration": 3.92,
+  "text": "shift, which is from single-user"
+ },
+ {
+  "start": 1141.12,
+  "duration": 4.84,
+  "text": "context, i.e. what the AI or agent knows"
+ },
+ {
+  "start": 1143.44,
+  "duration": 4.6,
+  "text": "about you, to the full team context."
+ },
+ {
+  "start": 1145.96,
+  "duration": 3.64,
+  "text": "Part of the power of moving the agent"
+ },
+ {
+  "start": 1148.04,
+  "duration": 3.48,
+  "text": "from its native home to your team's"
+ },
+ {
+  "start": 1149.6,
+  "duration": 3.48,
+  "text": "native home is that it gets access to"
+ },
+ {
+  "start": 1151.52,
+  "duration": 3.12,
+  "text": "the ambient context that exists all"
+ },
+ {
+  "start": 1153.08,
+  "duration": 3.72,
+  "text": "around it without you having to create"
+ },
+ {
+  "start": 1154.64,
+  "duration": 4.76,
+  "text": "an entirely different way of accessing"
+ },
+ {
+  "start": 1156.8,
+  "duration": 4.56,
+  "text": "all that context. Now, already, Claude"
+ },
+ {
+  "start": 1159.4,
+  "duration": 3.76,
+  "text": "Tag also reinforces a shift which was"
+ },
+ {
+  "start": 1161.36,
+  "duration": 3.44,
+  "text": "already very much happening, which is"
+ },
+ {
+  "start": 1163.16,
+  "duration": 3.92,
+  "text": "the shift from prompting to delegation"
+ },
+ {
+  "start": 1164.8,
+  "duration": 4.12,
+  "text": "as the main mode of interacting with AI."
+ },
+ {
+  "start": 1167.08,
+  "duration": 3.68,
+  "text": "Already throughout the year as agent the"
+ },
+ {
+  "start": 1168.92,
+  "duration": 3.36,
+  "text": "capacity has come online, people have"
+ },
+ {
+  "start": 1170.76,
+  "duration": 2.72,
+  "text": "been slowly but surely breaking out of"
+ },
+ {
+  "start": 1172.28,
+  "duration": 3.4,
+  "text": "the way that they used to interact with"
+ },
+ {
+  "start": 1173.48,
+  "duration": 4.04,
+  "text": "these tools. A big part of that has been"
+ },
+ {
+  "start": 1175.68,
+  "duration": 3.64,
+  "text": "in shifting from telling the AI what to"
+ },
+ {
+  "start": 1177.52,
+  "duration": 3.64,
+  "text": "do to telling it what you are trying to"
+ },
+ {
+  "start": 1179.32,
+  "duration": 3.32,
+  "text": "accomplish and giving it more freedom"
+ },
+ {
+  "start": 1181.16,
+  "duration": 3.76,
+  "text": "and latitude to accomplish an"
+ },
+ {
+  "start": 1182.64,
+  "duration": 4.24,
+  "text": "ever-expanding scale of goals."
+ },
+ {
+  "start": 1184.92,
+  "duration": 3.44,
+  "text": "Lastly, Claude Tag and more broadly"
+ },
+ {
+  "start": 1186.88,
+  "duration": 3.84,
+  "text": "agents that work in your team's"
+ },
+ {
+  "start": 1188.36,
+  "duration": 3.76,
+  "text": "workspaces shift AI's importance from"
+ },
+ {
+  "start": 1190.72,
+  "duration": 3.76,
+  "text": "something that becomes personally"
+ },
+ {
+  "start": 1192.12,
+  "duration": 4.56,
+  "text": "essential to key workers to an actual"
+ },
+ {
+  "start": 1194.48,
+  "duration": 3.76,
+  "text": "organizational dependency. A new way of"
+ },
+ {
+  "start": 1196.68,
+  "duration": 3.16,
+  "text": "working not just individually but across"
+ },
+ {
+  "start": 1198.24,
+  "duration": 2.6,
+  "text": "the entire team."
+ },
+ {
+  "start": 1199.84,
+  "duration": 3.12,
+  "text": "Which is not to say that there aren't"
+ },
+ {
+  "start": 1200.84,
+  "duration": 3.6,
+  "text": "challenges. First of all, while yes,"
+ },
+ {
+  "start": 1202.96,
+  "duration": 3.72,
+  "text": "this is theoretically just dropping"
+ },
+ {
+  "start": 1204.44,
+  "duration": 4.04,
+  "text": "Claude into Slack, there are a lot of"
+ },
+ {
+  "start": 1206.68,
+  "duration": 3.68,
+  "text": "questions around access and tool"
+ },
+ {
+  "start": 1208.48,
+  "duration": 3.36,
+  "text": "configuration that make this setup"
+ },
+ {
+  "start": 1210.36,
+  "duration": 3.68,
+  "text": "potentially much more complicated than"
+ },
+ {
+  "start": 1211.84,
+  "duration": 4.28,
+  "text": "it at first seems. Anthropic released an"
+ },
+ {
+  "start": 1214.04,
+  "duration": 3.68,
+  "text": "entire blog post about best practices"
+ },
+ {
+  "start": 1216.12,
+  "duration": 3.44,
+  "text": "for setting up agent identity in this"
+ },
+ {
+  "start": 1217.72,
+  "duration": 2.96,
+  "text": "new Claude Tag paradigm."
+ },
+ {
+  "start": 1219.56,
+  "duration": 2.96,
+  "text": "They also pointed out some best"
+ },
+ {
+  "start": 1220.68,
+  "duration": 3.36,
+  "text": "practices around permissions, which"
+ },
+ {
+  "start": 1222.52,
+  "duration": 3.8,
+  "text": "wouldn't necessarily be obvious at first"
+ },
+ {
+  "start": 1224.04,
+  "duration": 3.84,
+  "text": "glance. Gail Weener points out that"
+ },
+ {
+  "start": 1226.32,
+  "duration": 2.88,
+  "text": "while the positive side is the"
+ },
+ {
+  "start": 1227.88,
+  "duration": 3.0,
+  "text": "democratization of Claude code"
+ },
+ {
+  "start": 1229.2,
+  "duration": 3.48,
+  "text": "capabilities to a broader subset of the"
+ },
+ {
+  "start": 1230.88,
+  "duration": 3.2,
+  "text": "organization, the flip side of that is"
+ },
+ {
+  "start": 1232.68,
+  "duration": 3.16,
+  "text": "that something like Claude Tag"
+ },
+ {
+  "start": 1234.08,
+  "duration": 3.16,
+  "text": "potentially runs into existing trust"
+ },
+ {
+  "start": 1235.84,
+  "duration": 3.08,
+  "text": "barriers and skepticism that could"
+ },
+ {
+  "start": 1237.24,
+  "duration": 3.4,
+  "text": "create a challenge. She describes a"
+ },
+ {
+  "start": 1238.92,
+  "duration": 3.96,
+  "text": "scenario where there are five people on"
+ },
+ {
+  "start": 1240.64,
+  "duration": 4.44,
+  "text": "a team with her as the AI power user,"
+ },
+ {
+  "start": 1242.88,
+  "duration": 3.68,
+  "text": "two members of the team not trusting AI,"
+ },
+ {
+  "start": 1245.08,
+  "duration": 3.64,
+  "text": "one team member thinking that the power"
+ },
+ {
+  "start": 1246.56,
+  "duration": 3.88,
+  "text": "user uses AI too much, and another being"
+ },
+ {
+  "start": 1248.72,
+  "duration": 3.24,
+  "text": "indifferent. Gail writes, \"I start"
+ },
+ {
+  "start": 1250.44,
+  "duration": 2.96,
+  "text": "tagging Claude in the project chat, and"
+ },
+ {
+  "start": 1251.96,
+  "duration": 2.88,
+  "text": "here's what happens in that room. The"
+ },
+ {
+  "start": 1253.4,
+  "duration": 2.92,
+  "text": "moment Claude is in the channel, every"
+ },
+ {
+  "start": 1254.84,
+  "duration": 3.24,
+  "text": "message anyone types is being read by"
+ },
+ {
+  "start": 1256.32,
+  "duration": 3.48,
+  "text": "it. It stops looking like a tool the"
+ },
+ {
+  "start": 1258.08,
+  "duration": 3.04,
+  "text": "team uses and starts looking like my"
+ },
+ {
+  "start": 1259.8,
+  "duration": 2.96,
+  "text": "tool that's now sitting in everyone's"
+ },
+ {
+  "start": 1261.12,
+  "duration": 2.84,
+  "text": "workspace. I become the person who"
+ },
+ {
+  "start": 1262.76,
+  "duration": 3.32,
+  "text": "brought the surveillance device to the"
+ },
+ {
+  "start": 1263.96,
+  "duration": 3.76,
+  "text": "meeting, even if that's not what it is."
+ },
+ {
+  "start": 1266.08,
+  "duration": 2.96,
+  "text": "The skeptic's position gets validated"
+ },
+ {
+  "start": 1267.72,
+  "duration": 3.0,
+  "text": "every time Claude produces something"
+ },
+ {
+  "start": 1269.04,
+  "duration": 3.36,
+  "text": "good. See, she's outsourcing her"
+ },
+ {
+  "start": 1270.72,
+  "duration": 3.48,
+  "text": "thinking. And every time it produces"
+ },
+ {
+  "start": 1272.4,
+  "duration": 3.28,
+  "text": "something mediocre. See, this is what we"
+ },
+ {
+  "start": 1274.2,
+  "duration": 3.32,
+  "text": "were worried about. You can't win that"
+ },
+ {
+  "start": 1275.68,
+  "duration": 3.08,
+  "text": "frame. Basically, she's arguing that"
+ },
+ {
+  "start": 1277.52,
+  "duration": 2.88,
+  "text": "this creates a whole new challenge"
+ },
+ {
+  "start": 1278.76,
+  "duration": 4.16,
+  "text": "around the human layer that will have to"
+ },
+ {
+  "start": 1280.4,
+  "duration": 4.56,
+  "text": "be solved as well. One specific thing"
+ },
+ {
+  "start": 1282.92,
+  "duration": 3.68,
+  "text": "that seems fairly challenging to me is"
+ },
+ {
+  "start": 1284.96,
+  "duration": 3.68,
+  "text": "that despite the fact that you just use"
+ },
+ {
+  "start": 1286.6,
+  "duration": 3.0,
+  "text": "at Claude for every instance of where"
+ },
+ {
+  "start": 1288.64,
+  "duration": 2.76,
+  "text": "you want to call upon these"
+ },
+ {
+  "start": 1289.6,
+  "duration": 3.4,
+  "text": "capabilities, different Claude's in"
+ },
+ {
+  "start": 1291.4,
+  "duration": 3.64,
+  "text": "different channels have potentially"
+ },
+ {
+  "start": 1293.0,
+  "duration": 4.36,
+  "text": "access to different tools and different"
+ },
+ {
+  "start": 1295.04,
+  "duration": 3.72,
+  "text": "permissions and different contexts. And"
+ },
+ {
+  "start": 1297.36,
+  "duration": 3.52,
+  "text": "that feels like it'll get confusing"
+ },
+ {
+  "start": 1298.76,
+  "duration": 3.52,
+  "text": "super super fast."
+ },
+ {
+  "start": 1300.88,
+  "duration": 3.72,
+  "text": "In fact, in Simon Smith's first"
+ },
+ {
+  "start": 1302.28,
+  "duration": 4.0,
+  "text": "impressions post later on, he did write,"
+ },
+ {
+  "start": 1304.6,
+  "duration": 3.32,
+  "text": "\"Claude being many Claude's is a bit"
+ },
+ {
+  "start": 1306.28,
+  "duration": 3.36,
+  "text": "disorienting. I've come to think of"
+ },
+ {
+  "start": 1307.92,
+  "duration": 3.08,
+  "text": "Claude as my Claude, the one in the app"
+ },
+ {
+  "start": 1309.64,
+  "duration": 3.04,
+  "text": "that knows me and connects to things"
+ },
+ {
+  "start": 1311.0,
+  "duration": 3.68,
+  "text": "I've connected it to, but there is no"
+ },
+ {
+  "start": 1312.68,
+  "duration": 4.12,
+  "text": "single Claude in Slack. It's channel"
+ },
+ {
+  "start": 1314.68,
+  "duration": 3.96,
+  "text": "dependent and admin configured. And none"
+ },
+ {
+  "start": 1316.8,
+  "duration": 3.4,
+  "text": "of the Claude's are mine.\" This seems to"
+ },
+ {
+  "start": 1318.64,
+  "duration": 2.96,
+  "text": "be a common feeling. One of the first"
+ },
+ {
+  "start": 1320.2,
+  "duration": 2.76,
+  "text": "things I'm seeing is people tagging"
+ },
+ {
+  "start": 1321.6,
+  "duration": 3.08,
+  "text": "Claude in channels to ask what it can"
+ },
+ {
+  "start": 1322.96,
+  "duration": 3.4,
+  "text": "do, what it remembers, how it maintains"
+ },
+ {
+  "start": 1324.68,
+  "duration": 3.48,
+  "text": "context in the channel."
+ },
+ {
+  "start": 1326.36,
+  "duration": 3.52,
+  "text": "Indeed, how this creates new challenges"
+ },
+ {
+  "start": 1328.16,
+  "duration": 3.88,
+  "text": "and opportunities for context is a big"
+ },
+ {
+  "start": 1329.88,
+  "duration": 3.76,
+  "text": "topic of conversation. And for some in"
+ },
+ {
+  "start": 1332.04,
+  "duration": 2.48,
+  "text": "light of the Fable challenge, in light"
+ },
+ {
+  "start": 1333.64,
+  "duration": 2.68,
+  "text": "of everything that's happened with"
+ },
+ {
+  "start": 1334.52,
+  "duration": 3.44,
+  "text": "Fable, there's also increasingly good"
+ },
+ {
+  "start": 1336.32,
+  "duration": 3.28,
+  "text": "reasons to not want to outsource this"
+ },
+ {
+  "start": 1337.96,
+  "duration": 3.16,
+  "text": "sort of process to a single closed"
+ },
+ {
+  "start": 1339.6,
+  "duration": 3.2,
+  "text": "provider. Hugging Face's head of"
+ },
+ {
+  "start": 1341.12,
+  "duration": 3.0,
+  "text": "product, Victor, writes,"
+ },
+ {
+  "start": 1342.8,
+  "duration": 3.16,
+  "text": "\"At Hugging Face, we've been building"
+ },
+ {
+  "start": 1344.12,
+  "duration": 3.12,
+  "text": "our own agent that we use via Slack."
+ },
+ {
+  "start": 1345.96,
+  "duration": 3.04,
+  "text": "Honestly, building your own is quite"
+ },
+ {
+  "start": 1347.24,
+  "duration": 3.56,
+  "text": "simple and you'll be happy you did. Any"
+ },
+ {
+  "start": 1349.0,
+  "duration": 3.44,
+  "text": "model you want, including self-hosted if"
+ },
+ {
+  "start": 1350.8,
+  "duration": 3.36,
+  "text": "needed, fully customizable to your"
+ },
+ {
+  "start": 1352.44,
+  "duration": 4.12,
+  "text": "stack, and of course no lock-in and no"
+ },
+ {
+  "start": 1354.16,
+  "duration": 4.04,
+  "text": "waitlist and not overpriced.\" Look,"
+ },
+ {
+  "start": 1356.56,
+  "duration": 3.32,
+  "text": "ultimately, it is very easy to"
+ },
+ {
+  "start": 1358.2,
+  "duration": 3.96,
+  "text": "overestimate the significance of any one"
+ },
+ {
+  "start": 1359.88,
+  "duration": 4.48,
+  "text": "new feature. And yet, if for no other"
+ },
+ {
+  "start": 1362.16,
+  "duration": 3.64,
+  "text": "reason than these significant shifts"
+ },
+ {
+  "start": 1364.36,
+  "duration": 3.72,
+  "text": "that the Anthropic team themselves are"
+ },
+ {
+  "start": 1365.8,
+  "duration": 4.32,
+  "text": "reporting, it seems like Claude tag is"
+ },
+ {
+  "start": 1368.08,
+  "duration": 4.0,
+  "text": "one paradigm shift that will at least be"
+ },
+ {
+  "start": 1370.12,
+  "duration": 3.72,
+  "text": "worth exploring. I'll report back as we"
+ },
+ {
+  "start": 1372.08,
+  "duration": 2.72,
+  "text": "try it out and see what we learn. For"
+ },
+ {
+  "start": 1373.84,
+  "duration": 2.8,
+  "text": "now, that that's going to do it for"
+ },
+ {
+  "start": 1374.8,
+  "duration": 3.6,
+  "text": "today's AI daily brief. Appreciate you"
+ },
+ {
+  "start": 1376.64,
+  "duration": 5.4,
+  "text": "listening or watching, as always, and"
+ },
+ {
+  "start": 1378.4,
+  "duration": 3.64,
+  "text": "until next time, peace."
+ },
+ {
+  "start": 1385.04,
+  "duration": 2.08,
+  "text": ">> Mhm."
+ }
+]

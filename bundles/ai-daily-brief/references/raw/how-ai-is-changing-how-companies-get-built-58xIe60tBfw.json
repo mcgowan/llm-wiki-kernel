@@ -1,0 +1,3377 @@
+[
+ {
+  "start": 1.04,
+  "duration": 5.04,
+  "text": "Today on the AI daily brief, the data is"
+ },
+ {
+  "start": 3.84,
+  "duration": 4.48,
+  "text": "in and AI seems to be changing the"
+ },
+ {
+  "start": 6.08,
+  "duration": 4.559,
+  "text": "nature of entrepreneurship."
+ },
+ {
+  "start": 8.32,
+  "duration": 4.239,
+  "text": "Before that, on the headlines, the CEO"
+ },
+ {
+  "start": 10.639,
+  "duration": 4.321,
+  "text": "of Palunteer says that the government is"
+ },
+ {
+  "start": 12.559,
+  "duration": 4.161,
+  "text": "turning towards openweight models. The"
+ },
+ {
+  "start": 14.96,
+  "duration": 3.28,
+  "text": "AI Daily Brief is a daily podcast and"
+ },
+ {
+  "start": 16.72,
+  "duration": 3.68,
+  "text": "video about the most important news and"
+ },
+ {
+  "start": 18.24,
+  "duration": 4.08,
+  "text": "discussions in AI."
+ },
+ {
+  "start": 20.4,
+  "duration": 4.4,
+  "text": "All right, friends. We are kicking off"
+ },
+ {
+  "start": 22.32,
+  "duration": 4.08,
+  "text": "this week with a number of stories that"
+ },
+ {
+  "start": 24.8,
+  "duration": 3.84,
+  "text": "continue and drive forward the major"
+ },
+ {
+  "start": 26.4,
+  "duration": 4.879,
+  "text": "themes from the past several weeks. last"
+ },
+ {
+  "start": 28.64,
+  "duration": 4.56,
+  "text": "week was punctuated by a fiery rant from"
+ },
+ {
+  "start": 31.279,
+  "duration": 4.721,
+  "text": "Palunteer CEO Alex Karp during an"
+ },
+ {
+  "start": 33.2,
+  "duration": 4.48,
+  "text": "appearance on CNBC. He said that some US"
+ },
+ {
+  "start": 36.0,
+  "duration": 3.44,
+  "text": "government customers are migrating to"
+ },
+ {
+  "start": 37.68,
+  "duration": 3.76,
+  "text": "open source after AI sovereignty"
+ },
+ {
+  "start": 39.44,
+  "duration": 4.0,
+  "text": "concerns. In the interview, he said,"
+ },
+ {
+  "start": 41.44,
+  "duration": 3.439,
+  "text": "\"What the technical customers want is"
+ },
+ {
+  "start": 43.44,
+  "duration": 2.799,
+  "text": "control over their compute, their"
+ },
+ {
+  "start": 44.879,
+  "duration": 3.041,
+  "text": "models, their data stack, and their"
+ },
+ {
+  "start": 46.239,
+  "duration": 3.041,
+  "text": "alpha. They want to know they own the"
+ },
+ {
+  "start": 47.92,
+  "duration": 3.44,
+  "text": "means of production and it's not being"
+ },
+ {
+  "start": 49.28,
+  "duration": 3.919,
+  "text": "transferred to someone else.\" Taking aim"
+ },
+ {
+  "start": 51.36,
+  "duration": 3.92,
+  "text": "at the consulting spin-offs from OpenAI"
+ },
+ {
+  "start": 53.199,
+  "duration": 4.081,
+  "text": "and Anthropic, he continued, \"Customers"
+ },
+ {
+  "start": 55.28,
+  "duration": 3.759,
+  "text": "are not interested in some fake deploy"
+ },
+ {
+  "start": 57.28,
+  "duration": 4.24,
+  "text": "code that transfers the alpha to a third"
+ },
+ {
+  "start": 59.039,
+  "duration": 3.921,
+  "text": "party.\" Karp suggested it's time to ask"
+ },
+ {
+  "start": 61.52,
+  "duration": 3.12,
+  "text": "some hard questions of the Frontier"
+ },
+ {
+  "start": 62.96,
+  "duration": 3.28,
+  "text": "model companies like, \"Who owns the"
+ },
+ {
+  "start": 64.64,
+  "duration": 2.88,
+  "text": "data? Where is it cashed? Are the"
+ },
+ {
+  "start": 66.24,
+  "duration": 2.96,
+  "text": "prompts secure? If this was being"
+ },
+ {
+  "start": 67.52,
+  "duration": 3.12,
+  "text": "transferred to you, if it was so"
+ },
+ {
+  "start": 69.2,
+  "duration": 2.88,
+  "text": "valuable and I can make you a billion"
+ },
+ {
+  "start": 70.64,
+  "duration": 3.36,
+  "text": "dollars, wouldn't I say I'll make you a"
+ },
+ {
+  "start": 72.08,
+  "duration": 3.28,
+  "text": "billion dollars and I want 30%.\" Why are"
+ },
+ {
+  "start": 74.0,
+  "duration": 4.24,
+  "text": "they charging for tokens if it's so"
+ },
+ {
+  "start": 75.36,
+  "duration": 4.88,
+  "text": "valuable? It was a fairly fullthroated"
+ },
+ {
+  "start": 78.24,
+  "duration": 3.68,
+  "text": "attack on anthropic and open AI with"
+ },
+ {
+  "start": 80.24,
+  "duration": 3.76,
+  "text": "Karp arguing that data security should"
+ },
+ {
+  "start": 81.92,
+  "duration": 3.76,
+  "text": "now be front of mind for many AI users"
+ },
+ {
+  "start": 84.0,
+  "duration": 3.2,
+  "text": "and a claim which obviously underpinned"
+ },
+ {
+  "start": 85.68,
+  "duration": 3.439,
+  "text": "the business model of the whole diet"
+ },
+ {
+  "start": 87.2,
+  "duration": 3.279,
+  "text": "tribe that openweight models are now at"
+ },
+ {
+  "start": 89.119,
+  "duration": 3.04,
+  "text": "the point where they can replicate the"
+ },
+ {
+  "start": 90.479,
+  "duration": 4.401,
+  "text": "performance of proprietary models while"
+ },
+ {
+  "start": 92.159,
+  "duration": 4.161,
+  "text": "minimizing that risk. He said we can"
+ },
+ {
+  "start": 94.88,
+  "duration": 2.879,
+  "text": "take an open model and get it to the"
+ },
+ {
+  "start": 96.32,
+  "duration": 3.92,
+  "text": "point of a frontier model but you"
+ },
+ {
+  "start": 97.759,
+  "duration": 3.441,
+  "text": "control the weights. Doubling down in a"
+ },
+ {
+  "start": 100.24,
+  "duration": 2.4,
+  "text": "follow-up interview with the"
+ },
+ {
+  "start": 101.2,
+  "duration": 2.72,
+  "text": "information, Karp claimed that some"
+ },
+ {
+  "start": 102.64,
+  "duration": 2.799,
+  "text": "government departments had already made"
+ },
+ {
+  "start": 103.92,
+  "duration": 3.68,
+  "text": "the switch, saying that they're now"
+ },
+ {
+  "start": 105.439,
+  "duration": 3.841,
+  "text": "using Nvidia's open source model Neotron"
+ },
+ {
+  "start": 107.6,
+  "duration": 4.4,
+  "text": "instead of proprietary models trained by"
+ },
+ {
+  "start": 109.28,
+  "duration": 4.4,
+  "text": "Anthropic or OpenAI. Karp said, \"There's"
+ },
+ {
+  "start": 112.0,
+  "duration": 2.96,
+  "text": "just very deep frustration around are"
+ },
+ {
+  "start": 113.68,
+  "duration": 2.88,
+  "text": "they going to optimize the models for"
+ },
+ {
+  "start": 114.96,
+  "duration": 2.96,
+  "text": "me, or are they going to take the alpha"
+ },
+ {
+  "start": 116.56,
+  "duration": 3.04,
+  "text": "of my business, transfer in their"
+ },
+ {
+  "start": 117.92,
+  "duration": 3.28,
+  "text": "weights, and compete against me?\" Karp"
+ },
+ {
+  "start": 119.6,
+  "duration": 3.92,
+  "text": "said that Neotron is already providing"
+ },
+ {
+  "start": 121.2,
+  "duration": 3.599,
+  "text": "quote equal or in some cases superior"
+ },
+ {
+  "start": 123.52,
+  "duration": 2.559,
+  "text": "performance on the battlefield use"
+ },
+ {
+  "start": 124.799,
+  "duration": 3.6,
+  "text": "cases, which are mostly highly"
+ },
+ {
+  "start": 126.079,
+  "duration": 3.921,
+  "text": "classified. Karp expects every Palunteer"
+ },
+ {
+  "start": 128.399,
+  "duration": 3.2,
+  "text": "client to begin using open models,"
+ },
+ {
+  "start": 130.0,
+  "duration": 4.56,
+  "text": "quote, as soon as they see it being at"
+ },
+ {
+  "start": 131.599,
+  "duration": 4.481,
+  "text": "parody. Now, of course, both Anthropic"
+ },
+ {
+  "start": 134.56,
+  "duration": 2.96,
+  "text": "and OpenAI have been very clear about"
+ },
+ {
+  "start": 136.08,
+  "duration": 3.12,
+  "text": "their policies of not training on"
+ },
+ {
+  "start": 137.52,
+  "duration": 3.04,
+  "text": "enterprise customer data. There was"
+ },
+ {
+  "start": 139.2,
+  "duration": 3.759,
+  "text": "enough chatter following this interview"
+ },
+ {
+  "start": 140.56,
+  "duration": 4.72,
+  "text": "that Colin Jarvis, who leads FTE efforts"
+ },
+ {
+  "start": 142.959,
+  "duration": 4.241,
+  "text": "at OpenAI, had to tweet, \"At no point do"
+ },
+ {
+  "start": 145.28,
+  "duration": 3.039,
+  "text": "we train on customer data. We push the"
+ },
+ {
+  "start": 147.2,
+  "duration": 2.8,
+  "text": "limits of the models to get our"
+ },
+ {
+  "start": 148.319,
+  "duration": 3.681,
+  "text": "customers to production success and"
+ },
+ {
+  "start": 150.0,
+  "duration": 3.599,
+  "text": "oftentimes share insights from our FTE's"
+ },
+ {
+  "start": 152.0,
+  "duration": 4.319,
+  "text": "experiences in the field back into the"
+ },
+ {
+  "start": 153.599,
+  "duration": 4.64,
+  "text": "organization.\" Former AISAR David Saxs"
+ },
+ {
+  "start": 156.319,
+  "duration": 3.441,
+  "text": "pointed to Anthropic's launch of Clawude"
+ },
+ {
+  "start": 158.239,
+  "duration": 3.441,
+  "text": "Design shortly after partnering with"
+ },
+ {
+  "start": 159.76,
+  "duration": 3.04,
+  "text": "Figma as evidence that Frontier model"
+ },
+ {
+  "start": 161.68,
+  "duration": 2.88,
+  "text": "companies are more than willing to"
+ },
+ {
+  "start": 162.8,
+  "duration": 3.84,
+  "text": "compete with their customers if it seems"
+ },
+ {
+  "start": 164.56,
+  "duration": 3.92,
+  "text": "like the right business move. Now,"
+ },
+ {
+  "start": 166.64,
+  "duration": 3.52,
+  "text": "Palanteer's Karp has a very particular"
+ },
+ {
+  "start": 168.48,
+  "duration": 3.6,
+  "text": "style and I'm not really interested in"
+ },
+ {
+  "start": 170.16,
+  "duration": 4.079,
+  "text": "litigating that. What's interesting here"
+ },
+ {
+  "start": 172.08,
+  "duration": 4.32,
+  "text": "is the potential mainstreaming of the"
+ },
+ {
+  "start": 174.239,
+  "duration": 4.401,
+  "text": "openweight alternatives are viable kind"
+ },
+ {
+  "start": 176.4,
+  "duration": 3.839,
+  "text": "of argument. Now, one interview alone"
+ },
+ {
+  "start": 178.64,
+  "duration": 2.959,
+  "text": "isn't going to get people to necessarily"
+ },
+ {
+  "start": 180.239,
+  "duration": 3.28,
+  "text": "change their minds or think differently"
+ },
+ {
+  "start": 181.599,
+  "duration": 3.36,
+  "text": "about that, but this is the type of"
+ },
+ {
+  "start": 183.519,
+  "duration": 3.601,
+  "text": "discourse that is going to have everyone"
+ },
+ {
+  "start": 184.959,
+  "duration": 3.681,
+  "text": "from enterprise buying leads to Wall"
+ },
+ {
+  "start": 187.12,
+  "duration": 3.119,
+  "text": "Street investors sitting up and paying"
+ },
+ {
+  "start": 188.64,
+  "duration": 3.679,
+  "text": "attention. And it shows, if nothing"
+ },
+ {
+  "start": 190.239,
+  "duration": 3.681,
+  "text": "else, just how much more open the"
+ },
+ {
+  "start": 192.319,
+  "duration": 3.92,
+  "text": "playing field looks like in this new"
+ },
+ {
+  "start": 193.92,
+  "duration": 4.48,
+  "text": "token scarcity, token efficiency sort of"
+ },
+ {
+  "start": 196.239,
+  "duration": 4.401,
+  "text": "era. Yet, when it comes to Wall Street"
+ },
+ {
+  "start": 198.4,
+  "duration": 3.839,
+  "text": "and Nvidia, this was not really the"
+ },
+ {
+  "start": 200.64,
+  "duration": 2.879,
+  "text": "thing that people were talking about."
+ },
+ {
+  "start": 202.239,
+  "duration": 3.121,
+  "text": "Instead, the story that's been making"
+ },
+ {
+  "start": 203.519,
+  "duration": 4.0,
+  "text": "headlines for the last couple of days is"
+ },
+ {
+  "start": 205.36,
+  "duration": 4.239,
+  "text": "Nvidia backstopping AI demand in a bid"
+ },
+ {
+  "start": 207.519,
+  "duration": 3.36,
+  "text": "to push Neocloud growth. Nvidia"
+ },
+ {
+  "start": 209.599,
+  "duration": 2.881,
+  "text": "announced the move in terms of a new"
+ },
+ {
+  "start": 210.879,
+  "duration": 3.201,
+  "text": "business model where the chipmaker"
+ },
+ {
+  "start": 212.48,
+  "duration": 3.6,
+  "text": "provides guaranteed demand in exchange"
+ },
+ {
+  "start": 214.08,
+  "duration": 3.519,
+  "text": "for a cut of revenue. In a blog post"
+ },
+ {
+  "start": 216.08,
+  "duration": 3.12,
+  "text": "announcing the new strategy, Nvidia"
+ },
+ {
+  "start": 217.599,
+  "duration": 3.36,
+  "text": "wrote, \"Emerging AI companies"
+ },
+ {
+  "start": 219.2,
+  "duration": 3.599,
+  "text": "historically have had limited access to"
+ },
+ {
+  "start": 220.959,
+  "duration": 3.601,
+  "text": "capital intensive infrastructure with"
+ },
+ {
+  "start": 222.799,
+  "duration": 3.921,
+  "text": "even long-term commitments insufficient"
+ },
+ {
+  "start": 224.56,
+  "duration": 3.759,
+  "text": "to unlock financing for compute.\" To"
+ },
+ {
+  "start": 226.72,
+  "duration": 3.36,
+  "text": "address this, Nvidia is introducing a"
+ },
+ {
+  "start": 228.319,
+  "duration": 3.761,
+  "text": "new business model that opens up compute"
+ },
+ {
+  "start": 230.08,
+  "duration": 3.28,
+  "text": "access to the fast growing AI ecosystem"
+ },
+ {
+  "start": 232.08,
+  "duration": 3.04,
+  "text": "of startups, model builders,"
+ },
+ {
+  "start": 233.36,
+  "duration": 4.159,
+  "text": "enterprises, research organizations, and"
+ },
+ {
+  "start": 235.12,
+  "duration": 4.319,
+  "text": "regional AI players. Now, in concrete"
+ },
+ {
+  "start": 237.519,
+  "duration": 4.08,
+  "text": "terms, the deal will see Nvidia renting"
+ },
+ {
+  "start": 239.439,
+  "duration": 4.08,
+  "text": "back unused GPUs at a guaranteed rate if"
+ },
+ {
+  "start": 241.599,
+  "duration": 3.84,
+  "text": "the Neoclouds fail to find demand in the"
+ },
+ {
+  "start": 243.519,
+  "duration": 4.561,
+  "text": "market. In exchange, Nvidia will take a"
+ },
+ {
+  "start": 245.439,
+  "duration": 3.841,
+  "text": "cut of revenue for all GPU rentals. Now,"
+ },
+ {
+  "start": 248.08,
+  "duration": 3.519,
+  "text": "of course, this is not the first time"
+ },
+ {
+  "start": 249.28,
+  "duration": 3.84,
+  "text": "Nvidia has backstopped AI demand. Last"
+ },
+ {
+  "start": 251.599,
+  "duration": 3.521,
+  "text": "year, Nvidia signed similar deals with"
+ },
+ {
+  "start": 253.12,
+  "duration": 4.239,
+  "text": "Corewave and Lambda, guaranteeing to buy"
+ },
+ {
+  "start": 255.12,
+  "duration": 3.679,
+  "text": "any unused capacity. However, the new"
+ },
+ {
+  "start": 257.359,
+  "duration": 3.361,
+  "text": "model seems to be aimed at supporting"
+ },
+ {
+  "start": 258.799,
+  "duration": 3.521,
+  "text": "smaller and less established companies."
+ },
+ {
+  "start": 260.72,
+  "duration": 3.36,
+  "text": "The first two NeoClouds taking advantage"
+ },
+ {
+  "start": 262.32,
+  "duration": 4.24,
+  "text": "of the program are Fermis and Sharon"
+ },
+ {
+  "start": 264.08,
+  "duration": 4.88,
+  "text": "AAI. Fermus is deploying a cluster of"
+ },
+ {
+  "start": 266.56,
+  "duration": 3.76,
+  "text": "170,000 GPUs in Indonesia, which is one"
+ },
+ {
+  "start": 268.96,
+  "duration": 3.2,
+  "text": "of the largest data center projects"
+ },
+ {
+  "start": 270.32,
+  "duration": 4.64,
+  "text": "planned for the nation, while Sharon Aai"
+ },
+ {
+  "start": 272.16,
+  "duration": 5.36,
+  "text": "aims to deploy 40,000 leading edge GB300"
+ },
+ {
+  "start": 274.96,
+  "duration": 4.48,
+  "text": "GPUs. Now, the critique of this sort of"
+ },
+ {
+  "start": 277.52,
+  "duration": 3.76,
+  "text": "deal in the past has been that it has"
+ },
+ {
+  "start": 279.44,
+  "duration": 4.16,
+  "text": "echoes of the vendor financing boom that"
+ },
+ {
+  "start": 281.28,
+  "duration": 4.72,
+  "text": "came undone during the dot bubble. Rich"
+ },
+ {
+  "start": 283.6,
+  "duration": 4.24,
+  "text": "Dupri of 247 Wall Street, however, tried"
+ },
+ {
+  "start": 286.0,
+  "duration": 3.199,
+  "text": "to explain why in his and many others"
+ },
+ {
+  "start": 287.84,
+  "duration": 3.44,
+  "text": "estimation this time is different."
+ },
+ {
+  "start": 289.199,
+  "duration": 4.161,
+  "text": "Writing, the biggest constraint is no"
+ },
+ {
+  "start": 291.28,
+  "duration": 3.76,
+  "text": "longer demand, it's financing. Even"
+ },
+ {
+  "start": 293.36,
+  "duration": 3.2,
+  "text": "companies with committed customers often"
+ },
+ {
+  "start": 295.04,
+  "duration": 3.92,
+  "text": "struggle to secure enough capital to"
+ },
+ {
+  "start": 296.56,
+  "duration": 3.76,
+  "text": "build AI factories fast enough. Nvidia's"
+ },
+ {
+  "start": 298.96,
+  "duration": 2.72,
+  "text": "new initiative attempts to solve that"
+ },
+ {
+  "start": 300.32,
+  "duration": 3.68,
+  "text": "bottleneck while giving itself an"
+ },
+ {
+  "start": 301.68,
+  "duration": 4.959,
+  "text": "entirely new revenue stream. In other"
+ },
+ {
+  "start": 304.0,
+  "duration": 4.479,
+  "text": "words, what Nvidia is doing is trying to"
+ },
+ {
+  "start": 306.639,
+  "duration": 4.161,
+  "text": "provide the anchor demand that allows"
+ },
+ {
+  "start": 308.479,
+  "duration": 4.481,
+  "text": "these projects to access financing from"
+ },
+ {
+  "start": 310.8,
+  "duration": 4.16,
+  "text": "other sources. Yes, it's a directional"
+ },
+ {
+  "start": 312.96,
+  "duration": 3.44,
+  "text": "bet on rising AI demand, but Nvidia"
+ },
+ {
+  "start": 314.96,
+  "duration": 3.36,
+  "text": "isn't directly financing their own"
+ },
+ {
+  "start": 316.4,
+  "duration": 4.239,
+  "text": "hardware or taking on the default risk"
+ },
+ {
+  "start": 318.32,
+  "duration": 3.84,
+  "text": "of the NeoClouds. Also, we're talking"
+ },
+ {
+  "start": 320.639,
+  "duration": 3.12,
+  "text": "about a backs stop of a few billion"
+ },
+ {
+  "start": 322.16,
+  "duration": 3.28,
+  "text": "dollars in an era where Nvidia is"
+ },
+ {
+  "start": 323.759,
+  "duration": 3.44,
+  "text": "generating 80 billion in revenue each"
+ },
+ {
+  "start": 325.44,
+  "duration": 3.52,
+  "text": "quarter. Still, this is one of those"
+ },
+ {
+  "start": 327.199,
+  "duration": 3.521,
+  "text": "stories where how Wall Street decides to"
+ },
+ {
+  "start": 328.96,
+  "duration": 3.04,
+  "text": "digest it is going to tell us a lot"
+ },
+ {
+  "start": 330.72,
+  "duration": 4.0,
+  "text": "about the mindset and the narrative"
+ },
+ {
+  "start": 332.0,
+  "duration": 4.479,
+  "text": "moment when it comes to AI investors."
+ },
+ {
+  "start": 334.72,
+  "duration": 3.28,
+  "text": "Speaking of NeoCloud, SoftBank is"
+ },
+ {
+  "start": 336.479,
+  "duration": 4.16,
+  "text": "launching a Neocloud business to service"
+ },
+ {
+  "start": 338.0,
+  "duration": 4.24,
+  "text": "US demand called SB Neo. The new company"
+ },
+ {
+  "start": 340.639,
+  "duration": 3.521,
+  "text": "plans to begin renting out their AI"
+ },
+ {
+  "start": 342.24,
+  "duration": 3.92,
+  "text": "compute in April using infrastructure"
+ },
+ {
+  "start": 344.16,
+  "duration": 3.68,
+  "text": "currently under construction. SoftBank"
+ },
+ {
+  "start": 346.16,
+  "duration": 4.0,
+  "text": "says they plan to scale to 10 gawatts of"
+ },
+ {
+  "start": 347.84,
+  "duration": 3.84,
+  "text": "US capacity by mid2028 and also have"
+ },
+ {
+  "start": 350.16,
+  "duration": 3.36,
+  "text": "plans to build gigawatt scale data"
+ },
+ {
+  "start": 351.68,
+  "duration": 3.28,
+  "text": "centers in Japan. Now, the big question"
+ },
+ {
+  "start": 353.52,
+  "duration": 3.36,
+  "text": "is what this means for SoftBank's"
+ },
+ {
+  "start": 354.96,
+  "duration": 4.0,
+  "text": "collaboration with OpenAI. The 10"
+ },
+ {
+  "start": 356.88,
+  "duration": 4.159,
+  "text": "gawatts of US capacity likely refers to"
+ },
+ {
+  "start": 358.96,
+  "duration": 3.92,
+  "text": "a campus in Pike County, Ohio, currently"
+ },
+ {
+  "start": 361.039,
+  "duration": 3.681,
+  "text": "under development by SoftBank subsidiary"
+ },
+ {
+  "start": 362.88,
+  "duration": 3.92,
+  "text": "SB Energy in collaboration with the US"
+ },
+ {
+  "start": 364.72,
+  "duration": 3.84,
+  "text": "Department of Energy. Initially, reports"
+ },
+ {
+  "start": 366.8,
+  "duration": 3.839,
+  "text": "suggested that OpenAI would lease this"
+ },
+ {
+  "start": 368.56,
+  "duration": 3.199,
+  "text": "capacity and pod completion, which could"
+ },
+ {
+  "start": 370.639,
+  "duration": 2.721,
+  "text": "still be the case, but certainly"
+ },
+ {
+  "start": 371.759,
+  "duration": 2.88,
+  "text": "SoftBank seems to be signaling that they"
+ },
+ {
+  "start": 373.36,
+  "duration": 3.76,
+  "text": "want the site to be viable as an"
+ },
+ {
+  "start": 374.639,
+  "duration": 4.081,
+  "text": "independent Neocloud business as well."
+ },
+ {
+  "start": 377.12,
+  "duration": 3.919,
+  "text": "Moving now from Neoclouds to"
+ },
+ {
+  "start": 378.72,
+  "duration": 3.84,
+  "text": "geopolitics, Alibaba has banned"
+ },
+ {
+  "start": 381.039,
+  "duration": 3.6,
+  "text": "employees from using Claude over"
+ },
+ {
+  "start": 382.56,
+  "duration": 3.6,
+  "text": "potential security risks. Sources said"
+ },
+ {
+  "start": 384.639,
+  "duration": 2.881,
+  "text": "the ban was announced on Friday and"
+ },
+ {
+  "start": 386.16,
+  "duration": 3.44,
+  "text": "expected to come into force by the end"
+ },
+ {
+  "start": 387.52,
+  "duration": 3.44,
+  "text": "of this week. Now, Anthropic, of course,"
+ },
+ {
+  "start": 389.6,
+  "duration": 2.879,
+  "text": "has already taken measures to prevent"
+ },
+ {
+  "start": 390.96,
+  "duration": 3.44,
+  "text": "their technology from being used in"
+ },
+ {
+  "start": 392.479,
+  "duration": 4.56,
+  "text": "China, but nothing that can't really be"
+ },
+ {
+  "start": 394.4,
+  "duration": 4.4,
+  "text": "circumvented using a VPN. In a report"
+ },
+ {
+  "start": 397.039,
+  "duration": 3.681,
+  "text": "published in February, Anthropic accused"
+ },
+ {
+  "start": 398.8,
+  "duration": 3.519,
+  "text": "the major Chinese AI labs of distilling"
+ },
+ {
+  "start": 400.72,
+  "duration": 3.12,
+  "text": "their models with a level of specificity"
+ },
+ {
+  "start": 402.319,
+  "duration": 3.841,
+  "text": "that implied that Anthropic were"
+ },
+ {
+  "start": 403.84,
+  "duration": 3.84,
+  "text": "tracking the interactions. Then last"
+ },
+ {
+  "start": 406.16,
+  "duration": 4.08,
+  "text": "month, Anthropic wrote to Congress and"
+ },
+ {
+  "start": 407.68,
+  "duration": 4.079,
+  "text": "accused Alibaba of brazenly, their word,"
+ },
+ {
+  "start": 410.24,
+  "duration": 3.28,
+  "text": "carrying out a large-scale distillation"
+ },
+ {
+  "start": 411.759,
+  "duration": 3.601,
+  "text": "attack on their models. They claimed to"
+ },
+ {
+  "start": 413.52,
+  "duration": 3.28,
+  "text": "have uncovered a network of 25,000"
+ },
+ {
+  "start": 415.36,
+  "duration": 3.2,
+  "text": "fraudulent accounts that generated"
+ },
+ {
+  "start": 416.8,
+  "duration": 4.08,
+  "text": "almost 29 million interactions with"
+ },
+ {
+  "start": 418.56,
+  "duration": 3.68,
+  "text": "Claude, all tied back to Alibaba."
+ },
+ {
+  "start": 420.88,
+  "duration": 2.8,
+  "text": "Meanwhile, Anthropic's account"
+ },
+ {
+  "start": 422.24,
+  "duration": 3.2,
+  "text": "surveillance techniques were uncovered"
+ },
+ {
+  "start": 423.68,
+  "duration": 3.519,
+  "text": "in a Reddit post last week where the"
+ },
+ {
+  "start": 425.44,
+  "duration": 3.28,
+  "text": "poster accused Anthropic of embedding"
+ },
+ {
+  "start": 427.199,
+  "duration": 3.601,
+  "text": "spyware and clawed code which could"
+ },
+ {
+  "start": 428.72,
+  "duration": 4.0,
+  "text": "detect the use of a VPN and examine"
+ },
+ {
+  "start": 430.8,
+  "duration": 3.76,
+  "text": "metadata to determine whether a user is"
+ },
+ {
+  "start": 432.72,
+  "duration": 4.0,
+  "text": "in China and has ties to a particular"
+ },
+ {
+  "start": 434.56,
+  "duration": 3.52,
+  "text": "lab. Following that post, Anthropic"
+ },
+ {
+  "start": 436.72,
+  "duration": 2.96,
+  "text": "Tariq explained that they've developed"
+ },
+ {
+  "start": 438.08,
+  "duration": 3.839,
+  "text": "stronger mitigations since then and will"
+ },
+ {
+  "start": 439.68,
+  "duration": 3.519,
+  "text": "be removing the spyware. So then we may"
+ },
+ {
+  "start": 441.919,
+  "duration": 3.441,
+  "text": "be witnessing the success of those"
+ },
+ {
+  "start": 443.199,
+  "duration": 3.921,
+  "text": "mitigations as Alibaba is apparently no"
+ },
+ {
+  "start": 445.36,
+  "duration": 4.0,
+  "text": "longer willing to risk using Anthropics"
+ },
+ {
+  "start": 447.12,
+  "duration": 3.76,
+  "text": "models. In their memo to staff, Alibaba"
+ },
+ {
+  "start": 449.36,
+  "duration": 3.279,
+  "text": "wrote, \"Claude code was recently"
+ },
+ {
+  "start": 450.88,
+  "duration": 3.599,
+  "text": "discovered to carry backdoor risks."
+ },
+ {
+  "start": 452.639,
+  "duration": 3.361,
+  "text": "After comprehensive evaluation, Claude"
+ },
+ {
+  "start": 454.479,
+  "duration": 2.961,
+  "text": "Code has now been added to a list of"
+ },
+ {
+  "start": 456.0,
+  "duration": 3.44,
+  "text": "high-risisk software with security"
+ },
+ {
+  "start": 457.44,
+  "duration": 3.599,
+  "text": "vulnerabilities with Reuters said"
+ },
+ {
+  "start": 459.44,
+  "duration": 3.52,
+  "text": "anthropics restrictions are difficult to"
+ },
+ {
+  "start": 461.039,
+  "duration": 3.521,
+  "text": "enforce on individual users, but"
+ },
+ {
+  "start": 462.96,
+  "duration": 4.48,
+  "text": "companies are more aware of legal and"
+ },
+ {
+  "start": 464.56,
+  "duration": 4.4,
+  "text": "compliance risks. There is a lot of back"
+ },
+ {
+  "start": 467.44,
+  "duration": 3.44,
+  "text": "and forth and posturing and things going"
+ },
+ {
+  "start": 468.96,
+  "duration": 3.76,
+  "text": "on behind the scenes here. It's worth"
+ },
+ {
+  "start": 470.88,
+  "duration": 3.36,
+  "text": "noting that Alibaba is trying to get"
+ },
+ {
+  "start": 472.72,
+  "duration": 3.039,
+  "text": "removed from the Pentagon's blacklist,"
+ },
+ {
+  "start": 474.24,
+  "duration": 2.959,
+  "text": "so maybe this is a part of that. But"
+ },
+ {
+  "start": 475.759,
+  "duration": 3.761,
+  "text": "regardless, it's pretty interesting"
+ },
+ {
+  "start": 477.199,
+  "duration": 3.761,
+  "text": "stuff. Lastly today, one that I'm sure"
+ },
+ {
+  "start": 479.52,
+  "duration": 3.76,
+  "text": "we're going to come back to later in the"
+ },
+ {
+  "start": 480.96,
+  "duration": 4.4,
+  "text": "week. Tesla is the latest company to"
+ },
+ {
+  "start": 483.28,
+  "duration": 4.0,
+  "text": "impose AI limits as token budgets get"
+ },
+ {
+  "start": 485.36,
+  "duration": 3.92,
+  "text": "reigned in. The information reports that"
+ },
+ {
+  "start": 487.28,
+  "duration": 3.52,
+  "text": "Tesla will limit employees to $200 per"
+ },
+ {
+  "start": 489.28,
+  "duration": 2.96,
+  "text": "week in token spending beginning this"
+ },
+ {
+  "start": 490.8,
+  "duration": 3.36,
+  "text": "week, although the new policy was"
+ },
+ {
+  "start": 492.24,
+  "duration": 3.6,
+  "text": "announced last month. Sources said that"
+ },
+ {
+  "start": 494.16,
+  "duration": 3.12,
+  "text": "some software engineers at Tesla were"
+ },
+ {
+  "start": 495.84,
+  "duration": 3.359,
+  "text": "routinely racking thousands of dollars"
+ },
+ {
+  "start": 497.28,
+  "duration": 3.759,
+  "text": "in token costs each week. Now,"
+ },
+ {
+  "start": 499.199,
+  "duration": 3.68,
+  "text": "importantly, the nuance here is that the"
+ },
+ {
+  "start": 501.039,
+  "duration": 3.361,
+  "text": "policy isn't set in stone with workers"
+ },
+ {
+  "start": 502.879,
+  "duration": 3.201,
+  "text": "able to request a higher budget if"
+ },
+ {
+  "start": 504.4,
+  "duration": 2.96,
+  "text": "necessary. In fact, at some point this"
+ },
+ {
+  "start": 506.08,
+  "duration": 2.959,
+  "text": "week, I think this is going to be worth"
+ },
+ {
+  "start": 507.36,
+  "duration": 3.119,
+  "text": "getting into in a much deeper way"
+ },
+ {
+  "start": 509.039,
+  "duration": 3.36,
+  "text": "because of the nuance here that I think"
+ },
+ {
+  "start": 510.479,
+  "duration": 3.68,
+  "text": "makes Tesla a much more interesting case"
+ },
+ {
+  "start": 512.399,
+  "duration": 3.601,
+  "text": "study than it seems at first. But for"
+ },
+ {
+  "start": 514.159,
+  "duration": 3.44,
+  "text": "our purposes today for these headlines,"
+ },
+ {
+  "start": 516.0,
+  "duration": 3.36,
+  "text": "it is, as I said at the beginning,"
+ },
+ {
+  "start": 517.599,
+  "duration": 3.761,
+  "text": "another example of just how things are"
+ },
+ {
+  "start": 519.36,
+  "duration": 4.32,
+  "text": "changing in this new period that we are"
+ },
+ {
+  "start": 521.36,
+  "duration": 4.08,
+  "text": "entering into. For now, however, that is"
+ },
+ {
+  "start": 523.68,
+  "duration": 4.159,
+  "text": "going to do it for the headlines. Next"
+ },
+ {
+  "start": 525.44,
+  "duration": 4.32,
+  "text": "up, the main episode."
+ },
+ {
+  "start": 527.839,
+  "duration": 4.641,
+  "text": "Welcome back to the AI daily brief. We"
+ },
+ {
+  "start": 529.76,
+  "duration": 5.36,
+  "text": "are now past the 4th of July, which"
+ },
+ {
+  "start": 532.48,
+  "duration": 4.96,
+  "text": "means by any and all accounting, we are"
+ },
+ {
+  "start": 535.12,
+  "duration": 3.76,
+  "text": "fully in summer mode. Now, for some"
+ },
+ {
+  "start": 537.44,
+  "duration": 3.28,
+  "text": "folks, especially in the corporate"
+ },
+ {
+  "start": 538.88,
+  "duration": 3.76,
+  "text": "sector, that means naturally a little"
+ },
+ {
+  "start": 540.72,
+  "duration": 3.92,
+  "text": "bit of a turning down of the intensity,"
+ },
+ {
+  "start": 542.64,
+  "duration": 3.84,
+  "text": "a time to pause and catch one's breath,"
+ },
+ {
+  "start": 544.64,
+  "duration": 3.84,
+  "text": "maybe take a vacation or at least shift"
+ },
+ {
+  "start": 546.48,
+  "duration": 4.72,
+  "text": "into a slightly different gear. And yet,"
+ },
+ {
+  "start": 548.48,
+  "duration": 4.0,
+  "text": "for some, this is a moment to turn up."
+ },
+ {
+  "start": 551.2,
+  "duration": 3.44,
+  "text": "And this weekend, the Wall Street"
+ },
+ {
+  "start": 552.48,
+  "duration": 4.08,
+  "text": "Journal did a long- form piece about the"
+ },
+ {
+  "start": 554.64,
+  "duration": 3.68,
+  "text": "changes in how some elite college"
+ },
+ {
+  "start": 556.56,
+  "duration": 4.24,
+  "text": "students are thinking about their own"
+ },
+ {
+  "start": 558.32,
+  "duration": 4.32,
+  "text": "careers, shifting away from traditional"
+ },
+ {
+  "start": 560.8,
+  "duration": 3.92,
+  "text": "internship type opportunities and"
+ },
+ {
+  "start": 562.64,
+  "duration": 3.759,
+  "text": "towards startups. Now, we're going to"
+ },
+ {
+  "start": 564.72,
+  "duration": 3.28,
+  "text": "expand that out today. And so, we're"
+ },
+ {
+  "start": 566.399,
+  "duration": 2.88,
+  "text": "going to look at not only the anecdotes"
+ },
+ {
+  "start": 568.0,
+  "duration": 4.08,
+  "text": "from the Wall Street Journal and that"
+ },
+ {
+  "start": 569.279,
+  "duration": 5.281,
+  "text": "piece, but some broader data in how AI"
+ },
+ {
+  "start": 572.08,
+  "duration": 4.56,
+  "text": "is shifting startups in general, but"
+ },
+ {
+  "start": 574.56,
+  "duration": 4.32,
+  "text": "smaller, more nimble solarreneur type"
+ },
+ {
+  "start": 576.64,
+  "duration": 3.36,
+  "text": "businesses in specific. Now, when it"
+ },
+ {
+  "start": 578.88,
+  "duration": 3.2,
+  "text": "comes to this piece, the Wall Street"
+ },
+ {
+  "start": 580.0,
+  "duration": 4.0,
+  "text": "Journal wrote, \"For decades, the path of"
+ },
+ {
+  "start": 582.08,
+  "duration": 3.52,
+  "text": "many elite students was clear. Secure"
+ },
+ {
+  "start": 584.0,
+  "duration": 3.279,
+  "text": "internships in tech, finance, or"
+ },
+ {
+  "start": 585.6,
+  "duration": 3.359,
+  "text": "consulting, graduate with a cushy job,"
+ },
+ {
+  "start": 587.279,
+  "duration": 3.601,
+  "text": "and climb the corporate ladder. And yet,"
+ },
+ {
+  "start": 588.959,
+  "duration": 4.241,
+  "text": "as they point out, given just how"
+ },
+ {
+  "start": 590.88,
+  "duration": 4.32,
+  "text": "uncertain the job market seems to be,"
+ },
+ {
+  "start": 593.2,
+  "duration": 3.92,
+  "text": "taking a chance as a founder or early"
+ },
+ {
+  "start": 595.2,
+  "duration": 3.36,
+  "text": "startup employee is starting to seem a"
+ },
+ {
+  "start": 597.12,
+  "duration": 3.04,
+  "text": "lot less risky than it might once have"
+ },
+ {
+  "start": 598.56,
+  "duration": 2.64,
+  "text": "been.\" The journal profiled several"
+ },
+ {
+  "start": 600.16,
+  "duration": 2.88,
+  "text": "young students who have made their way"
+ },
+ {
+  "start": 601.2,
+  "duration": 3.52,
+  "text": "to California to participate in the AI"
+ },
+ {
+  "start": 603.04,
+  "duration": 3.44,
+  "text": "boom. One subject of the piece was"
+ },
+ {
+  "start": 604.72,
+  "duration": 3.36,
+  "text": "Princeton student Charles Muielberger"
+ },
+ {
+  "start": 606.48,
+  "duration": 3.52,
+  "text": "who has taken a gap year to build a"
+ },
+ {
+  "start": 608.08,
+  "duration": 3.439,
+  "text": "company that deploys local AI models."
+ },
+ {
+  "start": 610.0,
+  "duration": 3.04,
+  "text": "Four weeks after touching down in San"
+ },
+ {
+  "start": 611.519,
+  "duration": 3.361,
+  "text": "Francisco, Muielberger is headed to"
+ },
+ {
+  "start": 613.04,
+  "duration": 3.359,
+  "text": "Barcelona to pitch his first customers."
+ },
+ {
+  "start": 614.88,
+  "duration": 3.519,
+  "text": "And while the uncertainty of the"
+ },
+ {
+  "start": 616.399,
+  "duration": 3.521,
+  "text": "traditional white collar career is a big"
+ },
+ {
+  "start": 618.399,
+  "duration": 3.12,
+  "text": "part of the story, there's also an"
+ },
+ {
+  "start": 619.92,
+  "duration": 3.28,
+  "text": "inverse to that fear side which is about"
+ },
+ {
+  "start": 621.519,
+  "duration": 3.601,
+  "text": "the idea that AI is giving new"
+ },
+ {
+  "start": 623.2,
+  "duration": 4.079,
+  "text": "opportunities to the most high agency"
+ },
+ {
+  "start": 625.12,
+  "duration": 3.839,
+  "text": "students. Muellberger said those who are"
+ },
+ {
+  "start": 627.279,
+  "duration": 3.761,
+  "text": "building now get a voice in what the"
+ },
+ {
+  "start": 628.959,
+  "duration": 4.241,
+  "text": "future looks like. The journal also"
+ },
+ {
+  "start": 631.04,
+  "duration": 3.52,
+  "text": "profiled a host of different programs"
+ },
+ {
+  "start": 633.2,
+  "duration": 2.96,
+  "text": "that are offering free housing,"
+ },
+ {
+  "start": 634.56,
+  "duration": 3.279,
+  "text": "mentorship, and networking opportunities"
+ },
+ {
+  "start": 636.16,
+  "duration": 3.6,
+  "text": "specifically for students participating"
+ },
+ {
+  "start": 637.839,
+  "duration": 3.68,
+  "text": "in the startup ecosystem. One such"
+ },
+ {
+  "start": 639.76,
+  "duration": 3.6,
+  "text": "program is the Yale Hacker House backed"
+ },
+ {
+  "start": 641.519,
+  "duration": 4.0,
+  "text": "by several alumni and associated venture"
+ },
+ {
+  "start": 643.36,
+  "duration": 3.44,
+  "text": "firms. 15 students are crammed into an"
+ },
+ {
+  "start": 645.519,
+  "duration": 3.201,
+  "text": "apartment in Knob Hill looking to build"
+ },
+ {
+  "start": 646.8,
+  "duration": 3.76,
+  "text": "the next big thing. Another incubator"
+ },
+ {
+  "start": 648.72,
+  "duration": 3.28,
+  "text": "covered is Techre, which says they aim"
+ },
+ {
+  "start": 650.56,
+  "duration": 3.2,
+  "text": "to be a bridge between the startup and"
+ },
+ {
+  "start": 652.0,
+  "duration": 3.6,
+  "text": "academic world, having recruited folks"
+ },
+ {
+  "start": 653.76,
+  "duration": 3.12,
+  "text": "from MIT, Harvard, and Princeton, and"
+ },
+ {
+  "start": 655.6,
+  "duration": 2.88,
+  "text": "saying that they're giving students an"
+ },
+ {
+  "start": 656.88,
+  "duration": 3.12,
+  "text": "opportunity to take in summer in San"
+ },
+ {
+  "start": 658.48,
+  "duration": 3.44,
+  "text": "Francisco before bringing that energy"
+ },
+ {
+  "start": 660.0,
+  "duration": 3.36,
+  "text": "back to campus. Now, one of the big"
+ },
+ {
+  "start": 661.92,
+  "duration": 2.72,
+  "text": "debates surfaced in the piece is whether"
+ },
+ {
+  "start": 663.36,
+  "duration": 3.36,
+  "text": "students should be dropping out of the"
+ },
+ {
+  "start": 664.64,
+  "duration": 3.759,
+  "text": "Ivy League to build an AI startup. Leia"
+ },
+ {
+  "start": 666.72,
+  "duration": 3.44,
+  "text": "Ryan, one of the creators of the Yale"
+ },
+ {
+  "start": 668.399,
+  "duration": 3.521,
+  "text": "Hacker House, is fully committed,"
+ },
+ {
+  "start": 670.16,
+  "duration": 3.6,
+  "text": "walking away from a PhD in genetics and"
+ },
+ {
+  "start": 671.92,
+  "duration": 3.84,
+  "text": "a job offer at a leading biotech firm."
+ },
+ {
+  "start": 673.76,
+  "duration": 3.36,
+  "text": "Her startup called Cortex was founded in"
+ },
+ {
+  "start": 675.76,
+  "duration": 3.04,
+  "text": "March and recently raised at a $10"
+ },
+ {
+  "start": 677.12,
+  "duration": 4.0,
+  "text": "million valuation after signing their"
+ },
+ {
+  "start": 678.8,
+  "duration": 3.84,
+  "text": "first commercial client. Ryan said,"
+ },
+ {
+  "start": 681.12,
+  "duration": 2.959,
+  "text": "\"When you raise money, I think it's"
+ },
+ {
+  "start": 682.64,
+  "duration": 3.12,
+  "text": "actually quite irresponsible to be in"
+ },
+ {
+  "start": 684.079,
+  "duration": 3.44,
+  "text": "school. Any serious founder will drop"
+ },
+ {
+  "start": 685.76,
+  "duration": 3.36,
+  "text": "out.\" Others see a degree as a necessary"
+ },
+ {
+  "start": 687.519,
+  "duration": 3.44,
+  "text": "part of business success as well as an"
+ },
+ {
+  "start": 689.12,
+  "duration": 3.04,
+  "text": "important safety net. Gari Cetri, a"
+ },
+ {
+  "start": 690.959,
+  "duration": 3.521,
+  "text": "Princeton sophomore and the founder of"
+ },
+ {
+  "start": 692.16,
+  "duration": 3.679,
+  "text": "AI reporting startup Strata said, \"You"
+ },
+ {
+  "start": 694.48,
+  "duration": 3.2,
+  "text": "kind of always want to have a degree at"
+ },
+ {
+  "start": 695.839,
+  "duration": 3.841,
+  "text": "the end of the day.\" Now, to some"
+ },
+ {
+  "start": 697.68,
+  "duration": 4.24,
+  "text": "extent, there's nothing particularly"
+ },
+ {
+  "start": 699.68,
+  "duration": 3.52,
+  "text": "novel about this conversation. If you"
+ },
+ {
+  "start": 701.92,
+  "duration": 3.68,
+  "text": "went back and looked over the course of"
+ },
+ {
+  "start": 703.2,
+  "duration": 4.079,
+  "text": "the 20 years since I graduated college,"
+ },
+ {
+  "start": 705.6,
+  "duration": 4.08,
+  "text": "you could probably find with pretty"
+ },
+ {
+  "start": 707.279,
+  "duration": 4.081,
+  "text": "frequent repetition some version of this"
+ },
+ {
+  "start": 709.68,
+  "duration": 3.68,
+  "text": "story of startups versus more"
+ },
+ {
+  "start": 711.36,
+  "duration": 3.919,
+  "text": "traditional career paths. The difference"
+ },
+ {
+  "start": 713.36,
+  "duration": 4.32,
+  "text": "now, of course, is the extent to which"
+ },
+ {
+  "start": 715.279,
+  "duration": 5.041,
+  "text": "AI is changing the calculus. And that's"
+ },
+ {
+  "start": 717.68,
+  "duration": 4.32,
+  "text": "on two different levels. AI is impacting"
+ },
+ {
+  "start": 720.32,
+  "duration": 3.68,
+  "text": "the activation cost of building a"
+ },
+ {
+  "start": 722.0,
+  "duration": 3.92,
+  "text": "startup. Basically, lowering the barrier"
+ },
+ {
+  "start": 724.0,
+  "duration": 3.279,
+  "text": "to entry, lowering the cost to actually"
+ },
+ {
+  "start": 725.92,
+  "duration": 2.719,
+  "text": "build something meaningful and try to"
+ },
+ {
+  "start": 727.279,
+  "duration": 3.12,
+  "text": "get it into the world. But I think"
+ },
+ {
+  "start": 728.639,
+  "duration": 2.801,
+  "text": "what's really important and why I think"
+ },
+ {
+  "start": 730.399,
+  "duration": 3.041,
+  "text": "you're probably going to see more"
+ },
+ {
+  "start": 731.44,
+  "duration": 4.16,
+  "text": "articles like this coming up is that AI"
+ },
+ {
+  "start": 733.44,
+  "duration": 4.24,
+  "text": "is also upending people's assumptions"
+ },
+ {
+  "start": 735.6,
+  "duration": 4.799,
+  "text": "about what safe actually looks like on"
+ },
+ {
+  "start": 737.68,
+  "duration": 5.12,
+  "text": "the other side as well. If the historic"
+ },
+ {
+  "start": 740.399,
+  "duration": 4.401,
+  "text": "calculus is startups and solo endeavors"
+ },
+ {
+  "start": 742.8,
+  "duration": 4.159,
+  "text": "as one side of the risk spectrum, i.e."
+ },
+ {
+  "start": 744.8,
+  "duration": 4.24,
+  "text": "the very risky side of the spectrum and"
+ },
+ {
+  "start": 746.959,
+  "duration": 4.0,
+  "text": "traditional corporate paths as the less"
+ },
+ {
+  "start": 749.04,
+  "duration": 3.359,
+  "text": "risky side of the spectrum, well that"
+ },
+ {
+  "start": 750.959,
+  "duration": 3.361,
+  "text": "starts to look a lot different when"
+ },
+ {
+  "start": 752.399,
+  "duration": 3.44,
+  "text": "people aren't sure what the roles in the"
+ },
+ {
+  "start": 754.32,
+  "duration": 3.68,
+  "text": "corporate world will even look like once"
+ },
+ {
+  "start": 755.839,
+  "duration": 3.521,
+  "text": "AI is fully integrated."
+ },
+ {
+  "start": 758.0,
+  "duration": 2.8,
+  "text": "And I think that rather than viewing"
+ },
+ {
+  "start": 759.36,
+  "duration": 3.36,
+  "text": "startups as some unique and"
+ },
+ {
+  "start": 760.8,
+  "duration": 3.92,
+  "text": "differentiated category, it's worth"
+ },
+ {
+  "start": 762.72,
+  "duration": 3.52,
+  "text": "actually thinking about in general how"
+ },
+ {
+  "start": 764.72,
+  "duration": 4.72,
+  "text": "they fit with how working is changing"
+ },
+ {
+  "start": 766.24,
+  "duration": 4.48,
+  "text": "more broadly. Economist Leah Palashi"
+ },
+ {
+  "start": 769.44,
+  "duration": 3.519,
+  "text": "also had a piece in the Wall Street"
+ },
+ {
+  "start": 770.72,
+  "duration": 4.96,
+  "text": "Journal this weekend called me myself in"
+ },
+ {
+  "start": 772.959,
+  "duration": 4.961,
+  "text": "AI. Tweeting the piece, she wrote, \"What"
+ },
+ {
+  "start": 775.68,
+  "duration": 3.76,
+  "text": "if AI's first labor market effect isn't"
+ },
+ {
+  "start": 777.92,
+  "duration": 3.919,
+  "text": "replacing workers, but making"
+ },
+ {
+  "start": 779.44,
+  "duration": 4.0,
+  "text": "traditional firms less necessary?\" And"
+ },
+ {
+  "start": 781.839,
+  "duration": 4.24,
+  "text": "what's interesting about Leah's piece,"
+ },
+ {
+  "start": 783.44,
+  "duration": 4.32,
+  "text": "Leah writes, \"Most debates over AI begin"
+ },
+ {
+  "start": 786.079,
+  "duration": 3.921,
+  "text": "with the same question. Which jobs will"
+ },
+ {
+  "start": 787.76,
+  "duration": 4.4,
+  "text": "AI destroy?\" But the first labor market"
+ },
+ {
+  "start": 790.0,
+  "duration": 3.839,
+  "text": "shock may not be mass job loss. It may"
+ },
+ {
+  "start": 792.16,
+  "duration": 4.08,
+  "text": "be worker migration from traditional"
+ },
+ {
+  "start": 793.839,
+  "duration": 4.321,
+  "text": "firms. AI is making it easier for one"
+ },
+ {
+  "start": 796.24,
+  "duration": 3.839,
+  "text": "worker to do tasks that once required a"
+ },
+ {
+  "start": 798.16,
+  "duration": 3.44,
+  "text": "small team. In industries where AI can"
+ },
+ {
+  "start": 800.079,
+  "duration": 3.601,
+  "text": "handle research, drafting, coding,"
+ },
+ {
+  "start": 801.6,
+  "duration": 4.0,
+  "text": "editing, and analysis, the result isn't"
+ },
+ {
+  "start": 803.68,
+  "duration": 4.48,
+  "text": "necessarily unemployment. It may be"
+ },
+ {
+  "start": 805.6,
+  "duration": 4.16,
+  "text": "independence. Now, Leah points out that"
+ },
+ {
+  "start": 808.16,
+  "duration": 3.359,
+  "text": "this is actually starting to show up in"
+ },
+ {
+  "start": 809.76,
+  "duration": 4.24,
+  "text": "the data as well. She points out that"
+ },
+ {
+  "start": 811.519,
+  "duration": 4.161,
+  "text": "since early 2024, solo business"
+ },
+ {
+  "start": 814.0,
+  "duration": 4.399,
+  "text": "applications, as tracked by the Census"
+ },
+ {
+  "start": 815.68,
+  "duration": 4.56,
+  "text": "Bureau, have risen nearly 27% in"
+ },
+ {
+  "start": 818.399,
+  "duration": 3.921,
+  "text": "professional services, information,"
+ },
+ {
+  "start": 820.24,
+  "duration": 3.52,
+  "text": "education, finance, and insurance. All"
+ },
+ {
+  "start": 822.32,
+  "duration": 3.6,
+  "text": "sectors, she points out, have the"
+ },
+ {
+  "start": 823.76,
+  "duration": 3.519,
+  "text": "highest AI adoption rates. Compare that"
+ },
+ {
+  "start": 825.92,
+  "duration": 3.039,
+  "text": "to areas like construction, and"
+ },
+ {
+  "start": 827.279,
+  "duration": 3.68,
+  "text": "wholesale trade, where solo business"
+ },
+ {
+  "start": 828.959,
+  "duration": 3.521,
+  "text": "applications have been essentially flat."
+ },
+ {
+  "start": 830.959,
+  "duration": 4.401,
+  "text": "She points out that if you go back to"
+ },
+ {
+  "start": 832.48,
+  "duration": 4.799,
+  "text": "2022 and 2023, the solo applications"
+ },
+ {
+  "start": 835.36,
+  "duration": 3.52,
+  "text": "across all sectors were pretty similar"
+ },
+ {
+  "start": 837.279,
+  "duration": 4.401,
+  "text": "and that the divergence only emerged"
+ },
+ {
+  "start": 838.88,
+  "duration": 4.399,
+  "text": "after 2024. Leah argues that federal"
+ },
+ {
+  "start": 841.68,
+  "duration": 4.0,
+  "text": "labor market data is painting pretty"
+ },
+ {
+  "start": 843.279,
+  "duration": 5.041,
+  "text": "much the same picture. Between 2022 and"
+ },
+ {
+  "start": 845.68,
+  "duration": 5.12,
+  "text": "2025, in occupations that were highly"
+ },
+ {
+  "start": 848.32,
+  "duration": 4.879,
+  "text": "exposed to AI, solo self-employment rose"
+ },
+ {
+  "start": 850.8,
+  "duration": 4.32,
+  "text": "about 20%. In the least AI exposed"
+ },
+ {
+  "start": 853.199,
+  "duration": 4.32,
+  "text": "applications, it didn't really change."
+ },
+ {
+  "start": 855.12,
+  "duration": 4.399,
+  "text": "Taking one example, management analysts,"
+ },
+ {
+  "start": 857.519,
+  "duration": 3.921,
+  "text": "which she argues is a useful proxy for"
+ },
+ {
+  "start": 859.519,
+  "duration": 5.041,
+  "text": "consulting work. Overall employment grew"
+ },
+ {
+  "start": 861.44,
+  "duration": 4.8,
+  "text": "12% from early 2022 to early 2026, while"
+ },
+ {
+  "start": 864.56,
+  "duration": 4.48,
+  "text": "solo self-employment in that same"
+ },
+ {
+  "start": 866.24,
+  "duration": 4.719,
+  "text": "occupation grew more than twice as fast."
+ },
+ {
+  "start": 869.04,
+  "duration": 4.4,
+  "text": "A recent report from Stripe's economics"
+ },
+ {
+  "start": 870.959,
+  "duration": 5.201,
+  "text": "team also highlighted this boom in"
+ },
+ {
+  "start": 873.44,
+  "duration": 4.399,
+  "text": "soloreneurship, i.e. solo operators"
+ },
+ {
+  "start": 876.16,
+  "duration": 4.16,
+  "text": "generating significant revenue without"
+ },
+ {
+  "start": 877.839,
+  "duration": 4.0,
+  "text": "hiring employees. The report cited"
+ },
+ {
+  "start": 880.32,
+  "duration": 2.8,
+  "text": "similar data from the Census Bureau,"
+ },
+ {
+  "start": 881.839,
+  "duration": 3.12,
+  "text": "which classifies new business"
+ },
+ {
+  "start": 883.12,
+  "duration": 4.0,
+  "text": "applications as either high propensity"
+ },
+ {
+  "start": 884.959,
+  "duration": 3.841,
+  "text": "employers or likely non-employers."
+ },
+ {
+  "start": 887.12,
+  "duration": 3.44,
+  "text": "There's been a huge uptick in likely"
+ },
+ {
+  "start": 888.8,
+  "duration": 4.0,
+  "text": "non-employers over the past 18 months,"
+ },
+ {
+  "start": 890.56,
+  "duration": 4.0,
+  "text": "beginning in late 2024."
+ },
+ {
+  "start": 892.8,
+  "duration": 4.08,
+  "text": "Now, Stripe notes that this signal has"
+ },
+ {
+  "start": 894.56,
+  "duration": 3.839,
+  "text": "been misleading in the past. The IRS has"
+ },
+ {
+  "start": 896.88,
+  "duration": 2.959,
+  "text": "periodically pushed gig workers to"
+ },
+ {
+  "start": 898.399,
+  "duration": 3.201,
+  "text": "complete business registrations over"
+ },
+ {
+  "start": 899.839,
+  "duration": 3.12,
+  "text": "recent years, driving a fairly steady"
+ },
+ {
+  "start": 901.6,
+  "duration": 3.12,
+  "text": "increase in non-employer business"
+ },
+ {
+  "start": 902.959,
+  "duration": 3.761,
+  "text": "applications. There was also the"
+ },
+ {
+  "start": 904.72,
+  "duration": 3.84,
+  "text": "paycheck protection program or PPP loans"
+ },
+ {
+  "start": 906.72,
+  "duration": 3.84,
+  "text": "in 2020 which required a business"
+ },
+ {
+  "start": 908.56,
+  "duration": 3.839,
+  "text": "registration and little else to qualify."
+ },
+ {
+  "start": 910.56,
+  "duration": 3.44,
+  "text": "That policy was the clear driver for a"
+ },
+ {
+  "start": 912.399,
+  "duration": 3.201,
+  "text": "doubling in non-employer registrations"
+ },
+ {
+  "start": 914.0,
+  "duration": 3.76,
+  "text": "that year which have remained elevated"
+ },
+ {
+  "start": 915.6,
+  "duration": 3.76,
+  "text": "ever since. This time around however we"
+ },
+ {
+  "start": 917.76,
+  "duration": 3.12,
+  "text": "have a large surge in non-employer"
+ },
+ {
+  "start": 919.36,
+  "duration": 3.76,
+  "text": "registrations while high propensity"
+ },
+ {
+  "start": 920.88,
+  "duration": 3.68,
+  "text": "registrations remain flat. And while"
+ },
+ {
+  "start": 923.12,
+  "duration": 3.2,
+  "text": "Stripe said that they can't distinguish"
+ },
+ {
+  "start": 924.56,
+  "duration": 3.76,
+  "text": "between solarreneurs and new businesses"
+ },
+ {
+  "start": 926.32,
+  "duration": 3.84,
+  "text": "with employees, they are seeing much"
+ },
+ {
+  "start": 928.32,
+  "duration": 4.319,
+  "text": "faster revenue ramps for businesses that"
+ },
+ {
+  "start": 930.16,
+  "duration": 4.72,
+  "text": "signed up in recent years. They wrote,"
+ },
+ {
+  "start": 932.639,
+  "duration": 4.481,
+  "text": "\"Business that signed up on Stripe after"
+ },
+ {
+  "start": 934.88,
+  "duration": 4.079,
+  "text": "2023 reached material transaction"
+ },
+ {
+  "start": 937.12,
+  "duration": 3.279,
+  "text": "volumes earlier than the signup cohorts"
+ },
+ {
+  "start": 938.959,
+  "duration": 3.12,
+  "text": "that preceded them. The share of"
+ },
+ {
+  "start": 940.399,
+  "duration": 3.201,
+  "text": "businesses, not just solopreneurs,"
+ },
+ {
+  "start": 942.079,
+  "duration": 3.041,
+  "text": "reaching a million dollars in cumulative"
+ },
+ {
+  "start": 943.6,
+  "duration": 4.0,
+  "text": "revenue within a year after going live"
+ },
+ {
+  "start": 945.12,
+  "duration": 5.279,
+  "text": "on Stripe was roughly 30% higher for the"
+ },
+ {
+  "start": 947.6,
+  "duration": 4.72,
+  "text": "2025 cohort as it was for the 2023"
+ },
+ {
+  "start": 950.399,
+  "duration": 5.281,
+  "text": "cohort. And it was roughly 3x higher for"
+ },
+ {
+  "start": 952.32,
+  "duration": 5.36,
+  "text": "the 2025 cohort than the 2019 cohort.\""
+ },
+ {
+  "start": 955.68,
+  "duration": 4.079,
+  "text": "Stripe also noted a series of coincident"
+ },
+ {
+  "start": 957.68,
+  "duration": 3.839,
+  "text": "indicators that suggest that this is a"
+ },
+ {
+  "start": 959.759,
+  "duration": 3.52,
+  "text": "genuine boom in entrepreneurship rather"
+ },
+ {
+  "start": 961.519,
+  "duration": 3.44,
+  "text": "than a quirk of the data. New business"
+ },
+ {
+  "start": 963.279,
+  "duration": 3.761,
+  "text": "registrations are up across a range of"
+ },
+ {
+  "start": 964.959,
+  "duration": 4.961,
+  "text": "different jurisdictions, rising by 40%"
+ },
+ {
+  "start": 967.04,
+  "duration": 5.12,
+  "text": "in Australia, 70% in Finland, and 80% in"
+ },
+ {
+  "start": 969.92,
+  "duration": 4.32,
+  "text": "France since 2017. Acceleration"
+ },
+ {
+  "start": 972.16,
+  "duration": 3.919,
+  "text": "meaningfully increased in 2025 across"
+ },
+ {
+  "start": 974.24,
+  "duration": 3.2,
+  "text": "each of these three countries. Stripe"
+ },
+ {
+  "start": 976.079,
+  "duration": 3.521,
+  "text": "also noted that we're seeing a boom in"
+ },
+ {
+  "start": 977.44,
+  "duration": 5.04,
+  "text": "Delaware LLC incorporations up 40%"
+ },
+ {
+  "start": 979.6,
+  "duration": 4.56,
+  "text": "year-over-year from early 2025. Stripe"
+ },
+ {
+  "start": 982.48,
+  "duration": 3.279,
+  "text": "also dug into revenue metrics and found"
+ },
+ {
+  "start": 984.16,
+  "duration": 3.52,
+  "text": "that solopreneurs are doing better than"
+ },
+ {
+  "start": 985.759,
+  "duration": 3.52,
+  "text": "ever. They analyzed the data by creating"
+ },
+ {
+  "start": 987.68,
+  "duration": 3.279,
+  "text": "a proxy index by screening for"
+ },
+ {
+  "start": 989.279,
+  "duration": 3.521,
+  "text": "subscription to solarreneur focused"
+ },
+ {
+  "start": 990.959,
+  "duration": 2.961,
+  "text": "platforms. And while the index isn't"
+ },
+ {
+  "start": 992.8,
+  "duration": 2.88,
+  "text": "perfect, Stripe believes it's"
+ },
+ {
+  "start": 993.92,
+  "duration": 3.52,
+  "text": "directionally correct and that direction"
+ },
+ {
+  "start": 995.68,
+  "duration": 3.36,
+  "text": "is up and to the right. The number of"
+ },
+ {
+  "start": 997.44,
+  "duration": 4.639,
+  "text": "solarreneurs earning a million dollars"
+ },
+ {
+  "start": 999.04,
+  "duration": 5.2,
+  "text": "more than doubled between 23 and 25."
+ },
+ {
+  "start": 1002.079,
+  "duration": 4.0,
+  "text": "Writes Stripe. These trends are quite"
+ },
+ {
+  "start": 1004.24,
+  "duration": 3.44,
+  "text": "striking and suggest a true shift to the"
+ },
+ {
+  "start": 1006.079,
+  "duration": 3.2,
+  "text": "scale solarreneurs can reach on their"
+ },
+ {
+  "start": 1007.68,
+  "duration": 4.0,
+  "text": "own and the frequency with which they do"
+ },
+ {
+  "start": 1009.279,
+  "duration": 4.321,
+  "text": "so. Now, Stripe's thesis, perhaps"
+ },
+ {
+  "start": 1011.68,
+  "duration": 4.159,
+  "text": "unsurprisingly, is that AI is enabling"
+ },
+ {
+  "start": 1013.6,
+  "duration": 4.32,
+  "text": "this boom in solarpreneurship. Now, this"
+ },
+ {
+  "start": 1015.839,
+  "duration": 4.081,
+  "text": "is not, they argue, a wave of vibecoded"
+ },
+ {
+  "start": 1017.92,
+  "duration": 4.08,
+  "text": "apps hitting a million dollars in ARR,"
+ },
+ {
+  "start": 1019.92,
+  "duration": 4.0,
+  "text": "but instead AI helping to fill the gaps"
+ },
+ {
+  "start": 1022.0,
+  "duration": 3.439,
+  "text": "that once made hiring mandatory for"
+ },
+ {
+  "start": 1023.92,
+  "duration": 3.119,
+  "text": "small businesses. They believe that AI"
+ },
+ {
+  "start": 1025.439,
+  "duration": 3.281,
+  "text": "services are now stepping in as the"
+ },
+ {
+  "start": 1027.039,
+  "duration": 4.0,
+  "text": "technical co-founder or the sales and"
+ },
+ {
+  "start": 1028.72,
+  "duration": 3.68,
+  "text": "marketing first hire. Right, Stripe?"
+ },
+ {
+  "start": 1031.039,
+  "duration": 2.8,
+  "text": "Part of the reason that businesses"
+ },
+ {
+  "start": 1032.4,
+  "duration": 3.2,
+  "text": "historically tended to be built by"
+ },
+ {
+  "start": 1033.839,
+  "duration": 3.521,
+  "text": "groups was that a single individual"
+ },
+ {
+  "start": 1035.6,
+  "duration": 3.599,
+  "text": "rarely possesses all the skills needed"
+ },
+ {
+  "start": 1037.36,
+  "duration": 3.679,
+  "text": "in the entrepreneurial journey. Whether"
+ },
+ {
+  "start": 1039.199,
+  "duration": 3.441,
+  "text": "it's how to evaluate or size a market,"
+ },
+ {
+  "start": 1041.039,
+  "duration": 3.52,
+  "text": "code an app, price a product, write and"
+ },
+ {
+  "start": 1042.64,
+  "duration": 3.76,
+  "text": "execute a marketing campaign, or close a"
+ },
+ {
+  "start": 1044.559,
+  "duration": 3.441,
+  "text": "deal, AI can fill many of the gaps that"
+ },
+ {
+  "start": 1046.4,
+  "duration": 3.6,
+  "text": "founders previously turned to another"
+ },
+ {
+  "start": 1048.0,
+  "duration": 3.52,
+  "text": "human for. The other driving force, as"
+ },
+ {
+  "start": 1050.0,
+  "duration": 4.0,
+  "text": "Stripe presents it, is the acceleration"
+ },
+ {
+  "start": 1051.52,
+  "duration": 4.32,
+  "text": "of sales activity from AI funnels."
+ },
+ {
+  "start": 1054.0,
+  "duration": 3.6,
+  "text": "Stripe wrote that AI influenced user"
+ },
+ {
+  "start": 1055.84,
+  "duration": 3.52,
+  "text": "journeys now represent four times the"
+ },
+ {
+  "start": 1057.6,
+  "duration": 3.36,
+  "text": "share of new signups for their service."
+ },
+ {
+  "start": 1059.36,
+  "duration": 3.84,
+  "text": "And they imagine the same is true across"
+ },
+ {
+  "start": 1060.96,
+  "duration": 4.0,
+  "text": "the board. Essentially, if you're a"
+ },
+ {
+  "start": 1063.2,
+  "duration": 3.76,
+  "text": "soloreneur offering a great product,"
+ },
+ {
+  "start": 1064.96,
+  "duration": 4.079,
+  "text": "ChatGpt itself is recommending you and"
+ },
+ {
+  "start": 1066.96,
+  "duration": 4.0,
+  "text": "driving a healthy portion of your sales."
+ },
+ {
+  "start": 1069.039,
+  "duration": 3.841,
+  "text": "Stripe concludes, \"We think this"
+ },
+ {
+  "start": 1070.96,
+  "duration": 3.44,
+  "text": "phenomenon is the true engine of the AI"
+ },
+ {
+  "start": 1072.88,
+  "duration": 3.36,
+  "text": "surge in business formation we're seeing"
+ },
+ {
+  "start": 1074.4,
+  "duration": 3.76,
+  "text": "today. The availability of this breath"
+ },
+ {
+  "start": 1076.24,
+  "duration": 4.4,
+  "text": "of ontap assistance allows anyone with"
+ },
+ {
+  "start": 1078.16,
+  "duration": 4.96,
+  "text": "sufficient motivation to go it alone.\""
+ },
+ {
+  "start": 1080.64,
+  "duration": 3.68,
+  "text": "Separately, but relatedly, Stripe Atlas,"
+ },
+ {
+  "start": 1083.12,
+  "duration": 2.88,
+  "text": "which is the company's startup"
+ },
+ {
+  "start": 1084.32,
+  "duration": 3.44,
+  "text": "enablement suite, also recently"
+ },
+ {
+  "start": 1086.0,
+  "duration": 3.6,
+  "text": "discussed why, as they put it, solo"
+ },
+ {
+  "start": 1087.76,
+  "duration": 4.0,
+  "text": "founding is at an all-time high. Now,"
+ },
+ {
+  "start": 1089.6,
+  "duration": 3.68,
+  "text": "this isn't just soloreneurs. This is all"
+ },
+ {
+  "start": 1091.76,
+  "duration": 3.279,
+  "text": "sorts of companies, including those with"
+ },
+ {
+  "start": 1093.28,
+  "duration": 3.44,
+  "text": "big ambition and venture-backed goals,"
+ },
+ {
+  "start": 1095.039,
+  "duration": 3.52,
+  "text": "who are starting with a single founder"
+ },
+ {
+  "start": 1096.72,
+  "duration": 4.48,
+  "text": "instead of a set of co-founders. Back in"
+ },
+ {
+  "start": 1098.559,
+  "duration": 5.041,
+  "text": "May, Atlas wrote, \"Solo startup founders"
+ },
+ {
+  "start": 1101.2,
+  "duration": 4.4,
+  "text": "account for 63% of CC Corps form so far"
+ },
+ {
+  "start": 1103.6,
+  "duration": 3.92,
+  "text": "in the second quarter of 2026, an"
+ },
+ {
+  "start": 1105.6,
+  "duration": 3.439,
+  "text": "all-time high. As more founders start"
+ },
+ {
+  "start": 1107.52,
+  "duration": 3.2,
+  "text": "companies on their own, the gap between"
+ },
+ {
+  "start": 1109.039,
+  "duration": 4.0,
+  "text": "typical companies and top performers is"
+ },
+ {
+  "start": 1110.72,
+  "duration": 3.76,
+  "text": "widening. Now, from there, Atlas dug"
+ },
+ {
+  "start": 1113.039,
+  "duration": 2.801,
+  "text": "into what makes these companies"
+ },
+ {
+  "start": 1114.48,
+  "duration": 3.28,
+  "text": "different, pointing out that they are"
+ },
+ {
+  "start": 1115.84,
+  "duration": 3.839,
+  "text": "often building AI native products,"
+ },
+ {
+  "start": 1117.76,
+  "duration": 4.24,
+  "text": "selling globally from launch, focusing"
+ },
+ {
+  "start": 1119.679,
+  "duration": 4.481,
+  "text": "on B2B use cases, and winning higher"
+ },
+ {
+  "start": 1122.0,
+  "duration": 3.76,
+  "text": "customer retention from the start."
+ },
+ {
+  "start": 1124.16,
+  "duration": 3.6,
+  "text": "Former Atlantic journalist and author"
+ },
+ {
+  "start": 1125.76,
+  "duration": 3.6,
+  "text": "Derek Thompson recently wrote a blog"
+ },
+ {
+  "start": 1127.76,
+  "duration": 2.96,
+  "text": "post about all of this called There's"
+ },
+ {
+  "start": 1129.36,
+  "duration": 3.36,
+  "text": "Never Been a Better Time to Get Rich"
+ },
+ {
+  "start": 1130.72,
+  "duration": 3.92,
+  "text": "Working Alone. In a tweet, he summed up,"
+ },
+ {
+  "start": 1132.72,
+  "duration": 3.68,
+  "text": "\"The debate about AI and jobs often"
+ },
+ {
+  "start": 1134.64,
+  "duration": 3.44,
+  "text": "breaks down into two extreme groups,"
+ },
+ {
+  "start": 1136.4,
+  "duration": 3.279,
+  "text": "both of which have an evidence problem."
+ },
+ {
+  "start": 1138.08,
+  "duration": 3.44,
+  "text": "On the one hand are the doomers who say"
+ },
+ {
+  "start": 1139.679,
+  "duration": 3.281,
+  "text": "AI will take everyone's job even though"
+ },
+ {
+  "start": 1141.52,
+  "duration": 2.8,
+  "text": "unemployment remains low and the"
+ },
+ {
+  "start": 1142.96,
+  "duration": 3.2,
+  "text": "employment rate for prime age Americans"
+ },
+ {
+  "start": 1144.32,
+  "duration": 3.68,
+  "text": "is still very high. On the other are the"
+ },
+ {
+  "start": 1146.16,
+  "duration": 3.6,
+  "text": "deniers whose insistence that AI is a"
+ },
+ {
+  "start": 1148.0,
+  "duration": 3.28,
+  "text": "worthless scam prevents them from seeing"
+ },
+ {
+  "start": 1149.76,
+  "duration": 3.44,
+  "text": "the many ways it's changing work in the"
+ },
+ {
+  "start": 1151.28,
+  "duration": 3.759,
+  "text": "economy already. Now if you want a"
+ },
+ {
+  "start": 1153.2,
+  "duration": 3.68,
+  "text": "strong and evidence-based take about AI"
+ },
+ {
+  "start": 1155.039,
+  "duration": 3.441,
+  "text": "and jobs, I have one for you. There's"
+ },
+ {
+  "start": 1156.88,
+  "duration": 3.84,
+  "text": "never been a better time for workers to"
+ },
+ {
+  "start": 1158.48,
+  "duration": 4.24,
+  "text": "get rich by going independent. This is a"
+ },
+ {
+  "start": 1160.72,
+  "duration": 4.64,
+  "text": "golden age for tiny startups with big"
+ },
+ {
+  "start": 1162.72,
+  "duration": 4.16,
+  "text": "revenue. Now, Derek points to all of the"
+ },
+ {
+  "start": 1165.36,
+  "duration": 3.04,
+  "text": "same data that we've just talked about"
+ },
+ {
+  "start": 1166.88,
+  "duration": 3.36,
+  "text": "and starts to explore what some of the"
+ },
+ {
+  "start": 1168.4,
+  "duration": 3.92,
+  "text": "bigger implications might be. He wonders"
+ },
+ {
+  "start": 1170.24,
+  "duration": 4.24,
+  "text": "if more solopreneurs will create more"
+ },
+ {
+  "start": 1172.32,
+  "duration": 4.08,
+  "text": "aloneeness and wonders what impact it"
+ },
+ {
+  "start": 1174.48,
+  "duration": 3.12,
+  "text": "might have on tax revenue for the"
+ },
+ {
+  "start": 1176.4,
+  "duration": 3.36,
+  "text": "government. But the point is that"
+ },
+ {
+  "start": 1177.6,
+  "duration": 4.319,
+  "text": "increasingly in a sea of speculation"
+ },
+ {
+  "start": 1179.76,
+  "duration": 3.84,
+  "text": "about potential future impacts of AI on"
+ },
+ {
+  "start": 1181.919,
+  "duration": 3.201,
+  "text": "work. The one area where there is"
+ },
+ {
+  "start": 1183.6,
+  "duration": 2.72,
+  "text": "starting to be very clear data right"
+ },
+ {
+  "start": 1185.12,
+  "duration": 3.2,
+  "text": "from the beginning is around"
+ },
+ {
+  "start": 1186.32,
+  "duration": 4.0,
+  "text": "solarreneurship and startup and small"
+ },
+ {
+  "start": 1188.32,
+  "duration": 3.44,
+  "text": "business formation."
+ },
+ {
+  "start": 1190.32,
+  "duration": 2.88,
+  "text": "And one area that I think is worth"
+ },
+ {
+  "start": 1191.76,
+  "duration": 3.6,
+  "text": "keeping an eye on is not just"
+ },
+ {
+  "start": 1193.2,
+  "duration": 4.16,
+  "text": "solopreneurship specifically, but also"
+ },
+ {
+  "start": 1195.36,
+  "duration": 3.52,
+  "text": "how the smallalness and streamlining"
+ },
+ {
+  "start": 1197.36,
+  "duration": 4.16,
+  "text": "finds its way into other types of"
+ },
+ {
+  "start": 1198.88,
+  "duration": 4.64,
+  "text": "organizations as well. A recent study"
+ },
+ {
+  "start": 1201.52,
+  "duration": 4.24,
+  "text": "out of Harvard Business and Inse did"
+ },
+ {
+  "start": 1203.52,
+  "duration": 5.12,
+  "text": "find that in fact AI powered startups"
+ },
+ {
+  "start": 1205.76,
+  "duration": 5.12,
+  "text": "are running leaner. SSRN summed up the"
+ },
+ {
+  "start": 1208.64,
+  "duration": 4.8,
+  "text": "study's findings. AI native startups are"
+ },
+ {
+  "start": 1210.88,
+  "duration": 4.96,
+  "text": "25% smaller, flatter, and more engineer"
+ },
+ {
+  "start": 1213.44,
+  "duration": 3.84,
+  "text": "heavy yet equally valued. Embedding AI"
+ },
+ {
+  "start": 1215.84,
+  "duration": 3.76,
+  "text": "into the product lets them scale"
+ },
+ {
+  "start": 1217.28,
+  "duration": 3.759,
+  "text": "knowledge work without large teams. And"
+ },
+ {
+  "start": 1219.6,
+  "duration": 2.88,
+  "text": "this is I think why it's worth paying"
+ },
+ {
+  "start": 1221.039,
+  "duration": 3.041,
+  "text": "attention to these trends. Even if you"
+ },
+ {
+  "start": 1222.48,
+  "duration": 3.439,
+  "text": "are not a solopreneur or startup person"
+ },
+ {
+  "start": 1224.08,
+  "duration": 4.24,
+  "text": "yourself, what startups and especially"
+ },
+ {
+  "start": 1225.919,
+  "duration": 4.401,
+  "text": "solopreneurs represent is the extreme"
+ },
+ {
+  "start": 1228.32,
+  "duration": 4.239,
+  "text": "tale of the efficiency gains possible"
+ },
+ {
+  "start": 1230.32,
+  "duration": 3.76,
+  "text": "from AI. They are going to speedrun a"
+ },
+ {
+  "start": 1232.559,
+  "duration": 3.12,
+  "text": "lot of the experiments that will"
+ },
+ {
+  "start": 1234.08,
+  "duration": 3.68,
+  "text": "eventually find their ways into other"
+ },
+ {
+  "start": 1235.679,
+  "duration": 3.601,
+  "text": "types of organizations. And so to the"
+ },
+ {
+  "start": 1237.76,
+  "duration": 2.88,
+  "text": "extent that the data is showing that"
+ },
+ {
+  "start": 1239.28,
+  "duration": 3.12,
+  "text": "these companies are getting more"
+ },
+ {
+  "start": 1240.64,
+  "duration": 3.6,
+  "text": "successful faster with fewer resource"
+ },
+ {
+  "start": 1242.4,
+  "duration": 3.44,
+  "text": "inputs, it's highly likely that some"
+ },
+ {
+  "start": 1244.24,
+  "duration": 4.4,
+  "text": "parts of that find their way to other"
+ },
+ {
+  "start": 1245.84,
+  "duration": 4.319,
+  "text": "types of business environments as well."
+ },
+ {
+  "start": 1248.64,
+  "duration": 2.8,
+  "text": "Anyway, I think it's encouraging that"
+ },
+ {
+  "start": 1250.159,
+  "duration": 3.281,
+  "text": "we're starting to actually be able to"
+ },
+ {
+  "start": 1251.44,
+  "duration": 3.76,
+  "text": "debate AI's impact on the basis of data,"
+ },
+ {
+  "start": 1253.44,
+  "duration": 3.2,
+  "text": "not just on speculation. And honestly,"
+ },
+ {
+  "start": 1255.2,
+  "duration": 2.8,
+  "text": "for solarreneurs, the numbers are"
+ },
+ {
+  "start": 1256.64,
+  "duration": 2.88,
+  "text": "looking good. For now, that's going to"
+ },
+ {
+  "start": 1258.0,
+  "duration": 3.12,
+  "text": "do it for today's AI Daily Brief."
+ },
+ {
+  "start": 1259.52,
+  "duration": 6.2,
+  "text": "Appreciate you listening or watching as"
+ },
+ {
+  "start": 1261.12,
+  "duration": 4.6,
+  "text": "always. And until next time, peace."
+ }
+]

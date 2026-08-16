@@ -1,0 +1,1742 @@
+[
+ {
+  "start": 0.4,
+  "duration": 3.68,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 2.159,
+  "duration": 4.081,
+  "text": "Today we're talking about something that"
+ },
+ {
+  "start": 4.08,
+  "duration": 4.32,
+  "text": "has been of interest to people for quite"
+ },
+ {
+  "start": 6.24,
+  "duration": 5.12,
+  "text": "some time. When I first started this"
+ },
+ {
+  "start": 8.4,
+  "duration": 4.72,
+  "text": "show all the way back in April of 2023,"
+ },
+ {
+  "start": 11.36,
+  "duration": 3.92,
+  "text": "already there were people who were"
+ },
+ {
+  "start": 13.12,
+  "duration": 4.56,
+  "text": "extremely interested in the way that"
+ },
+ {
+  "start": 15.28,
+  "duration": 3.68,
+  "text": "LLMs could generate code. Now, it would"
+ },
+ {
+  "start": 17.68,
+  "duration": 3.2,
+  "text": "take a couple of years and some"
+ },
+ {
+  "start": 18.96,
+  "duration": 3.44,
+  "text": "significant advances in the models to"
+ },
+ {
+  "start": 20.88,
+  "duration": 2.72,
+  "text": "actually unleash vibe coding in the way"
+ },
+ {
+  "start": 22.4,
+  "duration": 4.16,
+  "text": "that had happened over the course of"
+ },
+ {
+  "start": 23.6,
+  "duration": 5.999,
+  "text": "2025, but the idea was there very early."
+ },
+ {
+  "start": 26.56,
+  "duration": 4.959,
+  "text": "We've similarly had interest in vast"
+ },
+ {
+  "start": 29.599,
+  "duration": 3.601,
+  "text": "teams of agents that can coordinate"
+ },
+ {
+  "start": 31.519,
+  "duration": 4.241,
+  "text": "amongst themselves to accomplish more"
+ },
+ {
+  "start": 33.2,
+  "duration": 4.32,
+  "text": "things even if the capability set hasn't"
+ },
+ {
+  "start": 35.76,
+  "duration": 3.68,
+  "text": "fully been there. Which isn't to say"
+ },
+ {
+  "start": 37.52,
+  "duration": 4.08,
+  "text": "that people haven't been experimenting."
+ },
+ {
+  "start": 39.44,
+  "duration": 4.959,
+  "text": "Lindy released their agent swarm tool"
+ },
+ {
+  "start": 41.6,
+  "duration": 4.479,
+  "text": "back in April of 2025. And the concept"
+ },
+ {
+  "start": 44.399,
+  "duration": 3.68,
+  "text": "is related to something that I've talked"
+ },
+ {
+  "start": 46.079,
+  "duration": 4.081,
+  "text": "about on this show, the Doctor Strange"
+ },
+ {
+  "start": 48.079,
+  "duration": 3.841,
+  "text": "theory of AI agent work. Now, the"
+ },
+ {
+  "start": 50.16,
+  "duration": 3.12,
+  "text": "specific point that I've made is"
+ },
+ {
+  "start": 51.92,
+  "duration": 3.44,
+  "text": "actually about the difference in how"
+ },
+ {
+  "start": 53.28,
+  "duration": 3.759,
+  "text": "enterprises think agents will play out"
+ },
+ {
+  "start": 55.36,
+  "duration": 3.039,
+  "text": "versus how I think they will play out."
+ },
+ {
+  "start": 57.039,
+  "duration": 2.561,
+  "text": "With the difference being that I don't"
+ },
+ {
+  "start": 58.399,
+  "duration": 3.361,
+  "text": "think that agents are going to be"
+ },
+ {
+  "start": 59.6,
+  "duration": 3.52,
+  "text": "onetoone replacements for existing human"
+ },
+ {
+  "start": 61.76,
+  "duration": 3.039,
+  "text": "work, I think that we're going to be"
+ },
+ {
+  "start": 63.12,
+  "duration": 3.44,
+  "text": "able to deploy lots and lots of agents"
+ },
+ {
+  "start": 64.799,
+  "duration": 3.441,
+  "text": "to scenario and war game different types"
+ },
+ {
+  "start": 66.56,
+  "duration": 3.44,
+  "text": "of work, which while not exactly the"
+ },
+ {
+  "start": 68.24,
+  "duration": 4.0,
+  "text": "same as agent swarms, which are more"
+ },
+ {
+  "start": 70.0,
+  "duration": 4.32,
+  "text": "about breaking down complex tasks into"
+ },
+ {
+  "start": 72.24,
+  "duration": 3.76,
+  "text": "specific subtasks, is in some ways still"
+ },
+ {
+  "start": 74.32,
+  "duration": 3.76,
+  "text": "part of the same larger conversation"
+ },
+ {
+  "start": 76.0,
+  "duration": 4.159,
+  "text": "about how agents will actually work in"
+ },
+ {
+  "start": 78.08,
+  "duration": 3.76,
+  "text": "the future. Over the last couple of"
+ },
+ {
+  "start": 80.159,
+  "duration": 4.401,
+  "text": "days, we have started to get the first"
+ },
+ {
+  "start": 81.84,
+  "duration": 4.56,
+  "text": "big model releases of 2026. And maybe"
+ },
+ {
+  "start": 84.56,
+  "duration": 4.559,
+  "text": "the most significant so far is"
+ },
+ {
+  "start": 86.4,
+  "duration": 5.039,
+  "text": "Moonshot's Kimmy K2.5."
+ },
+ {
+  "start": 89.119,
+  "duration": 4.801,
+  "text": "While it is the agent swarm feature of"
+ },
+ {
+  "start": 91.439,
+  "duration": 4.0,
+  "text": "K2.5 which has the most chatter, it's"
+ },
+ {
+  "start": 93.92,
+  "duration": 3.92,
+  "text": "worth checking out the broader model as"
+ },
+ {
+  "start": 95.439,
+  "duration": 5.761,
+  "text": "a whole. Artificial analysis sums up the"
+ },
+ {
+  "start": 97.84,
+  "duration": 5.44,
+  "text": "shift when they write Kimmy K2.5 is the"
+ },
+ {
+  "start": 101.2,
+  "duration": 4.08,
+  "text": "new leading open weights model now"
+ },
+ {
+  "start": 103.28,
+  "duration": 4.159,
+  "text": "closer than ever to the frontier with"
+ },
+ {
+  "start": 105.28,
+  "duration": 4.4,
+  "text": "only OpenAI anthropic and Google models"
+ },
+ {
+  "start": 107.439,
+  "duration": 4.881,
+  "text": "ahead. And indeed, the benchmarks are"
+ },
+ {
+  "start": 109.68,
+  "duration": 5.2,
+  "text": "impressive. K2.5, for example, claims"
+ },
+ {
+  "start": 112.32,
+  "duration": 4.72,
+  "text": "50.2 on humanity's last exam, which"
+ },
+ {
+  "start": 114.88,
+  "duration": 5.279,
+  "text": "would put them ahead of GPT52 running on"
+ },
+ {
+  "start": 117.04,
+  "duration": 4.8,
+  "text": "high settings, Opus 4.5, and Gemini 3."
+ },
+ {
+  "start": 120.159,
+  "duration": 3.28,
+  "text": "On a variety of other benchmarks as"
+ },
+ {
+  "start": 121.84,
+  "duration": 3.599,
+  "text": "well, they claim performance that"
+ },
+ {
+  "start": 123.439,
+  "duration": 4.401,
+  "text": "matches or exceeds these premier Western"
+ },
+ {
+  "start": 125.439,
+  "duration": 4.96,
+  "text": "models. On the overall independent"
+ },
+ {
+  "start": 127.84,
+  "duration": 4.56,
+  "text": "artificial analysis index, Kimmy jumps"
+ },
+ {
+  "start": 130.399,
+  "duration": 4.161,
+  "text": "from 11th place overall with their K2"
+ },
+ {
+  "start": 132.4,
+  "duration": 5.68,
+  "text": "thinking model into fifth, only behind"
+ },
+ {
+  "start": 134.56,
+  "duration": 5.84,
+  "text": "two iterations of GPT 5.2, 2, Opus 4.5,"
+ },
+ {
+  "start": 138.08,
+  "duration": 3.76,
+  "text": "and Gemini 3 Pro. And of course, the"
+ },
+ {
+  "start": 140.4,
+  "duration": 4.64,
+  "text": "cost is cheaper than any of those"
+ },
+ {
+  "start": 141.84,
+  "duration": 5.36,
+  "text": "models. In AA's tests, Kimmy K2.5 was"
+ },
+ {
+  "start": 145.04,
+  "duration": 4.72,
+  "text": "about four times cheaper than Opus 45 or"
+ },
+ {
+  "start": 147.2,
+  "duration": 5.84,
+  "text": "GPT52, but was still much more expensive"
+ },
+ {
+  "start": 149.76,
+  "duration": 4.559,
+  "text": "than, for example, Deepseek version 3.2."
+ },
+ {
+  "start": 153.04,
+  "duration": 2.72,
+  "text": "One of the things that Moonshot has"
+ },
+ {
+  "start": 154.319,
+  "duration": 3.761,
+  "text": "emphasized in their launch is the"
+ },
+ {
+  "start": 155.76,
+  "duration": 4.479,
+  "text": "model's native multimodality. Artificial"
+ },
+ {
+  "start": 158.08,
+  "duration": 3.84,
+  "text": "analysis again writes, \"Kimmy K2.5 is"
+ },
+ {
+  "start": 160.239,
+  "duration": 4.0,
+  "text": "the first flagship model from Moonshot"
+ },
+ {
+  "start": 161.92,
+  "duration": 4.08,
+  "text": "to support image and video inputs. This"
+ },
+ {
+  "start": 164.239,
+  "duration": 3.121,
+  "text": "is the first time that the leading openw"
+ },
+ {
+  "start": 166.0,
+  "duration": 3.36,
+  "text": "weightights model has supported image"
+ },
+ {
+  "start": 167.36,
+  "duration": 3.519,
+  "text": "input, removing a critical barrier to"
+ },
+ {
+  "start": 169.36,
+  "duration": 2.959,
+  "text": "the adoption of open weights models"
+ },
+ {
+  "start": 170.879,
+  "duration": 3.44,
+  "text": "compared to proprietary models from the"
+ },
+ {
+  "start": 172.319,
+  "duration": 3.361,
+  "text": "frontier labs. They point out that this"
+ },
+ {
+  "start": 174.319,
+  "duration": 2.881,
+  "text": "makes a significant difference as"
+ },
+ {
+  "start": 175.68,
+  "duration": 4.72,
+  "text": "compared to other open weights leaders"
+ },
+ {
+  "start": 177.2,
+  "duration": 4.959,
+  "text": "like deepseats v3.2. Now, anytime we get"
+ },
+ {
+  "start": 180.4,
+  "duration": 3.759,
+  "text": "a model out of China, of course, one"
+ },
+ {
+  "start": 182.159,
+  "duration": 4.16,
+  "text": "aspect of the discourse is what it says"
+ },
+ {
+  "start": 184.159,
+  "duration": 3.44,
+  "text": "for the state of the AI race. On that"
+ },
+ {
+  "start": 186.319,
+  "duration": 3.521,
+  "text": "front, there were a number of people who"
+ },
+ {
+  "start": 187.599,
+  "duration": 4.961,
+  "text": "took to Twitter/X to share examples of"
+ },
+ {
+  "start": 189.84,
+  "duration": 5.28,
+  "text": "Kimmy 2.5 claiming that it was clawed."
+ },
+ {
+  "start": 192.56,
+  "duration": 5.28,
+  "text": "Enrico from big AGI says identity crisis"
+ },
+ {
+  "start": 195.12,
+  "duration": 4.399,
+  "text": "or training set. Still overall even with"
+ },
+ {
+  "start": 197.84,
+  "duration": 3.92,
+  "text": "some of the suspicion of distillation of"
+ },
+ {
+  "start": 199.519,
+  "duration": 3.761,
+  "text": "western models. The release of 2.5"
+ },
+ {
+  "start": 201.76,
+  "duration": 3.6,
+  "text": "certainly validates the recent arguments"
+ },
+ {
+  "start": 203.28,
+  "duration": 3.76,
+  "text": "from people like Demis that Chinese"
+ },
+ {
+  "start": 205.36,
+  "duration": 3.28,
+  "text": "models are very very close to the US"
+ },
+ {
+  "start": 207.04,
+  "duration": 3.04,
+  "text": "when it comes to performance if not yet"
+ },
+ {
+  "start": 208.64,
+  "duration": 4.0,
+  "text": "having had an example of actually"
+ },
+ {
+  "start": 210.08,
+  "duration": 4.56,
+  "text": "pushing the frontier. As Bulaz Nethi"
+ },
+ {
+  "start": 212.64,
+  "duration": 4.4,
+  "text": "points out, however, the real value in"
+ },
+ {
+  "start": 214.64,
+  "duration": 4.4,
+  "text": "2.5 is not, as he puts it, pure IQ"
+ },
+ {
+  "start": 217.04,
+  "duration": 4.08,
+  "text": "dominance. It's about how it does in an"
+ },
+ {
+  "start": 219.04,
+  "duration": 4.4,
+  "text": "actual work environment. He calls it"
+ },
+ {
+  "start": 221.12,
+  "duration": 3.759,
+  "text": "less chatbot and more employee. And"
+ },
+ {
+  "start": 223.44,
+  "duration": 2.879,
+  "text": "indeed, there are a couple things that"
+ },
+ {
+  "start": 224.879,
+  "duration": 3.601,
+  "text": "stood out to me about the 2.5"
+ },
+ {
+  "start": 226.319,
+  "duration": 3.601,
+  "text": "announcement that are really impressive."
+ },
+ {
+  "start": 228.48,
+  "duration": 3.2,
+  "text": "One is the way that they're using this"
+ },
+ {
+  "start": 229.92,
+  "duration": 3.92,
+  "text": "multimodal input capability in the"
+ },
+ {
+  "start": 231.68,
+  "duration": 3.76,
+  "text": "context of coding. They show an example"
+ },
+ {
+  "start": 233.84,
+  "duration": 3.52,
+  "text": "of taking a screen recording of a"
+ },
+ {
+  "start": 235.44,
+  "duration": 3.519,
+  "text": "website, dumping it into Kimmy and"
+ },
+ {
+  "start": 237.36,
+  "duration": 3.439,
+  "text": "asking it to clone it with Kimmy"
+ },
+ {
+  "start": 238.959,
+  "duration": 4.0,
+  "text": "shipping that code, including UX and"
+ },
+ {
+  "start": 240.799,
+  "duration": 4.241,
+  "text": "interactions. If this actually works"
+ },
+ {
+  "start": 242.959,
+  "duration": 4.081,
+  "text": "like that, it opens up a significant new"
+ },
+ {
+  "start": 245.04,
+  "duration": 3.6,
+  "text": "frontier in AI coding that you have to"
+ },
+ {
+  "start": 247.04,
+  "duration": 3.279,
+  "text": "imagine that everyone will race to copy"
+ },
+ {
+  "start": 248.64,
+  "duration": 4.319,
+  "text": "very quickly. Another thing that"
+ },
+ {
+  "start": 250.319,
+  "duration": 5.041,
+  "text": "Moonshot emphasized is how good 2.5 is"
+ },
+ {
+  "start": 252.959,
+  "duration": 4.081,
+  "text": "at office skills. Things like financial"
+ },
+ {
+  "start": 255.36,
+  "duration": 3.839,
+  "text": "modeling in Excel or creating"
+ },
+ {
+  "start": 257.04,
+  "duration": 3.68,
+  "text": "highquality powerpoints. Now, again,"
+ },
+ {
+  "start": 259.199,
+  "duration": 3.041,
+  "text": "this could be incredibly valuable when"
+ },
+ {
+  "start": 260.72,
+  "duration": 2.64,
+  "text": "it comes to work, although I haven't"
+ },
+ {
+  "start": 262.24,
+  "duration": 2.72,
+  "text": "really been able to find a ton of"
+ },
+ {
+  "start": 263.36,
+  "duration": 2.72,
+  "text": "examples yet of people testing this out"
+ },
+ {
+  "start": 264.96,
+  "duration": 3.519,
+  "text": "that don't just feel like paid"
+ },
+ {
+  "start": 266.08,
+  "duration": 3.92,
+  "text": "influencer posts. One that I found that"
+ },
+ {
+  "start": 268.479,
+  "duration": 3.44,
+  "text": "did seem to positively test out these"
+ },
+ {
+  "start": 270.0,
+  "duration": 3.759,
+  "text": "features came from Shafi. He wrote,"
+ },
+ {
+  "start": 271.919,
+  "duration": 3.201,
+  "text": "\"This new AI model, Kimmy from China,"
+ },
+ {
+  "start": 273.759,
+  "duration": 2.88,
+  "text": "created a full slide deck from my"
+ },
+ {
+  "start": 275.12,
+  "duration": 3.04,
+  "text": "journal article in one single shot"
+ },
+ {
+  "start": 276.639,
+  "duration": 3.041,
+  "text": "prompt. I just gave it the keyword and"
+ },
+ {
+  "start": 278.16,
+  "duration": 3.12,
+  "text": "journal name, not even the link or PDF"
+ },
+ {
+  "start": 279.68,
+  "duration": 3.2,
+  "text": "to the article. It searched the article"
+ },
+ {
+  "start": 281.28,
+  "duration": 3.04,
+  "text": "and found the correct one. Developed the"
+ },
+ {
+  "start": 282.88,
+  "duration": 2.879,
+  "text": "contents after reading the paper,"
+ },
+ {
+  "start": 284.32,
+  "duration": 2.64,
+  "text": "created contents for 12 slides,"
+ },
+ {
+  "start": 285.759,
+  "duration": 2.961,
+  "text": "including searching images from"
+ },
+ {
+  "start": 286.96,
+  "duration": 3.2,
+  "text": "internet. Asked for suggestions to make"
+ },
+ {
+  "start": 288.72,
+  "duration": 2.96,
+  "text": "edits, which I declined and asked it to"
+ },
+ {
+  "start": 290.16,
+  "duration": 3.2,
+  "text": "go ahead and generated slides in a"
+ },
+ {
+  "start": 291.68,
+  "duration": 3.76,
+  "text": "PowerPoint format. Everything happened"
+ },
+ {
+  "start": 293.36,
+  "duration": 3.68,
+  "text": "inside my phone in 5 to 6 minutes. Since"
+ },
+ {
+  "start": 295.44,
+  "duration": 3.92,
+  "text": "it's my own article, I know it got most"
+ },
+ {
+  "start": 297.04,
+  "duration": 4.0,
+  "text": "of the things right. And yet, as I said"
+ },
+ {
+  "start": 299.36,
+  "duration": 3.2,
+  "text": "at the beginning, probably the feature"
+ },
+ {
+  "start": 301.04,
+  "duration": 4.159,
+  "text": "that people are most excited about is"
+ },
+ {
+  "start": 302.56,
+  "duration": 4.72,
+  "text": "this agent swarm parallelization. An"
+ },
+ {
+  "start": 305.199,
+  "duration": 3.521,
+  "text": "example that Kimmy gave was adapting Oh,"
+ },
+ {
+  "start": 307.28,
+  "duration": 3.759,
+  "text": "Henry's short story, The Gift of the"
+ },
+ {
+  "start": 308.72,
+  "duration": 4.08,
+  "text": "Magi, into a 10-minute short film. They"
+ },
+ {
+  "start": 311.039,
+  "duration": 3.521,
+  "text": "asked it to generate a highly consistent"
+ },
+ {
+  "start": 312.8,
+  "duration": 3.679,
+  "text": "storyboard script and embed it into an"
+ },
+ {
+  "start": 314.56,
+  "duration": 3.76,
+  "text": "Excel file, which they said from a"
+ },
+ {
+  "start": 316.479,
+  "duration": 3.681,
+  "text": "single prompt created a 100 megabyte"
+ },
+ {
+  "start": 318.32,
+  "duration": 4.48,
+  "text": "Excel file generated with images with a"
+ },
+ {
+  "start": 320.16,
+  "duration": 4.8,
+  "text": "total of 55 scenes. Simon Willis writes,"
+ },
+ {
+  "start": 322.8,
+  "duration": 3.679,
+  "text": "\"The self-directed agent swarm paradigm"
+ },
+ {
+  "start": 324.96,
+  "duration": 3.2,
+  "text": "claimed there means improved long"
+ },
+ {
+  "start": 326.479,
+  "duration": 3.201,
+  "text": "sequence tool calling and training on"
+ },
+ {
+  "start": 328.16,
+  "duration": 3.68,
+  "text": "how to break down tasks for multiple"
+ },
+ {
+  "start": 329.68,
+  "duration": 3.92,
+  "text": "agents to work on at once. He gave it"
+ },
+ {
+  "start": 331.84,
+  "duration": 3.6,
+  "text": "the prompt, I want to build a data set"
+ },
+ {
+  "start": 333.6,
+  "duration": 3.76,
+  "text": "plugin that offers a UI to upload files"
+ },
+ {
+  "start": 335.44,
+  "duration": 4.24,
+  "text": "to an S3 bucket and stores information"
+ },
+ {
+  "start": 337.36,
+  "duration": 3.839,
+  "text": "about them in an SQite table. Break this"
+ },
+ {
+  "start": 339.68,
+  "duration": 3.519,
+  "text": "down into 10 tasks suitable for"
+ },
+ {
+  "start": 341.199,
+  "duration": 3.681,
+  "text": "execution by parallel coding agents. He"
+ },
+ {
+  "start": 343.199,
+  "duration": 3.44,
+  "text": "said the response was pretty good. It"
+ },
+ {
+  "start": 344.88,
+  "duration": 3.52,
+  "text": "produced 10 realistic tasks and reason"
+ },
+ {
+  "start": 346.639,
+  "duration": 4.081,
+  "text": "through the dependencies between them."
+ },
+ {
+  "start": 348.4,
+  "duration": 4.4,
+  "text": "Global Soul writes, tried Kimmy Moonshot"
+ },
+ {
+  "start": 350.72,
+  "duration": 3.6,
+  "text": "agent swarms and it is quite magical."
+ },
+ {
+  "start": 352.8,
+  "duration": 3.28,
+  "text": "Basically, they gave Kimmy a list of"
+ },
+ {
+  "start": 354.32,
+  "duration": 3.92,
+  "text": "stocks and asked it to create a report"
+ },
+ {
+  "start": 356.08,
+  "duration": 4.08,
+  "text": "that analyzes each from a variety of"
+ },
+ {
+  "start": 358.24,
+  "duration": 3.6,
+  "text": "different factors. They said it created"
+ },
+ {
+  "start": 360.16,
+  "duration": 3.2,
+  "text": "individual files for each company, an"
+ },
+ {
+  "start": 361.84,
+  "duration": 4.079,
+  "text": "overall summary, and finished the output"
+ },
+ {
+  "start": 363.36,
+  "duration": 4.16,
+  "text": "for all companies in 10 minutes. Swix"
+ },
+ {
+  "start": 365.919,
+  "duration": 4.161,
+  "text": "also had an interesting experience in"
+ },
+ {
+  "start": 367.52,
+  "duration": 4.799,
+  "text": "his testing. He writes, \"Little detail"
+ },
+ {
+  "start": 370.08,
+  "duration": 4.08,
+  "text": "from exploring the K2.5 agent swarm"
+ },
+ {
+  "start": 372.319,
+  "duration": 3.361,
+  "text": "preview today. I asked it to make a"
+ },
+ {
+  "start": 374.16,
+  "duration": 3.36,
+  "text": "custom website for the latent space"
+ },
+ {
+  "start": 375.68,
+  "duration": 3.68,
+  "text": "podcast, and despite it being trained to"
+ },
+ {
+  "start": 377.52,
+  "duration": 3.92,
+  "text": "parallelize eagerly and having full"
+ },
+ {
+  "start": 379.36,
+  "duration": 4.0,
+  "text": "permission to do so, it recognized that"
+ },
+ {
+  "start": 381.44,
+  "duration": 3.44,
+  "text": "this was a noob task and did a highly"
+ },
+ {
+  "start": 383.36,
+  "duration": 3.52,
+  "text": "competent job with one agent and"
+ },
+ {
+  "start": 384.88,
+  "duration": 4.08,
+  "text": "refunded my credits. This thing might be"
+ },
+ {
+  "start": 386.88,
+  "duration": 4.08,
+  "text": "AGI. I've never expected a parallel"
+ },
+ {
+  "start": 388.96,
+  "duration": 4.079,
+  "text": "agent lab to use less than what it was"
+ },
+ {
+  "start": 390.96,
+  "duration": 3.519,
+  "text": "trained or opted in to use. In other"
+ },
+ {
+  "start": 393.039,
+  "duration": 3.041,
+  "text": "words, just because it could use a"
+ },
+ {
+  "start": 394.479,
+  "duration": 3.041,
+  "text": "parallel agent structure, it recognized"
+ },
+ {
+  "start": 396.08,
+  "duration": 3.52,
+  "text": "that for certain tasks, it doesn't need"
+ },
+ {
+  "start": 397.52,
+  "duration": 3.36,
+  "text": "that. Client founder Saw Griswan"
+ },
+ {
+  "start": 399.6,
+  "duration": 3.84,
+  "text": "explains a little bit about what's going"
+ },
+ {
+  "start": 400.88,
+  "duration": 4.159,
+  "text": "on in the background. He writes, \"LMs"
+ },
+ {
+  "start": 403.44,
+  "duration": 3.599,
+  "text": "are trained on sequential reasoning,"
+ },
+ {
+  "start": 405.039,
+  "duration": 3.921,
+  "text": "breaking tasks down step by step, one to"
+ },
+ {
+  "start": 407.039,
+  "duration": 3.44,
+  "text": "do after another. When you ask them to"
+ },
+ {
+  "start": 408.96,
+  "duration": 2.959,
+  "text": "orchestrate parallel work, they don't"
+ },
+ {
+  "start": 410.479,
+  "duration": 3.681,
+  "text": "know how to split tasks without"
+ },
+ {
+  "start": 411.919,
+  "duration": 3.441,
+  "text": "conflicts. Moonshot calls this serial"
+ },
+ {
+  "start": 414.16,
+  "duration": 3.92,
+  "text": "collapse and solved it with"
+ },
+ {
+  "start": 415.36,
+  "duration": 4.48,
+  "text": "reinforcement learning. They used PRL,"
+ },
+ {
+  "start": 418.08,
+  "duration": 3.2,
+  "text": "parallel agent reinforcement learning,"
+ },
+ {
+  "start": 419.84,
+  "duration": 2.96,
+  "text": "where they gave an orchestrator a"
+ },
+ {
+  "start": 421.28,
+  "duration": 2.88,
+  "text": "compute and time budget that made it"
+ },
+ {
+  "start": 422.8,
+  "duration": 3.36,
+  "text": "impossible to complete tasks"
+ },
+ {
+  "start": 424.16,
+  "duration": 3.92,
+  "text": "sequentially. It was forced to learn how"
+ },
+ {
+  "start": 426.16,
+  "duration": 3.68,
+  "text": "to break tasks down into parallel work"
+ },
+ {
+  "start": 428.08,
+  "duration": 3.6,
+  "text": "for sub agents to succeed in the"
+ },
+ {
+  "start": 429.84,
+  "duration": 3.359,
+  "text": "environment. Simon Smith from Click"
+ },
+ {
+  "start": 431.68,
+  "duration": 3.919,
+  "text": "Health did a full test as well and came"
+ },
+ {
+  "start": 433.199,
+  "duration": 3.601,
+  "text": "away pretty impressed. He writes, \"I've"
+ },
+ {
+  "start": 435.599,
+  "duration": 2.801,
+  "text": "been thinking about the best way to"
+ },
+ {
+  "start": 436.8,
+  "duration": 3.36,
+  "text": "organize agents in step-by-step"
+ },
+ {
+  "start": 438.4,
+  "duration": 3.68,
+  "text": "workflows where each agent has skills"
+ },
+ {
+  "start": 440.16,
+  "duration": 3.84,
+  "text": "defined by an agent skills file and to"
+ },
+ {
+  "start": 442.08,
+  "duration": 3.92,
+  "text": "then scale this across an enterprise."
+ },
+ {
+  "start": 444.0,
+  "duration": 3.52,
+  "text": "Today, Kimmy dropped its K2.5 model"
+ },
+ {
+  "start": 446.0,
+  "duration": 4.4,
+  "text": "along with agent swarms. And I thought,"
+ },
+ {
+  "start": 447.52,
+  "duration": 4.799,
+  "text": "could this be it? The answer, mostly. He"
+ },
+ {
+  "start": 450.4,
+  "duration": 4.16,
+  "text": "then walks through how you do this."
+ },
+ {
+  "start": 452.319,
+  "duration": 4.641,
+  "text": "First, using Kimmy, you actually use the"
+ },
+ {
+  "start": 454.56,
+  "duration": 3.44,
+  "text": "model selector to select agent swarm in"
+ },
+ {
+  "start": 456.96,
+  "duration": 2.48,
+  "text": "the same way that you would select"
+ },
+ {
+  "start": 458.0,
+  "duration": 3.599,
+  "text": "between, for example, instant or"
+ },
+ {
+  "start": 459.44,
+  "duration": 4.24,
+  "text": "thinking mode. For Simon's task, he gave"
+ },
+ {
+  "start": 461.599,
+  "duration": 4.16,
+  "text": "Agent Swarm the task of responding to an"
+ },
+ {
+  "start": 463.68,
+  "duration": 3.28,
+  "text": "RFP, which included, in his words,"
+ },
+ {
+  "start": 465.759,
+  "duration": 2.801,
+  "text": "research, strategy, creative"
+ },
+ {
+  "start": 466.96,
+  "duration": 3.04,
+  "text": "brainstorming, and concept development,"
+ },
+ {
+  "start": 468.56,
+  "duration": 2.639,
+  "text": "media planning, analytics planning,"
+ },
+ {
+  "start": 470.0,
+  "duration": 2.639,
+  "text": "highle project planning, and"
+ },
+ {
+  "start": 471.199,
+  "duration": 3.68,
+  "text": "consolidating everything into a final"
+ },
+ {
+  "start": 472.639,
+  "duration": 4.161,
+  "text": "written response in a word document. He"
+ },
+ {
+  "start": 474.879,
+  "duration": 3.76,
+  "text": "continues, as would be familiar to users"
+ },
+ {
+  "start": 476.8,
+  "duration": 3.519,
+  "text": "of agentic coding tools like Claude Code"
+ },
+ {
+  "start": 478.639,
+  "duration": 3.12,
+  "text": "and Codeex, Kimmy turns your request"
+ },
+ {
+  "start": 480.319,
+  "duration": 2.801,
+  "text": "into a step-by-step plan and then"
+ },
+ {
+  "start": 481.759,
+  "duration": 2.961,
+  "text": "proceeds to work through it. Where"
+ },
+ {
+  "start": 483.12,
+  "duration": 2.96,
+  "text": "things get interesting, however, is how"
+ },
+ {
+  "start": 484.72,
+  "duration": 3.28,
+  "text": "it executes the plan with multiple"
+ },
+ {
+  "start": 486.08,
+  "duration": 3.519,
+  "text": "agents. For each step in the plan he"
+ },
+ {
+  "start": 488.0,
+  "duration": 3.44,
+  "text": "writes, Kimmy creates a set of relevant"
+ },
+ {
+  "start": 489.599,
+  "duration": 4.16,
+  "text": "agents. And importantly, these aren't"
+ },
+ {
+  "start": 491.44,
+  "duration": 4.56,
+  "text": "generic agents. Agents each have roles"
+ },
+ {
+  "start": 493.759,
+  "duration": 4.081,
+  "text": "and names. Each agent he writes plays a"
+ },
+ {
+  "start": 496.0,
+  "duration": 3.52,
+  "text": "specific role defined for it in a prompt"
+ },
+ {
+  "start": 497.84,
+  "duration": 3.199,
+  "text": "and even gets a name and avatar. The"
+ },
+ {
+  "start": 499.52,
+  "duration": 3.28,
+  "text": "role description ensures the agent"
+ },
+ {
+  "start": 501.039,
+  "duration": 3.521,
+  "text": "focuses on a specific job to be done and"
+ },
+ {
+  "start": 502.8,
+  "duration": 3.839,
+  "text": "the name and avatar make this extremely"
+ },
+ {
+  "start": 504.56,
+  "duration": 4.0,
+  "text": "userfriendly. The model is then smart"
+ },
+ {
+  "start": 506.639,
+  "duration": 3.761,
+  "text": "enough to figure out which agents can"
+ },
+ {
+  "start": 508.56,
+  "duration": 3.28,
+  "text": "work in parallel or in the case that an"
+ },
+ {
+  "start": 510.4,
+  "duration": 3.6,
+  "text": "agent requires the output of a different"
+ },
+ {
+  "start": 511.84,
+  "duration": 3.84,
+  "text": "agent, how to run them sequentially."
+ },
+ {
+  "start": 514.0,
+  "duration": 3.36,
+  "text": "Simon writes that you can monitor agents"
+ },
+ {
+  "start": 515.68,
+  "duration": 3.839,
+  "text": "overall via a dashboard with progress"
+ },
+ {
+  "start": 517.36,
+  "duration": 4.4,
+  "text": "indicators and also select individual"
+ },
+ {
+  "start": 519.519,
+  "duration": 3.841,
+  "text": "agents to monitor their work. One of the"
+ },
+ {
+  "start": 521.76,
+  "duration": 3.44,
+  "text": "important things that Simon points out"
+ },
+ {
+  "start": 523.36,
+  "duration": 3.84,
+  "text": "is that part of the big upgrade here is"
+ },
+ {
+  "start": 525.2,
+  "duration": 4.0,
+  "text": "not just the performance but the user"
+ },
+ {
+  "start": 527.2,
+  "duration": 3.36,
+  "text": "experience. He writes, \"When I think"
+ },
+ {
+  "start": 529.2,
+  "duration": 2.88,
+  "text": "about something that would scale up to"
+ },
+ {
+  "start": 530.56,
+  "duration": 2.959,
+  "text": "an enterprise which will include a lot"
+ },
+ {
+  "start": 532.08,
+  "duration": 2.56,
+  "text": "of users who won't be comfortable in"
+ },
+ {
+  "start": 533.519,
+  "duration": 2.641,
+  "text": "something like cloud code in the"
+ },
+ {
+  "start": 534.64,
+  "duration": 3.84,
+  "text": "terminal, this feels like it would be"
+ },
+ {
+  "start": 536.16,
+  "duration": 4.48,
+  "text": "easily adopted. It's extremely clear and"
+ },
+ {
+  "start": 538.48,
+  "duration": 3.84,
+  "text": "intuitive.\" The model gave Simon both"
+ },
+ {
+  "start": 540.64,
+  "duration": 3.28,
+  "text": "not only the final output but also all"
+ },
+ {
+  "start": 542.32,
+  "duration": 4.079,
+  "text": "of the intermediate outputs from each of"
+ },
+ {
+  "start": 543.92,
+  "duration": 4.88,
+  "text": "the distinct agents. Now Simon's big"
+ },
+ {
+  "start": 546.399,
+  "duration": 4.321,
+  "text": "request and his caveat is that he wants"
+ },
+ {
+  "start": 548.8,
+  "duration": 3.92,
+  "text": "access to connectors or MCPs as well as"
+ },
+ {
+  "start": 550.72,
+  "duration": 3.6,
+  "text": "agent skills to be able to fully sync"
+ },
+ {
+  "start": 552.72,
+  "duration": 3.6,
+  "text": "this with the larger ecosystem of data"
+ },
+ {
+  "start": 554.32,
+  "duration": 3.6,
+  "text": "that people work in. Overall though, he"
+ },
+ {
+  "start": 556.32,
+  "duration": 2.959,
+  "text": "says, I'm impressed. I've been waiting"
+ },
+ {
+  "start": 557.92,
+  "duration": 3.2,
+  "text": "for something like this that makes it"
+ },
+ {
+  "start": 559.279,
+  "duration": 3.921,
+  "text": "easy for anyone, regardless of technical"
+ },
+ {
+  "start": 561.12,
+  "duration": 3.44,
+  "text": "expertise, to ask AI to do something and"
+ },
+ {
+  "start": 563.2,
+  "duration": 2.72,
+  "text": "have it complete the task with multiple"
+ },
+ {
+  "start": 564.56,
+  "duration": 3.12,
+  "text": "agents playing different roles and"
+ },
+ {
+  "start": 565.92,
+  "duration": 3.44,
+  "text": "working collaboratively. This feels like"
+ },
+ {
+  "start": 567.68,
+  "duration": 3.36,
+  "text": "the emerging future of humans managing"
+ },
+ {
+  "start": 569.36,
+  "duration": 3.52,
+  "text": "teams of AI agents the way they"
+ },
+ {
+  "start": 571.04,
+  "duration": 4.0,
+  "text": "currently manage teams of other humans."
+ },
+ {
+  "start": 572.88,
+  "duration": 3.92,
+  "text": "I honestly don't understand how Kimmy"
+ },
+ {
+  "start": 575.04,
+  "duration": 3.2,
+  "text": "got here first. There are other"
+ },
+ {
+  "start": 576.8,
+  "duration": 3.12,
+  "text": "solutions out there for agents to work"
+ },
+ {
+  "start": 578.24,
+  "duration": 3.12,
+  "text": "together on tasks, but everything I've"
+ },
+ {
+  "start": 579.92,
+  "duration": 3.359,
+  "text": "seen is too technical for the average"
+ },
+ {
+  "start": 581.36,
+  "duration": 3.68,
+  "text": "user, requiring you to use the terminal"
+ },
+ {
+  "start": 583.279,
+  "duration": 4.0,
+  "text": "or too rigid, requiring you to pre-build"
+ },
+ {
+  "start": 585.04,
+  "duration": 4.0,
+  "text": "workflows. How did Kimmy create such a"
+ },
+ {
+  "start": 587.279,
+  "duration": 4.081,
+  "text": "great model with such excellent agent"
+ },
+ {
+  "start": 589.04,
+  "duration": 3.84,
+  "text": "capabilities and build such an intuitive"
+ },
+ {
+  "start": 591.36,
+  "duration": 3.52,
+  "text": "interface?"
+ },
+ {
+  "start": 592.88,
+  "duration": 3.84,
+  "text": "Now, this is the interesting question"
+ },
+ {
+  "start": 594.88,
+  "duration": 3.44,
+  "text": "and why it makes me feel like we are"
+ },
+ {
+  "start": 596.72,
+  "duration": 3.119,
+  "text": "very much seeing the beginning of a"
+ },
+ {
+  "start": 598.32,
+  "duration": 4.639,
+  "text": "broader phenomenon around these agent"
+ },
+ {
+  "start": 599.839,
+  "duration": 4.401,
+  "text": "swarms. In addition to K2.5, I've seen a"
+ },
+ {
+  "start": 602.959,
+  "duration": 3.041,
+  "text": "couple people talking about Claude"
+ },
+ {
+  "start": 604.24,
+  "duration": 3.52,
+  "text": "Code's new task system in the same"
+ },
+ {
+  "start": 606.0,
+  "duration": 3.2,
+  "text": "context. And so, it seems like something"
+ },
+ {
+  "start": 607.76,
+  "duration": 3.44,
+  "text": "that's probably on the minds of those"
+ },
+ {
+  "start": 609.2,
+  "duration": 3.759,
+  "text": "folks as well. Langchain developer"
+ },
+ {
+  "start": 611.2,
+  "duration": 3.6,
+  "text": "Sydney Wrl is also talking about this"
+ },
+ {
+  "start": 612.959,
+  "duration": 3.921,
+  "text": "sub agents architecture. All of which"
+ },
+ {
+  "start": 614.8,
+  "duration": 4.64,
+  "text": "makes me feel like 2026 might be the"
+ },
+ {
+  "start": 616.88,
+  "duration": 4.32,
+  "text": "year of the agent swarm. Indeed, there's"
+ },
+ {
+  "start": 619.44,
+  "duration": 3.76,
+  "text": "enough chatter that Ethan Malik is"
+ },
+ {
+  "start": 621.2,
+  "duration": 3.84,
+  "text": "making one last perhaps vain glorious"
+ },
+ {
+  "start": 623.2,
+  "duration": 4.0,
+  "text": "attempt to steer us away from using the"
+ },
+ {
+  "start": 625.04,
+  "duration": 4.4,
+  "text": "swarm terminology. On Monday, he"
+ },
+ {
+  "start": 627.2,
+  "duration": 4.56,
+  "text": "tweeted, \"Let's not call groups of both"
+ },
+ {
+  "start": 629.44,
+  "duration": 4.0,
+  "text": "terrifying and not a useful analogy."
+ },
+ {
+  "start": 631.76,
+  "duration": 3.84,
+  "text": "Groups of agents should be called teams"
+ },
+ {
+  "start": 633.44,
+  "duration": 3.44,
+  "text": "or organizations. It both describes how"
+ },
+ {
+  "start": 635.6,
+  "duration": 3.359,
+  "text": "to structure them and also how to use"
+ },
+ {
+  "start": 636.88,
+  "duration": 4.72,
+  "text": "them. Don't let the weird AI folk naming"
+ },
+ {
+  "start": 638.959,
+  "duration": 4.56,
+  "text": "win again.\" I'm not sure where we'll"
+ },
+ {
+  "start": 641.6,
+  "duration": 3.12,
+  "text": "land when it comes to terminology, but"
+ },
+ {
+  "start": 643.519,
+  "duration": 2.88,
+  "text": "it really does feel like this is"
+ },
+ {
+  "start": 644.72,
+  "duration": 3.6,
+  "text": "something new happening and I'm excited"
+ },
+ {
+  "start": 646.399,
+  "duration": 4.241,
+  "text": "to see how it develops. I will be"
+ },
+ {
+  "start": 648.32,
+  "duration": 3.84,
+  "text": "testing out K 2.5. Maybe we'll do a"
+ },
+ {
+  "start": 650.64,
+  "duration": 3.12,
+  "text": "special bonus operators episode about"
+ },
+ {
+  "start": 652.16,
+  "duration": 3.28,
+  "text": "that. For now, however, that is going to"
+ },
+ {
+  "start": 653.76,
+  "duration": 3.199,
+  "text": "do it for today's AI daily brief."
+ },
+ {
+  "start": 655.44,
+  "duration": 5.44,
+  "text": "Appreciate you listening or watching as"
+ },
+ {
+  "start": 656.959,
+  "duration": 3.921,
+  "text": "always. And until next time, peace."
+ }
+]

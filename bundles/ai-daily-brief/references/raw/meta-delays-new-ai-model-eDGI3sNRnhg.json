@@ -1,0 +1,1352 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.56,
+  "text": "Meta has delayed their latest AI model."
+ },
+ {
+  "start": 3.36,
+  "duration": 3.32,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 4.56,
+  "duration": 4.76,
+  "text": "Headlines edition, all the daily AI news"
+ },
+ {
+  "start": 6.68,
+  "duration": 5.28,
+  "text": "you need in around 5 minutes. It appears"
+ },
+ {
+  "start": 9.32,
+  "duration": 4.16,
+  "text": "that Meta has had another setback as"
+ },
+ {
+  "start": 11.96,
+  "duration": 3.6,
+  "text": "their latest frontier model gets"
+ },
+ {
+  "start": 13.48,
+  "duration": 4.2,
+  "text": "delayed. The New York Times reports that"
+ },
+ {
+  "start": 15.56,
+  "duration": 4.72,
+  "text": "Meta's new model code named Avocado has"
+ },
+ {
+  "start": 17.68,
+  "duration": 3.72,
+  "text": "been delayed until at least May. We last"
+ },
+ {
+  "start": 20.28,
+  "duration": 3.32,
+  "text": "heard about the model's progress in"
+ },
+ {
+  "start": 21.4,
+  "duration": 3.36,
+  "text": "January when CTO Andrew Bosworth told"
+ },
+ {
+  "start": 23.6,
+  "duration": 3.4,
+  "text": "Reuters it had been delivered for"
+ },
+ {
+  "start": 24.76,
+  "duration": 3.96,
+  "text": "internal testing. He said at the time"
+ },
+ {
+  "start": 27.0,
+  "duration": 2.76,
+  "text": "that the model was quote very good, but"
+ },
+ {
+  "start": 28.72,
+  "duration": 2.76,
+  "text": "warned that there's still a lot of work"
+ },
+ {
+  "start": 29.76,
+  "duration": 2.999,
+  "text": "to be done in the reinforcement learning"
+ },
+ {
+  "start": 31.48,
+  "duration": 3.08,
+  "text": "process."
+ },
+ {
+  "start": 32.759,
+  "duration": 3.321,
+  "text": "More recently, there's been reports that"
+ },
+ {
+  "start": 34.56,
+  "duration": 3.24,
+  "text": "Meta has set up a new applied AI"
+ },
+ {
+  "start": 36.08,
+  "duration": 4.32,
+  "text": "division that reports to Bosworth rather"
+ },
+ {
+  "start": 37.8,
+  "duration": 4.08,
+  "text": "than AI CEO Alexander Wang. Rumors"
+ },
+ {
+  "start": 40.4,
+  "duration": 2.96,
+  "text": "followed that Zuckerberg was done with"
+ },
+ {
+  "start": 41.88,
+  "duration": 3.72,
+  "text": "Wang, although those rumors were"
+ },
+ {
+  "start": 43.36,
+  "duration": 3.68,
+  "text": "strenuously denied. Now the reporting"
+ },
+ {
+  "start": 45.6,
+  "duration": 2.88,
+  "text": "states that Avocado performance has"
+ },
+ {
+  "start": 47.04,
+  "duration": 3.32,
+  "text": "fallen short of the latest models from"
+ },
+ {
+  "start": 48.48,
+  "duration": 4.08,
+  "text": "rivals, and this month's planned rollout"
+ },
+ {
+  "start": 50.36,
+  "duration": 3.96,
+  "text": "has been delayed. The report mentioned a"
+ },
+ {
+  "start": 52.56,
+  "duration": 3.76,
+  "text": "shortfall in reasoning, coding, and"
+ },
+ {
+  "start": 54.32,
+  "duration": 3.16,
+  "text": "writing from internal benchmarks. In"
+ },
+ {
+  "start": 56.32,
+  "duration": 3.68,
+  "text": "other words, basically every major"
+ },
+ {
+  "start": 57.48,
+  "duration": 5.0,
+  "text": "category for modern LLMs. Reportedly,"
+ },
+ {
+  "start": 60.0,
+  "duration": 5.16,
+  "text": "the model outperforms Gemini 2.5, but"
+ },
+ {
+  "start": 62.48,
+  "duration": 4.16,
+  "text": "wasn't a match for Gemini 3. Now part of"
+ },
+ {
+  "start": 65.16,
+  "duration": 3.28,
+  "text": "the issue could be the long development"
+ },
+ {
+  "start": 66.64,
+  "duration": 3.52,
+  "text": "cycle. Meta has been working on this"
+ },
+ {
+  "start": 68.44,
+  "duration": 3.12,
+  "text": "model for almost 9 months, and the"
+ },
+ {
+  "start": 70.16,
+  "duration": 3.52,
+  "text": "goalposts of model performance have"
+ },
+ {
+  "start": 71.56,
+  "duration": 3.76,
+  "text": "shifted dramatically during that time."
+ },
+ {
+  "start": 73.68,
+  "duration": 4.0,
+  "text": "Meta put an optimistic spin on the"
+ },
+ {
+  "start": 75.32,
+  "duration": 3.96,
+  "text": "issue, issuing a statement which said,"
+ },
+ {
+  "start": 77.68,
+  "duration": 3.28,
+  "text": "\"Our next model will be good, but more"
+ },
+ {
+  "start": 79.28,
+  "duration": 3.24,
+  "text": "importantly, show the rapid trajectory"
+ },
+ {
+  "start": 80.96,
+  "duration": 3.08,
+  "text": "we're on, and then we'll steadily push"
+ },
+ {
+  "start": 82.52,
+  "duration": 3.56,
+  "text": "the frontier over the course of the year"
+ },
+ {
+  "start": 84.04,
+  "duration": 3.28,
+  "text": "as we continue to release new models."
+ },
+ {
+  "start": 86.08,
+  "duration": 3.2,
+  "text": "We're excited for people to see what"
+ },
+ {
+  "start": 87.32,
+  "duration": 3.52,
+  "text": "we've been cooking very soon.\""
+ },
+ {
+  "start": 89.28,
+  "duration": 2.96,
+  "text": "And yet that doesn't exactly comport"
+ },
+ {
+  "start": 90.84,
+  "duration": 3.24,
+  "text": "with reports that Meta leadership is"
+ },
+ {
+  "start": 92.24,
+  "duration": 3.68,
+  "text": "even considering licensing Gemini to"
+ },
+ {
+  "start": 94.08,
+  "duration": 4.24,
+  "text": "power their products as a stopgap"
+ },
+ {
+  "start": 95.92,
+  "duration": 3.88,
+  "text": "solution. That said, researchers are"
+ },
+ {
+  "start": 98.32,
+  "duration": 4.0,
+  "text": "said to be excited about the next model"
+ },
+ {
+  "start": 99.8,
+  "duration": 4.72,
+  "text": "after Avocado code named Watermelon. Now"
+ },
+ {
+  "start": 102.32,
+  "duration": 4.16,
+  "text": "ultimately, I certainly think that"
+ },
+ {
+  "start": 104.52,
+  "duration": 3.92,
+  "text": "making people wait for a model that's"
+ },
+ {
+  "start": 106.48,
+  "duration": 3.2,
+  "text": "actually good is way better than"
+ },
+ {
+  "start": 108.44,
+  "duration": 3.6,
+  "text": "releasing a model that no one is"
+ },
+ {
+  "start": 109.68,
+  "duration": 5.4,
+  "text": "impressed with, but the model battle for"
+ },
+ {
+  "start": 112.04,
+  "duration": 4.44,
+  "text": "Meta remains distinctly uphill."
+ },
+ {
+  "start": 115.08,
+  "duration": 3.24,
+  "text": "Ethan Mollick summed up a bit of the"
+ },
+ {
+  "start": 116.48,
+  "duration": 3.96,
+  "text": "industry sentiment when he tweeted,"
+ },
+ {
+  "start": 118.32,
+  "duration": 4.52,
+  "text": "\"Both xAI and Meta seem to be falling"
+ },
+ {
+  "start": 120.44,
+  "duration": 4.4,
+  "text": "behind based on the Grok 4.2 benchmarks"
+ },
+ {
+  "start": 122.84,
+  "duration": 3.6,
+  "text": "in this reporting. Frontier AI models"
+ },
+ {
+  "start": 124.84,
+  "duration": 3.08,
+  "text": "are really a three-way race at this"
+ },
+ {
+  "start": 126.44,
+  "duration": 3.44,
+  "text": "point.\""
+ },
+ {
+  "start": 127.92,
+  "duration": 4.24,
+  "text": "Speaking of xAI, it seems like there are"
+ },
+ {
+  "start": 129.88,
+  "duration": 3.64,
+  "text": "big moves afoot in that organization."
+ },
+ {
+  "start": 132.16,
+  "duration": 3.04,
+  "text": "First of all, they grabbed a pair of"
+ },
+ {
+  "start": 133.52,
+  "duration": 3.64,
+  "text": "senior leaders from Cursor in a bid to"
+ },
+ {
+  "start": 135.2,
+  "duration": 3.36,
+  "text": "catch up on coding. Sources speaking"
+ },
+ {
+  "start": 137.16,
+  "duration": 3.0,
+  "text": "with The Information say that Andrew"
+ },
+ {
+  "start": 138.56,
+  "duration": 3.48,
+  "text": "Milich and Jason Ginsburg have joined"
+ },
+ {
+  "start": 140.16,
+  "duration": 3.68,
+  "text": "xAI and will report directly to Elon"
+ },
+ {
+  "start": 142.04,
+  "duration": 4.16,
+  "text": "Musk. The pair worked as heads of"
+ },
+ {
+  "start": 143.84,
+  "duration": 4.56,
+  "text": "product for engineering at Cursor."
+ },
+ {
+  "start": 146.2,
+  "duration": 4.64,
+  "text": "Now the move comes as Elon acknowledges"
+ },
+ {
+  "start": 148.4,
+  "duration": 4.0,
+  "text": "that xAI is behind on coding. During a"
+ },
+ {
+  "start": 150.84,
+  "duration": 3.2,
+  "text": "conference appearance on Wednesday, Musk"
+ },
+ {
+  "start": 152.4,
+  "duration": 3.16,
+  "text": "admitted the problem but said he expects"
+ },
+ {
+  "start": 154.04,
+  "duration": 3.52,
+  "text": "xAI to catch up and exceed our"
+ },
+ {
+  "start": 155.56,
+  "duration": 3.28,
+  "text": "competitors, his words, by the middle of"
+ },
+ {
+  "start": 157.56,
+  "duration": 3.36,
+  "text": "the year."
+ },
+ {
+  "start": 158.84,
+  "duration": 4.56,
+  "text": "Meanwhile, xAI co-founders keep heading"
+ },
+ {
+  "start": 160.92,
+  "duration": 3.92,
+  "text": "for the exits. Business Insider reports"
+ },
+ {
+  "start": 163.4,
+  "duration": 3.36,
+  "text": "that Zhigang Dai left the company"
+ },
+ {
+  "start": 164.84,
+  "duration": 3.2,
+  "text": "earlier this week, and Guodong Zhang has"
+ },
+ {
+  "start": 166.76,
+  "duration": 3.28,
+  "text": "told colleagues he plans to leave in the"
+ },
+ {
+  "start": 168.04,
+  "duration": 3.32,
+  "text": "coming days. For those keeping track at"
+ },
+ {
+  "start": 170.04,
+  "duration": 2.92,
+  "text": "home, that's another two departures to"
+ },
+ {
+  "start": 171.36,
+  "duration": 3.4,
+  "text": "make a total of six co-founders leaving"
+ },
+ {
+  "start": 172.96,
+  "duration": 3.12,
+  "text": "this year. Only three of the 12"
+ },
+ {
+  "start": 174.76,
+  "duration": 3.36,
+  "text": "co-founders remain at the company, and"
+ },
+ {
+  "start": 176.08,
+  "duration": 3.44,
+  "text": "one of them is Elon Musk himself. Now"
+ },
+ {
+  "start": 178.12,
+  "duration": 3.24,
+  "text": "there's been speculation that some of"
+ },
+ {
+  "start": 179.52,
+  "duration": 3.32,
+  "text": "these co-founders exited after projects"
+ },
+ {
+  "start": 181.36,
+  "duration": 3.72,
+  "text": "they led fell short of Elon's"
+ },
+ {
+  "start": 182.84,
+  "duration": 4.32,
+  "text": "expectations. For example, Zhang led"
+ },
+ {
+  "start": 185.08,
+  "duration": 3.96,
+  "text": "Grok code, and Toby Poland, who departed"
+ },
+ {
+  "start": 187.16,
+  "duration": 3.52,
+  "text": "at the end of February, was in charge of"
+ },
+ {
+  "start": 189.04,
+  "duration": 3.72,
+  "text": "the Malign macro hard project which we"
+ },
+ {
+  "start": 190.68,
+  "duration": 3.56,
+  "text": "discussed on Thursday's show. Musk, of"
+ },
+ {
+  "start": 192.76,
+  "duration": 3.32,
+  "text": "course, is known as a difficult person"
+ },
+ {
+  "start": 194.24,
+  "duration": 3.2,
+  "text": "to work for, and hinted that this is a"
+ },
+ {
+  "start": 196.08,
+  "duration": 3.2,
+  "text": "controlled demolition rather than a"
+ },
+ {
+  "start": 197.44,
+  "duration": 4.24,
+  "text": "leadership collapse."
+ },
+ {
+  "start": 199.28,
+  "duration": 4.12,
+  "text": "He posted on Thursday, \"xAI was not"
+ },
+ {
+  "start": 201.68,
+  "duration": 3.24,
+  "text": "built right the first time around, so"
+ },
+ {
+  "start": 203.4,
+  "duration": 4.56,
+  "text": "it's being rebuilt from the foundations"
+ },
+ {
+  "start": 204.92,
+  "duration": 4.64,
+  "text": "up. Same thing happened with Tesla.\""
+ },
+ {
+  "start": 207.96,
+  "duration": 4.04,
+  "text": "Speaking of Cursor, that company is"
+ },
+ {
+  "start": 209.56,
+  "duration": 4.36,
+  "text": "seeking new funding at a massive $50"
+ },
+ {
+  "start": 212.0,
+  "duration": 3.44,
+  "text": "billion valuation."
+ },
+ {
+  "start": 213.92,
+  "duration": 3.04,
+  "text": "Bloomberg reports that Cursor is in"
+ },
+ {
+  "start": 215.44,
+  "duration": 3.8,
+  "text": "talks for a new funding round that would"
+ },
+ {
+  "start": 216.96,
+  "duration": 4.24,
+  "text": "almost double their valuation. Cursor's"
+ },
+ {
+  "start": 219.24,
+  "duration": 5.08,
+  "text": "last round in November brought in 2.3"
+ },
+ {
+  "start": 221.2,
+  "duration": 4.52,
+  "text": "billion at a $29.3 billion valuation."
+ },
+ {
+  "start": 224.32,
+  "duration": 3.12,
+  "text": "Now remember, this is a company that"
+ },
+ {
+  "start": 225.72,
+  "duration": 3.44,
+  "text": "doubled their revenue to 2 billion since"
+ },
+ {
+  "start": 227.44,
+  "duration": 3.16,
+  "text": "they last raised funds. But what's"
+ },
+ {
+  "start": 229.16,
+  "duration": 3.12,
+  "text": "significant about this is that if they"
+ },
+ {
+  "start": 230.6,
+  "duration": 3.76,
+  "text": "really are raising at a $50 billion"
+ },
+ {
+  "start": 232.28,
+  "duration": 3.92,
+  "text": "valuation, that suggests that they are"
+ },
+ {
+  "start": 234.36,
+  "duration": 3.04,
+  "text": "trying to compete for the long haul"
+ },
+ {
+  "start": 236.2,
+  "duration": 2.68,
+  "text": "rather than thinking about trying to"
+ },
+ {
+  "start": 237.4,
+  "duration": 2.56,
+  "text": "shack up with one of the leading model"
+ },
+ {
+  "start": 238.88,
+  "duration": 3.2,
+  "text": "labs."
+ },
+ {
+  "start": 239.96,
+  "duration": 3.44,
+  "text": "Now that choice isn't given how CEO"
+ },
+ {
+  "start": 242.08,
+  "duration": 3.0,
+  "text": "Michael Truelove is positioning the"
+ },
+ {
+  "start": 243.4,
+  "duration": 3.52,
+  "text": "company. Employees were told at an"
+ },
+ {
+  "start": 245.08,
+  "duration": 4.28,
+  "text": "all-hands in January that for Cursor, it"
+ },
+ {
+  "start": 246.92,
+  "duration": 4.04,
+  "text": "is, in his words, wartime. That means a"
+ },
+ {
+  "start": 249.36,
+  "duration": 3.28,
+  "text": "product overhaul to focus on automated"
+ },
+ {
+  "start": 250.96,
+  "duration": 2.72,
+  "text": "coding tools, as well as an ambitious"
+ },
+ {
+  "start": 252.64,
+  "duration": 2.44,
+  "text": "project to train their own"
+ },
+ {
+  "start": 253.68,
+  "duration": 4.279,
+  "text": "state-of-the-art models to reduce their"
+ },
+ {
+  "start": 255.08,
+  "duration": 4.719,
+  "text": "dependency on the other labs."
+ },
+ {
+  "start": 257.959,
+  "duration": 3.28,
+  "text": "In lab land, The Information reports"
+ },
+ {
+  "start": 259.799,
+  "duration": 3.601,
+  "text": "that Anthropic is in talks with"
+ },
+ {
+  "start": 261.239,
+  "duration": 4.241,
+  "text": "Blackstone and other PE firms to launch"
+ },
+ {
+  "start": 263.4,
+  "duration": 4.0,
+  "text": "an AI consulting venture. The venture"
+ },
+ {
+  "start": 265.48,
+  "duration": 3.24,
+  "text": "would be a dedicated consulting firm to"
+ },
+ {
+  "start": 267.4,
+  "duration": 3.72,
+  "text": "sell Anthropic's tech to corporate"
+ },
+ {
+  "start": 268.72,
+  "duration": 4.0,
+  "text": "customers. Alas, apparently Anthropic's"
+ },
+ {
+  "start": 271.12,
+  "duration": 3.2,
+  "text": "ongoing conflict with the Pentagon has"
+ },
+ {
+  "start": 272.72,
+  "duration": 2.96,
+  "text": "put the talks on the back burner."
+ },
+ {
+  "start": 274.32,
+  "duration": 3.36,
+  "text": "Sources said that Blackstone leaders,"
+ },
+ {
+  "start": 275.68,
+  "duration": 3.48,
+  "text": "including CEO Stephen Schwarzman, are"
+ },
+ {
+  "start": 277.68,
+  "duration": 2.96,
+  "text": "concerned about announcing a partnership"
+ },
+ {
+  "start": 279.16,
+  "duration": 3.48,
+  "text": "while Anthropic is mired in conflict"
+ },
+ {
+  "start": 280.64,
+  "duration": 3.44,
+  "text": "with the administration. The genesis of"
+ },
+ {
+  "start": 282.64,
+  "duration": 2.84,
+  "text": "the deal was apparently Blackstone"
+ },
+ {
+  "start": 284.08,
+  "duration": 3.28,
+  "text": "seeking Anthropic's help to deliver"
+ },
+ {
+  "start": 285.48,
+  "duration": 3.92,
+  "text": "consulting services to their hundreds of"
+ },
+ {
+  "start": 287.36,
+  "duration": 3.68,
+  "text": "portfolio companies. Blackstone also"
+ },
+ {
+  "start": 289.4,
+  "duration": 3.0,
+  "text": "discussed a similar plan with OpenAI,"
+ },
+ {
+  "start": 291.04,
+  "duration": 3.28,
+  "text": "according to sources familiar with the"
+ },
+ {
+  "start": 292.4,
+  "duration": 3.64,
+  "text": "talks. Ultimately, what all of these"
+ },
+ {
+  "start": 294.32,
+  "duration": 3.4,
+  "text": "stories get to is the fact that"
+ },
+ {
+  "start": 296.04,
+  "duration": 3.28,
+  "text": "enterprises are lagging, and it's going"
+ },
+ {
+  "start": 297.72,
+  "duration": 3.76,
+  "text": "to take just a huge amount of time on"
+ },
+ {
+  "start": 299.32,
+  "duration": 3.64,
+  "text": "task and actual human bodies to do the"
+ },
+ {
+  "start": 301.48,
+  "duration": 3.4,
+  "text": "internal implementation that's actually"
+ },
+ {
+  "start": 302.96,
+  "duration": 3.16,
+  "text": "needed. I predict you are going to see"
+ },
+ {
+  "start": 304.88,
+  "duration": 2.64,
+  "text": "massive expansions in the"
+ },
+ {
+  "start": 306.12,
+  "duration": 3.12,
+  "text": "forward-deployed engineering departments"
+ },
+ {
+  "start": 307.52,
+  "duration": 3.52,
+  "text": "of these firms, partnerships with all"
+ },
+ {
+  "start": 309.24,
+  "duration": 3.92,
+  "text": "the existing consulting firms, new"
+ },
+ {
+  "start": 311.04,
+  "duration": 3.68,
+  "text": "venture spin-ups like this, all at once"
+ },
+ {
+  "start": 313.16,
+  "duration": 3.64,
+  "text": "and more."
+ },
+ {
+  "start": 314.72,
+  "duration": 3.8,
+  "text": "Next up, an interesting statistic from a"
+ },
+ {
+  "start": 316.8,
+  "duration": 4.28,
+  "text": "new survey from the American Medical"
+ },
+ {
+  "start": 318.52,
+  "duration": 4.08,
+  "text": "Association. The survey found that 81%"
+ },
+ {
+  "start": 321.08,
+  "duration": 3.68,
+  "text": "of doctors now use AI in their"
+ },
+ {
+  "start": 322.6,
+  "duration": 3.72,
+  "text": "profession. Leading use cases include"
+ },
+ {
+  "start": 324.76,
+  "duration": 3.32,
+  "text": "keeping up with medical research,"
+ },
+ {
+  "start": 326.32,
+  "duration": 3.56,
+  "text": "generating discharge instructions, and"
+ },
+ {
+  "start": 328.08,
+  "duration": 3.4,
+  "text": "documenting appointments."
+ },
+ {
+  "start": 329.88,
+  "duration": 3.52,
+  "text": "The AMA first gathered this data in"
+ },
+ {
+  "start": 331.48,
+  "duration": 4.56,
+  "text": "2023, and it found that usage has more"
+ },
+ {
+  "start": 333.4,
+  "duration": 4.96,
+  "text": "than doubled since then. Said AMA CEO"
+ },
+ {
+  "start": 336.04,
+  "duration": 4.4,
+  "text": "John White, \"AI has quickly become part"
+ },
+ {
+  "start": 338.36,
+  "duration": 3.48,
+  "text": "of everyday medical practice. Physicians"
+ },
+ {
+  "start": 340.44,
+  "duration": 3.12,
+  "text": "see real promise in its ability to"
+ },
+ {
+  "start": 341.84,
+  "duration": 3.96,
+  "text": "support clinical decisions and cut down"
+ },
+ {
+  "start": 343.56,
+  "duration": 4.32,
+  "text": "on administrative burden.\" Notably, the"
+ },
+ {
+  "start": 345.8,
+  "duration": 3.92,
+  "text": "AMA has adopted augmented intelligence"
+ },
+ {
+  "start": 347.88,
+  "duration": 3.36,
+  "text": "as their term for AI, hammering home the"
+ },
+ {
+  "start": 349.72,
+  "duration": 3.76,
+  "text": "point the technology isn't supposed to"
+ },
+ {
+  "start": 351.24,
+  "duration": 3.76,
+  "text": "replace human judgment. And indeed, when"
+ },
+ {
+  "start": 353.48,
+  "duration": 3.4,
+  "text": "you dig into the data, that seems to be"
+ },
+ {
+  "start": 355.0,
+  "duration": 3.6,
+  "text": "how it's playing out. The leading use"
+ },
+ {
+  "start": 356.88,
+  "duration": 3.24,
+  "text": "cases of AI in medicine are all about"
+ },
+ {
+  "start": 358.6,
+  "duration": 3.88,
+  "text": "summarizing information and aiding with"
+ },
+ {
+  "start": 360.12,
+  "duration": 3.84,
+  "text": "administrative work. Assistive diagnosis"
+ },
+ {
+  "start": 362.48,
+  "duration": 3.32,
+  "text": "was the only use case that comes close"
+ },
+ {
+  "start": 363.96,
+  "duration": 3.68,
+  "text": "to the actual practice of medicine, and"
+ },
+ {
+  "start": 365.8,
+  "duration": 3.96,
+  "text": "only 17% of doctors said they were using"
+ },
+ {
+  "start": 367.64,
+  "duration": 3.88,
+  "text": "AI in this way."
+ },
+ {
+  "start": 369.76,
+  "duration": 4.0,
+  "text": "Finally today, some new comments from"
+ },
+ {
+  "start": 371.52,
+  "duration": 3.92,
+  "text": "Sam Altman. Speaking at a BlackRock"
+ },
+ {
+  "start": 373.76,
+  "duration": 3.2,
+  "text": "conference on Wednesday, while"
+ },
+ {
+  "start": 375.44,
+  "duration": 3.92,
+  "text": "intelligence too cheap to meter might be"
+ },
+ {
+  "start": 376.96,
+  "duration": 3.64,
+  "text": "the end goal, for now, Sam Altman is"
+ },
+ {
+  "start": 379.36,
+  "duration": 3.12,
+  "text": "very distinctly in the business of"
+ },
+ {
+  "start": 380.6,
+  "duration": 3.68,
+  "text": "selling tokens. Speaking at the"
+ },
+ {
+  "start": 382.48,
+  "duration": 3.44,
+  "text": "conference, he said, \"Fundamentally, our"
+ },
+ {
+  "start": 384.28,
+  "duration": 3.44,
+  "text": "business is going to look like selling"
+ },
+ {
+  "start": 385.92,
+  "duration": 3.2,
+  "text": "tokens. We see a future where"
+ },
+ {
+  "start": 387.72,
+  "duration": 3.4,
+  "text": "intelligence is a utility like"
+ },
+ {
+  "start": 389.12,
+  "duration": 4.04,
+  "text": "electricity or water, and people buy it"
+ },
+ {
+  "start": 391.12,
+  "duration": 3.64,
+  "text": "from us on a meter.\" In the full quote,"
+ },
+ {
+  "start": 393.16,
+  "duration": 2.96,
+  "text": "Altman said the goal is still to make"
+ },
+ {
+  "start": 394.76,
+  "duration": 2.6,
+  "text": "abundant cheap intelligence widely"
+ },
+ {
+  "start": 396.12,
+  "duration": 2.88,
+  "text": "available."
+ },
+ {
+  "start": 397.36,
+  "duration": 3.6,
+  "text": "However, he explored the idea that"
+ },
+ {
+  "start": 399.0,
+  "duration": 4.0,
+  "text": "skyrocketing demand could mean high"
+ },
+ {
+  "start": 400.96,
+  "duration": 3.84,
+  "text": "prices or rationing. That's particularly"
+ },
+ {
+  "start": 403.0,
+  "duration": 3.84,
+  "text": "relevant given that token-heavy agentic"
+ },
+ {
+  "start": 404.8,
+  "duration": 4.24,
+  "text": "use cases are coming online as energy"
+ },
+ {
+  "start": 406.84,
+  "duration": 4.28,
+  "text": "issues are picking up steam."
+ },
+ {
+  "start": 409.04,
+  "duration": 4.4,
+  "text": "Now speaking on AGI, Altman said the"
+ },
+ {
+  "start": 411.12,
+  "duration": 4.32,
+  "text": "term has lost all meaning. Instead, he's"
+ },
+ {
+  "start": 413.44,
+  "duration": 3.56,
+  "text": "watching for two major milestones."
+ },
+ {
+  "start": 415.44,
+  "duration": 3.16,
+  "text": "First, the threshold when the majority"
+ },
+ {
+  "start": 417.0,
+  "duration": 3.76,
+  "text": "of the world's intelligence is inside of"
+ },
+ {
+  "start": 418.6,
+  "duration": 3.36,
+  "text": "data centers. Acknowledging huge error"
+ },
+ {
+  "start": 420.76,
+  "duration": 3.28,
+  "text": "bars in the prediction, he said this"
+ },
+ {
+  "start": 421.96,
+  "duration": 3.24,
+  "text": "could happen by 2028. And the second"
+ },
+ {
+  "start": 424.04,
+  "duration": 3.28,
+  "text": "marker is the moment when leading"
+ },
+ {
+  "start": 425.2,
+  "duration": 4.24,
+  "text": "scientists, CEOs, and political leaders"
+ },
+ {
+  "start": 427.32,
+  "duration": 4.16,
+  "text": "can no longer do their jobs without AI."
+ },
+ {
+  "start": 429.44,
+  "duration": 4.32,
+  "text": "Altman commented, \"More and more, these"
+ },
+ {
+  "start": 431.48,
+  "duration": 3.4,
+  "text": "jobs will be supervising a bunch of AI."
+ },
+ {
+  "start": 433.76,
+  "duration": 2.2,
+  "text": "That threshold of when you really"
+ },
+ {
+  "start": 434.88,
+  "duration": 2.64,
+  "text": "wouldn't want to be doing your job"
+ },
+ {
+  "start": 435.96,
+  "duration": 3.44,
+  "text": "without heavy reliance on AI might take"
+ },
+ {
+  "start": 437.52,
+  "duration": 3.64,
+  "text": "a little bit longer, but probably not a"
+ },
+ {
+  "start": 439.4,
+  "duration": 3.16,
+  "text": "lot longer.\" I don't know, man, that"
+ },
+ {
+  "start": 441.16,
+  "duration": 3.8,
+  "text": "pretty much describes my job already,"
+ },
+ {
+  "start": 442.56,
+  "duration": 3.76,
+  "text": "but here we are. Altman also addressed"
+ },
+ {
+  "start": 444.96,
+  "duration": 3.48,
+  "text": "the numerous concerns around AI"
+ },
+ {
+  "start": 446.32,
+  "duration": 3.56,
+  "text": "adoption, commenting, \"Data centers are"
+ },
+ {
+  "start": 448.44,
+  "duration": 3.36,
+  "text": "getting blamed for electricity price"
+ },
+ {
+  "start": 449.88,
+  "duration": 3.6,
+  "text": "hikes, and almost every company that"
+ },
+ {
+  "start": 451.8,
+  "duration": 4.16,
+  "text": "does layoffs is blaming AI whether or"
+ },
+ {
+  "start": 453.48,
+  "duration": 3.6,
+  "text": "not it really is about AI.\" Altman"
+ },
+ {
+  "start": 455.96,
+  "duration": 2.56,
+  "text": "argued that one of the biggest problems"
+ },
+ {
+  "start": 457.08,
+  "duration": 3.88,
+  "text": "to be faced in the coming years is a"
+ },
+ {
+  "start": 458.52,
+  "duration": 3.64,
+  "text": "rapid shift in how capitalism works."
+ },
+ {
+  "start": 460.96,
+  "duration": 2.72,
+  "text": "First, he noted that the entire"
+ },
+ {
+  "start": 462.16,
+  "duration": 3.64,
+  "text": "structure of capitalism is designed to"
+ },
+ {
+  "start": 463.68,
+  "duration": 3.68,
+  "text": "manage scarcity. If AI delivers true"
+ },
+ {
+  "start": 465.8,
+  "duration": 3.76,
+  "text": "abundance, then society will need to"
+ },
+ {
+  "start": 467.36,
+  "duration": 3.52,
+  "text": "rapidly adjust to a new paradigm."
+ },
+ {
+  "start": 469.56,
+  "duration": 2.72,
+  "text": "In the more immediate term, he noted"
+ },
+ {
+  "start": 470.88,
+  "duration": 2.76,
+  "text": "that AI is disrupting the balance"
+ },
+ {
+  "start": 472.28,
+  "duration": 4.08,
+  "text": "between labor and capital that keeps"
+ },
+ {
+  "start": 473.64,
+  "duration": 4.44,
+  "text": "society functioning. He added, \"I'm not"
+ },
+ {
+  "start": 476.36,
+  "duration": 3.32,
+  "text": "a long-term jobs doomer. I think we will"
+ },
+ {
+  "start": 478.08,
+  "duration": 2.76,
+  "text": "figure out new things to do, but I think"
+ },
+ {
+  "start": 479.68,
+  "duration": 3.64,
+  "text": "the next few years are going to be a"
+ },
+ {
+  "start": 480.84,
+  "duration": 4.64,
+  "text": "painful adjustment.\" And indeed, that is"
+ },
+ {
+  "start": 483.32,
+  "duration": 3.28,
+  "text": "exactly the topic of our next segment."
+ },
+ {
+  "start": 485.48,
+  "duration": 3.08,
+  "text": "So with that, we will close the"
+ },
+ {
+  "start": 486.6,
+  "duration": 4.6,
+  "text": "headlines and move on to the main"
+ },
+ {
+  "start": 488.56,
+  "duration": 2.64,
+  "text": "episode."
+ }
+]

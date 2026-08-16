@@ -1,0 +1,3457 @@
+[
+ {
+  "start": 0.64,
+  "duration": 3.4,
+  "text": "Today on the AI Daily Brief, Deep Seek"
+ },
+ {
+  "start": 2.6,
+  "duration": 3.28,
+  "text": "releases their latest model and we're"
+ },
+ {
+  "start": 4.04,
+  "duration": 3.32,
+  "text": "discussing what it has to do with the"
+ },
+ {
+  "start": 5.88,
+  "duration": 3.36,
+  "text": "White House invoking the Defense"
+ },
+ {
+  "start": 7.36,
+  "duration": 4.44,
+  "text": "Production Act around the US electric"
+ },
+ {
+  "start": 9.24,
+  "duration": 4.08,
+  "text": "grid. Before that, in the headlines, the"
+ },
+ {
+  "start": 11.8,
+  "duration": 3.92,
+  "text": "AI trade is back [music] and Google"
+ },
+ {
+  "start": 13.32,
+  "duration": 4.4,
+  "text": "plans to invest up to $40 billion in"
+ },
+ {
+  "start": 15.72,
+  "duration": 3.76,
+  "text": "Anthropic. The AI Daily Brief is [music]"
+ },
+ {
+  "start": 17.72,
+  "duration": 5.72,
+  "text": "a daily podcast and video about the most"
+ },
+ {
+  "start": 19.48,
+  "duration": 3.96,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 24.16,
+  "duration": 3.48,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 25.32,
+  "duration": 4.44,
+  "text": "before we dive in. We are now live with"
+ },
+ {
+  "start": 27.64,
+  "duration": 5.72,
+  "text": "our latest free self-directed training"
+ },
+ {
+  "start": 29.76,
+  "duration": 5.44,
+  "text": "program, Agent OS. This is a program to"
+ },
+ {
+  "start": 33.36,
+  "duration": 4.08,
+  "text": "help you build your personal agentic"
+ },
+ {
+  "start": 35.2,
+  "duration": 3.84,
+  "text": "operating system. It's similar in some"
+ },
+ {
+  "start": 37.44,
+  "duration": 3.52,
+  "text": "ways to Clock Camp, but this is going to"
+ },
+ {
+  "start": 39.04,
+  "duration": 3.76,
+  "text": "be platform neutral and designed to"
+ },
+ {
+  "start": 40.96,
+  "duration": 4.36,
+  "text": "create a system that can evolve over"
+ },
+ {
+  "start": 42.8,
+  "duration": 3.44,
+  "text": "time as the technology changes as well."
+ },
+ {
+  "start": 45.32,
+  "duration": 2.6,
+  "text": "Now, if you want to learn more about"
+ },
+ {
+  "start": 46.24,
+  "duration": 3.44,
+  "text": "this, on Saturday, I did an Operator's"
+ },
+ {
+  "start": 47.92,
+  "duration": 3.8,
+  "text": "bonus episode with Nofar Gaspar, who"
+ },
+ {
+  "start": 49.68,
+  "duration": 3.4,
+  "text": "created this program. So, go check that"
+ },
+ {
+  "start": 51.72,
+  "duration": 3.24,
+  "text": "out and then you can sign up for Agent"
+ },
+ {
+  "start": 53.08,
+  "duration": 4.0,
+  "text": "OS. You can find the link from AI Daily"
+ },
+ {
+  "start": 54.96,
+  "duration": 3.6,
+  "text": "Brief.ai and join the more than a"
+ },
+ {
+  "start": 57.08,
+  "duration": 2.64,
+  "text": "thousand people who have already signed"
+ },
+ {
+  "start": 58.56,
+  "duration": 3.44,
+  "text": "up for this thing in the first day or"
+ },
+ {
+  "start": 59.72,
+  "duration": 3.84,
+  "text": "so. With that out of the way, let's dive"
+ },
+ {
+  "start": 62.0,
+  "duration": 2.6,
+  "text": "in."
+ },
+ {
+  "start": 63.56,
+  "duration": 2.88,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 64.6,
+  "duration": 4.32,
+  "text": "Headlines edition, all the daily AI news"
+ },
+ {
+  "start": 66.44,
+  "duration": 4.52,
+  "text": "you need in around 5 minutes. Late last"
+ },
+ {
+  "start": 68.92,
+  "duration": 4.0,
+  "text": "Friday saw just an absolute slew of"
+ },
+ {
+  "start": 70.96,
+  "duration": 3.56,
+  "text": "stories, including that Google has"
+ },
+ {
+  "start": 72.92,
+  "duration": 4.64,
+  "text": "expanded their relationship with"
+ },
+ {
+  "start": 74.52,
+  "duration": 4.56,
+  "text": "Anthropic with another huge investment."
+ },
+ {
+  "start": 77.56,
+  "duration": 3.24,
+  "text": "Google and Anthropic confirmed a $40"
+ },
+ {
+  "start": 79.08,
+  "duration": 3.76,
+  "text": "billion investment deal to the press on"
+ },
+ {
+  "start": 80.8,
+  "duration": 3.8,
+  "text": "Friday. The deal will consist of 10"
+ },
+ {
+  "start": 82.84,
+  "duration": 3.24,
+  "text": "billion up front and a further 30"
+ },
+ {
+  "start": 84.6,
+  "duration": 3.64,
+  "text": "billion based on Anthropic hitting"
+ },
+ {
+  "start": 86.08,
+  "duration": 3.72,
+  "text": "undisclosed commercial milestones."
+ },
+ {
+  "start": 88.24,
+  "duration": 4.64,
+  "text": "Google had previously invested in"
+ },
+ {
+  "start": 89.8,
+  "duration": 5.12,
+  "text": "Anthropic in late 2023 and early 2025"
+ },
+ {
+  "start": 92.88,
+  "duration": 3.6,
+  "text": "with the investment totaling 3 billion."
+ },
+ {
+  "start": 94.92,
+  "duration": 3.52,
+  "text": "They also signed an agreement to supply"
+ },
+ {
+  "start": 96.48,
+  "duration": 4.16,
+  "text": "5 gigawatts of compute capacity last"
+ },
+ {
+  "start": 98.44,
+  "duration": 3.6,
+  "text": "month in collaboration with Broadcom."
+ },
+ {
+  "start": 100.64,
+  "duration": 3.64,
+  "text": "Those chips are expected to start coming"
+ },
+ {
+  "start": 102.04,
+  "duration": 4.04,
+  "text": "online next year."
+ },
+ {
+  "start": 104.28,
+  "duration": 3.56,
+  "text": "Google's investment seems similar to the"
+ },
+ {
+  "start": 106.08,
+  "duration": 3.0,
+  "text": "deal that was struck with Amazon earlier"
+ },
+ {
+  "start": 107.84,
+  "duration": 2.96,
+  "text": "in the month."
+ },
+ {
+  "start": 109.08,
+  "duration": 3.6,
+  "text": "Amazon committed 5 billion up front with"
+ },
+ {
+  "start": 110.8,
+  "duration": 3.32,
+  "text": "a further 20 billion contingent upon,"
+ },
+ {
+  "start": 112.68,
+  "duration": 3.84,
+  "text": "once again, Anthropic hitting certain"
+ },
+ {
+  "start": 114.12,
+  "duration": 4.0,
+  "text": "commercial milestones. That deal also"
+ },
+ {
+  "start": 116.52,
+  "duration": 3.8,
+  "text": "saw Anthropic commit to spending a"
+ },
+ {
+  "start": 118.12,
+  "duration": 4.28,
+  "text": "hundred billion with AWS over the coming"
+ },
+ {
+  "start": 120.32,
+  "duration": 4.0,
+  "text": "decade and included five gigawatts of"
+ },
+ {
+  "start": 122.4,
+  "duration": 3.0,
+  "text": "supply to come online by the end of this"
+ },
+ {
+  "start": 124.32,
+  "duration": 2.6,
+  "text": "year."
+ },
+ {
+  "start": 125.4,
+  "duration": 3.2,
+  "text": "To deal theater to many the Amazon deal"
+ },
+ {
+  "start": 126.92,
+  "duration": 3.96,
+  "text": "looked like Anthropic trading equity for"
+ },
+ {
+  "start": 128.6,
+  "duration": 4.08,
+  "text": "compute. And although we don't know all"
+ },
+ {
+  "start": 130.88,
+  "duration": 4.04,
+  "text": "the contours of the Google deal, it"
+ },
+ {
+  "start": 132.68,
+  "duration": 4.12,
+  "text": "seems to be of a similar nature."
+ },
+ {
+  "start": 134.92,
+  "duration": 3.88,
+  "text": "Citrine analyst Yu Kuan republished an"
+ },
+ {
+  "start": 136.8,
+  "duration": 3.92,
+  "text": "excerpt from a Mirae Securities note"
+ },
+ {
+  "start": 138.8,
+  "duration": 3.08,
+  "text": "regarding the Amazon deal calling it one"
+ },
+ {
+  "start": 140.72,
+  "duration": 3.28,
+  "text": "of the most interesting takes that he"
+ },
+ {
+  "start": 141.88,
+  "duration": 4.079,
+  "text": "had read. The note stated, \"All of"
+ },
+ {
+  "start": 144.0,
+  "duration": 4.64,
+  "text": "Anthropic's unusual moves around the"
+ },
+ {
+  "start": 145.959,
+  "duration": 4.961,
+  "text": "GPT-5.5 launch ultimately converge on a"
+ },
+ {
+  "start": 148.64,
+  "duration": 4.52,
+  "text": "single conclusion. In order to secure"
+ },
+ {
+  "start": 150.92,
+  "duration": 4.52,
+  "text": "compute, Anthropic must bind itself far"
+ },
+ {
+  "start": 153.16,
+  "duration": 3.799,
+  "text": "more deeply and far more dependently to"
+ },
+ {
+  "start": 155.44,
+  "duration": 3.8,
+  "text": "those who possess these physical"
+ },
+ {
+  "start": 156.959,
+  "duration": 3.841,
+  "text": "resources.\" The note remarked that each"
+ },
+ {
+  "start": 159.24,
+  "duration": 3.12,
+  "text": "gigawatt of capacity is roughly"
+ },
+ {
+  "start": 160.8,
+  "duration": 2.76,
+  "text": "equivalent to a full-scale nuclear"
+ },
+ {
+  "start": 162.36,
+  "duration": 3.16,
+  "text": "reactor."
+ },
+ {
+  "start": 163.56,
+  "duration": 4.12,
+  "text": "Further, Microsoft's entire global data"
+ },
+ {
+  "start": 165.52,
+  "duration": 4.52,
+  "text": "center footprint in 2024 was around six"
+ },
+ {
+  "start": 167.68,
+  "duration": 4.2,
+  "text": "gigawatts with Mirae commenting, \"This"
+ },
+ {
+  "start": 170.04,
+  "duration": 3.84,
+  "text": "means Anthropic alone is locking in"
+ },
+ {
+  "start": 171.88,
+  "duration": 3.88,
+  "text": "incremental capacity for AI training and"
+ },
+ {
+  "start": 173.88,
+  "duration": 3.36,
+  "text": "serving that rivals the entirety of"
+ },
+ {
+  "start": 175.76,
+  "duration": 3.16,
+  "text": "Microsoft's historical physical"
+ },
+ {
+  "start": 177.24,
+  "duration": 2.84,
+  "text": "infrastructure.\" Coupled with"
+ },
+ {
+  "start": 178.92,
+  "duration": 3.319,
+  "text": "Anthropic's announcement of having"
+ },
+ {
+  "start": 180.08,
+  "duration": 3.56,
+  "text": "reached 30 billion ARR, the market is"
+ },
+ {
+  "start": 182.239,
+  "duration": 3.201,
+  "text": "reading this deal as Anthropic"
+ },
+ {
+  "start": 183.64,
+  "duration": 3.52,
+  "text": "pre-signing Amazon's invoice in order to"
+ },
+ {
+  "start": 185.44,
+  "duration": 3.36,
+  "text": "keep its growth growing."
+ },
+ {
+  "start": 187.16,
+  "duration": 3.48,
+  "text": "Now, Anthropic of course is not alone in"
+ },
+ {
+  "start": 188.8,
+  "duration": 3.52,
+  "text": "adding a ton of capacity."
+ },
+ {
+  "start": 190.64,
+  "duration": 3.36,
+  "text": "Last week OpenAI said that they expect"
+ },
+ {
+  "start": 192.32,
+  "duration": 4.12,
+  "text": "to build out a total of 30 gigawatts of"
+ },
+ {
+  "start": 194.0,
+  "duration": 4.88,
+  "text": "capacity by 2030 with eight gigawatts"
+ },
+ {
+  "start": 196.44,
+  "duration": 3.799,
+  "text": "already {quote} \"identified.\""
+ },
+ {
+  "start": 198.88,
+  "duration": 3.24,
+  "text": "The difference is OpenAI seems to be"
+ },
+ {
+  "start": 200.239,
+  "duration": 3.601,
+  "text": "partnering with a consortium of Oracle,"
+ },
+ {
+  "start": 202.12,
+  "duration": 3.6,
+  "text": "data center developers, and smaller neo"
+ },
+ {
+  "start": 203.84,
+  "duration": 4.399,
+  "text": "clouds alongside the established cloud"
+ },
+ {
+  "start": 205.72,
+  "duration": 4.76,
+  "text": "giants. Amazon invested 50 billion in"
+ },
+ {
+  "start": 208.239,
+  "duration": 3.961,
+  "text": "OpenAI in February and Microsoft still"
+ },
+ {
+  "start": 210.48,
+  "duration": 2.92,
+  "text": "holds their estimated 50% stake in the"
+ },
+ {
+  "start": 212.2,
+  "duration": 2.8,
+  "text": "company."
+ },
+ {
+  "start": 213.4,
+  "duration": 2.88,
+  "text": "Again from Mirae Securities, \"What"
+ },
+ {
+  "start": 215.0,
+  "duration": 3.16,
+  "text": "matters is that the structure of this"
+ },
+ {
+  "start": 216.28,
+  "duration": 4.32,
+  "text": "deal is more favorable to Amazon than to"
+ },
+ {
+  "start": 218.16,
+  "duration": 4.96,
+  "text": "Anthropic. Amazon has already invested"
+ },
+ {
+  "start": 220.6,
+  "duration": 4.76,
+  "text": "up to 50 billion in OpenAI as well."
+ },
+ {
+  "start": 223.12,
+  "duration": 3.68,
+  "text": "In other words, the more fiercely OpenAI"
+ },
+ {
+  "start": 225.36,
+  "duration": 3.52,
+  "text": "and Anthropic compete to eat each"
+ },
+ {
+  "start": 226.8,
+  "duration": 4.64,
+  "text": "other's lunch, the more Amazon benefits"
+ },
+ {
+  "start": 228.88,
+  "duration": 4.8,
+  "text": "simultaneously along three axes: cloud"
+ },
+ {
+  "start": 231.44,
+  "duration": 4.08,
+  "text": "usage fees from both, adoption rates for"
+ },
+ {
+  "start": 233.68,
+  "duration": 4.0,
+  "text": "its in-house silicon, and visibility on"
+ },
+ {
+  "start": 235.52,
+  "duration": 3.8,
+  "text": "the recovery of data center capex."
+ },
+ {
+  "start": 237.68,
+  "duration": 2.96,
+  "text": "This is structurally almost identical to"
+ },
+ {
+  "start": 239.32,
+  "duration": 2.84,
+  "text": "the valuation premium Google"
+ },
+ {
+  "start": 240.64,
+  "duration": 3.52,
+  "text": "historically enjoyed under the full"
+ },
+ {
+  "start": 242.16,
+  "duration": 3.56,
+  "text": "stack player framing."
+ },
+ {
+  "start": 244.16,
+  "duration": 3.48,
+  "text": "Now, Mirae's assessment is that the"
+ },
+ {
+  "start": 245.72,
+  "duration": 3.64,
+  "text": "market isn't close to pricing in how the"
+ },
+ {
+  "start": 247.64,
+  "duration": 3.8,
+  "text": "spoils of AI competition will flow to"
+ },
+ {
+  "start": 249.36,
+  "duration": 3.64,
+  "text": "the cloud giants. With Amazon still"
+ },
+ {
+  "start": 251.44,
+  "duration": 3.2,
+  "text": "trading near a 10-year low in terms of"
+ },
+ {
+  "start": 253.0,
+  "duration": 3.4,
+  "text": "revenue multiple."
+ },
+ {
+  "start": 254.64,
+  "duration": 4.28,
+  "text": "While some read this as Google giving up"
+ },
+ {
+  "start": 256.4,
+  "duration": 4.24,
+  "text": "on Gemini, others viewed it as a hedge"
+ },
+ {
+  "start": 258.92,
+  "duration": 3.6,
+  "text": "or even just a development of an entire"
+ },
+ {
+  "start": 260.64,
+  "duration": 3.08,
+  "text": "new business line and new play in the AI"
+ },
+ {
+  "start": 262.52,
+  "duration": 2.76,
+  "text": "space."
+ },
+ {
+  "start": 263.72,
+  "duration": 3.0,
+  "text": "What little we know of the deal terms"
+ },
+ {
+  "start": 265.28,
+  "duration": 3.52,
+  "text": "suggest that Google is extracting a"
+ },
+ {
+  "start": 266.72,
+  "duration": 3.48,
+  "text": "healthy premium for their compute. If"
+ },
+ {
+  "start": 268.8,
+  "duration": 3.68,
+  "text": "the deal terms are on Anthropic's"
+ },
+ {
+  "start": 270.2,
+  "duration": 4.0,
+  "text": "previous $350 billion valuation from"
+ },
+ {
+  "start": 272.48,
+  "duration": 4.0,
+  "text": "their February round, Google could be"
+ },
+ {
+  "start": 274.2,
+  "duration": 4.16,
+  "text": "getting more than a 50% discount to the"
+ },
+ {
+  "start": 276.48,
+  "duration": 3.48,
+  "text": "$800 billion valuation that shares have"
+ },
+ {
+  "start": 278.36,
+  "duration": 2.559,
+  "text": "been flying around on secondary markets"
+ },
+ {
+  "start": 279.96,
+  "duration": 2.56,
+  "text": "at."
+ },
+ {
+  "start": 280.919,
+  "duration": 3.441,
+  "text": "Their ownership stake is also beginning"
+ },
+ {
+  "start": 282.52,
+  "duration": 3.24,
+  "text": "to stack up. The New York Times"
+ },
+ {
+  "start": 284.36,
+  "duration": 3.84,
+  "text": "previously reported that Google owned"
+ },
+ {
+  "start": 285.76,
+  "duration": 3.96,
+  "text": "14% of Anthropic as of last March, and"
+ },
+ {
+  "start": 288.2,
+  "duration": 4.16,
+  "text": "if they make this full investment, their"
+ },
+ {
+  "start": 289.72,
+  "duration": 4.16,
+  "text": "stake could be heading north of 20%."
+ },
+ {
+  "start": 292.36,
+  "duration": 2.8,
+  "text": "Now, this idea that we're undercounting"
+ },
+ {
+  "start": 293.88,
+  "duration": 3.0,
+  "text": "the success of the infrastructure"
+ },
+ {
+  "start": 295.16,
+  "duration": 4.04,
+  "text": "providers is a theme that's starting to"
+ },
+ {
+  "start": 296.88,
+  "duration": 4.28,
+  "text": "grow. Bloomberg's Steve Haar writes,"
+ },
+ {
+  "start": 299.2,
+  "duration": 3.56,
+  "text": "\"Has Amazon's moment finally arrived?"
+ },
+ {
+  "start": 301.16,
+  "duration": 3.32,
+  "text": "The speed and degree of the success of"
+ },
+ {
+  "start": 302.76,
+  "duration": 4.4,
+  "text": "Anthropic's singular bet on AGI via"
+ },
+ {
+  "start": 304.48,
+  "duration": 4.6,
+  "text": "coding are unexpected and unprecedented."
+ },
+ {
+  "start": 307.16,
+  "duration": 4.08,
+  "text": "Both Anthropic and Google failed to plan"
+ },
+ {
+  "start": 309.08,
+  "duration": 3.92,
+  "text": "and secure sufficient compute. In what"
+ },
+ {
+  "start": 311.24,
+  "duration": 3.2,
+  "text": "seems to be years of critical shortage,"
+ },
+ {
+  "start": 313.0,
+  "duration": 2.919,
+  "text": "those that do have the compute to give"
+ },
+ {
+  "start": 314.44,
+  "duration": 3.12,
+  "text": "out find themselves having a lot more"
+ },
+ {
+  "start": 315.919,
+  "duration": 3.641,
+  "text": "strategic leverage."
+ },
+ {
+  "start": 317.56,
+  "duration": 3.96,
+  "text": "Contrary to conventional wisdom, I think"
+ },
+ {
+  "start": 319.56,
+  "duration": 4.359,
+  "text": "most suppliers in the AI value chain had"
+ },
+ {
+  "start": 321.52,
+  "duration": 4.6,
+  "text": "all vividly remembered and over-learned"
+ },
+ {
+  "start": 323.919,
+  "duration": 3.681,
+  "text": "the cautionary tales of past overbuilds,"
+ },
+ {
+  "start": 326.12,
+  "duration": 2.56,
+  "text": "especially leading up to the dot-com"
+ },
+ {
+  "start": 327.6,
+  "duration": 2.36,
+  "text": "bubble."
+ },
+ {
+  "start": 328.68,
+  "duration": 3.2,
+  "text": "The cautiousness and reluctance of the"
+ },
+ {
+  "start": 329.96,
+  "duration": 3.4,
+  "text": "Korean memory makers to expand capacity"
+ },
+ {
+  "start": 331.88,
+  "duration": 2.8,
+  "text": "are a good example."
+ },
+ {
+  "start": 333.36,
+  "duration": 2.92,
+  "text": "Suddenly, almost everyone is caught"
+ },
+ {
+  "start": 334.68,
+  "duration": 3.32,
+  "text": "surprised by the sharp rise of agentic"
+ },
+ {
+  "start": 336.28,
+  "duration": 3.84,
+  "text": "AI demand that could outstrip the supply"
+ },
+ {
+  "start": 338.0,
+  "duration": 4.28,
+  "text": "of AI compute by potentially several"
+ },
+ {
+  "start": 340.12,
+  "duration": 3.52,
+  "text": "orders of magnitude, causing maxed-out"
+ },
+ {
+  "start": 342.28,
+  "duration": 3.28,
+  "text": "productive capacity everywhere in the"
+ },
+ {
+  "start": 343.64,
+  "duration": 3.44,
+  "text": "supply chain, and rationing and price"
+ },
+ {
+  "start": 345.56,
+  "duration": 2.8,
+  "text": "hikes on the end users at least in the"
+ },
+ {
+  "start": 347.08,
+  "duration": 2.68,
+  "text": "US."
+ },
+ {
+  "start": 348.36,
+  "duration": 3.08,
+  "text": "This, I think, is going to be one of the"
+ },
+ {
+  "start": 349.76,
+  "duration": 4.04,
+  "text": "loudest stories banging about the rest"
+ },
+ {
+  "start": 351.44,
+  "duration": 4.4,
+  "text": "of 2026."
+ },
+ {
+  "start": 353.8,
+  "duration": 3.64,
+  "text": "Now, speaking of, Meta has also signed a"
+ },
+ {
+  "start": 355.84,
+  "duration": 3.44,
+  "text": "multi-billion dollar deal to rent AI"
+ },
+ {
+  "start": 357.44,
+  "duration": 3.84,
+  "text": "chips from Amazon, although it comes"
+ },
+ {
+  "start": 359.28,
+  "duration": 4.36,
+  "text": "with an interesting twist. Rather than"
+ },
+ {
+  "start": 361.28,
+  "duration": 4.52,
+  "text": "signing up for Amazon's Tranium ASICs,"
+ },
+ {
+  "start": 363.64,
+  "duration": 5.12,
+  "text": "Meta is renting Amazon's Graviton 5"
+ },
+ {
+  "start": 365.8,
+  "duration": 4.24,
+  "text": "CPUs. The CPUs are optimized for agentic"
+ },
+ {
+  "start": 368.76,
+  "duration": 3.04,
+  "text": "workloads, and there is an increasing"
+ },
+ {
+  "start": 370.04,
+  "duration": 3.44,
+  "text": "conversation around whether the CPU"
+ },
+ {
+  "start": 371.8,
+  "duration": 3.36,
+  "text": "architecture could prove to be more"
+ },
+ {
+  "start": 373.48,
+  "duration": 3.76,
+  "text": "efficient than GPUs when it comes to"
+ },
+ {
+  "start": 375.16,
+  "duration": 3.8,
+  "text": "actually running agents. Given that"
+ },
+ {
+  "start": 377.24,
+  "duration": 3.48,
+  "text": "Meta's entire strategy is centered on"
+ },
+ {
+  "start": 378.96,
+  "duration": 3.12,
+  "text": "delivering consumer agents, the"
+ },
+ {
+  "start": 380.72,
+  "duration": 3.36,
+  "text": "commitment to agent-specific"
+ },
+ {
+  "start": 382.08,
+  "duration": 3.44,
+  "text": "architecture makes a lot of sense. At"
+ },
+ {
+  "start": 384.08,
+  "duration": 3.04,
+  "text": "the same time, this could also be Meta"
+ },
+ {
+  "start": 385.52,
+  "duration": 2.88,
+  "text": "just placing as many bets as possible"
+ },
+ {
+  "start": 387.12,
+  "duration": 3.4,
+  "text": "and snapping up every chip they can get"
+ },
+ {
+  "start": 388.4,
+  "duration": 4.24,
+  "text": "their hands on. Relative to their size,"
+ },
+ {
+  "start": 390.52,
+  "duration": 4.8,
+  "text": "Meta has the largest AI buildout,"
+ },
+ {
+  "start": 392.64,
+  "duration": 5.4,
+  "text": "forecasted up to 135 billion this year."
+ },
+ {
+  "start": 395.32,
+  "duration": 4.08,
+  "text": "They already rent GPU clusters from AWS"
+ },
+ {
+  "start": 398.04,
+  "duration": 3.2,
+  "text": "and have multi-billion dollar deals with"
+ },
+ {
+  "start": 399.4,
+  "duration": 3.72,
+  "text": "Nvidia, AMD, Google, Coreweave, and"
+ },
+ {
+  "start": 401.24,
+  "duration": 3.36,
+  "text": "Nevious. Announcing the deal, Meta"
+ },
+ {
+  "start": 403.12,
+  "duration": 3.12,
+  "text": "wrote, \"The partnership marks an"
+ },
+ {
+  "start": 404.6,
+  "duration": 3.04,
+  "text": "expansion of our diversified AI"
+ },
+ {
+  "start": 406.24,
+  "duration": 3.28,
+  "text": "infrastructure and will help scale"
+ },
+ {
+  "start": 407.64,
+  "duration": 3.52,
+  "text": "systems behind Meta AI and agentic"
+ },
+ {
+  "start": 409.52,
+  "duration": 3.44,
+  "text": "experiences that serve billions of"
+ },
+ {
+  "start": 411.16,
+  "duration": 3.44,
+  "text": "people.\""
+ },
+ {
+  "start": 412.96,
+  "duration": 4.12,
+  "text": "Now, alongside all of this, it appears"
+ },
+ {
+  "start": 414.6,
+  "duration": 4.92,
+  "text": "the AI trade is back as the hyperscalers"
+ },
+ {
+  "start": 417.08,
+  "duration": 5.12,
+  "text": "lead the stock market to all-time highs."
+ },
+ {
+  "start": 419.52,
+  "duration": 4.84,
+  "text": "The S&P 500 is up 12.5% over the past"
+ },
+ {
+  "start": 422.2,
+  "duration": 4.24,
+  "text": "month, completely erasing the drawdown"
+ },
+ {
+  "start": 424.36,
+  "duration": 3.24,
+  "text": "from the beginning of the Iran war."
+ },
+ {
+  "start": 426.44,
+  "duration": 4.08,
+  "text": "The Wall Street Journal framed the"
+ },
+ {
+  "start": 427.6,
+  "duration": 4.84,
+  "text": "recovery as all about AI. They noted"
+ },
+ {
+  "start": 430.52,
+  "duration": 3.92,
+  "text": "that 118 stocks have fallen more than"
+ },
+ {
+  "start": 432.44,
+  "duration": 3.88,
+  "text": "10% since the war began,"
+ },
+ {
+  "start": 434.44,
+  "duration": 4.04,
+  "text": "and in contrast, the 82 stocks that are"
+ },
+ {
+  "start": 436.32,
+  "duration": 3.92,
+  "text": "up more than 10% are almost exclusively"
+ },
+ {
+  "start": 438.48,
+  "duration": 3.24,
+  "text": "related to AI."
+ },
+ {
+  "start": 440.24,
+  "duration": 3.96,
+  "text": "Without the Mag 7 tech stocks plus"
+ },
+ {
+  "start": 441.72,
+  "duration": 4.4,
+  "text": "Broadcom, the S&P 500 is actually down"
+ },
+ {
+  "start": 444.2,
+  "duration": 3.2,
+  "text": "year-to-date, meaning the AI industry is"
+ },
+ {
+  "start": 446.12,
+  "duration": 2.32,
+  "text": "once again putting the market on its"
+ },
+ {
+  "start": 447.4,
+  "duration": 2.8,
+  "text": "back."
+ },
+ {
+  "start": 448.44,
+  "duration": 3.44,
+  "text": "The Journal did note signs of froth in"
+ },
+ {
+  "start": 450.2,
+  "duration": 3.76,
+  "text": "the market from Allbirds' questionable"
+ },
+ {
+  "start": 451.88,
+  "duration": 4.36,
+  "text": "AI pivot to the massive premium placed"
+ },
+ {
+  "start": 453.96,
+  "duration": 4.04,
+  "text": "on pre-IPO AI stocks."
+ },
+ {
+  "start": 456.24,
+  "duration": 3.84,
+  "text": "Still, the fundamental driver is massive"
+ },
+ {
+  "start": 458.0,
+  "duration": 4.28,
+  "text": "and renewed commitments to AI spend."
+ },
+ {
+  "start": 460.08,
+  "duration": 3.8,
+  "text": "This week even saw dot-com darling Cisco"
+ },
+ {
+  "start": 462.28,
+  "duration": 4.04,
+  "text": "reach a new all-time high on the back of"
+ },
+ {
+  "start": 463.88,
+  "duration": 4.88,
+  "text": "data center spending taking 26 years to"
+ },
+ {
+  "start": 466.32,
+  "duration": 4.52,
+  "text": "claw back to their 2000 Peak. And while"
+ },
+ {
+  "start": 468.76,
+  "duration": 4.24,
+  "text": "the WSJ's narrative still focuses on"
+ },
+ {
+  "start": 470.84,
+  "duration": 3.44,
+  "text": "questioning the AI bubble, some analysts"
+ },
+ {
+  "start": 473.0,
+  "duration": 3.88,
+  "text": "are insisting that this time is"
+ },
+ {
+  "start": 474.28,
+  "duration": 4.72,
+  "text": "different. Corey is senior semiconductor"
+ },
+ {
+  "start": 476.88,
+  "duration": 4.44,
+  "text": "analyst at Benchmark said, we just had a"
+ },
+ {
+  "start": 479.0,
+  "duration": 3.88,
+  "text": "return to optimism around the AI trade."
+ },
+ {
+  "start": 481.32,
+  "duration": 3.8,
+  "text": "I think the optimism around the demand"
+ },
+ {
+  "start": 482.88,
+  "duration": 4.6,
+  "text": "is correct. The demand spending the"
+ },
+ {
+  "start": 485.12,
+  "duration": 3.72,
+  "text": "capex budgets are real."
+ },
+ {
+  "start": 487.48,
+  "duration": 3.08,
+  "text": "Ultimately, it's kind of difficult to"
+ },
+ {
+  "start": 488.84,
+  "duration": 2.96,
+  "text": "argue with the numbers. Capex"
+ },
+ {
+  "start": 490.56,
+  "duration": 2.44,
+  "text": "commitments are firming up and could"
+ },
+ {
+  "start": 491.8,
+  "duration": 3.32,
+  "text": "actually end the year higher than"
+ },
+ {
+  "start": 493.0,
+  "duration": 3.96,
+  "text": "forecast. On the back of increasing"
+ },
+ {
+  "start": 495.12,
+  "duration": 3.799,
+  "text": "demand, Nvidia closed the week at a new"
+ },
+ {
+  "start": 496.96,
+  "duration": 4.12,
+  "text": "all-time high becoming the world's first"
+ },
+ {
+  "start": 498.919,
+  "duration": 4.601,
+  "text": "$5 company just 9 months after they"
+ },
+ {
+  "start": 501.08,
+  "duration": 4.68,
+  "text": "became the first $4 T."
+ },
+ {
+  "start": 503.52,
+  "duration": 4.36,
+  "text": "To quote open AI's Rune, not enough"
+ },
+ {
+  "start": 505.76,
+  "duration": 4.72,
+  "text": "people are emotionally prepared for if"
+ },
+ {
+  "start": 507.88,
+  "duration": 4.52,
+  "text": "it's not a bubble. For now, that's going"
+ },
+ {
+  "start": 510.48,
+  "duration": 4.04,
+  "text": "to do it for the headlines. Next up, the"
+ },
+ {
+  "start": 512.4,
+  "duration": 3.84,
+  "text": "main episode."
+ },
+ {
+  "start": 514.52,
+  "duration": 3.04,
+  "text": "Welcome back to the AI daily brief."
+ },
+ {
+  "start": 516.24,
+  "duration": 4.12,
+  "text": "Today, we are connecting the dots"
+ },
+ {
+  "start": 517.56,
+  "duration": 4.56,
+  "text": "between two stories. The first is an"
+ },
+ {
+  "start": 520.36,
+  "duration": 4.2,
+  "text": "announcement from the White House last"
+ },
+ {
+  "start": 522.12,
+  "duration": 4.719,
+  "text": "week invoking the Defense Production Act"
+ },
+ {
+  "start": 524.56,
+  "duration": 4.279,
+  "text": "around US grid infrastructure. And the"
+ },
+ {
+  "start": 526.839,
+  "duration": 5.0,
+  "text": "second story is the release of the much"
+ },
+ {
+  "start": 528.839,
+  "duration": 4.281,
+  "text": "anticipated deep seek V4. Still, to set"
+ },
+ {
+  "start": 531.839,
+  "duration": 3.0,
+  "text": "up both of these stories, I want to go"
+ },
+ {
+  "start": 533.12,
+  "duration": 3.68,
+  "text": "back a little bit to a discussion that"
+ },
+ {
+  "start": 534.839,
+  "duration": 3.601,
+  "text": "really started to emerge in the last"
+ },
+ {
+  "start": 536.8,
+  "duration": 3.48,
+  "text": "quarter of last year."
+ },
+ {
+  "start": 538.44,
+  "duration": 3.88,
+  "text": "Taking you back to that time, you might"
+ },
+ {
+  "start": 540.28,
+  "duration": 3.44,
+  "text": "remember that for much of Wall Street,"
+ },
+ {
+  "start": 542.32,
+  "duration": 4.24,
+  "text": "the bubble narrative was reaching its"
+ },
+ {
+  "start": 543.72,
+  "duration": 4.28,
+  "text": "peak. GPT-5 had been disappointing"
+ },
+ {
+  "start": 546.56,
+  "duration": 3.08,
+  "text": "leading many people to trot back out the"
+ },
+ {
+  "start": 548.0,
+  "duration": 3.24,
+  "text": "idea that seems to come up every 6"
+ },
+ {
+  "start": 549.64,
+  "duration": 3.8,
+  "text": "months or so in AI that we were hitting"
+ },
+ {
+  "start": 551.24,
+  "duration": 4.24,
+  "text": "some pre-training wall. And on top of"
+ },
+ {
+  "start": 553.44,
+  "duration": 3.48,
+  "text": "that, we also had growing skepticism of"
+ },
+ {
+  "start": 555.48,
+  "duration": 2.96,
+  "text": "the round of circular infrastructure"
+ },
+ {
+  "start": 556.92,
+  "duration": 3.08,
+  "text": "deals that were driving and according to"
+ },
+ {
+  "start": 558.44,
+  "duration": 3.96,
+  "text": "some commentators inflating future"
+ },
+ {
+  "start": 560.0,
+  "duration": 4.28,
+  "text": "revenues. Now, looking back, it's become"
+ },
+ {
+  "start": 562.4,
+  "duration": 3.2,
+  "text": "clear that the idea that we were going"
+ },
+ {
+  "start": 564.28,
+  "duration": 2.96,
+  "text": "to have a bunch of excess compute"
+ },
+ {
+  "start": 565.6,
+  "duration": 2.84,
+  "text": "sitting around and that this massive"
+ },
+ {
+  "start": 567.24,
+  "duration": 3.36,
+  "text": "build-out wasn't actually going to be"
+ },
+ {
+  "start": 568.44,
+  "duration": 4.72,
+  "text": "necessary or justified by the market"
+ },
+ {
+  "start": 570.6,
+  "duration": 4.84,
+  "text": "seems to put it mildly a little quaint."
+ },
+ {
+  "start": 573.16,
+  "duration": 3.44,
+  "text": "Instead, the narrative is shifting now"
+ },
+ {
+  "start": 575.44,
+  "duration": 2.72,
+  "text": "to whether we're going to actually be"
+ },
+ {
+  "start": 576.6,
+  "duration": 2.84,
+  "text": "able to provision as much compute as"
+ },
+ {
+  "start": 578.16,
+  "duration": 2.92,
+  "text": "people want."
+ },
+ {
+  "start": 579.44,
+  "duration": 3.56,
+  "text": "And upstream from all of that isn't just"
+ },
+ {
+  "start": 581.08,
+  "duration": 3.68,
+  "text": "compute, it's the energy that that"
+ },
+ {
+  "start": 583.0,
+  "duration": 3.68,
+  "text": "compute runs on."
+ },
+ {
+  "start": 584.76,
+  "duration": 4.28,
+  "text": "Running counter to the tide of the time,"
+ },
+ {
+  "start": 586.68,
+  "duration": 3.8,
+  "text": "Goldman Sachs called this out last year."
+ },
+ {
+  "start": 589.04,
+  "duration": 3.36,
+  "text": "Summed up by Business Insider, they"
+ },
+ {
+  "start": 590.48,
+  "duration": 3.88,
+  "text": "wrote that AI's next bottleneck wouldn't"
+ },
+ {
+  "start": 592.4,
+  "duration": 3.24,
+  "text": "just be chips, but instead America's"
+ },
+ {
+  "start": 594.36,
+  "duration": 3.04,
+  "text": "power grid."
+ },
+ {
+  "start": 595.64,
+  "duration": 3.32,
+  "text": "GS identified that one of the biggest"
+ },
+ {
+  "start": 597.4,
+  "duration": 3.44,
+  "text": "constraints to the future of AI"
+ },
+ {
+  "start": 598.96,
+  "duration": 4.36,
+  "text": "development was going to be electricity"
+ },
+ {
+  "start": 600.84,
+  "duration": 4.2,
+  "text": "itself. Anticipating that data center's"
+ },
+ {
+  "start": 603.32,
+  "duration": 4.16,
+  "text": "share of electricity demand in the US"
+ },
+ {
+  "start": 605.04,
+  "duration": 5.08,
+  "text": "would go from about 6% today to about"
+ },
+ {
+  "start": 607.48,
+  "duration": 4.16,
+  "text": "double that to 11% by 2030."
+ },
+ {
+  "start": 610.12,
+  "duration": 3.32,
+  "text": "That shift, argued Goldman Sachs"
+ },
+ {
+  "start": 611.64,
+  "duration": 3.4,
+  "text": "analysts, had the potential to cause"
+ },
+ {
+  "start": 613.44,
+  "duration": 4.08,
+  "text": "untenable constraints on the US power"
+ },
+ {
+  "start": 615.04,
+  "duration": 4.36,
+  "text": "grid. As AI demands massive power, they"
+ },
+ {
+  "start": 617.52,
+  "duration": 3.56,
+  "text": "wrote, a reliable and ample power supply"
+ },
+ {
+  "start": 619.4,
+  "duration": 4.12,
+  "text": "is likely to be a key factor shaping"
+ },
+ {
+  "start": 621.08,
+  "duration": 4.24,
+  "text": "this race, especially because power"
+ },
+ {
+  "start": 623.52,
+  "duration": 3.08,
+  "text": "infrastructure bottlenecks can be slow"
+ },
+ {
+  "start": 625.32,
+  "duration": 3.04,
+  "text": "to solve."
+ },
+ {
+  "start": 626.6,
+  "duration": 3.28,
+  "text": "Now, the Financial Times, meanwhile, had"
+ },
+ {
+  "start": 628.36,
+  "duration": 3.72,
+  "text": "written a similar story all the way back"
+ },
+ {
+  "start": 629.88,
+  "duration": 4.2,
+  "text": "in December of 2025."
+ },
+ {
+  "start": 632.08,
+  "duration": 3.8,
+  "text": "As they point out, boosting the US power"
+ },
+ {
+  "start": 634.08,
+  "duration": 3.92,
+  "text": "grid is an enormous and time-consuming"
+ },
+ {
+  "start": 635.88,
+  "duration": 4.76,
+  "text": "task due to a complex web of regulatory,"
+ },
+ {
+  "start": 638.0,
+  "duration": 3.92,
+  "text": "financial, and supply chain challenges."
+ },
+ {
+  "start": 640.64,
+  "duration": 2.88,
+  "text": "For example, they describe how the"
+ },
+ {
+  "start": 641.92,
+  "duration": 3.16,
+  "text": "backlog of projects that are already"
+ },
+ {
+  "start": 643.52,
+  "duration": 3.08,
+  "text": "waiting to plug into the grid have"
+ },
+ {
+  "start": 645.08,
+  "duration": 2.56,
+  "text": "become, in their words, a major choke"
+ },
+ {
+  "start": 646.6,
+  "duration": 2.68,
+  "text": "point."
+ },
+ {
+  "start": 647.64,
+  "duration": 3.56,
+  "text": "And, of course, there is the wider"
+ },
+ {
+  "start": 649.28,
+  "duration": 3.48,
+  "text": "public dimension of this as well, where"
+ },
+ {
+  "start": 651.2,
+  "duration": 3.16,
+  "text": "if we can't expand the total amount of"
+ },
+ {
+  "start": 652.76,
+  "duration": 3.2,
+  "text": "power available, the hyperscalers"
+ },
+ {
+  "start": 654.36,
+  "duration": 2.76,
+  "text": "instead have to try to consume as much"
+ },
+ {
+  "start": 655.96,
+  "duration": 3.04,
+  "text": "as they can of what is currently"
+ },
+ {
+  "start": 657.12,
+  "duration": 3.68,
+  "text": "available, which becomes a core issue"
+ },
+ {
+  "start": 659.0,
+  "duration": 3.52,
+  "text": "with populations who face the potential"
+ },
+ {
+  "start": 660.8,
+  "duration": 3.0,
+  "text": "of rising energy prices because of all"
+ },
+ {
+  "start": 662.52,
+  "duration": 2.88,
+  "text": "of this."
+ },
+ {
+  "start": 663.8,
+  "duration": 3.0,
+  "text": "Calls for efforts to get more aggressive"
+ },
+ {
+  "start": 665.4,
+  "duration": 2.72,
+  "text": "about solving this problem have gotten"
+ },
+ {
+  "start": 666.8,
+  "duration": 2.76,
+  "text": "louder as well."
+ },
+ {
+  "start": 668.12,
+  "duration": 3.36,
+  "text": "At the end of March, JP Morgan"
+ },
+ {
+  "start": 669.56,
+  "duration": 3.92,
+  "text": "explicitly called our aging grid a"
+ },
+ {
+  "start": 671.48,
+  "duration": 3.72,
+  "text": "national security risk and called upon"
+ },
+ {
+  "start": 673.48,
+  "duration": 3.16,
+  "text": "the US government to do its part to"
+ },
+ {
+  "start": 675.2,
+  "duration": 3.76,
+  "text": "solving what they are identifying as a"
+ },
+ {
+  "start": 676.64,
+  "duration": 3.84,
+  "text": "major problem. They write, \"Electric"
+ },
+ {
+  "start": 678.96,
+  "duration": 3.92,
+  "text": "grids are undergoing a fundamental"
+ },
+ {
+  "start": 680.48,
+  "duration": 4.04,
+  "text": "reframe, from aging legacy assets to"
+ },
+ {
+  "start": 682.88,
+  "duration": 3.28,
+  "text": "strategic hard and soft infrastructure"
+ },
+ {
+  "start": 684.52,
+  "duration": 3.6,
+  "text": "that must withstand physical threats,"
+ },
+ {
+  "start": 686.16,
+  "duration": 4.36,
+  "text": "technological change, and growing supply"
+ },
+ {
+  "start": 688.12,
+  "duration": 3.8,
+  "text": "needs. In this context, grid resilience"
+ },
+ {
+  "start": 690.52,
+  "duration": 3.12,
+  "text": "efforts are not just defensive"
+ },
+ {
+  "start": 691.92,
+  "duration": 3.16,
+  "text": "infrastructure maintenance, they also"
+ },
+ {
+  "start": 693.64,
+  "duration": 3.44,
+  "text": "increasingly underpin economic"
+ },
+ {
+  "start": 695.08,
+  "duration": 4.24,
+  "text": "development, industrial competitiveness,"
+ },
+ {
+  "start": 697.08,
+  "duration": 3.88,
+  "text": "and national security. Activities that"
+ },
+ {
+  "start": 699.32,
+  "duration": 2.96,
+  "text": "harden, expand, and modernize the grid"
+ },
+ {
+  "start": 700.96,
+  "duration": 3.2,
+  "text": "are becoming increasingly attractive"
+ },
+ {
+  "start": 702.28,
+  "duration": 3.76,
+  "text": "investment opportunities and policy"
+ },
+ {
+  "start": 704.16,
+  "duration": 3.8,
+  "text": "priorities globally."
+ },
+ {
+  "start": 706.04,
+  "duration": 2.88,
+  "text": "It seems that the White House agrees. At"
+ },
+ {
+  "start": 707.96,
+  "duration": 2.8,
+  "text": "the beginning of the week, the White"
+ },
+ {
+  "start": 708.92,
+  "duration": 3.72,
+  "text": "House posted a presidential memo for the"
+ },
+ {
+  "start": 710.76,
+  "duration": 2.96,
+  "text": "Secretary of Energy. It would be later"
+ },
+ {
+  "start": 712.64,
+  "duration": 3.24,
+  "text": "in the week when the internet started"
+ },
+ {
+  "start": 713.72,
+  "duration": 4.4,
+  "text": "noticing and discussing the post. In the"
+ },
+ {
+  "start": 715.88,
+  "duration": 4.08,
+  "text": "memo, President Trump writes, \"Pursuant"
+ },
+ {
+  "start": 718.12,
+  "duration": 2.8,
+  "text": "to section 303 of the Defense Production"
+ },
+ {
+  "start": 719.96,
+  "duration": 2.84,
+  "text": "Act,"
+ },
+ {
+  "start": 720.92,
+  "duration": 3.6,
+  "text": "one, grid infrastructure and its"
+ },
+ {
+  "start": 722.8,
+  "duration": 3.32,
+  "text": "associated upstream supply chains,"
+ },
+ {
+  "start": 724.52,
+  "duration": 3.52,
+  "text": "including transformers, transmission"
+ },
+ {
+  "start": 726.12,
+  "duration": 3.28,
+  "text": "lines, and conductors, substantiations,"
+ },
+ {
+  "start": 728.04,
+  "duration": 3.24,
+  "text": "high-voltage circuit breakers, power"
+ },
+ {
+  "start": 729.4,
+  "duration": 3.6,
+  "text": "control electronics, protective relay"
+ },
+ {
+  "start": 731.28,
+  "duration": 3.12,
+  "text": "systems, capacitor banks, electric core"
+ },
+ {
+  "start": 733.0,
+  "duration": 3.36,
+  "text": "steel, and related raw materials and"
+ },
+ {
+  "start": 734.4,
+  "duration": 3.44,
+  "text": "manufacturing tools are industrial"
+ },
+ {
+  "start": 736.36,
+  "duration": 2.96,
+  "text": "resources, materials, or critical"
+ },
+ {
+  "start": 737.84,
+  "duration": 2.96,
+  "text": "technology items essential to the"
+ },
+ {
+  "start": 739.32,
+  "duration": 3.56,
+  "text": "national defense."
+ },
+ {
+  "start": 740.8,
+  "duration": 4.32,
+  "text": "Two, without presidential action under"
+ },
+ {
+  "start": 742.88,
+  "duration": 4.16,
+  "text": "section 330 of the Act, United States"
+ },
+ {
+  "start": 745.12,
+  "duration": 3.36,
+  "text": "industry cannot reasonably be expected"
+ },
+ {
+  "start": 747.04,
+  "duration": 3.48,
+  "text": "to provide these capabilities for the"
+ },
+ {
+  "start": 748.48,
+  "duration": 4.24,
+  "text": "needed industrial resource, material, or"
+ },
+ {
+  "start": 750.52,
+  "duration": 3.8,
+  "text": "critical technology items in a timely"
+ },
+ {
+  "start": 752.72,
+  "duration": 3.0,
+  "text": "manner due to limited domestic"
+ },
+ {
+  "start": 754.32,
+  "duration": 3.2,
+  "text": "production capacity, extended"
+ },
+ {
+  "start": 755.72,
+  "duration": 3.48,
+  "text": "procurement timelines, foreign supply"
+ },
+ {
+  "start": 757.52,
+  "duration": 4.319,
+  "text": "dependence, and insufficient capital"
+ },
+ {
+  "start": 759.2,
+  "duration": 4.2,
+  "text": "investment. And three, purchases,"
+ },
+ {
+  "start": 761.839,
+  "duration": 2.521,
+  "text": "purchase commitments, financial support"
+ },
+ {
+  "start": 763.4,
+  "duration": 2.72,
+  "text": "for the development of production"
+ },
+ {
+  "start": 764.36,
+  "duration": 3.96,
+  "text": "capabilities, or other action pursuant"
+ },
+ {
+  "start": 766.12,
+  "duration": 3.92,
+  "text": "to section 303 of the Act are the most"
+ },
+ {
+  "start": 768.32,
+  "duration": 3.24,
+  "text": "cost-effective, expedient, and practical"
+ },
+ {
+  "start": 770.04,
+  "duration": 3.56,
+  "text": "alternative methods for meeting this"
+ },
+ {
+  "start": 771.56,
+  "duration": 4.96,
+  "text": "need. I have declared a national"
+ },
+ {
+  "start": 773.6,
+  "duration": 4.52,
+  "text": "emergency under Executive Order 14156,"
+ },
+ {
+  "start": 776.52,
+  "duration": 3.12,
+  "text": "and I further determine that action to"
+ },
+ {
+  "start": 778.12,
+  "duration": 3.36,
+  "text": "expand the domestic capability to"
+ },
+ {
+  "start": 779.64,
+  "duration": 3.24,
+  "text": "develop, manufacture, and deploy grid"
+ },
+ {
+  "start": 781.48,
+  "duration": 3.52,
+  "text": "infrastructure and supporting industrial"
+ },
+ {
+  "start": 782.88,
+  "duration": 3.4,
+  "text": "supply chains is necessary to avert an"
+ },
+ {
+  "start": 785.0,
+  "duration": 3.0,
+  "text": "industrial resource or critical"
+ },
+ {
+  "start": 786.28,
+  "duration": 3.12,
+  "text": "technology item shortfall that would"
+ },
+ {
+  "start": 788.0,
+  "duration": 2.68,
+  "text": "severely impair national defense"
+ },
+ {
+  "start": 789.4,
+  "duration": 2.56,
+  "text": "capability."
+ },
+ {
+  "start": 790.68,
+  "duration": 3.12,
+  "text": "You are authorized and directed to"
+ },
+ {
+  "start": 791.96,
+  "duration": 3.6,
+  "text": "implement this determination, including"
+ },
+ {
+  "start": 793.8,
+  "duration": 3.2,
+  "text": "making necessary purchases, commitments,"
+ },
+ {
+  "start": 795.56,
+  "duration": 3.0,
+  "text": "and financial instruments to enable"
+ },
+ {
+  "start": 797.0,
+  "duration": 3.04,
+  "text": "these projects."
+ },
+ {
+  "start": 798.56,
+  "duration": 2.88,
+  "text": "TLDR, the White House is getting in the"
+ },
+ {
+  "start": 800.04,
+  "duration": 3.68,
+  "text": "grid business, even if we don't know"
+ },
+ {
+  "start": 801.44,
+  "duration": 3.48,
+  "text": "exactly what that means yet."
+ },
+ {
+  "start": 803.72,
+  "duration": 2.96,
+  "text": "Most of the initial response from"
+ },
+ {
+  "start": 804.92,
+  "duration": 3.76,
+  "text": "commentators had to do with the market."
+ },
+ {
+  "start": 806.68,
+  "duration": 4.12,
+  "text": "Tick Tok Tik writes, \"Grid is national"
+ },
+ {
+  "start": 808.68,
+  "duration": 4.16,
+  "text": "security, just in from the White House."
+ },
+ {
+  "start": 810.8,
+  "duration": 4.36,
+  "text": "Expect a monster gap up in utilities"
+ },
+ {
+  "start": 812.84,
+  "duration": 3.96,
+  "text": "next week.\" Rosanna Prestia writes,"
+ },
+ {
+  "start": 815.16,
+  "duration": 4.32,
+  "text": "\"Companies working to electrify America"
+ },
+ {
+  "start": 816.8,
+  "duration": 4.04,
+  "text": "will have a big tailwind.\" And Citrine"
+ },
+ {
+  "start": 819.48,
+  "duration": 2.96,
+  "text": "Research wrote a flash note exploring"
+ },
+ {
+  "start": 820.84,
+  "duration": 3.64,
+  "text": "similar themes."
+ },
+ {
+  "start": 822.44,
+  "duration": 3.52,
+  "text": "And of course, underlying all of this is"
+ },
+ {
+  "start": 824.48,
+  "duration": 3.32,
+  "text": "perception of AI competition"
+ },
+ {
+  "start": 825.96,
+  "duration": 3.92,
+  "text": "specifically with China."
+ },
+ {
+  "start": 827.8,
+  "duration": 3.8,
+  "text": "Over the last 15 months, no company has"
+ },
+ {
+  "start": 829.88,
+  "duration": 3.56,
+  "text": "done more to reshape the perception of"
+ },
+ {
+  "start": 831.6,
+  "duration": 3.84,
+  "text": "that battle than DeepSeek did at the"
+ },
+ {
+  "start": 833.44,
+  "duration": 3.32,
+  "text": "beginning of 2025."
+ },
+ {
+  "start": 835.44,
+  "duration": 3.36,
+  "text": "When they released their free reasoning"
+ },
+ {
+  "start": 836.76,
+  "duration": 3.68,
+  "text": "model, which rocketed to the top of the"
+ },
+ {
+  "start": 838.8,
+  "duration": 3.28,
+  "text": "app store charts and represented the"
+ },
+ {
+  "start": 840.44,
+  "duration": 3.44,
+  "text": "first time that many had used a"
+ },
+ {
+  "start": 842.08,
+  "duration": 3.36,
+  "text": "reasoning model, it wiped out an"
+ },
+ {
+  "start": 843.88,
+  "duration": 4.08,
+  "text": "incredible amount of value from the US"
+ },
+ {
+  "start": 845.44,
+  "duration": 5.04,
+  "text": "markets as beliefs about how far behind"
+ },
+ {
+  "start": 847.96,
+  "duration": 4.2,
+  "text": "China was were totally reset. Now,"
+ },
+ {
+  "start": 850.48,
+  "duration": 4.16,
+  "text": "subsequent to that, over the course of"
+ },
+ {
+  "start": 852.16,
+  "duration": 5.12,
+  "text": "2025, Chinese open weight models became"
+ },
+ {
+  "start": 854.64,
+  "duration": 4.28,
+  "text": "a significant part of the AI landscape."
+ },
+ {
+  "start": 857.28,
+  "duration": 3.12,
+  "text": "While they were never state-of-the-art,"
+ },
+ {
+  "start": 858.92,
+  "duration": 2.56,
+  "text": "the fact that they were frankly nipping"
+ },
+ {
+  "start": 860.4,
+  "duration": 3.2,
+  "text": "at the heels of state-of-the-art"
+ },
+ {
+  "start": 861.48,
+  "duration": 4.12,
+  "text": "performance and doing so in a much"
+ },
+ {
+  "start": 863.6,
+  "duration": 3.76,
+  "text": "cheaper package meant that many"
+ },
+ {
+  "start": 865.6,
+  "duration": 3.4,
+  "text": "companies, especially startups with some"
+ },
+ {
+  "start": 867.36,
+  "duration": 3.479,
+  "text": "amount of flexibility, were already"
+ },
+ {
+  "start": 869.0,
+  "duration": 3.44,
+  "text": "finding integrations where they used"
+ },
+ {
+  "start": 870.839,
+  "duration": 3.521,
+  "text": "state-of-the-art models from OpenAI or"
+ },
+ {
+  "start": 872.44,
+  "duration": 4.0,
+  "text": "Anthropic or Google for hard and"
+ },
+ {
+  "start": 874.36,
+  "duration": 4.44,
+  "text": "planning type tasks and models like"
+ },
+ {
+  "start": 876.44,
+  "duration": 3.72,
+  "text": "DeepSeek or Kwan or Kimmy for a lot of"
+ },
+ {
+  "start": 878.8,
+  "duration": 3.6,
+  "text": "the workhorse stuff that would cost a"
+ },
+ {
+  "start": 880.16,
+  "duration": 3.92,
+  "text": "ton in resources otherwise."
+ },
+ {
+  "start": 882.4,
+  "duration": 3.0,
+  "text": "Because DeepSeek was the first to really"
+ },
+ {
+  "start": 884.08,
+  "duration": 2.96,
+  "text": "kick off that conversation, there has"
+ },
+ {
+  "start": 885.4,
+  "duration": 4.12,
+  "text": "been extra hype around the release of"
+ },
+ {
+  "start": 887.04,
+  "duration": 4.4,
+  "text": "their latest model V4. It's also been"
+ },
+ {
+  "start": 889.52,
+  "duration": 3.84,
+  "text": "coming forever at this point. I feel"
+ },
+ {
+  "start": 891.44,
+  "duration": 3.16,
+  "text": "like a half dozen weeks in 2026 where"
+ },
+ {
+  "start": 893.36,
+  "duration": 2.88,
+  "text": "people were sure it was coming this"
+ },
+ {
+  "start": 894.6,
+  "duration": 3.239,
+  "text": "week. But at the end of last week, we"
+ },
+ {
+  "start": 896.24,
+  "duration": 3.36,
+  "text": "did finally get it."
+ },
+ {
+  "start": 897.839,
+  "duration": 3.801,
+  "text": "So, in terms of the details, the V4"
+ },
+ {
+  "start": 899.6,
+  "duration": 3.84,
+  "text": "model family consists of two models."
+ },
+ {
+  "start": 901.64,
+  "duration": 4.12,
+  "text": "There is a 1.6 trillion parameter model"
+ },
+ {
+  "start": 903.44,
+  "duration": 4.44,
+  "text": "called V4 Pro and a smaller version"
+ },
+ {
+  "start": 905.76,
+  "duration": 4.12,
+  "text": "called V4 Flash. Both versions have a"
+ },
+ {
+  "start": 907.88,
+  "duration": 4.72,
+  "text": "million token context window, and on the"
+ },
+ {
+  "start": 909.88,
+  "duration": 6.72,
+  "text": "benchmarks, V4 Pro is in a similar realm"
+ },
+ {
+  "start": 912.6,
+  "duration": 5.4,
+  "text": "to Opus 4.5, 4.6, and GPT 5.3 and 5.4."
+ },
+ {
+  "start": 916.6,
+  "duration": 4.04,
+  "text": "So, we bench verified is basically a"
+ },
+ {
+  "start": 918.0,
+  "duration": 5.16,
+  "text": "dead heat at around 80% on Terminal"
+ },
+ {
+  "start": 920.64,
+  "duration": 5.64,
+  "text": "Bench 2.0, V4 Pro is slightly ahead of"
+ },
+ {
+  "start": 923.16,
+  "duration": 5.04,
+  "text": "Opus 4.6 and slightly behind GPT 5.4."
+ },
+ {
+  "start": 926.28,
+  "duration": 4.12,
+  "text": "And on Humanity's Last Exam, V4 Pro is"
+ },
+ {
+  "start": 928.2,
+  "duration": 3.8,
+  "text": "slightly behind the Western comparisons."
+ },
+ {
+  "start": 930.4,
+  "duration": 4.08,
+  "text": "And when came to interpretations, there"
+ },
+ {
+  "start": 932.0,
+  "duration": 3.44,
+  "text": "was frankly kind of a range. Bloomberg's"
+ },
+ {
+  "start": 934.48,
+  "duration": 2.64,
+  "text": "take was that the model was"
+ },
+ {
+  "start": 935.44,
+  "duration": 3.48,
+  "text": "underwhelming. They pointed to comments"
+ },
+ {
+  "start": 937.12,
+  "duration": 3.32,
+  "text": "from Chris McGuire, a senior fellow for"
+ },
+ {
+  "start": 938.92,
+  "duration": 3.48,
+  "text": "China and emerging technologies at the"
+ },
+ {
+  "start": 940.44,
+  "duration": 3.84,
+  "text": "Council on Foreign Relations, who wrote,"
+ },
+ {
+  "start": 942.4,
+  "duration": 3.28,
+  "text": "\"It is not competitive with frontier US"
+ },
+ {
+  "start": 944.28,
+  "duration": 3.44,
+  "text": "models and does not appear to close the"
+ },
+ {
+  "start": 945.68,
+  "duration": 3.6,
+  "text": "gap with the United States in AI.\""
+ },
+ {
+  "start": 947.72,
+  "duration": 3.6,
+  "text": "Former Trump AI advisor Dean Ball"
+ },
+ {
+  "start": 949.28,
+  "duration": 3.48,
+  "text": "writes, \"R1 remains the closest I've"
+ },
+ {
+  "start": 951.32,
+  "duration": 3.24,
+  "text": "seen Chinese models get to the US"
+ },
+ {
+  "start": 952.76,
+  "duration": 4.12,
+  "text": "frontier.\" That, by the way, is the one"
+ },
+ {
+  "start": 954.56,
+  "duration": 4.36,
+  "text": "we were talking about from early 2025."
+ },
+ {
+  "start": 956.88,
+  "duration": 3.56,
+  "text": "\"V4,\" continues Dean, \"is further behind"
+ },
+ {
+  "start": 958.92,
+  "duration": 3.2,
+  "text": "than that, though that does not render"
+ },
+ {
+  "start": 960.44,
+  "duration": 3.96,
+  "text": "it a useless or bad or uninteresting"
+ },
+ {
+  "start": 962.12,
+  "duration": 4.36,
+  "text": "artifact.\" In terms of the Twitterati,"
+ },
+ {
+  "start": 964.4,
+  "duration": 4.04,
+  "text": "Leo Synth Wave writes, \"My first"
+ },
+ {
+  "start": 966.48,
+  "duration": 3.04,
+  "text": "impressions on DeepSeek V4, a little"
+ },
+ {
+  "start": 968.44,
+  "duration": 2.4,
+  "text": "disappointing that it's not"
+ },
+ {
+  "start": 969.52,
+  "duration": 3.56,
+  "text": "state-of-the-art after all this time,"
+ },
+ {
+  "start": 970.84,
+  "duration": 4.56,
+  "text": "but it's close. New Pareto frontier, a"
+ },
+ {
+  "start": 973.08,
+  "duration": 4.04,
+  "text": "lot cheaper than 5.4 and Opus 4.6 for"
+ },
+ {
+  "start": 975.4,
+  "duration": 3.16,
+  "text": "comparable performance.\""
+ },
+ {
+  "start": 977.12,
+  "duration": 3.84,
+  "text": "Leo also did call it their new favorite"
+ },
+ {
+  "start": 978.56,
+  "duration": 4.92,
+  "text": "model for creative writing. Max Weinbach"
+ },
+ {
+  "start": 980.96,
+  "duration": 3.92,
+  "text": "writes, \"Yeah, DeepSeek V4/Pro don't"
+ },
+ {
+  "start": 983.48,
+  "duration": 3.0,
+  "text": "really perform that well compared to any"
+ },
+ {
+  "start": 984.88,
+  "duration": 3.56,
+  "text": "of the major US models, even one to two"
+ },
+ {
+  "start": 986.48,
+  "duration": 4.48,
+  "text": "revisions old. Looks like it's slightly"
+ },
+ {
+  "start": 988.44,
+  "duration": 5.0,
+  "text": "behind Opus 4.5 in practice and on par"
+ },
+ {
+  "start": 990.96,
+  "duration": 4.36,
+  "text": "or slightly behind Gemini K2.6. Some"
+ },
+ {
+  "start": 993.44,
+  "duration": 3.52,
+  "text": "good optimization techniques there, but"
+ },
+ {
+  "start": 995.32,
+  "duration": 3.08,
+  "text": "overall, eh.\""
+ },
+ {
+  "start": 996.96,
+  "duration": 2.92,
+  "text": "Where the analysis gets a little more"
+ },
+ {
+  "start": 998.4,
+  "duration": 3.92,
+  "text": "interesting is when it broadens out to"
+ },
+ {
+  "start": 999.88,
+  "duration": 4.52,
+  "text": "incorporate price. DeepSeek is pricing"
+ },
+ {
+  "start": 1002.32,
+  "duration": 4.08,
+  "text": "the Pro model at 174 per million input"
+ },
+ {
+  "start": 1004.4,
+  "duration": 4.08,
+  "text": "tokens and 348 per million output"
+ },
+ {
+  "start": 1006.4,
+  "duration": 3.72,
+  "text": "tokens. That is less than a seventh of"
+ },
+ {
+  "start": 1008.48,
+  "duration": 4.84,
+  "text": "the cost of Opus 4.6 and less than a"
+ },
+ {
+  "start": 1010.12,
+  "duration": 5.52,
+  "text": "quarter of the cost of GPT 5.4. V4 Flash"
+ },
+ {
+  "start": 1013.32,
+  "duration": 3.96,
+  "text": "is 14 cents per million inputs and 28"
+ },
+ {
+  "start": 1015.64,
+  "duration": 4.56,
+  "text": "cents per million outputs, which"
+ },
+ {
+  "start": 1017.28,
+  "duration": 4.52,
+  "text": "undercuts Gemini Flash light by 80%."
+ },
+ {
+  "start": 1020.2,
+  "duration": 4.52,
+  "text": "DeepSeek is even pricing Pro at around"
+ },
+ {
+  "start": 1021.8,
+  "duration": 4.84,
+  "text": "25% lower than Gemini K2.6."
+ },
+ {
+  "start": 1024.72,
+  "duration": 3.64,
+  "text": "Simon Willison summed it up in his blog"
+ },
+ {
+  "start": 1026.64,
+  "duration": 4.12,
+  "text": "post as almost on the frontier at a"
+ },
+ {
+  "start": 1028.36,
+  "duration": 4.28,
+  "text": "fraction of the price. Chinese AI"
+ },
+ {
+  "start": 1030.76,
+  "duration": 3.48,
+  "text": "analyst Po Zhao noted that DeepSeek said"
+ },
+ {
+  "start": 1032.64,
+  "duration": 3.559,
+  "text": "they are currently limited by compute"
+ },
+ {
+  "start": 1034.24,
+  "duration": 3.599,
+  "text": "supply and will drop prices even more"
+ },
+ {
+  "start": 1036.199,
+  "duration": 3.401,
+  "text": "once Huawei production is ramped up in"
+ },
+ {
+  "start": 1037.839,
+  "duration": 3.961,
+  "text": "the second half of the year."
+ },
+ {
+  "start": 1039.6,
+  "duration": 3.88,
+  "text": "He added, \"DeepSeek is publicly tying"
+ },
+ {
+  "start": 1041.8,
+  "duration": 3.279,
+  "text": "its API economics to domestic chip"
+ },
+ {
+  "start": 1043.48,
+  "duration": 3.16,
+  "text": "infrastructure. That's the real"
+ },
+ {
+  "start": 1045.079,
+  "duration": 3.161,
+  "text": "headline.\""
+ },
+ {
+  "start": 1046.64,
+  "duration": 2.96,
+  "text": "One person who's taking all of this much"
+ },
+ {
+  "start": 1048.24,
+  "duration": 3.56,
+  "text": "more seriously than some of the initial"
+ },
+ {
+  "start": 1049.6,
+  "duration": 4.36,
+  "text": "dismissals is Matthew Berman. He wrote a"
+ },
+ {
+  "start": 1051.8,
+  "duration": 4.76,
+  "text": "post called DeepSeek V4 is a serious"
+ },
+ {
+  "start": 1053.96,
+  "duration": 4.8,
+  "text": "threat. And here's his main point. Matt"
+ },
+ {
+  "start": 1056.56,
+  "duration": 4.12,
+  "text": "writes, \"Here's the thing. Most use"
+ },
+ {
+  "start": 1058.76,
+  "duration": 3.68,
+  "text": "cases don't require absolute frontier"
+ },
+ {
+  "start": 1060.68,
+  "duration": 3.04,
+  "text": "intelligence. The vast majority of"
+ },
+ {
+  "start": 1062.44,
+  "duration": 2.92,
+  "text": "companies aren't doing frontier"
+ },
+ {
+  "start": 1063.72,
+  "duration": 2.8,
+  "text": "scientific research or trying to crack"
+ },
+ {
+  "start": 1065.36,
+  "duration": 3.6,
+  "text": "the hardest coding problems in the"
+ },
+ {
+  "start": 1066.52,
+  "duration": 4.44,
+  "text": "world. They're running a business."
+ },
+ {
+  "start": 1068.96,
+  "duration": 5.0,
+  "text": "So, imagine you're a CEO. You look at"
+ },
+ {
+  "start": 1070.96,
+  "duration": 5.52,
+  "text": "GPT-5.5 at $30 per million output tokens"
+ },
+ {
+  "start": 1073.96,
+  "duration": 3.64,
+  "text": "or Opus-4.7 similarly priced."
+ },
+ {
+  "start": 1076.48,
+  "duration": 2.92,
+  "text": "Then you look at DeepSeek and it's a"
+ },
+ {
+  "start": 1077.6,
+  "duration": 3.44,
+  "text": "fraction of that. It does almost"
+ },
+ {
+  "start": 1079.4,
+  "duration": 3.0,
+  "text": "everything you actually need. It's open"
+ },
+ {
+  "start": 1081.04,
+  "duration": 3.44,
+  "text": "source, you can fine-tune it, host it"
+ },
+ {
+  "start": 1082.4,
+  "duration": 4.16,
+  "text": "how you like, control it precisely. The"
+ },
+ {
+  "start": 1084.48,
+  "duration": 3.84,
+  "text": "calculus becomes really obvious. Why"
+ },
+ {
+  "start": 1086.56,
+  "duration": 3.6,
+  "text": "would you pay so much more?"
+ },
+ {
+  "start": 1088.32,
+  "duration": 3.32,
+  "text": "That's where the problem comes in."
+ },
+ {
+  "start": 1090.16,
+  "duration": 2.64,
+  "text": "Jensen Huang's been saying China is"
+ },
+ {
+  "start": 1091.64,
+  "duration": 2.36,
+  "text": "going to build their own chips and their"
+ },
+ {
+  "start": 1092.8,
+  "duration": 3.0,
+  "text": "own models, so they might as well be"
+ },
+ {
+  "start": 1094.0,
+  "duration": 3.8,
+  "text": "built on American technology, i.e."
+ },
+ {
+  "start": 1095.8,
+  "duration": 3.2,
+  "text": "Nvidia chips. Fine."
+ },
+ {
+  "start": 1097.8,
+  "duration": 3.2,
+  "text": "But the same argument now works in"
+ },
+ {
+  "start": 1099.0,
+  "duration": 3.44,
+  "text": "reverse. If US enterprise companies"
+ },
+ {
+  "start": 1101.0,
+  "duration": 3.36,
+  "text": "build their AI strategy on top of"
+ },
+ {
+  "start": 1102.44,
+  "duration": 4.08,
+  "text": "Chinese open source models, that's a big"
+ },
+ {
+  "start": 1104.36,
+  "duration": 3.44,
+  "text": "geopolitical security risk. If those"
+ },
+ {
+  "start": 1106.52,
+  "duration": 2.8,
+  "text": "Chinese AI labs change their"
+ },
+ {
+  "start": 1107.8,
+  "duration": 3.92,
+  "text": "architecture or cut us off, we're"
+ },
+ {
+  "start": 1109.32,
+  "duration": 3.8,
+  "text": "suddenly in a really bad spot."
+ },
+ {
+  "start": 1111.72,
+  "duration": 3.32,
+  "text": "Matthew's argument is that, in his"
+ },
+ {
+  "start": 1113.12,
+  "duration": 4.28,
+  "text": "words, \"The US needs to go much harder"
+ },
+ {
+  "start": 1115.04,
+  "duration": 4.52,
+  "text": "on open source. And second, even if we"
+ },
+ {
+  "start": 1117.4,
+  "duration": 3.44,
+  "text": "stay closed source, OpenAI and Anthropic"
+ },
+ {
+  "start": 1119.56,
+  "duration": 2.36,
+  "text": "need to get much cheaper much more"
+ },
+ {
+  "start": 1120.84,
+  "duration": 2.8,
+  "text": "quickly.\""
+ },
+ {
+  "start": 1121.92,
+  "duration": 3.32,
+  "text": "TLDR, DeepSeek didn't catch up to"
+ },
+ {
+  "start": 1123.64,
+  "duration": 3.72,
+  "text": "America, but they built something good"
+ },
+ {
+  "start": 1125.24,
+  "duration": 3.56,
+  "text": "enough, gave it away and a lot of US"
+ },
+ {
+  "start": 1127.36,
+  "duration": 2.56,
+  "text": "companies are going to take them up on"
+ },
+ {
+  "start": 1128.8,
+  "duration": 2.64,
+  "text": "it."
+ },
+ {
+  "start": 1129.92,
+  "duration": 2.88,
+  "text": "Finally, almost as if to put a fine"
+ },
+ {
+  "start": 1131.44,
+  "duration": 2.6,
+  "text": "point on the geopolitics of these"
+ },
+ {
+  "start": 1132.8,
+  "duration": 2.64,
+  "text": "announcements,"
+ },
+ {
+  "start": 1134.04,
+  "duration": 3.08,
+  "text": "around the same time Beijing has"
+ },
+ {
+  "start": 1135.44,
+  "duration": 3.96,
+  "text": "launched into a flurry of activity to"
+ },
+ {
+  "start": 1137.12,
+  "duration": 4.52,
+  "text": "protect their national interests on AI."
+ },
+ {
+  "start": 1139.4,
+  "duration": 4.32,
+  "text": "On Friday, the same day DeepSeek V4 came"
+ },
+ {
+  "start": 1141.64,
+  "duration": 4.04,
+  "text": "out, Bloomberg reported that China plans"
+ },
+ {
+  "start": 1143.72,
+  "duration": 3.8,
+  "text": "to curb US investment in domestic tech"
+ },
+ {
+  "start": 1145.68,
+  "duration": 3.08,
+  "text": "companies. The report stated that"
+ },
+ {
+  "start": 1147.52,
+  "duration": 2.52,
+  "text": "Chinese officials are putting out the"
+ },
+ {
+  "start": 1148.76,
+  "duration": 3.4,
+  "text": "word that Chinese tech firms should"
+ },
+ {
+  "start": 1150.04,
+  "duration": 4.36,
+  "text": "reject US capital unless explicitly"
+ },
+ {
+  "start": 1152.16,
+  "duration": 3.36,
+  "text": "approved. The report named Moonshot,"
+ },
+ {
+  "start": 1154.4,
+  "duration": 3.04,
+  "text": "which is the developer of the Kimi"
+ },
+ {
+  "start": 1155.52,
+  "duration": 3.04,
+  "text": "models, as well as Step Fun as two"
+ },
+ {
+  "start": 1157.44,
+  "duration": 2.48,
+  "text": "startups that had received these"
+ },
+ {
+  "start": 1158.56,
+  "duration": 2.84,
+  "text": "instructions."
+ },
+ {
+  "start": 1159.92,
+  "duration": 3.0,
+  "text": "Writes Bloomberg, \"The overarching"
+ },
+ {
+  "start": 1161.4,
+  "duration": 3.4,
+  "text": "intent of the latest restrictions is to"
+ },
+ {
+  "start": 1162.92,
+  "duration": 3.4,
+  "text": "prevent US investors from taking stakes"
+ },
+ {
+  "start": 1164.8,
+  "duration": 3.6,
+  "text": "in sensitive sectors where national"
+ },
+ {
+  "start": 1166.32,
+  "duration": 3.96,
+  "text": "security is a priority. The decision"
+ },
+ {
+  "start": 1168.4,
+  "duration": 3.6,
+  "text": "also follows a recent policy change that"
+ },
+ {
+  "start": 1170.28,
+  "duration": 3.96,
+  "text": "prevented foreign incorporated companies"
+ },
+ {
+  "start": 1172.0,
+  "duration": 3.88,
+  "text": "from going public in Hong Kong, cutting"
+ },
+ {
+  "start": 1174.24,
+  "duration": 2.92,
+  "text": "off a decades-old playbook for Chinese"
+ },
+ {
+  "start": 1175.88,
+  "duration": 2.68,
+  "text": "tech firms."
+ },
+ {
+  "start": 1177.16,
+  "duration": 2.6,
+  "text": "Instead, firms are shutting down their"
+ },
+ {
+  "start": 1178.56,
+  "duration": 3.44,
+  "text": "overseas corporations and"
+ },
+ {
+  "start": 1179.76,
+  "duration": 3.48,
+  "text": "reincorporating onshore.\""
+ },
+ {
+  "start": 1182.0,
+  "duration": 2.72,
+  "text": "Now, these changes were clearly a"
+ },
+ {
+  "start": 1183.24,
+  "duration": 3.4,
+  "text": "reaction to Meta's $2 billion"
+ },
+ {
+  "start": 1184.72,
+  "duration": 3.32,
+  "text": "acquisition of Manifold, which has been"
+ },
+ {
+  "start": 1186.64,
+  "duration": 3.36,
+  "text": "under investigation in Beijing for"
+ },
+ {
+  "start": 1188.04,
+  "duration": 3.4,
+  "text": "several months. Manifold had moved their"
+ },
+ {
+  "start": 1190.0,
+  "duration": 3.2,
+  "text": "headquarters from Beijing to Singapore"
+ },
+ {
+  "start": 1191.44,
+  "duration": 4.36,
+  "text": "shortly before the deal was formed,"
+ },
+ {
+  "start": 1193.2,
+  "duration": 3.88,
+  "text": "which Beijing did not like. In March,"
+ },
+ {
+  "start": 1195.8,
+  "duration": 2.8,
+  "text": "two Manifold co-founders attended"
+ },
+ {
+  "start": 1197.08,
+  "duration": 2.76,
+  "text": "questioning in China and were told that"
+ },
+ {
+  "start": 1198.6,
+  "duration": 2.52,
+  "text": "they would not be permitted to leave the"
+ },
+ {
+  "start": 1199.84,
+  "duration": 2.48,
+  "text": "country while the investigation was"
+ },
+ {
+  "start": 1201.12,
+  "duration": 2.28,
+  "text": "ongoing."
+ },
+ {
+  "start": 1202.32,
+  "duration": 2.72,
+  "text": "On Monday, Beijing brought the"
+ },
+ {
+  "start": 1203.4,
+  "duration": 3.96,
+  "text": "investigation to its conclusion and"
+ },
+ {
+  "start": 1205.04,
+  "duration": 3.76,
+  "text": "blocked Meta's acquisition of Manifold."
+ },
+ {
+  "start": 1207.36,
+  "duration": 3.36,
+  "text": "The Office of the Working Mechanism for"
+ },
+ {
+  "start": 1208.8,
+  "duration": 3.48,
+  "text": "Foreign Investment Security Review, an"
+ },
+ {
+  "start": 1210.72,
+  "duration": 3.0,
+  "text": "agency within the powerful National"
+ },
+ {
+  "start": 1212.28,
+  "duration": 3.36,
+  "text": "Development and Reform Commission, said"
+ },
+ {
+  "start": 1213.72,
+  "duration": 3.68,
+  "text": "in a statement, \"The office requires the"
+ },
+ {
+  "start": 1215.64,
+  "duration": 3.8,
+  "text": "parties involved to terminate and revoke"
+ },
+ {
+  "start": 1217.4,
+  "duration": 3.48,
+  "text": "the acquisition transaction.\""
+ },
+ {
+  "start": 1219.44,
+  "duration": 3.44,
+  "text": "The statement didn't give any specific"
+ },
+ {
+  "start": 1220.88,
+  "duration": 4.0,
+  "text": "reasons to unwind the deal, but cited"
+ },
+ {
+  "start": 1222.88,
+  "duration": 3.44,
+  "text": "national security grounds. Chinese"
+ },
+ {
+  "start": 1224.88,
+  "duration": 3.24,
+  "text": "officials told the Financial Times that"
+ },
+ {
+  "start": 1226.32,
+  "duration": 3.8,
+  "text": "the deal was viewed as a conspiratorial"
+ },
+ {
+  "start": 1228.12,
+  "duration": 3.56,
+  "text": "effort to drain China of AI talent and"
+ },
+ {
+  "start": 1230.12,
+  "duration": 3.2,
+  "text": "resources."
+ },
+ {
+  "start": 1231.68,
+  "duration": 3.88,
+  "text": "Now, Meta is yet to comment on the"
+ },
+ {
+  "start": 1233.32,
+  "duration": 3.48,
+  "text": "decision, but this could get messy very"
+ },
+ {
+  "start": 1235.56,
+  "duration": 3.12,
+  "text": "quickly."
+ },
+ {
+  "start": 1236.8,
+  "duration": 3.04,
+  "text": "As many commentators have pointed out, a"
+ },
+ {
+  "start": 1238.68,
+  "duration": 3.16,
+  "text": "lot of these checks have already been"
+ },
+ {
+  "start": 1239.84,
+  "duration": 3.52,
+  "text": "cashed. The Manifold team already has"
+ },
+ {
+  "start": 1241.84,
+  "duration": 2.68,
+  "text": "Meta IDs."
+ },
+ {
+  "start": 1243.36,
+  "duration": 3.0,
+  "text": "How this all plays out in practice"
+ },
+ {
+  "start": 1244.52,
+  "duration": 3.44,
+  "text": "remains to be seen, but you take all"
+ },
+ {
+  "start": 1246.36,
+  "duration": 3.8,
+  "text": "these things together and we are clearly"
+ },
+ {
+  "start": 1247.96,
+  "duration": 3.72,
+  "text": "entering a new phase of the China-US AI"
+ },
+ {
+  "start": 1250.16,
+  "duration": 3.2,
+  "text": "competition."
+ },
+ {
+  "start": 1251.68,
+  "duration": 2.96,
+  "text": "I will certainly be watching to see if"
+ },
+ {
+  "start": 1253.36,
+  "duration": 2.88,
+  "text": "and what the [music] Secretary of Energy"
+ },
+ {
+  "start": 1254.64,
+  "duration": 3.2,
+  "text": "actually does with this new power"
+ },
+ {
+  "start": 1256.24,
+  "duration": 2.52,
+  "text": "granted by the White House."
+ },
+ {
+  "start": 1257.84,
+  "duration": 2.68,
+  "text": "For now, though, that's going to do it"
+ },
+ {
+  "start": 1258.76,
+  "duration": 3.2,
+  "text": "for today's AI Daily Brief. Appreciate"
+ },
+ {
+  "start": 1260.52,
+  "duration": 5.12,
+  "text": "you listening or watching, as always,"
+ },
+ {
+  "start": 1261.96,
+  "duration": 3.68,
+  "text": "and until next time, peace."
+ },
+ {
+  "start": 1278.36,
+  "duration": 2.04,
+  "text": ">> Mhm."
+ }
+]

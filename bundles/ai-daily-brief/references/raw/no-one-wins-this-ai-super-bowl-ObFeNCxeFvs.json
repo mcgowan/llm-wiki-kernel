@@ -1,0 +1,897 @@
+[
+ {
+  "start": 0.56,
+  "duration": 3.64,
+  "text": "Today we're talking about why no one"
+ },
+ {
+  "start": 2.12,
+  "duration": 4.8,
+  "text": "wins and everyone loses thanks to these"
+ },
+ {
+  "start": 4.2,
+  "duration": 3.84,
+  "text": "AI Super Bowl ads."
+ },
+ {
+  "start": 6.92,
+  "duration": 2.92,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 8.04,
+  "duration": 3.92,
+  "text": "Headlines edition. All the daily AI news"
+ },
+ {
+  "start": 9.84,
+  "duration": 4.24,
+  "text": "you need in around 5 minutes."
+ },
+ {
+  "start": 11.96,
+  "duration": 4.04,
+  "text": "Trigger warning. If you work at either"
+ },
+ {
+  "start": 14.08,
+  "duration": 3.16,
+  "text": "Anthropic or OpenAI, you are probably"
+ },
+ {
+  "start": 16.0,
+  "duration": 3.72,
+  "text": "not going to like the beginning of this"
+ },
+ {
+  "start": 17.24,
+  "duration": 4.4,
+  "text": "episode. Yesterday, Anthropic absolutely"
+ },
+ {
+  "start": 19.72,
+  "duration": 3.32,
+  "text": "took over the AI conversation when they"
+ },
+ {
+  "start": 21.64,
+  "duration": 3.36,
+  "text": "dropped their first ever set of Super"
+ },
+ {
+  "start": 23.04,
+  "duration": 3.76,
+  "text": "Bowl commercials. The commercials do not"
+ },
+ {
+  "start": 25.0,
+  "duration": 3.68,
+  "text": "talk about the basically magic wand we"
+ },
+ {
+  "start": 26.8,
+  "duration": 3.32,
+  "text": "now have in our pockets. They don't talk"
+ },
+ {
+  "start": 28.68,
+  "duration": 3.2,
+  "text": "about all the things you can do. They"
+ },
+ {
+  "start": 30.12,
+  "duration": 3.48,
+  "text": "don't talk about all the value that AI"
+ },
+ {
+  "start": 31.88,
+  "duration": 3.48,
+  "text": "could be bringing to people's lives."
+ },
+ {
+  "start": 33.6,
+  "duration": 4.24,
+  "text": "Instead, all four commercials in the"
+ },
+ {
+  "start": 35.36,
+  "duration": 5.12,
+  "text": "campaign are focused entirely on"
+ },
+ {
+  "start": 37.84,
+  "duration": 4.48,
+  "text": "OpenAI's planned forthcoming ads. In one"
+ },
+ {
+  "start": 40.48,
+  "duration": 4.04,
+  "text": "version, a user asks how to get along"
+ },
+ {
+  "start": 42.32,
+  "duration": 4.04,
+  "text": "better with his mom. The AI, portrayed"
+ },
+ {
+  "start": 44.52,
+  "duration": 3.88,
+  "text": "as a middle-aged female counselor,"
+ },
+ {
+  "start": 46.36,
+  "duration": 4.28,
+  "text": "delivers some generic advice. Then the"
+ },
+ {
+  "start": 48.4,
+  "duration": 4.04,
+  "text": "AI pivots hard into an ad for a mature"
+ },
+ {
+  "start": 50.64,
+  "duration": 3.32,
+  "text": "dating site. Another version of the ad"
+ },
+ {
+  "start": 52.44,
+  "duration": 3.56,
+  "text": "opens on a scrawny teenager struggling"
+ },
+ {
+  "start": 53.96,
+  "duration": 3.2,
+  "text": "to do pull-ups in the park, copying one"
+ },
+ {
+  "start": 56.0,
+  "duration": 3.0,
+  "text": "of the shots from last year's Sora"
+ },
+ {
+  "start": 57.16,
+  "duration": 3.76,
+  "text": "commercials. In this one, the AI is"
+ },
+ {
+  "start": 59.0,
+  "duration": 3.2,
+  "text": "depicted as a muscle-bound dude. It"
+ },
+ {
+  "start": 60.92,
+  "duration": 2.68,
+  "text": "tells the teenager that it's achievable"
+ },
+ {
+  "start": 62.2,
+  "duration": 3.64,
+  "text": "to get a six-pack quickly and offers to"
+ },
+ {
+  "start": 63.6,
+  "duration": 3.56,
+  "text": "build a workout plan. Once the AI learns"
+ },
+ {
+  "start": 65.84,
+  "duration": 3.12,
+  "text": "of the user's diminutive height,"
+ },
+ {
+  "start": 67.16,
+  "duration": 3.76,
+  "text": "however, it offers a sale on a pair of"
+ },
+ {
+  "start": 68.96,
+  "duration": 3.8,
+  "text": "insoles that, quote, make short kings"
+ },
+ {
+  "start": 70.92,
+  "duration": 3.08,
+  "text": "stand tall. The ads each feature an"
+ },
+ {
+  "start": 72.76,
+  "duration": 3.2,
+  "text": "opening title splashed across the"
+ },
+ {
+  "start": 74.0,
+  "duration": 4.2,
+  "text": "entirety of the screen: betrayal,"
+ },
+ {
+  "start": 75.96,
+  "duration": 4.12,
+  "text": "violation, treachery, deception. They"
+ },
+ {
+  "start": 78.2,
+  "duration": 4.68,
+  "text": "all close on the tagline, \"Ads are"
+ },
+ {
+  "start": 80.08,
+  "duration": 4.32,
+  "text": "coming, but not to Claude.\" So, OpenAI"
+ },
+ {
+  "start": 82.88,
+  "duration": 2.52,
+  "text": "shrugged it off laughing, saying, \"Hey,"
+ },
+ {
+  "start": 84.4,
+  "duration": 3.24,
+  "text": "those were funny, but we're going to do"
+ },
+ {
+  "start": 85.4,
+  "duration": 3.76,
+  "text": "what we're going to do, right?\" Or they"
+ },
+ {
+  "start": 87.64,
+  "duration": 3.28,
+  "text": "employed their god-given right to say"
+ },
+ {
+  "start": 89.16,
+  "duration": 4.28,
+  "text": "nothing and to not have to comment on"
+ },
+ {
+  "start": 90.92,
+  "duration": 5.12,
+  "text": "every single thing that happens, right?"
+ },
+ {
+  "start": 93.44,
+  "duration": 5.0,
+  "text": "No, they did not. Instead, they decided"
+ },
+ {
+  "start": 96.04,
+  "duration": 5.04,
+  "text": "to bite back and bite back hard. CMO"
+ },
+ {
+  "start": 98.44,
+  "duration": 4.52,
+  "text": "Kate Rouch writes, \"Those ads are funny."
+ },
+ {
+  "start": 101.08,
+  "duration": 3.2,
+  "text": "Here's what's not funny. Calling ads a"
+ },
+ {
+  "start": 102.96,
+  "duration": 3.28,
+  "text": "betrayal when your business model is"
+ },
+ {
+  "start": 104.28,
+  "duration": 4.04,
+  "text": "selling paid subscriptions to companies."
+ },
+ {
+  "start": 106.24,
+  "duration": 4.56,
+  "text": "ChatGPT has more free users in Texas"
+ },
+ {
+  "start": 108.32,
+  "duration": 4.64,
+  "text": "than Claude has globally. Real betrayal"
+ },
+ {
+  "start": 110.8,
+  "duration": 3.48,
+  "text": "isn't ads, it's control. Anthropic"
+ },
+ {
+  "start": 112.96,
+  "duration": 2.6,
+  "text": "thinks powerful AI should be tightly"
+ },
+ {
+  "start": 114.28,
+  "duration": 3.08,
+  "text": "controlled in small rooms in San"
+ },
+ {
+  "start": 115.56,
+  "duration": 3.6,
+  "text": "Francisco and Davos, that it's too"
+ },
+ {
+  "start": 117.36,
+  "duration": 2.88,
+  "text": "dangerous for you, that the future"
+ },
+ {
+  "start": 119.16,
+  "duration": 3.28,
+  "text": "should be built somewhere else by"
+ },
+ {
+  "start": 120.24,
+  "duration": 4.48,
+  "text": "someone who is smarter. We don't believe"
+ },
+ {
+  "start": 122.44,
+  "duration": 4.36,
+  "text": "that. Sam Altman wrote more than 400"
+ },
+ {
+  "start": 124.72,
+  "duration": 3.399,
+  "text": "words in response on Twitter saying, \"I"
+ },
+ {
+  "start": 126.8,
+  "duration": 3.44,
+  "text": "wonder why Anthropic would go for"
+ },
+ {
+  "start": 128.119,
+  "duration": 3.721,
+  "text": "something so clearly dishonest. I guess"
+ },
+ {
+  "start": 130.24,
+  "duration": 3.04,
+  "text": "it's on brand for Anthropic double speak"
+ },
+ {
+  "start": 131.84,
+  "duration": 2.8,
+  "text": "to use a deceptive ad to critique"
+ },
+ {
+  "start": 133.28,
+  "duration": 3.04,
+  "text": "theoretically deceptive ads that aren't"
+ },
+ {
+  "start": 134.64,
+  "duration": 3.36,
+  "text": "real.\" He also dropped the same line"
+ },
+ {
+  "start": 136.32,
+  "duration": 3.48,
+  "text": "around more people in Texas using free"
+ },
+ {
+  "start": 138.0,
+  "duration": 3.72,
+  "text": "ChatGPT than total people using Claude"
+ },
+ {
+  "start": 139.8,
+  "duration": 4.32,
+  "text": "in the US. He even went so far as to"
+ },
+ {
+  "start": 141.72,
+  "duration": 4.12,
+  "text": "call Anthropic an authoritarian company."
+ },
+ {
+  "start": 144.12,
+  "duration": 3.48,
+  "text": "Now, it does sound like OpenAI will also"
+ },
+ {
+  "start": 145.84,
+  "duration": 3.52,
+  "text": "have a Super Bowl ad. So, we'll see how"
+ },
+ {
+  "start": 147.6,
+  "duration": 3.64,
+  "text": "that goes. But, a couple quick thoughts"
+ },
+ {
+  "start": 149.36,
+  "duration": 3.84,
+  "text": "about all of this. So, first of all,"
+ },
+ {
+  "start": 151.24,
+  "duration": 4.68,
+  "text": "let's talk about the response. The short"
+ },
+ {
+  "start": 153.2,
+  "duration": 5.04,
+  "text": "of it is, this isn't how a market leader"
+ },
+ {
+  "start": 155.92,
+  "duration": 4.36,
+  "text": "responds. There's a famous line in Mad"
+ },
+ {
+  "start": 158.24,
+  "duration": 4.56,
+  "text": "Men where one of Don Draper's employees"
+ },
+ {
+  "start": 160.28,
+  "duration": 4.32,
+  "text": "says, \"I feel bad for you.\" Draper looks"
+ },
+ {
+  "start": 162.8,
+  "duration": 3.2,
+  "text": "at him deadpan and says, \"I don't think"
+ },
+ {
+  "start": 164.6,
+  "duration": 3.359,
+  "text": "about you at all.\""
+ },
+ {
+  "start": 166.0,
+  "duration": 3.8,
+  "text": "That's the energy when you're the market"
+ },
+ {
+  "start": 167.959,
+  "duration": 2.841,
+  "text": "leader. Or you make it playful when"
+ },
+ {
+  "start": 169.8,
+  "duration": 3.08,
+  "text": "they're clearly trying to make it"
+ },
+ {
+  "start": 170.8,
+  "duration": 4.04,
+  "text": "serious. What you don't do, I don't"
+ },
+ {
+  "start": 172.88,
+  "duration": 4.16,
+  "text": "think, is ratchet it up to claims of"
+ },
+ {
+  "start": 174.84,
+  "duration": 4.16,
+  "text": "authoritarianism. Or at least you don't"
+ },
+ {
+  "start": 177.04,
+  "duration": 3.72,
+  "text": "before you take a night to sleep on it."
+ },
+ {
+  "start": 179.0,
+  "duration": 4.4,
+  "text": "But, to be honest, in this particular"
+ },
+ {
+  "start": 180.76,
+  "duration": 4.96,
+  "text": "case, I got more beef with Anthropic."
+ },
+ {
+  "start": 183.4,
+  "duration": 5.52,
+  "text": "This move is so out of character for"
+ },
+ {
+  "start": 185.72,
+  "duration": 4.6,
+  "text": "them and so wrong-headed in so many ways"
+ },
+ {
+  "start": 188.92,
+  "duration": 3.28,
+  "text": "that I'm actually trying to rack my"
+ },
+ {
+  "start": 190.32,
+  "duration": 3.48,
+  "text": "brain to figure out if there's something"
+ },
+ {
+  "start": 192.2,
+  "duration": 4.0,
+  "text": "that I'm missing. First of all, what I"
+ },
+ {
+  "start": 193.8,
+  "duration": 4.08,
+  "text": "will say is, the ad is funny. And I"
+ },
+ {
+  "start": 196.2,
+  "duration": 3.6,
+  "text": "actually think that if you look back at"
+ },
+ {
+  "start": 197.88,
+  "duration": 3.44,
+  "text": "the history of Super Bowl ads, and I've"
+ },
+ {
+  "start": 199.8,
+  "duration": 3.76,
+  "text": "actually done this numbers crunching"
+ },
+ {
+  "start": 201.32,
+  "duration": 4.08,
+  "text": "before cuz I made one a few years back,"
+ },
+ {
+  "start": 203.56,
+  "duration": 4.2,
+  "text": "something like 90% of the top rated ads"
+ },
+ {
+  "start": 205.4,
+  "duration": 3.839,
+  "text": "every year are humor. They're not"
+ },
+ {
+  "start": 207.76,
+  "duration": 4.08,
+  "text": "serious, they're not uplifting, they're"
+ },
+ {
+  "start": 209.239,
+  "duration": 4.72,
+  "text": "not tear jerkers. There are very, very"
+ },
+ {
+  "start": 211.84,
+  "duration": 3.84,
+  "text": "few companies who can pull off that sort"
+ },
+ {
+  "start": 213.959,
+  "duration": 3.641,
+  "text": "of highfalutin ad in the Super Bowl"
+ },
+ {
+  "start": 215.68,
+  "duration": 3.24,
+  "text": "setting. It's the one time a year that"
+ },
+ {
+  "start": 217.6,
+  "duration": 3.44,
+  "text": "people actually want to be advertised"
+ },
+ {
+  "start": 218.92,
+  "duration": 3.48,
+  "text": "to, but they want to be entertained. So,"
+ },
+ {
+  "start": 221.04,
+  "duration": 3.44,
+  "text": "I am sympathetic to wanting to do a"
+ },
+ {
+  "start": 222.4,
+  "duration": 3.24,
+  "text": "funny ad. Here's where things go off the"
+ },
+ {
+  "start": 224.48,
+  "duration": 3.56,
+  "text": "rails, though."
+ },
+ {
+  "start": 225.64,
+  "duration": 4.4,
+  "text": "I don't think anyone's going to really"
+ },
+ {
+  "start": 228.04,
+  "duration": 4.16,
+  "text": "get the context."
+ },
+ {
+  "start": 230.04,
+  "duration": 3.4,
+  "text": "Expecting that users know that OpenAI"
+ },
+ {
+  "start": 232.2,
+  "duration": 4.52,
+  "text": "has said that they're going to do ads in"
+ },
+ {
+  "start": 233.44,
+  "duration": 4.88,
+  "text": "ChatGPT is just not realistic. It would"
+ },
+ {
+  "start": 236.72,
+  "duration": 3.64,
+  "text": "be one thing if ads had already"
+ },
+ {
+  "start": 238.32,
+  "duration": 4.28,
+  "text": "premiered in ChatGPT and everyone was"
+ },
+ {
+  "start": 240.36,
+  "duration": 4.36,
+  "text": "complaining about them, but the entire"
+ },
+ {
+  "start": 242.6,
+  "duration": 3.6,
+  "text": "basis for Anthropic's campaign is a"
+ },
+ {
+  "start": 244.72,
+  "duration": 3.04,
+  "text": "critique of something that doesn't exist"
+ },
+ {
+  "start": 246.2,
+  "duration": 3.12,
+  "text": "yet. It's a pain that people aren't"
+ },
+ {
+  "start": 247.76,
+  "duration": 3.84,
+  "text": "feeling yet. I think that's going to"
+ },
+ {
+  "start": 249.32,
+  "duration": 3.92,
+  "text": "significantly diminish the impact."
+ },
+ {
+  "start": 251.6,
+  "duration": 3.28,
+  "text": "Second, and this is where I start to"
+ },
+ {
+  "start": 253.24,
+  "duration": 4.48,
+  "text": "move from having critique of strategy to"
+ },
+ {
+  "start": 254.88,
+  "duration": 4.639,
+  "text": "being actively annoyed, my strong guess"
+ },
+ {
+  "start": 257.72,
+  "duration": 4.12,
+  "text": "is that a pretty big chunk of people who"
+ },
+ {
+  "start": 259.519,
+  "duration": 4.441,
+  "text": "like these ads are going to like it"
+ },
+ {
+  "start": 261.84,
+  "duration": 3.56,
+  "text": "because it confirms their suspicion that"
+ },
+ {
+  "start": 263.96,
+  "duration": 2.8,
+  "text": "AI is just the latest way that tech"
+ },
+ {
+  "start": 265.4,
+  "duration": 3.08,
+  "text": "billionaires have come up with to"
+ },
+ {
+  "start": 266.76,
+  "duration": 4.04,
+  "text": "control your life and take your money. I"
+ },
+ {
+  "start": 268.48,
+  "duration": 4.8,
+  "text": "think that Anthropic is with this ad not"
+ },
+ {
+  "start": 270.8,
+  "duration": 4.08,
+  "text": "primarily taking down a competitor, but"
+ },
+ {
+  "start": 273.28,
+  "duration": 3.639,
+  "text": "feeding into a critique of the industry"
+ },
+ {
+  "start": 274.88,
+  "duration": 4.48,
+  "text": "as a whole. I think that these ads make"
+ },
+ {
+  "start": 276.919,
+  "duration": 4.441,
+  "text": "things worse, not better, in a US that"
+ },
+ {
+  "start": 279.36,
+  "duration": 4.559,
+  "text": "is already more skeptical than basically"
+ },
+ {
+  "start": 281.36,
+  "duration": 4.24,
+  "text": "any other country in the world of AI."
+ },
+ {
+  "start": 283.919,
+  "duration": 3.481,
+  "text": "Now, as I've said before, people are"
+ },
+ {
+  "start": 285.6,
+  "duration": 3.2,
+  "text": "allowed to be skeptical of AI and the"
+ },
+ {
+  "start": 287.4,
+  "duration": 3.32,
+  "text": "technology industry has made the bed"
+ },
+ {
+  "start": 288.8,
+  "duration": 4.08,
+  "text": "that we now all lie in. But there is a"
+ },
+ {
+  "start": 290.72,
+  "duration": 4.24,
+  "text": "tidal wave coming to shore and the net"
+ },
+ {
+  "start": 292.88,
+  "duration": 3.68,
+  "text": "impact of people being annoyed at AI as"
+ },
+ {
+  "start": 294.96,
+  "duration": 2.959,
+  "text": "just another tech thing is that they're"
+ },
+ {
+  "start": 296.56,
+  "duration": 3.2,
+  "text": "not paying attention to it and they're"
+ },
+ {
+  "start": 297.919,
+  "duration": 3.241,
+  "text": "not being prepared for it. And I think"
+ },
+ {
+  "start": 299.76,
+  "duration": 4.04,
+  "text": "in that we are doing them a massive"
+ },
+ {
+  "start": 301.16,
+  "duration": 4.32,
+  "text": "disservice. Finally, this is just the"
+ },
+ {
+  "start": 303.8,
+  "duration": 4.28,
+  "text": "opposite of the brand vibe that"
+ },
+ {
+  "start": 305.48,
+  "duration": 5.48,
+  "text": "Anthropic has spent 3 years building."
+ },
+ {
+  "start": 308.08,
+  "duration": 4.839,
+  "text": "It's petty, small, doesn't tell any of"
+ },
+ {
+  "start": 310.96,
+  "duration": 4.44,
+  "text": "the stories that had made Claude such an"
+ },
+ {
+  "start": 312.919,
+  "duration": 4.761,
+  "text": "insurgency recently, and ultimately, I"
+ },
+ {
+  "start": 315.4,
+  "duration": 3.72,
+  "text": "just kind of think it's sad. It's not"
+ },
+ {
+  "start": 317.68,
+  "duration": 3.56,
+  "text": "going to stop me from using Claude code"
+ },
+ {
+  "start": 319.12,
+  "duration": 4.04,
+  "text": "for 24 hours a day, but I think when you"
+ },
+ {
+  "start": 321.24,
+  "duration": 3.84,
+  "text": "take all this together, it is a big L"
+ },
+ {
+  "start": 323.16,
+  "duration": 3.96,
+  "text": "for the entire industry."
+ },
+ {
+  "start": 325.08,
+  "duration": 3.24,
+  "text": "Now, the funny thing is, for as much as"
+ },
+ {
+  "start": 327.12,
+  "duration": 2.96,
+  "text": "we're talking about these Anthropic"
+ },
+ {
+  "start": 328.32,
+  "duration": 3.44,
+  "text": "Super Bowl ads, they actually weren't"
+ },
+ {
+  "start": 330.08,
+  "duration": 3.12,
+  "text": "the biggest impact Anthropic had on the"
+ },
+ {
+  "start": 331.76,
+  "duration": 3.52,
+  "text": "world this week."
+ },
+ {
+  "start": 333.2,
+  "duration": 4.24,
+  "text": "That came when a Claude code plugin"
+ },
+ {
+  "start": 335.28,
+  "duration": 3.72,
+  "text": "wiped billions of dollars off of the"
+ },
+ {
+  "start": 337.44,
+  "duration": 3.08,
+  "text": "global markets."
+ },
+ {
+  "start": 339.0,
+  "duration": 5.64,
+  "text": "So from there, we will end our headlines"
+ },
+ {
+  "start": 340.52,
+  "duration": 4.12,
+  "text": "and move on over into the main episode."
+ }
+]

@@ -1,0 +1,1847 @@
+[
+ {
+  "start": 0.52,
+  "duration": 3.52,
+  "text": "Today, we're doing a whistle-stop tour"
+ },
+ {
+  "start": 2.24,
+  "duration": 3.96,
+  "text": "of Google's recent announcements,"
+ },
+ {
+  "start": 4.04,
+  "duration": 4.88,
+  "text": "including a big look at why their"
+ },
+ {
+  "start": 6.2,
+  "duration": 4.8,
+  "text": "workspace CLI is such a big deal to so"
+ },
+ {
+  "start": 8.92,
+  "duration": 4.2,
+  "text": "many builders."
+ },
+ {
+  "start": 11.0,
+  "duration": 5.76,
+  "text": "Welcome back to the AI Daily Brief. In"
+ },
+ {
+  "start": 13.12,
+  "duration": 5.52,
+  "text": "all of the conversation around Anthropic"
+ },
+ {
+  "start": 16.76,
+  "duration": 3.24,
+  "text": "and their fight with the Pentagon, as"
+ },
+ {
+  "start": 18.64,
+  "duration": 2.52,
+  "text": "well as their insurgent growth in"
+ },
+ {
+  "start": 20.0,
+  "duration": 3.32,
+  "text": "revenue and what it means for their"
+ },
+ {
+  "start": 21.16,
+  "duration": 4.04,
+  "text": "competition with OpenAI, as well as just"
+ },
+ {
+  "start": 23.32,
+  "duration": 4.28,
+  "text": "the broader AI coding conversation"
+ },
+ {
+  "start": 25.2,
+  "duration": 4.48,
+  "text": "between Codex and Claude Code, Google"
+ },
+ {
+  "start": 27.6,
+  "duration": 3.8,
+  "text": "and Gemini, which had such powerful"
+ },
+ {
+  "start": 29.68,
+  "duration": 3.64,
+  "text": "tailwinds coming into the beginning of"
+ },
+ {
+  "start": 31.4,
+  "duration": 3.72,
+  "text": "this year, has had relatively less"
+ },
+ {
+  "start": 33.32,
+  "duration": 3.64,
+  "text": "narrative space that I think many of us"
+ },
+ {
+  "start": 35.12,
+  "duration": 4.64,
+  "text": "might have imagined would be the case."
+ },
+ {
+  "start": 36.96,
+  "duration": 4.52,
+  "text": "And yet, the company has been absolutely"
+ },
+ {
+  "start": 39.76,
+  "duration": 2.96,
+  "text": "furiously shipping."
+ },
+ {
+  "start": 41.48,
+  "duration": 3.56,
+  "text": "This year, for example, we have, of"
+ },
+ {
+  "start": 42.72,
+  "duration": 5.36,
+  "text": "course, gotten new models. We got Gemini"
+ },
+ {
+  "start": 45.04,
+  "duration": 5.96,
+  "text": "3.1 Pro, as well as Gemini 3.1 Deep"
+ },
+ {
+  "start": 48.08,
+  "duration": 4.48,
+  "text": "Think, and Gemini 3.1 Flash. We also got"
+ },
+ {
+  "start": 51.0,
+  "duration": 3.16,
+  "text": "Nano Banana 2."
+ },
+ {
+  "start": 52.56,
+  "duration": 3.84,
+  "text": "Nano Banana 2, you might remember, came"
+ },
+ {
+  "start": 54.16,
+  "duration": 4.04,
+  "text": "with both better infographic reasoning"
+ },
+ {
+  "start": 56.4,
+  "duration": 4.44,
+  "text": "and text rendering capabilities, but"
+ },
+ {
+  "start": 58.2,
+  "duration": 4.04,
+  "text": "also just a big upgrade in speed. And"
+ },
+ {
+  "start": 60.84,
+  "duration": 3.52,
+  "text": "then there was maybe my favorite thing"
+ },
+ {
+  "start": 62.24,
+  "duration": 4.16,
+  "text": "just from a sheer the future is so cool"
+ },
+ {
+  "start": 64.36,
+  "duration": 4.88,
+  "text": "perspective, which was a testable"
+ },
+ {
+  "start": 66.4,
+  "duration": 4.44,
+  "text": "version of Genie 3. Genie is Google's"
+ },
+ {
+  "start": 69.24,
+  "duration": 3.72,
+  "text": "world model, and while we had seen some"
+ },
+ {
+  "start": 70.84,
+  "duration": 3.64,
+  "text": "very impressive demos of it before, we"
+ },
+ {
+  "start": 72.96,
+  "duration": 3.52,
+  "text": "hadn't actually had a chance to try it"
+ },
+ {
+  "start": 74.48,
+  "duration": 3.68,
+  "text": "out. But now, in just about a minute of"
+ },
+ {
+  "start": 76.48,
+  "duration": 3.48,
+  "text": "waiting, I can be walking through a"
+ },
+ {
+  "start": 78.16,
+  "duration": 3.08,
+  "text": "pirate colony during the Golden Age of"
+ },
+ {
+  "start": 79.96,
+  "duration": 3.4,
+  "text": "Piracy."
+ },
+ {
+  "start": 81.24,
+  "duration": 4.48,
+  "text": "It's only for 60 seconds, but it's still"
+ },
+ {
+  "start": 83.36,
+  "duration": 4.04,
+  "text": "a really fun and cool way to get a sense"
+ },
+ {
+  "start": 85.72,
+  "duration": 3.32,
+  "text": "of what might be coming. You might"
+ },
+ {
+  "start": 87.4,
+  "duration": 3.12,
+  "text": "remember that when this was released,"
+ },
+ {
+  "start": 89.04,
+  "duration": 3.44,
+  "text": "the very beginning signs of the SaaS"
+ },
+ {
+  "start": 90.52,
+  "duration": 4.44,
+  "text": "apocalypse on Wall Street as investors"
+ },
+ {
+  "start": 92.48,
+  "duration": 3.8,
+  "text": "started to tank gaming company stocks."
+ },
+ {
+  "start": 94.96,
+  "duration": 3.68,
+  "text": "Across all of these different"
+ },
+ {
+  "start": 96.28,
+  "duration": 4.28,
+  "text": "announcements, I think Google's strategy"
+ },
+ {
+  "start": 98.64,
+  "duration": 4.96,
+  "text": "for AI competition starts to become"
+ },
+ {
+  "start": 100.56,
+  "duration": 5.4,
+  "text": "visible. One aspect of it is absolutely"
+ },
+ {
+  "start": 103.6,
+  "duration": 4.76,
+  "text": "multimodality. Google is competing on"
+ },
+ {
+  "start": 105.96,
+  "duration": 4.68,
+  "text": "not only text, but images, videos, and"
+ },
+ {
+  "start": 108.36,
+  "duration": 4.16,
+  "text": "even world models. Additionally, they're"
+ },
+ {
+  "start": 110.64,
+  "duration": 4.12,
+  "text": "pushing for some very advanced and"
+ },
+ {
+  "start": 112.52,
+  "duration": 4.24,
+  "text": "scientific use cases, which are more"
+ },
+ {
+  "start": 114.76,
+  "duration": 4.0,
+  "text": "outside the consumer or even business"
+ },
+ {
+  "start": 116.76,
+  "duration": 4.28,
+  "text": "work context mainstream."
+ },
+ {
+  "start": 118.76,
+  "duration": 4.04,
+  "text": "Another pillar of the strategy, I think,"
+ },
+ {
+  "start": 121.04,
+  "duration": 4.0,
+  "text": "is also deep integration with the"
+ },
+ {
+  "start": 122.8,
+  "duration": 3.32,
+  "text": "context they already have about you. And"
+ },
+ {
+  "start": 125.04,
+  "duration": 2.32,
+  "text": "that's where a bunch of the recent"
+ },
+ {
+  "start": 126.12,
+  "duration": 2.88,
+  "text": "announcements that we're going to cover"
+ },
+ {
+  "start": 127.36,
+  "duration": 3.08,
+  "text": "today come in."
+ },
+ {
+  "start": 129.0,
+  "duration": 3.72,
+  "text": "Despite how powerful some of these new"
+ },
+ {
+  "start": 130.44,
+  "duration": 4.2,
+  "text": "models are and how cool the Genie 3 demo"
+ },
+ {
+  "start": 132.72,
+  "duration": 3.72,
+  "text": "is, the release that I have seen get by"
+ },
+ {
+  "start": 134.64,
+  "duration": 3.96,
+  "text": "far the most chatter is the Google"
+ },
+ {
+  "start": 136.44,
+  "duration": 4.12,
+  "text": "Workspace CLI. And this, of course,"
+ },
+ {
+  "start": 138.6,
+  "duration": 4.2,
+  "text": "speaks to just how important the coding"
+ },
+ {
+  "start": 140.56,
+  "duration": 3.92,
+  "text": "use case is right now in driving the AI"
+ },
+ {
+  "start": 142.8,
+  "duration": 3.88,
+  "text": "industry forward. For those of you"
+ },
+ {
+  "start": 144.48,
+  "duration": 4.36,
+  "text": "unfamiliar, CLI stands for command line"
+ },
+ {
+  "start": 146.68,
+  "duration": 3.44,
+  "text": "interface. It's basically a text-based"
+ },
+ {
+  "start": 148.84,
+  "duration": 3.96,
+  "text": "way to talk to a program through your"
+ },
+ {
+  "start": 150.12,
+  "duration": 4.08,
+  "text": "terminal. CLIs have been around forever"
+ },
+ {
+  "start": 152.8,
+  "duration": 3.159,
+  "text": "and are the backbone of how developers"
+ },
+ {
+  "start": 154.2,
+  "duration": 3.52,
+  "text": "interact with tools. If you want to use"
+ },
+ {
+  "start": 155.959,
+  "duration": 3.721,
+  "text": "Stripe or AWS or almost any other"
+ },
+ {
+  "start": 157.72,
+  "duration": 3.48,
+  "text": "developer tool, there's a CLI for it."
+ },
+ {
+  "start": 159.68,
+  "duration": 3.56,
+  "text": "You type something like Stripe create"
+ },
+ {
+  "start": 161.2,
+  "duration": 4.16,
+  "text": "payment in terminal and it just works."
+ },
+ {
+  "start": 163.24,
+  "duration": 3.76,
+  "text": "CLIs recently have become even more"
+ },
+ {
+  "start": 165.36,
+  "duration": 3.76,
+  "text": "important as the better portion of"
+ },
+ {
+  "start": 167.0,
+  "duration": 3.44,
+  "text": "agentic coding has been happening inside"
+ },
+ {
+  "start": 169.12,
+  "duration": 3.12,
+  "text": "the terminal through harnesses like"
+ },
+ {
+  "start": 170.44,
+  "duration": 3.16,
+  "text": "Claude Code and Codex. You're not"
+ },
+ {
+  "start": 172.24,
+  "duration": 2.84,
+  "text": "clicking around in some GUI, you're"
+ },
+ {
+  "start": 173.6,
+  "duration": 4.0,
+  "text": "sitting in the command line talking to"
+ },
+ {
+  "start": 175.08,
+  "duration": 4.08,
+  "text": "an AI that can execute commands. So, if"
+ },
+ {
+  "start": 177.6,
+  "duration": 3.2,
+  "text": "you are an agent builder and you want to"
+ },
+ {
+  "start": 179.16,
+  "duration": 3.48,
+  "text": "integrate a new vendor, the path of"
+ },
+ {
+  "start": 180.8,
+  "duration": 3.88,
+  "text": "least resistance is that the vendor has"
+ },
+ {
+  "start": 182.64,
+  "duration": 3.24,
+  "text": "a CLI and your coding agent already"
+ },
+ {
+  "start": 184.68,
+  "duration": 3.32,
+  "text": "being in the terminal can just run the"
+ },
+ {
+  "start": 185.88,
+  "duration": 4.079,
+  "text": "commands. No new protocol to learn, no"
+ },
+ {
+  "start": 188.0,
+  "duration": 3.36,
+  "text": "new integration layer to build."
+ },
+ {
+  "start": 189.959,
+  "duration": 3.721,
+  "text": "Now, Google, of course, has a lot of"
+ },
+ {
+  "start": 191.36,
+  "duration": 4.879,
+  "text": "tools and spaces that agents might want"
+ },
+ {
+  "start": 193.68,
+  "duration": 4.559,
+  "text": "access to. Drive, Gmail, Calendar,"
+ },
+ {
+  "start": 196.239,
+  "duration": 3.881,
+  "text": "Sheets, Docs, etc. And up until"
+ },
+ {
+  "start": 198.239,
+  "duration": 4.0,
+  "text": "recently, a lot of folks were defaulting"
+ },
+ {
+  "start": 200.12,
+  "duration": 3.8,
+  "text": "to use something called gcloud CLI that"
+ },
+ {
+  "start": 202.239,
+  "duration": 3.681,
+  "text": "was built by Peter Steinberger, the same"
+ },
+ {
+  "start": 203.92,
+  "duration": 4.24,
+  "text": "guy who built OpenClaw. It was a very"
+ },
+ {
+  "start": 205.92,
+  "duration": 3.8,
+  "text": "big deal then when last week Google"
+ },
+ {
+  "start": 208.16,
+  "duration": 3.92,
+  "text": "dropped the official Google Workspace"
+ },
+ {
+  "start": 209.72,
+  "duration": 4.519,
+  "text": "CLI. Mickey on Twitter points out the"
+ },
+ {
+  "start": 212.08,
+  "duration": 3.96,
+  "text": "enthusiasm, \"Your OpenClaw, Claude"
+ },
+ {
+  "start": 214.239,
+  "duration": 4.081,
+  "text": "Co-work, and Perplexity computer agents"
+ },
+ {
+  "start": 216.04,
+  "duration": 3.68,
+  "text": "just got a bit more useful.\""
+ },
+ {
+  "start": 218.32,
+  "duration": 3.639,
+  "text": "Kanika explained the value in simple"
+ },
+ {
+  "start": 219.72,
+  "duration": 3.64,
+  "text": "terms, \"Agents can instantly read and"
+ },
+ {
+  "start": 221.959,
+  "duration": 2.56,
+  "text": "summarize emails, draft and send"
+ },
+ {
+  "start": 223.36,
+  "duration": 2.92,
+  "text": "replies, schedule meetings"
+ },
+ {
+  "start": 224.519,
+  "duration": 3.481,
+  "text": "automatically, search Drive for files,"
+ },
+ {
+  "start": 226.28,
+  "duration": 3.8,
+  "text": "create sheets from raw data, generate"
+ },
+ {
+  "start": 228.0,
+  "duration": 4.16,
+  "text": "docs and reports, organize Drive files,"
+ },
+ {
+  "start": 230.08,
+  "duration": 4.0,
+  "text": "all from one agent workflow.\" Matt"
+ },
+ {
+  "start": 232.16,
+  "duration": 4.0,
+  "text": "Silverlock noted the surprise of the old"
+ },
+ {
+  "start": 234.08,
+  "duration": 4.72,
+  "text": "is new again feel of this. He writes,"
+ },
+ {
+  "start": 236.16,
+  "duration": 4.0,
+  "text": "\"2026 is the year of the check notes"
+ },
+ {
+  "start": 238.8,
+  "duration": 4.08,
+  "text": "CLI.\""
+ },
+ {
+  "start": 240.16,
+  "duration": 4.48,
+  "text": "And Leon on X reframes it this way. They"
+ },
+ {
+  "start": 242.88,
+  "duration": 3.72,
+  "text": "write, \"Google isn't shipping a CLI for"
+ },
+ {
+  "start": 244.64,
+  "duration": 3.68,
+  "text": "developers, they're shipping an API for"
+ },
+ {
+  "start": 246.6,
+  "duration": 3.08,
+  "text": "agents that happens to also work for"
+ },
+ {
+  "start": 248.32,
+  "duration": 3.0,
+  "text": "humans.\""
+ },
+ {
+  "start": 249.68,
+  "duration": 4.12,
+  "text": "Google's Justin Ponault, who built the"
+ },
+ {
+  "start": 251.32,
+  "duration": 4.48,
+  "text": "CLI, wrote a long blog post about it"
+ },
+ {
+  "start": 253.8,
+  "duration": 3.439,
+  "text": "called you need to rewrite your CLI for"
+ },
+ {
+  "start": 255.8,
+  "duration": 3.52,
+  "text": "AI agents."
+ },
+ {
+  "start": 257.239,
+  "duration": 4.921,
+  "text": "He writes, \"I built a CLI for Google"
+ },
+ {
+  "start": 259.32,
+  "duration": 4.76,
+  "text": "Workspace. Agents first, not build a CLI"
+ },
+ {
+  "start": 262.16,
+  "duration": 3.68,
+  "text": "then notice agents were using it. From"
+ },
+ {
+  "start": 264.08,
+  "duration": 3.52,
+  "text": "day one, the design assumptions were"
+ },
+ {
+  "start": 265.84,
+  "duration": 3.28,
+  "text": "shaped by the fact that AI agents would"
+ },
+ {
+  "start": 267.6,
+  "duration": 3.72,
+  "text": "be the primary consumers of every"
+ },
+ {
+  "start": 269.12,
+  "duration": 4.64,
+  "text": "command, every flag, and every byte of"
+ },
+ {
+  "start": 271.32,
+  "duration": 4.04,
+  "text": "output. CLIs are increasingly the lowest"
+ },
+ {
+  "start": 273.76,
+  "duration": 3.64,
+  "text": "friction interface for AI agents to"
+ },
+ {
+  "start": 275.36,
+  "duration": 3.92,
+  "text": "reach external systems. Agents don't"
+ },
+ {
+  "start": 277.4,
+  "duration": 3.96,
+  "text": "need GUIs, they need deterministic,"
+ },
+ {
+  "start": 279.28,
+  "duration": 4.2,
+  "text": "machine-readable output, self-described"
+ },
+ {
+  "start": 281.36,
+  "duration": 3.28,
+  "text": "schemas they can introspect at runtime,"
+ },
+ {
+  "start": 283.48,
+  "duration": 2.96,
+  "text": "and safety rails against their own"
+ },
+ {
+  "start": 284.64,
+  "duration": 3.08,
+  "text": "hallucinations.\" He then goes on to"
+ },
+ {
+  "start": 286.44,
+  "duration": 2.68,
+  "text": "write a whole bunch about the technicals"
+ },
+ {
+  "start": 287.72,
+  "duration": 3.64,
+  "text": "behind this."
+ },
+ {
+  "start": 289.12,
+  "duration": 4.4,
+  "text": "Interestingly, a couple days later, he"
+ },
+ {
+  "start": 291.36,
+  "duration": 4.48,
+  "text": "also wrote a piece about why for some"
+ },
+ {
+  "start": 293.52,
+  "duration": 4.96,
+  "text": "there had been a shift away from MCPs"
+ },
+ {
+  "start": 295.84,
+  "duration": 4.4,
+  "text": "and back towards CLIs. And before we"
+ },
+ {
+  "start": 298.48,
+  "duration": 3.08,
+  "text": "actually read what he had to say,"
+ },
+ {
+  "start": 300.24,
+  "duration": 2.84,
+  "text": "there's some evidence that this is a"
+ },
+ {
+  "start": 301.56,
+  "duration": 3.76,
+  "text": "broader phenomenon."
+ },
+ {
+  "start": 303.08,
+  "duration": 3.8,
+  "text": "Latent Spaces' Swyx recently ran a poll."
+ },
+ {
+  "start": 305.32,
+  "duration": 3.04,
+  "text": "\"Let's say you are an agent builder and"
+ },
+ {
+  "start": 306.88,
+  "duration": 3.2,
+  "text": "want to integrate a promising new vendor"
+ },
+ {
+  "start": 308.36,
+  "duration": 3.76,
+  "text": "you found. What would you be happiest to"
+ },
+ {
+  "start": 310.08,
+  "duration": 3.68,
+  "text": "see in the docs? Not based on Twitter"
+ },
+ {
+  "start": 312.12,
+  "duration": 4.72,
+  "text": "hype, you personally for your situation"
+ },
+ {
+  "start": 313.76,
+  "duration": 5.28,
+  "text": "right now.\" The options were API, MCP,"
+ },
+ {
+  "start": 316.84,
+  "duration": 5.24,
+  "text": "CLI, or skills.md."
+ },
+ {
+  "start": 319.04,
+  "duration": 5.8,
+  "text": "Out of 769 people voting, MCP was"
+ },
+ {
+  "start": 322.08,
+  "duration": 5.52,
+  "text": "actually in last place with just 9.1%. A"
+ },
+ {
+  "start": 324.84,
+  "duration": 5.44,
+  "text": "traditional API was number one with 39%,"
+ },
+ {
+  "start": 327.6,
+  "duration": 5.76,
+  "text": "followed by CLI with 31.2%, and a"
+ },
+ {
+  "start": 330.28,
+  "duration": 5.28,
+  "text": "skills.md markdown file at 20.5%."
+ },
+ {
+  "start": 333.36,
+  "duration": 3.52,
+  "text": "Swyx points out there was a time in 2025"
+ },
+ {
+  "start": 335.56,
+  "duration": 3.72,
+  "text": "when MCP would have been the clear"
+ },
+ {
+  "start": 336.88,
+  "duration": 5.08,
+  "text": "number one on this list. In his blog"
+ },
+ {
+  "start": 339.28,
+  "duration": 4.44,
+  "text": "post, the MCP abstraction tax, Justin"
+ },
+ {
+  "start": 341.96,
+  "duration": 4.64,
+  "text": "sums up the issue this way. \"Every"
+ },
+ {
+  "start": 343.72,
+  "duration": 5.56,
+  "text": "layer, data to API to MCP, introduces an"
+ },
+ {
+  "start": 346.6,
+  "duration": 4.88,
+  "text": "abstraction tax. Humans need simplified"
+ },
+ {
+  "start": 349.28,
+  "duration": 4.76,
+  "text": "abstractions to manage cognitive load."
+ },
+ {
+  "start": 351.48,
+  "duration": 5.08,
+  "text": "LLMs can navigate a complex CLI via help"
+ },
+ {
+  "start": 354.04,
+  "duration": 4.72,
+  "text": "and call precise APIs in seconds. MCP"
+ },
+ {
+  "start": 356.56,
+  "duration": 4.04,
+  "text": "and CLIs optimized for different things."
+ },
+ {
+  "start": 358.76,
+  "duration": 3.6,
+  "text": "Understanding what each one costs you is"
+ },
+ {
+  "start": 360.6,
+  "duration": 3.84,
+  "text": "more useful than picking a winner. For"
+ },
+ {
+  "start": 362.36,
+  "duration": 3.72,
+  "text": "complex enterprise APIs, the fidelity"
+ },
+ {
+  "start": 364.44,
+  "duration": 2.92,
+  "text": "loss at each layer compounds in ways"
+ },
+ {
+  "start": 366.08,
+  "duration": 2.96,
+  "text": "that matter."
+ },
+ {
+  "start": 367.36,
+  "duration": 3.72,
+  "text": "Basically, he says every protocol layer"
+ },
+ {
+  "start": 369.04,
+  "duration": 4.0,
+  "text": "between an agent and an API is a tax on"
+ },
+ {
+  "start": 371.08,
+  "duration": 3.28,
+  "text": "fidelity. That tax is sometimes worth"
+ },
+ {
+  "start": 373.04,
+  "duration": 2.68,
+  "text": "paying, but you should understand what"
+ },
+ {
+  "start": 374.36,
+  "duration": 3.16,
+  "text": "you're giving up at each layer because"
+ },
+ {
+  "start": 375.72,
+  "duration": 4.08,
+  "text": "the cost compounds."
+ },
+ {
+  "start": 377.52,
+  "duration": 5.16,
+  "text": "Konica again sums it up this way. Most"
+ },
+ {
+  "start": 379.8,
+  "duration": 4.48,
+  "text": "AI integrations use MCP servers, but MCP"
+ },
+ {
+  "start": 382.68,
+  "duration": 4.32,
+  "text": "loads tons of tools into the context"
+ },
+ {
+  "start": 384.28,
+  "duration": 5.6,
+  "text": "window. One developer measured 142 tools"
+ },
+ {
+  "start": 387.0,
+  "duration": 5.16,
+  "text": "loaded, 37,000 tokens consumed, and 20%"
+ },
+ {
+  "start": 389.88,
+  "duration": 4.36,
+  "text": "of context gone before work even starts."
+ },
+ {
+  "start": 392.16,
+  "duration": 3.759,
+  "text": "The CLI solves this differently. Instead"
+ },
+ {
+  "start": 394.24,
+  "duration": 3.64,
+  "text": "of loading tools into context, the agent"
+ },
+ {
+  "start": 395.919,
+  "duration": 4.561,
+  "text": "simply runs commands like GWS Drive"
+ },
+ {
+  "start": 397.88,
+  "duration": 5.48,
+  "text": "files list. The CLI returns JSON and the"
+ },
+ {
+  "start": 400.48,
+  "duration": 4.56,
+  "text": "agent continues. No context window tax."
+ },
+ {
+  "start": 403.36,
+  "duration": 3.4,
+  "text": "The takeaway is not that CLI is always"
+ },
+ {
+  "start": 405.04,
+  "duration": 3.64,
+  "text": "better than MCP, but more that we're"
+ },
+ {
+  "start": 406.76,
+  "duration": 4.12,
+  "text": "still in the midst of the AI tooling"
+ },
+ {
+  "start": 408.68,
+  "duration": 4.36,
+  "text": "transition. Everyone right now continues"
+ },
+ {
+  "start": 410.88,
+  "duration": 4.48,
+  "text": "to experiment as things evolve with how"
+ },
+ {
+  "start": 413.04,
+  "duration": 4.36,
+  "text": "to use old tools and systems repurposed"
+ },
+ {
+  "start": 415.36,
+  "duration": 3.4,
+  "text": "for agents versus building new layers of"
+ },
+ {
+  "start": 417.4,
+  "duration": 3.32,
+  "text": "infrastructure."
+ },
+ {
+  "start": 418.76,
+  "duration": 3.44,
+  "text": "That is a process that's ongoing, but"
+ },
+ {
+  "start": 420.72,
+  "duration": 3.16,
+  "text": "the big deal about Google officially"
+ },
+ {
+  "start": 422.2,
+  "duration": 3.24,
+  "text": "having a Workspace CLI is that they are"
+ },
+ {
+  "start": 423.88,
+  "duration": 3.52,
+  "text": "now playing at the very heart of that"
+ },
+ {
+  "start": 425.44,
+  "duration": 3.479,
+  "text": "space and making it much easier for"
+ },
+ {
+  "start": 427.4,
+  "duration": 4.0,
+  "text": "agent builders to interact with what is"
+ },
+ {
+  "start": 428.919,
+  "duration": 4.321,
+  "text": "a very important suite of tools. Going"
+ },
+ {
+  "start": 431.4,
+  "duration": 3.36,
+  "text": "back to Google and Gemini strategy that"
+ },
+ {
+  "start": 433.24,
+  "duration": 3.32,
+  "text": "I was talking about at the beginning,"
+ },
+ {
+  "start": 434.76,
+  "duration": 3.88,
+  "text": "this is an example of them leveraging"
+ },
+ {
+  "start": 436.56,
+  "duration": 3.52,
+  "text": "their existing distribution network in"
+ },
+ {
+  "start": 438.64,
+  "duration": 3.6,
+  "text": "ways that are distinct for the agent"
+ },
+ {
+  "start": 440.08,
+  "duration": 4.56,
+  "text": "era. The next update is one that came"
+ },
+ {
+  "start": 442.24,
+  "duration": 4.52,
+  "text": "just this week. Google AI Studios Logan"
+ },
+ {
+  "start": 444.64,
+  "duration": 4.279,
+  "text": "Kilpatrick writes, \"Introducing the new"
+ },
+ {
+  "start": 446.76,
+  "duration": 4.2,
+  "text": "Gemini powered Docs, Sheets, Slides, and"
+ },
+ {
+  "start": 448.919,
+  "duration": 4.0,
+  "text": "Drive experience featuring AI overviews,"
+ },
+ {
+  "start": 450.96,
+  "duration": 3.56,
+  "text": "fully editable AI-made slides, and new"
+ },
+ {
+  "start": 452.919,
+  "duration": 3.121,
+  "text": "grounding sources to make writing Docs"
+ },
+ {
+  "start": 454.52,
+  "duration": 3.64,
+  "text": "context-aware.\""
+ },
+ {
+  "start": 456.04,
+  "duration": 3.72,
+  "text": "Sundar Pichai announced it this way."
+ },
+ {
+  "start": 458.16,
+  "duration": 3.12,
+  "text": "\"New Gemini updates to make Google"
+ },
+ {
+  "start": 459.76,
+  "duration": 3.44,
+  "text": "Workspace more personal, helpful, and"
+ },
+ {
+  "start": 461.28,
+  "duration": 3.8,
+  "text": "collaborative. Choose your sources and"
+ },
+ {
+  "start": 463.2,
+  "duration": 3.96,
+  "text": "create a Doc draft in seconds, build"
+ },
+ {
+  "start": 465.08,
+  "duration": 3.76,
+  "text": "complex sheets nine times faster, or"
+ },
+ {
+  "start": 467.16,
+  "duration": 4.12,
+  "text": "generate on-brand slide layouts with a"
+ },
+ {
+  "start": 468.84,
+  "duration": 3.8,
+  "text": "simple prompt. Plus, Drive now generates"
+ },
+ {
+  "start": 471.28,
+  "duration": 2.76,
+  "text": "summarized answers right at the top of"
+ },
+ {
+  "start": 472.64,
+  "duration": 3.44,
+  "text": "your search results, so no more digging"
+ },
+ {
+  "start": 474.04,
+  "duration": 3.84,
+  "text": "through folders. The blog post about"
+ },
+ {
+  "start": 476.08,
+  "duration": 2.8,
+  "text": "this pitches it as a speed thing, but I"
+ },
+ {
+  "start": 477.88,
+  "duration": 3.28,
+  "text": "actually think that there's something"
+ },
+ {
+  "start": 478.88,
+  "duration": 3.48,
+  "text": "else going on here. The post reads,"
+ },
+ {
+  "start": 481.16,
+  "duration": 2.64,
+  "text": "\"We've all been there. The blinking"
+ },
+ {
+  "start": 482.36,
+  "duration": 2.88,
+  "text": "cursor, the empty spreadsheet, or the"
+ },
+ {
+  "start": 483.8,
+  "duration": 3.36,
+  "text": "first blank slide. Whether you're"
+ },
+ {
+  "start": 485.24,
+  "duration": 3.4,
+  "text": "planning a trip, organizing an event, or"
+ },
+ {
+  "start": 487.16,
+  "duration": 3.24,
+  "text": "launching a side project, getting"
+ },
+ {
+  "start": 488.64,
+  "duration": 3.16,
+  "text": "started is often the hardest part.\""
+ },
+ {
+  "start": 490.4,
+  "duration": 2.88,
+  "text": "\"Today we're making Gemini in Docs,"
+ },
+ {
+  "start": 491.8,
+  "duration": 2.84,
+  "text": "Sheets, Slides, and Drive more personal,"
+ },
+ {
+  "start": 493.28,
+  "duration": 3.28,
+  "text": "capable, and collaborative to help you"
+ },
+ {
+  "start": 494.64,
+  "duration": 3.32,
+  "text": "get things done faster. When you select"
+ },
+ {
+  "start": 496.56,
+  "duration": 2.96,
+  "text": "your sources, Gemini can now pull"
+ },
+ {
+  "start": 497.96,
+  "duration": 3.28,
+  "text": "relevant information from your files,"
+ },
+ {
+  "start": 499.52,
+  "duration": 3.56,
+  "text": "emails, and the web to securely connect"
+ },
+ {
+  "start": 501.24,
+  "duration": 4.12,
+  "text": "dots and uncover useful insights while"
+ },
+ {
+  "start": 503.08,
+  "duration": 3.92,
+  "text": "keeping your information safeguarded.\""
+ },
+ {
+  "start": 505.36,
+  "duration": 3.92,
+  "text": "When you look at the specific examples,"
+ },
+ {
+  "start": 507.0,
+  "duration": 5.12,
+  "text": "though, a lot of the focus is on better"
+ },
+ {
+  "start": 509.28,
+  "duration": 4.4,
+  "text": "access to the context that makes Google"
+ },
+ {
+  "start": 512.12,
+  "duration": 3.16,
+  "text": "so powerful."
+ },
+ {
+  "start": 513.68,
+  "duration": 3.2,
+  "text": "So, when you click on create a document"
+ },
+ {
+  "start": 515.28,
+  "duration": 3.96,
+  "text": "with Gemini, you're going to be able to"
+ },
+ {
+  "start": 516.88,
+  "duration": 4.52,
+  "text": "select the sources in your Google"
+ },
+ {
+  "start": 519.24,
+  "duration": 4.2,
+  "text": "ecosystem that it can pull from, and"
+ },
+ {
+  "start": 521.4,
+  "duration": 3.88,
+  "text": "it's that sort of integration that makes"
+ },
+ {
+  "start": 523.44,
+  "duration": 3.16,
+  "text": "the experience so much smoother. And"
+ },
+ {
+  "start": 525.28,
+  "duration": 3.2,
+  "text": "hopefully makes the content on the other"
+ },
+ {
+  "start": 526.6,
+  "duration": 4.32,
+  "text": "side that much better. The spreadsheet"
+ },
+ {
+  "start": 528.48,
+  "duration": 4.84,
+  "text": "example they have asks for help tracking"
+ },
+ {
+  "start": 530.92,
+  "duration": 4.72,
+  "text": "income for a particular month, and again"
+ },
+ {
+  "start": 533.32,
+  "duration": 3.72,
+  "text": "can pull from relevant sources like"
+ },
+ {
+  "start": 535.64,
+  "duration": 2.88,
+  "text": "previous spreadsheets that live in"
+ },
+ {
+  "start": 537.04,
+  "duration": 2.6,
+  "text": "Google Drive."
+ },
+ {
+  "start": 538.52,
+  "duration": 3.48,
+  "text": "Point being that while they're pitching"
+ },
+ {
+  "start": 539.64,
+  "duration": 5.48,
+  "text": "it as a speed play, the underlying idea"
+ },
+ {
+  "start": 542.0,
+  "duration": 4.96,
+  "text": "here is better integrating the context"
+ },
+ {
+  "start": 545.12,
+  "duration": 4.2,
+  "text": "that makes doing things from within your"
+ },
+ {
+  "start": 546.96,
+  "duration": 4.84,
+  "text": "Google Workspace so much more valuable."
+ },
+ {
+  "start": 549.32,
+  "duration": 4.32,
+  "text": "The sum totality of the documents that"
+ },
+ {
+  "start": 551.8,
+  "duration": 3.68,
+  "text": "you have in your Google Workspace is"
+ },
+ {
+  "start": 553.64,
+  "duration": 3.72,
+  "text": "something that Anthropic and OpenAI"
+ },
+ {
+  "start": 555.48,
+  "duration": 4.52,
+  "text": "can't compete with. It is a major"
+ },
+ {
+  "start": 557.36,
+  "duration": 4.24,
+  "text": "advantage for Google and for Gemini, but"
+ },
+ {
+  "start": 560.0,
+  "duration": 3.32,
+  "text": "only if they make that context"
+ },
+ {
+  "start": 561.6,
+  "duration": 3.88,
+  "text": "accessible, and that I think is what"
+ },
+ {
+  "start": 563.32,
+  "duration": 3.48,
+  "text": "this update is about. I also don't think"
+ },
+ {
+  "start": 565.48,
+  "duration": 2.8,
+  "text": "it's an accident that this comes right"
+ },
+ {
+  "start": 566.8,
+  "duration": 4.08,
+  "text": "after Microsoft announced some big"
+ },
+ {
+  "start": 568.28,
+  "duration": 5.72,
+  "text": "updates to their M365 suite with Copilot"
+ },
+ {
+  "start": 570.88,
+  "duration": 4.88,
+  "text": "co-work. Mustafa Akıncı says, \"The"
+ },
+ {
+  "start": 574.0,
+  "duration": 4.08,
+  "text": "office suite wars just became the AI"
+ },
+ {
+  "start": 575.76,
+  "duration": 4.92,
+  "text": "agent wars. Both companies know whoever"
+ },
+ {
+  "start": 578.08,
+  "duration": 3.96,
+  "text": "wins productivity wins everything."
+ },
+ {
+  "start": 580.68,
+  "duration": 2.96,
+  "text": "Another announcement from this week that"
+ },
+ {
+  "start": 582.04,
+  "duration": 2.96,
+  "text": "further demonstrates Google's focus on"
+ },
+ {
+  "start": 583.64,
+  "duration": 3.28,
+  "text": "multimodality at the core of their"
+ },
+ {
+  "start": 585.0,
+  "duration": 3.12,
+  "text": "strategy is their updated embedding two"
+ },
+ {
+  "start": 586.92,
+  "duration": 3.16,
+  "text": "model."
+ },
+ {
+  "start": 588.12,
+  "duration": 4.84,
+  "text": "Embeddings are basically the system that"
+ },
+ {
+  "start": 590.08,
+  "duration": 4.2,
+  "text": "allows AI to find the right information."
+ },
+ {
+  "start": 592.96,
+  "duration": 3.12,
+  "text": "In traditional computing search is done"
+ },
+ {
+  "start": 594.28,
+  "duration": 3.2,
+  "text": "by keywords. If you search for buy a"
+ },
+ {
+  "start": 596.08,
+  "duration": 3.28,
+  "text": "car, it's going to look for those exact"
+ },
+ {
+  "start": 597.48,
+  "duration": 3.56,
+  "text": "words. Embeddings on the other hand let"
+ },
+ {
+  "start": 599.36,
+  "duration": 3.2,
+  "text": "the system understand that buy a car,"
+ },
+ {
+  "start": 601.04,
+  "duration": 3.56,
+  "text": "purchase a vehicle, get a new ride are"
+ },
+ {
+  "start": 602.56,
+  "duration": 3.72,
+  "text": "all basically the same request. Instead"
+ },
+ {
+  "start": 604.6,
+  "duration": 3.16,
+  "text": "of matching words, they help AI match"
+ },
+ {
+  "start": 606.28,
+  "duration": 3.52,
+  "text": "meaning. That means that when you're"
+ },
+ {
+  "start": 607.76,
+  "duration": 3.8,
+  "text": "building an AI system that has things"
+ },
+ {
+  "start": 609.8,
+  "duration": 3.68,
+  "text": "like search or co-pilots looking through"
+ },
+ {
+  "start": 611.56,
+  "duration": 3.76,
+  "text": "company documents or chatbots answering"
+ },
+ {
+  "start": 613.48,
+  "duration": 3.76,
+  "text": "questions from knowledge bases, the"
+ },
+ {
+  "start": 615.32,
+  "duration": 3.6,
+  "text": "system uses embeddings to quickly figure"
+ },
+ {
+  "start": 617.24,
+  "duration": 3.8,
+  "text": "out which documents, files, or pieces of"
+ },
+ {
+  "start": 618.92,
+  "duration": 4.2,
+  "text": "information are actually relevant. What"
+ },
+ {
+  "start": 621.04,
+  "duration": 3.88,
+  "text": "makes embedding two a big update is that"
+ },
+ {
+  "start": 623.12,
+  "duration": 3.32,
+  "text": "it is natively multimodal. So,"
+ },
+ {
+  "start": 624.92,
+  "duration": 3.4,
+  "text": "previously, if you had an image, a"
+ },
+ {
+  "start": 626.44,
+  "duration": 3.6,
+  "text": "chart, or a slide, the system would have"
+ },
+ {
+  "start": 628.32,
+  "duration": 3.32,
+  "text": "to convert it into text first, usually"
+ },
+ {
+  "start": 630.04,
+  "duration": 3.84,
+  "text": "by generating a caption, and then search"
+ },
+ {
+  "start": 631.64,
+  "duration": 5.2,
+  "text": "using that. Multimodal embeddings remove"
+ },
+ {
+  "start": 633.88,
+  "duration": 4.48,
+  "text": "that conversion step. Gemini two can"
+ },
+ {
+  "start": 636.84,
+  "duration": 4.12,
+  "text": "understand and retrieve images,"
+ },
+ {
+  "start": 638.36,
+  "duration": 4.84,
+  "text": "diagrams, screenshots, text altogether."
+ },
+ {
+  "start": 640.96,
+  "duration": 3.52,
+  "text": "So, if you ask a question in a company"
+ },
+ {
+  "start": 643.2,
+  "duration": 3.08,
+  "text": "knowledge base like where did we talk"
+ },
+ {
+  "start": 644.48,
+  "duration": 3.28,
+  "text": "about redesigning the checkout page,"
+ },
+ {
+  "start": 646.28,
+  "duration": 3.4,
+  "text": "theoretically, embedding two could pull"
+ },
+ {
+  "start": 647.76,
+  "duration": 4.12,
+  "text": "up a Slack conversation, a product spec"
+ },
+ {
+  "start": 649.68,
+  "duration": 3.76,
+  "text": "document, a screenshot of the old UI, or"
+ },
+ {
+  "start": 651.88,
+  "duration": 3.24,
+  "text": "a slide from a meeting all as relevant"
+ },
+ {
+  "start": 653.44,
+  "duration": 2.8,
+  "text": "sources. This is the type of"
+ },
+ {
+  "start": 655.12,
+  "duration": 3.08,
+  "text": "announcement that's not going to get"
+ },
+ {
+  "start": 656.24,
+  "duration": 3.88,
+  "text": "nearly as much attention as, for"
+ },
+ {
+  "start": 658.2,
+  "duration": 3.72,
+  "text": "example, a big Gemini 3 demo, but which"
+ },
+ {
+  "start": 660.12,
+  "duration": 4.4,
+  "text": "brings very significant functionality"
+ },
+ {
+  "start": 661.92,
+  "duration": 5.44,
+  "text": "upgrades to this new agentic era."
+ },
+ {
+  "start": 664.52,
+  "duration": 4.319,
+  "text": "The TLDR on all of this is even as tons"
+ },
+ {
+  "start": 667.36,
+  "duration": 3.76,
+  "text": "and tons of ink are spilled talking"
+ },
+ {
+  "start": 668.839,
+  "duration": 4.281,
+  "text": "about the OpenAI versus Anthropic fight"
+ },
+ {
+  "start": 671.12,
+  "duration": 3.76,
+  "text": "and all these important things going on,"
+ },
+ {
+  "start": 673.12,
+  "duration": 3.4,
+  "text": "Google Gemini is quietly just releasing"
+ },
+ {
+  "start": 674.88,
+  "duration": 3.4,
+  "text": "feature after feature and product after"
+ },
+ {
+  "start": 676.52,
+  "duration": 3.72,
+  "text": "product, all pointed in similar"
+ },
+ {
+  "start": 678.28,
+  "duration": 3.36,
+  "text": "directions that played at the company's"
+ },
+ {
+  "start": 680.24,
+  "duration": 2.2,
+  "text": "main strengths."
+ },
+ {
+  "start": 681.64,
+  "duration": 2.96,
+  "text": "And to leave you with one"
+ },
+ {
+  "start": 682.44,
+  "duration": 4.36,
+  "text": "recommendation, just purely for your own"
+ },
+ {
+  "start": 684.6,
+  "duration": 3.36,
+  "text": "enjoyment, if you haven't yet, go check"
+ },
+ {
+  "start": 686.8,
+  "duration": 3.56,
+  "text": "out the recently released video"
+ },
+ {
+  "start": 687.96,
+  "duration": 4.08,
+  "text": "generation feature in NotebookLM. People"
+ },
+ {
+  "start": 690.36,
+  "duration": 3.12,
+  "text": "are having tons of fun with it as"
+ },
+ {
+  "start": 692.04,
+  "duration": 3.6,
+  "text": "witnessed by this recent video from"
+ },
+ {
+  "start": 693.48,
+  "duration": 3.76,
+  "text": "Ethan Mollick. Do a deep research report"
+ },
+ {
+  "start": 695.64,
+  "duration": 3.88,
+  "text": "and make a video telling me exactly how"
+ },
+ {
+  "start": 697.24,
+  "duration": 4.88,
+  "text": "to take over Rome if I time travel to 66"
+ },
+ {
+  "start": 699.52,
+  "duration": 4.0,
+  "text": "BC with a single backpack. As Ethan puts"
+ },
+ {
+  "start": 702.12,
+  "duration": 3.08,
+  "text": "it, actually pretty fun to watch and"
+ },
+ {
+  "start": 703.52,
+  "duration": 2.68,
+  "text": "gets a lot of historical details in as"
+ },
+ {
+  "start": 705.2,
+  "duration": 2.16,
+  "text": "well."
+ },
+ {
+  "start": 706.2,
+  "duration": 2.88,
+  "text": "For now guys, that is going to do it for"
+ },
+ {
+  "start": 707.36,
+  "duration": 3.2,
+  "text": "today's AI Daily Brief. Appreciate you"
+ },
+ {
+  "start": 709.08,
+  "duration": 4.96,
+  "text": "listening or watching as always and"
+ },
+ {
+  "start": 710.56,
+  "duration": 3.48,
+  "text": "until next time, peace."
+ }
+]

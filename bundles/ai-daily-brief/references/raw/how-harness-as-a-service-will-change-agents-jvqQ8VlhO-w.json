@@ -1,0 +1,4097 @@
+[
+ {
+  "start": 0.88,
+  "duration": 3.72,
+  "text": "Today on the AI Daily Brief, the"
+ },
+ {
+  "start": 2.08,
+  "duration": 5.08,
+  "text": "emergence of harness as a service, what"
+ },
+ {
+  "start": 4.6,
+  "duration": 4.6,
+  "text": "it means for the agentic era."
+ },
+ {
+  "start": 7.16,
+  "duration": 4.64,
+  "text": "And before that in the headlines,"
+ },
+ {
+  "start": 9.2,
+  "duration": 4.24,
+  "text": "a big tech AI earnings blowout."
+ },
+ {
+  "start": 11.8,
+  "duration": 3.2,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 13.44,
+  "duration": 4.56,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 15.0,
+  "duration": 4.8,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 18.0,
+  "duration": 3.4,
+  "text": "All right, friends, quick announcements"
+ },
+ {
+  "start": 19.8,
+  "duration": 4.4,
+  "text": "before we dive in. If you haven't yet,"
+ },
+ {
+  "start": 21.4,
+  "duration": 5.16,
+  "text": "go check out the new Agent OS program."
+ },
+ {
+  "start": 24.2,
+  "duration": 3.72,
+  "text": "It's a tool-agnostic adaptable system"
+ },
+ {
+  "start": 26.56,
+  "duration": 3.12,
+  "text": "for building an agentic operating"
+ },
+ {
+  "start": 27.92,
+  "duration": 3.36,
+  "text": "system, and I have a feeling after you"
+ },
+ {
+  "start": 29.68,
+  "duration": 2.96,
+  "text": "listen to today's harness as a service"
+ },
+ {
+  "start": 31.28,
+  "duration": 3.24,
+  "text": "episode that you will want to dig in"
+ },
+ {
+  "start": 32.64,
+  "duration": 5.2,
+  "text": "even more. You can find that off of the"
+ },
+ {
+  "start": 34.52,
+  "duration": 4.64,
+  "text": "main site, aidailybrief.ai."
+ },
+ {
+  "start": 37.84,
+  "duration": 3.76,
+  "text": "Today is one of those rare days where"
+ },
+ {
+  "start": 39.16,
+  "duration": 5.84,
+  "text": "the headlines are all around the same"
+ },
+ {
+  "start": 41.6,
+  "duration": 5.04,
+  "text": "theme, and that theme is, of course, big"
+ },
+ {
+  "start": 45.0,
+  "duration": 3.08,
+  "text": "tech earnings."
+ },
+ {
+  "start": 46.64,
+  "duration": 3.32,
+  "text": "And to not bury the lead, let's go over"
+ },
+ {
+  "start": 48.08,
+  "duration": 3.56,
+  "text": "to Sheharyar Khan who writes,"
+ },
+ {
+  "start": 49.96,
+  "duration": 3.08,
+  "text": "\"Hard to take the AI bubble argument"
+ },
+ {
+  "start": 51.64,
+  "duration": 3.24,
+  "text": "seriously when some of the largest"
+ },
+ {
+  "start": 53.04,
+  "duration": 4.48,
+  "text": "companies on Earth are still putting up"
+ },
+ {
+  "start": 54.88,
+  "duration": 6.08,
+  "text": "these growth numbers. Google Cloud plus"
+ },
+ {
+  "start": 57.52,
+  "duration": 6.28,
+  "text": "63% year-over-year. Microsoft Azure plus"
+ },
+ {
+  "start": 60.96,
+  "duration": 6.92,
+  "text": "40% year-over-year. Meta revenue plus"
+ },
+ {
+  "start": 63.8,
+  "duration": 5.68,
+  "text": "33% year-over-year. AWS plus 28%"
+ },
+ {
+  "start": 67.88,
+  "duration": 2.52,
+  "text": "year-over-year.\""
+ },
+ {
+  "start": 69.48,
+  "duration": 2.08,
+  "text": "We're going to go through all of these"
+ },
+ {
+  "start": 70.4,
+  "duration": 2.16,
+  "text": "and talk about the winners and losers"
+ },
+ {
+  "start": 71.56,
+  "duration": 4.04,
+  "text": "and what it means for the market's"
+ },
+ {
+  "start": 72.56,
+  "duration": 4.84,
+  "text": "assessment of AI overall. Google was the"
+ },
+ {
+  "start": 75.6,
+  "duration": 4.24,
+  "text": "clear winner on big tech earnings night,"
+ },
+ {
+  "start": 77.4,
+  "duration": 4.4,
+  "text": "delivering huge beats across the board."
+ },
+ {
+  "start": 79.84,
+  "duration": 3.84,
+  "text": "They reported 22% top-line revenue"
+ },
+ {
+  "start": 81.8,
+  "duration": 3.16,
+  "text": "growth, but as I just mentioned, the big"
+ },
+ {
+  "start": 83.68,
+  "duration": 3.64,
+  "text": "numbers were in their AI-related"
+ },
+ {
+  "start": 84.96,
+  "duration": 5.04,
+  "text": "businesses. Google Cloud has experienced"
+ },
+ {
+  "start": 87.32,
+  "duration": 5.64,
+  "text": "63% revenue growth over the past year."
+ },
+ {
+  "start": 90.0,
+  "duration": 5.6,
+  "text": "They also reported a $460 billion"
+ },
+ {
+  "start": 92.96,
+  "duration": 4.76,
+  "text": "backlog in new orders, up from 240 at"
+ },
+ {
+  "start": 95.6,
+  "duration": 3.76,
+  "text": "the end of Q4. Their new deal with"
+ },
+ {
+  "start": 97.72,
+  "duration": 3.56,
+  "text": "Anthropic contributes a decent chunk of"
+ },
+ {
+  "start": 99.36,
+  "duration": 4.12,
+  "text": "that growth, but it still shows that GPU"
+ },
+ {
+  "start": 101.28,
+  "duration": 3.96,
+  "text": "demand is off the charts. Analyst Joseph"
+ },
+ {
+  "start": 103.48,
+  "duration": 3.96,
+  "text": "Carlson posted a chart of Google's cloud"
+ },
+ {
+  "start": 105.24,
+  "duration": 3.84,
+  "text": "backlog going exponential and commented,"
+ },
+ {
+  "start": 107.44,
+  "duration": 3.88,
+  "text": "\"This is so crazy it literally looks"
+ },
+ {
+  "start": 109.08,
+  "duration": 4.96,
+  "text": "fake.\" Gemini growth was similarly"
+ },
+ {
+  "start": 111.32,
+  "duration": 3.88,
+  "text": "strong. Google reported a 40% surge in"
+ },
+ {
+  "start": 114.04,
+  "duration": 2.88,
+  "text": "paid enterprise customers"
+ },
+ {
+  "start": 115.2,
+  "duration": 3.24,
+  "text": "quarter-over-quarter, meaning maybe I'm"
+ },
+ {
+  "start": 116.92,
+  "duration": 3.32,
+  "text": "going to have to eat my hat rating"
+ },
+ {
+  "start": 118.44,
+  "duration": 3.96,
+  "text": "Google as low as I did on enterprise in"
+ },
+ {
+  "start": 120.24,
+  "duration": 3.56,
+  "text": "the AI Lab Power Rankings."
+ },
+ {
+  "start": 122.4,
+  "duration": 3.2,
+  "text": "In addition, Google's infrastructure is"
+ },
+ {
+  "start": 123.8,
+  "duration": 4.28,
+  "text": "now processing 16 billion tokens a"
+ },
+ {
+  "start": 125.6,
+  "duration": 4.12,
+  "text": "minute, up 60% quarter-over-quarter."
+ },
+ {
+  "start": 128.08,
+  "duration": 3.24,
+  "text": "Even search, which is tangentially"
+ },
+ {
+  "start": 129.72,
+  "duration": 3.56,
+  "text": "related to some of Google's AI changes,"
+ },
+ {
+  "start": 131.32,
+  "duration": 4.52,
+  "text": "is experiencing a boom with search"
+ },
+ {
+  "start": 133.28,
+  "duration": 4.08,
+  "text": "revenue up 19% year-over-year. Google is"
+ },
+ {
+  "start": 135.84,
+  "duration": 3.68,
+  "text": "also maintaining very healthy profit"
+ },
+ {
+  "start": 137.36,
+  "duration": 5.08,
+  "text": "margins, hitting 62.6 billion in net"
+ },
+ {
+  "start": 139.52,
+  "duration": 5.0,
+  "text": "income for an 81% year-over-year gain."
+ },
+ {
+  "start": 142.44,
+  "duration": 4.0,
+  "text": "CEO Sundar Pichai told analysts that AI"
+ },
+ {
+  "start": 144.52,
+  "duration": 3.96,
+  "text": "is now the largest tailwind for cloud,"
+ },
+ {
+  "start": 146.44,
+  "duration": 3.48,
+  "text": "commenting, \"Our enterprise AI solutions"
+ },
+ {
+  "start": 148.48,
+  "duration": 4.0,
+  "text": "have become our primary growth driver"
+ },
+ {
+  "start": 149.92,
+  "duration": 3.84,
+  "text": "for cloud for the first time in Q1.\" He"
+ },
+ {
+  "start": 152.48,
+  "duration": 3.0,
+  "text": "added, though, \"We are"
+ },
+ {
+  "start": 153.76,
+  "duration": 3.12,
+  "text": "compute-constrained in the near term."
+ },
+ {
+  "start": 155.48,
+  "duration": 4.0,
+  "text": "Our cloud revenue would have been higher"
+ },
+ {
+  "start": 156.88,
+  "duration": 4.16,
+  "text": "if we were able to meet the demand.\""
+ },
+ {
+  "start": 159.48,
+  "duration": 3.8,
+  "text": "CapEx targets, meanwhile, remained"
+ },
+ {
+  "start": 161.04,
+  "duration": 3.76,
+  "text": "pretty anchored. Google slid up their"
+ },
+ {
+  "start": 163.28,
+  "duration": 4.16,
+  "text": "forecast slightly, increasing this"
+ },
+ {
+  "start": 164.8,
+  "duration": 5.04,
+  "text": "year's guide from a range of 175 to 185"
+ },
+ {
+  "start": 167.44,
+  "duration": 4.04,
+  "text": "billion to a range of 180 to 190"
+ },
+ {
+  "start": 169.84,
+  "duration": 3.2,
+  "text": "billion, although right now they're not"
+ },
+ {
+  "start": 171.48,
+  "duration": 3.84,
+  "text": "coming close to hitting that target."
+ },
+ {
+  "start": 173.04,
+  "duration": 4.56,
+  "text": "They only recorded 35.7 billion in CapEx"
+ },
+ {
+  "start": 175.32,
+  "duration": 4.72,
+  "text": "spending for Q1, which annualizes out to"
+ },
+ {
+  "start": 177.6,
+  "duration": 3.64,
+  "text": "140 billion and change. Now, Google"
+ },
+ {
+  "start": 180.04,
+  "duration": 3.48,
+  "text": "might be padding the back end of the"
+ },
+ {
+  "start": 181.24,
+  "duration": 3.68,
+  "text": "year in expectation of rising costs, but"
+ },
+ {
+  "start": 183.52,
+  "duration": 3.12,
+  "text": "because this came in slightly below"
+ },
+ {
+  "start": 184.92,
+  "duration": 4.0,
+  "text": "analyst forecast, the market interpreted"
+ },
+ {
+  "start": 186.64,
+  "duration": 4.48,
+  "text": "it as capital discipline. Google was up"
+ },
+ {
+  "start": 188.92,
+  "duration": 3.68,
+  "text": "7% in overnight trading."
+ },
+ {
+  "start": 191.12,
+  "duration": 4.16,
+  "text": "Chubby, meanwhile, argued that Google"
+ },
+ {
+  "start": 192.6,
+  "duration": 4.24,
+  "text": "has cracked the AI monetization thesis."
+ },
+ {
+  "start": 195.28,
+  "duration": 3.56,
+  "text": "While the absurdly high cloud growth was"
+ },
+ {
+  "start": 196.84,
+  "duration": 3.76,
+  "text": "the loudest signal, Chubby added, \"The"
+ },
+ {
+  "start": 198.84,
+  "duration": 3.24,
+  "text": "real story is search. The prevailing"
+ },
+ {
+  "start": 200.6,
+  "duration": 3.12,
+  "text": "narrative was that AI would cannibalize"
+ },
+ {
+  "start": 202.08,
+  "duration": 3.56,
+  "text": "Google's core business. People get"
+ },
+ {
+  "start": 203.72,
+  "duration": 3.88,
+  "text": "answers from chatbots, stop Googling."
+ },
+ {
+  "start": 205.64,
+  "duration": 3.76,
+  "text": "The opposite is happening. Search ad"
+ },
+ {
+  "start": 207.6,
+  "duration": 3.72,
+  "text": "revenue grew 19%. Queries hit an"
+ },
+ {
+  "start": 209.4,
+  "duration": 3.56,
+  "text": "all-time high. Google turned the biggest"
+ },
+ {
+  "start": 211.32,
+  "duration": 3.64,
+  "text": "existential threat to its business into"
+ },
+ {
+  "start": 212.96,
+  "duration": 3.64,
+  "text": "a growth accelerator.\""
+ },
+ {
+  "start": 214.96,
+  "duration": 3.56,
+  "text": "Amazon's earnings were also extremely"
+ },
+ {
+  "start": 216.6,
+  "duration": 4.0,
+  "text": "solid, suggesting a return to form on"
+ },
+ {
+  "start": 218.52,
+  "duration": 4.12,
+  "text": "cloud. Top-line revenue growth came in"
+ },
+ {
+  "start": 220.6,
+  "duration": 4.48,
+  "text": "at 17% year-over-year with net profit up"
+ },
+ {
+  "start": 222.64,
+  "duration": 4.08,
+  "text": "77%. Amazon attributed the growth in"
+ },
+ {
+  "start": 225.08,
+  "duration": 3.52,
+  "text": "profit to pre-tax income from their"
+ },
+ {
+  "start": 226.72,
+  "duration": 3.44,
+  "text": "Anthropic investment, so this number"
+ },
+ {
+  "start": 228.6,
+  "duration": 4.04,
+  "text": "could say more about Anthropic than it"
+ },
+ {
+  "start": 230.16,
+  "duration": 5.0,
+  "text": "does about Amazon. AWS revenue was up"
+ },
+ {
+  "start": 232.64,
+  "duration": 3.88,
+  "text": "28% compared to last year with Amazon's"
+ },
+ {
+  "start": 235.16,
+  "duration": 3.16,
+  "text": "dominant cloud unit coming out of a"
+ },
+ {
+  "start": 236.52,
+  "duration": 4.36,
+  "text": "major slowdown after achieving a low of"
+ },
+ {
+  "start": 238.32,
+  "duration": 3.96,
+  "text": "12% growth in 2023. Growth has been"
+ },
+ {
+  "start": 240.88,
+  "duration": 3.28,
+  "text": "accelerating every quarter since and is"
+ },
+ {
+  "start": 242.28,
+  "duration": 3.4,
+  "text": "now back at a healthy level. The number"
+ },
+ {
+  "start": 244.16,
+  "duration": 3.12,
+  "text": "beat analyst forecast and would have"
+ },
+ {
+  "start": 245.68,
+  "duration": 3.16,
+  "text": "been viewed very solid if not for the"
+ },
+ {
+  "start": 247.28,
+  "duration": 3.52,
+  "text": "direct comparison to Google Cloud's"
+ },
+ {
+  "start": 248.84,
+  "duration": 3.08,
+  "text": "incredible 63%."
+ },
+ {
+  "start": 250.8,
+  "duration": 3.88,
+  "text": "To the extent that there was an issue,"
+ },
+ {
+  "start": 251.92,
+  "duration": 4.36,
+  "text": "it was in Amazon's costly AI buildout."
+ },
+ {
+  "start": 254.68,
+  "duration": 4.08,
+  "text": "Amazon said they had added more server"
+ },
+ {
+  "start": 256.28,
+  "duration": 4.12,
+  "text": "capacity than any other company in 2025"
+ },
+ {
+  "start": 258.76,
+  "duration": 3.44,
+  "text": "and plan to accelerate construction even"
+ },
+ {
+  "start": 260.4,
+  "duration": 4.24,
+  "text": "more this year. Their capital spending"
+ },
+ {
+  "start": 262.2,
+  "duration": 4.52,
+  "text": "for Q1 was 43.2 billion, putting them"
+ },
+ {
+  "start": 264.64,
+  "duration": 4.04,
+  "text": "slightly behind their $200 target pace"
+ },
+ {
+  "start": 266.72,
+  "duration": 4.08,
+  "text": "for the full year, but that remains a"
+ },
+ {
+  "start": 268.68,
+  "duration": 3.6,
+  "text": "60% jump from last year and the largest"
+ },
+ {
+  "start": 270.8,
+  "duration": 4.0,
+  "text": "overall number between the four big tech"
+ },
+ {
+  "start": 272.28,
+  "duration": 4.12,
+  "text": "hyperscalers. Amazon is now essentially"
+ },
+ {
+  "start": 274.8,
+  "duration": 3.52,
+  "text": "spending every dollar they make on the"
+ },
+ {
+  "start": 276.4,
+  "duration": 3.84,
+  "text": "AI buildout, driving free cash flows for"
+ },
+ {
+  "start": 278.32,
+  "duration": 4.32,
+  "text": "the quarter up from almost 26 billion"
+ },
+ {
+  "start": 280.24,
+  "duration": 3.6,
+  "text": "this time last year down to 1.2 billion"
+ },
+ {
+  "start": 282.64,
+  "duration": 3.24,
+  "text": "this quarter."
+ },
+ {
+  "start": 283.84,
+  "duration": 3.36,
+  "text": "CEO Andy Jassy dismissed concerns,"
+ },
+ {
+  "start": 285.88,
+  "duration": 3.28,
+  "text": "stating the company would keep spending"
+ },
+ {
+  "start": 287.2,
+  "duration": 3.32,
+  "text": "to keep up with demand. He added that he"
+ },
+ {
+  "start": 289.16,
+  "duration": 3.0,
+  "text": "was confident that additional spending"
+ },
+ {
+  "start": 290.52,
+  "duration": 3.04,
+  "text": "would translate into strong profits"
+ },
+ {
+  "start": 292.16,
+  "duration": 3.4,
+  "text": "because most of the new supplies are"
+ },
+ {
+  "start": 293.56,
+  "duration": 4.08,
+  "text": "already spoken for. And, of course, with"
+ },
+ {
+  "start": 295.56,
+  "duration": 3.72,
+  "text": "OpenAI now partnered with AWS alongside"
+ },
+ {
+  "start": 297.64,
+  "duration": 3.52,
+  "text": "Anthropic, that is probably a fairly"
+ },
+ {
+  "start": 299.28,
+  "duration": 4.16,
+  "text": "safe bet. The Wall Street Journal called"
+ },
+ {
+  "start": 301.16,
+  "duration": 3.64,
+  "text": "the AWS expansion prescient, writing,"
+ },
+ {
+  "start": 303.44,
+  "duration": 2.96,
+  "text": "\"The growing demand for chatbots and"
+ },
+ {
+  "start": 304.8,
+  "duration": 3.44,
+  "text": "other AI-powered tools is outpacing the"
+ },
+ {
+  "start": 306.4,
+  "duration": 4.6,
+  "text": "supply of chips and storage, causing"
+ },
+ {
+  "start": 308.24,
+  "duration": 4.36,
+  "text": "outages and surging prices.\" Jassy also"
+ },
+ {
+  "start": 311.0,
+  "duration": 3.48,
+  "text": "noted that Amazon's in-house chips have"
+ },
+ {
+  "start": 312.6,
+  "duration": 3.6,
+  "text": "been well received, commenting, \"We have"
+ },
+ {
+  "start": 314.48,
+  "duration": 3.16,
+  "text": "such demand right now for Trainium from"
+ },
+ {
+  "start": 316.2,
+  "duration": 3.48,
+  "text": "various companies who will consume as"
+ },
+ {
+  "start": 317.64,
+  "duration": 3.0,
+  "text": "much as we make. I expect over time"
+ },
+ {
+  "start": 319.68,
+  "duration": 2.84,
+  "text": "there's a good chance we're going to"
+ },
+ {
+  "start": 320.64,
+  "duration": 3.08,
+  "text": "sell racks over the coming years. We"
+ },
+ {
+  "start": 322.52,
+  "duration": 3.0,
+  "text": "have to decide how much we're going to"
+ },
+ {
+  "start": 323.72,
+  "duration": 2.92,
+  "text": "allocate to the existing demand and how"
+ },
+ {
+  "start": 325.52,
+  "duration": 3.4,
+  "text": "much we're going to save to sell as"
+ },
+ {
+  "start": 326.64,
+  "duration": 3.72,
+  "text": "racks.\" He commented that if their chips"
+ },
+ {
+  "start": 328.92,
+  "duration": 3.36,
+  "text": "were a standalone business and actually"
+ },
+ {
+  "start": 330.36,
+  "duration": 4.32,
+  "text": "booking revenue from AWS, they would be"
+ },
+ {
+  "start": 332.28,
+  "duration": 4.68,
+  "text": "sitting at 50 billion in ARR. Jassy"
+ },
+ {
+  "start": 334.68,
+  "duration": 3.84,
+  "text": "boasted, \"As best as we can tell, our"
+ },
+ {
+  "start": 336.96,
+  "duration": 2.72,
+  "text": "custom silicon business is now one of"
+ },
+ {
+  "start": 338.52,
+  "duration": 2.84,
+  "text": "the top three data center chip"
+ },
+ {
+  "start": 339.68,
+  "duration": 2.72,
+  "text": "businesses in the world, and the speed"
+ },
+ {
+  "start": 341.36,
+  "duration": 2.68,
+  "text": "at which we've gotten here is"
+ },
+ {
+  "start": 342.4,
+  "duration": 3.04,
+  "text": "extraordinary.\""
+ },
+ {
+  "start": 344.04,
+  "duration": 3.2,
+  "text": "Now, one of the big themes over the past"
+ },
+ {
+  "start": 345.44,
+  "duration": 3.8,
+  "text": "year has been Amazon reasserting their"
+ },
+ {
+  "start": 347.24,
+  "duration": 3.28,
+  "text": "dominance as the largest cloud provider."
+ },
+ {
+  "start": 349.24,
+  "duration": 2.68,
+  "text": "There's been far less emphasis on"
+ },
+ {
+  "start": 350.52,
+  "duration": 3.48,
+  "text": "training their own models and releasing"
+ },
+ {
+  "start": 351.92,
+  "duration": 3.44,
+  "text": "AI products. Instead, they're forming"
+ },
+ {
+  "start": 354.0,
+  "duration": 2.84,
+  "text": "strong strategic partnerships and"
+ },
+ {
+  "start": 355.36,
+  "duration": 3.16,
+  "text": "putting themselves in prime position as"
+ },
+ {
+  "start": 356.84,
+  "duration": 3.8,
+  "text": "a picks and shovels AI infrastructure"
+ },
+ {
+  "start": 358.52,
+  "duration": 3.24,
+  "text": "play. Jassy reinforced that strategic"
+ },
+ {
+  "start": 360.64,
+  "duration": 2.64,
+  "text": "pivot during the earnings call,"
+ },
+ {
+  "start": 361.76,
+  "duration": 2.72,
+  "text": "commenting, \"We're in the middle of some"
+ },
+ {
+  "start": 363.28,
+  "duration": 2.96,
+  "text": "of the biggest inflections of our"
+ },
+ {
+  "start": 364.48,
+  "duration": 3.04,
+  "text": "lifetime. We're well-positioned to lead,"
+ },
+ {
+  "start": 366.24,
+  "duration": 3.72,
+  "text": "and I'm very optimistic about what's"
+ },
+ {
+  "start": 367.52,
+  "duration": 3.64,
+  "text": "ahead for our customers and for Amazon.\""
+ },
+ {
+  "start": 369.96,
+  "duration": 3.12,
+  "text": "Still, the market had a bit of a"
+ },
+ {
+  "start": 371.16,
+  "duration": 3.16,
+  "text": "lukewarm response. The stock was down"
+ },
+ {
+  "start": 373.08,
+  "duration": 3.84,
+  "text": "initially, but ended the overnight"
+ },
+ {
+  "start": 374.32,
+  "duration": 4.04,
+  "text": "session up 2.6%. Many attributed this,"
+ },
+ {
+  "start": 376.92,
+  "duration": 3.08,
+  "text": "though, to the market already boosting"
+ },
+ {
+  "start": 378.36,
+  "duration": 3.4,
+  "text": "Amazon on news of the OpenAI deal"
+ },
+ {
+  "start": 380.0,
+  "duration": 3.0,
+  "text": "earlier in the week. The logic is that"
+ },
+ {
+  "start": 381.76,
+  "duration": 2.72,
+  "text": "with the stock already elevated, it"
+ },
+ {
+  "start": 383.0,
+  "duration": 3.28,
+  "text": "would have taken a big upside surprise"
+ },
+ {
+  "start": 384.48,
+  "duration": 3.72,
+  "text": "to push it even further. Most of the"
+ },
+ {
+  "start": 386.28,
+  "duration": 3.12,
+  "text": "commentary centered around AWS righting"
+ },
+ {
+  "start": 388.2,
+  "duration": 3.52,
+  "text": "the ship with a little help from the"
+ },
+ {
+  "start": 389.4,
+  "duration": 5.92,
+  "text": "gigantic compute crunch. Sheharyar again"
+ },
+ {
+  "start": 391.72,
+  "duration": 5.88,
+  "text": "wrote, \"AWS is now a $152 billion ARR"
+ },
+ {
+  "start": 395.32,
+  "duration": 3.8,
+  "text": "business growing 28% per year. That"
+ },
+ {
+  "start": 397.6,
+  "duration": 3.76,
+  "text": "marks its fastest growth in nearly four"
+ },
+ {
+  "start": 399.12,
+  "duration": 3.64,
+  "text": "years.\" Wrote Signal, \"People"
+ },
+ {
+  "start": 401.36,
+  "duration": 3.56,
+  "text": "underestimate how big of a deal it is"
+ },
+ {
+  "start": 402.76,
+  "duration": 3.52,
+  "text": "that OpenAI models are now on Bedrock."
+ },
+ {
+  "start": 404.92,
+  "duration": 2.8,
+  "text": "I've met so many companies that"
+ },
+ {
+  "start": 406.28,
+  "duration": 3.36,
+  "text": "defaulted to Anthropic and Claude"
+ },
+ {
+  "start": 407.72,
+  "duration": 3.32,
+  "text": "because they were already on Bedrock,"
+ },
+ {
+  "start": 409.64,
+  "duration": 3.2,
+  "text": "and for a long time that was basically"
+ },
+ {
+  "start": 411.04,
+  "duration": 4.52,
+  "text": "the path of least resistance. This is"
+ },
+ {
+  "start": 412.84,
+  "duration": 4.24,
+  "text": "huge for OpenAI model accessibility.\""
+ },
+ {
+  "start": 415.56,
+  "duration": 3.12,
+  "text": "Moving on to Microsoft, the company has"
+ },
+ {
+  "start": 417.08,
+  "duration": 3.32,
+  "text": "been sort of in this middle space of the"
+ },
+ {
+  "start": 418.68,
+  "duration": 3.6,
+  "text": "three big cloud giants. They didn't"
+ },
+ {
+  "start": 420.4,
+  "duration": 3.6,
+  "text": "commit to aggressive growth like Google,"
+ },
+ {
+  "start": 422.28,
+  "duration": 4.08,
+  "text": "instead opting for a more conservative"
+ },
+ {
+  "start": 424.0,
+  "duration": 3.64,
+  "text": "AI CapEx strategy. They also have scale"
+ },
+ {
+  "start": 426.36,
+  "duration": 3.68,
+  "text": "and incumbency disadvantage when"
+ },
+ {
+  "start": 427.64,
+  "duration": 4.0,
+  "text": "compared to AWS. Most of what they did"
+ },
+ {
+  "start": 430.04,
+  "duration": 3.92,
+  "text": "have was exclusive distribution rights"
+ },
+ {
+  "start": 431.64,
+  "duration": 3.68,
+  "text": "to OpenAI's models, and that's now gone."
+ },
+ {
+  "start": 433.96,
+  "duration": 3.0,
+  "text": "At the same time, they're one of the few"
+ },
+ {
+  "start": 435.32,
+  "duration": 3.04,
+  "text": "companies selling tokens during a token"
+ },
+ {
+  "start": 436.96,
+  "duration": 4.24,
+  "text": "drought, and that counts for a whole"
+ },
+ {
+  "start": 438.36,
+  "duration": 4.52,
+  "text": "lot. The big story from earnings was 39%"
+ },
+ {
+  "start": 441.2,
+  "duration": 2.96,
+  "text": "growth for Azure. That was right in line"
+ },
+ {
+  "start": 442.88,
+  "duration": 2.6,
+  "text": "with expectations and just a one"
+ },
+ {
+  "start": 444.16,
+  "duration": 3.2,
+  "text": "percentage point acceleration from the"
+ },
+ {
+  "start": 445.48,
+  "duration": 4.04,
+  "text": "previous quarter. Top-line revenue was a"
+ },
+ {
+  "start": 447.36,
+  "duration": 4.44,
+  "text": "slight beat, coming in at 82.9 billion"
+ },
+ {
+  "start": 449.52,
+  "duration": 4.4,
+  "text": "for an 18% year-over-year gain. In terms"
+ },
+ {
+  "start": 451.8,
+  "duration": 3.48,
+  "text": "of forecast, CFO Amy Hood projected this"
+ },
+ {
+  "start": 453.92,
+  "duration": 3.68,
+  "text": "growth rate to continue at a steady"
+ },
+ {
+  "start": 455.28,
+  "duration": 4.64,
+  "text": "pace, anticipating Azure's 40% growth"
+ },
+ {
+  "start": 457.6,
+  "duration": 4.4,
+  "text": "rate to continue for Q2. CapEx guidance"
+ },
+ {
+  "start": 459.92,
+  "duration": 3.8,
+  "text": "was lifted by 25 billion to reach 190"
+ },
+ {
+  "start": 462.0,
+  "duration": 3.36,
+  "text": "billion for the year. Hood attributed"
+ },
+ {
+  "start": 463.72,
+  "duration": 3.04,
+  "text": "the entire increase to higher component"
+ },
+ {
+  "start": 465.36,
+  "duration": 3.96,
+  "text": "prices rather than adding more data"
+ },
+ {
+  "start": 466.76,
+  "duration": 4.36,
+  "text": "center projects. On Copilot, CEO Satya"
+ },
+ {
+  "start": 469.32,
+  "duration": 3.24,
+  "text": "Nadella said that Microsoft now has 20"
+ },
+ {
+  "start": 471.12,
+  "duration": 3.96,
+  "text": "million paid seats for the enterprise"
+ },
+ {
+  "start": 472.56,
+  "duration": 3.88,
+  "text": "add-on, up from 15 million in January."
+ },
+ {
+  "start": 475.08,
+  "duration": 3.08,
+  "text": "Microsoft expects that growth to"
+ },
+ {
+  "start": 476.44,
+  "duration": 3.56,
+  "text": "continue into the third quarter. It"
+ },
+ {
+  "start": 478.16,
+  "duration": 4.12,
+  "text": "appears that utilization is also up with"
+ },
+ {
+  "start": 480.0,
+  "duration": 3.8,
+  "text": "Nadella commenting, \"Weekly engagement"
+ },
+ {
+  "start": 482.28,
+  "duration": 3.0,
+  "text": "is now at the same level as Outlook as"
+ },
+ {
+  "start": 483.8,
+  "duration": 3.28,
+  "text": "more and more users make Copilot a"
+ },
+ {
+  "start": 485.28,
+  "duration": 3.56,
+  "text": "habit.\" Responding to questions about"
+ },
+ {
+  "start": 487.08,
+  "duration": 3.88,
+  "text": "losing exclusive access to OpenAI's"
+ },
+ {
+  "start": 488.84,
+  "duration": 4.0,
+  "text": "models, Nadella downplayed concerns,"
+ },
+ {
+  "start": 490.96,
+  "duration": 3.72,
+  "text": "stating, \"We have a frontier model"
+ },
+ {
+  "start": 492.84,
+  "duration": 3.24,
+  "text": "royalty-free with all the IP rights that"
+ },
+ {
+  "start": 494.68,
+  "duration": 4.04,
+  "text": "we will have access to all the way to"
+ },
+ {
+  "start": 496.08,
+  "duration": 4.04,
+  "text": "32, and we fully plan to exploit it.\""
+ },
+ {
+  "start": 498.72,
+  "duration": 3.12,
+  "text": "Over the past few months, the market has"
+ },
+ {
+  "start": 500.12,
+  "duration": 3.4,
+  "text": "lumped Microsoft in with software stocks"
+ },
+ {
+  "start": 501.84,
+  "duration": 3.44,
+  "text": "and included it in the SaaS apocalypse"
+ },
+ {
+  "start": 503.52,
+  "duration": 3.88,
+  "text": "with the stock down more than 10% so far"
+ },
+ {
+  "start": 505.28,
+  "duration": 3.32,
+  "text": "this year. Unfortunately for them, last"
+ },
+ {
+  "start": 507.4,
+  "duration": 2.88,
+  "text": "night's earnings didn't seem to do"
+ },
+ {
+  "start": 508.6,
+  "duration": 3.0,
+  "text": "anything to change that viewpoint with"
+ },
+ {
+  "start": 510.28,
+  "duration": 2.639,
+  "text": "the stock whipsawing up and down"
+ },
+ {
+  "start": 511.6,
+  "duration": 2.96,
+  "text": "throughout the overnight session, but"
+ },
+ {
+  "start": 512.919,
+  "duration": 3.081,
+  "text": "ending the night basically flat."
+ },
+ {
+  "start": 514.56,
+  "duration": 2.96,
+  "text": "Ultimately, nothing disastrous or"
+ },
+ {
+  "start": 516.0,
+  "duration": 3.479,
+  "text": "spectacular came out of the earnings"
+ },
+ {
+  "start": 517.52,
+  "duration": 3.88,
+  "text": "call. They continue to add GPUs to their"
+ },
+ {
+  "start": 519.479,
+  "duration": 3.081,
+  "text": "fleet at a tremendous pace, but a pace"
+ },
+ {
+  "start": 521.4,
+  "duration": 3.0,
+  "text": "that feels conservative compared to"
+ },
+ {
+  "start": 522.56,
+  "duration": 3.52,
+  "text": "Google's numbers. It's a big positive to"
+ },
+ {
+  "start": 524.4,
+  "duration": 3.12,
+  "text": "see Copilot growing, but the negative"
+ },
+ {
+  "start": 526.08,
+  "duration": 3.44,
+  "text": "take is that 20 million is still a drop"
+ },
+ {
+  "start": 527.52,
+  "duration": 4.68,
+  "text": "in the ocean compared to the roughly 320"
+ },
+ {
+  "start": 529.52,
+  "duration": 4.08,
+  "text": "million paid seats for Office 365."
+ },
+ {
+  "start": 532.2,
+  "duration": 3.24,
+  "text": "After earnings were released, but prior"
+ },
+ {
+  "start": 533.6,
+  "duration": 4.12,
+  "text": "to the investor call, Gene Munster of"
+ },
+ {
+  "start": 535.44,
+  "duration": 3.72,
+  "text": "Deepwater Management wrote, \"Microsoft"
+ },
+ {
+  "start": 537.72,
+  "duration": 3.32,
+  "text": "is in a tight spot because they can't"
+ },
+ {
+  "start": 539.16,
+  "duration": 4.24,
+  "text": "shake the negative narrative. Stock is"
+ },
+ {
+  "start": 541.04,
+  "duration": 4.52,
+  "text": "down 1% on solid numbers. This past"
+ },
+ {
+  "start": 543.4,
+  "duration": 4.48,
+  "text": "month, Microsoft is up 17% in line with"
+ },
+ {
+  "start": 545.56,
+  "duration": 3.48,
+  "text": "the Nasdaq. My take, they need to make a"
+ },
+ {
+  "start": 547.88,
+  "duration": 2.6,
+  "text": "statement on the call tonight and make"
+ },
+ {
+  "start": 549.04,
+  "duration": 3.0,
+  "text": "it easy for investors to believe that"
+ },
+ {
+  "start": 550.48,
+  "duration": 3.92,
+  "text": "they have AI-powered products beyond"
+ },
+ {
+  "start": 552.04,
+  "duration": 4.72,
+  "text": "Azure that customers must have. Copilot"
+ },
+ {
+  "start": 554.4,
+  "duration": 3.68,
+  "text": "has been a miss.\" Nadella ultimately"
+ },
+ {
+  "start": 556.76,
+  "duration": 2.8,
+  "text": "didn't deliver that big statement, and"
+ },
+ {
+  "start": 558.08,
+  "duration": 3.64,
+  "text": "so the company continues to perform like"
+ },
+ {
+  "start": 559.56,
+  "duration": 3.84,
+  "text": "a perfectly average tech stock."
+ },
+ {
+  "start": 561.72,
+  "duration": 3.8,
+  "text": "Not a bad place to be during the AI"
+ },
+ {
+  "start": 563.4,
+  "duration": 3.6,
+  "text": "boom, but Microsoft is starting to fall"
+ },
+ {
+  "start": 565.52,
+  "duration": 2.72,
+  "text": "behind their peers who are making bigger"
+ },
+ {
+  "start": 567.0,
+  "duration": 3.24,
+  "text": "moves."
+ },
+ {
+  "start": 568.24,
+  "duration": 3.44,
+  "text": "Now, on the Meta front, the past year"
+ },
+ {
+  "start": 570.24,
+  "duration": 3.76,
+  "text": "has been all about rapidly expanding"
+ },
+ {
+  "start": 571.68,
+  "duration": 3.6,
+  "text": "CapEx. Beginning in 2024, Mark"
+ },
+ {
+  "start": 574.0,
+  "duration": 2.64,
+  "text": "Zuckerberg seemed to make the decision"
+ },
+ {
+  "start": 575.28,
+  "duration": 2.84,
+  "text": "that he would continue accelerating data"
+ },
+ {
+  "start": 576.64,
+  "duration": 3.72,
+  "text": "center spending regardless of investor"
+ },
+ {
+  "start": 578.12,
+  "duration": 3.96,
+  "text": "concerns. Meta now find themselves with"
+ },
+ {
+  "start": 580.36,
+  "duration": 3.52,
+  "text": "the largest market cap-adjusted CapEx"
+ },
+ {
+  "start": 582.08,
+  "duration": 3.68,
+  "text": "commitments among the tech giants. Over"
+ },
+ {
+  "start": 583.88,
+  "duration": 3.32,
+  "text": "the past few quarters, the narrative was"
+ },
+ {
+  "start": 585.76,
+  "duration": 3.88,
+  "text": "that revenue growth was accelerating"
+ },
+ {
+  "start": 587.2,
+  "duration": 3.64,
+  "text": "fast enough to justify the AI spend, and"
+ },
+ {
+  "start": 589.64,
+  "duration": 2.8,
+  "text": "that Zuckerberg had earned the right to"
+ },
+ {
+  "start": 590.84,
+  "duration": 3.68,
+  "text": "spend big on data centers by delivering"
+ },
+ {
+  "start": 592.44,
+  "duration": 3.64,
+  "text": "solid returns. Analysts were linking"
+ },
+ {
+  "start": 594.52,
+  "duration": 3.28,
+  "text": "increasing advertising revenue directly"
+ },
+ {
+  "start": 596.08,
+  "duration": 3.6,
+  "text": "to AI optimizations in Meta's ad"
+ },
+ {
+  "start": 597.8,
+  "duration": 3.32,
+  "text": "platform. Heading into Wednesday night's"
+ },
+ {
+  "start": 599.68,
+  "duration": 3.08,
+  "text": "earnings, the balance between revenue"
+ },
+ {
+  "start": 601.12,
+  "duration": 3.48,
+  "text": "growth and CapEx remained the central"
+ },
+ {
+  "start": 602.76,
+  "duration": 3.28,
+  "text": "question. The financial reports showed"
+ },
+ {
+  "start": 604.6,
+  "duration": 2.44,
+  "text": "that Meta had delivered another record"
+ },
+ {
+  "start": 606.04,
+  "duration": 3.04,
+  "text": "quarter."
+ },
+ {
+  "start": 607.04,
+  "duration": 4.76,
+  "text": "Quarterly revenue came in at 56.3"
+ },
+ {
+  "start": 609.08,
+  "duration": 4.36,
+  "text": "billion, up 33% over the past year. Both"
+ },
+ {
+  "start": 611.8,
+  "duration": 3.48,
+  "text": "total revenue and net income beat"
+ },
+ {
+  "start": 613.44,
+  "duration": 4.0,
+  "text": "analyst forecast by a fairly significant"
+ },
+ {
+  "start": 615.28,
+  "duration": 4.48,
+  "text": "margin. On the other side of the ledger,"
+ },
+ {
+  "start": 617.44,
+  "duration": 3.76,
+  "text": "Meta hiked capital expenses once again."
+ },
+ {
+  "start": 619.76,
+  "duration": 4.6,
+  "text": "They increased this year's forecast from"
+ },
+ {
+  "start": 621.2,
+  "duration": 4.84,
+  "text": "135 billion to 145 billion. Notably,"
+ },
+ {
+  "start": 624.36,
+  "duration": 3.72,
+  "text": "this wasn't because Meta was tacking on"
+ },
+ {
+  "start": 626.04,
+  "duration": 3.52,
+  "text": "another data center or two. The CapEx"
+ },
+ {
+  "start": 628.08,
+  "duration": 3.0,
+  "text": "hike was instead attributed to"
+ },
+ {
+  "start": 629.56,
+  "duration": 2.96,
+  "text": "expectations for higher component"
+ },
+ {
+  "start": 631.08,
+  "duration": 3.4,
+  "text": "pricing and additional data center"
+ },
+ {
+  "start": 632.52,
+  "duration": 3.72,
+  "text": "costs. Meta also disclosed a"
+ },
+ {
+  "start": 634.48,
+  "duration": 3.64,
+  "text": "quarter-over-quarter decrease in daily"
+ },
+ {
+  "start": 636.24,
+  "duration": 3.8,
+  "text": "active people, which is Meta's in-house"
+ },
+ {
+  "start": 638.12,
+  "duration": 3.56,
+  "text": "metric for user activity."
+ },
+ {
+  "start": 640.04,
+  "duration": 3.32,
+  "text": "The decline was small and Meta blamed"
+ },
+ {
+  "start": 641.68,
+  "duration": 3.48,
+  "text": "internet disruptions in Iran alongside a"
+ },
+ {
+  "start": 643.36,
+  "duration": 3.24,
+  "text": "restriction on WhatsApp in Russia."
+ },
+ {
+  "start": 645.16,
+  "duration": 2.96,
+  "text": "Still, it's the first time that Meta's"
+ },
+ {
+  "start": 646.6,
+  "duration": 4.08,
+  "text": "user metrics have decreased since they"
+ },
+ {
+  "start": 648.12,
+  "duration": 4.16,
+  "text": "first began reporting it in 2019."
+ },
+ {
+  "start": 650.68,
+  "duration": 3.52,
+  "text": "Advocating for his data center buildout,"
+ },
+ {
+  "start": 652.28,
+  "duration": 3.32,
+  "text": "Mark Zuckerberg told investors, \"Every"
+ },
+ {
+  "start": 654.2,
+  "duration": 2.64,
+  "text": "sign that we're seeing in our own work"
+ },
+ {
+  "start": 655.6,
+  "duration": 2.96,
+  "text": "and across the industry gives us"
+ },
+ {
+  "start": 656.84,
+  "duration": 3.16,
+  "text": "confidence in this investment. That"
+ },
+ {
+  "start": 658.56,
+  "duration": 3.48,
+  "text": "said, we are very focused on increasing"
+ },
+ {
+  "start": 660.0,
+  "duration": 3.8,
+  "text": "the efficiency of our investments.\" Meta"
+ },
+ {
+  "start": 662.04,
+  "duration": 2.92,
+  "text": "CFO Susan Li noted that Meta is"
+ },
+ {
+  "start": 663.8,
+  "duration": 2.72,
+  "text": "suffering from the same compute"
+ },
+ {
+  "start": 664.96,
+  "duration": 3.0,
+  "text": "shortages everyone else, even though"
+ },
+ {
+  "start": 666.52,
+  "duration": 3.04,
+  "text": "most of their AI computers deployed"
+ },
+ {
+  "start": 667.96,
+  "duration": 4.12,
+  "text": "towards internal and infrastructure use"
+ },
+ {
+  "start": 669.56,
+  "duration": 4.24,
+  "text": "rather than customer use. Li said, \"Our"
+ },
+ {
+  "start": 672.08,
+  "duration": 3.8,
+  "text": "experience so far has been that we have"
+ },
+ {
+  "start": 673.8,
+  "duration": 3.24,
+  "text": "underestimated our compute needs, even"
+ },
+ {
+  "start": 675.88,
+  "duration": 3.36,
+  "text": "as we have been ramping capacity"
+ },
+ {
+  "start": 677.04,
+  "duration": 3.44,
+  "text": "significantly. So, our expectation is"
+ },
+ {
+  "start": 679.24,
+  "duration": 3.72,
+  "text": "that compute will become even more"
+ },
+ {
+  "start": 680.48,
+  "duration": 3.8,
+  "text": "central to the business going forward.\""
+ },
+ {
+  "start": 682.96,
+  "duration": 3.68,
+  "text": "In any other year, this would have been"
+ },
+ {
+  "start": 684.28,
+  "duration": 3.44,
+  "text": "a blowout earnings result. A 33% revenue"
+ },
+ {
+  "start": 686.64,
+  "duration": 3.4,
+  "text": "growth rate is the highest they've"
+ },
+ {
+  "start": 687.72,
+  "duration": 5.0,
+  "text": "achieved since 2021 and up substantially"
+ },
+ {
+  "start": 690.04,
+  "duration": 4.28,
+  "text": "from 23.8% for the previous quarter. And"
+ },
+ {
+  "start": 692.72,
+  "duration": 3.64,
+  "text": "yet, Meta was the biggest loser from the"
+ },
+ {
+  "start": 694.32,
+  "duration": 3.44,
+  "text": "big tech earnings. The market still"
+ },
+ {
+  "start": 696.36,
+  "duration": 3.16,
+  "text": "hates their CapEx spend and sent the"
+ },
+ {
+  "start": 697.76,
+  "duration": 2.84,
+  "text": "stock plummeting by 5% in overnight"
+ },
+ {
+  "start": 699.52,
+  "duration": 2.56,
+  "text": "trading."
+ },
+ {
+  "start": 700.6,
+  "duration": 3.64,
+  "text": "Jim Cramer summed up the market opinion"
+ },
+ {
+  "start": 702.08,
+  "duration": 3.4,
+  "text": "when he said, \"Meta did not offer enough"
+ },
+ {
+  "start": 704.24,
+  "duration": 3.04,
+  "text": "reasons to spend the way that other"
+ },
+ {
+  "start": 705.48,
+  "duration": 3.24,
+  "text": "companies did. They just told us that"
+ },
+ {
+  "start": 707.28,
+  "duration": 3.2,
+  "text": "they could do better with it. Hence the"
+ },
+ {
+  "start": 708.72,
+  "duration": 3.8,
+  "text": "decline tonight.\""
+ },
+ {
+  "start": 710.48,
+  "duration": 3.88,
+  "text": "If there is one big takeaway from tech"
+ },
+ {
+  "start": 712.52,
+  "duration": 4.04,
+  "text": "earnings, it's that the AI boom is in"
+ },
+ {
+  "start": 714.36,
+  "duration": 3.92,
+  "text": "full effect. Everything from memory chip"
+ },
+ {
+  "start": 716.56,
+  "duration": 4.36,
+  "text": "foundries to data center construction is"
+ },
+ {
+  "start": 718.28,
+  "duration": 3.8,
+  "text": "running at 100% in a frankly vain"
+ },
+ {
+  "start": 720.92,
+  "duration": 4.04,
+  "text": "attempt to keep up with the endless"
+ },
+ {
+  "start": 722.08,
+  "duration": 4.759,
+  "text": "demand for tokens. This is categorically"
+ },
+ {
+  "start": 724.96,
+  "duration": 3.28,
+  "text": "different to last year, when many"
+ },
+ {
+  "start": 726.839,
+  "duration": 3.041,
+  "text": "analysts still had questions and AI"
+ },
+ {
+  "start": 728.24,
+  "duration": 3.92,
+  "text": "optimists were betting on a forthcoming"
+ },
+ {
+  "start": 729.88,
+  "duration": 3.52,
+  "text": "boom. That boom is now clearly here and"
+ },
+ {
+  "start": 732.16,
+  "duration": 2.96,
+  "text": "it's showing up in big tech's growth"
+ },
+ {
+  "start": 733.4,
+  "duration": 3.12,
+  "text": "numbers. There are still, of course,"
+ },
+ {
+  "start": 735.12,
+  "duration": 3.28,
+  "text": "reasonable questions around business"
+ },
+ {
+  "start": 736.52,
+  "duration": 3.68,
+  "text": "models and profitability, as well as who"
+ },
+ {
+  "start": 738.4,
+  "duration": 4.439,
+  "text": "the biggest winners will be. But, AI"
+ },
+ {
+  "start": 740.2,
+  "duration": 5.16,
+  "text": "demand is unquestionable at this point"
+ },
+ {
+  "start": 742.839,
+  "duration": 3.401,
+  "text": "and appears to still be accelerating."
+ },
+ {
+  "start": 745.36,
+  "duration": 2.84,
+  "text": "For now, that that's going to do it for"
+ },
+ {
+  "start": 746.24,
+  "duration": 3.56,
+  "text": "today's headlines. Next up, the main"
+ },
+ {
+  "start": 748.2,
+  "duration": 3.639,
+  "text": "episode."
+ },
+ {
+  "start": 749.8,
+  "duration": 4.88,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 751.839,
+  "duration": 5.801,
+  "text": "Nominally, our topic today is Cursor's"
+ },
+ {
+  "start": 754.68,
+  "duration": 5.04,
+  "text": "new Cursor SDK. It's a platform where,"
+ },
+ {
+  "start": 757.64,
+  "duration": 3.88,
+  "text": "as Cursor's Li Robinson put it, you can"
+ },
+ {
+  "start": 759.72,
+  "duration": 3.84,
+  "text": "build local hackable agents with any"
+ },
+ {
+  "start": 761.52,
+  "duration": 4.64,
+  "text": "model or ship products on top of managed"
+ },
+ {
+  "start": 763.56,
+  "duration": 4.48,
+  "text": "cloud agents. The Cursor SDK handles the"
+ },
+ {
+  "start": 766.16,
+  "duration": 3.84,
+  "text": "harness, sandboxing, computer use, demo"
+ },
+ {
+  "start": 768.04,
+  "duration": 3.64,
+  "text": "videos, GitHub integration, etc. We're"
+ },
+ {
+  "start": 770.0,
+  "duration": 2.88,
+  "text": "going to talk about the Cursor SDK, what"
+ },
+ {
+  "start": 771.68,
+  "duration": 2.64,
+  "text": "it does, what people are starting to"
+ },
+ {
+  "start": 772.88,
+  "duration": 2.959,
+  "text": "build with it, but I want to make an"
+ },
+ {
+  "start": 774.32,
+  "duration": 3.56,
+  "text": "argument that it's actually part of a"
+ },
+ {
+  "start": 775.839,
+  "duration": 4.081,
+  "text": "broader phenomenon. In the past few"
+ },
+ {
+  "start": 777.88,
+  "duration": 4.4,
+  "text": "weeks alone, we've seen OpenAI make a"
+ },
+ {
+  "start": 779.92,
+  "duration": 4.04,
+  "text": "big update to their agents SDK. We've"
+ },
+ {
+  "start": 782.28,
+  "duration": 4.64,
+  "text": "seen Anthropic released Claude managed"
+ },
+ {
+  "start": 783.96,
+  "duration": 5.0,
+  "text": "agents. Microsoft released hosted agents"
+ },
+ {
+  "start": 786.92,
+  "duration": 4.0,
+  "text": "in Foundry, with CEO Satya Nadella"
+ },
+ {
+  "start": 788.96,
+  "duration": 3.8,
+  "text": "writing, \"Every agent will need its own"
+ },
+ {
+  "start": 790.92,
+  "duration": 3.24,
+  "text": "computer, and with new hosted agents in"
+ },
+ {
+  "start": 792.76,
+  "duration": 3.16,
+  "text": "Foundry, every agent gets its own"
+ },
+ {
+  "start": 794.16,
+  "duration": 3.48,
+  "text": "dedicated enterprise-grade sandbox with"
+ },
+ {
+  "start": 795.92,
+  "duration": 3.24,
+  "text": "a durable state, built-in identity and"
+ },
+ {
+  "start": 797.64,
+  "duration": 3.84,
+  "text": "governance, and support for any harness"
+ },
+ {
+  "start": 799.16,
+  "duration": 3.679,
+  "text": "or framework.\" Cursor SDK is not the"
+ },
+ {
+  "start": 801.48,
+  "duration": 3.64,
+  "text": "same as all these products, but they are"
+ },
+ {
+  "start": 802.839,
+  "duration": 3.921,
+  "text": "all playing around in similar space. And"
+ },
+ {
+  "start": 805.12,
+  "duration": 4.0,
+  "text": "for the sake of simplicity, I'm going to"
+ },
+ {
+  "start": 806.76,
+  "duration": 4.32,
+  "text": "propose a new name for this category,"
+ },
+ {
+  "start": 809.12,
+  "duration": 3.64,
+  "text": "harness as a service, a new"
+ },
+ {
+  "start": 811.08,
+  "duration": 3.84,
+  "text": "infrastructure category where companies"
+ },
+ {
+  "start": 812.76,
+  "duration": 4.32,
+  "text": "sell access to their agent runtime,"
+ },
+ {
+  "start": 814.92,
+  "duration": 3.36,
+  "text": "which is the engine that turns an LLM"
+ },
+ {
+  "start": 817.08,
+  "duration": 3.6,
+  "text": "into something that can actually do"
+ },
+ {
+  "start": 818.28,
+  "duration": 3.88,
+  "text": "work, the same way AWS sells access to"
+ },
+ {
+  "start": 820.68,
+  "duration": 3.0,
+  "text": "compute and Stripe sells access to"
+ },
+ {
+  "start": 822.16,
+  "duration": 2.92,
+  "text": "payment rails."
+ },
+ {
+  "start": 823.68,
+  "duration": 3.159,
+  "text": "So, before we can go to the next level"
+ },
+ {
+  "start": 825.08,
+  "duration": 3.92,
+  "text": "in explaining this, let's take a step"
+ },
+ {
+  "start": 826.839,
+  "duration": 3.161,
+  "text": "back and redefine harness itself. You"
+ },
+ {
+  "start": 829.0,
+  "duration": 2.44,
+  "text": "might have watched or listened to my"
+ },
+ {
+  "start": 830.0,
+  "duration": 3.16,
+  "text": "show about harness engineering a couple"
+ },
+ {
+  "start": 831.44,
+  "duration": 3.8,
+  "text": "weeks ago. It's a term that has been on"
+ },
+ {
+  "start": 833.16,
+  "duration": 3.92,
+  "text": "the rise all year. Akshay on Twitter"
+ },
+ {
+  "start": 835.24,
+  "duration": 3.24,
+  "text": "actually did a nice little summary. He"
+ },
+ {
+  "start": 837.08,
+  "duration": 3.4,
+  "text": "argued that the agent landscape has"
+ },
+ {
+  "start": 838.48,
+  "duration": 3.64,
+  "text": "evolved in three phases, writing that"
+ },
+ {
+  "start": 840.48,
+  "duration": 2.88,
+  "text": "the biggest shift in AI agents had"
+ },
+ {
+  "start": 842.12,
+  "duration": 3.08,
+  "text": "nothing to do with making models"
+ },
+ {
+  "start": 843.36,
+  "duration": 3.8,
+  "text": "smarter, but was instead about making"
+ },
+ {
+  "start": 845.2,
+  "duration": 3.52,
+  "text": "the environment around them smarter. In"
+ },
+ {
+  "start": 847.16,
+  "duration": 3.2,
+  "text": "phase one, the weights phase, he writes,"
+ },
+ {
+  "start": 848.72,
+  "duration": 2.92,
+  "text": "\"Everything was about the model itself."
+ },
+ {
+  "start": 850.36,
+  "duration": 3.0,
+  "text": "Bigger models, more data, better"
+ },
+ {
+  "start": 851.64,
+  "duration": 4.08,
+  "text": "training. Scaling laws told us that"
+ },
+ {
+  "start": 853.36,
+  "duration": 4.0,
+  "text": "progress equals more parameters. RLHF"
+ },
+ {
+  "start": 855.72,
+  "duration": 2.92,
+  "text": "and fine-tuning shaped behavior, and if"
+ },
+ {
+  "start": 857.36,
+  "duration": 3.28,
+  "text": "you wanted a better agent, you trained a"
+ },
+ {
+  "start": 858.64,
+  "duration": 3.0,
+  "text": "better model. In phase two, the context"
+ },
+ {
+  "start": 860.64,
+  "duration": 2.8,
+  "text": "phase, however, there was a new"
+ },
+ {
+  "start": 861.64,
+  "duration": 3.319,
+  "text": "realization. You don't always need to"
+ },
+ {
+  "start": 863.44,
+  "duration": 3.56,
+  "text": "change the model. You can change what"
+ },
+ {
+  "start": 864.959,
+  "duration": 3.761,
+  "text": "the model sees. That got us prompt"
+ },
+ {
+  "start": 867.0,
+  "duration": 3.56,
+  "text": "engineering, few-shot examples, chain of"
+ },
+ {
+  "start": 868.72,
+  "duration": 3.08,
+  "text": "thought, RAG. Suddenly, he writes, 'The"
+ },
+ {
+  "start": 870.56,
+  "duration": 2.6,
+  "text": "same frozen model could behave"
+ },
+ {
+  "start": 871.8,
+  "duration": 3.0,
+  "text": "completely differently based on what you"
+ },
+ {
+  "start": 873.16,
+  "duration": 3.08,
+  "text": "put in front of it.' Developers stopped"
+ },
+ {
+  "start": 874.8,
+  "duration": 3.36,
+  "text": "fine-tuning and started iterating on"
+ },
+ {
+  "start": 876.24,
+  "duration": 3.68,
+  "text": "prompts and retrieval pipelines instead."
+ },
+ {
+  "start": 878.16,
+  "duration": 4.08,
+  "text": "But, he continues, 'Context windows are"
+ },
+ {
+  "start": 879.92,
+  "duration": 4.039,
+  "text": "finite. Long prompts get noisy, models"
+ },
+ {
+  "start": 882.24,
+  "duration": 3.16,
+  "text": "attend unevenly, and every new session"
+ },
+ {
+  "start": 883.959,
+  "duration": 2.761,
+  "text": "starts fresh with zero memory of what"
+ },
+ {
+  "start": 885.4,
+  "duration": 2.92,
+  "text": "happened before.'"
+ },
+ {
+  "start": 886.72,
+  "duration": 3.72,
+  "text": "Which gets us to the third phase, the"
+ },
+ {
+  "start": 888.32,
+  "duration": 3.88,
+  "text": "harness engineering phase. Akshay"
+ },
+ {
+  "start": 890.44,
+  "duration": 3.48,
+  "text": "writes, \"This is where we are now, and"
+ },
+ {
+  "start": 892.2,
+  "duration": 3.2,
+  "text": "the shift is fundamental. The question"
+ },
+ {
+  "start": 893.92,
+  "duration": 2.96,
+  "text": "changed from what should we tell the"
+ },
+ {
+  "start": 895.4,
+  "duration": 3.84,
+  "text": "model to what environment should the"
+ },
+ {
+  "start": 896.88,
+  "duration": 4.16,
+  "text": "model operate in? The model is no longer"
+ },
+ {
+  "start": 899.24,
+  "duration": 3.64,
+  "text": "the sole location of intelligence. It"
+ },
+ {
+  "start": 901.04,
+  "duration": 4.24,
+  "text": "sits inside a harness that includes"
+ },
+ {
+  "start": 902.88,
+  "duration": 4.92,
+  "text": "persistent memory, reusable skills,"
+ },
+ {
+  "start": 905.28,
+  "duration": 4.44,
+  "text": "standardized protocols like MCP and A2A,"
+ },
+ {
+  "start": 907.8,
+  "duration": 3.92,
+  "text": "execution sandboxes, approval gates, and"
+ },
+ {
+  "start": 909.72,
+  "duration": 4.0,
+  "text": "observability layers. The model stays"
+ },
+ {
+  "start": 911.72,
+  "duration": 3.88,
+  "text": "the same. What changes is the task it's"
+ },
+ {
+  "start": 913.72,
+  "duration": 3.76,
+  "text": "being asked to solve. One concrete"
+ },
+ {
+  "start": 915.6,
+  "duration": 3.359,
+  "text": "example he gives is a coding agent asked"
+ },
+ {
+  "start": 917.48,
+  "duration": 3.359,
+  "text": "to implement a feature, run tests, and"
+ },
+ {
+  "start": 918.959,
+  "duration": 3.481,
+  "text": "open a PR. Without a harness, he writes,"
+ },
+ {
+  "start": 920.839,
+  "duration": 3.481,
+  "text": "'The model must keep repo structure,"
+ },
+ {
+  "start": 922.44,
+  "duration": 3.28,
+  "text": "project conventions, workflow state, and"
+ },
+ {
+  "start": 924.32,
+  "duration": 2.84,
+  "text": "tool interactions all inside of a"
+ },
+ {
+  "start": 925.72,
+  "duration": 3.359,
+  "text": "fragile prompt. With a harness,"
+ },
+ {
+  "start": 927.16,
+  "duration": 3.6,
+  "text": "persistent memory supplies context,"
+ },
+ {
+  "start": 929.079,
+  "duration": 3.281,
+  "text": "skill files and code conventions,"
+ },
+ {
+  "start": 930.76,
+  "duration": 3.52,
+  "text": "protocolized interfaces enforce correct"
+ },
+ {
+  "start": 932.36,
+  "duration": 3.76,
+  "text": "schemas, and the runtime sequences steps"
+ },
+ {
+  "start": 934.28,
+  "duration": 3.799,
+  "text": "and handles failures. Same model,"
+ },
+ {
+  "start": 936.12,
+  "duration": 3.28,
+  "text": "completely different reliability.'"
+ },
+ {
+  "start": 938.079,
+  "duration": 2.841,
+  "text": "Importantly, he writes, 'Each phase"
+ },
+ {
+  "start": 939.4,
+  "duration": 3.48,
+  "text": "didn't replace the previous one, it"
+ },
+ {
+  "start": 940.92,
+  "duration": 3.68,
+  "text": "layered on top. Weights still matter,"
+ },
+ {
+  "start": 942.88,
+  "duration": 3.199,
+  "text": "context engineering still matters, but"
+ },
+ {
+  "start": 944.6,
+  "duration": 2.88,
+  "text": "the center of gravity has moved"
+ },
+ {
+  "start": 946.079,
+  "duration": 2.841,
+  "text": "outward.'"
+ },
+ {
+  "start": 947.48,
+  "duration": 4.0,
+  "text": "Now, I think intuitively, people have"
+ },
+ {
+  "start": 948.92,
+  "duration": 4.32,
+  "text": "experienced this to some extent. This"
+ },
+ {
+  "start": 951.48,
+  "duration": 4.88,
+  "text": "agentic explosion that we've experienced"
+ },
+ {
+  "start": 953.24,
+  "duration": 5.64,
+  "text": "in 2026 was not just the byproduct of"
+ },
+ {
+  "start": 956.36,
+  "duration": 4.76,
+  "text": "Opus 4.5 and GPT-5.2, although those"
+ },
+ {
+  "start": 958.88,
+  "duration": 4.44,
+  "text": "model updates were integral to it. It"
+ },
+ {
+  "start": 961.12,
+  "duration": 4.44,
+  "text": "was the combination of those models with"
+ },
+ {
+  "start": 963.32,
+  "duration": 3.72,
+  "text": "their harnesses, Claude Code, which was"
+ },
+ {
+  "start": 965.56,
+  "duration": 3.48,
+  "text": "the default harness for agent builders"
+ },
+ {
+  "start": 967.04,
+  "duration": 4.16,
+  "text": "throughout 2025, and more recently, of"
+ },
+ {
+  "start": 969.04,
+  "duration": 3.44,
+  "text": "course, OpenAI's Codex. The conversation"
+ },
+ {
+  "start": 971.2,
+  "duration": 3.2,
+  "text": "has matured to the point where in a"
+ },
+ {
+  "start": 972.48,
+  "duration": 3.68,
+  "text": "recent interview with Ben Thompson, Sam"
+ },
+ {
+  "start": 974.4,
+  "duration": 3.36,
+  "text": "Altman was asked, \"How important is the"
+ },
+ {
+  "start": 976.16,
+  "duration": 3.36,
+  "text": "harness, the runtime around the model,"
+ },
+ {
+  "start": 977.76,
+  "duration": 4.199,
+  "text": "the tools, the state, to making agents"
+ },
+ {
+  "start": 979.52,
+  "duration": 4.439,
+  "text": "actually work?\" Sam said, \"Hard to"
+ },
+ {
+  "start": 981.959,
+  "duration": 3.321,
+  "text": "overstate how critical it is. I no"
+ },
+ {
+  "start": 983.959,
+  "duration": 2.88,
+  "text": "longer think of the harness and the"
+ },
+ {
+  "start": 985.28,
+  "duration": 3.64,
+  "text": "model as these entirely separable"
+ },
+ {
+  "start": 986.839,
+  "duration": 3.521,
+  "text": "things. Like, my experience of using"
+ },
+ {
+  "start": 988.92,
+  "duration": 2.44,
+  "text": "these, I am very aware of the fact that"
+ },
+ {
+  "start": 990.36,
+  "duration": 2.479,
+  "text": "I don't always know when I fire"
+ },
+ {
+  "start": 991.36,
+  "duration": 3.08,
+  "text": "something off in Codex and it does an"
+ },
+ {
+  "start": 992.839,
+  "duration": 3.761,
+  "text": "amazing thing for me, I don't know how"
+ },
+ {
+  "start": 994.44,
+  "duration": 3.36,
+  "text": "much credit\" Ben Thompson fills in, \"was"
+ },
+ {
+  "start": 996.6,
+  "duration": 2.84,
+  "text": "it the model that's amazing or the"
+ },
+ {
+  "start": 997.8,
+  "duration": 3.92,
+  "text": "harness that's amazing?\" To which Altman"
+ },
+ {
+  "start": 999.44,
+  "duration": 3.76,
+  "text": "responds, \"Yeah, exactly.\""
+ },
+ {
+  "start": 1001.72,
+  "duration": 4.0,
+  "text": "So, we now have these two very different"
+ },
+ {
+  "start": 1003.2,
+  "duration": 3.879,
+  "text": "vectors of increasing AI capability."
+ },
+ {
+  "start": 1005.72,
+  "duration": 2.56,
+  "text": "There's the underlying models and the"
+ },
+ {
+  "start": 1007.079,
+  "duration": 2.281,
+  "text": "changes there, but then there's also"
+ },
+ {
+  "start": 1008.28,
+  "duration": 3.32,
+  "text": "improvements in the harness that"
+ },
+ {
+  "start": 1009.36,
+  "duration": 3.76,
+  "text": "surround them. Of course, another part"
+ },
+ {
+  "start": 1011.6,
+  "duration": 3.0,
+  "text": "of what has made this year feel so"
+ },
+ {
+  "start": 1013.12,
+  "duration": 3.36,
+  "text": "different and what has empowered so many"
+ },
+ {
+  "start": 1014.6,
+  "duration": 3.08,
+  "text": "different people is that we got an open"
+ },
+ {
+  "start": 1016.48,
+  "duration": 2.88,
+  "text": "harness, even though that's weren't what"
+ },
+ {
+  "start": 1017.68,
+  "duration": 3.24,
+  "text": "most people were calling it at the time,"
+ },
+ {
+  "start": 1019.36,
+  "duration": 3.76,
+  "text": "that actually allowed us to build the"
+ },
+ {
+  "start": 1020.92,
+  "duration": 3.6,
+  "text": "structure around agents to have them do"
+ },
+ {
+  "start": 1023.12,
+  "duration": 3.24,
+  "text": "the things that we'd always imagined"
+ },
+ {
+  "start": 1024.52,
+  "duration": 4.36,
+  "text": "agents being able to do."
+ },
+ {
+  "start": 1026.36,
+  "duration": 4.16,
+  "text": "I'm talking, of course, about Open Claw."
+ },
+ {
+  "start": 1028.88,
+  "duration": 4.04,
+  "text": "And yet, Open Claw was not"
+ },
+ {
+  "start": 1030.52,
+  "duration": 3.919,
+  "text": "plug-and-play. You had to do everything"
+ },
+ {
+  "start": 1032.92,
+  "duration": 3.8,
+  "text": "from picking the model to write the"
+ },
+ {
+  "start": 1034.439,
+  "duration": 3.721,
+  "text": "system prompt to define the tool to wire"
+ },
+ {
+  "start": 1036.72,
+  "duration": 3.6,
+  "text": "the agent loop, i.e., the part that"
+ },
+ {
+  "start": 1038.16,
+  "duration": 3.64,
+  "text": "decides what to do next, that dispatches"
+ },
+ {
+  "start": 1040.32,
+  "duration": 4.16,
+  "text": "tools, handles results, decides when to"
+ },
+ {
+  "start": 1041.8,
+  "duration": 4.52,
+  "text": "stop. You had to manage context. You had"
+ },
+ {
+  "start": 1044.48,
+  "duration": 3.199,
+  "text": "to handle errors. The user building"
+ },
+ {
+  "start": 1046.32,
+  "duration": 2.8,
+  "text": "their Open Claw had to orchestrate"
+ },
+ {
+  "start": 1047.679,
+  "duration": 2.641,
+  "text": "sub-agents when they needed parallel"
+ },
+ {
+  "start": 1049.12,
+  "duration": 2.6,
+  "text": "work. They had to figure out how to"
+ },
+ {
+  "start": 1050.32,
+  "duration": 2.56,
+  "text": "store state between runs. They had to"
+ },
+ {
+  "start": 1051.72,
+  "duration": 2.88,
+  "text": "figure out where to deploy it, how to"
+ },
+ {
+  "start": 1052.88,
+  "duration": 2.88,
+  "text": "monitor it, and if something broke, you"
+ },
+ {
+  "start": 1054.6,
+  "duration": 3.28,
+  "text": "fixed it. If you wanted a new"
+ },
+ {
+  "start": 1055.76,
+  "duration": 3.6,
+  "text": "capability, you built it. Every layer of"
+ },
+ {
+  "start": 1057.88,
+  "duration": 3.52,
+  "text": "the stack was yours to assemble,"
+ },
+ {
+  "start": 1059.36,
+  "duration": 3.24,
+  "text": "configure, and maintain."
+ },
+ {
+  "start": 1061.4,
+  "duration": 2.88,
+  "text": "I don't think it's a totally"
+ },
+ {
+  "start": 1062.6,
+  "duration": 3.36,
+  "text": "inappropriate analogy to look at this"
+ },
+ {
+  "start": 1064.28,
+  "duration": 2.88,
+  "text": "almost like the hobbyist era of"
+ },
+ {
+  "start": 1065.96,
+  "duration": 3.08,
+  "text": "computing."
+ },
+ {
+  "start": 1067.16,
+  "duration": 4.0,
+  "text": "In a recent post on LinkedIn, Anders"
+ },
+ {
+  "start": 1069.04,
+  "duration": 4.16,
+  "text": "Carlson wrote about the forgotten era in"
+ },
+ {
+  "start": 1071.16,
+  "duration": 3.519,
+  "text": "computing. In the post, Anders talks"
+ },
+ {
+  "start": 1073.2,
+  "duration": 3.36,
+  "text": "about how they started with a computer"
+ },
+ {
+  "start": 1074.679,
+  "duration": 4.041,
+  "text": "in their school, a little mini computer"
+ },
+ {
+  "start": 1076.56,
+  "duration": 3.16,
+  "text": "called an Alpha LSI, but quickly decided"
+ },
+ {
+  "start": 1078.72,
+  "duration": 3.4,
+  "text": "that they wanted a computer for"
+ },
+ {
+  "start": 1079.72,
+  "duration": 5.04,
+  "text": "theirself. They continue, \"CompUKit"
+ },
+ {
+  "start": 1082.12,
+  "duration": 4.4,
+  "text": "UK101. This was a kit in the true sense"
+ },
+ {
+  "start": 1084.76,
+  "duration": 3.2,
+  "text": "of the word, not just a pre-produced"
+ },
+ {
+  "start": 1086.52,
+  "duration": 3.32,
+  "text": "circuit board that you put in a case,"
+ },
+ {
+  "start": 1087.96,
+  "duration": 4.08,
+  "text": "but an unpopulated circuit board, some"
+ },
+ {
+  "start": 1089.84,
+  "duration": 4.2,
+  "text": "chips and other components, and a very"
+ },
+ {
+  "start": 1092.04,
+  "duration": 3.88,
+  "text": "rudimentary assembly manual. You needed"
+ },
+ {
+  "start": 1094.04,
+  "duration": 3.88,
+  "text": "a soldering iron, some basic tools, and"
+ },
+ {
+  "start": 1095.92,
+  "duration": 3.52,
+  "text": "a ton of patience to build this thing."
+ },
+ {
+  "start": 1097.92,
+  "duration": 3.24,
+  "text": "This might be hard to grasp for people"
+ },
+ {
+  "start": 1099.44,
+  "duration": 4.08,
+  "text": "using computers these days, but for a"
+ },
+ {
+  "start": 1101.16,
+  "duration": 4.72,
+  "text": "few years in the 1970s, just after Ed"
+ },
+ {
+  "start": 1103.52,
+  "duration": 4.08,
+  "text": "Roberts had released the Altair 8800 and"
+ },
+ {
+  "start": 1105.88,
+  "duration": 3.36,
+  "text": "before the Apple II and that generation"
+ },
+ {
+  "start": 1107.6,
+  "duration": 3.44,
+  "text": "of computers came around, there was a"
+ },
+ {
+  "start": 1109.24,
+  "duration": 3.4,
+  "text": "short era of these truly hobbyist"
+ },
+ {
+  "start": 1111.04,
+  "duration": 3.72,
+  "text": "computing. In other words, there was"
+ },
+ {
+  "start": 1112.64,
+  "duration": 3.32,
+  "text": "this period, believe it or not, where"
+ },
+ {
+  "start": 1114.76,
+  "duration": 3.399,
+  "text": "the way that a lot of people were"
+ },
+ {
+  "start": 1115.96,
+  "duration": 5.16,
+  "text": "interacting with computers was having to"
+ },
+ {
+  "start": 1118.159,
+  "duration": 4.76,
+  "text": "build and assemble them themselves. You"
+ },
+ {
+  "start": 1121.12,
+  "duration": 3.88,
+  "text": "got a kit in the mail and you had to put"
+ },
+ {
+  "start": 1122.919,
+  "duration": 3.281,
+  "text": "it together. Now, obviously, this period"
+ },
+ {
+  "start": 1125.0,
+  "duration": 2.64,
+  "text": "didn't last long, and the number of"
+ },
+ {
+  "start": 1126.2,
+  "duration": 3.479,
+  "text": "people who were willing to do this was"
+ },
+ {
+  "start": 1127.64,
+  "duration": 3.72,
+  "text": "pretty small. It was the opportunity"
+ },
+ {
+  "start": 1129.679,
+  "duration": 3.881,
+  "text": "that companies like Apple with their"
+ },
+ {
+  "start": 1131.36,
+  "duration": 4.72,
+  "text": "Apple II seized upon in order to truly"
+ },
+ {
+  "start": 1133.56,
+  "duration": 3.68,
+  "text": "get us into the PC era of today."
+ },
+ {
+  "start": 1136.08,
+  "duration": 2.48,
+  "text": "Now, at this point, you might be already"
+ },
+ {
+  "start": 1137.24,
+  "duration": 4.28,
+  "text": "following the analogy that I'm about to"
+ },
+ {
+  "start": 1138.56,
+  "duration": 4.68,
+  "text": "make, but effectively, the Open Claw era"
+ },
+ {
+  "start": 1141.52,
+  "duration": 3.88,
+  "text": "of harnesses, you know, in the ancient"
+ },
+ {
+  "start": 1143.24,
+  "duration": 4.2,
+  "text": "days, 2 and 1/2 months ago, was an era"
+ },
+ {
+  "start": 1145.4,
+  "duration": 4.08,
+  "text": "where there were no pre-built harnesses"
+ },
+ {
+  "start": 1147.44,
+  "duration": 4.12,
+  "text": "you could rent. You could either use the"
+ },
+ {
+  "start": 1149.48,
+  "duration": 3.84,
+  "text": "basic harness plus model integration of"
+ },
+ {
+  "start": 1151.56,
+  "duration": 4.0,
+  "text": "Codex and Claude Code, or you could"
+ },
+ {
+  "start": 1153.32,
+  "duration": 3.92,
+  "text": "customize everything in Open Claw. What"
+ },
+ {
+  "start": 1155.56,
+  "duration": 3.68,
+  "text": "we're getting now, with what I'm calling"
+ },
+ {
+  "start": 1157.24,
+  "duration": 4.4,
+  "text": "harness as a service, is structurally"
+ },
+ {
+  "start": 1159.24,
+  "duration": 4.52,
+  "text": "different. With these tools, the agent"
+ },
+ {
+  "start": 1161.64,
+  "duration": 4.32,
+  "text": "loop is pre-built. The tool dispatch is"
+ },
+ {
+  "start": 1163.76,
+  "duration": 3.84,
+  "text": "pre-built. Sandboxing is pre-built."
+ },
+ {
+  "start": 1165.96,
+  "duration": 3.28,
+  "text": "Streaming, error handling, context"
+ },
+ {
+  "start": 1167.6,
+  "duration": 3.319,
+  "text": "compression, all pre-built and tuned by"
+ },
+ {
+  "start": 1169.24,
+  "duration": 3.919,
+  "text": "teams whose full-time job is making"
+ },
+ {
+  "start": 1170.919,
+  "duration": 4.521,
+  "text": "those layers excellent. You bring three"
+ },
+ {
+  "start": 1173.159,
+  "duration": 4.281,
+  "text": "things: which model you want, what tools"
+ },
+ {
+  "start": 1175.44,
+  "duration": 3.719,
+  "text": "the agent has access to, and what task"
+ },
+ {
+  "start": 1177.44,
+  "duration": 3.44,
+  "text": "you're handing it. Everything underneath"
+ },
+ {
+  "start": 1179.159,
+  "duration": 3.961,
+  "text": "is handled. This is obviously not a"
+ },
+ {
+  "start": 1180.88,
+  "duration": 4.72,
+  "text": "shift in scale, but a shift in kind. And"
+ },
+ {
+  "start": 1183.12,
+  "duration": 4.039,
+  "text": "just like the PC era didn't destroy or"
+ },
+ {
+  "start": 1185.6,
+  "duration": 3.48,
+  "text": "undermine all those hobbyists who liked"
+ },
+ {
+  "start": 1187.159,
+  "duration": 3.76,
+  "text": "having control over all the components,"
+ },
+ {
+  "start": 1189.08,
+  "duration": 3.16,
+  "text": "it was an incredible democratizing force"
+ },
+ {
+  "start": 1190.919,
+  "duration": 2.641,
+  "text": "that made it possible for people who"
+ },
+ {
+  "start": 1192.24,
+  "duration": 2.96,
+  "text": "never would have built their own PC to"
+ },
+ {
+  "start": 1193.56,
+  "duration": 3.4,
+  "text": "actually use a computer. The"
+ },
+ {
+  "start": 1195.2,
+  "duration": 3.2,
+  "text": "productivity revolution of the 1990s"
+ },
+ {
+  "start": 1196.96,
+  "duration": 3.0,
+  "text": "happened because users got Dell"
+ },
+ {
+  "start": 1198.4,
+  "duration": 3.44,
+  "text": "desktops, not because more people learn"
+ },
+ {
+  "start": 1199.96,
+  "duration": 3.64,
+  "text": "to assemble motherboards. That is the"
+ },
+ {
+  "start": 1201.84,
+  "duration": 2.8,
+  "text": "promise of this new harness as a service"
+ },
+ {
+  "start": 1203.6,
+  "duration": 2.96,
+  "text": "phase."
+ },
+ {
+  "start": 1204.64,
+  "duration": 3.52,
+  "text": "Now, the analogy is imperfect because"
+ },
+ {
+  "start": 1206.56,
+  "duration": 3.44,
+  "text": "the actual democratizing force when it"
+ },
+ {
+  "start": 1208.16,
+  "duration": 3.84,
+  "text": "comes to agents won't really for most"
+ },
+ {
+  "start": 1210.0,
+  "duration": 4.08,
+  "text": "people be building their own agents."
+ },
+ {
+  "start": 1212.0,
+  "duration": 3.6,
+  "text": "It'll be using some set of prefabbed"
+ },
+ {
+  "start": 1214.08,
+  "duration": 3.68,
+  "text": "agents as a service that they have a"
+ },
+ {
+  "start": 1215.6,
+  "duration": 3.68,
+  "text": "very small number of knobs to customize."
+ },
+ {
+  "start": 1217.76,
+  "duration": 3.8,
+  "text": "And the applications that are powered by"
+ },
+ {
+  "start": 1219.28,
+  "duration": 3.8,
+  "text": "agents that are more customer-facing."
+ },
+ {
+  "start": 1221.56,
+  "duration": 3.32,
+  "text": "What's weird and interesting and"
+ },
+ {
+  "start": 1223.08,
+  "duration": 3.8,
+  "text": "different is that while on the surface"
+ },
+ {
+  "start": 1224.88,
+  "duration": 4.16,
+  "text": "of it, tools like managed agents and the"
+ },
+ {
+  "start": 1226.88,
+  "duration": 3.52,
+  "text": "cursor SDK seem like they're only for"
+ },
+ {
+  "start": 1229.04,
+  "duration": 3.64,
+  "text": "developers."
+ },
+ {
+  "start": 1230.4,
+  "duration": 4.64,
+  "text": "Because we now live in the world where"
+ },
+ {
+  "start": 1232.68,
+  "duration": 4.32,
+  "text": "agents handle the coding and can support"
+ },
+ {
+  "start": 1235.04,
+  "duration": 3.56,
+  "text": "you around the infrastructure build, the"
+ },
+ {
+  "start": 1237.0,
+  "duration": 3.52,
+  "text": "audience of people who can build with"
+ },
+ {
+  "start": 1238.6,
+  "duration": 3.84,
+  "text": "something like the cursor SDK has"
+ },
+ {
+  "start": 1240.52,
+  "duration": 4.44,
+  "text": "expanded dramatically. We've got this"
+ },
+ {
+  "start": 1242.44,
+  "duration": 4.64,
+  "text": "entire new category of builders, of whom"
+ },
+ {
+  "start": 1244.96,
+  "duration": 3.88,
+  "text": "I'm an example, who are not developers,"
+ },
+ {
+  "start": 1247.08,
+  "duration": 3.44,
+  "text": "but for whom something like the cursor"
+ },
+ {
+  "start": 1248.84,
+  "duration": 2.88,
+  "text": "SDK will matter."
+ },
+ {
+  "start": 1250.52,
+  "duration": 2.8,
+  "text": "Let's give an example of something that"
+ },
+ {
+  "start": 1251.72,
+  "duration": 3.16,
+  "text": "someone built with this."
+ },
+ {
+  "start": 1253.32,
+  "duration": 3.16,
+  "text": "Jack Driscoll showed off a demo after"
+ },
+ {
+  "start": 1254.88,
+  "duration": 3.6,
+  "text": "building with the SDK for a few days on"
+ },
+ {
+  "start": 1256.48,
+  "duration": 3.8,
+  "text": "pre-release. The agent is effectively a"
+ },
+ {
+  "start": 1258.48,
+  "duration": 4.76,
+  "text": "cursor agent embedded directly into"
+ },
+ {
+  "start": 1260.28,
+  "duration": 5.12,
+  "text": "Gmail. From within his Gmail inbox, he"
+ },
+ {
+  "start": 1263.24,
+  "duration": 3.76,
+  "text": "can share an email into chat, have that"
+ },
+ {
+  "start": 1265.4,
+  "duration": 4.24,
+  "text": "agent read the email thread into"
+ },
+ {
+  "start": 1267.0,
+  "duration": 5.52,
+  "text": "context, go off and do something, i.e."
+ },
+ {
+  "start": 1269.64,
+  "duration": 4.32,
+  "text": "edit some code, fix a problem, etc., and"
+ },
+ {
+  "start": 1272.52,
+  "duration": 3.56,
+  "text": "stream the results right back into the"
+ },
+ {
+  "start": 1273.96,
+  "duration": 3.52,
+  "text": "chat window. When someone asked why this"
+ },
+ {
+  "start": 1276.08,
+  "duration": 3.96,
+  "text": "is different from just building with any"
+ },
+ {
+  "start": 1277.48,
+  "duration": 4.32,
+  "text": "other SDK, Driscoll commented, \"The"
+ },
+ {
+  "start": 1280.04,
+  "duration": 4.12,
+  "text": "biggest difference in my opinion is that"
+ },
+ {
+  "start": 1281.8,
+  "duration": 4.76,
+  "text": "cursor SDK isn't just calling LLM with"
+ },
+ {
+  "start": 1284.16,
+  "duration": 4.92,
+  "text": "tools. It's exposing the same coding"
+ },
+ {
+  "start": 1286.56,
+  "duration": 4.32,
+  "text": "agent runtime cursor already uses. Repo"
+ },
+ {
+  "start": 1289.08,
+  "duration": 3.6,
+  "text": "context, edit, search, terminal"
+ },
+ {
+  "start": 1290.88,
+  "duration": 4.4,
+  "text": "workflow, streaming status, model"
+ },
+ {
+  "start": 1292.68,
+  "duration": 4.64,
+  "text": "choice, and local hosted execution. For"
+ },
+ {
+  "start": 1295.28,
+  "duration": 4.2,
+  "text": "this demo, Gmail and chat is just the"
+ },
+ {
+  "start": 1297.32,
+  "duration": 4.04,
+  "text": "intake and collaboration layer. Cursor"
+ },
+ {
+  "start": 1299.48,
+  "duration": 3.56,
+  "text": "SDK is the part that can actually go"
+ },
+ {
+  "start": 1301.36,
+  "duration": 4.36,
+  "text": "operate on a code base like a cursor"
+ },
+ {
+  "start": 1303.04,
+  "duration": 3.96,
+  "text": "agent would. In short, the harness. In"
+ },
+ {
+  "start": 1305.72,
+  "duration": 3.28,
+  "text": "other words, Jack is taking advantage of"
+ },
+ {
+  "start": 1307.0,
+  "duration": 3.72,
+  "text": "this new harness as a service to build"
+ },
+ {
+  "start": 1309.0,
+  "duration": 3.16,
+  "text": "exactly the agent wants in exactly the"
+ },
+ {
+  "start": 1310.72,
+  "duration": 3.0,
+  "text": "environment he wants doing the exact"
+ },
+ {
+  "start": 1312.16,
+  "duration": 2.72,
+  "text": "thing he wants.\""
+ },
+ {
+  "start": 1313.72,
+  "duration": 3.36,
+  "text": "Now, what's interesting is alongside"
+ },
+ {
+  "start": 1314.88,
+  "duration": 3.96,
+  "text": "this announcement, we're seeing how much"
+ },
+ {
+  "start": 1317.08,
+  "duration": 3.76,
+  "text": "harnesses can change the performance of"
+ },
+ {
+  "start": 1318.84,
+  "duration": 4.56,
+  "text": "the underlying models. A new report from"
+ },
+ {
+  "start": 1320.84,
+  "duration": 4.92,
+  "text": "Endor Labs found that GPT-5.5 operating"
+ },
+ {
+  "start": 1323.4,
+  "duration": 4.6,
+  "text": "within cursor's harness set a new record"
+ },
+ {
+  "start": 1325.76,
+  "duration": 3.56,
+  "text": "on their security correctness benchmark."
+ },
+ {
+  "start": 1328.0,
+  "duration": 3.52,
+  "text": "Benchmark test code for both"
+ },
+ {
+  "start": 1329.32,
+  "duration": 4.48,
+  "text": "functionality and security. The cursor"
+ },
+ {
+  "start": 1331.52,
+  "duration": 4.92,
+  "text": "plus GPT-5.5 combination achieved a"
+ },
+ {
+  "start": 1333.8,
+  "duration": 4.04,
+  "text": "score of 23.5% on the security section,"
+ },
+ {
+  "start": 1336.44,
+  "duration": 3.4,
+  "text": "which narrowly beat out the previous"
+ },
+ {
+  "start": 1337.84,
+  "duration": 4.12,
+  "text": "leader, which was cursor and Opus 4.7"
+ },
+ {
+  "start": 1339.84,
+  "duration": 3.36,
+  "text": "with a score of 22.9%."
+ },
+ {
+  "start": 1341.96,
+  "duration": 3.16,
+  "text": "Both of these scores were a few"
+ },
+ {
+  "start": 1343.2,
+  "duration": 3.64,
+  "text": "percentage points higher than Opus 4.7"
+ },
+ {
+  "start": 1345.12,
+  "duration": 4.6,
+  "text": "in its native Claude code harness and"
+ },
+ {
+  "start": 1346.84,
+  "duration": 4.64,
+  "text": "GPT-5.5 in its native Codex harness. The"
+ },
+ {
+  "start": 1349.72,
+  "duration": 3.959,
+  "text": "functionality test was arguably even"
+ },
+ {
+  "start": 1351.48,
+  "duration": 5.28,
+  "text": "more stark. Opus jumped by almost four"
+ },
+ {
+  "start": 1353.679,
+  "duration": 5.881,
+  "text": "percentage points from 87.2 to 91.1% by"
+ },
+ {
+  "start": 1356.76,
+  "duration": 6.36,
+  "text": "switching to cursor, while GPT-5.5 went"
+ },
+ {
+  "start": 1359.56,
+  "duration": 4.68,
+  "text": "from 61.5% to 87.2% by switching to"
+ },
+ {
+  "start": 1363.12,
+  "duration": 3.36,
+  "text": "cursor."
+ },
+ {
+  "start": 1364.24,
+  "duration": 4.6,
+  "text": "Endor Labs wrote, \"The key takeaway,"
+ },
+ {
+  "start": 1366.48,
+  "duration": 4.68,
+  "text": "same model, same week, two harnesses,"
+ },
+ {
+  "start": 1368.84,
+  "duration": 4.2,
+  "text": "two different functional results.\""
+ },
+ {
+  "start": 1371.16,
+  "duration": 3.44,
+  "text": "Alex Volkov from the Thursday AI podcast"
+ },
+ {
+  "start": 1373.04,
+  "duration": 3.32,
+  "text": "confirmed that he found similar results"
+ },
+ {
+  "start": 1374.6,
+  "duration": 3.44,
+  "text": "with an entirely different setup."
+ },
+ {
+  "start": 1376.36,
+  "duration": 3.6,
+  "text": "Testing the models on coding benchmark"
+ },
+ {
+  "start": 1378.04,
+  "duration": 3.16,
+  "text": "WolfBench AI, he found that cursor's"
+ },
+ {
+  "start": 1379.96,
+  "duration": 3.52,
+  "text": "harness had the strongest performance"
+ },
+ {
+  "start": 1381.2,
+  "duration": 5.0,
+  "text": "for GPT-5.5 and was on par with Claude"
+ },
+ {
+  "start": 1383.48,
+  "duration": 4.52,
+  "text": "code when running Opus 4.7. With the SDK"
+ },
+ {
+  "start": 1386.2,
+  "duration": 3.72,
+  "text": "just launching yesterday, we're already"
+ },
+ {
+  "start": 1388.0,
+  "duration": 3.88,
+  "text": "seeing a ton of people building MVPs for"
+ },
+ {
+  "start": 1389.92,
+  "duration": 3.72,
+  "text": "agentic products with the new platform."
+ },
+ {
+  "start": 1391.88,
+  "duration": 3.04,
+  "text": "Tejas Vavery built a bug-catching agent"
+ },
+ {
+  "start": 1393.64,
+  "duration": 2.76,
+  "text": "that can work on his production code"
+ },
+ {
+  "start": 1394.92,
+  "duration": 3.36,
+  "text": "base and can see how the app is"
+ },
+ {
+  "start": 1396.4,
+  "duration": 3.6,
+  "text": "performing on its own browser window."
+ },
+ {
+  "start": 1398.28,
+  "duration": 3.2,
+  "text": "This kind of agent could be a big step"
+ },
+ {
+  "start": 1400.0,
+  "duration": 3.16,
+  "text": "to figuring out how to create fully"
+ },
+ {
+  "start": 1401.48,
+  "duration": 3.44,
+  "text": "autonomous coding agents given that"
+ },
+ {
+  "start": 1403.16,
+  "duration": 4.36,
+  "text": "human code verification is currently a"
+ },
+ {
+  "start": 1404.92,
+  "duration": 4.56,
+  "text": "massive bottleneck. Vaver wrote, \"It's"
+ },
+ {
+  "start": 1407.52,
+  "duration": 3.6,
+  "text": "mainly about closing the feedback loop."
+ },
+ {
+  "start": 1409.48,
+  "duration": 3.199,
+  "text": "Right now, agents write code and hope it"
+ },
+ {
+  "start": 1411.12,
+  "duration": 3.28,
+  "text": "works. They can run tests, but tests"
+ },
+ {
+  "start": 1412.679,
+  "duration": 3.481,
+  "text": "don't catch everything, especially UI"
+ },
+ {
+  "start": 1414.4,
+  "duration": 3.56,
+  "text": "behavior, integration issues, or flows"
+ },
+ {
+  "start": 1416.16,
+  "duration": 3.0,
+  "text": "that depend on real browser state.\" He"
+ },
+ {
+  "start": 1417.96,
+  "duration": 3.24,
+  "text": "explained that being able to actually"
+ },
+ {
+  "start": 1419.16,
+  "duration": 3.84,
+  "text": "see the app is a huge change, allowing"
+ },
+ {
+  "start": 1421.2,
+  "duration": 3.28,
+  "text": "for faster iteration, more confident"
+ },
+ {
+  "start": 1423.0,
+  "duration": 3.679,
+  "text": "agent handoffs, and far less"
+ },
+ {
+  "start": 1424.48,
+  "duration": 4.12,
+  "text": "verification work for humans. Robert"
+ },
+ {
+  "start": 1426.679,
+  "duration": 3.721,
+  "text": "Brochery used the SDK to embed a cursor"
+ },
+ {
+  "start": 1428.6,
+  "duration": 3.24,
+  "text": "agent in a Chrome plugin. The tool is"
+ },
+ {
+  "start": 1430.4,
+  "duration": 3.12,
+  "text": "designed for IT triage, helping"
+ },
+ {
+  "start": 1431.84,
+  "duration": 3.48,
+  "text": "non-technical users dump code from the"
+ },
+ {
+  "start": 1433.52,
+  "duration": 3.159,
+  "text": "browser into a ticket instead of just"
+ },
+ {
+  "start": 1435.32,
+  "duration": 2.52,
+  "text": "describing the bug and hoping for the"
+ },
+ {
+  "start": 1436.679,
+  "duration": 2.281,
+  "text": "best. [clears throat]"
+ },
+ {
+  "start": 1437.84,
+  "duration": 2.24,
+  "text": "Obviously, these use cases are just"
+ },
+ {
+  "start": 1438.96,
+  "duration": 3.6,
+  "text": "scratching the surface, but they"
+ },
+ {
+  "start": 1440.08,
+  "duration": 4.44,
+  "text": "demonstrate the power and potential of"
+ },
+ {
+  "start": 1442.56,
+  "duration": 4.16,
+  "text": "freeing cursor agents from their IDE"
+ },
+ {
+  "start": 1444.52,
+  "duration": 4.159,
+  "text": "container while retaining their runtime"
+ },
+ {
+  "start": 1446.72,
+  "duration": 3.8,
+  "text": "environment. Basically, an entirely new"
+ },
+ {
+  "start": 1448.679,
+  "duration": 3.241,
+  "text": "universe of agentic apps just opened up"
+ },
+ {
+  "start": 1450.52,
+  "duration": 3.36,
+  "text": "now that developers don't need to start"
+ },
+ {
+  "start": 1451.92,
+  "duration": 3.759,
+  "text": "from scratch. Now, what's very clear"
+ },
+ {
+  "start": 1453.88,
+  "duration": 3.84,
+  "text": "when you watch the space closely is that"
+ },
+ {
+  "start": 1455.679,
+  "duration": 3.521,
+  "text": "we are going to see massive amounts of"
+ },
+ {
+  "start": 1457.72,
+  "duration": 3.12,
+  "text": "iteration and exploration around"
+ },
+ {
+  "start": 1459.2,
+  "duration": 3.68,
+  "text": "harnesses. What's interesting to me"
+ },
+ {
+  "start": 1460.84,
+  "duration": 3.88,
+  "text": "about harness as a service is the extent"
+ },
+ {
+  "start": 1462.88,
+  "duration": 3.92,
+  "text": "to which those innovations don't just"
+ },
+ {
+  "start": 1464.72,
+  "duration": 3.92,
+  "text": "end up producing better harnesses that"
+ },
+ {
+  "start": 1466.8,
+  "duration": 3.92,
+  "text": "are embedded in the tools we use, but"
+ },
+ {
+  "start": 1468.64,
+  "duration": 3.8,
+  "text": "actually allow people to build whatever"
+ },
+ {
+  "start": 1470.72,
+  "duration": 2.959,
+  "text": "it is that they want to build leveraging"
+ },
+ {
+  "start": 1472.44,
+  "duration": 2.8,
+  "text": "those harness innovations at a more"
+ },
+ {
+  "start": 1473.679,
+  "duration": 2.401,
+  "text": "fundamental level."
+ },
+ {
+  "start": 1475.24,
+  "duration": 2.84,
+  "text": "If you want to check this out for"
+ },
+ {
+  "start": 1476.08,
+  "duration": 4.12,
+  "text": "yourself, but you are not a developer,"
+ },
+ {
+  "start": 1478.08,
+  "duration": 3.56,
+  "text": "what I would suggest is go to the cursor"
+ },
+ {
+  "start": 1480.2,
+  "duration": 3.16,
+  "text": "announcement, click on the link to their"
+ },
+ {
+  "start": 1481.64,
+  "duration": 3.56,
+  "text": "GitHub cookbook, drop it into either"
+ },
+ {
+  "start": 1483.36,
+  "duration": 3.4,
+  "text": "Claude or ChatGPT, especially if it's"
+ },
+ {
+  "start": 1485.2,
+  "duration": 3.72,
+  "text": "got context about your particular"
+ },
+ {
+  "start": 1486.76,
+  "duration": 4.08,
+  "text": "projects, and ask it to give you some"
+ },
+ {
+  "start": 1488.92,
+  "duration": 3.68,
+  "text": "ideas for how this new harness as a"
+ },
+ {
+  "start": 1490.84,
+  "duration": 3.48,
+  "text": "service product could change the way"
+ },
+ {
+  "start": 1492.6,
+  "duration": 2.96,
+  "text": "that you build or think about something."
+ },
+ {
+  "start": 1494.32,
+  "duration": 2.48,
+  "text": "Then, of course, when you realize that"
+ },
+ {
+  "start": 1495.56,
+  "duration": 2.92,
+  "text": "it unlocks something that you've been"
+ },
+ {
+  "start": 1496.8,
+  "duration": 3.6,
+  "text": "wanting to do forever, I give you full"
+ },
+ {
+  "start": 1498.48,
+  "duration": 3.56,
+  "text": "permission to call in sick on Friday and"
+ },
+ {
+  "start": 1500.4,
+  "duration": 2.44,
+  "text": "just dive all the way in."
+ },
+ {
+  "start": 1502.04,
+  "duration": 2.56,
+  "text": "For now, that's going to do it for"
+ },
+ {
+  "start": 1502.84,
+  "duration": 3.32,
+  "text": "today's AI daily brief. Appreciate you"
+ },
+ {
+  "start": 1504.6,
+  "duration": 5.079,
+  "text": "listening or watching as always, and"
+ },
+ {
+  "start": 1506.16,
+  "duration": 3.519,
+  "text": "until next time, peace."
+ }
+]

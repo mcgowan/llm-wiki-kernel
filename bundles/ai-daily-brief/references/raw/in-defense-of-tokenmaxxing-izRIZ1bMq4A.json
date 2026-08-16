@@ -1,0 +1,3877 @@
+[
+ {
+  "start": 0.8,
+  "duration": 4.08,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 2.76,
+  "duration": 3.56,
+  "text": "a defensive token maxing,"
+ },
+ {
+  "start": 4.88,
+  "duration": 3.6,
+  "text": "the controversial practice of"
+ },
+ {
+  "start": 6.32,
+  "duration": 4.0,
+  "text": "incentivizing employees to spend as many"
+ },
+ {
+  "start": 8.48,
+  "duration": 3.84,
+  "text": "AI tokens as they can."
+ },
+ {
+  "start": 10.32,
+  "duration": 3.48,
+  "text": "Before that in the headlines, Google"
+ },
+ {
+  "start": 12.32,
+  "duration": 3.52,
+  "text": "starts dropping announcements ahead of"
+ },
+ {
+  "start": 13.8,
+  "duration": 4.16,
+  "text": "IO, including the new Gemini"
+ },
+ {
+  "start": 15.84,
+  "duration": 3.84,
+  "text": "intelligence. The AI Daily Brief is a"
+ },
+ {
+  "start": 17.96,
+  "duration": 4.6,
+  "text": "daily podcast and video about the most"
+ },
+ {
+  "start": 19.68,
+  "duration": 4.48,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 22.56,
+  "duration": 3.76,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 24.16,
+  "duration": 4.72,
+  "text": "before we dive in. First, registrations"
+ },
+ {
+  "start": 26.32,
+  "duration": 4.08,
+  "text": "are live for Enterprise Claw Cohort 3."
+ },
+ {
+  "start": 28.88,
+  "duration": 4.16,
+  "text": "You can get a link from the AI Daily"
+ },
+ {
+  "start": 30.4,
+  "duration": 4.48,
+  "text": "Brief site or Enterprise Claw.ai. And"
+ },
+ {
+  "start": 33.04,
+  "duration": 5.08,
+  "text": "second, as I mentioned yesterday, I am"
+ },
+ {
+  "start": 34.88,
+  "duration": 5.56,
+  "text": "hiring a growth engineer for the podcast"
+ },
+ {
+  "start": 38.12,
+  "duration": 4.0,
+  "text": "and podcast ecosystem. All of these"
+ },
+ {
+  "start": 40.44,
+  "duration": 3.24,
+  "text": "crazy things we do, like the context"
+ },
+ {
+  "start": 42.12,
+  "duration": 3.52,
+  "text": "portfolio builder and these free"
+ },
+ {
+  "start": 43.68,
+  "duration": 3.24,
+  "text": "education programs, that's the type of"
+ },
+ {
+  "start": 45.64,
+  "duration": 3.2,
+  "text": "stuff you're going to get to build as a"
+ },
+ {
+  "start": 46.92,
+  "duration": 3.6,
+  "text": "growth engineer. Your job will be to"
+ },
+ {
+  "start": 48.84,
+  "duration": 4.0,
+  "text": "expand not only the audience of the"
+ },
+ {
+  "start": 50.52,
+  "duration": 3.96,
+  "text": "podcast, but the impact of the audience."
+ },
+ {
+  "start": 52.84,
+  "duration": 4.04,
+  "text": "You can find information about that at"
+ },
+ {
+  "start": 54.48,
+  "duration": 4.12,
+  "text": "jobs.ai.dailybrief.ai."
+ },
+ {
+  "start": 56.88,
+  "duration": 4.0,
+  "text": "We are actively recruiting. I am looking"
+ },
+ {
+  "start": 58.6,
+  "duration": 4.24,
+  "text": "to hire fast, and it is a full-time"
+ },
+ {
+  "start": 60.88,
+  "duration": 4.52,
+  "text": "role. And with that, let's get to the"
+ },
+ {
+  "start": 62.84,
+  "duration": 4.76,
+  "text": "headlines."
+ },
+ {
+  "start": 65.4,
+  "duration": 4.0,
+  "text": "We got a lot today, so let's cook."
+ },
+ {
+  "start": 67.6,
+  "duration": 4.2,
+  "text": "First up, Google has announced a new"
+ },
+ {
+  "start": 69.4,
+  "duration": 4.64,
+  "text": "agentic suite for Android users called"
+ },
+ {
+  "start": 71.8,
+  "duration": 4.04,
+  "text": "Gemini Intelligence."
+ },
+ {
+  "start": 74.04,
+  "duration": 3.52,
+  "text": "Framing their vision, Google wrote, \"As"
+ },
+ {
+  "start": 75.84,
+  "duration": 3.92,
+  "text": "Android transitions from an operating"
+ },
+ {
+  "start": 77.56,
+  "duration": 4.0,
+  "text": "system into an intelligence system, your"
+ },
+ {
+  "start": 79.76,
+  "duration": 3.84,
+  "text": "devices are becoming even more helpful"
+ },
+ {
+  "start": 81.56,
+  "duration": 3.92,
+  "text": "with upgrades that will save you time.\""
+ },
+ {
+  "start": 83.6,
+  "duration": 3.68,
+  "text": "Now, you might be thinking to yourself,"
+ },
+ {
+  "start": 85.48,
+  "duration": 3.32,
+  "text": "\"Wait, isn't Google IO just around the"
+ },
+ {
+  "start": 87.28,
+  "duration": 3.32,
+  "text": "corner? Why are we getting announcements"
+ },
+ {
+  "start": 88.8,
+  "duration": 3.64,
+  "text": "now?\" Well, we've actually seen this for"
+ },
+ {
+  "start": 90.6,
+  "duration": 4.2,
+  "text": "the last couple of years, where there's"
+ },
+ {
+  "start": 92.44,
+  "duration": 4.04,
+  "text": "so much that Google has to announce at"
+ },
+ {
+  "start": 94.8,
+  "duration": 3.84,
+  "text": "their big IO event that they actually"
+ },
+ {
+  "start": 96.48,
+  "duration": 3.88,
+  "text": "start dropping things the week before. I"
+ },
+ {
+  "start": 98.64,
+  "duration": 4.92,
+  "text": "will say when they're introducing an"
+ },
+ {
+  "start": 100.36,
+  "duration": 4.64,
+  "text": "entire new agentic suite in advance of"
+ },
+ {
+  "start": 103.56,
+  "duration": 3.48,
+  "text": "the event, you got to wonder what's"
+ },
+ {
+  "start": 105.0,
+  "duration": 4.4,
+  "text": "going to come at that event. But in any"
+ },
+ {
+  "start": 107.04,
+  "duration": 4.2,
+  "text": "case, Gemini Intelligence will include a"
+ },
+ {
+  "start": 109.4,
+  "duration": 3.8,
+  "text": "major upgrade to the Gemini assistant,"
+ },
+ {
+  "start": 111.24,
+  "duration": 3.92,
+  "text": "allowing it to handle more complex tasks"
+ },
+ {
+  "start": 113.2,
+  "duration": 3.44,
+  "text": "and multi-step processes, as well as a a"
+ },
+ {
+  "start": 115.16,
+  "duration": 3.52,
+  "text": "feature called personal intelligence,"
+ },
+ {
+  "start": 116.64,
+  "duration": 3.76,
+  "text": "which is Google's AI memory system."
+ },
+ {
+  "start": 118.68,
+  "duration": 3.44,
+  "text": "Gemini intelligence will roll out to the"
+ },
+ {
+  "start": 120.4,
+  "duration": 3.2,
+  "text": "latest generation of Google and Samsung"
+ },
+ {
+  "start": 122.12,
+  "duration": 3.2,
+  "text": "headsets over the summer and will become"
+ },
+ {
+  "start": 123.6,
+  "duration": 3.64,
+  "text": "available on smartwatches, glasses, and"
+ },
+ {
+  "start": 125.32,
+  "duration": 4.4,
+  "text": "laptops later this year."
+ },
+ {
+  "start": 127.24,
+  "duration": 4.32,
+  "text": "Speaking of laptops, also on Tuesday,"
+ },
+ {
+  "start": 129.72,
+  "duration": 3.239,
+  "text": "Google unveiled the Google book, a new"
+ },
+ {
+  "start": 131.56,
+  "duration": 3.6,
+  "text": "iteration of the Chromebook designed"
+ },
+ {
+  "start": 132.959,
+  "duration": 4.281,
+  "text": "with AI in mind. The device will now run"
+ },
+ {
+  "start": 135.16,
+  "duration": 3.76,
+  "text": "on a mix of Android and Chrome OS,"
+ },
+ {
+  "start": 137.24,
+  "duration": 3.88,
+  "text": "allowing handset features to be easily"
+ },
+ {
+  "start": 138.92,
+  "duration": 4.24,
+  "text": "migrated across. The Google book will"
+ },
+ {
+  "start": 141.12,
+  "duration": 4.36,
+  "text": "have a built-in AI assistant built on"
+ },
+ {
+  "start": 143.16,
+  "duration": 4.6,
+  "text": "the same Gemini intelligence stack with"
+ },
+ {
+  "start": 145.48,
+  "duration": 4.08,
+  "text": "a bunch of new modes of interaction. For"
+ },
+ {
+  "start": 147.76,
+  "duration": 3.64,
+  "text": "example, instead of learning a new hot"
+ },
+ {
+  "start": 149.56,
+  "duration": 3.399,
+  "text": "key to summon the Gemini assistant,"
+ },
+ {
+  "start": 151.4,
+  "duration": 3.559,
+  "text": "users can simply jiggle the mouse and"
+ },
+ {
+  "start": 152.959,
+  "duration": 3.441,
+  "text": "Gemini will pop up. DeepMind actually"
+ },
+ {
+  "start": 154.959,
+  "duration": 3.201,
+  "text": "showed a research demo of where the"
+ },
+ {
+  "start": 156.4,
+  "duration": 3.6,
+  "text": "concept of an AI-enhanced mouse pointer"
+ },
+ {
+  "start": 158.16,
+  "duration": 3.08,
+  "text": "is going. The demo showed a user"
+ },
+ {
+  "start": 160.0,
+  "duration": 3.52,
+  "text": "gesturing with the mouse while giving"
+ },
+ {
+  "start": 161.24,
+  "duration": 3.88,
+  "text": "voice instructions, asking the AI to do"
+ },
+ {
+  "start": 163.52,
+  "duration": 3.48,
+  "text": "things like add these two ingredients to"
+ },
+ {
+  "start": 165.12,
+  "duration": 3.64,
+  "text": "my shopping list without naming them."
+ },
+ {
+  "start": 167.0,
+  "duration": 3.2,
+  "text": "This seems directly related to the"
+ },
+ {
+  "start": 168.76,
+  "duration": 3.6,
+  "text": "conversation we were having yesterday"
+ },
+ {
+  "start": 170.2,
+  "duration": 4.24,
+  "text": "about interaction models, where the next"
+ },
+ {
+  "start": 172.36,
+  "duration": 4.2,
+  "text": "generation of AI interfaces is about"
+ },
+ {
+  "start": 174.44,
+  "duration": 3.48,
+  "text": "having them interact more like we do"
+ },
+ {
+  "start": 176.56,
+  "duration": 3.0,
+  "text": "rather than us having to learn how to"
+ },
+ {
+  "start": 177.92,
+  "duration": 3.44,
+  "text": "interface with them."
+ },
+ {
+  "start": 179.56,
+  "duration": 3.88,
+  "text": "Now, there is some competitive weirdness"
+ },
+ {
+  "start": 181.36,
+  "duration": 4.68,
+  "text": "here, given that Google is powering the"
+ },
+ {
+  "start": 183.44,
+  "duration": 4.4,
+  "text": "new Siri, but it also named its tool set"
+ },
+ {
+  "start": 186.04,
+  "duration": 4.4,
+  "text": "Gemini intelligence after Apple named"
+ },
+ {
+  "start": 187.84,
+  "duration": 4.16,
+  "text": "its Apple intelligence. This frenemy era"
+ },
+ {
+  "start": 190.44,
+  "duration": 2.56,
+  "text": "is frankly very hard to keep a handle"
+ },
+ {
+  "start": 192.0,
+  "duration": 3.16,
+  "text": "on."
+ },
+ {
+  "start": 193.0,
+  "duration": 4.239,
+  "text": "Google is also the latest company taking"
+ },
+ {
+  "start": 195.16,
+  "duration": 3.32,
+  "text": "a closer look at orbital data centers."
+ },
+ {
+  "start": 197.239,
+  "duration": 3.0,
+  "text": "The Wall Street Journal reports that"
+ },
+ {
+  "start": 198.48,
+  "duration": 3.84,
+  "text": "Google is in talks with SpaceX to launch"
+ },
+ {
+  "start": 200.239,
+  "duration": 3.601,
+  "text": "data centers into space. Sources said"
+ },
+ {
+  "start": 202.32,
+  "duration": 3.52,
+  "text": "that those exploratory talks are also"
+ },
+ {
+  "start": 203.84,
+  "duration": 3.32,
+  "text": "being held with other rocket companies,"
+ },
+ {
+  "start": 205.84,
+  "duration": 3.48,
+  "text": "with Google planning to have their first"
+ },
+ {
+  "start": 207.16,
+  "duration": 3.84,
+  "text": "prototypes in orbit by next year. While"
+ },
+ {
+  "start": 209.32,
+  "duration": 3.72,
+  "text": "to some, orbital data centers seemed"
+ },
+ {
+  "start": 211.0,
+  "duration": 3.959,
+  "text": "like a fantastical sci-fi concept, there"
+ },
+ {
+  "start": 213.04,
+  "duration": 3.64,
+  "text": "has been a major groundswell over recent"
+ },
+ {
+  "start": 214.959,
+  "duration": 3.601,
+  "text": "months. As part of their recent deal"
+ },
+ {
+  "start": 216.68,
+  "duration": 3.4,
+  "text": "with SpaceX, Anthropic seemed to express"
+ },
+ {
+  "start": 218.56,
+  "duration": 2.92,
+  "text": "a genuine interest in orbital data"
+ },
+ {
+  "start": 220.08,
+  "duration": 3.08,
+  "text": "centers as a way to get around land"
+ },
+ {
+  "start": 221.48,
+  "duration": 3.4,
+  "text": "permitting issues. There's also been a"
+ },
+ {
+  "start": 223.16,
+  "duration": 3.76,
+  "text": "huge surge in new startups pursuing the"
+ },
+ {
+  "start": 224.88,
+  "duration": 4.16,
+  "text": "idea. This week, for example, Robinhood"
+ },
+ {
+  "start": 226.92,
+  "duration": 3.88,
+  "text": "co-founder Baiju Bhatt unveiled his new"
+ },
+ {
+  "start": 229.04,
+  "duration": 4.08,
+  "text": "startup Space Cowboy Corp and announced"
+ },
+ {
+  "start": 230.8,
+  "duration": 4.08,
+  "text": "fundraising at $2 billion."
+ },
+ {
+  "start": 233.12,
+  "duration": 3.08,
+  "text": "In an accompanying article, The Wall"
+ },
+ {
+  "start": 234.88,
+  "duration": 2.84,
+  "text": "Street Journal asked whether data"
+ },
+ {
+  "start": 236.2,
+  "duration": 3.6,
+  "text": "centers in space were just a pipe dream"
+ },
+ {
+  "start": 237.72,
+  "duration": 3.84,
+  "text": "or the next big thing in AI, noting that"
+ },
+ {
+  "start": 239.8,
+  "duration": 3.6,
+  "text": "even Nvidia is getting on board,"
+ },
+ {
+  "start": 241.56,
+  "duration": 4.04,
+  "text": "recently posting a job ad for an orbital"
+ },
+ {
+  "start": 243.4,
+  "duration": 4.08,
+  "text": "data center system architect. This, I"
+ },
+ {
+  "start": 245.6,
+  "duration": 3.6,
+  "text": "think, is going to continue to be a"
+ },
+ {
+  "start": 247.48,
+  "duration": 3.76,
+  "text": "growing theme, but before we leave"
+ },
+ {
+  "start": 249.2,
+  "duration": 4.68,
+  "text": "Google, there is one additional story on"
+ },
+ {
+  "start": 251.24,
+  "duration": 4.96,
+  "text": "that front. Just a day after OpenAI"
+ },
+ {
+  "start": 253.88,
+  "duration": 3.919,
+  "text": "confirmed their consulting plans and a"
+ },
+ {
+  "start": 256.2,
+  "duration": 3.759,
+  "text": "week after Anthropic announced their new"
+ },
+ {
+  "start": 257.799,
+  "duration": 3.961,
+  "text": "initiative, Google is apparently jumping"
+ },
+ {
+  "start": 259.959,
+  "duration": 3.401,
+  "text": "on the AI consulting bandwagon as well"
+ },
+ {
+  "start": 261.76,
+  "duration": 3.6,
+  "text": "with a new plan to hire hundreds of"
+ },
+ {
+  "start": 263.36,
+  "duration": 3.72,
+  "text": "forward deployed engineers. The new"
+ },
+ {
+  "start": 265.36,
+  "duration": 3.96,
+  "text": "group will be housed within Google Cloud"
+ },
+ {
+  "start": 267.08,
+  "duration": 3.92,
+  "text": "as part of the go-to-market team. Google"
+ },
+ {
+  "start": 269.32,
+  "duration": 4.32,
+  "text": "Cloud CEO Thomas Kurian wrote in a"
+ },
+ {
+  "start": 271.0,
+  "duration": 4.56,
+  "text": "LinkedIn post, \"While having FTEs is not"
+ },
+ {
+  "start": 273.64,
+  "duration": 3.36,
+  "text": "new for Google Cloud, the demand from"
+ },
+ {
+  "start": 275.56,
+  "duration": 3.0,
+  "text": "customers and partners for Google"
+ },
+ {
+  "start": 277.0,
+  "duration": 2.96,
+  "text": "Enterprise AI products and Google"
+ },
+ {
+  "start": 278.56,
+  "duration": 3.64,
+  "text": "engineers to help them embrace agent"
+ },
+ {
+  "start": 279.96,
+  "duration": 3.72,
+  "text": "development is growing very rapidly.\" In"
+ },
+ {
+  "start": 282.2,
+  "duration": 2.96,
+  "text": "a separate post, Chief Revenue Officer"
+ },
+ {
+  "start": 283.68,
+  "duration": 3.32,
+  "text": "Matt Renner noted that the way AI"
+ },
+ {
+  "start": 285.16,
+  "duration": 3.96,
+  "text": "services are sold looks very different"
+ },
+ {
+  "start": 287.0,
+  "duration": 3.88,
+  "text": "to traditional cloud services. He wrote"
+ },
+ {
+  "start": 289.12,
+  "duration": 3.68,
+  "text": "that adding hundreds of FTEs would help"
+ },
+ {
+  "start": 290.88,
+  "duration": 3.64,
+  "text": "Google show up for our customers with"
+ },
+ {
+  "start": 292.8,
+  "duration": 3.88,
+  "text": "more technical resources versus just a"
+ },
+ {
+  "start": 294.52,
+  "duration": 3.68,
+  "text": "notion of sales people. Google is also"
+ },
+ {
+  "start": 296.68,
+  "duration": 2.96,
+  "text": "apparently taking the fight directly to"
+ },
+ {
+  "start": 298.2,
+  "duration": 3.4,
+  "text": "Anthropic and OpenAI with their own"
+ },
+ {
+  "start": 299.64,
+  "duration": 3.32,
+  "text": "private equity partnerships."
+ },
+ {
+  "start": 301.6,
+  "duration": 4.2,
+  "text": "The Information reported that Google is"
+ },
+ {
+  "start": 302.96,
+  "duration": 4.24,
+  "text": "in talks with Blackstone, KKR, and QT to"
+ },
+ {
+  "start": 305.8,
+  "duration": 3.32,
+  "text": "deploy Google's AI products throughout"
+ },
+ {
+  "start": 307.2,
+  "duration": 3.96,
+  "text": "their portfolio companies. The very"
+ },
+ {
+  "start": 309.12,
+  "duration": 3.64,
+  "text": "clear takeaway is that the AI race is no"
+ },
+ {
+  "start": 311.16,
+  "duration": 3.759,
+  "text": "longer just about model performance and"
+ },
+ {
+  "start": 312.76,
+  "duration": 4.68,
+  "text": "benchmarks, but has a major new"
+ },
+ {
+  "start": 314.919,
+  "duration": 4.161,
+  "text": "dimension in model deployment."
+ },
+ {
+  "start": 317.44,
+  "duration": 3.16,
+  "text": "Moving on to Anthropic, the company is"
+ },
+ {
+  "start": 319.08,
+  "duration": 3.88,
+  "text": "attacking their next vertical with the"
+ },
+ {
+  "start": 320.6,
+  "duration": 4.0,
+  "text": "expansion of Claude for legal. The legal"
+ },
+ {
+  "start": 322.96,
+  "duration": 3.2,
+  "text": "plugin for Cowork was first released"
+ },
+ {
+  "start": 324.6,
+  "duration": 3.24,
+  "text": "earlier this year, and since then,"
+ },
+ {
+  "start": 326.16,
+  "duration": 3.36,
+  "text": "Anthropic says legal professionals have"
+ },
+ {
+  "start": 327.84,
+  "duration": 3.36,
+  "text": "become the most engaged users among"
+ },
+ {
+  "start": 329.52,
+  "duration": 3.2,
+  "text": "knowledge workers. This release is"
+ },
+ {
+  "start": 331.2,
+  "duration": 3.4,
+  "text": "similar to the Claude for finance update"
+ },
+ {
+  "start": 332.72,
+  "duration": 3.68,
+  "text": "from last week, consisting of a series"
+ },
+ {
+  "start": 334.6,
+  "duration": 3.08,
+  "text": "of new connectors and pre-built agents."
+ },
+ {
+  "start": 336.4,
+  "duration": 2.6,
+  "text": "Anthropic has added connectors for"
+ },
+ {
+  "start": 337.68,
+  "duration": 3.08,
+  "text": "dozens of legal tools, including"
+ },
+ {
+  "start": 339.0,
+  "duration": 3.04,
+  "text": "DocuSign, Trellis, and Thomson Reuters"
+ },
+ {
+  "start": 340.76,
+  "duration": 2.52,
+  "text": "CoCounsel."
+ },
+ {
+  "start": 342.04,
+  "duration": 2.92,
+  "text": "Interestingly, Cowork can also now"
+ },
+ {
+  "start": 343.28,
+  "duration": 3.68,
+  "text": "connect directly to Harvey, the largest"
+ },
+ {
+  "start": 344.96,
+  "duration": 3.68,
+  "text": "legal specific AI startup. This means"
+ },
+ {
+  "start": 346.96,
+  "duration": 3.32,
+  "text": "legal professionals can use Co-work as"
+ },
+ {
+  "start": 348.64,
+  "duration": 2.84,
+  "text": "their agent to harness to interface with"
+ },
+ {
+  "start": 350.28,
+  "duration": 2.96,
+  "text": "Harvey's legal knowledge base and"
+ },
+ {
+  "start": 351.48,
+  "duration": 3.6,
+  "text": "reasoning engine. There's also a suite"
+ },
+ {
+  "start": 353.24,
+  "duration": 3.8,
+  "text": "of 12 pre-built agents designed around"
+ },
+ {
+  "start": 355.08,
+  "duration": 3.72,
+  "text": "specific practice areas including"
+ },
+ {
+  "start": 357.04,
+  "duration": 3.32,
+  "text": "commercial law, regulation monitoring,"
+ },
+ {
+  "start": 358.8,
+  "duration": 3.68,
+  "text": "employment law, IP and client"
+ },
+ {
+  "start": 360.36,
+  "duration": 3.6,
+  "text": "management. Anthropic Associate General"
+ },
+ {
+  "start": 362.48,
+  "duration": 3.72,
+  "text": "Counsel Mark Pike said that the launch"
+ },
+ {
+  "start": 363.96,
+  "duration": 3.16,
+  "text": "of Co-work specifically had massively"
+ },
+ {
+  "start": 366.2,
+  "duration": 2.96,
+  "text": "boosted the number of legal"
+ },
+ {
+  "start": 367.12,
+  "duration": 3.4,
+  "text": "professionals using Claude. In fact, he"
+ },
+ {
+  "start": 369.16,
+  "duration": 3.2,
+  "text": "said that lawyers are now the most"
+ },
+ {
+  "start": 370.52,
+  "duration": 3.76,
+  "text": "frequent users of any profession other"
+ },
+ {
+  "start": 372.36,
+  "duration": 3.12,
+  "text": "than software engineers."
+ },
+ {
+  "start": 374.28,
+  "duration": 2.76,
+  "text": "Now, one of the things that's worth"
+ },
+ {
+  "start": 375.48,
+  "duration": 3.439,
+  "text": "watching is whether we start to see a"
+ },
+ {
+  "start": 377.04,
+  "duration": 3.92,
+  "text": "convergence in how the big labs take on"
+ },
+ {
+  "start": 378.919,
+  "duration": 4.081,
+  "text": "knowledge work. Anthropic has now a"
+ },
+ {
+  "start": 380.96,
+  "duration": 3.56,
+  "text": "pretty consistent and clear pattern."
+ },
+ {
+  "start": 383.0,
+  "duration": 3.08,
+  "text": "They roll out packages of connectors and"
+ },
+ {
+  "start": 384.52,
+  "duration": 2.88,
+  "text": "pre-built agents designed to give"
+ },
+ {
+  "start": 386.08,
+  "duration": 3.24,
+  "text": "professionals a solid set of AI"
+ },
+ {
+  "start": 387.4,
+  "duration": 3.28,
+  "text": "workflows right out of the box. Each"
+ },
+ {
+  "start": 389.32,
+  "duration": 3.599,
+  "text": "package is marketed under its own"
+ },
+ {
+  "start": 390.68,
+  "duration": 3.88,
+  "text": "branding, in this case Claude for legal,"
+ },
+ {
+  "start": 392.919,
+  "duration": 4.081,
+  "text": "but forms part of the overall Co-work"
+ },
+ {
+  "start": 394.56,
+  "duration": 4.2,
+  "text": "platform. In contrast, at least at the"
+ },
+ {
+  "start": 397.0,
+  "duration": 3.96,
+  "text": "moment, Open AI appears to be sticking"
+ },
+ {
+  "start": 398.76,
+  "duration": 4.2,
+  "text": "to their super app strategy. Knowledge"
+ },
+ {
+  "start": 400.96,
+  "duration": 3.32,
+  "text": "workers are all routed to Codex where"
+ },
+ {
+  "start": 402.96,
+  "duration": 3.28,
+  "text": "there are starting to be some basic"
+ },
+ {
+  "start": 404.28,
+  "duration": 3.68,
+  "text": "pre-packaged connectors, but not the"
+ },
+ {
+  "start": 406.24,
+  "duration": 2.76,
+  "text": "sort of branded Codex for legal"
+ },
+ {
+  "start": 407.96,
+  "duration": 3.52,
+  "text": "experience that we're getting from"
+ },
+ {
+  "start": 409.0,
+  "duration": 4.08,
+  "text": "Anthropic. I wonder if that will change"
+ },
+ {
+  "start": 411.48,
+  "duration": 4.12,
+  "text": "as more and more knowledge work gets"
+ },
+ {
+  "start": 413.08,
+  "duration": 3.48,
+  "text": "consolidated around those interfaces."
+ },
+ {
+  "start": 415.6,
+  "duration": 2.56,
+  "text": "For now though, we're actually going to"
+ },
+ {
+  "start": 416.56,
+  "duration": 3.56,
+  "text": "close the headlines there because Maine"
+ },
+ {
+  "start": 418.16,
+  "duration": 3.16,
+  "text": "gets a little long today. Something to"
+ },
+ {
+  "start": 420.12,
+  "duration": 3.16,
+  "text": "watch for sure, but for now, that's"
+ },
+ {
+  "start": 421.32,
+  "duration": 4.64,
+  "text": "going to do it for today's headlines."
+ },
+ {
+  "start": 423.28,
+  "duration": 4.48,
+  "text": "Next up, the main episode."
+ },
+ {
+  "start": 425.96,
+  "duration": 3.959,
+  "text": "Welcome back to the AI Daily Brief. When"
+ },
+ {
+  "start": 427.76,
+  "duration": 4.68,
+  "text": "it comes to today's episode, honestly,"
+ },
+ {
+  "start": 429.919,
+  "duration": 5.0,
+  "text": "my hand was forced. There was just too"
+ },
+ {
+  "start": 432.44,
+  "duration": 4.6,
+  "text": "much lazy thinking getting too loud for"
+ },
+ {
+  "start": 434.919,
+  "duration": 3.401,
+  "text": "me to not wade into this conversation."
+ },
+ {
+  "start": 437.04,
+  "duration": 3.2,
+  "text": "And I actually genuinely think it"
+ },
+ {
+  "start": 438.32,
+  "duration": 3.92,
+  "text": "matters because lots and lots of, by"
+ },
+ {
+  "start": 440.24,
+  "duration": 4.0,
+  "text": "which I mean every company is right now"
+ },
+ {
+  "start": 442.24,
+  "duration": 4.16,
+  "text": "trying to figure out how to address AI"
+ },
+ {
+  "start": 444.24,
+  "duration": 4.0,
+  "text": "adoption. And so, when we have lazy"
+ },
+ {
+  "start": 446.4,
+  "duration": 3.64,
+  "text": "thinking that rejects something out of"
+ },
+ {
+  "start": 448.24,
+  "duration": 3.72,
+  "text": "hand as is happening now with this idea"
+ },
+ {
+  "start": 450.04,
+  "duration": 3.92,
+  "text": "of token maxing, I think it can be"
+ },
+ {
+  "start": 451.96,
+  "duration": 3.16,
+  "text": "actively harmful to people and companies"
+ },
+ {
+  "start": 453.96,
+  "duration": 2.44,
+  "text": "who are trying to figure out what"
+ },
+ {
+  "start": 455.12,
+  "duration": 3.04,
+  "text": "they're supposed to be doing in this"
+ },
+ {
+  "start": 456.4,
+  "duration": 4.6,
+  "text": "quickly changing world."
+ },
+ {
+  "start": 458.16,
+  "duration": 5.2,
+  "text": "What I'm discussing today is the new AI"
+ },
+ {
+  "start": 461.0,
+  "duration": 3.92,
+  "text": "actually isn't good narrative. It also"
+ },
+ {
+  "start": 463.36,
+  "duration": 3.36,
+  "text": "conveniently has the new AI bubble"
+ },
+ {
+  "start": 464.92,
+  "duration": 3.6,
+  "text": "narrative all wrapped up in it. And in"
+ },
+ {
+  "start": 466.72,
+  "duration": 4.04,
+  "text": "short, what the narrative is, you're"
+ },
+ {
+  "start": 468.52,
+  "duration": 3.96,
+  "text": "wasting tokens."
+ },
+ {
+  "start": 470.76,
+  "duration": 3.6,
+  "text": "So, what's going on? Well, right now we"
+ },
+ {
+  "start": 472.48,
+  "duration": 4.44,
+  "text": "are, of course, in the midst of a shift"
+ },
+ {
+  "start": 474.36,
+  "duration": 4.4,
+  "text": "in the way AI is being used. You can"
+ },
+ {
+  "start": 476.92,
+  "duration": 3.44,
+  "text": "think about this loosely"
+ },
+ {
+  "start": 478.76,
+  "duration": 3.8,
+  "text": "in the prioritization shift among the"
+ },
+ {
+  "start": 480.36,
+  "duration": 4.0,
+  "text": "frontier model labs in seeing themselves"
+ },
+ {
+  "start": 482.56,
+  "duration": 4.04,
+  "text": "as moving from selling seats to selling"
+ },
+ {
+  "start": 484.36,
+  "duration": 3.84,
+  "text": "tokens. Now, this is not just a business"
+ },
+ {
+  "start": 486.6,
+  "duration": 4.56,
+  "text": "model shift, this is reflective of a"
+ },
+ {
+  "start": 488.2,
+  "duration": 5.12,
+  "text": "work shift from assisted AI where AI is"
+ },
+ {
+  "start": 491.16,
+  "duration": 4.88,
+  "text": "helping me do the things that I do to"
+ },
+ {
+  "start": 493.32,
+  "duration": 4.72,
+  "text": "agentic AI where my job is no longer to"
+ },
+ {
+  "start": 496.04,
+  "duration": 3.52,
+  "text": "produce things, but instead to set up"
+ },
+ {
+  "start": 498.04,
+  "duration": 2.879,
+  "text": "the conditions in which agents can do"
+ },
+ {
+  "start": 499.56,
+  "duration": 4.24,
+  "text": "things for me."
+ },
+ {
+  "start": 500.919,
+  "duration": 4.281,
+  "text": "In that agentic paradigm, success is not"
+ },
+ {
+  "start": 503.8,
+  "duration": 3.68,
+  "text": "just in how many people are using their"
+ },
+ {
+  "start": 505.2,
+  "duration": 3.8,
+  "text": "ChatGPT or Claude subscriptions, it's in"
+ },
+ {
+  "start": 507.48,
+  "duration": 3.0,
+  "text": "what they're doing with them. And"
+ },
+ {
+  "start": 509.0,
+  "duration": 4.24,
+  "text": "frankly, this presents a challenge for"
+ },
+ {
+  "start": 510.48,
+  "duration": 4.239,
+  "text": "enterprises. It was already hard enough"
+ },
+ {
+  "start": 513.24,
+  "duration": 3.84,
+  "text": "just trying to get people to integrate"
+ },
+ {
+  "start": 514.719,
+  "duration": 3.721,
+  "text": "chatbots into their work process despite"
+ },
+ {
+  "start": 517.08,
+  "duration": 2.88,
+  "text": "the easy productivity gains and"
+ },
+ {
+  "start": 518.44,
+  "duration": 3.479,
+  "text": "improvements to how people could do"
+ },
+ {
+  "start": 519.96,
+  "duration": 3.04,
+  "text": "their existing set of work. We talk all"
+ },
+ {
+  "start": 521.919,
+  "duration": 3.161,
+  "text": "the time at this show about the"
+ },
+ {
+  "start": 523.0,
+  "duration": 4.16,
+  "text": "capability overhang, which is the space"
+ },
+ {
+  "start": 525.08,
+  "duration": 3.44,
+  "text": "between what AI is capable of and what"
+ },
+ {
+  "start": 527.16,
+  "duration": 3.88,
+  "text": "organizations are actually getting out"
+ },
+ {
+  "start": 528.52,
+  "duration": 4.92,
+  "text": "of it. And that capability overhang,"
+ },
+ {
+  "start": 531.04,
+  "duration": 4.16,
+  "text": "that gap, is in the agentic era getting"
+ },
+ {
+  "start": 533.44,
+  "duration": 3.44,
+  "text": "nothing but bigger."
+ },
+ {
+  "start": 535.2,
+  "duration": 2.76,
+  "text": "And the important thing, and the premise"
+ },
+ {
+  "start": 536.88,
+  "duration": 3.24,
+  "text": "from which all other parts of my"
+ },
+ {
+  "start": 537.96,
+  "duration": 4.8,
+  "text": "argument will stem, is that there is no"
+ },
+ {
+  "start": 540.12,
+  "duration": 5.36,
+  "text": "way to figure out the best ways to use"
+ },
+ {
+  "start": 542.76,
+  "duration": 5.96,
+  "text": "agents without experimentation."
+ },
+ {
+  "start": 545.48,
+  "duration": 5.16,
+  "text": "People simply have to go try things. You"
+ },
+ {
+  "start": 548.72,
+  "duration": 3.68,
+  "text": "have to hack and build and see what"
+ },
+ {
+  "start": 550.64,
+  "duration": 4.16,
+  "text": "works. And along the way you're going to"
+ },
+ {
+  "start": 552.4,
+  "duration": 4.56,
+  "text": "abandon a lot of half-done projects. The"
+ },
+ {
+  "start": 554.8,
+  "duration": 4.32,
+  "text": "problem, at least according to some, has"
+ },
+ {
+  "start": 556.96,
+  "duration": 3.72,
+  "text": "come in how enterprises are trying to"
+ },
+ {
+  "start": 559.12,
+  "duration": 3.4,
+  "text": "scorecard this."
+ },
+ {
+  "start": 560.68,
+  "duration": 4.159,
+  "text": "Earlier this year, we started to see"
+ },
+ {
+  "start": 562.52,
+  "duration": 4.56,
+  "text": "stories in the press about how companies"
+ },
+ {
+  "start": 564.839,
+  "duration": 3.881,
+  "text": "were doing things like creating token"
+ },
+ {
+  "start": 567.08,
+  "duration": 5.12,
+  "text": "leaderboards where they were"
+ },
+ {
+  "start": 568.72,
+  "duration": 6.4,
+  "text": "incentivizing employees to use more AI."
+ },
+ {
+  "start": 572.2,
+  "duration": 4.68,
+  "text": "Effectively, how many tokens you consume"
+ },
+ {
+  "start": 575.12,
+  "duration": 3.72,
+  "text": "was used as a proxy for how good at"
+ },
+ {
+  "start": 576.88,
+  "duration": 3.88,
+  "text": "using AI you were, and the people who"
+ },
+ {
+  "start": 578.84,
+  "duration": 3.84,
+  "text": "were using the most tokens were lauded"
+ },
+ {
+  "start": 580.76,
+  "duration": 3.28,
+  "text": "above all. Kevin Roose at The New York"
+ },
+ {
+  "start": 582.68,
+  "duration": 3.44,
+  "text": "Times wrote about this all the way back"
+ },
+ {
+  "start": 584.04,
+  "duration": 4.52,
+  "text": "towards the end of March. He wrote, \"An"
+ },
+ {
+  "start": 586.12,
+  "duration": 4.8,
+  "text": "engineer at OpenAI processed 210 billion"
+ },
+ {
+  "start": 588.56,
+  "duration": 4.32,
+  "text": "tokens, enough text to fill Wikipedia 33"
+ },
+ {
+  "start": 590.92,
+  "duration": 3.44,
+  "text": "times through the company's AI models"
+ },
+ {
+  "start": 592.88,
+  "duration": 3.68,
+  "text": "over the last week, the most of any"
+ },
+ {
+  "start": 594.36,
+  "duration": 3.8,
+  "text": "employee. At Anthropic, a single user of"
+ },
+ {
+  "start": 596.56,
+  "duration": 2.84,
+  "text": "the company's AI coding system Claude"
+ },
+ {
+  "start": 598.16,
+  "duration": 3.32,
+  "text": "Code racked up a bill of more than"
+ },
+ {
+  "start": 599.4,
+  "duration": 3.84,
+  "text": "150,000 in a month. And at tech"
+ },
+ {
+  "start": 601.48,
+  "duration": 3.6,
+  "text": "companies like Meta and Shopify,"
+ },
+ {
+  "start": 603.24,
+  "duration": 3.68,
+  "text": "managers have started to factor AI use"
+ },
+ {
+  "start": 605.08,
+  "duration": 3.64,
+  "text": "into performance reviews, rewarding"
+ },
+ {
+  "start": 606.92,
+  "duration": 4.28,
+  "text": "workers who make heavy use of AI tools"
+ },
+ {
+  "start": 608.72,
+  "duration": 4.04,
+  "text": "and chastening those who don't.\" This,"
+ },
+ {
+  "start": 611.2,
+  "duration": 3.56,
+  "text": "Kevin writes, is the new reality for"
+ },
+ {
+  "start": 612.76,
+  "duration": 3.44,
+  "text": "coders. AI was supposed to help tech"
+ },
+ {
+  "start": 614.76,
+  "duration": 3.2,
+  "text": "companies boost productivity and cut"
+ },
+ {
+  "start": 616.2,
+  "duration": 3.76,
+  "text": "costs, but it has also created an"
+ },
+ {
+  "start": 617.96,
+  "duration": 4.12,
+  "text": "expensive new status game known as token"
+ },
+ {
+  "start": 619.96,
+  "duration": 3.48,
+  "text": "maxing. Now, even in this first piece,"
+ },
+ {
+  "start": 622.08,
+  "duration": 3.88,
+  "text": "Kevin got that this was a direct"
+ },
+ {
+  "start": 623.44,
+  "duration": 4.48,
+  "text": "byproduct of the shift from assisted to"
+ },
+ {
+  "start": 625.96,
+  "duration": 4.2,
+  "text": "agentic AI. And again, the new"
+ },
+ {
+  "start": 627.92,
+  "duration": 3.84,
+  "text": "phenomenon was not just wanting people"
+ },
+ {
+  "start": 630.16,
+  "duration": 3.44,
+  "text": "to use a lot more AI, he was"
+ },
+ {
+  "start": 631.76,
+  "duration": 3.08,
+  "text": "incentivizing them. And so really the"
+ },
+ {
+  "start": 633.6,
+  "duration": 3.56,
+  "text": "article was exploring two things"
+ },
+ {
+  "start": 634.84,
+  "duration": 3.84,
+  "text": "simultaneously. One was the underlying"
+ },
+ {
+  "start": 637.16,
+  "duration": 2.88,
+  "text": "shift in what it meant to use AI for"
+ },
+ {
+  "start": 638.68,
+  "duration": 2.56,
+  "text": "work, and the second was the new"
+ },
+ {
+  "start": 640.04,
+  "duration": 2.96,
+  "text": "incentive structures companies were"
+ },
+ {
+  "start": 641.24,
+  "duration": 2.92,
+  "text": "putting around it. It is that second"
+ },
+ {
+  "start": 643.0,
+  "duration": 3.2,
+  "text": "part that has generated much more"
+ },
+ {
+  "start": 644.16,
+  "duration": 4.16,
+  "text": "attention. A couple weeks later, The"
+ },
+ {
+  "start": 646.2,
+  "duration": 3.72,
+  "text": "Information reported that Meta employees"
+ },
+ {
+  "start": 648.32,
+  "duration": 3.64,
+  "text": "were competing in this token maxing sort"
+ },
+ {
+  "start": 649.92,
+  "duration": 3.88,
+  "text": "of way. Their sources told of a new"
+ },
+ {
+  "start": 651.96,
+  "duration": 4.12,
+  "text": "internal leaderboard at Meta that"
+ },
+ {
+  "start": 653.8,
+  "duration": 5.039,
+  "text": "aggregated AI usage from across Meta's"
+ },
+ {
+  "start": 656.08,
+  "duration": 4.88,
+  "text": "85,000 employees listing the top 250"
+ },
+ {
+  "start": 658.839,
+  "duration": 4.241,
+  "text": "power users. Users near the top of the"
+ },
+ {
+  "start": 660.96,
+  "duration": 4.28,
+  "text": "list got cool titles like session"
+ },
+ {
+  "start": 663.08,
+  "duration": 3.8,
+  "text": "immortal or token legend. And it was"
+ },
+ {
+  "start": 665.24,
+  "duration": 2.84,
+  "text": "very clear from the very beginning that"
+ },
+ {
+  "start": 666.88,
+  "duration": 2.68,
+  "text": "the journalists writing these articles"
+ },
+ {
+  "start": 668.08,
+  "duration": 2.96,
+  "text": "thought that all of this was dumb."
+ },
+ {
+  "start": 669.56,
+  "duration": 2.84,
+  "text": "Indeed, The Information called it"
+ },
+ {
+  "start": 671.04,
+  "duration": 3.36,
+  "text": "Silicon Valley's newest form of"
+ },
+ {
+  "start": 672.4,
+  "duration": 4.0,
+  "text": "conspicuous consumption. And it turns"
+ },
+ {
+  "start": 674.4,
+  "duration": 3.72,
+  "text": "out it wasn't just Silicon Valley. A"
+ },
+ {
+  "start": 676.4,
+  "duration": 3.84,
+  "text": "couple weeks later, Business Insider"
+ },
+ {
+  "start": 678.12,
+  "duration": 4.28,
+  "text": "reported that Disney had an AI adoption"
+ },
+ {
+  "start": 680.24,
+  "duration": 4.32,
+  "text": "dashboard. According to a screenshot"
+ },
+ {
+  "start": 682.4,
+  "duration": 3.6,
+  "text": "viewed by BI, the dashboard shows things"
+ },
+ {
+  "start": 684.56,
+  "duration": 3.52,
+  "text": "like the number of employees actively"
+ },
+ {
+  "start": 686.0,
+  "duration": 3.56,
+  "text": "using AI, the number of requests made,"
+ },
+ {
+  "start": 688.08,
+  "duration": 4.12,
+  "text": "the number of tokens used over a given"
+ },
+ {
+  "start": 689.56,
+  "duration": 5.64,
+  "text": "period, and the most active AI users by"
+ },
+ {
+  "start": 692.2,
+  "duration": 5.0,
+  "text": "request made and tokens used. Visa, it"
+ },
+ {
+  "start": 695.2,
+  "duration": 3.84,
+  "text": "appears, is also giving internal awards"
+ },
+ {
+  "start": 697.2,
+  "duration": 3.44,
+  "text": "for individuals and teams who use AI the"
+ },
+ {
+  "start": 699.04,
+  "duration": 3.92,
+  "text": "most, and it wasn't long before the"
+ },
+ {
+  "start": 700.64,
+  "duration": 3.6,
+  "text": "debate started to rage. On the one side"
+ },
+ {
+  "start": 702.96,
+  "duration": 3.68,
+  "text": "are those like the companies mentioned"
+ },
+ {
+  "start": 704.24,
+  "duration": 4.88,
+  "text": "so far, or like AI startup Writer, whose"
+ },
+ {
+  "start": 706.64,
+  "duration": 4.12,
+  "text": "CEO May Habib said, \"It's existential"
+ },
+ {
+  "start": 709.12,
+  "duration": 3.44,
+  "text": "for us. We are in the most competitive"
+ },
+ {
+  "start": 710.76,
+  "duration": 3.92,
+  "text": "space that has ever existed and will"
+ },
+ {
+  "start": 712.56,
+  "duration": 3.84,
+  "text": "ever exist.\" On the other hand is the"
+ },
+ {
+  "start": 714.68,
+  "duration": 4.56,
+  "text": "perspective valiantly summed up by Nick"
+ },
+ {
+  "start": 716.4,
+  "duration": 4.64,
+  "text": "Hodges in InfoWorld. Token maxing is"
+ },
+ {
+  "start": 719.24,
+  "duration": 3.24,
+  "text": "super dumb."
+ },
+ {
+  "start": 721.04,
+  "duration": 4.32,
+  "text": "Now, this whole narrative crescendoed"
+ },
+ {
+  "start": 722.48,
+  "duration": 4.88,
+  "text": "this week based on two things. The first"
+ },
+ {
+  "start": 725.36,
+  "duration": 3.92,
+  "text": "was a Financial Times report that"
+ },
+ {
+  "start": 727.36,
+  "duration": 4.52,
+  "text": "claimed that Amazon staff were using AI"
+ },
+ {
+  "start": 729.28,
+  "duration": 4.72,
+  "text": "tools for unnecessary tasks to inflate"
+ },
+ {
+  "start": 731.88,
+  "duration": 4.16,
+  "text": "these usage scores. Wrote the Financial"
+ },
+ {
+  "start": 734.0,
+  "duration": 3.52,
+  "text": "Times, \"Amazon employees are using an"
+ },
+ {
+  "start": 736.04,
+  "duration": 3.24,
+  "text": "internal AI tool to automate"
+ },
+ {
+  "start": 737.52,
+  "duration": 3.44,
+  "text": "non-essential tasks in a bid to show"
+ },
+ {
+  "start": 739.28,
+  "duration": 3.48,
+  "text": "managers they are using technology more"
+ },
+ {
+  "start": 740.96,
+  "duration": 3.08,
+  "text": "frequently. Some employees said"
+ },
+ {
+  "start": 742.76,
+  "duration": 3.12,
+  "text": "colleagues were using the software to"
+ },
+ {
+  "start": 744.04,
+  "duration": 3.84,
+  "text": "automate unnecessary AI activity to"
+ },
+ {
+  "start": 745.88,
+  "duration": 3.6,
+  "text": "increase their consumption of tokens. An"
+ },
+ {
+  "start": 747.88,
+  "duration": 3.52,
+  "text": "employee said managers are looking at"
+ },
+ {
+  "start": 749.48,
+  "duration": 3.08,
+  "text": "it. When they track usage, it creates"
+ },
+ {
+  "start": 751.4,
+  "duration": 2.92,
+  "text": "perverse incentives, and some people are"
+ },
+ {
+  "start": 752.56,
+  "duration": 3.64,
+  "text": "very competitive about it.\" Now, this"
+ },
+ {
+  "start": 754.32,
+  "duration": 3.32,
+  "text": "hit at the same time as Vasu Mann on"
+ },
+ {
+  "start": 756.2,
+  "duration": 3.28,
+  "text": "Twitter went viral after he posted a"
+ },
+ {
+  "start": 757.64,
+  "duration": 4.08,
+  "text": "Slack message that said, \"Whoever spent"
+ },
+ {
+  "start": 759.48,
+  "duration": 3.88,
+  "text": "$600 on Anthropic last night, great job"
+ },
+ {
+  "start": 761.72,
+  "duration": 3.92,
+  "text": "leveraging AI. But to the person who"
+ },
+ {
+  "start": 763.36,
+  "duration": 4.72,
+  "text": "spent $23 on Uber Eats, please remember"
+ },
+ {
+  "start": 765.64,
+  "duration": 3.6,
+  "text": "our limit for food is $20 per meal.\""
+ },
+ {
+  "start": 768.08,
+  "duration": 3.12,
+  "text": "Now, I'm almost positive that the"
+ },
+ {
+  "start": 769.24,
+  "duration": 2.92,
+  "text": "screenshot itself was a joke, but it"
+ },
+ {
+  "start": 771.2,
+  "duration": 2.6,
+  "text": "doesn't really matter because the"
+ },
+ {
+  "start": 772.16,
+  "duration": 4.08,
+  "text": "resonance of it, with 2 million people"
+ },
+ {
+  "start": 773.8,
+  "duration": 4.24,
+  "text": "having seen this and 69,000 having"
+ },
+ {
+  "start": 776.24,
+  "duration": 3.36,
+  "text": "favorited it, suggests for the state of"
+ },
+ {
+  "start": 778.04,
+  "duration": 4.48,
+  "text": "the conversation."
+ },
+ {
+  "start": 779.6,
+  "duration": 5.04,
+  "text": "Now, when it comes to the idea of token"
+ },
+ {
+  "start": 782.52,
+  "duration": 3.88,
+  "text": "maxing, by which we mean rewarding"
+ },
+ {
+  "start": 784.64,
+  "duration": 3.64,
+  "text": "employees for using more tokens than"
+ },
+ {
+  "start": 786.4,
+  "duration": 3.76,
+  "text": "their peers, there are some pretty"
+ },
+ {
+  "start": 788.28,
+  "duration": 3.44,
+  "text": "obvious problems that arise. Most"
+ },
+ {
+  "start": 790.16,
+  "duration": 3.48,
+  "text": "notably, the problem summarized in"
+ },
+ {
+  "start": 791.72,
+  "duration": 3.72,
+  "text": "Goodhart's law that states that when a"
+ },
+ {
+  "start": 793.64,
+  "duration": 4.04,
+  "text": "measure becomes a target, it ceases to"
+ },
+ {
+  "start": 795.44,
+  "duration": 3.96,
+  "text": "be a good measure. In other words, as"
+ },
+ {
+  "start": 797.68,
+  "duration": 3.92,
+  "text": "soon as you introduce a new metric for"
+ },
+ {
+  "start": 799.4,
+  "duration": 4.36,
+  "text": "success, people are going to game that"
+ },
+ {
+  "start": 801.6,
+  "duration": 4.08,
+  "text": "metric. That is just human nature. It's"
+ },
+ {
+  "start": 803.76,
+  "duration": 3.96,
+  "text": "the nature of human systems. It has"
+ },
+ {
+  "start": 805.68,
+  "duration": 3.84,
+  "text": "always been and will always be the case."
+ },
+ {
+  "start": 807.72,
+  "duration": 3.52,
+  "text": "But what was interesting to me is that"
+ },
+ {
+  "start": 809.52,
+  "duration": 4.4,
+  "text": "that's not where the conversation has"
+ },
+ {
+  "start": 811.24,
+  "duration": 4.8,
+  "text": "really stayed. Instead, what I'm seeing"
+ },
+ {
+  "start": 813.92,
+  "duration": 4.24,
+  "text": "is a couple of old strands of critique"
+ },
+ {
+  "start": 816.04,
+  "duration": 3.92,
+  "text": "finding new purpose. There are two"
+ },
+ {
+  "start": 818.16,
+  "duration": 5.16,
+  "text": "points of view that were everywhere in"
+ },
+ {
+  "start": 819.96,
+  "duration": 5.24,
+  "text": "late 2025 that look fairly silly now."
+ },
+ {
+  "start": 823.32,
+  "duration": 4.8,
+  "text": "The first of those is what I'll call the"
+ },
+ {
+  "start": 825.2,
+  "duration": 5.12,
+  "text": "Gary Marcusian or Ed Zitronian, actually"
+ },
+ {
+  "start": 828.12,
+  "duration": 4.12,
+  "text": "AI isn't all that good. The idea that"
+ },
+ {
+  "start": 830.32,
+  "duration": 3.0,
+  "text": "actually all this AI stuff was just hype"
+ },
+ {
+  "start": 832.24,
+  "duration": 2.24,
+  "text": "and that the models weren't even that"
+ },
+ {
+  "start": 833.32,
+  "duration": 2.84,
+  "text": "good at all the things that people said"
+ },
+ {
+  "start": 834.48,
+  "duration": 3.08,
+  "text": "they were good at. This of course played"
+ },
+ {
+  "start": 836.16,
+  "duration": 3.64,
+  "text": "directly into the second narrative that"
+ },
+ {
+  "start": 837.56,
+  "duration": 4.16,
+  "text": "was quite popular in Q4 of last year,"
+ },
+ {
+  "start": 839.8,
+  "duration": 3.16,
+  "text": "that AI is a bubble that will never make"
+ },
+ {
+  "start": 841.72,
+  "duration": 2.52,
+  "text": "enough money to justify the"
+ },
+ {
+  "start": 842.96,
+  "duration": 2.92,
+  "text": "infrastructure build-out that's going"
+ },
+ {
+  "start": 844.24,
+  "duration": 3.96,
+  "text": "into it. Now, clearly these things are"
+ },
+ {
+  "start": 845.88,
+  "duration": 3.8,
+  "text": "related in that if AI isn't good and it"
+ },
+ {
+  "start": 848.2,
+  "duration": 2.52,
+  "text": "can't actually get all that much better,"
+ },
+ {
+  "start": 849.68,
+  "duration": 2.48,
+  "text": "at some point people are going to"
+ },
+ {
+  "start": 850.72,
+  "duration": 2.92,
+  "text": "realize it and there's not going to be"
+ },
+ {
+  "start": 852.16,
+  "duration": 3.4,
+  "text": "money on the other side to justify the"
+ },
+ {
+  "start": 853.64,
+  "duration": 3.88,
+  "text": "investment spend. Now, to put it"
+ },
+ {
+  "start": 855.56,
+  "duration": 3.24,
+  "text": "bluntly, these points of view look"
+ },
+ {
+  "start": 857.52,
+  "duration": 3.56,
+  "text": "fairly silly now with the benefit of"
+ },
+ {
+  "start": 858.8,
+  "duration": 4.0,
+  "text": "hindsight. They look silly because one,"
+ },
+ {
+  "start": 861.08,
+  "duration": 3.16,
+  "text": "AI models have done nothing but get"
+ },
+ {
+  "start": 862.8,
+  "duration": 2.88,
+  "text": "better and the things that we can do"
+ },
+ {
+  "start": 864.24,
+  "duration": 3.2,
+  "text": "with them have gone nothing but up. In"
+ },
+ {
+  "start": 865.68,
+  "duration": 3.68,
+  "text": "fact, we are in a fundamentally new"
+ },
+ {
+  "start": 867.44,
+  "duration": 3.88,
+  "text": "paradigm of what we can do with them."
+ },
+ {
+  "start": 869.36,
+  "duration": 3.92,
+  "text": "And second, revenue is growing like"
+ },
+ {
+  "start": 871.32,
+  "duration": 3.92,
+  "text": "nothing we've ever seen. And to be very"
+ },
+ {
+  "start": 873.28,
+  "duration": 3.16,
+  "text": "crisp about this, I'm not just saying"
+ },
+ {
+  "start": 875.24,
+  "duration": 3.36,
+  "text": "that these are the fastest growing"
+ },
+ {
+  "start": 876.44,
+  "duration": 4.04,
+  "text": "startups of all time. I'm saying that at"
+ },
+ {
+  "start": 878.6,
+  "duration": 4.0,
+  "text": "the scale that we are talking about,"
+ },
+ {
+  "start": 880.48,
+  "duration": 4.28,
+  "text": "getting to tens of billions of dollars"
+ },
+ {
+  "start": 882.6,
+  "duration": 4.239,
+  "text": "in annual revenue and seeing that"
+ },
+ {
+  "start": 884.76,
+  "duration": 4.96,
+  "text": "revenue in the case of Anthropic this"
+ },
+ {
+  "start": 886.839,
+  "duration": 4.921,
+  "text": "year, 80X in the first part of the year,"
+ },
+ {
+  "start": 889.72,
+  "duration": 3.52,
+  "text": "is completely without precedent in"
+ },
+ {
+  "start": 891.76,
+  "duration": 3.12,
+  "text": "business history."
+ },
+ {
+  "start": 893.24,
+  "duration": 3.72,
+  "text": "And while there is still reasonable"
+ },
+ {
+  "start": 894.88,
+  "duration": 4.0,
+  "text": "debate around how much infrastructure"
+ },
+ {
+  "start": 896.96,
+  "duration": 3.92,
+  "text": "investment that will all justify, it's"
+ },
+ {
+  "start": 898.88,
+  "duration": 5.04,
+  "text": "pretty undeniable that at this point the"
+ },
+ {
+  "start": 900.88,
+  "duration": 5.04,
+  "text": "demand for AI, i.e. tokens, radically"
+ },
+ {
+  "start": 903.92,
+  "duration": 3.12,
+  "text": "outstrips the supply and we're kind of"
+ },
+ {
+  "start": 905.92,
+  "duration": 2.919,
+  "text": "going to need all that compute that's"
+ },
+ {
+  "start": 907.04,
+  "duration": 4.56,
+  "text": "coming online."
+ },
+ {
+  "start": 908.839,
+  "duration": 4.081,
+  "text": "Now, as an aside, I would suggest humbly"
+ },
+ {
+  "start": 911.6,
+  "duration": 3.16,
+  "text": "that the fact that those two points of"
+ },
+ {
+  "start": 912.92,
+  "duration": 3.919,
+  "text": "view look fairly silly now is a good"
+ },
+ {
+  "start": 914.76,
+  "duration": 3.76,
+  "text": "warning for people who make criticism"
+ },
+ {
+  "start": 916.839,
+  "duration": 3.401,
+  "text": "some combination of their personality"
+ },
+ {
+  "start": 918.52,
+  "duration": 3.56,
+  "text": "and their business model as it makes it"
+ },
+ {
+  "start": 920.24,
+  "duration": 3.72,
+  "text": "very hard to change your perspective as"
+ },
+ {
+  "start": 922.08,
+  "duration": 3.04,
+  "text": "times change."
+ },
+ {
+  "start": 923.96,
+  "duration": 3.0,
+  "text": "Now, coming back, however, to the"
+ },
+ {
+  "start": 925.12,
+  "duration": 3.96,
+  "text": "discussion at the moment, you might see"
+ },
+ {
+  "start": 926.96,
+  "duration": 4.08,
+  "text": "where these things are converging."
+ },
+ {
+  "start": 929.08,
+  "duration": 3.4,
+  "text": "The argument that AI isn't really all"
+ },
+ {
+  "start": 931.04,
+  "duration": 2.68,
+  "text": "that good, and that it doesn't have a"
+ },
+ {
+  "start": 932.48,
+  "duration": 4.32,
+  "text": "business model that justifies the"
+ },
+ {
+  "start": 933.72,
+  "duration": 5.4,
+  "text": "investment, starts to get new life if"
+ },
+ {
+  "start": 936.8,
+  "duration": 4.68,
+  "text": "all of those tokens that are being used"
+ },
+ {
+  "start": 939.12,
+  "duration": 4.84,
+  "text": "are for utter rubbish and non-productive"
+ },
+ {
+  "start": 941.48,
+  "duration": 4.56,
+  "text": "things and gaming systems. It's a new"
+ },
+ {
+  "start": 943.96,
+  "duration": 3.64,
+  "text": "nuanced version of the actually AI isn't"
+ },
+ {
+  "start": 946.04,
+  "duration": 3.72,
+  "text": "all that good because now the argument"
+ },
+ {
+  "start": 947.6,
+  "duration": 3.48,
+  "text": "is not that AI isn't good, it's that you"
+ },
+ {
+  "start": 949.76,
+  "duration": 3.8,
+  "text": "suck at using it and the stuff that"
+ },
+ {
+  "start": 951.08,
+  "duration": 4.36,
+  "text": "you're doing is invaluable. TXMC trades"
+ },
+ {
+  "start": 953.56,
+  "duration": 3.48,
+  "text": "on Twitter wrote, \"If you're vibe coding"
+ },
+ {
+  "start": 955.44,
+  "duration": 3.32,
+  "text": "some cool website but not making money"
+ },
+ {
+  "start": 957.04,
+  "duration": 3.88,
+  "text": "with it, then AI didn't create value for"
+ },
+ {
+  "start": 958.76,
+  "duration": 4.0,
+  "text": "you. It merely accelerated your hobby.\""
+ },
+ {
+  "start": 960.92,
+  "duration": 3.6,
+  "text": "Now, relatedly, this also creates a"
+ },
+ {
+  "start": 962.76,
+  "duration": 4.44,
+  "text": "reason to doubt the business model"
+ },
+ {
+  "start": 964.52,
+  "duration": 4.56,
+  "text": "because if all of that exciting token"
+ },
+ {
+  "start": 967.2,
+  "duration": 3.92,
+  "text": "consumption is actually just employees"
+ },
+ {
+  "start": 969.08,
+  "duration": 4.44,
+  "text": "gaming their employers, then eventually"
+ },
+ {
+  "start": 971.12,
+  "duration": 4.08,
+  "text": "that will come crashing as well. CNBC's"
+ },
+ {
+  "start": 973.52,
+  "duration": 3.4,
+  "text": "Deirdre Bosa writes,"
+ },
+ {
+  "start": 975.2,
+  "duration": 3.8,
+  "text": "\"AI's main demand metric tokens has"
+ },
+ {
+  "start": 976.92,
+  "duration": 4.2,
+  "text": "decoupled from actual economic value."
+ },
+ {
+  "start": 979.0,
+  "duration": 4.0,
+  "text": "Like page views during the dot-com era,"
+ },
+ {
+  "start": 981.12,
+  "duration": 4.08,
+  "text": "justify the spend until they don't.\""
+ },
+ {
+  "start": 983.0,
+  "duration": 4.92,
+  "text": "Nobody special memes, \"They say the"
+ },
+ {
+  "start": 985.2,
+  "duration": 4.2,
+  "text": "demand is insane, but the demand is\""
+ },
+ {
+  "start": 987.92,
+  "duration": 2.919,
+  "text": "with a link to the headline \"Amazon"
+ },
+ {
+  "start": 989.4,
+  "duration": 3.32,
+  "text": "employees admit to using AI"
+ },
+ {
+  "start": 990.839,
+  "duration": 4.641,
+  "text": "unnecessarily to pump up internal usage"
+ },
+ {
+  "start": 992.72,
+  "duration": 4.52,
+  "text": "scores.\" There's a bonus gotcha of if"
+ },
+ {
+  "start": 995.48,
+  "duration": 3.08,
+  "text": "this technology was so good, would you"
+ },
+ {
+  "start": 997.24,
+  "duration": 3.64,
+  "text": "really have to convince people to use"
+ },
+ {
+  "start": 998.56,
+  "duration": 3.64,
+  "text": "it? Jason McCabe asked, \"Do people need"
+ },
+ {
+  "start": 1000.88,
+  "duration": 3.52,
+  "text": "to be convinced to switch from fax"
+ },
+ {
+  "start": 1002.2,
+  "duration": 4.28,
+  "text": "machines?\" And since social media"
+ },
+ {
+  "start": 1004.4,
+  "duration": 4.0,
+  "text": "rewards people for feeling clever, and"
+ },
+ {
+  "start": 1006.48,
+  "duration": 4.12,
+  "text": "since being skeptical is a priori"
+ },
+ {
+  "start": 1008.4,
+  "duration": 4.08,
+  "text": "treated as being clever, people jumped"
+ },
+ {
+  "start": 1010.6,
+  "duration": 4.239,
+  "text": "all over this."
+ },
+ {
+  "start": 1012.48,
+  "duration": 4.68,
+  "text": "Now, I think all of this is just"
+ },
+ {
+  "start": 1014.839,
+  "duration": 3.721,
+  "text": "absolutely preposterous. I want to talk"
+ },
+ {
+  "start": 1017.16,
+  "duration": 3.12,
+  "text": "about why it's preposterous, but then I"
+ },
+ {
+  "start": 1018.56,
+  "duration": 3.88,
+  "text": "want to go farther and actually defend"
+ },
+ {
+  "start": 1020.28,
+  "duration": 4.559,
+  "text": "the token maxing. So, first let's talk"
+ },
+ {
+  "start": 1022.44,
+  "duration": 4.08,
+  "text": "about why the return of the AI isn't"
+ },
+ {
+  "start": 1024.839,
+  "duration": 2.921,
+  "text": "good narrative as you're using tokens"
+ },
+ {
+  "start": 1026.52,
+  "duration": 2.96,
+  "text": "poorly and the return of the bubble"
+ },
+ {
+  "start": 1027.76,
+  "duration": 3.52,
+  "text": "narrative as people are just using"
+ },
+ {
+  "start": 1029.48,
+  "duration": 3.719,
+  "text": "tokens to game the system are both"
+ },
+ {
+  "start": 1031.28,
+  "duration": 3.6,
+  "text": "ridiculous. The logical leap that the"
+ },
+ {
+  "start": 1033.199,
+  "duration": 3.161,
+  "text": "bubble people are making is that the"
+ },
+ {
+  "start": 1034.88,
+  "duration": 3.76,
+  "text": "activity being reported on by the"
+ },
+ {
+  "start": 1036.36,
+  "duration": 5.2,
+  "text": "Financial Times is broadly reflective of"
+ },
+ {
+  "start": 1038.64,
+  "duration": 4.679,
+  "text": "the majority of token consumption. I.E."
+ },
+ {
+  "start": 1041.56,
+  "duration": 3.36,
+  "text": "Somehow the majority of the demand is"
+ },
+ {
+  "start": 1043.319,
+  "duration": 3.681,
+  "text": "people using it for these silly"
+ },
+ {
+  "start": 1044.92,
+  "duration": 4.0,
+  "text": "non-consequential purposes, rather than"
+ },
+ {
+  "start": 1047.0,
+  "duration": 4.04,
+  "text": "actually real valuable stuff, which will"
+ },
+ {
+  "start": 1048.92,
+  "duration": 3.8,
+  "text": "see sustained demand over time. But"
+ },
+ {
+  "start": 1051.04,
+  "duration": 3.56,
+  "text": "since we discussed Goodhart's law"
+ },
+ {
+  "start": 1052.72,
+  "duration": 4.2,
+  "text": "before, let's talk about a few other"
+ },
+ {
+  "start": 1054.6,
+  "duration": 4.56,
+  "text": "types of logical fallacies. The first is"
+ },
+ {
+  "start": 1056.92,
+  "duration": 4.76,
+  "text": "selection bias. Token maxing fraud is a"
+ },
+ {
+  "start": 1059.16,
+  "duration": 4.8,
+  "text": "story because it's the deviation. People"
+ },
+ {
+  "start": 1061.68,
+  "duration": 3.8,
+  "text": "using AI for value isn't a story."
+ },
+ {
+  "start": 1063.96,
+  "duration": 3.68,
+  "text": "Especially now that the narrative"
+ },
+ {
+  "start": 1065.48,
+  "duration": 4.36,
+  "text": "generally has shifted back to AI being"
+ },
+ {
+  "start": 1067.64,
+  "duration": 3.92,
+  "text": "really powerful and valuable. Media is"
+ },
+ {
+  "start": 1069.84,
+  "duration": 3.2,
+  "text": "naturally then picking up the thing that"
+ },
+ {
+  "start": 1071.56,
+  "duration": 3.32,
+  "text": "swings the narrative pendulum back in"
+ },
+ {
+  "start": 1073.04,
+  "duration": 3.52,
+  "text": "the other direction, because to get"
+ },
+ {
+  "start": 1074.88,
+  "duration": 3.2,
+  "text": "eyeballs and clicks, you have to be"
+ },
+ {
+  "start": 1076.56,
+  "duration": 3.72,
+  "text": "saying the thing that's counter to the"
+ },
+ {
+  "start": 1078.08,
+  "duration": 4.08,
+  "text": "conventional wisdom. In other words,"
+ },
+ {
+  "start": 1080.28,
+  "duration": 3.24,
+  "text": "even if you assume that some amount of"
+ },
+ {
+  "start": 1082.16,
+  "duration": 3.32,
+  "text": "this incentive system gaming is"
+ },
+ {
+  "start": 1083.52,
+  "duration": 3.8,
+  "text": "happening, it takes a lot of leap to"
+ },
+ {
+  "start": 1085.48,
+  "duration": 4.24,
+  "text": "then extract that all the way to that"
+ },
+ {
+  "start": 1087.32,
+  "duration": 4.0,
+  "text": "being somehow the majority of AI usage,"
+ },
+ {
+  "start": 1089.72,
+  "duration": 3.76,
+  "text": "which then gets us to a second logical"
+ },
+ {
+  "start": 1091.32,
+  "duration": 3.8,
+  "text": "fallacy, hasty generalization or"
+ },
+ {
+  "start": 1093.48,
+  "duration": 3.04,
+  "text": "nut-picking. Basically, that means"
+ },
+ {
+  "start": 1095.12,
+  "duration": 2.8,
+  "text": "taking the visible extreme and treating"
+ },
+ {
+  "start": 1096.52,
+  "duration": 3.04,
+  "text": "it as the norm. One of the most"
+ },
+ {
+  "start": 1097.92,
+  "duration": 3.92,
+  "text": "important things we teach our children"
+ },
+ {
+  "start": 1099.56,
+  "duration": 4.12,
+  "text": "is the fundamental incorrectness of"
+ },
+ {
+  "start": 1101.84,
+  "duration": 4.12,
+  "text": "assuming that because one part of group"
+ },
+ {
+  "start": 1103.68,
+  "duration": 3.92,
+  "text": "X does something, then all of group X do"
+ },
+ {
+  "start": 1105.96,
+  "duration": 3.56,
+  "text": "that thing. And yet, that's exactly what"
+ },
+ {
+  "start": 1107.6,
+  "duration": 3.12,
+  "text": "we're doing here. Now, a final logical"
+ },
+ {
+  "start": 1109.52,
+  "duration": 3.4,
+  "text": "fallacy we'll throw on there just for"
+ },
+ {
+  "start": 1110.72,
+  "duration": 4.24,
+  "text": "fun is category error. In this case,"
+ },
+ {
+  "start": 1112.92,
+  "duration": 3.88,
+  "text": "gaming is being used as evidence about"
+ },
+ {
+  "start": 1114.96,
+  "duration": 3.36,
+  "text": "the quality of the technology, when the"
+ },
+ {
+  "start": 1116.8,
+  "duration": 3.36,
+  "text": "only thing it can be reasonably"
+ },
+ {
+  "start": 1118.32,
+  "duration": 3.76,
+  "text": "considered evidence actually of is the"
+ },
+ {
+  "start": 1120.16,
+  "duration": 3.6,
+  "text": "incentive structure. Anyway, none of"
+ },
+ {
+  "start": 1122.08,
+  "duration": 3.36,
+  "text": "this really matters, because in many"
+ },
+ {
+  "start": 1123.76,
+  "duration": 3.68,
+  "text": "cases it is finding resonance among the"
+ },
+ {
+  "start": 1125.44,
+  "duration": 3.52,
+  "text": "people who had spent the last 6 months"
+ },
+ {
+  "start": 1127.44,
+  "duration": 3.04,
+  "text": "feeling annoyed at how quiet they had to"
+ },
+ {
+  "start": 1128.96,
+  "duration": 2.76,
+  "text": "be after being extremely loud about"
+ },
+ {
+  "start": 1130.48,
+  "duration": 3.0,
+  "text": "their bubbles and performance walls for"
+ },
+ {
+  "start": 1131.72,
+  "duration": 3.04,
+  "text": "the second half of last year. Those"
+ },
+ {
+  "start": 1133.48,
+  "duration": 2.4,
+  "text": "folks aren't trying to logic through"
+ },
+ {
+  "start": 1134.76,
+  "duration": 2.32,
+  "text": "with first principles, they're just"
+ },
+ {
+  "start": 1135.88,
+  "duration": 2.56,
+  "text": "excited to have a new version of their"
+ },
+ {
+  "start": 1137.08,
+  "duration": 3.4,
+  "text": "arguments, identity, and skeptics"
+ },
+ {
+  "start": 1138.44,
+  "duration": 4.28,
+  "text": "business model to cling on to."
+ },
+ {
+  "start": 1140.48,
+  "duration": 4.84,
+  "text": "What I actually want to do is go farther"
+ },
+ {
+  "start": 1142.72,
+  "duration": 5.0,
+  "text": "and defend token maxing"
+ },
+ {
+  "start": 1145.32,
+  "duration": 4.0,
+  "text": "as a practice. To the extent that token"
+ },
+ {
+  "start": 1147.72,
+  "duration": 3.48,
+  "text": "leaderboards are about showing off to"
+ },
+ {
+  "start": 1149.32,
+  "duration": 3.48,
+  "text": "the level above you about how much"
+ },
+ {
+  "start": 1151.2,
+  "duration": 3.32,
+  "text": "you're doing in AI."
+ },
+ {
+  "start": 1152.8,
+  "duration": 3.48,
+  "text": "Yes, that is going to create some warped"
+ },
+ {
+  "start": 1154.52,
+  "duration": 4.2,
+  "text": "incentives and is probably not all that"
+ },
+ {
+  "start": 1156.28,
+  "duration": 4.16,
+  "text": "valuable. But there are very good"
+ },
+ {
+  "start": 1158.72,
+  "duration": 4.24,
+  "text": "reasons to encourage people to"
+ },
+ {
+  "start": 1160.44,
+  "duration": 4.44,
+  "text": "experiment more. First of all,"
+ },
+ {
+  "start": 1162.96,
+  "duration": 3.6,
+  "text": "historically speaking, some of the"
+ },
+ {
+  "start": 1164.88,
+  "duration": 3.68,
+  "text": "biggest barriers to getting enterprise"
+ },
+ {
+  "start": 1166.56,
+  "duration": 3.44,
+  "text": "employees to try and learn AI is those"
+ },
+ {
+  "start": 1168.56,
+  "duration": 3.32,
+  "text": "employees sense that they just don't"
+ },
+ {
+  "start": 1170.0,
+  "duration": 4.04,
+  "text": "have time. This came up in basically"
+ },
+ {
+  "start": 1171.88,
+  "duration": 3.84,
+  "text": "every study and survey from 2023 to"
+ },
+ {
+  "start": 1174.04,
+  "duration": 3.24,
+  "text": "2025."
+ },
+ {
+  "start": 1175.72,
+  "duration": 3.52,
+  "text": "People were expected to just pick up and"
+ },
+ {
+  "start": 1177.28,
+  "duration": 3.16,
+  "text": "learn AI on top of doing their normal"
+ },
+ {
+  "start": 1179.24,
+  "duration": 3.36,
+  "text": "jobs."
+ },
+ {
+  "start": 1180.44,
+  "duration": 3.92,
+  "text": "And given how much that didn't work and"
+ },
+ {
+  "start": 1182.6,
+  "duration": 3.32,
+  "text": "how many challenges that created, it"
+ },
+ {
+  "start": 1184.36,
+  "duration": 3.8,
+  "text": "would be reasonable to think that"
+ },
+ {
+  "start": 1185.92,
+  "duration": 4.76,
+  "text": "creating incentive structures around"
+ },
+ {
+  "start": 1188.16,
+  "duration": 3.84,
+  "text": "experimentation might now be a practical"
+ },
+ {
+  "start": 1190.68,
+  "duration": 3.08,
+  "text": "necessity."
+ },
+ {
+  "start": 1192.0,
+  "duration": 3.72,
+  "text": "Second, the shift we're now experiencing"
+ },
+ {
+  "start": 1193.76,
+  "duration": 4.08,
+  "text": "from assisted to agentic is, in my"
+ },
+ {
+  "start": 1195.72,
+  "duration": 4.44,
+  "text": "estimation, a much more significant"
+ },
+ {
+  "start": 1197.84,
+  "duration": 4.4,
+  "text": "disruption than the ChatGPT moment. In"
+ },
+ {
+  "start": 1200.16,
+  "duration": 4.28,
+  "text": "the agent era, the question shifts from"
+ },
+ {
+  "start": 1202.24,
+  "duration": 4.92,
+  "text": "just can we do the same thing but faster"
+ },
+ {
+  "start": 1204.44,
+  "duration": 5.12,
+  "text": "or cheaper to should we change how we do"
+ },
+ {
+  "start": 1207.16,
+  "duration": 4.12,
+  "text": "the thing or even more, what other"
+ },
+ {
+  "start": 1209.56,
+  "duration": 3.44,
+  "text": "things can we do?"
+ },
+ {
+  "start": 1211.28,
+  "duration": 4.72,
+  "text": "Many knowledge work jobs are shifting"
+ },
+ {
+  "start": 1213.0,
+  "duration": 4.8,
+  "text": "from I produce or do a thing to I set up"
+ },
+ {
+  "start": 1216.0,
+  "duration": 3.36,
+  "text": "the conditions for an agent to produce"
+ },
+ {
+  "start": 1217.8,
+  "duration": 4.04,
+  "text": "or do things."
+ },
+ {
+  "start": 1219.36,
+  "duration": 4.56,
+  "text": "Prompting ChatGPT was not a new"
+ },
+ {
+  "start": 1221.84,
+  "duration": 3.52,
+  "text": "knowledge work primitive. It was a new"
+ },
+ {
+  "start": 1223.92,
+  "duration": 2.6,
+  "text": "work skill, but not a new work"
+ },
+ {
+  "start": 1225.36,
+  "duration": 4.6,
+  "text": "primitive."
+ },
+ {
+  "start": 1226.52,
+  "duration": 5.84,
+  "text": "Managing agents is a new work primitive,"
+ },
+ {
+  "start": 1229.96,
+  "duration": 5.48,
+  "text": "full stop. And it's a new knowledge work"
+ },
+ {
+  "start": 1232.36,
+  "duration": 4.28,
+  "text": "primitive where there are no experts."
+ },
+ {
+  "start": 1235.44,
+  "duration": 3.08,
+  "text": "There are only people who have"
+ },
+ {
+  "start": 1236.64,
+  "duration": 3.8,
+  "text": "experimented more than you."
+ },
+ {
+  "start": 1238.52,
+  "duration": 3.36,
+  "text": "In a few years things will start to be"
+ },
+ {
+  "start": 1240.44,
+  "duration": 4.16,
+  "text": "different, but at the moment there"
+ },
+ {
+  "start": 1241.88,
+  "duration": 5.32,
+  "text": "pretty much aren't best practices when"
+ },
+ {
+  "start": 1244.6,
+  "duration": 4.24,
+  "text": "it comes to how roles and jobs and tasks"
+ },
+ {
+  "start": 1247.2,
+  "duration": 3.52,
+  "text": "get agentified."
+ },
+ {
+  "start": 1248.84,
+  "duration": 5.64,
+  "text": "And what that means is that the only way"
+ },
+ {
+  "start": 1250.72,
+  "duration": 5.12,
+  "text": "to figure it out is to experiment."
+ },
+ {
+  "start": 1254.48,
+  "duration": 3.56,
+  "text": "The problem that I have with all these"
+ },
+ {
+  "start": 1255.84,
+  "duration": 4.2,
+  "text": "claims of the non-economic value of"
+ },
+ {
+  "start": 1258.04,
+  "duration": 3.76,
+  "text": "token consumption is that they assume"
+ },
+ {
+  "start": 1260.04,
+  "duration": 3.6,
+  "text": "that unless a thing produces specific"
+ },
+ {
+  "start": 1261.8,
+  "duration": 3.8,
+  "text": "discernible financial value right away,"
+ },
+ {
+  "start": 1263.64,
+  "duration": 3.56,
+  "text": "it's not valuable. Again, that tweet"
+ },
+ {
+  "start": 1265.6,
+  "duration": 3.16,
+  "text": "that I shared before, if you're vibe"
+ },
+ {
+  "start": 1267.2,
+  "duration": 3.36,
+  "text": "coding some cool website but not making"
+ },
+ {
+  "start": 1268.76,
+  "duration": 3.12,
+  "text": "money with it, AI didn't create value"
+ },
+ {
+  "start": 1270.56,
+  "duration": 2.92,
+  "text": "for you, it merely accelerated your"
+ },
+ {
+  "start": 1271.88,
+  "duration": 4.2,
+  "text": "hobby. This point of view leaves"
+ },
+ {
+  "start": 1273.48,
+  "duration": 4.6,
+  "text": "literally zero room for this type of"
+ },
+ {
+  "start": 1276.08,
+  "duration": 4.6,
+  "text": "experimentation that I am arguing is"
+ },
+ {
+  "start": 1278.08,
+  "duration": 6.0,
+  "text": "essential. Now, two things can be true"
+ },
+ {
+  "start": 1280.68,
+  "duration": 5.92,
+  "text": "at the same time. One, a huge huge"
+ },
+ {
+  "start": 1284.08,
+  "duration": 4.84,
+  "text": "portion, in fact a vast majority of the"
+ },
+ {
+  "start": 1286.6,
+  "duration": 4.2,
+  "text": "tokens consumed in the short term, could"
+ },
+ {
+  "start": 1288.92,
+  "duration": 3.8,
+  "text": "lead to no immediately quarterly"
+ },
+ {
+  "start": 1290.8,
+  "duration": 3.96,
+  "text": "reportable financial gain. And that"
+ },
+ {
+  "start": 1292.72,
+  "duration": 4.52,
+  "text": "could be true while it is also true that"
+ },
+ {
+  "start": 1294.76,
+  "duration": 4.52,
+  "text": "the people who consumed those tokens in"
+ },
+ {
+  "start": 1297.24,
+  "duration": 3.52,
+  "text": "the service of real experimentation and"
+ },
+ {
+  "start": 1299.28,
+  "duration": 3.6,
+  "text": "the companies that benefited from their"
+ },
+ {
+  "start": 1300.76,
+  "duration": 4.56,
+  "text": "learnings are going to be absolute"
+ },
+ {
+  "start": 1302.88,
+  "duration": 4.0,
+  "text": "light-years ahead in figuring out what"
+ },
+ {
+  "start": 1305.32,
+  "duration": 3.64,
+  "text": "it looks like to remake your business"
+ },
+ {
+  "start": 1306.88,
+  "duration": 3.64,
+  "text": "for this different era."
+ },
+ {
+  "start": 1308.96,
+  "duration": 3.72,
+  "text": "To make it personal, take my billion or"
+ },
+ {
+  "start": 1310.52,
+  "duration": 4.2,
+  "text": "so tokens I used last month. A"
+ },
+ {
+  "start": 1312.68,
+  "duration": 4.84,
+  "text": "vanishingly small portion, by which I"
+ },
+ {
+  "start": 1314.72,
+  "duration": 4.96,
+  "text": "mean somewhere around 0% led to direct"
+ },
+ {
+  "start": 1317.52,
+  "duration": 4.2,
+  "text": "financial gain. As in, I didn't sell the"
+ },
+ {
+  "start": 1319.68,
+  "duration": 3.24,
+  "text": "outputs of any of that work. But are you"
+ },
+ {
+  "start": 1321.72,
+  "duration": 2.64,
+  "text": "really going to try to tell me with a"
+ },
+ {
+  "start": 1322.92,
+  "duration": 3.64,
+  "text": "straight face that those tokens were"
+ },
+ {
+  "start": 1324.36,
+  "duration": 3.32,
+  "text": "wasted? Despite listeners on this show"
+ },
+ {
+  "start": 1326.56,
+  "duration": 2.92,
+  "text": "getting to hear the output of those"
+ },
+ {
+  "start": 1327.68,
+  "duration": 3.6,
+  "text": "experiences and in some cases actually"
+ },
+ {
+  "start": 1329.48,
+  "duration": 3.48,
+  "text": "play around with the products that came"
+ },
+ {
+  "start": 1331.28,
+  "duration": 3.32,
+  "text": "out of them, and despite the sheer"
+ },
+ {
+  "start": 1332.96,
+  "duration": 2.96,
+  "text": "tonnage of what I learned about what"
+ },
+ {
+  "start": 1334.6,
+  "duration": 2.84,
+  "text": "does and doesn't work and how to get the"
+ },
+ {
+  "start": 1335.92,
+  "duration": 4.0,
+  "text": "most out of those systems, those"
+ },
+ {
+  "start": 1337.44,
+  "duration": 4.48,
+  "text": "experiments obviously had massive"
+ },
+ {
+  "start": 1339.92,
+  "duration": 3.08,
+  "text": "amounts of learning value, including"
+ },
+ {
+  "start": 1341.92,
+  "duration": 3.32,
+  "text": "much learning value that will"
+ },
+ {
+  "start": 1343.0,
+  "duration": 4.32,
+  "text": "significantly improve my token"
+ },
+ {
+  "start": 1345.24,
+  "duration": 3.72,
+  "text": "efficiency in the future."
+ },
+ {
+  "start": 1347.32,
+  "duration": 3.76,
+  "text": "I'm sorry, but the simple reality is"
+ },
+ {
+  "start": 1348.96,
+  "duration": 4.48,
+  "text": "that for a good while into the future,"
+ },
+ {
+  "start": 1351.08,
+  "duration": 4.92,
+  "text": "incentivizing experimentation is simply"
+ },
+ {
+  "start": 1353.44,
+  "duration": 5.16,
+  "text": "going to be the name of the game. It is"
+ },
+ {
+  "start": 1356.0,
+  "duration": 4.4,
+  "text": "R&D translated to the unit level, and"
+ },
+ {
+  "start": 1358.6,
+  "duration": 2.92,
+  "text": "there is literally no way around it"
+ },
+ {
+  "start": 1360.4,
+  "duration": 2.96,
+  "text": "other than to be willing to play"
+ },
+ {
+  "start": 1361.52,
+  "duration": 4.08,
+  "text": "catch-up later with no guarantee that"
+ },
+ {
+  "start": 1363.36,
+  "duration": 3.32,
+  "text": "you'll actually be able to. But you say,"
+ },
+ {
+  "start": 1365.6,
+  "duration": 3.08,
+  "text": "\"What about all the fakers and the"
+ },
+ {
+  "start": 1366.68,
+  "duration": 3.76,
+  "text": "frauds? Do we really think that"
+ },
+ {
+  "start": 1368.68,
+  "duration": 3.44,
+  "text": "companies are so stupid and that"
+ },
+ {
+  "start": 1370.44,
+  "duration": 3.48,
+  "text": "managers are so inept that they're not"
+ },
+ {
+  "start": 1372.12,
+  "duration": 3.44,
+  "text": "going to be able to figure this out?\""
+ },
+ {
+  "start": 1373.92,
+  "duration": 3.36,
+  "text": "Jim from accounting goes from zero to a"
+ },
+ {
+  "start": 1375.56,
+  "duration": 2.84,
+  "text": "billion tokens in a month. Do you think"
+ },
+ {
+  "start": 1377.28,
+  "duration": 2.92,
+  "text": "that his company is just going to give"
+ },
+ {
+  "start": 1378.4,
+  "duration": 2.92,
+  "text": "him a trophy and a slap on the back, or"
+ },
+ {
+  "start": 1380.2,
+  "duration": 2.88,
+  "text": "do you think that the first thing"
+ },
+ {
+  "start": 1381.32,
+  "duration": 3.48,
+  "text": "they're going to say is freaking"
+ },
+ {
+  "start": 1383.08,
+  "duration": 3.44,
+  "text": "awesome? Show us what you built, what"
+ },
+ {
+  "start": 1384.8,
+  "duration": 3.6,
+  "text": "you're doing, and what you learned."
+ },
+ {
+  "start": 1386.52,
+  "duration": 4.12,
+  "text": "Obviously, it is going to be the second"
+ },
+ {
+  "start": 1388.4,
+  "duration": 5.2,
+  "text": "of those things. This is highly"
+ },
+ {
+  "start": 1390.64,
+  "duration": 5.12,
+  "text": "traceable activity. So, here we have not"
+ },
+ {
+  "start": 1393.6,
+  "duration": 4.4,
+  "text": "one, but two dreary cynical views"
+ },
+ {
+  "start": 1395.76,
+  "duration": 3.52,
+  "text": "stacked on top of each other. The first"
+ },
+ {
+  "start": 1398.0,
+  "duration": 3.04,
+  "text": "dreary cynical view is that if your"
+ },
+ {
+  "start": 1399.28,
+  "duration": 3.64,
+  "text": "token usage isn't producing financial"
+ },
+ {
+  "start": 1401.04,
+  "duration": 3.36,
+  "text": "gain right now, it's not worth doing."
+ },
+ {
+  "start": 1402.92,
+  "duration": 3.08,
+  "text": "And the second dreary cynical view is"
+ },
+ {
+  "start": 1404.4,
+  "duration": 3.96,
+  "text": "that companies are too stupid to figure"
+ },
+ {
+  "start": 1406.0,
+  "duration": 4.44,
+  "text": "out incentive exploits. Look, man,"
+ },
+ {
+  "start": 1408.36,
+  "duration": 3.64,
+  "text": "cynicism may make you feel clever on X,"
+ },
+ {
+  "start": 1410.44,
+  "duration": 3.16,
+  "text": "but it does so at the cost of precluding"
+ },
+ {
+  "start": 1412.0,
+  "duration": 3.76,
+  "text": "you from participating in the world as"
+ },
+ {
+  "start": 1413.6,
+  "duration": 4.24,
+  "text": "it is, messiness and all."
+ },
+ {
+  "start": 1415.76,
+  "duration": 4.4,
+  "text": "Now, do I think that there are more"
+ },
+ {
+  "start": 1417.84,
+  "duration": 3.36,
+  "text": "sophisticated, nuanced ways of incenting"
+ },
+ {
+  "start": 1420.16,
+  "duration": 3.44,
+  "text": "people to do this sort of"
+ },
+ {
+  "start": 1421.2,
+  "duration": 4.44,
+  "text": "experimentation? Of course. And if you"
+ },
+ {
+  "start": 1423.6,
+  "duration": 3.64,
+  "text": "don't think so, go ask all the VP and up"
+ },
+ {
+  "start": 1425.64,
+  "duration": 3.12,
+  "text": "folks you know and see how many of their"
+ },
+ {
+  "start": 1427.24,
+  "duration": 3.68,
+  "text": "internal planning conversations are"
+ },
+ {
+  "start": 1428.76,
+  "duration": 3.68,
+  "text": "about some version of exactly that."
+ },
+ {
+  "start": 1430.92,
+  "duration": 3.36,
+  "text": "Companies are even smart enough to see"
+ },
+ {
+  "start": 1432.44,
+  "duration": 3.76,
+  "text": "that their alternative versions to token"
+ },
+ {
+  "start": 1434.28,
+  "duration": 3.84,
+  "text": "maxing can generate them earned media"
+ },
+ {
+  "start": 1436.2,
+  "duration": 3.84,
+  "text": "right now. Salesforce got a write-up in"
+ },
+ {
+  "start": 1438.12,
+  "duration": 4.04,
+  "text": "Axios for unveiling a different type of"
+ },
+ {
+  "start": 1440.04,
+  "duration": 3.68,
+  "text": "metric that they call agentic work units"
+ },
+ {
+  "start": 1442.16,
+  "duration": 3.24,
+  "text": "that are, as Axios puts it, designed to"
+ },
+ {
+  "start": 1443.72,
+  "duration": 3.36,
+  "text": "measure output and impact rather than"
+ },
+ {
+  "start": 1445.4,
+  "duration": 3.16,
+  "text": "token consumption."
+ },
+ {
+  "start": 1447.08,
+  "duration": 3.72,
+  "text": "And yet, with all of those caveats in"
+ },
+ {
+  "start": 1448.56,
+  "duration": 4.16,
+  "text": "place, would I bet on the long-term"
+ },
+ {
+  "start": 1450.8,
+  "duration": 3.88,
+  "text": "success of companies that incentivize"
+ },
+ {
+  "start": 1452.72,
+  "duration": 3.48,
+  "text": "this sort of token experimentation, even"
+ },
+ {
+  "start": 1454.68,
+  "duration": 3.24,
+  "text": "at the cost of some fraud and wasted"
+ },
+ {
+  "start": 1456.2,
+  "duration": 3.56,
+  "text": "tokens on the way, over the companies"
+ },
+ {
+  "start": 1457.92,
+  "duration": 5.56,
+  "text": "that sit it out out of fear of wasting"
+ },
+ {
+  "start": 1459.76,
+  "duration": 6.8,
+  "text": "tokens? Without question. Do not, and I"
+ },
+ {
+  "start": 1463.48,
+  "duration": 5.28,
+  "text": "mean do not, be afraid of burning tokens"
+ },
+ {
+  "start": 1466.56,
+  "duration": 3.36,
+  "text": "on valuable mistakes."
+ },
+ {
+  "start": 1468.76,
+  "duration": 2.6,
+  "text": "That's going to do it for today's AI"
+ },
+ {
+  "start": 1469.92,
+  "duration": 3.12,
+  "text": "Daily Brief. Appreciate you listening or"
+ },
+ {
+  "start": 1471.36,
+  "duration": 4.72,
+  "text": "watching, as always, and until next"
+ },
+ {
+  "start": 1473.04,
+  "duration": 3.04,
+  "text": "time, peace."
+ }
+]

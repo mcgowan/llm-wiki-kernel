@@ -1,0 +1,4047 @@
+[
+ {
+  "start": 0.52,
+  "duration": 4.68,
+  "text": "Today on the AI Daily Brief, an agent"
+ },
+ {
+  "start": 2.76,
+  "duration": 4.56,
+  "text": "skills masterclass."
+ },
+ {
+  "start": 5.2,
+  "duration": 4.32,
+  "text": "Today's episode, of course, features the"
+ },
+ {
+  "start": 7.32,
+  "duration": 4.6,
+  "text": "one and only Nofar Gaspar walking us"
+ },
+ {
+  "start": 9.52,
+  "duration": 3.8,
+  "text": "through a masterclass in agent skills."
+ },
+ {
+  "start": 11.92,
+  "duration": 3.32,
+  "text": "For anyone who listened to my agent"
+ },
+ {
+  "start": 13.32,
+  "duration": 3.48,
+  "text": "skills primer, it's a really good part"
+ },
+ {
+  "start": 15.24,
+  "duration": 3.52,
+  "text": "two for that that gets much more"
+ },
+ {
+  "start": 16.8,
+  "duration": 4.04,
+  "text": "practical with a whole framework for how"
+ },
+ {
+  "start": 18.76,
+  "duration": 3.64,
+  "text": "to use skills and how to use them well."
+ },
+ {
+  "start": 20.84,
+  "duration": 3.52,
+  "text": "Now, you can get all of this companion"
+ },
+ {
+  "start": 22.4,
+  "duration": 4.32,
+  "text": "data, including things like the anatomy"
+ },
+ {
+  "start": 24.36,
+  "duration": 3.88,
+  "text": "of an effective skill, over on play.ai"
+ },
+ {
+  "start": 26.72,
+  "duration": 2.6,
+  "text": "dailybrief.ai."
+ },
+ {
+  "start": 28.24,
+  "duration": 3.04,
+  "text": "That's where we keep the companion"
+ },
+ {
+  "start": 29.32,
+  "duration": 3.84,
+  "text": "experiences for this show. And if after"
+ },
+ {
+  "start": 31.28,
+  "duration": 3.64,
+  "text": "that, you want even more Nofar, we have"
+ },
+ {
+  "start": 33.16,
+  "duration": 3.48,
+  "text": "just opened up the second cohort for"
+ },
+ {
+  "start": 34.92,
+  "duration": 3.68,
+  "text": "Enterprise Claude, which is an agent and"
+ },
+ {
+  "start": 36.64,
+  "duration": 4.0,
+  "text": "agent team building program. I'll have"
+ },
+ {
+  "start": 38.6,
+  "duration": 4.04,
+  "text": "links to all of that in the show notes."
+ },
+ {
+  "start": 40.64,
+  "duration": 4.88,
+  "text": "For now though, let's dive in and up"
+ },
+ {
+  "start": 42.64,
+  "duration": 4.88,
+  "text": "your skills with skills."
+ },
+ {
+  "start": 45.52,
+  "duration": 4.32,
+  "text": "All right, Nofar, welcome back to the"
+ },
+ {
+  "start": 47.52,
+  "duration": 5.04,
+  "text": "show. We're talking skills. How you"
+ },
+ {
+  "start": 49.84,
+  "duration": 4.8,
+  "text": "doing? I'm good. Happy to be here."
+ },
+ {
+  "start": 52.56,
+  "duration": 4.6,
+  "text": "Yeah, uh we are"
+ },
+ {
+  "start": 54.64,
+  "duration": 3.72,
+  "text": "man, it is uh since the last time you"
+ },
+ {
+  "start": 57.16,
+  "duration": 4.92,
+  "text": "were on,"
+ },
+ {
+  "start": 58.36,
+  "duration": 5.64,
+  "text": "the things that matter in terms of"
+ },
+ {
+  "start": 62.08,
+  "duration": 3.6,
+  "text": "teaching, being up to speed, getting up"
+ },
+ {
+  "start": 64.0,
+  "duration": 3.36,
+  "text": "to speed with AI"
+ },
+ {
+  "start": 65.68,
+  "duration": 3.76,
+  "text": "are you know, some of them are obviously"
+ },
+ {
+  "start": 67.36,
+  "duration": 3.4,
+  "text": "that there's fundamentals of teams and"
+ },
+ {
+  "start": 69.44,
+  "duration": 3.72,
+  "text": "you know, expectations and things like"
+ },
+ {
+  "start": 70.76,
+  "duration": 3.72,
+  "text": "that that remain. But God, the last time"
+ },
+ {
+  "start": 73.16,
+  "duration": 2.92,
+  "text": "we you were here, that stuff we were"
+ },
+ {
+  "start": 74.48,
+  "duration": 2.96,
+  "text": "talking about feels like ancient"
+ },
+ {
+  "start": 76.08,
+  "duration": 2.28,
+  "text": "compared to compared to where we are"
+ },
+ {
+  "start": 77.44,
+  "duration": 3.2,
+  "text": "now."
+ },
+ {
+  "start": 78.36,
+  "duration": 5.44,
+  "text": "The human element is the same. The the"
+ },
+ {
+  "start": 80.64,
+  "duration": 5.76,
+  "text": "technology is completely different."
+ },
+ {
+  "start": 83.8,
+  "duration": 4.76,
+  "text": "So, what we're talking about today is I"
+ },
+ {
+  "start": 86.4,
+  "duration": 4.76,
+  "text": "did a couple of weeks ago on the show"
+ },
+ {
+  "start": 88.56,
+  "duration": 4.88,
+  "text": "kind of an introduction and a primer to"
+ },
+ {
+  "start": 91.16,
+  "duration": 4.76,
+  "text": "uh agent skills. It's a standard, a sort"
+ },
+ {
+  "start": 93.44,
+  "duration": 5.32,
+  "text": "of primitive for the agent era that"
+ },
+ {
+  "start": 95.92,
+  "duration": 4.8,
+  "text": "helps agents figure out how to do things"
+ },
+ {
+  "start": 98.76,
+  "duration": 3.8,
+  "text": "that you need them to do in very simple"
+ },
+ {
+  "start": 100.72,
+  "duration": 4.56,
+  "text": "terms. But obviously, there's a lot more"
+ },
+ {
+  "start": 102.56,
+  "duration": 4.64,
+  "text": "complexity in how you use them and how"
+ },
+ {
+  "start": 105.28,
+  "duration": 3.4,
+  "text": "you use them well. And that's what we're"
+ },
+ {
+  "start": 107.2,
+  "duration": 3.12,
+  "text": "going to be talking about today. So,"
+ },
+ {
+  "start": 108.68,
+  "duration": 2.8,
+  "text": "tell us a little bit about about what"
+ },
+ {
+  "start": 110.32,
+  "duration": 3.92,
+  "text": "what we're going to go through, and then"
+ },
+ {
+  "start": 111.48,
+  "duration": 5.28,
+  "text": "let's dive in. Okay. So, obviously, you"
+ },
+ {
+  "start": 114.24,
+  "duration": 4.64,
+  "text": "did a very good job in your uh skill"
+ },
+ {
+  "start": 116.76,
+  "duration": 4.4,
+  "text": "episode. Uh you talked about what they"
+ },
+ {
+  "start": 118.88,
+  "duration": 4.36,
+  "text": "are, the entropic categories, the and"
+ },
+ {
+  "start": 121.16,
+  "duration": 4.12,
+  "text": "the various that are currently like a"
+ },
+ {
+  "start": 123.24,
+  "duration": 3.68,
+  "text": "landscape overview. But today, I want to"
+ },
+ {
+  "start": 125.28,
+  "duration": 3.24,
+  "text": "go much deeper and make it more of an"
+ },
+ {
+  "start": 126.92,
+  "duration": 3.559,
+  "text": "operator cut because I want to give"
+ },
+ {
+  "start": 128.52,
+  "duration": 3.84,
+  "text": "people the actual playbook on how to"
+ },
+ {
+  "start": 130.479,
+  "duration": 3.361,
+  "text": "build skills that work, what mistakes"
+ },
+ {
+  "start": 132.36,
+  "duration": 3.56,
+  "text": "kill them, and what organizational"
+ },
+ {
+  "start": 133.84,
+  "duration": 4.24,
+  "text": "opportunity really looks like."
+ },
+ {
+  "start": 135.92,
+  "duration": 3.88,
+  "text": "So, uh we made it fun like we always try"
+ },
+ {
+  "start": 138.08,
+  "duration": 4.08,
+  "text": "to do, and we uh structured it in a"
+ },
+ {
+  "start": 139.8,
+  "duration": 3.4,
+  "text": "five-level journey. So, by the end,"
+ },
+ {
+  "start": 142.16,
+  "duration": 2.84,
+  "text": "hopefully, you will go from"
+ },
+ {
+  "start": 143.2,
+  "duration": 3.96,
+  "text": "understanding what skills are to knowing"
+ },
+ {
+  "start": 145.0,
+  "duration": 5.12,
+  "text": "how to build an organizational skill"
+ },
+ {
+  "start": 147.16,
+  "duration": 6.08,
+  "text": "library, and everything is accessible to"
+ },
+ {
+  "start": 150.12,
+  "duration": 5.88,
+  "text": "you guys on the play at AI Daily Brief,"
+ },
+ {
+  "start": 153.24,
+  "duration": 6.04,
+  "text": "uh which we will uh demo in a minute."
+ },
+ {
+  "start": 156.0,
+  "duration": 5.68,
+  "text": "Okay. So, we have uh five levels from"
+ },
+ {
+  "start": 159.28,
+  "duration": 4.8,
+  "text": "apprentice to architect. So, to make"
+ },
+ {
+  "start": 161.68,
+  "duration": 5.08,
+  "text": "sure that we are all on the same page"
+ },
+ {
+  "start": 164.08,
+  "duration": 5.6,
+  "text": "and give a reminder of what skills are."
+ },
+ {
+  "start": 166.76,
+  "duration": 4.84,
+  "text": "At the core, skills are just folders,"
+ },
+ {
+  "start": 169.68,
+  "duration": 3.48,
+  "text": "not just markdown files, folders that"
+ },
+ {
+  "start": 171.6,
+  "duration": 4.28,
+  "text": "contain instructions, scripts, and"
+ },
+ {
+  "start": 173.16,
+  "duration": 4.76,
+  "text": "resources that give AI tools and agents"
+ },
+ {
+  "start": 175.88,
+  "duration": 3.52,
+  "text": "the actionable playbooks to execute"
+ },
+ {
+  "start": 177.92,
+  "duration": 3.72,
+  "text": "various tasks."
+ },
+ {
+  "start": 179.4,
+  "duration": 4.08,
+  "text": "But here, there's something that many"
+ },
+ {
+  "start": 181.64,
+  "duration": 3.72,
+  "text": "people are kind of missing, and that is"
+ },
+ {
+  "start": 183.48,
+  "duration": 4.72,
+  "text": "that skills are not just for agents to"
+ },
+ {
+  "start": 185.36,
+  "duration": 5.0,
+  "text": "read. They work in two modes. An agent"
+ },
+ {
+  "start": 188.2,
+  "duration": 3.76,
+  "text": "can discover the skills that you enabled"
+ },
+ {
+  "start": 190.36,
+  "duration": 3.12,
+  "text": "in the environment, and it can do so"
+ },
+ {
+  "start": 191.96,
+  "duration": 4.52,
+  "text": "automatically and invoke them on its"
+ },
+ {
+  "start": 193.48,
+  "duration": 5.12,
+  "text": "own, or as humans, can trigger them"
+ },
+ {
+  "start": 196.48,
+  "duration": 5.24,
+  "text": "manually either by using the slash"
+ },
+ {
+  "start": 198.6,
+  "duration": 5.92,
+  "text": "commands in most tools, or we can just"
+ },
+ {
+  "start": 201.72,
+  "duration": 4.44,
+  "text": "provide verbal cues, and the tools will"
+ },
+ {
+  "start": 204.52,
+  "duration": 4.0,
+  "text": "know to pick up the skills that we"
+ },
+ {
+  "start": 206.16,
+  "duration": 5.08,
+  "text": "intend them to use. So, for example, you"
+ },
+ {
+  "start": 208.52,
+  "duration": 4.92,
+  "text": "may say, \"Research this topic.\" And it"
+ },
+ {
+  "start": 211.24,
+  "duration": 5.72,
+  "text": "fires a very specific research skill"
+ },
+ {
+  "start": 213.44,
+  "duration": 5.48,
+  "text": "that you built that is very specific to"
+ },
+ {
+  "start": 216.96,
+  "duration": 3.16,
+  "text": "what you like in terms of doing the"
+ },
+ {
+  "start": 218.92,
+  "duration": 2.68,
+  "text": "research."
+ },
+ {
+  "start": 220.12,
+  "duration": 4.04,
+  "text": "So, that's something we'll also show in"
+ },
+ {
+  "start": 221.6,
+  "duration": 5.2,
+  "text": "a minute. And the very good thing about"
+ },
+ {
+  "start": 224.16,
+  "duration": 4.44,
+  "text": "skills is that they are highly portable."
+ },
+ {
+  "start": 226.8,
+  "duration": 4.4,
+  "text": "You know, most of us have built many"
+ },
+ {
+  "start": 228.6,
+  "duration": 3.88,
+  "text": "custom GPTs or gems over the last few"
+ },
+ {
+  "start": 231.2,
+  "duration": 2.56,
+  "text": "years."
+ },
+ {
+  "start": 232.48,
+  "duration": 4.32,
+  "text": "The problem with them is that they were"
+ },
+ {
+  "start": 233.76,
+  "duration": 4.64,
+  "text": "locked inside the ChatGPT or the Gemini"
+ },
+ {
+  "start": 236.8,
+  "duration": 4.52,
+  "text": "enterprise forever."
+ },
+ {
+  "start": 238.4,
+  "duration": 5.52,
+  "text": "Skills basically solve that. They are"
+ },
+ {
+  "start": 241.32,
+  "duration": 4.92,
+  "text": "folders that you can just take with you"
+ },
+ {
+  "start": 243.92,
+  "duration": 4.96,
+  "text": "between tools. They are human readable,"
+ },
+ {
+  "start": 246.24,
+  "duration": 4.52,
+  "text": "so there is no proprietary format, and"
+ },
+ {
+  "start": 248.88,
+  "duration": 4.12,
+  "text": "anyone in your team can open a skill"
+ },
+ {
+  "start": 250.76,
+  "duration": 3.64,
+  "text": "file, read it, understand it, edit it,"
+ },
+ {
+  "start": 253.0,
+  "duration": 3.2,
+  "text": "and you don't need any engineering"
+ },
+ {
+  "start": 254.4,
+  "duration": 2.92,
+  "text": "degree, and you can just take it between"
+ },
+ {
+  "start": 256.2,
+  "duration": 3.48,
+  "text": "tools."
+ },
+ {
+  "start": 257.32,
+  "duration": 4.56,
+  "text": "Why are we saying that uh skills is not"
+ },
+ {
+  "start": 259.68,
+  "duration": 4.12,
+  "text": "only the present, but also the future of"
+ },
+ {
+  "start": 261.88,
+  "duration": 4.6,
+  "text": "AI and agent tools? Because we're"
+ },
+ {
+  "start": 263.8,
+  "duration": 4.56,
+  "text": "already seeing that all major companies"
+ },
+ {
+  "start": 266.48,
+  "duration": 5.0,
+  "text": "are supporting skills. Currently, we"
+ },
+ {
+  "start": 268.36,
+  "duration": 5.56,
+  "text": "counted about 44 tools, and counting"
+ },
+ {
+  "start": 271.48,
+  "duration": 3.88,
+  "text": "every day, yet another tool introduces"
+ },
+ {
+  "start": 273.92,
+  "duration": 4.6,
+  "text": "that they support tools. Recently,"
+ },
+ {
+  "start": 275.36,
+  "duration": 5.04,
+  "text": "Notion said so, and many other uh tools"
+ },
+ {
+  "start": 278.52,
+  "duration": 3.44,
+  "text": "have already announced that. We, of"
+ },
+ {
+  "start": 280.4,
+  "duration": 3.56,
+  "text": "course, include in the tools that"
+ },
+ {
+  "start": 281.96,
+  "duration": 4.64,
+  "text": "support skills, the Open Claude, the"
+ },
+ {
+  "start": 283.96,
+  "duration": 4.8,
+  "text": "Claude, the Cursor, Windsurf, GitHub,"
+ },
+ {
+  "start": 286.6,
+  "duration": 3.76,
+  "text": "and many, many other tools. They're all"
+ },
+ {
+  "start": 288.76,
+  "duration": 2.84,
+  "text": "supporting that, but not just coding"
+ },
+ {
+  "start": 290.36,
+  "duration": 2.48,
+  "text": "tools."
+ },
+ {
+  "start": 291.6,
+  "duration": 3.72,
+  "text": "And then,"
+ },
+ {
+  "start": 292.84,
+  "duration": 4.16,
+  "text": "we have people that have been basically"
+ },
+ {
+  "start": 295.32,
+  "duration": 3.84,
+  "text": "using and building skills effectively"
+ },
+ {
+  "start": 297.0,
+  "duration": 4.2,
+  "text": "for a while, uh and they will tell you"
+ },
+ {
+  "start": 299.16,
+  "duration": 4.48,
+  "text": "that this is probably the complete game"
+ },
+ {
+  "start": 301.2,
+  "duration": 4.48,
+  "text": "changer to how AI and agents work for"
+ },
+ {
+  "start": 303.64,
+  "duration": 3.72,
+  "text": "you. And also, it's quite addictive."
+ },
+ {
+  "start": 305.68,
+  "duration": 3.6,
+  "text": "Like once you start realizing the power"
+ },
+ {
+  "start": 307.36,
+  "duration": 3.48,
+  "text": "of skills, odds are that you will create"
+ },
+ {
+  "start": 309.28,
+  "duration": 3.44,
+  "text": "more and more and more."
+ },
+ {
+  "start": 310.84,
+  "duration": 3.84,
+  "text": "And I do want to flag out one thing very"
+ },
+ {
+  "start": 312.72,
+  "duration": 3.48,
+  "text": "explicitly here is that third-party"
+ },
+ {
+  "start": 314.68,
+  "duration": 3.16,
+  "text": "skills, one that you acquired from"
+ },
+ {
+  "start": 316.2,
+  "duration": 3.76,
+  "text": "somewhere in the internet, whether it's"
+ },
+ {
+  "start": 317.84,
+  "duration": 5.52,
+  "text": "an Open Claude marketplace or other"
+ },
+ {
+  "start": 319.96,
+  "duration": 5.08,
+  "text": "places, they are code, and as such, they"
+ },
+ {
+  "start": 323.36,
+  "duration": 3.96,
+  "text": "can run with a lot of your agent"
+ },
+ {
+  "start": 325.04,
+  "duration": 4.48,
+  "text": "permissions. And if you download that,"
+ },
+ {
+  "start": 327.32,
+  "duration": 4.08,
+  "text": "it can execute scripts, and sometimes it"
+ },
+ {
+  "start": 329.52,
+  "duration": 4.2,
+  "text": "can be a malicious script. So, be very,"
+ },
+ {
+  "start": 331.4,
+  "duration": 4.36,
+  "text": "very careful whenever you're getting a"
+ },
+ {
+  "start": 333.72,
+  "duration": 4.6,
+  "text": "skill that you have not verified the"
+ },
+ {
+  "start": 335.76,
+  "duration": 4.72,
+  "text": "source. Read it very carefully and treat"
+ },
+ {
+  "start": 338.32,
+  "duration": 4.12,
+  "text": "it like uh installing any software"
+ },
+ {
+  "start": 340.48,
+  "duration": 4.72,
+  "text": "package on your machine, and especially"
+ },
+ {
+  "start": 342.44,
+  "duration": 4.8,
+  "text": "if it's a work machine, be very careful"
+ },
+ {
+  "start": 345.2,
+  "duration": 4.48,
+  "text": "and and pay attention so you will not"
+ },
+ {
+  "start": 347.24,
+  "duration": 3.84,
+  "text": "bring any malicious software back into"
+ },
+ {
+  "start": 349.68,
+  "duration": 3.12,
+  "text": "your organization."
+ },
+ {
+  "start": 351.08,
+  "duration": 4.48,
+  "text": "All right. So, that's the basic. Let's"
+ },
+ {
+  "start": 352.8,
+  "duration": 4.36,
+  "text": "talk about when to build skills. So, the"
+ },
+ {
+  "start": 355.56,
+  "duration": 3.48,
+  "text": "question is when should you build"
+ },
+ {
+  "start": 357.16,
+  "duration": 4.2,
+  "text": "skills? And I wanted to start with three"
+ },
+ {
+  "start": 359.04,
+  "duration": 4.8,
+  "text": "obvious signals. Either when you do"
+ },
+ {
+  "start": 361.36,
+  "duration": 4.16,
+  "text": "something more than three times, that's"
+ },
+ {
+  "start": 363.84,
+  "duration": 4.28,
+  "text": "to me is a good indication that now is a"
+ },
+ {
+  "start": 365.52,
+  "duration": 4.44,
+  "text": "good time to build a skill. Or you keep"
+ },
+ {
+  "start": 368.12,
+  "duration": 3.28,
+  "text": "basically pasting the same instructions"
+ },
+ {
+  "start": 369.96,
+  "duration": 4.04,
+  "text": "and getting very frustrated with your"
+ },
+ {
+  "start": 371.4,
+  "duration": 4.56,
+  "text": "tool, and you that's another good one."
+ },
+ {
+  "start": 374.0,
+  "duration": 4.24,
+  "text": "And also, when you need a consistent"
+ },
+ {
+  "start": 375.96,
+  "duration": 4.6,
+  "text": "output. But the two additional things"
+ },
+ {
+  "start": 378.24,
+  "duration": 3.68,
+  "text": "that you want to consider, first of all,"
+ },
+ {
+  "start": 380.56,
+  "duration": 3.44,
+  "text": "this is a great opportunity to"
+ },
+ {
+  "start": 381.92,
+  "duration": 3.96,
+  "text": "standardize things across either the way"
+ },
+ {
+  "start": 384.0,
+  "duration": 4.0,
+  "text": "you do the work or others do the work"
+ },
+ {
+  "start": 385.88,
+  "duration": 4.08,
+  "text": "with you. It's a great opportunity for"
+ },
+ {
+  "start": 388.0,
+  "duration": 4.68,
+  "text": "you to think of all the things that you"
+ },
+ {
+  "start": 389.96,
+  "duration": 4.88,
+  "text": "ever wanted to be more consistent of or"
+ },
+ {
+  "start": 392.68,
+  "duration": 4.6,
+  "text": "get more consistent behavior by others,"
+ },
+ {
+  "start": 394.84,
+  "duration": 5.56,
+  "text": "and just build a skill to get others to"
+ },
+ {
+  "start": 397.28,
+  "duration": 4.56,
+  "text": "behave the same way. And lastly, and"
+ },
+ {
+  "start": 400.4,
+  "duration": 3.48,
+  "text": "that's something that often also when"
+ },
+ {
+  "start": 401.84,
+  "duration": 3.8,
+  "text": "Anthropic talks about, skills are not"
+ },
+ {
+  "start": 403.88,
+  "duration": 4.04,
+  "text": "just a way for you to be more"
+ },
+ {
+  "start": 405.64,
+  "duration": 3.84,
+  "text": "productive. It's also a way for you to"
+ },
+ {
+  "start": 407.92,
+  "duration": 3.44,
+  "text": "unlock opportunities of things that you"
+ },
+ {
+  "start": 409.48,
+  "duration": 4.08,
+  "text": "always wanted to do and just didn't have"
+ },
+ {
+  "start": 411.36,
+  "duration": 4.48,
+  "text": "the bandwidth or the ability to do so."
+ },
+ {
+  "start": 413.56,
+  "duration": 4.2,
+  "text": "So, think outside the box of what are"
+ },
+ {
+  "start": 415.84,
+  "duration": 3.84,
+  "text": "some of the research tasks that you"
+ },
+ {
+  "start": 417.76,
+  "duration": 5.44,
+  "text": "never had the opportunity to do, or what"
+ },
+ {
+  "start": 419.68,
+  "duration": 5.12,
+  "text": "are some of the work and business"
+ },
+ {
+  "start": 423.2,
+  "duration": 2.88,
+  "text": "challenges that you could never, ever"
+ },
+ {
+  "start": 424.8,
+  "duration": 3.16,
+  "text": "solve because you didn't have the"
+ },
+ {
+  "start": 426.08,
+  "duration": 3.92,
+  "text": "know-how and the bandwidth."
+ },
+ {
+  "start": 427.96,
+  "duration": 5.08,
+  "text": "Okay. I want to talk about two other"
+ },
+ {
+  "start": 430.0,
+  "duration": 5.0,
+  "text": "things. One is that skills cannot be 10"
+ },
+ {
+  "start": 433.04,
+  "duration": 4.6,
+  "text": "different things. So, one skill per"
+ },
+ {
+  "start": 435.0,
+  "duration": 5.32,
+  "text": "task. If you find yourself getting to a"
+ },
+ {
+  "start": 437.64,
+  "duration": 5.8,
+  "text": "point where it's completely separate"
+ },
+ {
+  "start": 440.32,
+  "duration": 4.4,
+  "text": "jobs, separate them to different skills."
+ },
+ {
+  "start": 443.44,
+  "duration": 3.24,
+  "text": "And lastly, when it comes to the"
+ },
+ {
+  "start": 444.72,
+  "duration": 4.08,
+  "text": "question of reuse versus creating a"
+ },
+ {
+  "start": 446.68,
+  "duration": 4.0,
+  "text": "skill, I know that there are many"
+ },
+ {
+  "start": 448.8,
+  "duration": 3.88,
+  "text": "marketplaces out there, and especially"
+ },
+ {
+  "start": 450.68,
+  "duration": 4.2,
+  "text": "in the Open Claude ecosystem, we know"
+ },
+ {
+  "start": 452.68,
+  "duration": 4.44,
+  "text": "that there are an abundance of them."
+ },
+ {
+  "start": 454.88,
+  "duration": 3.52,
+  "text": "Similarly with the entropic skills repo."
+ },
+ {
+  "start": 457.12,
+  "duration": 3.92,
+  "text": "However,"
+ },
+ {
+  "start": 458.4,
+  "duration": 4.68,
+  "text": "it's very hard to navigate some of these"
+ },
+ {
+  "start": 461.04,
+  "duration": 4.0,
+  "text": "skill marketplaces and find the exact"
+ },
+ {
+  "start": 463.08,
+  "duration": 4.4,
+  "text": "fit, and often you will find yourself"
+ },
+ {
+  "start": 465.04,
+  "duration": 4.88,
+  "text": "wasting so much more time just trying to"
+ },
+ {
+  "start": 467.48,
+  "duration": 4.32,
+  "text": "read what others created versus creating"
+ },
+ {
+  "start": 469.92,
+  "duration": 3.44,
+  "text": "your own. So, especially if you want to"
+ },
+ {
+  "start": 471.8,
+  "duration": 2.88,
+  "text": "hone your ability to create skills, I"
+ },
+ {
+  "start": 473.36,
+  "duration": 4.0,
+  "text": "will actually recommend that you sit"
+ },
+ {
+  "start": 474.68,
+  "duration": 4.16,
+  "text": "down, build a skill for yourself,"
+ },
+ {
+  "start": 477.36,
+  "duration": 3.76,
+  "text": "leverage some of the best practices that"
+ },
+ {
+  "start": 478.84,
+  "duration": 4.04,
+  "text": "we're showing here, and at least you"
+ },
+ {
+  "start": 481.12,
+  "duration": 3.76,
+  "text": "will learn how to do it well. Later on,"
+ },
+ {
+  "start": 482.88,
+  "duration": 3.64,
+  "text": "you can, of course, go and search what"
+ },
+ {
+  "start": 484.88,
+  "duration": 2.88,
+  "text": "others are building cuz some of the"
+ },
+ {
+  "start": 486.52,
+  "duration": 3.72,
+  "text": "skills that people are building are"
+ },
+ {
+  "start": 487.76,
+  "duration": 4.32,
+  "text": "amazing. But I would advise to lean on"
+ },
+ {
+  "start": 490.24,
+  "duration": 4.16,
+  "text": "more heavily towards building at this"
+ },
+ {
+  "start": 492.08,
+  "duration": 5.32,
+  "text": "day and age. One note on that front, I"
+ },
+ {
+  "start": 494.4,
+  "duration": 5.16,
+  "text": "agree entirely. I also think that"
+ },
+ {
+  "start": 497.4,
+  "duration": 4.16,
+  "text": "by virtue of them being sort of marked,"
+ },
+ {
+  "start": 499.56,
+  "duration": 4.04,
+  "text": "you know, just markdown files, you can"
+ },
+ {
+  "start": 501.56,
+  "duration": 3.92,
+  "text": "also treat even skills that you download"
+ },
+ {
+  "start": 503.6,
+  "duration": 5.28,
+  "text": "as templates, not things that you have"
+ },
+ {
+  "start": 505.48,
+  "duration": 6.4,
+  "text": "to copy wholesale. So, in the next show"
+ },
+ {
+  "start": 508.88,
+  "duration": 5.159,
+  "text": "that I do this week, it's going to be a"
+ },
+ {
+  "start": 511.88,
+  "duration": 4.96,
+  "text": "a personal context portfolio, and I'm"
+ },
+ {
+  "start": 514.039,
+  "duration": 5.761,
+  "text": "sharing a GitHub repo that has basically"
+ },
+ {
+  "start": 516.84,
+  "duration": 5.4,
+  "text": "templates for 10 files about yourself."
+ },
+ {
+  "start": 519.8,
+  "duration": 3.64,
+  "text": "And it's sort of it's not meant to it's"
+ },
+ {
+  "start": 522.24,
+  "duration": 2.96,
+  "text": "not something you would copy. It's about"
+ },
+ {
+  "start": 523.44,
+  "duration": 3.2,
+  "text": "yourself, so you you have to use it like"
+ },
+ {
+  "start": 525.2,
+  "duration": 3.32,
+  "text": "a template. But I think there's there's"
+ },
+ {
+  "start": 526.64,
+  "duration": 3.6,
+  "text": "a lot of resources out like that, and so"
+ },
+ {
+  "start": 528.52,
+  "duration": 3.88,
+  "text": "I think it it sort of puts a fine point"
+ },
+ {
+  "start": 530.24,
+  "duration": 4.48,
+  "text": "on the idea of wanting to have the"
+ },
+ {
+  "start": 532.4,
+  "duration": 3.72,
+  "text": "skills to build cuz it actually unlocks"
+ },
+ {
+  "start": 534.72,
+  "duration": 2.72,
+  "text": "using all of these things that are out"
+ },
+ {
+  "start": 536.12,
+  "duration": 2.92,
+  "text": "there in different ways that aren't just"
+ },
+ {
+  "start": 537.44,
+  "duration": 3.48,
+  "text": "sort of blindly copying it into your"
+ },
+ {
+  "start": 539.04,
+  "duration": 4.16,
+  "text": "projects and hoping it works."
+ },
+ {
+  "start": 540.92,
+  "duration": 4.28,
+  "text": "Yeah. And by the way, versus custom GPTs"
+ },
+ {
+  "start": 543.2,
+  "duration": 4.6,
+  "text": "that were black boxes if you were to use"
+ },
+ {
+  "start": 545.2,
+  "duration": 4.6,
+  "text": "others, now you get the full visibility"
+ },
+ {
+  "start": 547.8,
+  "duration": 3.44,
+  "text": "into how the skill is instructed. So, if"
+ },
+ {
+  "start": 549.8,
+  "duration": 4.08,
+  "text": "you don't like some of it, just change"
+ },
+ {
+  "start": 551.24,
+  "duration": 5.08,
+  "text": "it. I just wanted to note that Claude"
+ },
+ {
+  "start": 553.88,
+  "duration": 4.52,
+  "text": "created an amazing Anthropic created an"
+ },
+ {
+  "start": 556.32,
+  "duration": 4.28,
+  "text": "amazing skill creator that they recently"
+ },
+ {
+  "start": 558.4,
+  "duration": 4.08,
+  "text": "released, and I definitely encourage you"
+ },
+ {
+  "start": 560.6,
+  "duration": 3.84,
+  "text": "to go and use it cuz it's genuinely"
+ },
+ {
+  "start": 562.48,
+  "duration": 4.4,
+  "text": "impressive. It interviews you to extract"
+ },
+ {
+  "start": 564.44,
+  "duration": 5.12,
+  "text": "your expertise. It runs evals. It does"
+ },
+ {
+  "start": 566.88,
+  "duration": 4.88,
+  "text": "AB testing and benchmarking. So, if you"
+ },
+ {
+  "start": 569.56,
+  "duration": 4.56,
+  "text": "are a Claude user, you can definitely"
+ },
+ {
+  "start": 571.76,
+  "duration": 5.4,
+  "text": "leverage their skill creator tool to do"
+ },
+ {
+  "start": 574.12,
+  "duration": 4.28,
+  "text": "it even better. But in case you're doing"
+ },
+ {
+  "start": 577.16,
+  "duration": 3.12,
+  "text": "it on your own, or you just want to"
+ },
+ {
+  "start": 578.4,
+  "duration": 4.6,
+  "text": "understand what is the anatomy of a very"
+ },
+ {
+  "start": 580.28,
+  "duration": 3.6,
+  "text": "effective skill, we created a list for"
+ },
+ {
+  "start": 583.0,
+  "duration": 4.0,
+  "text": "you."
+ },
+ {
+  "start": 583.88,
+  "duration": 5.2,
+  "text": "So, every skill should have some of"
+ },
+ {
+  "start": 587.0,
+  "duration": 3.28,
+  "text": "these elements, and I want to emphasize"
+ },
+ {
+  "start": 589.08,
+  "duration": 2.76,
+  "text": "a few of them."
+ },
+ {
+  "start": 590.28,
+  "duration": 3.68,
+  "text": "The most important part is the"
+ },
+ {
+  "start": 591.84,
+  "duration": 5.88,
+  "text": "beginning, and that is the trigger. The"
+ },
+ {
+  "start": 593.96,
+  "duration": 5.52,
+  "text": "trigger is how how instruct the tool on"
+ },
+ {
+  "start": 597.72,
+  "duration": 4.68,
+  "text": "when to discover and when to basically"
+ },
+ {
+  "start": 599.48,
+  "duration": 4.56,
+  "text": "fire this skill. And it's probably the"
+ },
+ {
+  "start": 602.4,
+  "duration": 5.56,
+  "text": "most important line because if your"
+ },
+ {
+  "start": 604.04,
+  "duration": 6.36,
+  "text": "trigger is not very precise or very"
+ },
+ {
+  "start": 607.96,
+  "duration": 5.0,
+  "text": "meek, then your skill will just not be"
+ },
+ {
+  "start": 610.4,
+  "duration": 3.96,
+  "text": "used and selected by the agent. So, I"
+ },
+ {
+  "start": 612.96,
+  "duration": 3.72,
+  "text": "would advise actually that you make it"
+ },
+ {
+  "start": 614.36,
+  "duration": 4.88,
+  "text": "louder rather than quieter because the"
+ },
+ {
+  "start": 616.68,
+  "duration": 5.48,
+  "text": "models will sometimes skip past more"
+ },
+ {
+  "start": 619.24,
+  "duration": 5.08,
+  "text": "subdued descriptions. So, trigger words,"
+ },
+ {
+  "start": 622.16,
+  "duration": 5.32,
+  "text": "exact descriptions about when do you"
+ },
+ {
+  "start": 624.32,
+  "duration": 4.96,
+  "text": "expect to be used and be more explicit"
+ },
+ {
+  "start": 627.48,
+  "duration": 3.0,
+  "text": "than implicit here. That will go a long"
+ },
+ {
+  "start": 629.28,
+  "duration": 4.32,
+  "text": "way."
+ },
+ {
+  "start": 630.48,
+  "duration": 5.08,
+  "text": "And then we have the body and what most"
+ },
+ {
+  "start": 633.6,
+  "duration": 4.24,
+  "text": "people go wrong with the body that they"
+ },
+ {
+  "start": 635.56,
+  "duration": 5.04,
+  "text": "write prose and skills are like"
+ },
+ {
+  "start": 637.84,
+  "duration": 6.2,
+  "text": "playbooks. So, favored and numbered"
+ },
+ {
+  "start": 640.6,
+  "duration": 5.08,
+  "text": "steps or bulleted lists. Claude and all"
+ },
+ {
+  "start": 644.04,
+  "duration": 3.6,
+  "text": "of the AI tools, they really like"
+ },
+ {
+  "start": 645.68,
+  "duration": 4.56,
+  "text": "structured instructions dramatically"
+ },
+ {
+  "start": 647.64,
+  "duration": 4.76,
+  "text": "because that will also turn to be their"
+ },
+ {
+  "start": 650.24,
+  "duration": 4.24,
+  "text": "action plan if it's very very concrete."
+ },
+ {
+  "start": 652.4,
+  "duration": 4.0,
+  "text": "So, try to make it as literal as"
+ },
+ {
+  "start": 654.48,
+  "duration": 3.6,
+  "text": "possible. That's how the tools like to"
+ },
+ {
+  "start": 656.4,
+  "duration": 3.8,
+  "text": "follow the instructions."
+ },
+ {
+  "start": 658.08,
+  "duration": 4.32,
+  "text": "However, I want to you to also set the"
+ },
+ {
+  "start": 660.2,
+  "duration": 4.639,
+  "text": "right level of freedom. So, if a task is"
+ },
+ {
+  "start": 662.4,
+  "duration": 4.24,
+  "text": "very fragile like a database migration,"
+ },
+ {
+  "start": 664.839,
+  "duration": 4.161,
+  "text": "coding, acquiring something that has to"
+ },
+ {
+  "start": 666.64,
+  "duration": 4.76,
+  "text": "be very precise, be very prescriptive"
+ },
+ {
+  "start": 669.0,
+  "duration": 4.24,
+  "text": "with the step-by-step. But, if it's more"
+ },
+ {
+  "start": 671.4,
+  "duration": 4.92,
+  "text": "of a creative task like a writing a"
+ },
+ {
+  "start": 673.24,
+  "duration": 4.88,
+  "text": "strategy doc or something that is more"
+ },
+ {
+  "start": 676.32,
+  "duration": 3.84,
+  "text": "open to interpretation, give the"
+ },
+ {
+  "start": 678.12,
+  "duration": 3.84,
+  "text": "guidance but do leave some room for the"
+ },
+ {
+  "start": 680.16,
+  "duration": 4.24,
+  "text": "tool to be creative because if you over"
+ },
+ {
+  "start": 681.96,
+  "duration": 4.36,
+  "text": "railroading the model, you will not get"
+ },
+ {
+  "start": 684.4,
+  "duration": 4.08,
+  "text": "as good results."
+ },
+ {
+  "start": 686.32,
+  "duration": 5.0,
+  "text": "We also encourage you to make sure to"
+ },
+ {
+  "start": 688.48,
+  "duration": 4.56,
+  "text": "include an output format and here it's"
+ },
+ {
+  "start": 691.32,
+  "duration": 4.8,
+  "text": "even better if you just include an"
+ },
+ {
+  "start": 693.04,
+  "duration": 4.88,
+  "text": "output example. So, show the model,"
+ },
+ {
+  "start": 696.12,
+  "duration": 4.36,
+  "text": "don't just describe."
+ },
+ {
+  "start": 697.92,
+  "duration": 4.48,
+  "text": "If you want a template, include it. If"
+ },
+ {
+  "start": 700.48,
+  "duration": 3.56,
+  "text": "the output is a table, show a table and"
+ },
+ {
+  "start": 702.4,
+  "duration": 4.12,
+  "text": "headers. If it's a document, show the"
+ },
+ {
+  "start": 704.04,
+  "duration": 4.08,
+  "text": "section structure. So, that's very"
+ },
+ {
+  "start": 706.52,
+  "duration": 3.48,
+  "text": "useful for you to get exactly what you"
+ },
+ {
+  "start": 708.12,
+  "duration": 4.12,
+  "text": "want out of it."
+ },
+ {
+  "start": 710.0,
+  "duration": 5.04,
+  "text": "And another section that Anthropic"
+ },
+ {
+  "start": 712.24,
+  "duration": 4.96,
+  "text": "recommended very strongly is the gotcha"
+ },
+ {
+  "start": 715.04,
+  "duration": 5.64,
+  "text": "section. This is probably the highest"
+ },
+ {
+  "start": 717.2,
+  "duration": 7.08,
+  "text": "signal content in any skill because it's"
+ },
+ {
+  "start": 720.68,
+  "duration": 5.96,
+  "text": "the area where gets the model to go out"
+ },
+ {
+  "start": 724.28,
+  "duration": 4.2,
+  "text": "of its own patterns because you're"
+ },
+ {
+  "start": 726.64,
+  "duration": 4.12,
+  "text": "looking to put here things that where"
+ },
+ {
+  "start": 728.48,
+  "duration": 4.72,
+  "text": "the model will typically go wrong or"
+ },
+ {
+  "start": 730.76,
+  "duration": 4.92,
+  "text": "what assumption it might make that it"
+ },
+ {
+  "start": 733.2,
+  "duration": 5.04,
+  "text": "shouldn't and you need to say something"
+ },
+ {
+  "start": 735.68,
+  "duration": 5.159,
+  "text": "like, \"I know you want to do X but"
+ },
+ {
+  "start": 738.24,
+  "duration": 5.16,
+  "text": "don't. Here's why.\" And every failure"
+ },
+ {
+  "start": 740.839,
+  "duration": 4.681,
+  "text": "that I've seen is probably something"
+ },
+ {
+  "start": 743.4,
+  "duration": 4.08,
+  "text": "that you should document here after you"
+ },
+ {
+  "start": 745.52,
+  "duration": 4.6,
+  "text": "stress test your skill."
+ },
+ {
+  "start": 747.48,
+  "duration": 5.08,
+  "text": "A few things not to include are some of"
+ },
+ {
+  "start": 750.12,
+  "duration": 4.92,
+  "text": "the classical prompting skills like"
+ },
+ {
+  "start": 752.56,
+  "duration": 4.76,
+  "text": "don't include the persona and stuff like"
+ },
+ {
+  "start": 755.04,
+  "duration": 4.52,
+  "text": "that. That's not useful. The tools are"
+ },
+ {
+  "start": 757.32,
+  "duration": 4.6,
+  "text": "looking to get playbooks."
+ },
+ {
+  "start": 759.56,
+  "duration": 4.92,
+  "text": "A few skill killers that you should"
+ },
+ {
+  "start": 761.92,
+  "duration": 4.72,
+  "text": "avoid. First of all, it's the trigger."
+ },
+ {
+  "start": 764.48,
+  "duration": 4.68,
+  "text": "If the trigger is not well set, the"
+ },
+ {
+  "start": 766.64,
+  "duration": 4.56,
+  "text": "skill will never be picked for usage."
+ },
+ {
+  "start": 769.16,
+  "duration": 4.28,
+  "text": "Second, over defining the process like"
+ },
+ {
+  "start": 771.2,
+  "duration": 4.08,
+  "text": "we said, don't railroad the model. Also,"
+ },
+ {
+  "start": 773.44,
+  "duration": 3.72,
+  "text": "don't state the obvious. Don't waste"
+ },
+ {
+  "start": 775.28,
+  "duration": 2.96,
+  "text": "tokens on things that the model already"
+ },
+ {
+  "start": 777.16,
+  "duration": 3.28,
+  "text": "knows."
+ },
+ {
+  "start": 778.24,
+  "duration": 3.96,
+  "text": "And we strongly recommend that you don't"
+ },
+ {
+  "start": 780.44,
+  "duration": 4.0,
+  "text": "skip the gotcha section because this is"
+ },
+ {
+  "start": 782.2,
+  "duration": 4.96,
+  "text": "often when your skill will go off or"
+ },
+ {
+  "start": 784.44,
+  "duration": 5.08,
+  "text": "will create a sub-optimal results."
+ },
+ {
+  "start": 787.16,
+  "duration": 5.04,
+  "text": "And lastly, don't do like a monolithic"
+ },
+ {
+  "start": 789.52,
+  "duration": 5.16,
+  "text": "blob. Everything crammed into one file"
+ },
+ {
+  "start": 792.2,
+  "duration": 4.04,
+  "text": "instead of using more of a folder"
+ },
+ {
+  "start": 794.68,
+  "duration": 2.56,
+  "text": "structure."
+ },
+ {
+  "start": 796.24,
+  "duration": 3.08,
+  "text": "So,"
+ },
+ {
+  "start": 797.24,
+  "duration": 4.599,
+  "text": "speaking of folder structure,"
+ },
+ {
+  "start": 799.32,
+  "duration": 5.28,
+  "text": "the recommendation is to keep skill"
+ },
+ {
+  "start": 801.839,
+  "duration": 5.281,
+  "text": "under 500 lines because it's a playbook"
+ },
+ {
+  "start": 804.6,
+  "duration": 4.92,
+  "text": "not the encyclopedia of that you do for"
+ },
+ {
+  "start": 807.12,
+  "duration": 4.28,
+  "text": "work. If you have reference materials or"
+ },
+ {
+  "start": 809.52,
+  "duration": 4.04,
+  "text": "context that are very important for the"
+ },
+ {
+  "start": 811.4,
+  "duration": 5.16,
+  "text": "skill, move them outside of the skill"
+ },
+ {
+  "start": 813.56,
+  "duration": 6.2,
+  "text": "file into a separate set of files within"
+ },
+ {
+  "start": 816.56,
+  "duration": 5.8,
+  "text": "the skill folder when it's relevant. If"
+ },
+ {
+  "start": 819.76,
+  "duration": 4.44,
+  "text": "you also have very long input and output"
+ },
+ {
+  "start": 822.36,
+  "duration": 4.08,
+  "text": "examples and you should include input"
+ },
+ {
+  "start": 824.2,
+  "duration": 5.2,
+  "text": "and output examples, you can also put"
+ },
+ {
+  "start": 826.44,
+  "duration": 5.24,
+  "text": "them in a separate examples.md files"
+ },
+ {
+  "start": 829.4,
+  "duration": 4.16,
+  "text": "inside the skill repo or the skill"
+ },
+ {
+  "start": 831.68,
+  "duration": 3.2,
+  "text": "folder. That will help you a lot. And"
+ },
+ {
+  "start": 833.56,
+  "duration": 3.96,
+  "text": "that's probably the most effective way"
+ },
+ {
+  "start": 834.88,
+  "duration": 5.2,
+  "text": "to communicate the desired format."
+ },
+ {
+  "start": 837.52,
+  "duration": 5.0,
+  "text": "In terms of the discussion of whether or"
+ },
+ {
+  "start": 840.08,
+  "duration": 5.16,
+  "text": "not I should append a bunch of files"
+ },
+ {
+  "start": 842.52,
+  "duration": 4.44,
+  "text": "into my actual skill folder that will be"
+ },
+ {
+  "start": 845.24,
+  "duration": 4.24,
+  "text": "bundled with the skill wherever the"
+ },
+ {
+  "start": 846.96,
+  "duration": 5.16,
+  "text": "skill goes versus perhaps just pointing"
+ },
+ {
+  "start": 849.48,
+  "duration": 3.84,
+  "text": "the skill to my other files and other"
+ },
+ {
+  "start": 852.12,
+  "duration": 3.52,
+  "text": "systems,"
+ },
+ {
+  "start": 853.32,
+  "duration": 4.36,
+  "text": "the deciding factor should be if this is"
+ },
+ {
+  "start": 855.64,
+  "duration": 4.0,
+  "text": "something that is context specifically"
+ },
+ {
+  "start": 857.68,
+  "duration": 3.56,
+  "text": "for this skill that should always come"
+ },
+ {
+  "start": 859.64,
+  "duration": 3.56,
+  "text": "with the skill whenever I'm offloading"
+ },
+ {
+  "start": 861.24,
+  "duration": 5.32,
+  "text": "the skill to someone else, then put it"
+ },
+ {
+  "start": 863.2,
+  "duration": 5.48,
+  "text": "within the skill folder. Otherwise, when"
+ },
+ {
+  "start": 866.56,
+  "duration": 4.32,
+  "text": "it's stuff that are more general about"
+ },
+ {
+  "start": 868.68,
+  "duration": 4.8,
+  "text": "you or about your company, that can be"
+ },
+ {
+  "start": 870.88,
+  "duration": 5.36,
+  "text": "pointed to an external source."
+ },
+ {
+  "start": 873.48,
+  "duration": 5.28,
+  "text": "Let's show you a concrete skill that is"
+ },
+ {
+  "start": 876.24,
+  "duration": 4.56,
+  "text": "slightly more advanced and that is a"
+ },
+ {
+  "start": 878.76,
+  "duration": 3.68,
+  "text": "meeting prep skill."
+ },
+ {
+  "start": 880.8,
+  "duration": 3.6,
+  "text": "Obviously, all of us know that whatever"
+ },
+ {
+  "start": 882.44,
+  "duration": 3.84,
+  "text": "we do, we have to get ready for"
+ },
+ {
+  "start": 884.4,
+  "duration": 3.96,
+  "text": "meetings. So, I wanted to showcase an"
+ },
+ {
+  "start": 886.28,
+  "duration": 4.6,
+  "text": "interesting skill here. First of all,"
+ },
+ {
+  "start": 888.36,
+  "duration": 4.36,
+  "text": "description, when to use, when users say"
+ },
+ {
+  "start": 890.88,
+  "duration": 4.48,
+  "text": "prep for the meeting, meeting prep and"
+ },
+ {
+  "start": 892.72,
+  "duration": 4.84,
+  "text": "so on. So, it's offering quite a few"
+ },
+ {
+  "start": 895.36,
+  "duration": 4.92,
+  "text": "options. So, the skill will be picked up"
+ },
+ {
+  "start": 897.56,
+  "duration": 5.36,
+  "text": "in almost all less scenarios. In terms"
+ },
+ {
+  "start": 900.28,
+  "duration": 5.24,
+  "text": "of context required, so as part of the"
+ },
+ {
+  "start": 902.92,
+  "duration": 4.88,
+  "text": "skill folder, I bundle stakeholder"
+ },
+ {
+  "start": 905.52,
+  "duration": 4.52,
+  "text": "context. So, either it's going to be"
+ },
+ {
+  "start": 907.8,
+  "duration": 3.64,
+  "text": "transient or if you have regular"
+ },
+ {
+  "start": 910.04,
+  "duration": 3.76,
+  "text": "stakeholders that you work with, that"
+ },
+ {
+  "start": 911.44,
+  "duration": 3.6,
+  "text": "can be fixed context file that comes"
+ },
+ {
+  "start": 913.8,
+  "duration": 3.56,
+  "text": "with the skill."
+ },
+ {
+  "start": 915.04,
+  "duration": 4.32,
+  "text": "It should get some email history for"
+ },
+ {
+  "start": 917.36,
+  "duration": 4.88,
+  "text": "instance so that can of course be pulled"
+ },
+ {
+  "start": 919.36,
+  "duration": 4.88,
+  "text": "directly from the user systems, calendar"
+ },
+ {
+  "start": 922.24,
+  "duration": 4.4,
+  "text": "and other open action items involving"
+ },
+ {
+  "start": 924.24,
+  "duration": 3.88,
+  "text": "the attendees. In terms of the steps,"
+ },
+ {
+  "start": 926.64,
+  "duration": 3.4,
+  "text": "identify all the attendees from the"
+ },
+ {
+  "start": 928.12,
+  "duration": 4.68,
+  "text": "calendar or the the other inputs,"
+ },
+ {
+  "start": 930.04,
+  "duration": 4.799,
+  "text": "collect the context, analyze the agenda,"
+ },
+ {
+  "start": 932.8,
+  "duration": 4.36,
+  "text": "run scenario analysis. So, part of what"
+ },
+ {
+  "start": 934.839,
+  "duration": 4.601,
+  "text": "this skill does is kind of preparing you"
+ },
+ {
+  "start": 937.16,
+  "duration": 3.96,
+  "text": "for what can go wrong with your meeting"
+ },
+ {
+  "start": 939.44,
+  "duration": 4.36,
+  "text": "and generate a brief."
+ },
+ {
+  "start": 941.12,
+  "duration": 5.04,
+  "text": "And the output will be structured that"
+ },
+ {
+  "start": 943.8,
+  "duration": 5.2,
+  "text": "is defined in an attached file because"
+ },
+ {
+  "start": 946.16,
+  "duration": 5.2,
+  "text": "it's a very long and specific output."
+ },
+ {
+  "start": 949.0,
+  "duration": 5.6,
+  "text": "And in broad strokes, the the structure"
+ },
+ {
+  "start": 951.36,
+  "duration": 5.52,
+  "text": "will be executive summary and so on."
+ },
+ {
+  "start": 954.6,
+  "duration": 4.16,
+  "text": "A few gotcha that can happen when you're"
+ },
+ {
+  "start": 956.88,
+  "duration": 4.44,
+  "text": "getting ready for a meeting with such a"
+ },
+ {
+  "start": 958.76,
+  "duration": 4.84,
+  "text": "skill. Sometimes they assume attendee"
+ },
+ {
+  "start": 961.32,
+  "duration": 4.12,
+  "text": "seniority just from title and if someone"
+ },
+ {
+  "start": 963.6,
+  "duration": 3.76,
+  "text": "is a VP, they assume that they are the"
+ },
+ {
+  "start": 965.44,
+  "duration": 4.519,
+  "text": "most important person in the room and"
+ },
+ {
+  "start": 967.36,
+  "duration": 5.0,
+  "text": "attributes unnecessary weight for them."
+ },
+ {
+  "start": 969.959,
+  "duration": 4.12,
+  "text": "Don't fabricate company details. Don't"
+ },
+ {
+  "start": 972.36,
+  "duration": 4.24,
+  "text": "prepare generic talking points. Don't"
+ },
+ {
+  "start": 974.079,
+  "duration": 4.121,
+  "text": "skip the what could go wrong analysis."
+ },
+ {
+  "start": 976.6,
+  "duration": 2.8,
+  "text": "And so on. These are things that"
+ },
+ {
+  "start": 978.2,
+  "duration": 3.08,
+  "text": "happened"
+ },
+ {
+  "start": 979.4,
+  "duration": 4.4,
+  "text": "when triggering the skills without it."
+ },
+ {
+  "start": 981.28,
+  "duration": 4.6,
+  "text": "So, that's why they're here. And the way"
+ },
+ {
+  "start": 983.8,
+  "duration": 4.92,
+  "text": "this overall folder is structured, we"
+ },
+ {
+  "start": 985.88,
+  "duration": 4.959,
+  "text": "have this file. We also have like I said"
+ },
+ {
+  "start": 988.72,
+  "duration": 4.76,
+  "text": "the stakeholder context as an external"
+ },
+ {
+  "start": 990.839,
+  "duration": 6.441,
+  "text": "pointer to be shared across relevant"
+ },
+ {
+  "start": 993.48,
+  "duration": 7.28,
+  "text": "skills, the brief format, scenarios,"
+ },
+ {
+  "start": 997.28,
+  "duration": 6.08,
+  "text": "examples and also there is a nested"
+ },
+ {
+  "start": 1000.76,
+  "duration": 5.28,
+  "text": "skill. And in this nested skill, there"
+ },
+ {
+  "start": 1003.36,
+  "duration": 5.24,
+  "text": "is a sub-skill of how to simulate the"
+ },
+ {
+  "start": 1006.04,
+  "duration": 4.24,
+  "text": "the actual happening of the meeting and"
+ },
+ {
+  "start": 1008.6,
+  "duration": 4.2,
+  "text": "that's a very also very cool skill that"
+ },
+ {
+  "start": 1010.28,
+  "duration": 4.32,
+  "text": "will basically come with the six to"
+ },
+ {
+  "start": 1012.8,
+  "duration": 4.92,
+  "text": "seven different scenarios of what could"
+ },
+ {
+  "start": 1014.6,
+  "duration": 4.4,
+  "text": "could go wrong. We'll see if someone is"
+ },
+ {
+  "start": 1017.72,
+  "duration": 3.239,
+  "text": "joining your meeting and has a hidden"
+ },
+ {
+  "start": 1019.0,
+  "duration": 3.04,
+  "text": "agenda, how will you address them?"
+ },
+ {
+  "start": 1020.959,
+  "duration": 3.12,
+  "text": "Someone is asking you difficult"
+ },
+ {
+  "start": 1022.04,
+  "duration": 4.28,
+  "text": "questions. So, it will literally help"
+ },
+ {
+  "start": 1024.079,
+  "duration": 3.961,
+  "text": "you get ready for difficult questions."
+ },
+ {
+  "start": 1026.32,
+  "duration": 3.639,
+  "text": "If you use it for a sales call, it can"
+ },
+ {
+  "start": 1028.04,
+  "duration": 3.919,
+  "text": "come up with difficult questions around"
+ },
+ {
+  "start": 1029.959,
+  "duration": 4.161,
+  "text": "the sales and so on."
+ },
+ {
+  "start": 1031.959,
+  "duration": 5.12,
+  "text": "So, that's an example of how you would"
+ },
+ {
+  "start": 1034.12,
+  "duration": 5.44,
+  "text": "build a skill that also has context and"
+ },
+ {
+  "start": 1037.079,
+  "duration": 5.36,
+  "text": "perhaps refers to another skill."
+ },
+ {
+  "start": 1039.56,
+  "duration": 5.24,
+  "text": "Moving on. So, obviously there are many"
+ },
+ {
+  "start": 1042.439,
+  "duration": 4.281,
+  "text": "many skills that people have but I"
+ },
+ {
+  "start": 1044.8,
+  "duration": 4.48,
+  "text": "wanted to include here four ideas of"
+ },
+ {
+  "start": 1046.72,
+  "duration": 4.44,
+  "text": "skills that might be useful for anyone"
+ },
+ {
+  "start": 1049.28,
+  "duration": 4.399,
+  "text": "who is a knowledge worker which is most"
+ },
+ {
+  "start": 1051.16,
+  "duration": 4.88,
+  "text": "of the audience here. So, first of all,"
+ },
+ {
+  "start": 1053.679,
+  "duration": 4.961,
+  "text": "as part of the materials that we provide"
+ },
+ {
+  "start": 1056.04,
+  "duration": 5.84,
+  "text": "you, we included an example of research"
+ },
+ {
+  "start": 1058.64,
+  "duration": 5.12,
+  "text": "with confidence. That's skill that not"
+ },
+ {
+  "start": 1061.88,
+  "duration": 4.4,
+  "text": "only does research that is very precise"
+ },
+ {
+  "start": 1063.76,
+  "duration": 5.28,
+  "text": "to what you care about, time horizon,"
+ },
+ {
+  "start": 1066.28,
+  "duration": 5.48,
+  "text": "specific sources, but also it has a"
+ },
+ {
+  "start": 1069.04,
+  "duration": 5.28,
+  "text": "built-in fact-checking methodology where"
+ },
+ {
+  "start": 1071.76,
+  "duration": 5.52,
+  "text": "it will compare sources and do a deeper"
+ },
+ {
+  "start": 1074.32,
+  "duration": 5.0,
+  "text": "dive into specific things that seems off"
+ },
+ {
+  "start": 1077.28,
+  "duration": 4.68,
+  "text": "as well as giving you confidence scoring"
+ },
+ {
+  "start": 1079.32,
+  "duration": 5.08,
+  "text": "about how secure it is with the findings"
+ },
+ {
+  "start": 1081.96,
+  "duration": 4.68,
+  "text": "so you can decide how deep to go in. So,"
+ },
+ {
+  "start": 1084.4,
+  "duration": 4.16,
+  "text": "that's one skill that I think every"
+ },
+ {
+  "start": 1086.64,
+  "duration": 4.76,
+  "text": "person who does any type of research"
+ },
+ {
+  "start": 1088.56,
+  "duration": 4.16,
+  "text": "which is all of us at should build or"
+ },
+ {
+  "start": 1091.4,
+  "duration": 2.52,
+  "text": "reuse."
+ },
+ {
+  "start": 1092.72,
+  "duration": 3.72,
+  "text": "Another one that I really like is"
+ },
+ {
+  "start": 1093.92,
+  "duration": 4.84,
+  "text": "devil's advocate. This is basically a"
+ },
+ {
+  "start": 1096.44,
+  "duration": 5.04,
+  "text": "skill where we say takes any proposal"
+ },
+ {
+  "start": 1098.76,
+  "duration": 4.56,
+  "text": "and systematically stress test it. What"
+ },
+ {
+  "start": 1101.48,
+  "duration": 4.0,
+  "text": "makes the version that we included a"
+ },
+ {
+  "start": 1103.32,
+  "duration": 4.48,
+  "text": "little bit more special is that it"
+ },
+ {
+  "start": 1105.48,
+  "duration": 5.679,
+  "text": "explicitly looks for a blind spots and"
+ },
+ {
+  "start": 1107.8,
+  "duration": 4.879,
+  "text": "biases both on your side and on the AI"
+ },
+ {
+  "start": 1111.159,
+  "duration": 3.201,
+  "text": "side because we know that the models"
+ },
+ {
+  "start": 1112.679,
+  "duration": 3.681,
+  "text": "have many of their"
+ },
+ {
+  "start": 1114.36,
+  "duration": 3.36,
+  "text": "biases so it it explicitly tries to"
+ },
+ {
+  "start": 1116.36,
+  "duration": 3.36,
+  "text": "avoid those."
+ },
+ {
+  "start": 1117.72,
+  "duration": 3.52,
+  "text": "And it always ends up with something"
+ },
+ {
+  "start": 1119.72,
+  "duration": 3.6,
+  "text": "that is more constructive. So, it's not"
+ },
+ {
+  "start": 1121.24,
+  "duration": 3.52,
+  "text": "just kind of finding holes with anything"
+ },
+ {
+  "start": 1123.32,
+  "duration": 4.24,
+  "text": "that you want to do but also helps you"
+ },
+ {
+  "start": 1124.76,
+  "duration": 4.24,
+  "text": "to be back to something that is actually"
+ },
+ {
+  "start": 1127.56,
+  "duration": 3.96,
+  "text": "actionable."
+ },
+ {
+  "start": 1129.0,
+  "duration": 4.56,
+  "text": "And another skill that we created is a"
+ },
+ {
+  "start": 1131.52,
+  "duration": 4.56,
+  "text": "morning briefing. That's another"
+ },
+ {
+  "start": 1133.56,
+  "duration": 4.599,
+  "text": "classical one. It pulls together your"
+ },
+ {
+  "start": 1136.08,
+  "duration": 3.72,
+  "text": "priorities, calendar, pending item,"
+ },
+ {
+  "start": 1138.159,
+  "duration": 4.921,
+  "text": "relevant news. And the thing that makes"
+ },
+ {
+  "start": 1139.8,
+  "duration": 5.72,
+  "text": "it more powerful is that it binds your"
+ },
+ {
+  "start": 1143.08,
+  "duration": 4.32,
+  "text": "personal context files with the skills"
+ },
+ {
+  "start": 1145.52,
+  "duration": 4.04,
+  "text": "including the the goals, the current"
+ },
+ {
+  "start": 1147.4,
+  "duration": 3.96,
+  "text": "project and stakeholders."
+ },
+ {
+  "start": 1149.56,
+  "duration": 3.56,
+  "text": "And as part of the materials that we"
+ },
+ {
+  "start": 1151.36,
+  "duration": 3.96,
+  "text": "provide with this episode, we also"
+ },
+ {
+  "start": 1153.12,
+  "duration": 4.2,
+  "text": "included a prompt that lets you create"
+ },
+ {
+  "start": 1155.32,
+  "duration": 4.08,
+  "text": "one for yourself that will interview you"
+ },
+ {
+  "start": 1157.32,
+  "duration": 4.4,
+  "text": "and make sure that you will be able to"
+ },
+ {
+  "start": 1159.4,
+  "duration": 3.56,
+  "text": "create your own morning briefing."
+ },
+ {
+  "start": 1161.72,
+  "duration": 3.24,
+  "text": "And another one that I strongly"
+ },
+ {
+  "start": 1162.96,
+  "duration": 3.68,
+  "text": "recommend that you will build is a board"
+ },
+ {
+  "start": 1164.96,
+  "duration": 4.6,
+  "text": "of advisors skills."
+ },
+ {
+  "start": 1166.64,
+  "duration": 4.8,
+  "text": "So, either one or several of those"
+ },
+ {
+  "start": 1169.56,
+  "duration": 4.4,
+  "text": "basically will simulate perspectives"
+ },
+ {
+  "start": 1171.44,
+  "duration": 5.04,
+  "text": "coming from multiple expert archetypes."
+ },
+ {
+  "start": 1173.96,
+  "duration": 5.16,
+  "text": "So, it won't be just like think like a"
+ },
+ {
+  "start": 1176.48,
+  "duration": 4.16,
+  "text": "CFO but rather you can think of all the"
+ },
+ {
+  "start": 1179.12,
+  "duration": 3.92,
+  "text": "different perspective that will help you"
+ },
+ {
+  "start": 1180.64,
+  "duration": 3.84,
+  "text": "make decisions. So, if you are a startup"
+ },
+ {
+  "start": 1183.04,
+  "duration": 3.16,
+  "text": "founder, then perhaps your board of"
+ },
+ {
+  "start": 1184.48,
+  "duration": 4.36,
+  "text": "advisors will have someone coming more"
+ },
+ {
+  "start": 1186.2,
+  "duration": 5.72,
+  "text": "from a VC background, someone from more"
+ },
+ {
+  "start": 1188.84,
+  "duration": 5.44,
+  "text": "of a entrepreneurial background, your"
+ },
+ {
+  "start": 1191.92,
+  "duration": 5.24,
+  "text": "imaginary advisor, and various other"
+ },
+ {
+  "start": 1194.28,
+  "duration": 5.8,
+  "text": "perspectives, and you basically create a"
+ },
+ {
+  "start": 1197.16,
+  "duration": 4.44,
+  "text": "skill that gets them all to advise and"
+ },
+ {
+  "start": 1200.08,
+  "duration": 3.16,
+  "text": "assist you by providing various"
+ },
+ {
+  "start": 1201.6,
+  "duration": 3.0,
+  "text": "perspectives on any decision that you"
+ },
+ {
+  "start": 1203.24,
+  "duration": 3.88,
+  "text": "would like to make."
+ },
+ {
+  "start": 1204.6,
+  "duration": 3.92,
+  "text": "Um, a few more advanced patterns that"
+ },
+ {
+  "start": 1207.12,
+  "duration": 3.2,
+  "text": "for people who are already building"
+ },
+ {
+  "start": 1208.52,
+  "duration": 4.16,
+  "text": "skills for a while and want to take it"
+ },
+ {
+  "start": 1210.32,
+  "duration": 4.04,
+  "text": "one step further. First of all, having a"
+ },
+ {
+  "start": 1212.68,
+  "duration": 4.44,
+  "text": "dispatcher skill,"
+ },
+ {
+  "start": 1214.36,
+  "duration": 4.8,
+  "text": "which is a meta skill that reads all of"
+ },
+ {
+  "start": 1217.12,
+  "duration": 4.2,
+  "text": "your requests and routes them to the"
+ },
+ {
+  "start": 1219.16,
+  "duration": 4.0,
+  "text": "relevant skills. It's like a traffic"
+ },
+ {
+  "start": 1221.32,
+  "duration": 4.56,
+  "text": "controller, basically, and it's very"
+ },
+ {
+  "start": 1223.16,
+  "duration": 5.04,
+  "text": "important when your library of skills go"
+ },
+ {
+  "start": 1225.88,
+  "duration": 4.72,
+  "text": "past 10 or 15 active skills that you"
+ },
+ {
+  "start": 1228.2,
+  "duration": 4.16,
+  "text": "regularly use. Often, I would advise"
+ },
+ {
+  "start": 1230.6,
+  "duration": 4.32,
+  "text": "that you will create this dispatcher"
+ },
+ {
+  "start": 1232.36,
+  "duration": 4.32,
+  "text": "instead of hoping that the agent will"
+ },
+ {
+  "start": 1234.92,
+  "duration": 3.72,
+  "text": "read through all the available skills"
+ },
+ {
+  "start": 1236.68,
+  "duration": 3.52,
+  "text": "and pick up the right one. And this is"
+ },
+ {
+  "start": 1238.64,
+  "duration": 4.08,
+  "text": "especially important when you have"
+ },
+ {
+  "start": 1240.2,
+  "duration": 4.08,
+  "text": "nuanced similar skills that you want to"
+ },
+ {
+  "start": 1242.72,
+  "duration": 3.04,
+  "text": "be picked up in completely different"
+ },
+ {
+  "start": 1244.28,
+  "duration": 3.56,
+  "text": "scenarios."
+ },
+ {
+  "start": 1245.76,
+  "duration": 5.32,
+  "text": "Another thing that you can do is you can"
+ },
+ {
+  "start": 1247.84,
+  "duration": 4.72,
+  "text": "chain skills one after the other, either"
+ },
+ {
+  "start": 1251.08,
+  "duration": 3.16,
+  "text": "automatically by having a skill that"
+ },
+ {
+  "start": 1252.56,
+  "duration": 3.88,
+  "text": "basically calls one skill after the"
+ },
+ {
+  "start": 1254.24,
+  "duration": 4.6,
+  "text": "other, or manually, you will take the"
+ },
+ {
+  "start": 1256.44,
+  "duration": 4.72,
+  "text": "output of one skill and it becomes the"
+ },
+ {
+  "start": 1258.84,
+  "duration": 4.04,
+  "text": "input to another skill. So, in in the"
+ },
+ {
+  "start": 1261.16,
+  "duration": 4.0,
+  "text": "example that we've shown before, maybe"
+ },
+ {
+  "start": 1262.88,
+  "duration": 4.04,
+  "text": "you start with research with confidence,"
+ },
+ {
+  "start": 1265.16,
+  "duration": 3.52,
+  "text": "and then the output you take it to the"
+ },
+ {
+  "start": 1266.92,
+  "duration": 3.64,
+  "text": "Devil's Advocate to poke holes in the"
+ },
+ {
+  "start": 1268.68,
+  "duration": 3.52,
+  "text": "research, and then you take it to"
+ },
+ {
+  "start": 1270.56,
+  "duration": 3.72,
+  "text": "another skill that does an executive"
+ },
+ {
+  "start": 1272.2,
+  "duration": 3.08,
+  "text": "summary and and deck preparation for"
+ },
+ {
+  "start": 1274.28,
+  "duration": 2.6,
+  "text": "you."
+ },
+ {
+  "start": 1275.28,
+  "duration": 4.28,
+  "text": "The only thing here is that skills need"
+ },
+ {
+  "start": 1276.88,
+  "duration": 4.4,
+  "text": "a clean input and output, so that's an"
+ },
+ {
+  "start": 1279.56,
+  "duration": 2.76,
+  "text": "important thing in order to chain them"
+ },
+ {
+  "start": 1281.28,
+  "duration": 3.48,
+  "text": "well."
+ },
+ {
+  "start": 1282.32,
+  "duration": 4.84,
+  "text": "Obviously, recently we we've been seeing"
+ },
+ {
+  "start": 1284.76,
+  "duration": 5.2,
+  "text": "more and more the emergence of loops,"
+ },
+ {
+  "start": 1287.16,
+  "duration": 4.32,
+  "text": "agentic loops, and other loop patterns."
+ },
+ {
+  "start": 1289.96,
+  "duration": 4.08,
+  "text": "So, you can also create skills that"
+ },
+ {
+  "start": 1291.48,
+  "duration": 5.16,
+  "text": "create stuff like that, that they will"
+ },
+ {
+  "start": 1294.04,
+  "duration": 5.2,
+  "text": "iterate, check, act, check again, and"
+ },
+ {
+  "start": 1296.64,
+  "duration": 4.56,
+  "text": "then iterate. And it's becoming very"
+ },
+ {
+  "start": 1299.24,
+  "duration": 3.48,
+  "text": "interesting also for non-technical"
+ },
+ {
+  "start": 1301.2,
+  "duration": 4.56,
+  "text": "stuff, cuz you can think, for example,"
+ },
+ {
+  "start": 1302.72,
+  "duration": 5.08,
+  "text": "on marketing campaign optimization. For"
+ },
+ {
+  "start": 1305.76,
+  "duration": 5.32,
+  "text": "example, you will monitor your ad"
+ },
+ {
+  "start": 1307.8,
+  "duration": 5.52,
+  "text": "performance, adjust the bids, recheck,"
+ },
+ {
+  "start": 1311.08,
+  "duration": 3.84,
+  "text": "flag when the specific metrics that"
+ },
+ {
+  "start": 1313.32,
+  "duration": 4.56,
+  "text": "you're following, like rows or others,"
+ },
+ {
+  "start": 1314.92,
+  "duration": 5.2,
+  "text": "drop, do competitive analysis, and vice"
+ },
+ {
+  "start": 1317.88,
+  "duration": 4.24,
+  "text": "versa. So, you have a like an endless"
+ },
+ {
+  "start": 1320.12,
+  "duration": 3.559,
+  "text": "loop of someone that optimizes your"
+ },
+ {
+  "start": 1322.12,
+  "duration": 4.08,
+  "text": "campaigns."
+ },
+ {
+  "start": 1323.679,
+  "duration": 4.521,
+  "text": "And you can also create skills that"
+ },
+ {
+  "start": 1326.2,
+  "duration": 4.96,
+  "text": "basically orchestrate multiple agents or"
+ },
+ {
+  "start": 1328.2,
+  "duration": 5.28,
+  "text": "multiple sub-agents execution. You can"
+ },
+ {
+  "start": 1331.16,
+  "duration": 4.76,
+  "text": "just explicitly prompt them to spin up"
+ },
+ {
+  "start": 1333.48,
+  "duration": 3.76,
+  "text": "multiple agents. Our research skill also"
+ },
+ {
+  "start": 1335.92,
+  "duration": 3.68,
+  "text": "does that, so you can take a look at"
+ },
+ {
+  "start": 1337.24,
+  "duration": 3.88,
+  "text": "that. And of course, the sky's the"
+ },
+ {
+  "start": 1339.6,
+  "duration": 3.84,
+  "text": "limit, and we'll be curious to see if"
+ },
+ {
+  "start": 1341.12,
+  "duration": 3.8,
+  "text": "you have advanced patterns that you've"
+ },
+ {
+  "start": 1343.44,
+  "duration": 2.32,
+  "text": "discovered that are working well with"
+ },
+ {
+  "start": 1344.92,
+  "duration": 3.08,
+  "text": "you."
+ },
+ {
+  "start": 1345.76,
+  "duration": 4.36,
+  "text": "I want to make sure that you don't just"
+ },
+ {
+  "start": 1348.0,
+  "duration": 3.52,
+  "text": "create skills, but that you test them"
+ },
+ {
+  "start": 1350.12,
+  "duration": 4.52,
+  "text": "and make sure that they're working well"
+ },
+ {
+  "start": 1351.52,
+  "duration": 5.159,
+  "text": "for you over time. I think the easiest"
+ },
+ {
+  "start": 1354.64,
+  "duration": 3.8,
+  "text": "test for you is if you find yourself"
+ },
+ {
+  "start": 1356.679,
+  "duration": 5.041,
+  "text": "having to iterate after you get the"
+ },
+ {
+  "start": 1358.44,
+  "duration": 5.239,
+  "text": "output of the tool that used your skill,"
+ },
+ {
+  "start": 1361.72,
+  "duration": 4.36,
+  "text": "that means that your skill is not good"
+ },
+ {
+  "start": 1363.679,
+  "duration": 4.441,
+  "text": "enough. Because ideally, a skill should"
+ },
+ {
+  "start": 1366.08,
+  "duration": 3.28,
+  "text": "create a ready-to-use output, and if"
+ },
+ {
+  "start": 1368.12,
+  "duration": 4.559,
+  "text": "this is not the case, you have to go"
+ },
+ {
+  "start": 1369.36,
+  "duration": 5.04,
+  "text": "back and fix the skill. And this becomes"
+ },
+ {
+  "start": 1372.679,
+  "duration": 4.281,
+  "text": "even more important when you are about"
+ },
+ {
+  "start": 1374.4,
+  "duration": 4.76,
+  "text": "to share it with 50 different people."
+ },
+ {
+  "start": 1376.96,
+  "duration": 5.76,
+  "text": "That's the case for you to treat it like"
+ },
+ {
+  "start": 1379.16,
+  "duration": 6.08,
+  "text": "any other AI product, and basically run"
+ },
+ {
+  "start": 1382.72,
+  "duration": 4.28,
+  "text": "proper evaluation, and the rigor, of"
+ },
+ {
+  "start": 1385.24,
+  "duration": 4.76,
+  "text": "course, should match the stakes. If it's"
+ },
+ {
+  "start": 1387.0,
+  "duration": 5.4,
+  "text": "something that also updates your CRM,"
+ },
+ {
+  "start": 1390.0,
+  "duration": 4.28,
+  "text": "then make sure that the skill is well"
+ },
+ {
+  "start": 1392.4,
+  "duration": 3.96,
+  "text": "tested. If it's customer-facing, make"
+ },
+ {
+  "start": 1394.28,
+  "duration": 5.48,
+  "text": "sure that it's well tested. And there"
+ },
+ {
+  "start": 1396.36,
+  "duration": 6.2,
+  "text": "are some ideas here on how to test it."
+ },
+ {
+  "start": 1399.76,
+  "duration": 6.2,
+  "text": "But in general, every time that you have"
+ },
+ {
+  "start": 1402.56,
+  "duration": 4.68,
+  "text": "a new model, or that you have a"
+ },
+ {
+  "start": 1405.96,
+  "duration": 3.44,
+  "text": "different tool that will be using the"
+ },
+ {
+  "start": 1407.24,
+  "duration": 4.0,
+  "text": "skills, you have to go back and"
+ },
+ {
+  "start": 1409.4,
+  "duration": 3.279,
+  "text": "re-evaluate."
+ },
+ {
+  "start": 1411.24,
+  "duration": 5.48,
+  "text": "Okay, let's talk about the"
+ },
+ {
+  "start": 1412.679,
+  "duration": 6.241,
+  "text": "organizational perspective. So, up until"
+ },
+ {
+  "start": 1416.72,
+  "duration": 3.52,
+  "text": "now, skills were at least it could be"
+ },
+ {
+  "start": 1418.92,
+  "duration": 3.92,
+  "text": "inferred that we're primarily talking"
+ },
+ {
+  "start": 1420.24,
+  "duration": 4.6,
+  "text": "about skills as a personal asset."
+ },
+ {
+  "start": 1422.84,
+  "duration": 4.68,
+  "text": "However, organizations that are very"
+ },
+ {
+  "start": 1424.84,
+  "duration": 5.36,
+  "text": "AI-forward already realized that skills"
+ },
+ {
+  "start": 1427.52,
+  "duration": 4.96,
+  "text": "are the future of how to streamline work"
+ },
+ {
+  "start": 1430.2,
+  "duration": 4.76,
+  "text": "and how to get everybody to get more"
+ },
+ {
+  "start": 1432.48,
+  "duration": 5.48,
+  "text": "value from AI. And as you can hear, this"
+ },
+ {
+  "start": 1434.96,
+  "duration": 4.92,
+  "text": "is where I get genuinely excited because"
+ },
+ {
+  "start": 1437.96,
+  "duration": 3.96,
+  "text": "it's basically the pipe dream of every"
+ },
+ {
+  "start": 1439.88,
+  "duration": 4.08,
+  "text": "knowledge manager that finally can"
+ },
+ {
+  "start": 1441.92,
+  "duration": 4.24,
+  "text": "become real. And you can think about it"
+ },
+ {
+  "start": 1443.96,
+  "duration": 4.48,
+  "text": "at the following, you can standardize"
+ },
+ {
+  "start": 1446.16,
+  "duration": 4.64,
+  "text": "the way work gets done. You can get a"
+ },
+ {
+  "start": 1448.44,
+  "duration": 4.6,
+  "text": "lot of the work done autonomously or to"
+ },
+ {
+  "start": 1450.8,
+  "duration": 3.92,
+  "text": "some extent, and you can bundle that"
+ },
+ {
+  "start": 1453.04,
+  "duration": 3.76,
+  "text": "also with organizational knowledge. So,"
+ },
+ {
+  "start": 1454.72,
+  "duration": 4.76,
+  "text": "everything can be bundled into a single"
+ },
+ {
+  "start": 1456.8,
+  "duration": 4.76,
+  "text": "portable artifact that both the humans"
+ },
+ {
+  "start": 1459.48,
+  "duration": 4.48,
+  "text": "can read, and new employees can onboard"
+ },
+ {
+  "start": 1461.56,
+  "duration": 3.64,
+  "text": "using that, as well as the agentic tools"
+ },
+ {
+  "start": 1463.96,
+  "duration": 2.64,
+  "text": "that will be using them and doing the"
+ },
+ {
+  "start": 1465.2,
+  "duration": 3.479,
+  "text": "work for you."
+ },
+ {
+  "start": 1466.6,
+  "duration": 5.0,
+  "text": "So, what I've seen happening in some"
+ },
+ {
+  "start": 1468.679,
+  "duration": 4.721,
+  "text": "organizations, they do skill hackathon"
+ },
+ {
+  "start": 1471.6,
+  "duration": 4.24,
+  "text": "where they create skills for their"
+ },
+ {
+  "start": 1473.4,
+  "duration": 4.8,
+  "text": "relevant teams. They are maintaining"
+ },
+ {
+  "start": 1475.84,
+  "duration": 4.6,
+  "text": "skills in shared libraries, like they"
+ },
+ {
+  "start": 1478.2,
+  "duration": 5.32,
+  "text": "would maintain code. They make sure the"
+ },
+ {
+  "start": 1480.44,
+  "duration": 5.88,
+  "text": "skills are having clear ownership and"
+ },
+ {
+  "start": 1483.52,
+  "duration": 5.24,
+  "text": "use across various people. And those"
+ },
+ {
+  "start": 1486.32,
+  "duration": 4.12,
+  "text": "organizations are seeing massive uplift"
+ },
+ {
+  "start": 1488.76,
+  "duration": 2.8,
+  "text": "with the quality and results that"
+ },
+ {
+  "start": 1490.44,
+  "duration": 3.08,
+  "text": "they're getting."
+ },
+ {
+  "start": 1491.56,
+  "duration": 3.88,
+  "text": "And the ones that are still not there,"
+ },
+ {
+  "start": 1493.52,
+  "duration": 4.24,
+  "text": "their people are kind of reinventing the"
+ },
+ {
+  "start": 1495.44,
+  "duration": 3.92,
+  "text": "wheel every time that they have a"
+ },
+ {
+  "start": 1497.76,
+  "duration": 4.56,
+  "text": "conversation with AI, or even with they"
+ },
+ {
+  "start": 1499.36,
+  "duration": 4.8,
+  "text": "create skills just for themselves."
+ },
+ {
+  "start": 1502.32,
+  "duration": 4.24,
+  "text": "Eventually, and you we're already seeing"
+ },
+ {
+  "start": 1504.16,
+  "duration": 4.04,
+  "text": "that with the Claude Co-work, most"
+ },
+ {
+  "start": 1506.56,
+  "duration": 3.48,
+  "text": "organizations will have the set of"
+ },
+ {
+  "start": 1508.2,
+  "duration": 4.44,
+  "text": "plugins. So, in Claude Co-work, we're"
+ },
+ {
+  "start": 1510.04,
+  "duration": 4.56,
+  "text": "seeing plugins for specific professions,"
+ },
+ {
+  "start": 1512.64,
+  "duration": 3.88,
+  "text": "but you can create a plugin which is"
+ },
+ {
+  "start": 1514.6,
+  "duration": 4.4,
+  "text": "comprised of typically skills and"
+ },
+ {
+  "start": 1516.52,
+  "duration": 4.2,
+  "text": "connections and perhaps some context for"
+ },
+ {
+  "start": 1519.0,
+  "duration": 3.56,
+  "text": "each and every department and or if each"
+ },
+ {
+  "start": 1520.72,
+  "duration": 3.959,
+  "text": "and every group in your organization,"
+ },
+ {
+  "start": 1522.56,
+  "duration": 5.68,
+  "text": "and all of a sudden everybody enjoys the"
+ },
+ {
+  "start": 1524.679,
+  "duration": 5.0,
+  "text": "same world view and the same goodness."
+ },
+ {
+  "start": 1528.24,
+  "duration": 3.4,
+  "text": "So, to be a little bit more prescriptive"
+ },
+ {
+  "start": 1529.679,
+  "duration": 4.481,
+  "text": "here, what I would recommend that you do"
+ },
+ {
+  "start": 1531.64,
+  "duration": 5.52,
+  "text": "at the org level, you will start with"
+ },
+ {
+  "start": 1534.16,
+  "duration": 5.64,
+  "text": "the discovery, running work audits or"
+ },
+ {
+  "start": 1537.16,
+  "duration": 5.2,
+  "text": "understanding where people do repeating"
+ },
+ {
+  "start": 1539.8,
+  "duration": 4.72,
+  "text": "work or where people are not getting"
+ },
+ {
+  "start": 1542.36,
+  "duration": 3.52,
+  "text": "optimal value from AI, and where there"
+ },
+ {
+  "start": 1544.52,
+  "duration": 3.72,
+  "text": "are wish list that are not being"
+ },
+ {
+  "start": 1545.88,
+  "duration": 4.44,
+  "text": "covered. So, you will have a a list of"
+ },
+ {
+  "start": 1548.24,
+  "duration": 4.68,
+  "text": "opportunities to create skill."
+ },
+ {
+  "start": 1550.32,
+  "duration": 4.56,
+  "text": "And then you will curate them and build"
+ },
+ {
+  "start": 1552.92,
+  "duration": 4.759,
+  "text": "skills using the best possible methods,"
+ },
+ {
+  "start": 1554.88,
+  "duration": 4.32,
+  "text": "maybe with Claude's skill creator or"
+ },
+ {
+  "start": 1557.679,
+  "duration": 2.961,
+  "text": "just some of the best practices that we"
+ },
+ {
+  "start": 1559.2,
+  "duration": 3.16,
+  "text": "discussed here."
+ },
+ {
+  "start": 1560.64,
+  "duration": 3.32,
+  "text": "I then want to encourage you to do a lot"
+ },
+ {
+  "start": 1562.36,
+  "duration": 3.16,
+  "text": "of validation, especially if those are"
+ },
+ {
+  "start": 1563.96,
+  "duration": 3.44,
+  "text": "going to be shared across many people,"
+ },
+ {
+  "start": 1565.52,
+  "duration": 4.56,
+  "text": "then perhaps the person who created the"
+ },
+ {
+  "start": 1567.4,
+  "duration": 4.0,
+  "text": "skill will replace with another person"
+ },
+ {
+  "start": 1570.08,
+  "duration": 2.88,
+  "text": "who created another skill, and they will"
+ },
+ {
+  "start": 1571.4,
+  "duration": 4.04,
+  "text": "stress test each other. And of course,"
+ },
+ {
+  "start": 1572.96,
+  "duration": 4.719,
+  "text": "people who should use to poke holes in"
+ },
+ {
+  "start": 1575.44,
+  "duration": 5.28,
+  "text": "the skill itself. Then you should"
+ },
+ {
+  "start": 1577.679,
+  "duration": 6.201,
+  "text": "package them into plugins and reusable"
+ },
+ {
+  "start": 1580.72,
+  "duration": 5.44,
+  "text": "elements. And lastly, skills have to"
+ },
+ {
+  "start": 1583.88,
+  "duration": 5.12,
+  "text": "have clear owners, whether they are AI"
+ },
+ {
+  "start": 1586.16,
+  "duration": 4.24,
+  "text": "champions or subject matter experts, be"
+ },
+ {
+  "start": 1589.0,
+  "duration": 3.76,
+  "text": "reviewed every time that they are being"
+ },
+ {
+  "start": 1590.4,
+  "duration": 3.92,
+  "text": "updated, and when they're no longer"
+ },
+ {
+  "start": 1592.76,
+  "duration": 4.2,
+  "text": "relevant or no longer serving us, they"
+ },
+ {
+  "start": 1594.32,
+  "duration": 5.2,
+  "text": "should be deprecated, because otherwise"
+ },
+ {
+  "start": 1596.96,
+  "duration": 4.48,
+  "text": "we will very quickly have a stale system"
+ },
+ {
+  "start": 1599.52,
+  "duration": 4.68,
+  "text": "that was amazing at the beginning, but"
+ },
+ {
+  "start": 1601.44,
+  "duration": 5.08,
+  "text": "is no longer the case here."
+ },
+ {
+  "start": 1604.2,
+  "duration": 4.24,
+  "text": "So, that's the five levels. Hopefully"
+ },
+ {
+  "start": 1606.52,
+  "duration": 4.2,
+  "text": "got you from skill apprentice to"
+ },
+ {
+  "start": 1608.44,
+  "duration": 4.92,
+  "text": "architect. Everything we talked about,"
+ },
+ {
+  "start": 1610.72,
+  "duration": 4.76,
+  "text": "plus full skill template, and a lot of"
+ },
+ {
+  "start": 1613.36,
+  "duration": 4.76,
+  "text": "bonus content, and some advanced"
+ },
+ {
+  "start": 1615.48,
+  "duration": 5.12,
+  "text": "patterns are all packaged very nicely in"
+ },
+ {
+  "start": 1618.12,
+  "duration": 5.04,
+  "text": "the AI DB Play. Everything is there."
+ },
+ {
+  "start": 1620.6,
+  "duration": 5.84,
+  "text": "Feel free to go and take a much deeper"
+ },
+ {
+  "start": 1623.16,
+  "duration": 5.84,
+  "text": "journey using this artifact."
+ },
+ {
+  "start": 1626.44,
+  "duration": 4.04,
+  "text": "Awesome. Thank you so much. So, what one"
+ },
+ {
+  "start": 1629.0,
+  "duration": 2.76,
+  "text": "sort of just mental framework that I"
+ },
+ {
+  "start": 1630.48,
+  "duration": 4.08,
+  "text": "wanted to"
+ },
+ {
+  "start": 1631.76,
+  "duration": 5.2,
+  "text": "maybe close on is the the last thing you"
+ },
+ {
+  "start": 1634.56,
+  "duration": 5.4,
+  "text": "said about deprecating skills when they"
+ },
+ {
+  "start": 1636.96,
+  "duration": 4.32,
+  "text": "no longer serve. I feel like there even"
+ },
+ {
+  "start": 1639.96,
+  "duration": 3.0,
+  "text": "more"
+ },
+ {
+  "start": 1641.28,
+  "duration": 4.52,
+  "text": "we're used to infrastructure, which is"
+ },
+ {
+  "start": 1642.96,
+  "duration": 5.56,
+  "text": "what skills are, as being sort of, you"
+ },
+ {
+  "start": 1645.8,
+  "duration": 5.64,
+  "text": "know, semi-permanent or long duration."
+ },
+ {
+  "start": 1648.52,
+  "duration": 5.52,
+  "text": "And I think skills feel like one of the"
+ },
+ {
+  "start": 1651.44,
+  "duration": 7.44,
+  "text": "first infrastructure primitives of the"
+ },
+ {
+  "start": 1654.04,
+  "duration": 6.36,
+  "text": "AI era that exemplify one, how iterative"
+ },
+ {
+  "start": 1658.88,
+  "duration": 3.76,
+  "text": "things are going to be,"
+ },
+ {
+  "start": 1660.4,
+  "duration": 4.16,
+  "text": "two, the sort of shorter half-lives that"
+ },
+ {
+  "start": 1662.64,
+  "duration": 4.88,
+  "text": "we have to assume for things that are"
+ },
+ {
+  "start": 1664.56,
+  "duration": 4.8,
+  "text": "valuable. And I think that what that"
+ },
+ {
+  "start": 1667.52,
+  "duration": 3.72,
+  "text": "means is"
+ },
+ {
+  "start": 1669.36,
+  "duration": 3.56,
+  "text": "you're not going to have an initiative"
+ },
+ {
+  "start": 1671.24,
+  "duration": 3.8,
+  "text": "to design a bunch of skills for yourself"
+ },
+ {
+  "start": 1672.92,
+  "duration": 4.44,
+  "text": "and for your organization where you do a"
+ },
+ {
+  "start": 1675.04,
+  "duration": 3.48,
+  "text": "sprint and then it's done. It feels like"
+ },
+ {
+  "start": 1677.36,
+  "duration": 4.48,
+  "text": "it's going to be something that is just"
+ },
+ {
+  "start": 1678.52,
+  "duration": 5.159,
+  "text": "now a new, recurring, ongoing part of"
+ },
+ {
+  "start": 1681.84,
+  "duration": 5.2,
+  "text": "working with these systems, and"
+ },
+ {
+  "start": 1683.679,
+  "duration": 4.161,
+  "text": "basically requires constant upkeep. Is I"
+ },
+ {
+  "start": 1687.04,
+  "duration": 2.6,
+  "text": "mean,"
+ },
+ {
+  "start": 1687.84,
+  "duration": 3.92,
+  "text": "is that is that what you found so far in"
+ },
+ {
+  "start": 1689.64,
+  "duration": 3.44,
+  "text": "your experience with them? Yes, and even"
+ },
+ {
+  "start": 1691.76,
+  "duration": 3.32,
+  "text": "in the materials, one thing that I"
+ },
+ {
+  "start": 1693.08,
+  "duration": 3.48,
+  "text": "included was saying that like"
+ },
+ {
+  "start": 1695.08,
+  "duration": 4.04,
+  "text": "re-evaluate skills in the following"
+ },
+ {
+  "start": 1696.56,
+  "duration": 5.0,
+  "text": "scenarios and when 1 month has passed,"
+ },
+ {
+  "start": 1699.12,
+  "duration": 4.559,
+  "text": "cuz that's about the time horizon where"
+ },
+ {
+  "start": 1701.56,
+  "duration": 4.599,
+  "text": "things might become a little bit stale"
+ },
+ {
+  "start": 1703.679,
+  "duration": 3.601,
+  "text": "nowadays. So, at least until, and I"
+ },
+ {
+  "start": 1706.159,
+  "duration": 2.881,
+  "text": "don't know if it's going to happen in"
+ },
+ {
+  "start": 1707.28,
+  "duration": 4.32,
+  "text": "the foreseeable future, but until things"
+ },
+ {
+  "start": 1709.04,
+  "duration": 5.2,
+  "text": "will be more stable and you will have a"
+ },
+ {
+  "start": 1711.6,
+  "duration": 5.04,
+  "text": "more self-healing system for skills"
+ },
+ {
+  "start": 1714.24,
+  "duration": 4.439,
+  "text": "management, you have to proactively go"
+ },
+ {
+  "start": 1716.64,
+  "duration": 3.56,
+  "text": "and revisit everything that is created,"
+ },
+ {
+  "start": 1718.679,
+  "duration": 2.921,
+  "text": "including, by the way, the context as"
+ },
+ {
+  "start": 1720.2,
+  "duration": 3.52,
+  "text": "part of the skill. So, often the skill"
+ },
+ {
+  "start": 1721.6,
+  "duration": 3.76,
+  "text": "itself will remain relevant, but maybe"
+ },
+ {
+  "start": 1723.72,
+  "duration": 3.64,
+  "text": "the examples or the context that the"
+ },
+ {
+  "start": 1725.36,
+  "duration": 3.76,
+  "text": "skill referred to, that's the problem of"
+ },
+ {
+  "start": 1727.36,
+  "duration": 3.16,
+  "text": "of why we're not getting good results"
+ },
+ {
+  "start": 1729.12,
+  "duration": 2.92,
+  "text": "anymore."
+ },
+ {
+  "start": 1730.52,
+  "duration": 3.639,
+  "text": "Interesting. We need a we need an a"
+ },
+ {
+  "start": 1732.04,
+  "duration": 4.2,
+  "text": "little agent that sits there giving a"
+ },
+ {
+  "start": 1734.159,
+  "duration": 3.321,
+  "text": "rating to how stale skills are skills"
+ },
+ {
+  "start": 1736.24,
+  "duration": 1.84,
+  "text": "are based on when they were last"
+ },
+ {
+  "start": 1737.48,
+  "duration": 2.32,
+  "text": "updated."
+ },
+ {
+  "start": 1738.08,
+  "duration": 3.4,
+  "text": ">> I'm sure people that the advanced"
+ },
+ {
+  "start": 1739.8,
+  "duration": 3.72,
+  "text": "organizations are already building these"
+ },
+ {
+  "start": 1741.48,
+  "duration": 5.24,
+  "text": "systems of automations of skill reviews"
+ },
+ {
+  "start": 1743.52,
+  "duration": 4.68,
+  "text": "and suggestions for improvement."
+ },
+ {
+  "start": 1746.72,
+  "duration": 3.92,
+  "text": "Awesome. All right. Well, New Far, thank"
+ },
+ {
+  "start": 1748.2,
+  "duration": 4.08,
+  "text": "you so much for this. Sure, tons of"
+ },
+ {
+  "start": 1750.64,
+  "duration": 4.6,
+  "text": "useful stuff for everyone to dig in."
+ },
+ {
+  "start": 1752.28,
+  "duration": 2.96,
+  "text": "Can't wait to have you back."
+ }
+]

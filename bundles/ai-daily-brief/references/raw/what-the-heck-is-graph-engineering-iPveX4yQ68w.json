@@ -1,0 +1,3782 @@
+[
+ {
+  "start": 0.44,
+  "duration": 3.56,
+  "text": "Today on the AI Daily Brief, what the"
+ },
+ {
+  "start": 2.12,
+  "duration": 4.2,
+  "text": "heck is graph engineering and why should"
+ },
+ {
+  "start": 4.0,
+  "duration": 5.08,
+  "text": "you care? Before that in the headlines,"
+ },
+ {
+  "start": 6.32,
+  "duration": 4.48,
+  "text": "OpenAI's Atlas model gets a cyber delay."
+ },
+ {
+  "start": 9.08,
+  "duration": 3.28,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 10.8,
+  "duration": 4.48,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 12.36,
+  "duration": 4.08,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 15.28,
+  "duration": 3.08,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 16.44,
+  "duration": 4.24,
+  "text": "headlines edition. All the daily AI news"
+ },
+ {
+  "start": 18.36,
+  "duration": 4.6,
+  "text": "you need in around 5 minutes. Late last"
+ },
+ {
+  "start": 20.68,
+  "duration": 4.16,
+  "text": "week, rumors were swirling that OpenAI's"
+ },
+ {
+  "start": 22.96,
+  "duration": 4.0,
+  "text": "latest model codenamed Astra was being"
+ },
+ {
+  "start": 24.84,
+  "duration": 3.48,
+  "text": "prepared for an imminent release. Sam"
+ },
+ {
+  "start": 26.96,
+  "duration": 3.04,
+  "text": "Altman even traveled to Washington to"
+ },
+ {
+  "start": 28.32,
+  "duration": 3.799,
+  "text": "preview the model and discuss new model"
+ },
+ {
+  "start": 30.0,
+  "duration": 3.36,
+  "text": "testing policies. In the background,"
+ },
+ {
+  "start": 32.119,
+  "duration": 3.241,
+  "text": "however, the discussion around the"
+ },
+ {
+  "start": 33.36,
+  "duration": 4.0,
+  "text": "Hugging Face hack just continued to grow"
+ },
+ {
+  "start": 35.36,
+  "duration": 3.56,
+  "text": "in prominence and significance. For"
+ },
+ {
+  "start": 37.36,
+  "duration": 3.2,
+  "text": "those who missed that episode, OpenAI's"
+ },
+ {
+  "start": 38.92,
+  "duration": 3.16,
+  "text": "technical breakdown at the Black Hat"
+ },
+ {
+  "start": 40.56,
+  "duration": 3.28,
+  "text": "conference revealed that not only had"
+ },
+ {
+  "start": 42.08,
+  "duration": 3.72,
+  "text": "their model escaped the sandbox and"
+ },
+ {
+  "start": 43.84,
+  "duration": 3.68,
+  "text": "hacked into Hugging Face's servers, it"
+ },
+ {
+  "start": 45.8,
+  "duration": 3.04,
+  "text": "also left internal notes instructing"
+ },
+ {
+  "start": 47.52,
+  "duration": 2.64,
+  "text": "future models on how to pull off the"
+ },
+ {
+  "start": 48.84,
+  "duration": 3.48,
+  "text": "same trick."
+ },
+ {
+  "start": 50.16,
+  "duration": 4.52,
+  "text": "On Friday, OpenAI decided to make a big"
+ },
+ {
+  "start": 52.32,
+  "duration": 3.92,
+  "text": "shift. They wrote, \"Our latest internal"
+ },
+ {
+  "start": 54.68,
+  "duration": 3.4,
+  "text": "evaluations of Astra, one of our"
+ },
+ {
+  "start": 56.24,
+  "duration": 3.56,
+  "text": "upcoming models, over the past few days"
+ },
+ {
+  "start": 58.08,
+  "duration": 3.8,
+  "text": "indicates significant advancements in"
+ },
+ {
+  "start": 59.8,
+  "duration": 3.6,
+  "text": "agent decoding and cybersecurity. These"
+ },
+ {
+  "start": 61.88,
+  "duration": 3.16,
+  "text": "results, in addition to expert"
+ },
+ {
+  "start": 63.4,
+  "duration": 3.12,
+  "text": "assessments, have led us to conclude"
+ },
+ {
+  "start": 65.04,
+  "duration": 3.08,
+  "text": "last night that we cannot rule out"
+ },
+ {
+  "start": 66.52,
+  "duration": 4.0,
+  "text": "critical cyber capabilities under our"
+ },
+ {
+  "start": 68.12,
+  "duration": 4.08,
+  "text": "preparedness framework.\" OpenAI defines"
+ },
+ {
+  "start": 70.52,
+  "duration": 3.4,
+  "text": "that critical threshold as the ability"
+ },
+ {
+  "start": 72.2,
+  "duration": 3.6,
+  "text": "to, quote, \"Identify and develop"
+ },
+ {
+  "start": 73.92,
+  "duration": 3.56,
+  "text": "functional zero-day exploits of all"
+ },
+ {
+  "start": 75.8,
+  "duration": 3.44,
+  "text": "severity levels in many hardened"
+ },
+ {
+  "start": 77.48,
+  "duration": 3.84,
+  "text": "real-world critical systems without"
+ },
+ {
+  "start": 79.24,
+  "duration": 3.36,
+  "text": "human intervention or devise and execute"
+ },
+ {
+  "start": 81.32,
+  "duration": 3.28,
+  "text": "end-to-end novel strategies for"
+ },
+ {
+  "start": 82.6,
+  "duration": 4.2,
+  "text": "cyberattacks against hardened targets"
+ },
+ {
+  "start": 84.6,
+  "duration": 4.48,
+  "text": "given only a high-level desired goal.\""
+ },
+ {
+  "start": 86.8,
+  "duration": 4.16,
+  "text": "Now, on this front, GPT-5 6 tool had"
+ },
+ {
+  "start": 89.08,
+  "duration": 3.16,
+  "text": "been assessed in the high category,"
+ },
+ {
+  "start": 90.96,
+  "duration": 2.64,
+  "text": "which was a little more risky than"
+ },
+ {
+  "start": 92.24,
+  "duration": 2.68,
+  "text": "previous models, but still appropriate"
+ },
+ {
+  "start": 93.6,
+  "duration": 2.84,
+  "text": "for a release."
+ },
+ {
+  "start": 94.92,
+  "duration": 3.64,
+  "text": "Given that the new Atlas models are now"
+ },
+ {
+  "start": 96.44,
+  "duration": 3.8,
+  "text": "in the critical category, as a result,"
+ },
+ {
+  "start": 98.56,
+  "duration": 3.56,
+  "text": "OpenAI is holding back the model from"
+ },
+ {
+  "start": 100.24,
+  "duration": 3.0,
+  "text": "release while beefing up internal safety"
+ },
+ {
+  "start": 102.12,
+  "duration": 2.36,
+  "text": "measures."
+ },
+ {
+  "start": 103.24,
+  "duration": 2.84,
+  "text": "Testing environments will now be"
+ },
+ {
+  "start": 104.48,
+  "duration": 3.28,
+  "text": "isolated, model weights will have"
+ },
+ {
+  "start": 106.08,
+  "duration": 3.24,
+  "text": "enhanced encryption to prevent leaking,"
+ },
+ {
+  "start": 107.76,
+  "duration": 3.84,
+  "text": "and additional sandbox monitoring will"
+ },
+ {
+  "start": 109.32,
+  "duration": 4.12,
+  "text": "be implemented. OpenAI will also be"
+ },
+ {
+  "start": 111.6,
+  "duration": 3.2,
+  "text": "limiting internal activities using Astra"
+ },
+ {
+  "start": 113.44,
+  "duration": 2.92,
+  "text": "that don't yet meet these enhanced"
+ },
+ {
+  "start": 114.8,
+  "duration": 3.48,
+  "text": "security measures."
+ },
+ {
+  "start": 116.36,
+  "duration": 4.24,
+  "text": "On X, Sam Altman added around the"
+ },
+ {
+  "start": 118.28,
+  "duration": 3.48,
+  "text": "decision, posting, \"Astra is a powerful"
+ },
+ {
+  "start": 120.6,
+  "duration": 2.96,
+  "text": "model and we're working to make it"
+ },
+ {
+  "start": 121.76,
+  "duration": 3.2,
+  "text": "generally available. We do not think it"
+ },
+ {
+  "start": 123.56,
+  "duration": 3.56,
+  "text": "is a good strategy to keep powerful"
+ },
+ {
+  "start": 124.96,
+  "duration": 3.36,
+  "text": "models to a chosen few. Given its cyber"
+ },
+ {
+  "start": 127.12,
+  "duration": 2.639,
+  "text": "capabilities, we need a little bit"
+ },
+ {
+  "start": 128.32,
+  "duration": 2.88,
+  "text": "longer to do this safely, but hopefully"
+ },
+ {
+  "start": 129.759,
+  "duration": 3.121,
+  "text": "not too long.\""
+ },
+ {
+  "start": 131.2,
+  "duration": 3.96,
+  "text": "Now, one thing we don't know is to what"
+ },
+ {
+  "start": 132.88,
+  "duration": 4.32,
+  "text": "extent this is an OpenAI voluntary pause"
+ },
+ {
+  "start": 135.16,
+  "duration": 3.36,
+  "text": "versus a government-imposed pause, or"
+ },
+ {
+  "start": 137.2,
+  "duration": 3.36,
+  "text": "whether that distinction even matters at"
+ },
+ {
+  "start": 138.52,
+  "duration": 3.48,
+  "text": "this point. One interesting note is that"
+ },
+ {
+  "start": 140.56,
+  "duration": 3.32,
+  "text": "there aren't a lot of folks suggesting"
+ },
+ {
+  "start": 142.0,
+  "duration": 3.12,
+  "text": "that this is just a publicity stunt, as"
+ },
+ {
+  "start": 143.88,
+  "duration": 3.12,
+  "text": "was one of the narratives surrounding"
+ },
+ {
+  "start": 145.12,
+  "duration": 3.48,
+  "text": "the Mythos release. Basically, the"
+ },
+ {
+  "start": 147.0,
+  "duration": 2.64,
+  "text": "Hugging Face incident seems to have made"
+ },
+ {
+  "start": 148.6,
+  "duration": 3.44,
+  "text": "the case that advanced cyber"
+ },
+ {
+  "start": 149.64,
+  "duration": 4.2,
+  "text": "capabilities could be a real concern."
+ },
+ {
+  "start": 152.04,
+  "duration": 3.4,
+  "text": "OpenAI head of strategic futures, Dean"
+ },
+ {
+  "start": 153.84,
+  "duration": 3.48,
+  "text": "Ball, noted that this year is the first"
+ },
+ {
+  "start": 155.44,
+  "duration": 3.24,
+  "text": "big test of whether frontier AI labs"
+ },
+ {
+  "start": 157.32,
+  "duration": 3.52,
+  "text": "would follow their stated safety"
+ },
+ {
+  "start": 158.68,
+  "duration": 4.72,
+  "text": "preferences when push comes to shove. He"
+ },
+ {
+  "start": 160.84,
+  "duration": 3.8,
+  "text": "wrote, \"Our next model, Astra, may be"
+ },
+ {
+  "start": 163.4,
+  "duration": 2.92,
+  "text": "critical under our preparedness"
+ },
+ {
+  "start": 164.64,
+  "duration": 3.72,
+  "text": "framework. We cannot rule out the"
+ },
+ {
+  "start": 166.32,
+  "duration": 3.48,
+  "text": "serious possibility that it is, and so"
+ },
+ {
+  "start": 168.36,
+  "duration": 3.24,
+  "text": "we are going to take steps consistent"
+ },
+ {
+  "start": 169.8,
+  "duration": 3.24,
+  "text": "with the higher risk level, critical,"
+ },
+ {
+  "start": 171.6,
+  "duration": 2.84,
+  "text": "rather than assuming the model is at a"
+ },
+ {
+  "start": 173.04,
+  "duration": 2.76,
+  "text": "lower risk level.\""
+ },
+ {
+  "start": 174.44,
+  "duration": 3.2,
+  "text": "\"Some of these decisions have the effect"
+ },
+ {
+  "start": 175.8,
+  "duration": 3.08,
+  "text": "of slowing down internal development,"
+ },
+ {
+  "start": 177.64,
+  "duration": 2.96,
+  "text": "and in that sense they are costly"
+ },
+ {
+  "start": 178.88,
+  "duration": 3.48,
+  "text": "decisions, but they are the right"
+ },
+ {
+  "start": 180.6,
+  "duration": 3.16,
+  "text": "decisions. I am proud of OpenAI for"
+ },
+ {
+  "start": 182.36,
+  "duration": 2.56,
+  "text": "making them.\""
+ },
+ {
+  "start": 183.76,
+  "duration": 2.92,
+  "text": "Now, a lot of the discourse surrounding"
+ },
+ {
+  "start": 184.92,
+  "duration": 3.24,
+  "text": "this is what sort of changes OpenAI can"
+ },
+ {
+  "start": 186.68,
+  "duration": 3.559,
+  "text": "actually make to the guardrails and"
+ },
+ {
+  "start": 188.16,
+  "duration": 4.16,
+  "text": "monitoring around these models. OpenAI's"
+ },
+ {
+  "start": 190.239,
+  "duration": 3.881,
+  "text": "RSI preparedness lead, Micah Carroll,"
+ },
+ {
+  "start": 192.32,
+  "duration": 2.919,
+  "text": "wrote, \"As part of our response to cyber"
+ },
+ {
+  "start": 194.12,
+  "duration": 2.72,
+  "text": "critical, we've expanded"
+ },
+ {
+  "start": 195.239,
+  "duration": 3.521,
+  "text": "chain-of-thought monitoring to cover all"
+ },
+ {
+  "start": 196.84,
+  "duration": 3.84,
+  "text": "agentic applications of Astra, including"
+ },
+ {
+  "start": 198.76,
+  "duration": 3.32,
+  "text": "training and evaluation. Flags trigger a"
+ },
+ {
+  "start": 200.68,
+  "duration": 3.36,
+  "text": "security response to review and"
+ },
+ {
+  "start": 202.08,
+  "duration": 3.24,
+  "text": "interrupt high-risk activity.\""
+ },
+ {
+  "start": 204.04,
+  "duration": 2.479,
+  "text": "Now, at the same time, there's also some"
+ },
+ {
+  "start": 205.32,
+  "duration": 2.68,
+  "text": "skepticism around that sort of"
+ },
+ {
+  "start": 206.519,
+  "duration": 2.561,
+  "text": "chain-of-thought monitoring, but these"
+ },
+ {
+  "start": 208.0,
+  "duration": 2.44,
+  "text": "are the types of discussions and"
+ },
+ {
+  "start": 209.08,
+  "duration": 3.04,
+  "text": "experiments you're going to see a lot"
+ },
+ {
+  "start": 210.44,
+  "duration": 3.68,
+  "text": "more of now, where I believe there will"
+ },
+ {
+  "start": 212.12,
+  "duration": 3.6,
+  "text": "be a significantly increased investment"
+ },
+ {
+  "start": 214.12,
+  "duration": 3.08,
+  "text": "in the resources to properly support"
+ },
+ {
+  "start": 215.72,
+  "duration": 3.6,
+  "text": "models that won't be able to be released"
+ },
+ {
+  "start": 217.2,
+  "duration": 4.12,
+  "text": "to the public without it."
+ },
+ {
+  "start": 219.32,
+  "duration": 3.6,
+  "text": "Now, speaking of big, powerful models,"
+ },
+ {
+  "start": 221.32,
+  "duration": 3.48,
+  "text": "ByteDance is reportedly training an"
+ },
+ {
+  "start": 222.92,
+  "duration": 4.08,
+  "text": "ultra-large model comparable in size to"
+ },
+ {
+  "start": 224.8,
+  "duration": 3.68,
+  "text": "Mythos. The Financial Times reports that"
+ },
+ {
+  "start": 227.0,
+  "duration": 3.08,
+  "text": "ByteDance is in the early stages of a"
+ },
+ {
+  "start": 228.48,
+  "duration": 2.92,
+  "text": "training run that will result in a base"
+ },
+ {
+  "start": 230.08,
+  "duration": 2.64,
+  "text": "model with as many as 10 trillion"
+ },
+ {
+  "start": 231.4,
+  "duration": 3.28,
+  "text": "parameters."
+ },
+ {
+  "start": 232.72,
+  "duration": 3.44,
+  "text": "So far, we've only seen a couple of"
+ },
+ {
+  "start": 234.68,
+  "duration": 4.24,
+  "text": "large-scale training runs out of Chinese"
+ },
+ {
+  "start": 236.16,
+  "duration": 4.44,
+  "text": "labs with Kimi K3 weighing in at 2.8"
+ },
+ {
+  "start": 238.92,
+  "duration": 4.28,
+  "text": "trillion parameters and Alibaba's Qwen"
+ },
+ {
+  "start": 240.6,
+  "duration": 4.8,
+  "text": "3A Max at 2.4 trillion."
+ },
+ {
+  "start": 243.2,
+  "duration": 3.72,
+  "text": "Anthropic doesn't disclose model sizes,"
+ },
+ {
+  "start": 245.4,
+  "duration": 3.88,
+  "text": "but the best estimates have Mitosis at"
+ },
+ {
+  "start": 246.92,
+  "duration": 4.36,
+  "text": "around 8 trillion and Opus 4 at around 3"
+ },
+ {
+  "start": 249.28,
+  "duration": 3.36,
+  "text": "trillion for some comparison."
+ },
+ {
+  "start": 251.28,
+  "duration": 3.12,
+  "text": "Sources said that the training run could"
+ },
+ {
+  "start": 252.64,
+  "duration": 3.24,
+  "text": "take 3 to 6 months to complete with more"
+ },
+ {
+  "start": 254.4,
+  "duration": 3.36,
+  "text": "time added for reinforcement learning"
+ },
+ {
+  "start": 255.88,
+  "duration": 3.4,
+  "text": "after that. Bytedance also hasn't"
+ },
+ {
+  "start": 257.76,
+  "duration": 3.12,
+  "text": "determined how large the final model"
+ },
+ {
+  "start": 259.28,
+  "duration": 2.92,
+  "text": "will be on release."
+ },
+ {
+  "start": 260.88,
+  "duration": 2.76,
+  "text": "Still, this could be the first Chinese"
+ },
+ {
+  "start": 262.2,
+  "duration": 3.56,
+  "text": "pre-training run that's truly on the"
+ },
+ {
+  "start": 263.64,
+  "duration": 4.36,
+  "text": "frontier. And while model size is not a"
+ },
+ {
+  "start": 265.76,
+  "duration": 3.8,
+  "text": "guarantee of performance, this could put"
+ },
+ {
+  "start": 268.0,
+  "duration": 3.28,
+  "text": "Bytedance back in the conversation for"
+ },
+ {
+  "start": 269.56,
+  "duration": 2.76,
+  "text": "leading Chinese labs."
+ },
+ {
+  "start": 271.28,
+  "duration": 2.24,
+  "text": "That is, of course, all the more"
+ },
+ {
+  "start": 272.32,
+  "duration": 3.0,
+  "text": "relevant if they follow through with"
+ },
+ {
+  "start": 273.52,
+  "duration": 4.12,
+  "text": "their pledge not to distill from Western"
+ },
+ {
+  "start": 275.32,
+  "duration": 3.68,
+  "text": "AI models as reported last week."
+ },
+ {
+  "start": 277.64,
+  "duration": 3.64,
+  "text": "Brookings research fellow Kyle Chan"
+ },
+ {
+  "start": 279.0,
+  "duration": 3.48,
+  "text": "wrote, \"Chinese AI labs seem confident"
+ },
+ {
+  "start": 281.28,
+  "duration": 2.8,
+  "text": "that they have the compute needed to"
+ },
+ {
+  "start": 282.48,
+  "duration": 4.8,
+  "text": "pre-train 5 to 10 trillion parameter"
+ },
+ {
+  "start": 284.08,
+  "duration": 4.839,
+  "text": "models. Somehow, compute does not seem"
+ },
+ {
+  "start": 287.28,
+  "duration": 2.92,
+  "text": "to be such a major bottleneck, at least"
+ },
+ {
+  "start": 288.919,
+  "duration": 3.961,
+  "text": "when it comes to reaching these levels"
+ },
+ {
+  "start": 290.2,
+  "duration": 5.0,
+  "text": "of model size.\" Geopolitics commentator"
+ },
+ {
+  "start": 292.88,
+  "duration": 3.56,
+  "text": "Dmitri Alperovitch responded, \"Why would"
+ },
+ {
+  "start": 295.2,
+  "duration": 2.76,
+  "text": "there be when there are no restrictions"
+ },
+ {
+  "start": 296.44,
+  "duration": 3.04,
+  "text": "on remote access to compute and the"
+ },
+ {
+  "start": 297.96,
+  "duration": 3.76,
+  "text": "export controls on chips are full of"
+ },
+ {
+  "start": 299.48,
+  "duration": 4.439,
+  "text": "holes like Swiss cheese?\""
+ },
+ {
+  "start": 301.72,
+  "duration": 4.36,
+  "text": "Speaking of, some of those holes do seem"
+ },
+ {
+  "start": 303.919,
+  "duration": 4.161,
+  "text": "to be top-of-mind in Washington. Shortly"
+ },
+ {
+  "start": 306.08,
+  "duration": 3.52,
+  "text": "after the release of Kimi K3 last month,"
+ },
+ {
+  "start": 308.08,
+  "duration": 3.0,
+  "text": "The New York Times collated research on"
+ },
+ {
+  "start": 309.6,
+  "duration": 3.44,
+  "text": "the flow of compute from large-scale"
+ },
+ {
+  "start": 311.08,
+  "duration": 3.76,
+  "text": "data centers in Southeast Asia."
+ },
+ {
+  "start": 313.04,
+  "duration": 3.68,
+  "text": "According to SemiAnalysis, the Oracle"
+ },
+ {
+  "start": 314.84,
+  "duration": 4.04,
+  "text": "data center in Malaysia was being used"
+ },
+ {
+  "start": 316.72,
+  "duration": 4.24,
+  "text": "almost exclusively by Bytedance. The"
+ },
+ {
+  "start": 318.88,
+  "duration": 3.88,
+  "text": "data center was powered on in mid-2025"
+ },
+ {
+  "start": 320.96,
+  "duration": 4.48,
+  "text": "and contains over 100,000 Nvidia"
+ },
+ {
+  "start": 322.76,
+  "duration": 4.08,
+  "text": "Blackwell GPUs. Think tank China Talk"
+ },
+ {
+  "start": 325.44,
+  "duration": 4.479,
+  "text": "determined that Oracle makes up around"
+ },
+ {
+  "start": 326.84,
+  "duration": 4.64,
+  "text": "22% of China's total supply of compute."
+ },
+ {
+  "start": 329.919,
+  "duration": 3.721,
+  "text": "Bloomberg also reported last month that"
+ },
+ {
+  "start": 331.48,
+  "duration": 5.16,
+  "text": "Moonshot had access to 20,000 Nvidia"
+ },
+ {
+  "start": 333.64,
+  "duration": 4.84,
+  "text": "H200s to train Kimi K3. This compute was"
+ },
+ {
+  "start": 336.64,
+  "duration": 4.68,
+  "text": "reportedly provided by Alibaba, although"
+ },
+ {
+  "start": 338.48,
+  "duration": 4.92,
+  "text": "they deny the cluster contains H200s."
+ },
+ {
+  "start": 341.32,
+  "duration": 3.64,
+  "text": "Now, an H200 cluster of that size"
+ },
+ {
+  "start": 343.4,
+  "duration": 3.4,
+  "text": "shouldn't be possible under the current"
+ },
+ {
+  "start": 344.96,
+  "duration": 3.76,
+  "text": "export controls as licenses haven't yet"
+ },
+ {
+  "start": 346.8,
+  "duration": 3.72,
+  "text": "been issued. Bloomberg was unable to"
+ },
+ {
+  "start": 348.72,
+  "duration": 3.24,
+  "text": "confirm the location of the cluster, but"
+ },
+ {
+  "start": 350.52,
+  "duration": 3.68,
+  "text": "heavily implied it could be located"
+ },
+ {
+  "start": 351.96,
+  "duration": 3.8,
+  "text": "overseas and rented by Alibaba."
+ },
+ {
+  "start": 354.2,
+  "duration": 2.88,
+  "text": "The information offered conflicting"
+ },
+ {
+  "start": 355.76,
+  "duration": 2.96,
+  "text": "reporting that the training cluster"
+ },
+ {
+  "start": 357.08,
+  "duration": 3.36,
+  "text": "actually contained current generation"
+ },
+ {
+  "start": 358.72,
+  "duration": 3.56,
+  "text": "Blackwell chips. And around the same"
+ },
+ {
+  "start": 360.44,
+  "duration": 3.84,
+  "text": "time, an administration official accused"
+ },
+ {
+  "start": 362.28,
+  "duration": 3.76,
+  "text": "Moonshot of acquiring Blackwell chips"
+ },
+ {
+  "start": 364.28,
+  "duration": 3.0,
+  "text": "and setting them up for remote access in"
+ },
+ {
+  "start": 366.04,
+  "duration": 3.12,
+  "text": "Thailand."
+ },
+ {
+  "start": 367.28,
+  "duration": 3.96,
+  "text": "Now, this is all legal. The export"
+ },
+ {
+  "start": 369.16,
+  "duration": 3.8,
+  "text": "control regime only prohibits the import"
+ },
+ {
+  "start": 371.24,
+  "duration": 2.96,
+  "text": "of advanced chips and does nothing to"
+ },
+ {
+  "start": 372.96,
+  "duration": 2.44,
+  "text": "stop them from being installed in"
+ },
+ {
+  "start": 374.2,
+  "duration": 3.36,
+  "text": "another country and then leased to"
+ },
+ {
+  "start": 375.4,
+  "duration": 4.0,
+  "text": "Chinese firms. During its final weeks,"
+ },
+ {
+  "start": 377.56,
+  "duration": 3.32,
+  "text": "the Biden administration proposed rules"
+ },
+ {
+  "start": 379.4,
+  "duration": 3.28,
+  "text": "that would restrict chip supply routed"
+ },
+ {
+  "start": 380.88,
+  "duration": 3.039,
+  "text": "to third countries, but those rules were"
+ },
+ {
+  "start": 382.68,
+  "duration": 3.16,
+  "text": "scrapped on day one of the Trump"
+ },
+ {
+  "start": 383.919,
+  "duration": 3.441,
+  "text": "administration. The Trump Commerce"
+ },
+ {
+  "start": 385.84,
+  "duration": 3.52,
+  "text": "Department is now reportedly looking"
+ },
+ {
+  "start": 387.36,
+  "duration": 3.72,
+  "text": "into the practice. Per sources familiar"
+ },
+ {
+  "start": 389.36,
+  "duration": 3.28,
+  "text": "with the situation, Bloomberg writes,"
+ },
+ {
+  "start": 391.08,
+  "duration": 2.92,
+  "text": "\"The effort involves compiling a list of"
+ },
+ {
+  "start": 392.64,
+  "duration": 2.96,
+  "text": "countries with alleged black market"
+ },
+ {
+  "start": 394.0,
+  "duration": 3.48,
+  "text": "operations to get restricted Nvidia"
+ },
+ {
+  "start": 395.6,
+  "duration": 3.84,
+  "text": "chips physically into China, well within"
+ },
+ {
+  "start": 397.48,
+  "duration": 3.52,
+  "text": "enforcement's usual purview. But the"
+ },
+ {
+  "start": 399.44,
+  "duration": 3.16,
+  "text": "division will also draw up a list of"
+ },
+ {
+  "start": 401.0,
+  "duration": 3.72,
+  "text": "countries where Chinese firms access the"
+ },
+ {
+  "start": 402.6,
+  "duration": 3.52,
+  "text": "chips remotely, which isn't typically an"
+ },
+ {
+  "start": 404.72,
+  "duration": 3.52,
+  "text": "enforcement question because it's not"
+ },
+ {
+  "start": 406.12,
+  "duration": 4.04,
+  "text": "illegal. Draft rules that prohibit the"
+ },
+ {
+  "start": 408.24,
+  "duration": 3.4,
+  "text": "export of advanced AI chips in Malaysia"
+ },
+ {
+  "start": 410.16,
+  "duration": 2.6,
+  "text": "and Thailand have been circulated, but"
+ },
+ {
+  "start": 411.64,
+  "duration": 2.16,
+  "text": "none have made it past the drawing"
+ },
+ {
+  "start": 412.76,
+  "duration": 2.56,
+  "text": "board.\""
+ },
+ {
+  "start": 413.8,
+  "duration": 3.4,
+  "text": "Part of the issue is the convoluted"
+ },
+ {
+  "start": 415.32,
+  "duration": 3.56,
+  "text": "nature of these arrangements. According"
+ },
+ {
+  "start": 417.2,
+  "duration": 3.12,
+  "text": "to Bloomberg, Alibaba accesses chips in"
+ },
+ {
+  "start": 418.88,
+  "duration": 3.12,
+  "text": "Malaysia through a Singaporean shell"
+ },
+ {
+  "start": 420.32,
+  "duration": 3.08,
+  "text": "company controlled by a Cayman Islands"
+ },
+ {
+  "start": 422.0,
+  "duration": 3.68,
+  "text": "entity, which is ultimately owned by"
+ },
+ {
+  "start": 423.4,
+  "duration": 3.92,
+  "text": "Alibaba. Meaning, of course, that simple"
+ },
+ {
+  "start": 425.68,
+  "duration": 3.68,
+  "text": "identity checks on compute supply are"
+ },
+ {
+  "start": 427.32,
+  "duration": 4.08,
+  "text": "unlikely to be effective. The chips are"
+ },
+ {
+  "start": 429.36,
+  "duration": 3.52,
+  "text": "also installed already, meaning that a"
+ },
+ {
+  "start": 431.4,
+  "duration": 2.92,
+  "text": "forward-looking crackdown on imports"
+ },
+ {
+  "start": 432.88,
+  "duration": 3.4,
+  "text": "would do nothing to the existing data"
+ },
+ {
+  "start": 434.32,
+  "duration": 3.64,
+  "text": "centers."
+ },
+ {
+  "start": 436.28,
+  "duration": 3.04,
+  "text": "Speaking of Alibaba, an interesting"
+ },
+ {
+  "start": 437.96,
+  "duration": 3.44,
+  "text": "business model experiment might be a"
+ },
+ {
+  "start": 439.32,
+  "duration": 4.0,
+  "text": "foot. During last week's release of Qwen"
+ },
+ {
+  "start": 441.4,
+  "duration": 3.4,
+  "text": "3.8 Max, some were surprised that"
+ },
+ {
+  "start": 443.32,
+  "duration": 3.04,
+  "text": "Alibaba would publish the weights to"
+ },
+ {
+  "start": 444.8,
+  "duration": 3.16,
+  "text": "their flagship model."
+ },
+ {
+  "start": 446.36,
+  "duration": 3.559,
+  "text": "Earlier this year, Alibaba had signaled"
+ },
+ {
+  "start": 447.96,
+  "duration": 3.28,
+  "text": "a shift away from open source, with Qwen"
+ },
+ {
+  "start": 449.919,
+  "duration": 3.041,
+  "text": "team founders stepping away from the"
+ },
+ {
+  "start": 451.24,
+  "duration": 3.32,
+  "text": "company, management signaling a more"
+ },
+ {
+  "start": 452.96,
+  "duration": 4.16,
+  "text": "commercial direction, and multiple"
+ },
+ {
+  "start": 454.56,
+  "duration": 4.84,
+  "text": "flagships, including Qwen 3.7, being"
+ },
+ {
+  "start": 457.12,
+  "duration": 4.08,
+  "text": "kept as closed source. That's why folks"
+ },
+ {
+  "start": 459.4,
+  "duration": 3.92,
+  "text": "were very excited to see that Qwen 3.8"
+ },
+ {
+  "start": 461.2,
+  "duration": 3.12,
+  "text": "Max was released with the announcement"
+ },
+ {
+  "start": 463.32,
+  "duration": 2.2,
+  "text": "that the full weights would be"
+ },
+ {
+  "start": 464.32,
+  "duration": 2.56,
+  "text": "forthcoming."
+ },
+ {
+  "start": 465.52,
+  "duration": 3.64,
+  "text": "According to Reuters, however, there is"
+ },
+ {
+  "start": 466.88,
+  "duration": 3.84,
+  "text": "a catch. Reports suggest that Alibaba"
+ },
+ {
+  "start": 469.16,
+  "duration": 3.4,
+  "text": "plans to demand revenue sharing from"
+ },
+ {
+  "start": 470.72,
+  "duration": 3.16,
+  "text": "large commercial users. And while the"
+ },
+ {
+  "start": 472.56,
+  "duration": 3.36,
+  "text": "specifics of revenue sharing deals are"
+ },
+ {
+  "start": 473.88,
+  "duration": 3.76,
+  "text": "still being finalized, we can perhaps"
+ },
+ {
+  "start": 475.92,
+  "duration": 3.6,
+  "text": "look at Moonshot's Kimi K3 release for"
+ },
+ {
+  "start": 477.64,
+  "duration": 3.56,
+  "text": "the blueprint. Moonshot kept the weights"
+ },
+ {
+  "start": 479.52,
+  "duration": 3.08,
+  "text": "proprietary for the first week to ensure"
+ },
+ {
+  "start": 481.2,
+  "duration": 3.44,
+  "text": "that they captured all the curiosity"
+ },
+ {
+  "start": 482.6,
+  "duration": 3.88,
+  "text": "revenue from the release. After that,"
+ },
+ {
+  "start": 484.64,
+  "duration": 3.2,
+  "text": "they reportedly signed 30% revenue"
+ },
+ {
+  "start": 486.48,
+  "duration": 3.36,
+  "text": "sharing deals with all major inference"
+ },
+ {
+  "start": 487.84,
+  "duration": 3.48,
+  "text": "providers, allowing Moonshot to retain"
+ },
+ {
+  "start": 489.84,
+  "duration": 2.8,
+  "text": "pricing power by limiting how much the"
+ },
+ {
+  "start": 491.32,
+  "duration": 3.08,
+  "text": "model can be discounted through other"
+ },
+ {
+  "start": 492.64,
+  "duration": 3.84,
+  "text": "providers. Even now, none of the"
+ },
+ {
+  "start": 494.4,
+  "duration": 4.44,
+  "text": "suppliers on OpenRouter are offering K3"
+ },
+ {
+  "start": 496.48,
+  "duration": 3.68,
+  "text": "for more than a 7% discount. Paddy"
+ },
+ {
+  "start": 498.84,
+  "duration": 3.04,
+  "text": "Srinivasan, the CEO of inference"
+ },
+ {
+  "start": 500.16,
+  "duration": 4.2,
+  "text": "provider DigitalOcean, described this as"
+ },
+ {
+  "start": 501.88,
+  "duration": 4.4,
+  "text": "the freemium model for AI. And Korean"
+ },
+ {
+  "start": 504.36,
+  "duration": 3.2,
+  "text": "aggregator Cozy Bear added, \"Everyone is"
+ },
+ {
+  "start": 506.28,
+  "duration": 2.6,
+  "text": "trying to figure out how to get paid for"
+ },
+ {
+  "start": 507.56,
+  "duration": 3.32,
+  "text": "open weights, and revenue share is the"
+ },
+ {
+  "start": 508.88,
+  "duration": 3.599,
+  "text": "most honest attempt so far. It doesn't"
+ },
+ {
+  "start": 510.88,
+  "duration": 2.96,
+  "text": "pretend the model itself is the product."
+ },
+ {
+  "start": 512.479,
+  "duration": 3.081,
+  "text": "It treats the model as infrastructure"
+ },
+ {
+  "start": 513.84,
+  "duration": 3.52,
+  "text": "with a toll booth. The interesting"
+ },
+ {
+  "start": 515.56,
+  "duration": 3.2,
+  "text": "part,\" they continue, \"is enforcement."
+ },
+ {
+  "start": 517.36,
+  "duration": 2.84,
+  "text": "You can't track who's making money on"
+ },
+ {
+  "start": 518.76,
+  "duration": 3.68,
+  "text": "top of your weights, so this is mostly"
+ },
+ {
+  "start": 520.2,
+  "duration": 3.519,
+  "text": "as a signal to enterprises. Use Qwen,"
+ },
+ {
+  "start": 522.44,
+  "duration": 3.6,
+  "text": "and when you win, we want a seat at the"
+ },
+ {
+  "start": 523.719,
+  "duration": 5.12,
+  "text": "table. More like a relationship contract"
+ },
+ {
+  "start": 526.04,
+  "duration": 5.24,
+  "text": "than a tax. Open-source AI just entered"
+ },
+ {
+  "start": 528.839,
+  "duration": 4.401,
+  "text": "its licensing era.\""
+ },
+ {
+  "start": 531.28,
+  "duration": 3.6,
+  "text": "Lastly today, one functional update."
+ },
+ {
+  "start": 533.24,
+  "duration": 3.92,
+  "text": "Auto mode is now the default for Claude"
+ },
+ {
+  "start": 534.88,
+  "duration": 4.24,
+  "text": "code, marking a big transition point for"
+ },
+ {
+  "start": 537.16,
+  "duration": 3.64,
+  "text": "work automation. Auto mode allows the"
+ },
+ {
+  "start": 539.12,
+  "duration": 3.64,
+  "text": "user to set Claude on a task that gets"
+ },
+ {
+  "start": 540.8,
+  "duration": 3.4,
+  "text": "completed without interruption. Claude"
+ },
+ {
+  "start": 542.76,
+  "duration": 4.0,
+  "text": "will only prompt the user if a code"
+ },
+ {
+  "start": 544.2,
+  "duration": 4.16,
+  "text": "change is extremely significant, i.e.,"
+ },
+ {
+  "start": 546.76,
+  "duration": 3.48,
+  "text": "irreversible, destructive, or aimed at"
+ },
+ {
+  "start": 548.36,
+  "duration": 3.12,
+  "text": "something outside of your environment."
+ },
+ {
+  "start": 550.24,
+  "duration": 2.72,
+  "text": "Auto mode was first introduced as a"
+ },
+ {
+  "start": 551.48,
+  "duration": 2.76,
+  "text": "preview feature in March, with the"
+ },
+ {
+  "start": 552.96,
+  "duration": 3.64,
+  "text": "version prior to that being the"
+ },
+ {
+  "start": 554.24,
+  "duration": 3.88,
+  "text": "dangerously skip permissions command."
+ },
+ {
+  "start": 556.6,
+  "duration": 3.12,
+  "text": "The alternative to that was hitting"
+ },
+ {
+  "start": 558.12,
+  "duration": 2.84,
+  "text": "enter every couple of minutes to skip"
+ },
+ {
+  "start": 559.72,
+  "duration": 3.68,
+  "text": "the latest notification and keep the"
+ },
+ {
+  "start": 560.96,
+  "duration": 4.36,
+  "text": "session going. After iterating on auto"
+ },
+ {
+  "start": 563.4,
+  "duration": 3.439,
+  "text": "mode, however, Anthropic now believes"
+ },
+ {
+  "start": 565.32,
+  "duration": 3.28,
+  "text": "that skipping permissions isn't that"
+ },
+ {
+  "start": 566.839,
+  "duration": 3.241,
+  "text": "dangerous, and in fact could actually be"
+ },
+ {
+  "start": 568.6,
+  "duration": 3.68,
+  "text": "safer than seeing a prompt for every"
+ },
+ {
+  "start": 570.08,
+  "duration": 4.04,
+  "text": "code change. They conducted a study with"
+ },
+ {
+  "start": 572.28,
+  "duration": 4.44,
+  "text": "over 1,000 testers, finding that auto"
+ },
+ {
+  "start": 574.12,
+  "duration": 4.96,
+  "text": "mode caught 89% of harmful actions."
+ },
+ {
+  "start": 576.72,
+  "duration": 4.28,
+  "text": "Human reviewers only caught 13.6% of"
+ },
+ {
+  "start": 579.08,
+  "duration": 3.28,
+  "text": "harmful code changes. Anthropic"
+ },
+ {
+  "start": 581.0,
+  "duration": 3.28,
+  "text": "suggested this is down to approvals"
+ },
+ {
+  "start": 582.36,
+  "duration": 4.88,
+  "text": "becoming basically automatic with their"
+ },
+ {
+  "start": 584.28,
+  "duration": 4.2,
+  "text": "users approving 97% of code changes."
+ },
+ {
+  "start": 587.24,
+  "duration": 2.76,
+  "text": "One of the interesting things about the"
+ },
+ {
+  "start": 588.48,
+  "duration": 3.16,
+  "text": "evolution of auto mode is that it has"
+ },
+ {
+  "start": 590.0,
+  "duration": 3.76,
+  "text": "forced Claude code to work in a safer"
+ },
+ {
+  "start": 591.64,
+  "duration": 3.88,
+  "text": "way. The system uses a classifier to"
+ },
+ {
+  "start": 593.76,
+  "duration": 3.36,
+  "text": "detect destructive or irreversible code"
+ },
+ {
+  "start": 595.52,
+  "duration": 3.2,
+  "text": "changes and block them, and when this"
+ },
+ {
+  "start": 597.12,
+  "duration": 3.36,
+  "text": "happens, Claude typically finds a safer"
+ },
+ {
+  "start": 598.72,
+  "duration": 3.36,
+  "text": "way to achieve its goal. Only once it"
+ },
+ {
+  "start": 600.48,
+  "duration": 3.4,
+  "text": "runs out of safer options does it alert"
+ },
+ {
+  "start": 602.08,
+  "duration": 3.8,
+  "text": "the user. Auto mode will now be the"
+ },
+ {
+  "start": 603.88,
+  "duration": 3.36,
+  "text": "default for pro, max, and team plans,"
+ },
+ {
+  "start": 605.88,
+  "duration": 3.12,
+  "text": "but will remain opt-in for the"
+ },
+ {
+  "start": 607.24,
+  "duration": 3.08,
+  "text": "enterprise. Still, when it comes to"
+ },
+ {
+  "start": 609.0,
+  "duration": 3.04,
+  "text": "those enterprise users, Anthropic"
+ },
+ {
+  "start": 610.32,
+  "duration": 3.56,
+  "text": "suggests there are significant benefits"
+ },
+ {
+  "start": 612.04,
+  "duration": 4.44,
+  "text": "to using auto mode. They claim that auto"
+ },
+ {
+  "start": 613.88,
+  "duration": 4.44,
+  "text": "mode users ship 25% more PRs, and that"
+ },
+ {
+  "start": 616.48,
+  "duration": 3.96,
+  "text": "many organizations, including Adobe,"
+ },
+ {
+  "start": 618.32,
+  "duration": 3.4,
+  "text": "Gusto, and Garner Health, are already"
+ },
+ {
+  "start": 620.44,
+  "duration": 3.28,
+  "text": "running auto mode as their production"
+ },
+ {
+  "start": 621.72,
+  "duration": 3.76,
+  "text": "default. For the team at Anthropic,"
+ },
+ {
+  "start": 623.72,
+  "duration": 3.52,
+  "text": "perhaps unsurprisingly, auto mode is the"
+ },
+ {
+  "start": 625.48,
+  "duration": 3.76,
+  "text": "default, with Claude code creator Boris"
+ },
+ {
+  "start": 627.24,
+  "duration": 3.48,
+  "text": "Cherny commenting, \"The team and I use"
+ },
+ {
+  "start": 629.24,
+  "duration": 3.24,
+  "text": "auto mode exclusively and have been for"
+ },
+ {
+  "start": 630.72,
+  "duration": 3.44,
+  "text": "many months. I couldn't imagine going"
+ },
+ {
+  "start": 632.48,
+  "duration": 3.84,
+  "text": "back to permission prompts. Really"
+ },
+ {
+  "start": 634.16,
+  "duration": 3.52,
+  "text": "excited to get this out to everyone.\""
+ },
+ {
+  "start": 636.32,
+  "duration": 3.36,
+  "text": "The ascendancy of auto mode is another"
+ },
+ {
+  "start": 637.68,
+  "duration": 3.88,
+  "text": "example of how our default patterns of"
+ },
+ {
+  "start": 639.68,
+  "duration": 3.84,
+  "text": "interacting with AI are changing, which"
+ },
+ {
+  "start": 641.56,
+  "duration": 4.44,
+  "text": "provides the perfect segue to our main"
+ },
+ {
+  "start": 643.52,
+  "duration": 5.56,
+  "text": "episode, a primer on the latest buzzy"
+ },
+ {
+  "start": 646.0,
+  "duration": 4.839,
+  "text": "buzzword, graph engineering."
+ },
+ {
+  "start": 649.08,
+  "duration": 5.28,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 650.839,
+  "duration": 6.721,
+  "text": "Today we are discussing the latest buzzy"
+ },
+ {
+  "start": 654.36,
+  "duration": 4.56,
+  "text": "term on AI Twitter, which is graph"
+ },
+ {
+  "start": 657.56,
+  "duration": 2.64,
+  "text": "engineering."
+ },
+ {
+  "start": 658.92,
+  "duration": 3.56,
+  "text": "Now, this one, admittedly, is a little"
+ },
+ {
+  "start": 660.2,
+  "duration": 4.56,
+  "text": "confusing because, A, it sort of started"
+ },
+ {
+  "start": 662.48,
+  "duration": 3.96,
+  "text": "tongue-in-cheek, and B, depending on"
+ },
+ {
+  "start": 664.76,
+  "duration": 3.56,
+  "text": "who's talking about it, it kind of is"
+ },
+ {
+  "start": 666.44,
+  "duration": 3.56,
+  "text": "describing two different things."
+ },
+ {
+  "start": 668.32,
+  "duration": 4.56,
+  "text": "But, I actually think that the concept,"
+ },
+ {
+  "start": 670.0,
+  "duration": 5.28,
+  "text": "at least, is useful to situate relative"
+ },
+ {
+  "start": 672.88,
+  "duration": 3.88,
+  "text": "to the lineage of engineerings we've had"
+ },
+ {
+  "start": 675.28,
+  "duration": 3.08,
+  "text": "from prompt to context to harness to"
+ },
+ {
+  "start": 676.76,
+  "duration": 2.76,
+  "text": "loop, and so I think it's worth doing"
+ },
+ {
+  "start": 678.36,
+  "duration": 2.8,
+  "text": "this primer."
+ },
+ {
+  "start": 679.52,
+  "duration": 3.76,
+  "text": "And indeed, this is definitely more a"
+ },
+ {
+  "start": 681.16,
+  "duration": 4.32,
+  "text": "primer on graft engineering than a"
+ },
+ {
+  "start": 683.28,
+  "duration": 3.36,
+  "text": "complete guide to graft engineering. I"
+ },
+ {
+  "start": 685.48,
+  "duration": 3.52,
+  "text": "want to bring you up to speed on what"
+ },
+ {
+  "start": 686.64,
+  "duration": 3.6,
+  "text": "this term is and why I think it matters."
+ },
+ {
+  "start": 689.0,
+  "duration": 2.88,
+  "text": "So, the tweet that kind of kicked off"
+ },
+ {
+  "start": 690.24,
+  "duration": 3.6,
+  "text": "this discourse came from Open claw"
+ },
+ {
+  "start": 691.88,
+  "duration": 4.12,
+  "text": "creator Peter Steinberger."
+ },
+ {
+  "start": 693.84,
+  "duration": 4.12,
+  "text": "Back in mid-July, he wrote, \"Are we"
+ },
+ {
+  "start": 696.0,
+  "duration": 4.2,
+  "text": "still talking loops or did we shift to"
+ },
+ {
+  "start": 697.96,
+  "duration": 3.48,
+  "text": "graphs yet?\" AI creator Matthew Berman"
+ },
+ {
+  "start": 700.2,
+  "duration": 3.88,
+  "text": "captured the feelings of many when he"
+ },
+ {
+  "start": 701.44,
+  "duration": 4.96,
+  "text": "said, \"Bro, stop. I'm on vacation.\""
+ },
+ {
+  "start": 704.08,
+  "duration": 4.36,
+  "text": "And while almost immediately the Twitter"
+ },
+ {
+  "start": 706.4,
+  "duration": 3.84,
+  "text": "article boosters got to work, big bold"
+ },
+ {
+  "start": 708.44,
+  "duration": 3.52,
+  "text": "declarations like loop engineering is"
+ },
+ {
+  "start": 710.24,
+  "duration": 3.48,
+  "text": "dead, long live graph engineering were"
+ },
+ {
+  "start": 711.96,
+  "duration": 3.32,
+  "text": "visible all over the place."
+ },
+ {
+  "start": 713.72,
+  "duration": 3.2,
+  "text": "But after this initial phase of hype and"
+ },
+ {
+  "start": 715.28,
+  "duration": 3.2,
+  "text": "bluster, there is in fact actually"
+ },
+ {
+  "start": 716.92,
+  "duration": 3.32,
+  "text": "something interesting here."
+ },
+ {
+  "start": 718.48,
+  "duration": 3.48,
+  "text": "So, let's talk about all of the things"
+ },
+ {
+  "start": 720.24,
+  "duration": 3.76,
+  "text": "that have had engineering around them."
+ },
+ {
+  "start": 721.96,
+  "duration": 3.96,
+  "text": "The first blank engineering that we had"
+ },
+ {
+  "start": 724.0,
+  "duration": 3.92,
+  "text": "was of course prompt engineering. This"
+ },
+ {
+  "start": 725.92,
+  "duration": 4.68,
+  "text": "was what a lot of the AI courses around"
+ },
+ {
+  "start": 727.92,
+  "duration": 4.24,
+  "text": "'23 and early 2024 were all about. And"
+ },
+ {
+  "start": 730.6,
+  "duration": 3.56,
+  "text": "depending on which corporation you look"
+ },
+ {
+  "start": 732.16,
+  "duration": 4.4,
+  "text": "at, still unfortunately the substance of"
+ },
+ {
+  "start": 734.16,
+  "duration": 4.08,
+  "text": "a lot of those upskilling courses today."
+ },
+ {
+  "start": 736.56,
+  "duration": 3.08,
+  "text": "The idea of prompt engineering was a"
+ },
+ {
+  "start": 738.24,
+  "duration": 3.76,
+  "text": "recognition even then that we were"
+ },
+ {
+  "start": 739.64,
+  "duration": 4.28,
+  "text": "shifting how we did work. Instead of"
+ },
+ {
+  "start": 742.0,
+  "duration": 3.92,
+  "text": "doing all the work ourselves, we were"
+ },
+ {
+  "start": 743.92,
+  "duration": 3.88,
+  "text": "deputizing an AI chatbot to do some"
+ },
+ {
+  "start": 745.92,
+  "duration": 3.36,
+  "text": "amount of that work. Now, whether that"
+ },
+ {
+  "start": 747.8,
+  "duration": 3.4,
+  "text": "was final production or just some"
+ },
+ {
+  "start": 749.28,
+  "duration": 3.92,
+  "text": "intermediate step like research, we"
+ },
+ {
+  "start": 751.2,
+  "duration": 3.6,
+  "text": "still needed to find ways to optimize"
+ },
+ {
+  "start": 753.2,
+  "duration": 2.8,
+  "text": "what we were asking for to get the best"
+ },
+ {
+  "start": 754.8,
+  "duration": 3.68,
+  "text": "results."
+ },
+ {
+  "start": 756.0,
+  "duration": 3.68,
+  "text": "That was prompt engineering. At various"
+ },
+ {
+  "start": 758.48,
+  "duration": 2.72,
+  "text": "points in the life cycle of prompt"
+ },
+ {
+  "start": 759.68,
+  "duration": 3.48,
+  "text": "engineering, you had tips and tricks"
+ },
+ {
+  "start": 761.2,
+  "duration": 4.36,
+  "text": "ranging from telling the AI to pretend"
+ },
+ {
+  "start": 763.16,
+  "duration": 4.84,
+  "text": "it was a certain type of person to fancy"
+ },
+ {
+  "start": 765.56,
+  "duration": 4.04,
+  "text": "JSON engineering which used this complex"
+ },
+ {
+  "start": 768.0,
+  "duration": 3.48,
+  "text": "way of typing to theoretically better"
+ },
+ {
+  "start": 769.6,
+  "duration": 3.88,
+  "text": "structure requests, and we kind of had"
+ },
+ {
+  "start": 771.48,
+  "duration": 4.44,
+  "text": "every other thing in between as well."
+ },
+ {
+  "start": 773.48,
+  "duration": 4.24,
+  "text": "Heading into 2025, however, we started"
+ },
+ {
+  "start": 775.92,
+  "duration": 3.919,
+  "text": "recognizing that the prompt was only one"
+ },
+ {
+  "start": 777.72,
+  "duration": 3.64,
+  "text": "part of getting the most out of AI. We"
+ },
+ {
+  "start": 779.839,
+  "duration": 3.441,
+  "text": "didn't just need to be good at asking"
+ },
+ {
+  "start": 781.36,
+  "duration": 3.88,
+  "text": "for things in the right way, we also"
+ },
+ {
+  "start": 783.28,
+  "duration": 3.52,
+  "text": "needed to be good at giving AI all of"
+ },
+ {
+  "start": 785.24,
+  "duration": 3.24,
+  "text": "the information and knowledge it needed"
+ },
+ {
+  "start": 786.8,
+  "duration": 4.44,
+  "text": "to do a good job with whatever that"
+ },
+ {
+  "start": 788.48,
+  "duration": 4.64,
+  "text": "prompt was. To take a simple example, if"
+ },
+ {
+  "start": 791.24,
+  "duration": 3.72,
+  "text": "you're asking your LLM to create a"
+ },
+ {
+  "start": 793.12,
+  "duration": 3.04,
+  "text": "highly successful on-brand marketing"
+ },
+ {
+  "start": 794.96,
+  "duration": 2.56,
+  "text": "campaign,"
+ },
+ {
+  "start": 796.16,
+  "duration": 3.08,
+  "text": "well, first of all, it needs to know"
+ },
+ {
+  "start": 797.52,
+  "duration": 3.319,
+  "text": "what on-brand is, which means giving it"
+ },
+ {
+  "start": 799.24,
+  "duration": 3.0,
+  "text": "access to brand guidelines and"
+ },
+ {
+  "start": 800.839,
+  "duration": 3.641,
+  "text": "potentially other write-ups in the past"
+ },
+ {
+  "start": 802.24,
+  "duration": 3.68,
+  "text": "about things like brand values. And in"
+ },
+ {
+  "start": 804.48,
+  "duration": 3.4,
+  "text": "order to have it not just be guessing at"
+ },
+ {
+  "start": 805.92,
+  "duration": 3.8,
+  "text": "what good means, it would probably be"
+ },
+ {
+  "start": 807.88,
+  "duration": 3.6,
+  "text": "helpful to give it stats and analytics"
+ },
+ {
+  "start": 809.72,
+  "duration": 3.52,
+  "text": "from previous marketing campaigns,"
+ },
+ {
+  "start": 811.48,
+  "duration": 3.76,
+  "text": "perhaps with some subjective reflections"
+ },
+ {
+  "start": 813.24,
+  "duration": 4.2,
+  "text": "on what worked and what didn't as well."
+ },
+ {
+  "start": 815.24,
+  "duration": 4.72,
+  "text": "That body of information that surrounds"
+ },
+ {
+  "start": 817.44,
+  "duration": 4.4,
+  "text": "the prompt is the context. Context"
+ },
+ {
+  "start": 819.96,
+  "duration": 3.4,
+  "text": "engineering was all about making sure"
+ },
+ {
+  "start": 821.84,
+  "duration": 3.28,
+  "text": "that all of that type of information was"
+ },
+ {
+  "start": 823.36,
+  "duration": 3.32,
+  "text": "accessible in the right way."
+ },
+ {
+  "start": 825.12,
+  "duration": 3.0,
+  "text": "Now, here at this point, we also have an"
+ },
+ {
+  "start": 826.68,
+  "duration": 2.64,
+  "text": "interesting split, which I think we're"
+ },
+ {
+  "start": 828.12,
+  "duration": 2.88,
+  "text": "going to see once again with this latest"
+ },
+ {
+  "start": 829.32,
+  "duration": 3.28,
+  "text": "graph engineering term."
+ },
+ {
+  "start": 831.0,
+  "duration": 3.16,
+  "text": "The split, broadly speaking, is between"
+ },
+ {
+  "start": 832.6,
+  "duration": 3.0,
+  "text": "technical folks and software developers"
+ },
+ {
+  "start": 834.16,
+  "duration": 3.4,
+  "text": "and everyone else."
+ },
+ {
+  "start": 835.6,
+  "duration": 3.72,
+  "text": "For the software developers, context"
+ },
+ {
+  "start": 837.56,
+  "duration": 3.88,
+  "text": "engineering wasn't just a matter of"
+ },
+ {
+  "start": 839.32,
+  "duration": 4.4,
+  "text": "making sure that your AI had access to"
+ },
+ {
+  "start": 841.44,
+  "duration": 5.08,
+  "text": "the right files for the job. It was, in"
+ },
+ {
+  "start": 843.72,
+  "duration": 4.44,
+  "text": "fact, an actual engineering task. It was"
+ },
+ {
+  "start": 846.52,
+  "duration": 3.48,
+  "text": "thinking about not just what information"
+ },
+ {
+  "start": 848.16,
+  "duration": 3.72,
+  "text": "is useful, but designing the technical"
+ },
+ {
+  "start": 850.0,
+  "duration": 4.04,
+  "text": "systems by which the AI could traverse"
+ },
+ {
+  "start": 851.88,
+  "duration": 3.48,
+  "text": "the web of accessible context in a way"
+ },
+ {
+  "start": 854.04,
+  "duration": 3.68,
+  "text": "that didn't just spend the entire"
+ },
+ {
+  "start": 855.36,
+  "duration": 3.72,
+  "text": "context window. On this side, context"
+ },
+ {
+  "start": 857.72,
+  "duration": 3.44,
+  "text": "engineers were actually thinking in"
+ },
+ {
+  "start": 859.08,
+  "duration": 3.28,
+  "text": "terms of context budgets, making sure,"
+ },
+ {
+  "start": 861.16,
+  "duration": 3.0,
+  "text": "for example, as they were designing"
+ },
+ {
+  "start": 862.36,
+  "duration": 3.28,
+  "text": "applications, that certain parts of a"
+ },
+ {
+  "start": 864.16,
+  "duration": 3.24,
+  "text": "process didn't get bogged down in"
+ },
+ {
+  "start": 865.64,
+  "duration": 3.48,
+  "text": "context, while others could go deeper"
+ },
+ {
+  "start": 867.4,
+  "duration": 3.24,
+  "text": "when they needed it. So, here we have"
+ },
+ {
+  "start": 869.12,
+  "duration": 3.76,
+  "text": "context broadly referring to the same"
+ },
+ {
+  "start": 870.64,
+  "duration": 4.24,
+  "text": "thing, but engineering being a literal"
+ },
+ {
+  "start": 872.88,
+  "duration": 4.04,
+  "text": "engineering task for the engineers and a"
+ },
+ {
+  "start": 874.88,
+  "duration": 3.84,
+  "text": "mindset for everyone else in terms of"
+ },
+ {
+  "start": 876.92,
+  "duration": 3.919,
+  "text": "how they organized information around"
+ },
+ {
+  "start": 878.72,
+  "duration": 3.64,
+  "text": "the LLMs that they were using. Now, this"
+ },
+ {
+  "start": 880.839,
+  "duration": 3.081,
+  "text": "year, just like everything else has sped"
+ },
+ {
+  "start": 882.36,
+  "duration": 3.64,
+  "text": "up, we've also had a speed up in the"
+ },
+ {
+  "start": 883.92,
+  "duration": 4.16,
+  "text": "succession of blank engineering type of"
+ },
+ {
+  "start": 886.0,
+  "duration": 4.04,
+  "text": "terms. Starting with, you've probably"
+ },
+ {
+  "start": 888.08,
+  "duration": 3.12,
+  "text": "heard me talk about harness engineering."
+ },
+ {
+  "start": 890.04,
+  "duration": 3.44,
+  "text": "The harness is, of course, the"
+ },
+ {
+  "start": 891.2,
+  "duration": 3.48,
+  "text": "environment that exists around a model."
+ },
+ {
+  "start": 893.48,
+  "duration": 2.76,
+  "text": "On a simple level, that might be an"
+ },
+ {
+  "start": 894.68,
+  "duration": 3.12,
+  "text": "actual software tool like Claude, Code,"
+ },
+ {
+  "start": 896.24,
+  "duration": 2.8,
+  "text": "and Codex, but the more expansive"
+ },
+ {
+  "start": 897.8,
+  "duration": 2.96,
+  "text": "definition of harness includes"
+ },
+ {
+  "start": 899.04,
+  "duration": 4.04,
+  "text": "everything from the tools to the"
+ },
+ {
+  "start": 900.76,
+  "duration": 4.4,
+  "text": "permission sets to the skills files that"
+ },
+ {
+  "start": 903.08,
+  "duration": 3.36,
+  "text": "an AI or agent has available to it to do"
+ },
+ {
+  "start": 905.16,
+  "duration": 3.48,
+  "text": "its work."
+ },
+ {
+  "start": 906.44,
+  "duration": 3.48,
+  "text": "Throughout 2026, people have become more"
+ },
+ {
+  "start": 908.64,
+  "duration": 3.48,
+  "text": "and more comfortable with the idea that"
+ },
+ {
+  "start": 909.92,
+  "duration": 3.88,
+  "text": "the agent is actually a combination of"
+ },
+ {
+  "start": 912.12,
+  "duration": 3.68,
+  "text": "the model and the harness that surrounds"
+ },
+ {
+  "start": 913.8,
+  "duration": 3.4,
+  "text": "it. This is why, for example, frequently"
+ },
+ {
+  "start": 915.8,
+  "duration": 3.12,
+  "text": "when we're getting new benchmarks,"
+ },
+ {
+  "start": 917.2,
+  "duration": 3.32,
+  "text": "companies will now explain what harness"
+ },
+ {
+  "start": 918.92,
+  "duration": 4.0,
+  "text": "the benchmarks were running, as that's"
+ },
+ {
+  "start": 920.52,
+  "duration": 3.28,
+  "text": "actually an important part of the story."
+ },
+ {
+  "start": 922.92,
+  "duration": 2.6,
+  "text": "Now, when it comes to harness"
+ },
+ {
+  "start": 923.8,
+  "duration": 3.8,
+  "text": "engineering, once again, we've got two"
+ },
+ {
+  "start": 925.52,
+  "duration": 3.52,
+  "text": "very different meanings of engineering."
+ },
+ {
+  "start": 927.6,
+  "duration": 2.6,
+  "text": "There are of course the actual engineers"
+ },
+ {
+  "start": 929.04,
+  "duration": 2.92,
+  "text": "and software developers who have been"
+ },
+ {
+  "start": 930.2,
+  "duration": 3.32,
+  "text": "building different and better harnesses"
+ },
+ {
+  "start": 931.96,
+  "duration": 3.32,
+  "text": "and trying to advance our understanding"
+ },
+ {
+  "start": 933.52,
+  "duration": 3.4,
+  "text": "of harnesses in general. And then"
+ },
+ {
+  "start": 935.28,
+  "duration": 3.2,
+  "text": "there's the more individualist sense of"
+ },
+ {
+  "start": 936.92,
+  "duration": 3.6,
+  "text": "harness engineering, which is about"
+ },
+ {
+  "start": 938.48,
+  "duration": 3.8,
+  "text": "things like which skills you surround"
+ },
+ {
+  "start": 940.52,
+  "duration": 3.28,
+  "text": "your agents with and what tools they"
+ },
+ {
+  "start": 942.28,
+  "duration": 3.32,
+  "text": "have access to."
+ },
+ {
+  "start": 943.8,
+  "duration": 3.92,
+  "text": "Now, you'll see here that as each of"
+ },
+ {
+  "start": 945.6,
+  "duration": 4.12,
+  "text": "these new terms comes online, it's not"
+ },
+ {
+  "start": 947.72,
+  "duration": 3.24,
+  "text": "like the old one goes away. Prompt"
+ },
+ {
+  "start": 949.72,
+  "duration": 2.6,
+  "text": "engineering is certainly the one where"
+ },
+ {
+  "start": 950.96,
+  "duration": 2.96,
+  "text": "there's probably at this point the least"
+ },
+ {
+  "start": 952.32,
+  "duration": 2.8,
+  "text": "leverage to be had, but it's not like"
+ },
+ {
+  "start": 953.92,
+  "duration": 2.76,
+  "text": "because we started to understand the"
+ },
+ {
+  "start": 955.12,
+  "duration": 3.48,
+  "text": "value of harnesses, all of a sudden"
+ },
+ {
+  "start": 956.68,
+  "duration": 3.68,
+  "text": "context stopped mattering. In fact,"
+ },
+ {
+  "start": 958.6,
+  "duration": 3.32,
+  "text": "quite the opposite, the harness became a"
+ },
+ {
+  "start": 960.36,
+  "duration": 3.56,
+  "text": "new context for that context"
+ },
+ {
+  "start": 961.92,
+  "duration": 3.32,
+  "text": "engineering. So, we've got the prompt"
+ },
+ {
+  "start": 963.92,
+  "duration": 2.68,
+  "text": "which controls the instructions, we've"
+ },
+ {
+  "start": 965.24,
+  "duration": 3.44,
+  "text": "got context which controls what the"
+ },
+ {
+  "start": 966.6,
+  "duration": 4.2,
+  "text": "model sees, the harness which controls"
+ },
+ {
+  "start": 968.68,
+  "duration": 4.56,
+  "text": "the environment, and that brings us to"
+ },
+ {
+  "start": 970.8,
+  "duration": 4.32,
+  "text": "the loop, which controls the iteration"
+ },
+ {
+  "start": 973.24,
+  "duration": 3.0,
+  "text": "that an agent goes through to accomplish"
+ },
+ {
+  "start": 975.12,
+  "duration": 2.28,
+  "text": "a goal."
+ },
+ {
+  "start": 976.24,
+  "duration": 2.56,
+  "text": "Loops or loop engineering, which has"
+ },
+ {
+  "start": 977.4,
+  "duration": 2.6,
+  "text": "become a big topic over the last few"
+ },
+ {
+  "start": 978.8,
+  "duration": 2.8,
+  "text": "months, is about"
+ },
+ {
+  "start": 980.0,
+  "duration": 3.44,
+  "text": ">> thinking about your relationship with"
+ },
+ {
+  "start": 981.6,
+  "duration": 3.48,
+  "text": "agents in different ways."
+ },
+ {
+  "start": 983.44,
+  "duration": 3.2,
+  "text": "The canonical short explanation once"
+ },
+ {
+  "start": 985.08,
+  "duration": 3.48,
+  "text": "again came from Open Claw's Peter"
+ },
+ {
+  "start": 986.64,
+  "duration": 3.96,
+  "text": "Steinberger who said, \"You shouldn't be"
+ },
+ {
+  "start": 988.56,
+  "duration": 3.84,
+  "text": "prompting coding agents anymore. You"
+ },
+ {
+  "start": 990.6,
+  "duration": 3.16,
+  "text": "should be designing loops that prompt"
+ },
+ {
+  "start": 992.4,
+  "duration": 3.439,
+  "text": "your agents.\""
+ },
+ {
+  "start": 993.76,
+  "duration": 5.0,
+  "text": "Loops are the systems by which an agent"
+ },
+ {
+  "start": 995.839,
+  "duration": 5.201,
+  "text": "can observe, plan, act, check results,"
+ },
+ {
+  "start": 998.76,
+  "duration": 4.0,
+  "text": "and repeat until some measurable stop"
+ },
+ {
+  "start": 1001.04,
+  "duration": 3.04,
+  "text": "condition is reached."
+ },
+ {
+  "start": 1002.76,
+  "duration": 2.88,
+  "text": "As we've discussed in the past on this"
+ },
+ {
+  "start": 1004.08,
+  "duration": 3.04,
+  "text": "show, one of the big challenges for"
+ },
+ {
+  "start": 1005.64,
+  "duration": 3.72,
+  "text": "non-engineers who have been trying to"
+ },
+ {
+  "start": 1007.12,
+  "duration": 3.92,
+  "text": "put loops to work is in figuring out"
+ },
+ {
+  "start": 1009.36,
+  "duration": 3.16,
+  "text": "which aspects of their knowledge work"
+ },
+ {
+  "start": 1011.04,
+  "duration": 2.72,
+  "text": "have those sort of measurable stop"
+ },
+ {
+  "start": 1012.52,
+  "duration": 2.36,
+  "text": "conditions."
+ },
+ {
+  "start": 1013.76,
+  "duration": 2.72,
+  "text": "One of the things that we discussed in"
+ },
+ {
+  "start": 1014.88,
+  "duration": 3.76,
+  "text": "my show about loops from a month or two"
+ },
+ {
+  "start": 1016.48,
+  "duration": 3.72,
+  "text": "ago was this idea that in some cases"
+ },
+ {
+  "start": 1018.64,
+  "duration": 3.36,
+  "text": "where there wasn't a natural measurable"
+ },
+ {
+  "start": 1020.2,
+  "duration": 3.52,
+  "text": "condition to get an agent working in"
+ },
+ {
+  "start": 1022.0,
+  "duration": 3.0,
+  "text": "this sort of loop, you were going to"
+ },
+ {
+  "start": 1023.72,
+  "duration": 2.8,
+  "text": "have to precisely define something"
+ },
+ {
+  "start": 1025.0,
+  "duration": 2.88,
+  "text": "measurable like that to actually get the"
+ },
+ {
+  "start": 1026.52,
+  "duration": 2.84,
+  "text": "loop to work."
+ },
+ {
+  "start": 1027.88,
+  "duration": 3.88,
+  "text": "But what you'll notice here is that a"
+ },
+ {
+  "start": 1029.36,
+  "duration": 5.479,
+  "text": "loop is about how to get the most out of"
+ },
+ {
+  "start": 1031.76,
+  "duration": 5.24,
+  "text": "a single agent or agentic process. It is"
+ },
+ {
+  "start": 1034.839,
+  "duration": 3.6,
+  "text": "a work backwards from a specific goal"
+ },
+ {
+  "start": 1037.0,
+  "duration": 3.439,
+  "text": "that gives the agent the repeatable"
+ },
+ {
+  "start": 1038.439,
+  "duration": 3.681,
+  "text": "steps it needs to follow that as many"
+ },
+ {
+  "start": 1040.439,
+  "duration": 3.321,
+  "text": "times as is necessary to actually"
+ },
+ {
+  "start": 1042.12,
+  "duration": 3.16,
+  "text": "achieve that goal."
+ },
+ {
+  "start": 1043.76,
+  "duration": 3.72,
+  "text": "But what about when a goal is more"
+ },
+ {
+  "start": 1045.28,
+  "duration": 4.04,
+  "text": "complex and requires multiple different"
+ },
+ {
+  "start": 1047.48,
+  "duration": 3.96,
+  "text": "processes interacting to actually"
+ },
+ {
+  "start": 1049.32,
+  "duration": 3.84,
+  "text": "accomplish whatever that goal is? What"
+ },
+ {
+  "start": 1051.44,
+  "duration": 3.68,
+  "text": "about when we move beyond the output"
+ },
+ {
+  "start": 1053.16,
+  "duration": 4.32,
+  "text": "being a single agentic process to"
+ },
+ {
+  "start": 1055.12,
+  "duration": 4.6,
+  "text": "actually designing an ongoing agentic"
+ },
+ {
+  "start": 1057.48,
+  "duration": 4.28,
+  "text": "system for working? That's where we get"
+ },
+ {
+  "start": 1059.72,
+  "duration": 3.6,
+  "text": "into graph engineering. If prompts"
+ },
+ {
+  "start": 1061.76,
+  "duration": 3.44,
+  "text": "control the instruction and context"
+ },
+ {
+  "start": 1063.32,
+  "duration": 3.32,
+  "text": "controls what the model sees, processes"
+ },
+ {
+  "start": 1065.2,
+  "duration": 2.76,
+  "text": "control the environment and loops"
+ },
+ {
+  "start": 1066.64,
+  "duration": 4.36,
+  "text": "control the iteration, the graph"
+ },
+ {
+  "start": 1067.96,
+  "duration": 4.84,
+  "text": "controls the new agentic organization."
+ },
+ {
+  "start": 1071.0,
+  "duration": 4.0,
+  "text": "Graft engineering is about designing how"
+ },
+ {
+  "start": 1072.8,
+  "duration": 4.2,
+  "text": "multiple agents, tools, knowledge"
+ },
+ {
+  "start": 1075.0,
+  "duration": 4.04,
+  "text": "sources, and humans interact and"
+ },
+ {
+  "start": 1077.0,
+  "duration": 4.2,
+  "text": "connect. Graft engineering describes"
+ },
+ {
+  "start": 1079.04,
+  "duration": 4.12,
+  "text": "both the parts of the system, which some"
+ },
+ {
+  "start": 1081.2,
+  "duration": 4.32,
+  "text": "people are referring to as nodes, that"
+ },
+ {
+  "start": 1083.16,
+  "duration": 4.56,
+  "text": "could be agents, routers, or human"
+ },
+ {
+  "start": 1085.52,
+  "duration": 4.24,
+  "text": "gateways, and graft engineering also"
+ },
+ {
+  "start": 1087.72,
+  "duration": 4.28,
+  "text": "explains the interactions between those"
+ },
+ {
+  "start": 1089.76,
+  "duration": 3.56,
+  "text": "nodes, which handoffs are permitted,"
+ },
+ {
+  "start": 1092.0,
+  "duration": 2.6,
+  "text": "what information or state travels"
+ },
+ {
+  "start": 1093.32,
+  "duration": 3.32,
+  "text": "between them."
+ },
+ {
+  "start": 1094.6,
+  "duration": 4.28,
+  "text": "Explain next.ai explained a loop as an"
+ },
+ {
+  "start": 1096.64,
+  "duration": 4.16,
+  "text": "autonomous cycle for a single agent. A"
+ },
+ {
+  "start": 1098.88,
+  "duration": 3.6,
+  "text": "trigger fires, an agent acts, a verifier"
+ },
+ {
+  "start": 1100.8,
+  "duration": 3.68,
+  "text": "checks, and if not done, the whole"
+ },
+ {
+  "start": 1102.48,
+  "duration": 4.04,
+  "text": "system is retried with updated context"
+ },
+ {
+  "start": 1104.48,
+  "duration": 4.0,
+  "text": "until the goal has been met. As they"
+ },
+ {
+  "start": 1106.52,
+  "duration": 4.04,
+  "text": "write, \"Every guardrail, i.e. max"
+ },
+ {
+  "start": 1108.48,
+  "duration": 4.48,
+  "text": "iterations, token budget, etc. applies"
+ },
+ {
+  "start": 1110.56,
+  "duration": 5.08,
+  "text": "to one agent's run. The loop is the"
+ },
+ {
+  "start": 1112.96,
+  "duration": 4.04,
+  "text": "agent's behavioral contract with itself."
+ },
+ {
+  "start": 1115.64,
+  "duration": 3.92,
+  "text": "A graph, on the other hand, is an"
+ },
+ {
+  "start": 1117.0,
+  "duration": 4.8,
+  "text": "organization of agents. As they put it,"
+ },
+ {
+  "start": 1119.56,
+  "duration": 4.68,
+  "text": "each node in a graph is an agent running"
+ },
+ {
+  "start": 1121.8,
+  "duration": 4.52,
+  "text": "its own loop. The edges or interactions"
+ },
+ {
+  "start": 1124.24,
+  "duration": 3.8,
+  "text": "between those nodes define data flows"
+ },
+ {
+  "start": 1126.32,
+  "duration": 4.04,
+  "text": "and dependencies.\""
+ },
+ {
+  "start": 1128.04,
+  "duration": 4.24,
+  "text": "They continue, \"The graph specifies who"
+ },
+ {
+  "start": 1130.36,
+  "duration": 4.52,
+  "text": "exists, which agents and with what"
+ },
+ {
+  "start": 1132.28,
+  "duration": 5.24,
+  "text": "specialization, what each owns, their"
+ },
+ {
+  "start": 1134.88,
+  "duration": 4.84,
+  "text": "domain context and tool access, how work"
+ },
+ {
+  "start": 1137.52,
+  "duration": 4.24,
+  "text": "moves, sequentially, in parallel, or"
+ },
+ {
+  "start": 1139.72,
+  "duration": 3.88,
+  "text": "conditionally, i.e. is this a loop"
+ },
+ {
+  "start": 1141.76,
+  "duration": 4.2,
+  "text": "between different loops, and finally the"
+ },
+ {
+  "start": 1143.6,
+  "duration": 4.36,
+  "text": "graph defines what happens on failure."
+ },
+ {
+  "start": 1145.96,
+  "duration": 3.64,
+  "text": "Is the node retried? Is it routed to a"
+ },
+ {
+  "start": 1147.96,
+  "duration": 2.84,
+  "text": "fallback? Or is there an alert"
+ },
+ {
+  "start": 1149.6,
+  "duration": 2.36,
+  "text": "upstream?\""
+ },
+ {
+  "start": 1150.8,
+  "duration": 2.96,
+  "text": "The graph, they conclude, is the"
+ },
+ {
+  "start": 1151.96,
+  "duration": 3.6,
+  "text": "organization's operating structure."
+ },
+ {
+  "start": 1153.76,
+  "duration": 3.24,
+  "text": "Loops live inside nodes. The graph"
+ },
+ {
+  "start": 1155.56,
+  "duration": 3.48,
+  "text": "connects them."
+ },
+ {
+  "start": 1157.0,
+  "duration": 4.2,
+  "text": "In short, a loop is how an individual"
+ },
+ {
+  "start": 1159.04,
+  "duration": 4.68,
+  "text": "agent does its job, where a graph is how"
+ },
+ {
+  "start": 1161.2,
+  "duration": 4.36,
+  "text": "an entire agentic organization works."
+ },
+ {
+  "start": 1163.72,
+  "duration": 4.28,
+  "text": "As Google's Shubham Saboo put it, loops"
+ },
+ {
+  "start": 1165.56,
+  "duration": 5.28,
+  "text": "made agent behavior programmable, graphs"
+ },
+ {
+  "start": 1168.0,
+  "duration": 4.12,
+  "text": "make agent organizations programmable."
+ },
+ {
+  "start": 1170.84,
+  "duration": 2.72,
+  "text": "Now, what I don't expect is for all of"
+ },
+ {
+  "start": 1172.12,
+  "duration": 3.76,
+  "text": "you to run out and start designing"
+ },
+ {
+  "start": 1173.56,
+  "duration": 4.64,
+  "text": "complete agentic organizations. But, the"
+ },
+ {
+  "start": 1175.88,
+  "duration": 5.28,
+  "text": "idea of graph engineering is to be able"
+ },
+ {
+  "start": 1178.2,
+  "duration": 4.68,
+  "text": "to think in those system terms. And even"
+ },
+ {
+  "start": 1181.16,
+  "duration": 3.56,
+  "text": "slightly differently from the context in"
+ },
+ {
+  "start": 1182.88,
+  "duration": 3.56,
+  "text": "harness engineering, with loops and"
+ },
+ {
+  "start": 1184.72,
+  "duration": 3.24,
+  "text": "graphs, while sometimes you will use"
+ },
+ {
+  "start": 1186.44,
+  "duration": 3.32,
+  "text": "both of these patterns, there will be"
+ },
+ {
+  "start": 1187.96,
+  "duration": 4.04,
+  "text": "times when the simpler architecture of a"
+ },
+ {
+  "start": 1189.76,
+  "duration": 4.6,
+  "text": "single loop is going to be fine. When a"
+ },
+ {
+  "start": 1192.0,
+  "duration": 4.48,
+  "text": "single job has a clear finish line with"
+ },
+ {
+  "start": 1194.36,
+  "duration": 3.6,
+  "text": "genuinely sequential steps, and one"
+ },
+ {
+  "start": 1196.48,
+  "duration": 3.12,
+  "text": "agent's context window able to hold the"
+ },
+ {
+  "start": 1197.96,
+  "duration": 4.24,
+  "text": "whole domain, that's a good candidate"
+ },
+ {
+  "start": 1199.6,
+  "duration": 4.4,
+  "text": "for a single loop. When the work instead"
+ },
+ {
+  "start": 1202.2,
+  "duration": 3.88,
+  "text": "splits into specialties with different"
+ },
+ {
+  "start": 1204.0,
+  "duration": 3.92,
+  "text": "handoffs, when parallelism becomes"
+ },
+ {
+  "start": 1206.08,
+  "duration": 3.64,
+  "text": "valuable, when different steps in a"
+ },
+ {
+  "start": 1207.92,
+  "duration": 4.56,
+  "text": "process want different models or tool"
+ },
+ {
+  "start": 1209.72,
+  "duration": 4.2,
+  "text": "sets, when routing has to be explicit,"
+ },
+ {
+  "start": 1212.48,
+  "duration": 3.04,
+  "text": "and when you want to design a resilient"
+ },
+ {
+  "start": 1213.92,
+  "duration": 3.48,
+  "text": "system where the failure of one node"
+ },
+ {
+  "start": 1215.52,
+  "duration": 2.96,
+  "text": "doesn't take down the rest, that's where"
+ },
+ {
+  "start": 1217.4,
+  "duration": 2.44,
+  "text": "you get into this actual graph"
+ },
+ {
+  "start": 1218.48,
+  "duration": 3.16,
+  "text": "engineering."
+ },
+ {
+  "start": 1219.84,
+  "duration": 3.96,
+  "text": "Now, as tends to happen, as soon as we"
+ },
+ {
+  "start": 1221.64,
+  "duration": 4.16,
+  "text": "get a new term, we very quickly explore"
+ },
+ {
+  "start": 1223.8,
+  "duration": 3.08,
+  "text": "all the nuances as well. One discussion,"
+ },
+ {
+  "start": 1225.8,
+  "duration": 3.4,
+  "text": "for example, that you're seeing a little"
+ },
+ {
+  "start": 1226.88,
+  "duration": 4.08,
+  "text": "bit is the difference between org graphs"
+ },
+ {
+  "start": 1229.2,
+  "duration": 3.08,
+  "text": "versus work graphs."
+ },
+ {
+  "start": 1230.96,
+  "duration": 3.88,
+  "text": "Org graphs are going to be more stable"
+ },
+ {
+  "start": 1232.28,
+  "duration": 5.24,
+  "text": "agentic systems that defines a more"
+ },
+ {
+  "start": 1234.84,
+  "duration": 4.76,
+  "text": "permanent style of setup. The org graph"
+ },
+ {
+  "start": 1237.52,
+  "duration": 3.4,
+  "text": "is going to have long-lived agents with"
+ },
+ {
+  "start": 1239.6,
+  "duration": 3.4,
+  "text": "each agent owning a domain and"
+ },
+ {
+  "start": 1240.92,
+  "duration": 3.84,
+  "text": "accumulating over time, preserved"
+ },
+ {
+  "start": 1243.0,
+  "duration": 3.96,
+  "text": "memory, and stable relationships and"
+ },
+ {
+  "start": 1244.76,
+  "duration": 3.96,
+  "text": "dependencies that don't change unless"
+ },
+ {
+  "start": 1246.96,
+  "duration": 3.16,
+  "text": "explicitly told to."
+ },
+ {
+  "start": 1248.72,
+  "duration": 2.88,
+  "text": "So, if you are designing an agentic"
+ },
+ {
+  "start": 1250.12,
+  "duration": 3.52,
+  "text": "organization that's going to do the same"
+ },
+ {
+  "start": 1251.6,
+  "duration": 3.92,
+  "text": "thing over and over again, for example,"
+ },
+ {
+  "start": 1253.64,
+  "duration": 3.76,
+  "text": "if I was designing a multi-agent system"
+ },
+ {
+  "start": 1255.52,
+  "duration": 4.08,
+  "text": "that automated the process of going from"
+ },
+ {
+  "start": 1257.4,
+  "duration": 4.04,
+  "text": "research to production to editing to"
+ },
+ {
+  "start": 1259.6,
+  "duration": 3.88,
+  "text": "publishing to extracting insights to"
+ },
+ {
+  "start": 1261.44,
+  "duration": 3.56,
+  "text": "posting, that might be a good candidate"
+ },
+ {
+  "start": 1263.48,
+  "duration": 3.28,
+  "text": "for an org graph because these are"
+ },
+ {
+  "start": 1265.0,
+  "duration": 3.6,
+  "text": "ongoing recurring processes. This is"
+ },
+ {
+  "start": 1266.76,
+  "duration": 4.08,
+  "text": "just how my work happens day in and day"
+ },
+ {
+  "start": 1268.6,
+  "duration": 4.56,
+  "text": "out. The work graph, on the other hand,"
+ },
+ {
+  "start": 1270.84,
+  "duration": 4.76,
+  "text": "is more dynamic and more ephemeral. It"
+ },
+ {
+  "start": 1273.16,
+  "duration": 4.76,
+  "text": "can include task nodes that only exist"
+ },
+ {
+  "start": 1275.6,
+  "duration": 3.96,
+  "text": "as long as the work exists, dynamic"
+ },
+ {
+  "start": 1277.92,
+  "duration": 3.64,
+  "text": "edges, remember edges are the"
+ },
+ {
+  "start": 1279.56,
+  "duration": 4.6,
+  "text": "interactions between the nodes that can"
+ },
+ {
+  "start": 1281.56,
+  "duration": 4.52,
+  "text": "split or merge, an adaptive structure"
+ },
+ {
+  "start": 1284.16,
+  "duration": 4.08,
+  "text": "where tasks can disappear when evidence"
+ },
+ {
+  "start": 1286.08,
+  "duration": 3.56,
+  "text": "makes them unnecessary, or new tasks can"
+ },
+ {
+  "start": 1288.24,
+  "duration": 3.36,
+  "text": "be spawned if new complexities are"
+ },
+ {
+  "start": 1289.64,
+  "duration": 4.0,
+  "text": "discovered. But, let's wrap up this"
+ },
+ {
+  "start": 1291.6,
+  "duration": 3.4,
+  "text": "primer by coming back to the main point."
+ },
+ {
+  "start": 1293.64,
+  "duration": 3.36,
+  "text": "Like I said at the beginning, my"
+ },
+ {
+  "start": 1295.0,
+  "duration": 3.84,
+  "text": "expectation is not that all of a sudden"
+ },
+ {
+  "start": 1297.0,
+  "duration": 3.76,
+  "text": "you go out and design complex agentic"
+ },
+ {
+  "start": 1298.84,
+  "duration": 3.24,
+  "text": "organizations now that you're acquainted"
+ },
+ {
+  "start": 1300.76,
+  "duration": 3.56,
+  "text": "with this wonky concept of graph"
+ },
+ {
+  "start": 1302.08,
+  "duration": 4.52,
+  "text": "engineering. What I think is valuable"
+ },
+ {
+  "start": 1304.32,
+  "duration": 3.76,
+  "text": "for all of us, however, in the same way"
+ },
+ {
+  "start": 1306.6,
+  "duration": 3.76,
+  "text": "that even if you weren't designing"
+ },
+ {
+  "start": 1308.08,
+  "duration": 4.76,
+  "text": "loops, understanding the architecture of"
+ },
+ {
+  "start": 1310.36,
+  "duration": 4.0,
+  "text": "a loop, a trigger that fires, an action"
+ },
+ {
+  "start": 1312.84,
+  "duration": 3.44,
+  "text": "that's taken, a validator that checks"
+ },
+ {
+  "start": 1314.36,
+  "duration": 3.08,
+  "text": "the work, and then that on repeat until"
+ },
+ {
+  "start": 1316.28,
+  "duration": 3.0,
+  "text": "it's done,"
+ },
+ {
+  "start": 1317.44,
+  "duration": 4.08,
+  "text": "that is extremely helpful in thinking"
+ },
+ {
+  "start": 1319.28,
+  "duration": 3.76,
+  "text": "about how to use agents to automate"
+ },
+ {
+  "start": 1321.52,
+  "duration": 3.96,
+  "text": "chunks of your work."
+ },
+ {
+  "start": 1323.04,
+  "duration": 4.16,
+  "text": "In the same way, what I think graph"
+ },
+ {
+  "start": 1325.48,
+  "duration": 3.96,
+  "text": "engineering will unlock for many is the"
+ },
+ {
+  "start": 1327.2,
+  "duration": 4.2,
+  "text": "ability to start thinking in multi-agent"
+ },
+ {
+  "start": 1329.44,
+  "duration": 3.96,
+  "text": "systems terms, where you can start to"
+ },
+ {
+  "start": 1331.4,
+  "duration": 4.16,
+  "text": "see different agents with different"
+ },
+ {
+  "start": 1333.4,
+  "duration": 3.68,
+  "text": "jobs, and actually understand and even"
+ },
+ {
+  "start": 1335.56,
+  "duration": 2.6,
+  "text": "design their relationships with one"
+ },
+ {
+  "start": 1337.08,
+  "duration": 3.48,
+  "text": "another."
+ },
+ {
+  "start": 1338.16,
+  "duration": 4.6,
+  "text": "Over time, some of you, I guarantee,"
+ },
+ {
+  "start": 1340.56,
+  "duration": 4.56,
+  "text": "will start to design those more complex"
+ },
+ {
+  "start": 1342.76,
+  "duration": 4.04,
+  "text": "agentic systems, and the best practices"
+ },
+ {
+  "start": 1345.12,
+  "duration": 3.16,
+  "text": "and lessons and tool sets that people"
+ },
+ {
+  "start": 1346.8,
+  "duration": 3.24,
+  "text": "build around this graph engineering"
+ },
+ {
+  "start": 1348.28,
+  "duration": 3.36,
+  "text": "discipline are going to be extremely"
+ },
+ {
+  "start": 1350.04,
+  "duration": 3.68,
+  "text": "useful when you do."
+ },
+ {
+  "start": 1351.64,
+  "duration": 3.68,
+  "text": "So, yes, graph engineering is the latest"
+ },
+ {
+  "start": 1353.72,
+  "duration": 2.6,
+  "text": "buzzy buzzword, and some of the early"
+ },
+ {
+  "start": 1355.32,
+  "duration": 3.16,
+  "text": "tweets about it were frankly"
+ },
+ {
+  "start": 1356.32,
+  "duration": 4.12,
+  "text": "tongue-in-cheek, but designing agentic"
+ },
+ {
+  "start": 1358.48,
+  "duration": 4.16,
+  "text": "systems is, I believe, a new work"
+ },
+ {
+  "start": 1360.44,
+  "duration": 4.36,
+  "text": "primitive, and something which we will"
+ },
+ {
+  "start": 1362.64,
+  "duration": 3.32,
+  "text": "increasingly be called upon to do."
+ },
+ {
+  "start": 1364.8,
+  "duration": 2.88,
+  "text": "So, hopefully you now have a better"
+ },
+ {
+  "start": 1365.96,
+  "duration": 3.48,
+  "text": "sense of that and can dig in as makes"
+ },
+ {
+  "start": 1367.68,
+  "duration": 3.2,
+  "text": "sense for you. For now, that's going to"
+ },
+ {
+  "start": 1369.44,
+  "duration": 2.92,
+  "text": "do it for today's AI Daily Brief."
+ },
+ {
+  "start": 1370.88,
+  "duration": 5.56,
+  "text": "Appreciate you listening or watching, as"
+ },
+ {
+  "start": 1372.36,
+  "duration": 4.08,
+  "text": "always, and until next time, peace."
+ }
+]

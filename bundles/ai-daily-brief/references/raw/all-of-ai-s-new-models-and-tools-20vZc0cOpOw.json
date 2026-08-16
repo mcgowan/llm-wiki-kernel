@@ -1,0 +1,2667 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.4,
+  "text": "Today, we are doing a whistle-stop tour"
+ },
+ {
+  "start": 1.84,
+  "duration": 4.44,
+  "text": "of all of the new models and harnesses"
+ },
+ {
+  "start": 4.4,
+  "duration": 3.8,
+  "text": "and tools that we got to play with AI"
+ },
+ {
+  "start": 6.28,
+  "duration": 4.12,
+  "text": "and agents this week."
+ },
+ {
+  "start": 8.2,
+  "duration": 3.88,
+  "text": "Welcome back to the AI Daily Brief. One"
+ },
+ {
+  "start": 10.4,
+  "duration": 3.72,
+  "text": "would be forgiven for thinking that this"
+ },
+ {
+  "start": 12.08,
+  "duration": 4.52,
+  "text": "week has been defined by models that we"
+ },
+ {
+  "start": 14.12,
+  "duration": 3.6,
+  "text": "actually didn't have access to. A huge"
+ },
+ {
+  "start": 16.6,
+  "duration": 2.32,
+  "text": "part of the discourse throughout the"
+ },
+ {
+  "start": 17.72,
+  "duration": 3.24,
+  "text": "week has of course been about"
+ },
+ {
+  "start": 18.92,
+  "duration": 3.72,
+  "text": "Anthropic's Mythos, a model which it"
+ },
+ {
+  "start": 20.96,
+  "duration": 3.36,
+  "text": "found too powerful to release in the"
+ },
+ {
+  "start": 22.64,
+  "duration": 3.36,
+  "text": "normal way that it had been, and which"
+ },
+ {
+  "start": 24.32,
+  "duration": 3.36,
+  "text": "right now is only in the hands of about"
+ },
+ {
+  "start": 26.0,
+  "duration": 4.04,
+  "text": "40 partners for some very limited"
+ },
+ {
+  "start": 27.68,
+  "duration": 3.8,
+  "text": "cybersecurity-focused engagement."
+ },
+ {
+  "start": 30.04,
+  "duration": 3.32,
+  "text": "Then just this morning, as you heard in"
+ },
+ {
+  "start": 31.48,
+  "duration": 3.52,
+  "text": "the headlines, we also heard that OpenAI"
+ },
+ {
+  "start": 33.36,
+  "duration": 3.4,
+  "text": "planned its own staggered rollout of"
+ },
+ {
+  "start": 35.0,
+  "duration": 3.48,
+  "text": "their new model for similar reasons,"
+ },
+ {
+  "start": 36.76,
+  "duration": 3.8,
+  "text": "cybersecurity risks."
+ },
+ {
+  "start": 38.48,
+  "duration": 3.64,
+  "text": "Now, even among people who understand"
+ },
+ {
+  "start": 40.56,
+  "duration": 3.24,
+  "text": "theoretically why these companies are"
+ },
+ {
+  "start": 42.12,
+  "duration": 3.52,
+  "text": "doing this, there's still I think a bit"
+ },
+ {
+  "start": 43.8,
+  "duration": 3.96,
+  "text": "of a sentiment of don't tell me about"
+ },
+ {
+  "start": 45.64,
+  "duration": 4.12,
+  "text": "the new toys if I can't play with them."
+ },
+ {
+  "start": 47.76,
+  "duration": 4.28,
+  "text": "But luckily, the rest of the AI industry"
+ },
+ {
+  "start": 49.76,
+  "duration": 4.04,
+  "text": "is not slouching at all. And in fact,"
+ },
+ {
+  "start": 52.04,
+  "duration": 3.08,
+  "text": "even Anthropic themselves have given us"
+ },
+ {
+  "start": 53.8,
+  "duration": 3.4,
+  "text": "something different that's still pretty"
+ },
+ {
+  "start": 55.12,
+  "duration": 3.52,
+  "text": "powerful to play with. So, let's talk"
+ },
+ {
+  "start": 57.2,
+  "duration": 3.32,
+  "text": "through all of the other models and"
+ },
+ {
+  "start": 58.64,
+  "duration": 3.96,
+  "text": "tools that have been released, starting"
+ },
+ {
+  "start": 60.52,
+  "duration": 5.04,
+  "text": "with the first big model release from"
+ },
+ {
+  "start": 62.6,
+  "duration": 5.32,
+  "text": "the new Meta Superintelligence Lab. Muse"
+ },
+ {
+  "start": 65.56,
+  "duration": 4.28,
+  "text": "Spark is Meta's first new model release"
+ },
+ {
+  "start": 67.92,
+  "duration": 3.28,
+  "text": "in over a year. It's also the first"
+ },
+ {
+  "start": 69.84,
+  "duration": 3.28,
+  "text": "model to come from the new Meta"
+ },
+ {
+  "start": 71.2,
+  "duration": 3.72,
+  "text": "Superintelligence Labs division, which"
+ },
+ {
+  "start": 73.12,
+  "duration": 3.64,
+  "text": "is of course the collection of superstar"
+ },
+ {
+  "start": 74.92,
+  "duration": 3.28,
+  "text": "crazy high-paid AI researchers that was"
+ },
+ {
+  "start": 76.76,
+  "duration": 2.68,
+  "text": "put together last summer and brought"
+ },
+ {
+  "start": 78.2,
+  "duration": 3.08,
+  "text": "together under the leadership of"
+ },
+ {
+  "start": 79.44,
+  "duration": 3.84,
+  "text": "Alexander Wang, who was brought in"
+ },
+ {
+  "start": 81.28,
+  "duration": 4.2,
+  "text": "through the $14 billion-plus partial"
+ },
+ {
+  "start": 83.28,
+  "duration": 4.12,
+  "text": "acquisition of his company Scale."
+ },
+ {
+  "start": 85.48,
+  "duration": 3.72,
+  "text": "Muse Spark will be the first of the Muse"
+ },
+ {
+  "start": 87.4,
+  "duration": 4.12,
+  "text": "family of models, with Meta ditching the"
+ },
+ {
+  "start": 89.2,
+  "duration": 4.12,
+  "text": "Llama name and associated baggage. The"
+ },
+ {
+  "start": 91.52,
+  "duration": 3.6,
+  "text": "Muse models are natively multimodal"
+ },
+ {
+  "start": 93.32,
+  "duration": 3.92,
+  "text": "reasoning models, similar to Google's"
+ },
+ {
+  "start": 95.12,
+  "duration": 4.04,
+  "text": "Gemini architecture. Meta noted that"
+ },
+ {
+  "start": 97.24,
+  "duration": 4.12,
+  "text": "they support tool use, visual chain of"
+ },
+ {
+  "start": 99.16,
+  "duration": 3.6,
+  "text": "thought, and multi-agent orchestration."
+ },
+ {
+  "start": 101.36,
+  "duration": 2.64,
+  "text": "Now, those features are at this point"
+ },
+ {
+  "start": 102.76,
+  "duration": 3.12,
+  "text": "kind of table stakes for the current"
+ },
+ {
+  "start": 104.0,
+  "duration": 3.08,
+  "text": "generation, but based on fairly low"
+ },
+ {
+  "start": 105.88,
+  "duration": 3.16,
+  "text": "expectations, people were still"
+ },
+ {
+  "start": 107.08,
+  "duration": 4.0,
+  "text": "encouraged to see them present here."
+ },
+ {
+  "start": 109.04,
+  "duration": 3.88,
+  "text": "Meta didn't indicate how large the model"
+ },
+ {
+  "start": 111.08,
+  "duration": 3.8,
+  "text": "is or whether it uses a mixture of"
+ },
+ {
+  "start": 112.92,
+  "duration": 3.72,
+  "text": "experts architecture. In fact, we don't"
+ },
+ {
+  "start": 114.88,
+  "duration": 4.16,
+  "text": "really know at all where this model sits"
+ },
+ {
+  "start": 116.64,
+  "duration": 3.96,
+  "text": "in the model family. Executives referred"
+ },
+ {
+  "start": 119.04,
+  "duration": 3.72,
+  "text": "to it as small and fast, but its"
+ },
+ {
+  "start": 120.6,
+  "duration": 4.92,
+  "text": "performance in comparison points looked"
+ },
+ {
+  "start": 122.76,
+  "duration": 4.44,
+  "text": "closer to a mid-size or large model."
+ },
+ {
+  "start": 125.52,
+  "duration": 3.84,
+  "text": "On the benchmarks, at first glance, Muse"
+ },
+ {
+  "start": 127.2,
+  "duration": 4.56,
+  "text": "Spark looks pretty capable. It scored"
+ },
+ {
+  "start": 129.36,
+  "duration": 4.0,
+  "text": "52.4 on SweetBench Pro, for example,"
+ },
+ {
+  "start": 131.76,
+  "duration": 5.0,
+  "text": "putting it within a few points of Opus"
+ },
+ {
+  "start": 133.36,
+  "duration": 5.56,
+  "text": "4.6, Gemini 3.1 Pro, and GPT 5.4 for"
+ },
+ {
+  "start": 136.76,
+  "duration": 4.48,
+  "text": "coding. On Humanity's Last Exam, it"
+ },
+ {
+  "start": 138.92,
+  "duration": 4.16,
+  "text": "scored 42.8, which is slightly better"
+ },
+ {
+  "start": 141.24,
+  "duration": 4.56,
+  "text": "than Opus, but trailing Gemini and GPT"
+ },
+ {
+  "start": 143.08,
+  "duration": 5.0,
+  "text": "5.4. Now, interestingly on that one,"
+ },
+ {
+  "start": 145.8,
+  "duration": 4.88,
+  "text": "with tools enabled, Muse's score only"
+ },
+ {
+  "start": 148.08,
+  "duration": 5.08,
+  "text": "jumped to 50.4, leaving it trailing all"
+ },
+ {
+  "start": 150.68,
+  "duration": 4.76,
+  "text": "three of those major by a few points."
+ },
+ {
+  "start": 153.16,
+  "duration": 4.32,
+  "text": "This could suggest the model isn't as"
+ },
+ {
+  "start": 155.44,
+  "duration": 3.72,
+  "text": "good at web search or tool use as the"
+ },
+ {
+  "start": 157.48,
+  "duration": 3.24,
+  "text": "others, but of course this is only a"
+ },
+ {
+  "start": 159.16,
+  "duration": 2.72,
+  "text": "single data point."
+ },
+ {
+  "start": 160.72,
+  "duration": 3.64,
+  "text": "The general sense you get from the"
+ },
+ {
+  "start": 161.88,
+  "duration": 4.36,
+  "text": "benchmarks is that Muse is in the mix,"
+ },
+ {
+  "start": 164.36,
+  "duration": 3.16,
+  "text": "but certainly not leading the pack. And"
+ },
+ {
+  "start": 166.24,
+  "duration": 3.04,
+  "text": "you can certainly tell where Meta is"
+ },
+ {
+  "start": 167.52,
+  "duration": 3.32,
+  "text": "trying to put the emphasis. Rather than"
+ },
+ {
+  "start": 169.28,
+  "duration": 3.56,
+  "text": "leading with their scores on Humanity's"
+ },
+ {
+  "start": 170.84,
+  "duration": 3.4,
+  "text": "Last Exam or SweetBench, those scores"
+ },
+ {
+  "start": 172.84,
+  "duration": 3.76,
+  "text": "are buried fairly deep in the results"
+ },
+ {
+  "start": 174.24,
+  "duration": 4.08,
+  "text": "table, with Meta instead leading on the"
+ },
+ {
+  "start": 176.6,
+  "duration": 4.76,
+  "text": "multimodal benchmarks where Muse Spark"
+ },
+ {
+  "start": 178.32,
+  "duration": 4.32,
+  "text": "excels. The model scored 86.4 on"
+ },
+ {
+  "start": 181.36,
+  "duration": 3.0,
+  "text": "CharViC's reasoning, which is a measure"
+ },
+ {
+  "start": 182.64,
+  "duration": 2.8,
+  "text": "of visual comprehension, which would"
+ },
+ {
+  "start": 184.36,
+  "duration": 2.88,
+  "text": "actually have that being a"
+ },
+ {
+  "start": 185.44,
+  "duration": 4.76,
+  "text": "state-of-the-art result, beating Gemini"
+ },
+ {
+  "start": 187.24,
+  "duration": 4.52,
+  "text": "3.1 Pro by six points. Muse Spark did"
+ },
+ {
+  "start": 190.2,
+  "duration": 2.92,
+  "text": "slightly trail Gemini on an assortment"
+ },
+ {
+  "start": 191.76,
+  "duration": 2.68,
+  "text": "of other visual tests, but the results"
+ },
+ {
+  "start": 193.12,
+  "duration": 3.36,
+  "text": "were strong enough to suggest the model"
+ },
+ {
+  "start": 194.44,
+  "duration": 4.52,
+  "text": "will be highly capable. Now, these"
+ },
+ {
+  "start": 196.48,
+  "duration": 4.4,
+  "text": "benchmarks also gel with how Meta views"
+ },
+ {
+  "start": 198.96,
+  "duration": 3.04,
+  "text": "the model's purpose. Unlike the other"
+ },
+ {
+  "start": 200.88,
+  "duration": 3.44,
+  "text": "model companies where there is"
+ },
+ {
+  "start": 202.0,
+  "duration": 4.64,
+  "text": "increasing focus on coding use cases and"
+ },
+ {
+  "start": 204.32,
+  "duration": 4.24,
+  "text": "enterprise use cases more broadly, Muse"
+ },
+ {
+  "start": 206.64,
+  "duration": 3.48,
+  "text": "Spark is designed primarily to drive"
+ },
+ {
+  "start": 208.56,
+  "duration": 3.6,
+  "text": "personal agents."
+ },
+ {
+  "start": 210.12,
+  "duration": 3.8,
+  "text": "In a Threads post, Mark Zuckerberg wrote"
+ },
+ {
+  "start": 212.16,
+  "duration": 3.44,
+  "text": "that Muse Spark is a world-class"
+ },
+ {
+  "start": 213.92,
+  "duration": 3.0,
+  "text": "assistant and particularly strong in"
+ },
+ {
+  "start": 215.6,
+  "duration": 2.68,
+  "text": "areas related to personal"
+ },
+ {
+  "start": 216.92,
+  "duration": 3.4,
+  "text": "superintelligence like visual"
+ },
+ {
+  "start": 218.28,
+  "duration": 3.8,
+  "text": "understanding, health, social content,"
+ },
+ {
+  "start": 220.32,
+  "duration": 3.4,
+  "text": "shopping, games, and more."
+ },
+ {
+  "start": 222.08,
+  "duration": 2.92,
+  "text": "And interestingly, on that same note,"
+ },
+ {
+  "start": 223.72,
+  "duration": 3.0,
+  "text": "while Zuckerberg is trying to draw a"
+ },
+ {
+  "start": 225.0,
+  "duration": 3.0,
+  "text": "clear differentiation between the"
+ },
+ {
+  "start": 226.72,
+  "duration": 2.96,
+  "text": "work-focused use cases the other"
+ },
+ {
+  "start": 228.0,
+  "duration": 3.12,
+  "text": "companies are pursuing, there is still"
+ },
+ {
+  "start": 229.68,
+  "duration": 3.48,
+  "text": "broadly even here and even in the"
+ },
+ {
+  "start": 231.12,
+  "duration": 4.32,
+  "text": "personal realm a shift from assistant AI"
+ },
+ {
+  "start": 233.16,
+  "duration": 4.2,
+  "text": "to agentic AI. Zuckerberg ends his"
+ },
+ {
+  "start": 235.44,
+  "duration": 3.16,
+  "text": "Threads post by saying, \"We are building"
+ },
+ {
+  "start": 237.36,
+  "duration": 2.8,
+  "text": "products that don't just answer your"
+ },
+ {
+  "start": 238.6,
+  "duration": 2.76,
+  "text": "questions, but act as agents and do"
+ },
+ {
+  "start": 240.16,
+  "duration": 2.32,
+  "text": "things for you.\""
+ },
+ {
+  "start": 241.36,
+  "duration": 2.76,
+  "text": "Giving more examples of where these"
+ },
+ {
+  "start": 242.48,
+  "duration": 3.64,
+  "text": "capabilities will be useful, Meta wrote"
+ },
+ {
+  "start": 244.12,
+  "duration": 3.4,
+  "text": "that they enable interactive experiences"
+ },
+ {
+  "start": 246.12,
+  "duration": 2.76,
+  "text": "like creating fun mini-games or"
+ },
+ {
+  "start": 247.52,
+  "duration": 3.4,
+  "text": "troubleshooting your home appliances"
+ },
+ {
+  "start": 248.88,
+  "duration": 3.44,
+  "text": "with dynamic annotations."
+ },
+ {
+  "start": 250.92,
+  "duration": 3.0,
+  "text": "The model will immediately go into"
+ },
+ {
+  "start": 252.32,
+  "duration": 3.12,
+  "text": "service driving Meta AI and will"
+ },
+ {
+  "start": 253.92,
+  "duration": 3.84,
+  "text": "presumably arrive across their social"
+ },
+ {
+  "start": 255.44,
+  "duration": 4.28,
+  "text": "media platforms over time. Muse Spark"
+ },
+ {
+  "start": 257.76,
+  "duration": 3.68,
+  "text": "will function in three modes: instant"
+ },
+ {
+  "start": 259.72,
+  "duration": 3.48,
+  "text": "with no reasoning, thinking mode which"
+ },
+ {
+  "start": 261.44,
+  "duration": 3.28,
+  "text": "enables reasoning, and contemplating"
+ },
+ {
+  "start": 263.2,
+  "duration": 3.68,
+  "text": "mode that performs deep research-style"
+ },
+ {
+  "start": 264.72,
+  "duration": 3.56,
+  "text": "multi-step reasoning. Contemplating"
+ },
+ {
+  "start": 266.88,
+  "duration": 3.6,
+  "text": "mode, however, won't be available at"
+ },
+ {
+  "start": 268.28,
+  "duration": 4.0,
+  "text": "launch. Meta also emphasized the health"
+ },
+ {
+  "start": 270.48,
+  "duration": 3.4,
+  "text": "assistant use case, touting that they"
+ },
+ {
+  "start": 272.28,
+  "duration": 3.04,
+  "text": "collaborated with a thousand physicians"
+ },
+ {
+  "start": 273.88,
+  "duration": 3.28,
+  "text": "to curate training data for factual"
+ },
+ {
+  "start": 275.32,
+  "duration": 3.16,
+  "text": "accuracy. Now, in this case there"
+ },
+ {
+  "start": 277.16,
+  "duration": 2.8,
+  "text": "doesn't seem to be a separate interface"
+ },
+ {
+  "start": 278.48,
+  "duration": 2.76,
+  "text": "for health, it's just functionality"
+ },
+ {
+  "start": 279.96,
+  "duration": 3.76,
+  "text": "that's being encouraged on Meta's"
+ },
+ {
+  "start": 281.24,
+  "duration": 4.2,
+  "text": "existing platforms. Meta AI leader"
+ },
+ {
+  "start": 283.72,
+  "duration": 3.76,
+  "text": "Alexander Wang argued that Muse Spark is"
+ },
+ {
+  "start": 285.44,
+  "duration": 4.0,
+  "text": "just the beginning, posting, \"This is"
+ },
+ {
+  "start": 287.48,
+  "duration": 3.4,
+  "text": "step one. Bigger models are already in"
+ },
+ {
+  "start": 289.44,
+  "duration": 3.48,
+  "text": "development with infrastructure scaling"
+ },
+ {
+  "start": 290.88,
+  "duration": 3.68,
+  "text": "to match. Private API preview open to"
+ },
+ {
+  "start": 292.92,
+  "duration": 3.88,
+  "text": "select partners today, with plans to"
+ },
+ {
+  "start": 294.56,
+  "duration": 3.88,
+  "text": "open source future versions.\""
+ },
+ {
+  "start": 296.8,
+  "duration": 3.52,
+  "text": "One strand of the response that's been"
+ },
+ {
+  "start": 298.44,
+  "duration": 3.96,
+  "text": "fairly consistent was basically,"
+ },
+ {
+  "start": 300.32,
+  "duration": 3.4,
+  "text": "\"Welcome back to the party, guys.\""
+ },
+ {
+  "start": 302.4,
+  "duration": 3.0,
+  "text": "To some, even though this model is"
+ },
+ {
+  "start": 303.72,
+  "duration": 3.24,
+  "text": "clearly behind the other leaders, the"
+ },
+ {
+  "start": 305.4,
+  "duration": 2.88,
+  "text": "fact that the Meta Superintelligence Lab"
+ },
+ {
+  "start": 306.96,
+  "duration": 2.92,
+  "text": "was able to get it out in less than a"
+ },
+ {
+  "start": 308.28,
+  "duration": 3.36,
+  "text": "year since that lab was formed was a"
+ },
+ {
+  "start": 309.88,
+  "duration": 4.0,
+  "text": "feat in and of itself."
+ },
+ {
+  "start": 311.64,
+  "duration": 3.8,
+  "text": "Others were just less impressed. Ethan"
+ },
+ {
+  "start": 313.88,
+  "duration": 3.76,
+  "text": "Mollick writes, \"After playing with it a"
+ },
+ {
+  "start": 315.44,
+  "duration": 3.92,
+  "text": "bit, Meta's Muse Spark thinking is fine"
+ },
+ {
+  "start": 317.64,
+  "duration": 3.84,
+  "text": "so far, but really doesn't match the"
+ },
+ {
+  "start": 319.36,
+  "duration": 4.68,
+  "text": "current big three models. It is also a"
+ },
+ {
+  "start": 321.48,
+  "duration": 3.92,
+  "text": "bit weird, like some strange language"
+ },
+ {
+  "start": 324.04,
+  "duration": 2.52,
+  "text": "and tone, a little loose with facts,"
+ },
+ {
+  "start": 325.4,
+  "duration": 2.4,
+  "text": "etc.\""
+ },
+ {
+  "start": 326.56,
+  "duration": 3.72,
+  "text": "After giving a few examples, he"
+ },
+ {
+  "start": 327.8,
+  "duration": 3.88,
+  "text": "concludes, \"Anyhow, it's not bad, just"
+ },
+ {
+  "start": 330.28,
+  "duration": 3.44,
+  "text": "not the vibe level that the benchmarks"
+ },
+ {
+  "start": 331.68,
+  "duration": 3.8,
+  "text": "might indicate. And for a first re-entry"
+ },
+ {
+  "start": 333.72,
+  "duration": 3.28,
+  "text": "into the frontier model space, given the"
+ },
+ {
+  "start": 335.48,
+  "duration": 3.52,
+  "text": "engineering efficiencies they achieved,"
+ },
+ {
+  "start": 337.0,
+  "duration": 3.16,
+  "text": "it feels like a solid attempt. I'm sure"
+ },
+ {
+  "start": 339.0,
+  "duration": 2.36,
+  "text": "we will see better from Meta in the"
+ },
+ {
+  "start": 340.16,
+  "duration": 3.36,
+  "text": "future.\""
+ },
+ {
+  "start": 341.36,
+  "duration": 4.32,
+  "text": "Arc Prize founder François Chollet was"
+ },
+ {
+  "start": 343.52,
+  "duration": 3.56,
+  "text": "less forgiving. He wrote, \"The new model"
+ },
+ {
+  "start": 345.68,
+  "duration": 3.08,
+  "text": "from Meta is already looking like a"
+ },
+ {
+  "start": 347.08,
+  "duration": 2.84,
+  "text": "disappointment, over-optimized for"
+ },
+ {
+  "start": 348.76,
+  "duration": 2.84,
+  "text": "public benchmark numbers at the"
+ },
+ {
+  "start": 349.92,
+  "duration": 3.12,
+  "text": "detriment of everything else. Knowing"
+ },
+ {
+  "start": 351.6,
+  "duration": 3.08,
+  "text": "how to evaluate models in a way that"
+ },
+ {
+  "start": 353.04,
+  "duration": 4.04,
+  "text": "correlates with actual usefulness is a"
+ },
+ {
+  "start": 354.68,
+  "duration": 4.12,
+  "text": "core competency for AI labs, and any new"
+ },
+ {
+  "start": 357.08,
+  "duration": 3.48,
+  "text": "lab is unlikely to be successful without"
+ },
+ {
+  "start": 358.8,
+  "duration": 3.28,
+  "text": "first figuring that out.\""
+ },
+ {
+  "start": 360.56,
+  "duration": 3.24,
+  "text": "Wang actually decided to respond to that"
+ },
+ {
+  "start": 362.08,
+  "duration": 3.36,
+  "text": "one, saying, \"We're always open to"
+ },
+ {
+  "start": 363.8,
+  "duration": 2.96,
+  "text": "feedback and welcome any perspective on"
+ },
+ {
+  "start": 365.44,
+  "duration": 2.96,
+  "text": "weaknesses you've noticed in the model"
+ },
+ {
+  "start": 366.76,
+  "duration": 3.16,
+  "text": "from using it. We're quite upfront that"
+ },
+ {
+  "start": 368.4,
+  "duration": 3.48,
+  "text": "our model does not perform well on ARB"
+ },
+ {
+  "start": 369.92,
+  "duration": 4.0,
+  "text": "GI 2, for example, and publish those"
+ },
+ {
+  "start": 371.88,
+  "duration": 3.24,
+  "text": "results for the community to understand."
+ },
+ {
+  "start": 373.92,
+  "duration": 2.28,
+  "text": "That might reflect some areas of"
+ },
+ {
+  "start": 375.12,
+  "duration": 3.04,
+  "text": "improvement of the model that we could"
+ },
+ {
+  "start": 376.2,
+  "duration": 3.32,
+  "text": "focus on in the future.\" In general,"
+ },
+ {
+  "start": 378.16,
+  "duration": 3.04,
+  "text": "though, Wang reports, \"We have been"
+ },
+ {
+  "start": 379.52,
+  "duration": 3.0,
+  "text": "pleasantly surprised by users' feedback"
+ },
+ {
+  "start": 381.2,
+  "duration": 2.76,
+  "text": "on the model in areas like visual"
+ },
+ {
+  "start": 382.52,
+  "duration": 2.6,
+  "text": "coding, writing style, and reasoning"
+ },
+ {
+  "start": 383.96,
+  "duration": 3.36,
+  "text": "queries.\""
+ },
+ {
+  "start": 385.12,
+  "duration": 4.64,
+  "text": "Voss on Twitter, who previously did work"
+ },
+ {
+  "start": 387.32,
+  "duration": 3.88,
+  "text": "on Meta AI, said, \"Meta's latest model,"
+ },
+ {
+  "start": 389.76,
+  "duration": 3.6,
+  "text": "Muse Spark, is actually much better than"
+ },
+ {
+  "start": 391.2,
+  "duration": 4.56,
+  "text": "I had expected. Is it benchmark maxed?"
+ },
+ {
+  "start": 393.36,
+  "duration": 3.88,
+  "text": "Yes, 100%. But so is every other model."
+ },
+ {
+  "start": 395.76,
+  "duration": 3.72,
+  "text": "Is it frontier leader in any single"
+ },
+ {
+  "start": 397.24,
+  "duration": 4.52,
+  "text": "category? No. Is it better than I"
+ },
+ {
+  "start": 399.48,
+  "duration": 4.0,
+  "text": "expected? Yes. I look forward to the"
+ },
+ {
+  "start": 401.76,
+  "duration": 3.96,
+  "text": "eventual open source version. Feels like"
+ },
+ {
+  "start": 403.48,
+  "duration": 3.8,
+  "text": "they're coming back to life. Never fade,"
+ },
+ {
+  "start": 405.72,
+  "duration": 3.48,
+  "text": "Zuck.\""
+ },
+ {
+  "start": 407.28,
+  "duration": 3.36,
+  "text": "Now, speaking of open source, another"
+ },
+ {
+  "start": 409.2,
+  "duration": 2.88,
+  "text": "model that we got this week that got"
+ },
+ {
+  "start": 410.64,
+  "duration": 5.28,
+  "text": "completely overshadowed by the Mythos"
+ },
+ {
+  "start": 412.08,
+  "duration": 6.12,
+  "text": "announcement was Z.ai's GLM 5.1. And at"
+ },
+ {
+  "start": 415.92,
+  "duration": 4.12,
+  "text": "least on the benchmarks, it's the first"
+ },
+ {
+  "start": 418.2,
+  "duration": 4.28,
+  "text": "open source model to overtake leading"
+ },
+ {
+  "start": 420.04,
+  "duration": 3.88,
+  "text": "Western models on coding benchmarks. The"
+ },
+ {
+  "start": 422.48,
+  "duration": 4.56,
+  "text": "new frontier model, which like I said is"
+ },
+ {
+  "start": 423.92,
+  "duration": 6.0,
+  "text": "called GLM 5.1, achieved a 58.4 on"
+ },
+ {
+  "start": 427.04,
+  "duration": 6.16,
+  "text": "SweetBench Pro, beating GPT 5.4 and Opus"
+ },
+ {
+  "start": 429.92,
+  "duration": 6.36,
+  "text": "4.6, who scored 57.7 and 57.3,"
+ },
+ {
+  "start": 433.2,
+  "duration": 4.72,
+  "text": "respectively. Z.ai also provided a mixed"
+ },
+ {
+  "start": 436.28,
+  "duration": 4.56,
+  "text": "benchmark that included Terminal Bench"
+ },
+ {
+  "start": 437.92,
+  "duration": 4.96,
+  "text": "2.0 and NL2 Repo as well, which had GLM"
+ },
+ {
+  "start": 440.84,
+  "duration": 4.4,
+  "text": "5.1 slightly behind the two US leaders,"
+ },
+ {
+  "start": 442.88,
+  "duration": 4.52,
+  "text": "but ahead of Gemini 3.1 Pro."
+ },
+ {
+  "start": 445.24,
+  "duration": 4.6,
+  "text": "Still, if those benchmarks hold, it puts"
+ },
+ {
+  "start": 447.4,
+  "duration": 4.4,
+  "text": "GLM 5.1 in the top echelon of frontier"
+ },
+ {
+  "start": 449.84,
+  "duration": 5.32,
+  "text": "models with a clear separation from Qwen"
+ },
+ {
+  "start": 451.8,
+  "duration": 4.6,
+  "text": "3.6 Plus and Kimiko 2.5. And indeed,"
+ },
+ {
+  "start": 455.16,
+  "duration": 3.0,
+  "text": "what most people are clinging onto is"
+ },
+ {
+  "start": 456.4,
+  "duration": 3.72,
+  "text": "the fact that this is a full open source"
+ },
+ {
+  "start": 458.16,
+  "duration": 4.36,
+  "text": "release with commercial licensing. It's"
+ },
+ {
+  "start": 460.12,
+  "duration": 3.36,
+  "text": "a gigantic 754 billion parameter model,"
+ },
+ {
+  "start": 462.52,
+  "duration": 2.8,
+  "text": "so you're not going to be running it"
+ },
+ {
+  "start": 463.48,
+  "duration": 3.36,
+  "text": "locally on a Mac Mini. Still, it gives"
+ },
+ {
+  "start": 465.32,
+  "duration": 2.48,
+  "text": "developers the opportunity to build on"
+ },
+ {
+  "start": 466.84,
+  "duration": 2.44,
+  "text": "top of current generation"
+ },
+ {
+  "start": 467.8,
+  "duration": 2.76,
+  "text": "state-of-the-art models for kind of the"
+ },
+ {
+  "start": 469.28,
+  "duration": 2.76,
+  "text": "first time."
+ },
+ {
+  "start": 470.56,
+  "duration": 3.12,
+  "text": "We've been tracking the apparent shift"
+ },
+ {
+  "start": 472.04,
+  "duration": 3.08,
+  "text": "in Chinese lab strategy away from open"
+ },
+ {
+  "start": 473.68,
+  "duration": 2.8,
+  "text": "source recently, but this release"
+ },
+ {
+  "start": 475.12,
+  "duration": 2.6,
+  "text": "suggests that leading Chinese labs are"
+ },
+ {
+  "start": 476.48,
+  "duration": 3.24,
+  "text": "at least still somewhat willing to give"
+ },
+ {
+  "start": 477.72,
+  "duration": 3.96,
+  "text": "away their best-performing models."
+ },
+ {
+  "start": 479.72,
+  "duration": 3.56,
+  "text": "In terms of performance, Z.ai provided a"
+ },
+ {
+  "start": 481.68,
+  "duration": 4.2,
+  "text": "few impressive examples in agents and"
+ },
+ {
+  "start": 483.28,
+  "duration": 4.08,
+  "text": "coding. They claim that GLM 5.1 spent"
+ },
+ {
+  "start": 485.88,
+  "duration": 3.56,
+  "text": "eight hours autonomously building a"
+ },
+ {
+  "start": 487.36,
+  "duration": 3.04,
+  "text": "Linux desktop using a self-review loop"
+ },
+ {
+  "start": 489.44,
+  "duration": 2.8,
+  "text": "to remove the need for human"
+ },
+ {
+  "start": 490.4,
+  "duration": 3.2,
+  "text": "intervention. And this is kind of what"
+ },
+ {
+  "start": 492.24,
+  "duration": 4.0,
+  "text": "they emphasized in their announcement"
+ },
+ {
+  "start": 493.6,
+  "duration": 5.68,
+  "text": "post as well, calling the blog post GLM"
+ },
+ {
+  "start": 496.24,
+  "duration": 4.68,
+  "text": "5.1 Towards Long Horizon Tasks. Running"
+ },
+ {
+  "start": 499.28,
+  "duration": 3.12,
+  "text": "Vector DB test, the model was capable of"
+ },
+ {
+  "start": 500.92,
+  "duration": 3.4,
+  "text": "carrying out the database optimization"
+ },
+ {
+  "start": 502.4,
+  "duration": 3.6,
+  "text": "test with significant results. The model"
+ },
+ {
+  "start": 504.32,
+  "duration": 4.16,
+  "text": "carried out over 600 iterations using"
+ },
+ {
+  "start": 506.0,
+  "duration": 3.96,
+  "text": "more than 6,000 tool calls to deliver 6x"
+ },
+ {
+  "start": 508.48,
+  "duration": 4.64,
+  "text": "the performance of a standard 50-turn"
+ },
+ {
+  "start": 509.96,
+  "duration": 4.92,
+  "text": "session. Z.ai leader Lu wrote on X,"
+ },
+ {
+  "start": 513.12,
+  "duration": 5.0,
+  "text": "\"Agents could do about 20 steps by the"
+ },
+ {
+  "start": 514.88,
+  "duration": 5.08,
+  "text": "end of last year. GLM 5.1 can do 1,700"
+ },
+ {
+  "start": 518.12,
+  "duration": 3.32,
+  "text": "right now. Autonomous work time may be"
+ },
+ {
+  "start": 519.96,
+  "duration": 3.8,
+  "text": "the most important curve after scaling"
+ },
+ {
+  "start": 521.44,
+  "duration": 3.36,
+  "text": "laws. GLM 5.1 will be the first point on"
+ },
+ {
+  "start": 523.76,
+  "duration": 2.56,
+  "text": "that curve that the open source"
+ },
+ {
+  "start": 524.8,
+  "duration": 2.8,
+  "text": "community can verify with their own"
+ },
+ {
+  "start": 526.32,
+  "duration": 2.72,
+  "text": "hands.\""
+ },
+ {
+  "start": 527.6,
+  "duration": 2.64,
+  "text": "Now, of course, whenever a company"
+ },
+ {
+  "start": 529.04,
+  "duration": 2.28,
+  "text": "reports their own benchmarks, it's"
+ },
+ {
+  "start": 530.24,
+  "duration": 2.52,
+  "text": "always worth taking it with a grain of"
+ },
+ {
+  "start": 531.32,
+  "duration": 2.8,
+  "text": "salt and waiting to see what the actual"
+ },
+ {
+  "start": 532.76,
+  "duration": 3.04,
+  "text": "vibes are around it as people get their"
+ },
+ {
+  "start": 534.12,
+  "duration": 3.36,
+  "text": "hands on it. But at least at first"
+ },
+ {
+  "start": 535.8,
+  "duration": 3.72,
+  "text": "glance, the model looks like a big step"
+ },
+ {
+  "start": 537.48,
+  "duration": 4.6,
+  "text": "up for Chinese AI. It was trained"
+ },
+ {
+  "start": 539.52,
+  "duration": 4.04,
+  "text": "entirely on less powerful Huawei chips,"
+ },
+ {
+  "start": 542.08,
+  "duration": 3.12,
+  "text": "again demonstrating that the Chinese"
+ },
+ {
+  "start": 543.56,
+  "duration": 4.0,
+  "text": "hardware stack can produce some powerful"
+ },
+ {
+  "start": 545.2,
+  "duration": 4.36,
+  "text": "results. Also, coming just two months"
+ },
+ {
+  "start": 547.56,
+  "duration": 4.6,
+  "text": "after the release of Opus 4.6 and GPT"
+ },
+ {
+  "start": 549.56,
+  "duration": 3.84,
+  "text": "5.4, it suggests the US continues to be"
+ },
+ {
+  "start": 552.16,
+  "duration": 2.48,
+  "text": "only months ahead of their Chinese"
+ },
+ {
+  "start": 553.4,
+  "duration": 2.72,
+  "text": "rivals."
+ },
+ {
+  "start": 554.64,
+  "duration": 3.52,
+  "text": "Leet LLMs summed up the gap in the"
+ },
+ {
+  "start": 556.12,
+  "duration": 3.52,
+  "text": "conversation on X, saying, \"Everyone's"
+ },
+ {
+  "start": 558.16,
+  "duration": 3.56,
+  "text": "freaking out about Claude Mythos while"
+ },
+ {
+  "start": 559.64,
+  "duration": 5.04,
+  "text": "Z.ai casually open sourced a model built"
+ },
+ {
+  "start": 561.72,
+  "duration": 5.32,
+  "text": "for eight-hour autonomous execution.\""
+ },
+ {
+  "start": 564.68,
+  "duration": 3.6,
+  "text": "Now, speaking of Claude and Anthropic,"
+ },
+ {
+  "start": 567.04,
+  "duration": 2.72,
+  "text": "if you thought they were going to slow"
+ },
+ {
+  "start": 568.28,
+  "duration": 3.16,
+  "text": "down for the sake of discussion around"
+ },
+ {
+  "start": 569.76,
+  "duration": 3.04,
+  "text": "Mythos, think again."
+ },
+ {
+  "start": 571.44,
+  "duration": 3.64,
+  "text": "On Wednesday afternoon, the company"
+ },
+ {
+  "start": 572.8,
+  "duration": 3.72,
+  "text": "announced Claude Managed Agents, which"
+ },
+ {
+  "start": 575.08,
+  "duration": 3.8,
+  "text": "they're pitching as everything you need"
+ },
+ {
+  "start": 576.52,
+  "duration": 3.56,
+  "text": "to build and deploy agents at scale. In"
+ },
+ {
+  "start": 578.88,
+  "duration": 3.48,
+  "text": "their announcement tweet, which has been"
+ },
+ {
+  "start": 580.08,
+  "duration": 4.04,
+  "text": "seen 16 million times, they write that"
+ },
+ {
+  "start": 582.36,
+  "duration": 3.24,
+  "text": "Claude Managed Agents pairs an agent"
+ },
+ {
+  "start": 584.12,
+  "duration": 3.32,
+  "text": "harness tuned for performance with"
+ },
+ {
+  "start": 585.6,
+  "duration": 4.12,
+  "text": "production infrastructure, so you can go"
+ },
+ {
+  "start": 587.44,
+  "duration": 4.0,
+  "text": "from prototype to launch in days. It"
+ },
+ {
+  "start": 589.72,
+  "duration": 3.16,
+  "text": "seems like part of the goal with this is"
+ },
+ {
+  "start": 591.44,
+  "duration": 3.12,
+  "text": "to close the capability gap that we've"
+ },
+ {
+  "start": 592.88,
+  "duration": 2.92,
+  "text": "been following on the show as well."
+ },
+ {
+  "start": 594.56,
+  "duration": 3.8,
+  "text": "Anthropic's head of product for the"
+ },
+ {
+  "start": 595.8,
+  "duration": 4.4,
+  "text": "Claude platform, Angela Jiang, argued to"
+ },
+ {
+  "start": 598.36,
+  "duration": 3.2,
+  "text": "Wired that there is a quote notable gap"
+ },
+ {
+  "start": 600.2,
+  "duration": 3.2,
+  "text": "between what Anthropic's models are"
+ },
+ {
+  "start": 601.56,
+  "duration": 3.76,
+  "text": "capable of and what businesses are using"
+ },
+ {
+  "start": 603.4,
+  "duration": 4.12,
+  "text": "them for. This tool is meant to close"
+ },
+ {
+  "start": 605.32,
+  "duration": 3.32,
+  "text": "that gap. Here's how Wired describes it,"
+ },
+ {
+  "start": 607.52,
+  "duration": 2.88,
+  "text": "which is actually one of the simpler"
+ },
+ {
+  "start": 608.64,
+  "duration": 3.48,
+  "text": "explanations that I saw."
+ },
+ {
+  "start": 610.4,
+  "duration": 3.4,
+  "text": "Managed agents will give developers an"
+ },
+ {
+  "start": 612.12,
+  "duration": 2.92,
+  "text": "agent harness, which describes all the"
+ },
+ {
+  "start": 613.8,
+  "duration": 2.64,
+  "text": "software infrastructure that wraps"
+ },
+ {
+  "start": 615.04,
+  "duration": 3.52,
+  "text": "around an AI model to help it work"
+ },
+ {
+  "start": 616.44,
+  "duration": 4.24,
+  "text": "agentically or take actions on behalf of"
+ },
+ {
+  "start": 618.56,
+  "duration": 3.88,
+  "text": "a user. In practice, a harness is made"
+ },
+ {
+  "start": 620.68,
+  "duration": 3.64,
+  "text": "up of software tools, a memory system,"
+ },
+ {
+  "start": 622.44,
+  "duration": 3.6,
+  "text": "and other infrastructure. Agents made"
+ },
+ {
+  "start": 624.32,
+  "duration": 3.0,
+  "text": "through Claude managed agent will also"
+ },
+ {
+  "start": 626.04,
+  "duration": 2.8,
+  "text": "come with a built-in sandboxed"
+ },
+ {
+  "start": 627.32,
+  "duration": 2.88,
+  "text": "environment in which the agent can spin"
+ },
+ {
+  "start": 628.84,
+  "duration": 2.96,
+  "text": "up software projects in a secure"
+ },
+ {
+  "start": 630.2,
+  "duration": 3.04,
+  "text": "setting. The product also allows"
+ },
+ {
+  "start": 631.8,
+  "duration": 3.28,
+  "text": "developers to create agents that can run"
+ },
+ {
+  "start": 633.24,
+  "duration": 3.16,
+  "text": "autonomously for hours in the cloud,"
+ },
+ {
+  "start": 635.08,
+  "duration": 2.88,
+  "text": "monitor what other Claude agents are"
+ },
+ {
+  "start": 636.4,
+  "duration": 3.68,
+  "text": "doing, and toggle permissions that allow"
+ },
+ {
+  "start": 637.96,
+  "duration": 3.32,
+  "text": "agents to access certain tools."
+ },
+ {
+  "start": 640.08,
+  "duration": 2.92,
+  "text": "Caitlin Leslie, the head of engineering"
+ },
+ {
+  "start": 641.28,
+  "duration": 3.36,
+  "text": "for the Claude platform, said, \"When it"
+ },
+ {
+  "start": 643.0,
+  "duration": 3.2,
+  "text": "comes to actually deploying and running"
+ },
+ {
+  "start": 644.64,
+  "duration": 3.56,
+  "text": "agents at scale, this is a complex"
+ },
+ {
+  "start": 646.2,
+  "duration": 3.48,
+  "text": "distributed systems engineering problem."
+ },
+ {
+  "start": 648.2,
+  "duration": 2.6,
+  "text": "A lot of customers we're talking about"
+ },
+ {
+  "start": 649.68,
+  "duration": 2.64,
+  "text": "previously had a whole bunch of"
+ },
+ {
+  "start": 650.8,
+  "duration": 3.72,
+  "text": "engineers whose job it would have been"
+ },
+ {
+  "start": 652.32,
+  "duration": 3.6,
+  "text": "to build and run those systems at scale."
+ },
+ {
+  "start": 654.52,
+  "duration": 2.88,
+  "text": "Now that we are giving them that bit out"
+ },
+ {
+  "start": 655.92,
+  "duration": 2.88,
+  "text": "of the box, they're able to have those"
+ },
+ {
+  "start": 657.4,
+  "duration": 2.52,
+  "text": "same engineers be focused on core"
+ },
+ {
+  "start": 658.8,
+  "duration": 3.36,
+  "text": "competencies of business and their"
+ },
+ {
+  "start": 659.92,
+  "duration": 3.96,
+  "text": "product.\" One of the demos provided was"
+ },
+ {
+  "start": 662.16,
+  "duration": 3.4,
+  "text": "in collaboration with Notion, with"
+ },
+ {
+  "start": 663.88,
+  "duration": 2.92,
+  "text": "product manager Eric Lew showing how he"
+ },
+ {
+  "start": 665.56,
+  "duration": 2.84,
+  "text": "can offload a string of client"
+ },
+ {
+  "start": 666.8,
+  "duration": 3.6,
+  "text": "onboarding tasks to his customized"
+ },
+ {
+  "start": 668.4,
+  "duration": 3.439,
+  "text": "Claude agent. The big point was that the"
+ },
+ {
+  "start": 670.4,
+  "duration": 2.92,
+  "text": "agent was running natively in Notion"
+ },
+ {
+  "start": 671.839,
+  "duration": 3.241,
+  "text": "with full access to everything it needed"
+ },
+ {
+  "start": 673.32,
+  "duration": 2.96,
+  "text": "to complete the task. Rather than"
+ },
+ {
+  "start": 675.08,
+  "duration": 2.72,
+  "text": "needing to spend days setting up"
+ },
+ {
+  "start": 676.28,
+  "duration": 3.44,
+  "text": "permissions, validating workflows, and"
+ },
+ {
+  "start": 677.8,
+  "duration": 3.52,
+  "text": "figuring out local hosting, Lew was able"
+ },
+ {
+  "start": 679.72,
+  "duration": 3.88,
+  "text": "to drop the managed agent in using a"
+ },
+ {
+  "start": 681.32,
+  "duration": 3.8,
+  "text": "virtual session. The platform also"
+ },
+ {
+  "start": 683.6,
+  "duration": 3.08,
+  "text": "allows companies like Notion to build"
+ },
+ {
+  "start": 685.12,
+  "duration": 3.4,
+  "text": "their own agents on top of Claude and"
+ },
+ {
+  "start": 686.68,
+  "duration": 3.6,
+  "text": "offer them externally, bringing agents"
+ },
+ {
+  "start": 688.52,
+  "duration": 3.76,
+  "text": "to market more rapidly."
+ },
+ {
+  "start": 690.28,
+  "duration": 3.64,
+  "text": "Anthropic's Alex Albert writes, \"Managed"
+ },
+ {
+  "start": 692.28,
+  "duration": 3.2,
+  "text": "agents eliminates all the complexity of"
+ },
+ {
+  "start": 693.92,
+  "duration": 2.8,
+  "text": "self-hosting an agent, but still allows"
+ },
+ {
+  "start": 695.48,
+  "duration": 2.52,
+  "text": "a great degree of flexibility with"
+ },
+ {
+  "start": 696.72,
+  "duration": 2.4,
+  "text": "setting up your harness, tools, skills,"
+ },
+ {
+  "start": 698.0,
+  "duration": 3.28,
+  "text": "etc.\""
+ },
+ {
+  "start": 699.12,
+  "duration": 4.12,
+  "text": "Claude Code's Tariq writes, \"Managed"
+ },
+ {
+  "start": 701.28,
+  "duration": 4.12,
+  "text": "agents is the first agent in the Claude"
+ },
+ {
+  "start": 703.24,
+  "duration": 4.24,
+  "text": "API that has the right mix of simplicity"
+ },
+ {
+  "start": 705.4,
+  "duration": 3.4,
+  "text": "and complexity. Implementation details"
+ },
+ {
+  "start": 707.48,
+  "duration": 2.88,
+  "text": "like how you manage a sandbox are"
+ },
+ {
+  "start": 708.8,
+  "duration": 3.16,
+  "text": "abstracted, but you have a lot of"
+ },
+ {
+  "start": 710.36,
+  "duration": 2.88,
+  "text": "control over the actual execution of the"
+ },
+ {
+  "start": 711.96,
+  "duration": 3.2,
+  "text": "model.\""
+ },
+ {
+  "start": 713.24,
+  "duration": 3.8,
+  "text": "Anthropic's Lance Martin gave a bunch of"
+ },
+ {
+  "start": 715.16,
+  "duration": 4.2,
+  "text": "examples of what characteristics agents"
+ },
+ {
+  "start": 717.04,
+  "duration": 4.24,
+  "text": "being built with managed agents had. He"
+ },
+ {
+  "start": 719.36,
+  "duration": 3.56,
+  "text": "writes, \"Some of the common patterns"
+ },
+ {
+  "start": 721.28,
+  "duration": 3.559,
+  "text": "I've noticed across examples in my own"
+ },
+ {
+  "start": 722.92,
+  "duration": 4.04,
+  "text": "work, event-triggered, a service"
+ },
+ {
+  "start": 724.839,
+  "duration": 3.841,
+  "text": "triggers the managed agent to do a task."
+ },
+ {
+  "start": 726.96,
+  "duration": 3.2,
+  "text": "For example, a system flags a bug and a"
+ },
+ {
+  "start": 728.68,
+  "duration": 3.56,
+  "text": "managed agent writes the patch and opens"
+ },
+ {
+  "start": 730.16,
+  "duration": 3.52,
+  "text": "the PR. No human in the loop between"
+ },
+ {
+  "start": 732.24,
+  "duration": 3.08,
+  "text": "flag and action."
+ },
+ {
+  "start": 733.68,
+  "duration": 4.0,
+  "text": "Scheduled, managed agent is scheduled to"
+ },
+ {
+  "start": 735.32,
+  "duration": 3.88,
+  "text": "do a task. For example, I and many"
+ },
+ {
+  "start": 737.68,
+  "duration": 4.04,
+  "text": "others use this platform for scheduled"
+ },
+ {
+  "start": 739.2,
+  "duration": 4.48,
+  "text": "daily briefs, e.g. of X/Twitter or"
+ },
+ {
+  "start": 741.72,
+  "duration": 3.64,
+  "text": "GitHub activity, what a team of agents"
+ },
+ {
+  "start": 743.68,
+  "duration": 3.12,
+  "text": "is working on, etc.\""
+ },
+ {
+  "start": 745.36,
+  "duration": 3.12,
+  "text": "He also talks about fire and forget"
+ },
+ {
+  "start": 746.8,
+  "duration": 3.64,
+  "text": "tasks, with humans triggering the"
+ },
+ {
+  "start": 748.48,
+  "duration": 4.72,
+  "text": "managed agent to do a task via Slack or"
+ },
+ {
+  "start": 750.44,
+  "duration": 5.32,
+  "text": "Teams, and long-horizon tasks, like"
+ },
+ {
+  "start": 753.2,
+  "duration": 3.72,
+  "text": "Andrej Karpathy's auto research idea."
+ },
+ {
+  "start": 755.76,
+  "duration": 2.88,
+  "text": "Now, it's early, but some of the first"
+ },
+ {
+  "start": 756.92,
+  "duration": 3.04,
+  "text": "experiments seem to validate some of"
+ },
+ {
+  "start": 758.64,
+  "duration": 3.32,
+  "text": "those patterns."
+ },
+ {
+  "start": 759.96,
+  "duration": 3.36,
+  "text": "Jared Orkin writes, \"You no longer need"
+ },
+ {
+  "start": 761.96,
+  "duration": 3.24,
+  "text": "an engineer to run an overnight"
+ },
+ {
+  "start": 763.32,
+  "duration": 3.64,
+  "text": "marketing analysis. You need one sharp"
+ },
+ {
+  "start": 765.2,
+  "duration": 3.12,
+  "text": "operator in an afternoon. Set the"
+ },
+ {
+  "start": 766.96,
+  "duration": 3.32,
+  "text": "schedule, set the guardrails, and walk"
+ },
+ {
+  "start": 768.32,
+  "duration": 3.84,
+  "text": "away. Anthropic runs the infrastructure,"
+ },
+ {
+  "start": 770.28,
+  "duration": 3.44,
+  "text": "you pay per session hour.\""
+ },
+ {
+  "start": 772.16,
+  "duration": 3.12,
+  "text": "Now, he points out though, the catch"
+ },
+ {
+  "start": 773.72,
+  "duration": 3.04,
+  "text": "nobody's saying out loud, \"Someone still"
+ },
+ {
+  "start": 775.28,
+  "duration": 3.28,
+  "text": "has to tune the prompt every Friday and"
+ },
+ {
+  "start": 776.76,
+  "duration": 3.8,
+  "text": "act on the brief by 9:00 a.m. Monday.\""
+ },
+ {
+  "start": 778.56,
+  "duration": 3.48,
+  "text": "That's a job. That's the job we staff."
+ },
+ {
+  "start": 780.56,
+  "duration": 2.84,
+  "text": "The agent writes the brief, the operator"
+ },
+ {
+  "start": 782.04,
+  "duration": 2.799,
+  "text": "runs the day."
+ },
+ {
+  "start": 783.4,
+  "duration": 3.24,
+  "text": "Pawel Huron started working on something"
+ },
+ {
+  "start": 784.839,
+  "duration": 3.201,
+  "text": "similar to what I was trying last night."
+ },
+ {
+  "start": 786.64,
+  "duration": 3.28,
+  "text": "He writes, \"I built my first managed"
+ },
+ {
+  "start": 788.04,
+  "duration": 3.36,
+  "text": "agent, surprised how easy it was. You"
+ },
+ {
+  "start": 789.92,
+  "duration": 2.919,
+  "text": "describe what you want in plain English,"
+ },
+ {
+  "start": 791.4,
+  "duration": 4.04,
+  "text": "the platform generates a full agent"
+ },
+ {
+  "start": 792.839,
+  "duration": 4.681,
+  "text": "config, model, system prompt, tools, MCP"
+ },
+ {
+  "start": 795.44,
+  "duration": 4.12,
+  "text": "servers, permission policies, all in"
+ },
+ {
+  "start": 797.52,
+  "duration": 3.4,
+  "text": "YAML you can edit. I asked for an email"
+ },
+ {
+  "start": 799.56,
+  "duration": 2.56,
+  "text": "reader that needs my approval before"
+ },
+ {
+  "start": 800.92,
+  "duration": 3.24,
+  "text": "acting.\""
+ },
+ {
+  "start": 802.12,
+  "duration": 3.96,
+  "text": "Now, one thing he also notes that is not"
+ },
+ {
+  "start": 804.16,
+  "duration": 3.32,
+  "text": "available yet, exactly, although it's"
+ },
+ {
+  "start": 806.08,
+  "duration": 3.8,
+  "text": "something that they're working on, is"
+ },
+ {
+  "start": 807.48,
+  "duration": 4.08,
+  "text": "persistent memory across sessions."
+ },
+ {
+  "start": 809.88,
+  "duration": 3.32,
+  "text": "That means that the types of tasks that"
+ },
+ {
+  "start": 811.56,
+  "duration": 3.24,
+  "text": "managed agents is well-suited for right"
+ },
+ {
+  "start": 813.2,
+  "duration": 3.32,
+  "text": "now are a little bit more transactional"
+ },
+ {
+  "start": 814.8,
+  "duration": 3.0,
+  "text": "and discrete. For example, some of the"
+ },
+ {
+  "start": 816.52,
+  "duration": 3.2,
+  "text": "agents that I've been experimenting with"
+ },
+ {
+  "start": 817.8,
+  "duration": 4.12,
+  "text": "recently are basically persistent"
+ },
+ {
+  "start": 819.72,
+  "duration": 4.0,
+  "text": "learners that help with AI strategy from"
+ },
+ {
+  "start": 821.92,
+  "duration": 3.28,
+  "text": "within Slack, which effectively is sort"
+ },
+ {
+  "start": 823.72,
+  "duration": 3.48,
+  "text": "of an agentic version of what we do at"
+ },
+ {
+  "start": 825.2,
+  "duration": 3.48,
+  "text": "Superintelligent, but that persistence"
+ },
+ {
+  "start": 827.2,
+  "duration": 2.76,
+  "text": "isn't exactly well-suited to the way"
+ },
+ {
+  "start": 828.68,
+  "duration": 2.4,
+  "text": "that they built managed agents right"
+ },
+ {
+  "start": 829.96,
+  "duration": 2.2,
+  "text": "now."
+ },
+ {
+  "start": 831.08,
+  "duration": 2.8,
+  "text": "Still, there is clearly going to be a"
+ },
+ {
+  "start": 832.16,
+  "duration": 2.92,
+  "text": "ton of people building with these tools,"
+ },
+ {
+  "start": 833.88,
+  "duration": 3.08,
+  "text": "and I think it's going to very quickly"
+ },
+ {
+  "start": 835.08,
+  "duration": 3.84,
+  "text": "become a core part of Claude and Claude"
+ },
+ {
+  "start": 836.96,
+  "duration": 4.16,
+  "text": "Code ecosystem."
+ },
+ {
+  "start": 838.92,
+  "duration": 4.16,
+  "text": "Lastly this week, one that seems little"
+ },
+ {
+  "start": 841.12,
+  "duration": 4.2,
+  "text": "at first, but which is a massive quality"
+ },
+ {
+  "start": 843.08,
+  "duration": 3.72,
+  "text": "of life upgrade, Google has introduced"
+ },
+ {
+  "start": 845.32,
+  "duration": 2.8,
+  "text": "what they're calling notebooks in"
+ },
+ {
+  "start": 846.8,
+  "duration": 2.92,
+  "text": "Gemini."
+ },
+ {
+  "start": 848.12,
+  "duration": 3.92,
+  "text": "Up to now, the way you manage projects"
+ },
+ {
+  "start": 849.72,
+  "duration": 4.32,
+  "text": "in Gemini was frankly a little weird and"
+ },
+ {
+  "start": 852.04,
+  "duration": 3.52,
+  "text": "unintuitive. They had their Gems"
+ },
+ {
+  "start": 854.04,
+  "duration": 3.72,
+  "text": "feature, which was sort of, but not"
+ },
+ {
+  "start": 855.56,
+  "duration": 3.92,
+  "text": "exactly, a version of projects in the"
+ },
+ {
+  "start": 857.76,
+  "duration": 3.72,
+  "text": "way that you would manage it in ChatGPT"
+ },
+ {
+  "start": 859.48,
+  "duration": 3.64,
+  "text": "or Claude, but now this new notebooks"
+ },
+ {
+  "start": 861.48,
+  "duration": 4.2,
+  "text": "functionality is much more directly"
+ },
+ {
+  "start": 863.12,
+  "duration": 4.719,
+  "text": "that, allowing users to organize,"
+ },
+ {
+  "start": 865.68,
+  "duration": 4.8,
+  "text": "collate a set of resources, documents,"
+ },
+ {
+  "start": 867.839,
+  "duration": 4.041,
+  "text": "contacts, etc. for particular tasks."
+ },
+ {
+  "start": 870.48,
+  "duration": 2.92,
+  "text": "Users can also build out custom"
+ },
+ {
+  "start": 871.88,
+  "duration": 3.12,
+  "text": "instruction sets for Gemini within their"
+ },
+ {
+  "start": 873.4,
+  "duration": 2.96,
+  "text": "notebooks, allowing them to modify the"
+ },
+ {
+  "start": 875.0,
+  "duration": 2.44,
+  "text": "model for each different project they"
+ },
+ {
+  "start": 876.36,
+  "duration": 2.88,
+  "text": "have."
+ },
+ {
+  "start": 877.44,
+  "duration": 3.36,
+  "text": "Still, Josh Woodward from Google argues"
+ },
+ {
+  "start": 879.24,
+  "duration": 4.36,
+  "text": "that this goes beyond the normal project"
+ },
+ {
+  "start": 880.8,
+  "duration": 5.039,
+  "text": "settings. He writes, \"Most AI chatbots"
+ },
+ {
+  "start": 883.6,
+  "duration": 3.96,
+  "text": "give you basic projects. Gemini just"
+ },
+ {
+  "start": 885.839,
+  "duration": 3.721,
+  "text": "built you a second brain.\""
+ },
+ {
+  "start": 887.56,
+  "duration": 4.0,
+  "text": "He goes on to call notebooks some of the"
+ },
+ {
+  "start": 889.56,
+  "duration": 4.6,
+  "text": "magic of Notebook LM directly integrated"
+ },
+ {
+  "start": 891.56,
+  "duration": 4.0,
+  "text": "into Gemini app. Basically, you can take"
+ },
+ {
+  "start": 894.16,
+  "duration": 3.44,
+  "text": "the resource management that you're"
+ },
+ {
+  "start": 895.56,
+  "duration": 3.56,
+  "text": "doing in Notebook LM and put it directly"
+ },
+ {
+  "start": 897.6,
+  "duration": 3.0,
+  "text": "in the Gemini app."
+ },
+ {
+  "start": 899.12,
+  "duration": 3.24,
+  "text": "Writes Google, \"Think of notebooks as"
+ },
+ {
+  "start": 900.6,
+  "duration": 4.239,
+  "text": "personal knowledge bases shared across"
+ },
+ {
+  "start": 902.36,
+  "duration": 3.96,
+  "text": "Google products, starting in Gemini.\""
+ },
+ {
+  "start": 904.839,
+  "duration": 3.12,
+  "text": "Now, one of the common critiques you"
+ },
+ {
+  "start": 906.32,
+  "duration": 3.44,
+  "text": "will hear when it comes to Google is"
+ },
+ {
+  "start": 907.959,
+  "duration": 3.441,
+  "text": "that even if people like their models,"
+ },
+ {
+  "start": 909.76,
+  "duration": 3.12,
+  "text": "the product suite is so spread out"
+ },
+ {
+  "start": 911.4,
+  "duration": 3.32,
+  "text": "across all the different surface areas"
+ },
+ {
+  "start": 912.88,
+  "duration": 3.0,
+  "text": "that people interact with Google through"
+ },
+ {
+  "start": 914.72,
+  "duration": 2.44,
+  "text": "that it can be confusing and even"
+ },
+ {
+  "start": 915.88,
+  "duration": 3.04,
+  "text": "overwhelming."
+ },
+ {
+  "start": 917.16,
+  "duration": 4.0,
+  "text": "It makes sense then, based on that, to"
+ },
+ {
+  "start": 918.92,
+  "duration": 4.159,
+  "text": "see them start to consolidate, if not"
+ },
+ {
+  "start": 921.16,
+  "duration": 3.919,
+  "text": "the surface area of the products, the"
+ },
+ {
+  "start": 923.079,
+  "duration": 3.921,
+  "text": "transportability of the features across"
+ },
+ {
+  "start": 925.079,
+  "duration": 3.801,
+  "text": "those different surface areas, so that"
+ },
+ {
+  "start": 927.0,
+  "duration": 3.56,
+  "text": "effectively any door you walk in gets"
+ },
+ {
+  "start": 928.88,
+  "duration": 3.04,
+  "text": "you to the same room."
+ },
+ {
+  "start": 930.56,
+  "duration": 2.6,
+  "text": "This may not be a full model, but I"
+ },
+ {
+  "start": 931.92,
+  "duration": 3.2,
+  "text": "think when it comes to many Gemini"
+ },
+ {
+  "start": 933.16,
+  "duration": 3.4,
+  "text": "users' day-to-day experience, this will"
+ },
+ {
+  "start": 935.12,
+  "duration": 4.56,
+  "text": "be an even bigger improvement than if"
+ },
+ {
+  "start": 936.56,
+  "duration": 4.44,
+  "text": "they had released Gemini 3.3."
+ },
+ {
+  "start": 939.68,
+  "duration": 2.36,
+  "text": "Now, for those of you who are interested"
+ },
+ {
+  "start": 941.0,
+  "duration": 2.68,
+  "text": "in going a little bit deeper in"
+ },
+ {
+  "start": 942.04,
+  "duration": 3.08,
+  "text": "Anthropic managed agents, I think I'm"
+ },
+ {
+  "start": 943.68,
+  "duration": 2.88,
+  "text": "going to do a main episode about harness"
+ },
+ {
+  "start": 945.12,
+  "duration": 3.24,
+  "text": "engineering soon, where we'll dig deeper"
+ },
+ {
+  "start": 946.56,
+  "duration": 3.04,
+  "text": "into that. For now, however, that's"
+ },
+ {
+  "start": 948.36,
+  "duration": 2.719,
+  "text": "going to do it for today's AI Daily"
+ },
+ {
+  "start": 949.6,
+  "duration": 3.12,
+  "text": "Brief. Appreciate you listening or"
+ },
+ {
+  "start": 951.079,
+  "duration": 4.681,
+  "text": "watching, as always, and until next"
+ },
+ {
+  "start": 952.72,
+  "duration": 3.04,
+  "text": "time, peace."
+ }
+]

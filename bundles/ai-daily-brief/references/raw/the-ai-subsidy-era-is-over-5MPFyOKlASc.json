@@ -1,0 +1,3622 @@
+[
+ {
+  "start": 0.92,
+  "duration": 5.36,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 2.8,
+  "duration": 5.12,
+  "text": "AI's subsidy era is coming to a close."
+ },
+ {
+  "start": 6.28,
+  "duration": 3.76,
+  "text": "Today we're exploring the implications"
+ },
+ {
+  "start": 7.92,
+  "duration": 4.32,
+  "text": "for everything from markets to job"
+ },
+ {
+  "start": 10.04,
+  "duration": 3.88,
+  "text": "displacement to how your company uses"
+ },
+ {
+  "start": 12.24,
+  "duration": 3.4,
+  "text": "AI."
+ },
+ {
+  "start": 13.92,
+  "duration": 3.2,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 15.64,
+  "duration": 4.88,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 17.12,
+  "duration": 3.4,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 22.36,
+  "duration": 3.0,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 23.72,
+  "duration": 4.08,
+  "text": "before we dive in. Big one I would point"
+ },
+ {
+  "start": 25.36,
+  "duration": 4.44,
+  "text": "you to, of course, is the new Agent OS"
+ },
+ {
+  "start": 27.8,
+  "duration": 4.56,
+  "text": "agentic [music] operating system free"
+ },
+ {
+  "start": 29.8,
+  "duration": 4.2,
+  "text": "self-paced training program. It's been 2"
+ },
+ {
+  "start": 32.36,
+  "duration": 3.68,
+  "text": "days, more than 2,000 of you have signed"
+ },
+ {
+  "start": 34.0,
+  "duration": 3.92,
+  "text": "up. You are very clearly interested in"
+ },
+ {
+  "start": 36.04,
+  "duration": 3.88,
+  "text": "building agentic operating systems for"
+ },
+ {
+  "start": 37.92,
+  "duration": 4.36,
+  "text": "good reason. Go check it out. Again, you"
+ },
+ {
+  "start": 39.92,
+  "duration": 3.64,
+  "text": "can find a link on AI Daily Brief.ai."
+ },
+ {
+  "start": 42.28,
+  "duration": 3.44,
+  "text": "And finally, if you want a more"
+ },
+ {
+  "start": 43.56,
+  "duration": 3.72,
+  "text": "practical bent to this conversation, at"
+ },
+ {
+  "start": 45.72,
+  "duration": 3.56,
+  "text": "the end of the episode, I talk about"
+ },
+ {
+  "start": 47.28,
+  "duration": 4.16,
+  "text": "five practical moves for enterprises to"
+ },
+ {
+  "start": 49.28,
+  "duration": 4.2,
+  "text": "bring agents online in this new cost"
+ },
+ {
+  "start": 51.44,
+  "duration": 3.88,
+  "text": "era. There is a companion document at"
+ },
+ {
+  "start": 53.48,
+  "duration": 3.24,
+  "text": "play.aidailybrief.ai"
+ },
+ {
+  "start": 55.32,
+  "duration": 3.56,
+  "text": "that has those five steps that you can"
+ },
+ {
+  "start": 56.72,
+  "duration": 3.88,
+  "text": "get a checklist for. For this episode,"
+ },
+ {
+  "start": 58.88,
+  "duration": 3.56,
+  "text": "we are going main only. We will be back"
+ },
+ {
+  "start": 60.6,
+  "duration": 3.56,
+  "text": "with the headlines tomorrow."
+ },
+ {
+  "start": 62.44,
+  "duration": 4.36,
+  "text": "Today we are talking about what is a"
+ },
+ {
+  "start": 64.16,
+  "duration": 4.8,
+  "text": "fairly significant secular shift in the"
+ },
+ {
+  "start": 66.8,
+  "duration": 4.28,
+  "text": "AI space. To put it simply, it is"
+ },
+ {
+  "start": 68.96,
+  "duration": 4.68,
+  "text": "increasingly the case that when you pay"
+ },
+ {
+  "start": 71.08,
+  "duration": 4.88,
+  "text": "for AI, you will be actually paying for"
+ },
+ {
+  "start": 73.64,
+  "duration": 4.04,
+  "text": "what the AI costs. Now, you might be"
+ },
+ {
+  "start": 75.96,
+  "duration": 3.52,
+  "text": "sitting there thinking, wait, isn't that"
+ },
+ {
+  "start": 77.68,
+  "duration": 3.88,
+  "text": "exactly what I've been doing? Especially"
+ },
+ {
+  "start": 79.48,
+  "duration": 4.8,
+  "text": "if you're on one of these expensive $200"
+ },
+ {
+  "start": 81.56,
+  "duration": 4.72,
+  "text": "a month plus plans. It turns out that"
+ },
+ {
+  "start": 84.28,
+  "duration": 3.64,
+  "text": "even those expensive plans, in many"
+ },
+ {
+  "start": 86.28,
+  "duration": 3.72,
+  "text": "cases, are not actually covering the"
+ },
+ {
+  "start": 87.92,
+  "duration": 3.96,
+  "text": "cost to serve you the AI you're using."
+ },
+ {
+  "start": 90.0,
+  "duration": 3.76,
+  "text": "And as we move deeper into the agentic"
+ },
+ {
+  "start": 91.88,
+  "duration": 2.88,
+  "text": "era, the price reckoning is finally"
+ },
+ {
+  "start": 93.76,
+  "duration": 2.48,
+  "text": "here."
+ },
+ {
+  "start": 94.76,
+  "duration": 3.36,
+  "text": "Now, this has been bubbling for some"
+ },
+ {
+  "start": 96.24,
+  "duration": 4.24,
+  "text": "time. There have been indicators for a"
+ },
+ {
+  "start": 98.12,
+  "duration": 4.04,
+  "text": "while that at least power users well"
+ },
+ {
+  "start": 100.48,
+  "duration": 3.76,
+  "text": "more AI than even the most expensive"
+ },
+ {
+  "start": 102.16,
+  "duration": 3.52,
+  "text": "models accounted for. Some pointed to"
+ },
+ {
+  "start": 104.24,
+  "duration": 3.12,
+  "text": "the fact that this is a pretty standard"
+ },
+ {
+  "start": 105.68,
+  "duration": 3.24,
+  "text": "part of the venture-backed cycle, where"
+ },
+ {
+  "start": 107.36,
+  "duration": 2.88,
+  "text": "in the early days a company can serve"
+ },
+ {
+  "start": 108.92,
+  "duration": 2.88,
+  "text": "things unprofitably because they are"
+ },
+ {
+  "start": 110.24,
+  "duration": 3.56,
+  "text": "subsidizing their product or service"
+ },
+ {
+  "start": 111.8,
+  "duration": 3.72,
+  "text": "with venture capital. Just last week The"
+ },
+ {
+  "start": 113.8,
+  "duration": 4.0,
+  "text": "Verge published a piece, \"You're about"
+ },
+ {
+  "start": 115.52,
+  "duration": 3.64,
+  "text": "to feel the AI money squeeze.\" Ads, rate"
+ },
+ {
+  "start": 117.8,
+  "duration": 4.0,
+  "text": "limits, feature restrictions, price"
+ },
+ {
+  "start": 119.16,
+  "duration": 4.4,
+  "text": "hikes, the AI free ride is over."
+ },
+ {
+  "start": 121.8,
+  "duration": 3.56,
+  "text": "That article, like many others, did"
+ },
+ {
+  "start": 123.56,
+  "duration": 3.48,
+  "text": "connect this back to one of the last"
+ },
+ {
+  "start": 125.36,
+  "duration": 3.8,
+  "text": "times we saw something like this, which"
+ },
+ {
+  "start": 127.04,
+  "duration": 3.8,
+  "text": "was the 2010s in what some, like The"
+ },
+ {
+  "start": 129.16,
+  "duration": 3.56,
+  "text": "Atlantic's Derek Thompson, called the"
+ },
+ {
+  "start": 130.84,
+  "duration": 3.48,
+  "text": "millennial lifestyle subsidy. In that"
+ },
+ {
+  "start": 132.72,
+  "duration": 3.28,
+  "text": "version, people were surprised when the"
+ },
+ {
+  "start": 134.32,
+  "duration": 3.56,
+  "text": "Ubers that they took and the DoorDash"
+ },
+ {
+  "start": 136.0,
+  "duration": 3.56,
+  "text": "fees that they used rose fairly"
+ },
+ {
+  "start": 137.88,
+  "duration": 3.48,
+  "text": "significantly, pretty fundamentally"
+ },
+ {
+  "start": 139.56,
+  "duration": 3.92,
+  "text": "changing their cost of living. Still, if"
+ },
+ {
+  "start": 141.36,
+  "duration": 3.88,
+  "text": "there is some relation in the pattern,"
+ },
+ {
+  "start": 143.48,
+  "duration": 3.6,
+  "text": "what we've got going on with AI is"
+ },
+ {
+  "start": 145.24,
+  "duration": 3.8,
+  "text": "different both in that that millennial"
+ },
+ {
+  "start": 147.08,
+  "duration": 3.64,
+  "text": "lifestyle subsidy was largely about what"
+ },
+ {
+  "start": 149.04,
+  "duration": 3.68,
+  "text": "should have been luxury goods being"
+ },
+ {
+  "start": 150.72,
+  "duration": 4.4,
+  "text": "priced like commodity goods, whereas the"
+ },
+ {
+  "start": 152.72,
+  "duration": 4.4,
+  "text": "usage of these AI tools is increasingly"
+ },
+ {
+  "start": 155.12,
+  "duration": 4.48,
+  "text": "deeply interwoven with how we actually"
+ },
+ {
+  "start": 157.12,
+  "duration": 4.36,
+  "text": "work. There's also the fact that AI is"
+ },
+ {
+  "start": 159.6,
+  "duration": 3.32,
+  "text": "playing at a size and a stakes that is"
+ },
+ {
+  "start": 161.48,
+  "duration": 3.36,
+  "text": "totally different than anything we've"
+ },
+ {
+  "start": 162.92,
+  "duration": 3.8,
+  "text": "seen in startups before."
+ },
+ {
+  "start": 164.84,
+  "duration": 4.48,
+  "text": "If you trace the big themes in AI in"
+ },
+ {
+  "start": 166.72,
+  "duration": 4.48,
+  "text": "2026, they're all fairly related. Part"
+ },
+ {
+  "start": 169.32,
+  "duration": 4.04,
+  "text": "one, at the beginning of the year, we"
+ },
+ {
+  "start": 171.2,
+  "duration": 3.44,
+  "text": "have this mass recognition that based on"
+ },
+ {
+  "start": 173.36,
+  "duration": 3.4,
+  "text": "updates to both the models and the"
+ },
+ {
+  "start": 174.64,
+  "duration": 3.96,
+  "text": "harnesses, the agentic era was well and"
+ },
+ {
+  "start": 176.76,
+  "duration": 3.48,
+  "text": "truly upon us with all the consequent"
+ },
+ {
+  "start": 178.6,
+  "duration": 3.24,
+  "text": "changes that that would bring. Now, one"
+ },
+ {
+  "start": 180.24,
+  "duration": 3.8,
+  "text": "of those consequent changes is that the"
+ },
+ {
+  "start": 181.84,
+  "duration": 5.2,
+  "text": "sheer number of tokens that we were"
+ },
+ {
+  "start": 184.04,
+  "duration": 4.64,
+  "text": "using went way, way up. Putting a fine"
+ },
+ {
+  "start": 187.04,
+  "duration": 3.0,
+  "text": "point on this was SemiAnalysis, who at"
+ },
+ {
+  "start": 188.68,
+  "duration": 3.0,
+  "text": "the beginning of February wrote a piece"
+ },
+ {
+  "start": 190.04,
+  "duration": 3.16,
+  "text": "called Claude Code is the inflection"
+ },
+ {
+  "start": 191.68,
+  "duration": 3.2,
+  "text": "point. They wrote, \"We believe that"
+ },
+ {
+  "start": 193.2,
+  "duration": 3.32,
+  "text": "Claude Code is the inflection point for"
+ },
+ {
+  "start": 194.88,
+  "duration": 3.52,
+  "text": "AI agents and is a glimpse into how the"
+ },
+ {
+  "start": 196.52,
+  "duration": 3.2,
+  "text": "future of AI will function. It's set to"
+ },
+ {
+  "start": 198.4,
+  "duration": 3.48,
+  "text": "drive exceptional revenue growth for"
+ },
+ {
+  "start": 199.72,
+  "duration": 4.44,
+  "text": "Anthropic in 2026, enabling the lab to"
+ },
+ {
+  "start": 201.88,
+  "duration": 3.4,
+  "text": "dramatically outgrow OpenAI.\""
+ },
+ {
+  "start": 204.16,
+  "duration": 3.44,
+  "text": "Now, that was the narrative that was"
+ },
+ {
+  "start": 205.28,
+  "duration": 4.16,
+  "text": "taking hold. Except that as more and"
+ },
+ {
+  "start": 207.6,
+  "duration": 3.8,
+  "text": "more tokens were being consumed, it was"
+ },
+ {
+  "start": 209.44,
+  "duration": 3.6,
+  "text": "hard not to notice that Anthropic's"
+ },
+ {
+  "start": 211.4,
+  "duration": 3.4,
+  "text": "performance in particular was taking a"
+ },
+ {
+  "start": 213.04,
+  "duration": 3.96,
+  "text": "hit. After the announcement of their"
+ },
+ {
+  "start": 214.8,
+  "duration": 3.96,
+  "text": "Mythos model, Stratechery's Ben Thompson"
+ },
+ {
+  "start": 217.0,
+  "duration": 3.24,
+  "text": "wrote, \"How much of Anthropic's"
+ },
+ {
+  "start": 218.76,
+  "duration": 3.36,
+  "text": "reluctance to make Mythos widely"
+ },
+ {
+  "start": 220.24,
+  "duration": 3.84,
+  "text": "available is due to security concerns as"
+ },
+ {
+  "start": 222.12,
+  "duration": 3.28,
+  "text": "opposed to the more prosaic reality that"
+ },
+ {
+  "start": 224.08,
+  "duration": 3.28,
+  "text": "Anthropic simply doesn't have enough"
+ },
+ {
+  "start": 225.4,
+  "duration": 4.16,
+  "text": "compute.\" Technology author Tae Kim"
+ },
+ {
+  "start": 227.36,
+  "duration": 3.76,
+  "text": "wrote, \"It's obvious Anthropic vastly"
+ },
+ {
+  "start": 229.56,
+  "duration": 2.88,
+  "text": "underestimated compute growth needs,"
+ },
+ {
+  "start": 231.12,
+  "duration": 3.08,
+  "text": "which is expanding much faster than"
+ },
+ {
+  "start": 232.44,
+  "duration": 3.72,
+  "text": "expected. Dario is on the record"
+ },
+ {
+  "start": 234.2,
+  "duration": 3.52,
+  "text": "multiple times describing OpenAI as"
+ },
+ {
+  "start": 236.16,
+  "duration": 3.44,
+  "text": "YOLO, recklessly buying too much"
+ },
+ {
+  "start": 237.72,
+  "duration": 3.64,
+  "text": "capacity, but now it looks like Sam"
+ },
+ {
+  "start": 239.6,
+  "duration": 3.28,
+  "text": "Altman was right all along.\" A couple"
+ },
+ {
+  "start": 241.36,
+  "duration": 2.6,
+  "text": "days later, he reposted his own tweet"
+ },
+ {
+  "start": 242.88,
+  "duration": 2.48,
+  "text": "adding a quote from the Wall Street"
+ },
+ {
+  "start": 243.96,
+  "duration": 3.24,
+  "text": "Journal. \"Anthropic, the maker of"
+ },
+ {
+  "start": 245.36,
+  "duration": 3.2,
+  "text": "popular chatbot Claude and viral coding"
+ },
+ {
+  "start": 247.2,
+  "duration": 3.12,
+  "text": "app Claude Code, has been plagued"
+ },
+ {
+  "start": 248.56,
+  "duration": 3.2,
+  "text": "recently by frequent outages. The"
+ },
+ {
+  "start": 250.32,
+  "duration": 3.36,
+  "text": "company has begun metering computing"
+ },
+ {
+  "start": 251.76,
+  "duration": 3.48,
+  "text": "supply to users during peak hours, but"
+ },
+ {
+  "start": 253.68,
+  "duration": 2.72,
+  "text": "the rollout has been marred by customers"
+ },
+ {
+  "start": 255.24,
+  "duration": 3.04,
+  "text": "who have complained they are reaching"
+ },
+ {
+  "start": 256.4,
+  "duration": 3.44,
+  "text": "the limit far too quickly.\" And whether"
+ },
+ {
+  "start": 258.28,
+  "duration": 2.959,
+  "text": "it was the right decision or not, after"
+ },
+ {
+  "start": 259.84,
+  "duration": 2.72,
+  "text": "investigating reports of Claude"
+ },
+ {
+  "start": 261.239,
+  "duration": 3.121,
+  "text": "performance decreases over the last"
+ },
+ {
+  "start": 262.56,
+  "duration": 3.12,
+  "text": "month and a half or so, Anthropic last"
+ },
+ {
+  "start": 264.36,
+  "duration": 3.0,
+  "text": "week basically came out and said, \"We"
+ },
+ {
+  "start": 265.68,
+  "duration": 3.48,
+  "text": "investigated it and we did make a bunch"
+ },
+ {
+  "start": 267.36,
+  "duration": 4.0,
+  "text": "of moves that ended up decreasing"
+ },
+ {
+  "start": 269.16,
+  "duration": 3.72,
+  "text": "Claude's performance.\" Now, OpenAI, for"
+ },
+ {
+  "start": 271.36,
+  "duration": 3.28,
+  "text": "their part, has absolutely seized on"
+ },
+ {
+  "start": 272.88,
+  "duration": 3.56,
+  "text": "this emerging shift in the narrative."
+ },
+ {
+  "start": 274.64,
+  "duration": 3.72,
+  "text": "You can see references to the fact that"
+ },
+ {
+  "start": 276.44,
+  "duration": 3.72,
+  "text": "OpenAI has compute and Anthropic has"
+ },
+ {
+  "start": 278.36,
+  "duration": 3.24,
+  "text": "less of it woven throughout all of their"
+ },
+ {
+  "start": 280.16,
+  "duration": 4.16,
+  "text": "communications over the last few weeks"
+ },
+ {
+  "start": 281.6,
+  "duration": 4.48,
+  "text": "of model releases. When GPT Images 2.0"
+ },
+ {
+  "start": 284.32,
+  "duration": 3.4,
+  "text": "was released, OpenAI president Greg"
+ },
+ {
+  "start": 286.08,
+  "duration": 2.92,
+  "text": "Brockman wrote, \"Really incredible what"
+ },
+ {
+  "start": 287.72,
+  "duration": 3.12,
+  "text": "you're now able to create with a little"
+ },
+ {
+  "start": 289.0,
+  "duration": 4.28,
+  "text": "bit of compute.\" After the release of"
+ },
+ {
+  "start": 290.84,
+  "duration": 3.96,
+  "text": "GPT 5.5, Sam Altman wrote, \"Really"
+ },
+ {
+  "start": 293.28,
+  "duration": 3.32,
+  "text": "excellent work by the inference team to"
+ },
+ {
+  "start": 294.8,
+  "duration": 3.92,
+  "text": "serve this model so efficiently. To a"
+ },
+ {
+  "start": 296.6,
+  "duration": 4.04,
+  "text": "significant degree, we have become an AI"
+ },
+ {
+  "start": 298.72,
+  "duration": 3.44,
+  "text": "inference company now.\" Now, most people"
+ },
+ {
+  "start": 300.64,
+  "duration": 2.36,
+  "text": "didn't even give that a second glance,"
+ },
+ {
+  "start": 302.16,
+  "duration": 2.56,
+  "text": "but for those watching this"
+ },
+ {
+  "start": 303.0,
+  "duration": 2.88,
+  "text": "compute-related narrative shift, he's"
+ },
+ {
+  "start": 304.72,
+  "duration": 2.6,
+  "text": "basically saying that the only thing"
+ },
+ {
+  "start": 305.88,
+  "duration": 2.8,
+  "text": "that matters to the end user is whether"
+ },
+ {
+  "start": 307.32,
+  "duration": 3.68,
+  "text": "you can actually deliver the AI that"
+ },
+ {
+  "start": 308.68,
+  "duration": 4.6,
+  "text": "they want. And yet, as token consumption"
+ },
+ {
+  "start": 311.0,
+  "duration": 4.24,
+  "text": "goes up through more agentic usage, even"
+ },
+ {
+  "start": 313.28,
+  "duration": 4.16,
+  "text": "if OpenAI is in a better position than"
+ },
+ {
+  "start": 315.24,
+  "duration": 3.8,
+  "text": "Anthropic vis-a-vis compute, no one has"
+ },
+ {
+  "start": 317.44,
+  "duration": 2.96,
+  "text": "as much compute as they want, and"
+ },
+ {
+  "start": 319.04,
+  "duration": 3.4,
+  "text": "everywhere there are tradeoffs being"
+ },
+ {
+  "start": 320.4,
+  "duration": 3.76,
+  "text": "made. As early as the middle of last"
+ },
+ {
+  "start": 322.44,
+  "duration": 3.6,
+  "text": "year, we saw companies start to shift"
+ },
+ {
+  "start": 324.16,
+  "duration": 4.04,
+  "text": "their model away from flat fees and"
+ },
+ {
+  "start": 326.04,
+  "duration": 3.48,
+  "text": "towards usage. Replit was an early mover"
+ },
+ {
+  "start": 328.2,
+  "duration": 2.6,
+  "text": "on this, taking a bunch of licks when"
+ },
+ {
+  "start": 329.52,
+  "duration": 2.64,
+  "text": "they made the shift earlier than most"
+ },
+ {
+  "start": 330.8,
+  "duration": 3.12,
+  "text": "people, around the summer and early fall"
+ },
+ {
+  "start": 332.16,
+  "duration": 3.72,
+  "text": "of last year. But now it feels like we"
+ },
+ {
+  "start": 333.92,
+  "duration": 3.6,
+  "text": "are on the verge of a cascade of exactly"
+ },
+ {
+  "start": 335.88,
+  "duration": 3.88,
+  "text": "this type of change. On Monday,"
+ },
+ {
+  "start": 337.52,
+  "duration": 4.48,
+  "text": "Microsoft's GitHub announced a shift to"
+ },
+ {
+  "start": 339.76,
+  "duration": 3.52,
+  "text": "consumption-based fees. Their Copilot"
+ },
+ {
+  "start": 342.0,
+  "duration": 3.04,
+  "text": "features had quietly become an"
+ },
+ {
+  "start": 343.28,
+  "duration": 3.56,
+  "text": "extraordinary deal as coding agents took"
+ },
+ {
+  "start": 345.04,
+  "duration": 3.4,
+  "text": "off. Their 39 a month top-tier"
+ },
+ {
+  "start": 346.84,
+  "duration": 3.44,
+  "text": "subscription had surprisingly generous"
+ },
+ {
+  "start": 348.44,
+  "duration": 3.4,
+  "text": "limits, especially considering that the"
+ },
+ {
+  "start": 350.28,
+  "duration": 3.76,
+  "text": "other major labs were charging 100 or"
+ },
+ {
+  "start": 351.84,
+  "duration": 3.92,
+  "text": "$200 for their high-usage tiers."
+ },
+ {
+  "start": 354.04,
+  "duration": 3.56,
+  "text": "Copilot's pricing model was also based"
+ },
+ {
+  "start": 355.76,
+  "duration": 3.4,
+  "text": "on requests rather than token usage,"
+ },
+ {
+  "start": 357.6,
+  "duration": 3.32,
+  "text": "which was causing further distortions in"
+ },
+ {
+  "start": 359.16,
+  "duration": 3.16,
+  "text": "this new agentic era. Now, this had"
+ },
+ {
+  "start": 360.92,
+  "duration": 3.6,
+  "text": "obviously become unsustainable over the"
+ },
+ {
+  "start": 362.32,
+  "duration": 3.56,
+  "text": "past 6 months. GitHub's usage metrics"
+ },
+ {
+  "start": 364.52,
+  "duration": 3.08,
+  "text": "were off the charts and their stability"
+ },
+ {
+  "start": 365.88,
+  "duration": 3.96,
+  "text": "was compromised by frequent outages"
+ },
+ {
+  "start": 367.6,
+  "duration": 3.68,
+  "text": "caused by excess traffic. In a blog post"
+ },
+ {
+  "start": 369.84,
+  "duration": 4.0,
+  "text": "explaining the change, chief product"
+ },
+ {
+  "start": 371.28,
+  "duration": 3.96,
+  "text": "officer Mario Rodriguez wrote, \"Copilot"
+ },
+ {
+  "start": 373.84,
+  "duration": 3.36,
+  "text": "is not the same product it was a year"
+ },
+ {
+  "start": 375.24,
+  "duration": 3.6,
+  "text": "ago. It has evolved from an in-editor"
+ },
+ {
+  "start": 377.2,
+  "duration": 3.24,
+  "text": "assistant into an agentic platform"
+ },
+ {
+  "start": 378.84,
+  "duration": 3.6,
+  "text": "capable of running long, multi-step"
+ },
+ {
+  "start": 380.44,
+  "duration": 3.2,
+  "text": "coding sessions using the latest models"
+ },
+ {
+  "start": 382.44,
+  "duration": 3.52,
+  "text": "and iterating across entire"
+ },
+ {
+  "start": 383.64,
+  "duration": 3.88,
+  "text": "repositories. Agentic usage is becoming"
+ },
+ {
+  "start": 385.96,
+  "duration": 3.52,
+  "text": "the default and it brings significantly"
+ },
+ {
+  "start": 387.52,
+  "duration": 3.4,
+  "text": "higher compute and inference demands."
+ },
+ {
+  "start": 389.48,
+  "duration": 3.12,
+  "text": "Today, a quick chat question in a"
+ },
+ {
+  "start": 390.92,
+  "duration": 3.52,
+  "text": "multi-hour autonomous coding session can"
+ },
+ {
+  "start": 392.6,
+  "duration": 3.36,
+  "text": "cost the user the same amount. GitHub"
+ },
+ {
+  "start": 394.44,
+  "duration": 3.36,
+  "text": "has absorbed much of the escalating"
+ },
+ {
+  "start": 395.96,
+  "duration": 3.4,
+  "text": "inference cost behind that usage, but"
+ },
+ {
+  "start": 397.8,
+  "duration": 3.68,
+  "text": "the current premium request model is no"
+ },
+ {
+  "start": 399.36,
+  "duration": 3.88,
+  "text": "longer sustainable. Usage-based billing"
+ },
+ {
+  "start": 401.48,
+  "duration": 3.76,
+  "text": "fixes that. It better aligns pricing"
+ },
+ {
+  "start": 403.24,
+  "duration": 3.92,
+  "text": "with actual usage, helps us maintain"
+ },
+ {
+  "start": 405.24,
+  "duration": 3.92,
+  "text": "long-term service reliability, and"
+ },
+ {
+  "start": 407.16,
+  "duration": 3.32,
+  "text": "reduces the need to gate heavy users."
+ },
+ {
+  "start": 409.16,
+  "duration": 2.92,
+  "text": "Now, the new model will be broadly the"
+ },
+ {
+  "start": 410.48,
+  "duration": 3.08,
+  "text": "same as Cursor, with users receiving a"
+ },
+ {
+  "start": 412.08,
+  "duration": 3.36,
+  "text": "monthly allotment of credits with the"
+ },
+ {
+  "start": 413.56,
+  "duration": 3.52,
+  "text": "option to buy more. GitHub is giving"
+ },
+ {
+  "start": 415.44,
+  "duration": 2.84,
+  "text": "users time to adjust, delivering a"
+ },
+ {
+  "start": 417.08,
+  "duration": 2.48,
+  "text": "preview of what their bill would look"
+ },
+ {
+  "start": 418.28,
+  "duration": 2.36,
+  "text": "like under the new model during May"
+ },
+ {
+  "start": 419.56,
+  "duration": 2.8,
+  "text": "before making the switch at the"
+ },
+ {
+  "start": 420.64,
+  "duration": 3.2,
+  "text": "beginning of June. The switch came with"
+ },
+ {
+  "start": 422.36,
+  "duration": 3.0,
+  "text": "a revised multiplier table, which"
+ },
+ {
+  "start": 423.84,
+  "duration": 3.52,
+  "text": "describes how many credits each model"
+ },
+ {
+  "start": 425.36,
+  "duration": 4.88,
+  "text": "consumes. Some of the notable changes"
+ },
+ {
+  "start": 427.36,
+  "duration": 5.96,
+  "text": "were Claude Opus 4.7 going from a 7.5x"
+ },
+ {
+  "start": 430.24,
+  "duration": 6.16,
+  "text": "multiplier to 27x, and Gemini 3.1 Pro"
+ },
+ {
+  "start": 433.32,
+  "duration": 5.44,
+  "text": "and GPT 5.3 Codex both going from a 1x"
+ },
+ {
+  "start": 436.4,
+  "duration": 4.16,
+  "text": "multiplier to 6x. Basically, across the"
+ },
+ {
+  "start": 438.76,
+  "duration": 3.72,
+  "text": "board you're seeing around a 6x price"
+ },
+ {
+  "start": 440.56,
+  "duration": 4.2,
+  "text": "hike for the frontier coding models."
+ },
+ {
+  "start": 442.48,
+  "duration": 3.92,
+  "text": "Developer Peter Deneen remarked, \"These"
+ },
+ {
+  "start": 444.76,
+  "duration": 3.96,
+  "text": "new Copilot multipliers starting June"
+ },
+ {
+  "start": 446.4,
+  "duration": 3.84,
+  "text": "1st are absolutely ridiculous. I can"
+ },
+ {
+  "start": 448.72,
+  "duration": 3.08,
+  "text": "only imagine this pricing is going to"
+ },
+ {
+  "start": 450.24,
+  "duration": 3.24,
+  "text": "force users to lock in with a single"
+ },
+ {
+  "start": 451.8,
+  "duration": 3.56,
+  "text": "foundation model vendor just to manage"
+ },
+ {
+  "start": 453.48,
+  "duration": 3.48,
+  "text": "costs. Honestly, it would be hard to"
+ },
+ {
+  "start": 455.36,
+  "duration": 3.64,
+  "text": "find a clearer indicator that the"
+ },
+ {
+  "start": 456.96,
+  "duration": 3.68,
+  "text": "subsidy era is over than Microsoft"
+ },
+ {
+  "start": 459.0,
+  "duration": 3.04,
+  "text": "literally revealing how deep their"
+ },
+ {
+  "start": 460.64,
+  "duration": 3.84,
+  "text": "subsidies had been with this massive"
+ },
+ {
+  "start": 462.04,
+  "duration": 4.04,
+  "text": "price hike.\" Anthropic has also been"
+ },
+ {
+  "start": 464.48,
+  "duration": 3.16,
+  "text": "inching towards usage-based pricing for"
+ },
+ {
+  "start": 466.08,
+  "duration": 3.56,
+  "text": "several weeks as they continue to face"
+ },
+ {
+  "start": 467.64,
+  "duration": 3.4,
+  "text": "those stability issues. Now, although"
+ },
+ {
+  "start": 469.64,
+  "duration": 3.04,
+  "text": "the stability issues that they discussed"
+ },
+ {
+  "start": 471.04,
+  "duration": 3.68,
+  "text": "last week were blamed on Claude Code"
+ },
+ {
+  "start": 472.68,
+  "duration": 3.32,
+  "text": "bugs, it is very clear that Anthropic is"
+ },
+ {
+  "start": 474.72,
+  "duration": 3.28,
+  "text": "straining under the weight of agentic"
+ },
+ {
+  "start": 476.0,
+  "duration": 3.16,
+  "text": "usage. To be clear, what I'm saying is"
+ },
+ {
+  "start": 478.0,
+  "duration": 2.88,
+  "text": "that they are straining under the weight"
+ },
+ {
+  "start": 479.16,
+  "duration": 3.12,
+  "text": "of their own success. Over the past"
+ },
+ {
+  "start": 480.88,
+  "duration": 3.68,
+  "text": "month, we've seen them actively force"
+ },
+ {
+  "start": 482.28,
+  "duration": 4.24,
+  "text": "open Claude usage onto the API, run a"
+ },
+ {
+  "start": 484.56,
+  "duration": 3.88,
+  "text": "so-called small test of removing Claude"
+ },
+ {
+  "start": 486.52,
+  "duration": 4.08,
+  "text": "Code from the pro subscription, and of"
+ },
+ {
+  "start": 488.44,
+  "duration": 3.36,
+  "text": "course, most notably of all, withholding"
+ },
+ {
+  "start": 490.6,
+  "duration": 2.76,
+  "text": "the release of their largest and most"
+ },
+ {
+  "start": 491.8,
+  "duration": 2.68,
+  "text": "capable model. At the beginning of the"
+ },
+ {
+  "start": 493.36,
+  "duration": 3.36,
+  "text": "month surrounding the open Claude"
+ },
+ {
+  "start": 494.48,
+  "duration": 3.44,
+  "text": "changes, researcher Boris Cherny wrote,"
+ },
+ {
+  "start": 496.72,
+  "duration": 2.88,
+  "text": "\"We've been working hard to meet the"
+ },
+ {
+  "start": 497.92,
+  "duration": 3.0,
+  "text": "increase in demand for Claude, and our"
+ },
+ {
+  "start": 499.6,
+  "duration": 2.72,
+  "text": "subscriptions weren't built for the"
+ },
+ {
+  "start": 500.92,
+  "duration": 3.52,
+  "text": "usage patterns of these third-party"
+ },
+ {
+  "start": 502.32,
+  "duration": 3.6,
+  "text": "tools. Capacity is a resource we manage"
+ },
+ {
+  "start": 504.44,
+  "duration": 2.84,
+  "text": "thoughtfully, and we are prioritizing"
+ },
+ {
+  "start": 505.92,
+  "duration": 3.2,
+  "text": "our customers using our products and"
+ },
+ {
+  "start": 507.28,
+  "duration": 3.48,
+  "text": "API. We want to be intentional in"
+ },
+ {
+  "start": 509.12,
+  "duration": 3.56,
+  "text": "managing our growth to continue to serve"
+ },
+ {
+  "start": 510.76,
+  "duration": 3.8,
+  "text": "our customers sustainably long-term."
+ },
+ {
+  "start": 512.68,
+  "duration": 3.88,
+  "text": "This change is a step towards that.\""
+ },
+ {
+  "start": 514.56,
+  "duration": 3.76,
+  "text": "Now, over the weekend, a Reddit user"
+ },
+ {
+  "start": 516.56,
+  "duration": 3.64,
+  "text": "reported that they were charged $200 in"
+ },
+ {
+  "start": 518.32,
+  "duration": 3.599,
+  "text": "usage fees without notification just"
+ },
+ {
+  "start": 520.2,
+  "duration": 3.399,
+  "text": "because they had the text hermes.md in"
+ },
+ {
+  "start": 521.919,
+  "duration": 3.361,
+  "text": "their Git commit history. They weren't"
+ },
+ {
+  "start": 523.599,
+  "duration": 3.841,
+  "text": "actually using the Hermes agent, but"
+ },
+ {
+  "start": 525.28,
+  "duration": 3.8,
+  "text": "they were kicked over to the API anyway."
+ },
+ {
+  "start": 527.44,
+  "duration": 3.56,
+  "text": "Anthropic later made it right with"
+ },
+ {
+  "start": 529.08,
+  "duration": 3.16,
+  "text": "Claude Code's tweet writing, \"Ugh,"
+ },
+ {
+  "start": 531.0,
+  "duration": 2.84,
+  "text": "sorry. This was a bug with the"
+ },
+ {
+  "start": 532.24,
+  "duration": 3.56,
+  "text": "third-party harness detection and how we"
+ },
+ {
+  "start": 533.84,
+  "duration": 3.48,
+  "text": "pull Git systems into the system prompt."
+ },
+ {
+  "start": 535.8,
+  "duration": 2.76,
+  "text": "We've reached out to the affected users"
+ },
+ {
+  "start": 537.32,
+  "duration": 2.88,
+  "text": "and given them a refund and another"
+ },
+ {
+  "start": 538.56,
+  "duration": 3.08,
+  "text": "month of credits.\" Regardless of the"
+ },
+ {
+  "start": 540.2,
+  "duration": 2.56,
+  "text": "fact that they made it right, it"
+ },
+ {
+  "start": 541.64,
+  "duration": 2.48,
+  "text": "demonstrates the lengths that they will"
+ },
+ {
+  "start": 542.76,
+  "duration": 2.76,
+  "text": "increasingly need to go to stop"
+ },
+ {
+  "start": 544.12,
+  "duration": 3.44,
+  "text": "token-hungry agents from draining their"
+ },
+ {
+  "start": 545.52,
+  "duration": 3.8,
+  "text": "resources. Now, it's very clear that"
+ },
+ {
+  "start": 547.56,
+  "duration": 3.56,
+  "text": "people are jittery right now about"
+ },
+ {
+  "start": 549.32,
+  "duration": 3.8,
+  "text": "getting their Claude Code fix. On"
+ },
+ {
+  "start": 551.12,
+  "duration": 3.72,
+  "text": "Monday, for example, a post went viral"
+ },
+ {
+  "start": 553.12,
+  "duration": 3.72,
+  "text": "claiming that Anthropic had eliminated"
+ },
+ {
+  "start": 554.84,
+  "duration": 3.56,
+  "text": "Opus from the $20 pro plan. The"
+ },
+ {
+  "start": 556.84,
+  "duration": 2.84,
+  "text": "community notes later explained that"
+ },
+ {
+  "start": 558.4,
+  "duration": 3.4,
+  "text": "this was an oversight in updating"
+ },
+ {
+  "start": 559.68,
+  "duration": 3.44,
+  "text": "support documents, not a policy change,"
+ },
+ {
+  "start": 561.8,
+  "duration": 2.8,
+  "text": "but not before thousands and thousands"
+ },
+ {
+  "start": 563.12,
+  "duration": 2.56,
+  "text": "of people shared the post, which based"
+ },
+ {
+  "start": 564.6,
+  "duration": 3.32,
+  "text": "on everything else, they found quite"
+ },
+ {
+  "start": 565.68,
+  "duration": 3.92,
+  "text": "believable. In another kind of bizarre"
+ },
+ {
+  "start": 567.92,
+  "duration": 3.24,
+  "text": "incident, a different Reddit user"
+ },
+ {
+  "start": 569.6,
+  "duration": 3.6,
+  "text": "reported that their entire organization"
+ },
+ {
+  "start": 571.16,
+  "duration": 4.52,
+  "text": "had been fired as an Anthropic client,"
+ },
+ {
+  "start": 573.2,
+  "duration": 3.92,
+  "text": "all 110 of them. The user didn't discuss"
+ },
+ {
+  "start": 575.68,
+  "duration": 2.56,
+  "text": "the reason for the ban and didn't seem"
+ },
+ {
+  "start": 577.12,
+  "duration": 2.44,
+  "text": "to know."
+ },
+ {
+  "start": 578.24,
+  "duration": 2.6,
+  "text": "The company works in agriculture, so"
+ },
+ {
+  "start": 579.56,
+  "duration": 3.16,
+  "text": "they wondered whether it was chats about"
+ },
+ {
+  "start": 580.84,
+  "duration": 3.72,
+  "text": "fertilizer, which is a common ingredient"
+ },
+ {
+  "start": 582.72,
+  "duration": 3.48,
+  "text": "in bomb-making. Their ban came with a"
+ },
+ {
+  "start": 584.56,
+  "duration": 2.96,
+  "text": "Google form to lodge an appeal, which"
+ },
+ {
+  "start": 586.2,
+  "duration": 3.76,
+  "text": "they claimed just went to a black hole"
+ },
+ {
+  "start": 587.52,
+  "duration": 3.72,
+  "text": "with no response. The user wrote, \"I'm"
+ },
+ {
+  "start": 589.96,
+  "duration": 3.08,
+  "text": "sure if we wait long enough, we'll come"
+ },
+ {
+  "start": 591.24,
+  "duration": 3.12,
+  "text": "to some form of resolution here, but you"
+ },
+ {
+  "start": 593.04,
+  "duration": 2.68,
+  "text": "have to ask yourself if this is a"
+ },
+ {
+  "start": 594.36,
+  "duration": 3.4,
+  "text": "platform you can entrust your daily"
+ },
+ {
+  "start": 595.72,
+  "duration": 4.0,
+  "text": "workflows to as a business.\" For those"
+ },
+ {
+  "start": 597.76,
+  "duration": 3.64,
+  "text": "watching the horse race, there is a big"
+ },
+ {
+  "start": 599.72,
+  "duration": 3.2,
+  "text": "sense of vibe shift right now."
+ },
+ {
+  "start": 601.4,
+  "duration": 3.08,
+  "text": "WestBinder writes,"
+ },
+ {
+  "start": 602.92,
+  "duration": 4.8,
+  "text": "\"Anthropic is really handing the dev"
+ },
+ {
+  "start": 604.48,
+  "duration": 4.72,
+  "text": "market to OpenAI on a silver platter.\""
+ },
+ {
+  "start": 607.72,
+  "duration": 2.8,
+  "text": "Look, ultimately right now I think that"
+ },
+ {
+  "start": 609.2,
+  "duration": 3.08,
+  "text": "things are overblown and we're dealing"
+ },
+ {
+  "start": 610.52,
+  "duration": 3.16,
+  "text": "with the insider baseball pendulum swing"
+ },
+ {
+  "start": 612.28,
+  "duration": 2.8,
+  "text": "from one company to another. And the"
+ },
+ {
+  "start": 613.68,
+  "duration": 3.8,
+  "text": "thing about pendulum swings is that they"
+ },
+ {
+  "start": 615.08,
+  "duration": 4.24,
+  "text": "always swing back. At the same time,"
+ },
+ {
+  "start": 617.48,
+  "duration": 3.32,
+  "text": "where I think Anthropic's troubles are"
+ },
+ {
+  "start": 619.32,
+  "duration": 3.56,
+  "text": "maybe a warning shot for the whole"
+ },
+ {
+  "start": 620.8,
+  "duration": 3.84,
+  "text": "industry and something that OpenAI might"
+ },
+ {
+  "start": 622.88,
+  "duration": 4.04,
+  "text": "be a little careful about how much they"
+ },
+ {
+  "start": 624.64,
+  "duration": 4.04,
+  "text": "dance on top of, there is not enough"
+ },
+ {
+  "start": 626.92,
+  "duration": 4.36,
+  "text": "compute to service all the AI demand"
+ },
+ {
+  "start": 628.68,
+  "duration": 4.88,
+  "text": "that we have. As I mentioned endlessly,"
+ },
+ {
+  "start": 631.28,
+  "duration": 4.04,
+  "text": "the shift to true agentics means that"
+ },
+ {
+  "start": 633.56,
+  "duration": 3.8,
+  "text": "token consumption is just going through"
+ },
+ {
+  "start": 635.32,
+  "duration": 4.4,
+  "text": "the absolute roof. The average amount of"
+ },
+ {
+  "start": 637.36,
+  "duration": 4.0,
+  "text": "tokens that the individual user uses and"
+ },
+ {
+  "start": 639.72,
+  "duration": 4.76,
+  "text": "that the average company uses is just"
+ },
+ {
+  "start": 641.36,
+  "duration": 5.24,
+  "text": "way up. I alone last month used around a"
+ },
+ {
+  "start": 644.48,
+  "duration": 4.88,
+  "text": "billion tokens, which is the equivalent"
+ },
+ {
+  "start": 646.6,
+  "duration": 3.8,
+  "text": "of about 7,500 books worth of words."
+ },
+ {
+  "start": 649.36,
+  "duration": 2.44,
+  "text": "Now, of course, I'm going to be on the"
+ },
+ {
+  "start": 650.4,
+  "duration": 3.0,
+  "text": "high end of things, but still you"
+ },
+ {
+  "start": 651.8,
+  "duration": 2.92,
+  "text": "multiply that across a lot of users and"
+ },
+ {
+  "start": 653.4,
+  "duration": 3.0,
+  "text": "you can understand maybe why they're"
+ },
+ {
+  "start": 654.72,
+  "duration": 4.0,
+  "text": "running into some troubles. And what's"
+ },
+ {
+  "start": 656.4,
+  "duration": 4.12,
+  "text": "more, as everyone talks about and builds"
+ },
+ {
+  "start": 658.72,
+  "duration": 4.119,
+  "text": "these new agentic things, it's also"
+ },
+ {
+  "start": 660.52,
+  "duration": 3.68,
+  "text": "bringing new users online. Between"
+ },
+ {
+  "start": 662.839,
+  "duration": 3.041,
+  "text": "November and April, the percentage of"
+ },
+ {
+  "start": 664.2,
+  "duration": 4.32,
+  "text": "users who had never used AI went from"
+ },
+ {
+  "start": 665.88,
+  "duration": 4.4,
+  "text": "26% down to 17%, which was the exact"
+ },
+ {
+  "start": 668.52,
+  "duration": 4.36,
+  "text": "inverse of the number of people who use"
+ },
+ {
+  "start": 670.28,
+  "duration": 4.24,
+  "text": "it often, which went from 17% to 24%."
+ },
+ {
+  "start": 672.88,
+  "duration": 3.08,
+  "text": "Coming into this week, we'd started to"
+ },
+ {
+  "start": 674.52,
+  "duration": 3.0,
+  "text": "see this crush the bubble narrative on"
+ },
+ {
+  "start": 675.96,
+  "duration": 3.6,
+  "text": "Wall Street. A couple of weeks ago,"
+ },
+ {
+  "start": 677.52,
+  "duration": 3.64,
+  "text": "Hedgeye Markets wrote, \"Goldman Sachs"
+ },
+ {
+  "start": 679.56,
+  "duration": 3.2,
+  "text": "reports that companies are blowing past"
+ },
+ {
+  "start": 681.16,
+  "duration": 3.4,
+  "text": "their AI inference budgets by orders of"
+ },
+ {
+  "start": 682.76,
+  "duration": 3.72,
+  "text": "magnitude, with inference costs and"
+ },
+ {
+  "start": 684.56,
+  "duration": 3.88,
+  "text": "engineering now approaching 10% of total"
+ },
+ {
+  "start": 686.48,
+  "duration": 3.68,
+  "text": "headcount costs and potentially reaching"
+ },
+ {
+  "start": 688.44,
+  "duration": 4.24,
+  "text": "parity with salaries within several"
+ },
+ {
+  "start": 690.16,
+  "duration": 4.24,
+  "text": "quarters.\" Author Derek Thompson wrote,"
+ },
+ {
+  "start": 692.68,
+  "duration": 3.4,
+  "text": "\"The AI bubble argument has meaningfully"
+ },
+ {
+  "start": 694.4,
+  "duration": 3.32,
+  "text": "shifted from the revenue growth curve"
+ },
+ {
+  "start": 696.08,
+  "duration": 4.08,
+  "text": "looks weak and old chips will lose value"
+ },
+ {
+  "start": 697.72,
+  "duration": 4.2,
+  "text": "too fast to B, well sure old chips are"
+ },
+ {
+  "start": 700.16,
+  "duration": 2.84,
+  "text": "retaining value for this inference boom"
+ },
+ {
+  "start": 701.92,
+  "duration": 3.12,
+  "text": "and the revenue growth curve is"
+ },
+ {
+  "start": 703.0,
+  "duration": 3.68,
+  "text": "ferocious, but it's being subsidized by"
+ },
+ {
+  "start": 705.04,
+  "duration": 3.56,
+  "text": "below market token pricing and corporate"
+ },
+ {
+  "start": 706.68,
+  "duration": 3.36,
+  "text": "AI FOMO.\" Which, frankly, you got to"
+ },
+ {
+  "start": 708.6,
+  "duration": 3.28,
+  "text": "wonder why some investors are so"
+ },
+ {
+  "start": 710.04,
+  "duration": 3.08,
+  "text": "desperate for this to be a bubble that"
+ },
+ {
+  "start": 711.88,
+  "duration": 2.48,
+  "text": "rather than changing their opinions"
+ },
+ {
+  "start": 713.12,
+  "duration": 2.76,
+  "text": "about whether it's a bubble, they just"
+ },
+ {
+  "start": 714.36,
+  "duration": 4.32,
+  "text": "dramatically shift their logic for what"
+ },
+ {
+  "start": 715.88,
+  "duration": 3.92,
+  "text": "the bubble consists of. And sure enough,"
+ },
+ {
+  "start": 718.68,
+  "duration": 3.12,
+  "text": "alongside this announcement from"
+ },
+ {
+  "start": 719.8,
+  "duration": 3.8,
+  "text": "Copilot, plenty of market commentators"
+ },
+ {
+  "start": 721.8,
+  "duration": 3.039,
+  "text": "like Ross Hendricks here saying, \"Guess"
+ },
+ {
+  "start": 723.6,
+  "duration": 3.0,
+  "text": "we're about to find out how much the"
+ },
+ {
+  "start": 724.839,
+  "duration": 3.241,
+  "text": "endless demand for AI narrative falls"
+ },
+ {
+  "start": 726.6,
+  "duration": 3.04,
+  "text": "apart when the subsidy pricing goes"
+ },
+ {
+  "start": 728.08,
+  "duration": 3.08,
+  "text": "away.\""
+ },
+ {
+  "start": 729.64,
+  "duration": 3.52,
+  "text": "To be honest, the market implications"
+ },
+ {
+  "start": 731.16,
+  "duration": 3.56,
+  "text": "are sort of the least interesting to me."
+ },
+ {
+  "start": 733.16,
+  "duration": 3.32,
+  "text": "Obviously, if you are a professional"
+ },
+ {
+  "start": 734.72,
+  "duration": 3.36,
+  "text": "investor, it matters, but for everyone"
+ },
+ {
+  "start": 736.48,
+  "duration": 3.44,
+  "text": "else, it's frankly hard not to feel like"
+ },
+ {
+  "start": 738.08,
+  "duration": 4.24,
+  "text": "Wall Street is just fundamentally behind"
+ },
+ {
+  "start": 739.92,
+  "duration": 4.56,
+  "text": "on this. Another case in point, as I'm"
+ },
+ {
+  "start": 742.32,
+  "duration": 4.0,
+  "text": "recording this, stocks related to OpenAI"
+ },
+ {
+  "start": 744.48,
+  "duration": 3.4,
+  "text": "and AI more broadly are getting hammered"
+ },
+ {
+  "start": 746.32,
+  "duration": 3.36,
+  "text": "because of a report from the Wall Street"
+ },
+ {
+  "start": 747.88,
+  "duration": 3.08,
+  "text": "Journal arguing that towards the end of"
+ },
+ {
+  "start": 749.68,
+  "duration": 3.56,
+  "text": "last year and at the beginning of this"
+ },
+ {
+  "start": 750.96,
+  "duration": 4.4,
+  "text": "year, OpenAI missed key revenue and user"
+ },
+ {
+  "start": 753.24,
+  "duration": 4.08,
+  "text": "targets. Now, it doesn't say exactly"
+ },
+ {
+  "start": 755.36,
+  "duration": 3.88,
+  "text": "when those user targets were, but unless"
+ },
+ {
+  "start": 757.32,
+  "duration": 3.4,
+  "text": "they were literally in the last 30 days,"
+ },
+ {
+  "start": 759.24,
+  "duration": 3.24,
+  "text": "those numbers are just not telling any"
+ },
+ {
+  "start": 760.72,
+  "duration": 3.84,
+  "text": "sort of up-to-date story."
+ },
+ {
+  "start": 762.48,
+  "duration": 5.0,
+  "text": "Shown here is a chart of Codex's user"
+ },
+ {
+  "start": 764.56,
+  "duration": 4.8,
+  "text": "growth in the last 4 months. Remember,"
+ },
+ {
+  "start": 767.48,
+  "duration": 3.72,
+  "text": "back in December OpenAI declared code"
+ },
+ {
+  "start": 769.36,
+  "duration": 5.76,
+  "text": "red and since then in quick succession"
+ },
+ {
+  "start": 771.2,
+  "duration": 6.48,
+  "text": "we got GPT-52, 53, 54, Codex variations"
+ },
+ {
+  "start": 775.12,
+  "duration": 3.8,
+  "text": "on those models and ultimately 55. 55,"
+ },
+ {
+  "start": 777.68,
+  "duration": 2.96,
+  "text": "of course, is the latest model having"
+ },
+ {
+  "start": 778.92,
+  "duration": 3.84,
+  "text": "come out just at the end of last week."
+ },
+ {
+  "start": 780.64,
+  "duration": 4.76,
+  "text": "Now, their Codex app users have grown"
+ },
+ {
+  "start": 782.76,
+  "duration": 5.4,
+  "text": "20x this year, from about 200,000 on"
+ },
+ {
+  "start": 785.4,
+  "duration": 5.2,
+  "text": "January 1st to 4 million the week before"
+ },
+ {
+  "start": 788.16,
+  "duration": 4.12,
+  "text": "GPT-55 launched. Presumably, that has"
+ },
+ {
+  "start": 790.6,
+  "duration": 3.8,
+  "text": "continued to grow and it wouldn't be"
+ },
+ {
+  "start": 792.28,
+  "duration": 4.52,
+  "text": "surprising if they got another big bump"
+ },
+ {
+  "start": 794.4,
+  "duration": 4.24,
+  "text": "with the release of 55 last week. Point"
+ },
+ {
+  "start": 796.8,
+  "duration": 3.4,
+  "text": "being, Wall Street is reacting to data"
+ },
+ {
+  "start": 798.64,
+  "duration": 3.68,
+  "text": "from somewhere between 2 and 6 months"
+ },
+ {
+  "start": 800.2,
+  "duration": 4.32,
+  "text": "ago without realizing that AI literally"
+ },
+ {
+  "start": 802.32,
+  "duration": 3.48,
+  "text": "operates on a dog year time scale. Now,"
+ },
+ {
+  "start": 804.52,
+  "duration": 3.88,
+  "text": "I will say, of course, that as"
+ },
+ {
+  "start": 805.8,
+  "duration": 4.24,
+  "text": "dismissive I'm being of Wall Street and"
+ },
+ {
+  "start": 808.4,
+  "duration": 3.12,
+  "text": "their understanding of what's going on,"
+ },
+ {
+  "start": 810.04,
+  "duration": 2.92,
+  "text": "what they think does matter because it's"
+ },
+ {
+  "start": 811.52,
+  "duration": 2.68,
+  "text": "going to be integral to whether"
+ },
+ {
+  "start": 812.96,
+  "duration": 3.08,
+  "text": "companies can continue to get the"
+ },
+ {
+  "start": 814.2,
+  "duration": 3.4,
+  "text": "financing to enable to keep building out"
+ },
+ {
+  "start": 816.04,
+  "duration": 3.76,
+  "text": "compute. Still, when it comes to"
+ },
+ {
+  "start": 817.6,
+  "duration": 3.6,
+  "text": "implications of the AI subsidy era, in"
+ },
+ {
+  "start": 819.8,
+  "duration": 3.48,
+  "text": "many ways the markets are the least"
+ },
+ {
+  "start": 821.2,
+  "duration": 4.04,
+  "text": "interesting to me. What is much more"
+ },
+ {
+  "start": 823.28,
+  "duration": 4.36,
+  "text": "interesting is what Chandra Duggarala"
+ },
+ {
+  "start": 825.24,
+  "duration": 4.0,
+  "text": "summed up as opex to capex. They"
+ },
+ {
+  "start": 827.64,
+  "duration": 3.48,
+  "text": "retweeted a post from Peter Diamandis"
+ },
+ {
+  "start": 829.24,
+  "duration": 4.88,
+  "text": "who wrote, \"Headcounts are dropping."
+ },
+ {
+  "start": 831.12,
+  "duration": 6.6,
+  "text": "Meta down 10%, Microsoft down 7%, both"
+ },
+ {
+  "start": 834.12,
+  "duration": 6.2,
+  "text": "companies up 400% AI capex. This isn't a"
+ },
+ {
+  "start": 837.72,
+  "duration": 4.56,
+  "text": "layoff, it's the transition from neurons"
+ },
+ {
+  "start": 840.32,
+  "duration": 3.72,
+  "text": "to silicon.\" And it turns out that if"
+ },
+ {
+  "start": 842.28,
+  "duration": 3.6,
+  "text": "you start to look for this story, it is"
+ },
+ {
+  "start": 844.04,
+  "duration": 4.12,
+  "text": "absolutely bubbling to the surface."
+ },
+ {
+  "start": 845.88,
+  "duration": 4.52,
+  "text": "Abacus AI's been ready writes,"
+ },
+ {
+  "start": 848.16,
+  "duration": 4.08,
+  "text": "\"Our AI bill will overtake payroll in 6"
+ },
+ {
+  "start": 850.4,
+  "duration": 3.48,
+  "text": "months. We now have limits on how much"
+ },
+ {
+  "start": 852.24,
+  "duration": 4.24,
+  "text": "employees can use our product on a daily"
+ },
+ {
+  "start": 853.88,
+  "duration": 3.959,
+  "text": "basis.\" Dax from OpenCode joked, \"We"
+ },
+ {
+  "start": 856.48,
+  "duration": 2.76,
+  "text": "tell our employees they have unlimited"
+ },
+ {
+  "start": 857.839,
+  "duration": 2.601,
+  "text": "tokens, but we just take it out of their"
+ },
+ {
+  "start": 859.24,
+  "duration": 2.52,
+  "text": "paycheck.\""
+ },
+ {
+  "start": 860.44,
+  "duration": 3.48,
+  "text": "Sam Tweet pointed out in the biggest"
+ },
+ {
+  "start": 861.76,
+  "duration": 3.64,
+  "text": "irony, \"Can't wait for humans to replace"
+ },
+ {
+  "start": 863.92,
+  "duration": 3.52,
+  "text": "AI now.\""
+ },
+ {
+  "start": 865.4,
+  "duration": 4.72,
+  "text": "What I think is fascinating about this"
+ },
+ {
+  "start": 867.44,
+  "duration": 5.36,
+  "text": "is that in almost none of the AI job"
+ },
+ {
+  "start": 870.12,
+  "duration": 4.959,
+  "text": "apocalypse discourse and the breathless"
+ },
+ {
+  "start": 872.8,
+  "duration": 4.6,
+  "text": "talk about impending doom, do the folks"
+ },
+ {
+  "start": 875.079,
+  "duration": 4.361,
+  "text": "who are most concerned take into account"
+ },
+ {
+  "start": 877.4,
+  "duration": 4.12,
+  "text": "the actual cost of intelligence as a"
+ },
+ {
+  "start": 879.44,
+  "duration": 3.84,
+  "text": "factor? There is this presumption"
+ },
+ {
+  "start": 881.52,
+  "duration": 2.96,
+  "text": "embedded in most of that discourse,"
+ },
+ {
+  "start": 883.28,
+  "duration": 2.84,
+  "text": "certainly not all of it. I don't want to"
+ },
+ {
+  "start": 884.48,
+  "duration": 3.56,
+  "text": "paint with too broad a brush stroke, but"
+ },
+ {
+  "start": 886.12,
+  "duration": 3.8,
+  "text": "in much of this discourse that AI is"
+ },
+ {
+  "start": 888.04,
+  "duration": 3.72,
+  "text": "going to be radically cheaper than its"
+ },
+ {
+  "start": 889.92,
+  "duration": 3.84,
+  "text": "human labor equivalent. And of course,"
+ },
+ {
+  "start": 891.76,
+  "duration": 4.4,
+  "text": "in some cases that will be true, but it"
+ },
+ {
+  "start": 893.76,
+  "duration": 3.88,
+  "text": "seems increasingly that cost savings is"
+ },
+ {
+  "start": 896.16,
+  "duration": 3.28,
+  "text": "likely to be one of the least relevant"
+ },
+ {
+  "start": 897.64,
+  "duration": 3.92,
+  "text": "categories of ROI when it comes to the"
+ },
+ {
+  "start": 899.44,
+  "duration": 3.84,
+  "text": "actual impact of AI."
+ },
+ {
+  "start": 901.56,
+  "duration": 2.96,
+  "text": "Obviously, it's just one sample, but"
+ },
+ {
+  "start": 903.28,
+  "duration": 3.32,
+  "text": "over the course of our last three"
+ },
+ {
+  "start": 904.52,
+  "duration": 4.319,
+  "text": "monthly pulse results, in January,"
+ },
+ {
+  "start": 906.6,
+  "duration": 4.28,
+  "text": "February, and March, cost savings was"
+ },
+ {
+  "start": 908.839,
+  "duration": 4.12,
+  "text": "literally nowhere on the list of most"
+ },
+ {
+  "start": 910.88,
+  "duration": 5.199,
+  "text": "important benefits. Between January and"
+ },
+ {
+  "start": 912.959,
+  "duration": 4.681,
+  "text": "March, time savings cratered from 19.7%"
+ },
+ {
+  "start": 916.079,
+  "duration": 4.161,
+  "text": "saying it was the primary benefit down"
+ },
+ {
+  "start": 917.64,
+  "duration": 4.28,
+  "text": "to just 12.7% and in that same time"
+ },
+ {
+  "start": 920.24,
+  "duration": 3.32,
+  "text": "period, the percentage of people saying"
+ },
+ {
+  "start": 921.92,
+  "duration": 5.24,
+  "text": "that new capabilities were their primary"
+ },
+ {
+  "start": 923.56,
+  "duration": 5.56,
+  "text": "benefit went from 21.9% to 29.3%."
+ },
+ {
+  "start": 927.16,
+  "duration": 4.6,
+  "text": "If what people are looking for out of AI"
+ },
+ {
+  "start": 929.12,
+  "duration": 4.56,
+  "text": "is not cost savings, it's going to have"
+ },
+ {
+  "start": 931.76,
+  "duration": 4.44,
+  "text": "pretty big impacts on the particular"
+ },
+ {
+  "start": 933.68,
+  "duration": 4.44,
+  "text": "shape of AI displacement. There is also"
+ },
+ {
+  "start": 936.2,
+  "duration": 4.759,
+  "text": "the irony that while none of the active"
+ },
+ {
+  "start": 938.12,
+  "duration": 4.64,
+  "text": "protest calls or signed open letters"
+ },
+ {
+  "start": 940.959,
+  "duration": 4.681,
+  "text": "have produced any sort of agreed upon AI"
+ },
+ {
+  "start": 942.76,
+  "duration": 4.6,
+  "text": "pause, the sheer constraints of physics,"
+ },
+ {
+  "start": 945.64,
+  "duration": 3.6,
+  "text": "i.e. the limitations of our grid, the"
+ },
+ {
+  "start": 947.36,
+  "duration": 3.719,
+  "text": "lack of components, the barriers to"
+ },
+ {
+  "start": 949.24,
+  "duration": 3.36,
+  "text": "building more data centers and compute,"
+ },
+ {
+  "start": 951.079,
+  "duration": 3.041,
+  "text": "and the market forces that go with them"
+ },
+ {
+  "start": 952.6,
+  "duration": 3.44,
+  "text": "are ultimately going to be a much more"
+ },
+ {
+  "start": 954.12,
+  "duration": 3.839,
+  "text": "powerful force for slowing down the rate"
+ },
+ {
+  "start": 956.04,
+  "duration": 4.16,
+  "text": "of AI diffusion. I don't think that this"
+ },
+ {
+  "start": 957.959,
+  "duration": 3.921,
+  "text": "is a bad thing. One of the more nuanced"
+ },
+ {
+  "start": 960.2,
+  "duration": 3.44,
+  "text": "versions of AI concern was summed up by"
+ },
+ {
+  "start": 961.88,
+  "duration": 3.72,
+  "text": "Jamie Dimon at the World Economic Forum"
+ },
+ {
+  "start": 963.64,
+  "duration": 3.28,
+  "text": "this year, where he wasn't ultimately"
+ },
+ {
+  "start": 965.6,
+  "duration": 3.479,
+  "text": "worried about the long term and our"
+ },
+ {
+  "start": 966.92,
+  "duration": 4.6,
+  "text": "ability to adapt, but the fact that"
+ },
+ {
+  "start": 969.079,
+  "duration": 5.361,
+  "text": "changes might happen, in his words, too"
+ },
+ {
+  "start": 971.52,
+  "duration": 5.319,
+  "text": "fast for society. If it turns out that"
+ },
+ {
+  "start": 974.44,
+  "duration": 4.24,
+  "text": "an agent that can do human work for a"
+ },
+ {
+  "start": 976.839,
+  "duration": 4.041,
+  "text": "little while costs the same or pretty"
+ },
+ {
+  "start": 978.68,
+  "duration": 3.48,
+  "text": "close to a human doing that work, that's"
+ },
+ {
+  "start": 980.88,
+  "duration": 3.64,
+  "text": "obviously going to have a fairly"
+ },
+ {
+  "start": 982.16,
+  "duration": 4.04,
+  "text": "significant impact on the rate of change"
+ },
+ {
+  "start": 984.52,
+  "duration": 2.96,
+  "text": "that we experience."
+ },
+ {
+  "start": 986.2,
+  "duration": 3.4,
+  "text": "Now, that's a subject for a show that's"
+ },
+ {
+  "start": 987.48,
+  "duration": 3.32,
+  "text": "a larger exploration on jobs, but I do"
+ },
+ {
+  "start": 989.6,
+  "duration": 3.04,
+  "text": "think that it is an important"
+ },
+ {
+  "start": 990.8,
+  "duration": 4.159,
+  "text": "implication and potentially a"
+ },
+ {
+  "start": 992.64,
+  "duration": 4.56,
+  "text": "unexpectedly positive implication of the"
+ },
+ {
+  "start": 994.959,
+  "duration": 3.721,
+  "text": "subsidy era coming to a close. Now,"
+ },
+ {
+  "start": 997.2,
+  "duration": 3.4,
+  "text": "localizing the impact more for"
+ },
+ {
+  "start": 998.68,
+  "duration": 3.8,
+  "text": "individual companies, part of what does"
+ },
+ {
+  "start": 1000.6,
+  "duration": 4.12,
+  "text": "make this challenging is that there are"
+ },
+ {
+  "start": 1002.48,
+  "duration": 4.24,
+  "text": "lots of companies that already have or"
+ },
+ {
+  "start": 1004.72,
+  "duration": 3.88,
+  "text": "are in the midst of completely shifting"
+ },
+ {
+  "start": 1006.72,
+  "duration": 4.16,
+  "text": "all of their workflows around agents."
+ },
+ {
+  "start": 1008.6,
+  "duration": 4.08,
+  "text": "Those companies are at risk of having"
+ },
+ {
+  "start": 1010.88,
+  "duration": 3.32,
+  "text": "pretty different unit economics than"
+ },
+ {
+  "start": 1012.68,
+  "duration": 2.72,
+  "text": "they thought they were dealing with. And"
+ },
+ {
+  "start": 1014.2,
+  "duration": 3.08,
+  "text": "one of the things that you're likely to"
+ },
+ {
+  "start": 1015.4,
+  "duration": 3.84,
+  "text": "see is companies starting to experiment"
+ },
+ {
+  "start": 1017.28,
+  "duration": 3.52,
+  "text": "much more assertively with lower cost"
+ },
+ {
+  "start": 1019.24,
+  "duration": 2.52,
+  "text": "models. Now, for those who have been"
+ },
+ {
+  "start": 1020.8,
+  "duration": 3.32,
+  "text": "paying attention, this has been"
+ },
+ {
+  "start": 1021.76,
+  "duration": 3.88,
+  "text": "happening for a while. Back in November,"
+ },
+ {
+  "start": 1024.12,
+  "duration": 3.52,
+  "text": "Al Jazeera published a piece about how"
+ },
+ {
+  "start": 1025.64,
+  "duration": 3.68,
+  "text": "China's lower cost AI was making big"
+ },
+ {
+  "start": 1027.64,
+  "duration": 3.36,
+  "text": "inroads in Silicon Valley, noting"
+ },
+ {
+  "start": 1029.32,
+  "duration": 3.519,
+  "text": "headline-grabbing comments from Airbnb"
+ },
+ {
+  "start": 1031.0,
+  "duration": 3.64,
+  "text": "CEO Brian Chesky, who said that the"
+ },
+ {
+  "start": 1032.839,
+  "duration": 4.161,
+  "text": "company was using Alibaba's Qwen over"
+ },
+ {
+  "start": 1034.64,
+  "duration": 3.64,
+  "text": "ChatGPT because it was fast and cheap."
+ },
+ {
+  "start": 1037.0,
+  "duration": 2.92,
+  "text": "And certainly there's reason to think"
+ },
+ {
+  "start": 1038.28,
+  "duration": 4.08,
+  "text": "that in the agent era, there's going to"
+ },
+ {
+  "start": 1039.92,
+  "duration": 4.36,
+  "text": "be a lot more emphasis on not just raw"
+ },
+ {
+  "start": 1042.36,
+  "duration": 3.92,
+  "text": "intelligence, but intelligence per unit"
+ },
+ {
+  "start": 1044.28,
+  "duration": 3.88,
+  "text": "of cost. Now, for those who are thinking"
+ },
+ {
+  "start": 1046.28,
+  "duration": 4.12,
+  "text": "about this change through the what can"
+ },
+ {
+  "start": 1048.16,
+  "duration": 4.4,
+  "text": "our company do to get out ahead of what"
+ },
+ {
+  "start": 1050.4,
+  "duration": 3.72,
+  "text": "could be rapidly rising model bills,"
+ },
+ {
+  "start": 1052.56,
+  "duration": 3.52,
+  "text": "there will be a companion site at"
+ },
+ {
+  "start": 1054.12,
+  "duration": 3.6,
+  "text": "play.aidailybrief.ai,"
+ },
+ {
+  "start": 1056.08,
+  "duration": 3.76,
+  "text": "where I'm publishing five steps for"
+ },
+ {
+  "start": 1057.72,
+  "duration": 4.12,
+  "text": "dealing with the end of the AI subsidy."
+ },
+ {
+  "start": 1059.84,
+  "duration": 4.6,
+  "text": "The five steps are first, finding the AI"
+ },
+ {
+  "start": 1061.84,
+  "duration": 4.8,
+  "text": "spending leaks. This is basically a use"
+ },
+ {
+  "start": 1064.44,
+  "duration": 5.04,
+  "text": "case and task audit looking for where"
+ },
+ {
+  "start": 1066.64,
+  "duration": 4.96,
+  "text": "premium, expensive models are doing"
+ },
+ {
+  "start": 1069.48,
+  "duration": 3.84,
+  "text": "tasks that really could be done by"
+ },
+ {
+  "start": 1071.6,
+  "duration": 3.16,
+  "text": "smaller models, less expensive models,"
+ },
+ {
+  "start": 1073.32,
+  "duration": 3.32,
+  "text": "or even models a generation or two"
+ },
+ {
+  "start": 1074.76,
+  "duration": 3.919,
+  "text": "older. Especially at the beginning of"
+ },
+ {
+  "start": 1076.64,
+  "duration": 4.32,
+  "text": "systems design, there is a tendency for"
+ },
+ {
+  "start": 1078.679,
+  "duration": 4.121,
+  "text": "people, certainly for me, to default to"
+ },
+ {
+  "start": 1080.96,
+  "duration": 3.64,
+  "text": "the most state-of-the-art model to make"
+ },
+ {
+  "start": 1082.8,
+  "duration": 3.56,
+  "text": "sure the overall agent or system can do"
+ },
+ {
+  "start": 1084.6,
+  "duration": 3.4,
+  "text": "what I actually want it to do, and there"
+ },
+ {
+  "start": 1086.36,
+  "duration": 3.84,
+  "text": "almost needs to be a whole secondary"
+ },
+ {
+  "start": 1088.0,
+  "duration": 4.08,
+  "text": "step to then go back and audit every"
+ },
+ {
+  "start": 1090.2,
+  "duration": 3.32,
+  "text": "part of that system to make sure that"
+ },
+ {
+  "start": 1092.08,
+  "duration": 3.64,
+  "text": "the need is actually aligned with the"
+ },
+ {
+  "start": 1093.52,
+  "duration": 4.44,
+  "text": "model's power and cost."
+ },
+ {
+  "start": 1095.72,
+  "duration": 4.72,
+  "text": "My next suggestion is to hold what I'm"
+ },
+ {
+  "start": 1097.96,
+  "duration": 3.68,
+  "text": "calling a cheap model bake-off."
+ },
+ {
+  "start": 1100.44,
+  "duration": 3.239,
+  "text": "One of the things we talk about all the"
+ },
+ {
+  "start": 1101.64,
+  "duration": 4.84,
+  "text": "time here is how the most successful"
+ },
+ {
+  "start": 1103.679,
+  "duration": 4.361,
+  "text": "users of AI don't just use one model and"
+ },
+ {
+  "start": 1106.48,
+  "duration": 2.679,
+  "text": "stick with it. They figure out which"
+ },
+ {
+  "start": 1108.04,
+  "duration": 2.76,
+  "text": "model is good for each of their"
+ },
+ {
+  "start": 1109.159,
+  "duration": 3.241,
+  "text": "different tasks and kind of build"
+ },
+ {
+  "start": 1110.8,
+  "duration": 3.84,
+  "text": "themselves what is effectively a model"
+ },
+ {
+  "start": 1112.4,
+  "duration": 4.519,
+  "text": "portfolio. What I'm arguing for with the"
+ },
+ {
+  "start": 1114.64,
+  "duration": 4.32,
+  "text": "model bake-off is to take that same"
+ },
+ {
+  "start": 1116.919,
+  "duration": 3.76,
+  "text": "idea, but to bring it back to those"
+ },
+ {
+  "start": 1118.96,
+  "duration": 3.64,
+  "text": "smaller, more efficient, and more open"
+ },
+ {
+  "start": 1120.679,
+  "duration": 3.441,
+  "text": "models, figuring out which do the types"
+ },
+ {
+  "start": 1122.6,
+  "duration": 3.4,
+  "text": "of work that you want to move into the"
+ },
+ {
+  "start": 1124.12,
+  "duration": 3.68,
+  "text": "cheaper column with the best combination"
+ },
+ {
+  "start": 1126.0,
+  "duration": 3.48,
+  "text": "of performance and cost. And this one I"
+ },
+ {
+  "start": 1127.8,
+  "duration": 3.6,
+  "text": "think you can have some fun with. It"
+ },
+ {
+  "start": 1129.48,
+  "duration": 3.16,
+  "text": "will take some time, yes, to build a"
+ },
+ {
+  "start": 1131.4,
+  "duration": 3.2,
+  "text": "framework to test a whole bunch of"
+ },
+ {
+  "start": 1132.64,
+  "duration": 3.84,
+  "text": "models on some key tasks, but you'll be"
+ },
+ {
+  "start": 1134.6,
+  "duration": 3.52,
+  "text": "much more confident integrating these"
+ },
+ {
+  "start": 1136.48,
+  "duration": 3.32,
+  "text": "less expensive models into your most"
+ },
+ {
+  "start": 1138.12,
+  "duration": 3.36,
+  "text": "important systems if you've taken the"
+ },
+ {
+  "start": 1139.8,
+  "duration": 3.92,
+  "text": "time to actually test them against one"
+ },
+ {
+  "start": 1141.48,
+  "duration": 3.439,
+  "text": "another and against the frontier models"
+ },
+ {
+  "start": 1143.72,
+  "duration": 3.08,
+  "text": "to know what tradeoffs you're really"
+ },
+ {
+  "start": 1144.919,
+  "duration": 3.961,
+  "text": "making, but which models are best suited"
+ },
+ {
+  "start": 1146.8,
+  "duration": 4.119,
+  "text": "to what tasks. And moving on to number"
+ },
+ {
+  "start": 1148.88,
+  "duration": 4.16,
+  "text": "three, the idea of this recommendation"
+ },
+ {
+  "start": 1150.919,
+  "duration": 3.921,
+  "text": "is to not make that cheap model bake-off"
+ },
+ {
+  "start": 1153.04,
+  "duration": 4.16,
+  "text": "a one-time endeavor, but to actually"
+ },
+ {
+  "start": 1154.84,
+  "duration": 4.319,
+  "text": "enshrine it in a role which I'm calling"
+ },
+ {
+  "start": 1157.2,
+  "duration": 4.2,
+  "text": "model sommelier. The idea is to"
+ },
+ {
+  "start": 1159.159,
+  "duration": 4.321,
+  "text": "basically give one person or small group"
+ },
+ {
+  "start": 1161.4,
+  "duration": 4.4,
+  "text": "ownership of this bargain intelligence"
+ },
+ {
+  "start": 1163.48,
+  "duration": 3.88,
+  "text": "and second-best model selection process."
+ },
+ {
+  "start": 1165.8,
+  "duration": 3.48,
+  "text": "This person could take what you've built"
+ },
+ {
+  "start": 1167.36,
+  "duration": 4.48,
+  "text": "with the cheap model bake-off, things"
+ },
+ {
+  "start": 1169.28,
+  "duration": 3.6,
+  "text": "like leaderboard by task type and cost,"
+ },
+ {
+  "start": 1171.84,
+  "duration": 2.76,
+  "text": "and they can turn that into a"
+ },
+ {
+  "start": 1172.88,
+  "duration": 3.68,
+  "text": "continuously updating system that can"
+ },
+ {
+  "start": 1174.6,
+  "duration": 3.76,
+  "text": "track price changes, new open model"
+ },
+ {
+  "start": 1176.56,
+  "duration": 3.88,
+  "text": "releases, surprisingly strong"
+ },
+ {
+  "start": 1178.36,
+  "duration": 3.799,
+  "text": "non-frontier models, and actually turn"
+ },
+ {
+  "start": 1180.44,
+  "duration": 4.04,
+  "text": "that into recommendations and further"
+ },
+ {
+  "start": 1182.159,
+  "duration": 3.801,
+  "text": "tests over time. Plus, if you call it"
+ },
+ {
+  "start": 1184.48,
+  "duration": 3.56,
+  "text": "model sommelier, they'll feel super"
+ },
+ {
+  "start": 1185.96,
+  "duration": 3.76,
+  "text": "sophisticated and cool, so fringe"
+ },
+ {
+  "start": 1188.04,
+  "duration": 3.36,
+  "text": "benefit there. Number four on the"
+ },
+ {
+  "start": 1189.72,
+  "duration": 3.88,
+  "text": "recommendation list is to create an"
+ },
+ {
+  "start": 1191.4,
+  "duration": 4.32,
+  "text": "escape hatch architecture. And what I"
+ },
+ {
+  "start": 1193.6,
+  "duration": 4.24,
+  "text": "mean by that is to basically design"
+ },
+ {
+  "start": 1195.72,
+  "duration": 3.96,
+  "text": "systems that can adapt that are not"
+ },
+ {
+  "start": 1197.84,
+  "duration": 4.36,
+  "text": "unduly stuck on the cheaper or"
+ },
+ {
+  "start": 1199.68,
+  "duration": 4.56,
+  "text": "compromised models, but have paths to"
+ },
+ {
+  "start": 1202.2,
+  "duration": 3.92,
+  "text": "escalation. You're going to have tasks"
+ },
+ {
+  "start": 1204.24,
+  "duration": 3.84,
+  "text": "and workflows where the cheaper open"
+ },
+ {
+  "start": 1206.12,
+  "duration": 3.72,
+  "text": "models are good for routine work, but"
+ },
+ {
+  "start": 1208.08,
+  "duration": 4.76,
+  "text": "where you can also build the ability to"
+ },
+ {
+  "start": 1209.84,
+  "duration": 5.2,
+  "text": "escalate on low confidence, ambiguity,"
+ },
+ {
+  "start": 1212.84,
+  "duration": 3.88,
+  "text": "sensitive data, high value cases,"
+ },
+ {
+  "start": 1215.04,
+  "duration": 4.12,
+  "text": "routing them to the higher power higher"
+ },
+ {
+  "start": 1216.72,
+  "duration": 4.16,
+  "text": "cost models, or even to human review."
+ },
+ {
+  "start": 1219.16,
+  "duration": 4.12,
+  "text": "You can almost think about number four"
+ },
+ {
+  "start": 1220.88,
+  "duration": 4.32,
+  "text": "as a placeholder for actually designing"
+ },
+ {
+  "start": 1223.28,
+  "duration": 3.4,
+  "text": "the architecture around the fact that"
+ },
+ {
+  "start": 1225.2,
+  "duration": 3.56,
+  "text": "you're going to be working with multiple"
+ },
+ {
+  "start": 1226.68,
+  "duration": 5.08,
+  "text": "models, which my guess is we're going to"
+ },
+ {
+  "start": 1228.76,
+  "duration": 5.36,
+  "text": "see just about a metric ton of LinkedIn"
+ },
+ {
+  "start": 1231.76,
+  "duration": 4.12,
+  "text": "and Twitter post how-tos as the end of"
+ },
+ {
+  "start": 1234.12,
+  "duration": 2.84,
+  "text": "the AI subsidy era really becomes a"
+ },
+ {
+  "start": 1235.88,
+  "duration": 2.48,
+  "text": "theme."
+ },
+ {
+  "start": 1236.96,
+  "duration": 3.44,
+  "text": "The last recommendation is to just"
+ },
+ {
+  "start": 1238.36,
+  "duration": 3.88,
+  "text": "measure this all. Build an AI cost"
+ },
+ {
+  "start": 1240.4,
+  "duration": 4.2,
+  "text": "scoreboard. Make agent economics"
+ },
+ {
+  "start": 1242.24,
+  "duration": 4.28,
+  "text": "visible. Help teams understand the"
+ },
+ {
+  "start": 1244.6,
+  "duration": 3.76,
+  "text": "impact of the tradeoffs they're making."
+ },
+ {
+  "start": 1246.52,
+  "duration": 3.56,
+  "text": "Integrate those cost metrics with"
+ },
+ {
+  "start": 1248.36,
+  "duration": 3.68,
+  "text": "performance and other considerations"
+ },
+ {
+  "start": 1250.08,
+  "duration": 4.72,
+  "text": "like escalation rate, human review rate,"
+ },
+ {
+  "start": 1252.04,
+  "duration": 5.0,
+  "text": "correction rate, etc. And as you do so,"
+ },
+ {
+  "start": 1254.8,
+  "duration": 4.0,
+  "text": "celebrate the wins. Empower your teams"
+ },
+ {
+  "start": 1257.04,
+  "duration": 3.0,
+  "text": "to lead these changes so that you're"
+ },
+ {
+  "start": 1258.8,
+  "duration": 2.8,
+  "text": "co-creating the agent human"
+ },
+ {
+  "start": 1260.04,
+  "duration": 3.4,
+  "text": "collaboration teams rather than just"
+ },
+ {
+  "start": 1261.6,
+  "duration": 3.76,
+  "text": "imposing it upon them. Now, if you want"
+ },
+ {
+  "start": 1263.44,
+  "duration": 4.0,
+  "text": "to go deeper on this and get access to a"
+ },
+ {
+  "start": 1265.36,
+  "duration": 3.56,
+  "text": "checklist of a set of tasks for doing"
+ },
+ {
+  "start": 1267.44,
+  "duration": 3.52,
+  "text": "this, go check out play.ai"
+ },
+ {
+  "start": 1268.92,
+  "duration": 4.16,
+  "text": "dailybrief.ai. It'll be right on top of"
+ },
+ {
+  "start": 1270.96,
+  "duration": 4.04,
+  "text": "these companion experiences."
+ },
+ {
+  "start": 1273.08,
+  "duration": 3.56,
+  "text": "As you can probably tell, I do not think"
+ },
+ {
+  "start": 1275.0,
+  "duration": 3.44,
+  "text": "that this is a short-term blip. The"
+ },
+ {
+  "start": 1276.64,
+  "duration": 3.64,
+  "text": "reality is that even with all the"
+ },
+ {
+  "start": 1278.44,
+  "duration": 3.8,
+  "text": "compute that's planned to come online"
+ },
+ {
+  "start": 1280.28,
+  "duration": 3.52,
+  "text": "over the next 5 years, it's not going to"
+ },
+ {
+  "start": 1282.24,
+  "duration": 3.0,
+  "text": "happen right away. And it's not even"
+ },
+ {
+  "start": 1283.8,
+  "duration": 3.04,
+  "text": "going to happen in the short term."
+ },
+ {
+  "start": 1285.24,
+  "duration": 3.32,
+  "text": "What's more, even as that compute does"
+ },
+ {
+  "start": 1286.84,
+  "duration": 3.72,
+  "text": "come online, big chunks of it will"
+ },
+ {
+  "start": 1288.56,
+  "duration": 3.64,
+  "text": "continue to be used, not for serving the"
+ },
+ {
+  "start": 1290.56,
+  "duration": 3.08,
+  "text": "models, but for training the models."
+ },
+ {
+  "start": 1292.2,
+  "duration": 3.6,
+  "text": "Once the levy breaks and everything"
+ },
+ {
+  "start": 1293.64,
+  "duration": 3.84,
+  "text": "shifts to usage-based billing, everyone"
+ },
+ {
+  "start": 1295.8,
+  "duration": 3.44,
+  "text": "is going to ultimately follow suit, and"
+ },
+ {
+  "start": 1297.48,
+  "duration": 3.0,
+  "text": "it's just going to become the norm. And"
+ },
+ {
+  "start": 1299.24,
+  "duration": 2.8,
+  "text": "although this change in the short term"
+ },
+ {
+  "start": 1300.48,
+  "duration": 2.92,
+  "text": "will be challenging, there's a lot of"
+ },
+ {
+  "start": 1302.04,
+  "duration": 2.92,
+  "text": "reasons to be optimistic or even"
+ },
+ {
+  "start": 1303.4,
+  "duration": 4.04,
+  "text": "enthusiastic, at least in the medium"
+ },
+ {
+  "start": 1304.96,
+  "duration": 4.12,
+  "text": "term. More sustainable business models,"
+ },
+ {
+  "start": 1307.44,
+  "duration": 3.04,
+  "text": "a better assessment of the actual cost"
+ },
+ {
+  "start": 1309.08,
+  "duration": 2.8,
+  "text": "of AI, which will help companies make"
+ },
+ {
+  "start": 1310.48,
+  "duration": 3.36,
+  "text": "better decisions about where and how to"
+ },
+ {
+  "start": 1311.88,
+  "duration": 3.52,
+  "text": "use it, more robust and sophisticated"
+ },
+ {
+  "start": 1313.84,
+  "duration": 2.96,
+  "text": "systems that are not locked into one"
+ },
+ {
+  "start": 1315.4,
+  "duration": 2.84,
+  "text": "model just because theoretically it's"
+ },
+ {
+  "start": 1316.8,
+  "duration": 2.8,
+  "text": "state of the art overall, but are"
+ },
+ {
+  "start": 1318.24,
+  "duration": 2.6,
+  "text": "instead tuned for the different models"
+ },
+ {
+  "start": 1319.6,
+  "duration": 3.4,
+  "text": "that have the best cons performance"
+ },
+ {
+  "start": 1320.84,
+  "duration": 4.28,
+  "text": "profile for the specific task at hand,"
+ },
+ {
+  "start": 1323.0,
+  "duration": 3.4,
+  "text": "and frankly, a somewhat forced slowdown"
+ },
+ {
+  "start": 1325.12,
+  "duration": 2.72,
+  "text": "on the potential for dramatic job"
+ },
+ {
+  "start": 1326.4,
+  "duration": 2.72,
+  "text": "displacement."
+ },
+ {
+  "start": 1327.84,
+  "duration": 2.88,
+  "text": "Anyways, folks, that's where I'm seeing"
+ },
+ {
+  "start": 1329.12,
+  "duration": 2.76,
+  "text": "it from here. I'm sure this is a trend"
+ },
+ {
+  "start": 1330.72,
+  "duration": 2.64,
+  "text": "we will continue to look at, but for"
+ },
+ {
+  "start": 1331.88,
+  "duration": 3.36,
+  "text": "now, that's going to do it for today's"
+ },
+ {
+  "start": 1333.36,
+  "duration": 3.72,
+  "text": "AI daily brief. Appreciate you listening"
+ },
+ {
+  "start": 1335.24,
+  "duration": 4.25,
+  "text": "or watching, as always, and until next"
+ },
+ {
+  "start": 1337.08,
+  "duration": 4.43,
+  "text": "time, peace."
+ },
+ {
+  "start": 1339.49,
+  "duration": 2.02,
+  "text": ">> [music]"
+ }
+]

@@ -1,0 +1,3657 @@
+[
+ {
+  "start": 1.16,
+  "duration": 5.32,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 3.2,
+  "duration": 5.08,
+  "text": "what the Pope actually said about AI."
+ },
+ {
+  "start": 6.48,
+  "duration": 4.56,
+  "text": "Before that in the headlines,"
+ },
+ {
+  "start": 8.28,
+  "duration": 4.48,
+  "text": "an update on the Mythos rollout."
+ },
+ {
+  "start": 11.04,
+  "duration": 3.4,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 12.76,
+  "duration": 5.12,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 14.44,
+  "duration": 3.44,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 18.08,
+  "duration": 3.68,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 19.44,
+  "duration": 5.24,
+  "text": "headlines edition, all the daily AI news"
+ },
+ {
+  "start": 21.76,
+  "duration": 5.0,
+  "text": "you need in around 5 minutes."
+ },
+ {
+  "start": 24.68,
+  "duration": 4.6,
+  "text": "At the end of last week, we got a quick"
+ },
+ {
+  "start": 26.76,
+  "duration": 4.24,
+  "text": "update about Project Glasswing. Now,"
+ },
+ {
+  "start": 29.28,
+  "duration": 3.24,
+  "text": "Glasswing, you might remember, was the"
+ },
+ {
+  "start": 31.0,
+  "duration": 3.16,
+  "text": "name that Anthropic had given to the"
+ },
+ {
+  "start": 32.52,
+  "duration": 3.52,
+  "text": "initiative through which they rolled out"
+ },
+ {
+  "start": 34.16,
+  "duration": 4.2,
+  "text": "their new Mythos model in a very limited"
+ },
+ {
+  "start": 36.04,
+  "duration": 3.52,
+  "text": "capacity to around 50 partners. It was"
+ },
+ {
+  "start": 38.36,
+  "duration": 3.16,
+  "text": "all about wrestling with the"
+ },
+ {
+  "start": 39.56,
+  "duration": 3.6,
+  "text": "cybersecurity implications of the model,"
+ },
+ {
+  "start": 41.52,
+  "duration": 3.88,
+  "text": "and Anthropic said the project has so"
+ },
+ {
+  "start": 43.16,
+  "duration": 4.0,
+  "text": "far identified more than 10,000 software"
+ },
+ {
+  "start": 45.4,
+  "duration": 3.44,
+  "text": "vulnerabilities of high or critical"
+ },
+ {
+  "start": 47.16,
+  "duration": 2.96,
+  "text": "severity. Most partners, they wrote,"
+ },
+ {
+  "start": 48.84,
+  "duration": 2.8,
+  "text": "have found hundreds of severe"
+ },
+ {
+  "start": 50.12,
+  "duration": 3.04,
+  "text": "vulnerabilities in a little over a month"
+ },
+ {
+  "start": 51.64,
+  "duration": 3.72,
+  "text": "using the model. Testing the model's"
+ },
+ {
+  "start": 53.16,
+  "duration": 4.12,
+  "text": "accuracy on open-source repos found less"
+ },
+ {
+  "start": 55.36,
+  "duration": 4.0,
+  "text": "than a 10% false positive rate, wrote"
+ },
+ {
+  "start": 57.28,
+  "duration": 3.56,
+  "text": "Anthropic. Progress on software security"
+ },
+ {
+  "start": 59.36,
+  "duration": 3.04,
+  "text": "used to be limited by how quickly we"
+ },
+ {
+  "start": 60.84,
+  "duration": 2.8,
+  "text": "could find new vulnerabilities. Now,"
+ },
+ {
+  "start": 62.4,
+  "duration": 3.16,
+  "text": "it's limited by how quickly we can"
+ },
+ {
+  "start": 63.64,
+  "duration": 3.84,
+  "text": "verify, disclose, and patch the large"
+ },
+ {
+  "start": 65.56,
+  "duration": 3.6,
+  "text": "number of vulnerabilities found by AI."
+ },
+ {
+  "start": 67.48,
+  "duration": 3.48,
+  "text": "Anthropic noted that industry standards"
+ },
+ {
+  "start": 69.16,
+  "duration": 3.6,
+  "text": "demand that bugs are not disclosed for 3"
+ },
+ {
+  "start": 70.96,
+  "duration": 3.64,
+  "text": "months after identification, meaning"
+ },
+ {
+  "start": 72.76,
+  "duration": 3.32,
+  "text": "that the comments are vague. At the same"
+ },
+ {
+  "start": 74.6,
+  "duration": 3.28,
+  "text": "time, the report highlighted several"
+ },
+ {
+  "start": 76.08,
+  "duration": 3.16,
+  "text": "public statements. Mozilla recently"
+ },
+ {
+  "start": 77.88,
+  "duration": 3.72,
+  "text": "commented that they had found and fixed"
+ },
+ {
+  "start": 79.24,
+  "duration": 3.68,
+  "text": "271 vulnerabilities, which is more than"
+ },
+ {
+  "start": 81.6,
+  "duration": 3.84,
+  "text": "10 times the amount they found using"
+ },
+ {
+  "start": 82.92,
+  "duration": 3.96,
+  "text": "Opus 4.6. Palo Alto Networks' most"
+ },
+ {
+  "start": 85.44,
+  "duration": 3.48,
+  "text": "recent release featured five times as"
+ },
+ {
+  "start": 86.88,
+  "duration": 3.48,
+  "text": "many patches as well. The report also"
+ },
+ {
+  "start": 88.92,
+  "duration": 3.0,
+  "text": "noted that some in the finance sector"
+ },
+ {
+  "start": 90.36,
+  "duration": 3.44,
+  "text": "are also using the model for real-time"
+ },
+ {
+  "start": 91.92,
+  "duration": 4.24,
+  "text": "fraud detection. For one firm, Mythos"
+ },
+ {
+  "start": 93.8,
+  "duration": 4.24,
+  "text": "was able to detect and prevent a $1.5"
+ },
+ {
+  "start": 96.16,
+  "duration": 3.68,
+  "text": "million wire transfer to a threat actor"
+ },
+ {
+  "start": 98.04,
+  "duration": 3.2,
+  "text": "who compromised a customer's account."
+ },
+ {
+  "start": 99.84,
+  "duration": 3.32,
+  "text": "Now, one of the big criticisms of the"
+ },
+ {
+  "start": 101.24,
+  "duration": 3.56,
+  "text": "Mythos rollout has been its exclusivity,"
+ },
+ {
+  "start": 103.16,
+  "duration": 3.76,
+  "text": "with the model provided to only a few"
+ },
+ {
+  "start": 104.8,
+  "duration": 4.64,
+  "text": "dozen top US companies. And in addition"
+ },
+ {
+  "start": 106.92,
+  "duration": 3.84,
+  "text": "to the podcasters and power users of X"
+ },
+ {
+  "start": 109.44,
+  "duration": 3.04,
+  "text": "who have been frustrated that they can't"
+ },
+ {
+  "start": 110.76,
+  "duration": 3.24,
+  "text": "play with the new model, the frustration"
+ },
+ {
+  "start": 112.48,
+  "duration": 3.08,
+  "text": "apparently extends to global policy"
+ },
+ {
+  "start": 114.0,
+  "duration": 3.2,
+  "text": "makers as well."
+ },
+ {
+  "start": 115.56,
+  "duration": 3.08,
+  "text": "Earlier this month, European officials"
+ },
+ {
+  "start": 117.2,
+  "duration": 3.44,
+  "text": "called on Anthropic to make Mythos"
+ },
+ {
+  "start": 118.64,
+  "duration": 3.56,
+  "text": "available to their financial sector with"
+ },
+ {
+  "start": 120.64,
+  "duration": 3.92,
+  "text": "similar calls having come from the UK,"
+ },
+ {
+  "start": 122.2,
+  "duration": 3.6,
+  "text": "Canada, and governments across Asia."
+ },
+ {
+  "start": 124.56,
+  "duration": 2.4,
+  "text": "The Australian government held"
+ },
+ {
+  "start": 125.8,
+  "duration": 2.72,
+  "text": "high-level talks with Anthropic"
+ },
+ {
+  "start": 126.96,
+  "duration": 3.56,
+  "text": "executives last week in an attempt to"
+ },
+ {
+  "start": 128.52,
+  "duration": 3.16,
+  "text": "gain access. Anthropic, for their part,"
+ },
+ {
+  "start": 130.52,
+  "duration": 2.8,
+  "text": "says that they are currently working"
+ },
+ {
+  "start": 131.68,
+  "duration": 3.52,
+  "text": "with critical partners including the US"
+ },
+ {
+  "start": 133.32,
+  "duration": 3.48,
+  "text": "and allied governments to expand Project"
+ },
+ {
+  "start": 135.2,
+  "duration": 3.08,
+  "text": "Glasswing and said that while they look"
+ },
+ {
+  "start": 136.8,
+  "duration": 3.04,
+  "text": "forward to releasing a Mythos class"
+ },
+ {
+  "start": 138.28,
+  "duration": 3.96,
+  "text": "model to the public, that timeline is"
+ },
+ {
+  "start": 139.84,
+  "duration": 3.92,
+  "text": "unclear. At present, they wrote, \"No"
+ },
+ {
+  "start": 142.24,
+  "duration": 2.88,
+  "text": "company, including Anthropic, has"
+ },
+ {
+  "start": 143.76,
+  "duration": 3.16,
+  "text": "developed safeguards strong enough to"
+ },
+ {
+  "start": 145.12,
+  "duration": 3.48,
+  "text": "prevent such models from being misused"
+ },
+ {
+  "start": 146.92,
+  "duration": 2.8,
+  "text": "and potentially causing severe harm."
+ },
+ {
+  "start": 148.6,
+  "duration": 2.84,
+  "text": "This is why we have yet to release"
+ },
+ {
+  "start": 149.72,
+  "duration": 3.84,
+  "text": "Mythos class models to the public.\""
+ },
+ {
+  "start": 151.44,
+  "duration": 3.84,
+  "text": "Testing catalog did spot a model called"
+ },
+ {
+  "start": 153.56,
+  "duration": 3.12,
+  "text": "Claude Mythos 1 preview being prepared"
+ },
+ {
+  "start": 155.28,
+  "duration": 3.16,
+  "text": "for release in Claude code and Claude"
+ },
+ {
+  "start": 156.68,
+  "duration": 3.08,
+  "text": "security. Their assumption is that this"
+ },
+ {
+  "start": 158.44,
+  "duration": 2.96,
+  "text": "won't be the public release, but rather"
+ },
+ {
+  "start": 159.76,
+  "duration": 4.52,
+  "text": "broader access for trusted partners to"
+ },
+ {
+  "start": 161.4,
+  "duration": 5.32,
+  "text": "use the model in Anthropic's harness."
+ },
+ {
+  "start": 164.28,
+  "duration": 3.8,
+  "text": "So, where this all stands. First, Mythos"
+ },
+ {
+  "start": 166.72,
+  "duration": 3.16,
+  "text": "has seemingly changed the nature and"
+ },
+ {
+  "start": 168.08,
+  "duration": 3.56,
+  "text": "speed of cybersecurity work. While these"
+ },
+ {
+  "start": 169.88,
+  "duration": 3.4,
+  "text": "partners are reporting a 10x increase in"
+ },
+ {
+  "start": 171.64,
+  "duration": 3.16,
+  "text": "the number of vulnerabilities detected,"
+ },
+ {
+  "start": 173.28,
+  "duration": 3.84,
+  "text": "the bottleneck now moves to actually"
+ },
+ {
+  "start": 174.8,
+  "duration": 3.92,
+  "text": "designing and deploying bug fixes. In"
+ },
+ {
+  "start": 177.12,
+  "duration": 2.76,
+  "text": "their update, they wrote, \"Several"
+ },
+ {
+  "start": 178.72,
+  "duration": 2.96,
+  "text": "maintainers have told us that they are"
+ },
+ {
+  "start": 179.88,
+  "duration": 3.52,
+  "text": "currently severely capacity constrained,"
+ },
+ {
+  "start": 181.68,
+  "duration": 3.0,
+  "text": "and some have even asked us to slow down"
+ },
+ {
+  "start": 183.4,
+  "duration": 3.2,
+  "text": "our rate of disclosures because they"
+ },
+ {
+  "start": 184.68,
+  "duration": 3.44,
+  "text": "need more time to design patches. The"
+ },
+ {
+  "start": 186.6,
+  "duration": 3.359,
+  "text": "bottleneck,\" they continued, \"in fixing"
+ },
+ {
+  "start": 188.12,
+  "duration": 3.56,
+  "text": "bugs like these is the human capacity to"
+ },
+ {
+  "start": 189.959,
+  "duration": 4.361,
+  "text": "triage, report, and design and deploy"
+ },
+ {
+  "start": 191.68,
+  "duration": 4.559,
+  "text": "patches for them.\" Box CEO Aaron Levie"
+ },
+ {
+  "start": 194.32,
+  "duration": 3.72,
+  "text": "suggested then that the impact of Mythos"
+ },
+ {
+  "start": 196.239,
+  "duration": 3.081,
+  "text": "is ultimately going to be a microcosm"
+ },
+ {
+  "start": 198.04,
+  "duration": 4.0,
+  "text": "for the deployment of AI tools more"
+ },
+ {
+  "start": 199.32,
+  "duration": 4.52,
+  "text": "generally. He posted, \"This is precisely"
+ },
+ {
+  "start": 202.04,
+  "duration": 3.8,
+  "text": "an example of why engineers don't go"
+ },
+ {
+  "start": 203.84,
+  "duration": 3.679,
+  "text": "away, ever. We made it far easier to"
+ },
+ {
+  "start": 205.84,
+  "duration": 2.88,
+  "text": "create and find security issues, which"
+ },
+ {
+  "start": 207.519,
+  "duration": 3.0,
+  "text": "means the new bottleneck is in our"
+ },
+ {
+  "start": 208.72,
+  "duration": 3.56,
+  "text": "ability to actually review, respond to,"
+ },
+ {
+  "start": 210.519,
+  "duration": 3.401,
+  "text": "and fix the issues. Far from AI"
+ },
+ {
+  "start": 212.28,
+  "duration": 3.0,
+  "text": "magically solving all of this, there is"
+ },
+ {
+  "start": 213.92,
+  "duration": 2.76,
+  "text": "still major triage work and human"
+ },
+ {
+  "start": 215.28,
+  "duration": 3.48,
+  "text": "judgment required to do the follow-on"
+ },
+ {
+  "start": 216.68,
+  "duration": 3.64,
+  "text": "work to actually protect systems. As a"
+ },
+ {
+  "start": 218.76,
+  "duration": 4.24,
+  "text": "result, we're about to enter a security"
+ },
+ {
+  "start": 220.32,
+  "duration": 4.0,
+  "text": "engineer boom. Jevons paradox all over"
+ },
+ {
+  "start": 223.0,
+  "duration": 3.12,
+  "text": "again.\""
+ },
+ {
+  "start": 224.32,
+  "duration": 3.16,
+  "text": "Now, speaking of Anthropic's partners in"
+ },
+ {
+  "start": 226.12,
+  "duration": 3.16,
+  "text": "the government, the White House has"
+ },
+ {
+  "start": 227.48,
+  "duration": 3.36,
+  "text": "approved a secret $9 billion budget"
+ },
+ {
+  "start": 229.28,
+  "duration": 3.04,
+  "text": "request for intelligence agencies to"
+ },
+ {
+  "start": 230.84,
+  "duration": 3.24,
+  "text": "build their own inference cluster. The"
+ },
+ {
+  "start": 232.32,
+  "duration": 3.56,
+  "text": "New York Times reports that the CIA and"
+ },
+ {
+  "start": 234.08,
+  "duration": 3.08,
+  "text": "NSA made the budget request because"
+ },
+ {
+  "start": 235.88,
+  "duration": 2.6,
+  "text": "they're unable to run the latest AI"
+ },
+ {
+  "start": 237.16,
+  "duration": 3.0,
+  "text": "models on their current classified"
+ },
+ {
+  "start": 238.48,
+  "duration": 3.12,
+  "text": "systems. The funding will go towards the"
+ },
+ {
+  "start": 240.16,
+  "duration": 2.84,
+  "text": "purchase of Nvidia Blackwell chips and"
+ },
+ {
+  "start": 241.6,
+  "duration": 3.08,
+  "text": "supporting infrastructure, with the"
+ },
+ {
+  "start": 243.0,
+  "duration": 3.16,
+  "text": "report noting government concerns about"
+ },
+ {
+  "start": 244.68,
+  "duration": 2.92,
+  "text": "a shortage of Blackwell compute and the"
+ },
+ {
+  "start": 246.16,
+  "duration": 3.28,
+  "text": "need to run Mythos class models in"
+ },
+ {
+  "start": 247.6,
+  "duration": 3.04,
+  "text": "classified settings. The New York Times"
+ },
+ {
+  "start": 249.44,
+  "duration": 2.92,
+  "text": "suggested that the Pentagon and"
+ },
+ {
+  "start": 250.64,
+  "duration": 3.4,
+  "text": "intelligence services have fallen behind"
+ },
+ {
+  "start": 252.36,
+  "duration": 3.599,
+  "text": "in the AI buildout after failing to"
+ },
+ {
+  "start": 254.04,
+  "duration": 3.08,
+  "text": "allocate enough funding in recent years."
+ },
+ {
+  "start": 255.959,
+  "duration": 2.681,
+  "text": "After putting the issue to the White"
+ },
+ {
+  "start": 257.12,
+  "duration": 2.92,
+  "text": "House for comment, the New York Times"
+ },
+ {
+  "start": 258.64,
+  "duration": 2.96,
+  "text": "received what they characterized as a"
+ },
+ {
+  "start": 260.04,
+  "duration": 3.12,
+  "text": "sharply worded statement. A White House"
+ },
+ {
+  "start": 261.6,
+  "duration": 2.88,
+  "text": "spokesperson said,"
+ },
+ {
+  "start": 263.16,
+  "duration": 2.64,
+  "text": "\"Sensitive national security"
+ },
+ {
+  "start": 264.48,
+  "duration": 3.28,
+  "text": "deliberations are conducted with the"
+ },
+ {
+  "start": 265.8,
+  "duration": 3.24,
+  "text": "seriousness they demand, not leaked to"
+ },
+ {
+  "start": 267.76,
+  "duration": 2.96,
+  "text": "reporters and repackaged through"
+ },
+ {
+  "start": 269.04,
+  "duration": 3.08,
+  "text": "selectively sourced unverified claims"
+ },
+ {
+  "start": 270.72,
+  "duration": 3.16,
+  "text": "designed to drive headlines rather than"
+ },
+ {
+  "start": 272.12,
+  "duration": 3.16,
+  "text": "truth. The fact is the United States is"
+ },
+ {
+  "start": 273.88,
+  "duration": 2.76,
+  "text": "leading the world in technology and is"
+ },
+ {
+  "start": 275.28,
+  "duration": 3.2,
+  "text": "well prepared to deal with a variety of"
+ },
+ {
+  "start": 276.64,
+  "duration": 3.56,
+  "text": "issues that may arise.\" The reporting"
+ },
+ {
+  "start": 278.48,
+  "duration": 3.0,
+  "text": "also discussed progress in contracting"
+ },
+ {
+  "start": 280.2,
+  "duration": 3.32,
+  "text": "between intelligence agencies and"
+ },
+ {
+  "start": 281.48,
+  "duration": 3.2,
+  "text": "frontier AI companies. When OpenAI"
+ },
+ {
+  "start": 283.52,
+  "duration": 2.96,
+  "text": "signed their agreement with the Pentagon"
+ },
+ {
+  "start": 284.68,
+  "duration": 3.8,
+  "text": "in March, that contract specifically"
+ },
+ {
+  "start": 286.48,
+  "duration": 3.64,
+  "text": "excluded the NSA. Sources said that"
+ },
+ {
+  "start": 288.48,
+  "duration": 3.52,
+  "text": "White House Chief of Staff Susie Wiles"
+ },
+ {
+  "start": 290.12,
+  "duration": 4.0,
+  "text": "has approved the use of Anthropic at the"
+ },
+ {
+  "start": 292.0,
+  "duration": 4.04,
+  "text": "NSA despite the Pentagon designating"
+ },
+ {
+  "start": 294.12,
+  "duration": 3.24,
+  "text": "Anthropic as a supply chain risk. They"
+ },
+ {
+  "start": 296.04,
+  "duration": 3.0,
+  "text": "added that Anthropic and the government"
+ },
+ {
+  "start": 297.36,
+  "duration": 3.12,
+  "text": "are finalizing a contract to allow the"
+ },
+ {
+  "start": 299.04,
+  "duration": 3.04,
+  "text": "NSA to use Anthropic models in"
+ },
+ {
+  "start": 300.48,
+  "duration": 3.08,
+  "text": "classified settings, which could help"
+ },
+ {
+  "start": 302.08,
+  "duration": 2.68,
+  "text": "end the dispute with the Pentagon."
+ },
+ {
+  "start": 303.56,
+  "duration": 2.72,
+  "text": "Intelligence officials said they hope"
+ },
+ {
+  "start": 304.76,
+  "duration": 2.68,
+  "text": "the contract with Anthropic will also"
+ },
+ {
+  "start": 306.28,
+  "duration": 3.24,
+  "text": "pave the way for an agreement with"
+ },
+ {
+  "start": 307.44,
+  "duration": 3.6,
+  "text": "OpenAI that includes spy agencies."
+ },
+ {
+  "start": 309.52,
+  "duration": 3.24,
+  "text": "Interestingly, it seems the intelligence"
+ },
+ {
+  "start": 311.04,
+  "duration": 3.04,
+  "text": "agencies are more flexible on guardrails"
+ },
+ {
+  "start": 312.76,
+  "duration": 2.92,
+  "text": "than the Pentagon. The dispute with"
+ },
+ {
+  "start": 314.08,
+  "duration": 3.24,
+  "text": "Anthropic kicked off over a limitation"
+ },
+ {
+  "start": 315.68,
+  "duration": 3.28,
+  "text": "on using AI for autonomous weaponry and"
+ },
+ {
+  "start": 317.32,
+  "duration": 2.84,
+  "text": "domestic surveillance. The Pentagon"
+ },
+ {
+  "start": 318.96,
+  "duration": 3.16,
+  "text": "argued these limits could jeopardize"
+ },
+ {
+  "start": 320.16,
+  "duration": 3.52,
+  "text": "active military operations, demanding"
+ },
+ {
+  "start": 322.12,
+  "duration": 4.0,
+  "text": "that the contracts instead allow AI to"
+ },
+ {
+  "start": 323.68,
+  "duration": 4.64,
+  "text": "be applied for quote any lawful use. The"
+ },
+ {
+  "start": 326.12,
+  "duration": 3.56,
+  "text": "NSA and CIA, meanwhile, are technically"
+ },
+ {
+  "start": 328.32,
+  "duration": 3.16,
+  "text": "prohibited from gathering intelligence"
+ },
+ {
+  "start": 329.68,
+  "duration": 3.4,
+  "text": "within US borders, so are reportedly"
+ },
+ {
+  "start": 331.48,
+  "duration": 3.16,
+  "text": "more comfortable excluding this language"
+ },
+ {
+  "start": 333.08,
+  "duration": 3.839,
+  "text": "and agreeing to outright bans on using"
+ },
+ {
+  "start": 334.64,
+  "duration": 4.2,
+  "text": "AI for domestic surveillance."
+ },
+ {
+  "start": 336.919,
+  "duration": 4.041,
+  "text": "Now, our next story is on the face of it"
+ },
+ {
+  "start": 338.84,
+  "duration": 4.0,
+  "text": "just about price and token access, but"
+ },
+ {
+  "start": 340.96,
+  "duration": 3.0,
+  "text": "clearly also has a geopolitical bent as"
+ },
+ {
+  "start": 342.84,
+  "duration": 2.8,
+  "text": "well."
+ },
+ {
+  "start": 343.96,
+  "duration": 3.16,
+  "text": "DeepSeek has made their deep discount"
+ },
+ {
+  "start": 345.64,
+  "duration": 3.44,
+  "text": "permanent as they close in on a major"
+ },
+ {
+  "start": 347.12,
+  "duration": 4.12,
+  "text": "funding round. DeepSeek's V4 model"
+ },
+ {
+  "start": 349.08,
+  "duration": 4.52,
+  "text": "launched in April with a 75% discount on"
+ },
+ {
+  "start": 351.24,
+  "duration": 4.52,
+  "text": "tokens. That made the model 1/7 the cost"
+ },
+ {
+  "start": 353.6,
+  "duration": 4.12,
+  "text": "of Opus 4.6 and a quarter of the cost of"
+ },
+ {
+  "start": 355.76,
+  "duration": 3.64,
+  "text": "GPT 5.4, which were the latest models"
+ },
+ {
+  "start": 357.72,
+  "duration": 3.32,
+  "text": "from each of the major labs at the time."
+ },
+ {
+  "start": 359.4,
+  "duration": 3.16,
+  "text": "Since then, Anthropic and OpenAI have"
+ },
+ {
+  "start": 361.04,
+  "duration": 3.36,
+  "text": "each raised prices on their updated"
+ },
+ {
+  "start": 362.56,
+  "duration": 3.64,
+  "text": "models. With the discounted price now"
+ },
+ {
+  "start": 364.4,
+  "duration": 3.48,
+  "text": "just the price, DeepSeek is serving a"
+ },
+ {
+  "start": 366.2,
+  "duration": 3.88,
+  "text": "model that's roughly equivalent to Opus"
+ },
+ {
+  "start": 367.88,
+  "duration": 4.36,
+  "text": "4.5 for 44 cents per million input"
+ },
+ {
+  "start": 370.08,
+  "duration": 4.36,
+  "text": "tokens and 87 cents per million output"
+ },
+ {
+  "start": 372.24,
+  "duration": 3.44,
+  "text": "tokens. In addition, DeepSeek management"
+ },
+ {
+  "start": 374.44,
+  "duration": 3.08,
+  "text": "have told investors that they're going"
+ },
+ {
+  "start": 375.68,
+  "duration": 3.2,
+  "text": "ahead with a $10 billion funding round,"
+ },
+ {
+  "start": 377.52,
+  "duration": 2.92,
+  "text": "which will be the first time DeepSeek"
+ },
+ {
+  "start": 378.88,
+  "duration": 3.32,
+  "text": "has taken outside funding with the round"
+ },
+ {
+  "start": 380.44,
+  "duration": 2.88,
+  "text": "reportedly valuing the company at $45"
+ },
+ {
+  "start": 382.2,
+  "duration": 2.64,
+  "text": "billion."
+ },
+ {
+  "start": 383.32,
+  "duration": 2.76,
+  "text": "The Chinese government's AI industry"
+ },
+ {
+  "start": 384.84,
+  "duration": 3.04,
+  "text": "investment fund is expected to"
+ },
+ {
+  "start": 386.08,
+  "duration": 3.52,
+  "text": "participate alongside multiple large"
+ },
+ {
+  "start": 387.88,
+  "duration": 4.2,
+  "text": "Chinese companies including Tencent and"
+ },
+ {
+  "start": 389.6,
+  "duration": 4.12,
+  "text": "jd.com. Founder Liang Wenfang has told"
+ },
+ {
+  "start": 392.08,
+  "duration": 3.48,
+  "text": "investors that the focus won't shift to"
+ },
+ {
+  "start": 393.72,
+  "duration": 2.96,
+  "text": "monetizing DeepSeek's technology. He"
+ },
+ {
+  "start": 395.56,
+  "duration": 2.6,
+  "text": "said that the firm will continue to"
+ },
+ {
+  "start": 396.68,
+  "duration": 3.16,
+  "text": "develop open-source models and push the"
+ },
+ {
+  "start": 398.16,
+  "duration": 3.6,
+  "text": "boundaries of AI research with an end"
+ },
+ {
+  "start": 399.84,
+  "duration": 3.68,
+  "text": "goal of achieving AGI. If the round"
+ },
+ {
+  "start": 401.76,
+  "duration": 3.24,
+  "text": "closes at these numbers, it will be a"
+ },
+ {
+  "start": 403.52,
+  "duration": 2.6,
+  "text": "new record for the Chinese venture"
+ },
+ {
+  "start": 405.0,
+  "duration": 3.32,
+  "text": "ecosystem."
+ },
+ {
+  "start": 406.12,
+  "duration": 3.92,
+  "text": "Bloomberg analyst wrote, \"Asia's AI"
+ },
+ {
+  "start": 408.32,
+  "duration": 3.04,
+  "text": "models are decoupling from the US as"
+ },
+ {
+  "start": 410.04,
+  "duration": 3.56,
+  "text": "they shift towards a token-based"
+ },
+ {
+  "start": 411.36,
+  "duration": 4.44,
+  "text": "economy. China is leveraging low power"
+ },
+ {
+  "start": 413.6,
+  "duration": 4.68,
+  "text": "costs and a huge developer pool to treat"
+ },
+ {
+  "start": 415.8,
+  "duration": 4.56,
+  "text": "AI tokens as tradable assets. The"
+ },
+ {
+  "start": 418.28,
+  "duration": 3.8,
+  "text": "quote-unquote industrial approach to AI"
+ },
+ {
+  "start": 420.36,
+  "duration": 2.92,
+  "text": "is being fueled by a surge in one-person"
+ },
+ {
+  "start": 422.08,
+  "duration": 2.88,
+  "text": "firms using tokens to raise"
+ },
+ {
+  "start": 423.28,
+  "duration": 3.76,
+  "text": "productivity.\""
+ },
+ {
+  "start": 424.96,
+  "duration": 3.8,
+  "text": "What will be interesting to see is as"
+ },
+ {
+  "start": 427.04,
+  "duration": 3.6,
+  "text": "token constraints and token budgets get"
+ },
+ {
+  "start": 428.76,
+  "duration": 3.24,
+  "text": "more pinched in the US, will companies"
+ },
+ {
+  "start": 430.64,
+  "duration": 2.88,
+  "text": "start to look to these open-source"
+ },
+ {
+  "start": 432.0,
+  "duration": 2.6,
+  "text": "models as a viable alternative?"
+ },
+ {
+  "start": 433.52,
+  "duration": 2.92,
+  "text": "Certainly, if you just read the tea"
+ },
+ {
+  "start": 434.6,
+  "duration": 4.72,
+  "text": "leaves how young startups are doing it,"
+ },
+ {
+  "start": 436.44,
+  "duration": 4.72,
+  "text": "the answer is likely to be yes."
+ },
+ {
+  "start": 439.32,
+  "duration": 3.76,
+  "text": "Lastly today, a little bit of model news"
+ },
+ {
+  "start": 441.16,
+  "duration": 3.88,
+  "text": "to close us out. Grok might still have a"
+ },
+ {
+  "start": 443.08,
+  "duration": 3.92,
+  "text": "few iterations left as Elon Musk"
+ },
+ {
+  "start": 445.04,
+  "duration": 3.76,
+  "text": "announces a successful new training run."
+ },
+ {
+  "start": 447.0,
+  "duration": 3.68,
+  "text": "Now, I think it's a fair assumption that"
+ },
+ {
+  "start": 448.8,
+  "duration": 4.4,
+  "text": "at this point, Elon is at least"
+ },
+ {
+  "start": 450.68,
+  "duration": 4.36,
+  "text": "orienting towards a new role as SpaceX"
+ },
+ {
+  "start": 453.2,
+  "duration": 3.08,
+  "text": "becoming an AI cloud company, but at"
+ },
+ {
+  "start": 455.04,
+  "duration": 4.24,
+  "text": "least for the moment it appears that"
+ },
+ {
+  "start": 456.28,
+  "duration": 4.639,
+  "text": "xAI, which is now SpaceX AI, isn't fully"
+ },
+ {
+  "start": 459.28,
+  "duration": 3.32,
+  "text": "done with training their own models."
+ },
+ {
+  "start": 460.919,
+  "duration": 3.481,
+  "text": "Elon announced that a foundation model"
+ },
+ {
+  "start": 462.6,
+  "duration": 3.8,
+  "text": "called Grok V9 medium has finished"
+ },
+ {
+  "start": 464.4,
+  "duration": 4.2,
+  "text": "training. The model has 1.5 trillion"
+ },
+ {
+  "start": 466.4,
+  "duration": 3.76,
+  "text": "parameters with Musk writing"
+ },
+ {
+  "start": 468.6,
+  "duration": 3.16,
+  "text": "\"The valves look good. A lot of cursor"
+ },
+ {
+  "start": 470.16,
+  "duration": 3.04,
+  "text": "data was added in supplementary training"
+ },
+ {
+  "start": 471.76,
+  "duration": 2.8,
+  "text": "and there is more to come. Fine-tuning"
+ },
+ {
+  "start": 473.2,
+  "duration": 3.2,
+  "text": "is underway and reinforcement learning"
+ },
+ {
+  "start": 474.56,
+  "duration": 3.44,
+  "text": "begins in a few days. 2 to 3 weeks to"
+ },
+ {
+  "start": 476.4,
+  "duration": 3.56,
+  "text": "public release. This will be a major"
+ },
+ {
+  "start": 478.0,
+  "duration": 3.48,
+  "text": "improvement over the 0.5 trillion V8"
+ },
+ {
+  "start": 479.96,
+  "duration": 3.16,
+  "text": "small that currently serves all Grok"
+ },
+ {
+  "start": 481.48,
+  "duration": 3.56,
+  "text": "production traffic, especially for"
+ },
+ {
+  "start": 483.12,
+  "duration": 3.88,
+  "text": "difficult coding tasks.\""
+ },
+ {
+  "start": 485.04,
+  "duration": 3.76,
+  "text": "In addition, xAI has rolled out access"
+ },
+ {
+  "start": 487.0,
+  "duration": 4.0,
+  "text": "to Grok build for super Grok and X"
+ },
+ {
+  "start": 488.8,
+  "duration": 3.72,
+  "text": "Premium. Grok build is xAI's competitor"
+ },
+ {
+  "start": 491.0,
+  "duration": 3.16,
+  "text": "for Codex and Claude code and was"
+ },
+ {
+  "start": 492.52,
+  "duration": 3.72,
+  "text": "previously only available for Grok heavy"
+ },
+ {
+  "start": 494.16,
+  "duration": 3.0,
+  "text": "users, which is the premium $300 a month"
+ },
+ {
+  "start": 496.24,
+  "duration": 3.08,
+  "text": "tier."
+ },
+ {
+  "start": 497.16,
+  "duration": 4.4,
+  "text": "People seem pleasantly surprised. Justin"
+ },
+ {
+  "start": 499.32,
+  "duration": 3.88,
+  "text": "Schroder of DMUX says, \"Grok build is"
+ },
+ {
+  "start": 501.56,
+  "duration": 3.48,
+  "text": "surprisingly good, much better than I"
+ },
+ {
+  "start": 503.2,
+  "duration": 3.68,
+  "text": "expected. The harness is solid, models"
+ },
+ {
+  "start": 505.04,
+  "duration": 3.68,
+  "text": "are very fast, and it already seems less"
+ },
+ {
+  "start": 506.88,
+  "duration": 3.32,
+  "text": "buggy than Claude.\" Now, I'm still not"
+ },
+ {
+  "start": 508.72,
+  "duration": 3.28,
+  "text": "exactly clear how this is all going to"
+ },
+ {
+  "start": 510.2,
+  "duration": 3.279,
+  "text": "shake out in terms of strategy, but for"
+ },
+ {
+  "start": 512.0,
+  "duration": 4.039,
+  "text": "the moment at least, it appears that we"
+ },
+ {
+  "start": 513.479,
+  "duration": 3.841,
+  "text": "will continue to get new Grok updates."
+ },
+ {
+  "start": 516.039,
+  "duration": 4.641,
+  "text": "That, however, is going to do it for the"
+ },
+ {
+  "start": 517.32,
+  "duration": 5.0,
+  "text": "headlines. Next up, the main episode."
+ },
+ {
+  "start": 520.68,
+  "duration": 4.0,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 522.32,
+  "duration": 4.28,
+  "text": "Today, we have something that is very"
+ },
+ {
+  "start": 524.68,
+  "duration": 3.24,
+  "text": "different from our normal coverage."
+ },
+ {
+  "start": 526.6,
+  "duration": 3.88,
+  "text": "Obviously, at this point, it's not"
+ },
+ {
+  "start": 527.92,
+  "duration": 4.36,
+  "text": "surprising that AI is increasingly not"
+ },
+ {
+  "start": 530.48,
+  "duration": 3.72,
+  "text": "just a technology issue or even an"
+ },
+ {
+  "start": 532.28,
+  "duration": 4.32,
+  "text": "economy issue, but a larger political"
+ },
+ {
+  "start": 534.2,
+  "duration": 4.96,
+  "text": "and social issue as well. And yet, I've"
+ },
+ {
+  "start": 536.6,
+  "duration": 5.2,
+  "text": "rarely seen the amount of social"
+ },
+ {
+  "start": 539.16,
+  "duration": 5.24,
+  "text": "discourse around AI as a global societal"
+ },
+ {
+  "start": 541.8,
+  "duration": 4.2,
+  "text": "force as we've had in the last 24 hours"
+ },
+ {
+  "start": 544.4,
+  "duration": 4.36,
+  "text": "in the wake of the release of Pope Leo"
+ },
+ {
+  "start": 546.0,
+  "duration": 4.76,
+  "text": "the 14th's Magnifica Humanitatis."
+ },
+ {
+  "start": 548.76,
+  "duration": 4.079,
+  "text": "Magnifica Humanitatis is what's called"
+ },
+ {
+  "start": 550.76,
+  "duration": 3.6,
+  "text": "an encyclical, which is a major teaching"
+ },
+ {
+  "start": 552.839,
+  "duration": 3.161,
+  "text": "letter from the Pope. They actually go"
+ },
+ {
+  "start": 554.36,
+  "duration": 3.24,
+  "text": "all the way back to the early church"
+ },
+ {
+  "start": 556.0,
+  "duration": 3.68,
+  "text": "when important teachings were passed"
+ },
+ {
+  "start": 557.6,
+  "duration": 4.48,
+  "text": "around Christian communities as actual"
+ },
+ {
+  "start": 559.68,
+  "duration": 4.88,
+  "text": "physical letters. Encyclicals in general"
+ },
+ {
+  "start": 562.08,
+  "duration": 4.36,
+  "text": "are not new doctrine. More often, they"
+ },
+ {
+  "start": 564.56,
+  "duration": 3.64,
+  "text": "interpret existing Catholic teaching in"
+ },
+ {
+  "start": 566.44,
+  "duration": 3.52,
+  "text": "light of new circumstances. And for"
+ },
+ {
+  "start": 568.2,
+  "duration": 3.6,
+  "text": "Popes in the modern era, they become an"
+ },
+ {
+  "start": 569.96,
+  "duration": 3.36,
+  "text": "increasingly important tool as the"
+ },
+ {
+  "start": 571.8,
+  "duration": 4.08,
+  "text": "church responds to everything from"
+ },
+ {
+  "start": 573.32,
+  "duration": 6.12,
+  "text": "industrialization to globalization, and"
+ },
+ {
+  "start": 575.88,
+  "duration": 5.0,
+  "text": "now, with Leo's first encyclical to AI."
+ },
+ {
+  "start": 579.44,
+  "duration": 3.92,
+  "text": "One of the most famous of these is the"
+ },
+ {
+  "start": 580.88,
+  "duration": 5.08,
+  "text": "Rerum Novarum from Pope Leo the 13th in"
+ },
+ {
+  "start": 583.36,
+  "duration": 4.32,
+  "text": "1891, which addressed labor, capital,"
+ },
+ {
+  "start": 585.96,
+  "duration": 3.48,
+  "text": "wages, workers' rights, and industrial"
+ },
+ {
+  "start": 587.68,
+  "duration": 3.44,
+  "text": "society at the height of the Industrial"
+ },
+ {
+  "start": 589.44,
+  "duration": 3.48,
+  "text": "Revolution. They're not particularly"
+ },
+ {
+  "start": 591.12,
+  "duration": 3.48,
+  "text": "common. Recent popes have tended to"
+ },
+ {
+  "start": 592.92,
+  "duration": 4.0,
+  "text": "publish an encyclical every two or three"
+ },
+ {
+  "start": 594.6,
+  "duration": 4.4,
+  "text": "years, and the first encyclical is often"
+ },
+ {
+  "start": 596.92,
+  "duration": 3.68,
+  "text": "seen as important because it can signal"
+ },
+ {
+  "start": 599.0,
+  "duration": 3.4,
+  "text": "some of the major themes of a pope's"
+ },
+ {
+  "start": 600.6,
+  "duration": 3.6,
+  "text": "pontificate. Now, for those of you who"
+ },
+ {
+  "start": 602.4,
+  "duration": 4.96,
+  "text": "are not familiar with Pope Leo, he was"
+ },
+ {
+  "start": 604.2,
+  "duration": 5.6,
+  "text": "elected in May of 2025 and immediately"
+ },
+ {
+  "start": 607.36,
+  "duration": 4.8,
+  "text": "identified the rise of AI as the central"
+ },
+ {
+  "start": 609.8,
+  "duration": 4.92,
+  "text": "social question of his papacy. He named"
+ },
+ {
+  "start": 612.16,
+  "duration": 4.84,
+  "text": "himself as a tribute to Leo the 13th,"
+ },
+ {
+  "start": 614.72,
+  "duration": 3.76,
+  "text": "that same pope from the late 1800s who"
+ },
+ {
+  "start": 617.0,
+  "duration": 3.84,
+  "text": "led the Vatican through the Industrial"
+ },
+ {
+  "start": 618.48,
+  "duration": 5.24,
+  "text": "Revolution. Leo the 14th, during his"
+ },
+ {
+  "start": 620.84,
+  "duration": 4.28,
+  "text": "first address last May, said, quote, \"In"
+ },
+ {
+  "start": 623.72,
+  "duration": 2.8,
+  "text": "our own day, the church offers to"
+ },
+ {
+  "start": 625.12,
+  "duration": 3.12,
+  "text": "everyone the treasury of her social"
+ },
+ {
+  "start": 626.52,
+  "duration": 3.08,
+  "text": "teaching in response to another"
+ },
+ {
+  "start": 628.24,
+  "duration": 2.76,
+  "text": "industrial revolution and to"
+ },
+ {
+  "start": 629.6,
+  "duration": 3.2,
+  "text": "developments in the field of artificial"
+ },
+ {
+  "start": 631.0,
+  "duration": 3.32,
+  "text": "intelligence that pose new challenges"
+ },
+ {
+  "start": 632.8,
+  "duration": 4.4,
+  "text": "for the defense of human dignity,"
+ },
+ {
+  "start": 634.32,
+  "duration": 4.8,
+  "text": "justice, and labor.\" Now, broadly, is"
+ },
+ {
+  "start": 637.2,
+  "duration": 4.44,
+  "text": "that as much as people try to put the"
+ },
+ {
+  "start": 639.12,
+  "duration": 4.36,
+  "text": "Pope in one bucket or another, as either"
+ },
+ {
+  "start": 641.64,
+  "duration": 4.04,
+  "text": "too antagonistic towards AI or not"
+ },
+ {
+  "start": 643.48,
+  "duration": 4.68,
+  "text": "antagonistic enough, the central theme"
+ },
+ {
+  "start": 645.68,
+  "duration": 4.64,
+  "text": "throughout all of his discourse on AI"
+ },
+ {
+  "start": 648.16,
+  "duration": 3.6,
+  "text": "has been less about trying to designate"
+ },
+ {
+  "start": 650.32,
+  "duration": 3.2,
+  "text": "it as good or bad, but rather"
+ },
+ {
+  "start": 651.76,
+  "duration": 3.56,
+  "text": "acknowledging it as a pivot point in"
+ },
+ {
+  "start": 653.52,
+  "duration": 3.0,
+  "text": "both history and in faith. Now, the"
+ },
+ {
+  "start": 655.32,
+  "duration": 2.92,
+  "text": "other things that are worth noting about"
+ },
+ {
+  "start": 656.52,
+  "duration": 3.64,
+  "text": "Pope Leo is that A, he's the first"
+ },
+ {
+  "start": 658.24,
+  "duration": 3.64,
+  "text": "American Pope, and B, he's also one of"
+ },
+ {
+  "start": 660.16,
+  "duration": 3.56,
+  "text": "the first popes to actually use modern"
+ },
+ {
+  "start": 661.88,
+  "duration": 3.52,
+  "text": "technology. He has a cell phone and a"
+ },
+ {
+  "start": 663.72,
+  "duration": 4.04,
+  "text": "computer. He has an Apple Watch. He"
+ },
+ {
+  "start": 665.4,
+  "duration": 3.88,
+  "text": "watches cable TV. He's of the modern"
+ },
+ {
+  "start": 667.76,
+  "duration": 3.76,
+  "text": "world in a way that the popes before him"
+ },
+ {
+  "start": 669.28,
+  "duration": 4.0,
+  "text": "just simply were not. And so, yesterday"
+ },
+ {
+  "start": 671.52,
+  "duration": 3.72,
+  "text": "we got Leo's first encyclical, which"
+ },
+ {
+  "start": 673.28,
+  "duration": 3.92,
+  "text": "again was called Magnificat Humanitatis,"
+ },
+ {
+  "start": 675.24,
+  "duration": 3.48,
+  "text": "subtitle on safeguarding the human"
+ },
+ {
+  "start": 677.2,
+  "duration": 2.84,
+  "text": "person in the time of artificial"
+ },
+ {
+  "start": 678.72,
+  "duration": 2.84,
+  "text": "intelligence."
+ },
+ {
+  "start": 680.04,
+  "duration": 2.84,
+  "text": "The first thing that I will note, and"
+ },
+ {
+  "start": 681.56,
+  "duration": 3.04,
+  "text": "the most important [snorts] thing"
+ },
+ {
+  "start": 682.88,
+  "duration": 3.64,
+  "text": "probably that I will say in all of this,"
+ },
+ {
+  "start": 684.6,
+  "duration": 3.68,
+  "text": "is to echo AI policy researcher Miles"
+ },
+ {
+  "start": 686.52,
+  "duration": 4.0,
+  "text": "Brundage when he writes,"
+ },
+ {
+  "start": 688.28,
+  "duration": 4.44,
+  "text": "\"My main encyclical take is that folks"
+ },
+ {
+  "start": 690.52,
+  "duration": 4.72,
+  "text": "should just try to read it. Most of the"
+ },
+ {
+  "start": 692.72,
+  "duration": 3.76,
+  "text": "takes are bad, as in most social media"
+ },
+ {
+  "start": 695.24,
+  "duration": 3.08,
+  "text": "takes are bad, not most of the"
+ },
+ {
+  "start": 696.48,
+  "duration": 3.72,
+  "text": "encyclical takes are bad. Obviously,"
+ },
+ {
+  "start": 698.32,
+  "duration": 3.68,
+  "text": "regular listeners will know that I try"
+ },
+ {
+  "start": 700.2,
+  "duration": 3.36,
+  "text": "to be as nuanced as possible and provide"
+ },
+ {
+  "start": 702.0,
+  "duration": 3.4,
+  "text": "as wide an array of legitimate takes as"
+ },
+ {
+  "start": 703.56,
+  "duration": 3.28,
+  "text": "possible. But even in this case, as you"
+ },
+ {
+  "start": 705.4,
+  "duration": 3.72,
+  "text": "will see, I am going to put words in the"
+ },
+ {
+  "start": 706.84,
+  "duration": 4.24,
+  "text": "Pope's mouth and ascribe what I believe"
+ },
+ {
+  "start": 709.12,
+  "duration": 3.16,
+  "text": "is the central point of the whole piece,"
+ },
+ {
+  "start": 711.08,
+  "duration": 3.36,
+  "text": "despite the fact that the thing is"
+ },
+ {
+  "start": 712.28,
+  "duration": 4.84,
+  "text": "longer than a lot of books. Now, I will"
+ },
+ {
+  "start": 714.44,
+  "duration": 4.32,
+  "text": "say that if the mark of a nuanced piece"
+ },
+ {
+  "start": 717.12,
+  "duration": 3.04,
+  "text": "is lots and lots of people from lots of"
+ },
+ {
+  "start": 718.76,
+  "duration": 3.08,
+  "text": "different sides of an argument being"
+ },
+ {
+  "start": 720.16,
+  "duration": 4.04,
+  "text": "angry that it didn't do more to support"
+ },
+ {
+  "start": 721.84,
+  "duration": 4.68,
+  "text": "their argument, then Pope Leo succeeded"
+ },
+ {
+  "start": 724.2,
+  "duration": 3.96,
+  "text": "spectacularly. Holy deciding to not"
+ },
+ {
+  "start": 726.52,
+  "duration": 3.32,
+  "text": "engage with anything in the actual text"
+ },
+ {
+  "start": 728.16,
+  "duration": 2.56,
+  "text": "of the piece, Timnit Gebru instead"
+ },
+ {
+  "start": 729.84,
+  "duration": 2.52,
+  "text": "focused on the fact that a"
+ },
+ {
+  "start": 730.72,
+  "duration": 2.96,
+  "text": "representative from Anthropic was"
+ },
+ {
+  "start": 732.36,
+  "duration": 4.0,
+  "text": "invited to give comments as part of the"
+ },
+ {
+  "start": 733.68,
+  "duration": 3.92,
+  "text": "day's ceremonies, saying, \"In case you"
+ },
+ {
+  "start": 736.36,
+  "duration": 2.6,
+  "text": "thought religious leaders were going to"
+ },
+ {
+  "start": 737.6,
+  "duration": 2.68,
+  "text": "advocate for your rights and not the"
+ },
+ {
+  "start": 738.96,
+  "duration": 3.12,
+  "text": "dudes about to make billions with their"
+ },
+ {
+  "start": 740.28,
+  "duration": 3.08,
+  "text": "IPO. I guess it was only a matter of"
+ },
+ {
+  "start": 742.08,
+  "duration": 3.0,
+  "text": "time when the religion of effective"
+ },
+ {
+  "start": 743.36,
+  "duration": 3.72,
+  "text": "altruism, worshipping so-called"
+ },
+ {
+  "start": 745.08,
+  "duration": 4.32,
+  "text": "artificial general intelligence, merged"
+ },
+ {
+  "start": 747.08,
+  "duration": 3.8,
+  "text": "with entrenched religious institutions.\""
+ },
+ {
+  "start": 749.4,
+  "duration": 2.92,
+  "text": "On the other end of the spectrum, lots"
+ },
+ {
+  "start": 750.88,
+  "duration": 3.4,
+  "text": "of folks cherry-picked a quote and"
+ },
+ {
+  "start": 752.32,
+  "duration": 3.32,
+  "text": "extrapolated an entire position and set"
+ },
+ {
+  "start": 754.28,
+  "duration": 2.6,
+  "text": "of assumptions from it. One of the"
+ },
+ {
+  "start": 755.64,
+  "duration": 2.84,
+  "text": "quotes that came up most often for"
+ },
+ {
+  "start": 756.88,
+  "duration": 3.4,
+  "text": "people on the other side of the argument"
+ },
+ {
+  "start": 758.48,
+  "duration": 3.96,
+  "text": "was this one: \"The pursuit of greater"
+ },
+ {
+  "start": 760.28,
+  "duration": 4.16,
+  "text": "profits cannot justify choices that"
+ },
+ {
+  "start": 762.44,
+  "duration": 4.28,
+  "text": "systematically sacrifice jobs, because"
+ },
+ {
+  "start": 764.44,
+  "duration": 3.72,
+  "text": "the human person is an end, not a means,"
+ },
+ {
+  "start": 766.72,
+  "duration": 2.88,
+  "text": "and the economic order must remain"
+ },
+ {
+  "start": 768.16,
+  "duration": 2.8,
+  "text": "subordinate to human dignity and the"
+ },
+ {
+  "start": 769.6,
+  "duration": 3.16,
+  "text": "common good.\""
+ },
+ {
+  "start": 770.96,
+  "duration": 3.56,
+  "text": "Entrepreneur Blake Scholl wrote, \"Bad"
+ },
+ {
+  "start": 772.76,
+  "duration": 3.079,
+  "text": "take from the Pope. Tech revolutions"
+ },
+ {
+  "start": 774.52,
+  "duration": 3.44,
+  "text": "tend to eliminate some jobs while"
+ },
+ {
+  "start": 775.839,
+  "duration": 3.721,
+  "text": "creating others. If we cling on to jobs,"
+ },
+ {
+  "start": 777.96,
+  "duration": 3.16,
+  "text": "we'd still be plowing fields by hand out"
+ },
+ {
+  "start": 779.56,
+  "duration": 2.92,
+  "text": "of fear of disruption.\""
+ },
+ {
+  "start": 781.12,
+  "duration": 3.32,
+  "text": "The thing that I saw a lot of with the"
+ },
+ {
+  "start": 782.48,
+  "duration": 3.6,
+  "text": "encyclical is sort of the inverse of"
+ },
+ {
+  "start": 784.44,
+  "duration": 2.68,
+  "text": "what we just heard, with people being"
+ },
+ {
+  "start": 786.08,
+  "duration": 2.6,
+  "text": "angry that it didn't support their"
+ },
+ {
+  "start": 787.12,
+  "duration": 2.88,
+  "text": "position enough, to instead"
+ },
+ {
+  "start": 788.68,
+  "duration": 3.2,
+  "text": "cherry-picking how it supported all of"
+ },
+ {
+  "start": 790.0,
+  "duration": 4.16,
+  "text": "their positions. Connecticut Senator"
+ },
+ {
+  "start": 791.88,
+  "duration": 3.68,
+  "text": "Chris Murphy wrote, \"Really important."
+ },
+ {
+  "start": 794.16,
+  "duration": 2.96,
+  "text": "AI threats to undermine the basic"
+ },
+ {
+  "start": 795.56,
+  "duration": 3.0,
+  "text": "building blocks of humanity as it seeks"
+ },
+ {
+  "start": 797.12,
+  "duration": 2.64,
+  "text": "to replace our most basic functions,"
+ },
+ {
+  "start": 798.56,
+  "duration": 3.48,
+  "text": "like creativity, friendship, and"
+ },
+ {
+  "start": 799.76,
+  "duration": 4.28,
+  "text": "critical thinking.\" Chief water use lie"
+ },
+ {
+  "start": 802.04,
+  "duration": 4.24,
+  "text": "propagator Karen Houle wrote, \"The Pope"
+ },
+ {
+  "start": 804.04,
+  "duration": 3.52,
+  "text": "has weighed in. AI isn't magic. It is"
+ },
+ {
+  "start": 806.28,
+  "duration": 3.4,
+  "text": "produced by a currently deeply"
+ },
+ {
+  "start": 807.56,
+  "duration": 3.76,
+  "text": "exploitative extractive supply chain. It"
+ },
+ {
+  "start": 809.68,
+  "duration": 3.12,
+  "text": "challenges human dignity. It could fuel"
+ },
+ {
+  "start": 811.32,
+  "duration": 2.84,
+  "text": "a new colonialism. And among the"
+ },
+ {
+  "start": 812.8,
+  "duration": 3.44,
+  "text": "greatest challenges of our time will be"
+ },
+ {
+  "start": 814.16,
+  "duration": 4.16,
+  "text": "to redirect its path of development. One"
+ },
+ {
+  "start": 816.24,
+  "duration": 4.32,
+  "text": "of the strangest, but also kind of most"
+ },
+ {
+  "start": 818.32,
+  "duration": 4.8,
+  "text": "revealing frustrations, came from Dean"
+ },
+ {
+  "start": 820.56,
+  "duration": 4.4,
+  "text": "Ball, who was, to be frankly a little"
+ },
+ {
+  "start": 823.12,
+  "duration": 3.92,
+  "text": "overly reductive about his position,"
+ },
+ {
+  "start": 824.96,
+  "duration": 4.64,
+  "text": "upset that the Pope didn't grapple more"
+ },
+ {
+  "start": 827.04,
+  "duration": 4.84,
+  "text": "with the possibility of AI cognition, or"
+ },
+ {
+  "start": 829.6,
+  "duration": 3.64,
+  "text": "frankly even personhood. He wrote a lot"
+ },
+ {
+  "start": 831.88,
+  "duration": 4.0,
+  "text": "of tweets about it, but one of them"
+ },
+ {
+  "start": 833.24,
+  "duration": 4.12,
+  "text": "read, \"The reality of AI cognition is"
+ },
+ {
+  "start": 835.88,
+  "duration": 2.84,
+  "text": "the central challenge the church and all"
+ },
+ {
+  "start": 837.36,
+  "duration": 3.36,
+  "text": "of us will have to grapple with over the"
+ },
+ {
+  "start": 838.72,
+  "duration": 4.56,
+  "text": "coming decade. And this encyclical, with"
+ },
+ {
+  "start": 840.72,
+  "duration": 4.56,
+  "text": "its axiomatic denial of AI cognition, is"
+ },
+ {
+  "start": 843.28,
+  "duration": 3.6,
+  "text": "a punt of the highest order.\""
+ },
+ {
+  "start": 845.28,
+  "duration": 3.36,
+  "text": "Now, as some pointed out, Dean's"
+ },
+ {
+  "start": 846.88,
+  "duration": 4.28,
+  "text": "critique kind of contains within it an"
+ },
+ {
+  "start": 848.64,
+  "duration": 4.96,
+  "text": "axiomatic assumption of AI cognition"
+ },
+ {
+  "start": 851.16,
+  "duration": 4.04,
+  "text": "that many, many people disagreed fairly"
+ },
+ {
+  "start": 853.6,
+  "duration": 3.0,
+  "text": "vociferously with. Although I think a"
+ },
+ {
+  "start": 855.2,
+  "duration": 2.92,
+  "text": "lot of people's bafflement about this"
+ },
+ {
+  "start": 856.6,
+  "duration": 3.24,
+  "text": "argument was better summed up by"
+ },
+ {
+  "start": 858.12,
+  "duration": 3.2,
+  "text": "Jonathan Liddle, who wrote, \"Guy's"
+ },
+ {
+  "start": 859.84,
+  "duration": 2.84,
+  "text": "extremely mad that the Pope of the"
+ },
+ {
+  "start": 861.32,
+  "duration": 4.12,
+  "text": "Catholic Church believes in the soul,"
+ },
+ {
+  "start": 862.68,
+  "duration": 4.44,
+  "text": "apparently.\" Or Josh Barrow, \"A little"
+ },
+ {
+  "start": 865.44,
+  "duration": 3.08,
+  "text": "baffled by people who are upset that the"
+ },
+ {
+  "start": 867.12,
+  "duration": 3.12,
+  "text": "Pope doesn't think a machine can be"
+ },
+ {
+  "start": 868.52,
+  "duration": 3.16,
+  "text": "ensoled? What do you expect the Pope to"
+ },
+ {
+  "start": 870.24,
+  "duration": 2.599,
+  "text": "think about that?\""
+ },
+ {
+  "start": 871.68,
+  "duration": 2.88,
+  "text": "And the reason that I'm hanging on this"
+ },
+ {
+  "start": 872.839,
+  "duration": 3.241,
+  "text": "point is that I think it actually does"
+ },
+ {
+  "start": 874.56,
+  "duration": 3.36,
+  "text": "get to perhaps the most central"
+ },
+ {
+  "start": 876.08,
+  "duration": 3.28,
+  "text": "discourse in the piece. And so I want to"
+ },
+ {
+  "start": 877.92,
+  "duration": 3.08,
+  "text": "give Dean the last word before we dig in"
+ },
+ {
+  "start": 879.36,
+  "duration": 3.44,
+  "text": "a little bit deeper, where he responded"
+ },
+ {
+  "start": 881.0,
+  "duration": 3.92,
+  "text": "to these critiques by saying, \"Some"
+ },
+ {
+  "start": 882.8,
+  "duration": 4.48,
+  "text": "think I want the Pope to en灵魂 AI or"
+ },
+ {
+  "start": 884.92,
+  "duration": 4.0,
+  "text": "acknowledge AI feelings. I don't. What I"
+ },
+ {
+  "start": 887.28,
+  "duration": 3.559,
+  "text": "want is for the church to contemplate"
+ },
+ {
+  "start": 888.92,
+  "duration": 3.76,
+  "text": "what humans should do as we are eclipsed"
+ },
+ {
+  "start": 890.839,
+  "duration": 3.321,
+  "text": "as the smartest entities on the planet,"
+ },
+ {
+  "start": 892.68,
+  "duration": 3.88,
+  "text": "at least for many reasonable people's"
+ },
+ {
+  "start": 894.16,
+  "duration": 4.16,
+  "text": "definitions of the word smart.\" Now,"
+ },
+ {
+  "start": 896.56,
+  "duration": 3.279,
+  "text": "before we get into that central point, I"
+ },
+ {
+  "start": 898.32,
+  "duration": 3.48,
+  "text": "want to take a big step back."
+ },
+ {
+  "start": 899.839,
+  "duration": 4.321,
+  "text": "Fascinatingly, I think the group that on"
+ },
+ {
+  "start": 901.8,
+  "duration": 4.76,
+  "text": "average had the best read of the"
+ },
+ {
+  "start": 904.16,
+  "duration": 4.6,
+  "text": "underlying tone and intent of the piece"
+ },
+ {
+  "start": 906.56,
+  "duration": 4.48,
+  "text": "were Catholics themselves. Christopher"
+ },
+ {
+  "start": 908.76,
+  "duration": 4.44,
+  "text": "Hale wrote, \"Anyone who thinks Pope Leo"
+ },
+ {
+  "start": 911.04,
+  "duration": 4.32,
+  "text": "the 14th is an AI doomer either hasn't"
+ },
+ {
+  "start": 913.2,
+  "duration": 4.6,
+  "text": "read the encyclical in full or doesn't"
+ },
+ {
+  "start": 915.36,
+  "duration": 4.8,
+  "text": "understand Catholic theology. The Pope"
+ },
+ {
+  "start": 917.8,
+  "duration": 4.52,
+  "text": "is an AI realist. He knows its growth is"
+ },
+ {
+  "start": 920.16,
+  "duration": 4.6,
+  "text": "inevitable. He just wants to ensure it's"
+ },
+ {
+  "start": 922.32,
+  "duration": 3.68,
+  "text": "always in service of the human person."
+ },
+ {
+  "start": 924.76,
+  "duration": 3.68,
+  "text": "The Catholic Sat account on Twitter"
+ },
+ {
+  "start": 926.0,
+  "duration": 4.24,
+  "text": "writes, \"The TLDR is AI is not"
+ },
+ {
+  "start": 928.44,
+  "duration": 3.72,
+  "text": "inherently evil, but is never neutral"
+ },
+ {
+  "start": 930.24,
+  "duration": 4.52,
+  "text": "and carries risk of power concentration,"
+ },
+ {
+  "start": 932.16,
+  "duration": 3.92,
+  "text": "inequality, and loss of human dignity."
+ },
+ {
+  "start": 934.76,
+  "duration": 2.64,
+  "text": "The church offers principles for"
+ },
+ {
+  "start": 936.08,
+  "duration": 2.88,
+  "text": "discernment rather than blanket"
+ },
+ {
+  "start": 937.4,
+  "duration": 3.68,
+  "text": "rejection.\""
+ },
+ {
+  "start": 938.96,
+  "duration": 4.16,
+  "text": "And at a high level, that's what I got"
+ },
+ {
+  "start": 941.08,
+  "duration": 3.84,
+  "text": "reading the entire piece as well. It's a"
+ },
+ {
+  "start": 943.12,
+  "duration": 3.76,
+  "text": "document that very much positions us at"
+ },
+ {
+  "start": 944.92,
+  "duration": 4.08,
+  "text": "the beginning of the beginning. To the"
+ },
+ {
+  "start": 946.88,
+  "duration": 4.52,
+  "text": "extent it provides warnings, it's"
+ },
+ {
+  "start": 949.0,
+  "duration": 4.08,
+  "text": "warnings for what could be. It's much"
+ },
+ {
+  "start": 951.4,
+  "duration": 3.72,
+  "text": "more an exploration of what we should"
+ },
+ {
+  "start": 953.08,
+  "duration": 4.04,
+  "text": "think about and discuss as opposed to"
+ },
+ {
+  "start": 955.12,
+  "duration": 3.2,
+  "text": "specific things we should change. But to"
+ },
+ {
+  "start": 957.12,
+  "duration": 3.04,
+  "text": "the extent that it does carve out"
+ },
+ {
+  "start": 958.32,
+  "duration": 3.36,
+  "text": "positions, it's about the foundational"
+ },
+ {
+  "start": 960.16,
+  "duration": 3.56,
+  "text": "principles that Leo believes we should"
+ },
+ {
+  "start": 961.68,
+  "duration": 3.56,
+  "text": "bring into the discourse, rather than a"
+ },
+ {
+  "start": 963.72,
+  "duration": 3.32,
+  "text": "strict delineation of the conclusions"
+ },
+ {
+  "start": 965.24,
+  "duration": 3.76,
+  "text": "that those principles should lead us to."
+ },
+ {
+  "start": 967.04,
+  "duration": 3.8,
+  "text": "And perhaps unsurprisingly, given that"
+ },
+ {
+  "start": 969.0,
+  "duration": 3.24,
+  "text": "the subtitle is Safeguarding the Human"
+ },
+ {
+  "start": 970.84,
+  "duration": 3.52,
+  "text": "Person in the Time of Artificial"
+ },
+ {
+  "start": 972.24,
+  "duration": 5.2,
+  "text": "Intelligence, the core plea, in fact, of"
+ },
+ {
+  "start": 974.36,
+  "duration": 5.44,
+  "text": "the piece is, in my estimation, to keep"
+ },
+ {
+  "start": 977.44,
+  "duration": 4.48,
+  "text": "real living humans, not artificial"
+ },
+ {
+  "start": 979.8,
+  "duration": 4.56,
+  "text": "intelligences, nor anonymous market"
+ },
+ {
+  "start": 981.92,
+  "duration": 4.96,
+  "text": "forces, as the barometer of our success"
+ },
+ {
+  "start": 984.36,
+  "duration": 4.6,
+  "text": "with this and any technology. That line"
+ },
+ {
+  "start": 986.88,
+  "duration": 3.8,
+  "text": "about the pursuit of greater profits not"
+ },
+ {
+  "start": 988.96,
+  "duration": 4.36,
+  "text": "justifying choices that systematically"
+ },
+ {
+  "start": 990.68,
+  "duration": 4.76,
+  "text": "sacrifice jobs is about the ever-present"
+ },
+ {
+  "start": 993.32,
+  "duration": 4.0,
+  "text": "tension between, on the one hand,"
+ },
+ {
+  "start": 995.44,
+  "duration": 4.12,
+  "text": "markets as unfeeling, efficient"
+ },
+ {
+  "start": 997.32,
+  "duration": 4.88,
+  "text": "allocators of scarce resources, and on"
+ },
+ {
+  "start": 999.56,
+  "duration": 5.12,
+  "text": "the other hand, markets as ultimately"
+ },
+ {
+  "start": 1002.2,
+  "duration": 4.2,
+  "text": "servants of human wants and needs."
+ },
+ {
+  "start": 1004.68,
+  "duration": 3.88,
+  "text": "AI is, of course, reigniting this"
+ },
+ {
+  "start": 1006.4,
+  "duration": 3.88,
+  "text": "tension in a massive way, but that"
+ },
+ {
+  "start": 1008.56,
+  "duration": 3.84,
+  "text": "fundamental tension at the core of who"
+ },
+ {
+  "start": 1010.28,
+  "duration": 4.44,
+  "text": "markets are supposed to serve is and has"
+ },
+ {
+  "start": 1012.4,
+  "duration": 4.4,
+  "text": "been ever present. Now, when it comes to"
+ },
+ {
+  "start": 1014.72,
+  "duration": 4.36,
+  "text": "the Pope's argument about the potential"
+ },
+ {
+  "start": 1016.8,
+  "duration": 4.52,
+  "text": "for a new form of colonialism, it is"
+ },
+ {
+  "start": 1019.08,
+  "duration": 4.68,
+  "text": "not, I don't believe, the argument that"
+ },
+ {
+  "start": 1021.32,
+  "duration": 4.56,
+  "text": "Karen Hou paraphrased when she said that"
+ },
+ {
+  "start": 1023.76,
+  "duration": 4.079,
+  "text": "the Pope had weighed in and decided that"
+ },
+ {
+  "start": 1025.88,
+  "duration": 4.92,
+  "text": "AI is currently deeply exploitative."
+ },
+ {
+  "start": 1027.839,
+  "duration": 5.161,
+  "text": "Instead, the piece recognizes that when"
+ },
+ {
+  "start": 1030.8,
+  "duration": 4.76,
+  "text": "a new resource is identified, the"
+ },
+ {
+  "start": 1033.0,
+  "duration": 4.76,
+  "text": "potential for exploitation and new power"
+ },
+ {
+  "start": 1035.56,
+  "duration": 3.6,
+  "text": "dynamics based on that resource become"
+ },
+ {
+  "start": 1037.76,
+  "duration": 4.079,
+  "text": "something that we have to pay attention"
+ },
+ {
+  "start": 1039.16,
+  "duration": 5.4,
+  "text": "to. The piece recognizes that people's"
+ },
+ {
+  "start": 1041.839,
+  "duration": 5.521,
+  "text": "data has become extremely valuable,"
+ },
+ {
+  "start": 1044.56,
+  "duration": 4.2,
+  "text": "ultimately a new type of power to mine,"
+ },
+ {
+  "start": 1047.36,
+  "duration": 4.0,
+  "text": "and that given that we are already"
+ },
+ {
+  "start": 1048.76,
+  "duration": 4.8,
+  "text": "seeing how much aggregation of that data"
+ },
+ {
+  "start": 1051.36,
+  "duration": 4.36,
+  "text": "can lead to economic power, we need to"
+ },
+ {
+  "start": 1053.56,
+  "duration": 3.8,
+  "text": "have a conversation as the Pope puts it"
+ },
+ {
+  "start": 1055.72,
+  "duration": 3.36,
+  "text": "about how to ensure that shared"
+ },
+ {
+  "start": 1057.36,
+  "duration": 4.08,
+  "text": "knowledge becomes a true common good"
+ },
+ {
+  "start": 1059.08,
+  "duration": 3.84,
+  "text": "rather than an instrument of dominance."
+ },
+ {
+  "start": 1061.44,
+  "duration": 3.76,
+  "text": "Now to me reading that paragraph, which"
+ },
+ {
+  "start": 1062.92,
+  "duration": 4.16,
+  "text": "is 178 by the way, and more about the"
+ },
+ {
+  "start": 1065.2,
+  "duration": 3.56,
+  "text": "potential misuse of health data, the"
+ },
+ {
+  "start": 1067.08,
+  "duration": 3.84,
+  "text": "Pope writes, \"Those who control the"
+ },
+ {
+  "start": 1068.76,
+  "duration": 3.8,
+  "text": "health data of entire peoples, often"
+ },
+ {
+  "start": 1070.92,
+  "duration": 3.24,
+  "text": "collected under the pretext of aid,"
+ },
+ {
+  "start": 1072.56,
+  "duration": 3.36,
+  "text": "research, and innovation, possess a"
+ },
+ {
+  "start": 1074.16,
+  "duration": 3.52,
+  "text": "structural leverage over the future for"
+ },
+ {
+  "start": 1075.92,
+  "duration": 3.24,
+  "text": "they can shape needs and markets. They"
+ },
+ {
+  "start": 1077.68,
+  "duration": 3.08,
+  "text": "can decide before others to whom"
+ },
+ {
+  "start": 1079.16,
+  "duration": 3.48,
+  "text": "medicines, investments, and protections"
+ },
+ {
+  "start": 1080.76,
+  "duration": 3.44,
+  "text": "will be allocated.\" It's less an"
+ },
+ {
+  "start": 1082.64,
+  "duration": 3.68,
+  "text": "endowment of today and more a warning"
+ },
+ {
+  "start": 1084.2,
+  "duration": 4.6,
+  "text": "about tomorrow. And yet more than"
+ },
+ {
+  "start": 1086.32,
+  "duration": 4.44,
+  "text": "anything else, to me the central"
+ },
+ {
+  "start": 1088.8,
+  "duration": 4.44,
+  "text": "argument that underpins the entirety of"
+ },
+ {
+  "start": 1090.76,
+  "duration": 4.4,
+  "text": "Magnificat Humanitatis is that human"
+ },
+ {
+  "start": 1093.24,
+  "duration": 4.6,
+  "text": "value cannot be reduced to an"
+ },
+ {
+  "start": 1095.16,
+  "duration": 5.4,
+  "text": "intelligence benchmark. That even if and"
+ },
+ {
+  "start": 1097.84,
+  "duration": 4.92,
+  "text": "when AI becomes {quote} smarter than us,"
+ },
+ {
+  "start": 1100.56,
+  "duration": 4.88,
+  "text": "it will remain categorically different"
+ },
+ {
+  "start": 1102.76,
+  "duration": 5.24,
+  "text": "from us. And in part the reason for this"
+ },
+ {
+  "start": 1105.44,
+  "duration": 4.52,
+  "text": "is a rejection of the idea of the"
+ },
+ {
+  "start": 1108.0,
+  "duration": 4.28,
+  "text": "foibles and problems and challenges and"
+ },
+ {
+  "start": 1109.96,
+  "duration": 4.76,
+  "text": "limitations of humanity as inherently"
+ },
+ {
+  "start": 1112.28,
+  "duration": 4.68,
+  "text": "problems to be fixed. One of the most"
+ },
+ {
+  "start": 1114.72,
+  "duration": 4.52,
+  "text": "contentious paragraphs for people like"
+ },
+ {
+  "start": 1116.96,
+  "duration": 5.24,
+  "text": "Dean Ball, who have some belief in AI"
+ },
+ {
+  "start": 1119.24,
+  "duration": 5.12,
+  "text": "cognition, is paragraph 99, where Leo"
+ },
+ {
+  "start": 1122.2,
+  "duration": 3.76,
+  "text": "writes, \"We must avoid the misconception"
+ },
+ {
+  "start": 1124.36,
+  "duration": 3.6,
+  "text": "of equating this type of intelligence"
+ },
+ {
+  "start": 1125.96,
+  "duration": 3.48,
+  "text": "with that of human beings. These systems"
+ },
+ {
+  "start": 1127.96,
+  "duration": 3.36,
+  "text": "merely imitate certain functions of"
+ },
+ {
+  "start": 1129.44,
+  "duration": 3.56,
+  "text": "human intelligence. In doing so, they"
+ },
+ {
+  "start": 1131.32,
+  "duration": 3.52,
+  "text": "often surpass human intelligence in"
+ },
+ {
+  "start": 1133.0,
+  "duration": 3.48,
+  "text": "speed and computational capacity,"
+ },
+ {
+  "start": 1134.84,
+  "duration": 3.8,
+  "text": "offering tangible benefits across many"
+ },
+ {
+  "start": 1136.48,
+  "duration": 4.2,
+  "text": "fields. Yet this power remains entirely"
+ },
+ {
+  "start": 1138.64,
+  "duration": 3.8,
+  "text": "tied to data processing. So-called"
+ },
+ {
+  "start": 1140.68,
+  "duration": 3.8,
+  "text": "artificial intelligences do not undergo"
+ },
+ {
+  "start": 1142.44,
+  "duration": 3.8,
+  "text": "experiences, do not possess a body, do"
+ },
+ {
+  "start": 1144.48,
+  "duration": 3.2,
+  "text": "not feel joy or pain, do not mature"
+ },
+ {
+  "start": 1146.24,
+  "duration": 3.0,
+  "text": "through relationships, and do not know"
+ },
+ {
+  "start": 1147.68,
+  "duration": 3.64,
+  "text": "from within what love, work, friendship,"
+ },
+ {
+  "start": 1149.24,
+  "duration": 3.6,
+  "text": "or responsibility mean. Nor do they have"
+ },
+ {
+  "start": 1151.32,
+  "duration": 3.16,
+  "text": "a moral conscience since they do not"
+ },
+ {
+  "start": 1152.84,
+  "duration": 3.2,
+  "text": "judge good and evil, grasp the ultimate"
+ },
+ {
+  "start": 1154.48,
+  "duration": 3.56,
+  "text": "meaning of situations, or bear"
+ },
+ {
+  "start": 1156.04,
+  "duration": 3.52,
+  "text": "responsibility for consequences. They"
+ },
+ {
+  "start": 1158.04,
+  "duration": 3.2,
+  "text": "may imitate language, behavior, and"
+ },
+ {
+  "start": 1159.56,
+  "duration": 3.32,
+  "text": "analytical skills, or even simulate"
+ },
+ {
+  "start": 1161.24,
+  "duration": 3.08,
+  "text": "empathy and understanding, but they do"
+ },
+ {
+  "start": 1162.88,
+  "duration": 2.92,
+  "text": "not understand what they produce, for"
+ },
+ {
+  "start": 1164.32,
+  "duration": 3.12,
+  "text": "they lack the effective, relational, and"
+ },
+ {
+  "start": 1165.8,
+  "duration": 3.56,
+  "text": "spiritual perspective through which"
+ },
+ {
+  "start": 1167.44,
+  "duration": 3.36,
+  "text": "human beings grow in wisdom. Even when"
+ },
+ {
+  "start": 1169.36,
+  "duration": 2.96,
+  "text": "these tools are described as capable of"
+ },
+ {
+  "start": 1170.8,
+  "duration": 3.28,
+  "text": "learning, their way of doing so is"
+ },
+ {
+  "start": 1172.32,
+  "duration": 3.28,
+  "text": "different from that of a human person."
+ },
+ {
+  "start": 1174.08,
+  "duration": 3.0,
+  "text": "It is not the experience of those who"
+ },
+ {
+  "start": 1175.6,
+  "duration": 2.84,
+  "text": "allow themselves to be shaped by life"
+ },
+ {
+  "start": 1177.08,
+  "duration": 3.2,
+  "text": "and grow over time through choices,"
+ },
+ {
+  "start": 1178.44,
+  "duration": 3.28,
+  "text": "mistakes, forgiveness, and fidelity."
+ },
+ {
+  "start": 1180.28,
+  "duration": 3.52,
+  "text": "Rather, it is a form of statistical"
+ },
+ {
+  "start": 1181.72,
+  "duration": 3.52,
+  "text": "adaptation based on data and feedback,"
+ },
+ {
+  "start": 1183.8,
+  "duration": 3.6,
+  "text": "which can be very effective, but does"
+ },
+ {
+  "start": 1185.24,
+  "duration": 4.68,
+  "text": "not imply inner growth."
+ },
+ {
+  "start": 1187.4,
+  "duration": 4.2,
+  "text": "As much as this may come as a shock to"
+ },
+ {
+  "start": 1189.92,
+  "duration": 4.2,
+  "text": "the researchers and technologists"
+ },
+ {
+  "start": 1191.6,
+  "duration": 4.56,
+  "text": "building AI, this is not going to be a"
+ },
+ {
+  "start": 1194.12,
+  "duration": 4.32,
+  "text": "controversial take among the vast"
+ },
+ {
+  "start": 1196.16,
+  "duration": 5.28,
+  "text": "majority of people, including people who"
+ },
+ {
+  "start": 1198.44,
+  "duration": 4.96,
+  "text": "use AI every single day. For most, the"
+ },
+ {
+  "start": 1201.44,
+  "duration": 3.96,
+  "text": "idea that even if AI can do math or"
+ },
+ {
+  "start": 1203.4,
+  "duration": 3.88,
+  "text": "write things faster and even better than"
+ },
+ {
+  "start": 1205.4,
+  "duration": 4.4,
+  "text": "us, does not change the fact that it"
+ },
+ {
+  "start": 1207.28,
+  "duration": 4.04,
+  "text": "remains fundamentally different to us in"
+ },
+ {
+  "start": 1209.8,
+  "duration": 3.64,
+  "text": "ways that should be enshrined in our"
+ },
+ {
+  "start": 1211.32,
+  "duration": 4.68,
+  "text": "policy and positioning towards it. Now,"
+ },
+ {
+  "start": 1213.44,
+  "duration": 4.6,
+  "text": "what I will say is that as AI gets more"
+ },
+ {
+  "start": 1216.0,
+  "duration": 4.32,
+  "text": "advanced, there will be more debate to"
+ },
+ {
+  "start": 1218.04,
+  "duration": 4.76,
+  "text": "be had here. People who currently feel"
+ },
+ {
+  "start": 1220.32,
+  "duration": 4.04,
+  "text": "right now, as I just argued, that AI"
+ },
+ {
+  "start": 1222.8,
+  "duration": 3.2,
+  "text": "being {quote} and {quote} smarter than"
+ },
+ {
+  "start": 1224.36,
+  "duration": 3.56,
+  "text": "humans doesn't make it of equivalent"
+ },
+ {
+  "start": 1226.0,
+  "duration": 4.0,
+  "text": "value from a societal and policy"
+ },
+ {
+  "start": 1227.92,
+  "duration": 3.44,
+  "text": "perspective to humans, my guess is that"
+ },
+ {
+  "start": 1230.0,
+  "duration": 3.32,
+  "text": "in the future more people will have more"
+ },
+ {
+  "start": 1231.36,
+  "duration": 4.08,
+  "text": "questions about that than they do now."
+ },
+ {
+  "start": 1233.32,
+  "duration": 4.4,
+  "text": "In that way, I think the Magnificat"
+ },
+ {
+  "start": 1235.44,
+  "duration": 3.68,
+  "text": "Humanitatis is a flag planting. It's"
+ },
+ {
+  "start": 1237.72,
+  "duration": 3.44,
+  "text": "preparation for the period where that"
+ },
+ {
+  "start": 1239.12,
+  "duration": 3.76,
+  "text": "conversation heats up."
+ },
+ {
+  "start": 1241.16,
+  "duration": 4.56,
+  "text": "Closely related, I think, is paragraph"
+ },
+ {
+  "start": 1242.88,
+  "duration": 5.08,
+  "text": "118, where Leo writes, \"Our relationship"
+ },
+ {
+  "start": 1245.72,
+  "duration": 4.08,
+  "text": "with life seems to be in crisis today."
+ },
+ {
+  "start": 1247.96,
+  "duration": 4.0,
+  "text": "Everything that appears as a limit,"
+ },
+ {
+  "start": 1249.8,
+  "duration": 3.88,
+  "text": "incapacity, illness, old age, suffering,"
+ },
+ {
+  "start": 1251.96,
+  "duration": 4.16,
+  "text": "vulnerability, tends to be seen"
+ },
+ {
+  "start": 1253.68,
+  "duration": 3.84,
+  "text": "primarily as a defect to be corrected,"
+ },
+ {
+  "start": 1256.12,
+  "duration": 3.28,
+  "text": "rather than as a reality through which"
+ },
+ {
+  "start": 1257.52,
+  "duration": 3.76,
+  "text": "our humanity matures and opens itself to"
+ },
+ {
+  "start": 1259.4,
+  "duration": 3.52,
+  "text": "relationship. And yet we must remember"
+ },
+ {
+  "start": 1261.28,
+  "duration": 3.92,
+  "text": "that humanity flourishes not despite"
+ },
+ {
+  "start": 1262.92,
+  "duration": 3.56,
+  "text": "limitations, but often through them.\""
+ },
+ {
+  "start": 1265.2,
+  "duration": 2.64,
+  "text": "Now, from there the argument veers a"
+ },
+ {
+  "start": 1266.48,
+  "duration": 3.08,
+  "text": "little bit more into the theological"
+ },
+ {
+  "start": 1267.84,
+  "duration": 3.88,
+  "text": "than I want to go into in the context of"
+ },
+ {
+  "start": 1269.56,
+  "duration": 3.96,
+  "text": "this particular episode. But in many"
+ },
+ {
+  "start": 1271.72,
+  "duration": 4.0,
+  "text": "ways this pairs with the denial of the"
+ },
+ {
+  "start": 1273.52,
+  "duration": 4.48,
+  "text": "specialness of AI intelligence as"
+ },
+ {
+  "start": 1275.72,
+  "duration": 3.88,
+  "text": "central pillars in a fundamentally"
+ },
+ {
+  "start": 1278.0,
+  "duration": 3.52,
+  "text": "contra-transhumanist"
+ },
+ {
+  "start": 1279.6,
+  "duration": 4.08,
+  "text": "type of argument that the encyclical is"
+ },
+ {
+  "start": 1281.52,
+  "duration": 3.6,
+  "text": "setting a foundation for. Now obviously"
+ },
+ {
+  "start": 1283.68,
+  "duration": 3.28,
+  "text": "this debate is going to get nothing but"
+ },
+ {
+  "start": 1285.12,
+  "duration": 3.08,
+  "text": "louder. And in that I think Boyan"
+ },
+ {
+  "start": 1286.96,
+  "duration": 3.0,
+  "text": "Tanguay's might have it right when he"
+ },
+ {
+  "start": 1288.2,
+  "duration": 3.24,
+  "text": "writes, \"The most important thing about"
+ },
+ {
+  "start": 1289.96,
+  "duration": 4.36,
+  "text": "Magnificat Humanitatis is that it"
+ },
+ {
+  "start": 1291.44,
+  "duration": 4.2,
+  "text": "exists. Challenges posed by AI are real."
+ },
+ {
+  "start": 1294.32,
+  "duration": 2.96,
+  "text": "They will only increase and they will"
+ },
+ {
+  "start": 1295.64,
+  "duration": 3.52,
+  "text": "have a massive impact on all aspects of"
+ },
+ {
+  "start": 1297.28,
+  "duration": 3.16,
+  "text": "human life. The fact that the Catholic"
+ },
+ {
+  "start": 1299.16,
+  "duration": 3.16,
+  "text": "Church takes this matter very very"
+ },
+ {
+  "start": 1300.44,
+  "duration": 3.48,
+  "text": "seriously to the point that Pope Leo"
+ },
+ {
+  "start": 1302.32,
+  "duration": 4.0,
+  "text": "decided to dedicate his first encyclical"
+ },
+ {
+  "start": 1303.92,
+  "duration": 4.24,
+  "text": "to it is very laudable and encouraging."
+ },
+ {
+  "start": 1306.32,
+  "duration": 3.36,
+  "text": "It shows urgency, centrality, and"
+ },
+ {
+  "start": 1308.16,
+  "duration": 2.72,
+  "text": "importance given to this topic by one of"
+ },
+ {
+  "start": 1309.68,
+  "duration": 3.2,
+  "text": "the biggest and most visible global"
+ },
+ {
+  "start": 1310.88,
+  "duration": 3.8,
+  "text": "institutions. I hope that many other"
+ },
+ {
+  "start": 1312.88,
+  "duration": 3.48,
+  "text": "institutions, especially governments and"
+ },
+ {
+  "start": 1314.68,
+  "duration": 3.16,
+  "text": "professional organizations, start"
+ },
+ {
+  "start": 1316.36,
+  "duration": 3.36,
+  "text": "approaching matters of AI with the same"
+ },
+ {
+  "start": 1317.84,
+  "duration": 4.16,
+  "text": "focus and dedication and high-level"
+ },
+ {
+  "start": 1319.72,
+  "duration": 4.28,
+  "text": "urgency. And I think that that's right."
+ },
+ {
+  "start": 1322.0,
+  "duration": 3.52,
+  "text": "And I will only add as we conclude that"
+ },
+ {
+  "start": 1324.0,
+  "duration": 3.48,
+  "text": "despite some of the throwaway"
+ },
+ {
+  "start": 1325.52,
+  "duration": 4.08,
+  "text": "soundbite-y type takes I shared earlier"
+ },
+ {
+  "start": 1327.48,
+  "duration": 3.64,
+  "text": "in the show, in general the discourse"
+ },
+ {
+  "start": 1329.6,
+  "duration": 4.8,
+  "text": "and discussion around this particular"
+ },
+ {
+  "start": 1331.12,
+  "duration": 5.2,
+  "text": "piece has been so elevated compared to"
+ },
+ {
+  "start": 1334.4,
+  "duration": 3.6,
+  "text": "the average mudfest that is the"
+ },
+ {
+  "start": 1336.32,
+  "duration": 3.64,
+  "text": "discourse on AI and frankly any big"
+ },
+ {
+  "start": 1338.0,
+  "duration": 3.76,
+  "text": "political issue these days. Like I said"
+ },
+ {
+  "start": 1339.96,
+  "duration": 2.92,
+  "text": "at the beginning, I highly encourage you"
+ },
+ {
+  "start": 1341.76,
+  "duration": 3.24,
+  "text": "to take some time to read the whole"
+ },
+ {
+  "start": 1342.88,
+  "duration": 3.92,
+  "text": "thing or at least drop it in your AI of"
+ },
+ {
+  "start": 1345.0,
+  "duration": 3.16,
+  "text": "choice and have a conversation about it."
+ },
+ {
+  "start": 1346.8,
+  "duration": 3.6,
+  "text": "For now however that is going to do it"
+ },
+ {
+  "start": 1348.16,
+  "duration": 3.88,
+  "text": "for today's AI Daily Brief. Appreciate"
+ },
+ {
+  "start": 1350.4,
+  "duration": 5.28,
+  "text": "you listening or watching as always."
+ },
+ {
+  "start": 1352.04,
+  "duration": 3.64,
+  "text": "Until next time, peace."
+ }
+]

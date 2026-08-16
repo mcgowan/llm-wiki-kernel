@@ -1,0 +1,3342 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.04,
+  "text": "Boy, it sure seems like Anthropic did"
+ },
+ {
+  "start": 2.0,
+  "duration": 3.76,
+  "text": "not like everyone talking about open"
+ },
+ {
+  "start": 4.04,
+  "duration": 3.48,
+  "text": "Claude instead of Claude Code because"
+ },
+ {
+  "start": 5.76,
+  "duration": 4.08,
+  "text": "over the last month they have shipped an"
+ },
+ {
+  "start": 7.52,
+  "duration": 4.76,
+  "text": "absolute boatload of features, all of"
+ },
+ {
+  "start": 9.84,
+  "duration": 4.32,
+  "text": "which we are talking about here. Welcome"
+ },
+ {
+  "start": 12.28,
+  "duration": 3.8,
+  "text": "back to the AI Daily Brief. Every other"
+ },
+ {
+  "start": 14.16,
+  "duration": 3.72,
+  "text": "day or so for the last month, there has"
+ },
+ {
+  "start": 16.08,
+  "duration": 3.92,
+  "text": "been some part of the headlines where"
+ },
+ {
+  "start": 17.88,
+  "duration": 4.04,
+  "text": "Claude launched some new feature or"
+ },
+ {
+  "start": 20.0,
+  "duration": 4.0,
+  "text": "upgrade for Claude Code or Co-worker or"
+ },
+ {
+  "start": 21.92,
+  "duration": 3.32,
+  "text": "some other part of the Claude ecosystem."
+ },
+ {
+  "start": 24.0,
+  "duration": 2.56,
+  "text": "And at this point, it has officially"
+ },
+ {
+  "start": 25.24,
+  "duration": 3.36,
+  "text": "gotten to the point where we needed to"
+ },
+ {
+  "start": 26.56,
+  "duration": 3.36,
+  "text": "do a full-on retrospective of everything"
+ },
+ {
+  "start": 28.6,
+  "duration": 3.44,
+  "text": "that has launched over the last month or"
+ },
+ {
+  "start": 29.92,
+  "duration": 3.84,
+  "text": "so to help you guys map out and figure"
+ },
+ {
+  "start": 32.04,
+  "duration": 3.92,
+  "text": "out how to use all of these big new"
+ },
+ {
+  "start": 33.76,
+  "duration": 4.92,
+  "text": "upgrades. Now, of course, this comes in"
+ },
+ {
+  "start": 35.96,
+  "duration": 5.8,
+  "text": "a specific lineage of updates. Step one"
+ },
+ {
+  "start": 38.68,
+  "duration": 4.52,
+  "text": "was the models. The Opus 4.5, GPT 5.2"
+ },
+ {
+  "start": 41.76,
+  "duration": 3.56,
+  "text": "generation of models that came about at"
+ },
+ {
+  "start": 43.2,
+  "duration": 4.88,
+  "text": "the end of last year catapulted us into"
+ },
+ {
+  "start": 45.32,
+  "duration": 5.72,
+  "text": "a new capability era that Opus 4.6, GPT"
+ },
+ {
+  "start": 48.08,
+  "duration": 4.84,
+  "text": "5.3 Codex, and GPT 5.4 have continued."
+ },
+ {
+  "start": 51.04,
+  "duration": 3.68,
+  "text": "Step two, of course, was the unlock that"
+ },
+ {
+  "start": 52.92,
+  "duration": 3.16,
+  "text": "Open Claude represented. It was a"
+ },
+ {
+  "start": 54.72,
+  "duration": 3.16,
+  "text": "harness that brought with it a whole"
+ },
+ {
+  "start": 56.08,
+  "duration": 3.88,
+  "text": "bunch of concepts and user interaction"
+ },
+ {
+  "start": 57.88,
+  "duration": 4.36,
+  "text": "patterns and behavior sets that made"
+ },
+ {
+  "start": 59.96,
+  "duration": 3.64,
+  "text": "building your own agents and agent teams"
+ },
+ {
+  "start": 62.24,
+  "duration": 3.279,
+  "text": "all of a sudden more viable and more"
+ },
+ {
+  "start": 63.6,
+  "duration": 3.8,
+  "text": "realistic. Step three has been the"
+ },
+ {
+  "start": 65.519,
+  "duration": 3.961,
+  "text": "absolute race ever since Open Claude"
+ },
+ {
+  "start": 67.4,
+  "duration": 4.2,
+  "text": "blew up to bring those types of features"
+ },
+ {
+  "start": 69.48,
+  "duration": 3.84,
+  "text": "to all the other AI products. This"
+ },
+ {
+  "start": 71.6,
+  "duration": 3.28,
+  "text": "Claudification trend has been one of the"
+ },
+ {
+  "start": 73.32,
+  "duration": 3.56,
+  "text": "big themes ever since Open Claude"
+ },
+ {
+  "start": 74.88,
+  "duration": 3.88,
+  "text": "launched. Now, when Open Claude's"
+ },
+ {
+  "start": 76.88,
+  "duration": 4.08,
+  "text": "founder Peter Steinberger was hired by"
+ },
+ {
+  "start": 78.76,
+  "duration": 4.2,
+  "text": "OpenAI, some people jumped in to say"
+ },
+ {
+  "start": 80.96,
+  "duration": 3.84,
+  "text": "that Anthropic had made a big goof by"
+ },
+ {
+  "start": 82.96,
+  "duration": 3.88,
+  "text": "not bringing him over there. Others'"
+ },
+ {
+  "start": 84.8,
+  "duration": 3.48,
+  "text": "response was a little bit closer to, \"I"
+ },
+ {
+  "start": 86.84,
+  "duration": 3.28,
+  "text": "don't know, man. Let's let him cook and"
+ },
+ {
+  "start": 88.28,
+  "duration": 3.76,
+  "text": "see what happens.\" And certainly you"
+ },
+ {
+  "start": 90.12,
+  "duration": 3.96,
+  "text": "have to think that the people saying let"
+ },
+ {
+  "start": 92.04,
+  "duration": 4.8,
+  "text": "them cook are feeling pretty vindicated"
+ },
+ {
+  "start": 94.08,
+  "duration": 4.96,
+  "text": "right now. The Claudification of Claude,"
+ },
+ {
+  "start": 96.84,
+  "duration": 3.6,
+  "text": "maybe we'll call it the Claudification,"
+ },
+ {
+  "start": 99.04,
+  "duration": 3.64,
+  "text": "kicked off at the end of February with"
+ },
+ {
+  "start": 100.44,
+  "duration": 4.08,
+  "text": "remote control. Remote control was a way"
+ },
+ {
+  "start": 102.68,
+  "duration": 4.04,
+  "text": "to bring Claude Code specifically to"
+ },
+ {
+  "start": 104.52,
+  "duration": 4.28,
+  "text": "your mobile experience. Both the mobile"
+ },
+ {
+  "start": 106.72,
+  "duration": 3.84,
+  "text": "capabilities of Open Claude, as well as"
+ },
+ {
+  "start": 108.8,
+  "duration": 3.56,
+  "text": "its ability to bridge between different"
+ },
+ {
+  "start": 110.56,
+  "duration": 2.92,
+  "text": "types of devices, were some of the parts"
+ },
+ {
+  "start": 112.36,
+  "duration": 2.72,
+  "text": "of that system that people were most"
+ },
+ {
+  "start": 113.48,
+  "duration": 3.4,
+  "text": "excited about. And so, it wasn't all"
+ },
+ {
+  "start": 115.08,
+  "duration": 4.0,
+  "text": "that surprising to see Claude Code jump"
+ },
+ {
+  "start": 116.88,
+  "duration": 3.88,
+  "text": "on that first. What's more, even outside"
+ },
+ {
+  "start": 119.08,
+  "duration": 3.0,
+  "text": "of Open Claw, this is such a natural"
+ },
+ {
+  "start": 120.76,
+  "duration": 2.4,
+  "text": "extension of the product that you got to"
+ },
+ {
+  "start": 122.08,
+  "duration": 2.8,
+  "text": "imagine that this would have happened"
+ },
+ {
+  "start": 123.16,
+  "duration": 3.88,
+  "text": "anyway. The way that remote control"
+ },
+ {
+  "start": 124.88,
+  "duration": 4.08,
+  "text": "works is that you start your task in"
+ },
+ {
+  "start": 127.04,
+  "duration": 3.16,
+  "text": "your CloudCode terminal session, and"
+ },
+ {
+  "start": 128.96,
+  "duration": 2.96,
+  "text": "then you can pick it up and continue"
+ },
+ {
+  "start": 130.2,
+  "duration": 3.48,
+  "text": "working from your phone. Now, there's"
+ },
+ {
+  "start": 131.92,
+  "duration": 3.16,
+  "text": "nothing happening in the cloud here."
+ },
+ {
+  "start": 133.68,
+  "duration": 3.36,
+  "text": "Basically, when you've started that"
+ },
+ {
+  "start": 135.08,
+  "duration": 3.24,
+  "text": "remote control session on your machine,"
+ },
+ {
+  "start": 137.04,
+  "duration": 3.56,
+  "text": "Cloud is going to continue to run"
+ },
+ {
+  "start": 138.32,
+  "duration": 4.08,
+  "text": "locally that entire time. That gives"
+ },
+ {
+  "start": 140.6,
+  "duration": 3.44,
+  "text": "remote control the ability to use your"
+ },
+ {
+  "start": 142.4,
+  "duration": 3.68,
+  "text": "full environment, including your file"
+ },
+ {
+  "start": 144.04,
+  "duration": 3.88,
+  "text": "system, MCP servers, tools, and product"
+ },
+ {
+  "start": 146.08,
+  "duration": 3.6,
+  "text": "configurations, and you can go back and"
+ },
+ {
+  "start": 147.92,
+  "duration": 4.12,
+  "text": "forth interchangeably. In the docs, they"
+ },
+ {
+  "start": 149.68,
+  "duration": 4.2,
+  "text": "write, \"Unlike CloudCode on the web,"
+ },
+ {
+  "start": 152.04,
+  "duration": 3.6,
+  "text": "which runs on cloud infrastructure,"
+ },
+ {
+  "start": 153.88,
+  "duration": 3.12,
+  "text": "remote control sessions run directly on"
+ },
+ {
+  "start": 155.64,
+  "duration": 3.44,
+  "text": "your machine and interact with your"
+ },
+ {
+  "start": 157.0,
+  "duration": 4.08,
+  "text": "local file system. The web and mobile"
+ },
+ {
+  "start": 159.08,
+  "duration": 4.24,
+  "text": "interfaces are just a window into that"
+ },
+ {
+  "start": 161.08,
+  "duration": 4.36,
+  "text": "local session. There are three ways to"
+ },
+ {
+  "start": 163.32,
+  "duration": 4.24,
+  "text": "start a remote control session. You can"
+ },
+ {
+  "start": 165.44,
+  "duration": 3.84,
+  "text": "start a dedicated remote control server"
+ },
+ {
+  "start": 167.56,
+  "duration": 3.44,
+  "text": "by navigating to the specific project"
+ },
+ {
+  "start": 169.28,
+  "duration": 2.88,
+  "text": "directory you want to work on and"
+ },
+ {
+  "start": 171.0,
+  "duration": 3.12,
+  "text": "running the Cloud remote control"
+ },
+ {
+  "start": 172.16,
+  "duration": 3.56,
+  "text": "command. From there, Cloud will display"
+ },
+ {
+  "start": 174.12,
+  "duration": 3.32,
+  "text": "a session URL that you can use to"
+ },
+ {
+  "start": 175.72,
+  "duration": 3.68,
+  "text": "connect from another device. You can"
+ },
+ {
+  "start": 177.44,
+  "duration": 3.079,
+  "text": "also press your spacebar to get a QR"
+ },
+ {
+  "start": 179.4,
+  "duration": 3.52,
+  "text": "code that you can access from your"
+ },
+ {
+  "start": 180.519,
+  "duration": 3.841,
+  "text": "phone. An interactive session basically"
+ },
+ {
+  "start": 182.92,
+  "duration": 3.2,
+  "text": "means that you have your option of going"
+ },
+ {
+  "start": 184.36,
+  "duration": 3.48,
+  "text": "back between using terminal as you"
+ },
+ {
+  "start": 186.12,
+  "duration": 3.64,
+  "text": "normally would with CloudCode or using"
+ },
+ {
+  "start": 187.84,
+  "duration": 3.28,
+  "text": "the remote session. So, basically, the"
+ },
+ {
+  "start": 189.76,
+  "duration": 2.92,
+  "text": "difference with server mode is that on"
+ },
+ {
+  "start": 191.12,
+  "duration": 3.28,
+  "text": "server mode, you're just using your"
+ },
+ {
+  "start": 192.68,
+  "duration": 3.12,
+  "text": "mobile device to control CloudCode,"
+ },
+ {
+  "start": 194.4,
+  "duration": 3.92,
+  "text": "whereas interactive, you can go back and"
+ },
+ {
+  "start": 195.8,
+  "duration": 4.2,
+  "text": "forth. Finally, if you are already in a"
+ },
+ {
+  "start": 198.32,
+  "duration": 3.44,
+  "text": "CloudCode session and you want to move"
+ },
+ {
+  "start": 200.0,
+  "duration": 4.04,
+  "text": "to remote, you can use the {slash}"
+ },
+ {
+  "start": 201.76,
+  "duration": 3.759,
+  "text": "remote control command or {slash} RC,"
+ },
+ {
+  "start": 204.04,
+  "duration": 3.24,
+  "text": "and this is going to once again display"
+ },
+ {
+  "start": 205.519,
+  "duration": 3.561,
+  "text": "either a URL or QR code that you can use"
+ },
+ {
+  "start": 207.28,
+  "duration": 3.4,
+  "text": "to connect from another device."
+ },
+ {
+  "start": 209.08,
+  "duration": 3.12,
+  "text": "First impressions were positive."
+ },
+ {
+  "start": 210.68,
+  "duration": 3.04,
+  "text": "Prominent solopreneur Peter Levels"
+ },
+ {
+  "start": 212.2,
+  "duration": 4.24,
+  "text": "wrote, \"Cloud remote control is"
+ },
+ {
+  "start": 213.72,
+  "duration": 4.12,
+  "text": "extremely nice. Can edit on macOS or iOS"
+ },
+ {
+  "start": 216.44,
+  "duration": 3.28,
+  "text": "in Cloud app on my production server"
+ },
+ {
+  "start": 217.84,
+  "duration": 4.399,
+  "text": "from anywhere.\" He basically compared it"
+ },
+ {
+  "start": 219.72,
+  "duration": 4.12,
+  "text": "favorably to an SSH session, which would"
+ },
+ {
+  "start": 222.239,
+  "duration": 3.321,
+  "text": "be another more technically complex way"
+ },
+ {
+  "start": 223.84,
+  "duration": 3.72,
+  "text": "to log into your local device to control"
+ },
+ {
+  "start": 225.56,
+  "duration": 3.0,
+  "text": "it while on the go. Roman Mirzoyan"
+ },
+ {
+  "start": 227.56,
+  "duration": 2.44,
+  "text": "writes,"
+ },
+ {
+  "start": 228.56,
+  "duration": 2.72,
+  "text": "\"Yesterday I fixed two bugs and then"
+ },
+ {
+  "start": 230.0,
+  "duration": 2.88,
+  "text": "released an app update to the App Store"
+ },
+ {
+  "start": 231.28,
+  "duration": 3.6,
+  "text": "without touching my laptop and having a"
+ },
+ {
+  "start": 232.88,
+  "duration": 3.72,
+  "text": "walk for half a day. Now, as time has"
+ },
+ {
+  "start": 234.88,
+  "duration": 2.92,
+  "text": "gone on, people started to realize that"
+ },
+ {
+  "start": 236.6,
+  "duration": 3.12,
+  "text": "this was a bigger shift than they might"
+ },
+ {
+  "start": 237.8,
+  "duration": 4.24,
+  "text": "have originally thought. Gagan Soluja"
+ },
+ {
+  "start": 239.72,
+  "duration": 4.12,
+  "text": "writes, \"Claude code remote control just"
+ },
+ {
+  "start": 242.04,
+  "duration": 3.2,
+  "text": "clicked for me. You kick off a task in"
+ },
+ {
+  "start": 243.84,
+  "duration": 3.08,
+  "text": "the terminal, then pick it up from your"
+ },
+ {
+  "start": 245.24,
+  "duration": 3.56,
+  "text": "phone on a walk. That's not a"
+ },
+ {
+  "start": 246.92,
+  "duration": 4.16,
+  "text": "productivity feature. That's a"
+ },
+ {
+  "start": 248.8,
+  "duration": 3.96,
+  "text": "relationship shift. You stop thinking of"
+ },
+ {
+  "start": 251.08,
+  "duration": 3.24,
+  "text": "it as a tool you operate and start"
+ },
+ {
+  "start": 252.76,
+  "duration": 3.759,
+  "text": "thinking of it as something you delegate"
+ },
+ {
+  "start": 254.32,
+  "duration": 4.28,
+  "text": "to and check in with. Different mental"
+ },
+ {
+  "start": 256.519,
+  "duration": 3.361,
+  "text": "model entirely.\" I think that that's"
+ },
+ {
+  "start": 258.6,
+  "duration": 3.28,
+  "text": "right, and I think that most people are"
+ },
+ {
+  "start": 259.88,
+  "duration": 3.92,
+  "text": "still just slowly coming to that"
+ },
+ {
+  "start": 261.88,
+  "duration": 4.16,
+  "text": "realization because it's one you kind of"
+ },
+ {
+  "start": 263.8,
+  "duration": 3.88,
+  "text": "have to live, not just hear about."
+ },
+ {
+  "start": 266.04,
+  "duration": 3.28,
+  "text": "Next up, a couple weeks later, we got a"
+ },
+ {
+  "start": 267.68,
+  "duration": 3.96,
+  "text": "different way to interact with Claude"
+ },
+ {
+  "start": 269.32,
+  "duration": 5.08,
+  "text": "from afar. This feature was for Claude"
+ },
+ {
+  "start": 271.64,
+  "duration": 4.68,
+  "text": "co-work and called dispatch. Anthropic's"
+ },
+ {
+  "start": 274.4,
+  "duration": 3.48,
+  "text": "Felix Riesberg writes, \"We're shipping a"
+ },
+ {
+  "start": 276.32,
+  "duration": 3.44,
+  "text": "new feature in Claude co-work as a"
+ },
+ {
+  "start": 277.88,
+  "duration": 4.16,
+  "text": "research preview that I'm excited about,"
+ },
+ {
+  "start": 279.76,
+  "duration": 4.12,
+  "text": "dispatch. One persistent conversation"
+ },
+ {
+  "start": 282.04,
+  "duration": 3.52,
+  "text": "with Claude that runs on your computer."
+ },
+ {
+  "start": 283.88,
+  "duration": 3.44,
+  "text": "Message it from your phone, come back to"
+ },
+ {
+  "start": 285.56,
+  "duration": 3.48,
+  "text": "finished work.\" Felix then went on to"
+ },
+ {
+  "start": 287.32,
+  "duration": 3.48,
+  "text": "explain a little bit further. \"Because"
+ },
+ {
+  "start": 289.04,
+  "duration": 3.72,
+  "text": "it's co-work,\" he writes, \"Claude runs"
+ },
+ {
+  "start": 290.8,
+  "duration": 3.68,
+  "text": "code in a sandbox on your machine. Your"
+ },
+ {
+  "start": 292.76,
+  "duration": 3.88,
+  "text": "files stay local, you approve what"
+ },
+ {
+  "start": 294.48,
+  "duration": 3.64,
+  "text": "Claude touches before it acts. It feels"
+ },
+ {
+  "start": 296.64,
+  "duration": 2.88,
+  "text": "pretty magical to give Claude a mission"
+ },
+ {
+  "start": 298.12,
+  "duration": 2.72,
+  "text": "on my computer and get occasional"
+ },
+ {
+  "start": 299.52,
+  "duration": 2.76,
+  "text": "updates like creating reports from"
+ },
+ {
+  "start": 300.84,
+  "duration": 2.8,
+  "text": "internal dashboards or finding me a"
+ },
+ {
+  "start": 302.28,
+  "duration": 2.88,
+  "text": "better seat on my next flight."
+ },
+ {
+  "start": 303.64,
+  "duration": 3.44,
+  "text": "Everything Claude can do on your"
+ },
+ {
+  "start": 305.16,
+  "duration": 3.759,
+  "text": "computer, files, browsers, tools are"
+ },
+ {
+  "start": 307.08,
+  "duration": 3.28,
+  "text": "reachable from wherever you are. Now,"
+ },
+ {
+  "start": 308.919,
+  "duration": 3.561,
+  "text": "one constraint,\" Felix writes, \"is that"
+ },
+ {
+  "start": 310.36,
+  "duration": 4.0,
+  "text": "your desktop has to be running.\" Claude"
+ },
+ {
+  "start": 312.48,
+  "duration": 3.8,
+  "text": "code PM Noa Weiman also talked about"
+ },
+ {
+  "start": 314.36,
+  "duration": 4.08,
+  "text": "dispatch. \"Coolest abilities,\" he"
+ },
+ {
+  "start": 316.28,
+  "duration": 3.68,
+  "text": "writes, \"one, send files from local"
+ },
+ {
+  "start": 318.44,
+  "duration": 3.6,
+  "text": "machine so you can work on PowerPoints"
+ },
+ {
+  "start": 319.96,
+  "duration": 4.04,
+  "text": "on the go. Two, spawn sub-sessions on"
+ },
+ {
+  "start": 322.04,
+  "duration": 3.52,
+  "text": "desktop that you can drill down on."
+ },
+ {
+  "start": 324.0,
+  "duration": 3.4,
+  "text": "Three, chat about any local co-work"
+ },
+ {
+  "start": 325.56,
+  "duration": 3.44,
+  "text": "session.\" In the docs, they explain a"
+ },
+ {
+  "start": 327.4,
+  "duration": 3.64,
+  "text": "little bit more about how this works."
+ },
+ {
+  "start": 329.0,
+  "duration": 3.88,
+  "text": "Anthropic writes, \"Instead of starting a"
+ },
+ {
+  "start": 331.04,
+  "duration": 3.76,
+  "text": "new session for each task, you have a"
+ },
+ {
+  "start": 332.88,
+  "duration": 3.72,
+  "text": "single persistent thread with Claude."
+ },
+ {
+  "start": 334.8,
+  "duration": 3.68,
+  "text": "This thread doesn't reset. Claude"
+ },
+ {
+  "start": 336.6,
+  "duration": 3.56,
+  "text": "retains context from previous tasks so"
+ },
+ {
+  "start": 338.48,
+  "duration": 2.92,
+  "text": "you can pick up where you left off."
+ },
+ {
+  "start": 340.16,
+  "duration": 2.84,
+  "text": "Message Claude from your phone on the"
+ },
+ {
+  "start": 341.4,
+  "duration": 3.56,
+  "text": "way to work, then follow up from your"
+ },
+ {
+  "start": 343.0,
+  "duration": 3.8,
+  "text": "desktop when you sit down. It's the same"
+ },
+ {
+  "start": 344.96,
+  "duration": 4.16,
+  "text": "conversation, same context wherever you"
+ },
+ {
+  "start": 346.8,
+  "duration": 3.88,
+  "text": "reach it. When you assign a task, Claude"
+ },
+ {
+  "start": 349.12,
+  "duration": 3.04,
+  "text": "figures out what kind of work is needed"
+ },
+ {
+  "start": 350.68,
+  "duration": 3.4,
+  "text": "and spins up the right session."
+ },
+ {
+  "start": 352.16,
+  "duration": 3.72,
+  "text": "Development tasks running Claude code,"
+ },
+ {
+  "start": 354.08,
+  "duration": 3.04,
+  "text": "knowledge work runs in co-work. These"
+ },
+ {
+  "start": 355.88,
+  "duration": 3.44,
+  "text": "sessions appear in their respective"
+ },
+ {
+  "start": 357.12,
+  "duration": 3.68,
+  "text": "sidebars. You can click into any session"
+ },
+ {
+  "start": 359.32,
+  "duration": 3.28,
+  "text": "for details or wait for the result in"
+ },
+ {
+  "start": 360.8,
+  "duration": 3.56,
+  "text": "the thread. Claude messages you the"
+ },
+ {
+  "start": 362.6,
+  "duration": 3.96,
+  "text": "outcome, a spreadsheet, a memo, a"
+ },
+ {
+  "start": 364.36,
+  "duration": 3.24,
+  "text": "comparison table, a pull request, rather"
+ },
+ {
+  "start": 366.56,
+  "duration": 3.08,
+  "text": "than showing you every step of the"
+ },
+ {
+  "start": 367.6,
+  "duration": 3.56,
+  "text": "process. You'll get a push notification"
+ },
+ {
+  "start": 369.64,
+  "duration": 3.64,
+  "text": "on your phone when a task is done or"
+ },
+ {
+  "start": 371.16,
+  "duration": 4.44,
+  "text": "when Claude needs your go-ahead. Now,"
+ },
+ {
+  "start": 373.28,
+  "duration": 4.44,
+  "text": "like with remote control, power users"
+ },
+ {
+  "start": 375.6,
+  "duration": 3.52,
+  "text": "who really started to dig into dispatch"
+ },
+ {
+  "start": 377.72,
+  "duration": 3.68,
+  "text": "found that it was not just a shift in"
+ },
+ {
+  "start": 379.12,
+  "duration": 4.36,
+  "text": "scale, but a shift in kind. Pavel Huryn"
+ },
+ {
+  "start": 381.4,
+  "duration": 3.96,
+  "text": "writes, \"Dispatch didn't fill my dead"
+ },
+ {
+  "start": 383.48,
+  "duration": 3.68,
+  "text": "time, it changed how I structured my"
+ },
+ {
+  "start": 385.36,
+  "duration": 3.4,
+  "text": "day. I went to the jump arena with my"
+ },
+ {
+  "start": 387.16,
+  "duration": 3.6,
+  "text": "kid because I could direct work async"
+ },
+ {
+  "start": 388.76,
+  "duration": 4.24,
+  "text": "from the sidelines. The model isn't"
+ },
+ {
+  "start": 390.76,
+  "duration": 3.68,
+  "text": "grind during gaps, it's design your day"
+ },
+ {
+  "start": 393.0,
+  "duration": 3.2,
+  "text": "differently because the work runs"
+ },
+ {
+  "start": 394.44,
+  "duration": 3.6,
+  "text": "without you sitting in front of it.\" He"
+ },
+ {
+  "start": 396.2,
+  "duration": 3.48,
+  "text": "also wrote an article after 48 hours of"
+ },
+ {
+  "start": 398.04,
+  "duration": 3.64,
+  "text": "experimenting. And one thing that he"
+ },
+ {
+  "start": 399.68,
+  "duration": 4.12,
+  "text": "points out is that dispatch is not"
+ },
+ {
+  "start": 401.68,
+  "duration": 3.84,
+  "text": "Claude chat on your phone. Dispatch, he"
+ },
+ {
+  "start": 403.8,
+  "duration": 3.24,
+  "text": "writes, is an orchestrator. From a"
+ },
+ {
+  "start": 405.52,
+  "duration": 3.399,
+  "text": "single conversation on your phone, you"
+ },
+ {
+  "start": 407.04,
+  "duration": 3.52,
+  "text": "spawn and manage multiple co-work task"
+ },
+ {
+  "start": 408.919,
+  "duration": 3.201,
+  "text": "sessions running simultaneously on your"
+ },
+ {
+  "start": 410.56,
+  "duration": 3.76,
+  "text": "desktop. Each session runs"
+ },
+ {
+  "start": 412.12,
+  "duration": 4.2,
+  "text": "independently, its own context, its own"
+ },
+ {
+  "start": 414.32,
+  "duration": 3.96,
+  "text": "file access, its own connectors. Your"
+ },
+ {
+  "start": 416.32,
+  "duration": 3.56,
+  "text": "phone is the command chair, your desktop"
+ },
+ {
+  "start": 418.28,
+  "duration": 2.88,
+  "text": "does the heavy lifting. Think of the"
+ },
+ {
+  "start": 419.88,
+  "duration": 3.24,
+  "text": "difference between texting someone a"
+ },
+ {
+  "start": 421.16,
+  "duration": 3.92,
+  "text": "request and sitting in a control room"
+ },
+ {
+  "start": 423.12,
+  "duration": 4.0,
+  "text": "with multiple screens. Each screen is a"
+ },
+ {
+  "start": 425.08,
+  "duration": 3.28,
+  "text": "task session running on your desktop."
+ },
+ {
+  "start": 427.12,
+  "duration": 3.04,
+  "text": "Your phone directs them all from one"
+ },
+ {
+  "start": 428.36,
+  "duration": 3.68,
+  "text": "conversation thread. So, what are the"
+ },
+ {
+  "start": 430.16,
+  "duration": 4.08,
+  "text": "types of tasks he did? During morning"
+ },
+ {
+  "start": 432.04,
+  "duration": 3.52,
+  "text": "coffee at home, Pavel started with pull"
+ },
+ {
+  "start": 434.24,
+  "duration": 3.16,
+  "text": "the latest competitor updates and"
+ },
+ {
+  "start": 435.56,
+  "duration": 3.44,
+  "text": "summarize changes since last week, as"
+ },
+ {
+  "start": 437.4,
+  "duration": 3.88,
+  "text": "well as draft the sponsor collaboration"
+ },
+ {
+  "start": 439.0,
+  "duration": 4.28,
+  "text": "page using Notion database. While he was"
+ },
+ {
+  "start": 441.28,
+  "duration": 3.96,
+  "text": "walking the dog, he checked task one,"
+ },
+ {
+  "start": 443.28,
+  "duration": 3.6,
+  "text": "the competitor summary. He followed up"
+ },
+ {
+  "start": 445.24,
+  "duration": 3.52,
+  "text": "with add a comparison table against our"
+ },
+ {
+  "start": 446.88,
+  "duration": 4.039,
+  "text": "current road map. The redirect, he"
+ },
+ {
+  "start": 448.76,
+  "duration": 3.36,
+  "text": "points out, took 10 seconds one-handed."
+ },
+ {
+  "start": 450.919,
+  "duration": 2.921,
+  "text": "While in the passenger seat with his"
+ },
+ {
+  "start": 452.12,
+  "duration": 3.76,
+  "text": "wife driving, he reviewed the new"
+ },
+ {
+  "start": 453.84,
+  "duration": 3.8,
+  "text": "sponsor Notion page. \"Too formal,\" he"
+ },
+ {
+  "start": 455.88,
+  "duration": 3.16,
+  "text": "said, \"pull the engagement metrics from"
+ },
+ {
+  "start": 457.64,
+  "duration": 3.36,
+  "text": "the last campaign and make the value"
+ },
+ {
+  "start": 459.04,
+  "duration": 3.84,
+  "text": "proposition sharper.\" He also started"
+ },
+ {
+  "start": 461.0,
+  "duration": 3.08,
+  "text": "task three, gap analysis on the article"
+ },
+ {
+  "start": 462.88,
+  "duration": 2.96,
+  "text": "draft."
+ },
+ {
+  "start": 464.08,
+  "duration": 3.12,
+  "text": "While at the jump arena with his kids,"
+ },
+ {
+  "start": 465.84,
+  "duration": 3.76,
+  "text": "he started working on infographic"
+ },
+ {
+  "start": 467.2,
+  "duration": 4.36,
+  "text": "iterations. Move the icons left, change"
+ },
+ {
+  "start": 469.6,
+  "duration": 3.48,
+  "text": "the color of the third section."
+ },
+ {
+  "start": 471.56,
+  "duration": 2.92,
+  "text": "Finally, when back at his desk,"
+ },
+ {
+  "start": 473.08,
+  "duration": 3.24,
+  "text": "everything was waiting and he reviewed,"
+ },
+ {
+  "start": 474.48,
+  "duration": 3.28,
+  "text": "adjusted, and shipped. Ultimately, he"
+ },
+ {
+  "start": 476.32,
+  "duration": 3.24,
+  "text": "writes, \"The actual direction time"
+ },
+ {
+  "start": 477.76,
+  "duration": 3.6,
+  "text": "across all of these gaps was maybe 25"
+ },
+ {
+  "start": 479.56,
+  "duration": 3.52,
+  "text": "minutes total. The Claude execution"
+ },
+ {
+  "start": 481.36,
+  "duration": 3.84,
+  "text": "running in parallel was 3 plus hours of"
+ },
+ {
+  "start": 483.08,
+  "duration": 4.08,
+  "text": "work.\" Even Malek also had a positive"
+ },
+ {
+  "start": 485.2,
+  "duration": 3.8,
+  "text": "experience with dispatch. He writes,"
+ },
+ {
+  "start": 487.16,
+  "duration": 3.8,
+  "text": "\"After using it a bit, Claude co-work"
+ },
+ {
+  "start": 489.0,
+  "duration": 3.88,
+  "text": "dispatch covers 90% of what I was trying"
+ },
+ {
+  "start": 490.96,
+  "duration": 3.76,
+  "text": "to use Open Claude for, but feels far"
+ },
+ {
+  "start": 492.88,
+  "duration": 3.96,
+  "text": "less likely to upload my entire drive to"
+ },
+ {
+  "start": 494.72,
+  "duration": 3.92,
+  "text": "a malware site.\" \"What I like better,\""
+ },
+ {
+  "start": 496.84,
+  "duration": 3.4,
+  "text": "he writes, \"easy, much more stable and"
+ },
+ {
+  "start": 498.64,
+  "duration": 3.36,
+  "text": "safe, existing connectors mean better"
+ },
+ {
+  "start": 500.24,
+  "duration": 3.84,
+  "text": "integration with Gmail, browsers, etc."
+ },
+ {
+  "start": 502.0,
+  "duration": 4.04,
+  "text": "Very good tool use. What's missing for"
+ },
+ {
+  "start": 504.08,
+  "duration": 3.8,
+  "text": "me? The ability to invite Claude to any"
+ },
+ {
+  "start": 506.04,
+  "duration": 3.72,
+  "text": "channel, the heartbeat and proactivity,"
+ },
+ {
+  "start": 507.88,
+  "duration": 3.8,
+  "text": "and the multiple sessions.\""
+ },
+ {
+  "start": 509.76,
+  "duration": 4.12,
+  "text": "Now, if that was all, that would already"
+ },
+ {
+  "start": 511.68,
+  "duration": 4.12,
+  "text": "be a huge amount of new interactive"
+ },
+ {
+  "start": 513.88,
+  "duration": 3.44,
+  "text": "modalities to ingest and change how we"
+ },
+ {
+  "start": 515.8,
+  "duration": 4.0,
+  "text": "were interacting with Claude co-work and"
+ },
+ {
+  "start": 517.32,
+  "duration": 4.719,
+  "text": "Claude code. But, we are not done yet."
+ },
+ {
+  "start": 519.8,
+  "duration": 4.08,
+  "text": "Next up, we got Claude code channels,"
+ },
+ {
+  "start": 522.039,
+  "duration": 3.241,
+  "text": "which is basically Claude code's answer"
+ },
+ {
+  "start": 523.88,
+  "duration": 3.64,
+  "text": "to the Open Claude interaction of"
+ },
+ {
+  "start": 525.28,
+  "duration": 3.6,
+  "text": "talking to it via Telegram. Anthropic's"
+ },
+ {
+  "start": 527.52,
+  "duration": 2.84,
+  "text": "Tarek writes,"
+ },
+ {
+  "start": 528.88,
+  "duration": 2.92,
+  "text": "\"We just released Claude code channels,"
+ },
+ {
+  "start": 530.36,
+  "duration": 3.44,
+  "text": "which allows you to control your Claude"
+ },
+ {
+  "start": 531.8,
+  "duration": 3.96,
+  "text": "code session through select MCPs,"
+ },
+ {
+  "start": 533.8,
+  "duration": 3.48,
+  "text": "starting with Telegram and Discord.\" In"
+ },
+ {
+  "start": 535.76,
+  "duration": 3.96,
+  "text": "the docs, they write,"
+ },
+ {
+  "start": 537.28,
+  "duration": 4.16,
+  "text": "\"A channel is an MCP server that pushes"
+ },
+ {
+  "start": 539.72,
+  "duration": 4.0,
+  "text": "events into your running Claude code"
+ },
+ {
+  "start": 541.44,
+  "duration": 3.56,
+  "text": "session, so Claude can react to things"
+ },
+ {
+  "start": 543.72,
+  "duration": 3.8,
+  "text": "that happen while you're not at the"
+ },
+ {
+  "start": 545.0,
+  "duration": 4.28,
+  "text": "terminal. Channels can be two-way."
+ },
+ {
+  "start": 547.52,
+  "duration": 3.16,
+  "text": "Claude reads the event and replies back"
+ },
+ {
+  "start": 549.28,
+  "duration": 3.6,
+  "text": "through the same channel like a chat"
+ },
+ {
+  "start": 550.68,
+  "duration": 3.48,
+  "text": "bridge. Unlike integrations that spawn a"
+ },
+ {
+  "start": 552.88,
+  "duration": 3.16,
+  "text": "fresh Claude session or wait to be"
+ },
+ {
+  "start": 554.16,
+  "duration": 4.2,
+  "text": "pulled, the event arrives in the session"
+ },
+ {
+  "start": 556.04,
+  "duration": 3.92,
+  "text": "you already have open.\" When Larry Velez"
+ },
+ {
+  "start": 558.36,
+  "duration": 3.479,
+  "text": "asked, \"How is this better than"
+ },
+ {
+  "start": 559.96,
+  "duration": 4.2,
+  "text": "dispatch? Or it's just an alternative to"
+ },
+ {
+  "start": 561.839,
+  "duration": 3.481,
+  "text": "dispatch?\" Tarek writes,"
+ },
+ {
+  "start": 564.16,
+  "duration": 2.52,
+  "text": "\"We want to give you a lot of different"
+ },
+ {
+  "start": 565.32,
+  "duration": 3.4,
+  "text": "options on how you talk to Claude"
+ },
+ {
+  "start": 566.68,
+  "duration": 3.96,
+  "text": "remotely. Channels is more focused on"
+ },
+ {
+  "start": 568.72,
+  "duration": 3.32,
+  "text": "devs who want something hackable.\" Now,"
+ },
+ {
+  "start": 570.64,
+  "duration": 3.8,
+  "text": "just to add a little bit of clarity"
+ },
+ {
+  "start": 572.04,
+  "duration": 3.64,
+  "text": "here, we see Telegram and we just think"
+ },
+ {
+  "start": 574.44,
+  "duration": 3.36,
+  "text": "about ourselves chatting with Claude"
+ },
+ {
+  "start": 575.68,
+  "duration": 4.44,
+  "text": "code. But, the whole idea of channels is"
+ },
+ {
+  "start": 577.8,
+  "duration": 4.48,
+  "text": "that it's not just chats from you. Yes,"
+ },
+ {
+  "start": 580.12,
+  "duration": 4.2,
+  "text": "that is one type of interaction, but you"
+ },
+ {
+  "start": 582.28,
+  "duration": 4.4,
+  "text": "can also connect other services like,"
+ },
+ {
+  "start": 584.32,
+  "duration": 4.12,
+  "text": "for example, Century monitoring directly"
+ },
+ {
+  "start": 586.68,
+  "duration": 3.92,
+  "text": "to Claude Code via those channels in"
+ },
+ {
+  "start": 588.44,
+  "duration": 4.24,
+  "text": "Telegram or Discord, so that Claude can"
+ },
+ {
+  "start": 590.6,
+  "duration": 4.04,
+  "text": "react even while you're not there."
+ },
+ {
+  "start": 592.68,
+  "duration": 3.92,
+  "text": "Damian Galarza writes, \"Instead of"
+ },
+ {
+  "start": 594.64,
+  "duration": 3.56,
+  "text": "Claude pulling data via tool calls,"
+ },
+ {
+  "start": 596.6,
+  "duration": 4.0,
+  "text": "channels push events into the session"
+ },
+ {
+  "start": 598.2,
+  "duration": 4.04,
+  "text": "from the outside. CI failures, webhook"
+ },
+ {
+  "start": 600.6,
+  "duration": 3.52,
+  "text": "payloads, monitoring alerts, chat"
+ },
+ {
+  "start": 602.24,
+  "duration": 3.72,
+  "text": "messages from Telegram or Discord."
+ },
+ {
+  "start": 604.12,
+  "duration": 3.44,
+  "text": "Anything that can send and post can now"
+ },
+ {
+  "start": 605.96,
+  "duration": 3.8,
+  "text": "reach your running session. And it"
+ },
+ {
+  "start": 607.56,
+  "duration": 3.6,
+  "text": "definitely seems like of these, channels"
+ },
+ {
+  "start": 609.76,
+  "duration": 4.08,
+  "text": "is on the farthest end of the technical"
+ },
+ {
+  "start": 611.16,
+  "duration": 4.08,
+  "text": "spectrum.\" Dario on Twitter writes, \"If"
+ },
+ {
+  "start": 613.84,
+  "duration": 3.12,
+  "text": "you missed it, channels are essentially"
+ },
+ {
+  "start": 615.24,
+  "duration": 3.32,
+  "text": "MCP servers that push events into a"
+ },
+ {
+  "start": 616.96,
+  "duration": 2.88,
+  "text": "Claude Code session, letting Claude"
+ },
+ {
+  "start": 618.56,
+  "duration": 3.12,
+  "text": "react to the outside world beyond the"
+ },
+ {
+  "start": 619.84,
+  "duration": 3.32,
+  "text": "terminal. This was the exact missing"
+ },
+ {
+  "start": 621.68,
+  "duration": 3.84,
+  "text": "piece I needed for an idea I've been"
+ },
+ {
+  "start": 623.16,
+  "duration": 4.04,
+  "text": "brewing. My goal was twofold. Build a"
+ },
+ {
+  "start": 625.52,
+  "duration": 3.68,
+  "text": "custom orchestration system to spawn"
+ },
+ {
+  "start": 627.2,
+  "duration": 4.32,
+  "text": "Claude Code sessions anywhere, Docker,"
+ },
+ {
+  "start": 629.2,
+  "duration": 4.44,
+  "text": "VMs, pods, or locally on my MacBook, and"
+ },
+ {
+  "start": 631.52,
+  "duration": 4.16,
+  "text": "then create a custom app across macOS,"
+ },
+ {
+  "start": 633.64,
+  "duration": 4.64,
+  "text": "iOS, and iPadOS to control these agents"
+ },
+ {
+  "start": 635.68,
+  "duration": 4.64,
+  "text": "on the go. Fast forward to today, just 4"
+ },
+ {
+  "start": 638.28,
+  "duration": 3.92,
+  "text": "days after channels dropped, and the iOS"
+ },
+ {
+  "start": 640.32,
+  "duration": 3.28,
+  "text": "app is already up and running. I have so"
+ },
+ {
+  "start": 642.2,
+  "duration": 3.84,
+  "text": "many more ideas on how to tweak and"
+ },
+ {
+  "start": 643.6,
+  "duration": 3.64,
+  "text": "expand this to fit my exact workflow."
+ },
+ {
+  "start": 646.04,
+  "duration": 2.52,
+  "text": "Now, at this point, you'd be forgiven"
+ },
+ {
+  "start": 647.24,
+  "duration": 3.2,
+  "text": "for getting a little confused cuz we're"
+ },
+ {
+  "start": 648.56,
+  "duration": 3.88,
+  "text": "talking about all these new ways to use"
+ },
+ {
+  "start": 650.44,
+  "duration": 3.96,
+  "text": "Claude Co-work and Claude Code remotely,"
+ },
+ {
+  "start": 652.44,
+  "duration": 3.04,
+  "text": "all with slight variations on the theme."
+ },
+ {
+  "start": 654.4,
+  "duration": 3.08,
+  "text": "This is kind of why you're going to want"
+ },
+ {
+  "start": 655.48,
+  "duration": 3.92,
+  "text": "to go hack at all of these to understand"
+ },
+ {
+  "start": 657.48,
+  "duration": 4.96,
+  "text": "how they fit your own use cases, but I"
+ },
+ {
+  "start": 659.4,
+  "duration": 4.88,
+  "text": "think one big takeaway is an aggregate"
+ },
+ {
+  "start": 662.44,
+  "duration": 3.88,
+  "text": "massive shift in how Anthropic is"
+ },
+ {
+  "start": 664.28,
+  "duration": 3.64,
+  "text": "imagining how you're going to be working"
+ },
+ {
+  "start": 666.32,
+  "duration": 4.12,
+  "text": "with Claude in the future. And"
+ },
+ {
+  "start": 667.92,
+  "duration": 4.12,
+  "text": "effectively, the idea is an always-on,"
+ },
+ {
+  "start": 670.44,
+  "duration": 4.24,
+  "text": "context-maintaining,"
+ },
+ {
+  "start": 672.04,
+  "duration": 4.84,
+  "text": "persistent, interactive orchestration"
+ },
+ {
+  "start": 674.68,
+  "duration": 4.12,
+  "text": "experience where work is happening all"
+ },
+ {
+  "start": 676.88,
+  "duration": 3.52,
+  "text": "the time, even when you're not doing it,"
+ },
+ {
+  "start": 678.8,
+  "duration": 3.56,
+  "text": "with the right way to interact with that"
+ },
+ {
+  "start": 680.4,
+  "duration": 4.0,
+  "text": "work from wherever you are and whatever"
+ },
+ {
+  "start": 682.36,
+  "duration": 4.36,
+  "text": "your use case is. In addition to those"
+ },
+ {
+  "start": 684.4,
+  "duration": 3.72,
+  "text": "features, we also saw Anthropic go after"
+ },
+ {
+  "start": 686.72,
+  "duration": 3.2,
+  "text": "parity with open claw when it came to"
+ },
+ {
+  "start": 688.12,
+  "duration": 4.04,
+  "text": "scheduling tasks. At the end of"
+ },
+ {
+  "start": 689.92,
+  "duration": 3.84,
+  "text": "February, Co-work got scheduled tasks."
+ },
+ {
+  "start": 692.16,
+  "duration": 3.0,
+  "text": "Think a morning briefing, weekly"
+ },
+ {
+  "start": 693.76,
+  "duration": 3.16,
+  "text": "spreadsheet updates, or Friday team"
+ },
+ {
+  "start": 695.16,
+  "duration": 3.96,
+  "text": "presentations. Then about a week and a"
+ },
+ {
+  "start": 696.92,
+  "duration": 4.2,
+  "text": "half later, we got local scheduled tasks"
+ },
+ {
+  "start": 699.12,
+  "duration": 3.64,
+  "text": "in Claude Code desktop. Turic said that"
+ },
+ {
+  "start": 701.12,
+  "duration": 3.32,
+  "text": "his favorite use case is to ask it to"
+ },
+ {
+  "start": 702.76,
+  "duration": 4.0,
+  "text": "check error logs every few hours and"
+ },
+ {
+  "start": 704.44,
+  "duration": 4.12,
+  "text": "create PRs for any actionable errors."
+ },
+ {
+  "start": 706.76,
+  "duration": 3.92,
+  "text": "Now, because these tasks are local, they"
+ },
+ {
+  "start": 708.56,
+  "duration": 3.92,
+  "text": "run as long as your computer is awake."
+ },
+ {
+  "start": 710.68,
+  "duration": 4.04,
+  "text": "But then a couple weeks after that, we"
+ },
+ {
+  "start": 712.48,
+  "duration": 5.92,
+  "text": "got recurring cloud-based tasks. or"
+ },
+ {
+  "start": 714.72,
+  "duration": 5.92,
+  "text": "repos a schedule"
+ },
+ {
+  "start": 718.4,
+  "duration": 3.96,
+  "text": "and a prompt. Claude runs it via cloud"
+ },
+ {
+  "start": 720.64,
+  "duration": 3.08,
+  "text": "infra on your schedule so you don't need"
+ },
+ {
+  "start": 722.36,
+  "duration": 3.36,
+  "text": "to keep Claude Code running on your"
+ },
+ {
+  "start": 723.72,
+  "duration": 3.6,
+  "text": "local machine. He said that so far the"
+ },
+ {
+  "start": 725.72,
+  "duration": 3.64,
+  "text": "Claude Code team had found it useful for"
+ },
+ {
+  "start": 727.32,
+  "duration": 4.04,
+  "text": "things like sweeping through open PRs,"
+ },
+ {
+  "start": 729.36,
+  "duration": 4.04,
+  "text": "building features from approved issues,"
+ },
+ {
+  "start": 731.36,
+  "duration": 4.48,
+  "text": "analyzing CI failures overnight, and"
+ },
+ {
+  "start": 733.4,
+  "duration": 3.68,
+  "text": "syncing docs based on newly merged PRs."
+ },
+ {
+  "start": 735.84,
+  "duration": 3.4,
+  "text": "And if you're wondering if this had to"
+ },
+ {
+  "start": 737.08,
+  "duration": 3.12,
+  "text": "do with open claw, in another tweet Noah"
+ },
+ {
+  "start": 739.24,
+  "duration": 2.52,
+  "text": "said,"
+ },
+ {
+  "start": 740.2,
+  "duration": 3.08,
+  "text": "\"Some might say I built this because I"
+ },
+ {
+  "start": 741.76,
+  "duration": 4.16,
+  "text": "couldn't figure out how to set up my Mac"
+ },
+ {
+  "start": 743.28,
+  "duration": 4.76,
+  "text": "mini.\" And yet, in terms of sheer"
+ },
+ {
+  "start": 745.92,
+  "duration": 4.04,
+  "text": "consumer excitement, all of these were"
+ },
+ {
+  "start": 748.04,
+  "duration": 3.48,
+  "text": "just prelude to what was announced on"
+ },
+ {
+  "start": 749.96,
+  "duration": 3.56,
+  "text": "Monday night. The official Claude"
+ },
+ {
+  "start": 751.52,
+  "duration": 4.16,
+  "text": "account on Twitter writes, \"You can now"
+ },
+ {
+  "start": 753.52,
+  "duration": 4.68,
+  "text": "enable Claude to use your computer to"
+ },
+ {
+  "start": 755.68,
+  "duration": 4.08,
+  "text": "complete tasks. It opens your app,"
+ },
+ {
+  "start": 758.2,
+  "duration": 3.44,
+  "text": "navigates your browser, fills in"
+ },
+ {
+  "start": 759.76,
+  "duration": 4.68,
+  "text": "spreadsheets, anything you'd do sitting"
+ },
+ {
+  "start": 761.64,
+  "duration": 5.4,
+  "text": "at your desk.\" About 16 hours after that"
+ },
+ {
+  "start": 764.44,
+  "duration": 5.48,
+  "text": "tweet went live, 40 million people have"
+ },
+ {
+  "start": 767.04,
+  "duration": 5.44,
+  "text": "viewed it. 62,000 people have bookmarked"
+ },
+ {
+  "start": 769.92,
+  "duration": 4.64,
+  "text": "it, and the chatter is overwhelming."
+ },
+ {
+  "start": 772.48,
+  "duration": 3.359,
+  "text": "Anthropic's Felix Rusburg writes,"
+ },
+ {
+  "start": 774.56,
+  "duration": 3.04,
+  "text": "\"Today we're releasing a feature that"
+ },
+ {
+  "start": 775.839,
+  "duration": 3.361,
+  "text": "allows Claude to control your computer,"
+ },
+ {
+  "start": 777.6,
+  "duration": 3.76,
+  "text": "mouse, keyboard, and screen, giving it"
+ },
+ {
+  "start": 779.2,
+  "duration": 3.72,
+  "text": "the ability to use any app.\" Now, he"
+ },
+ {
+  "start": 781.36,
+  "duration": 3.56,
+  "text": "also points out that these features"
+ },
+ {
+  "start": 782.92,
+  "duration": 3.4,
+  "text": "shouldn't be viewed in isolation. Felix"
+ },
+ {
+  "start": 784.92,
+  "duration": 3.32,
+  "text": "writes, \"I believe this is especially"
+ },
+ {
+  "start": 786.32,
+  "duration": 3.48,
+  "text": "useful if used with dispatch, which"
+ },
+ {
+  "start": 788.24,
+  "duration": 3.2,
+  "text": "allows you to remotely control Claude on"
+ },
+ {
+  "start": 789.8,
+  "duration": 2.96,
+  "text": "your computer while you're away.\" In"
+ },
+ {
+  "start": 791.44,
+  "duration": 3.32,
+  "text": "their announcement blog, Anthropic"
+ },
+ {
+  "start": 792.76,
+  "duration": 3.48,
+  "text": "writes, \"When Claude doesn't have access"
+ },
+ {
+  "start": 794.76,
+  "duration": 2.6,
+  "text": "to the tools it needs, it will point,"
+ },
+ {
+  "start": 796.24,
+  "duration": 3.28,
+  "text": "click, and navigate what's on your"
+ },
+ {
+  "start": 797.36,
+  "duration": 3.84,
+  "text": "screen to perform the task itself. It"
+ },
+ {
+  "start": 799.52,
+  "duration": 3.44,
+  "text": "can open files, use the browser, and run"
+ },
+ {
+  "start": 801.2,
+  "duration": 3.6,
+  "text": "dev tools automatically with no setup"
+ },
+ {
+  "start": 802.96,
+  "duration": 3.52,
+  "text": "required. When using your computer, they"
+ },
+ {
+  "start": 804.8,
+  "duration": 3.64,
+  "text": "say, 'Claude will reach for the most"
+ },
+ {
+  "start": 806.48,
+  "duration": 3.72,
+  "text": "precise tool first, starting with"
+ },
+ {
+  "start": 808.44,
+  "duration": 3.76,
+  "text": "existing connectors to services like"
+ },
+ {
+  "start": 810.2,
+  "duration": 3.4,
+  "text": "Slack or Google Calendar. However, when"
+ },
+ {
+  "start": 812.2,
+  "duration": 3.0,
+  "text": "Claude finds that there is not a"
+ },
+ {
+  "start": 813.6,
+  "duration": 3.04,
+  "text": "connector set up, it can control"
+ },
+ {
+  "start": 815.2,
+  "duration": 3.28,
+  "text": "browser, mouse, keyboard, and screen to"
+ },
+ {
+  "start": 816.64,
+  "duration": 3.36,
+  "text": "complete different tasks. Now, as you"
+ },
+ {
+  "start": 818.48,
+  "duration": 2.96,
+  "text": "might be thinking right now, this kind"
+ },
+ {
+  "start": 820.0,
+  "duration": 4.48,
+  "text": "of supercharges those features like"
+ },
+ {
+  "start": 821.44,
+  "duration": 4.52,
+  "text": "dispatch. Anthropic agrees, writing,"
+ },
+ {
+  "start": 824.48,
+  "duration": 2.88,
+  "text": "\"With dispatch, you can tell Claude to"
+ },
+ {
+  "start": 825.96,
+  "duration": 3.24,
+  "text": "automatically check your emails every"
+ },
+ {
+  "start": 827.36,
+  "duration": 3.44,
+  "text": "morning or pull some metrics every week"
+ },
+ {
+  "start": 829.2,
+  "duration": 3.2,
+  "text": "or spin up a Claude co-worker Claude"
+ },
+ {
+  "start": 830.8,
+  "duration": 3.36,
+  "text": "code session for a report or a pull"
+ },
+ {
+  "start": 832.4,
+  "duration": 3.32,
+  "text": "request. Claude's new computer use"
+ },
+ {
+  "start": 834.16,
+  "duration": 3.28,
+  "text": "capability makes dispatch even more"
+ },
+ {
+  "start": 835.72,
+  "duration": 2.92,
+  "text": "helpful. Now, Claude can use your"
+ },
+ {
+  "start": 837.44,
+  "duration": 3.2,
+  "text": "computer on your behalf while you're"
+ },
+ {
+  "start": 838.64,
+  "duration": 3.52,
+  "text": "away. For example, to create a morning"
+ },
+ {
+  "start": 840.64,
+  "duration": 4.2,
+  "text": "briefing while you're on the train, make"
+ },
+ {
+  "start": 842.16,
+  "duration": 4.56,
+  "text": "changes in your IDE, run tests, and put"
+ },
+ {
+  "start": 844.84,
+  "duration": 3.44,
+  "text": "up a PR, or keep your 3D printing"
+ },
+ {
+  "start": 846.72,
+  "duration": 2.8,
+  "text": "project moving according to your initial"
+ },
+ {
+  "start": 848.28,
+  "duration": 3.72,
+  "text": "plan.\""
+ },
+ {
+  "start": 849.52,
+  "duration": 5.32,
+  "text": "A lot of the initial response was fairly"
+ },
+ {
+  "start": 852.0,
+  "duration": 4.04,
+  "text": "breathless. Swee Birdabo writes,"
+ },
+ {
+  "start": 854.84,
+  "duration": 3.32,
+  "text": "\"Claude can now control your entire"
+ },
+ {
+  "start": 856.04,
+  "duration": 3.64,
+  "text": "computer with one prompt, forever. You"
+ },
+ {
+  "start": 858.16,
+  "duration": 3.44,
+  "text": "tell it, 'Scan my email every morning'"
+ },
+ {
+  "start": 859.68,
+  "duration": 3.56,
+  "text": "once and it just does it, forever. It"
+ },
+ {
+  "start": 861.6,
+  "duration": 3.84,
+  "text": "can also open apps, edit spreadsheets,"
+ },
+ {
+  "start": 863.24,
+  "duration": 4.44,
+  "text": "move files, batch process 150 photos in"
+ },
+ {
+  "start": 865.44,
+  "duration": 3.64,
+  "text": "Photoshop, export PDFs, all of it. You"
+ },
+ {
+  "start": 867.68,
+  "duration": 2.76,
+  "text": "could also start a task from your phone,"
+ },
+ {
+  "start": 869.08,
+  "duration": 3.12,
+  "text": "go to dinner, come back to finish work"
+ },
+ {
+  "start": 870.44,
+  "duration": 3.399,
+  "text": "like nothing happened. Anthropic is"
+ },
+ {
+  "start": 872.2,
+  "duration": 3.04,
+  "text": "giving us the full desktop agent that"
+ },
+ {
+  "start": 873.839,
+  "duration": 3.441,
+  "text": "uses the actual screen, mouse, and"
+ },
+ {
+  "start": 875.24,
+  "duration": 4.52,
+  "text": "keyboard. Not a sandbox, not a"
+ },
+ {
+  "start": 877.28,
+  "duration": 5.72,
+  "text": "simulation, your real Jarvis. This is"
+ },
+ {
+  "start": 879.76,
+  "duration": 4.72,
+  "text": "absolutely insane. The LLM era is over.\""
+ },
+ {
+  "start": 883.0,
+  "duration": 2.52,
+  "text": "Gagan again, who we heard from earlier,"
+ },
+ {
+  "start": 884.48,
+  "duration": 2.92,
+  "text": "writes,"
+ },
+ {
+  "start": 885.52,
+  "duration": 3.84,
+  "text": "\"Been testing it in co-work mode. The"
+ },
+ {
+  "start": 887.4,
+  "duration": 3.16,
+  "text": "thing that gets me isn't the automation,"
+ },
+ {
+  "start": 889.36,
+  "duration": 2.64,
+  "text": "it's that it figures out what you"
+ },
+ {
+  "start": 890.56,
+  "duration": 3.92,
+  "text": "actually meant when you said, 'Handle"
+ },
+ {
+  "start": 892.0,
+  "duration": 3.6,
+  "text": "this for me.' That's the shift.\" Bilal"
+ },
+ {
+  "start": 894.48,
+  "duration": 2.6,
+  "text": "A. writes,"
+ },
+ {
+  "start": 895.6,
+  "duration": 3.68,
+  "text": "\"Claude is no longer just a tool that"
+ },
+ {
+  "start": 897.08,
+  "duration": 4.12,
+  "text": "uses the computer, it operates inside it"
+ },
+ {
+  "start": 899.28,
+  "duration": 4.08,
+  "text": "as a true execution layer. It can"
+ },
+ {
+  "start": 901.2,
+  "duration": 3.52,
+  "text": "replicate everything a human does. Mouse"
+ },
+ {
+  "start": 903.36,
+  "duration": 2.8,
+  "text": "movements, keyboard input, screen"
+ },
+ {
+  "start": 904.72,
+  "duration": 2.72,
+  "text": "interaction, it can open any"
+ },
+ {
+  "start": 906.16,
+  "duration": 3.16,
+  "text": "application, navigate through it, and"
+ },
+ {
+  "start": 907.44,
+  "duration": 3.84,
+  "text": "produce the exact output you want. This"
+ },
+ {
+  "start": 909.32,
+  "duration": 4.12,
+  "text": "goes beyond APIs, this is full"
+ },
+ {
+  "start": 911.28,
+  "duration": 3.52,
+  "text": "real-world system control, which means"
+ },
+ {
+  "start": 913.44,
+  "duration": 2.92,
+  "text": "from anywhere, you can control your"
+ },
+ {
+  "start": 914.8,
+  "duration": 3.32,
+  "text": "devices and automate workflows end to"
+ },
+ {
+  "start": 916.36,
+  "duration": 3.6,
+  "text": "end.\" In terms of examples, a lot of"
+ },
+ {
+  "start": 918.12,
+  "duration": 3.92,
+  "text": "people started fairly simply. Gavin"
+ },
+ {
+  "start": 919.96,
+  "duration": 3.92,
+  "text": "Purcell writes, \"Okay, this is pretty"
+ },
+ {
+  "start": 922.04,
+  "duration": 4.12,
+  "text": "cool. Just had it grab a photo off my"
+ },
+ {
+  "start": 923.88,
+  "duration": 3.6,
+  "text": "desktop from afar. Dumb and simple, yes,"
+ },
+ {
+  "start": 926.16,
+  "duration": 4.08,
+  "text": "but done in natural language with no"
+ },
+ {
+  "start": 927.48,
+  "duration": 3.92,
+  "text": "weird setup. Daniel Son writes,"
+ },
+ {
+  "start": 930.24,
+  "duration": 2.56,
+  "text": "\"I don't like posting about anything I"
+ },
+ {
+  "start": 931.4,
+  "duration": 2.72,
+  "text": "haven't tried myself, so I saw the"
+ },
+ {
+  "start": 932.8,
+  "duration": 3.04,
+  "text": "announcement that Claude dispatched now"
+ },
+ {
+  "start": 934.12,
+  "duration": 3.12,
+  "text": "controls your computer, and I simply"
+ },
+ {
+  "start": 935.84,
+  "duration": 3.96,
+  "text": "asked it to open Twitter and like a"
+ },
+ {
+  "start": 937.24,
+  "duration": 3.96,
+  "text": "Claude post. Done. This is getting more"
+ },
+ {
+  "start": 939.8,
+  "duration": 3.56,
+  "text": "interesting and more dangerous by the"
+ },
+ {
+  "start": 941.2,
+  "duration": 4.28,
+  "text": "minute.\" Aditya Seth writes, \"This is"
+ },
+ {
+  "start": 943.36,
+  "duration": 4.04,
+  "text": "the first time a mainstream AI product"
+ },
+ {
+  "start": 945.48,
+  "duration": 3.96,
+  "text": "actually behaves like a junior ops hire"
+ },
+ {
+  "start": 947.4,
+  "duration": 3.96,
+  "text": "that lives on your laptop.\" And Peter"
+ },
+ {
+  "start": 949.44,
+  "duration": 4.16,
+  "text": "Gustaff points out that this could be"
+ },
+ {
+  "start": 951.36,
+  "duration": 4.0,
+  "text": "especially valuable for corporates stuck"
+ },
+ {
+  "start": 953.6,
+  "duration": 4.04,
+  "text": "in legacy software that isn't going to"
+ },
+ {
+  "start": 955.36,
+  "duration": 3.4,
+  "text": "port into AI ecosystems natively. He"
+ },
+ {
+  "start": 957.64,
+  "duration": 2.76,
+  "text": "writes,"
+ },
+ {
+  "start": 958.76,
+  "duration": 3.64,
+  "text": "\"This is another domino to fall."
+ },
+ {
+  "start": 960.4,
+  "duration": 3.84,
+  "text": "Computer use of arbitrary apps, not just"
+ },
+ {
+  "start": 962.4,
+  "duration": 3.36,
+  "text": "your browser. This is a big deal for a"
+ },
+ {
+  "start": 964.24,
+  "duration": 3.68,
+  "text": "lot of corporates who have custom crappy"
+ },
+ {
+  "start": 965.76,
+  "duration": 3.92,
+  "text": "apps from 20 or 30 years ago.\" And"
+ },
+ {
+  "start": 967.92,
+  "duration": 3.84,
+  "text": "summing it all up, Box's Aaron Levie"
+ },
+ {
+  "start": 969.68,
+  "duration": 4.28,
+  "text": "argues that this is, to put it simply, a"
+ },
+ {
+  "start": 971.76,
+  "duration": 3.36,
+  "text": "big deal. In a long post on Twitter, he"
+ },
+ {
+  "start": 973.96,
+  "duration": 2.64,
+  "text": "writes,"
+ },
+ {
+  "start": 975.12,
+  "duration": 3.44,
+  "text": "\"Computer use and the ability to write"
+ },
+ {
+  "start": 976.6,
+  "duration": 3.72,
+  "text": "and run code on the fly are the ultimate"
+ },
+ {
+  "start": 978.56,
+  "duration": 3.08,
+  "text": "primitives for agents to be able to take"
+ },
+ {
+  "start": 980.32,
+  "duration": 3.4,
+  "text": "on more and more tasks and knowledge"
+ },
+ {
+  "start": 981.64,
+  "duration": 3.8,
+  "text": "work. Most work requires hopping between"
+ },
+ {
+  "start": 983.72,
+  "duration": 3.96,
+  "text": "multiple applications and working with"
+ },
+ {
+  "start": 985.44,
+  "duration": 3.48,
+  "text": "broad sets of data in a workflow, and"
+ },
+ {
+  "start": 987.68,
+  "duration": 2.84,
+  "text": "agents will need to be able to traverse"
+ },
+ {
+  "start": 988.92,
+  "duration": 2.72,
+  "text": "these systems to be able to effectively"
+ },
+ {
+  "start": 990.52,
+  "duration": 3.2,
+  "text": "automate any real work in the"
+ },
+ {
+  "start": 991.64,
+  "duration": 3.36,
+  "text": "enterprise. Now, we will have agents"
+ },
+ {
+  "start": 993.72,
+  "duration": 3.52,
+  "text": "that are the equivalent of having an"
+ },
+ {
+  "start": 995.0,
+  "duration": 4.48,
+  "text": "expert programmer or any number of them"
+ },
+ {
+  "start": 997.24,
+  "duration": 4.0,
+  "text": "that can write code or use any API to"
+ },
+ {
+  "start": 999.48,
+  "duration": 3.16,
+  "text": "automate whatever work you're doing."
+ },
+ {
+  "start": 1001.24,
+  "duration": 3.56,
+  "text": "Agents will have access to either a"
+ },
+ {
+  "start": 1002.64,
+  "duration": 4.24,
+  "text": "user's computer and resources or their"
+ },
+ {
+  "start": 1004.8,
+  "duration": 3.48,
+  "text": "own sandbox to operate in and be able to"
+ },
+ {
+  "start": 1006.88,
+  "duration": 3.6,
+  "text": "pull together the tools necessary to"
+ },
+ {
+  "start": 1008.28,
+  "duration": 4.44,
+  "text": "perform the task at hand. This opens up"
+ },
+ {
+  "start": 1010.48,
+  "duration": 3.4,
+  "text": "the broadest set of agentic use cases."
+ },
+ {
+  "start": 1012.72,
+  "duration": 2.52,
+  "text": "To be sure, there are going to be"
+ },
+ {
+  "start": 1013.88,
+  "duration": 2.8,
+  "text": "various hurdles around security,"
+ },
+ {
+  "start": 1015.24,
+  "duration": 3.24,
+  "text": "permissions, and access control,"
+ },
+ {
+  "start": 1016.68,
+  "duration": 3.48,
+  "text": "identity challenges, and more. For"
+ },
+ {
+  "start": 1018.48,
+  "duration": 3.32,
+  "text": "instance, should the agent always act on"
+ },
+ {
+  "start": 1020.16,
+  "duration": 3.08,
+  "text": "behalf of the user, or should they have"
+ },
+ {
+  "start": 1021.8,
+  "duration": 3.159,
+  "text": "their own identity and limited set of"
+ },
+ {
+  "start": 1023.24,
+  "duration": 3.8,
+  "text": "access rights? How do you triage"
+ },
+ {
+  "start": 1024.959,
+  "duration": 3.841,
+  "text": "security events when historically volume"
+ },
+ {
+  "start": 1027.04,
+  "duration": 4.08,
+  "text": "of activity on a system is no longer a"
+ },
+ {
+  "start": 1028.8,
+  "duration": 3.68,
+  "text": "reliable signal of a security issue? How"
+ },
+ {
+  "start": 1031.12,
+  "duration": 2.959,
+  "text": "do you ensure the agent isn't going"
+ },
+ {
+  "start": 1032.48,
+  "duration": 3.359,
+  "text": "rogue or getting prompt injected to do"
+ },
+ {
+  "start": 1034.079,
+  "duration": 3.641,
+  "text": "something risky? All problems that need"
+ },
+ {
+  "start": 1035.839,
+  "duration": 3.441,
+  "text": "to get figured out. Then, there's also"
+ },
+ {
+  "start": 1037.72,
+  "duration": 3.44,
+  "text": "lots of work needed to ensure software"
+ },
+ {
+  "start": 1039.28,
+  "duration": 3.64,
+  "text": "is set up to enable agents to operate"
+ },
+ {
+  "start": 1041.16,
+  "duration": 3.159,
+  "text": "with their tools in a headless fashion."
+ },
+ {
+  "start": 1042.92,
+  "duration": 3.159,
+  "text": "This will be an uncomfortable reality"
+ },
+ {
+  "start": 1044.319,
+  "duration": 3.441,
+  "text": "for some incumbents and equally a"
+ },
+ {
+  "start": 1046.079,
+  "duration": 3.601,
+  "text": "welcome one for tools that historically"
+ },
+ {
+  "start": 1047.76,
+  "duration": 3.88,
+  "text": "have operated seamlessly via APIs and"
+ },
+ {
+  "start": 1049.68,
+  "duration": 3.44,
+  "text": "have business models to support this."
+ },
+ {
+  "start": 1051.64,
+  "duration": 3.64,
+  "text": "Lots of change coming in the world of"
+ },
+ {
+  "start": 1053.12,
+  "duration": 4.0,
+  "text": "work agents and it's going to get pretty"
+ },
+ {
+  "start": 1055.28,
+  "duration": 3.96,
+  "text": "wild. Now, we're already going pretty"
+ },
+ {
+  "start": 1057.12,
+  "duration": 3.92,
+  "text": "long, but I want to point out that this"
+ },
+ {
+  "start": 1059.24,
+  "duration": 3.64,
+  "text": "is not the end of what has been pushed"
+ },
+ {
+  "start": 1061.04,
+  "duration": 3.16,
+  "text": "over the last month. Running quickly"
+ },
+ {
+  "start": 1062.88,
+  "duration": 3.28,
+  "text": "through some of these second-tier and"
+ },
+ {
+  "start": 1064.2,
+  "duration": 3.4,
+  "text": "quality-of-life type of announcements,"
+ },
+ {
+  "start": 1066.16,
+  "duration": 3.0,
+  "text": "one big complaint that lots of folks"
+ },
+ {
+  "start": 1067.6,
+  "duration": 3.72,
+  "text": "have had about Cohere Work is that there"
+ },
+ {
+  "start": 1069.16,
+  "duration": 3.84,
+  "text": "wasn't a conception of a project. Now"
+ },
+ {
+  "start": 1071.32,
+  "duration": 3.6,
+  "text": "there is, which will make a huge"
+ },
+ {
+  "start": 1073.0,
+  "duration": 3.8,
+  "text": "difference for day-to-day functionality."
+ },
+ {
+  "start": 1074.92,
+  "duration": 3.92,
+  "text": "Also in March, the Claude Code team"
+ },
+ {
+  "start": 1076.8,
+  "duration": 3.68,
+  "text": "launched code review, where as they put"
+ },
+ {
+  "start": 1078.84,
+  "duration": 3.72,
+  "text": "it, Claude dispatches a team of agents"
+ },
+ {
+  "start": 1080.48,
+  "duration": 3.84,
+  "text": "to hunt for bugs. This past month, the 1"
+ },
+ {
+  "start": 1082.56,
+  "duration": 3.12,
+  "text": "million token context window actually"
+ },
+ {
+  "start": 1084.32,
+  "duration": 3.16,
+  "text": "became available generally for both"
+ },
+ {
+  "start": 1085.68,
+  "duration": 3.96,
+  "text": "Claude Opus and Claude Sonnet. Y"
+ },
+ {
+  "start": 1087.48,
+  "duration": 4.36,
+  "text": "Combinator's Garry Tan wrote, \"I"
+ },
+ {
+  "start": 1089.64,
+  "duration": 4.4,
+  "text": "underestimated how powerful Opus 4.6"
+ },
+ {
+  "start": 1091.84,
+  "duration": 3.96,
+  "text": "with 1 million tokens is. Even last"
+ },
+ {
+  "start": 1094.04,
+  "duration": 3.64,
+  "text": "year, we were absolutely hitting context"
+ },
+ {
+  "start": 1095.8,
+  "duration": 3.44,
+  "text": "limit problems constantly. 1 million"
+ },
+ {
+  "start": 1097.68,
+  "duration": 4.24,
+  "text": "tokens mean you can do much more complex"
+ },
+ {
+  "start": 1099.24,
+  "duration": 4.88,
+  "text": "analysis entirely in context. Claude"
+ },
+ {
+  "start": 1101.92,
+  "duration": 4.04,
+  "text": "Code is so much better.\" Meanwhile, over"
+ },
+ {
+  "start": 1104.12,
+  "duration": 3.96,
+  "text": "in the main Claude app, Claude can now"
+ },
+ {
+  "start": 1105.96,
+  "duration": 3.96,
+  "text": "build interactive charts and diagrams,"
+ },
+ {
+  "start": 1108.08,
+  "duration": 3.6,
+  "text": "and we also got upgrades for Claude for"
+ },
+ {
+  "start": 1109.92,
+  "duration": 3.2,
+  "text": "Excel and Claude for PowerPoint,"
+ },
+ {
+  "start": 1111.68,
+  "duration": 3.76,
+  "text": "including the ability to integrate them"
+ },
+ {
+  "start": 1113.12,
+  "duration": 3.96,
+  "text": "together. They write, \"When you've got"
+ },
+ {
+  "start": 1115.44,
+  "duration": 3.16,
+  "text": "more than one file open, Claude shares"
+ },
+ {
+  "start": 1117.08,
+  "duration": 2.92,
+  "text": "the full context of your conversation"
+ },
+ {
+  "start": 1118.6,
+  "duration": 2.8,
+  "text": "between them. Pull data from"
+ },
+ {
+  "start": 1120.0,
+  "duration": 2.96,
+  "text": "spreadsheets, build out tables, and"
+ },
+ {
+  "start": 1121.4,
+  "duration": 3.88,
+  "text": "update a deck without re-explaining a"
+ },
+ {
+  "start": 1122.96,
+  "duration": 4.64,
+  "text": "step. Skills are also now available"
+ },
+ {
+  "start": 1125.28,
+  "duration": 3.76,
+  "text": "inside the Excel and PowerPoint add-ins,"
+ },
+ {
+  "start": 1127.6,
+  "duration": 3.32,
+  "text": "meaning that when your team has some"
+ },
+ {
+  "start": 1129.04,
+  "duration": 3.6,
+  "text": "standard workflow, like running a"
+ },
+ {
+  "start": 1130.92,
+  "duration": 3.84,
+  "text": "variance analysis or building a client"
+ },
+ {
+  "start": 1132.64,
+  "duration": 3.72,
+  "text": "deck, you can save that as a skill."
+ },
+ {
+  "start": 1134.76,
+  "duration": 3.4,
+  "text": "Other people in your organization can"
+ },
+ {
+  "start": 1136.36,
+  "duration": 3.8,
+  "text": "then run it in one click from their own"
+ },
+ {
+  "start": 1138.16,
+  "duration": 3.48,
+  "text": "sidebar. For my free users out there,"
+ },
+ {
+  "start": 1140.16,
+  "duration": 3.36,
+  "text": "memory and connectors are now both"
+ },
+ {
+  "start": 1141.64,
+  "duration": 3.36,
+  "text": "available on the free plan, and we also"
+ },
+ {
+  "start": 1143.52,
+  "duration": 3.76,
+  "text": "got a whole plugin marketplace for"
+ },
+ {
+  "start": 1145.0,
+  "duration": 3.96,
+  "text": "enterprise customers. One implication of"
+ },
+ {
+  "start": 1147.28,
+  "duration": 3.24,
+  "text": "this is that it's pushing a lot of"
+ },
+ {
+  "start": 1148.96,
+  "duration": 3.84,
+  "text": "people to think differently about just"
+ },
+ {
+  "start": 1150.52,
+  "duration": 4.12,
+  "text": "how productive a small team can be."
+ },
+ {
+  "start": 1152.8,
+  "duration": 3.4,
+  "text": "Ethan Mollick again writes,"
+ },
+ {
+  "start": 1154.64,
+  "duration": 2.96,
+  "text": "\"The ability of the Claude team to learn"
+ },
+ {
+  "start": 1156.2,
+  "duration": 2.88,
+  "text": "from things like open Claude and"
+ },
+ {
+  "start": 1157.6,
+  "duration": 4.36,
+  "text": "implement features like this on a daily"
+ },
+ {
+  "start": 1159.08,
+  "duration": 4.72,
+  "text": "basis is a very strong argument that for"
+ },
+ {
+  "start": 1161.96,
+  "duration": 3.36,
+  "text": "AI-powered coding teams, a very"
+ },
+ {
+  "start": 1163.8,
+  "duration": 3.44,
+  "text": "different software development process"
+ },
+ {
+  "start": 1165.32,
+  "duration": 4.4,
+  "text": "is possible with large strategic"
+ },
+ {
+  "start": 1167.24,
+  "duration": 4.24,
+  "text": "implications.\" Meanwhile, for others, I"
+ },
+ {
+  "start": 1169.72,
+  "duration": 3.68,
+  "text": "think for most of us though, it's just a"
+ },
+ {
+  "start": 1171.48,
+  "duration": 4.08,
+  "text": "big old checklist of things we need to"
+ },
+ {
+  "start": 1173.4,
+  "duration": 3.8,
+  "text": "try. So, to quickly sum up, we've got"
+ },
+ {
+  "start": 1175.56,
+  "duration": 3.64,
+  "text": "computer use, which allows Claude to"
+ },
+ {
+  "start": 1177.2,
+  "duration": 3.96,
+  "text": "control your computer doing things even"
+ },
+ {
+  "start": 1179.2,
+  "duration": 3.48,
+  "text": "in non-native apps. Dispatch, which"
+ },
+ {
+  "start": 1181.16,
+  "duration": 3.28,
+  "text": "allows you to initiate sessions and"
+ },
+ {
+  "start": 1182.68,
+  "duration": 3.56,
+  "text": "orchestrate tasks from Claude co-work"
+ },
+ {
+  "start": 1184.44,
+  "duration": 3.32,
+  "text": "from your phone. Remote control, which"
+ },
+ {
+  "start": 1186.24,
+  "duration": 3.04,
+  "text": "allows you to interact with Claude code"
+ },
+ {
+  "start": 1187.76,
+  "duration": 3.36,
+  "text": "while on the go. Channels, which allow"
+ },
+ {
+  "start": 1189.28,
+  "duration": 3.76,
+  "text": "you to port events impacting your"
+ },
+ {
+  "start": 1191.12,
+  "duration": 4.0,
+  "text": "software automatically into Claude code"
+ },
+ {
+  "start": 1193.04,
+  "duration": 4.0,
+  "text": "via channels like Telegram and Discord."
+ },
+ {
+  "start": 1195.12,
+  "duration": 3.52,
+  "text": "And schedule tasks, which allow you to"
+ },
+ {
+  "start": 1197.04,
+  "duration": 3.72,
+  "text": "have things happening in co-work or"
+ },
+ {
+  "start": 1198.64,
+  "duration": 4.12,
+  "text": "Claude code on a scheduled basis either"
+ },
+ {
+  "start": 1200.76,
+  "duration": 3.28,
+  "text": "locally or in the cloud. Now, for those"
+ },
+ {
+  "start": 1202.76,
+  "duration": 3.56,
+  "text": "of you who want to keep track of this"
+ },
+ {
+  "start": 1204.04,
+  "duration": 3.48,
+  "text": "simply, you can go find this checklist"
+ },
+ {
+  "start": 1206.32,
+  "duration": 4.6,
+  "text": "with links to information about all"
+ },
+ {
+  "start": 1207.52,
+  "duration": 5.04,
+  "text": "these features at play.aideailybrief.ai."
+ },
+ {
+  "start": 1210.92,
+  "duration": 3.2,
+  "text": "So many episodes now have these little"
+ },
+ {
+  "start": 1212.56,
+  "duration": 3.0,
+  "text": "companion experiences that I'm going to"
+ },
+ {
+  "start": 1214.12,
+  "duration": 3.6,
+  "text": "just be putting them there. Again,"
+ },
+ {
+  "start": 1215.56,
+  "duration": 3.48,
+  "text": "that's play.aideailybrief.ai."
+ },
+ {
+  "start": 1217.72,
+  "duration": 3.32,
+  "text": "For now, however, that is going to do it"
+ },
+ {
+  "start": 1219.04,
+  "duration": 3.52,
+  "text": "for this episode of the AI Daily Brief."
+ },
+ {
+  "start": 1221.04,
+  "duration": 3.12,
+  "text": "Appreciate you listening or watching as"
+ },
+ {
+  "start": 1222.56,
+  "duration": 4.72,
+  "text": "always, and go have some fun with"
+ },
+ {
+  "start": 1224.16,
+  "duration": 3.12,
+  "text": "Claude. Peace."
+ }
+]

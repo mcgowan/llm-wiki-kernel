@@ -1,0 +1,2357 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.8,
+  "text": "As every company seems to launch the"
+ },
+ {
+  "start": 2.36,
+  "duration": 5.96,
+  "text": "everything app, does it show a lack of"
+ },
+ {
+  "start": 4.8,
+  "duration": 6.0,
+  "text": "focus, a vicious AI competition, or does"
+ },
+ {
+  "start": 8.32,
+  "duration": 4.32,
+  "text": "it say something about AI's path to"
+ },
+ {
+  "start": 10.8,
+  "duration": 3.6,
+  "text": "doing everything?"
+ },
+ {
+  "start": 12.64,
+  "duration": 3.6,
+  "text": "Welcome back to the AI Daily Brief. Over"
+ },
+ {
+  "start": 14.4,
+  "duration": 4.16,
+  "text": "the last couple days, we have a bunch of"
+ },
+ {
+  "start": 16.24,
+  "duration": 4.76,
+  "text": "stories which on the face of them are"
+ },
+ {
+  "start": 18.56,
+  "duration": 4.52,
+  "text": "unrelated. It's different companies"
+ },
+ {
+  "start": 21.0,
+  "duration": 4.2,
+  "text": "announcing new products or updates to"
+ },
+ {
+  "start": 23.08,
+  "duration": 3.52,
+  "text": "their old products, all trying to jockey"
+ },
+ {
+  "start": 25.2,
+  "duration": 4.36,
+  "text": "for position in the ever-changing AI"
+ },
+ {
+  "start": 26.6,
+  "duration": 4.64,
+  "text": "landscape. And yet, when you look at all"
+ },
+ {
+  "start": 29.56,
+  "duration": 4.0,
+  "text": "the announcements, there is clearly a"
+ },
+ {
+  "start": 31.24,
+  "duration": 4.24,
+  "text": "convergence happening. The products are"
+ },
+ {
+  "start": 33.56,
+  "duration": 3.48,
+  "text": "starting to mirror one another. We've"
+ },
+ {
+  "start": 35.48,
+  "duration": 3.76,
+  "text": "discussed a version of this trend as the"
+ },
+ {
+  "start": 37.04,
+  "duration": 4.16,
+  "text": "clawfication of AI, but it feels like"
+ },
+ {
+  "start": 39.24,
+  "duration": 4.08,
+  "text": "there's something even more going on."
+ },
+ {
+  "start": 41.2,
+  "duration": 4.16,
+  "text": "Here's how Buko Capital summed it up."
+ },
+ {
+  "start": 43.32,
+  "duration": 3.72,
+  "text": "Open AI is building a super app, bro. It"
+ },
+ {
+  "start": 45.36,
+  "duration": 3.32,
+  "text": "can do everything. And Lovable can do"
+ },
+ {
+  "start": 47.04,
+  "duration": 3.32,
+  "text": "general tasks now. It also does"
+ },
+ {
+  "start": 48.68,
+  "duration": 3.44,
+  "text": "everything. Airtable pivoted, you can"
+ },
+ {
+  "start": 50.36,
+  "duration": 3.16,
+  "text": "vibe code there now. I sent all my"
+ },
+ {
+  "start": 52.12,
+  "duration": 2.84,
+  "text": "agents to my Mac mini to fight to the"
+ },
+ {
+  "start": 53.52,
+  "duration": 3.76,
+  "text": "death, and I'll use the strongest one."
+ },
+ {
+  "start": 54.96,
+  "duration": 4.68,
+  "text": "Bro, AGI is here."
+ },
+ {
+  "start": 57.28,
+  "duration": 4.8,
+  "text": "So, let's talk about what OpenAI's plans"
+ },
+ {
+  "start": 59.64,
+  "duration": 3.8,
+  "text": "to launch a desktop super app, Google's"
+ },
+ {
+  "start": 62.08,
+  "duration": 3.439,
+  "text": "release of their new vibe coding"
+ },
+ {
+  "start": 63.44,
+  "duration": 3.56,
+  "text": "experience in Google AI Studio,"
+ },
+ {
+  "start": 65.519,
+  "duration": 3.441,
+  "text": "Lovable's announcement of Lovable"
+ },
+ {
+  "start": 67.0,
+  "duration": 3.12,
+  "text": "General Tasks, and Claude Code's"
+ },
+ {
+  "start": 68.96,
+  "duration": 2.8,
+  "text": "announcement that you can use it from"
+ },
+ {
+  "start": 70.12,
+  "duration": 2.8,
+  "text": "Telegram, all have to do with one"
+ },
+ {
+  "start": 71.76,
+  "duration": 3.24,
+  "text": "another."
+ },
+ {
+  "start": 72.92,
+  "duration": 4.0,
+  "text": "The temptation, I think, is for people"
+ },
+ {
+  "start": 75.0,
+  "duration": 3.44,
+  "text": "to view these companies and maybe the AI"
+ },
+ {
+  "start": 76.92,
+  "duration": 3.48,
+  "text": "product industry more broadly as"
+ },
+ {
+  "start": 78.44,
+  "duration": 3.72,
+  "text": "failing, throwing everything against the"
+ },
+ {
+  "start": 80.4,
+  "duration": 3.68,
+  "text": "wall and releasing kitchen sink products"
+ },
+ {
+  "start": 82.16,
+  "duration": 3.76,
+  "text": "that don't really make any sense."
+ },
+ {
+  "start": 84.08,
+  "duration": 4.24,
+  "text": "I think, though, what we're actually"
+ },
+ {
+  "start": 85.92,
+  "duration": 4.92,
+  "text": "seeing is a recognition that the"
+ },
+ {
+  "start": 88.32,
+  "duration": 3.96,
+  "text": "capability to code does not just unlock"
+ },
+ {
+  "start": 90.84,
+  "duration": 3.16,
+  "text": "new approaches to software engineering"
+ },
+ {
+  "start": 92.28,
+  "duration": 3.92,
+  "text": "and vibe coding, but basically"
+ },
+ {
+  "start": 94.0,
+  "duration": 3.52,
+  "text": "everything else in knowledge work."
+ },
+ {
+  "start": 96.2,
+  "duration": 3.6,
+  "text": "But let's go back and start with what"
+ },
+ {
+  "start": 97.52,
+  "duration": 4.52,
+  "text": "was announced from Google AI Studio."
+ },
+ {
+  "start": 99.8,
+  "duration": 3.96,
+  "text": "Google AI Studio themselves tweeted,"
+ },
+ {
+  "start": 102.04,
+  "duration": 4.04,
+  "text": "\"Vibe coding in AI Studio just got a"
+ },
+ {
+  "start": 103.76,
+  "duration": 4.12,
+  "text": "major upgrade. Multiplayer, build"
+ },
+ {
+  "start": 106.08,
+  "duration": 3.92,
+  "text": "real-time games and tools, real"
+ },
+ {
+  "start": 107.88,
+  "duration": 3.56,
+  "text": "services, connect live data, persistent"
+ },
+ {
+  "start": 110.0,
+  "duration": 4.08,
+  "text": "builds, close the tab and it keeps"
+ },
+ {
+  "start": 111.44,
+  "duration": 5.32,
+  "text": "working, pro UI, Shade CN Framer Motion"
+ },
+ {
+  "start": 114.08,
+  "duration": 4.48,
+  "text": "and NPM support.\" Logan Kilpatrick adds"
+ },
+ {
+  "start": 116.76,
+  "duration": 3.32,
+  "text": "one-click database support, sign in with"
+ },
+ {
+  "start": 118.56,
+  "duration": 3.52,
+  "text": "Google support, a new coding agent"
+ },
+ {
+  "start": 120.08,
+  "duration": 3.52,
+  "text": "powered by antigravity, multiplayer and"
+ },
+ {
+  "start": 122.08,
+  "duration": 3.6,
+  "text": "back-end support, and so much more"
+ },
+ {
+  "start": 123.6,
+  "duration": 3.56,
+  "text": "coming soon. So, a couple of things"
+ },
+ {
+  "start": 125.68,
+  "duration": 3.52,
+  "text": "going on here. First of all, Google is"
+ },
+ {
+  "start": 127.16,
+  "duration": 3.519,
+  "text": "integrating antigravity directly into"
+ },
+ {
+  "start": 129.2,
+  "duration": 2.52,
+  "text": "Google AI Studio, rather than these"
+ },
+ {
+  "start": 130.679,
+  "duration": 3.761,
+  "text": "things being totally separate"
+ },
+ {
+  "start": 131.72,
+  "duration": 4.0,
+  "text": "experiences. Along with that, they are"
+ },
+ {
+  "start": 134.44,
+  "duration": 3.12,
+  "text": "trying to build a more end-to-end"
+ },
+ {
+  "start": 135.72,
+  "duration": 3.2,
+  "text": "experience where you can actually get"
+ },
+ {
+  "start": 137.56,
+  "duration": 3.24,
+  "text": "all the way to applications that can be"
+ },
+ {
+  "start": 138.92,
+  "duration": 4.4,
+  "text": "deployed. As they put it, going from"
+ },
+ {
+  "start": 140.8,
+  "duration": 3.56,
+  "text": "prototypes to production apps. So, a lot"
+ },
+ {
+  "start": 143.32,
+  "duration": 2.6,
+  "text": "of the parts of the announcement are"
+ },
+ {
+  "start": 144.36,
+  "duration": 3.72,
+  "text": "just the boring guts required for that"
+ },
+ {
+  "start": 145.92,
+  "duration": 4.48,
+  "text": "sort of move, integrated databases and"
+ },
+ {
+  "start": 148.08,
+  "duration": 3.84,
+  "text": "authentication, access to modern web"
+ },
+ {
+  "start": 150.4,
+  "duration": 2.96,
+  "text": "tools like Framer Motion, and"
+ },
+ {
+  "start": 151.92,
+  "duration": 3.64,
+  "text": "connections to external services like"
+ },
+ {
+  "start": 153.36,
+  "duration": 4.2,
+  "text": "databases and payment processors. And"
+ },
+ {
+  "start": 155.56,
+  "duration": 4.08,
+  "text": "yet, there are also some very Googly"
+ },
+ {
+  "start": 157.56,
+  "duration": 3.4,
+  "text": "parts of this announcement. One of the"
+ },
+ {
+  "start": 159.64,
+  "duration": 3.68,
+  "text": "things that we've been tracking,"
+ },
+ {
+  "start": 160.96,
+  "duration": 3.96,
+  "text": "especially as OpenAI and Anthropic go"
+ },
+ {
+  "start": 163.32,
+  "duration": 3.56,
+  "text": "tit-for-tat with coding capabilities"
+ },
+ {
+  "start": 164.92,
+  "duration": 4.04,
+  "text": "around Codex and Claude Code, is that"
+ },
+ {
+  "start": 166.88,
+  "duration": 3.96,
+  "text": "while Google certainly hasn't withdrawn"
+ },
+ {
+  "start": 168.96,
+  "duration": 3.4,
+  "text": "from the AI coding fight, this"
+ },
+ {
+  "start": 170.84,
+  "duration": 3.4,
+  "text": "announcement is proof point of that,"
+ },
+ {
+  "start": 172.36,
+  "duration": 3.56,
+  "text": "they also are clearly trying to compete"
+ },
+ {
+  "start": 174.24,
+  "duration": 3.76,
+  "text": "in areas where they are just in a class"
+ },
+ {
+  "start": 175.92,
+  "duration": 4.48,
+  "text": "of their own, specifically around"
+ },
+ {
+  "start": 178.0,
+  "duration": 3.88,
+  "text": "everything having to do with multimodal."
+ },
+ {
+  "start": 180.4,
+  "duration": 3.36,
+  "text": "Anything that benefits from having"
+ },
+ {
+  "start": 181.88,
+  "duration": 4.2,
+  "text": "access to the entire corpus of YouTube,"
+ },
+ {
+  "start": 183.76,
+  "duration": 4.6,
+  "text": "for example. We see that in things like"
+ },
+ {
+  "start": 186.08,
+  "duration": 3.88,
+  "text": "the Genie 3 model, and we even see it in"
+ },
+ {
+  "start": 188.36,
+  "duration": 3.28,
+  "text": "the specific ways that they're pushing"
+ },
+ {
+  "start": 189.96,
+  "duration": 4.24,
+  "text": "this new vibe coding experience in"
+ },
+ {
+  "start": 191.64,
+  "duration": 4.04,
+  "text": "Google AI Studio. Specifically around"
+ },
+ {
+  "start": 194.2,
+  "duration": 3.28,
+  "text": "this idea of pushing real-time"
+ },
+ {
+  "start": 195.68,
+  "duration": 3.32,
+  "text": "multiplayer games."
+ },
+ {
+  "start": 197.48,
+  "duration": 3.32,
+  "text": "This is the first use case that they"
+ },
+ {
+  "start": 199.0,
+  "duration": 2.92,
+  "text": "highlight in their announcement post,"
+ },
+ {
+  "start": 200.8,
+  "duration": 2.36,
+  "text": "and I don't think that that's because"
+ },
+ {
+  "start": 201.92,
+  "duration": 2.52,
+  "text": "they think that there are so many people"
+ },
+ {
+  "start": 203.16,
+  "duration": 2.84,
+  "text": "out there right now who want to build"
+ },
+ {
+  "start": 204.44,
+  "duration": 3.28,
+  "text": "massive multiplayer first-player laser"
+ },
+ {
+  "start": 206.0,
+  "duration": 3.2,
+  "text": "tag games. I think they're trying to"
+ },
+ {
+  "start": 207.72,
+  "duration": 3.88,
+  "text": "show off a capability set that they"
+ },
+ {
+  "start": 209.2,
+  "duration": 3.64,
+  "text": "believe is very different. I started"
+ },
+ {
+  "start": 211.6,
+  "duration": 2.6,
+  "text": "playing around with this a little bit,"
+ },
+ {
+  "start": 212.84,
+  "duration": 2.96,
+  "text": "prototyping a game where you take a"
+ },
+ {
+  "start": 214.2,
+  "duration": 3.36,
+  "text": "design from Leonardo da Vinci's"
+ },
+ {
+  "start": 215.8,
+  "duration": 3.88,
+  "text": "notebooks and can actually interact with"
+ },
+ {
+  "start": 217.56,
+  "duration": 4.24,
+  "text": "it in 3D space, trying to turn it into a"
+ },
+ {
+  "start": 219.68,
+  "duration": 4.92,
+  "text": "working machine, almost as a sort of 3D"
+ },
+ {
+  "start": 221.8,
+  "duration": 4.24,
+  "text": "exploratory sandbox type of Myst game."
+ },
+ {
+  "start": 224.6,
+  "duration": 3.24,
+  "text": "Now, in the first iterations of this"
+ },
+ {
+  "start": 226.04,
+  "duration": 3.8,
+  "text": "game experience weren't as visually"
+ },
+ {
+  "start": 227.84,
+  "duration": 3.44,
+  "text": "appealing as I wanted, I fired up a"
+ },
+ {
+  "start": 229.84,
+  "duration": 3.52,
+  "text": "different new Google tool that had been"
+ },
+ {
+  "start": 231.28,
+  "duration": 3.88,
+  "text": "updated just the day before. That tool"
+ },
+ {
+  "start": 233.36,
+  "duration": 4.0,
+  "text": "is their updated creative canvas called"
+ },
+ {
+  "start": 235.16,
+  "duration": 4.64,
+  "text": "Stitch. On Wednesday, Google Labs"
+ },
+ {
+  "start": 237.36,
+  "duration": 4.68,
+  "text": "tweeted, \"Meet the new Stitch, your vibe"
+ },
+ {
+  "start": 239.8,
+  "duration": 3.4,
+  "text": "design partner.\" Now, the upgrades that"
+ },
+ {
+  "start": 242.04,
+  "duration": 3.56,
+  "text": "they promised as part of this new"
+ },
+ {
+  "start": 243.2,
+  "duration": 4.48,
+  "text": "version included an AI native canvas, a"
+ },
+ {
+  "start": 245.6,
+  "duration": 3.32,
+  "text": "smarter design agent, native voice"
+ },
+ {
+  "start": 247.68,
+  "duration": 3.12,
+  "text": "integration so you can design by"
+ },
+ {
+  "start": 248.92,
+  "duration": 4.16,
+  "text": "talking, instant prototypes and"
+ },
+ {
+  "start": 250.8,
+  "duration": 5.0,
+  "text": "transportable design systems. It's"
+ },
+ {
+  "start": 253.08,
+  "duration": 4.999,
+  "text": "really a mass expansion in some ways of"
+ },
+ {
+  "start": 255.8,
+  "duration": 3.559,
+  "text": "what people think of as design. And of"
+ },
+ {
+  "start": 258.079,
+  "duration": 2.961,
+  "text": "course, what's going on behind the"
+ },
+ {
+  "start": 259.359,
+  "duration": 4.081,
+  "text": "scenes is that Google is leveraging"
+ },
+ {
+  "start": 261.04,
+  "duration": 4.64,
+  "text": "these new models' capabilities to code"
+ },
+ {
+  "start": 263.44,
+  "duration": 3.64,
+  "text": "to make a better design experience. A"
+ },
+ {
+  "start": 265.68,
+  "duration": 4.16,
+  "text": "couple days later, they dropped a set of"
+ },
+ {
+  "start": 267.08,
+  "duration": 4.04,
+  "text": "new starter ideas that show how blurry a"
+ },
+ {
+  "start": 269.84,
+  "duration": 3.96,
+  "text": "lot of these knowledge work tasks are"
+ },
+ {
+  "start": 271.12,
+  "duration": 4.72,
+  "text": "getting. Their starter idea number one"
+ },
+ {
+  "start": 273.8,
+  "duration": 4.44,
+  "text": "was to take a messy document and turn it"
+ },
+ {
+  "start": 275.84,
+  "duration": 4.44,
+  "text": "into a fully styled portfolio. And"
+ },
+ {
+  "start": 278.24,
+  "duration": 3.64,
+  "text": "what's clear is that Google has ambition"
+ },
+ {
+  "start": 280.28,
+  "duration": 4.2,
+  "text": "to be integrating and expanding these"
+ },
+ {
+  "start": 281.88,
+  "duration": 5.08,
+  "text": "experiences in very short order. Logan"
+ },
+ {
+  "start": 284.48,
+  "duration": 3.88,
+  "text": "Kilpatrick again writes, \"Our AI Studio"
+ },
+ {
+  "start": 286.96,
+  "duration": 3.12,
+  "text": "vibe coding roadmap for the next few"
+ },
+ {
+  "start": 288.36,
+  "duration": 3.12,
+  "text": "weeks includes design mode, Figma"
+ },
+ {
+  "start": 290.08,
+  "duration": 3.0,
+  "text": "integration, Google Workspace"
+ },
+ {
+  "start": 291.48,
+  "duration": 3.32,
+  "text": "integration, better GitHub support,"
+ },
+ {
+  "start": 293.08,
+  "duration": 3.12,
+  "text": "planning mode, immersive UI, agents,"
+ },
+ {
+  "start": 294.8,
+  "duration": 3.64,
+  "text": "multiple chats per app, simplified"
+ },
+ {
+  "start": 296.2,
+  "duration": 5.2,
+  "text": "deploys, G1 support, and more.\""
+ },
+ {
+  "start": 298.44,
+  "duration": 4.8,
+  "text": "Easy AI CMO Mustafa writes, \"Google"
+ },
+ {
+  "start": 301.4,
+  "duration": 4.0,
+  "text": "rebuilt AI Studio from scratch just to"
+ },
+ {
+  "start": 303.24,
+  "duration": 4.2,
+  "text": "add vibe coding. Four months of work for"
+ },
+ {
+  "start": 305.4,
+  "duration": 4.28,
+  "text": "one feature. That tells you everything"
+ },
+ {
+  "start": 307.44,
+  "duration": 3.88,
+  "text": "about where the industry is headed. Vibe"
+ },
+ {
+  "start": 309.68,
+  "duration": 4.32,
+  "text": "coding isn't a trend anymore, it's the"
+ },
+ {
+  "start": 311.32,
+  "duration": 4.36,
+  "text": "default interface. And that, of course,"
+ },
+ {
+  "start": 314.0,
+  "duration": 3.6,
+  "text": "is what I think is the broader point in"
+ },
+ {
+  "start": 315.68,
+  "duration": 3.8,
+  "text": "all of these announcements."
+ },
+ {
+  "start": 317.6,
+  "duration": 4.68,
+  "text": "So, what's the next one? The next one is"
+ },
+ {
+  "start": 319.48,
+  "duration": 5.16,
+  "text": "Lovable for General Tasks. Lovable CEO"
+ },
+ {
+  "start": 322.28,
+  "duration": 4.68,
+  "text": "Antono Sicca writes, \"Lovable has always"
+ },
+ {
+  "start": 324.64,
+  "duration": 3.88,
+  "text": "been for building apps. Today, it also"
+ },
+ {
+  "start": 326.96,
+  "duration": 3.28,
+  "text": "becomes your data scientist, your"
+ },
+ {
+  "start": 328.52,
+  "duration": 3.56,
+  "text": "business analyst, your deck builder, and"
+ },
+ {
+  "start": 330.24,
+  "duration": 3.92,
+  "text": "your marketing assistant. This is a big"
+ },
+ {
+  "start": 332.08,
+  "duration": 3.96,
+  "text": "step towards what Lovable is becoming, a"
+ },
+ {
+  "start": 334.16,
+  "duration": 3.84,
+  "text": "general-purpose co-founder that can do"
+ },
+ {
+  "start": 336.04,
+  "duration": 3.48,
+  "text": "anything.\" Some of the examples they"
+ },
+ {
+  "start": 338.0,
+  "duration": 3.4,
+  "text": "show to show off the new tools,"
+ },
+ {
+  "start": 339.52,
+  "duration": 3.48,
+  "text": "including dropping in a CSV file of"
+ },
+ {
+  "start": 341.4,
+  "duration": 3.56,
+  "text": "health industry data to find a startup"
+ },
+ {
+  "start": 343.0,
+  "duration": 3.56,
+  "text": "idea, taking an application that you've"
+ },
+ {
+  "start": 344.96,
+  "duration": 3.64,
+  "text": "built in Lovable, and then creating"
+ },
+ {
+  "start": 346.56,
+  "duration": 4.0,
+  "text": "marketing assets to help launch it, or"
+ },
+ {
+  "start": 348.6,
+  "duration": 3.88,
+  "text": "creating a pitch deck for that app."
+ },
+ {
+  "start": 350.56,
+  "duration": 3.68,
+  "text": "Now, what's interesting is that this is"
+ },
+ {
+  "start": 352.48,
+  "duration": 3.36,
+  "text": "actually quite similar to what Replit"
+ },
+ {
+  "start": 354.24,
+  "duration": 3.56,
+  "text": "announced with Replit Agent 4 a couple"
+ },
+ {
+  "start": 355.84,
+  "duration": 4.48,
+  "text": "weeks ago. In his announcement tweet,"
+ },
+ {
+  "start": 357.8,
+  "duration": 4.24,
+  "text": "Replit CEO Amjad Massad wrote, \"Software"
+ },
+ {
+  "start": 360.32,
+  "duration": 4.08,
+  "text": "isn't merely technical work anymore,"
+ },
+ {
+  "start": 362.04,
+  "duration": 4.76,
+  "text": "it's creative. Introducing Replit Agent"
+ },
+ {
+  "start": 364.4,
+  "duration": 4.64,
+  "text": "4. Design on an infinite canvas, work"
+ },
+ {
+  "start": 366.8,
+  "duration": 4.32,
+  "text": "with your team, run parallel agents, and"
+ },
+ {
+  "start": 369.04,
+  "duration": 3.24,
+  "text": "ship working apps, sites, slides, and"
+ },
+ {
+  "start": 371.12,
+  "duration": 2.92,
+  "text": "more.\""
+ },
+ {
+  "start": 372.28,
+  "duration": 3.44,
+  "text": "So, let me show you an example of how"
+ },
+ {
+  "start": 374.04,
+  "duration": 3.6,
+  "text": "these things are all blending. What"
+ },
+ {
+  "start": 375.72,
+  "duration": 3.56,
+  "text": "you're looking at right now, or hearing"
+ },
+ {
+  "start": 377.64,
+  "duration": 3.92,
+  "text": "me describe if you're just listening, is"
+ },
+ {
+  "start": 379.28,
+  "duration": 5.0,
+  "text": "effectively a slides-as-a-webpage view"
+ },
+ {
+  "start": 381.56,
+  "duration": 4.0,
+  "text": "of our February AIDB Usage Pulse Survey."
+ },
+ {
+  "start": 384.28,
+  "duration": 2.64,
+  "text": "Even though the information is still"
+ },
+ {
+  "start": 385.56,
+  "duration": 3.24,
+  "text": "conveyed in slides, you can interact"
+ },
+ {
+  "start": 386.92,
+  "duration": 3.84,
+  "text": "with it like it's a website."
+ },
+ {
+  "start": 388.8,
+  "duration": 3.72,
+  "text": "Basically, I built the website version"
+ },
+ {
+  "start": 390.76,
+  "duration": 4.56,
+  "text": "and the downloadable slides version at"
+ },
+ {
+  "start": 392.52,
+  "duration": 4.68,
+  "text": "the same time using Replit's Agent 4."
+ },
+ {
+  "start": 395.32,
+  "duration": 3.68,
+  "text": "And it turns out that this pattern of"
+ },
+ {
+  "start": 397.2,
+  "duration": 3.0,
+  "text": "the blurring of information output is"
+ },
+ {
+  "start": 399.0,
+  "duration": 2.4,
+  "text": "not something brand new just being"
+ },
+ {
+  "start": 400.2,
+  "duration": 2.56,
+  "text": "explored by these companies for the"
+ },
+ {
+  "start": 401.4,
+  "duration": 2.76,
+  "text": "first time."
+ },
+ {
+  "start": 402.76,
+  "duration": 3.8,
+  "text": "For example, when you're working in"
+ },
+ {
+  "start": 404.16,
+  "duration": 4.2,
+  "text": "Gamma, when you start something new, you"
+ },
+ {
+  "start": 406.56,
+  "duration": 3.92,
+  "text": "have the option to create a document, a"
+ },
+ {
+  "start": 408.36,
+  "duration": 3.96,
+  "text": "presentation, a mobile experience, or a"
+ },
+ {
+  "start": 410.48,
+  "duration": 4.68,
+  "text": "webpage, or you can do it all at the"
+ },
+ {
+  "start": 412.32,
+  "duration": 5.2,
+  "text": "same time. When you were using GenSpark"
+ },
+ {
+  "start": 415.16,
+  "duration": 3.64,
+  "text": "or Manas to build slides, what's"
+ },
+ {
+  "start": 417.52,
+  "duration": 3.88,
+  "text": "happening behind the scenes is that"
+ },
+ {
+  "start": 418.8,
+  "duration": 4.0,
+  "text": "their general agent is using code to"
+ },
+ {
+  "start": 421.4,
+  "duration": 3.64,
+  "text": "deliver against anything that you're"
+ },
+ {
+  "start": 422.8,
+  "duration": 3.88,
+  "text": "actually looking for as an output. In"
+ },
+ {
+  "start": 425.04,
+  "duration": 3.52,
+  "text": "other words, the GenSpark general agent"
+ },
+ {
+  "start": 426.68,
+  "duration": 4.08,
+  "text": "is a coding agent with the coding part"
+ },
+ {
+  "start": 428.56,
+  "duration": 3.48,
+  "text": "abstracted and the output format placed"
+ },
+ {
+  "start": 430.76,
+  "duration": 2.8,
+  "text": "front and center."
+ },
+ {
+  "start": 432.04,
+  "duration": 3.44,
+  "text": "Which is why I think people are a little"
+ },
+ {
+  "start": 433.56,
+  "duration": 2.88,
+  "text": "off with one of the common responses"
+ },
+ {
+  "start": 435.48,
+  "duration": 2.56,
+  "text": "that I've seen to Lovable's"
+ },
+ {
+  "start": 436.44,
+  "duration": 3.88,
+  "text": "announcement, that this is a move of"
+ },
+ {
+  "start": 438.04,
+  "duration": 4.12,
+  "text": "some type of desperation. Adam Barta"
+ },
+ {
+  "start": 440.32,
+  "duration": 3.68,
+  "text": "writes, \"First sign that Lovable is"
+ },
+ {
+  "start": 442.16,
+  "duration": 3.12,
+  "text": "dead. Pivoting to general assistant is"
+ },
+ {
+  "start": 444.0,
+  "duration": 3.32,
+  "text": "the most investor-pleasing move you"
+ },
+ {
+  "start": 445.28,
+  "duration": 3.36,
+  "text": "could do. Their app-building business is"
+ },
+ {
+  "start": 447.32,
+  "duration": 3.32,
+  "text": "obviously going nowhere, and investor"
+ },
+ {
+  "start": 448.64,
+  "duration": 3.28,
+  "text": "money is drying up. Why should anyone"
+ },
+ {
+  "start": 450.64,
+  "duration": 3.72,
+  "text": "use Lovable instead of the already"
+ },
+ {
+  "start": 451.92,
+  "duration": 4.56,
+  "text": "established ecosystems?\" Now, for what"
+ },
+ {
+  "start": 454.36,
+  "duration": 4.44,
+  "text": "it's worth, just a week ago, Lovable"
+ },
+ {
+  "start": 456.48,
+  "duration": 4.84,
+  "text": "reported that its ARR jumped from 300 to"
+ },
+ {
+  "start": 458.8,
+  "duration": 3.84,
+  "text": "400 million in a single month. So, I'm"
+ },
+ {
+  "start": 461.32,
+  "duration": 3.04,
+  "text": "not sure that it's fair to say that its"
+ },
+ {
+  "start": 462.64,
+  "duration": 2.84,
+  "text": "app coding business is going nowhere,"
+ },
+ {
+  "start": 464.36,
+  "duration": 3.6,
+  "text": "but Adam's hardly alone in this"
+ },
+ {
+  "start": 465.48,
+  "duration": 3.88,
+  "text": "sentiment. Tyler Angert writes, \"This is"
+ },
+ {
+  "start": 467.96,
+  "duration": 3.28,
+  "text": "the founder equivalent to becoming a"
+ },
+ {
+  "start": 469.36,
+  "duration": 3.6,
+  "text": "paperclip maximizer. Increase"
+ },
+ {
+  "start": 471.24,
+  "duration": 3.32,
+  "text": "shareholder value, they said. We must"
+ },
+ {
+  "start": 472.96,
+  "duration": 3.04,
+  "text": "increase our TAM to 8 billion, therefore"
+ },
+ {
+  "start": 474.56,
+  "duration": 3.6,
+  "text": "we will literally make our core product"
+ },
+ {
+  "start": 476.0,
+  "duration": 4.32,
+  "text": "a kitchen sink for general-purpose work."
+ },
+ {
+  "start": 478.16,
+  "duration": 4.0,
+  "text": "Why? Just make separate products if you"
+ },
+ {
+  "start": 480.32,
+  "duration": 4.16,
+  "text": "were so inclined. What a completely"
+ },
+ {
+  "start": 482.16,
+  "duration": 4.52,
+  "text": "dilutive move. Going as horizontal as"
+ },
+ {
+  "start": 484.48,
+  "duration": 3.76,
+  "text": "possible with no opinion.\" Hardik Pandya"
+ },
+ {
+  "start": 486.68,
+  "duration": 3.76,
+  "text": "writes, \"Complete strategic dilution."
+ },
+ {
+  "start": 488.24,
+  "duration": 4.04,
+  "text": "May not go well. It's a huge reach to go"
+ },
+ {
+  "start": 490.44,
+  "duration": 3.72,
+  "text": "from building apps to doing anything a"
+ },
+ {
+  "start": 492.28,
+  "duration": 3.44,
+  "text": "business needs.\""
+ },
+ {
+  "start": 494.16,
+  "duration": 3.28,
+  "text": "Now, of course, not everyone agrees."
+ },
+ {
+  "start": 495.72,
+  "duration": 3.24,
+  "text": "Prajwal Tomar writes, \"People say"
+ },
+ {
+  "start": 497.44,
+  "duration": 3.44,
+  "text": "Lovable is spreading too thin by going"
+ },
+ {
+  "start": 498.96,
+  "duration": 3.8,
+  "text": "beyond code, but think about it. You"
+ },
+ {
+  "start": 500.88,
+  "duration": 3.2,
+  "text": "need to build the MVP, analyze user"
+ },
+ {
+  "start": 502.76,
+  "duration": 3.12,
+  "text": "data, pitch investors, and run"
+ },
+ {
+  "start": 504.08,
+  "duration": 4.0,
+  "text": "marketing. It just became the tool that"
+ },
+ {
+  "start": 505.88,
+  "duration": 4.28,
+  "text": "does all of that in one place. No more"
+ },
+ {
+  "start": 508.08,
+  "duration": 4.12,
+  "text": "jumping between five different AI tools."
+ },
+ {
+  "start": 510.16,
+  "duration": 3.48,
+  "text": "This saves so much time.\""
+ },
+ {
+  "start": 512.2,
+  "duration": 3.48,
+  "text": "And while that's a totally reasonable"
+ },
+ {
+  "start": 513.64,
+  "duration": 3.56,
+  "text": "argument about the product value here, I"
+ },
+ {
+  "start": 515.68,
+  "duration": 2.96,
+  "text": "think Peter Yang has the right of it"
+ },
+ {
+  "start": 517.2,
+  "duration": 3.519,
+  "text": "when he writes, and in this case, this"
+ },
+ {
+  "start": 518.64,
+  "duration": 4.2,
+  "text": "was after the Replit Agent 4 launch,"
+ },
+ {
+  "start": 520.719,
+  "duration": 4.401,
+  "text": "\"Code is the foundation of all knowledge"
+ },
+ {
+  "start": 522.84,
+  "duration": 4.08,
+  "text": "work. If an agent can write code, it can"
+ },
+ {
+  "start": 525.12,
+  "duration": 3.56,
+  "text": "also generate apps, presentations,"
+ },
+ {
+  "start": 526.92,
+  "duration": 3.28,
+  "text": "animations, and more.\""
+ },
+ {
+  "start": 528.68,
+  "duration": 2.48,
+  "text": "Indeed, he resurfaced with that same"
+ },
+ {
+  "start": 530.2,
+  "duration": 2.6,
+  "text": "sentiment around the Lovable"
+ },
+ {
+  "start": 531.16,
+  "duration": 3.16,
+  "text": "announcement writing, \"Code is the"
+ },
+ {
+  "start": 532.8,
+  "duration": 3.56,
+  "text": "foundation of all knowledge work."
+ },
+ {
+  "start": 534.32,
+  "duration": 3.08,
+  "text": "Another proof point right here.\""
+ },
+ {
+  "start": 536.36,
+  "duration": 2.84,
+  "text": "Now, this is, of course, something that"
+ },
+ {
+  "start": 537.4,
+  "duration": 3.76,
+  "text": "we've talked about on this show before."
+ },
+ {
+  "start": 539.2,
+  "duration": 4.84,
+  "text": "In January, I did an episode called Code"
+ },
+ {
+  "start": 541.16,
+  "duration": 4.84,
+  "text": "AGI is functional AGI, about why the"
+ },
+ {
+  "start": 544.04,
+  "duration": 3.36,
+  "text": "advances in coding capability mattered,"
+ },
+ {
+  "start": 546.0,
+  "duration": 3.08,
+  "text": "not just because of the way that it"
+ },
+ {
+  "start": 547.4,
+  "duration": 4.0,
+  "text": "would impact software engineering, or"
+ },
+ {
+  "start": 549.08,
+  "duration": 5.08,
+  "text": "even vibe coding tools, but because of"
+ },
+ {
+  "start": 551.4,
+  "duration": 4.64,
+  "text": "the other capabilities that it unlocked."
+ },
+ {
+  "start": 554.16,
+  "duration": 3.72,
+  "text": "And providing a little evidence that"
+ },
+ {
+  "start": 556.04,
+  "duration": 3.44,
+  "text": "even thinking about vibe coding as its"
+ },
+ {
+  "start": 557.88,
+  "duration": 4.08,
+  "text": "own category might be increasingly"
+ },
+ {
+  "start": 559.48,
+  "duration": 4.84,
+  "text": "reductive, one interesting finding from"
+ },
+ {
+  "start": 561.96,
+  "duration": 4.24,
+  "text": "our AI Usage Pulse Survey for February,"
+ },
+ {
+  "start": 564.32,
+  "duration": 3.2,
+  "text": "which admittedly is at the very vanguard"
+ },
+ {
+  "start": 566.2,
+  "duration": 3.6,
+  "text": "of users, given that it's all of you"
+ },
+ {
+  "start": 567.52,
+  "duration": 4.2,
+  "text": "guys answering, who as listeners to a"
+ },
+ {
+  "start": 569.8,
+  "duration": 3.24,
+  "text": "daily AI show are not going to represent"
+ },
+ {
+  "start": 571.72,
+  "duration": 4.2,
+  "text": "the average human being, let's just put"
+ },
+ {
+  "start": 573.04,
+  "duration": 4.52,
+  "text": "it that way, still 71.3%"
+ },
+ {
+  "start": 575.92,
+  "duration": 4.88,
+  "text": "of respondents were vibe coding in"
+ },
+ {
+  "start": 577.56,
+  "duration": 5.08,
+  "text": "February. 62% had some use case that"
+ },
+ {
+  "start": 580.8,
+  "duration": 4.32,
+  "text": "went beyond just assistant into the"
+ },
+ {
+  "start": 582.64,
+  "duration": 4.56,
+  "text": "realm of automated or agentic AI. And"
+ },
+ {
+  "start": 585.12,
+  "duration": 3.48,
+  "text": "while we saw coding use cases continue"
+ },
+ {
+  "start": 587.2,
+  "duration": 3.92,
+  "text": "to be the most common and highest"
+ },
+ {
+  "start": 588.6,
+  "duration": 4.68,
+  "text": "reported value use cases, we also saw a"
+ },
+ {
+  "start": 591.12,
+  "duration": 3.84,
+  "text": "real diversification from coding into"
+ },
+ {
+  "start": 593.28,
+  "duration": 3.28,
+  "text": "other strategic knowledge work areas"
+ },
+ {
+  "start": 594.96,
+  "duration": 3.0,
+  "text": "like data analysis and strategic"
+ },
+ {
+  "start": 596.56,
+  "duration": 2.6,
+  "text": "planning."
+ },
+ {
+  "start": 597.96,
+  "duration": 3.36,
+  "text": "For some, what's happening is just"
+ },
+ {
+  "start": 599.16,
+  "duration": 4.76,
+  "text": "completely inevitable. Wobby creator"
+ },
+ {
+  "start": 601.32,
+  "duration": 4.48,
+  "text": "Eugenia Kuyda writes, \"2026 will be the"
+ },
+ {
+  "start": 603.92,
+  "duration": 3.92,
+  "text": "year when every AI product converges"
+ },
+ {
+  "start": 605.8,
+  "duration": 4.2,
+  "text": "into some version of Open Claw.\""
+ },
+ {
+  "start": 607.84,
+  "duration": 4.08,
+  "text": "Ben Vinegar puts it more poetically,"
+ },
+ {
+  "start": 610.0,
+  "duration": 3.4,
+  "text": "\"You either die a code gen tool or live"
+ },
+ {
+  "start": 611.92,
+  "duration": 2.6,
+  "text": "long enough to become the everything"
+ },
+ {
+  "start": 613.4,
+  "duration": 3.28,
+  "text": "app.\""
+ },
+ {
+  "start": 614.52,
+  "duration": 3.32,
+  "text": "Which brings us to Open AI."
+ },
+ {
+  "start": 616.68,
+  "duration": 2.96,
+  "text": "On Thursday night, The Wall Street"
+ },
+ {
+  "start": 617.84,
+  "duration": 3.56,
+  "text": "Journal released an exclusive report"
+ },
+ {
+  "start": 619.64,
+  "duration": 4.16,
+  "text": "about Open AI's plans to launch a"
+ },
+ {
+  "start": 621.4,
+  "duration": 5.0,
+  "text": "desktop super app that would combine"
+ },
+ {
+  "start": 623.8,
+  "duration": 4.36,
+  "text": "Chat GPT, Codex, and their browser into"
+ },
+ {
+  "start": 626.4,
+  "duration": 3.6,
+  "text": "a single experience."
+ },
+ {
+  "start": 628.16,
+  "duration": 3.96,
+  "text": "The WSJ points out that the strategy"
+ },
+ {
+  "start": 630.0,
+  "duration": 3.76,
+  "text": "marks a shift from Open AI's previous"
+ },
+ {
+  "start": 632.12,
+  "duration": 3.12,
+  "text": "approach to launching lots of standalone"
+ },
+ {
+  "start": 633.76,
+  "duration": 3.44,
+  "text": "products that all had to stand on their"
+ },
+ {
+  "start": 635.24,
+  "duration": 3.44,
+  "text": "own two feet. Now, this of course gets"
+ },
+ {
+  "start": 637.2,
+  "duration": 3.52,
+  "text": "back to those comments from CEO of"
+ },
+ {
+  "start": 638.68,
+  "duration": 3.2,
+  "text": "applications Fidji Simo, where she told"
+ },
+ {
+  "start": 640.72,
+  "duration": 3.0,
+  "text": "the company that they were going to stop"
+ },
+ {
+  "start": 641.88,
+  "duration": 3.16,
+  "text": "focusing on side quests and spreading"
+ },
+ {
+  "start": 643.72,
+  "duration": 2.56,
+  "text": "their efforts across too many different"
+ },
+ {
+  "start": 645.04,
+  "duration": 3.28,
+  "text": "areas."
+ },
+ {
+  "start": 646.28,
+  "duration": 4.68,
+  "text": "Peter Yang again writes, \"I think Open"
+ },
+ {
+  "start": 648.32,
+  "duration": 4.24,
+  "text": "AI's strategy is pretty clear. One, more"
+ },
+ {
+  "start": 650.96,
+  "duration": 4.04,
+  "text": "people have Chat GPT installed than any"
+ },
+ {
+  "start": 652.56,
+  "duration": 4.28,
+  "text": "other AI product. Two, make Chat GPT"
+ },
+ {
+  "start": 655.0,
+  "duration": 3.36,
+  "text": "great for coding and knowledge work."
+ },
+ {
+  "start": 656.84,
+  "duration": 2.72,
+  "text": "Three, make it a personal assistant like"
+ },
+ {
+  "start": 658.36,
+  "duration": 3.08,
+  "text": "Open Claw that knows you and can do"
+ },
+ {
+  "start": 659.56,
+  "duration": 3.32,
+  "text": "whatever you want. They just need to get"
+ },
+ {
+  "start": 661.44,
+  "duration": 2.96,
+  "text": "to two and three faster before people"
+ },
+ {
+  "start": 662.88,
+  "duration": 3.04,
+  "text": "switch to Claude or Gemini for the same"
+ },
+ {
+  "start": 664.4,
+  "duration": 3.52,
+  "text": "use cases.\""
+ },
+ {
+  "start": 665.92,
+  "duration": 3.68,
+  "text": "Swix, aka Shawn Wang from Latent Space,"
+ },
+ {
+  "start": 667.92,
+  "duration": 3.28,
+  "text": "pointed out meanwhile that a very long"
+ },
+ {
+  "start": 669.6,
+  "duration": 3.52,
+  "text": "time ago he had written a blog post with"
+ },
+ {
+  "start": 671.2,
+  "duration": 3.4,
+  "text": "the line, \"Attempts at building super"
+ },
+ {
+  "start": 673.12,
+  "duration": 4.0,
+  "text": "apps have repeatedly failed outside"
+ },
+ {
+  "start": 674.6,
+  "duration": 4.04,
+  "text": "China, but it's clear that both Chat GPT"
+ },
+ {
+  "start": 677.12,
+  "duration": 3.719,
+  "text": "and Claude co-work are well on their way"
+ },
+ {
+  "start": 678.64,
+  "duration": 3.8,
+  "text": "to being AI super apps. Except instead"
+ },
+ {
+  "start": 680.839,
+  "duration": 3.521,
+  "text": "of having every app having their own"
+ },
+ {
+  "start": 682.44,
+  "duration": 4.8,
+  "text": "app, they make themselves legible to the"
+ },
+ {
+  "start": 684.36,
+  "duration": 5.52,
+  "text": "AI overlords with MCP, UI, and skills,"
+ },
+ {
+  "start": 687.24,
+  "duration": 4.68,
+  "text": "and Open Claw markdown files.\""
+ },
+ {
+  "start": 689.88,
+  "duration": 3.36,
+  "text": "Speaking of Open Claw, one of the other"
+ },
+ {
+  "start": 691.92,
+  "duration": 3.04,
+  "text": "things that we've been watching is the"
+ },
+ {
+  "start": 693.24,
+  "duration": 3.48,
+  "text": "way that Anthropic has been slowly going"
+ },
+ {
+  "start": 694.96,
+  "duration": 3.56,
+  "text": "one by one through the features of Open"
+ },
+ {
+  "start": 696.72,
+  "duration": 3.28,
+  "text": "Claw that people like and adding them"
+ },
+ {
+  "start": 698.52,
+  "duration": 3.56,
+  "text": "into the core Claude code or Claude"
+ },
+ {
+  "start": 700.0,
+  "duration": 3.44,
+  "text": "co-work experience. The most recent"
+ },
+ {
+  "start": 702.08,
+  "duration": 3.52,
+  "text": "announcement on that front comes from"
+ },
+ {
+  "start": 703.44,
+  "duration": 3.8,
+  "text": "Tariq from Claude Code, who writes, \"We"
+ },
+ {
+  "start": 705.6,
+  "duration": 3.04,
+  "text": "just released Claude Code channels,"
+ },
+ {
+  "start": 707.24,
+  "duration": 3.44,
+  "text": "which allows you to control your Claude"
+ },
+ {
+  "start": 708.64,
+  "duration": 4.199,
+  "text": "Code session through select MCPs,"
+ },
+ {
+  "start": 710.68,
+  "duration": 3.6,
+  "text": "starting with Telegram and Discord."
+ },
+ {
+  "start": 712.839,
+  "duration": 3.281,
+  "text": "Basically, you can now message Claude"
+ },
+ {
+  "start": 714.28,
+  "duration": 3.64,
+  "text": "Code directly from your phone, which was"
+ },
+ {
+  "start": 716.12,
+  "duration": 3.32,
+  "text": "of course a huge draw for the Open Claw"
+ },
+ {
+  "start": 717.92,
+  "duration": 3.2,
+  "text": "experience.\""
+ },
+ {
+  "start": 719.44,
+  "duration": 3.48,
+  "text": "Now, Gokul Rajaram thinks that this"
+ },
+ {
+  "start": 721.12,
+  "duration": 3.6,
+  "text": "shows Open AI and Anthropic heading in"
+ },
+ {
+  "start": 722.92,
+  "duration": 3.88,
+  "text": "slightly different directions. He"
+ },
+ {
+  "start": 724.72,
+  "duration": 3.84,
+  "text": "writes, \"Open AI merging Chat GPT,"
+ },
+ {
+  "start": 726.8,
+  "duration": 3.12,
+  "text": "Codex, and Atlas into one super app,"
+ },
+ {
+  "start": 728.56,
+  "duration": 2.84,
+  "text": "while Anthropic ships features like"
+ },
+ {
+  "start": 729.92,
+  "duration": 3.32,
+  "text": "channels, persistent memory, and 10K"
+ },
+ {
+  "start": 731.4,
+  "duration": 3.32,
+  "text": "skills in the same month. Two very"
+ },
+ {
+  "start": 733.24,
+  "duration": 3.52,
+  "text": "different strategies playing out in real"
+ },
+ {
+  "start": 734.72,
+  "duration": 3.52,
+  "text": "time. One is consolidating everything"
+ },
+ {
+  "start": 736.76,
+  "duration": 3.04,
+  "text": "under one roof, the other is making the"
+ },
+ {
+  "start": 738.24,
+  "duration": 3.8,
+  "text": "core tool so extensible that the"
+ },
+ {
+  "start": 739.8,
+  "duration": 3.64,
+  "text": "ecosystem builds itself around it.\""
+ },
+ {
+  "start": 742.04,
+  "duration": 3.48,
+  "text": "And while he may be right that there is"
+ },
+ {
+  "start": 743.44,
+  "duration": 3.48,
+  "text": "a slight difference in strategy, I think"
+ },
+ {
+  "start": 745.52,
+  "duration": 3.16,
+  "text": "that might have to do more with the"
+ },
+ {
+  "start": 746.92,
+  "duration": 3.2,
+  "text": "starting point of where they are. In"
+ },
+ {
+  "start": 748.68,
+  "duration": 3.36,
+  "text": "other words, Open AI having to deal with"
+ },
+ {
+  "start": 750.12,
+  "duration": 3.48,
+  "text": "product sprawl, then actually being a"
+ },
+ {
+  "start": 752.04,
+  "duration": 2.88,
+  "text": "different strategy."
+ },
+ {
+  "start": 753.6,
+  "duration": 2.56,
+  "text": "It feels a little bit like both ends are"
+ },
+ {
+  "start": 754.92,
+  "duration": 3.6,
+  "text": "working towards the middle here of a"
+ },
+ {
+  "start": 756.16,
+  "duration": 4.4,
+  "text": "very similar type of experience."
+ },
+ {
+  "start": 758.52,
+  "duration": 4.16,
+  "text": "Indeed, certainly Fidji Simo herself"
+ },
+ {
+  "start": 760.56,
+  "duration": 3.96,
+  "text": "seems to suggest that this is more about"
+ },
+ {
+  "start": 762.68,
+  "duration": 3.56,
+  "text": "having a Codex plus experience than it"
+ },
+ {
+  "start": 764.52,
+  "duration": 4.36,
+  "text": "is about having Codex sit alongside a"
+ },
+ {
+  "start": 766.24,
+  "duration": 3.84,
+  "text": "bunch of other experiences. She writes,"
+ },
+ {
+  "start": 768.88,
+  "duration": 3.2,
+  "text": "\"Companies go through phases of"
+ },
+ {
+  "start": 770.08,
+  "duration": 4.12,
+  "text": "exploration and phases of refocus, both"
+ },
+ {
+  "start": 772.08,
+  "duration": 4.2,
+  "text": "are critical. But when new bets start to"
+ },
+ {
+  "start": 774.2,
+  "duration": 3.6,
+  "text": "work, like we're seeing now with Codex,"
+ },
+ {
+  "start": 776.28,
+  "duration": 3.72,
+  "text": "it's very important to double down on"
+ },
+ {
+  "start": 777.8,
+  "duration": 4.16,
+  "text": "them and avoid distractions. Really glad"
+ },
+ {
+  "start": 780.0,
+  "duration": 4.4,
+  "text": "we're seizing this moment.\""
+ },
+ {
+  "start": 781.96,
+  "duration": 4.68,
+  "text": "Put differently, it may not be that Open"
+ },
+ {
+  "start": 784.4,
+  "duration": 4.08,
+  "text": "AI is trying to create a super app, it's"
+ },
+ {
+  "start": 786.64,
+  "duration": 3.0,
+  "text": "that they believe that inherently Codex"
+ },
+ {
+  "start": 788.48,
+  "duration": 3.359,
+  "text": "is their super app and they're"
+ },
+ {
+  "start": 789.64,
+  "duration": 3.96,
+  "text": "organizing everything around it."
+ },
+ {
+  "start": 791.839,
+  "duration": 3.441,
+  "text": "Now, even if I'm right and this"
+ },
+ {
+  "start": 793.6,
+  "duration": 3.44,
+  "text": "convergence does not show flailing and a"
+ },
+ {
+  "start": 795.28,
+  "duration": 4.12,
+  "text": "lack of product vision, but instead a"
+ },
+ {
+  "start": 797.04,
+  "duration": 4.2,
+  "text": "natural path from coding capabilities to"
+ },
+ {
+  "start": 799.4,
+  "duration": 3.12,
+  "text": "broader knowledge work capabilities,"
+ },
+ {
+  "start": 801.24,
+  "duration": 3.16,
+  "text": "that still doesn't mean that the"
+ },
+ {
+  "start": 802.52,
+  "duration": 3.92,
+  "text": "everything app approach will actually"
+ },
+ {
+  "start": 804.4,
+  "duration": 4.08,
+  "text": "work from a product standpoint."
+ },
+ {
+  "start": 806.44,
+  "duration": 3.92,
+  "text": "And Will writes, \"On one hand, I will be"
+ },
+ {
+  "start": 808.48,
+  "duration": 3.24,
+  "text": "happy to have GPT Pro and Codex, but on"
+ },
+ {
+  "start": 810.36,
+  "duration": 2.76,
+  "text": "the other, I've really come to"
+ },
+ {
+  "start": 811.72,
+  "duration": 2.76,
+  "text": "appreciate all the focus and attention"
+ },
+ {
+  "start": 813.12,
+  "duration": 3.52,
+  "text": "they've placed on making a purely"
+ },
+ {
+  "start": 814.48,
+  "duration": 4.4,
+  "text": "software engineering focused product."
+ },
+ {
+  "start": 816.64,
+  "duration": 4.36,
+  "text": "And I think it is worth noting that the"
+ },
+ {
+  "start": 818.88,
+  "duration": 3.72,
+  "text": "other thing that's going on here is just"
+ },
+ {
+  "start": 821.0,
+  "duration": 3.48,
+  "text": "the first large-scale startup"
+ },
+ {
+  "start": 822.6,
+  "duration": 3.72,
+  "text": "competitions in an era where there are"
+ },
+ {
+  "start": 824.48,
+  "duration": 3.76,
+  "text": "officially no motes.\""
+ },
+ {
+  "start": 826.32,
+  "duration": 4.16,
+  "text": "Ed Sim writes, \"When shipping new"
+ },
+ {
+  "start": 828.24,
+  "duration": 4.24,
+  "text": "features cost near zero, every company"
+ },
+ {
+  "start": 830.48,
+  "duration": 4.16,
+  "text": "becomes every company. And when"
+ },
+ {
+  "start": 832.48,
+  "duration": 4.12,
+  "text": "switching costs are also near zero, who"
+ },
+ {
+  "start": 834.64,
+  "duration": 3.36,
+  "text": "wins? The next few months are going to"
+ },
+ {
+  "start": 836.6,
+  "duration": 2.52,
+  "text": "be interesting.\""
+ },
+ {
+  "start": 838.0,
+  "duration": 3.0,
+  "text": "I think it's more than the next few"
+ },
+ {
+  "start": 839.12,
+  "duration": 3.08,
+  "text": "months. I think that we are in a totally"
+ },
+ {
+  "start": 841.0,
+  "duration": 2.68,
+  "text": "different type of company building"
+ },
+ {
+  "start": 842.2,
+  "duration": 3.639,
+  "text": "paradigm that we have barely wrapped our"
+ },
+ {
+  "start": 843.68,
+  "duration": 4.4,
+  "text": "heads around. On the one hand, there are"
+ },
+ {
+  "start": 845.839,
+  "duration": 3.561,
+  "text": "no barriers to entry. People can build"
+ },
+ {
+  "start": 848.08,
+  "duration": 3.56,
+  "text": "and spin things up faster than ever"
+ },
+ {
+  "start": 849.4,
+  "duration": 3.84,
+  "text": "before. Non-technical founders can build"
+ },
+ {
+  "start": 851.64,
+  "duration": 3.56,
+  "text": "the early versions of their products."
+ },
+ {
+  "start": 853.24,
+  "duration": 3.92,
+  "text": "And yet on the other hand, basically all"
+ },
+ {
+  "start": 855.2,
+  "duration": 3.72,
+  "text": "the traditional motes have fallen."
+ },
+ {
+  "start": 857.16,
+  "duration": 4.72,
+  "text": "No barriers to entry, but also no motes"
+ },
+ {
+  "start": 858.92,
+  "duration": 4.96,
+  "text": "is a very strange and kind of viciously"
+ },
+ {
+  "start": 861.88,
+  "duration": 4.0,
+  "text": "competitive environment that makes"
+ },
+ {
+  "start": 863.88,
+  "duration": 4.52,
+  "text": "continual pivots feel like the only"
+ },
+ {
+  "start": 865.88,
+  "duration": 5.04,
+  "text": "operational strategy. In AI land,"
+ },
+ {
+  "start": 868.4,
+  "duration": 4.24,
+  "text": "nothing is going to sit still for long."
+ },
+ {
+  "start": 870.92,
+  "duration": 3.64,
+  "text": "For now, if nothing else, we have a lot"
+ },
+ {
+  "start": 872.64,
+  "duration": 3.439,
+  "text": "of fun new toys to play around with, and"
+ },
+ {
+  "start": 874.56,
+  "duration": 3.36,
+  "text": "for that alone, I am grateful and"
+ },
+ {
+  "start": 876.079,
+  "duration": 3.601,
+  "text": "excited. For now, that that is going to"
+ },
+ {
+  "start": 877.92,
+  "duration": 3.24,
+  "text": "do it for today's AI Daily Brief."
+ },
+ {
+  "start": 879.68,
+  "duration": 5.64,
+  "text": "Appreciate you listening or watching, as"
+ },
+ {
+  "start": 881.16,
+  "duration": 4.16,
+  "text": "always, and until next time, peace."
+ }
+]

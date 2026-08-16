@@ -1,0 +1,2637 @@
+[
+ {
+  "start": 0.4,
+  "duration": 4.84,
+  "text": "Today on the AI Daily Brief, we're"
+ },
+ {
+  "start": 2.24,
+  "duration": 4.72,
+  "text": "talking about your AI Summer Adventure."
+ },
+ {
+  "start": 5.24,
+  "duration": 3.28,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 6.96,
+  "duration": 4.24,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 8.52,
+  "duration": 5.48,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 11.2,
+  "duration": 5.04,
+  "text": "All right, it is a weekend, a summer"
+ },
+ {
+  "start": 14.0,
+  "duration": 4.88,
+  "text": "weekend no less, and we are going to go"
+ },
+ {
+  "start": 16.24,
+  "duration": 4.52,
+  "text": "action-oriented today. For this week's"
+ },
+ {
+  "start": 18.88,
+  "duration": 4.0,
+  "text": "Big Think/Long Reads episode, we're"
+ },
+ {
+  "start": 20.76,
+  "duration": 4.8,
+  "text": "actually going to do two things, both of"
+ },
+ {
+  "start": 22.88,
+  "duration": 4.2,
+  "text": "which are focused on the very practical."
+ },
+ {
+  "start": 25.56,
+  "duration": 3.2,
+  "text": "The first is that Professor Ethan"
+ },
+ {
+  "start": 27.08,
+  "duration": 3.24,
+  "text": "Mollick has published the latest version"
+ },
+ {
+  "start": 28.76,
+  "duration": 4.4,
+  "text": "of a blog post which he's done a number"
+ },
+ {
+  "start": 30.32,
+  "duration": 5.08,
+  "text": "of times that's all about which tools he"
+ },
+ {
+  "start": 33.16,
+  "duration": 4.0,
+  "text": "recommends for different tasks. He"
+ },
+ {
+  "start": 35.4,
+  "duration": 3.8,
+  "text": "called it an opinionated guide to which"
+ },
+ {
+  "start": 37.16,
+  "duration": 3.64,
+  "text": "AI to use to do stuff, and so we're"
+ },
+ {
+  "start": 39.2,
+  "duration": 3.0,
+  "text": "going to look at all his recommendations"
+ },
+ {
+  "start": 40.8,
+  "duration": 3.0,
+  "text": "in case they might influence the way"
+ },
+ {
+  "start": 42.2,
+  "duration": 4.12,
+  "text": "that you want to experiment and change"
+ },
+ {
+  "start": 43.8,
+  "duration": 4.28,
+  "text": "your workflows. Secondly, though, we're"
+ },
+ {
+  "start": 46.32,
+  "duration": 4.6,
+  "text": "going to be introducing the latest"
+ },
+ {
+  "start": 48.08,
+  "duration": 5.04,
+  "text": "training program from AI DB. This one is"
+ },
+ {
+  "start": 50.92,
+  "duration": 4.16,
+  "text": "at summeradventure.ai"
+ },
+ {
+  "start": 53.12,
+  "duration": 4.6,
+  "text": "and is a choose-your-own-adventure"
+ },
+ {
+  "start": 55.08,
+  "duration": 4.4,
+  "text": "to expanding your AI skills."
+ },
+ {
+  "start": 57.72,
+  "duration": 3.76,
+  "text": "We'll talk about how it works and give"
+ },
+ {
+  "start": 59.48,
+  "duration": 3.84,
+  "text": "you a preview of some of the projects."
+ },
+ {
+  "start": 61.48,
+  "duration": 3.039,
+  "text": "But let's start over with Ethan. The"
+ },
+ {
+  "start": 63.32,
+  "duration": 3.84,
+  "text": "first thing that he notes in this new"
+ },
+ {
+  "start": 64.519,
+  "duration": 5.201,
+  "text": "opinionated guide is that a lot has"
+ },
+ {
+  "start": 67.16,
+  "duration": 4.24,
+  "text": "changed since the last time he did this."
+ },
+ {
+  "start": 69.72,
+  "duration": 3.64,
+  "text": "In fact, he writes, \"What it means to"
+ },
+ {
+  "start": 71.4,
+  "duration": 3.64,
+  "text": "use AI to do stuff encompasses so much"
+ },
+ {
+  "start": 73.36,
+  "duration": 3.92,
+  "text": "more stuff than it used to. Until"
+ },
+ {
+  "start": 75.04,
+  "duration": 3.88,
+  "text": "recently, using AI meant talking to a"
+ },
+ {
+  "start": 77.28,
+  "duration": 3.92,
+  "text": "model through a chatbot in a constant"
+ },
+ {
+  "start": 78.92,
+  "duration": 4.0,
+  "text": "back-and-forth conversation. Now, it"
+ },
+ {
+  "start": 81.2,
+  "duration": 3.48,
+  "text": "means using an agentic system where the"
+ },
+ {
+  "start": 82.92,
+  "duration": 3.88,
+  "text": "AI is capable of doing the equivalent of"
+ },
+ {
+  "start": 84.68,
+  "duration": 3.72,
+  "text": "many hours of real human work in one go"
+ },
+ {
+  "start": 86.8,
+  "duration": 3.08,
+  "text": "by combining the brains of an AI model"
+ },
+ {
+  "start": 88.4,
+  "duration": 3.36,
+  "text": "with a set of tools that let it plan and"
+ },
+ {
+  "start": 89.88,
+  "duration": 4.44,
+  "text": "act for you. Basically, an agentic"
+ },
+ {
+  "start": 91.76,
+  "duration": 4.36,
+  "text": "system gives an AI a computer to use."
+ },
+ {
+  "start": 94.32,
+  "duration": 4.16,
+  "text": "So, right at top, Ethan divides his"
+ },
+ {
+  "start": 96.12,
+  "duration": 4.28,
+  "text": "advice into these two categories. And"
+ },
+ {
+  "start": 98.48,
+  "duration": 4.04,
+  "text": "effectively, he says, \"If you are just"
+ },
+ {
+  "start": 100.4,
+  "duration": 4.64,
+  "text": "looking for some low-stakes answer, such"
+ },
+ {
+  "start": 102.52,
+  "duration": 3.84,
+  "text": "as asking a chatbot for a recipe or even"
+ },
+ {
+  "start": 105.04,
+  "duration": 3.2,
+  "text": "asking it to help you write a letter or"
+ },
+ {
+  "start": 106.36,
+  "duration": 3.36,
+  "text": "something, pretty much any model that"
+ },
+ {
+  "start": 108.24,
+  "duration": 3.4,
+  "text": "you might use, including any of the free"
+ },
+ {
+  "start": 109.72,
+  "duration": 3.08,
+  "text": "models, is going to do well enough. On"
+ },
+ {
+  "start": 111.64,
+  "duration": 2.64,
+  "text": "the other hand, for anything where you"
+ },
+ {
+  "start": 112.8,
+  "duration": 2.8,
+  "text": "really care about the answer, you're"
+ },
+ {
+  "start": 114.28,
+  "duration": 4.16,
+  "text": "going to want to be using one of the"
+ },
+ {
+  "start": 115.6,
+  "duration": 5.04,
+  "text": "premier models like Fable or 56 Soul set"
+ },
+ {
+  "start": 118.44,
+  "duration": 3.6,
+  "text": "to a reasonably high thinking level. And"
+ },
+ {
+  "start": 120.64,
+  "duration": 2.839,
+  "text": "when it comes to doing real intensive"
+ },
+ {
+  "start": 122.04,
+  "duration": 3.2,
+  "text": "work, Ethan argues that there are"
+ },
+ {
+  "start": 123.479,
+  "duration": 3.881,
+  "text": "effectively only two choices right now,"
+ },
+ {
+  "start": 125.24,
+  "duration": 3.799,
+  "text": "which is Chat GPT or Claude."
+ },
+ {
+  "start": 127.36,
+  "duration": 3.28,
+  "text": "Now, it is worth noting that that means"
+ },
+ {
+  "start": 129.039,
+  "duration": 3.281,
+  "text": "that Gemini is officially out of the"
+ },
+ {
+  "start": 130.64,
+  "duration": 3.04,
+  "text": "rankings at least at this point, which I"
+ },
+ {
+  "start": 132.32,
+  "duration": 3.32,
+  "text": "don't think will come as a surprise to"
+ },
+ {
+  "start": 133.68,
+  "duration": 4.12,
+  "text": "anyone, but still is pretty notable"
+ },
+ {
+  "start": 135.64,
+  "duration": 3.96,
+  "text": "about the state of things. Now, Ethan's"
+ },
+ {
+  "start": 137.8,
+  "duration": 3.6,
+  "text": "next section is called giving your AI a"
+ },
+ {
+  "start": 139.6,
+  "duration": 3.56,
+  "text": "computer. And although he isn't using"
+ },
+ {
+  "start": 141.4,
+  "duration": 3.24,
+  "text": "the word harness, he's effectively"
+ },
+ {
+  "start": 143.16,
+  "duration": 2.84,
+  "text": "talking about the systems that you're"
+ },
+ {
+  "start": 144.64,
+  "duration": 3.2,
+  "text": "going to put in place including"
+ },
+ {
+  "start": 146.0,
+  "duration": 3.72,
+  "text": "controls, permissions, etc. that are"
+ },
+ {
+  "start": 147.84,
+  "duration": 3.88,
+  "text": "going to shape what the models can do."
+ },
+ {
+  "start": 149.72,
+  "duration": 3.76,
+  "text": "He says, for example, I have the systems"
+ },
+ {
+  "start": 151.72,
+  "duration": 3.08,
+  "text": "connected to my email, a non-private"
+ },
+ {
+  "start": 153.48,
+  "duration": 2.68,
+  "text": "part of my Google Drive, and lots of"
+ },
+ {
+  "start": 154.8,
+  "duration": 3.28,
+  "text": "other applications, but you have to"
+ },
+ {
+  "start": 156.16,
+  "duration": 3.24,
+  "text": "decide what you are comfortable with."
+ },
+ {
+  "start": 158.08,
+  "duration": 3.44,
+  "text": "And it's clear that the nudge that Ethan"
+ },
+ {
+  "start": 159.4,
+  "duration": 3.48,
+  "text": "is giving is to actually use these sort"
+ },
+ {
+  "start": 161.52,
+  "duration": 2.64,
+  "text": "of connectors."
+ },
+ {
+  "start": 162.88,
+  "duration": 3.56,
+  "text": "He writes, \"Once you're set up, you can"
+ },
+ {
+  "start": 164.16,
+  "duration": 4.6,
+  "text": "do pretty powerful things. For example,"
+ },
+ {
+  "start": 166.44,
+  "duration": 3.92,
+  "text": "I told both systems connect to my Gmail"
+ },
+ {
+  "start": 168.76,
+  "duration": 3.48,
+  "text": "and help me prep for the MBA seminar I'm"
+ },
+ {
+  "start": 170.36,
+  "duration": 3.4,
+  "text": "giving on Monday the 21st, including"
+ },
+ {
+  "start": 172.24,
+  "duration": 3.6,
+  "text": "building some presentation and demos as"
+ },
+ {
+  "start": 173.76,
+  "duration": 4.12,
+  "text": "inspiration. Answer any outstanding"
+ },
+ {
+  "start": 175.84,
+  "duration": 3.8,
+  "text": "messages on the topic.\" Both systems got"
+ },
+ {
+  "start": 177.88,
+  "duration": 3.32,
+  "text": "to work. They connected to my email and"
+ },
+ {
+  "start": 179.64,
+  "duration": 2.72,
+  "text": "figured out the task, including"
+ },
+ {
+  "start": 181.2,
+  "duration": 2.88,
+  "text": "correctly figuring out that the next"
+ },
+ {
+  "start": 182.36,
+  "duration": 3.28,
+  "text": "Monday the 21st was in September, not"
+ },
+ {
+  "start": 184.08,
+  "duration": 2.92,
+  "text": "August. And after that, they just"
+ },
+ {
+  "start": 185.64,
+  "duration": 3.08,
+  "text": "started working, which is what agents"
+ },
+ {
+  "start": 187.0,
+  "duration": 3.76,
+  "text": "do. They did research on the web,"
+ },
+ {
+  "start": 188.72,
+  "duration": 3.36,
+  "text": "decided on a presentation demo, thought"
+ },
+ {
+  "start": 190.76,
+  "duration": 3.36,
+  "text": "about how I might want to respond to the"
+ },
+ {
+  "start": 192.08,
+  "duration": 3.48,
+  "text": "colleague who emailed me, and more."
+ },
+ {
+  "start": 194.12,
+  "duration": 2.72,
+  "text": "About 10 minutes later, both returned"
+ },
+ {
+  "start": 195.56,
+  "duration": 2.72,
+  "text": "answers having created a range of"
+ },
+ {
+  "start": 196.84,
+  "duration": 3.24,
+  "text": "teaching materials and writing an email"
+ },
+ {
+  "start": 198.28,
+  "duration": 2.92,
+  "text": "to the colleague. This is impressive"
+ },
+ {
+  "start": 200.08,
+  "duration": 3.24,
+  "text": "stuff that would have taken a couple"
+ },
+ {
+  "start": 201.2,
+  "duration": 3.96,
+  "text": "hours of human work. But, he says,"
+ },
+ {
+  "start": 203.32,
+  "duration": 3.56,
+  "text": "\"While Claude only prepared a draft,"
+ },
+ {
+  "start": 205.16,
+  "duration": 4.079,
+  "text": "Chat GPT actually sent an email to my"
+ },
+ {
+  "start": 206.88,
+  "duration": 4.48,
+  "text": "colleagues. What happened? Well, it was"
+ },
+ {
+  "start": 209.239,
+  "duration": 3.681,
+  "text": "my fault. I had previously given Chat"
+ },
+ {
+  "start": 211.36,
+  "duration": 3.64,
+  "text": "GPT permission to send email on my"
+ },
+ {
+  "start": 212.92,
+  "duration": 4.08,
+  "text": "behalf, and Claude was told to ask me"
+ },
+ {
+  "start": 215.0,
+  "duration": 4.08,
+  "text": "first.\" So, he says in one of his first"
+ },
+ {
+  "start": 217.0,
+  "duration": 3.76,
+  "text": "big lessons, \"When you use these systems"
+ },
+ {
+  "start": 219.08,
+  "duration": 3.72,
+  "text": "for real work, the permissions matter a"
+ },
+ {
+  "start": 220.76,
+  "duration": 3.32,
+  "text": "lot. Both companies let you decide"
+ },
+ {
+  "start": 222.8,
+  "duration": 2.96,
+  "text": "whether the AI must check with you"
+ },
+ {
+  "start": 224.08,
+  "duration": 3.4,
+  "text": "before acting such as sending an email,"
+ },
+ {
+  "start": 225.76,
+  "duration": 2.92,
+  "text": "buying something, or changing a file."
+ },
+ {
+  "start": 227.48,
+  "duration": 2.759,
+  "text": "Until you trust the system and"
+ },
+ {
+  "start": 228.68,
+  "duration": 3.04,
+  "text": "understand its mistakes, leave"
+ },
+ {
+  "start": 230.239,
+  "duration": 3.561,
+  "text": "everything to ask for approval first,"
+ },
+ {
+  "start": 231.72,
+  "duration": 3.92,
+  "text": "which is the default. As you get more"
+ },
+ {
+  "start": 233.8,
+  "duration": 3.72,
+  "text": "comfortable, Ethan suggests that you can"
+ },
+ {
+  "start": 235.64,
+  "duration": 3.96,
+  "text": "expand how much of your computer the AIs"
+ },
+ {
+  "start": 237.52,
+  "duration": 3.52,
+  "text": "have access to and get more complicated"
+ },
+ {
+  "start": 239.6,
+  "duration": 3.4,
+  "text": "work as a result."
+ },
+ {
+  "start": 241.04,
+  "duration": 3.4,
+  "text": "Indeed, Ethan writes, \"Probably the most"
+ },
+ {
+  "start": 243.0,
+  "duration": 2.8,
+  "text": "interesting trick of these apps is that"
+ },
+ {
+  "start": 244.44,
+  "duration": 3.08,
+  "text": "they can just use your computer the way"
+ },
+ {
+  "start": 245.8,
+  "duration": 4.04,
+  "text": "you would. If you turn on the computer"
+ },
+ {
+  "start": 247.52,
+  "duration": 4.04,
+  "text": "use option in code or Codex, the AI can"
+ },
+ {
+  "start": 249.84,
+  "duration": 3.08,
+  "text": "literally take over your mouse, browser,"
+ },
+ {
+  "start": 251.56,
+  "duration": 3.36,
+  "text": "and computer.\""
+ },
+ {
+  "start": 252.92,
+  "duration": 3.599,
+  "text": "Yes, this is a security concern, so you"
+ },
+ {
+  "start": 254.92,
+  "duration": 4.56,
+  "text": "should proceed carefully. Yet, the"
+ },
+ {
+  "start": 256.519,
+  "duration": 5.161,
+  "text": "results can be amazing. I asked ChatGPT"
+ },
+ {
+  "start": 259.48,
+  "duration": 4.08,
+  "text": "5.6 Soul and Codex to download a 3D"
+ },
+ {
+  "start": 261.68,
+  "duration": 4.12,
+  "text": "modeling program and use it to create a"
+ },
+ {
+  "start": 263.56,
+  "duration": 3.84,
+  "text": "very particular design. Download Blender"
+ },
+ {
+  "start": 265.8,
+  "duration": 2.72,
+  "text": "and make an otter using a laptop on an"
+ },
+ {
+  "start": 267.4,
+  "duration": 2.96,
+  "text": "airplane."
+ },
+ {
+  "start": 268.52,
+  "duration": 3.8,
+  "text": "He then shares a video of the AI doing"
+ },
+ {
+  "start": 270.36,
+  "duration": 3.559,
+  "text": "exactly that. If you put this all"
+ },
+ {
+  "start": 272.32,
+  "duration": 3.12,
+  "text": "together, he says, you will find the AI"
+ },
+ {
+  "start": 273.919,
+  "duration": 3.361,
+  "text": "can do almost anything that a person"
+ },
+ {
+  "start": 275.44,
+  "duration": 3.72,
+  "text": "with access to your computer can do."
+ },
+ {
+  "start": 277.28,
+  "duration": 3.6,
+  "text": "Sometimes much better. I.e., I have no"
+ },
+ {
+  "start": 279.16,
+  "duration": 3.92,
+  "text": "idea how Blender works. Although"
+ },
+ {
+  "start": 280.88,
+  "duration": 3.52,
+  "text": "sometimes worse. I'd rather make my own"
+ },
+ {
+  "start": 283.08,
+  "duration": 3.04,
+  "text": "slides and write my own emails, thank"
+ },
+ {
+  "start": 284.4,
+  "duration": 4.08,
+  "text": "you. But, the AI keeps getting better,"
+ },
+ {
+  "start": 286.12,
+  "duration": 3.76,
+  "text": "so the capabilities keep improving. Now,"
+ },
+ {
+  "start": 288.48,
+  "duration": 3.36,
+  "text": "clearly responding to some of the"
+ },
+ {
+  "start": 289.88,
+  "duration": 3.52,
+  "text": "complaints that he still hears, in one"
+ },
+ {
+  "start": 291.84,
+  "duration": 2.88,
+  "text": "of the examples he gives, he points out"
+ },
+ {
+  "start": 293.4,
+  "duration": 3.0,
+  "text": "where people maybe have mistaken"
+ },
+ {
+  "start": 294.72,
+  "duration": 3.76,
+  "text": "assumptions based on previous iterations"
+ },
+ {
+  "start": 296.4,
+  "duration": 3.64,
+  "text": "of AI. Ethan says, \"I have a new book"
+ },
+ {
+  "start": 298.48,
+  "duration": 2.88,
+  "text": "coming out in October. It has been"
+ },
+ {
+  "start": 300.04,
+  "duration": 3.52,
+  "text": "through rounds of professional editing"
+ },
+ {
+  "start": 301.36,
+  "duration": 4.16,
+  "text": "and proofreading, but I gave GPT 5.6"
+ },
+ {
+  "start": 303.56,
+  "duration": 4.12,
+  "text": "Soul and Codex the full PDF anyway and"
+ },
+ {
+  "start": 305.52,
+  "duration": 4.32,
+  "text": "asked it to check it all over. The AI"
+ },
+ {
+  "start": 307.68,
+  "duration": 3.88,
+  "text": "worked for 30 minutes, chased down 195"
+ },
+ {
+  "start": 309.84,
+  "duration": 2.68,
+  "text": "references, and gave me pages of notes"
+ },
+ {
+  "start": 311.56,
+  "duration": 3.56,
+  "text": "that would have taken a team of"
+ },
+ {
+  "start": 312.52,
+  "duration": 4.84,
+  "text": "researchers many hours. One sign of how"
+ },
+ {
+  "start": 315.12,
+  "duration": 3.76,
+  "text": "far AIs have come is that every one of"
+ },
+ {
+  "start": 317.36,
+  "duration": 3.68,
+  "text": "the AIs' notes was accurate and there"
+ },
+ {
+  "start": 318.88,
+  "duration": 4.36,
+  "text": "were no hallucinated page numbers, no"
+ },
+ {
+  "start": 321.04,
+  "duration": 5.16,
+  "text": "invented text, no errors I could spot at"
+ },
+ {
+  "start": 323.24,
+  "duration": 5.72,
+  "text": "all. In fact, I had the opposite issue."
+ },
+ {
+  "start": 326.2,
+  "duration": 4.44,
+  "text": "The AI was incredibly nitpicky."
+ },
+ {
+  "start": 328.96,
+  "duration": 3.32,
+  "text": "Fortunately, I used my human judgment to"
+ },
+ {
+  "start": 330.64,
+  "duration": 2.92,
+  "text": "reject these sort of complaints, which"
+ },
+ {
+  "start": 332.28,
+  "duration": 3.04,
+  "text": "fits the theme that working with these"
+ },
+ {
+  "start": 333.56,
+  "duration": 3.6,
+  "text": "systems is more like managing than it is"
+ },
+ {
+  "start": 335.32,
+  "duration": 4.2,
+  "text": "chatting. You can almost think of the AI"
+ },
+ {
+  "start": 337.16,
+  "duration": 3.84,
+  "text": "agents as a team you delegate work to."
+ },
+ {
+  "start": 339.52,
+  "duration": 4.08,
+  "text": "Now, lastly, Ethan does come back to"
+ },
+ {
+  "start": 341.0,
+  "duration": 4.56,
+  "text": "Google. He writes, \"Google, which led on"
+ },
+ {
+  "start": 343.6,
+  "duration": 4.12,
+  "text": "benchmarks not that long ago, has fallen"
+ },
+ {
+  "start": 345.56,
+  "duration": 3.6,
+  "text": "behind where it now counts. It has no"
+ },
+ {
+  "start": 347.72,
+  "duration": 3.68,
+  "text": "leading frontier model and has nothing"
+ },
+ {
+  "start": 349.16,
+  "duration": 3.92,
+  "text": "close to Codex and Code. That is why I"
+ },
+ {
+  "start": 351.4,
+  "duration": 3.4,
+  "text": "don't suggest Gemini as your primary"
+ },
+ {
+  "start": 353.08,
+  "duration": 3.8,
+  "text": "system right now, though this could"
+ },
+ {
+  "start": 354.8,
+  "duration": 3.32,
+  "text": "change quickly. However, he says that"
+ },
+ {
+  "start": 356.88,
+  "duration": 3.08,
+  "text": "doesn't mean that Google has nothing to"
+ },
+ {
+  "start": 358.12,
+  "duration": 3.84,
+  "text": "add. He points to Gemini notebook,"
+ },
+ {
+  "start": 359.96,
+  "duration": 3.44,
+  "text": "formerly known as notebook LM, also some"
+ },
+ {
+  "start": 361.96,
+  "duration": 3.72,
+  "text": "of their more rich media models like"
+ },
+ {
+  "start": 363.4,
+  "duration": 4.32,
+  "text": "Gemini Omni, which works with video."
+ },
+ {
+  "start": 365.68,
+  "duration": 3.4,
+  "text": "Now, overall, this is fairly simplistic."
+ },
+ {
+  "start": 367.72,
+  "duration": 2.68,
+  "text": "In fact, with absolutely no shade to"
+ },
+ {
+  "start": 369.08,
+  "duration": 3.68,
+  "text": "Ethan, you might be sitting here"
+ },
+ {
+  "start": 370.4,
+  "duration": 4.04,
+  "text": "thinking, \"Wait, is that it?\" But you"
+ },
+ {
+  "start": 372.76,
+  "duration": 4.12,
+  "text": "have to remember that Ethan is writing"
+ },
+ {
+  "start": 374.44,
+  "duration": 4.64,
+  "text": "to a much wider audience, and indeed"
+ },
+ {
+  "start": 376.88,
+  "duration": 3.48,
+  "text": "probably a much less mature AI using"
+ },
+ {
+  "start": 379.08,
+  "duration": 3.72,
+  "text": "audience than the folks who are"
+ },
+ {
+  "start": 380.36,
+  "duration": 3.88,
+  "text": "listening to a daily AI podcast. And"
+ },
+ {
+  "start": 382.8,
+  "duration": 3.52,
+  "text": "what's interesting to me about this"
+ },
+ {
+  "start": 384.24,
+  "duration": 4.0,
+  "text": "piece, especially as opposed to previous"
+ },
+ {
+  "start": 386.32,
+  "duration": 4.0,
+  "text": "editions of this same idea, is that"
+ },
+ {
+  "start": 388.24,
+  "duration": 3.64,
+  "text": "rather than going use case by use case"
+ },
+ {
+  "start": 390.32,
+  "duration": 3.56,
+  "text": "and point by point and pointing to which"
+ },
+ {
+  "start": 391.88,
+  "duration": 4.72,
+  "text": "model he likes, really what Ethan is"
+ },
+ {
+  "start": 393.88,
+  "duration": 4.56,
+  "text": "doing here is drawing a bright line"
+ },
+ {
+  "start": 396.6,
+  "duration": 4.24,
+  "text": "between two entirely different"
+ },
+ {
+  "start": 398.44,
+  "duration": 4.72,
+  "text": "interaction patterns. On the one side,"
+ },
+ {
+  "start": 400.84,
+  "duration": 3.64,
+  "text": "there is the old chat-based interaction,"
+ },
+ {
+  "start": 403.16,
+  "duration": 3.64,
+  "text": "for which pretty much anything will"
+ },
+ {
+  "start": 404.48,
+  "duration": 5.68,
+  "text": "suffice. And on the other is this"
+ },
+ {
+  "start": 406.8,
+  "duration": 6.16,
+  "text": "totally new managing agents pattern. It"
+ },
+ {
+  "start": 410.16,
+  "duration": 4.8,
+  "text": "is very clear to me that Ethan is trying"
+ },
+ {
+  "start": 412.96,
+  "duration": 4.6,
+  "text": "to make the agents management"
+ },
+ {
+  "start": 414.96,
+  "duration": 4.84,
+  "text": "interaction pattern feel approachable"
+ },
+ {
+  "start": 417.56,
+  "duration": 4.12,
+  "text": "and accessible for people who, if they"
+ },
+ {
+  "start": 419.8,
+  "duration": 3.08,
+  "text": "see words like harness, are just going"
+ },
+ {
+  "start": 421.68,
+  "duration": 3.92,
+  "text": "to have their eyes roll to the back of"
+ },
+ {
+  "start": 422.88,
+  "duration": 5.039,
+  "text": "their heads. But it really is a big"
+ },
+ {
+  "start": 425.6,
+  "duration": 3.6,
+  "text": "shift in working, one that requires not"
+ },
+ {
+  "start": 427.919,
+  "duration": 3.281,
+  "text": "only learning new skills, but"
+ },
+ {
+  "start": 429.2,
+  "duration": 3.84,
+  "text": "reprogramming your brain."
+ },
+ {
+  "start": 431.2,
+  "duration": 4.12,
+  "text": "Which is where now we get to the AI"
+ },
+ {
+  "start": 433.04,
+  "duration": 4.28,
+  "text": "Summer Adventure from the AI Daily Brief"
+ },
+ {
+  "start": 435.32,
+  "duration": 3.64,
+  "text": "and Super Intelligent. I have had a ton"
+ },
+ {
+  "start": 437.32,
+  "duration": 3.32,
+  "text": "of fun over here releasing these various"
+ },
+ {
+  "start": 438.96,
+  "duration": 3.64,
+  "text": "educational type experiences throughout"
+ },
+ {
+  "start": 440.64,
+  "duration": 3.68,
+  "text": "the year. The first was AI DB New Year,"
+ },
+ {
+  "start": 442.6,
+  "duration": 3.76,
+  "text": "which was a 10-week challenge that was"
+ },
+ {
+  "start": 444.32,
+  "duration": 4.08,
+  "text": "meant to give you 10 basic skills of"
+ },
+ {
+  "start": 446.36,
+  "duration": 3.72,
+  "text": "using AI in a way that could level you"
+ },
+ {
+  "start": 448.4,
+  "duration": 3.68,
+  "text": "up over the course of the first period"
+ },
+ {
+  "start": 450.08,
+  "duration": 4.0,
+  "text": "of the year. Tons of people engaged with"
+ },
+ {
+  "start": 452.08,
+  "duration": 2.96,
+  "text": "that, including many in teams, and given"
+ },
+ {
+  "start": 454.08,
+  "duration": 2.32,
+  "text": "the context of what we were just"
+ },
+ {
+  "start": 455.04,
+  "duration": 3.2,
+  "text": "discussing, it's almost quaint looking"
+ },
+ {
+  "start": 456.4,
+  "duration": 3.2,
+  "text": "back how many of the skills from that"
+ },
+ {
+  "start": 458.24,
+  "duration": 3.52,
+  "text": "were really in that pre-agentic"
+ },
+ {
+  "start": 459.6,
+  "duration": 4.28,
+  "text": "paradigm. Now, a couple of later, as we"
+ },
+ {
+  "start": 461.76,
+  "duration": 4.32,
+  "text": "all got with agents and harnesses, and"
+ },
+ {
+  "start": 463.88,
+  "duration": 4.56,
+  "text": "open claw took over our brains, next up"
+ },
+ {
+  "start": 466.08,
+  "duration": 4.44,
+  "text": "was claw camp. This was a crawl through"
+ },
+ {
+  "start": 468.44,
+  "duration": 3.6,
+  "text": "glass experience designed to help you"
+ },
+ {
+  "start": 470.52,
+  "duration": 3.24,
+  "text": "build agents in a way that really led to"
+ },
+ {
+  "start": 472.04,
+  "duration": 3.08,
+  "text": "the learners understanding the guts of"
+ },
+ {
+  "start": 473.76,
+  "duration": 3.08,
+  "text": "these systems and the type of"
+ },
+ {
+  "start": 475.12,
+  "duration": 4.16,
+  "text": "opportunities that they represented."
+ },
+ {
+  "start": 476.84,
+  "duration": 3.8,
+  "text": "However, open claw was only one platform"
+ },
+ {
+  "start": 479.28,
+  "duration": 3.88,
+  "text": "and pretty quickly people stopped"
+ },
+ {
+  "start": 480.64,
+  "duration": 4.24,
+  "text": "thinking about can I build an agent to"
+ },
+ {
+  "start": 483.16,
+  "duration": 3.28,
+  "text": "how do I use Claude Coder Codex or"
+ },
+ {
+  "start": 484.88,
+  "duration": 3.64,
+  "text": "whatever harness I'm working within to"
+ },
+ {
+  "start": 486.44,
+  "duration": 3.48,
+  "text": "build an actual agentic operating system"
+ },
+ {
+  "start": 488.52,
+  "duration": 3.4,
+  "text": "that can help me do lots of different"
+ },
+ {
+  "start": 489.92,
+  "duration": 3.56,
+  "text": "types of work. That's what led to Agent"
+ },
+ {
+  "start": 491.92,
+  "duration": 3.4,
+  "text": "OS, which is still, I would argue, a"
+ },
+ {
+  "start": 493.48,
+  "duration": 3.88,
+  "text": "totally valuable program to go check out"
+ },
+ {
+  "start": 495.32,
+  "duration": 3.88,
+  "text": "if you haven't yet. That once again is a"
+ },
+ {
+  "start": 497.36,
+  "duration": 3.36,
+  "text": "free self-directed program for building"
+ },
+ {
+  "start": 499.2,
+  "duration": 3.8,
+  "text": "an agentic system that can help you do"
+ },
+ {
+  "start": 500.72,
+  "duration": 4.48,
+  "text": "lots of types of work. Agent OS was"
+ },
+ {
+  "start": 503.0,
+  "duration": 3.8,
+  "text": "designed by Neu Fargas Bar, who also now"
+ },
+ {
+  "start": 505.2,
+  "duration": 3.16,
+  "text": "leads our training programs at Super"
+ },
+ {
+  "start": 506.8,
+  "duration": 3.76,
+  "text": "Intelligent, including our executive"
+ },
+ {
+  "start": 508.36,
+  "duration": 3.84,
+  "text": "catch-up program and our executive agent"
+ },
+ {
+  "start": 510.56,
+  "duration": 3.0,
+  "text": "leadership program, which is effectively"
+ },
+ {
+  "start": 512.2,
+  "duration": 2.48,
+  "text": "the enterprise-grade version of Agent"
+ },
+ {
+  "start": 513.56,
+  "duration": 2.84,
+  "text": "OS."
+ },
+ {
+  "start": 514.68,
+  "duration": 3.44,
+  "text": "Now, when it comes to the AI Summer"
+ },
+ {
+  "start": 516.4,
+  "duration": 4.0,
+  "text": "Adventure, this one is purposely"
+ },
+ {
+  "start": 518.12,
+  "duration": 4.12,
+  "text": "designed to be more dynamic and fun and,"
+ },
+ {
+  "start": 520.4,
+  "duration": 3.12,
+  "text": "well, choose your own adventurey."
+ },
+ {
+  "start": 522.24,
+  "duration": 3.0,
+  "text": "Building on the adventure and travel"
+ },
+ {
+  "start": 523.52,
+  "duration": 4.12,
+  "text": "theme, it's organized into different"
+ },
+ {
+  "start": 525.24,
+  "duration": 4.76,
+  "text": "destinations. Each of the 20-plus"
+ },
+ {
+  "start": 527.64,
+  "duration": 4.36,
+  "text": "destinations has a lab or a project that"
+ },
+ {
+  "start": 530.0,
+  "duration": 3.2,
+  "text": "allows you to learn some new skill. Some"
+ },
+ {
+  "start": 532.0,
+  "duration": 2.72,
+  "text": "of them are for beginners, some of them"
+ },
+ {
+  "start": 533.2,
+  "duration": 3.6,
+  "text": "are for intermediate users, and some of"
+ },
+ {
+  "start": 534.72,
+  "duration": 4.0,
+  "text": "them are even advanced. You can filter"
+ },
+ {
+  "start": 536.8,
+  "duration": 3.8,
+  "text": "them by level or by topic, with the"
+ },
+ {
+  "start": 538.72,
+  "duration": 3.8,
+  "text": "topics being things like tools, agents"
+ },
+ {
+  "start": 540.6,
+  "duration": 4.239,
+  "text": "and automation, building and creating or"
+ },
+ {
+  "start": 542.52,
+  "duration": 4.2,
+  "text": "setting up knowledge and context. Once"
+ },
+ {
+  "start": 544.839,
+  "duration": 3.921,
+  "text": "you complete a project, you can stamp"
+ },
+ {
+  "start": 546.72,
+  "duration": 4.16,
+  "text": "your passport. The passport can be just"
+ },
+ {
+  "start": 548.76,
+  "duration": 3.24,
+  "text": "for you, or you can set it to public and"
+ },
+ {
+  "start": 550.88,
+  "duration": 3.24,
+  "text": "share all the cool things that you've"
+ },
+ {
+  "start": 552.0,
+  "duration": 4.0,
+  "text": "done. The more stamps you get, the more"
+ },
+ {
+  "start": 554.12,
+  "duration": 3.48,
+  "text": "street cred you get. One stamp and we"
+ },
+ {
+  "start": 556.0,
+  "duration": 3.56,
+  "text": "call you a day tripper, three stamps and"
+ },
+ {
+  "start": 557.6,
+  "duration": 3.52,
+  "text": "you become a certified AI explorer, at"
+ },
+ {
+  "start": 559.56,
+  "duration": 3.92,
+  "text": "six stamps you're a trailblazer, and at"
+ },
+ {
+  "start": 561.12,
+  "duration": 4.88,
+  "text": "10 stamps you're a globetrotter. Is that"
+ },
+ {
+  "start": 563.48,
+  "duration": 5.2,
+  "text": "the height of millennial cringe? Yes. Do"
+ },
+ {
+  "start": 566.0,
+  "duration": 4.16,
+  "text": "I care? Not even a little. But part of"
+ },
+ {
+  "start": 568.68,
+  "duration": 3.36,
+  "text": "what I'm excited about for the AI"
+ },
+ {
+  "start": 570.16,
+  "duration": 4.04,
+  "text": "Adventure is that, as you saw with both"
+ },
+ {
+  "start": 572.04,
+  "duration": 3.6,
+  "text": "claw camp and Agent OS, a lot of the"
+ },
+ {
+  "start": 574.2,
+  "duration": 4.0,
+  "text": "stuff that we were doing there was very"
+ },
+ {
+  "start": 575.64,
+  "duration": 4.44,
+  "text": "advanced. Whereas when it came to AI DB"
+ },
+ {
+  "start": 578.2,
+  "duration": 3.48,
+  "text": "New Year, a lot of it was really"
+ },
+ {
+  "start": 580.08,
+  "duration": 3.56,
+  "text": "accessible. It was meant to be for"
+ },
+ {
+  "start": 581.68,
+  "duration": 3.96,
+  "text": "people who are still just getting their"
+ },
+ {
+  "start": 583.64,
+  "duration": 3.68,
+  "text": "feet under them when it came to AI."
+ },
+ {
+  "start": 585.64,
+  "duration": 3.2,
+  "text": "We've brought more of that back with AI"
+ },
+ {
+  "start": 587.32,
+  "duration": 3.12,
+  "text": "Adventure. And so, if you have friends"
+ },
+ {
+  "start": 588.84,
+  "duration": 3.96,
+  "text": "or colleagues, or even yourself, have"
+ },
+ {
+  "start": 590.44,
+  "duration": 3.92,
+  "text": "just areas where you feel really behind,"
+ },
+ {
+  "start": 592.8,
+  "duration": 2.6,
+  "text": "even some of the beginner quick trips"
+ },
+ {
+  "start": 594.36,
+  "duration": 3.36,
+  "text": "might be something that you want to"
+ },
+ {
+  "start": 595.4,
+  "duration": 5.2,
+  "text": "check out. One example of a quick trip"
+ },
+ {
+  "start": 597.72,
+  "duration": 5.16,
+  "text": "project we're calling Pack Your ID."
+ },
+ {
+  "start": 600.6,
+  "duration": 3.72,
+  "text": "This is, of course, a context project"
+ },
+ {
+  "start": 602.88,
+  "duration": 3.52,
+  "text": "that helps you build a profile of"
+ },
+ {
+  "start": 604.32,
+  "duration": 4.0,
+  "text": "yourself that you can give any AI you're"
+ },
+ {
+  "start": 606.4,
+  "duration": 3.52,
+  "text": "interacting with so that it has better"
+ },
+ {
+  "start": 608.32,
+  "duration": 3.84,
+  "text": "context about you and can provide you"
+ },
+ {
+  "start": 609.92,
+  "duration": 4.12,
+  "text": "better, more contextual results. The way"
+ },
+ {
+  "start": 612.16,
+  "duration": 3.04,
+  "text": "that these projects or labs work is that"
+ },
+ {
+  "start": 614.04,
+  "duration": 3.88,
+  "text": "they're each going to come with a set of"
+ },
+ {
+  "start": 615.2,
+  "duration": 5.04,
+  "text": "instructions and some set of core tasks,"
+ },
+ {
+  "start": 617.92,
+  "duration": 4.68,
+  "text": "including prompts that you can copy. So,"
+ },
+ {
+  "start": 620.24,
+  "duration": 4.28,
+  "text": "for example, this is a complex prompt"
+ },
+ {
+  "start": 622.6,
+  "duration": 3.48,
+  "text": "that asks the AI to, quote, \"Help me"
+ },
+ {
+  "start": 624.52,
+  "duration": 3.48,
+  "text": "write and install a lightweight global"
+ },
+ {
+  "start": 626.08,
+  "duration": 3.88,
+  "text": "identity for this AI product so future"
+ },
+ {
+  "start": 628.0,
+  "duration": 3.56,
+  "text": "chats start knowing who I am.\" The"
+ },
+ {
+  "start": 629.96,
+  "duration": 3.36,
+  "text": "prompt involves figuring out where"
+ },
+ {
+  "start": 631.56,
+  "duration": 3.36,
+  "text": "standing personal context should live"
+ },
+ {
+  "start": 633.32,
+  "duration": 3.4,
+  "text": "based on the current system. It"
+ },
+ {
+  "start": 634.92,
+  "duration": 3.84,
+  "text": "instructs the AI to interview the user"
+ },
+ {
+  "start": 636.72,
+  "duration": 4.56,
+  "text": "to draft a short brief. Then, finally,"
+ },
+ {
+  "start": 638.76,
+  "duration": 4.28,
+  "text": "it asks the AI to produce one, a"
+ },
+ {
+  "start": 641.28,
+  "duration": 4.36,
+  "text": "paste-ready global ID block of roughly"
+ },
+ {
+  "start": 643.04,
+  "duration": 5.12,
+  "text": "150 to 300 words written as instructions"
+ },
+ {
+  "start": 645.64,
+  "duration": 4.56,
+  "text": "to a future AI assistant. Two, exact"
+ },
+ {
+  "start": 648.16,
+  "duration": 4.48,
+  "text": "install steps for this product's current"
+ },
+ {
+  "start": 650.2,
+  "duration": 4.32,
+  "text": "UI. And three, one test question I"
+ },
+ {
+  "start": 652.64,
+  "duration": 4.32,
+  "text": "should ask in a fresh chat to verify it"
+ },
+ {
+  "start": 654.52,
+  "duration": 3.76,
+  "text": "loaded. I.e., something only my ID would"
+ },
+ {
+  "start": 656.96,
+  "duration": 3.32,
+  "text": "answer well."
+ },
+ {
+  "start": 658.28,
+  "duration": 4.08,
+  "text": "Now, for each lab or project, we're also"
+ },
+ {
+  "start": 660.28,
+  "duration": 4.24,
+  "text": "going to provide some additional layers,"
+ },
+ {
+  "start": 662.36,
+  "duration": 4.0,
+  "text": "i.e., project extensions. In this case,"
+ },
+ {
+  "start": 664.52,
+  "duration": 3.84,
+  "text": "it's add a second block, how to push"
+ },
+ {
+  "start": 666.36,
+  "duration": 3.44,
+  "text": "back on me, when to challenge, when to"
+ },
+ {
+  "start": 668.36,
+  "duration": 3.6,
+  "text": "ask a clarifying question, when to"
+ },
+ {
+  "start": 669.8,
+  "duration": 3.4,
+  "text": "refuse a vague request. And finally,"
+ },
+ {
+  "start": 671.96,
+  "duration": 2.12,
+  "text": "we're also going to give you a stretch"
+ },
+ {
+  "start": 673.2,
+  "duration": 2.92,
+  "text": "goal."
+ },
+ {
+  "start": 674.08,
+  "duration": 3.44,
+  "text": "Now, when it comes to the Pack Your ID,"
+ },
+ {
+  "start": 676.12,
+  "duration": 3.04,
+  "text": "there is actually an even more advanced"
+ },
+ {
+  "start": 677.52,
+  "duration": 4.0,
+  "text": "version of this context project called"
+ },
+ {
+  "start": 679.16,
+  "duration": 4.8,
+  "text": "Personal Brain. I.e., a small set of"
+ },
+ {
+  "start": 681.52,
+  "duration": 4.36,
+  "text": "files that teach any AI who you are,"
+ },
+ {
+  "start": 683.96,
+  "duration": 4.48,
+  "text": "what you're working on, and how you like"
+ },
+ {
+  "start": 685.88,
+  "duration": 4.12,
+  "text": "things done. This is basically a context"
+ },
+ {
+  "start": 688.44,
+  "duration": 3.24,
+  "text": "pack of the type that I shared at"
+ },
+ {
+  "start": 690.0,
+  "duration": 3.6,
+  "text": "contextportfolio.ai"
+ },
+ {
+  "start": 691.68,
+  "duration": 3.28,
+  "text": "in that portfolio builder, but organized"
+ },
+ {
+  "start": 693.6,
+  "duration": 3.84,
+  "text": "as a personal learning experiment"
+ },
+ {
+  "start": 694.96,
+  "duration": 4.16,
+  "text": "instead. Now, if these quick trips are"
+ },
+ {
+  "start": 697.44,
+  "duration": 4.2,
+  "text": "easy ways to get more from the AI you"
+ },
+ {
+  "start": 699.12,
+  "duration": 4.08,
+  "text": "already have, excursions are a type of"
+ },
+ {
+  "start": 701.64,
+  "duration": 3.08,
+  "text": "project where you are going to build"
+ },
+ {
+  "start": 703.2,
+  "duration": 3.32,
+  "text": "something that actually outlasts the"
+ },
+ {
+  "start": 704.72,
+  "duration": 3.2,
+  "text": "current session. The personal brand that"
+ },
+ {
+  "start": 706.52,
+  "duration": 3.52,
+  "text": "I was just talking about is an example"
+ },
+ {
+  "start": 707.92,
+  "duration": 4.16,
+  "text": "of that, but we also have excursions for"
+ },
+ {
+  "start": 710.04,
+  "duration": 4.4,
+  "text": "directing a complete and finished"
+ },
+ {
+  "start": 712.08,
+  "duration": 4.76,
+  "text": "creative piece, i.e. not just one-shot"
+ },
+ {
+  "start": 714.44,
+  "duration": 4.48,
+  "text": "prompted, but actually a full complete"
+ },
+ {
+  "start": 716.84,
+  "duration": 4.04,
+  "text": "AI-generated creative project. There is"
+ },
+ {
+  "start": 718.92,
+  "duration": 3.4,
+  "text": "an excursion for vibe coding something."
+ },
+ {
+  "start": 720.88,
+  "duration": 2.88,
+  "text": "I know that as much as we talk about"
+ },
+ {
+  "start": 722.32,
+  "duration": 3.08,
+  "text": "these tools, there are still plenty of"
+ },
+ {
+  "start": 723.76,
+  "duration": 3.32,
+  "text": "people that just haven't had the time or"
+ },
+ {
+  "start": 725.4,
+  "duration": 3.88,
+  "text": "bandwidth to actually go build their"
+ },
+ {
+  "start": 727.08,
+  "duration": 4.04,
+  "text": "first application, which I believe is"
+ },
+ {
+  "start": 729.28,
+  "duration": 3.84,
+  "text": "genuinely one of the biggest unlocks"
+ },
+ {
+  "start": 731.12,
+  "duration": 3.52,
+  "text": "that you can have using AI right now,"
+ },
+ {
+  "start": 733.12,
+  "duration": 3.4,
+  "text": "and more than just about anything else"
+ },
+ {
+  "start": 734.64,
+  "duration": 3.92,
+  "text": "you can do will shift you from thinking"
+ },
+ {
+  "start": 736.52,
+  "duration": 3.72,
+  "text": "of AI as an assistant that can help you"
+ },
+ {
+  "start": 738.56,
+  "duration": 3.96,
+  "text": "do your current work faster, cheaper, or"
+ },
+ {
+  "start": 740.24,
+  "duration": 4.52,
+  "text": "better to something that unlocks totally"
+ },
+ {
+  "start": 742.52,
+  "duration": 3.6,
+  "text": "new capabilities. And then for those who"
+ },
+ {
+  "start": 744.76,
+  "duration": 3.28,
+  "text": "want to be really ambitious, we have"
+ },
+ {
+  "start": 746.12,
+  "duration": 3.76,
+  "text": "what we call expeditions, which are"
+ },
+ {
+  "start": 748.04,
+  "duration": 4.28,
+  "text": "meant to totally change how you work"
+ },
+ {
+  "start": 749.88,
+  "duration": 4.48,
+  "text": "with AI. There are two expeditions that"
+ },
+ {
+  "start": 752.32,
+  "duration": 4.36,
+  "text": "are live right now. The first is called"
+ },
+ {
+  "start": 754.36,
+  "duration": 4.56,
+  "text": "lemonade stand, and the goal of it is to"
+ },
+ {
+  "start": 756.68,
+  "duration": 4.72,
+  "text": "actually create an AI-staffed"
+ },
+ {
+  "start": 758.92,
+  "duration": 4.04,
+  "text": "microbusiness with a real ready-to-run"
+ },
+ {
+  "start": 761.4,
+  "duration": 3.439,
+  "text": "demand test."
+ },
+ {
+  "start": 762.96,
+  "duration": 4.2,
+  "text": "Now, this one is not just for"
+ },
+ {
+  "start": 764.839,
+  "duration": 4.121,
+  "text": "entrepreneurs or solopreneurs. Even for"
+ },
+ {
+  "start": 767.16,
+  "duration": 3.92,
+  "text": "folks who are completely happy in their"
+ },
+ {
+  "start": 768.96,
+  "duration": 4.0,
+  "text": "day job and sure they'll never leave,"
+ },
+ {
+  "start": 771.08,
+  "duration": 4.04,
+  "text": "going through the process of designing a"
+ },
+ {
+  "start": 772.96,
+  "duration": 3.76,
+  "text": "complete microbusiness is going to have"
+ },
+ {
+  "start": 775.12,
+  "duration": 4.16,
+  "text": "incredible learning effects for how you"
+ },
+ {
+  "start": 776.72,
+  "duration": 3.96,
+  "text": "use AI in your normal context as well."
+ },
+ {
+  "start": 779.28,
+  "duration": 3.52,
+  "text": "Now, this particular expedition is"
+ },
+ {
+  "start": 780.68,
+  "duration": 4.04,
+  "text": "organized into three sprints. In the"
+ },
+ {
+  "start": 782.8,
+  "duration": 3.8,
+  "text": "discovery sprint, you'll extract"
+ },
+ {
+  "start": 784.72,
+  "duration": 4.32,
+  "text": "non-trivial ideas from your history,"
+ },
+ {
+  "start": 786.6,
+  "duration": 4.2,
+  "text": "skills, access, and external idea labs,"
+ },
+ {
+  "start": 789.04,
+  "duration": 3.72,
+  "text": "leading to a short list of five to eight"
+ },
+ {
+  "start": 790.8,
+  "duration": 3.76,
+  "text": "ideas and a ranked top three with"
+ },
+ {
+  "start": 792.76,
+  "duration": 3.52,
+  "text": "founder fit notes, i.e. which of them"
+ },
+ {
+  "start": 794.56,
+  "duration": 3.92,
+  "text": "seem most likely to be a good fit for"
+ },
+ {
+  "start": 796.28,
+  "duration": 4.6,
+  "text": "you. Sprint two is about creating a"
+ },
+ {
+  "start": 798.48,
+  "duration": 4.84,
+  "text": "business plan, taking one of those top"
+ },
+ {
+  "start": 800.88,
+  "duration": 4.92,
+  "text": "three concepts and mapping it as a real"
+ },
+ {
+  "start": 803.32,
+  "duration": 4.12,
+  "text": "microbusiness with an AI org chart,"
+ },
+ {
+  "start": 805.8,
+  "duration": 4.12,
+  "text": "including a week one task list, a"
+ },
+ {
+  "start": 807.44,
+  "duration": 4.68,
+  "text": "one-pager plan, and an AI staff map. The"
+ },
+ {
+  "start": 809.92,
+  "duration": 3.72,
+  "text": "third sprint is the validation sprint,"
+ },
+ {
+  "start": 812.12,
+  "duration": 3.68,
+  "text": "where you learn to test demand before"
+ },
+ {
+  "start": 813.64,
+  "duration": 4.28,
+  "text": "you overbuild, including a thin demo for"
+ },
+ {
+  "start": 815.8,
+  "duration": 4.28,
+  "text": "software, an experiment design, and"
+ },
+ {
+  "start": 817.92,
+  "duration": 3.92,
+  "text": "getting real signal from a human. Now"
+ },
+ {
+  "start": 820.08,
+  "duration": 4.0,
+  "text": "again, each of these sprints is going to"
+ },
+ {
+  "start": 821.84,
+  "duration": 3.8,
+  "text": "come with a core task or a set of tasks,"
+ },
+ {
+  "start": 824.08,
+  "duration": 3.56,
+  "text": "and a copyable prompt that you can drop"
+ },
+ {
+  "start": 825.64,
+  "duration": 3.24,
+  "text": "into whatever AI you're using."
+ },
+ {
+  "start": 827.64,
+  "duration": 3.28,
+  "text": "Now importantly, especially when it"
+ },
+ {
+  "start": 828.88,
+  "duration": 4.04,
+  "text": "comes to the more extensive excursions"
+ },
+ {
+  "start": 830.92,
+  "duration": 3.88,
+  "text": "like this, the copyable prompt may be"
+ },
+ {
+  "start": 832.92,
+  "duration": 3.68,
+  "text": "more about getting you started, and"
+ },
+ {
+  "start": 834.8,
+  "duration": 3.6,
+  "text": "indeed many of the prompts actually open"
+ },
+ {
+  "start": 836.6,
+  "duration": 4.24,
+  "text": "up an entire set of conversations and"
+ },
+ {
+  "start": 838.4,
+  "duration": 4.44,
+  "text": "interactions between you and the AI."
+ },
+ {
+  "start": 840.84,
+  "duration": 3.92,
+  "text": "For example, in the idea mining sprint,"
+ },
+ {
+  "start": 842.84,
+  "duration": 3.88,
+  "text": "the copyable prompt actually organizes"
+ },
+ {
+  "start": 844.76,
+  "duration": 4.4,
+  "text": "things into a set of phases that include"
+ },
+ {
+  "start": 846.72,
+  "duration": 4.44,
+  "text": "things like a deep interview by the AI"
+ },
+ {
+  "start": 849.16,
+  "duration": 4.2,
+  "text": "of you to help it figure out what"
+ },
+ {
+  "start": 851.16,
+  "duration": 3.28,
+  "text": "business ideas might be a good fit. Now"
+ },
+ {
+  "start": 853.36,
+  "duration": 3.44,
+  "text": "especially for some of these more"
+ },
+ {
+  "start": 854.44,
+  "duration": 3.48,
+  "text": "complex ideas, the AI adventure platform"
+ },
+ {
+  "start": 856.8,
+  "duration": 3.88,
+  "text": "is also going to come with a set of"
+ },
+ {
+  "start": 857.92,
+  "duration": 4.48,
+  "text": "resources for where you can go deeper."
+ },
+ {
+  "start": 860.68,
+  "duration": 4.12,
+  "text": "One more expedition that I want to sell"
+ },
+ {
+  "start": 862.4,
+  "duration": 4.32,
+  "text": "you on, we're calling the loop. Now you"
+ },
+ {
+  "start": 864.8,
+  "duration": 3.52,
+  "text": "have heard me talk endlessly about loops"
+ },
+ {
+  "start": 866.72,
+  "duration": 3.72,
+  "text": "on this show, where you take a"
+ },
+ {
+  "start": 868.32,
+  "duration": 3.92,
+  "text": "well-defined task with test builds and"
+ },
+ {
+  "start": 870.44,
+  "duration": 4.24,
+  "text": "diffs the agent can recheck, but"
+ },
+ {
+  "start": 872.24,
+  "duration": 4.04,
+  "text": "applying it in non-technical work is in"
+ },
+ {
+  "start": 874.68,
+  "duration": 3.32,
+  "text": "many ways more difficult or at least"
+ },
+ {
+  "start": 876.28,
+  "duration": 3.84,
+  "text": "less intuitive than it is in applying it"
+ },
+ {
+  "start": 878.0,
+  "duration": 4.0,
+  "text": "to software engineering. The goal of the"
+ },
+ {
+  "start": 880.12,
+  "duration": 3.92,
+  "text": "loop expedition is to help you walk"
+ },
+ {
+  "start": 882.0,
+  "duration": 3.92,
+  "text": "through building an actual agentic loop"
+ },
+ {
+  "start": 884.04,
+  "duration": 4.4,
+  "text": "in an area of work that is useful for"
+ },
+ {
+  "start": 885.92,
+  "duration": 4.56,
+  "text": "you. Now before this one even gets into"
+ },
+ {
+  "start": 888.44,
+  "duration": 3.16,
+  "text": "the prompts and steps, there is a bunch"
+ },
+ {
+  "start": 890.48,
+  "duration": 2.52,
+  "text": "of background learning that's going to"
+ },
+ {
+  "start": 891.6,
+  "duration": 3.44,
+  "text": "get you more familiar with the concepts"
+ },
+ {
+  "start": 893.0,
+  "duration": 4.36,
+  "text": "as well. Some of the sections include"
+ },
+ {
+  "start": 895.04,
+  "duration": 4.2,
+  "text": "what a loop is and isn't, costs, models,"
+ },
+ {
+  "start": 897.36,
+  "duration": 3.6,
+  "text": "and how loops fail, and how to fire a"
+ },
+ {
+  "start": 899.24,
+  "duration": 3.599,
+  "text": "loop in major tools like Claude Code,"
+ },
+ {
+  "start": 900.96,
+  "duration": 3.8,
+  "text": "Cursor, and Codex."
+ },
+ {
+  "start": 902.839,
+  "duration": 4.041,
+  "text": "Now once you listen to this show, summer"
+ },
+ {
+  "start": 904.76,
+  "duration": 3.44,
+  "text": "adventure.ai is going to be fully live."
+ },
+ {
+  "start": 906.88,
+  "duration": 3.88,
+  "text": "You can sign up for free and start"
+ },
+ {
+  "start": 908.2,
+  "duration": 4.6,
+  "text": "taking in. So far about half of the"
+ },
+ {
+  "start": 910.76,
+  "duration": 3.2,
+  "text": "destinations are unlocked, and each week"
+ },
+ {
+  "start": 912.8,
+  "duration": 3.039,
+  "text": "here through the end of the summer in"
+ },
+ {
+  "start": 913.96,
+  "duration": 3.84,
+  "text": "the US, i.e. basically the beginning of"
+ },
+ {
+  "start": 915.839,
+  "duration": 3.241,
+  "text": "September, we'll be unlocking even more"
+ },
+ {
+  "start": 917.8,
+  "duration": 2.56,
+  "text": "projects."
+ },
+ {
+  "start": 919.08,
+  "duration": 2.8,
+  "text": "Some of those projects we already have"
+ },
+ {
+  "start": 920.36,
+  "duration": 3.2,
+  "text": "planned, but some of them we're"
+ },
+ {
+  "start": 921.88,
+  "duration": 3.6,
+  "text": "anticipating building on the fly based"
+ },
+ {
+  "start": 923.56,
+  "duration": 3.56,
+  "text": "on what's happening in the industry. Who"
+ },
+ {
+  "start": 925.48,
+  "duration": 3.36,
+  "text": "knows, maybe we'll go build ourselves a"
+ },
+ {
+  "start": 927.12,
+  "duration": 3.16,
+  "text": "model router given that it seems like"
+ },
+ {
+  "start": 928.84,
+  "duration": 3.4,
+  "text": "everyone else on the planet has at this"
+ },
+ {
+  "start": 930.28,
+  "duration": 3.48,
+  "text": "point. We'll also set up a new"
+ },
+ {
+  "start": 932.24,
+  "duration": 3.48,
+  "text": "sub-community for people who are doing"
+ },
+ {
+  "start": 933.76,
+  "duration": 3.84,
+  "text": "the summer adventure on the AI DB"
+ },
+ {
+  "start": 935.72,
+  "duration": 3.28,
+  "text": "operator circle, and I'll include links"
+ },
+ {
+  "start": 937.6,
+  "duration": 2.48,
+  "text": "to sign into that in the show notes as"
+ },
+ {
+  "start": 939.0,
+  "duration": 3.2,
+  "text": "well."
+ },
+ {
+  "start": 940.08,
+  "duration": 3.56,
+  "text": "As we wrap up here, one of the concepts"
+ },
+ {
+  "start": 942.2,
+  "duration": 4.08,
+  "text": "that has been most important throughout"
+ },
+ {
+  "start": 943.64,
+  "duration": 5.08,
+  "text": "2026 especially is this idea of the"
+ },
+ {
+  "start": 946.28,
+  "duration": 4.6,
+  "text": "capability overhang, the gap between"
+ },
+ {
+  "start": 948.72,
+  "duration": 3.68,
+  "text": "what AI can do and what we're actually"
+ },
+ {
+  "start": 950.88,
+  "duration": 3.6,
+  "text": "using it for."
+ },
+ {
+  "start": 952.4,
+  "duration": 4.64,
+  "text": "Now, I would contend that there is"
+ },
+ {
+  "start": 954.48,
+  "duration": 4.44,
+  "text": "almost no one on the planet who doesn't"
+ },
+ {
+  "start": 957.04,
+  "duration": 3.28,
+  "text": "have some capability overhang that they"
+ },
+ {
+  "start": 958.92,
+  "duration": 3.8,
+  "text": "are dealing with."
+ },
+ {
+  "start": 960.32,
+  "duration": 4.8,
+  "text": "Even researchers inside the labs, even"
+ },
+ {
+  "start": 962.72,
+  "duration": 4.56,
+  "text": "content creators whose entire job is to"
+ },
+ {
+  "start": 965.12,
+  "duration": 4.2,
+  "text": "pay attention to what is happening in AI"
+ },
+ {
+  "start": 967.28,
+  "duration": 3.76,
+  "text": "and try out everything new. There is"
+ },
+ {
+  "start": 969.32,
+  "duration": 3.64,
+  "text": "simply not time enough to do everything"
+ },
+ {
+  "start": 971.04,
+  "duration": 3.76,
+  "text": "that we would like, and AI capabilities"
+ },
+ {
+  "start": 972.96,
+  "duration": 3.64,
+  "text": "keep racing ahead."
+ },
+ {
+  "start": 974.8,
+  "duration": 3.96,
+  "text": "The goal of the summer adventure is to"
+ },
+ {
+  "start": 976.6,
+  "duration": 4.04,
+  "text": "find fun ways for you to close your own"
+ },
+ {
+  "start": 978.76,
+  "duration": 3.84,
+  "text": "personal capability gap around whatever"
+ },
+ {
+  "start": 980.64,
+  "duration": 3.84,
+  "text": "part of that gap matters most to you,"
+ },
+ {
+  "start": 982.6,
+  "duration": 3.4,
+  "text": "and actually have a good time doing it."
+ },
+ {
+  "start": 984.48,
+  "duration": 3.64,
+  "text": "As always with programs like this, the"
+ },
+ {
+  "start": 986.0,
+  "duration": 4.48,
+  "text": "summer adventure is completely free. You"
+ },
+ {
+  "start": 988.12,
+  "duration": 4.2,
+  "text": "can sign up at summeradventure.ai,"
+ },
+ {
+  "start": 990.48,
+  "duration": 2.88,
+  "text": "and I'm excited to see you there. For"
+ },
+ {
+  "start": 992.32,
+  "duration": 2.72,
+  "text": "now, that's going to do it for today's"
+ },
+ {
+  "start": 993.36,
+  "duration": 4.12,
+  "text": "episode. Appreciate you listening or"
+ },
+ {
+  "start": 995.04,
+  "duration": 4.92,
+  "text": "watching as always, and until next time,"
+ },
+ {
+  "start": 997.48,
+  "duration": 2.48,
+  "text": "peace."
+ }
+]

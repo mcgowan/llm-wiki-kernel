@@ -1,0 +1,4277 @@
+[
+ {
+  "start": 0.56,
+  "duration": 2.88,
+  "text": "Today on the AI Daily Brief, we're"
+ },
+ {
+  "start": 1.72,
+  "duration": 4.36,
+  "text": "talking about the part of the economy"
+ },
+ {
+  "start": 3.44,
+  "duration": 4.32,
+  "text": "that will thrive after AI."
+ },
+ {
+  "start": 6.08,
+  "duration": 3.24,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 7.76,
+  "duration": 5.04,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 9.32,
+  "duration": 3.48,
+  "text": "and discussions [music] in AI."
+ },
+ {
+  "start": 16.375,
+  "duration": 3.345,
+  "text": ">> [music]"
+ },
+ {
+  "start": 18.24,
+  "duration": 3.24,
+  "text": ">> All right, friends. Quick notes before"
+ },
+ {
+  "start": 19.72,
+  "duration": 3.68,
+  "text": "we dive in. Yesterday, if you haven't"
+ },
+ {
+  "start": 21.48,
+  "duration": 3.76,
+  "text": "seen yet the bonus operators episode, we"
+ },
+ {
+  "start": 23.4,
+  "duration": 4.48,
+  "text": "launched our latest free AIDB training"
+ },
+ {
+  "start": 25.24,
+  "duration": 4.32,
+  "text": "program. This one is a new Far Gaspar"
+ },
+ {
+  "start": 27.88,
+  "duration": 3.28,
+  "text": "joint. She took a bunch of what I had"
+ },
+ {
+  "start": 29.56,
+  "duration": 3.48,
+  "text": "built with Claw Camp and turned it into"
+ },
+ {
+  "start": 31.16,
+  "duration": 4.32,
+  "text": "a more general, more extensible,"
+ },
+ {
+  "start": 33.04,
+  "duration": 4.52,
+  "text": "adaptable, ongoing agentic operating"
+ },
+ {
+  "start": 35.48,
+  "duration": 3.96,
+  "text": "system program. So, if you have dabbled"
+ },
+ {
+  "start": 37.56,
+  "duration": 3.56,
+  "text": "with Open Claw or have wanted to, but"
+ },
+ {
+  "start": 39.44,
+  "duration": 3.96,
+  "text": "want an agentic system that can slot in"
+ },
+ {
+  "start": 41.12,
+  "duration": 3.28,
+  "text": "Claw code or Codex or Cursor or any"
+ },
+ {
+  "start": 43.4,
+  "duration": 3.16,
+  "text": "other model or harness that you're"
+ },
+ {
+  "start": 44.4,
+  "duration": 4.72,
+  "text": "using, check out Agent OS. There are"
+ },
+ {
+  "start": 46.56,
+  "duration": 4.24,
+  "text": "links to it from AI Daily Brief.ai. And"
+ },
+ {
+  "start": 49.12,
+  "duration": 3.6,
+  "text": "when you sign up for Agent OS, you can"
+ },
+ {
+  "start": 50.8,
+  "duration": 4.2,
+  "text": "actually do it with your new AIDB"
+ },
+ {
+  "start": 52.72,
+  "duration": 4.16,
+  "text": "handle. I plan on doing a lot of these"
+ },
+ {
+  "start": 55.0,
+  "duration": 3.36,
+  "text": "free programs, and so instead of you"
+ },
+ {
+  "start": 56.88,
+  "duration": 3.44,
+  "text": "having to sign up with emails and"
+ },
+ {
+  "start": 58.36,
+  "duration": 4.04,
+  "text": "passwords every time, we've created now"
+ },
+ {
+  "start": 60.32,
+  "duration": 4.0,
+  "text": "an AIDB single sign-on with of course"
+ },
+ {
+  "start": 62.4,
+  "duration": 3.2,
+  "text": "cool vanity handles. So, even if you"
+ },
+ {
+  "start": 64.32,
+  "duration": 2.76,
+  "text": "aren't signing up for a program yet, but"
+ },
+ {
+  "start": 65.6,
+  "duration": 3.2,
+  "text": "you just want to squat on your favorite"
+ },
+ {
+  "start": 67.08,
+  "duration": 4.16,
+  "text": "three or four-digit handle, you can do"
+ },
+ {
+  "start": 68.8,
+  "duration": 5.4,
+  "text": "that once again from AI Daily Brief.ai"
+ },
+ {
+  "start": 71.24,
+  "duration": 4.72,
+  "text": "or directly at AIDBlabs.ai."
+ },
+ {
+  "start": 74.2,
+  "duration": 4.88,
+  "text": "But, with all that out of the way, let's"
+ },
+ {
+  "start": 75.96,
+  "duration": 4.8,
+  "text": "talk about AI in the economy."
+ },
+ {
+  "start": 79.08,
+  "duration": 3.52,
+  "text": "Welcome back to the AI Daily Brief and"
+ },
+ {
+  "start": 80.76,
+  "duration": 3.64,
+  "text": "happy weekend."
+ },
+ {
+  "start": 82.6,
+  "duration": 3.96,
+  "text": "Listen, it will probably surprise none"
+ },
+ {
+  "start": 84.4,
+  "duration": 6.0,
+  "text": "of you that I have what I would call"
+ },
+ {
+  "start": 86.56,
+  "duration": 5.56,
+  "text": "major beef with the AI jobs discussion."
+ },
+ {
+  "start": 90.4,
+  "duration": 3.2,
+  "text": "It is not just that I think that the"
+ },
+ {
+  "start": 92.12,
+  "duration": 4.48,
+  "text": "labs themselves are doing an"
+ },
+ {
+  "start": 93.6,
+  "duration": 5.36,
+  "text": "unfathomably horrible job pitching the"
+ },
+ {
+  "start": 96.6,
+  "duration": 4.96,
+  "text": "value of AI. I've made the comparison in"
+ },
+ {
+  "start": 98.96,
+  "duration": 3.96,
+  "text": "the past to pharmaceutical commercials."
+ },
+ {
+  "start": 101.56,
+  "duration": 2.92,
+  "text": "If you watch a 60-second pharma"
+ },
+ {
+  "start": 102.92,
+  "duration": 2.72,
+  "text": "commercial on cable, which is basically"
+ },
+ {
+  "start": 104.48,
+  "duration": 3.4,
+  "text": "the only commercials they have at this"
+ },
+ {
+  "start": 105.64,
+  "duration": 3.6,
+  "text": "point, the first 45 or 50 seconds are"
+ },
+ {
+  "start": 107.88,
+  "duration": 3.48,
+  "text": "spent around how this new drug or"
+ },
+ {
+  "start": 109.24,
+  "duration": 3.76,
+  "text": "treatment is a miracle cure for some"
+ },
+ {
+  "start": 111.36,
+  "duration": 3.56,
+  "text": "really painful, awful thing that people"
+ },
+ {
+  "start": 113.0,
+  "duration": 3.48,
+  "text": "have otherwise had to just live with."
+ },
+ {
+  "start": 114.92,
+  "duration": 3.36,
+  "text": "Now, yes, at the end there are those 10"
+ },
+ {
+  "start": 116.48,
+  "duration": 3.12,
+  "text": "to 15 seconds of disclosures around"
+ },
+ {
+  "start": 118.28,
+  "duration": 3.84,
+  "text": "potential side effects, some of which"
+ },
+ {
+  "start": 119.6,
+  "duration": 4.36,
+  "text": "can be very, very bad. But, the emphasis"
+ },
+ {
+  "start": 122.12,
+  "duration": 4.56,
+  "text": "is on the better life that you get to"
+ },
+ {
+  "start": 123.96,
+  "duration": 4.92,
+  "text": "lead that justifies all of those risks."
+ },
+ {
+  "start": 126.68,
+  "duration": 4.8,
+  "text": "In AI, we're basically exactly the"
+ },
+ {
+  "start": 128.88,
+  "duration": 4.48,
+  "text": "reverse. We spend the first 45 to 50"
+ },
+ {
+  "start": 131.48,
+  "duration": 3.52,
+  "text": "seconds of our metaphorical commercial,"
+ },
+ {
+  "start": 133.36,
+  "duration": 3.64,
+  "text": "i.e., every time we get a chance to talk"
+ },
+ {
+  "start": 135.0,
+  "duration": 4.16,
+  "text": "to anyone about AI, talking about how"
+ },
+ {
+  "start": 137.0,
+  "duration": 4.4,
+  "text": "damn bad society's going to be after AI"
+ },
+ {
+  "start": 139.16,
+  "duration": 4.0,
+  "text": "gets its hooks in. With only this tiny"
+ },
+ {
+  "start": 141.4,
+  "duration": 3.88,
+  "text": "little consideration of the potential"
+ },
+ {
+  "start": 143.16,
+  "duration": 4.2,
+  "text": "benefits, which are presented as very"
+ },
+ {
+  "start": 145.28,
+  "duration": 3.92,
+  "text": "hand-wavy at best. Anyways, that"
+ },
+ {
+  "start": 147.36,
+  "duration": 4.04,
+  "text": "critique is not actually the core of my"
+ },
+ {
+  "start": 149.2,
+  "duration": 3.88,
+  "text": "frustration with the jobs discourse. The"
+ },
+ {
+  "start": 151.4,
+  "duration": 5.08,
+  "text": "core of my frustration with the jobs"
+ },
+ {
+  "start": 153.08,
+  "duration": 5.8,
+  "text": "discourse is one, that I fundamentally"
+ },
+ {
+  "start": 156.48,
+  "duration": 4.24,
+  "text": "think that all of these people who are"
+ },
+ {
+  "start": 158.88,
+  "duration": 4.76,
+  "text": "claiming that we're going to see 15, 20,"
+ },
+ {
+  "start": 160.72,
+  "duration": 5.28,
+  "text": "30, 50% unemployment are just"
+ },
+ {
+  "start": 163.64,
+  "duration": 5.04,
+  "text": "straight-up wrong. And they're wrong in"
+ },
+ {
+  "start": 166.0,
+  "duration": 5.56,
+  "text": "part because of our failure to actually"
+ },
+ {
+  "start": 168.68,
+  "duration": 4.88,
+  "text": "try to spend even any time thinking"
+ },
+ {
+  "start": 171.56,
+  "duration": 4.0,
+  "text": "about what jobs and employment and the"
+ },
+ {
+  "start": 173.56,
+  "duration": 4.28,
+  "text": "economy looks like on the other side of"
+ },
+ {
+  "start": 175.56,
+  "duration": 3.8,
+  "text": "AI and agents actually being fully"
+ },
+ {
+  "start": 177.84,
+  "duration": 3.28,
+  "text": "integrated."
+ },
+ {
+  "start": 179.36,
+  "duration": 3.24,
+  "text": "To put it differently, as with any new"
+ },
+ {
+  "start": 181.12,
+  "duration": 3.16,
+  "text": "technology, we are in a period of"
+ },
+ {
+  "start": 182.6,
+  "duration": 2.88,
+  "text": "creative destruction."
+ },
+ {
+  "start": 184.28,
+  "duration": 2.959,
+  "text": "Always it is the case that the"
+ },
+ {
+  "start": 185.48,
+  "duration": 3.4,
+  "text": "destruction is easier to see before the"
+ },
+ {
+  "start": 187.239,
+  "duration": 3.72,
+  "text": "creation because the destruction tends"
+ },
+ {
+  "start": 188.88,
+  "duration": 3.96,
+  "text": "to happen earlier. The creation is what"
+ },
+ {
+  "start": 190.959,
+  "duration": 3.321,
+  "text": "gets born and it's very hard to see the"
+ },
+ {
+  "start": 192.84,
+  "duration": 3.44,
+  "text": "shape of the new thing before it"
+ },
+ {
+  "start": 194.28,
+  "duration": 3.88,
+  "text": "actually starts to come into being. And"
+ },
+ {
+  "start": 196.28,
+  "duration": 4.72,
+  "text": "yet that does not mean that we can't"
+ },
+ {
+  "start": 198.16,
+  "duration": 5.0,
+  "text": "spend time trying to understand, by"
+ },
+ {
+  "start": 201.0,
+  "duration": 4.2,
+  "text": "following reasonable traces and first"
+ },
+ {
+  "start": 203.16,
+  "duration": 3.96,
+  "text": "principles, what might happen in the"
+ },
+ {
+  "start": 205.2,
+  "duration": 3.68,
+  "text": "future that would change the shape of"
+ },
+ {
+  "start": 207.12,
+  "duration": 3.56,
+  "text": "how we think about any destruction that"
+ },
+ {
+  "start": 208.88,
+  "duration": 3.44,
+  "text": "happens in the present."
+ },
+ {
+  "start": 210.68,
+  "duration": 2.839,
+  "text": "The big area that I'm interested in, and"
+ },
+ {
+  "start": 212.32,
+  "duration": 2.199,
+  "text": "I'm working on a bunch of things around"
+ },
+ {
+  "start": 213.519,
+  "duration": 4.121,
+  "text": "that will come to the show at some"
+ },
+ {
+  "start": 214.519,
+  "duration": 5.0,
+  "text": "point, is the idea that in an AI world,"
+ },
+ {
+  "start": 217.64,
+  "duration": 3.64,
+  "text": "the constraints in the economy shift"
+ },
+ {
+  "start": 219.519,
+  "duration": 3.961,
+  "text": "from supply, how much we can make of"
+ },
+ {
+  "start": 221.28,
+  "duration": 3.92,
+  "text": "stuff, to demand and consumption"
+ },
+ {
+  "start": 223.48,
+  "duration": 3.6,
+  "text": "capacity, how much we can actually"
+ },
+ {
+  "start": 225.2,
+  "duration": 3.2,
+  "text": "consume of things, which in many cases"
+ },
+ {
+  "start": 227.08,
+  "duration": 2.8,
+  "text": "is going to be a vector of time and"
+ },
+ {
+  "start": 228.4,
+  "duration": 3.92,
+  "text": "attention."
+ },
+ {
+  "start": 229.88,
+  "duration": 4.6,
+  "text": "In In where the constraint shifts from"
+ },
+ {
+  "start": 232.32,
+  "duration": 4.12,
+  "text": "the supply side to the demand side, the"
+ },
+ {
+  "start": 234.48,
+  "duration": 4.12,
+  "text": "really imperative question becomes in"
+ },
+ {
+  "start": 236.44,
+  "duration": 3.68,
+  "text": "what areas could we consume a lot more"
+ },
+ {
+  "start": 238.6,
+  "duration": 3.04,
+  "text": "than we are now?"
+ },
+ {
+  "start": 240.12,
+  "duration": 3.56,
+  "text": "And then of course from there, what"
+ },
+ {
+  "start": 241.64,
+  "duration": 3.2,
+  "text": "would it look like to consume more? What"
+ },
+ {
+  "start": 243.68,
+  "duration": 2.2,
+  "text": "are the types of consumption that's"
+ },
+ {
+  "start": 244.84,
+  "duration": 2.56,
+  "text": "happening? And what is the"
+ },
+ {
+  "start": 245.88,
+  "duration": 3.32,
+  "text": "infrastructure that's needed to build or"
+ },
+ {
+  "start": 247.4,
+  "duration": 2.96,
+  "text": "provide those new things that we want to"
+ },
+ {
+  "start": 249.2,
+  "duration": 2.4,
+  "text": "consume?"
+ },
+ {
+  "start": 250.36,
+  "duration": 2.84,
+  "text": "The example that I'm spending a bunch of"
+ },
+ {
+  "start": 251.6,
+  "duration": 3.12,
+  "text": "time on is health care. I think we"
+ },
+ {
+  "start": 253.2,
+  "duration": 3.319,
+  "text": "consume a vanishingly small amount of"
+ },
+ {
+  "start": 254.72,
+  "duration": 3.28,
+  "text": "the health services that we would if our"
+ },
+ {
+  "start": 256.519,
+  "duration": 2.801,
+  "text": "system wasn't so expensive and so"
+ },
+ {
+  "start": 258.0,
+  "duration": 2.64,
+  "text": "reactive."
+ },
+ {
+  "start": 259.32,
+  "duration": 3.4,
+  "text": "There are an immense number of"
+ },
+ {
+  "start": 260.64,
+  "duration": 4.2,
+  "text": "opportunities for preventative care,"
+ },
+ {
+  "start": 262.72,
+  "duration": 3.28,
+  "text": "data monitoring, tracking, and a whole"
+ },
+ {
+  "start": 264.84,
+  "duration": 4.04,
+  "text": "infrastructure that could go around"
+ },
+ {
+  "start": 266.0,
+  "duration": 4.76,
+  "text": "them. Enabled by the decreases in cost"
+ },
+ {
+  "start": 268.88,
+  "duration": 4.039,
+  "text": "that come from widespread implementation"
+ },
+ {
+  "start": 270.76,
+  "duration": 3.96,
+  "text": "of AI into the health system."
+ },
+ {
+  "start": 272.919,
+  "duration": 4.041,
+  "text": "That argument isn't done yet, but it's"
+ },
+ {
+  "start": 274.72,
+  "duration": 4.64,
+  "text": "why I was so interested to see an essay"
+ },
+ {
+  "start": 276.96,
+  "duration": 4.32,
+  "text": "from economist Alex Imas start to really"
+ },
+ {
+  "start": 279.36,
+  "duration": 3.52,
+  "text": "go viral and impact the jobs"
+ },
+ {
+  "start": 281.28,
+  "duration": 3.36,
+  "text": "conversation at least in our little"
+ },
+ {
+  "start": 282.88,
+  "duration": 3.4,
+  "text": "corner of AI Twitter."
+ },
+ {
+  "start": 284.64,
+  "duration": 2.84,
+  "text": "Alex isn't exploring exactly the same"
+ },
+ {
+  "start": 286.28,
+  "duration": 3.24,
+  "text": "themes, but as you'll hear there are"
+ },
+ {
+  "start": 287.48,
+  "duration": 3.96,
+  "text": "some similar interests here."
+ },
+ {
+  "start": 289.52,
+  "duration": 3.48,
+  "text": "And by way of background, I think it's"
+ },
+ {
+  "start": 291.44,
+  "duration": 3.2,
+  "text": "worth noting that Alex didn't come to"
+ },
+ {
+  "start": 293.0,
+  "duration": 4.48,
+  "text": "this from an ideological perspective"
+ },
+ {
+  "start": 294.64,
+  "duration": 4.84,
+  "text": "looking to justify AI. Instead, he told"
+ },
+ {
+  "start": 297.48,
+  "duration": 3.92,
+  "text": "Fortune, \"My first reaction was to be"
+ },
+ {
+  "start": 299.48,
+  "duration": 3.84,
+  "text": "very scared. I needed to work things out"
+ },
+ {
+  "start": 301.4,
+  "duration": 3.6,
+  "text": "carefully in order to be less scared."
+ },
+ {
+  "start": 303.32,
+  "duration": 2.8,
+  "text": "Not to convince myself not to be scared,"
+ },
+ {
+  "start": 305.0,
+  "duration": 2.32,
+  "text": "just to look at history and look at"
+ },
+ {
+  "start": 306.12,
+  "duration": 2.799,
+  "text": "people's preferences and bring these"
+ },
+ {
+  "start": 307.32,
+  "duration": 3.36,
+  "text": "things together.\""
+ },
+ {
+  "start": 308.919,
+  "duration": 3.921,
+  "text": "So let's read Alex's essay, \"What Will"
+ },
+ {
+  "start": 310.68,
+  "duration": 3.96,
+  "text": "Be Scarce: The Economics of Structural"
+ },
+ {
+  "start": 312.84,
+  "duration": 2.8,
+  "text": "Change at the Post-Commodity Future of"
+ },
+ {
+  "start": 314.64,
+  "duration": 3.04,
+  "text": "Work.\""
+ },
+ {
+  "start": 315.64,
+  "duration": 4.4,
+  "text": "Starbucks, Alex writes, \"is a huge"
+ },
+ {
+  "start": 317.68,
+  "duration": 3.72,
+  "text": "company, market cap 112 billion. It"
+ },
+ {
+  "start": 320.04,
+  "duration": 3.36,
+  "text": "sells one of the most standardized"
+ },
+ {
+  "start": 321.4,
+  "duration": 3.72,
+  "text": "products in the modern economy. Making a"
+ },
+ {
+  "start": 323.4,
+  "duration": 3.68,
+  "text": "cup of coffee or even one of the fancy"
+ },
+ {
+  "start": 325.12,
+  "duration": 4.28,
+  "text": "specialty drinks is very easy to"
+ },
+ {
+  "start": 327.08,
+  "duration": 4.04,
+  "text": "mechanize and reproduce. If the entire"
+ },
+ {
+  "start": 329.4,
+  "duration": 3.12,
+  "text": "economy is soon to be automated with"
+ },
+ {
+  "start": 331.12,
+  "duration": 3.799,
+  "text": "labor being replaced with increasingly"
+ },
+ {
+  "start": 332.52,
+  "duration": 4.6,
+  "text": "more sophisticated capital, Starbucks"
+ },
+ {
+  "start": 334.919,
+  "duration": 3.881,
+  "text": "should be a canary in the coal mine. The"
+ },
+ {
+  "start": 337.12,
+  "duration": 3.08,
+  "text": "technology for removing labor from its"
+ },
+ {
+  "start": 338.8,
+  "duration": 3.68,
+  "text": "stores and replacing it with automated"
+ },
+ {
+  "start": 340.2,
+  "duration": 4.0,
+  "text": "capital has been around for years."
+ },
+ {
+  "start": 342.48,
+  "duration": 3.8,
+  "text": "Over the past few years, Starbucks has"
+ },
+ {
+  "start": 344.2,
+  "duration": 4.04,
+  "text": "done exactly that. In efforts to"
+ },
+ {
+  "start": 346.28,
+  "duration": 3.44,
+  "text": "increase thin margins, management has"
+ },
+ {
+  "start": 348.24,
+  "duration": 3.6,
+  "text": "automated more and more of the coffee"
+ },
+ {
+  "start": 349.72,
+  "duration": 3.96,
+  "text": "making business and instituted tightly"
+ },
+ {
+  "start": 351.84,
+  "duration": 3.28,
+  "text": "mechanized processes for delivering it"
+ },
+ {
+  "start": 353.68,
+  "duration": 3.56,
+  "text": "to customers."
+ },
+ {
+  "start": 355.12,
+  "duration": 4.44,
+  "text": "But instead of increasing automation,"
+ },
+ {
+  "start": 357.24,
+  "duration": 3.64,
+  "text": "the opposite has happened. After trying"
+ },
+ {
+  "start": 359.56,
+  "duration": 3.08,
+  "text": "to streamline the store experience with"
+ },
+ {
+  "start": 360.88,
+  "duration": 3.8,
+  "text": "fewer workers and more automation, the"
+ },
+ {
+  "start": 362.64,
+  "duration": 4.72,
+  "text": "company concluded that this had been a"
+ },
+ {
+  "start": 364.68,
+  "duration": 5.2,
+  "text": "mistake. CEO Brian Nichols said that"
+ },
+ {
+  "start": 367.36,
+  "duration": 4.52,
+  "text": "handwritten notes on cups, ceramic cups,"
+ },
+ {
+  "start": 369.88,
+  "duration": 3.68,
+  "text": "and the return of great seats had led"
+ },
+ {
+  "start": 371.88,
+  "duration": 3.12,
+  "text": "more customers to sit and stay in our"
+ },
+ {
+  "start": 373.56,
+  "duration": 2.88,
+  "text": "cafes."
+ },
+ {
+  "start": 375.0,
+  "duration": 3.72,
+  "text": "Showing that small details and"
+ },
+ {
+  "start": 376.44,
+  "duration": 4.12,
+  "text": "hospitality drive satisfaction. More"
+ },
+ {
+  "start": 378.72,
+  "duration": 4.28,
+  "text": "baristas are being hired per store and"
+ },
+ {
+  "start": 380.56,
+  "duration": 4.12,
+  "text": "automation is being rolled back."
+ },
+ {
+  "start": 383.0,
+  "duration": 4.24,
+  "text": "Economics is the study of decision"
+ },
+ {
+  "start": 384.68,
+  "duration": 4.16,
+  "text": "making under constraints, i.e. scarcity."
+ },
+ {
+  "start": 387.24,
+  "duration": 3.6,
+  "text": "If advanced AI brings material"
+ },
+ {
+  "start": 388.84,
+  "duration": 3.56,
+  "text": "abundance, if machines can produce many"
+ },
+ {
+  "start": 390.84,
+  "duration": 4.04,
+  "text": "if not all forms of human production at"
+ },
+ {
+  "start": 392.4,
+  "duration": 5.16,
+  "text": "very low marginal cost, does economics"
+ },
+ {
+  "start": 394.88,
+  "duration": 4.68,
+  "text": "become irrelevant? No, we will still"
+ },
+ {
+  "start": 397.56,
+  "duration": 4.04,
+  "text": "have scarcity, but the kind of scarcity"
+ },
+ {
+  "start": 399.56,
+  "duration": 3.92,
+  "text": "that matters will change."
+ },
+ {
+  "start": 401.6,
+  "duration": 3.48,
+  "text": "Ultimately, the answer to any question"
+ },
+ {
+  "start": 403.48,
+  "duration": 4.24,
+  "text": "about the future economics of advanced"
+ },
+ {
+  "start": 405.08,
+  "duration": 3.88,
+  "text": "AI begins with identifying what becomes"
+ },
+ {
+  "start": 407.72,
+  "duration": 3.0,
+  "text": "scarce."
+ },
+ {
+  "start": 408.96,
+  "duration": 2.84,
+  "text": "After answering that question, the rest"
+ },
+ {
+  "start": 410.72,
+  "duration": 2.4,
+  "text": "of the analysis is pretty"
+ },
+ {
+  "start": 411.8,
+  "duration": 2.88,
+  "text": "straightforward."
+ },
+ {
+  "start": 413.12,
+  "duration": 3.0,
+  "text": "In this essay, I'm going to explore what"
+ },
+ {
+  "start": 414.68,
+  "duration": 3.2,
+  "text": "becomes scarce when automation can"
+ },
+ {
+  "start": 416.12,
+  "duration": 2.92,
+  "text": "replicate many if not all human"
+ },
+ {
+  "start": 417.88,
+  "duration": 2.56,
+  "text": "production,"
+ },
+ {
+  "start": 419.04,
+  "duration": 3.52,
+  "text": "and what that may mean for the types of"
+ },
+ {
+  "start": 420.44,
+  "duration": 3.72,
+  "text": "jobs that emerge."
+ },
+ {
+  "start": 422.56,
+  "duration": 3.2,
+  "text": "Before industrialization, it was"
+ },
+ {
+  "start": 424.16,
+  "duration": 3.68,
+  "text": "difficult to separate a product from the"
+ },
+ {
+  "start": 425.76,
+  "duration": 3.52,
+  "text": "person who made it. The weaver who made"
+ },
+ {
+  "start": 427.84,
+  "duration": 3.36,
+  "text": "your skirt, the baker who made your"
+ },
+ {
+  "start": 429.28,
+  "duration": 3.56,
+  "text": "bread, you personally knew them, and"
+ },
+ {
+  "start": 431.2,
+  "duration": 3.8,
+  "text": "their skill and reputation were tied to"
+ },
+ {
+  "start": 432.84,
+  "duration": 3.92,
+  "text": "the product that they sold. Economic"
+ },
+ {
+  "start": 435.0,
+  "duration": 3.56,
+  "text": "transactions had a distinct social"
+ },
+ {
+  "start": 436.76,
+  "duration": 3.52,
+  "text": "component that was innately linked to"
+ },
+ {
+  "start": 438.56,
+  "duration": 3.44,
+  "text": "the consumption experience. The"
+ },
+ {
+  "start": 440.28,
+  "duration": 3.6,
+  "text": "industrial production process changed"
+ },
+ {
+  "start": 442.0,
+  "duration": 4.0,
+  "text": "this by breaking craft into standardized"
+ },
+ {
+  "start": 443.88,
+  "duration": 3.8,
+  "text": "repeatable steps performed by workers"
+ },
+ {
+  "start": 446.0,
+  "duration": 3.56,
+  "text": "based on predetermined and regularized"
+ },
+ {
+  "start": 447.68,
+  "duration": 4.4,
+  "text": "steps, capitalism produced something"
+ },
+ {
+  "start": 449.56,
+  "duration": 4.12,
+  "text": "new. The commodity form, in which a"
+ },
+ {
+  "start": 452.08,
+  "duration": 3.96,
+  "text": "product's value lies in the product"
+ },
+ {
+  "start": 453.68,
+  "duration": 5.16,
+  "text": "itself, detached from whoever made it. A"
+ },
+ {
+  "start": 456.04,
+  "duration": 3.879,
+  "text": "table is a table. A phone is a phone."
+ },
+ {
+  "start": 458.84,
+  "duration": 3.88,
+  "text": "The screen that you're reading this"
+ },
+ {
+  "start": 459.919,
+  "duration": 4.521,
+  "text": "essay on, or NLW note, the device that"
+ },
+ {
+  "start": 462.72,
+  "duration": 3.6,
+  "text": "you're listening to it through, was"
+ },
+ {
+  "start": 464.44,
+  "duration": 3.44,
+  "text": "designed in one country, manufactured in"
+ },
+ {
+  "start": 466.32,
+  "duration": 2.72,
+  "text": "another using components from around the"
+ },
+ {
+  "start": 467.88,
+  "duration": 2.28,
+  "text": "world."
+ },
+ {
+  "start": 469.04,
+  "duration": 2.36,
+  "text": "But, none of this matters for the"
+ },
+ {
+  "start": 470.16,
+  "duration": 2.6,
+  "text": "experience of buying and using the"
+ },
+ {
+  "start": 471.4,
+  "duration": 3.04,
+  "text": "device."
+ },
+ {
+  "start": 472.76,
+  "duration": 3.96,
+  "text": "Marx described this process in"
+ },
+ {
+  "start": 474.44,
+  "duration": 4.16,
+  "text": "intentionally loaded language. The"
+ },
+ {
+  "start": 476.72,
+  "duration": 4.08,
+  "text": "commodity form, he argued, was built on"
+ },
+ {
+  "start": 478.6,
+  "duration": 3.28,
+  "text": "exploitation, the ability to pay workers"
+ },
+ {
+  "start": 480.8,
+  "duration": 3.0,
+  "text": "less than the value of what they"
+ },
+ {
+  "start": 481.88,
+  "duration": 3.24,
+  "text": "produce. They were able to do this"
+ },
+ {
+  "start": 483.8,
+  "duration": 3.68,
+  "text": "because the capitalist production"
+ },
+ {
+  "start": 485.12,
+  "duration": 3.72,
+  "text": "process was based on alienation,"
+ },
+ {
+  "start": 487.48,
+  "duration": 3.24,
+  "text": "severing workers from the product of"
+ },
+ {
+  "start": 488.84,
+  "duration": 4.079,
+  "text": "their labor, from the process of making"
+ },
+ {
+  "start": 490.72,
+  "duration": 3.76,
+  "text": "it, and ultimately from each other."
+ },
+ {
+  "start": 492.919,
+  "duration": 4.081,
+  "text": "What had once been a person's craft"
+ },
+ {
+  "start": 494.48,
+  "duration": 3.8,
+  "text": "became abstract labor power, a factor of"
+ },
+ {
+  "start": 497.0,
+  "duration": 2.8,
+  "text": "production to be bought and sold like"
+ },
+ {
+  "start": 498.28,
+  "duration": 3.48,
+  "text": "raw materials."
+ },
+ {
+  "start": 499.8,
+  "duration": 4.119,
+  "text": "Marx saw this as capitalism's deepest"
+ },
+ {
+  "start": 501.76,
+  "duration": 4.4,
+  "text": "pathology, but to economists and to the"
+ },
+ {
+  "start": 503.919,
+  "duration": 4.481,
+  "text": "world at large, the commodity form was"
+ },
+ {
+  "start": 506.16,
+  "duration": 3.72,
+  "text": "an engine of extraordinary prosperity."
+ },
+ {
+  "start": 508.4,
+  "duration": 2.92,
+  "text": "If production was no longer tied to"
+ },
+ {
+  "start": 509.88,
+  "duration": 3.32,
+  "text": "specific people, it could be"
+ },
+ {
+  "start": 511.32,
+  "duration": 3.839,
+  "text": "disaggregated, reorganized, shipped"
+ },
+ {
+  "start": 513.2,
+  "duration": 4.8,
+  "text": "across oceans, and scaled in ways that"
+ },
+ {
+  "start": 515.159,
+  "duration": 4.481,
+  "text": "turned few resources into vast riches."
+ },
+ {
+  "start": 518.0,
+  "duration": 3.28,
+  "text": "Both things were true at once. The"
+ },
+ {
+  "start": 519.64,
+  "duration": 3.0,
+  "text": "commodity form created enormous wealth"
+ },
+ {
+  "start": 521.28,
+  "duration": 2.759,
+  "text": "and prosperity,"
+ },
+ {
+  "start": 522.64,
+  "duration": 3.199,
+  "text": "but it made the human behind any"
+ },
+ {
+  "start": 524.039,
+  "duration": 4.001,
+  "text": "specific product invisible and,"
+ },
+ {
+  "start": 525.839,
+  "duration": 4.161,
+  "text": "ultimately, replaceable."
+ },
+ {
+  "start": 528.04,
+  "duration": 4.32,
+  "text": "This is most people's mental model of"
+ },
+ {
+  "start": 530.0,
+  "duration": 3.76,
+  "text": "what AI will do to the economy."
+ },
+ {
+  "start": 532.36,
+  "duration": 3.24,
+  "text": "If a machine can produce anything a"
+ },
+ {
+  "start": 533.76,
+  "duration": 3.32,
+  "text": "human can, write the brief, generate the"
+ },
+ {
+  "start": 535.6,
+  "duration": 3.76,
+  "text": "image, compose the song, determine the"
+ },
+ {
+  "start": 537.08,
+  "duration": 3.8,
+  "text": "diagnosis from a radiology scan, then"
+ },
+ {
+  "start": 539.36,
+  "duration": 2.92,
+  "text": "the human will be replaced across all"
+ },
+ {
+  "start": 540.88,
+  "duration": 2.92,
+  "text": "facets of production and jobs will"
+ },
+ {
+  "start": 542.28,
+  "duration": 3.96,
+  "text": "simply disappear."
+ },
+ {
+  "start": 543.8,
+  "duration": 3.8,
+  "text": "Labor will be replaced with capital."
+ },
+ {
+  "start": 546.24,
+  "duration": 2.68,
+  "text": "David Autor and Neil Thompson pushed"
+ },
+ {
+  "start": 547.6,
+  "duration": 3.72,
+  "text": "back on this in an important recent"
+ },
+ {
+  "start": 548.92,
+  "duration": 4.36,
+  "text": "paper. They argue that AI won't simply"
+ },
+ {
+  "start": 551.32,
+  "duration": 4.28,
+  "text": "eliminate jobs, it will reshape the"
+ },
+ {
+  "start": 553.28,
+  "duration": 3.88,
+  "text": "economic value of human expertise."
+ },
+ {
+  "start": 555.6,
+  "duration": 3.68,
+  "text": "Their framework distinguishes between"
+ },
+ {
+  "start": 557.16,
+  "duration": 4.2,
+  "text": "expert and inexpert tasks within any"
+ },
+ {
+  "start": 559.28,
+  "duration": 3.84,
+  "text": "given occupation. When automation"
+ },
+ {
+  "start": 561.36,
+  "duration": 3.8,
+  "text": "removes the simpler tasks, as accounting"
+ },
+ {
+  "start": 563.12,
+  "duration": 4.32,
+  "text": "software did for bookkeeping clerks, the"
+ },
+ {
+  "start": 565.16,
+  "duration": 4.92,
+  "text": "remaining work becomes more specialized."
+ },
+ {
+  "start": 567.44,
+  "duration": 4.16,
+  "text": "Wages rise and fewer workers qualify."
+ },
+ {
+  "start": 570.08,
+  "duration": 2.96,
+  "text": "When it removes the harder tasks, as"
+ },
+ {
+  "start": 571.6,
+  "duration": 3.36,
+  "text": "inventory management systems did for"
+ },
+ {
+  "start": 573.04,
+  "duration": 4.24,
+  "text": "warehouse workers, the job becomes more"
+ },
+ {
+  "start": 574.96,
+  "duration": 3.32,
+  "text": "accessible. Employment expands and wages"
+ },
+ {
+  "start": 577.28,
+  "duration": 2.88,
+  "text": "fall."
+ },
+ {
+  "start": 578.28,
+  "duration": 3.24,
+  "text": "Same technology, opposite labor market"
+ },
+ {
+  "start": 580.16,
+  "duration": 3.2,
+  "text": "outcomes depending on which part of the"
+ },
+ {
+  "start": 581.52,
+  "duration": 3.48,
+  "text": "job gets automated."
+ },
+ {
+  "start": 583.36,
+  "duration": 3.88,
+  "text": "But Autor and Thompson also consider a"
+ },
+ {
+  "start": 585.0,
+  "duration": 4.04,
+  "text": "starker possibility that AI advances to"
+ },
+ {
+  "start": 587.24,
+  "duration": 4.24,
+  "text": "the point where human expertise loses"
+ },
+ {
+  "start": 589.04,
+  "duration": 4.32,
+  "text": "its economic value altogether."
+ },
+ {
+  "start": 591.48,
+  "duration": 4.04,
+  "text": "Under this scenario, AI will eliminate"
+ },
+ {
+  "start": 593.36,
+  "duration": 4.92,
+  "text": "labor scarcity and produce what Herbert"
+ },
+ {
+  "start": 595.52,
+  "duration": 4.2,
+  "text": "Simon once called intolerable abundance."
+ },
+ {
+  "start": 598.28,
+  "duration": 3.36,
+  "text": "Automation of production will no longer"
+ },
+ {
+  "start": 599.72,
+  "duration": 3.2,
+  "text": "involve managing a workforce transition"
+ },
+ {
+  "start": 601.64,
+  "duration": 3.08,
+  "text": "for which we have prior episodes of"
+ },
+ {
+  "start": 602.92,
+  "duration": 3.36,
+  "text": "automation to rely on."
+ },
+ {
+  "start": 604.72,
+  "duration": 3.48,
+  "text": "We will need tools to maintain social"
+ },
+ {
+  "start": 606.28,
+  "duration": 3.44,
+  "text": "organization, income distribution, and"
+ },
+ {
+  "start": 608.2,
+  "duration": 3.04,
+  "text": "democratic stability without the labor"
+ },
+ {
+  "start": 609.72,
+  "duration": 2.84,
+  "text": "market that has historically held these"
+ },
+ {
+  "start": 611.24,
+  "duration": 3.76,
+  "text": "together."
+ },
+ {
+  "start": 612.56,
+  "duration": 4.6,
+  "text": "I want to consider a different scenario."
+ },
+ {
+  "start": 615.0,
+  "duration": 3.68,
+  "text": "One where automation can replicate human"
+ },
+ {
+  "start": 617.16,
+  "duration": 3.48,
+  "text": "production and the commodities that it"
+ },
+ {
+  "start": 618.68,
+  "duration": 4.24,
+  "text": "produces, a big if,"
+ },
+ {
+  "start": 620.64,
+  "duration": 4.24,
+  "text": "but human labor does not disappear."
+ },
+ {
+  "start": 622.92,
+  "duration": 4.0,
+  "text": "How could this be the case? A lot of"
+ },
+ {
+  "start": 624.88,
+  "duration": 3.28,
+  "text": "analysis takes the economy as given."
+ },
+ {
+  "start": 626.92,
+  "duration": 2.68,
+  "text": "There is a set of jobs and a set of"
+ },
+ {
+  "start": 628.16,
+  "duration": 3.32,
+  "text": "goods and services produced by the"
+ },
+ {
+  "start": 629.6,
+  "duration": 3.16,
+  "text": "economy. If the same set of goods and"
+ },
+ {
+  "start": 631.48,
+  "duration": 3.2,
+  "text": "services can be produced by cheaper"
+ },
+ {
+  "start": 632.76,
+  "duration": 3.92,
+  "text": "machines, then these machines replace"
+ },
+ {
+  "start": 634.68,
+  "duration": 3.8,
+  "text": "humans and the jobs disappear."
+ },
+ {
+  "start": 636.68,
+  "duration": 3.28,
+  "text": "But the economics of structural change,"
+ },
+ {
+  "start": 638.48,
+  "duration": 3.24,
+  "text": "combined with deep-seated features of"
+ },
+ {
+  "start": 639.96,
+  "duration": 3.84,
+  "text": "human preferences, suggests something"
+ },
+ {
+  "start": 641.72,
+  "duration": 4.48,
+  "text": "different. As people get richer, they"
+ },
+ {
+  "start": 643.8,
+  "duration": 4.08,
+  "text": "don't just want more commodities. They"
+ },
+ {
+  "start": 646.2,
+  "duration": 3.2,
+  "text": "want things that aren't commodities in"
+ },
+ {
+  "start": 647.88,
+  "duration": 3.16,
+  "text": "the standard sense of the word. The"
+ },
+ {
+  "start": 649.4,
+  "duration": 2.88,
+  "text": "social aspects of products such as the"
+ },
+ {
+  "start": 651.04,
+  "duration": 3.44,
+  "text": "relationships, the status, and"
+ },
+ {
+  "start": 652.28,
+  "duration": 4.48,
+  "text": "exclusivity. What René Girard calls the"
+ },
+ {
+  "start": 654.48,
+  "duration": 3.8,
+  "text": "mimetic properties of desire become much"
+ },
+ {
+  "start": 656.76,
+  "duration": 3.52,
+  "text": "more relevant once people's basic needs"
+ },
+ {
+  "start": 658.28,
+  "duration": 3.48,
+  "text": "are satisfied. And the demand for these"
+ },
+ {
+  "start": 660.28,
+  "duration": 3.04,
+  "text": "properties will bring the human element"
+ },
+ {
+  "start": 661.76,
+  "duration": 3.28,
+  "text": "back into the production process and"
+ },
+ {
+  "start": 663.32,
+  "duration": 3.68,
+  "text": "with it the jobs."
+ },
+ {
+  "start": 665.04,
+  "duration": 4.12,
+  "text": "If this is right, then AI won't just"
+ },
+ {
+  "start": 667.0,
+  "duration": 4.16,
+  "text": "automate the commodity economy. It will"
+ },
+ {
+  "start": 669.16,
+  "duration": 4.0,
+  "text": "trigger the emergence of something new."
+ },
+ {
+  "start": 671.16,
+  "duration": 3.56,
+  "text": "A post-commodity economy where a growing"
+ },
+ {
+  "start": 673.16,
+  "duration": 3.52,
+  "text": "share of expenditure goes towards goods"
+ },
+ {
+  "start": 674.72,
+  "duration": 3.96,
+  "text": "and services whose value is inseparable"
+ },
+ {
+  "start": 676.68,
+  "duration": 4.08,
+  "text": "from the human who provided them."
+ },
+ {
+  "start": 678.68,
+  "duration": 3.88,
+  "text": "The same economic forces that moved 40%"
+ },
+ {
+  "start": 680.76,
+  "duration": 3.76,
+  "text": "of the American workforce off farms and"
+ },
+ {
+  "start": 682.56,
+  "duration": 3.76,
+  "text": "into factories and offices will move"
+ },
+ {
+  "start": 684.52,
+  "duration": 3.4,
+  "text": "workers out of automatable commodity"
+ },
+ {
+  "start": 686.32,
+  "duration": 3.24,
+  "text": "production and into what I'll call the"
+ },
+ {
+  "start": 687.92,
+  "duration": 3.24,
+  "text": "relational sector."
+ },
+ {
+  "start": 689.56,
+  "duration": 3.8,
+  "text": "By this, I I the human-intensive,"
+ },
+ {
+  "start": 691.16,
+  "duration": 3.88,
+  "text": "provenance-rich, sometimes artisanal"
+ },
+ {
+  "start": 693.36,
+  "duration": 3.32,
+  "text": "part of the economy where the human"
+ },
+ {
+  "start": 695.04,
+  "duration": 3.72,
+  "text": "aspect is part of the value of the good"
+ },
+ {
+  "start": 696.68,
+  "duration": 4.16,
+  "text": "or service itself. The economics of"
+ },
+ {
+  "start": 698.76,
+  "duration": 3.84,
+  "text": "scarcity won't disappear, it'll just"
+ },
+ {
+  "start": 700.84,
+  "duration": 3.32,
+  "text": "reallocate."
+ },
+ {
+  "start": 702.6,
+  "duration": 3.56,
+  "text": "This is not the first time this argument"
+ },
+ {
+  "start": 704.16,
+  "duration": 4.08,
+  "text": "has been made. The goal of this post is"
+ },
+ {
+  "start": 706.16,
+  "duration": 3.36,
+  "text": "to make the argument precise."
+ },
+ {
+  "start": 708.24,
+  "duration": 2.92,
+  "text": "I'll start with what we know about how"
+ },
+ {
+  "start": 709.52,
+  "duration": 3.28,
+  "text": "economies have historically responded to"
+ },
+ {
+  "start": 711.16,
+  "duration": 3.76,
+  "text": "massive productivity shocks, the"
+ },
+ {
+  "start": 712.8,
+  "duration": 3.84,
+  "text": "economics of structural change. Then"
+ },
+ {
+  "start": 714.92,
+  "duration": 3.6,
+  "text": "I'll introduce the new ingredient, a"
+ },
+ {
+  "start": 716.64,
+  "duration": 3.8,
+  "text": "behavioral micro foundation rooted in"
+ },
+ {
+  "start": 718.52,
+  "duration": 4.28,
+  "text": "mimetic preferences that generate a"
+ },
+ {
+  "start": 720.44,
+  "duration": 4.28,
+  "text": "desire for exclusivity and status that"
+ },
+ {
+  "start": 722.8,
+  "duration": 4.04,
+  "text": "explains why artisanal goods, where the"
+ },
+ {
+  "start": 724.72,
+  "duration": 4.76,
+  "text": "human element is directly tied to value,"
+ },
+ {
+  "start": 726.84,
+  "duration": 3.88,
+  "text": "have especially high income elasticity."
+ },
+ {
+  "start": 729.48,
+  "duration": 3.24,
+  "text": "I'll work through a simple model that"
+ },
+ {
+  "start": 730.72,
+  "duration": 3.88,
+  "text": "generates a clean prediction. Automated"
+ },
+ {
+  "start": 732.72,
+  "duration": 3.92,
+  "text": "sectors shrink as a share of GDP,"
+ },
+ {
+  "start": 734.6,
+  "duration": 3.24,
+  "text": "relational sectors grow. And I'll"
+ },
+ {
+  "start": 736.64,
+  "duration": 2.64,
+  "text": "connect this back to the question I"
+ },
+ {
+  "start": 737.84,
+  "duration": 2.92,
+  "text": "raised in a previous post about whether"
+ },
+ {
+  "start": 739.28,
+  "duration": 2.52,
+  "text": "AI could lead to negative economic"
+ },
+ {
+  "start": 740.76,
+  "duration": 2.52,
+  "text": "growth."
+ },
+ {
+  "start": 741.8,
+  "duration": 3.24,
+  "text": "This framework pushes further against"
+ },
+ {
+  "start": 743.28,
+  "duration": 3.4,
+  "text": "that thesis."
+ },
+ {
+  "start": 745.04,
+  "duration": 3.08,
+  "text": "My claim here is narrower than the"
+ },
+ {
+  "start": 746.68,
+  "duration": 3.68,
+  "text": "strongest version of the labor share"
+ },
+ {
+  "start": 748.12,
+  "duration": 4.08,
+  "text": "story. I am not claiming that labor's"
+ },
+ {
+  "start": 750.36,
+  "duration": 3.92,
+  "text": "aggregate share must rise or even that"
+ },
+ {
+  "start": 752.2,
+  "duration": 3.24,
+  "text": "it must remain at its current level. It"
+ },
+ {
+  "start": 754.28,
+  "duration": 2.44,
+  "text": "may well shrink as automation"
+ },
+ {
+  "start": 755.44,
+  "duration": 3.44,
+  "text": "progresses."
+ },
+ {
+  "start": 756.72,
+  "duration": 4.88,
+  "text": "The claim is about sectoral reallocation"
+ },
+ {
+  "start": 758.88,
+  "duration": 4.44,
+  "text": "in rich economies. As AI makes commodity"
+ },
+ {
+  "start": 761.6,
+  "duration": 3.16,
+  "text": "production cheap, spending and"
+ },
+ {
+  "start": 763.32,
+  "duration": 3.08,
+  "text": "employment shift towards high income"
+ },
+ {
+  "start": 764.76,
+  "duration": 3.76,
+  "text": "elasticity sectors where human"
+ },
+ {
+  "start": 766.4,
+  "duration": 3.8,
+  "text": "involvement still carries value."
+ },
+ {
+  "start": 768.52,
+  "duration": 3.2,
+  "text": "In other words, labor share can fall and"
+ },
+ {
+  "start": 770.2,
+  "duration": 3.8,
+  "text": "the relational sector can still remain a"
+ },
+ {
+  "start": 771.72,
+  "duration": 3.84,
+  "text": "substantial part of the economy."
+ },
+ {
+  "start": 774.0,
+  "duration": 3.44,
+  "text": "But importantly, the inherent properties"
+ },
+ {
+  "start": 775.56,
+  "duration": 4.12,
+  "text": "of demand for the relational sector also"
+ },
+ {
+  "start": 777.44,
+  "duration": 4.64,
+  "text": "ensure that labor remains a substantial"
+ },
+ {
+  "start": 779.68,
+  "duration": 4.24,
+  "text": "share of the overall economy. I.E. it"
+ },
+ {
+  "start": 782.08,
+  "duration": 3.08,
+  "text": "will not shrink to zero."
+ },
+ {
+  "start": 783.92,
+  "duration": 2.72,
+  "text": "I also want to underscore that this"
+ },
+ {
+  "start": 785.16,
+  "duration": 3.4,
+  "text": "framework works best for the developed"
+ },
+ {
+  "start": 786.64,
+  "duration": 3.92,
+  "text": "world where rising incomes can fund the"
+ },
+ {
+  "start": 788.56,
+  "duration": 3.12,
+  "text": "transition. For the developing world"
+ },
+ {
+  "start": 790.56,
+  "duration": 2.24,
+  "text": "where economies have been built on"
+ },
+ {
+  "start": 791.68,
+  "duration": 2.64,
+  "text": "producing commodities for rich"
+ },
+ {
+  "start": 792.8,
+  "duration": 3.039,
+  "text": "countries, the picture is more"
+ },
+ {
+  "start": 794.32,
+  "duration": 3.16,
+  "text": "complicated and potentially more"
+ },
+ {
+  "start": 795.839,
+  "duration": 4.521,
+  "text": "worrying."
+ },
+ {
+  "start": 797.48,
+  "duration": 4.56,
+  "text": "Section from farms to factories to"
+ },
+ {
+  "start": 800.36,
+  "duration": 3.28,
+  "text": "economics has a name for what happens"
+ },
+ {
+  "start": 802.04,
+  "duration": 3.72,
+  "text": "when a new technology makes one sector"
+ },
+ {
+  "start": 803.64,
+  "duration": 3.36,
+  "text": "dramatically more productive, structural"
+ },
+ {
+  "start": 805.76,
+  "duration": 3.56,
+  "text": "change."
+ },
+ {
+  "start": 807.0,
+  "duration": 4.36,
+  "text": "The canonical example is agriculture."
+ },
+ {
+  "start": 809.32,
+  "duration": 3.64,
+  "text": "In 1900, about 40% of the American"
+ },
+ {
+  "start": 811.36,
+  "duration": 4.0,
+  "text": "workforce was employed in farming."
+ },
+ {
+  "start": 812.96,
+  "duration": 4.2,
+  "text": "Today, it's less than 2%. Did people"
+ },
+ {
+  "start": 815.36,
+  "duration": 3.68,
+  "text": "stop eating? No, if anything, they're"
+ },
+ {
+  "start": 817.16,
+  "duration": 3.52,
+  "text": "eating much more. Large-scale automation"
+ },
+ {
+  "start": 819.04,
+  "duration": 3.64,
+  "text": "made farmers, and eventually factory"
+ },
+ {
+  "start": 820.68,
+  "duration": 3.52,
+  "text": "farms, much more productive."
+ },
+ {
+  "start": 822.68,
+  "duration": 3.6,
+  "text": "Agricultural production boomed and"
+ },
+ {
+  "start": 824.2,
+  "duration": 3.84,
+  "text": "prices fell, but because people can only"
+ },
+ {
+  "start": 826.28,
+  "duration": 4.08,
+  "text": "eat so much, the share of income spent"
+ },
+ {
+  "start": 828.04,
+  "duration": 3.68,
+  "text": "on food went down as people got richer,"
+ },
+ {
+  "start": 830.36,
+  "duration": 2.76,
+  "text": "and workers moved to manufacturing and"
+ },
+ {
+  "start": 831.72,
+  "duration": 2.84,
+  "text": "then to services."
+ },
+ {
+  "start": 833.12,
+  "duration": 3.48,
+  "text": "The simultaneous fall of prices and"
+ },
+ {
+  "start": 834.56,
+  "duration": 3.64,
+  "text": "reallocation of labor to another sector"
+ },
+ {
+  "start": 836.6,
+  "duration": 3.76,
+  "text": "becomes a smaller share of the economy"
+ },
+ {
+  "start": 838.2,
+  "duration": 3.88,
+  "text": "despite serving and producing more."
+ },
+ {
+  "start": 840.36,
+  "duration": 3.28,
+  "text": "The less productive sector, services,"
+ },
+ {
+  "start": 842.08,
+  "duration": 3.36,
+  "text": "where costs had not fallen and in fact"
+ },
+ {
+  "start": 843.64,
+  "duration": 3.04,
+  "text": "have risen, became a larger part of the"
+ },
+ {
+  "start": 845.44,
+  "duration": 3.16,
+  "text": "economy."
+ },
+ {
+  "start": 846.68,
+  "duration": 3.16,
+  "text": "This is known as Baumol's cost disease,"
+ },
+ {
+  "start": 848.6,
+  "duration": 3.68,
+  "text": "and you can see the transformation for"
+ },
+ {
+  "start": 849.84,
+  "duration": 4.4,
+  "text": "Taiwan in figure one below. Another note"
+ },
+ {
+  "start": 852.28,
+  "duration": 3.72,
+  "text": "from me and NLW here, there aren't a ton"
+ },
+ {
+  "start": 854.24,
+  "duration": 3.04,
+  "text": "of charts in this, but do check the link"
+ },
+ {
+  "start": 856.0,
+  "duration": 2.6,
+  "text": "in the show notes to see the ones that"
+ },
+ {
+  "start": 857.28,
+  "duration": 3.6,
+  "text": "there are."
+ },
+ {
+  "start": 858.6,
+  "duration": 3.8,
+  "text": "Alex continues. The formal economics of"
+ },
+ {
+  "start": 860.88,
+  "duration": 4.2,
+  "text": "this process were laid out beautifully"
+ },
+ {
+  "start": 862.4,
+  "duration": 4.76,
+  "text": "in a 2021 Econometrica paper by Diego"
+ },
+ {
+  "start": 865.08,
+  "duration": 4.08,
+  "text": "Comin, Daniel Lashkari, and Martí"
+ },
+ {
+  "start": 867.16,
+  "duration": 4.64,
+  "text": "Mestieri. Their key insight is that"
+ },
+ {
+  "start": 869.16,
+  "duration": 3.88,
+  "text": "demand is non-homothetic. As people get"
+ },
+ {
+  "start": 871.8,
+  "duration": 3.039,
+  "text": "richer, they don't just buy"
+ },
+ {
+  "start": 873.04,
+  "duration": 3.44,
+  "text": "proportionally more of everything. They"
+ },
+ {
+  "start": 874.839,
+  "duration": 3.881,
+  "text": "shift their spending towards sectors"
+ },
+ {
+  "start": 876.48,
+  "duration": 4.56,
+  "text": "with higher income elasticity, goods"
+ },
+ {
+  "start": 878.72,
+  "duration": 5.08,
+  "text": "whose demand grows faster than income."
+ },
+ {
+  "start": 881.04,
+  "duration": 5.12,
+  "text": "Agriculture has low income elasticity."
+ },
+ {
+  "start": 883.8,
+  "duration": 4.76,
+  "text": "You can only eat so much. Services have"
+ },
+ {
+  "start": 886.16,
+  "duration": 3.72,
+  "text": "high income elasticity. There's always a"
+ },
+ {
+  "start": 888.56,
+  "duration": 3.48,
+  "text": "better restaurant, a more engaging"
+ },
+ {
+  "start": 889.88,
+  "duration": 3.72,
+  "text": "experience, a more attentive doctor."
+ },
+ {
+  "start": 892.04,
+  "duration": 3.48,
+  "text": "Their framework matches the historical"
+ },
+ {
+  "start": 893.6,
+  "duration": 3.6,
+  "text": "data well, capturing the decline of"
+ },
+ {
+  "start": 895.52,
+  "duration": 3.319,
+  "text": "agriculture, the hump-shaped rise and"
+ },
+ {
+  "start": 897.2,
+  "duration": 3.24,
+  "text": "fall of manufacturing, and the steady"
+ },
+ {
+  "start": 898.839,
+  "duration": 3.761,
+  "text": "ascent of services."
+ },
+ {
+  "start": 900.44,
+  "duration": 4.0,
+  "text": "The key point in Comin et al. is that"
+ },
+ {
+  "start": 902.6,
+  "duration": 3.48,
+  "text": "the main mechanism is not Baumol's cost"
+ },
+ {
+  "start": 904.44,
+  "duration": 3.28,
+  "text": "disease by itself."
+ },
+ {
+  "start": 906.08,
+  "duration": 3.44,
+  "text": "It is that lower prices in automated"
+ },
+ {
+  "start": 907.72,
+  "duration": 3.04,
+  "text": "sectors raise real income, and rising"
+ },
+ {
+  "start": 909.52,
+  "duration": 3.4,
+  "text": "real income shifts demand towards"
+ },
+ {
+  "start": 910.76,
+  "duration": 3.84,
+  "text": "sectors with higher income elasticity."
+ },
+ {
+  "start": 912.92,
+  "duration": 2.96,
+  "text": "Baumol's cost disease then reinforces"
+ },
+ {
+  "start": 914.6,
+  "duration": 3.239,
+  "text": "the shift when those sectors remain"
+ },
+ {
+  "start": 915.88,
+  "duration": 3.56,
+  "text": "relatively hard to automate. The reason"
+ },
+ {
+  "start": 917.839,
+  "duration": 3.401,
+  "text": "they may be hard to automate can be due"
+ },
+ {
+  "start": 919.44,
+  "duration": 3.4,
+  "text": "to technical constraints, as has been"
+ },
+ {
+  "start": 921.24,
+  "duration": 3.36,
+  "text": "the case in the past, or because the"
+ },
+ {
+  "start": 922.84,
+  "duration": 3.72,
+  "text": "value of those sectors rests on them not"
+ },
+ {
+  "start": 924.6,
+  "duration": 3.68,
+  "text": "being automated in the first place."
+ },
+ {
+  "start": 926.56,
+  "duration": 3.24,
+  "text": "E.g., the relational sector where not"
+ },
+ {
+  "start": 928.28,
+  "duration": 2.8,
+  "text": "being automated is part of the value"
+ },
+ {
+  "start": 929.8,
+  "duration": 2.48,
+  "text": "proposition."
+ },
+ {
+  "start": 931.08,
+  "duration": 3.36,
+  "text": "In other words, even if rates of"
+ },
+ {
+  "start": 932.28,
+  "duration": 3.4,
+  "text": "automation were similar across sectors,"
+ },
+ {
+  "start": 934.44,
+  "duration": 2.84,
+  "text": "we would still expect the relational"
+ },
+ {
+  "start": 935.68,
+  "duration": 2.76,
+  "text": "sector to become more important if it is"
+ },
+ {
+  "start": 937.28,
+  "duration": 2.72,
+  "text": "where richer households want to spend"
+ },
+ {
+  "start": 938.44,
+  "duration": 3.0,
+  "text": "more of their money."
+ },
+ {
+  "start": 940.0,
+  "duration": 3.36,
+  "text": "How does this relate to AI-driven"
+ },
+ {
+  "start": 941.44,
+  "duration": 3.76,
+  "text": "transformation of jobs?"
+ },
+ {
+  "start": 943.36,
+  "duration": 4.4,
+  "text": "Comin, Lashkari, and Mistery estimate"
+ },
+ {
+  "start": 945.2,
+  "duration": 4.0,
+  "text": "that income effects account for over 75%"
+ },
+ {
+  "start": 947.76,
+  "duration": 3.6,
+  "text": "of the observed patterns of structural"
+ },
+ {
+  "start": 949.2,
+  "duration": 3.6,
+  "text": "change. Price effects, the standard"
+ },
+ {
+  "start": 951.36,
+  "duration": 3.56,
+  "text": "story that automated sectors get cheap"
+ },
+ {
+  "start": 952.8,
+  "duration": 4.24,
+  "text": "so people buy other stuff, account for"
+ },
+ {
+  "start": 954.92,
+  "duration": 4.28,
+  "text": "only about a quarter. The dominant force"
+ },
+ {
+  "start": 957.04,
+  "duration": 3.4,
+  "text": "is actually pretty simple. As people get"
+ },
+ {
+  "start": 959.2,
+  "duration": 2.72,
+  "text": "richer, they want fundamentally"
+ },
+ {
+  "start": 960.44,
+  "duration": 3.48,
+  "text": "different things."
+ },
+ {
+  "start": 961.92,
+  "duration": 4.0,
+  "text": "Importantly, this is already visible in"
+ },
+ {
+  "start": 963.92,
+  "duration": 4.08,
+  "text": "how rich households spend."
+ },
+ {
+  "start": 965.92,
+  "duration": 3.88,
+  "text": "In the 2022 BLS consumer expenditure"
+ },
+ {
+  "start": 968.0,
+  "duration": 4.4,
+  "text": "study, households in the highest income"
+ },
+ {
+  "start": 969.8,
+  "duration": 4.04,
+  "text": "quintile spent about 4.3 times as much"
+ },
+ {
+  "start": 972.4,
+  "duration": 3.72,
+  "text": "in total as households in the lowest"
+ },
+ {
+  "start": 973.84,
+  "duration": 3.84,
+  "text": "quintile. But the ratios are much larger"
+ },
+ {
+  "start": 976.12,
+  "duration": 3.8,
+  "text": "in categories with a strong relational"
+ },
+ {
+  "start": 977.68,
+  "duration": 4.4,
+  "text": "component, such as in-person dining and"
+ },
+ {
+  "start": 979.92,
+  "duration": 3.64,
+  "text": "entertainment, education, etc. Rich"
+ },
+ {
+  "start": 982.08,
+  "duration": 2.88,
+  "text": "households, in other words, do not just"
+ },
+ {
+  "start": 983.56,
+  "duration": 2.64,
+  "text": "buy more stuff. They shift their"
+ },
+ {
+  "start": 984.96,
+  "duration": 3.04,
+  "text": "spending towards goods and services"
+ },
+ {
+  "start": 986.2,
+  "duration": 4.16,
+  "text": "where the human element, the experience,"
+ },
+ {
+  "start": 988.0,
+  "duration": 3.8,
+  "text": "or the social meaning matters more."
+ },
+ {
+  "start": 990.36,
+  "duration": 2.96,
+  "text": "This is also the exact pattern Joachim"
+ },
+ {
+  "start": 991.8,
+  "duration": 3.44,
+  "text": "Hubner documents in The Race Between"
+ },
+ {
+  "start": 993.32,
+  "duration": 3.2,
+  "text": "Preferences and Technology. Using"
+ },
+ {
+  "start": 995.24,
+  "duration": 2.84,
+  "text": "household data on the universe of"
+ },
+ {
+  "start": 996.52,
+  "duration": 2.76,
+  "text": "consumer spending, he shows that"
+ },
+ {
+  "start": 998.08,
+  "duration": 2.88,
+  "text": "higher-income households spend"
+ },
+ {
+  "start": 999.28,
+  "duration": 2.96,
+  "text": "relatively more on labor-intensive goods"
+ },
+ {
+  "start": 1000.96,
+  "duration": 3.44,
+  "text": "and services as a share of total"
+ },
+ {
+  "start": 1002.24,
+  "duration": 4.44,
+  "text": "consumption. He interprets this as"
+ },
+ {
+  "start": 1004.4,
+  "duration": 3.92,
+  "text": "evidence of non-homothetic preferences,"
+ },
+ {
+  "start": 1006.68,
+  "duration": 3.32,
+  "text": "so that economic growth raises demand"
+ },
+ {
+  "start": 1008.32,
+  "duration": 3.0,
+  "text": "for labor-intensive sectors through an"
+ },
+ {
+  "start": 1010.0,
+  "duration": 2.68,
+  "text": "income effect even as other"
+ },
+ {
+  "start": 1011.32,
+  "duration": 3.48,
+  "text": "technological forces push in the"
+ },
+ {
+  "start": 1012.68,
+  "duration": 3.96,
+  "text": "opposite direction."
+ },
+ {
+  "start": 1014.8,
+  "duration": 3.4,
+  "text": "If advanced AI dramatically reduces the"
+ },
+ {
+  "start": 1016.64,
+  "duration": 3.4,
+  "text": "cost of producing a wide range of goods"
+ },
+ {
+  "start": 1018.2,
+  "duration": 3.6,
+  "text": "and services, this logic predicts a"
+ },
+ {
+  "start": 1020.04,
+  "duration": 3.24,
+  "text": "structural transformation."
+ },
+ {
+  "start": 1021.8,
+  "duration": 3.519,
+  "text": "Automated sectors will shrink as shares"
+ },
+ {
+  "start": 1023.28,
+  "duration": 3.919,
+  "text": "of the economy. The sectors with higher"
+ },
+ {
+  "start": 1025.319,
+  "duration": 3.481,
+  "text": "income elasticity will grow. The"
+ },
+ {
+  "start": 1027.199,
+  "duration": 3.321,
+  "text": "question is, which sectors and goods"
+ },
+ {
+  "start": 1028.8,
+  "duration": 3.92,
+  "text": "will have high income elasticity in a"
+ },
+ {
+  "start": 1030.52,
+  "duration": 3.919,
+  "text": "post-AGI world?"
+ },
+ {
+  "start": 1032.72,
+  "duration": 2.84,
+  "text": "Section: The Relational Sector and"
+ },
+ {
+  "start": 1034.439,
+  "duration": 2.121,
+  "text": "Desire."
+ },
+ {
+  "start": 1035.56,
+  "duration": 2.639,
+  "text": "Here, I think it's useful to have a"
+ },
+ {
+  "start": 1036.56,
+  "duration": 3.68,
+  "text": "closer look at the determinants of human"
+ },
+ {
+  "start": 1038.199,
+  "duration": 3.561,
+  "text": "preferences and desire. Economists"
+ },
+ {
+  "start": 1040.24,
+  "duration": 3.56,
+  "text": "typically model demand as if preferences"
+ },
+ {
+  "start": 1041.76,
+  "duration": 3.72,
+  "text": "are formed in isolation. The utility I"
+ },
+ {
+  "start": 1043.8,
+  "duration": 3.76,
+  "text": "get from a good, service, or experience"
+ },
+ {
+  "start": 1045.48,
+  "duration": 3.28,
+  "text": "is determined by its hedonics."
+ },
+ {
+  "start": 1047.56,
+  "duration": 2.44,
+  "text": "How good did the coffee taste? How"
+ },
+ {
+  "start": 1048.76,
+  "duration": 2.88,
+  "text": "quickly did I get the coffee after"
+ },
+ {
+  "start": 1050.0,
+  "duration": 3.16,
+  "text": "ordering it? This makes sense when"
+ },
+ {
+  "start": 1051.64,
+  "duration": 3.52,
+  "text": "people's budget constraints bind when it"
+ },
+ {
+  "start": 1053.16,
+  "duration": 3.8,
+  "text": "comes to meeting basic needs for food,"
+ },
+ {
+  "start": 1055.16,
+  "duration": 3.52,
+  "text": "shelter, and clothing. But once those"
+ },
+ {
+  "start": 1056.96,
+  "duration": 3.0,
+  "text": "needs are met, a different force starts"
+ },
+ {
+  "start": 1058.68,
+  "duration": 3.36,
+  "text": "to shape what people want and even"
+ },
+ {
+  "start": 1059.96,
+  "duration": 4.04,
+  "text": "becomes dominant. René Girard called it"
+ },
+ {
+  "start": 1062.04,
+  "duration": 3.48,
+  "text": "mimetic desire. The idea that we don't"
+ },
+ {
+  "start": 1064.0,
+  "duration": 3.44,
+  "text": "desire objects only for their intrinsic"
+ },
+ {
+  "start": 1065.52,
+  "duration": 3.24,
+  "text": "properties, because other people desire"
+ },
+ {
+  "start": 1067.44,
+  "duration": 2.76,
+  "text": "them as well."
+ },
+ {
+  "start": 1068.76,
+  "duration": 3.16,
+  "text": "We want what others want, and we want it"
+ },
+ {
+  "start": 1070.2,
+  "duration": 3.4,
+  "text": "even more when they can't have it for"
+ },
+ {
+  "start": 1071.92,
+  "duration": 2.64,
+  "text": "status, social capital, reputation, et"
+ },
+ {
+  "start": 1073.6,
+  "duration": 2.4,
+  "text": "cetera."
+ },
+ {
+  "start": 1074.56,
+  "duration": 3.28,
+  "text": "Desire is not just a relationship"
+ },
+ {
+  "start": 1076.0,
+  "duration": 3.2,
+  "text": "between a person and an object. It is"
+ },
+ {
+  "start": 1077.84,
+  "duration": 2.68,
+  "text": "also a function of what other people"
+ },
+ {
+  "start": 1079.2,
+  "duration": 3.12,
+  "text": "desire."
+ },
+ {
+  "start": 1080.52,
+  "duration": 3.68,
+  "text": "Now, here Alex goes through a number of"
+ },
+ {
+  "start": 1082.32,
+  "duration": 3.48,
+  "text": "different examples that show that this"
+ },
+ {
+  "start": 1084.2,
+  "duration": 3.16,
+  "text": "is not just theory, but put this in a"
+ },
+ {
+  "start": 1085.8,
+  "duration": 2.8,
+  "text": "bunch of different contexts and"
+ },
+ {
+  "start": 1087.36,
+  "duration": 2.92,
+  "text": "different observations from thinkers"
+ },
+ {
+  "start": 1088.6,
+  "duration": 4.08,
+  "text": "throughout the centuries."
+ },
+ {
+  "start": 1090.28,
+  "duration": 4.08,
+  "text": "The point that Alex gets to is this. Why"
+ },
+ {
+  "start": 1092.68,
+  "duration": 3.12,
+  "text": "is this mimetic relational dimension of"
+ },
+ {
+  "start": 1094.36,
+  "duration": 4.0,
+  "text": "desire relevant to the framework of"
+ },
+ {
+  "start": 1095.8,
+  "duration": 4.64,
+  "text": "common at all? Because it is comparative"
+ },
+ {
+  "start": 1098.36,
+  "duration": 3.64,
+  "text": "and therefore hard to satiate."
+ },
+ {
+  "start": 1100.44,
+  "duration": 3.52,
+  "text": "Goods with this property should have"
+ },
+ {
+  "start": 1102.0,
+  "duration": 3.88,
+  "text": "especially high income elasticity as"
+ },
+ {
+  "start": 1103.96,
+  "duration": 3.48,
+  "text": "incomes rise."
+ },
+ {
+  "start": 1105.88,
+  "duration": 3.64,
+  "text": "From there, he discusses a model that he"
+ },
+ {
+  "start": 1107.44,
+  "duration": 3.84,
+  "text": "developed with Kristof Madarász, where"
+ },
+ {
+  "start": 1109.52,
+  "duration": 3.64,
+  "text": "as he puts it, a person's desire for a"
+ },
+ {
+  "start": 1111.28,
+  "duration": 3.52,
+  "text": "good increases in how much others want"
+ },
+ {
+  "start": 1113.16,
+  "duration": 3.4,
+  "text": "it but can't have it."
+ },
+ {
+  "start": 1114.8,
+  "duration": 3.68,
+  "text": "Jumping forward a little bit, he writes,"
+ },
+ {
+  "start": 1116.56,
+  "duration": 3.76,
+  "text": "\"The critical link to AI comes from new"
+ },
+ {
+  "start": 1118.48,
+  "duration": 3.72,
+  "text": "work with Greylin Mandel."
+ },
+ {
+  "start": 1120.32,
+  "duration": 4.12,
+  "text": "We find that AI involvement undermines"
+ },
+ {
+  "start": 1122.2,
+  "duration": 3.56,
+  "text": "the perceived exclusivity of a good."
+ },
+ {
+  "start": 1124.44,
+  "duration": 3.24,
+  "text": "Objects with AI involvement are"
+ },
+ {
+  "start": 1125.76,
+  "duration": 4.08,
+  "text": "perceived as inherently reproducible and"
+ },
+ {
+  "start": 1127.68,
+  "duration": 3.56,
+  "text": "non-unique. People bid for physical art"
+ },
+ {
+  "start": 1129.84,
+  "duration": 3.72,
+  "text": "prints that varied and described AI"
+ },
+ {
+  "start": 1131.24,
+  "duration": 4.84,
+  "text": "involvement. Human-made artwork gained"
+ },
+ {
+  "start": 1133.56,
+  "duration": 4.96,
+  "text": "44% in value from exclusivity, one copy"
+ },
+ {
+  "start": 1136.08,
+  "duration": 5.32,
+  "text": "versus many, but AI-generated artwork"
+ },
+ {
+  "start": 1138.52,
+  "duration": 4.44,
+  "text": "gained less than half that, only 21%."
+ },
+ {
+  "start": 1141.4,
+  "duration": 3.56,
+  "text": "The mere involvement of AI made the work"
+ },
+ {
+  "start": 1142.96,
+  "duration": 4.04,
+  "text": "feel inherently non-exclusive, as if it"
+ },
+ {
+  "start": 1144.96,
+  "duration": 4.4,
+  "text": "could always be reproduced, regardless"
+ },
+ {
+  "start": 1147.0,
+  "duration": 5.12,
+  "text": "of how many copies were said to exist."
+ },
+ {
+  "start": 1149.36,
+  "duration": 4.6,
+  "text": "LOL you note, sorry NFTs."
+ },
+ {
+  "start": 1152.12,
+  "duration": 3.24,
+  "text": "Coming back to Alex though, he says, \"I"
+ },
+ {
+  "start": 1153.96,
+  "duration": 3.64,
+  "text": "want to stress that this extends well"
+ },
+ {
+  "start": 1155.36,
+  "duration": 3.64,
+  "text": "beyond artists and luxury craft. Walter"
+ },
+ {
+  "start": 1157.6,
+  "duration": 3.44,
+  "text": "Benjamin wrote about this in a different"
+ },
+ {
+  "start": 1159.0,
+  "duration": 4.64,
+  "text": "context, the aura of a work of art,"
+ },
+ {
+  "start": 1161.04,
+  "duration": 4.6,
+  "text": "which mechanical reproduction destroys.\""
+ },
+ {
+  "start": 1163.64,
+  "duration": 3.56,
+  "text": "But the economic logic goes beyond art."
+ },
+ {
+  "start": 1165.64,
+  "duration": 3.76,
+  "text": "It extends to any category where the"
+ },
+ {
+  "start": 1167.2,
+  "duration": 3.92,
+  "text": "human element is integral to the value."
+ },
+ {
+  "start": 1169.4,
+  "duration": 3.48,
+  "text": "Teachers, nurses, therapists, child care"
+ },
+ {
+  "start": 1171.12,
+  "duration": 2.92,
+  "text": "workers, trainers, hospitality, clergy,"
+ },
+ {
+  "start": 1172.88,
+  "duration": 2.48,
+  "text": "guides, and many forms of local"
+ },
+ {
+  "start": 1174.04,
+  "duration": 3.12,
+  "text": "services."
+ },
+ {
+  "start": 1175.36,
+  "duration": 3.44,
+  "text": "In all of these cases, the human being"
+ },
+ {
+  "start": 1177.16,
+  "duration": 2.76,
+  "text": "is not just an input into the production"
+ },
+ {
+  "start": 1178.8,
+  "duration": 3.2,
+  "text": "process."
+ },
+ {
+  "start": 1179.92,
+  "duration": 3.76,
+  "text": "Their judgment, memory, warmth, or"
+ },
+ {
+  "start": 1182.0,
+  "duration": 3.96,
+  "text": "presence is an integral part of the"
+ },
+ {
+  "start": 1183.68,
+  "duration": 4.24,
+  "text": "value. These are cases where, as Seb"
+ },
+ {
+  "start": 1185.96,
+  "duration": 4.36,
+  "text": "Kher put it, providence remains scarce"
+ },
+ {
+  "start": 1187.92,
+  "duration": 3.72,
+  "text": "even in a post-scarcity world."
+ },
+ {
+  "start": 1190.32,
+  "duration": 2.56,
+  "text": "This matters for structural change"
+ },
+ {
+  "start": 1191.64,
+  "duration": 2.84,
+  "text": "because the memetic component of"
+ },
+ {
+  "start": 1192.88,
+  "duration": 2.96,
+  "text": "preferences is inherently income"
+ },
+ {
+  "start": 1194.48,
+  "duration": 2.56,
+  "text": "elastic."
+ },
+ {
+  "start": 1195.84,
+  "duration": 2.52,
+  "text": "When you're poor, most of your spending"
+ },
+ {
+  "start": 1197.04,
+  "duration": 3.48,
+  "text": "goes towards necessities where the"
+ },
+ {
+  "start": 1198.36,
+  "duration": 3.56,
+  "text": "identity of the producer doesn't matter."
+ },
+ {
+  "start": 1200.52,
+  "duration": 2.48,
+  "text": "As you get richer, a larger share goes"
+ },
+ {
+  "start": 1201.92,
+  "duration": 2.4,
+  "text": "towards goods where you're not just"
+ },
+ {
+  "start": 1203.0,
+  "duration": 2.76,
+  "text": "buying the functional product, you're"
+ },
+ {
+  "start": 1204.32,
+  "duration": 2.84,
+  "text": "buying the story, the scarcity, the"
+ },
+ {
+  "start": 1205.76,
+  "duration": 2.76,
+  "text": "feeling of having something that others"
+ },
+ {
+  "start": 1207.16,
+  "duration": 2.8,
+  "text": "want as well."
+ },
+ {
+  "start": 1208.52,
+  "duration": 3.56,
+  "text": "This is what gives relational goods and"
+ },
+ {
+  "start": 1209.96,
+  "duration": 3.92,
+  "text": "services their high income elasticity."
+ },
+ {
+  "start": 1212.08,
+  "duration": 3.48,
+  "text": "As income rises, the exclusivity premium"
+ },
+ {
+  "start": 1213.88,
+  "duration": 3.12,
+  "text": "becomes a larger share of total value,"
+ },
+ {
+  "start": 1215.56,
+  "duration": 3.12,
+  "text": "and that premium is something human-made"
+ },
+ {
+  "start": 1217.0,
+  "duration": 3.24,
+  "text": "goods can deliver."
+ },
+ {
+  "start": 1218.68,
+  "duration": 2.76,
+  "text": "Section: The end of the commodity"
+ },
+ {
+  "start": 1220.24,
+  "duration": 3.16,
+  "text": "economy?"
+ },
+ {
+  "start": 1221.44,
+  "duration": 3.8,
+  "text": "Let's return to the commodity form. I"
+ },
+ {
+  "start": 1223.4,
+  "duration": 3.8,
+  "text": "defined it earlier, the abstraction of a"
+ },
+ {
+  "start": 1225.24,
+  "duration": 3.4,
+  "text": "product from the person who made it, the"
+ },
+ {
+  "start": 1227.2,
+  "duration": 3.84,
+  "text": "thing that made industrial capitalism"
+ },
+ {
+  "start": 1228.64,
+  "duration": 4.48,
+  "text": "possible. What happens to it when AI can"
+ },
+ {
+  "start": 1231.04,
+  "duration": 3.72,
+  "text": "produce the commodity itself?"
+ },
+ {
+  "start": 1233.12,
+  "duration": 3.72,
+  "text": "The obvious answer is that the commodity"
+ },
+ {
+  "start": 1234.76,
+  "duration": 4.28,
+  "text": "form achieves its logical endpoint, a"
+ },
+ {
+  "start": 1236.84,
+  "duration": 3.72,
+  "text": "product with no human in it at all. But"
+ },
+ {
+  "start": 1239.04,
+  "duration": 2.88,
+  "text": "the less obvious answer, the one that"
+ },
+ {
+  "start": 1240.56,
+  "duration": 3.52,
+  "text": "comes from taking structural change"
+ },
+ {
+  "start": 1241.92,
+  "duration": 4.2,
+  "text": "seriously, is that AI doesn't just"
+ },
+ {
+  "start": 1244.08,
+  "duration": 3.56,
+  "text": "perfect the commodity form. In the"
+ },
+ {
+  "start": 1246.12,
+  "duration": 3.16,
+  "text": "strict sense, it also triggers the"
+ },
+ {
+  "start": 1247.64,
+  "duration": 3.56,
+  "text": "commodity form's decline as a share of"
+ },
+ {
+  "start": 1249.28,
+  "duration": 3.8,
+  "text": "economic activity."
+ },
+ {
+  "start": 1251.2,
+  "duration": 3.76,
+  "text": "Here's the mechanism more precisely."
+ },
+ {
+  "start": 1253.08,
+  "duration": 4.28,
+  "text": "When AI automates commodity production,"
+ },
+ {
+  "start": 1254.96,
+  "duration": 3.6,
+  "text": "prices in that sector fall. That raises"
+ },
+ {
+  "start": 1257.36,
+  "duration": 2.48,
+  "text": "real income."
+ },
+ {
+  "start": 1258.56,
+  "duration": 2.48,
+  "text": "If the goods and services people want"
+ },
+ {
+  "start": 1259.84,
+  "duration": 2.6,
+  "text": "more of as they get richer lie"
+ },
+ {
+  "start": 1261.04,
+  "duration": 4.16,
+  "text": "disproportionately in the relational"
+ },
+ {
+  "start": 1262.44,
+  "duration": 4.36,
+  "text": "sector, demand shifts in that direction."
+ },
+ {
+  "start": 1265.2,
+  "duration": 2.8,
+  "text": "Baumol's cost disease then amplifies the"
+ },
+ {
+  "start": 1266.8,
+  "duration": 2.8,
+  "text": "result."
+ },
+ {
+  "start": 1268.0,
+  "duration": 3.68,
+  "text": "If the relational sector remains harder"
+ },
+ {
+  "start": 1269.6,
+  "duration": 3.8,
+  "text": "to automate, it becomes relatively more"
+ },
+ {
+  "start": 1271.68,
+  "duration": 3.96,
+  "text": "expensive and absorbs a growing share of"
+ },
+ {
+  "start": 1273.4,
+  "duration": 4.44,
+  "text": "total expenditure. But in the context of"
+ },
+ {
+  "start": 1275.64,
+  "duration": 4.36,
+  "text": "AI automation, Baumol's cost disease is"
+ },
+ {
+  "start": 1277.84,
+  "duration": 4.04,
+  "text": "a feature, not a bug. The relative"
+ },
+ {
+  "start": 1280.0,
+  "duration": 3.56,
+  "text": "expense of human services stops being a"
+ },
+ {
+  "start": 1281.88,
+  "duration": 4.28,
+  "text": "budget problem and starts being a labor"
+ },
+ {
+  "start": 1283.56,
+  "duration": 4.32,
+  "text": "market solution. The stagnant sector,"
+ },
+ {
+  "start": 1286.16,
+  "duration": 3.28,
+  "text": "the one that resists automation, is"
+ },
+ {
+  "start": 1287.88,
+  "duration": 3.6,
+  "text": "precisely where spending and employment"
+ },
+ {
+  "start": 1289.44,
+  "duration": 3.56,
+  "text": "grow. The relational sector gets more"
+ },
+ {
+  "start": 1291.48,
+  "duration": 2.72,
+  "text": "expensive because the commodity sector"
+ },
+ {
+  "start": 1293.0,
+  "duration": 3.4,
+  "text": "is getting cheaper, and that's what"
+ },
+ {
+  "start": 1294.2,
+  "duration": 4.4,
+  "text": "keeps people employed. What does this"
+ },
+ {
+  "start": 1296.4,
+  "duration": 3.8,
+  "text": "actually look like? Material abundance"
+ },
+ {
+  "start": 1298.6,
+  "duration": 2.68,
+  "text": "from automated manufacturing means goods"
+ },
+ {
+  "start": 1300.2,
+  "duration": 2.8,
+  "text": "are cheap."
+ },
+ {
+  "start": 1301.28,
+  "duration": 3.76,
+  "text": "Most people's spending goes to human-led"
+ },
+ {
+  "start": 1303.0,
+  "duration": 4.08,
+  "text": "services. Today's luxuries become the"
+ },
+ {
+  "start": 1305.04,
+  "duration": 3.72,
+  "text": "baseline for future consumers. As"
+ },
+ {
+  "start": 1307.08,
+  "duration": 3.16,
+  "text": "commodity production gets automated,"
+ },
+ {
+  "start": 1308.76,
+  "duration": 3.52,
+  "text": "income and employment flow towards the"
+ },
+ {
+  "start": 1310.24,
+  "duration": 3.96,
+  "text": "sectors with high income elasticity,"
+ },
+ {
+  "start": 1312.28,
+  "duration": 3.68,
+  "text": "what I'm calling the relational sector,"
+ },
+ {
+  "start": 1314.2,
+  "duration": 3.48,
+  "text": "including the arts, but also care,"
+ },
+ {
+  "start": 1315.96,
+  "duration": 3.52,
+  "text": "education, hospitality, therapy,"
+ },
+ {
+  "start": 1317.68,
+  "duration": 4.04,
+  "text": "personal services, craftsmanship, and"
+ },
+ {
+  "start": 1319.48,
+  "duration": 3.72,
+  "text": "community, where the human element is"
+ },
+ {
+  "start": 1321.72,
+  "duration": 3.44,
+  "text": "part of the value."
+ },
+ {
+  "start": 1323.2,
+  "duration": 3.28,
+  "text": "The so-called stagnant sector absorbs a"
+ },
+ {
+  "start": 1325.16,
+  "duration": 3.36,
+  "text": "growing share of spending and jobs"
+ },
+ {
+  "start": 1326.48,
+  "duration": 3.96,
+  "text": "precisely because it can't be automated."
+ },
+ {
+  "start": 1328.52,
+  "duration": 3.36,
+  "text": "That is where the jobs are."
+ },
+ {
+  "start": 1330.44,
+  "duration": 3.24,
+  "text": "Admittedly, Marx would have found this"
+ },
+ {
+  "start": 1331.88,
+  "duration": 4.32,
+  "text": "outcome strange, but I want to be"
+ },
+ {
+  "start": 1333.68,
+  "duration": 4.2,
+  "text": "careful here. A product with a distinct"
+ },
+ {
+  "start": 1336.2,
+  "duration": 3.84,
+  "text": "human element is not the same thing as"
+ },
+ {
+  "start": 1337.88,
+  "duration": 3.52,
+  "text": "decommodified labor. A tailor who"
+ },
+ {
+  "start": 1340.04,
+  "duration": 3.0,
+  "text": "stitches your suit or a teacher who"
+ },
+ {
+  "start": 1341.4,
+  "duration": 3.96,
+  "text": "knows you personally may still be"
+ },
+ {
+  "start": 1343.04,
+  "duration": 3.92,
+  "text": "selling relational labor to capital. The"
+ },
+ {
+  "start": 1345.36,
+  "duration": 3.24,
+  "text": "societal relations of production may"
+ },
+ {
+  "start": 1346.96,
+  "duration": 3.52,
+  "text": "remain fully capitalist even if the"
+ },
+ {
+  "start": 1348.6,
+  "duration": 4.4,
+  "text": "human aspect of the product becomes more"
+ },
+ {
+  "start": 1350.48,
+  "duration": 4.96,
+  "text": "economically salient. So, my claim is"
+ },
+ {
+  "start": 1353.0,
+  "duration": 3.8,
+  "text": "narrower. AI may reduce the commodity"
+ },
+ {
+  "start": 1355.44,
+  "duration": 2.68,
+  "text": "sector's share of expenditure and"
+ },
+ {
+  "start": 1356.8,
+  "duration": 2.88,
+  "text": "increase the share going to goods and"
+ },
+ {
+  "start": 1358.12,
+  "duration": 3.64,
+  "text": "services where the human element remains"
+ },
+ {
+  "start": 1359.68,
+  "duration": 4.4,
+  "text": "visible and valuable. That is not the"
+ },
+ {
+  "start": 1361.76,
+  "duration": 3.84,
+  "text": "end of commodification in Marx's sense."
+ },
+ {
+  "start": 1364.08,
+  "duration": 2.76,
+  "text": "It is a shift in the composition of"
+ },
+ {
+  "start": 1365.6,
+  "duration": 3.6,
+  "text": "demand."
+ },
+ {
+  "start": 1366.84,
+  "duration": 3.84,
+  "text": "Still, it matters for labor markets. The"
+ },
+ {
+  "start": 1369.2,
+  "duration": 3.88,
+  "text": "direction of structural change may be"
+ },
+ {
+  "start": 1370.68,
+  "duration": 4.4,
+  "text": "toward work that is, in some cases, more"
+ },
+ {
+  "start": 1373.08,
+  "duration": 4.52,
+  "text": "personal, more relational, and less"
+ },
+ {
+  "start": 1375.08,
+  "duration": 4.4,
+  "text": "interchangeable than what it replaces."
+ },
+ {
+  "start": 1377.6,
+  "duration": 4.08,
+  "text": "In the next section, Alex shows some"
+ },
+ {
+  "start": 1379.48,
+  "duration": 4.32,
+  "text": "actual math and an equation around why"
+ },
+ {
+  "start": 1381.68,
+  "duration": 3.88,
+  "text": "he thinks mimetic desire fights against"
+ },
+ {
+  "start": 1383.8,
+  "duration": 3.2,
+  "text": "the type of demand collapse discussed"
+ },
+ {
+  "start": 1385.56,
+  "duration": 3.48,
+  "text": "back in that Cetreoni essay, The Global"
+ },
+ {
+  "start": 1387.0,
+  "duration": 3.28,
+  "text": "Intelligence Crisis, which again I would"
+ },
+ {
+  "start": 1389.04,
+  "duration": 2.56,
+  "text": "point you to the main essay to go check"
+ },
+ {
+  "start": 1390.28,
+  "duration": 3.68,
+  "text": "that out."
+ },
+ {
+  "start": 1391.6,
+  "duration": 3.72,
+  "text": "Section: The Future of Work. The durable"
+ },
+ {
+  "start": 1393.96,
+  "duration": 2.84,
+  "text": "jobs of the future won't be about"
+ },
+ {
+  "start": 1395.32,
+  "duration": 3.24,
+  "text": "monitoring AI systems or prompt"
+ },
+ {
+  "start": 1396.8,
+  "duration": 3.56,
+  "text": "engineering. Those are transitional"
+ },
+ {
+  "start": 1398.56,
+  "duration": 3.32,
+  "text": "roles in the automated sector. The"
+ },
+ {
+  "start": 1400.36,
+  "duration": 3.08,
+  "text": "durable jobs will be in the relational"
+ },
+ {
+  "start": 1401.88,
+  "duration": 3.04,
+  "text": "sector, where the human element is the"
+ },
+ {
+  "start": 1403.44,
+  "duration": 3.48,
+  "text": "product itself."
+ },
+ {
+  "start": 1404.92,
+  "duration": 3.52,
+  "text": "Some already exist and are growing."
+ },
+ {
+  "start": 1406.92,
+  "duration": 3.08,
+  "text": "Nurses, therapists, teachers, boutique"
+ },
+ {
+  "start": 1408.44,
+  "duration": 3.0,
+  "text": "fitness instructors, personal chefs,"
+ },
+ {
+  "start": 1410.0,
+  "duration": 3.04,
+  "text": "bespoke tailors, craft brewers, live"
+ },
+ {
+  "start": 1411.44,
+  "duration": 3.08,
+  "text": "performers, spiritual guides, child care"
+ },
+ {
+  "start": 1413.04,
+  "duration": 3.44,
+  "text": "workers, and many varieties of"
+ },
+ {
+  "start": 1414.52,
+  "duration": 3.56,
+  "text": "hospitality and care work."
+ },
+ {
+  "start": 1416.48,
+  "duration": 3.2,
+  "text": "Others are emerging. Experience"
+ },
+ {
+  "start": 1418.08,
+  "duration": 2.96,
+  "text": "designers, human-AI collaboration"
+ },
+ {
+  "start": 1419.68,
+  "duration": 2.96,
+  "text": "artists, provenance certifiers,"
+ },
+ {
+  "start": 1421.04,
+  "duration": 3.64,
+  "text": "community curators."
+ },
+ {
+  "start": 1422.64,
+  "duration": 3.68,
+  "text": "Many haven't been invented yet, just as"
+ },
+ {
+  "start": 1424.68,
+  "duration": 3.92,
+  "text": "six out of 10 jobs people hold today"
+ },
+ {
+  "start": 1426.32,
+  "duration": 4.04,
+  "text": "didn't exist in 1940. The most common"
+ },
+ {
+  "start": 1428.6,
+  "duration": 3.24,
+  "text": "pushback I get when I say this is, \"But"
+ },
+ {
+  "start": 1430.36,
+  "duration": 3.0,
+  "text": "not everyone is creative. Not everyone"
+ },
+ {
+  "start": 1431.84,
+  "duration": 3.04,
+  "text": "will be artists.\""
+ },
+ {
+  "start": 1433.36,
+  "duration": 4.28,
+  "text": "I think this misunderstands what's being"
+ },
+ {
+  "start": 1434.88,
+  "duration": 4.12,
+  "text": "asked. You don't need to be Picasso. You"
+ },
+ {
+  "start": 1437.64,
+  "duration": 2.64,
+  "text": "need to be the person whose involvement"
+ },
+ {
+  "start": 1439.0,
+  "duration": 3.32,
+  "text": "makes the product feel like it was made"
+ },
+ {
+  "start": 1440.28,
+  "duration": 3.68,
+  "text": "for someone, by someone."
+ },
+ {
+  "start": 1442.32,
+  "duration": 3.04,
+  "text": "The economics of structural change tell"
+ },
+ {
+  "start": 1443.96,
+  "duration": 3.36,
+  "text": "us that when technology makes one type"
+ },
+ {
+  "start": 1445.36,
+  "duration": 4.2,
+  "text": "of production cheap, the economy doesn't"
+ },
+ {
+  "start": 1447.32,
+  "duration": 3.52,
+  "text": "collapse. It transforms."
+ },
+ {
+  "start": 1449.56,
+  "duration": 3.4,
+  "text": "It shifts towards the things that"
+ },
+ {
+  "start": 1450.84,
+  "duration": 3.6,
+  "text": "technology can't make cheap."
+ },
+ {
+  "start": 1452.96,
+  "duration": 2.92,
+  "text": "For AI, those things are exactly the"
+ },
+ {
+  "start": 1454.44,
+  "duration": 4.76,
+  "text": "ones where human involvement carries"
+ },
+ {
+  "start": 1455.88,
+  "duration": 5.2,
+  "text": "inherent irreplaceable value."
+ },
+ {
+  "start": 1459.2,
+  "duration": 3.36,
+  "text": "All right, back to NLW."
+ },
+ {
+  "start": 1461.08,
+  "duration": 3.32,
+  "text": "First of all, thank you to Alex for"
+ },
+ {
+  "start": 1462.56,
+  "duration": 4.04,
+  "text": "wading into what is a very fraught"
+ },
+ {
+  "start": 1464.4,
+  "duration": 3.96,
+  "text": "discussion with a thoughtful, sensible"
+ },
+ {
+  "start": 1466.6,
+  "duration": 4.16,
+  "text": "entrance into the canon."
+ },
+ {
+  "start": 1468.36,
+  "duration": 3.96,
+  "text": "My goal in sharing this type of writing"
+ },
+ {
+  "start": 1470.76,
+  "duration": 3.6,
+  "text": "is not to be Pollyannaish about the"
+ },
+ {
+  "start": 1472.32,
+  "duration": 3.32,
+  "text": "challenges we face, nor to convince you"
+ },
+ {
+  "start": 1474.36,
+  "duration": 3.8,
+  "text": "if you are nervous that you have no"
+ },
+ {
+  "start": 1475.64,
+  "duration": 4.08,
+  "text": "reason to be nervous. We are facing down"
+ },
+ {
+  "start": 1478.16,
+  "duration": 3.36,
+  "text": "immense change."
+ },
+ {
+  "start": 1479.72,
+  "duration": 4.04,
+  "text": "Even when changing for the good creates"
+ },
+ {
+  "start": 1481.52,
+  "duration": 3.64,
+  "text": "enormous amounts of stress and anxiety."
+ },
+ {
+  "start": 1483.76,
+  "duration": 2.52,
+  "text": "Think about the kid who's all anxious"
+ },
+ {
+  "start": 1485.16,
+  "duration": 3.64,
+  "text": "even though they're going to their dream"
+ },
+ {
+  "start": 1486.28,
+  "duration": 3.96,
+  "text": "college. Change itself is for many"
+ },
+ {
+  "start": 1488.8,
+  "duration": 3.16,
+  "text": "difficult."
+ },
+ {
+  "start": 1490.24,
+  "duration": 4.32,
+  "text": "The problem that I have is that the"
+ },
+ {
+  "start": 1491.96,
+  "duration": 4.68,
+  "text": "absolute dominant discourse right now is"
+ },
+ {
+  "start": 1494.56,
+  "duration": 4.28,
+  "text": "that AI-wrought change leads to"
+ },
+ {
+  "start": 1496.64,
+  "duration": 3.56,
+  "text": "something worse, to something negative."
+ },
+ {
+  "start": 1498.84,
+  "duration": 3.2,
+  "text": "In fact, I think what's causing a big"
+ },
+ {
+  "start": 1500.2,
+  "duration": 3.48,
+  "text": "part of the political backlash is that"
+ },
+ {
+  "start": 1502.04,
+  "duration": 3.0,
+  "text": "people are doing the math and saying,"
+ },
+ {
+  "start": 1503.68,
+  "duration": 3.12,
+  "text": "\"If this leads to change that is"
+ },
+ {
+  "start": 1505.04,
+  "duration": 3.4,
+  "text": "obviously negative, why the hell would"
+ },
+ {
+  "start": 1506.8,
+  "duration": 3.32,
+  "text": "we let it happen?\""
+ },
+ {
+  "start": 1508.44,
+  "duration": 3.48,
+  "text": "The big part of the failure, for not"
+ },
+ {
+  "start": 1510.12,
+  "duration": 3.56,
+  "text": "just the AI industry, but anyone with an"
+ },
+ {
+  "start": 1511.92,
+  "duration": 3.92,
+  "text": "active vested interest in what that"
+ },
+ {
+  "start": 1513.68,
+  "duration": 4.64,
+  "text": "future looks like, is to not spend any"
+ },
+ {
+  "start": 1515.84,
+  "duration": 3.68,
+  "text": "time actually asking what we change"
+ },
+ {
+  "start": 1518.32,
+  "duration": 2.52,
+  "text": "into."
+ },
+ {
+  "start": 1519.52,
+  "duration": 3.4,
+  "text": "There's just this assumption that we"
+ },
+ {
+  "start": 1520.84,
+  "duration": 4.8,
+  "text": "fall off a labor cliff, and you either"
+ },
+ {
+  "start": 1522.92,
+  "duration": 4.72,
+  "text": "work at an AI lab or, to use the awful,"
+ },
+ {
+  "start": 1525.64,
+  "duration": 3.72,
+  "text": "stupid, anyone who says this should shut"
+ },
+ {
+  "start": 1527.64,
+  "duration": 3.92,
+  "text": "the hell up meme, you enter the"
+ },
+ {
+  "start": 1529.36,
+  "duration": 3.92,
+  "text": "permanent underclass."
+ },
+ {
+  "start": 1531.56,
+  "duration": 3.28,
+  "text": "I believe that when we look back a"
+ },
+ {
+  "start": 1533.28,
+  "duration": 3.0,
+  "text": "decade, and especially two, three"
+ },
+ {
+  "start": 1534.84,
+  "duration": 4.44,
+  "text": "decades from now,"
+ },
+ {
+  "start": 1536.28,
+  "duration": 5.16,
+  "text": "this moment of frenetic anxiety will be"
+ },
+ {
+  "start": 1539.28,
+  "duration": 4.16,
+  "text": "seen as one of the biggest misplacements"
+ },
+ {
+  "start": 1541.44,
+  "duration": 3.2,
+  "text": "of our collective energy that we've ever"
+ },
+ {
+  "start": 1543.44,
+  "duration": 2.72,
+  "text": "had."
+ },
+ {
+  "start": 1544.64,
+  "duration": 2.84,
+  "text": "I'm excited to see people like Alex"
+ },
+ {
+  "start": 1546.16,
+  "duration": 3.4,
+  "text": "actually trying to bring some"
+ },
+ {
+  "start": 1547.48,
+  "duration": 4.48,
+  "text": "intellectual and academic discipline to"
+ },
+ {
+  "start": 1549.56,
+  "duration": 3.8,
+  "text": "thinking about what comes next, and I'm"
+ },
+ {
+  "start": 1551.96,
+  "duration": 2.52,
+  "text": "going to keep exploring that in shows to"
+ },
+ {
+  "start": 1553.36,
+  "duration": 2.36,
+  "text": "come."
+ },
+ {
+  "start": 1554.48,
+  "duration": 2.92,
+  "text": "For now, I think that's enough big"
+ },
+ {
+  "start": 1555.72,
+  "duration": 3.48,
+  "text": "thinking for this weekend. Appreciate"
+ },
+ {
+  "start": 1557.4,
+  "duration": 5.52,
+  "text": "you listening or watching, as always,"
+ },
+ {
+  "start": 1559.2,
+  "duration": 3.72,
+  "text": "and until next time, peace."
+ }
+]

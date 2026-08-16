@@ -1,0 +1,1402 @@
+[
+ {
+  "start": 0.56,
+  "duration": 3.6,
+  "text": "AI agents are getting their own credit"
+ },
+ {
+  "start": 2.8,
+  "duration": 2.56,
+  "text": "cards."
+ },
+ {
+  "start": 4.16,
+  "duration": 3.28,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 5.36,
+  "duration": 4.16,
+  "text": "Headlines Edition, all the daily AI news"
+ },
+ {
+  "start": 7.44,
+  "duration": 4.64,
+  "text": "you need in around 5 minutes."
+ },
+ {
+  "start": 9.52,
+  "duration": 4.0,
+  "text": "They grow up so fast, don't they?"
+ },
+ {
+  "start": 12.08,
+  "duration": 3.76,
+  "text": "It seems like just months ago we were"
+ },
+ {
+  "start": 13.52,
+  "duration": 3.6,
+  "text": "watching agents fumble around, not"
+ },
+ {
+  "start": 15.84,
+  "duration": 3.32,
+  "text": "really successfully doing the things"
+ },
+ {
+  "start": 17.12,
+  "duration": 3.64,
+  "text": "that we asked them to, and now here they"
+ },
+ {
+  "start": 19.16,
+  "duration": 4.12,
+  "text": "are all grown up getting their first"
+ },
+ {
+  "start": 20.76,
+  "duration": 4.84,
+  "text": "credit cards. Yes, indeed, both Ramp and"
+ },
+ {
+  "start": 23.28,
+  "duration": 4.64,
+  "text": "Stripe are introducing virtual payment"
+ },
+ {
+  "start": 25.6,
+  "duration": 4.44,
+  "text": "cards designed specifically for AI"
+ },
+ {
+  "start": 27.92,
+  "duration": 4.04,
+  "text": "agents. The Ramp version allows agents"
+ },
+ {
+  "start": 30.04,
+  "duration": 4.8,
+  "text": "to tap into payment options via API,"
+ },
+ {
+  "start": 31.96,
+  "duration": 4.48,
+  "text": "MCP, and CLI. If those initials don't"
+ },
+ {
+  "start": 34.84,
+  "duration": 3.36,
+  "text": "mean anything to you, go check out my"
+ },
+ {
+  "start": 36.44,
+  "duration": 4.12,
+  "text": "episode yesterday about Google Workspace"
+ },
+ {
+  "start": 38.2,
+  "duration": 4.0,
+  "text": "CLI where I go into all of that. In any"
+ },
+ {
+  "start": 40.56,
+  "duration": 3.68,
+  "text": "case, credit card numbers are not"
+ },
+ {
+  "start": 42.2,
+  "duration": 3.8,
+  "text": "exposed through the new workflow, which"
+ },
+ {
+  "start": 44.24,
+  "duration": 3.76,
+  "text": "should improve security, and users can"
+ },
+ {
+  "start": 46.0,
+  "duration": 4.44,
+  "text": "also set spend limits and have real-time"
+ },
+ {
+  "start": 48.0,
+  "duration": 4.04,
+  "text": "visibility into transactions, just in"
+ },
+ {
+  "start": 50.44,
+  "duration": 3.88,
+  "text": "case your Open Claw has expensive"
+ },
+ {
+  "start": 52.04,
+  "duration": 5.12,
+  "text": "tastes. Ahmad Musci notes tweets, \"My"
+ },
+ {
+  "start": 54.32,
+  "duration": 5.16,
+  "text": "Ramp agent has already spent $5,435"
+ },
+ {
+  "start": 57.16,
+  "duration": 4.28,
+  "text": "on Yu-Gi-Oh! cards. No regrets.\" The"
+ },
+ {
+  "start": 59.48,
+  "duration": 4.0,
+  "text": "Stripe version is just getting started"
+ },
+ {
+  "start": 61.44,
+  "duration": 3.96,
+  "text": "with a limited beta available to agent"
+ },
+ {
+  "start": 63.48,
+  "duration": 3.64,
+  "text": "builders. Once again, the virtual cards"
+ },
+ {
+  "start": 65.4,
+  "duration": 3.84,
+  "text": "have programmable spending limits,"
+ },
+ {
+  "start": 67.12,
+  "duration": 4.04,
+  "text": "controls around merchant categories, and"
+ },
+ {
+  "start": 69.24,
+  "duration": 3.88,
+  "text": "real-time risk scores to make sure your"
+ },
+ {
+  "start": 71.16,
+  "duration": 3.92,
+  "text": "agent spending is under control. Stripe"
+ },
+ {
+  "start": 73.12,
+  "duration": 4.0,
+  "text": "product manager Jeff Weinstein explained"
+ },
+ {
+  "start": 75.08,
+  "duration": 3.6,
+  "text": "the logic behind introducing the cards,"
+ },
+ {
+  "start": 77.12,
+  "duration": 3.44,
+  "text": "commenting that we're about to see a lot"
+ },
+ {
+  "start": 78.68,
+  "duration": 3.48,
+  "text": "more agents doing a lot more for us, and"
+ },
+ {
+  "start": 80.56,
+  "duration": 2.64,
+  "text": "that's often going to involve spending"
+ },
+ {
+  "start": 82.16,
+  "duration": 2.48,
+  "text": "money."
+ },
+ {
+  "start": 83.2,
+  "duration": 3.32,
+  "text": "Now, this is one of those obvious in"
+ },
+ {
+  "start": 84.64,
+  "duration": 3.68,
+  "text": "retrospect kind of things. You're"
+ },
+ {
+  "start": 86.52,
+  "duration": 3.16,
+  "text": "already seeing people experimenting with"
+ },
+ {
+  "start": 88.32,
+  "duration": 3.24,
+  "text": "handing a credit card to their Open"
+ },
+ {
+  "start": 89.68,
+  "duration": 3.52,
+  "text": "Claw. Entrepreneur super mom in front of"
+ },
+ {
+  "start": 91.56,
+  "duration": 4.04,
+  "text": "the show, Jessie Gennett, has recently"
+ },
+ {
+  "start": 93.2,
+  "duration": 4.32,
+  "text": "been going ham on Open Claw experiments,"
+ },
+ {
+  "start": 95.6,
+  "duration": 3.88,
+  "text": "and at the end of February got her Open"
+ },
+ {
+  "start": 97.52,
+  "duration": 3.8,
+  "text": "Claw wired up to using her Amazon"
+ },
+ {
+  "start": 99.48,
+  "duration": 3.44,
+  "text": "account, but overall there is still"
+ },
+ {
+  "start": 101.32,
+  "duration": 4.28,
+  "text": "clearly a need for better ways to both"
+ },
+ {
+  "start": 102.92,
+  "duration": 4.16,
+  "text": "enable and control agent spending. One"
+ },
+ {
+  "start": 105.6,
+  "duration": 2.88,
+  "text": "other interesting little detail about"
+ },
+ {
+  "start": 107.08,
+  "duration": 3.28,
+  "text": "Ramp and Stripe doing this is that"
+ },
+ {
+  "start": 108.48,
+  "duration": 3.12,
+  "text": "they're opting for normal cards rather"
+ },
+ {
+  "start": 110.36,
+  "duration": 4.48,
+  "text": "than promoting some agent-focused"
+ },
+ {
+  "start": 111.6,
+  "duration": 5.28,
+  "text": "payment protocol like X402 or AP2. In"
+ },
+ {
+  "start": 114.84,
+  "duration": 3.72,
+  "text": "short, advances in agent capability mean"
+ },
+ {
+  "start": 116.88,
+  "duration": 3.4,
+  "text": "they are more able to use payment rails"
+ },
+ {
+  "start": 118.56,
+  "duration": 3.36,
+  "text": "that were designed for humans than when"
+ },
+ {
+  "start": 120.28,
+  "duration": 3.92,
+  "text": "those protocols were designed 6 months"
+ },
+ {
+  "start": 121.92,
+  "duration": 4.2,
+  "text": "ago. They also have the huge structural"
+ },
+ {
+  "start": 124.2,
+  "duration": 3.2,
+  "text": "advantage of plugging into existing"
+ },
+ {
+  "start": 126.12,
+  "duration": 3.44,
+  "text": "merchant infrastructure rather than"
+ },
+ {
+  "start": 127.4,
+  "duration": 3.88,
+  "text": "having to bootstrap a new system."
+ },
+ {
+  "start": 129.56,
+  "duration": 3.48,
+  "text": "Separately, but also from Ramp, the"
+ },
+ {
+  "start": 131.28,
+  "duration": 4.2,
+  "text": "company published a new edition of their"
+ },
+ {
+  "start": 133.04,
+  "duration": 4.28,
+  "text": "AI index, and economist Eric Kerzian is"
+ },
+ {
+  "start": 135.48,
+  "duration": 3.76,
+  "text": "ready to call it. I've seen enough, he"
+ },
+ {
+  "start": 137.32,
+  "duration": 3.68,
+  "text": "writes, and Prophetic is the new default"
+ },
+ {
+  "start": 139.24,
+  "duration": 3.12,
+  "text": "for businesses."
+ },
+ {
+  "start": 141.0,
+  "duration": 2.84,
+  "text": "The new update for March shows that AI"
+ },
+ {
+  "start": 142.36,
+  "duration": 3.08,
+  "text": "adoption is growing quickly for Ramp"
+ },
+ {
+  "start": 143.84,
+  "duration": 2.96,
+  "text": "customers across the board, but"
+ },
+ {
+  "start": 145.44,
+  "duration": 3.88,
+  "text": "Anthropic's growth is in a league of its"
+ },
+ {
+  "start": 146.8,
+  "duration": 4.159,
+  "text": "own. Overall, AI adoption is now at"
+ },
+ {
+  "start": 149.32,
+  "duration": 3.04,
+  "text": "47.6%"
+ },
+ {
+  "start": 150.959,
+  "duration": 2.841,
+  "text": "meaning almost half of the businesses on"
+ },
+ {
+  "start": 152.36,
+  "duration": 3.599,
+  "text": "Ramp now have at least one AI"
+ },
+ {
+  "start": 153.8,
+  "duration": 3.92,
+  "text": "subscription on the books. Anthropic is"
+ },
+ {
+  "start": 155.959,
+  "duration": 4.361,
+  "text": "the only company seeing accelerating"
+ },
+ {
+  "start": 157.72,
+  "duration": 5.48,
+  "text": "growth and adoption, now at 24.4% of"
+ },
+ {
+  "start": 160.32,
+  "duration": 5.12,
+  "text": "Ramp customers compared to 34.4% and"
+ },
+ {
+  "start": 163.2,
+  "duration": 3.48,
+  "text": "falling for OpenAI. The big signal,"
+ },
+ {
+  "start": 165.44,
+  "duration": 3.0,
+  "text": "however, that Kerzian is paying"
+ },
+ {
+  "start": 166.68,
+  "duration": 3.76,
+  "text": "attention to is Anthropic's share of the"
+ },
+ {
+  "start": 168.44,
+  "duration": 4.04,
+  "text": "first time AI spending. Compared"
+ },
+ {
+  "start": 170.44,
+  "duration": 3.6,
+  "text": "head-to-head against OpenAI, Anthropic"
+ },
+ {
+  "start": 172.48,
+  "duration": 3.44,
+  "text": "is now winning 70% of first-time"
+ },
+ {
+  "start": 174.04,
+  "duration": 3.56,
+  "text": "business. The two companies were neck"
+ },
+ {
+  "start": 175.92,
+  "duration": 3.64,
+  "text": "and neck at the beginning of the year,"
+ },
+ {
+  "start": 177.6,
+  "duration": 4.2,
+  "text": "writes Kerzian. It's a complete reversal"
+ },
+ {
+  "start": 179.56,
+  "duration": 4.04,
+  "text": "of the trend we observed in 2025 when"
+ },
+ {
+  "start": 181.8,
+  "duration": 3.76,
+  "text": "OpenAI adoption accelerated faster than"
+ },
+ {
+  "start": 183.6,
+  "duration": 3.56,
+  "text": "any other model company. Now, keep in"
+ },
+ {
+  "start": 185.56,
+  "duration": 3.32,
+  "text": "mind this is of course just one source"
+ },
+ {
+  "start": 187.16,
+  "duration": 4.079,
+  "text": "of data from one provider, and there are"
+ },
+ {
+  "start": 188.88,
+  "duration": 4.359,
+  "text": "even limits to this methodology. As Adam"
+ },
+ {
+  "start": 191.239,
+  "duration": 3.321,
+  "text": "from OpenAI points out, this might not"
+ },
+ {
+  "start": 193.239,
+  "duration": 2.72,
+  "text": "be fully inclusive of enterprise"
+ },
+ {
+  "start": 194.56,
+  "duration": 3.2,
+  "text": "customers who purchase via purchase"
+ },
+ {
+  "start": 195.959,
+  "duration": 3.121,
+  "text": "order, but certainly this is part of an"
+ },
+ {
+  "start": 197.76,
+  "duration": 3.479,
+  "text": "overall trend line that we have seen"
+ },
+ {
+  "start": 199.08,
+  "duration": 3.6,
+  "text": "numerous examples of."
+ },
+ {
+  "start": 201.239,
+  "duration": 3.601,
+  "text": "Speaking of OpenAI, the company is"
+ },
+ {
+  "start": 202.68,
+  "duration": 3.96,
+  "text": "planning a bit of a shift around Sora,"
+ },
+ {
+  "start": 204.84,
+  "duration": 4.36,
+  "text": "planning to integrate the model into"
+ },
+ {
+  "start": 206.64,
+  "duration": 4.52,
+  "text": "ChatGPT. The launch of the standalone"
+ },
+ {
+  "start": 209.2,
+  "duration": 3.44,
+  "text": "Sora app in September did garner a lot"
+ },
+ {
+  "start": 211.16,
+  "duration": 3.72,
+  "text": "of downloads, shooting in fact to the"
+ },
+ {
+  "start": 212.64,
+  "duration": 4.24,
+  "text": "top of the App Store charts. Perception,"
+ },
+ {
+  "start": 214.88,
+  "duration": 3.88,
+  "text": "however, was that usage quickly waned,"
+ },
+ {
+  "start": 216.88,
+  "duration": 3.52,
+  "text": "and last fall Sam Altman told staff that"
+ },
+ {
+  "start": 218.76,
+  "duration": 3.24,
+  "text": "only a small percentage of Sora users"
+ },
+ {
+  "start": 220.4,
+  "duration": 3.0,
+  "text": "were sharing their videos publicly,"
+ },
+ {
+  "start": 222.0,
+  "duration": 3.72,
+  "text": "making it not all that effective as a"
+ },
+ {
+  "start": 223.4,
+  "duration": 3.96,
+  "text": "social network. Now, one little bit of a"
+ },
+ {
+  "start": 225.72,
+  "duration": 3.32,
+  "text": "narrative violation, given that many"
+ },
+ {
+  "start": 227.36,
+  "duration": 3.68,
+  "text": "people had written off Sora, is that"
+ },
+ {
+  "start": 229.04,
+  "duration": 3.92,
+  "text": "recent data from Sensor Tower show that"
+ },
+ {
+  "start": 231.04,
+  "duration": 4.04,
+  "text": "over the last month Sora jumped over 3"
+ },
+ {
+  "start": 232.96,
+  "duration": 4.28,
+  "text": "million daily active users and was"
+ },
+ {
+  "start": 235.08,
+  "duration": 4.0,
+  "text": "continuously growing. And yet still the"
+ },
+ {
+  "start": 237.24,
+  "duration": 4.56,
+  "text": "information reports that by bringing"
+ },
+ {
+  "start": 239.08,
+  "duration": 5.2,
+  "text": "Sora back into chat GPT, it signals a"
+ },
+ {
+  "start": 241.8,
+  "duration": 4.52,
+  "text": "strategic shift refocusing on chat GPT"
+ },
+ {
+  "start": 244.28,
+  "duration": 3.52,
+  "text": "as a core open AI experience. The"
+ },
+ {
+  "start": 246.32,
+  "duration": 3.12,
+  "text": "information points out that open AI has"
+ },
+ {
+  "start": 247.8,
+  "duration": 3.4,
+  "text": "put more resources into chat GPT"
+ },
+ {
+  "start": 249.44,
+  "duration": 3.6,
+  "text": "recently in hopes of hitting 1 billion"
+ },
+ {
+  "start": 251.2,
+  "duration": 3.12,
+  "text": "weekly active users. Open AI's"
+ },
+ {
+  "start": 253.04,
+  "duration": 2.52,
+  "text": "leadership is also cognizant of"
+ },
+ {
+  "start": 254.32,
+  "duration": 3.28,
+  "text": "increased competition from Google's"
+ },
+ {
+  "start": 255.56,
+  "duration": 3.679,
+  "text": "Gemini, which now does offer video"
+ },
+ {
+  "start": 257.6,
+  "duration": 3.28,
+  "text": "generation as part of the core app"
+ },
+ {
+  "start": 259.239,
+  "duration": 3.841,
+  "text": "experience."
+ },
+ {
+  "start": 260.88,
+  "duration": 4.52,
+  "text": "Over in Elon land, the unification of"
+ },
+ {
+  "start": 263.08,
+  "duration": 4.72,
+  "text": "the Musk Empire continues as Tesla plans"
+ },
+ {
+  "start": 265.4,
+  "duration": 3.56,
+  "text": "a joint AI initiative with XAI. Musk"
+ },
+ {
+  "start": 267.8,
+  "duration": 2.44,
+  "text": "announced on Wednesday that his"
+ },
+ {
+  "start": 268.96,
+  "duration": 3.6,
+  "text": "companies will work together on a"
+ },
+ {
+  "start": 270.24,
+  "duration": 4.16,
+  "text": "project called macro hard or digital"
+ },
+ {
+  "start": 272.56,
+  "duration": 4.359,
+  "text": "optimist. He said the project was part"
+ },
+ {
+  "start": 274.4,
+  "duration": 4.8,
+  "text": "of Tesla's recent deal to invest in XAI."
+ },
+ {
+  "start": 276.919,
+  "duration": 4.241,
+  "text": "In a post on X he wrote, \"Grok is the"
+ },
+ {
+  "start": 279.2,
+  "duration": 3.68,
+  "text": "master conductor and navigator with deep"
+ },
+ {
+  "start": 281.16,
+  "duration": 3.68,
+  "text": "understanding of the world to direct"
+ },
+ {
+  "start": 282.88,
+  "duration": 3.48,
+  "text": "digital optimist, which is processing"
+ },
+ {
+  "start": 284.84,
+  "duration": 2.92,
+  "text": "and actioning the past 5 seconds of"
+ },
+ {
+  "start": 286.36,
+  "duration": 3.36,
+  "text": "real-time computer screen video and"
+ },
+ {
+  "start": 287.76,
+  "duration": 3.36,
+  "text": "keyboard mouse actions. Grok is like a"
+ },
+ {
+  "start": 289.72,
+  "duration": 3.0,
+  "text": "much more advanced and sophisticated"
+ },
+ {
+  "start": 291.12,
+  "duration": 3.76,
+  "text": "version of turn-by-turn navigation"
+ },
+ {
+  "start": 292.72,
+  "duration": 3.84,
+  "text": "software. You can think of it as digital"
+ },
+ {
+  "start": 294.88,
+  "duration": 3.52,
+  "text": "optimist AI being system one,"
+ },
+ {
+  "start": 296.56,
+  "duration": 3.56,
+  "text": "instinctive part of the mind, and Grok"
+ },
+ {
+  "start": 298.4,
+  "duration": 4.0,
+  "text": "being system two, thinking part of the"
+ },
+ {
+  "start": 300.12,
+  "duration": 4.72,
+  "text": "mind.\" Musk noted the system will run on"
+ },
+ {
+  "start": 302.4,
+  "duration": 3.8,
+  "text": "Tesla's low-cost AI 4 silicon rather"
+ },
+ {
+  "start": 304.84,
+  "duration": 2.44,
+  "text": "than requiring expensive Nvidia"
+ },
+ {
+  "start": 306.2,
+  "duration": 2.6,
+  "text": "hardware."
+ },
+ {
+  "start": 307.28,
+  "duration": 3.44,
+  "text": "So stripping out the sales pitch, it"
+ },
+ {
+  "start": 308.8,
+  "duration": 3.72,
+  "text": "sounds like this will be XAI's computer"
+ },
+ {
+  "start": 310.72,
+  "duration": 3.52,
+  "text": "use play, perhaps joining the rest of"
+ },
+ {
+  "start": 312.52,
+  "duration": 3.52,
+  "text": "the industry in the open clawfication of"
+ },
+ {
+  "start": 314.24,
+  "duration": 3.64,
+  "text": "everything. However, Elon of course"
+ },
+ {
+  "start": 316.04,
+  "duration": 3.72,
+  "text": "positioned it as a more grandiose vision"
+ },
+ {
+  "start": 317.88,
+  "duration": 4.08,
+  "text": "adding, \"It will be the only real-time"
+ },
+ {
+  "start": 319.76,
+  "duration": 3.56,
+  "text": "smart AI system. In principle, it is"
+ },
+ {
+  "start": 321.96,
+  "duration": 2.92,
+  "text": "capable of emulating the function of"
+ },
+ {
+  "start": 323.32,
+  "duration": 3.52,
+  "text": "entire companies. This is why the"
+ },
+ {
+  "start": 324.88,
+  "duration": 4.24,
+  "text": "program is called macro hard, a funny"
+ },
+ {
+  "start": 326.84,
+  "duration": 4.2,
+  "text": "reference to Microsoft. No other company"
+ },
+ {
+  "start": 329.12,
+  "duration": 4.28,
+  "text": "can yet do this.\""
+ },
+ {
+  "start": 331.04,
+  "duration": 3.84,
+  "text": "According to Business Insider, the macro"
+ },
+ {
+  "start": 333.4,
+  "duration": 3.08,
+  "text": "hard project has run into multiple"
+ },
+ {
+  "start": 334.88,
+  "duration": 3.48,
+  "text": "roadblocks at XAI since it was first"
+ },
+ {
+  "start": 336.48,
+  "duration": 3.36,
+  "text": "mentioned in August. Sources said that"
+ },
+ {
+  "start": 338.36,
+  "duration": 3.32,
+  "text": "two project leads left the company last"
+ },
+ {
+  "start": 339.84,
+  "duration": 3.28,
+  "text": "month in quick succession after Musk"
+ },
+ {
+  "start": 341.68,
+  "duration": 3.52,
+  "text": "expressed disappointment in a lack of"
+ },
+ {
+  "start": 343.12,
+  "duration": 3.68,
+  "text": "progress. They also noted that a massive"
+ },
+ {
+  "start": 345.2,
+  "duration": 3.52,
+  "text": "data annotation project attached to"
+ },
+ {
+  "start": 346.8,
+  "duration": 3.4,
+  "text": "macro hard was paused last month to"
+ },
+ {
+  "start": 348.72,
+  "duration": 3.6,
+  "text": "allow for architectural changes to the"
+ },
+ {
+  "start": 350.2,
+  "duration": 4.0,
+  "text": "underlying model. So, despite some"
+ },
+ {
+  "start": 352.32,
+  "duration": 3.36,
+  "text": "negative behind-the-scenes reporting,"
+ },
+ {
+  "start": 354.2,
+  "duration": 4.52,
+  "text": "we'll see if the axiom holds that you"
+ },
+ {
+  "start": 355.68,
+  "duration": 5.2,
+  "text": "should never bet against Elon Musk."
+ },
+ {
+  "start": 358.72,
+  "duration": 5.92,
+  "text": "Lots of chatter about Ben Affleck's big"
+ },
+ {
+  "start": 360.88,
+  "duration": 6.12,
+  "text": "payday. Netflix could pay up to $600"
+ },
+ {
+  "start": 364.64,
+  "duration": 3.8,
+  "text": "for his AI startup Interpositive, which"
+ },
+ {
+  "start": 367.0,
+  "duration": 3.4,
+  "text": "would make it the largest AI media"
+ },
+ {
+  "start": 368.44,
+  "duration": 3.76,
+  "text": "acquisition to date. Now, last week's"
+ },
+ {
+  "start": 370.4,
+  "duration": 3.72,
+  "text": "news that Ben Affleck had sold his AI"
+ },
+ {
+  "start": 372.2,
+  "duration": 4.0,
+  "text": "startup called Interpositive was already"
+ },
+ {
+  "start": 374.12,
+  "duration": 3.6,
+  "text": "a big story in Hollywood. It came as a"
+ },
+ {
+  "start": 376.2,
+  "duration": 3.6,
+  "text": "shock to many that Affleck was secretly"
+ },
+ {
+  "start": 377.72,
+  "duration": 3.72,
+  "text": "working on AI for filmmakers, given his"
+ },
+ {
+  "start": 379.8,
+  "duration": 3.119,
+  "text": "comments on AI where he basically"
+ },
+ {
+  "start": 381.44,
+  "duration": 3.4,
+  "text": "thought that it couldn't create genuine"
+ },
+ {
+  "start": 382.919,
+  "duration": 3.321,
+  "text": "works of cinematic art. But, of course,"
+ },
+ {
+  "start": 384.84,
+  "duration": 3.32,
+  "text": "there is both more nuance to what"
+ },
+ {
+  "start": 386.24,
+  "duration": 4.16,
+  "text": "Affleck has always said and more nuance"
+ },
+ {
+  "start": 388.16,
+  "duration": 3.56,
+  "text": "to what Interpositive does. Affleck was"
+ },
+ {
+  "start": 390.4,
+  "duration": 3.36,
+  "text": "never a throw the baby out with the"
+ },
+ {
+  "start": 391.72,
+  "duration": 3.4,
+  "text": "bathwater kind of AI critic. And, in"
+ },
+ {
+  "start": 393.76,
+  "duration": 3.4,
+  "text": "fact, in all of the comments that I've"
+ },
+ {
+  "start": 395.12,
+  "duration": 3.96,
+  "text": "seen of his, it was less about what AI"
+ },
+ {
+  "start": 397.16,
+  "duration": 3.8,
+  "text": "couldn't do and more about what humans"
+ },
+ {
+  "start": 399.08,
+  "duration": 3.48,
+  "text": "were uniquely capable of."
+ },
+ {
+  "start": 400.96,
+  "duration": 3.48,
+  "text": "Interpositive's work is similarly"
+ },
+ {
+  "start": 402.56,
+  "duration": 3.4,
+  "text": "nuanced. The company is working on"
+ },
+ {
+  "start": 404.44,
+  "duration": 3.68,
+  "text": "custom training model for individual"
+ },
+ {
+  "start": 405.96,
+  "duration": 3.72,
+  "text": "productions. The technology reportedly"
+ },
+ {
+  "start": 408.12,
+  "duration": 3.56,
+  "text": "was designed to allow filmmakers to"
+ },
+ {
+  "start": 409.68,
+  "duration": 3.56,
+  "text": "quickly edit shots by automatically"
+ },
+ {
+  "start": 411.68,
+  "duration": 3.6,
+  "text": "adjusting lighting, reframing the"
+ },
+ {
+  "start": 413.24,
+  "duration": 3.56,
+  "text": "camera, and replacing backgrounds. It"
+ },
+ {
+  "start": 415.28,
+  "duration": 3.56,
+  "text": "was not, however, designed to generate"
+ },
+ {
+  "start": 416.8,
+  "duration": 3.48,
+  "text": "entirely new scenes, keeping creative"
+ },
+ {
+  "start": 418.84,
+  "duration": 3.76,
+  "text": "control firmly in the hands of the human"
+ },
+ {
+  "start": 420.28,
+  "duration": 4.2,
+  "text": "filmmaker. Essentially, it's an AI that"
+ },
+ {
+  "start": 422.6,
+  "duration": 3.76,
+  "text": "is fully embraced as a cost-cutting tool"
+ },
+ {
+  "start": 424.48,
+  "duration": 4.0,
+  "text": "for post-production rather than as a"
+ },
+ {
+  "start": 426.36,
+  "duration": 3.52,
+  "text": "replacement for human filmmaking."
+ },
+ {
+  "start": 428.48,
+  "duration": 3.08,
+  "text": "Bloomberg reports that the technology is"
+ },
+ {
+  "start": 429.88,
+  "duration": 3.8,
+  "text": "already being used by David Fincher for"
+ },
+ {
+  "start": 431.56,
+  "duration": 3.76,
+  "text": "an upcoming film with Brad Pitt. Now, it"
+ },
+ {
+  "start": 433.68,
+  "duration": 3.44,
+  "text": "was already an interesting acquisition,"
+ },
+ {
+  "start": 435.32,
+  "duration": 3.88,
+  "text": "but the sky-high price tag puts the deal"
+ },
+ {
+  "start": 437.12,
+  "duration": 3.48,
+  "text": "in a very different context. This would"
+ },
+ {
+  "start": 439.2,
+  "duration": 3.36,
+  "text": "now be among the largest deals that"
+ },
+ {
+  "start": 440.6,
+  "duration": 3.8,
+  "text": "Netflix has ever done. Affleck is also"
+ },
+ {
+  "start": 442.56,
+  "duration": 3.52,
+  "text": "joining Netflix as an advisor as part of"
+ },
+ {
+  "start": 444.4,
+  "duration": 3.64,
+  "text": "the deal, so my guess is that this is"
+ },
+ {
+  "start": 446.08,
+  "duration": 3.72,
+  "text": "not the last we've heard of this."
+ },
+ {
+  "start": 448.04,
+  "duration": 3.28,
+  "text": "As I've said before on the show, I"
+ },
+ {
+  "start": 449.8,
+  "duration": 4.0,
+  "text": "actually think that the entertainment"
+ },
+ {
+  "start": 451.32,
+  "duration": 4.92,
+  "text": "industry has a unique opportunity to"
+ },
+ {
+  "start": 453.8,
+  "duration": 4.04,
+  "text": "carve a path showing that AI doesn't"
+ },
+ {
+  "start": 456.24,
+  "duration": 3.4,
+  "text": "have to be a choice of humans on the one"
+ },
+ {
+  "start": 457.84,
+  "duration": 3.04,
+  "text": "side or robots on the other. Call me"
+ },
+ {
+  "start": 459.64,
+  "duration": 3.36,
+  "text": "naive, but I'm going to choose to be"
+ },
+ {
+  "start": 460.88,
+  "duration": 3.76,
+  "text": "optimistic that this type of deal can be"
+ },
+ {
+  "start": 463.0,
+  "duration": 3.92,
+  "text": "part of a future where we get more"
+ },
+ {
+  "start": 464.64,
+  "duration": 5.52,
+  "text": "amazing entertainment content enabled by"
+ },
+ {
+  "start": 466.92,
+  "duration": 5.8,
+  "text": "AI that isn't just cost-cutting slop."
+ },
+ {
+  "start": 470.16,
+  "duration": 4.44,
+  "text": "Lastly today, a massive jump in revenue"
+ },
+ {
+  "start": 472.72,
+  "duration": 4.36,
+  "text": "for lovable. The company has added a"
+ },
+ {
+  "start": 474.6,
+  "duration": 4.88,
+  "text": "staggering 100 million in annualized"
+ },
+ {
+  "start": 477.08,
+  "duration": 4.36,
+  "text": "revenue in a single month. Lovable told"
+ },
+ {
+  "start": 479.48,
+  "duration": 4.28,
+  "text": "Business Insider that ARR jumped by a"
+ },
+ {
+  "start": 481.44,
+  "duration": 4.48,
+  "text": "third in February, rising from 300"
+ },
+ {
+  "start": 483.76,
+  "duration": 4.04,
+  "text": "million to 400 million. Coupled with"
+ },
+ {
+  "start": 485.92,
+  "duration": 3.56,
+  "text": "Cursor doubling ARR to 2 billion over"
+ },
+ {
+  "start": 487.8,
+  "duration": 3.56,
+  "text": "the past 3 months, it's clear that we"
+ },
+ {
+  "start": 489.48,
+  "duration": 3.88,
+  "text": "are very much in a rising tide lifts all"
+ },
+ {
+  "start": 491.36,
+  "duration": 3.52,
+  "text": "boats kind of moment. Indeed, Lovable's"
+ },
+ {
+  "start": 493.36,
+  "duration": 3.24,
+  "text": "chief revenue officer Ryan Meadows said,"
+ },
+ {
+  "start": 494.88,
+  "duration": 3.4,
+  "text": "\"It's a rising tide. We've been super"
+ },
+ {
+  "start": 496.6,
+  "duration": 3.48,
+  "text": "happy with what we're seeing.\" Lovable"
+ },
+ {
+  "start": 498.28,
+  "duration": 3.6,
+  "text": "also launched their debut brand campaign"
+ },
+ {
+  "start": 500.08,
+  "duration": 2.96,
+  "text": "this week, which features a normal woman"
+ },
+ {
+  "start": 501.88,
+  "duration": 2.72,
+  "text": "going through her day with a song"
+ },
+ {
+  "start": 503.04,
+  "duration": 2.92,
+  "text": "rattling around in her brain. She"
+ },
+ {
+  "start": 504.6,
+  "duration": 3.0,
+  "text": "eventually arrives home, fires up"
+ },
+ {
+  "start": 505.96,
+  "duration": 3.48,
+  "text": "Lovable, and prompts it to build an app"
+ },
+ {
+  "start": 507.6,
+  "duration": 3.92,
+  "text": "for the songs in my head. At no point in"
+ },
+ {
+  "start": 509.44,
+  "duration": 4.0,
+  "text": "the ad anywhere does it mention AI or"
+ },
+ {
+  "start": 511.52,
+  "duration": 3.68,
+  "text": "vibe coding. It is instead a story of"
+ },
+ {
+  "start": 513.44,
+  "duration": 3.719,
+  "text": "the way that these new tools collapse"
+ },
+ {
+  "start": 515.2,
+  "duration": 3.48,
+  "text": "the space between idea and something"
+ },
+ {
+  "start": 517.159,
+  "duration": 3.241,
+  "text": "real."
+ },
+ {
+  "start": 518.68,
+  "duration": 2.84,
+  "text": "Now, speaking of vibe coding, that is"
+ },
+ {
+  "start": 520.4,
+  "duration": 3.199,
+  "text": "going to be the topic of our main"
+ },
+ {
+  "start": 521.52,
+  "duration": 4.8,
+  "text": "episode. So, that is where we will close"
+ },
+ {
+  "start": 523.599,
+  "duration": 2.721,
+  "text": "the headlines."
+ }
+]

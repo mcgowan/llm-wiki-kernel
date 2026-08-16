@@ -1,0 +1,2582 @@
+[
+ {
+  "start": 0.24,
+  "duration": 3.6,
+  "text": "Welcome back to the AI daily brief."
+ },
+ {
+  "start": 2.0,
+  "duration": 3.759,
+  "text": "Today we are talking about the AI"
+ },
+ {
+  "start": 3.84,
+  "duration": 3.439,
+  "text": "acceleration gap. This is a new"
+ },
+ {
+  "start": 5.759,
+  "duration": 4.001,
+  "text": "phenomenon that I've been thinking about"
+ },
+ {
+  "start": 7.279,
+  "duration": 4.48,
+  "text": "a lot lately and which I think has some"
+ },
+ {
+  "start": 9.76,
+  "duration": 3.919,
+  "text": "pretty significant consequences for both"
+ },
+ {
+  "start": 11.759,
+  "duration": 4.241,
+  "text": "individuals and companies, but which I"
+ },
+ {
+  "start": 13.679,
+  "duration": 4.801,
+  "text": "also think is at risk of being subsumed"
+ },
+ {
+  "start": 16.0,
+  "duration": 4.88,
+  "text": "into broader AI conversations in a way"
+ },
+ {
+  "start": 18.48,
+  "duration": 4.4,
+  "text": "that isn't all that helpful. And I want"
+ },
+ {
+  "start": 20.88,
+  "duration": 4.08,
+  "text": "to talk first about the acceleration"
+ },
+ {
+  "start": 22.88,
+  "duration": 3.12,
+  "text": "side of the acceleration gap. Perhaps"
+ },
+ {
+  "start": 24.96,
+  "duration": 3.76,
+  "text": "the biggest thing that we've been"
+ },
+ {
+  "start": 26.0,
+  "duration": 4.64,
+  "text": "tracking here at AIDB in January is this"
+ },
+ {
+  "start": 28.72,
+  "duration": 3.999,
+  "text": "sense and realization among many of the"
+ },
+ {
+  "start": 30.64,
+  "duration": 4.24,
+  "text": "most infranchised users of AI that"
+ },
+ {
+  "start": 32.719,
+  "duration": 3.84,
+  "text": "something fairly meaningful has shifted"
+ },
+ {
+  "start": 34.88,
+  "duration": 3.28,
+  "text": "that some inflection point has been"
+ },
+ {
+  "start": 36.559,
+  "duration": 3.761,
+  "text": "reached recently which really has"
+ },
+ {
+  "start": 38.16,
+  "duration": 3.919,
+  "text": "changed what we can do. You started to"
+ },
+ {
+  "start": 40.32,
+  "duration": 3.36,
+  "text": "see this around the holidays with a"
+ },
+ {
+  "start": 42.079,
+  "duration": 3.361,
+  "text": "great example of it being this viral"
+ },
+ {
+  "start": 43.68,
+  "duration": 3.68,
+  "text": "tweet from OpenAI co-founder Andre"
+ },
+ {
+  "start": 45.44,
+  "duration": 3.76,
+  "text": "Karpathy who wrote, \"I've never felt"
+ },
+ {
+  "start": 47.36,
+  "duration": 3.039,
+  "text": "this much behind as a programmer. The"
+ },
+ {
+  "start": 49.2,
+  "duration": 2.72,
+  "text": "profession is being dramatically"
+ },
+ {
+  "start": 50.399,
+  "duration": 3.041,
+  "text": "refactored as the bits contributed by"
+ },
+ {
+  "start": 51.92,
+  "duration": 3.2,
+  "text": "the programmer are increasingly sparse"
+ },
+ {
+  "start": 53.44,
+  "duration": 3.439,
+  "text": "in between. I have a sense I could be"
+ },
+ {
+  "start": 55.12,
+  "duration": 2.8,
+  "text": "10x more powerful if I just properly"
+ },
+ {
+  "start": 56.879,
+  "duration": 2.801,
+  "text": "string together what has become"
+ },
+ {
+  "start": 57.92,
+  "duration": 3.04,
+  "text": "available over the last year. And a"
+ },
+ {
+  "start": 59.68,
+  "duration": 3.44,
+  "text": "failure to claim the boost feels"
+ },
+ {
+  "start": 60.96,
+  "duration": 3.919,
+  "text": "decidedly like a skill issue. Clearly,"
+ },
+ {
+  "start": 63.12,
+  "duration": 3.52,
+  "text": "some powerful alien tool was handed"
+ },
+ {
+  "start": 64.879,
+  "duration": 3.201,
+  "text": "around, except it comes with no manual,"
+ },
+ {
+  "start": 66.64,
+  "duration": 2.96,
+  "text": "and everyone has to figure out how to"
+ },
+ {
+  "start": 68.08,
+  "duration": 3.12,
+  "text": "hold it and operate it. While the"
+ },
+ {
+  "start": 69.6,
+  "duration": 3.28,
+  "text": "resulting magnitude 9 earthquake is"
+ },
+ {
+  "start": 71.2,
+  "duration": 4.08,
+  "text": "rocking the profession, roll up your"
+ },
+ {
+  "start": 72.88,
+  "duration": 4.16,
+  "text": "sleeves to not fall behind. And so"
+ },
+ {
+  "start": 75.28,
+  "duration": 3.6,
+  "text": "obviously why this was so resonant is"
+ },
+ {
+  "start": 77.04,
+  "duration": 4.48,
+  "text": "one that many people were feeling like"
+ },
+ {
+  "start": 78.88,
+  "duration": 4.32,
+  "text": "this but two the source of it. This is"
+ },
+ {
+  "start": 81.52,
+  "duration": 3.44,
+  "text": "someone who can claim to be in the very"
+ },
+ {
+  "start": 83.2,
+  "duration": 3.76,
+  "text": "top list of people who have actually"
+ },
+ {
+  "start": 84.96,
+  "duration": 3.839,
+  "text": "built this technology not just use it"
+ },
+ {
+  "start": 86.96,
+  "duration": 4.08,
+  "text": "and they are saying they are feeling"
+ },
+ {
+  "start": 88.799,
+  "duration": 3.68,
+  "text": "behind relative to what's possible."
+ },
+ {
+  "start": 91.04,
+  "duration": 3.84,
+  "text": "However there was a positive side of"
+ },
+ {
+  "start": 92.479,
+  "duration": 4.561,
+  "text": "this as well. On January 3rd midjourney"
+ },
+ {
+  "start": 94.88,
+  "duration": 3.919,
+  "text": "founder David Holes wrote I've done more"
+ },
+ {
+  "start": 97.04,
+  "duration": 4.16,
+  "text": "personal coding projects over Christmas"
+ },
+ {
+  "start": 98.799,
+  "duration": 4.561,
+  "text": "break than I have in the last 10 years."
+ },
+ {
+  "start": 101.2,
+  "duration": 3.919,
+  "text": "It's crazy. I can sense the limitations"
+ },
+ {
+  "start": 103.36,
+  "duration": 3.52,
+  "text": "but I know nothing is going to be the"
+ },
+ {
+  "start": 105.119,
+  "duration": 3.841,
+  "text": "same anymore. Now we have talked"
+ },
+ {
+  "start": 106.88,
+  "duration": 5.68,
+  "text": "extensively about the combination of"
+ },
+ {
+  "start": 108.96,
+  "duration": 5.36,
+  "text": "models Opus 45 52 codecs as well as the"
+ },
+ {
+  "start": 112.56,
+  "duration": 3.76,
+  "text": "harnesses like Claude code in which they"
+ },
+ {
+  "start": 114.32,
+  "duration": 3.92,
+  "text": "operate. What's more since the beginning"
+ },
+ {
+  "start": 116.32,
+  "duration": 3.92,
+  "text": "of the month there has been a continuous"
+ },
+ {
+  "start": 118.24,
+  "duration": 3.44,
+  "text": "set of additional updates for example"
+ },
+ {
+  "start": 120.24,
+  "duration": 2.879,
+  "text": "Claude Co-work and most recently"
+ },
+ {
+  "start": 121.68,
+  "duration": 2.64,
+  "text": "Claudebot which everyone has been"
+ },
+ {
+  "start": 123.119,
+  "duration": 3.121,
+  "text": "talking about including me on"
+ },
+ {
+  "start": 124.32,
+  "duration": 3.52,
+  "text": "yesterday's episode that just continue"
+ },
+ {
+  "start": 126.24,
+  "duration": 3.76,
+  "text": "to extend this discourse of"
+ },
+ {
+  "start": 127.84,
+  "duration": 4.08,
+  "text": "acceleration. Over the weekend, New York"
+ },
+ {
+  "start": 130.0,
+  "duration": 4.4,
+  "text": "Times columnist Kevin Roose wrote about"
+ },
+ {
+  "start": 131.92,
+  "duration": 4.16,
+  "text": "the increasing chasm of experience and"
+ },
+ {
+  "start": 134.4,
+  "duration": 4.08,
+  "text": "impression of AI between the most"
+ },
+ {
+  "start": 136.08,
+  "duration": 4.56,
+  "text": "infranchised users and everyone else. He"
+ },
+ {
+  "start": 138.48,
+  "duration": 4.24,
+  "text": "wrote, \"I follow AI adoption pretty"
+ },
+ {
+  "start": 140.64,
+  "duration": 4.72,
+  "text": "closely, and I have never seen such a"
+ },
+ {
+  "start": 142.72,
+  "duration": 4.48,
+  "text": "yawning inside outside gap. People in"
+ },
+ {
+  "start": 145.36,
+  "duration": 3.92,
+  "text": "San Francisco are putting multi-agent"
+ },
+ {
+  "start": 147.2,
+  "duration": 3.6,
+  "text": "Claude swarms in charge of their lives,"
+ },
+ {
+  "start": 149.28,
+  "duration": 3.84,
+  "text": "consulting chat bots before every"
+ },
+ {
+  "start": 150.8,
+  "duration": 4.64,
+  "text": "decision, wireheading to a degree only"
+ },
+ {
+  "start": 153.12,
+  "duration": 3.759,
+  "text": "sci-fi writers dared to imagine. People"
+ },
+ {
+  "start": 155.44,
+  "duration": 3.84,
+  "text": "elsewhere are still trying to get"
+ },
+ {
+  "start": 156.879,
+  "duration": 4.561,
+  "text": "approval to use Copilot in Teams, if"
+ },
+ {
+  "start": 159.28,
+  "duration": 4.0,
+  "text": "they're using AI at all. It's possible"
+ },
+ {
+  "start": 161.44,
+  "duration": 3.519,
+  "text": "the early adopter bubble I'm in has"
+ },
+ {
+  "start": 163.28,
+  "duration": 3.679,
+  "text": "always been this intense, but there"
+ },
+ {
+  "start": 164.959,
+  "duration": 4.081,
+  "text": "seems to be a cultural takeoff happening"
+ },
+ {
+  "start": 166.959,
+  "duration": 4.481,
+  "text": "in addition to the technical one. Not"
+ },
+ {
+  "start": 169.04,
+  "duration": 4.08,
+  "text": "ideal. Adding a little bit more, Kevin"
+ },
+ {
+  "start": 171.44,
+  "duration": 3.519,
+  "text": "continues, I want to believe that"
+ },
+ {
+  "start": 173.12,
+  "duration": 3.36,
+  "text": "everyone can learn this stuff, but in"
+ },
+ {
+  "start": 174.959,
+  "duration": 2.961,
+  "text": "the same way that the AI companies that"
+ },
+ {
+  "start": 176.48,
+  "duration": 4.72,
+  "text": "took scaling seriously started"
+ },
+ {
+  "start": 177.92,
+  "duration": 4.959,
+  "text": "stockpiling GPUs, etc. before 2022 had a"
+ },
+ {
+  "start": 181.2,
+  "duration": 3.52,
+  "text": "virtually insurmountable head start over"
+ },
+ {
+  "start": 182.879,
+  "duration": 4.241,
+  "text": "latecomers. It's possible that"
+ },
+ {
+  "start": 184.72,
+  "duration": 4.159,
+  "text": "restrictive IT policies have created a"
+ },
+ {
+  "start": 187.12,
+  "duration": 4.399,
+  "text": "generation of knowledge workers who will"
+ },
+ {
+  "start": 188.879,
+  "duration": 4.961,
+  "text": "never catch up. So Kevin here is talking"
+ },
+ {
+  "start": 191.519,
+  "duration": 4.0,
+  "text": "about a natural outcome of this"
+ },
+ {
+  "start": 193.84,
+  "duration": 3.44,
+  "text": "acceleration experience that we've been"
+ },
+ {
+  "start": 195.519,
+  "duration": 3.761,
+  "text": "discussing in a way that is of course"
+ },
+ {
+  "start": 197.28,
+  "duration": 4.64,
+  "text": "concerned that sees this understanding"
+ },
+ {
+  "start": 199.28,
+  "duration": 4.319,
+  "text": "gap as a problem. Many people chimed in"
+ },
+ {
+  "start": 201.92,
+  "duration": 4.56,
+  "text": "to say that this also resonated with"
+ },
+ {
+  "start": 203.599,
+  "duration": 5.441,
+  "text": "their experience. AEI fellow John Bailey"
+ },
+ {
+  "start": 206.48,
+  "duration": 3.92,
+  "text": "wrote, \"This captures it exactly. In"
+ },
+ {
+  "start": 209.04,
+  "duration": 2.88,
+  "text": "late December, my feed was full of"
+ },
+ {
+  "start": 210.4,
+  "duration": 4.16,
+  "text": "people using clawed code and declaring"
+ },
+ {
+  "start": 211.92,
+  "duration": 4.64,
+  "text": "AGI.\" The same week, a DC consulting"
+ },
+ {
+  "start": 214.56,
+  "duration": 4.08,
+  "text": "exec told me AI was mostly hyped because"
+ },
+ {
+  "start": 216.56,
+  "duration": 3.84,
+  "text": "of hallucinations. And then at a holiday"
+ },
+ {
+  "start": 218.64,
+  "duration": 4.319,
+  "text": "party, most of my mom's friends still"
+ },
+ {
+  "start": 220.4,
+  "duration": 4.96,
+  "text": "hadn't tried chatbt. It felt like living"
+ },
+ {
+  "start": 222.959,
+  "duration": 4.481,
+  "text": "in three different realities. Now,"
+ },
+ {
+  "start": 225.36,
+  "duration": 4.159,
+  "text": "what's fascinating and builds on this"
+ },
+ {
+  "start": 227.44,
+  "duration": 4.799,
+  "text": "idea of living in different realities is"
+ },
+ {
+  "start": 229.519,
+  "duration": 4.881,
+  "text": "that the responses to Kevin's post were"
+ },
+ {
+  "start": 232.239,
+  "duration": 4.801,
+  "text": "basically a roar shack test for how"
+ },
+ {
+  "start": 234.4,
+  "duration": 4.559,
+  "text": "people feel about AI almost as a social"
+ },
+ {
+  "start": 237.04,
+  "duration": 4.08,
+  "text": "or political issue, not just as some new"
+ },
+ {
+  "start": 238.959,
+  "duration": 4.401,
+  "text": "technology category. Lots of people were"
+ },
+ {
+  "start": 241.12,
+  "duration": 4.64,
+  "text": "determined to imply that AI was NFTs"
+ },
+ {
+  "start": 243.36,
+  "duration": 4.64,
+  "text": "2.0. Lincoln Michelle shared an old post"
+ },
+ {
+  "start": 245.76,
+  "duration": 3.52,
+  "text": "from the rare candy NFT marketplace that"
+ },
+ {
+  "start": 248.0,
+  "duration": 3.12,
+  "text": "said, \"A lot of y'all still don't get"
+ },
+ {
+  "start": 249.28,
+  "duration": 3.44,
+  "text": "it. Ape holders can use multiple slurp"
+ },
+ {
+  "start": 251.12,
+  "duration": 3.28,
+  "text": "juices on a single ape. So, if you have"
+ },
+ {
+  "start": 252.72,
+  "duration": 3.359,
+  "text": "one astro ape and three slurp juices,"
+ },
+ {
+  "start": 254.4,
+  "duration": 3.28,
+  "text": "you can create three new apes. Tonight's"
+ },
+ {
+  "start": 256.079,
+  "duration": 3.201,
+  "text": "slurp juice mint event is essentially a"
+ },
+ {
+  "start": 257.68,
+  "duration": 3.36,
+  "text": "minting event for both lab monkeys and"
+ },
+ {
+  "start": 259.28,
+  "duration": 3.28,
+  "text": "special forces. Point being, of course,"
+ },
+ {
+  "start": 261.04,
+  "duration": 3.2,
+  "text": "that this sounds absurd, and all this"
+ },
+ {
+  "start": 262.56,
+  "duration": 3.76,
+  "text": "hype around AI will sound just as absurd"
+ },
+ {
+  "start": 264.24,
+  "duration": 3.92,
+  "text": "a few years from now. Vinnie Trouvati"
+ },
+ {
+  "start": 266.32,
+  "duration": 3.68,
+  "text": "did what many people did, which is throw"
+ },
+ {
+  "start": 268.16,
+  "duration": 4.24,
+  "text": "old Kevin Roose posts and articles in"
+ },
+ {
+  "start": 270.0,
+  "duration": 4.32,
+  "text": "his face, like this one from 2021 where"
+ },
+ {
+  "start": 272.4,
+  "duration": 3.68,
+  "text": "he wrote about pudgy penguins in a piece"
+ },
+ {
+  "start": 274.32,
+  "duration": 3.04,
+  "text": "titled, \"I joined a penguin NFT club"
+ },
+ {
+  "start": 276.08,
+  "duration": 3.44,
+  "text": "because apparently that's what we do"
+ },
+ {
+  "start": 277.36,
+  "duration": 4.559,
+  "text": "now.\" Some were even angrier. John"
+ },
+ {
+  "start": 279.52,
+  "duration": 4.16,
+  "text": "Repeti paraphrased Kevin's post as this."
+ },
+ {
+  "start": 281.919,
+  "duration": 3.441,
+  "text": "All the evil morons who can't do"
+ },
+ {
+  "start": 283.68,
+  "duration": 3.6,
+  "text": "anything are using AI for everything."
+ },
+ {
+  "start": 285.36,
+  "duration": 4.16,
+  "text": "Normal people aren't. How can we explain"
+ },
+ {
+  "start": 287.28,
+  "duration": 3.68,
+  "text": "this? Dr. Andrew Neighbor summed up the"
+ },
+ {
+  "start": 289.52,
+  "duration": 3.28,
+  "text": "people who insist that all of this is"
+ },
+ {
+  "start": 290.96,
+  "duration": 3.84,
+  "text": "ineffective bluster. He writes, \"New"
+ },
+ {
+  "start": 292.8,
+  "duration": 3.679,
+  "text": "tech does not exist outside of culture."
+ },
+ {
+  "start": 294.8,
+  "duration": 3.76,
+  "text": "This sounds the same as any other hustle"
+ },
+ {
+  "start": 296.479,
+  "duration": 3.761,
+  "text": "culture optimizing life hack grift."
+ },
+ {
+  "start": 298.56,
+  "duration": 3.359,
+  "text": "These fussy little bits of AI software"
+ },
+ {
+  "start": 300.24,
+  "duration": 3.28,
+  "text": "give dopamine hits with marginal or"
+ },
+ {
+  "start": 301.919,
+  "duration": 3.921,
+  "text": "negative impact on productivity,"
+ },
+ {
+  "start": 303.52,
+  "duration": 4.08,
+  "text": "lifestyle, or mental health.\" Now, it"
+ },
+ {
+  "start": 305.84,
+  "duration": 3.44,
+  "text": "should be noted that it is not just the"
+ },
+ {
+  "start": 307.6,
+  "duration": 3.2,
+  "text": "AI haters who have critiques to be"
+ },
+ {
+  "start": 309.28,
+  "duration": 3.68,
+  "text": "levied, even if they are not being"
+ },
+ {
+  "start": 310.8,
+  "duration": 4.08,
+  "text": "pointed so personally at Kevin himself."
+ },
+ {
+  "start": 312.96,
+  "duration": 4.0,
+  "text": "Notebook LM co-creator Raza Martin"
+ },
+ {
+  "start": 314.88,
+  "duration": 4.159,
+  "text": "wrote, \"As a topic of conversation among"
+ },
+ {
+  "start": 316.96,
+  "duration": 4.239,
+  "text": "most people, I feel like AI is also"
+ },
+ {
+  "start": 319.039,
+  "duration": 3.761,
+  "text": "reaching peak saturation. Imagine going"
+ },
+ {
+  "start": 321.199,
+  "duration": 2.961,
+  "text": "on and on about your multi-agent setup"
+ },
+ {
+  "start": 322.8,
+  "duration": 3.6,
+  "text": "when literally most people are still"
+ },
+ {
+  "start": 324.16,
+  "duration": 4.08,
+  "text": "using AI as a glorified Google search."
+ },
+ {
+  "start": 326.4,
+  "duration": 3.68,
+  "text": "Really outside the San Francisco X"
+ },
+ {
+  "start": 328.24,
+  "duration": 3.6,
+  "text": "bubble, AI continues to be off-putting"
+ },
+ {
+  "start": 330.08,
+  "duration": 3.36,
+  "text": "to most people and is starting to sound"
+ },
+ {
+  "start": 331.84,
+  "duration": 3.52,
+  "text": "like the product of a fanatical fever"
+ },
+ {
+  "start": 333.44,
+  "duration": 3.68,
+  "text": "dream from a productivity obsessed micro"
+ },
+ {
+  "start": 335.36,
+  "duration": 3.52,
+  "text": "culture. I think this is probably the"
+ },
+ {
+  "start": 337.12,
+  "duration": 3.2,
+  "text": "byproduct of the speed of progress being"
+ },
+ {
+  "start": 338.88,
+  "duration": 3.44,
+  "text": "largely driven by the models themselves"
+ },
+ {
+  "start": 340.32,
+  "duration": 3.52,
+  "text": "and not the product surfaces. It's a fun"
+ },
+ {
+  "start": 342.32,
+  "duration": 3.68,
+  "text": "time for early adopters but really"
+ },
+ {
+  "start": 343.84,
+  "duration": 4.16,
+  "text": "grading to anyone else. In other words,"
+ },
+ {
+  "start": 346.0,
+  "duration": 3.28,
+  "text": "Raza is saying in addition to us AI"
+ },
+ {
+  "start": 348.0,
+  "duration": 2.88,
+  "text": "people being kind of annoying with how"
+ },
+ {
+  "start": 349.28,
+  "duration": 3.359,
+  "text": "we talk about all this, the products"
+ },
+ {
+  "start": 350.88,
+  "duration": 2.879,
+  "text": "themselves aren't all that great to use,"
+ },
+ {
+  "start": 352.639,
+  "duration": 3.441,
+  "text": "especially when compared to the"
+ },
+ {
+  "start": 353.759,
+  "duration": 3.681,
+  "text": "capabilities. Others pointed out that"
+ },
+ {
+  "start": 356.08,
+  "duration": 3.36,
+  "text": "identifying this as a San Francisco"
+ },
+ {
+  "start": 357.44,
+  "duration": 4.16,
+  "text": "thing is probably incorrect. Professor"
+ },
+ {
+  "start": 359.44,
+  "duration": 4.16,
+  "text": "Ethan Malik wrote, \"This isn't just a"
+ },
+ {
+  "start": 361.6,
+  "duration": 3.36,
+  "text": "San Francisco thing. There are people in"
+ },
+ {
+  "start": 363.6,
+  "duration": 3.2,
+  "text": "a range of professions who found"
+ },
+ {
+  "start": 364.96,
+  "duration": 4.079,
+  "text": "absolutely breathtaking uses of current"
+ },
+ {
+  "start": 366.8,
+  "duration": 4.239,
+  "text": "capabilities, like using agent swarms to"
+ },
+ {
+  "start": 369.039,
+  "duration": 3.761,
+  "text": "do real work in crazy ways, but they are"
+ },
+ {
+  "start": 371.039,
+  "duration": 4.081,
+  "text": "often more isolated because of a lack of"
+ },
+ {
+  "start": 372.8,
+  "duration": 4.239,
+  "text": "unifying community.\" Kevin Warbach said,"
+ },
+ {
+  "start": 375.12,
+  "duration": 4.0,
+  "text": "\"This is real and notable, framing it as"
+ },
+ {
+  "start": 377.039,
+  "duration": 3.921,
+  "text": "SF versus the world is misleading. The"
+ },
+ {
+  "start": 379.12,
+  "duration": 3.84,
+  "text": "real question is whether companies which"
+ },
+ {
+  "start": 380.96,
+  "duration": 3.6,
+  "text": "tend to be riskaverse will lose out as"
+ },
+ {
+  "start": 382.96,
+  "duration": 4.079,
+  "text": "startups and individuals capitalize on"
+ },
+ {
+  "start": 384.56,
+  "duration": 4.32,
+  "text": "the new capabilities of agentic AI. MIT"
+ },
+ {
+  "start": 387.039,
+  "duration": 4.0,
+  "text": "Sloan's Matt Bean wrote, \"The gap is"
+ },
+ {
+  "start": 388.88,
+  "duration": 4.08,
+  "text": "huge, consequential, and growing. Many"
+ },
+ {
+  "start": 391.039,
+  "duration": 3.761,
+  "text": "of the consequences are wonderful, but"
+ },
+ {
+  "start": 392.96,
+  "duration": 3.92,
+  "text": "generally this gap is unnecessary,"
+ },
+ {
+  "start": 394.8,
+  "duration": 3.679,
+  "text": "driven by privilege, and if prior"
+ },
+ {
+  "start": 396.88,
+  "duration": 3.2,
+  "text": "science is any guide, will blunt the"
+ },
+ {
+  "start": 398.479,
+  "duration": 4.16,
+  "text": "gains from the tech and concentrate"
+ },
+ {
+  "start": 400.08,
+  "duration": 4.16,
+  "text": "power even further.\" Summing it all up,"
+ },
+ {
+  "start": 402.639,
+  "duration": 3.201,
+  "text": "Dean Ball wrote, \"The gap between the"
+ },
+ {
+  "start": 404.24,
+  "duration": 3.28,
+  "text": "early adopters and everyone else, both"
+ },
+ {
+  "start": 405.84,
+  "duration": 3.199,
+  "text": "in terms of their AI use, but also in"
+ },
+ {
+  "start": 407.52,
+  "duration": 3.6,
+  "text": "their ways of thinking, has never been"
+ },
+ {
+  "start": 409.039,
+  "duration": 4.16,
+  "text": "wider and appears to be widening at an"
+ },
+ {
+  "start": 411.12,
+  "duration": 4.079,
+  "text": "accelerating rate. Even most of my"
+ },
+ {
+  "start": 413.199,
+  "duration": 4.56,
+  "text": "followers clearly don't get it.\""
+ },
+ {
+  "start": 415.199,
+  "duration": 4.72,
+  "text": "Slightly worrisome. So, I think what all"
+ },
+ {
+  "start": 417.759,
+  "duration": 3.921,
+  "text": "these folks are identifying is actually"
+ },
+ {
+  "start": 419.919,
+  "duration": 3.84,
+  "text": "a real thing. And for the sake of having"
+ },
+ {
+  "start": 421.68,
+  "duration": 4.16,
+  "text": "a simple memorable name, I'm calling it"
+ },
+ {
+  "start": 423.759,
+  "duration": 4.56,
+  "text": "the acceleration gap or the AI"
+ },
+ {
+  "start": 425.84,
+  "duration": 4.56,
+  "text": "acceleration gap. I recently shared this"
+ },
+ {
+  "start": 428.319,
+  "duration": 3.841,
+  "text": "slide in a corporate presentation. And"
+ },
+ {
+  "start": 430.4,
+  "duration": 3.84,
+  "text": "basically I argued that for much of the"
+ },
+ {
+  "start": 432.16,
+  "duration": 4.159,
+  "text": "last few years of AI, while there were"
+ },
+ {
+  "start": 434.24,
+  "duration": 3.76,
+  "text": "certainly some groups that had a real"
+ },
+ {
+  "start": 436.319,
+  "duration": 4.16,
+  "text": "capability advantage versus everyone"
+ },
+ {
+  "start": 438.0,
+  "duration": 4.96,
+  "text": "else, the gap between the early adopters"
+ },
+ {
+  "start": 440.479,
+  "duration": 4.0,
+  "text": "and the other types of users was fairly"
+ },
+ {
+  "start": 442.96,
+  "duration": 3.359,
+  "text": "consistent. In other words, there was"
+ },
+ {
+  "start": 444.479,
+  "duration": 3.361,
+  "text": "some correlation in the rate of progress"
+ },
+ {
+  "start": 446.319,
+  "duration": 4.0,
+  "text": "between all the different categories of"
+ },
+ {
+  "start": 447.84,
+  "duration": 4.72,
+  "text": "users. Recently, however, it feels to me"
+ },
+ {
+  "start": 450.319,
+  "duration": 4.32,
+  "text": "that we've seen a major uptick in what"
+ },
+ {
+  "start": 452.56,
+  "duration": 4.079,
+  "text": "is capable at the frontier. And that in"
+ },
+ {
+  "start": 454.639,
+  "duration": 3.041,
+  "text": "the context of enterprises, that meant"
+ },
+ {
+  "start": 456.639,
+  "duration": 3.201,
+  "text": "that we were going to see an"
+ },
+ {
+  "start": 457.68,
+  "duration": 4.0,
+  "text": "increasingly wide divergence between"
+ },
+ {
+  "start": 459.84,
+  "duration": 3.759,
+  "text": "whatever the median of enterprise AI"
+ },
+ {
+  "start": 461.68,
+  "duration": 4.4,
+  "text": "usage was and the frontier of the most"
+ },
+ {
+  "start": 463.599,
+  "duration": 4.641,
+  "text": "successful users of AI. The challenge of"
+ },
+ {
+  "start": 466.08,
+  "duration": 4.32,
+  "text": "course is that as that frontier"
+ },
+ {
+  "start": 468.24,
+  "duration": 4.48,
+  "text": "accelerates, the gap between the"
+ },
+ {
+  "start": 470.4,
+  "duration": 4.4,
+  "text": "frontier and everyone else compounds."
+ },
+ {
+  "start": 472.72,
+  "duration": 4.0,
+  "text": "The AI capabilities themselves beget"
+ },
+ {
+  "start": 474.8,
+  "duration": 3.519,
+  "text": "more and more advanced use cases which"
+ },
+ {
+  "start": 476.72,
+  "duration": 3.12,
+  "text": "allow the deployers of those use cases"
+ },
+ {
+  "start": 478.319,
+  "duration": 2.88,
+  "text": "to have more advantage relative to their"
+ },
+ {
+  "start": 479.84,
+  "duration": 3.52,
+  "text": "peers who are not deploying those"
+ },
+ {
+  "start": 481.199,
+  "duration": 3.761,
+  "text": "particular use cases and capabilities."
+ },
+ {
+  "start": 483.36,
+  "duration": 3.6,
+  "text": "And so now I'm exploring the idea of"
+ },
+ {
+  "start": 484.96,
+  "duration": 3.6,
+  "text": "this acceleration gap but not just as a"
+ },
+ {
+  "start": 486.96,
+  "duration": 4.16,
+  "text": "company phenomenon but as an individual"
+ },
+ {
+  "start": 488.56,
+  "duration": 4.56,
+  "text": "phenomenon as well. The risk of this is"
+ },
+ {
+  "start": 491.12,
+  "duration": 4.32,
+  "text": "that linear growth in an exponential"
+ },
+ {
+  "start": 493.12,
+  "duration": 4.56,
+  "text": "environment is ultimately a compounding"
+ },
+ {
+  "start": 495.44,
+  "duration": 4.879,
+  "text": "disadvantage and could, if we are being"
+ },
+ {
+  "start": 497.68,
+  "duration": 4.239,
+  "text": "doomy about it, lead, as Kevin suggests,"
+ },
+ {
+  "start": 500.319,
+  "duration": 3.201,
+  "text": "to the creation of a generation of"
+ },
+ {
+  "start": 501.919,
+  "duration": 3.361,
+  "text": "knowledge workers who will never fully"
+ },
+ {
+  "start": 503.52,
+  "duration": 3.119,
+  "text": "catch up. Now, I don't want to"
+ },
+ {
+  "start": 505.28,
+  "duration": 2.88,
+  "text": "definitively say that this is the point"
+ },
+ {
+  "start": 506.639,
+  "duration": 3.361,
+  "text": "that we're at. I'm presenting the"
+ },
+ {
+  "start": 508.16,
+  "duration": 3.28,
+  "text": "acceleration gap more right now as"
+ },
+ {
+  "start": 510.0,
+  "duration": 2.959,
+  "text": "something that I'm exploring than that I"
+ },
+ {
+  "start": 511.44,
+  "duration": 3.44,
+  "text": "feel that I have my head fully wrapped"
+ },
+ {
+  "start": 512.959,
+  "duration": 4.161,
+  "text": "around. There are plenty of smart people"
+ },
+ {
+  "start": 514.88,
+  "duration": 4.0,
+  "text": "even who aren't anti- AI zeelots that"
+ },
+ {
+  "start": 517.12,
+  "duration": 3.599,
+  "text": "shared plenty of reasons on Kevin Russ's"
+ },
+ {
+  "start": 518.88,
+  "duration": 4.159,
+  "text": "post that things won't play out this"
+ },
+ {
+  "start": 520.719,
+  "duration": 4.24,
+  "text": "way. Bloomberg's Joe Weisenthal, the"
+ },
+ {
+  "start": 523.039,
+  "duration": 3.601,
+  "text": "host of OddLots and someone who has been"
+ },
+ {
+  "start": 524.959,
+  "duration": 3.44,
+  "text": "going very deep with Claude recently"
+ },
+ {
+  "start": 526.64,
+  "duration": 3.84,
+  "text": "responded, \"I doubt late adopters will"
+ },
+ {
+  "start": 528.399,
+  "duration": 3.521,
+  "text": "be impaired very much.\" For most AI"
+ },
+ {
+  "start": 530.48,
+  "duration": 3.12,
+  "text": "tools, the learning curves aren't very"
+ },
+ {
+  "start": 531.92,
+  "duration": 3.52,
+  "text": "steep and the interfaces keep getting"
+ },
+ {
+  "start": 533.6,
+  "duration": 3.44,
+  "text": "more intuitive. This is basically the"
+ },
+ {
+  "start": 535.44,
+  "duration": 3.519,
+  "text": "Claude Co-work argument. If it's an"
+ },
+ {
+  "start": 537.04,
+  "duration": 3.6,
+  "text": "anthropic incentive to launch Claude"
+ },
+ {
+  "start": 538.959,
+  "duration": 3.281,
+  "text": "co-work to make Claude code type"
+ },
+ {
+  "start": 540.64,
+  "duration": 2.879,
+  "text": "capabilities available for everyone"
+ },
+ {
+  "start": 542.24,
+  "duration": 2.96,
+  "text": "without having to figure out how to use"
+ },
+ {
+  "start": 543.519,
+  "duration": 3.041,
+  "text": "the terminal, maybe there's a sense in"
+ },
+ {
+  "start": 545.2,
+  "duration": 3.04,
+  "text": "just waiting for those capabilities to"
+ },
+ {
+  "start": 546.56,
+  "duration": 4.08,
+  "text": "come online in a user interface that is"
+ },
+ {
+  "start": 548.24,
+  "duration": 5.12,
+  "text": "for most people actually usable. But why"
+ },
+ {
+  "start": 550.64,
+  "duration": 4.72,
+  "text": "I wanted to talk about it is one, I do"
+ },
+ {
+  "start": 553.36,
+  "duration": 3.52,
+  "text": "think that this compounding gap is a"
+ },
+ {
+  "start": 555.36,
+  "duration": 3.52,
+  "text": "real possibility with some fairly"
+ },
+ {
+  "start": 556.88,
+  "duration": 4.24,
+  "text": "serious implications for an individual's"
+ },
+ {
+  "start": 558.88,
+  "duration": 4.24,
+  "text": "career. And two, I think that the"
+ },
+ {
+  "start": 561.12,
+  "duration": 4.24,
+  "text": "discourse surrounding AI gets more and"
+ },
+ {
+  "start": 563.12,
+  "duration": 4.159,
+  "text": "more fraught and fracturous every day in"
+ },
+ {
+  "start": 565.36,
+  "duration": 3.76,
+  "text": "ways that I worry will very much not"
+ },
+ {
+  "start": 567.279,
+  "duration": 3.041,
+  "text": "serve the vast majority of people who"
+ },
+ {
+  "start": 569.12,
+  "duration": 2.96,
+  "text": "are just trying to figure this stuff"
+ },
+ {
+  "start": 570.32,
+  "duration": 3.519,
+  "text": "out. Ever since the beginning of this"
+ },
+ {
+  "start": 572.08,
+  "duration": 4.08,
+  "text": "show, I've had the feeling and I've"
+ },
+ {
+  "start": 573.839,
+  "duration": 4.641,
+  "text": "shared my feeling that while the loudest"
+ },
+ {
+  "start": 576.16,
+  "duration": 4.0,
+  "text": "voices are those on the extremes, the"
+ },
+ {
+  "start": 578.48,
+  "duration": 3.6,
+  "text": "people who are incredibly excited about"
+ },
+ {
+  "start": 580.16,
+  "duration": 3.52,
+  "text": "everything that AI has to offer, almost"
+ },
+ {
+  "start": 582.08,
+  "duration": 3.439,
+  "text": "determined to love it no matter what,"
+ },
+ {
+  "start": 583.68,
+  "duration": 3.68,
+  "text": "even in some cases who refuse to see any"
+ },
+ {
+  "start": 585.519,
+  "duration": 3.921,
+  "text": "of the bad sides. And then on the other"
+ },
+ {
+  "start": 587.36,
+  "duration": 4.08,
+  "text": "end of the spectrum, the absolutely"
+ },
+ {
+  "start": 589.44,
+  "duration": 3.44,
+  "text": "determined detractors. The people who"
+ },
+ {
+  "start": 591.44,
+  "duration": 3.28,
+  "text": "are determined to hate it no matter"
+ },
+ {
+  "start": 592.88,
+  "duration": 3.44,
+  "text": "what. Whether it's because of some"
+ },
+ {
+  "start": 594.72,
+  "duration": 3.84,
+  "text": "doomsday scenario that they see in the"
+ },
+ {
+  "start": 596.32,
+  "duration": 3.519,
+  "text": "future or for much less sci-fi reasons"
+ },
+ {
+  "start": 598.56,
+  "duration": 2.88,
+  "text": "like they just think it's another tech"
+ },
+ {
+  "start": 599.839,
+  "duration": 3.041,
+  "text": "billionaire play thing. And this has now"
+ },
+ {
+  "start": 601.44,
+  "duration": 3.44,
+  "text": "become part of a larger class and"
+ },
+ {
+  "start": 602.88,
+  "duration": 4.56,
+  "text": "political discourse. The point is that"
+ },
+ {
+  "start": 604.88,
+  "duration": 4.24,
+  "text": "those extreme voices represent a very"
+ },
+ {
+  "start": 607.44,
+  "duration": 3.36,
+  "text": "small majority of the whole despite how"
+ },
+ {
+  "start": 609.12,
+  "duration": 4.719,
+  "text": "much of the conversation share they seem"
+ },
+ {
+  "start": 610.8,
+  "duration": 5.279,
+  "text": "to own. The vast majority lives"
+ },
+ {
+  "start": 613.839,
+  "duration": 4.081,
+  "text": "somewhere in the middle, experimenting"
+ },
+ {
+  "start": 616.079,
+  "duration": 3.44,
+  "text": "and uncertain, finding things it's"
+ },
+ {
+  "start": 617.92,
+  "duration": 3.52,
+  "text": "useful for and things it's overhyped"
+ },
+ {
+  "start": 619.519,
+  "duration": 3.44,
+  "text": "for, able to see positive outcomes of"
+ },
+ {
+  "start": 621.44,
+  "duration": 3.28,
+  "text": "how this technology could be used, but"
+ },
+ {
+  "start": 622.959,
+  "duration": 3.921,
+  "text": "also understand legitimate concerns"
+ },
+ {
+  "start": 624.72,
+  "duration": 4.32,
+  "text": "about what it's going to mean for jobs,"
+ },
+ {
+  "start": 626.88,
+  "duration": 4.16,
+  "text": "for communities, for the world at large."
+ },
+ {
+  "start": 629.04,
+  "duration": 3.919,
+  "text": "I could be wrong, but it feels like the"
+ },
+ {
+  "start": 631.04,
+  "duration": 3.84,
+  "text": "attitudes of the determined detractors"
+ },
+ {
+  "start": 632.959,
+  "duration": 3.521,
+  "text": "are getting harder and more calcified"
+ },
+ {
+  "start": 634.88,
+  "duration": 2.8,
+  "text": "recently. I don't know if this is"
+ },
+ {
+  "start": 636.48,
+  "duration": 3.359,
+  "text": "because it's getting caught up in a"
+ },
+ {
+  "start": 637.68,
+  "duration": 4.159,
+  "text": "larger very fraught political discourse"
+ },
+ {
+  "start": 639.839,
+  "duration": 4.081,
+  "text": "which is in and of itself getting louder"
+ },
+ {
+  "start": 641.839,
+  "duration": 4.321,
+  "text": "or what, but I do believe that the risks"
+ },
+ {
+  "start": 643.92,
+  "duration": 4.24,
+  "text": "as an individual of airing too far on"
+ },
+ {
+  "start": 646.16,
+  "duration": 4.48,
+  "text": "that side versus airing too far on the"
+ },
+ {
+  "start": 648.16,
+  "duration": 5.2,
+  "text": "side of the excited zealots has more"
+ },
+ {
+  "start": 650.64,
+  "duration": 4.24,
+  "text": "potential dire consequences. Basically,"
+ },
+ {
+  "start": 653.36,
+  "duration": 3.28,
+  "text": "if you spend a bunch of time trying to"
+ },
+ {
+  "start": 654.88,
+  "duration": 3.12,
+  "text": "learn all these things that end up being"
+ },
+ {
+  "start": 656.64,
+  "duration": 3.36,
+  "text": "nothing burgers because the determined"
+ },
+ {
+  "start": 658.0,
+  "duration": 3.68,
+  "text": "detractors were right. The cost to you"
+ },
+ {
+  "start": 660.0,
+  "duration": 3.6,
+  "text": "is just whatever time you spent learning"
+ },
+ {
+  "start": 661.68,
+  "duration": 3.36,
+  "text": "the new set of tools. If on the other"
+ },
+ {
+  "start": 663.6,
+  "duration": 3.359,
+  "text": "hand, you heir on the side of the"
+ },
+ {
+  "start": 665.04,
+  "duration": 4.239,
+  "text": "determined detractors and you use their"
+ },
+ {
+  "start": 666.959,
+  "duration": 3.761,
+  "text": "arguments that all of this is NFTs 2.0"
+ },
+ {
+  "start": 669.279,
+  "duration": 3.761,
+  "text": "to not take the time to learn these"
+ },
+ {
+  "start": 670.72,
+  "duration": 4.239,
+  "text": "things, the risk, if you and they are"
+ },
+ {
+  "start": 673.04,
+  "duration": 3.919,
+  "text": "wrong, is that you are fundamentally"
+ },
+ {
+  "start": 674.959,
+  "duration": 4.241,
+  "text": "unprepared for the skills of a new work"
+ },
+ {
+  "start": 676.959,
+  "duration": 3.921,
+  "text": "future. To me, the costbenefit analysis"
+ },
+ {
+  "start": 679.2,
+  "duration": 3.68,
+  "text": "clearly favors spending at least some"
+ },
+ {
+  "start": 680.88,
+  "duration": 4.16,
+  "text": "time experimenting with and trying to"
+ },
+ {
+  "start": 682.88,
+  "duration": 4.56,
+  "text": "harness the new capabilities. But it"
+ },
+ {
+  "start": 685.04,
+  "duration": 4.72,
+  "text": "would be very easy to get completely"
+ },
+ {
+  "start": 687.44,
+  "duration": 4.959,
+  "text": "lost in the sauce. The AI community on"
+ },
+ {
+  "start": 689.76,
+  "duration": 4.8,
+  "text": "X, for example, does get incredibly"
+ },
+ {
+  "start": 692.399,
+  "duration": 4.241,
+  "text": "excited about things that in many cases"
+ },
+ {
+  "start": 694.56,
+  "duration": 3.92,
+  "text": "won't amount to much. Olivia Moore from"
+ },
+ {
+  "start": 696.64,
+  "duration": 3.92,
+  "text": "A16Z captured a bit of this when she"
+ },
+ {
+  "start": 698.48,
+  "duration": 4.16,
+  "text": "wrote a piece this weekend. Claudebot is"
+ },
+ {
+  "start": 700.56,
+  "duration": 4.48,
+  "text": "amazing and I don't think consumers"
+ },
+ {
+  "start": 702.64,
+  "duration": 4.4,
+  "text": "should use it. She writes, \"I spent the"
+ },
+ {
+  "start": 705.04,
+  "duration": 4.239,
+  "text": "weekend setting up Claudebot, which"
+ },
+ {
+  "start": 707.04,
+  "duration": 3.44,
+  "text": "editors note is being renamed Multi"
+ },
+ {
+  "start": 709.279,
+  "duration": 2.8,
+  "text": "because of trademark concerns from"
+ },
+ {
+  "start": 710.48,
+  "duration": 3.2,
+  "text": "Anthropic, which works for me because"
+ },
+ {
+  "start": 712.079,
+  "duration": 2.88,
+  "text": "it's a lot easier to say multi than"
+ },
+ {
+  "start": 713.68,
+  "duration": 2.8,
+  "text": "Claudebot when you guys are just"
+ },
+ {
+  "start": 714.959,
+  "duration": 3.601,
+  "text": "listening to me rather than watching.\""
+ },
+ {
+  "start": 716.48,
+  "duration": 4.0,
+  "text": "In any case, Olivia continues, \"By"
+ },
+ {
+  "start": 718.56,
+  "duration": 3.519,
+  "text": "Sunday evening, I had an AI agent that"
+ },
+ {
+  "start": 720.48,
+  "duration": 3.12,
+  "text": "summarizes my Twitter feed, one that"
+ },
+ {
+  "start": 722.079,
+  "duration": 3.121,
+  "text": "recommends new books weekly based on my"
+ },
+ {
+  "start": 723.6,
+  "duration": 2.88,
+  "text": "recent reads, and a third that texts me"
+ },
+ {
+  "start": 725.2,
+  "duration": 3.199,
+  "text": "every morning with my schedule, a"
+ },
+ {
+  "start": 726.48,
+  "duration": 4.159,
+  "text": "weather alert, and a fun quote. It's"
+ },
+ {
+  "start": 728.399,
+  "duration": 4.161,
+  "text": "genuinely magical, and I don't think"
+ },
+ {
+  "start": 730.639,
+  "duration": 3.521,
+  "text": "most people should try it yet.\" Now, she"
+ },
+ {
+  "start": 732.56,
+  "duration": 3.44,
+  "text": "then goes into what makes Claudebot"
+ },
+ {
+  "start": 734.16,
+  "duration": 4.0,
+  "text": "special and why it's really interesting,"
+ },
+ {
+  "start": 736.0,
+  "duration": 3.519,
+  "text": "but what the problems are as well. The"
+ },
+ {
+  "start": 738.16,
+  "duration": 3.119,
+  "text": "problems for her include the fact that"
+ },
+ {
+  "start": 739.519,
+  "duration": 3.281,
+  "text": "the setup is really technical, that"
+ },
+ {
+  "start": 741.279,
+  "duration": 3.12,
+  "text": "there are pretty big security"
+ },
+ {
+  "start": 742.8,
+  "duration": 3.36,
+  "text": "implications of giving an AI agent"
+ },
+ {
+  "start": 744.399,
+  "duration": 3.12,
+  "text": "access to all those accounts, and the"
+ },
+ {
+  "start": 746.16,
+  "duration": 3.52,
+  "text": "risk of triggering things you don't want"
+ },
+ {
+  "start": 747.519,
+  "duration": 3.841,
+  "text": "to have happen. She also points out a"
+ },
+ {
+  "start": 749.68,
+  "duration": 3.44,
+  "text": "question which is present even if"
+ },
+ {
+  "start": 751.36,
+  "duration": 4.08,
+  "text": "unstated in many of the critiques."
+ },
+ {
+  "start": 753.12,
+  "duration": 4.24,
+  "text": "What's the killer use case? Now, even in"
+ },
+ {
+  "start": 755.44,
+  "duration": 4.0,
+  "text": "my recent episode about Claudebot, I"
+ },
+ {
+  "start": 757.36,
+  "duration": 3.599,
+  "text": "drew the personal line between what I"
+ },
+ {
+  "start": 759.44,
+  "duration": 3.36,
+  "text": "found interesting and what I didn't find"
+ },
+ {
+  "start": 760.959,
+  "duration": 3.201,
+  "text": "so interesting. For me, the not so"
+ },
+ {
+  "start": 762.8,
+  "duration": 3.599,
+  "text": "interesting was all the tinkerer"
+ },
+ {
+  "start": 764.16,
+  "duration": 3.44,
+  "text": "personal assistant use cases versus what"
+ },
+ {
+  "start": 766.399,
+  "duration": 2.721,
+  "text": "I thought was really exciting and"
+ },
+ {
+  "start": 767.6,
+  "duration": 3.52,
+  "text": "powerful, which is the way that people"
+ },
+ {
+  "start": 769.12,
+  "duration": 3.68,
+  "text": "like Natalias were setting this up"
+ },
+ {
+  "start": 771.12,
+  "duration": 3.68,
+  "text": "effectively as a staff engineer for"
+ },
+ {
+  "start": 772.8,
+  "duration": 3.839,
+  "text": "their companies and getting real work"
+ },
+ {
+  "start": 774.8,
+  "duration": 3.52,
+  "text": "done while they slept. Ultimately, the"
+ },
+ {
+  "start": 776.639,
+  "duration": 3.681,
+  "text": "point that Olivia was making is that"
+ },
+ {
+  "start": 778.32,
+  "duration": 3.44,
+  "text": "even if Claudebot is super cool,"
+ },
+ {
+  "start": 780.32,
+  "duration": 3.68,
+  "text": "everyone doesn't have to run out and try"
+ },
+ {
+  "start": 781.76,
+  "duration": 4.48,
+  "text": "it right now. And so that brings up the"
+ },
+ {
+  "start": 784.0,
+  "duration": 3.839,
+  "text": "question, how should we respond to this"
+ },
+ {
+  "start": 786.24,
+  "duration": 3.599,
+  "text": "acceleration gap to the extent that it"
+ },
+ {
+  "start": 787.839,
+  "duration": 4.081,
+  "text": "exists? I think what people don't need"
+ },
+ {
+  "start": 789.839,
+  "duration": 3.841,
+  "text": "to do, at least on mass, is to obsess"
+ },
+ {
+  "start": 791.92,
+  "duration": 3.12,
+  "text": "over every change in development."
+ },
+ {
+  "start": 793.68,
+  "duration": 3.599,
+  "text": "Hopefully, that's what resources like"
+ },
+ {
+  "start": 795.04,
+  "duration": 3.84,
+  "text": "this show can help with as we survey the"
+ },
+ {
+  "start": 797.279,
+  "duration": 3.36,
+  "text": "landscape of everything and try to"
+ },
+ {
+  "start": 798.88,
+  "duration": 3.44,
+  "text": "synthesize and curate which things"
+ },
+ {
+  "start": 800.639,
+  "duration": 3.281,
+  "text": "bubble to the top as actually really"
+ },
+ {
+  "start": 802.32,
+  "duration": 2.959,
+  "text": "relevant versus things that are much"
+ },
+ {
+  "start": 803.92,
+  "duration": 3.599,
+  "text": "more firmly in the category of the"
+ },
+ {
+  "start": 805.279,
+  "duration": 3.601,
+  "text": "experimental and exploratory. So, in"
+ },
+ {
+  "start": 807.519,
+  "duration": 2.961,
+  "text": "addition to not obsessing over every"
+ },
+ {
+  "start": 808.88,
+  "duration": 3.28,
+  "text": "change in development, I don't think"
+ },
+ {
+  "start": 810.48,
+  "duration": 4.72,
+  "text": "that everyone has to try every new tool"
+ },
+ {
+  "start": 812.16,
+  "duration": 5.119,
+  "text": "or platform. Early adopters have a very"
+ },
+ {
+  "start": 815.2,
+  "duration": 4.16,
+  "text": "critical role in the life cycle of any"
+ },
+ {
+  "start": 817.279,
+  "duration": 3.761,
+  "text": "new technology by being the front lines"
+ },
+ {
+  "start": 819.36,
+  "duration": 3.68,
+  "text": "who bang on all the software and figure"
+ },
+ {
+  "start": 821.04,
+  "duration": 4.16,
+  "text": "out what's going to actually work. Early"
+ },
+ {
+  "start": 823.04,
+  "duration": 4.0,
+  "text": "adopters inevitably find more use cases"
+ },
+ {
+  "start": 825.2,
+  "duration": 2.96,
+  "text": "that end up being mainstream. But we"
+ },
+ {
+  "start": 827.04,
+  "duration": 2.56,
+  "text": "have to remember that just because the"
+ },
+ {
+  "start": 828.16,
+  "duration": 2.96,
+  "text": "early adopters are talking about all the"
+ },
+ {
+  "start": 829.6,
+  "duration": 2.56,
+  "text": "things that they're doing doesn't mean"
+ },
+ {
+  "start": 831.12,
+  "duration": 3.519,
+  "text": "that those things are ready for"
+ },
+ {
+  "start": 832.16,
+  "duration": 4.239,
+  "text": "mainstream use yet. Lastly, despite all"
+ },
+ {
+  "start": 834.639,
+  "duration": 4.161,
+  "text": "of the tweets to the contrary over the"
+ },
+ {
+  "start": 836.399,
+  "duration": 4.161,
+  "text": "past weekend, you do not need to buy Mac"
+ },
+ {
+  "start": 838.8,
+  "duration": 3.68,
+  "text": "minis and set up lobster themed AI"
+ },
+ {
+  "start": 840.56,
+  "duration": 3.76,
+  "text": "assistance to make sure you are not on"
+ },
+ {
+  "start": 842.48,
+  "duration": 4.88,
+  "text": "the wrong side of the AI acceleration"
+ },
+ {
+  "start": 844.32,
+  "duration": 4.48,
+  "text": "gap. What then is valuable? I do think"
+ },
+ {
+  "start": 847.36,
+  "duration": 3.36,
+  "text": "that while most people don't need to"
+ },
+ {
+  "start": 848.8,
+  "duration": 4.399,
+  "text": "follow like sports every new change in"
+ },
+ {
+  "start": 850.72,
+  "duration": 4.64,
+  "text": "development, it is valuable in general"
+ },
+ {
+  "start": 853.199,
+  "duration": 4.08,
+  "text": "to understand what the experimenters are"
+ },
+ {
+  "start": 855.36,
+  "duration": 4.08,
+  "text": "trying to have some sort of coherent"
+ },
+ {
+  "start": 857.279,
+  "duration": 4.56,
+  "text": "idea of which things are getting the"
+ },
+ {
+  "start": 859.44,
+  "duration": 5.28,
+  "text": "frontline early adopters excited at any"
+ },
+ {
+  "start": 861.839,
+  "duration": 4.641,
+  "text": "given moment. Even more importantly, I"
+ },
+ {
+  "start": 864.72,
+  "duration": 4.08,
+  "text": "really encourage people to create some"
+ },
+ {
+  "start": 866.48,
+  "duration": 4.32,
+  "text": "sort of personal experimental practice."
+ },
+ {
+  "start": 868.8,
+  "duration": 5.039,
+  "text": "Basically, some structured or"
+ },
+ {
+  "start": 870.8,
+  "duration": 4.479,
+  "text": "unstructured time or cadence or routine"
+ },
+ {
+  "start": 873.839,
+  "duration": 3.68,
+  "text": "where you take the time to kick the"
+ },
+ {
+  "start": 875.279,
+  "duration": 4.641,
+  "text": "tires on these new tools and see what"
+ },
+ {
+  "start": 877.519,
+  "duration": 4.0,
+  "text": "can actually be helpful for you. One of"
+ },
+ {
+  "start": 879.92,
+  "duration": 4.0,
+  "text": "the greatest challenges right now for"
+ },
+ {
+  "start": 881.519,
+  "duration": 4.081,
+  "text": "business users of AI is that in general,"
+ },
+ {
+  "start": 883.92,
+  "duration": 3.359,
+  "text": "companies, even if they expect their"
+ },
+ {
+  "start": 885.6,
+  "duration": 3.679,
+  "text": "people to be taking advantage of these"
+ },
+ {
+  "start": 887.279,
+  "duration": 3.68,
+  "text": "tools, are not giving them time within"
+ },
+ {
+  "start": 889.279,
+  "duration": 3.201,
+  "text": "their normal schedules to learn these"
+ },
+ {
+  "start": 890.959,
+  "duration": 3.521,
+  "text": "tools. They're basically expecting"
+ },
+ {
+  "start": 892.48,
+  "duration": 4.0,
+  "text": "people to do it on their own. That's not"
+ },
+ {
+  "start": 894.48,
+  "duration": 3.599,
+  "text": "fair, but it is the state of things. And"
+ },
+ {
+  "start": 896.48,
+  "duration": 3.52,
+  "text": "I think one of the most differentiated"
+ },
+ {
+  "start": 898.079,
+  "duration": 3.44,
+  "text": "things that anyone can do. And one of"
+ },
+ {
+  "start": 900.0,
+  "duration": 3.12,
+  "text": "the best ways to be on the right side of"
+ },
+ {
+  "start": 901.519,
+  "duration": 3.601,
+  "text": "the acceleration gap is to just"
+ },
+ {
+  "start": 903.12,
+  "duration": 3.36,
+  "text": "determine for yourself some practice"
+ },
+ {
+  "start": 905.12,
+  "duration": 3.12,
+  "text": "where you don't wait for someone to give"
+ },
+ {
+  "start": 906.48,
+  "duration": 3.28,
+  "text": "you permission. You just go figure out"
+ },
+ {
+  "start": 908.24,
+  "duration": 2.959,
+  "text": "which of these tools and platforms can"
+ },
+ {
+  "start": 909.76,
+  "duration": 3.84,
+  "text": "be valuable for you and whatever you're"
+ },
+ {
+  "start": 911.199,
+  "duration": 4.721,
+  "text": "trying to get for them. And lastly, as a"
+ },
+ {
+  "start": 913.6,
+  "duration": 4.56,
+  "text": "piece of that, I do think that it's"
+ },
+ {
+  "start": 915.92,
+  "duration": 4.56,
+  "text": "extremely valuable to push at least"
+ },
+ {
+  "start": 918.16,
+  "duration": 4.239,
+  "text": "slightly outside your comfort zone."
+ },
+ {
+  "start": 920.48,
+  "duration": 4.24,
+  "text": "Right now, to me, the most obvious"
+ },
+ {
+  "start": 922.399,
+  "duration": 4.24,
+  "text": "example of this for many non-coders is"
+ },
+ {
+  "start": 924.72,
+  "duration": 3.84,
+  "text": "to start to get familiar with"
+ },
+ {
+  "start": 926.639,
+  "duration": 4.401,
+  "text": "experimenting with trying to solve your"
+ },
+ {
+  "start": 928.56,
+  "duration": 4.079,
+  "text": "non-code problems with software. This"
+ },
+ {
+  "start": 931.04,
+  "duration": 3.28,
+  "text": "does not mean, by the way, that you need"
+ },
+ {
+  "start": 932.639,
+  "duration": 3.76,
+  "text": "to start by using claude code in the"
+ },
+ {
+  "start": 934.32,
+  "duration": 4.16,
+  "text": "terminal. Tools like Replet and Lovable"
+ },
+ {
+  "start": 936.399,
+  "duration": 3.921,
+  "text": "are vastly more intuitive, even if that"
+ },
+ {
+  "start": 938.48,
+  "duration": 3.44,
+  "text": "comes with certain types of trade-offs."
+ },
+ {
+  "start": 940.32,
+  "duration": 3.84,
+  "text": "But the point is wherever your comfort"
+ },
+ {
+  "start": 941.92,
+  "duration": 4.479,
+  "text": "zone is, the capabilities of AI almost"
+ },
+ {
+  "start": 944.16,
+  "duration": 4.32,
+  "text": "certainly extend outside it. So if you"
+ },
+ {
+  "start": 946.399,
+  "duration": 3.68,
+  "text": "can push yourself outside it as well,"
+ },
+ {
+  "start": 948.48,
+  "duration": 4.08,
+  "text": "you are likely to find some use cases"
+ },
+ {
+  "start": 950.079,
+  "duration": 4.32,
+  "text": "that you might not otherwise. My hope"
+ },
+ {
+  "start": 952.56,
+  "duration": 3.44,
+  "text": "for everyone listening here is that to"
+ },
+ {
+  "start": 954.399,
+  "duration": 3.44,
+  "text": "the extent that there is an acceleration"
+ },
+ {
+  "start": 956.0,
+  "duration": 3.519,
+  "text": "gap, I want everyone to be on the best"
+ },
+ {
+  "start": 957.839,
+  "duration": 3.36,
+  "text": "side of it. And I want to make sure we"
+ },
+ {
+  "start": 959.519,
+  "duration": 3.361,
+  "text": "do that without unduly hyping things"
+ },
+ {
+  "start": 961.199,
+  "duration": 3.76,
+  "text": "that are not ready for prime time or"
+ },
+ {
+  "start": 962.88,
+  "duration": 3.68,
+  "text": "that are only marginally useful or that"
+ },
+ {
+  "start": 964.959,
+  "duration": 3.12,
+  "text": "generally just remain in the fun"
+ },
+ {
+  "start": 966.56,
+  "duration": 3.36,
+  "text": "tinkering category for the people who"
+ },
+ {
+  "start": 968.079,
+  "duration": 2.961,
+  "text": "want to tinker. In addition to trying to"
+ },
+ {
+  "start": 969.92,
+  "duration": 2.64,
+  "text": "capture where the state of the"
+ },
+ {
+  "start": 971.04,
+  "duration": 2.96,
+  "text": "conversation is, I will also try to"
+ },
+ {
+  "start": 972.56,
+  "duration": 2.959,
+  "text": "continue to give you resources for"
+ },
+ {
+  "start": 974.0,
+  "duration": 3.199,
+  "text": "keeping up. For now though, that is"
+ },
+ {
+  "start": 975.519,
+  "duration": 3.281,
+  "text": "going to do it for today's AI daily"
+ },
+ {
+  "start": 977.199,
+  "duration": 4.0,
+  "text": "brief. Appreciate you listening or"
+ },
+ {
+  "start": 978.8,
+  "duration": 4.88,
+  "text": "watching as always and until next time,"
+ },
+ {
+  "start": 981.199,
+  "duration": 2.481,
+  "text": "peace."
+ }
+]

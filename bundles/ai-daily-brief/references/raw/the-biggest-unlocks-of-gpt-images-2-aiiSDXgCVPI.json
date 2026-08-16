@@ -1,0 +1,3357 @@
+[
+ {
+  "start": 0.88,
+  "duration": 5.04,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 2.88,
+  "duration": 4.8,
+  "text": "the new ChatGPT Images 2.0 model and why"
+ },
+ {
+  "start": 5.92,
+  "duration": 3.96,
+  "text": "it's the first [music] image model for"
+ },
+ {
+  "start": 7.68,
+  "duration": 4.12,
+  "text": "the agentic era."
+ },
+ {
+  "start": 9.88,
+  "duration": 5.6,
+  "text": "Before that in the headlines,"
+ },
+ {
+  "start": 11.8,
+  "duration": 4.84,
+  "text": "a big team-up between SpaceX and Cursor."
+ },
+ {
+  "start": 15.48,
+  "duration": 2.64,
+  "text": "The AI Daily Brief is a daily [music]"
+ },
+ {
+  "start": 16.64,
+  "duration": 5.36,
+  "text": "podcast and video about the most"
+ },
+ {
+  "start": 18.12,
+  "duration": 5.36,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 22.0,
+  "duration": 3.96,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 23.48,
+  "duration": 4.12,
+  "text": "before we dive in. aidailybrief.ai is"
+ },
+ {
+  "start": 25.96,
+  "duration": 3.2,
+  "text": "where you can see all the things going"
+ },
+ {
+  "start": 27.6,
+  "duration": 3.16,
+  "text": "on in the ecosystem. Check it out,"
+ },
+ {
+  "start": 29.16,
+  "duration": 3.72,
+  "text": "subscribe to the newsletter, come join"
+ },
+ {
+  "start": 30.76,
+  "duration": 3.56,
+  "text": "us on the AI Operators community, have a"
+ },
+ {
+  "start": 32.88,
+  "duration": 2.8,
+  "text": "grand old time."
+ },
+ {
+  "start": 34.32,
+  "duration": 3.8,
+  "text": "And with that out of the way, let's get"
+ },
+ {
+  "start": 35.68,
+  "duration": 4.84,
+  "text": "into the headlines."
+ },
+ {
+  "start": 38.12,
+  "duration": 4.08,
+  "text": "SpaceX has signed a massive new deal"
+ },
+ {
+  "start": 40.52,
+  "duration": 3.28,
+  "text": "with Cursor that adds a pretty"
+ },
+ {
+  "start": 42.2,
+  "duration": 3.24,
+  "text": "meaningful twist to their rapidly"
+ },
+ {
+  "start": 43.8,
+  "duration": 3.72,
+  "text": "approaching IPO."
+ },
+ {
+  "start": 45.44,
+  "duration": 5.56,
+  "text": "On Tuesday, SpaceX announced in a post"
+ },
+ {
+  "start": 47.52,
+  "duration": 5.08,
+  "text": "on X, of course, SpaceX AI and Cursor"
+ },
+ {
+  "start": 51.0,
+  "duration": 3.04,
+  "text": "are now working closely together to"
+ },
+ {
+  "start": 52.6,
+  "duration": 3.28,
+  "text": "create the world's best coding and"
+ },
+ {
+  "start": 54.04,
+  "duration": 3.28,
+  "text": "knowledge work AI. Now, it had"
+ },
+ {
+  "start": 55.88,
+  "duration": 3.24,
+  "text": "previously been rumored that Cursor"
+ },
+ {
+  "start": 57.32,
+  "duration": 3.72,
+  "text": "would be renting XAI's servers for their"
+ },
+ {
+  "start": 59.12,
+  "duration": 3.72,
+  "text": "next training run, but it now appears"
+ },
+ {
+  "start": 61.04,
+  "duration": 4.08,
+  "text": "the collaboration is going much deeper."
+ },
+ {
+  "start": 62.84,
+  "duration": 3.48,
+  "text": "SpaceX continued, \"The combination of"
+ },
+ {
+  "start": 65.12,
+  "duration": 2.84,
+  "text": "Cursor's leading product and"
+ },
+ {
+  "start": 66.32,
+  "duration": 4.24,
+  "text": "distribution to expert software"
+ },
+ {
+  "start": 67.96,
+  "duration": 3.8,
+  "text": "engineers with SpaceX's million H100"
+ },
+ {
+  "start": 70.56,
+  "duration": 3.16,
+  "text": "equivalent Colossus training"
+ },
+ {
+  "start": 71.76,
+  "duration": 3.88,
+  "text": "supercomputer will allow us to build the"
+ },
+ {
+  "start": 73.72,
+  "duration": 3.64,
+  "text": "world's most useful model.\" The post"
+ },
+ {
+  "start": 75.64,
+  "duration": 3.52,
+  "text": "also announced, and obviously this is"
+ },
+ {
+  "start": 77.36,
+  "duration": 3.52,
+  "text": "the part that everyone focused on, that"
+ },
+ {
+  "start": 79.16,
+  "duration": 3.76,
+  "text": "SpaceX had been granted the rights to"
+ },
+ {
+  "start": 80.88,
+  "duration": 3.92,
+  "text": "acquire Cursor at a $60 billion"
+ },
+ {
+  "start": 82.92,
+  "duration": 3.88,
+  "text": "valuation later this year. And if the"
+ },
+ {
+  "start": 84.8,
+  "duration": 3.6,
+  "text": "acquisition doesn't go through, SpaceX"
+ },
+ {
+  "start": 86.8,
+  "duration": 4.12,
+  "text": "will pay Cursor $10 billion for their"
+ },
+ {
+  "start": 88.4,
+  "duration": 4.28,
+  "text": "collaborative work. The deal potentially"
+ },
+ {
+  "start": 90.92,
+  "duration": 4.36,
+  "text": "solves a number of problems for both"
+ },
+ {
+  "start": 92.68,
+  "duration": 4.32,
+  "text": "companies. By some reports, Cursor has"
+ },
+ {
+  "start": 95.28,
+  "duration": 3.92,
+  "text": "been backed into a corner over the past"
+ },
+ {
+  "start": 97.0,
+  "duration": 3.76,
+  "text": "6 months. Reports have suggested that"
+ },
+ {
+  "start": 99.2,
+  "duration": 3.72,
+  "text": "they are making a loss on every Claude"
+ },
+ {
+  "start": 100.76,
+  "duration": 3.56,
+  "text": "and Open AI token they serve, so much of"
+ },
+ {
+  "start": 102.92,
+  "duration": 3.32,
+  "text": "this year has been focused on developing"
+ },
+ {
+  "start": 104.32,
+  "duration": 3.08,
+  "text": "a state-of-the-art in-house model. And"
+ },
+ {
+  "start": 106.24,
+  "duration": 2.92,
+  "text": "of course, beyond just the training"
+ },
+ {
+  "start": 107.4,
+  "duration": 3.36,
+  "text": "runs, Cursor will need access to a ton"
+ },
+ {
+  "start": 109.16,
+  "duration": 3.4,
+  "text": "of additional compute as they scale up"
+ },
+ {
+  "start": 110.76,
+  "duration": 3.28,
+  "text": "revenue. The company is reportedly in"
+ },
+ {
+  "start": 112.56,
+  "duration": 2.96,
+  "text": "talks to raise $2 billion in venture"
+ },
+ {
+  "start": 114.04,
+  "duration": 3.12,
+  "text": "funding, and even if that round does"
+ },
+ {
+  "start": 115.52,
+  "duration": 3.08,
+  "text": "close, they are still massively resource"
+ },
+ {
+  "start": 117.16,
+  "duration": 3.56,
+  "text": "constrained compared to Open AI and"
+ },
+ {
+  "start": 118.6,
+  "duration": 4.0,
+  "text": "Anthropic. Going back to the harness"
+ },
+ {
+  "start": 120.72,
+  "duration": 3.72,
+  "text": "engineering episode from last week, the"
+ },
+ {
+  "start": 122.6,
+  "duration": 3.44,
+  "text": "challenge for Cursor is in short that"
+ },
+ {
+  "start": 124.44,
+  "duration": 4.8,
+  "text": "the biggies are not choosing model"
+ },
+ {
+  "start": 126.04,
+  "duration": 4.84,
+  "text": "versus harness. They are doing both and."
+ },
+ {
+  "start": 129.24,
+  "duration": 4.2,
+  "text": "So then, here's the logic for why to"
+ },
+ {
+  "start": 130.88,
+  "duration": 4.12,
+  "text": "team up with XAI. The company has access"
+ },
+ {
+  "start": 133.44,
+  "duration": 3.04,
+  "text": "to huge amounts of compute that at the"
+ },
+ {
+  "start": 135.0,
+  "duration": 3.48,
+  "text": "moment aren't doing as much as they"
+ },
+ {
+  "start": 136.48,
+  "duration": 3.56,
+  "text": "could. Elon Musk has claimed the data"
+ },
+ {
+  "start": 138.48,
+  "duration": 3.76,
+  "text": "centers are currently being utilized for"
+ },
+ {
+  "start": 140.04,
+  "duration": 3.44,
+  "text": "massive training runs, but XAI has"
+ },
+ {
+  "start": 142.24,
+  "duration": 3.16,
+  "text": "struggled to generate revenue from their"
+ },
+ {
+  "start": 143.48,
+  "duration": 3.64,
+  "text": "products, and they also haven't released"
+ },
+ {
+  "start": 145.4,
+  "duration": 3.32,
+  "text": "an impactful model in months, and at"
+ },
+ {
+  "start": 147.12,
+  "duration": 3.68,
+  "text": "this point have no meaningful footprint"
+ },
+ {
+  "start": 148.72,
+  "duration": 4.28,
+  "text": "in the AI coding space. Cursor would"
+ },
+ {
+  "start": 150.8,
+  "duration": 4.64,
+  "text": "provide a huge data pipeline to help XAI"
+ },
+ {
+  "start": 153.0,
+  "duration": 4.16,
+  "text": "catch up. A joint Cursor XAI coding"
+ },
+ {
+  "start": 155.44,
+  "duration": 3.72,
+  "text": "model could be exactly the kind of"
+ },
+ {
+  "start": 157.16,
+  "duration": 4.48,
+  "text": "product that could help return XAI to"
+ },
+ {
+  "start": 159.16,
+  "duration": 4.16,
+  "text": "relevancy. XAI has already taken a look"
+ },
+ {
+  "start": 161.64,
+  "duration": 3.2,
+  "text": "under the hood at Cursor with Musk"
+ },
+ {
+  "start": 163.32,
+  "duration": 3.56,
+  "text": "poaching two senior engineering leaders"
+ },
+ {
+  "start": 164.84,
+  "duration": 3.36,
+  "text": "last month. Now, in addition to the"
+ },
+ {
+  "start": 166.88,
+  "duration": 2.72,
+  "text": "Cursor deal, which obviously for our"
+ },
+ {
+  "start": 168.2,
+  "duration": 3.92,
+  "text": "purposes is the biggest part of this"
+ },
+ {
+  "start": 169.6,
+  "duration": 4.08,
+  "text": "news, the IPO disclosure process is also"
+ },
+ {
+  "start": 172.12,
+  "duration": 3.68,
+  "text": "uncovering a bunch of additional details"
+ },
+ {
+  "start": 173.68,
+  "duration": 3.6,
+  "text": "about SpaceX as well. The Information"
+ },
+ {
+  "start": 175.8,
+  "duration": 3.68,
+  "text": "got hold of confidential disclosure"
+ },
+ {
+  "start": 177.28,
+  "duration": 3.48,
+  "text": "documents suggesting that Elon upped his"
+ },
+ {
+  "start": 179.48,
+  "duration": 3.2,
+  "text": "stake in the company last year"
+ },
+ {
+  "start": 180.76,
+  "duration": 4.16,
+  "text": "purchasing $1.4 billion in stock from"
+ },
+ {
+  "start": 182.68,
+  "duration": 4.44,
+  "text": "current and former employees. SpaceX"
+ },
+ {
+  "start": 184.92,
+  "duration": 4.52,
+  "text": "also plans to award Elon a compensation"
+ },
+ {
+  "start": 187.12,
+  "duration": 3.88,
+  "text": "package with very lofty milestone goals."
+ },
+ {
+  "start": 189.44,
+  "duration": 3.8,
+  "text": "He could receive tens of millions of"
+ },
+ {
+  "start": 191.0,
+  "duration": 4.32,
+  "text": "shares of SpaceX tied to market cap"
+ },
+ {
+  "start": 193.24,
+  "duration": 4.2,
+  "text": "achievements ranging from $1.1 trillion"
+ },
+ {
+  "start": 195.32,
+  "duration": 4.28,
+  "text": "all the way up to $6.6 trillion. For"
+ },
+ {
+  "start": 197.44,
+  "duration": 4.48,
+  "text": "context, SpaceX is expected to target"
+ },
+ {
+  "start": 199.6,
+  "duration": 4.28,
+  "text": "$1.5 trillion at IPO, meaning the low"
+ },
+ {
+  "start": 201.92,
+  "duration": 4.36,
+  "text": "end might be easily achieved. However, a"
+ },
+ {
+  "start": 203.88,
+  "duration": 4.16,
+  "text": "$6.6 trillion valuation exceeds Nvidia's"
+ },
+ {
+  "start": 206.28,
+  "duration": 3.68,
+  "text": "$4.9 trillion as the most valuable"
+ },
+ {
+  "start": 208.04,
+  "duration": 3.6,
+  "text": "company in the world. The documents also"
+ },
+ {
+  "start": 209.96,
+  "duration": 3.76,
+  "text": "discuss a stock incentive tied to"
+ },
+ {
+  "start": 211.64,
+  "duration": 4.0,
+  "text": "deploying 100 terawatts of compute power"
+ },
+ {
+  "start": 213.72,
+  "duration": 3.76,
+  "text": "via spacefaring data centers. Peak"
+ },
+ {
+  "start": 215.64,
+  "duration": 3.68,
+  "text": "energy demand in the US is less than 1"
+ },
+ {
+  "start": 217.48,
+  "duration": 4.0,
+  "text": "terawatt, giving a sense that this is a"
+ },
+ {
+  "start": 219.32,
+  "duration": 4.52,
+  "text": "science fiction-style goal at present."
+ },
+ {
+  "start": 221.48,
+  "duration": 3.64,
+  "text": "The IPO is currently expected in June,"
+ },
+ {
+  "start": 223.84,
+  "duration": 2.84,
+  "text": "and the debate is on around what the"
+ },
+ {
+  "start": 225.12,
+  "duration": 4.32,
+  "text": "implications are for the entire AI"
+ },
+ {
+  "start": 226.68,
+  "duration": 4.28,
+  "text": "industry. SpaceX will be going first, so"
+ },
+ {
+  "start": 229.44,
+  "duration": 3.4,
+  "text": "theoretically their success or failure"
+ },
+ {
+  "start": 230.96,
+  "duration": 3.96,
+  "text": "could impact IPOs from Open AI and"
+ },
+ {
+  "start": 232.84,
+  "duration": 3.6,
+  "text": "Anthropic in the fall, and yet I'm just"
+ },
+ {
+  "start": 234.92,
+  "duration": 3.76,
+  "text": "not sure that that's exactly how it'll"
+ },
+ {
+  "start": 236.44,
+  "duration": 3.72,
+  "text": "play out. I think mostly the SpaceX deal"
+ },
+ {
+  "start": 238.68,
+  "duration": 3.64,
+  "text": "is going to be a referendum on how much"
+ },
+ {
+  "start": 240.16,
+  "duration": 4.08,
+  "text": "exposure people want to Elon. Maybe this"
+ },
+ {
+  "start": 242.32,
+  "duration": 4.4,
+  "text": "Cursor tie-up makes the AI part of the"
+ },
+ {
+  "start": 244.24,
+  "duration": 4.6,
+  "text": "story less of a side show, but right now"
+ },
+ {
+  "start": 246.72,
+  "duration": 3.84,
+  "text": "I'm just not sure."
+ },
+ {
+  "start": 248.84,
+  "duration": 3.72,
+  "text": "In another very big story that broke"
+ },
+ {
+  "start": 250.56,
+  "duration": 4.08,
+  "text": "last night, an unauthorized group has"
+ },
+ {
+  "start": 252.56,
+  "duration": 4.32,
+  "text": "gained access to Claude Mythos playing"
+ },
+ {
+  "start": 254.64,
+  "duration": 3.64,
+  "text": "right into cybersecurity fears."
+ },
+ {
+  "start": 256.88,
+  "duration": 3.16,
+  "text": "Bloomberg reports that users from a"
+ },
+ {
+  "start": 258.28,
+  "duration": 3.32,
+  "text": "private Discord group gained access to"
+ },
+ {
+  "start": 260.04,
+  "duration": 3.32,
+  "text": "Mythos on the same day Anthropic"
+ },
+ {
+  "start": 261.6,
+  "duration": 2.96,
+  "text": "announced its preview release. That"
+ },
+ {
+  "start": 263.36,
+  "duration": 2.8,
+  "text": "release was of course intended to be"
+ },
+ {
+  "start": 264.56,
+  "duration": 3.44,
+  "text": "limited to a small group of companies"
+ },
+ {
+  "start": 266.16,
+  "duration": 3.2,
+  "text": "for cybersecurity purposes. When they"
+ },
+ {
+  "start": 268.0,
+  "duration": 2.8,
+  "text": "announced the model, Anthropic told the"
+ },
+ {
+  "start": 269.36,
+  "duration": 3.08,
+  "text": "press that access would be tightly"
+ },
+ {
+  "start": 270.8,
+  "duration": 3.44,
+  "text": "controlled to ensure that it didn't end"
+ },
+ {
+  "start": 272.44,
+  "duration": 3.56,
+  "text": "up in the wrong hands. Bloomberg's"
+ },
+ {
+  "start": 274.24,
+  "duration": 3.68,
+  "text": "source provided screenshots and a live"
+ },
+ {
+  "start": 276.0,
+  "duration": 3.56,
+  "text": "demonstration of the model, implying"
+ },
+ {
+  "start": 277.92,
+  "duration": 3.16,
+  "text": "that the breach hadn't been detected and"
+ },
+ {
+  "start": 279.56,
+  "duration": 3.04,
+  "text": "that the group still had access weeks"
+ },
+ {
+  "start": 281.08,
+  "duration": 3.52,
+  "text": "later. The source said that the group"
+ },
+ {
+  "start": 282.6,
+  "duration": 3.4,
+  "text": "had been regularly using Mythos, but"
+ },
+ {
+  "start": 284.6,
+  "duration": 3.4,
+  "text": "hasn't used it for cybersecurity"
+ },
+ {
+  "start": 286.0,
+  "duration": 4.0,
+  "text": "purposes in an attempt to avoid"
+ },
+ {
+  "start": 288.0,
+  "duration": 3.2,
+  "text": "detection from Anthropic. Instead, the"
+ },
+ {
+  "start": 290.0,
+  "duration": 2.96,
+  "text": "group has been testing the model on"
+ },
+ {
+  "start": 291.2,
+  "duration": 3.88,
+  "text": "relatively mundane tasks like website"
+ },
+ {
+  "start": 292.96,
+  "duration": 3.76,
+  "text": "design. The source said the group isn't"
+ },
+ {
+  "start": 295.08,
+  "duration": 3.04,
+  "text": "interested in malicious use, they just"
+ },
+ {
+  "start": 296.72,
+  "duration": 2.6,
+  "text": "want to play around with unreleased"
+ },
+ {
+  "start": 298.12,
+  "duration": 2.64,
+  "text": "models."
+ },
+ {
+  "start": 299.32,
+  "duration": 2.92,
+  "text": "Now, in terms of how they got access to"
+ },
+ {
+  "start": 300.76,
+  "duration": 2.96,
+  "text": "this, the source said that Mythos was"
+ },
+ {
+  "start": 302.24,
+  "duration": 3.08,
+  "text": "accessed through a third-party vendor"
+ },
+ {
+  "start": 303.72,
+  "duration": 3.2,
+  "text": "where one member is employed, and it"
+ },
+ {
+  "start": 305.32,
+  "duration": 2.92,
+  "text": "also required a few educated guesses"
+ },
+ {
+  "start": 306.92,
+  "duration": 3.2,
+  "text": "based on information gleaned from the"
+ },
+ {
+  "start": 308.24,
+  "duration": 3.16,
+  "text": "recent Merkle data breach. Basically,"
+ },
+ {
+  "start": 310.12,
+  "duration": 3.0,
+  "text": "the member working at the third-party"
+ },
+ {
+  "start": 311.4,
+  "duration": 3.28,
+  "text": "vendor has general access to Anthropic's"
+ },
+ {
+  "start": 313.12,
+  "duration": 3.6,
+  "text": "models including pre-release models as"
+ },
+ {
+  "start": 314.68,
+  "duration": 3.44,
+  "text": "part of an evaluation contract."
+ },
+ {
+  "start": 316.72,
+  "duration": 3.32,
+  "text": "Anthropic responded to the report by"
+ },
+ {
+  "start": 318.12,
+  "duration": 3.52,
+  "text": "stating, \"We're investigating a report"
+ },
+ {
+  "start": 320.04,
+  "duration": 2.72,
+  "text": "claiming unauthorized access to Claude"
+ },
+ {
+  "start": 321.64,
+  "duration": 2.72,
+  "text": "Mythos preview through one of our"
+ },
+ {
+  "start": 322.76,
+  "duration": 2.76,
+  "text": "third-party vendor environments.\""
+ },
+ {
+  "start": 324.36,
+  "duration": 2.52,
+  "text": "Anthropic added that they have no"
+ },
+ {
+  "start": 325.52,
+  "duration": 2.92,
+  "text": "evidence that access went beyond the"
+ },
+ {
+  "start": 326.88,
+  "duration": 4.0,
+  "text": "third-party vendor's environment or that"
+ },
+ {
+  "start": 328.44,
+  "duration": 3.88,
+  "text": "it's impacting Anthropic's systems."
+ },
+ {
+  "start": 330.88,
+  "duration": 3.64,
+  "text": "Now, the discussion of this on X has"
+ },
+ {
+  "start": 332.32,
+  "duration": 3.72,
+  "text": "been extremely breathless and"
+ },
+ {
+  "start": 334.52,
+  "duration": 2.68,
+  "text": "overrought, which is perhaps"
+ },
+ {
+  "start": 336.04,
+  "duration": 2.56,
+  "text": "understandable given the way that"
+ },
+ {
+  "start": 337.2,
+  "duration": 3.64,
+  "text": "Anthropic has chosen to promote this"
+ },
+ {
+  "start": 338.6,
+  "duration": 3.88,
+  "text": "model. Coincidentally, Sam Altman had"
+ },
+ {
+  "start": 340.84,
+  "duration": 3.84,
+  "text": "some pretty pointed comments about the"
+ },
+ {
+  "start": 342.48,
+  "duration": 3.32,
+  "text": "way Anthropic had introduced Mythos. In"
+ },
+ {
+  "start": 344.68,
+  "duration": 2.76,
+  "text": "a podcast interview that came out"
+ },
+ {
+  "start": 345.8,
+  "duration": 3.56,
+  "text": "earlier this week, he said,"
+ },
+ {
+  "start": 347.44,
+  "duration": 4.16,
+  "text": "\"If what you want is control of AI"
+ },
+ {
+  "start": 349.36,
+  "duration": 4.24,
+  "text": "because we're the trustworthy people, I"
+ },
+ {
+  "start": 351.6,
+  "duration": 3.68,
+  "text": "think fear-based marketing is probably"
+ },
+ {
+  "start": 353.6,
+  "duration": 3.04,
+  "text": "the most effective way to justify that."
+ },
+ {
+  "start": 355.28,
+  "duration": 3.28,
+  "text": "That doesn't mean it's not legitimate in"
+ },
+ {
+  "start": 356.64,
+  "duration": 3.6,
+  "text": "some places, but it is clearly"
+ },
+ {
+  "start": 358.56,
+  "duration": 3.04,
+  "text": "incredible marketing to say, 'We have"
+ },
+ {
+  "start": 360.24,
+  "duration": 2.76,
+  "text": "built a bomb. We're about to drop it on"
+ },
+ {
+  "start": 361.6,
+  "duration": 3.16,
+  "text": "your head. We will sell you a bomb"
+ },
+ {
+  "start": 363.0,
+  "duration": 3.04,
+  "text": "shelter for $100 million."
+ },
+ {
+  "start": 364.76,
+  "duration": 3.08,
+  "text": "You need to run it to access all your"
+ },
+ {
+  "start": 366.04,
+  "duration": 5.36,
+  "text": "stuff, but only if we pick you as a"
+ },
+ {
+  "start": 367.84,
+  "duration": 5.16,
+  "text": "customer.'\" Wow, gloves are off. And it"
+ },
+ {
+  "start": 371.4,
+  "duration": 3.8,
+  "text": "seems like we might be getting Open AI's"
+ },
+ {
+  "start": 373.0,
+  "duration": 3.56,
+  "text": "different approach to that in not too"
+ },
+ {
+  "start": 375.2,
+  "duration": 3.32,
+  "text": "long."
+ },
+ {
+  "start": 376.56,
+  "duration": 3.4,
+  "text": "Lastly today, Google has released a big"
+ },
+ {
+  "start": 378.52,
+  "duration": 3.36,
+  "text": "new upgrade to their Deep Research"
+ },
+ {
+  "start": 379.96,
+  "duration": 3.8,
+  "text": "agents. The agent is now available in"
+ },
+ {
+  "start": 381.88,
+  "duration": 3.2,
+  "text": "two flavors, the standard version and a"
+ },
+ {
+  "start": 383.76,
+  "duration": 3.72,
+  "text": "state-of-the-art version called Deep"
+ },
+ {
+  "start": 385.08,
+  "duration": 3.8,
+  "text": "Research Max. The agent now features MCP"
+ },
+ {
+  "start": 387.48,
+  "duration": 3.4,
+  "text": "support to connect to third-party data"
+ },
+ {
+  "start": 388.88,
+  "duration": 4.2,
+  "text": "sources for the first time. As part of"
+ },
+ {
+  "start": 390.88,
+  "duration": 3.84,
+  "text": "MCP support, users can define arbitrary"
+ },
+ {
+  "start": 393.08,
+  "duration": 3.36,
+  "text": "tools rather than relying on the agent"
+ },
+ {
+  "start": 394.72,
+  "duration": 3.36,
+  "text": "to figure it out. The agents can now"
+ },
+ {
+  "start": 396.44,
+  "duration": 3.28,
+  "text": "also output charts and infographics"
+ },
+ {
+  "start": 398.08,
+  "duration": 3.8,
+  "text": "within their report tapping into the"
+ },
+ {
+  "start": 399.72,
+  "duration": 3.8,
+  "text": "Nano Banana models for image generation."
+ },
+ {
+  "start": 401.88,
+  "duration": 3.08,
+  "text": "Both the normal and Max versions produce"
+ },
+ {
+  "start": 403.52,
+  "duration": 3.08,
+  "text": "a pretty significant bump to relevant"
+ },
+ {
+  "start": 404.96,
+  "duration": 3.68,
+  "text": "benchmarks with the Max version now"
+ },
+ {
+  "start": 406.6,
+  "duration": 4.48,
+  "text": "state-of-the-art compared to GPT 5.4 and"
+ },
+ {
+  "start": 408.64,
+  "duration": 4.44,
+  "text": "Opus 4.6. Interestingly, the agents are"
+ },
+ {
+  "start": 411.08,
+  "duration": 3.76,
+  "text": "still just Gemini 3.1 Pro under the"
+ },
+ {
+  "start": 413.08,
+  "duration": 3.72,
+  "text": "hood, the same as the previous version"
+ },
+ {
+  "start": 414.84,
+  "duration": 3.56,
+  "text": "of Deep Research. This means the entire"
+ },
+ {
+  "start": 416.8,
+  "duration": 3.24,
+  "text": "improvement was driven by harness"
+ },
+ {
+  "start": 418.4,
+  "duration": 3.36,
+  "text": "upgrades and additional inference rather"
+ },
+ {
+  "start": 420.04,
+  "duration": 3.2,
+  "text": "than a more advanced model. The agents"
+ },
+ {
+  "start": 421.76,
+  "duration": 2.56,
+  "text": "are only available through the API, so"
+ },
+ {
+  "start": 423.24,
+  "duration": 3.12,
+  "text": "they are designed to be used in"
+ },
+ {
+  "start": 424.32,
+  "duration": 3.84,
+  "text": "professional workflows. Google said that"
+ },
+ {
+  "start": 426.36,
+  "duration": 3.92,
+  "text": "Deep Research Max is designed to consult"
+ },
+ {
+  "start": 428.16,
+  "duration": 3.76,
+  "text": "significantly more sources and identify"
+ },
+ {
+  "start": 430.28,
+  "duration": 3.72,
+  "text": "critical nuances that are overlooked by"
+ },
+ {
+  "start": 431.92,
+  "duration": 3.92,
+  "text": "other agents. They wrote,"
+ },
+ {
+  "start": 434.0,
+  "duration": 3.28,
+  "text": "\"The result is a nuanced report that"
+ },
+ {
+  "start": 435.84,
+  "duration": 3.68,
+  "text": "draws from authoritative sources like"
+ },
+ {
+  "start": 437.28,
+  "duration": 4.32,
+  "text": "SEC filings and open-access peer-review"
+ },
+ {
+  "start": 439.52,
+  "duration": 3.88,
+  "text": "journals, lays out information well, and"
+ },
+ {
+  "start": 441.6,
+  "duration": 4.72,
+  "text": "transforms dense technical data into"
+ },
+ {
+  "start": 443.4,
+  "duration": 4.44,
+  "text": "actionable stakeholder-ready formats.\""
+ },
+ {
+  "start": 446.32,
+  "duration": 2.84,
+  "text": "A small upgrade on the surface, but one"
+ },
+ {
+  "start": 447.84,
+  "duration": 2.84,
+  "text": "which could be extremely valuable to"
+ },
+ {
+  "start": 449.16,
+  "duration": 3.2,
+  "text": "people who have a Deep Research use"
+ },
+ {
+  "start": 450.68,
+  "duration": 2.96,
+  "text": "case. For now though, of course, that is"
+ },
+ {
+  "start": 452.36,
+  "duration": 3.08,
+  "text": "not the new model that everyone wants to"
+ },
+ {
+  "start": 453.64,
+  "duration": 3.96,
+  "text": "talk about today, so that is going to do"
+ },
+ {
+  "start": 455.44,
+  "duration": 3.8,
+  "text": "it for the headlines. Next up, the main"
+ },
+ {
+  "start": 457.6,
+  "duration": 3.28,
+  "text": "episode."
+ },
+ {
+  "start": 459.24,
+  "duration": 4.28,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 460.88,
+  "duration": 4.68,
+  "text": "Image generation models are kind of an"
+ },
+ {
+  "start": 463.52,
+  "duration": 4.24,
+  "text": "interesting phenomenon in AI. They are"
+ },
+ {
+  "start": 465.56,
+  "duration": 4.56,
+  "text": "in many ways the simplest, quickest way"
+ },
+ {
+  "start": 467.76,
+  "duration": 4.12,
+  "text": "to understand the power of this new"
+ },
+ {
+  "start": 470.12,
+  "duration": 3.64,
+  "text": "generative medium. In fact, I think for"
+ },
+ {
+  "start": 471.88,
+  "duration": 3.84,
+  "text": "many of us, it was in fact image"
+ },
+ {
+  "start": 473.76,
+  "duration": 4.16,
+  "text": "generation that was kind of our gateway"
+ },
+ {
+  "start": 475.72,
+  "duration": 4.24,
+  "text": "into the space. As impressive as the"
+ },
+ {
+  "start": 477.92,
+  "duration": 3.44,
+  "text": "initial ChatGPT was, what really caught"
+ },
+ {
+  "start": 479.96,
+  "duration": 3.88,
+  "text": "my attention all the way back at the end"
+ },
+ {
+  "start": 481.36,
+  "duration": 4.48,
+  "text": "of 2022 and the beginning of 2023 was"
+ },
+ {
+  "start": 483.84,
+  "duration": 4.0,
+  "text": "the absolute feeling of being a wizard"
+ },
+ {
+  "start": 485.84,
+  "duration": 3.68,
+  "text": "when I was creating images of Hemingway"
+ },
+ {
+  "start": 487.84,
+  "duration": 3.08,
+  "text": "in Paris in the 1920s with the"
+ },
+ {
+  "start": 489.52,
+  "duration": 3.8,
+  "text": "Midjourney model at the time, which is"
+ },
+ {
+  "start": 490.92,
+  "duration": 4.36,
+  "text": "about 100 iterations ago at this point."
+ },
+ {
+  "start": 493.32,
+  "duration": 4.12,
+  "text": "And yet, to some extent, there's always"
+ },
+ {
+  "start": 495.28,
+  "duration": 4.92,
+  "text": "been a little bit of a gap between how"
+ },
+ {
+  "start": 497.44,
+  "duration": 4.6,
+  "text": "cool AI image generation was and how"
+ },
+ {
+  "start": 500.2,
+  "duration": 3.72,
+  "text": "useful it was, at least for many people"
+ },
+ {
+  "start": 502.04,
+  "duration": 3.48,
+  "text": "in many use cases. Which is not at all"
+ },
+ {
+  "start": 503.92,
+  "duration": 3.44,
+  "text": "to say that AI image generation models"
+ },
+ {
+  "start": 505.52,
+  "duration": 3.32,
+  "text": "have just been novel rather than useful."
+ },
+ {
+  "start": 507.36,
+  "duration": 3.28,
+  "text": "I personally have, I don't know, a half"
+ },
+ {
+  "start": 508.84,
+  "duration": 3.8,
+  "text": "dozen use cases that I use them for"
+ },
+ {
+  "start": 510.64,
+  "duration": 3.48,
+  "text": "literally every single day. But if you"
+ },
+ {
+  "start": 512.64,
+  "duration": 3.32,
+  "text": "think back at the sequence of model"
+ },
+ {
+  "start": 514.12,
+  "duration": 3.96,
+  "text": "releases, the big moments have been"
+ },
+ {
+  "start": 515.96,
+  "duration": 4.28,
+  "text": "general consumer viral moments like Open"
+ },
+ {
+  "start": 518.08,
+  "duration": 3.72,
+  "text": "AI's Studio Ghibli moment last year."
+ },
+ {
+  "start": 520.24,
+  "duration": 3.32,
+  "text": "Now, when it comes to this new Open AI"
+ },
+ {
+  "start": 521.8,
+  "duration": 4.0,
+  "text": "model, what I want to argue with today's"
+ },
+ {
+  "start": 523.56,
+  "duration": 4.32,
+  "text": "show is not only that we are getting to"
+ },
+ {
+  "start": 525.8,
+  "duration": 4.96,
+  "text": "a capability set that unlocks more use"
+ },
+ {
+  "start": 527.88,
+  "duration": 5.0,
+  "text": "cases, but also that increasingly it is"
+ },
+ {
+  "start": 530.76,
+  "duration": 3.72,
+  "text": "clear that the power of the image"
+ },
+ {
+  "start": 532.88,
+  "duration": 3.32,
+  "text": "generation models is going to be in"
+ },
+ {
+  "start": 534.48,
+  "duration": 3.68,
+  "text": "their integration with other systems,"
+ },
+ {
+  "start": 536.2,
+  "duration": 4.08,
+  "text": "not just what they can do standalone."
+ },
+ {
+  "start": 538.16,
+  "duration": 4.24,
+  "text": "Now, when it comes to this new ChatGPT"
+ },
+ {
+  "start": 540.28,
+  "duration": 3.64,
+  "text": "image model, there's been speculation"
+ },
+ {
+  "start": 542.4,
+  "duration": 3.4,
+  "text": "for a couple of weeks now that this"
+ },
+ {
+  "start": 543.92,
+  "duration": 4.2,
+  "text": "model was live in the world being tested"
+ },
+ {
+  "start": 545.8,
+  "duration": 4.64,
+  "text": "on Arena. Many users pointed to very"
+ },
+ {
+  "start": 548.12,
+  "duration": 3.72,
+  "text": "impressive generations from LM Arena"
+ },
+ {
+  "start": 550.44,
+  "duration": 3.92,
+  "text": "that included things like handwritten"
+ },
+ {
+  "start": 551.84,
+  "duration": 4.56,
+  "text": "notes, layouts of YouTube page, and a"
+ },
+ {
+  "start": 554.36,
+  "duration": 3.72,
+  "text": "simple kind of janky iPhone-style image"
+ },
+ {
+  "start": 556.4,
+  "duration": 3.52,
+  "text": "of a retail store. What people were"
+ },
+ {
+  "start": 558.08,
+  "duration": 3.92,
+  "text": "noticing about these things is how"
+ },
+ {
+  "start": 559.92,
+  "duration": 4.4,
+  "text": "little they felt like AI images. They"
+ },
+ {
+  "start": 562.0,
+  "duration": 4.0,
+  "text": "just seemed like a random iPhone photo"
+ },
+ {
+  "start": 564.32,
+  "duration": 3.32,
+  "text": "or a screenshot. And people also"
+ },
+ {
+  "start": 566.0,
+  "duration": 3.28,
+  "text": "identified that they seemed to have good"
+ },
+ {
+  "start": 567.64,
+  "duration": 3.0,
+  "text": "world knowledge. They weren't just"
+ },
+ {
+  "start": 569.28,
+  "duration": 2.68,
+  "text": "making stuff up in their images, they"
+ },
+ {
+  "start": 570.64,
+  "duration": 3.32,
+  "text": "were actually bringing what the model"
+ },
+ {
+  "start": 571.96,
+  "duration": 3.28,
+  "text": "knew into their ability to create."
+ },
+ {
+  "start": 573.96,
+  "duration": 3.2,
+  "text": "Yesterday, as I mentioned at the end of"
+ },
+ {
+  "start": 575.24,
+  "duration": 3.4,
+  "text": "the show, Open AI teased that the new"
+ },
+ {
+  "start": 577.16,
+  "duration": 3.76,
+  "text": "model would be coming in the afternoon,"
+ },
+ {
+  "start": 578.64,
+  "duration": 4.56,
+  "text": "and indeed, on Tuesday around 3:00 p.m."
+ },
+ {
+  "start": 580.92,
+  "duration": 4.64,
+  "text": "Eastern, we got the new ChatGPT Images"
+ },
+ {
+  "start": 583.2,
+  "duration": 3.92,
+  "text": "2.0. From a sheer quality standpoint"
+ },
+ {
+  "start": 585.56,
+  "duration": 3.64,
+  "text": "alone, there is absolutely no denying"
+ },
+ {
+  "start": 587.12,
+  "duration": 4.24,
+  "text": "that the model is fairly stunning. And"
+ },
+ {
+  "start": 589.2,
+  "duration": 4.84,
+  "text": "that seems to largely be consensus."
+ },
+ {
+  "start": 591.36,
+  "duration": 4.96,
+  "text": "Arena announced that not only did GPT"
+ },
+ {
+  "start": 594.04,
+  "duration": 4.48,
+  "text": "Image 2 take the number one slot in"
+ },
+ {
+  "start": 596.32,
+  "duration": 5.12,
+  "text": "their Elo score human preference board."
+ },
+ {
+  "start": 598.52,
+  "duration": 4.68,
+  "text": "It absolutely dominated."
+ },
+ {
+  "start": 601.44,
+  "duration": 3.92,
+  "text": "The number two through 15 image"
+ },
+ {
+  "start": 603.2,
+  "duration": 4.44,
+  "text": "generators are all clustered basically"
+ },
+ {
+  "start": 605.36,
+  "duration": 4.96,
+  "text": "within 100 130 points of each other."
+ },
+ {
+  "start": 607.64,
+  "duration": 4.36,
+  "text": "Number 15 flux to dev had a score of"
+ },
+ {
+  "start": 610.32,
+  "duration": 3.24,
+  "text": "1,149,"
+ },
+ {
+  "start": 612.0,
+  "duration": 4.76,
+  "text": "whereas the previous leader nano banana"
+ },
+ {
+  "start": 613.56,
+  "duration": 5.84,
+  "text": "2 had a score of 1,271."
+ },
+ {
+  "start": 616.76,
+  "duration": 4.76,
+  "text": "GPT image 2 came in over the top with a"
+ },
+ {
+  "start": 619.4,
+  "duration": 3.4,
+  "text": "1,512."
+ },
+ {
+  "start": 621.52,
+  "duration": 3.96,
+  "text": "Arena points out that that is a"
+ },
+ {
+  "start": 622.8,
+  "duration": 4.56,
+  "text": "record-breaking 242 point lead in the"
+ },
+ {
+  "start": 625.48,
+  "duration": 3.6,
+  "text": "text to image category and the largest"
+ },
+ {
+  "start": 627.36,
+  "duration": 3.52,
+  "text": "gap they've ever seen. In their"
+ },
+ {
+  "start": 629.08,
+  "duration": 3.44,
+  "text": "announcement post open AI gets into a"
+ },
+ {
+  "start": 630.88,
+  "duration": 4.04,
+  "text": "lot of what makes this model different"
+ },
+ {
+  "start": 632.52,
+  "duration": 4.48,
+  "text": "and what it can do. They write or more"
+ },
+ {
+  "start": 634.92,
+  "duration": 3.92,
+  "text": "accurately generate in an image an"
+ },
+ {
+  "start": 637.0,
+  "duration": 3.96,
+  "text": "announcement post that argues that quote"
+ },
+ {
+  "start": 638.84,
+  "duration": 3.8,
+  "text": "this model is a step change in detailed"
+ },
+ {
+  "start": 640.96,
+  "duration": 3.6,
+  "text": "instruction following, placing and"
+ },
+ {
+  "start": 642.64,
+  "duration": 3.92,
+  "text": "relating objects accurately, and"
+ },
+ {
+  "start": 644.56,
+  "duration": 4.48,
+  "text": "rendering dense text with the ability to"
+ },
+ {
+  "start": 646.56,
+  "duration": 3.88,
+  "text": "generate across aspect ratios. They say"
+ },
+ {
+  "start": 649.04,
+  "duration": 3.16,
+  "text": "that it has better composition and"
+ },
+ {
+  "start": 650.44,
+  "duration": 3.56,
+  "text": "visual taste meaning it feels less AI"
+ },
+ {
+  "start": 652.2,
+  "duration": 3.96,
+  "text": "generated. It has as people were"
+ },
+ {
+  "start": 654.0,
+  "duration": 4.16,
+  "text": "speculating more world knowledge and the"
+ },
+ {
+  "start": 656.16,
+  "duration": 3.8,
+  "text": "ability to actually reason and think."
+ },
+ {
+  "start": 658.16,
+  "duration": 4.2,
+  "text": "They write when a thinking model is"
+ },
+ {
+  "start": 659.96,
+  "duration": 3.44,
+  "text": "selected in chat GPT images 2.0 can"
+ },
+ {
+  "start": 662.36,
+  "duration": 2.88,
+  "text": "search the web for real-time"
+ },
+ {
+  "start": 663.4,
+  "duration": 3.36,
+  "text": "information, create multiple distinct"
+ },
+ {
+  "start": 665.24,
+  "duration": 3.52,
+  "text": "images from one prompt, and double-check"
+ },
+ {
+  "start": 666.76,
+  "duration": 3.92,
+  "text": "its own outputs. Now this was of course"
+ },
+ {
+  "start": 668.76,
+  "duration": 3.48,
+  "text": "the big unlock from nano banana 2, but"
+ },
+ {
+  "start": 670.68,
+  "duration": 3.6,
+  "text": "it seems like as we'll see with some of"
+ },
+ {
+  "start": 672.24,
+  "duration": 3.68,
+  "text": "the early examples that this model takes"
+ },
+ {
+  "start": 674.28,
+  "duration": 3.36,
+  "text": "it to the next level. In terms of the"
+ },
+ {
+  "start": 675.92,
+  "duration": 3.68,
+  "text": "capabilities they highlight right at the"
+ },
+ {
+  "start": 677.64,
+  "duration": 3.72,
+  "text": "top is greater precision and control."
+ },
+ {
+  "start": 679.6,
+  "duration": 3.92,
+  "text": "They point out that it can do small text"
+ },
+ {
+  "start": 681.36,
+  "duration": 4.2,
+  "text": "iconography, tiny UI elements, dense"
+ },
+ {
+  "start": 683.52,
+  "duration": 4.36,
+  "text": "compositions, and it can do so at"
+ },
+ {
+  "start": 685.56,
+  "duration": 4.32,
+  "text": "significant resolution up to 2K. The"
+ },
+ {
+  "start": 687.88,
+  "duration": 3.12,
+  "text": "practical effect they say is instead of"
+ },
+ {
+  "start": 689.88,
+  "duration": 2.6,
+  "text": "getting something vaguely in the"
+ },
+ {
+  "start": 691.0,
+  "duration": 3.4,
+  "text": "neighborhood of what you meant, you get"
+ },
+ {
+  "start": 692.48,
+  "duration": 3.84,
+  "text": "something you can actually use. One"
+ },
+ {
+  "start": 694.4,
+  "duration": 4.6,
+  "text": "example they gave of this is this pile"
+ },
+ {
+  "start": 696.32,
+  "duration": 4.76,
+  "text": "of rice with a tiny kernel in the middle"
+ },
+ {
+  "start": 699.0,
+  "duration": 3.52,
+  "text": "that has a little bitty GPT image 2"
+ },
+ {
+  "start": 701.08,
+  "duration": 3.52,
+  "text": "written on it. This model is"
+ },
+ {
+  "start": 702.52,
+  "duration": 3.96,
+  "text": "multilingual, which they say not only"
+ },
+ {
+  "start": 704.6,
+  "duration": 4.0,
+  "text": "helps with translation but can also"
+ },
+ {
+  "start": 706.48,
+  "duration": 3.359,
+  "text": "quote generate visually coherent outputs"
+ },
+ {
+  "start": 708.6,
+  "duration": 3.36,
+  "text": "where language is a part of the design"
+ },
+ {
+  "start": 709.839,
+  "duration": 3.961,
+  "text": "itself from posters and explainers to"
+ },
+ {
+  "start": 711.96,
+  "duration": 3.4,
+  "text": "diagrams and comics."
+ },
+ {
+  "start": 713.8,
+  "duration": 2.84,
+  "text": "Some of the other things they point out"
+ },
+ {
+  "start": 715.36,
+  "duration": 3.04,
+  "text": "are much enhanced stylistic"
+ },
+ {
+  "start": 716.64,
+  "duration": 3.32,
+  "text": "sophistication and better realism,"
+ },
+ {
+  "start": 718.4,
+  "duration": 3.439,
+  "text": "including they point out adding tiny"
+ },
+ {
+  "start": 719.96,
+  "duration": 3.12,
+  "text": "flaws that add realism, and they also"
+ },
+ {
+  "start": 721.839,
+  "duration": 2.801,
+  "text": "discuss this idea of real-world"
+ },
+ {
+  "start": 723.08,
+  "duration": 3.28,
+  "text": "intelligence. Pointing out that it"
+ },
+ {
+  "start": 724.64,
+  "duration": 3.48,
+  "text": "doesn't just mean it's cool, it unlocks"
+ },
+ {
+  "start": 726.36,
+  "duration": 3.52,
+  "text": "a set of use cases like explainers,"
+ },
+ {
+  "start": 728.12,
+  "duration": 3.52,
+  "text": "maps, educational graphics, and visual"
+ },
+ {
+  "start": 729.88,
+  "duration": 3.44,
+  "text": "summaries where as they put it"
+ },
+ {
+  "start": 731.64,
+  "duration": 3.72,
+  "text": "correctness and clarity matter just as"
+ },
+ {
+  "start": 733.32,
+  "duration": 4.0,
+  "text": "much as aesthetics. Now one last thing"
+ },
+ {
+  "start": 735.36,
+  "duration": 3.2,
+  "text": "they note on the utility side of things"
+ },
+ {
+  "start": 737.32,
+  "duration": 3.2,
+  "text": "is that they can now generate in more"
+ },
+ {
+  "start": 738.56,
+  "duration": 3.48,
+  "text": "flexible sets of aspect ratios, which"
+ },
+ {
+  "start": 740.52,
+  "duration": 2.76,
+  "text": "goes to just give people more fine-grain"
+ },
+ {
+  "start": 742.04,
+  "duration": 3.28,
+  "text": "control."
+ },
+ {
+  "start": 743.28,
+  "duration": 3.48,
+  "text": "Now in terms of community response, the"
+ },
+ {
+  "start": 745.32,
+  "duration": 3.24,
+  "text": "first thing that I noticed is that a lot"
+ },
+ {
+  "start": 746.76,
+  "duration": 3.48,
+  "text": "of people, including by the way Sam"
+ },
+ {
+  "start": 748.56,
+  "duration": 3.84,
+  "text": "Altman himself in a recent interview,"
+ },
+ {
+  "start": 750.24,
+  "duration": 3.76,
+  "text": "came into this new model effectively"
+ },
+ {
+  "start": 752.4,
+  "duration": 3.92,
+  "text": "feeling like for all intents and"
+ },
+ {
+  "start": 754.0,
+  "duration": 4.12,
+  "text": "purposes image generation was solved or"
+ },
+ {
+  "start": 756.32,
+  "duration": 3.44,
+  "text": "at least that if it could get better, it"
+ },
+ {
+  "start": 758.12,
+  "duration": 3.52,
+  "text": "was just an incremental better that"
+ },
+ {
+  "start": 759.76,
+  "duration": 3.48,
+  "text": "didn't really matter practically. For"
+ },
+ {
+  "start": 761.64,
+  "duration": 2.88,
+  "text": "many that perspective is now been blown"
+ },
+ {
+  "start": 763.24,
+  "duration": 3.24,
+  "text": "out of the water."
+ },
+ {
+  "start": 764.52,
+  "duration": 3.28,
+  "text": "Ethan Mollick writes, \"I didn't think"
+ },
+ {
+  "start": 766.48,
+  "duration": 3.08,
+  "text": "that better image generators would be a"
+ },
+ {
+  "start": 767.8,
+  "duration": 3.56,
+  "text": "big deal, but it turns out that there is"
+ },
+ {
+  "start": 769.56,
+  "duration": 3.4,
+  "text": "a quality threshold I didn't expect"
+ },
+ {
+  "start": 771.36,
+  "duration": 4.2,
+  "text": "where you can now get text slides in"
+ },
+ {
+  "start": 772.96,
+  "duration": 4.32,
+  "text": "academic papers.\" And as people dug in"
+ },
+ {
+  "start": 775.56,
+  "duration": 3.48,
+  "text": "there were a few themes that I saw over"
+ },
+ {
+  "start": 777.28,
+  "duration": 3.96,
+  "text": "and over and over again. The first was"
+ },
+ {
+  "start": 779.04,
+  "duration": 4.0,
+  "text": "how much less AI-ness a lot of these"
+ },
+ {
+  "start": 781.24,
+  "duration": 3.32,
+  "text": "photos had, that you really could get"
+ },
+ {
+  "start": 783.04,
+  "duration": 3.28,
+  "text": "not just pretty images but very"
+ },
+ {
+  "start": 784.56,
+  "duration": 3.08,
+  "text": "realistic-looking images including"
+ },
+ {
+  "start": 786.32,
+  "duration": 3.36,
+  "text": "things like not so great regular"
+ },
+ {
+  "start": 787.64,
+  "duration": 3.92,
+  "text": "photography. Pietro Schirano shared the"
+ },
+ {
+  "start": 789.68,
+  "duration": 3.68,
+  "text": "output of a photo of a computer screen"
+ },
+ {
+  "start": 791.56,
+  "duration": 3.56,
+  "text": "displaying a Spotify playlist at night"
+ },
+ {
+  "start": 793.36,
+  "duration": 3.24,
+  "text": "adding \"It's an insane model and a true"
+ },
+ {
+  "start": 795.12,
+  "duration": 3.719,
+  "text": "imagination engine with an incredible"
+ },
+ {
+  "start": 796.6,
+  "duration": 4.04,
+  "text": "level of realism and small details.\" Now"
+ },
+ {
+  "start": 798.839,
+  "duration": 2.601,
+  "text": "while the realism is impressive, a lot"
+ },
+ {
+  "start": 800.64,
+  "duration": 2.92,
+  "text": "of people jump straight to the"
+ },
+ {
+  "start": 801.44,
+  "duration": 4.56,
+  "text": "implications of the massively improved"
+ },
+ {
+  "start": 803.56,
+  "duration": 4.76,
+  "text": "text and detail handling. It unlocks"
+ },
+ {
+  "start": 806.0,
+  "duration": 3.88,
+  "text": "things like entire comic panels, and by"
+ },
+ {
+  "start": 808.32,
+  "duration": 3.84,
+  "text": "the way the ability to generate multiple"
+ },
+ {
+  "start": 809.88,
+  "duration": 4.04,
+  "text": "images and to keep character consistency"
+ },
+ {
+  "start": 812.16,
+  "duration": 4.08,
+  "text": "makes larger editorial generation along"
+ },
+ {
+  "start": 813.92,
+  "duration": 3.84,
+  "text": "these lines much more possible as well."
+ },
+ {
+  "start": 816.24,
+  "duration": 3.16,
+  "text": "The detail and text was showed off in"
+ },
+ {
+  "start": 817.76,
+  "duration": 3.56,
+  "text": "all sorts of different ways. Imad"
+ },
+ {
+  "start": 819.4,
+  "duration": 4.2,
+  "text": "Mostaque created the periodic table of"
+ },
+ {
+  "start": 821.32,
+  "duration": 4.16,
+  "text": "the original 151 Pokémon. Chris"
+ },
+ {
+  "start": 823.6,
+  "duration": 3.84,
+  "text": "Cashinova did a Where's Waldo style"
+ },
+ {
+  "start": 825.48,
+  "duration": 3.92,
+  "text": "illustration placing herself in a"
+ },
+ {
+  "start": 827.44,
+  "duration": 4.12,
+  "text": "densely crowded New York City scene,"
+ },
+ {
+  "start": 829.4,
+  "duration": 4.6,
+  "text": "while others like Nick Dunn's took messy"
+ },
+ {
+  "start": 831.56,
+  "duration": 3.88,
+  "text": "handwritten photos asking chat GPT to"
+ },
+ {
+  "start": 834.0,
+  "duration": 3.28,
+  "text": "quote get rid of the creases and make it"
+ },
+ {
+  "start": 835.44,
+  "duration": 4.04,
+  "text": "a scan with both of the generated"
+ },
+ {
+  "start": 837.28,
+  "duration": 4.24,
+  "text": "outputs not only perfectly capturing all"
+ },
+ {
+  "start": 839.48,
+  "duration": 3.72,
+  "text": "the information on the pages but even"
+ },
+ {
+  "start": 841.52,
+  "duration": 3.04,
+  "text": "preserving Nick's handwriting. Other"
+ },
+ {
+  "start": 843.2,
+  "duration": 3.52,
+  "text": "people are experimenting with all sorts"
+ },
+ {
+  "start": 844.56,
+  "duration": 3.92,
+  "text": "of other use cases taking an image of a"
+ },
+ {
+  "start": 846.72,
+  "duration": 3.84,
+  "text": "house and turning it into a generated"
+ },
+ {
+  "start": 848.48,
+  "duration": 4.72,
+  "text": "floor plan, improving the visual quality"
+ },
+ {
+  "start": 850.56,
+  "duration": 5.279,
+  "text": "of graphs, making technical diagrams,"
+ },
+ {
+  "start": 853.2,
+  "duration": 4.24,
+  "text": "brand kits, combined styles, and more."
+ },
+ {
+  "start": 855.839,
+  "duration": 3.401,
+  "text": "One of the craziest tests showing off"
+ },
+ {
+  "start": 857.44,
+  "duration": 3.08,
+  "text": "image 2's world knowledge came from"
+ },
+ {
+  "start": 859.24,
+  "duration": 3.52,
+  "text": "entrepreneur and content creator Riley"
+ },
+ {
+  "start": 860.52,
+  "duration": 4.04,
+  "text": "Brown. He asked the model to create an"
+ },
+ {
+  "start": 862.76,
+  "duration": 3.64,
+  "text": "image of a specific book including a"
+ },
+ {
+  "start": 864.56,
+  "duration": 3.76,
+  "text": "barcode which would actually take you to"
+ },
+ {
+  "start": 866.4,
+  "duration": 4.08,
+  "text": "that publication, and it actually"
+ },
+ {
+  "start": 868.32,
+  "duration": 4.68,
+  "text": "worked. He used a barcode scanner on his"
+ },
+ {
+  "start": 870.48,
+  "duration": 4.2,
+  "text": "phone to test the image, and sure enough"
+ },
+ {
+  "start": 873.0,
+  "duration": 3.6,
+  "text": "it actually took him to that specific"
+ },
+ {
+  "start": 874.68,
+  "duration": 4.159,
+  "text": "publication. Testing to make sure it"
+ },
+ {
+  "start": 876.6,
+  "duration": 4.08,
+  "text": "wasn't the ISBN number, he even covered"
+ },
+ {
+  "start": 878.839,
+  "duration": 3.801,
+  "text": "that part up just leaving the barcode,"
+ },
+ {
+  "start": 880.68,
+  "duration": 4.52,
+  "text": "and it still worked. Still maybe the"
+ },
+ {
+  "start": 882.64,
+  "duration": 5.16,
+  "text": "most common thing that I saw explored"
+ },
+ {
+  "start": 885.2,
+  "duration": 4.2,
+  "text": "was UI and software designs. And this"
+ },
+ {
+  "start": 887.8,
+  "duration": 3.4,
+  "text": "gets into what I think is actually"
+ },
+ {
+  "start": 889.4,
+  "duration": 3.48,
+  "text": "really important about not just this"
+ },
+ {
+  "start": 891.2,
+  "duration": 4.12,
+  "text": "model but the context into which this"
+ },
+ {
+  "start": 892.88,
+  "duration": 4.24,
+  "text": "model is coming. The short of it is I"
+ },
+ {
+  "start": 895.32,
+  "duration": 3.84,
+  "text": "think this is the first image model"
+ },
+ {
+  "start": 897.12,
+  "duration": 4.44,
+  "text": "whose biggest impact is not going to be"
+ },
+ {
+  "start": 899.16,
+  "duration": 4.36,
+  "text": "standalone viral moments like Ghibli,"
+ },
+ {
+  "start": 901.56,
+  "duration": 3.88,
+  "text": "but has the potential to actually be"
+ },
+ {
+  "start": 903.52,
+  "duration": 3.68,
+  "text": "integrated quite quickly into the"
+ },
+ {
+  "start": 905.44,
+  "duration": 4.2,
+  "text": "agentic stack."
+ },
+ {
+  "start": 907.2,
+  "duration": 4.24,
+  "text": "Prinz on X writes, \"Images 2.0 is the"
+ },
+ {
+  "start": 909.64,
+  "duration": 4.0,
+  "text": "first model I have ever tried that feels"
+ },
+ {
+  "start": 911.44,
+  "duration": 3.519,
+  "text": "ready for real enterprise workflows."
+ },
+ {
+  "start": 913.64,
+  "duration": 2.64,
+  "text": "It's a reasoning model which means it"
+ },
+ {
+  "start": 914.959,
+  "duration": 2.441,
+  "text": "will search the web, use tools, and"
+ },
+ {
+  "start": 916.28,
+  "duration": 2.799,
+  "text": "think about your request before"
+ },
+ {
+  "start": 917.4,
+  "duration": 3.32,
+  "text": "generating the image. It is able to"
+ },
+ {
+  "start": 919.079,
+  "duration": 3.401,
+  "text": "generate huge volumes of text without a"
+ },
+ {
+  "start": 920.72,
+  "duration": 2.96,
+  "text": "single error. It can keep the image"
+ },
+ {
+  "start": 922.48,
+  "duration": 3.04,
+  "text": "sharp and consistent in between"
+ },
+ {
+  "start": 923.68,
+  "duration": 3.44,
+  "text": "generations giving you the ability to"
+ },
+ {
+  "start": 925.52,
+  "duration": 3.68,
+  "text": "make additional edits to any image of"
+ },
+ {
+  "start": 927.12,
+  "duration": 3.28,
+  "text": "your liking.\" The example they gave was"
+ },
+ {
+  "start": 929.2,
+  "duration": 2.92,
+  "text": "asking the model to generate an"
+ },
+ {
+  "start": 930.4,
+  "duration": 3.76,
+  "text": "organizational chart of a public company"
+ },
+ {
+  "start": 932.12,
+  "duration": 3.64,
+  "text": "based on a template. And yet if Prinz"
+ },
+ {
+  "start": 934.16,
+  "duration": 3.48,
+  "text": "was thinking about general knowledge"
+ },
+ {
+  "start": 935.76,
+  "duration": 3.96,
+  "text": "worker and enterprise usage, where other"
+ },
+ {
+  "start": 937.64,
+  "duration": 4.12,
+  "text": "people went was much more focused on one"
+ },
+ {
+  "start": 939.72,
+  "duration": 4.04,
+  "text": "specific use case. Mark Kretschmann"
+ },
+ {
+  "start": 941.76,
+  "duration": 4.16,
+  "text": "writes \"Some of you were disappointed"
+ },
+ {
+  "start": 943.76,
+  "duration": 4.0,
+  "text": "that we only {quote} get an image model"
+ },
+ {
+  "start": 945.92,
+  "duration": 4.08,
+  "text": "from open AI today, but you need to see"
+ },
+ {
+  "start": 947.76,
+  "duration": 4.4,
+  "text": "the big picture. GPT image 2 can"
+ },
+ {
+  "start": 950.0,
+  "duration": 3.92,
+  "text": "generate mockups of websites which Codex"
+ },
+ {
+  "start": 952.16,
+  "duration": 4.2,
+  "text": "can then turn straight into working"
+ },
+ {
+  "start": 953.92,
+  "duration": 5.039,
+  "text": "code.\" Troy Arackys goes farther with"
+ },
+ {
+  "start": 956.36,
+  "duration": 4.479,
+  "text": "this saying \"The Codex plus GPT image 2"
+ },
+ {
+  "start": 958.959,
+  "duration": 3.561,
+  "text": "pipeline is completely broken. This is"
+ },
+ {
+  "start": 960.839,
+  "duration": 3.761,
+  "text": "the single most disruptive AI workflow"
+ },
+ {
+  "start": 962.52,
+  "duration": 4.2,
+  "text": "I've seen this year. Stop thinking of AI"
+ },
+ {
+  "start": 964.6,
+  "duration": 3.32,
+  "text": "as just a text generator. The real magic"
+ },
+ {
+  "start": 966.72,
+  "duration": 2.52,
+  "text": "happens when you chain the models"
+ },
+ {
+  "start": 967.92,
+  "duration": 4.039,
+  "text": "together.\""
+ },
+ {
+  "start": 969.24,
+  "duration": 4.56,
+  "text": "Now image 2 is coming into a moment when"
+ },
+ {
+  "start": 971.959,
+  "duration": 4.561,
+  "text": "open AI has just also announced that"
+ },
+ {
+  "start": 973.8,
+  "duration": 4.44,
+  "text": "there are now 4 million Codex users up"
+ },
+ {
+  "start": 976.52,
+  "duration": 3.96,
+  "text": "from about 200,000 at the beginning of"
+ },
+ {
+  "start": 978.24,
+  "duration": 4.08,
+  "text": "the year. And already less than 24 hours"
+ },
+ {
+  "start": 980.48,
+  "duration": 3.72,
+  "text": "into this we are seeing people sharing"
+ },
+ {
+  "start": 982.32,
+  "duration": 4.84,
+  "text": "all of their production pipelines from"
+ },
+ {
+  "start": 984.2,
+  "duration": 6.16,
+  "text": "image 2 UI to Codex. Peter Gostev from"
+ },
+ {
+  "start": 987.16,
+  "duration": 5.72,
+  "text": "Arena writes \"GPT image 2 plus Codex or"
+ },
+ {
+  "start": 990.36,
+  "duration": 5.04,
+  "text": "how to make Codex not suck at UI. Step"
+ },
+ {
+  "start": 992.88,
+  "duration": 4.64,
+  "text": "one generate a UI image. Step two get"
+ },
+ {
+  "start": 995.4,
+  "duration": 4.0,
+  "text": "Codex to implement the UI based on it."
+ },
+ {
+  "start": 997.52,
+  "duration": 2.96,
+  "text": "Step three get Codex to iterate until it"
+ },
+ {
+  "start": 999.4,
+  "duration": 4.0,
+  "text": "aligns with the image as much as"
+ },
+ {
+  "start": 1000.48,
+  "duration": 4.32,
+  "text": "possible. Codex is bad at initial UI but"
+ },
+ {
+  "start": 1003.4,
+  "duration": 3.439,
+  "text": "very good at implementing a reference"
+ },
+ {
+  "start": 1004.8,
+  "duration": 3.2,
+  "text": "design, so this is your way out. Iterate"
+ },
+ {
+  "start": 1006.839,
+  "duration": 3.081,
+  "text": "with the image model first and then"
+ },
+ {
+  "start": 1008.0,
+  "duration": 3.64,
+  "text": "Codex will do a good job.\""
+ },
+ {
+  "start": 1009.92,
+  "duration": 4.64,
+  "text": "In many if not most people's estimation"
+ },
+ {
+  "start": 1011.64,
+  "duration": 4.4,
+  "text": "Codex's biggest limitation has been UI."
+ },
+ {
+  "start": 1014.56,
+  "duration": 3.24,
+  "text": "It's certainly one of the reasons for me"
+ },
+ {
+  "start": 1016.04,
+  "duration": 3.72,
+  "text": "that Claude code has remained my primary"
+ },
+ {
+  "start": 1017.8,
+  "duration": 3.68,
+  "text": "driver. And although they are obviously"
+ },
+ {
+  "start": 1019.76,
+  "duration": 3.72,
+  "text": "different products, I don't think it's"
+ },
+ {
+  "start": 1021.48,
+  "duration": 4.76,
+  "text": "unreasonable to compare the combination"
+ },
+ {
+  "start": 1023.48,
+  "duration": 4.08,
+  "text": "of the new Codex app plus GPT image 2"
+ },
+ {
+  "start": 1026.24,
+  "duration": 3.36,
+  "text": "with the new Claude design feature"
+ },
+ {
+  "start": 1027.56,
+  "duration": 4.119,
+  "text": "released by Anthropic. As we discussed"
+ },
+ {
+  "start": 1029.6,
+  "duration": 3.479,
+  "text": "in that recent show, Anthropic doesn't"
+ },
+ {
+  "start": 1031.679,
+  "duration": 2.76,
+  "text": "have a native image generator, so the"
+ },
+ {
+  "start": 1033.079,
+  "duration": 3.161,
+  "text": "way that they're creating those designs"
+ },
+ {
+  "start": 1034.439,
+  "duration": 3.52,
+  "text": "is a little bit different, and it seems"
+ },
+ {
+  "start": 1036.24,
+  "duration": 2.959,
+  "text": "pretty likely to me that they're going"
+ },
+ {
+  "start": 1037.959,
+  "duration": 3.441,
+  "text": "to be certain types of UI"
+ },
+ {
+  "start": 1039.199,
+  "duration": 4.041,
+  "text": "implementations that simply will not be"
+ },
+ {
+  "start": 1041.4,
+  "duration": 3.439,
+  "text": "possible with Claude design and Claude"
+ },
+ {
+  "start": 1043.24,
+  "duration": 4.0,
+  "text": "code, but that will be with the"
+ },
+ {
+  "start": 1044.839,
+  "duration": 3.921,
+  "text": "integration of GPT image 2. What's more,"
+ },
+ {
+  "start": 1047.24,
+  "duration": 3.16,
+  "text": "people are really excited for when we"
+ },
+ {
+  "start": 1048.76,
+  "duration": 3.64,
+  "text": "get the next base model with this as"
+ },
+ {
+  "start": 1050.4,
+  "duration": 3.84,
+  "text": "well. Simon Smith writes \"The image"
+ },
+ {
+  "start": 1052.4,
+  "duration": 3.96,
+  "text": "generation to code workflow in Codex is"
+ },
+ {
+  "start": 1054.24,
+  "duration": 4.64,
+  "text": "going to be spectacular when we get GPT"
+ },
+ {
+  "start": 1056.36,
+  "duration": 4.76,
+  "text": "5.5. I tried it with 5.4 and it's"
+ },
+ {
+  "start": 1058.88,
+  "duration": 3.96,
+  "text": "already pretty good. Open AI is bringing"
+ },
+ {
+  "start": 1061.12,
+  "duration": 3.36,
+  "text": "the pieces together.\""
+ },
+ {
+  "start": 1062.84,
+  "duration": 3.44,
+  "text": "And of course even if open AI weren't"
+ },
+ {
+  "start": 1064.48,
+  "duration": 3.199,
+  "text": "bringing the pieces together, there are"
+ },
+ {
+  "start": 1066.28,
+  "duration": 3.12,
+  "text": "plenty of entrepreneurial people out"
+ },
+ {
+  "start": 1067.679,
+  "duration": 3.321,
+  "text": "there who will do that for them."
+ },
+ {
+  "start": 1069.4,
+  "duration": 3.72,
+  "text": "Something big is happening author Matt"
+ },
+ {
+  "start": 1071.0,
+  "duration": 3.64,
+  "text": "Schumer dumped image 2 into the general"
+ },
+ {
+  "start": 1073.12,
+  "duration": 3.24,
+  "text": "agent that he built leading to it"
+ },
+ {
+  "start": 1074.64,
+  "duration": 3.0,
+  "text": "generating slide decks and apps that in"
+ },
+ {
+  "start": 1076.36,
+  "duration": 2.64,
+  "text": "his words look like they were designed"
+ },
+ {
+  "start": 1077.64,
+  "duration": 3.72,
+  "text": "by pros."
+ },
+ {
+  "start": 1079.0,
+  "duration": 4.32,
+  "text": "Leon Lin already posted a new skill that"
+ },
+ {
+  "start": 1081.36,
+  "duration": 3.8,
+  "text": "takes advantage of GPT images 2 to"
+ },
+ {
+  "start": 1083.32,
+  "duration": 4.48,
+  "text": "GitHub to make the integration between"
+ },
+ {
+  "start": 1085.16,
+  "duration": 4.56,
+  "text": "images 2 and Codex even smoother."
+ },
+ {
+  "start": 1087.8,
+  "duration": 3.6,
+  "text": "Now I will say that if the vast majority"
+ },
+ {
+  "start": 1089.72,
+  "duration": 3.72,
+  "text": "of people's experiences so far have been"
+ },
+ {
+  "start": 1091.4,
+  "duration": 4.64,
+  "text": "positive, that wasn't universally the"
+ },
+ {
+  "start": 1093.44,
+  "duration": 5.12,
+  "text": "case. Boyan Tongues writes \"I tried"
+ },
+ {
+  "start": 1096.04,
+  "duration": 4.0,
+  "text": "making an infographic using GPT image 2."
+ },
+ {
+  "start": 1098.56,
+  "duration": 3.64,
+  "text": "Lots and lots of visually unacceptable"
+ },
+ {
+  "start": 1100.04,
+  "duration": 3.96,
+  "text": "artifacts.\" Someone did suggest that his"
+ },
+ {
+  "start": 1102.2,
+  "duration": 2.92,
+  "text": "settings might have been set on low, but"
+ },
+ {
+  "start": 1104.0,
+  "duration": 2.72,
+  "text": "obviously that's still going to be an"
+ },
+ {
+  "start": 1105.12,
+  "duration": 3.6,
+  "text": "issue in terms of the actual utility of"
+ },
+ {
+  "start": 1106.72,
+  "duration": 3.92,
+  "text": "the thing. Speaking of which, journalist"
+ },
+ {
+  "start": 1108.72,
+  "duration": 3.84,
+  "text": "Sharon Goldman tested it by asking the"
+ },
+ {
+  "start": 1110.64,
+  "duration": 3.8,
+  "text": "model to create an anatomically correct"
+ },
+ {
+  "start": 1112.56,
+  "duration": 3.28,
+  "text": "labeled image of the human thorax to be"
+ },
+ {
+  "start": 1114.44,
+  "duration": 3.479,
+  "text": "reviewed by her sister who is a"
+ },
+ {
+  "start": 1115.84,
+  "duration": 3.92,
+  "text": "professor of anatomy at a med school. It"
+ },
+ {
+  "start": 1117.919,
+  "duration": 3.721,
+  "text": "looked great, but her sister pointed out"
+ },
+ {
+  "start": 1119.76,
+  "duration": 3.8,
+  "text": "that there was an extra set of veins,"
+ },
+ {
+  "start": 1121.64,
+  "duration": 2.96,
+  "text": "labels pointing to the wrong parts, and"
+ },
+ {
+  "start": 1123.56,
+  "duration": 2.8,
+  "text": "some issues with where things were"
+ },
+ {
+  "start": 1124.6,
+  "duration": 3.6,
+  "text": "placed. And while obviously this is"
+ },
+ {
+  "start": 1126.36,
+  "duration": 4.559,
+  "text": "still a major improvement from what we"
+ },
+ {
+  "start": 1128.2,
+  "duration": 4.24,
+  "text": "had before, there are use cases like"
+ },
+ {
+  "start": 1130.919,
+  "duration": 4.841,
+  "text": "this one where the tolerance for"
+ },
+ {
+  "start": 1132.44,
+  "duration": 4.76,
+  "text": "mistakes is not 5% but zero."
+ },
+ {
+  "start": 1135.76,
+  "duration": 4.12,
+  "text": "One of the things that I think will be"
+ },
+ {
+  "start": 1137.2,
+  "duration": 5.4,
+  "text": "really interesting to see is how many of"
+ },
+ {
+  "start": 1139.88,
+  "duration": 4.68,
+  "text": "the new use cases that get unlocked by"
+ },
+ {
+  "start": 1142.6,
+  "duration": 4.44,
+  "text": "this new model actually get deployed in"
+ },
+ {
+  "start": 1144.56,
+  "duration": 4.48,
+  "text": "practice. For example, one of the things"
+ },
+ {
+  "start": 1147.04,
+  "duration": 4.92,
+  "text": "that it can do now is much better more"
+ },
+ {
+  "start": 1149.04,
+  "duration": 5.04,
+  "text": "richer editorial layouts. And yet is"
+ },
+ {
+  "start": 1151.96,
+  "duration": 4.16,
+  "text": "there a group of people who actually"
+ },
+ {
+  "start": 1154.08,
+  "duration": 3.56,
+  "text": "need to create editorial layouts who"
+ },
+ {
+  "start": 1156.12,
+  "duration": 2.84,
+  "text": "will be willing to trade the controls"
+ },
+ {
+  "start": 1157.64,
+  "duration": 3.36,
+  "text": "that they lose in terms of their"
+ },
+ {
+  "start": 1158.96,
+  "duration": 3.32,
+  "text": "existing processes for the speed or"
+ },
+ {
+  "start": 1161.0,
+  "duration": 3.2,
+  "text": "quality that this new approach"
+ },
+ {
+  "start": 1162.28,
+  "duration": 3.879,
+  "text": "represents? I don't think the answer is"
+ },
+ {
+  "start": 1164.2,
+  "duration": 3.64,
+  "text": "going to be clear-cut there."
+ },
+ {
+  "start": 1166.159,
+  "duration": 3.801,
+  "text": "Another example is precision marketing"
+ },
+ {
+  "start": 1167.84,
+  "duration": 3.92,
+  "text": "assets. Image 2 we can already see does"
+ },
+ {
+  "start": 1169.96,
+  "duration": 4.28,
+  "text": "an awesome job with things like visual"
+ },
+ {
+  "start": 1171.76,
+  "duration": 4.68,
+  "text": "Instagram ads, but will it be people who"
+ },
+ {
+  "start": 1174.24,
+  "duration": 4.56,
+  "text": "are creating existing Instagram ads"
+ },
+ {
+  "start": 1176.44,
+  "duration": 4.16,
+  "text": "using their own dialed-in workflows with"
+ },
+ {
+  "start": 1178.8,
+  "duration": 4.0,
+  "text": "still even more fine-grain specific"
+ },
+ {
+  "start": 1180.6,
+  "duration": 4.28,
+  "text": "controls, or will the unlock be more"
+ },
+ {
+  "start": 1182.8,
+  "duration": 3.76,
+  "text": "about the democratization of the ability"
+ },
+ {
+  "start": 1184.88,
+  "duration": 4.76,
+  "text": "to create that type of image or asset"
+ },
+ {
+  "start": 1186.56,
+  "duration": 5.72,
+  "text": "from two other types of people?"
+ },
+ {
+  "start": 1189.64,
+  "duration": 4.28,
+  "text": "I think overall we're still figuring out"
+ },
+ {
+  "start": 1192.28,
+  "duration": 3.96,
+  "text": "what it really means and where the value"
+ },
+ {
+  "start": 1193.92,
+  "duration": 3.96,
+  "text": "lies in having reasoning over images. I"
+ },
+ {
+  "start": 1196.24,
+  "duration": 3.92,
+  "text": "think we're still figuring out where the"
+ },
+ {
+  "start": 1197.88,
+  "duration": 4.04,
+  "text": "line of controllability needs to be to"
+ },
+ {
+  "start": 1200.16,
+  "duration": 4.2,
+  "text": "make these skills useful, not just"
+ },
+ {
+  "start": 1201.92,
+  "duration": 4.04,
+  "text": "novel. By far, the use case that I will"
+ },
+ {
+  "start": 1204.36,
+  "duration": 4.32,
+  "text": "be paying the most attention to in the"
+ },
+ {
+  "start": 1205.96,
+  "duration": 5.48,
+  "text": "immediate term is this UI Codex type of"
+ },
+ {
+  "start": 1208.68,
+  "duration": 4.24,
+  "text": "integration. In my first tests, it did"
+ },
+ {
+  "start": 1211.44,
+  "duration": 3.28,
+  "text": "make a big difference in terms of the"
+ },
+ {
+  "start": 1212.92,
+  "duration": 3.68,
+  "text": "quality of what I could get out of Codex"
+ },
+ {
+  "start": 1214.72,
+  "duration": 3.76,
+  "text": "when it comes to UI design, but it was"
+ },
+ {
+  "start": 1216.6,
+  "duration": 4.16,
+  "text": "still more in the realm of reference"
+ },
+ {
+  "start": 1218.48,
+  "duration": 4.28,
+  "text": "images than it was actually about"
+ },
+ {
+  "start": 1220.76,
+  "duration": 3.24,
+  "text": "implementing a specific already designed"
+ },
+ {
+  "start": 1222.76,
+  "duration": 2.88,
+  "text": "UI."
+ },
+ {
+  "start": 1224.0,
+  "duration": 4.0,
+  "text": "Maybe one last thing to note is that the"
+ },
+ {
+  "start": 1225.64,
+  "duration": 4.0,
+  "text": "team at OpenAI is very clearly teasing"
+ },
+ {
+  "start": 1228.0,
+  "duration": 3.48,
+  "text": "that this is one of the first examples"
+ },
+ {
+  "start": 1229.64,
+  "duration": 3.6,
+  "text": "we've seen of what you can do when you"
+ },
+ {
+  "start": 1231.48,
+  "duration": 3.68,
+  "text": "have more resources to throw at a"
+ },
+ {
+  "start": 1233.24,
+  "duration": 3.32,
+  "text": "model's training. Greg Brockman doesn't"
+ },
+ {
+  "start": 1235.16,
+  "duration": 3.44,
+  "text": "talk about people who have argued in the"
+ },
+ {
+  "start": 1236.56,
+  "duration": 4.4,
+  "text": "past that we've hit a pre-training wall,"
+ },
+ {
+  "start": 1238.6,
+  "duration": 4.12,
+  "text": "but he does say, \"Really incredible what"
+ },
+ {
+  "start": 1240.96,
+  "duration": 3.64,
+  "text": "you're now able to create with a little"
+ },
+ {
+  "start": 1242.72,
+  "duration": 3.52,
+  "text": "bit of compute.\""
+ },
+ {
+  "start": 1244.6,
+  "duration": 3.44,
+  "text": "Sounds like from what most folks are"
+ },
+ {
+  "start": 1246.24,
+  "duration": 3.72,
+  "text": "thinking and hearing, we might not be"
+ },
+ {
+  "start": 1248.04,
+  "duration": 4.0,
+  "text": "all that far from getting to see what"
+ },
+ {
+  "start": 1249.96,
+  "duration": 4.44,
+  "text": "that little bit of compute does, even"
+ },
+ {
+  "start": 1252.04,
+  "duration": 4.96,
+  "text": "outside of images as well. For now, this"
+ },
+ {
+  "start": 1254.4,
+  "duration": 4.2,
+  "text": "model has plenty of new capabilities to"
+ },
+ {
+  "start": 1257.0,
+  "duration": 3.32,
+  "text": "go play around with, and I am excited to"
+ },
+ {
+  "start": 1258.6,
+  "duration": 3.36,
+  "text": "see what you do, but that's going to do"
+ },
+ {
+  "start": 1260.32,
+  "duration": 3.32,
+  "text": "it for today's AI Daily Brief."
+ },
+ {
+  "start": 1261.96,
+  "duration": 6.32,
+  "text": "Appreciate you listening or watching, as"
+ },
+ {
+  "start": 1263.64,
+  "duration": 4.64,
+  "text": "always, and until next time, peace."
+ },
+ {
+  "start": 1270.059,
+  "duration": 2.02,
+  "text": ">> [music]"
+ }
+]

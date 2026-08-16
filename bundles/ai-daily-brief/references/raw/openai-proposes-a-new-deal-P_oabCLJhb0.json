@@ -1,0 +1,3397 @@
+[
+ {
+  "start": 0.48,
+  "duration": 3.8,
+  "text": "Today, we're looking at the latest"
+ },
+ {
+  "start": 1.8,
+  "duration": 4.16,
+  "text": "policy document from OpenAI and why it"
+ },
+ {
+  "start": 4.28,
+  "duration": 3.44,
+  "text": "might be more significant than similar"
+ },
+ {
+  "start": 5.96,
+  "duration": 3.4,
+  "text": "documents we've seen in the past."
+ },
+ {
+  "start": 7.72,
+  "duration": 3.92,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 9.36,
+  "duration": 5.16,
+  "text": "Today, we are looking at a policy"
+ },
+ {
+  "start": 11.64,
+  "duration": 6.12,
+  "text": "document from OpenAI and it comes at the"
+ },
+ {
+  "start": 14.52,
+  "duration": 5.24,
+  "text": "convergence of two moments in and around"
+ },
+ {
+  "start": 17.76,
+  "duration": 3.96,
+  "text": "the industry. The first moment is what"
+ },
+ {
+  "start": 19.76,
+  "duration": 4.28,
+  "text": "we were discussing on yesterday's show."
+ },
+ {
+  "start": 21.72,
+  "duration": 4.36,
+  "text": "This growing indication from the labs"
+ },
+ {
+  "start": 24.04,
+  "duration": 3.56,
+  "text": "that the next jump, the one that we are"
+ },
+ {
+  "start": 26.08,
+  "duration": 4.6,
+  "text": "on the verge of with the next set of"
+ },
+ {
+  "start": 27.6,
+  "duration": 4.88,
+  "text": "models, represents a really big one."
+ },
+ {
+  "start": 30.68,
+  "duration": 4.08,
+  "text": "Remember at the end of March, we got the"
+ },
+ {
+  "start": 32.48,
+  "duration": 4.48,
+  "text": "leak about Anthropic's Mythos model,"
+ },
+ {
+  "start": 34.76,
+  "duration": 4.28,
+  "text": "which it said represented a step change,"
+ },
+ {
+  "start": 36.96,
+  "duration": 4.08,
+  "text": "their words, in capabilities. In fact,"
+ },
+ {
+  "start": 39.04,
+  "duration": 3.96,
+  "text": "what we got with the leak was a blog"
+ },
+ {
+  "start": 41.04,
+  "duration": 3.4,
+  "text": "post saying that the model was so"
+ },
+ {
+  "start": 43.0,
+  "duration": 3.2,
+  "text": "powerful that they were going to slow"
+ },
+ {
+  "start": 44.44,
+  "duration": 3.32,
+  "text": "roll it a little bit rather than a full"
+ },
+ {
+  "start": 46.2,
+  "duration": 3.48,
+  "text": "announcement and a release of the model"
+ },
+ {
+  "start": 47.76,
+  "duration": 3.52,
+  "text": "as we've gotten in the past. On the"
+ },
+ {
+  "start": 49.68,
+  "duration": 3.84,
+  "text": "OpenAI side, the company has been"
+ },
+ {
+  "start": 51.28,
+  "duration": 3.84,
+  "text": "heavily teasing their new Spud model,"
+ },
+ {
+  "start": 53.52,
+  "duration": 3.52,
+  "text": "actually doing more to hype it up than"
+ },
+ {
+  "start": 55.12,
+  "duration": 3.16,
+  "text": "to tamp down expectations, reversing the"
+ },
+ {
+  "start": 57.04,
+  "duration": 3.68,
+  "text": "trend that they've had all the way since"
+ },
+ {
+  "start": 58.28,
+  "duration": 3.88,
+  "text": "back when GPT-5 underperformed. So, on"
+ },
+ {
+  "start": 60.72,
+  "duration": 3.479,
+  "text": "the one side, we have this moment of"
+ },
+ {
+  "start": 62.16,
+  "duration": 4.52,
+  "text": "precipice where the next set of models"
+ },
+ {
+  "start": 64.199,
+  "duration": 4.121,
+  "text": "could represent a very big jump. Then,"
+ },
+ {
+  "start": 66.68,
+  "duration": 3.96,
+  "text": "on the other side, we have the continued"
+ },
+ {
+  "start": 68.32,
+  "duration": 4.84,
+  "text": "and frankly increasing reality of dreary"
+ },
+ {
+  "start": 70.64,
+  "duration": 4.32,
+  "text": "American sentiment when it comes to AI."
+ },
+ {
+  "start": 73.16,
+  "duration": 4.24,
+  "text": "A new poll from Quinnipiac suggests that"
+ },
+ {
+  "start": 74.96,
+  "duration": 5.16,
+  "text": "sentiment is going from bad to worse."
+ },
+ {
+  "start": 77.4,
+  "duration": 4.28,
+  "text": "55% of Americans now believe that AI"
+ },
+ {
+  "start": 80.12,
+  "duration": 3.68,
+  "text": "will do more harm than good in their"
+ },
+ {
+  "start": 81.68,
+  "duration": 4.08,
+  "text": "day-to-day lives. That's up 11"
+ },
+ {
+  "start": 83.8,
+  "duration": 4.28,
+  "text": "percentage points from a year ago and"
+ },
+ {
+  "start": 85.76,
+  "duration": 4.52,
+  "text": "tips to the majority for the first time."
+ },
+ {
+  "start": 88.08,
+  "duration": 4.16,
+  "text": "70% believe that AI will reduce job"
+ },
+ {
+  "start": 90.28,
+  "duration": 4.6,
+  "text": "opportunities, which is up 14 percentage"
+ },
+ {
+  "start": 92.24,
+  "duration": 5.32,
+  "text": "points. A mere 7% of respondents believe"
+ },
+ {
+  "start": 94.88,
+  "duration": 4.48,
+  "text": "that AI will increase job opportunities."
+ },
+ {
+  "start": 97.56,
+  "duration": 4.88,
+  "text": "In other words, Americans believe by a"
+ },
+ {
+  "start": 99.36,
+  "duration": 5.44,
+  "text": "10-to-1 ratio that AI will reduce rather"
+ },
+ {
+  "start": 102.44,
+  "duration": 4.04,
+  "text": "than increase jobs. 30% said that they"
+ },
+ {
+  "start": 104.8,
+  "duration": 3.96,
+  "text": "were either very or somewhat concerned"
+ },
+ {
+  "start": 106.48,
+  "duration": 3.88,
+  "text": "about AI making their job obsolete. And"
+ },
+ {
+  "start": 108.76,
+  "duration": 3.68,
+  "text": "yet, this is all despite adoption"
+ },
+ {
+  "start": 110.36,
+  "duration": 4.04,
+  "text": "rocketing forward. The majority of"
+ },
+ {
+  "start": 112.44,
+  "duration": 3.48,
+  "text": "people are now using AI to research"
+ },
+ {
+  "start": 114.4,
+  "duration": 4.36,
+  "text": "topics they're curious about, rising"
+ },
+ {
+  "start": 115.92,
+  "duration": 4.88,
+  "text": "from 37 to 51% over the past year."
+ },
+ {
+  "start": 118.76,
+  "duration": 3.76,
+  "text": "Analyzing data and creating images each"
+ },
+ {
+  "start": 120.8,
+  "duration": 4.0,
+  "text": "increase significantly as use cases as"
+ },
+ {
+  "start": 122.52,
+  "duration": 4.88,
+  "text": "well, both rising from around 16 to"
+ },
+ {
+  "start": 124.8,
+  "duration": 4.16,
+  "text": "around 25%. The number of Americans who"
+ },
+ {
+  "start": 127.4,
+  "duration": 4.68,
+  "text": "said they had never used AI was down"
+ },
+ {
+  "start": 128.96,
+  "duration": 4.88,
+  "text": "from 33% last year to 27% this year."
+ },
+ {
+  "start": 132.08,
+  "duration": 3.16,
+  "text": "Tamila Trantoro, an associate professor"
+ },
+ {
+  "start": 133.84,
+  "duration": 3.2,
+  "text": "at the Quinnipiac School of Business,"
+ },
+ {
+  "start": 135.24,
+  "duration": 3.64,
+  "text": "noted, \"Younger Americans report the"
+ },
+ {
+  "start": 137.04,
+  "duration": 3.6,
+  "text": "highest familiarity with AI tools, but"
+ },
+ {
+  "start": 138.88,
+  "duration": 3.56,
+  "text": "they are also the least optimistic about"
+ },
+ {
+  "start": 140.64,
+  "duration": 3.64,
+  "text": "the labor market. AI fluency and"
+ },
+ {
+  "start": 142.44,
+  "duration": 4.0,
+  "text": "optimism here are moving in opposite"
+ },
+ {
+  "start": 144.28,
+  "duration": 4.36,
+  "text": "directions. This is also not just one"
+ },
+ {
+  "start": 146.44,
+  "duration": 4.08,
+  "text": "poll. We're seeing AI being blamed for"
+ },
+ {
+  "start": 148.64,
+  "duration": 3.92,
+  "text": "increasing electricity prices,"
+ },
+ {
+  "start": 150.52,
+  "duration": 3.56,
+  "text": "opposition to data centers growing, and"
+ },
+ {
+  "start": 152.56,
+  "duration": 3.72,
+  "text": "in one dramatic example of just how"
+ },
+ {
+  "start": 154.08,
+  "duration": 3.8,
+  "text": "negative the perception around AI is, it"
+ },
+ {
+  "start": 156.28,
+  "duration": 4.28,
+  "text": "has worse PR right now than the"
+ },
+ {
+  "start": 157.88,
+  "duration": 4.76,
+  "text": "extremely controversial ICE.\" Into that"
+ },
+ {
+  "start": 160.56,
+  "duration": 4.08,
+  "text": "environment, OpenAI released the new"
+ },
+ {
+  "start": 162.64,
+  "duration": 4.2,
+  "text": "document, Industrial Policy for the"
+ },
+ {
+  "start": 164.64,
+  "duration": 5.16,
+  "text": "Intelligence Age. The document is framed"
+ },
+ {
+  "start": 166.84,
+  "duration": 5.36,
+  "text": "not as some complete policy statement or"
+ },
+ {
+  "start": 169.8,
+  "duration": 4.12,
+  "text": "comprehensive anything, but instead a"
+ },
+ {
+  "start": 172.2,
+  "duration": 3.88,
+  "text": "way to try to nudge the conversation"
+ },
+ {
+  "start": 173.92,
+  "duration": 3.6,
+  "text": "around important policy topics forward."
+ },
+ {
+  "start": 176.08,
+  "duration": 3.8,
+  "text": "They divide their policy discussions"
+ },
+ {
+  "start": 177.52,
+  "duration": 4.16,
+  "text": "into two areas. First, building an open"
+ },
+ {
+  "start": 179.88,
+  "duration": 3.76,
+  "text": "economy, and second, building a"
+ },
+ {
+  "start": 181.68,
+  "duration": 4.04,
+  "text": "resilient society. And I think that the"
+ },
+ {
+  "start": 183.64,
+  "duration": 5.08,
+  "text": "document needs to be judged in two"
+ },
+ {
+  "start": 185.72,
+  "duration": 5.2,
+  "text": "different ways. One is from a PR lens"
+ },
+ {
+  "start": 188.72,
+  "duration": 3.68,
+  "text": "and what it does for OpenAI and the AI"
+ },
+ {
+  "start": 190.92,
+  "duration": 3.44,
+  "text": "industry in general when it comes to"
+ },
+ {
+  "start": 192.4,
+  "duration": 3.28,
+  "text": "public perception, and second, in terms"
+ },
+ {
+  "start": 194.36,
+  "duration": 3.8,
+  "text": "of what one might think about the"
+ },
+ {
+  "start": 195.68,
+  "duration": 4.8,
+  "text": "policies themselves. Now, to be fair to"
+ },
+ {
+  "start": 198.16,
+  "duration": 4.6,
+  "text": "OpenAI on the first way of judging this,"
+ },
+ {
+  "start": 200.48,
+  "duration": 5.24,
+  "text": "as a PR document, it obviously isn't"
+ },
+ {
+  "start": 202.76,
+  "duration": 4.72,
+  "text": "intended to be that primarily. It feels"
+ },
+ {
+  "start": 205.72,
+  "duration": 3.84,
+  "text": "like it's much more designed for perhaps"
+ },
+ {
+  "start": 207.48,
+  "duration": 3.6,
+  "text": "a Washington insider audience and that"
+ },
+ {
+  "start": 209.56,
+  "duration": 3.04,
+  "text": "if it was a document for general public"
+ },
+ {
+  "start": 211.08,
+  "duration": 3.88,
+  "text": "consumption, maybe it would look a"
+ },
+ {
+  "start": 212.6,
+  "duration": 4.24,
+  "text": "little bit different. At the same time,"
+ },
+ {
+  "start": 214.96,
+  "duration": 3.68,
+  "text": "the reason I won't give OpenAI a pass"
+ },
+ {
+  "start": 216.84,
+  "duration": 4.0,
+  "text": "here, the reason I'm not interested in"
+ },
+ {
+  "start": 218.64,
+  "duration": 3.96,
+  "text": "giving OpenAI a pass on that front, is"
+ },
+ {
+  "start": 220.84,
+  "duration": 3.48,
+  "text": "that at this point, with where they sit"
+ },
+ {
+  "start": 222.6,
+  "duration": 3.72,
+  "text": "in the industry, and especially when"
+ },
+ {
+  "start": 224.32,
+  "duration": 3.6,
+  "text": "they pair this with big premiere"
+ },
+ {
+  "start": 226.32,
+  "duration": 3.08,
+  "text": "interviews with the founders of media"
+ },
+ {
+  "start": 227.92,
+  "duration": 3.92,
+  "text": "companies like the one Sam Altman did"
+ },
+ {
+  "start": 229.4,
+  "duration": 4.48,
+  "text": "with Axios, they clearly recognize that"
+ },
+ {
+  "start": 231.84,
+  "duration": 3.48,
+  "text": "everything that they say is, whether"
+ },
+ {
+  "start": 233.88,
+  "duration": 3.08,
+  "text": "they would like it to be or not, a"
+ },
+ {
+  "start": 235.32,
+  "duration": 3.52,
+  "text": "public relations statement as well as"
+ },
+ {
+  "start": 236.96,
+  "duration": 4.68,
+  "text": "whatever it is supposed to be. To be"
+ },
+ {
+  "start": 238.84,
+  "duration": 5.08,
+  "text": "completely transparent, I very, very,"
+ },
+ {
+  "start": 241.64,
+  "duration": 4.88,
+  "text": "very much dislike this document. It"
+ },
+ {
+  "start": 243.92,
+  "duration": 5.24,
+  "text": "exists in this strange uncanny valley"
+ },
+ {
+  "start": 246.52,
+  "duration": 4.76,
+  "text": "where it is so technocratic, down to the"
+ },
+ {
+  "start": 249.16,
+  "duration": 4.52,
+  "text": "narcolepsy-inducing name, Industrial"
+ },
+ {
+  "start": 251.28,
+  "duration": 4.88,
+  "text": "Policy for the Intelligence Age, that it"
+ },
+ {
+  "start": 253.68,
+  "duration": 5.279,
+  "text": "is inevitably going to fail in any sort"
+ },
+ {
+  "start": 256.16,
+  "duration": 5.44,
+  "text": "of PR goal, but at the same time, not"
+ },
+ {
+  "start": 258.959,
+  "duration": 3.841,
+  "text": "robust enough from a policy perspective"
+ },
+ {
+  "start": 261.6,
+  "duration": 3.0,
+  "text": "that it feels likely to do a"
+ },
+ {
+  "start": 262.8,
+  "duration": 3.56,
+  "text": "particularly good job at advancing any"
+ },
+ {
+  "start": 264.6,
+  "duration": 3.12,
+  "text": "of these policies as well. It is a"
+ },
+ {
+  "start": 266.36,
+  "duration": 3.64,
+  "text": "document, in other words, without a"
+ },
+ {
+  "start": 267.72,
+  "duration": 4.24,
+  "text": "clear home or purpose, or one where its"
+ },
+ {
+  "start": 270.0,
+  "duration": 3.6,
+  "text": "home and purpose is so confused that it"
+ },
+ {
+  "start": 271.96,
+  "duration": 3.8,
+  "text": "makes it, at least in this current form,"
+ },
+ {
+  "start": 273.6,
+  "duration": 3.6,
+  "text": "not all that useful to anyone. Now, we"
+ },
+ {
+  "start": 275.76,
+  "duration": 3.2,
+  "text": "are going to go through the policy"
+ },
+ {
+  "start": 277.2,
+  "duration": 3.08,
+  "text": "proposals because there are some"
+ },
+ {
+  "start": 278.96,
+  "duration": 2.8,
+  "text": "interesting and important discussions"
+ },
+ {
+  "start": 280.28,
+  "duration": 3.36,
+  "text": "that are started there, and I want to"
+ },
+ {
+  "start": 281.76,
+  "duration": 3.64,
+  "text": "take this idea of being a conversation"
+ },
+ {
+  "start": 283.64,
+  "duration": 3.24,
+  "text": "starter in good faith, but I do have to"
+ },
+ {
+  "start": 285.4,
+  "duration": 3.68,
+  "text": "say a couple more things about the PR"
+ },
+ {
+  "start": 286.88,
+  "duration": 4.32,
+  "text": "impact right now. I don't know that I've"
+ },
+ {
+  "start": 289.08,
+  "duration": 4.96,
+  "text": "ever seen an industry that is so"
+ },
+ {
+  "start": 291.2,
+  "duration": 5.44,
+  "text": "fundamentally unwilling to spend any"
+ },
+ {
+  "start": 294.04,
+  "duration": 5.2,
+  "text": "time at all articulating why it deserves"
+ },
+ {
+  "start": 296.64,
+  "duration": 5.64,
+  "text": "to exist as the AI industry. Every"
+ },
+ {
+  "start": 299.24,
+  "duration": 5.2,
+  "text": "single document like this, every single"
+ },
+ {
+  "start": 302.28,
+  "duration": 5.56,
+  "text": "statement that comes out of Dario's or"
+ },
+ {
+  "start": 304.44,
+  "duration": 5.68,
+  "text": "Sam's mouths, is so focused on affirming"
+ },
+ {
+  "start": 307.84,
+  "duration": 5.88,
+  "text": "the negative and validating people's"
+ },
+ {
+  "start": 310.12,
+  "duration": 5.6,
+  "text": "concerns that literally no time is spent"
+ },
+ {
+  "start": 313.72,
+  "duration": 4.4,
+  "text": "actually explaining how this is going to"
+ },
+ {
+  "start": 315.72,
+  "duration": 4.44,
+  "text": "make the world better. Every discussion"
+ },
+ {
+  "start": 318.12,
+  "duration": 3.44,
+  "text": "is this incredible quick pass-through"
+ },
+ {
+  "start": 320.16,
+  "duration": 3.0,
+  "text": "where a bunch of theoretical benefits in"
+ },
+ {
+  "start": 321.56,
+  "duration": 3.36,
+  "text": "the future are listed in short order"
+ },
+ {
+  "start": 323.16,
+  "duration": 3.32,
+  "text": "without actually articulating how we get"
+ },
+ {
+  "start": 324.92,
+  "duration": 3.56,
+  "text": "there or what the impact of those"
+ },
+ {
+  "start": 326.48,
+  "duration": 3.36,
+  "text": "changes will be on people's lives, all"
+ },
+ {
+  "start": 328.48,
+  "duration": 2.88,
+  "text": "along the way to getting to what seems"
+ },
+ {
+  "start": 329.84,
+  "duration": 3.52,
+  "text": "to be the core point, which again is"
+ },
+ {
+  "start": 331.36,
+  "duration": 3.8,
+  "text": "validating all the bad things. We get"
+ },
+ {
+  "start": 333.36,
+  "duration": 3.6,
+  "text": "these hand-wavy statements like this"
+ },
+ {
+  "start": 335.16,
+  "duration": 2.96,
+  "text": "one, \"We strongly believe that AI's"
+ },
+ {
+  "start": 336.96,
+  "duration": 3.0,
+  "text": "benefits will far outweigh its"
+ },
+ {
+  "start": 338.12,
+  "duration": 3.72,
+  "text": "challenges.\" Then only to have the next"
+ },
+ {
+  "start": 339.96,
+  "duration": 3.88,
+  "text": "three lines be all about how clear-eyed"
+ },
+ {
+  "start": 341.84,
+  "duration": 4.08,
+  "text": "about the risks they are. This does not"
+ },
+ {
+  "start": 343.84,
+  "duration": 3.6,
+  "text": "come off as being reasonable. It does"
+ },
+ {
+  "start": 345.92,
+  "duration": 3.56,
+  "text": "not come off as being sober or"
+ },
+ {
+  "start": 347.44,
+  "duration": 3.8,
+  "text": "thoughtful. What it does is make people"
+ },
+ {
+  "start": 349.48,
+  "duration": 3.36,
+  "text": "ask, \"Why the hell are we doing this in"
+ },
+ {
+  "start": 351.24,
+  "duration": 3.8,
+  "text": "the first place then?\" You know how when"
+ },
+ {
+  "start": 352.84,
+  "duration": 4.76,
+  "text": "you see an ad for some new miracle drug"
+ },
+ {
+  "start": 355.04,
+  "duration": 5.0,
+  "text": "on TV, the last 10 or 15 seconds of the"
+ },
+ {
+  "start": 357.6,
+  "duration": 4.24,
+  "text": "60-second spot is always them disclosing"
+ },
+ {
+  "start": 360.04,
+  "duration": 3.88,
+  "text": "all the risks and side effects. The way"
+ },
+ {
+  "start": 361.84,
+  "duration": 4.24,
+  "text": "the AI industry communicates, it's as if"
+ },
+ {
+  "start": 363.92,
+  "duration": 3.88,
+  "text": "they flipped that ratio around and spent"
+ },
+ {
+  "start": 366.08,
+  "duration": 3.32,
+  "text": "three quarters of the ad talking about"
+ },
+ {
+  "start": 367.8,
+  "duration": 3.4,
+  "text": "all the side effects and negatives and"
+ },
+ {
+  "start": 369.4,
+  "duration": 2.96,
+  "text": "only a tiny little bit on why the thing"
+ },
+ {
+  "start": 371.2,
+  "duration": 3.48,
+  "text": "should actually exist in the first"
+ },
+ {
+  "start": 372.36,
+  "duration": 4.6,
+  "text": "place. And what all of these risk"
+ },
+ {
+  "start": 374.68,
+  "duration": 4.76,
+  "text": "descriptions, these sober, thoughtful"
+ },
+ {
+  "start": 376.96,
+  "duration": 4.44,
+  "text": "risk descriptions fail to engage with is"
+ },
+ {
+  "start": 379.44,
+  "duration": 4.72,
+  "text": "the thing that seems incredibly obvious"
+ },
+ {
+  "start": 381.4,
+  "duration": 5.2,
+  "text": "to most average people, which is that AI"
+ },
+ {
+  "start": 384.16,
+  "duration": 5.16,
+  "text": "doesn't have some mandate from heaven to"
+ },
+ {
+  "start": 386.6,
+  "duration": 4.32,
+  "text": "exist. When OpenAI or Anthropic or"
+ },
+ {
+  "start": 389.32,
+  "duration": 3.96,
+  "text": "anyone else in the AI industry talks"
+ },
+ {
+  "start": 390.92,
+  "duration": 4.56,
+  "text": "about mitigating these serious risks,"
+ },
+ {
+  "start": 393.28,
+  "duration": 4.12,
+  "text": "many of which sound absolutely horrible,"
+ },
+ {
+  "start": 395.48,
+  "duration": 3.96,
+  "text": "the response of many normal people is to"
+ },
+ {
+  "start": 397.4,
+  "duration": 3.4,
+  "text": "say, \"Well, then why are we doing this"
+ },
+ {
+  "start": 399.44,
+  "duration": 2.8,
+  "text": "in the first place?\" When those"
+ },
+ {
+  "start": 400.8,
+  "duration": 3.12,
+  "text": "companies' answer is, \"Well, it's"
+ },
+ {
+  "start": 402.24,
+  "duration": 3.0,
+  "text": "happening one way or another.\" and don't"
+ },
+ {
+  "start": 403.92,
+  "duration": 3.32,
+  "text": "respond when people say, \"Wait, but"
+ },
+ {
+  "start": 405.24,
+  "duration": 4.04,
+  "text": "why?\" the people are left to assume that"
+ },
+ {
+  "start": 407.24,
+  "duration": 4.16,
+  "text": "the answer is because it's going to make"
+ },
+ {
+  "start": 409.28,
+  "duration": 3.84,
+  "text": "some people rich. That is the default"
+ },
+ {
+  "start": 411.4,
+  "duration": 3.28,
+  "text": "understanding in the absence of a better"
+ },
+ {
+  "start": 413.12,
+  "duration": 3.92,
+  "text": "answer. And of course, that default"
+ },
+ {
+  "start": 414.68,
+  "duration": 4.32,
+  "text": "understanding just makes people angrier."
+ },
+ {
+  "start": 417.04,
+  "duration": 4.28,
+  "text": "If the answer is because China is going"
+ },
+ {
+  "start": 419.0,
+  "duration": 4.2,
+  "text": "to do it if we don't, maybe for some"
+ },
+ {
+  "start": 421.32,
+  "duration": 4.64,
+  "text": "that's a little bit more understandable,"
+ },
+ {
+  "start": 423.2,
+  "duration": 5.24,
+  "text": "but it remains incredibly abstract. The"
+ },
+ {
+  "start": 425.96,
+  "duration": 5.6,
+  "text": "only possible, satisfying, and only"
+ },
+ {
+  "start": 428.44,
+  "duration": 5.44,
+  "text": "possible, viable answer must be that the"
+ },
+ {
+  "start": 431.56,
+  "duration": 4.6,
+  "text": "benefits of AI are higher than the"
+ },
+ {
+  "start": 433.88,
+  "duration": 4.24,
+  "text": "costs. And just saying that in this"
+ },
+ {
+  "start": 436.16,
+  "duration": 4.0,
+  "text": "hand-wavy way, \"We think the benefits"
+ },
+ {
+  "start": 438.12,
+  "duration": 4.6,
+  "text": "are higher than the costs.\" no longer"
+ },
+ {
+  "start": 440.16,
+  "duration": 4.12,
+  "text": "cuts it. It never cut it, but it really"
+ },
+ {
+  "start": 442.72,
+  "duration": 4.32,
+  "text": "doesn't anymore."
+ },
+ {
+  "start": 444.28,
+  "duration": 5.16,
+  "text": "Right now, with where things are, every"
+ },
+ {
+  "start": 447.04,
+  "duration": 5.36,
+  "text": "single time any leader or senior"
+ },
+ {
+  "start": 449.44,
+  "duration": 5.48,
+  "text": "official from any major lab speaks, they"
+ },
+ {
+  "start": 452.4,
+  "duration": 4.32,
+  "text": "are either contributing to the strong"
+ },
+ {
+  "start": 454.92,
+  "duration": 4.68,
+  "text": "sentiment that we see in all of these"
+ },
+ {
+  "start": 456.72,
+  "duration": 5.44,
+  "text": "polls that AI is likely to be worse than"
+ },
+ {
+  "start": 459.6,
+  "duration": 4.96,
+  "text": "it is good, or they are doing work to"
+ },
+ {
+  "start": 462.16,
+  "duration": 4.84,
+  "text": "reverse that sentiment. I think that we"
+ },
+ {
+  "start": 464.56,
+  "duration": 4.44,
+  "text": "in the AI industry should be judging"
+ },
+ {
+  "start": 467.0,
+  "duration": 3.92,
+  "text": "every communication on the basis of on"
+ },
+ {
+  "start": 469.0,
+  "duration": 3.92,
+  "text": "whether it reinforces that negative"
+ },
+ {
+  "start": 470.92,
+  "duration": 4.04,
+  "text": "sentiment or whether it actually combats"
+ },
+ {
+  "start": 472.92,
+  "duration": 4.16,
+  "text": "it. So, as I said, giving credit to the"
+ },
+ {
+  "start": 474.96,
+  "duration": 3.4,
+  "text": "people who wrote this, I do not believe"
+ },
+ {
+  "start": 477.08,
+  "duration": 3.32,
+  "text": "they were thinking about it first and"
+ },
+ {
+  "start": 478.36,
+  "duration": 3.88,
+  "text": "foremost as a PR document, but"
+ },
+ {
+  "start": 480.4,
+  "duration": 3.88,
+  "text": "unfortunately, in the world that we live"
+ },
+ {
+  "start": 482.24,
+  "duration": 4.24,
+  "text": "in and in the world that OpenAI and all"
+ },
+ {
+  "start": 484.28,
+  "duration": 4.4,
+  "text": "these companies operate in, it is that"
+ },
+ {
+  "start": 486.48,
+  "duration": 3.48,
+  "text": "whether they want it to be or not. Now,"
+ },
+ {
+  "start": 488.68,
+  "duration": 2.72,
+  "text": "as you might imagine, I am far from the"
+ },
+ {
+  "start": 489.96,
+  "duration": 3.6,
+  "text": "only person who has some negative"
+ },
+ {
+  "start": 491.4,
+  "duration": 3.8,
+  "text": "feelings on that side. Daniel Jeffries"
+ },
+ {
+  "start": 493.56,
+  "duration": 3.52,
+  "text": "writes, \"Please, please, please, I'm on"
+ },
+ {
+  "start": 495.2,
+  "duration": 4.0,
+  "text": "my knees begging every AI exec on the"
+ },
+ {
+  "start": 497.08,
+  "duration": 4.12,
+  "text": "planet, just stop with this stuff. Just"
+ },
+ {
+  "start": 499.2,
+  "duration": 3.32,
+  "text": "give us models. Let the collective"
+ },
+ {
+  "start": 501.2,
+  "duration": 2.76,
+  "text": "distributed intelligence of people"
+ },
+ {
+  "start": 502.52,
+  "duration": 3.24,
+  "text": "figure things out in real time like we"
+ },
+ {
+  "start": 503.96,
+  "duration": 4.12,
+  "text": "always do. Let people adapt, it's what"
+ },
+ {
+  "start": 505.76,
+  "duration": 3.84,
+  "text": "we do. We are not giving birth to magic"
+ },
+ {
+  "start": 508.08,
+  "duration": 3.04,
+  "text": "super miracle machines that suddenly"
+ },
+ {
+  "start": 509.6,
+  "duration": 2.64,
+  "text": "invalidate every single pattern of the"
+ },
+ {
+  "start": 511.12,
+  "duration": 2.68,
+  "text": "entirety of human history and"
+ },
+ {
+  "start": 512.24,
+  "duration": 3.64,
+  "text": "technological development. We're not,"
+ },
+ {
+  "start": 513.8,
+  "duration": 4.44,
+  "text": "really. AI is amazing, it's wonderful,"
+ },
+ {
+  "start": 515.88,
+  "duration": 3.719,
+  "text": "but it's not magic. Can we please just"
+ },
+ {
+  "start": 518.24,
+  "duration": 2.96,
+  "text": "let AI be cool and useful and"
+ },
+ {
+  "start": 519.599,
+  "duration": 3.401,
+  "text": "problematic in realistic ways instead of"
+ },
+ {
+  "start": 521.2,
+  "duration": 3.28,
+  "text": "all this crazy talk?\" Meanwhile, others"
+ },
+ {
+  "start": 523.0,
+  "duration": 4.72,
+  "text": "point out that there is something"
+ },
+ {
+  "start": 524.48,
+  "duration": 4.68,
+  "text": "discordant about where AI actually is"
+ },
+ {
+  "start": 527.72,
+  "duration": 3.32,
+  "text": "and all of this talk of world-changing"
+ },
+ {
+  "start": 529.16,
+  "duration": 3.48,
+  "text": "superintelligence. And by the way, this"
+ },
+ {
+  "start": 531.04,
+  "duration": 3.28,
+  "text": "is not just the Gary Marcus's of the"
+ },
+ {
+  "start": 532.64,
+  "duration": 3.56,
+  "text": "world who are desperate to convince you"
+ },
+ {
+  "start": 534.32,
+  "duration": 3.52,
+  "text": "that AI isn't all that powerful. These"
+ },
+ {
+  "start": 536.2,
+  "duration": 3.92,
+  "text": "are people who are totally bought in."
+ },
+ {
+  "start": 537.84,
+  "duration": 4.92,
+  "text": "Chaian Zhao, whose literal handle is"
+ },
+ {
+  "start": 540.12,
+  "duration": 4.64,
+  "text": "genAIisreal, posted the companion Altman"
+ },
+ {
+  "start": 542.76,
+  "duration": 3.52,
+  "text": "interview and said, \"The replies are"
+ },
+ {
+  "start": 544.76,
+  "duration": 3.68,
+  "text": "more insightful than the interview.\""
+ },
+ {
+  "start": 546.28,
+  "duration": 3.56,
+  "text": "Someone pointing out that GPT-5.4 has"
+ },
+ {
+  "start": 548.44,
+  "duration": 3.36,
+  "text": "been spinning in circles on a webhook"
+ },
+ {
+  "start": 549.84,
+  "duration": 3.44,
+  "text": "for 4 hours while Sam talks about"
+ },
+ {
+  "start": 551.8,
+  "duration": 2.92,
+  "text": "superintelligence captures everything"
+ },
+ {
+  "start": 553.28,
+  "duration": 3.12,
+  "text": "wrong with how AI is being discussed"
+ },
+ {
+  "start": 554.72,
+  "duration": 3.16,
+  "text": "right now. The models are genuinely"
+ },
+ {
+  "start": 556.4,
+  "duration": 3.2,
+  "text": "impressive and improving fast, but"
+ },
+ {
+  "start": 557.88,
+  "duration": 3.0,
+  "text": "calling this superintelligence devalues"
+ },
+ {
+  "start": 559.6,
+  "duration": 2.88,
+  "text": "the word and makes it harder to have"
+ },
+ {
+  "start": 560.88,
+  "duration": 3.16,
+  "text": "serious policy conversations when we"
+ },
+ {
+  "start": 562.48,
+  "duration": 3.72,
+  "text": "actually need them. We're in the"
+ },
+ {
+  "start": 564.04,
+  "duration": 4.36,
+  "text": "extremely capable tool era, not the new"
+ },
+ {
+  "start": 566.2,
+  "duration": 3.76,
+  "text": "social contract era.\" Booco Capital"
+ },
+ {
+  "start": 568.4,
+  "duration": 3.12,
+  "text": "Block put it a little bit more bluntly"
+ },
+ {
+  "start": 569.96,
+  "duration": 4.4,
+  "text": "last week, speaking in general, not"
+ },
+ {
+  "start": 571.52,
+  "duration": 4.6,
+  "text": "about this specific document. He writes,"
+ },
+ {
+  "start": 574.36,
+  "duration": 3.8,
+  "text": "\"You must understand that every tech"
+ },
+ {
+  "start": 576.12,
+  "duration": 3.64,
+  "text": "executive has AI psychosis. They're"
+ },
+ {
+  "start": 578.16,
+  "duration": 3.32,
+  "text": "puking out Claude-generated markdown"
+ },
+ {
+  "start": 579.76,
+  "duration": 3.68,
+  "text": "files full of hallucinations asking if"
+ },
+ {
+  "start": 581.48,
+  "duration": 3.64,
+  "text": "this means they can fire 500 people.\""
+ },
+ {
+  "start": 583.44,
+  "duration": 3.36,
+  "text": "Aaron Levie from Box actually responded"
+ },
+ {
+  "start": 585.12,
+  "duration": 3.68,
+  "text": "and said, \"The worst thing you can do is"
+ },
+ {
+  "start": 586.8,
+  "duration": 3.44,
+  "text": "just dabble with AI a little bit. That's"
+ },
+ {
+  "start": 588.8,
+  "duration": 3.12,
+  "text": "the spot where you see its capability,"
+ },
+ {
+  "start": 590.24,
+  "duration": 3.76,
+  "text": "but overgeneralize on the use cases and"
+ },
+ {
+  "start": 591.92,
+  "duration": 3.52,
+  "text": "how easy the automation is. You almost"
+ },
+ {
+  "start": 594.0,
+  "duration": 3.0,
+  "text": "have to use it too much, develop"
+ },
+ {
+  "start": 595.44,
+  "duration": 2.96,
+  "text": "psychosis, then get to the other side,"
+ },
+ {
+  "start": 597.0,
+  "duration": 2.92,
+  "text": "and realize how much care and feeding"
+ },
+ {
+  "start": 598.4,
+  "duration": 3.2,
+  "text": "and management of the agentic workflows"
+ },
+ {
+  "start": 599.92,
+  "duration": 3.08,
+  "text": "is required. On the other end, you"
+ },
+ {
+  "start": 601.6,
+  "duration": 3.44,
+  "text": "realize you actually need to probably"
+ },
+ {
+  "start": 603.0,
+  "duration": 4.12,
+  "text": "hire more or new people to then do all"
+ },
+ {
+  "start": 605.04,
+  "duration": 4.12,
+  "text": "the new things agents can do. But let's"
+ },
+ {
+  "start": 607.12,
+  "duration": 3.24,
+  "text": "talk about some of the policy proposals."
+ },
+ {
+  "start": 609.16,
+  "duration": 3.36,
+  "text": "I'm going to spend a lot more time on"
+ },
+ {
+  "start": 610.36,
+  "duration": 4.2,
+  "text": "section one, the open economy, than I am"
+ },
+ {
+  "start": 612.52,
+  "duration": 3.64,
+  "text": "on the second part, resilient society."
+ },
+ {
+  "start": 614.56,
+  "duration": 3.0,
+  "text": "The first thing they discuss is the"
+ },
+ {
+  "start": 616.16,
+  "duration": 4.04,
+  "text": "importance of including worker"
+ },
+ {
+  "start": 617.56,
+  "duration": 4.16,
+  "text": "perspectives in the AI transition. They"
+ },
+ {
+  "start": 620.2,
+  "duration": 2.88,
+  "text": "write, \"Give workers a voice in the AI"
+ },
+ {
+  "start": 621.72,
+  "duration": 2.8,
+  "text": "transition to make work better and"
+ },
+ {
+  "start": 623.08,
+  "duration": 2.92,
+  "text": "safer, including a formal way to"
+ },
+ {
+  "start": 624.52,
+  "duration": 3.24,
+  "text": "collaborate with management to make sure"
+ },
+ {
+  "start": 626.0,
+  "duration": 3.72,
+  "text": "AI improves job quality, enhances"
+ },
+ {
+  "start": 627.76,
+  "duration": 3.04,
+  "text": "safety, and respects labor rights.\" This"
+ },
+ {
+  "start": 629.72,
+  "duration": 3.08,
+  "text": "is something that I do think is"
+ },
+ {
+  "start": 630.8,
+  "duration": 3.36,
+  "text": "extremely important, but also reveals"
+ },
+ {
+  "start": 632.8,
+  "duration": 3.36,
+  "text": "one of the biggest challenges with this"
+ },
+ {
+  "start": 634.16,
+  "duration": 3.48,
+  "text": "document overall, which is the thing"
+ },
+ {
+  "start": 636.16,
+  "duration": 3.16,
+  "text": "identified by Wil Manidis in his"
+ },
+ {
+  "start": 637.64,
+  "duration": 4.48,
+  "text": "response essay, \"No New Deal for"
+ },
+ {
+  "start": 639.32,
+  "duration": 5.52,
+  "text": "OpenAI\", which is that basically this"
+ },
+ {
+  "start": 642.12,
+  "duration": 4.84,
+  "text": "document is absolutely chock-full of"
+ },
+ {
+  "start": 644.84,
+  "duration": 4.0,
+  "text": "pretty sentiments that at least in the"
+ },
+ {
+  "start": 646.96,
+  "duration": 3.64,
+  "text": "way that they are described right now,"
+ },
+ {
+  "start": 648.84,
+  "duration": 3.28,
+  "text": "seem to wholly ignore the political"
+ },
+ {
+  "start": 650.6,
+  "duration": 3.48,
+  "text": "reality and the political history that"
+ },
+ {
+  "start": 652.12,
+  "duration": 4.32,
+  "text": "they operate within. We've discussed"
+ },
+ {
+  "start": 654.08,
+  "duration": 4.52,
+  "text": "this worker-management thing numerous"
+ },
+ {
+  "start": 656.44,
+  "duration": 4.04,
+  "text": "times in the past on this show. And what"
+ },
+ {
+  "start": 658.6,
+  "duration": 3.92,
+  "text": "is happening and will happen is a"
+ },
+ {
+  "start": 660.48,
+  "duration": 4.12,
+  "text": "wholesale shift in the relationship"
+ },
+ {
+  "start": 662.52,
+  "duration": 4.04,
+  "text": "between employees and management in lots"
+ },
+ {
+  "start": 664.6,
+  "duration": 3.6,
+  "text": "of different ways. On the one hand,"
+ },
+ {
+  "start": 666.56,
+  "duration": 2.92,
+  "text": "managers have much more power because"
+ },
+ {
+  "start": 668.2,
+  "duration": 3.92,
+  "text": "they feel like they can do things with"
+ },
+ {
+  "start": 669.48,
+  "duration": 5.0,
+  "text": "fewer people. On the other hand, the end"
+ },
+ {
+  "start": 672.12,
+  "duration": 4.08,
+  "text": "worker who is actually using the AI kind"
+ },
+ {
+  "start": 674.48,
+  "duration": 3.28,
+  "text": "of negates the need for a lot of layers"
+ },
+ {
+  "start": 676.2,
+  "duration": 3.08,
+  "text": "of middle management. But then there's"
+ },
+ {
+  "start": 677.76,
+  "duration": 3.16,
+  "text": "also issues like the fact that in many"
+ },
+ {
+  "start": 679.28,
+  "duration": 3.559,
+  "text": "cases workers are training their own"
+ },
+ {
+  "start": 680.92,
+  "duration": 4.16,
+  "text": "replacements. The point being that"
+ },
+ {
+  "start": 682.839,
+  "duration": 4.401,
+  "text": "what's happening here, what will happen,"
+ },
+ {
+  "start": 685.08,
+  "duration": 4.24,
+  "text": "and what needs to happen is not some"
+ },
+ {
+  "start": 687.24,
+  "duration": 4.76,
+  "text": "policy that can be enacted. It's going"
+ },
+ {
+  "start": 689.32,
+  "duration": 4.92,
+  "text": "to be a total new labor movement. OpenAI"
+ },
+ {
+  "start": 692.0,
+  "duration": 4.16,
+  "text": "doesn't use the word union here, which"
+ },
+ {
+  "start": 694.24,
+  "duration": 3.8,
+  "text": "is one of Will's biggest beefs, with"
+ },
+ {
+  "start": 696.16,
+  "duration": 3.679,
+  "text": "Will pointing out that the New Deal was"
+ },
+ {
+  "start": 698.04,
+  "duration": 3.48,
+  "text": "not some benevolent meaning between the"
+ },
+ {
+  "start": 699.839,
+  "duration": 4.281,
+  "text": "capital class and labor class"
+ },
+ {
+  "start": 701.52,
+  "duration": 4.8,
+  "text": "facilitated by FDR, but the byproduct of"
+ },
+ {
+  "start": 704.12,
+  "duration": 4.04,
+  "text": "decades of political violence and a"
+ },
+ {
+  "start": 706.32,
+  "duration": 4.16,
+  "text": "labor movement that was willing to fight"
+ },
+ {
+  "start": 708.16,
+  "duration": 3.92,
+  "text": "and literally die for change, not to"
+ },
+ {
+  "start": 710.48,
+  "duration": 3.359,
+  "text": "mention leadership that had an actual"
+ },
+ {
+  "start": 712.08,
+  "duration": 3.36,
+  "text": "mandate, the likes of which no one in"
+ },
+ {
+  "start": 713.839,
+  "duration": 3.681,
+  "text": "American politics has had for a very"
+ },
+ {
+  "start": 715.44,
+  "duration": 3.76,
+  "text": "long time. Still, to the extent that we"
+ },
+ {
+  "start": 717.52,
+  "duration": 4.88,
+  "text": "are talking about conversation starters,"
+ },
+ {
+  "start": 719.2,
+  "duration": 5.04,
+  "text": "yes, we do need to have the conversation"
+ },
+ {
+  "start": 722.4,
+  "duration": 3.8,
+  "text": "about this shift in the relationship"
+ },
+ {
+  "start": 724.24,
+  "duration": 4.04,
+  "text": "between employees and management. Next"
+ },
+ {
+  "start": 726.2,
+  "duration": 3.92,
+  "text": "up, we have AI-first entrepreneurs. Now,"
+ },
+ {
+  "start": 728.28,
+  "duration": 4.04,
+  "text": "the critique of this one is that telling"
+ },
+ {
+  "start": 730.12,
+  "duration": 3.76,
+  "text": "a displaced customer service agent to go"
+ },
+ {
+  "start": 732.32,
+  "duration": 3.68,
+  "text": "start some small business that competes"
+ },
+ {
+  "start": 733.88,
+  "duration": 4.08,
+  "text": "with their former employers feels at"
+ },
+ {
+  "start": 736.0,
+  "duration": 3.68,
+  "text": "best tone-deaf. But of course, that's"
+ },
+ {
+  "start": 737.96,
+  "duration": 3.68,
+  "text": "not the actual point of pro-entrepreneur"
+ },
+ {
+  "start": 739.68,
+  "duration": 4.04,
+  "text": "policy. In other words, the point is not"
+ },
+ {
+  "start": 741.64,
+  "duration": 3.48,
+  "text": "that every worker who is displaced by AI"
+ },
+ {
+  "start": 743.72,
+  "duration": 4.16,
+  "text": "is going to all of a sudden go be an"
+ },
+ {
+  "start": 745.12,
+  "duration": 4.28,
+  "text": "entrepreneur now. It's to ask what sort"
+ },
+ {
+  "start": 747.88,
+  "duration": 3.959,
+  "text": "of policy interventions and support"
+ },
+ {
+  "start": 749.4,
+  "duration": 4.52,
+  "text": "structures could increase the successful"
+ },
+ {
+  "start": 751.839,
+  "duration": 5.241,
+  "text": "small business entrepreneurship rate by"
+ },
+ {
+  "start": 753.92,
+  "duration": 4.68,
+  "text": "50% or even 100% from where it is today."
+ },
+ {
+  "start": 757.08,
+  "duration": 3.32,
+  "text": "There is not going to be one single"
+ },
+ {
+  "start": 758.6,
+  "duration": 3.239,
+  "text": "policy silver bullet for the amount of"
+ },
+ {
+  "start": 760.4,
+  "duration": 3.92,
+  "text": "change that's going to happen."
+ },
+ {
+  "start": 761.839,
+  "duration": 4.401,
+  "text": "Pro-entrepreneurial policy is one part"
+ },
+ {
+  "start": 764.32,
+  "duration": 3.88,
+  "text": "of a much larger toolkit, and in that"
+ },
+ {
+  "start": 766.24,
+  "duration": 3.64,
+  "text": "I'm completely supportive. Now, I'm not"
+ },
+ {
+  "start": 768.2,
+  "duration": 3.24,
+  "text": "totally sure what the right policy"
+ },
+ {
+  "start": 769.88,
+  "duration": 2.959,
+  "text": "interventions are, what the right type"
+ },
+ {
+  "start": 771.44,
+  "duration": 3.52,
+  "text": "of entrepreneurial entrepreneurial"
+ },
+ {
+  "start": 772.839,
+  "duration": 4.241,
+  "text": "support is, but I do think that this is"
+ },
+ {
+  "start": 774.96,
+  "duration": 4.48,
+  "text": "going to be a part of the solution"
+ },
+ {
+  "start": 777.08,
+  "duration": 4.12,
+  "text": "because in a fastly adapting future, for"
+ },
+ {
+  "start": 779.44,
+  "duration": 3.88,
+  "text": "many the only secure future will be the"
+ },
+ {
+  "start": 781.2,
+  "duration": 3.88,
+  "text": "one they secure for themselves. Next up,"
+ },
+ {
+  "start": 783.32,
+  "duration": 3.12,
+  "text": "we have the right to AI. And this is"
+ },
+ {
+  "start": 785.08,
+  "duration": 3.08,
+  "text": "something that OpenAI has talked about"
+ },
+ {
+  "start": 786.44,
+  "duration": 3.36,
+  "text": "before. They write, \"We need to treat"
+ },
+ {
+  "start": 788.16,
+  "duration": 3.32,
+  "text": "access to AI as foundational for"
+ },
+ {
+  "start": 789.8,
+  "duration": 3.32,
+  "text": "participation in the modern economy,"
+ },
+ {
+  "start": 791.48,
+  "duration": 3.359,
+  "text": "similar to mass efforts to increase"
+ },
+ {
+  "start": 793.12,
+  "duration": 2.84,
+  "text": "global literacy or to make sure that"
+ },
+ {
+  "start": 794.839,
+  "duration": 2.401,
+  "text": "internet or to make sure that"
+ },
+ {
+  "start": 795.96,
+  "duration": 3.04,
+  "text": "electricity and the internet reach"
+ },
+ {
+  "start": 797.24,
+  "duration": 3.4,
+  "text": "remote parts of the globe.\" And what I"
+ },
+ {
+  "start": 799.0,
+  "duration": 3.88,
+  "text": "would say here, which to be fair they"
+ },
+ {
+  "start": 800.64,
+  "duration": 4.36,
+  "text": "give at least mention to, is that access"
+ },
+ {
+  "start": 802.88,
+  "duration": 4.04,
+  "text": "to AI is going to be meaningless without"
+ },
+ {
+  "start": 805.0,
+  "duration": 3.839,
+  "text": "the agency to actually use it. What I"
+ },
+ {
+  "start": 806.92,
+  "duration": 3.84,
+  "text": "mean by that is that we can't just give"
+ },
+ {
+  "start": 808.839,
+  "duration": 3.721,
+  "text": "everyone a free ChatGPT account and hope"
+ },
+ {
+  "start": 810.76,
+  "duration": 4.2,
+  "text": "it works. The amount that companies are"
+ },
+ {
+  "start": 812.56,
+  "duration": 4.12,
+  "text": "spending on AI infrastructure right now"
+ },
+ {
+  "start": 814.96,
+  "duration": 3.36,
+  "text": "is based on studies that we found more"
+ },
+ {
+  "start": 816.68,
+  "duration": 2.76,
+  "text": "than 12 times bigger than the amount"
+ },
+ {
+  "start": 818.32,
+  "duration": 3.24,
+  "text": "that they're spending investing in"
+ },
+ {
+  "start": 819.44,
+  "duration": 3.8,
+  "text": "people's capability to use these tools."
+ },
+ {
+  "start": 821.56,
+  "duration": 3.32,
+  "text": "And that's within the companies who have"
+ },
+ {
+  "start": 823.24,
+  "duration": 3.44,
+  "text": "a direct financial incentive to have"
+ },
+ {
+  "start": 824.88,
+  "duration": 4.04,
+  "text": "their people use these tools well. We"
+ },
+ {
+  "start": 826.68,
+  "duration": 4.4,
+  "text": "need a mass scale infrastructure"
+ },
+ {
+  "start": 828.92,
+  "duration": 3.56,
+  "text": "mobilization to help people figure out"
+ },
+ {
+  "start": 831.08,
+  "duration": 3.36,
+  "text": "how to use the new tools of the new"
+ },
+ {
+  "start": 832.48,
+  "duration": 4.2,
+  "text": "economy. Call it whatever you want, a"
+ },
+ {
+  "start": 834.44,
+  "duration": 4.76,
+  "text": "Marshall Plan for education. We need to"
+ },
+ {
+  "start": 836.68,
+  "duration": 4.56,
+  "text": "be thinking in those big massive terms"
+ },
+ {
+  "start": 839.2,
+  "duration": 3.4,
+  "text": "because without it, any right to AI is"
+ },
+ {
+  "start": 841.24,
+  "duration": 3.88,
+  "text": "just a pretty notion on a piece of"
+ },
+ {
+  "start": 842.6,
+  "duration": 4.56,
+  "text": "paper. Next up, OpenAI calls on us to"
+ },
+ {
+  "start": 845.12,
+  "duration": 3.84,
+  "text": "modernize the tax base. And this is"
+ },
+ {
+  "start": 847.16,
+  "duration": 3.52,
+  "text": "actually an area where I think we are"
+ },
+ {
+  "start": 848.96,
+  "duration": 3.76,
+  "text": "inevitably going to see some of the"
+ },
+ {
+  "start": 850.68,
+  "duration": 4.279,
+  "text": "biggest shifts. And frankly, I think"
+ },
+ {
+  "start": 852.72,
+  "duration": 3.68,
+  "text": "that we are going to see some breakdown"
+ },
+ {
+  "start": 854.959,
+  "duration": 3.921,
+  "text": "of traditional conservative and liberal"
+ },
+ {
+  "start": 856.4,
+  "duration": 4.36,
+  "text": "lines when it comes to tax policy. The"
+ },
+ {
+  "start": 858.88,
+  "duration": 4.88,
+  "text": "logic is that if the balance of the"
+ },
+ {
+  "start": 860.76,
+  "duration": 5.199,
+  "text": "economy shifts from labor to capital,"
+ },
+ {
+  "start": 863.76,
+  "duration": 4.04,
+  "text": "there just literally has to be some"
+ },
+ {
+  "start": 865.959,
+  "duration": 4.88,
+  "text": "commensurate change when it comes to"
+ },
+ {
+  "start": 867.8,
+  "duration": 5.2,
+  "text": "taxation. Now, doing that well is going"
+ },
+ {
+  "start": 870.839,
+  "duration": 3.961,
+  "text": "to be massively challenging, but I think"
+ },
+ {
+  "start": 873.0,
+  "duration": 3.24,
+  "text": "based on the trajectory of both the"
+ },
+ {
+  "start": 874.8,
+  "duration": 3.32,
+  "text": "economy and the larger political"
+ },
+ {
+  "start": 876.24,
+  "duration": 3.76,
+  "text": "conversation, some version of this is"
+ },
+ {
+  "start": 878.12,
+  "duration": 3.36,
+  "text": "inevitable. Maybe it's policies that"
+ },
+ {
+  "start": 880.0,
+  "duration": 3.16,
+  "text": "have a lot of support in liberal circles"
+ },
+ {
+  "start": 881.48,
+  "duration": 3.76,
+  "text": "already like higher taxes on capital"
+ },
+ {
+  "start": 883.16,
+  "duration": 3.76,
+  "text": "gains. Maybe it's new types of taxes on"
+ },
+ {
+  "start": 885.24,
+  "duration": 3.52,
+  "text": "automation. But basically, I think"
+ },
+ {
+  "start": 886.92,
+  "duration": 3.36,
+  "text": "something has to give here, and I think"
+ },
+ {
+  "start": 888.76,
+  "duration": 3.84,
+  "text": "you will likely find some very strange"
+ },
+ {
+  "start": 890.28,
+  "duration": 4.16,
+  "text": "bedfellows when it comes to figuring out"
+ },
+ {
+  "start": 892.6,
+  "duration": 3.6,
+  "text": "how to do it well. Now, luckily when it"
+ },
+ {
+  "start": 894.44,
+  "duration": 4.0,
+  "text": "comes to inside the AI industry"
+ },
+ {
+  "start": 896.2,
+  "duration": 4.28,
+  "text": "perspective, this sort of shift in how"
+ },
+ {
+  "start": 898.44,
+  "duration": 3.399,
+  "text": "we think about taxation likely has the"
+ },
+ {
+  "start": 900.48,
+  "duration": 3.56,
+  "text": "benefit of being extremely good"
+ },
+ {
+  "start": 901.839,
+  "duration": 4.24,
+  "text": "politics. The next idea from OpenAI,"
+ },
+ {
+  "start": 904.04,
+  "duration": 4.48,
+  "text": "which is getting a lot of coverage, is a"
+ },
+ {
+  "start": 906.079,
+  "duration": 4.121,
+  "text": "public wealth fund. They write \"While"
+ },
+ {
+  "start": 908.52,
+  "duration": 3.36,
+  "text": "tax reforms help ensure governments can"
+ },
+ {
+  "start": 910.2,
+  "duration": 3.4,
+  "text": "continue to fund essential programs, a"
+ },
+ {
+  "start": 911.88,
+  "duration": 3.48,
+  "text": "public wealth fund is designed to ensure"
+ },
+ {
+  "start": 913.6,
+  "duration": 3.479,
+  "text": "that people directly share in the upside"
+ },
+ {
+  "start": 915.36,
+  "duration": 2.88,
+  "text": "of that growth. Policy makers and AI"
+ },
+ {
+  "start": 917.079,
+  "duration": 2.681,
+  "text": "companies should work together to"
+ },
+ {
+  "start": 918.24,
+  "duration": 2.839,
+  "text": "determine how to best seed the fund,"
+ },
+ {
+  "start": 919.76,
+  "duration": 3.28,
+  "text": "which could invest in diversified"
+ },
+ {
+  "start": 921.079,
+  "duration": 3.601,
+  "text": "long-term assets that capture growth in"
+ },
+ {
+  "start": 923.04,
+  "duration": 3.68,
+  "text": "both AI companies and the broader set of"
+ },
+ {
+  "start": 924.68,
+  "duration": 3.08,
+  "text": "firms adopting and deploying AI. Returns"
+ },
+ {
+  "start": 926.72,
+  "duration": 2.44,
+  "text": "from the fund could be distributed"
+ },
+ {
+  "start": 927.76,
+  "duration": 2.84,
+  "text": "directly to citizens, allowing more"
+ },
+ {
+  "start": 929.16,
+  "duration": 3.36,
+  "text": "people to participate directly in the"
+ },
+ {
+  "start": 930.6,
+  "duration": 3.08,
+  "text": "upside of AI-driven growth regardless of"
+ },
+ {
+  "start": 932.52,
+  "duration": 3.319,
+  "text": "their starting wealth or access to"
+ },
+ {
+  "start": 933.68,
+  "duration": 3.8,
+  "text": "capital.\" I seem to be a little bit more"
+ },
+ {
+  "start": 935.839,
+  "duration": 4.041,
+  "text": "skeptical of the ultimate importance of"
+ },
+ {
+  "start": 937.48,
+  "duration": 3.72,
+  "text": "this than others out there. I certainly"
+ },
+ {
+  "start": 939.88,
+  "duration": 2.68,
+  "text": "don't think it's bad. I think it would"
+ },
+ {
+  "start": 941.2,
+  "duration": 3.12,
+  "text": "be good to have people rooting for the"
+ },
+ {
+  "start": 942.56,
+  "duration": 3.32,
+  "text": "success of these companies, but I think"
+ },
+ {
+  "start": 944.32,
+  "duration": 3.759,
+  "text": "I have a little bit more skepticism than"
+ },
+ {
+  "start": 945.88,
+  "duration": 3.88,
+  "text": "many others around things where everyone"
+ },
+ {
+  "start": 948.079,
+  "duration": 3.081,
+  "text": "gets a little share of them. And again,"
+ },
+ {
+  "start": 949.76,
+  "duration": 3.16,
+  "text": "it's not because they're bad, but"
+ },
+ {
+  "start": 951.16,
+  "duration": 3.88,
+  "text": "because I think maybe the central"
+ },
+ {
+  "start": 952.92,
+  "duration": 4.039,
+  "text": "challenge of American politics is that"
+ },
+ {
+  "start": 955.04,
+  "duration": 3.919,
+  "text": "people don't want the average of what"
+ },
+ {
+  "start": 956.959,
+  "duration": 4.12,
+  "text": "people have. They want and feel like"
+ },
+ {
+  "start": 958.959,
+  "duration": 3.321,
+  "text": "they deserve the exceptional. We live in"
+ },
+ {
+  "start": 961.079,
+  "duration": 2.76,
+  "text": "a world where it feels like we are"
+ },
+ {
+  "start": 962.28,
+  "duration": 3.16,
+  "text": "constantly confronted with people who"
+ },
+ {
+  "start": 963.839,
+  "duration": 3.761,
+  "text": "have more than us, whether that's an"
+ },
+ {
+  "start": 965.44,
+  "duration": 3.56,
+  "text": "Instagram posts, whether they're real or"
+ },
+ {
+  "start": 967.6,
+  "duration": 2.72,
+  "text": "not, or having to walk through first"
+ },
+ {
+  "start": 969.0,
+  "duration": 3.52,
+  "text": "class to get to our section of the"
+ },
+ {
+  "start": 970.32,
+  "duration": 4.28,
+  "text": "plane. Now, it's not necessarily AI's"
+ },
+ {
+  "start": 972.52,
+  "duration": 4.16,
+  "text": "job to deal with that. In fact, it may"
+ },
+ {
+  "start": 974.6,
+  "duration": 4.08,
+  "text": "not be a policy remediation at all. But"
+ },
+ {
+  "start": 976.68,
+  "duration": 3.6,
+  "text": "my concern about a public wealth fund is"
+ },
+ {
+  "start": 978.68,
+  "duration": 3.44,
+  "text": "that I think it could be a very"
+ },
+ {
+  "start": 980.28,
+  "duration": 3.36,
+  "text": "window-dressingy exciting to write about"
+ },
+ {
+  "start": 982.12,
+  "duration": 2.6,
+  "text": "type of thing that doesn't really move"
+ },
+ {
+  "start": 983.64,
+  "duration": 2.72,
+  "text": "the needle when it comes to core"
+ },
+ {
+  "start": 984.72,
+  "duration": 3.56,
+  "text": "sentiment. On the other end of the"
+ },
+ {
+  "start": 986.36,
+  "duration": 3.92,
+  "text": "spectrum, I'm much more enthusiastic"
+ },
+ {
+  "start": 988.28,
+  "duration": 4.08,
+  "text": "about things like OpenAI's discussion of"
+ },
+ {
+  "start": 990.28,
+  "duration": 3.799,
+  "text": "accelerating grid expansion. Except I"
+ },
+ {
+  "start": 992.36,
+  "duration": 3.64,
+  "text": "would take it farther and not just think"
+ },
+ {
+  "start": 994.079,
+  "duration": 4.081,
+  "text": "about how to accelerate grid expansion"
+ },
+ {
+  "start": 996.0,
+  "duration": 3.8,
+  "text": "in ways that don't cost individual"
+ },
+ {
+  "start": 998.16,
+  "duration": 3.72,
+  "text": "people money, but actually have the"
+ },
+ {
+  "start": 999.8,
+  "duration": 3.4,
+  "text": "benefits accrue to those people first."
+ },
+ {
+  "start": 1001.88,
+  "duration": 3.6,
+  "text": "Basically, rather than these pretty"
+ },
+ {
+  "start": 1003.2,
+  "duration": 3.6,
+  "text": "pledges to ensure that the data center"
+ },
+ {
+  "start": 1005.48,
+  "duration": 2.96,
+  "text": "build-out doesn't increase people's"
+ },
+ {
+  "start": 1006.8,
+  "duration": 3.84,
+  "text": "electricity prices, we should be"
+ },
+ {
+  "start": 1008.44,
+  "duration": 3.88,
+  "text": "actively making their lives cheaper, not"
+ },
+ {
+  "start": 1010.64,
+  "duration": 3.72,
+  "text": "just keeping it the same. I think that"
+ },
+ {
+  "start": 1012.32,
+  "duration": 4.12,
+  "text": "as an incredible amount of wealth"
+ },
+ {
+  "start": 1014.36,
+  "duration": 4.32,
+  "text": "accrues to the AI companies, we are"
+ },
+ {
+  "start": 1016.44,
+  "duration": 3.84,
+  "text": "going to need ways for that to flow back"
+ },
+ {
+  "start": 1018.68,
+  "duration": 3.92,
+  "text": "to the rest of the world. Private"
+ },
+ {
+  "start": 1020.28,
+  "duration": 4.04,
+  "text": "financing of public utilities may end up"
+ },
+ {
+  "start": 1022.6,
+  "duration": 3.56,
+  "text": "being part of that equation. Another"
+ },
+ {
+  "start": 1024.32,
+  "duration": 3.519,
+  "text": "area that's seeing lots of discussion is"
+ },
+ {
+  "start": 1026.16,
+  "duration": 3.88,
+  "text": "the incredibly poorly named and framed"
+ },
+ {
+  "start": 1027.839,
+  "duration": 4.961,
+  "text": "efficiency dividends, by which OpenAI is"
+ },
+ {
+  "start": 1030.04,
+  "duration": 4.88,
+  "text": "basically talking about reinvesting the"
+ },
+ {
+  "start": 1032.8,
+  "duration": 4.24,
+  "text": "realized value of AI back into regular"
+ },
+ {
+  "start": 1034.92,
+  "duration": 4.08,
+  "text": "people's lives. Now again, to be fair to"
+ },
+ {
+  "start": 1037.04,
+  "duration": 4.399,
+  "text": "them, they are not planting their flag"
+ },
+ {
+  "start": 1039.0,
+  "duration": 4.16,
+  "text": "heavily in one or another policy, but"
+ },
+ {
+  "start": 1041.439,
+  "duration": 3.081,
+  "text": "they're coming back to ideas which have"
+ },
+ {
+  "start": 1043.16,
+  "duration": 3.679,
+  "text": "been floating around for a while now"
+ },
+ {
+  "start": 1044.52,
+  "duration": 3.6,
+  "text": "like the 32-hour or four-day workweek."
+ },
+ {
+  "start": 1046.839,
+  "duration": 2.801,
+  "text": "This is something that before he decided"
+ },
+ {
+  "start": 1048.12,
+  "duration": 3.44,
+  "text": "to go full frontal assault on the data"
+ },
+ {
+  "start": 1049.64,
+  "duration": 3.92,
+  "text": "centers, Bernie was putting in his AI"
+ },
+ {
+  "start": 1051.56,
+  "duration": 4.04,
+  "text": "policy back last summer. I tend to be a"
+ },
+ {
+  "start": 1053.56,
+  "duration": 3.84,
+  "text": "little bit more skeptical of things like"
+ },
+ {
+  "start": 1055.6,
+  "duration": 3.6,
+  "text": "the 32-hour workweek because I think"
+ },
+ {
+  "start": 1057.4,
+  "duration": 3.0,
+  "text": "people view them as a panacea when"
+ },
+ {
+  "start": 1059.2,
+  "duration": 2.84,
+  "text": "really a lot of people are just going to"
+ },
+ {
+  "start": 1060.4,
+  "duration": 3.04,
+  "text": "work more anyway. But there are plenty"
+ },
+ {
+  "start": 1062.04,
+  "duration": 3.92,
+  "text": "of other ideas that have the same"
+ },
+ {
+  "start": 1063.44,
+  "duration": 4.28,
+  "text": "principle of reinvesting AI's realized"
+ },
+ {
+  "start": 1065.96,
+  "duration": 3.52,
+  "text": "value back into people that I think"
+ },
+ {
+  "start": 1067.72,
+  "duration": 3.36,
+  "text": "could be a really important thing. And"
+ },
+ {
+  "start": 1069.48,
+  "duration": 3.84,
+  "text": "this is both on the individual level,"
+ },
+ {
+  "start": 1071.08,
+  "duration": 3.48,
+  "text": "i.e. things like retirement matches or"
+ },
+ {
+  "start": 1073.32,
+  "duration": 3.12,
+  "text": "covering a larger share of healthcare"
+ },
+ {
+  "start": 1074.56,
+  "duration": 3.84,
+  "text": "costs, but it also could be on that more"
+ },
+ {
+  "start": 1076.44,
+  "duration": 3.36,
+  "text": "global societal level. Later on in the"
+ },
+ {
+  "start": 1078.4,
+  "duration": 3.36,
+  "text": "document, they talk about portable"
+ },
+ {
+  "start": 1079.8,
+  "duration": 3.92,
+  "text": "benefits, i.e. things like healthcare,"
+ },
+ {
+  "start": 1081.76,
+  "duration": 3.44,
+  "text": "retirement savings, and skills trainings"
+ },
+ {
+  "start": 1083.72,
+  "duration": 3.44,
+  "text": "and skills training that aren't solely"
+ },
+ {
+  "start": 1085.2,
+  "duration": 3.4,
+  "text": "connected to a single private employer,"
+ },
+ {
+  "start": 1087.16,
+  "duration": 2.92,
+  "text": "and the efficiency dividends could go to"
+ },
+ {
+  "start": 1088.6,
+  "duration": 3.48,
+  "text": "pay for that. They also talk about"
+ },
+ {
+  "start": 1090.08,
+  "duration": 3.24,
+  "text": "pathways into human-centered work. And"
+ },
+ {
+  "start": 1092.08,
+  "duration": 2.96,
+  "text": "to the extent that there need to be"
+ },
+ {
+  "start": 1093.32,
+  "duration": 3.6,
+  "text": "things like free training programs and"
+ },
+ {
+  "start": 1095.04,
+  "duration": 2.88,
+  "text": "better support infrastructure around"
+ },
+ {
+  "start": 1096.92,
+  "duration": 2.92,
+  "text": "some of these industries that are"
+ },
+ {
+  "start": 1097.92,
+  "duration": 3.64,
+  "text": "historically taxed on resources like,"
+ },
+ {
+  "start": 1099.84,
+  "duration": 3.08,
+  "text": "for example, elder care, again, those"
+ },
+ {
+  "start": 1101.56,
+  "duration": 3.48,
+  "text": "efficiency dividends could go to pay for"
+ },
+ {
+  "start": 1102.92,
+  "duration": 3.84,
+  "text": "that. To not dance around it, there is"
+ },
+ {
+  "start": 1105.04,
+  "duration": 3.52,
+  "text": "going to be some redistribution of"
+ },
+ {
+  "start": 1106.76,
+  "duration": 2.96,
+  "text": "AI-generated wealth, and I think some of"
+ },
+ {
+  "start": 1108.56,
+  "duration": 2.96,
+  "text": "these types of programs could be more"
+ },
+ {
+  "start": 1109.72,
+  "duration": 3.959,
+  "text": "politically palatable than just handing"
+ },
+ {
+  "start": 1111.52,
+  "duration": 4.32,
+  "text": "people money directly. One idea that is"
+ },
+ {
+  "start": 1113.679,
+  "duration": 3.161,
+  "text": "very technocratic, but also interesting,"
+ },
+ {
+  "start": 1115.84,
+  "duration": 2.8,
+  "text": "and I think worthy of a lot more"
+ },
+ {
+  "start": 1116.84,
+  "duration": 3.6,
+  "text": "conversation, is some of the ideas of"
+ },
+ {
+  "start": 1118.64,
+  "duration": 3.0,
+  "text": "adaptive safety nets that OpenAI is"
+ },
+ {
+  "start": 1120.44,
+  "duration": 3.32,
+  "text": "proposing. One of the things that"
+ },
+ {
+  "start": 1121.64,
+  "duration": 4.56,
+  "text": "they're suggesting is investing in much"
+ },
+ {
+  "start": 1123.76,
+  "duration": 4.399,
+  "text": "better, more direct measurement of how"
+ },
+ {
+  "start": 1126.2,
+  "duration": 4.0,
+  "text": "AI is impacting things like work, wages,"
+ },
+ {
+  "start": 1128.159,
+  "duration": 4.401,
+  "text": "job quality, and then use those things"
+ },
+ {
+  "start": 1130.2,
+  "duration": 4.2,
+  "text": "to inform automated and dynamic social"
+ },
+ {
+  "start": 1132.56,
+  "duration": 3.92,
+  "text": "safety net programs. And honestly,"
+ },
+ {
+  "start": 1134.4,
+  "duration": 3.6,
+  "text": "holding us out of the AI context, what"
+ },
+ {
+  "start": 1136.48,
+  "duration": 3.36,
+  "text": "they're basically saying is that the"
+ },
+ {
+  "start": 1138.0,
+  "duration": 4.12,
+  "text": "tools we have at our disposal allow us"
+ },
+ {
+  "start": 1139.84,
+  "duration": 4.36,
+  "text": "to potentially make much more targeted,"
+ },
+ {
+  "start": 1142.12,
+  "duration": 3.64,
+  "text": "narrow, and specific interventions"
+ },
+ {
+  "start": 1144.2,
+  "duration": 3.04,
+  "text": "rather than having these big cumbersome"
+ },
+ {
+  "start": 1145.76,
+  "duration": 3.399,
+  "text": "programs which can buckle under their"
+ },
+ {
+  "start": 1147.24,
+  "duration": 3.52,
+  "text": "own weight over time. So again, as you"
+ },
+ {
+  "start": 1149.159,
+  "duration": 2.881,
+  "text": "can see, although I have a lot of"
+ },
+ {
+  "start": 1150.76,
+  "duration": 3.24,
+  "text": "specific thoughts around each of these"
+ },
+ {
+  "start": 1152.04,
+  "duration": 3.96,
+  "text": "areas, I do think there's a lot of good"
+ },
+ {
+  "start": 1154.0,
+  "duration": 4.0,
+  "text": "fodder for discussion here. I just don't"
+ },
+ {
+  "start": 1156.0,
+  "duration": 3.84,
+  "text": "know that this type of document I'm just"
+ },
+ {
+  "start": 1158.0,
+  "duration": 3.2,
+  "text": "not sure that this type of document is"
+ },
+ {
+  "start": 1159.84,
+  "duration": 3.319,
+  "text": "the right way to actually start those"
+ },
+ {
+  "start": 1161.2,
+  "duration": 3.56,
+  "text": "discussions, and I think in the context"
+ },
+ {
+  "start": 1163.159,
+  "duration": 2.681,
+  "text": "into which it is arriving, it might"
+ },
+ {
+  "start": 1164.76,
+  "duration": 2.96,
+  "text": "actually in some ways be"
+ },
+ {
+  "start": 1165.84,
+  "duration": 3.64,
+  "text": "counterproductive. The biggest critique"
+ },
+ {
+  "start": 1167.72,
+  "duration": 3.52,
+  "text": "that I've seen, and the biggest applied"
+ },
+ {
+  "start": 1169.48,
+  "duration": 4.16,
+  "text": "critique that I've seen, is that one of"
+ },
+ {
+  "start": 1171.24,
+  "duration": 4.72,
+  "text": "the things that is noticeably absent"
+ },
+ {
+  "start": 1173.64,
+  "duration": 4.6,
+  "text": "from the document is any sort of even"
+ },
+ {
+  "start": 1175.96,
+  "duration": 3.959,
+  "text": "hint of a commitment from OpenAI to"
+ },
+ {
+  "start": 1178.24,
+  "duration": 3.72,
+  "text": "programs or initiatives or policies that"
+ },
+ {
+  "start": 1179.919,
+  "duration": 3.161,
+  "text": "would cost them anything. As Wil Manidis"
+ },
+ {
+  "start": 1181.96,
+  "duration": 2.48,
+  "text": "writes,"
+ },
+ {
+  "start": 1183.08,
+  "duration": 3.0,
+  "text": "\"The document proposes that policy"
+ },
+ {
+  "start": 1184.44,
+  "duration": 3.92,
+  "text": "makers might consider higher taxes on"
+ },
+ {
+  "start": 1186.08,
+  "duration": 3.839,
+  "text": "capital. OpenAI could commit to paying"
+ },
+ {
+  "start": 1188.36,
+  "duration": 3.76,
+  "text": "them. The document proposes a public"
+ },
+ {
+  "start": 1189.919,
+  "duration": 3.721,
+  "text": "wealth fund. OpenAI could seed it. The"
+ },
+ {
+  "start": 1192.12,
+  "duration": 3.56,
+  "text": "document proposes that data centers pay"
+ },
+ {
+  "start": 1193.64,
+  "duration": 3.64,
+  "text": "their own energy costs. Open AI could"
+ },
+ {
+  "start": 1195.68,
+  "duration": 3.4,
+  "text": "accept voluntary rate separation today"
+ },
+ {
+  "start": 1197.28,
+  "duration": 3.48,
+  "text": "in every jurisdiction where it operates."
+ },
+ {
+  "start": 1199.08,
+  "duration": 3.0,
+  "text": "The document proposes that frontier AI"
+ },
+ {
+  "start": 1200.76,
+  "duration": 3.28,
+  "text": "companies adopt public benefit"
+ },
+ {
+  "start": 1202.08,
+  "duration": 4.16,
+  "text": "governance. Open AI could reinstate the"
+ },
+ {
+  "start": 1204.04,
+  "duration": 3.24,
+  "text": "profit caps it dismantled 6 months ago."
+ },
+ {
+  "start": 1206.24,
+  "duration": 2.44,
+  "text": "None of these things are in the"
+ },
+ {
+  "start": 1207.28,
+  "duration": 3.2,
+  "text": "document. The only things in the"
+ },
+ {
+  "start": 1208.68,
+  "duration": 3.32,
+  "text": "document are a workshop, fellowships"
+ },
+ {
+  "start": 1210.48,
+  "duration": 3.64,
+  "text": "paid in the company's own product, and"
+ },
+ {
+  "start": 1212.0,
+  "duration": 3.8,
+  "text": "an email address that routes to no one."
+ },
+ {
+  "start": 1214.12,
+  "duration": 3.56,
+  "text": "Alexander McCoy puts this sentiment a"
+ },
+ {
+  "start": 1215.8,
+  "duration": 3.8,
+  "text": "little more cynically writing,"
+ },
+ {
+  "start": 1217.68,
+  "duration": 3.24,
+  "text": "\"Good ideas, Sam. I know some members of"
+ },
+ {
+  "start": 1219.6,
+  "duration": 2.92,
+  "text": "Congress who can get right to work on"
+ },
+ {
+  "start": 1220.92,
+  "duration": 3.48,
+  "text": "writing the legislation. Some quick"
+ },
+ {
+  "start": 1222.52,
+  "duration": 3.32,
+  "text": "questions. How much equity in Open AI"
+ },
+ {
+  "start": 1224.4,
+  "duration": 2.84,
+  "text": "should we plan on you contributing? Will"
+ },
+ {
+  "start": 1225.84,
+  "duration": 3.16,
+  "text": "it be your own equity, a dilution of"
+ },
+ {
+  "start": 1227.24,
+  "duration": 3.08,
+  "text": "existing shares, or is your idea that"
+ },
+ {
+  "start": 1229.0,
+  "duration": 3.36,
+  "text": "the federal government will buy shares"
+ },
+ {
+  "start": 1230.32,
+  "duration": 3.16,
+  "text": "using taxpayer dollars once you IPO?"
+ },
+ {
+  "start": 1232.36,
+  "duration": 2.32,
+  "text": "Two, how many tens of millions of"
+ },
+ {
+  "start": 1233.48,
+  "duration": 2.28,
+  "text": "dollars of your own money are you"
+ },
+ {
+  "start": 1234.68,
+  "duration": 3.0,
+  "text": "pledging to commit to pass these"
+ },
+ {
+  "start": 1235.76,
+  "duration": 3.08,
+  "text": "policies you say are necessary? How are"
+ },
+ {
+  "start": 1237.68,
+  "duration": 2.76,
+  "text": "you going to counter the hundred million"
+ },
+ {
+  "start": 1238.84,
+  "duration": 3.16,
+  "text": "dollars of leading future AI political"
+ },
+ {
+  "start": 1240.44,
+  "duration": 2.8,
+  "text": "spending which opposes these policies,"
+ },
+ {
+  "start": 1242.0,
+  "duration": 3.0,
+  "text": "which is funded by your own investors"
+ },
+ {
+  "start": 1243.24,
+  "duration": 3.4,
+  "text": "and fellow executives? Three, how are"
+ },
+ {
+  "start": 1245.0,
+  "duration": 3.52,
+  "text": "you directing Open AI chief of policy"
+ },
+ {
+  "start": 1246.64,
+  "duration": 3.32,
+  "text": "Chris Lehane to redirect Open AI's"
+ },
+ {
+  "start": 1248.52,
+  "duration": 3.0,
+  "text": "massive lobbyist and public affairs"
+ },
+ {
+  "start": 1249.96,
+  "duration": 3.48,
+  "text": "resources to support this agenda which"
+ },
+ {
+  "start": 1251.52,
+  "duration": 3.4,
+  "text": "they currently actively oppose? Now,"
+ },
+ {
+  "start": 1253.44,
+  "duration": 3.68,
+  "text": "this is coming from someone who is very"
+ },
+ {
+  "start": 1254.92,
+  "duration": 3.68,
+  "text": "much who in their Twitter bio says that"
+ },
+ {
+  "start": 1257.12,
+  "duration": 3.56,
+  "text": "they are fighting the power of big"
+ },
+ {
+  "start": 1258.6,
+  "duration": 3.04,
+  "text": "artificial intelligence corporations."
+ },
+ {
+  "start": 1260.68,
+  "duration": 2.6,
+  "text": "So, you need to view it through that"
+ },
+ {
+  "start": 1261.64,
+  "duration": 3.32,
+  "text": "lens, but I think that that would be a"
+ },
+ {
+  "start": 1263.28,
+  "duration": 3.88,
+  "text": "more prominent and common sentiment than"
+ },
+ {
+  "start": 1264.96,
+  "duration": 4.4,
+  "text": "you might think. Effectively, where I"
+ },
+ {
+  "start": 1267.16,
+  "duration": 3.08,
+  "text": "agree with Open AI wholeheartedly is"
+ },
+ {
+  "start": 1269.36,
+  "duration": 4.52,
+  "text": "that we need to have these"
+ },
+ {
+  "start": 1270.24,
+  "duration": 5.92,
+  "text": "conversations. But, in the context but"
+ },
+ {
+  "start": 1273.88,
+  "duration": 4.6,
+  "text": "what seems to go unrecognized is that in"
+ },
+ {
+  "start": 1276.16,
+  "duration": 5.24,
+  "text": "the context of both the changes that"
+ },
+ {
+  "start": 1278.48,
+  "duration": 5.32,
+  "text": "they say are coming and the grave state"
+ },
+ {
+  "start": 1281.4,
+  "duration": 4.76,
+  "text": "of public opinion on AI in America,"
+ },
+ {
+  "start": 1283.8,
+  "duration": 4.32,
+  "text": "13-page policy PDFs with no actual"
+ },
+ {
+  "start": 1286.16,
+  "duration": 3.28,
+  "text": "commitment or direction ain't it. For"
+ },
+ {
+  "start": 1288.12,
+  "duration": 3.08,
+  "text": "now, that is going to do it for today's"
+ },
+ {
+  "start": 1289.44,
+  "duration": 3.56,
+  "text": "AI daily brief. Appreciate you listening"
+ },
+ {
+  "start": 1291.2,
+  "duration": 4.88,
+  "text": "or watching as always, and until next"
+ },
+ {
+  "start": 1293.0,
+  "duration": 3.08,
+  "text": "time, peace."
+ }
+]

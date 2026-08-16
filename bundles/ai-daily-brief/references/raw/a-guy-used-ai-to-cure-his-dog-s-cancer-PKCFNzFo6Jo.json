@@ -1,0 +1,2402 @@
+[
+ {
+  "start": 0.0,
+  "duration": 3.92,
+  "text": "Today we're talking about the Australian"
+ },
+ {
+  "start": 1.64,
+  "duration": 3.48,
+  "text": "guy who used AI to cure his dog's"
+ },
+ {
+  "start": 3.92,
+  "duration": 2.52,
+  "text": "cancer."
+ },
+ {
+  "start": 5.12,
+  "duration": 3.28,
+  "text": "Sort of."
+ },
+ {
+  "start": 6.44,
+  "duration": 4.4,
+  "text": "Welcome back to the AI daily brief."
+ },
+ {
+  "start": 8.4,
+  "duration": 4.44,
+  "text": "Today's episode is nominally about this"
+ },
+ {
+  "start": 10.84,
+  "duration": 3.52,
+  "text": "guy who used AI to cure his dog's"
+ },
+ {
+  "start": 12.84,
+  "duration": 3.52,
+  "text": "cancer, or at least that's what everyone"
+ },
+ {
+  "start": 14.36,
+  "duration": 3.88,
+  "text": "was talking about online. But more"
+ },
+ {
+  "start": 16.36,
+  "duration": 3.96,
+  "text": "broadly, it's about the state of the AI"
+ },
+ {
+  "start": 18.24,
+  "duration": 4.08,
+  "text": "discourse. And I think that the starting"
+ },
+ {
+  "start": 20.32,
+  "duration": 3.92,
+  "text": "question that we need to ask, taking a"
+ },
+ {
+  "start": 22.32,
+  "duration": 5.0,
+  "text": "big step back from all of the headlines,"
+ },
+ {
+  "start": 24.24,
+  "duration": 5.6,
+  "text": "is what the heck is going on right now?"
+ },
+ {
+  "start": 27.32,
+  "duration": 4.12,
+  "text": "The AI discourse out there is absolutely"
+ },
+ {
+  "start": 29.84,
+  "duration": 3.44,
+  "text": "frenetic right now."
+ },
+ {
+  "start": 31.44,
+  "duration": 5.2,
+  "text": "You've got Bernie Sanders dropping"
+ },
+ {
+  "start": 33.28,
+  "duration": 5.48,
+  "text": "9-minute-long videos about X risk, CEOs"
+ },
+ {
+  "start": 36.64,
+  "duration": 4.24,
+  "text": "like Bill McDermott from ServiceNow"
+ },
+ {
+  "start": 38.76,
+  "duration": 4.28,
+  "text": "dropping insanely terrifying statistics"
+ },
+ {
+  "start": 40.88,
+  "duration": 4.04,
+  "text": "all over the mainstream media. In this"
+ },
+ {
+  "start": 43.04,
+  "duration": 3.96,
+  "text": "case, a casual prediction that AI is"
+ },
+ {
+  "start": 44.92,
+  "duration": 5.2,
+  "text": "going to cause recent college graduate"
+ },
+ {
+  "start": 47.0,
+  "duration": 5.0,
+  "text": "unemployment over 30%. Every time a poll"
+ },
+ {
+  "start": 50.12,
+  "duration": 3.6,
+  "text": "comes out in America, it shows just"
+ },
+ {
+  "start": 52.0,
+  "duration": 3.72,
+  "text": "increasingly negative sentiment around"
+ },
+ {
+  "start": 53.72,
+  "duration": 3.6,
+  "text": "AI, which who knows, maybe has something"
+ },
+ {
+  "start": 55.72,
+  "duration": 3.6,
+  "text": "to do with all these media outlets"
+ },
+ {
+  "start": 57.32,
+  "duration": 3.88,
+  "text": "publishing these scary predictions. But"
+ },
+ {
+  "start": 59.32,
+  "duration": 4.32,
+  "text": "then on the flip side, you've got normal"
+ },
+ {
+  "start": 61.2,
+  "duration": 4.68,
+  "text": "people who haven't coded before managing"
+ },
+ {
+  "start": 63.64,
+  "duration": 3.88,
+  "text": "teams of a dozen agents or more doing"
+ },
+ {
+  "start": 65.88,
+  "duration": 2.96,
+  "text": "all of this work that was never possible"
+ },
+ {
+  "start": 67.52,
+  "duration": 2.92,
+  "text": "for them before."
+ },
+ {
+  "start": 68.84,
+  "duration": 3.52,
+  "text": "The divergence, in other words, between"
+ },
+ {
+  "start": 70.44,
+  "duration": 4.04,
+  "text": "mainstream perception and actual"
+ },
+ {
+  "start": 72.36,
+  "duration": 3.88,
+  "text": "capability has never been higher, and"
+ },
+ {
+  "start": 74.48,
+  "duration": 3.28,
+  "text": "yet both of them are in this incredibly"
+ },
+ {
+  "start": 76.24,
+  "duration": 3.6,
+  "text": "heightened state."
+ },
+ {
+  "start": 77.76,
+  "duration": 3.72,
+  "text": "So, what is going on? The short of it"
+ },
+ {
+  "start": 79.84,
+  "duration": 3.12,
+  "text": "is, and this is a concept that I imagine"
+ },
+ {
+  "start": 81.48,
+  "duration": 4.44,
+  "text": "we'll end up exploring a lot in the near"
+ },
+ {
+  "start": 82.96,
+  "duration": 4.96,
+  "text": "term, I think that we are in AI's second"
+ },
+ {
+  "start": 85.92,
+  "duration": 4.2,
+  "text": "moment. Obviously, in this case, I'm"
+ },
+ {
+  "start": 87.92,
+  "duration": 4.0,
+  "text": "using AI as shorthand for generative AI,"
+ },
+ {
+  "start": 90.12,
+  "duration": 3.36,
+  "text": "and the first moment was the ChatGPT"
+ },
+ {
+  "start": 91.92,
+  "duration": 4.48,
+  "text": "moment at the end of 2022, beginning of"
+ },
+ {
+  "start": 93.48,
+  "duration": 6.48,
+  "text": "2023. This moment was the Claude Code"
+ },
+ {
+  "start": 96.4,
+  "duration": 4.8,
+  "text": "Opus 4.5, Codex 5.2, etc. moment. And if"
+ },
+ {
+  "start": 99.96,
+  "duration": 3.4,
+  "text": "you want to be really reductive about"
+ },
+ {
+  "start": 101.2,
+  "duration": 3.88,
+  "text": "it, it's the AI moment and the agents"
+ },
+ {
+  "start": 103.36,
+  "duration": 4.2,
+  "text": "moment. At the beginning of the month,"
+ },
+ {
+  "start": 105.08,
+  "duration": 4.76,
+  "text": "Ethan Mollick tweeted, \"From an AI user"
+ },
+ {
+  "start": 107.56,
+  "duration": 6.12,
+  "text": "perspective, the four big leaps so far"
+ },
+ {
+  "start": 109.84,
+  "duration": 8.32,
+  "text": "in ability: one, GPT-3.5, ChatGPT,"
+ },
+ {
+  "start": 113.68,
+  "duration": 6.44,
+  "text": "November 2022. Two, GPT-4, spring 2023."
+ },
+ {
+  "start": 118.16,
+  "duration": 4.76,
+  "text": "Three, reasoners starts with 01 preview,"
+ },
+ {
+  "start": 120.12,
+  "duration": 4.88,
+  "text": "but the real deal was 03, spring 2025."
+ },
+ {
+  "start": 122.92,
+  "duration": 3.44,
+  "text": "Four, workable agentic systems, harness"
+ },
+ {
+  "start": 125.0,
+  "duration": 3.039,
+  "text": "plus good reasoner models, December"
+ },
+ {
+  "start": 126.36,
+  "duration": 3.0,
+  "text": "2025."
+ },
+ {
+  "start": 128.039,
+  "duration": 2.681,
+  "text": "But really, I think his first two and"
+ },
+ {
+  "start": 129.36,
+  "duration": 2.36,
+  "text": "the second two were all part of one"
+ },
+ {
+  "start": 130.72,
+  "duration": 2.96,
+  "text": "thing."
+ },
+ {
+  "start": 131.72,
+  "duration": 4.08,
+  "text": "And remember, in and around the first"
+ },
+ {
+  "start": 133.68,
+  "duration": 4.04,
+  "text": "time we also got some really heightened"
+ },
+ {
+  "start": 135.8,
+  "duration": 4.6,
+  "text": "frenetic discourse. You might remember"
+ },
+ {
+  "start": 137.72,
+  "duration": 4.68,
+  "text": "in May of 2023, which was the second"
+ },
+ {
+  "start": 140.4,
+  "duration": 3.559,
+  "text": "month of this show, when Time magazine"
+ },
+ {
+  "start": 142.4,
+  "duration": 4.2,
+  "text": "dropped an issue called the end of"
+ },
+ {
+  "start": 143.959,
+  "duration": 4.241,
+  "text": "humanity, a special report on how real"
+ },
+ {
+  "start": 146.6,
+  "duration": 3.04,
+  "text": "is the risk."
+ },
+ {
+  "start": 148.2,
+  "duration": 4.28,
+  "text": "So, the point that I'm making is that if"
+ },
+ {
+  "start": 149.64,
+  "duration": 5.12,
+  "text": "this really is AI's second moment, it"
+ },
+ {
+  "start": 152.48,
+  "duration": 4.56,
+  "text": "makes sense that the cloud of dust being"
+ },
+ {
+  "start": 154.76,
+  "duration": 3.96,
+  "text": "kicked up around it is proportionally"
+ },
+ {
+  "start": 157.04,
+  "duration": 3.28,
+  "text": "bigger, and more heightened, and more"
+ },
+ {
+  "start": 158.72,
+  "duration": 3.12,
+  "text": "dramatic than even the important"
+ },
+ {
+  "start": 160.32,
+  "duration": 2.92,
+  "text": "conversations we've had in between these"
+ },
+ {
+  "start": 161.84,
+  "duration": 2.8,
+  "text": "two moments."
+ },
+ {
+  "start": 163.24,
+  "duration": 3.56,
+  "text": "And to some extent, I think part of what"
+ },
+ {
+  "start": 164.64,
+  "duration": 3.52,
+  "text": "we're experiencing is just a resurfacing"
+ },
+ {
+  "start": 166.8,
+  "duration": 3.32,
+  "text": "of everything that came up in the wake"
+ },
+ {
+  "start": 168.16,
+  "duration": 4.16,
+  "text": "of the first moment with some key"
+ },
+ {
+  "start": 170.12,
+  "duration": 3.76,
+  "text": "differences now. The first difference is"
+ },
+ {
+  "start": 172.32,
+  "duration": 3.44,
+  "text": "that there's obviously been a huge"
+ },
+ {
+  "start": 173.88,
+  "duration": 4.52,
+  "text": "increase in capabilities."
+ },
+ {
+  "start": 175.76,
+  "duration": 3.88,
+  "text": "ChatGPT with 3.5 was amazing. You"
+ },
+ {
+  "start": 178.4,
+  "duration": 2.8,
+  "text": "combine that with some of the image"
+ },
+ {
+  "start": 179.64,
+  "duration": 3.04,
+  "text": "generation capabilities of the models"
+ },
+ {
+  "start": 181.2,
+  "duration": 2.759,
+  "text": "that were coming out around then, and"
+ },
+ {
+  "start": 182.68,
+  "duration": 3.48,
+  "text": "people who were trying these tools"
+ },
+ {
+  "start": 183.959,
+  "duration": 3.721,
+  "text": "absolutely felt like wizards. You didn't"
+ },
+ {
+  "start": 186.16,
+  "duration": 3.12,
+  "text": "really have to convince most people. If"
+ },
+ {
+  "start": 187.68,
+  "duration": 3.64,
+  "text": "they tried these tools, they realized"
+ },
+ {
+  "start": 189.28,
+  "duration": 4.52,
+  "text": "that something big was changing."
+ },
+ {
+  "start": 191.32,
+  "duration": 3.84,
+  "text": "And yet, even in those early days, there"
+ },
+ {
+  "start": 193.8,
+  "duration": 2.36,
+  "text": "was still this idea of something even"
+ },
+ {
+  "start": 195.16,
+  "duration": 2.6,
+  "text": "bigger."
+ },
+ {
+  "start": 196.16,
+  "duration": 3.28,
+  "text": "The first episode that I ever had go"
+ },
+ {
+  "start": 197.76,
+  "duration": 3.84,
+  "text": "viral, at least in the terms of a show"
+ },
+ {
+  "start": 199.44,
+  "duration": 4.64,
+  "text": "like this on YouTube, was about an early"
+ },
+ {
+  "start": 201.6,
+  "duration": 5.8,
+  "text": "prototype agent. We had experiments like"
+ },
+ {
+  "start": 204.08,
+  "duration": 4.52,
+  "text": "AutoGPT and BabyAGI, and GPT engineer,"
+ },
+ {
+  "start": 207.4,
+  "duration": 3.72,
+  "text": "which would form the seeds that would go"
+ },
+ {
+  "start": 208.6,
+  "duration": 5.24,
+  "text": "on to be lovable. And so, 2 years later,"
+ },
+ {
+  "start": 211.12,
+  "duration": 4.96,
+  "text": "as agents really come online, that big"
+ },
+ {
+  "start": 213.84,
+  "duration": 3.6,
+  "text": "increase in capabilities has, I think,"
+ },
+ {
+  "start": 216.08,
+  "duration": 2.56,
+  "text": "proportionally heightened the discourse"
+ },
+ {
+  "start": 217.44,
+  "duration": 2.76,
+  "text": "once again."
+ },
+ {
+  "start": 218.64,
+  "duration": 3.28,
+  "text": "A second big change between the first"
+ },
+ {
+  "start": 220.2,
+  "duration": 3.0,
+  "text": "moment and the second moment is that"
+ },
+ {
+  "start": 221.92,
+  "duration": 3.64,
+  "text": "there are now many more people in the"
+ },
+ {
+  "start": 223.2,
+  "duration": 3.64,
+  "text": "conversation. Around the ChatGPT moment,"
+ },
+ {
+  "start": 225.56,
+  "duration": 2.679,
+  "text": "these tools were some of the fastest"
+ },
+ {
+  "start": 226.84,
+  "duration": 3.32,
+  "text": "growing we'd ever seen. Remember,"
+ },
+ {
+  "start": 228.239,
+  "duration": 3.721,
+  "text": "ChatGPT got its first 100 million users"
+ },
+ {
+  "start": 230.16,
+  "duration": 4.44,
+  "text": "in its first 5 weeks, beating the"
+ },
+ {
+  "start": 231.96,
+  "duration": 3.96,
+  "text": "previous record of 8 months for TikTok."
+ },
+ {
+  "start": 234.6,
+  "duration": 3.36,
+  "text": "But now we have literally billions of"
+ },
+ {
+  "start": 235.92,
+  "duration": 3.44,
+  "text": "people using these tools every week."
+ },
+ {
+  "start": 237.96,
+  "duration": 3.4,
+  "text": "Even people who don't like the tools are"
+ },
+ {
+  "start": 239.36,
+  "duration": 4.24,
+  "text": "using the tools. So there are just far"
+ },
+ {
+  "start": 241.36,
+  "duration": 3.48,
+  "text": "more people in the conversation."
+ },
+ {
+  "start": 243.6,
+  "duration": 2.72,
+  "text": "A third difference between the first"
+ },
+ {
+  "start": 244.84,
+  "duration": 3.64,
+  "text": "moment and the second moment is higher"
+ },
+ {
+  "start": 246.32,
+  "duration": 3.2,
+  "text": "economic stakes. And in this case, I'm"
+ },
+ {
+  "start": 248.48,
+  "duration": 2.64,
+  "text": "not even really talking about"
+ },
+ {
+  "start": 249.52,
+  "duration": 3.12,
+  "text": "theoretical future job displacement"
+ },
+ {
+  "start": 251.12,
+  "duration": 3.56,
+  "text": "things. I'm talking about right here and"
+ },
+ {
+  "start": 252.64,
+  "duration": 4.2,
+  "text": "right now. Wall Street's interaction"
+ },
+ {
+  "start": 254.68,
+  "duration": 3.36,
+  "text": "with SaaS companies, AI infrastructure"
+ },
+ {
+  "start": 256.84,
+  "duration": 3.6,
+  "text": "build-out deals and the private"
+ },
+ {
+  "start": 258.04,
+  "duration": 4.48,
+  "text": "financing thereof, valuation for private"
+ },
+ {
+  "start": 260.44,
+  "duration": 3.6,
+  "text": "companies that are building AI, etc."
+ },
+ {
+  "start": 262.52,
+  "duration": 2.84,
+  "text": "etc. etc."
+ },
+ {
+  "start": 264.04,
+  "duration": 3.12,
+  "text": "Anthropic wasn't even a blip on the"
+ },
+ {
+  "start": 265.36,
+  "duration": 3.84,
+  "text": "radar to most people then, and now it's"
+ },
+ {
+  "start": 267.16,
+  "duration": 3.52,
+  "text": "at a $19 billion run rate taking down"
+ },
+ {
+  "start": 269.2,
+  "duration": 2.68,
+  "text": "industries every time it announces a new"
+ },
+ {
+  "start": 270.68,
+  "duration": 3.48,
+  "text": "feature."
+ },
+ {
+  "start": 271.88,
+  "duration": 4.16,
+  "text": "A fourth key difference between AI's"
+ },
+ {
+  "start": 274.16,
+  "duration": 3.6,
+  "text": "first moment and second moment has"
+ },
+ {
+  "start": 276.04,
+  "duration": 2.96,
+  "text": "nothing to do with AI itself, but has to"
+ },
+ {
+  "start": 277.76,
+  "duration": 4.24,
+  "text": "do with the evolution of the market"
+ },
+ {
+  "start": 279.0,
+  "duration": 5.16,
+  "text": "between 2022 and 2026."
+ },
+ {
+  "start": 282.0,
+  "duration": 4.0,
+  "text": "AI is now useful as a corporate fall"
+ },
+ {
+  "start": 284.16,
+  "duration": 3.96,
+  "text": "guy, specifically in the context of"
+ },
+ {
+  "start": 286.0,
+  "duration": 4.4,
+  "text": "companies trying to undo over-hiring in"
+ },
+ {
+  "start": 288.12,
+  "duration": 4.4,
+  "text": "the post-COVID period. Investor Chamath"
+ },
+ {
+  "start": 290.4,
+  "duration": 4.4,
+  "text": "Palihapitiya writes, \"What if AI doesn't"
+ },
+ {
+  "start": 292.52,
+  "duration": 4.12,
+  "text": "need to show an immediate ROI, but"
+ },
+ {
+  "start": 294.8,
+  "duration": 3.8,
+  "text": "instead is the plausible deniability"
+ },
+ {
+  "start": 296.64,
+  "duration": 3.32,
+  "text": "companies use to RIF 50% of the"
+ },
+ {
+  "start": 298.6,
+  "duration": 2.56,
+  "text": "workforce they already knew did"
+ },
+ {
+  "start": 299.96,
+  "duration": 3.04,
+  "text": "nothing?\""
+ },
+ {
+  "start": 301.16,
+  "duration": 3.68,
+  "text": "Number five, no matter what you think of"
+ },
+ {
+  "start": 303.0,
+  "duration": 4.2,
+  "text": "the politics of the moment, I think it's"
+ },
+ {
+  "start": 304.84,
+  "duration": 3.76,
+  "text": "fairly inarguable that finally, as a"
+ },
+ {
+  "start": 307.2,
+  "duration": 3.56,
+  "text": "difference between the first and second"
+ },
+ {
+  "start": 308.6,
+  "duration": 3.6,
+  "text": "moment, this is happening in the context"
+ },
+ {
+  "start": 310.76,
+  "duration": 2.76,
+  "text": "of generally increased political"
+ },
+ {
+  "start": 312.2,
+  "duration": 2.8,
+  "text": "volatility."
+ },
+ {
+  "start": 313.52,
+  "duration": 3.08,
+  "text": "In other words, AI isn't the only thing"
+ },
+ {
+  "start": 315.0,
+  "duration": 3.12,
+  "text": "happening in the world. It's now"
+ },
+ {
+  "start": 316.6,
+  "duration": 3.0,
+  "text": "interacting with things like war in"
+ },
+ {
+  "start": 318.12,
+  "duration": 2.799,
+  "text": "Iran."
+ },
+ {
+  "start": 319.6,
+  "duration": 3.12,
+  "text": "There is a last difference which I could"
+ },
+ {
+  "start": 320.919,
+  "duration": 3.561,
+  "text": "point out is that we've now had 3 and"
+ },
+ {
+  "start": 322.72,
+  "duration": 3.88,
+  "text": "1/2 years of the AI industry doing a"
+ },
+ {
+  "start": 324.48,
+  "duration": 4.28,
+  "text": "completely awful job of explaining"
+ },
+ {
+  "start": 326.6,
+  "duration": 3.64,
+  "text": "itself and talking about the future in"
+ },
+ {
+  "start": 328.76,
+  "duration": 3.52,
+  "text": "any way that's going to be even remotely"
+ },
+ {
+  "start": 330.24,
+  "duration": 3.6,
+  "text": "resonant to the average person."
+ },
+ {
+  "start": 332.28,
+  "duration": 3.8,
+  "text": "Not Boring's Packy McCormick recently"
+ },
+ {
+  "start": 333.84,
+  "duration": 3.8,
+  "text": "tweeted, \"AI is very weird for me"
+ },
+ {
+  "start": 336.08,
+  "duration": 2.88,
+  "text": "because normally I'd be the guy who'd"
+ },
+ {
+  "start": 337.64,
+  "duration": 3.44,
+  "text": "argue that it's crazy we're not more"
+ },
+ {
+  "start": 338.96,
+  "duration": 3.32,
+  "text": "excited about this miracle technology,"
+ },
+ {
+  "start": 341.08,
+  "duration": 3.08,
+  "text": "but I completely get the negative"
+ },
+ {
+  "start": 342.28,
+  "duration": 3.6,
+  "text": "sentiment. AI companies have clearly"
+ },
+ {
+  "start": 344.16,
+  "duration": 3.88,
+  "text": "botched telling the story. That's a big"
+ },
+ {
+  "start": 345.88,
+  "duration": 3.24,
+  "text": "piece of this. Telling people we built"
+ },
+ {
+  "start": 348.04,
+  "duration": 2.44,
+  "text": "this thing that is definitely going to"
+ },
+ {
+  "start": 349.12,
+  "duration": 2.64,
+  "text": "take your job and hopefully we can"
+ },
+ {
+  "start": 350.48,
+  "duration": 2.92,
+  "text": "figure out how to give you handouts or"
+ },
+ {
+  "start": 351.76,
+  "duration": 3.12,
+  "text": "something on the other side or come up"
+ },
+ {
+  "start": 353.4,
+  "duration": 4.12,
+  "text": "with even better jobs or whatever say"
+ },
+ {
+  "start": 354.88,
+  "duration": 4.2,
+  "text": "thank you is clearly terrible messaging."
+ },
+ {
+  "start": 357.52,
+  "duration": 3.16,
+  "text": "Anyways, it's a much longer tweet, but I"
+ },
+ {
+  "start": 359.08,
+  "duration": 3.2,
+  "text": "think that the incredibly poor messaging"
+ },
+ {
+  "start": 360.68,
+  "duration": 3.08,
+  "text": "from the AI industry is absolutely"
+ },
+ {
+  "start": 362.28,
+  "duration": 3.44,
+  "text": "another thing that has changed between"
+ },
+ {
+  "start": 363.76,
+  "duration": 3.2,
+  "text": "the first and the second moment. Not"
+ },
+ {
+  "start": 365.72,
+  "duration": 3.04,
+  "text": "that there was good messaging around"
+ },
+ {
+  "start": 366.96,
+  "duration": 3.16,
+  "text": "that first moment mind you. There just"
+ },
+ {
+  "start": 368.76,
+  "duration": 3.64,
+  "text": "hadn't been as much time for us to shoot"
+ },
+ {
+  "start": 370.12,
+  "duration": 4.2,
+  "text": "ourselves in the foot over and over yet."
+ },
+ {
+  "start": 372.4,
+  "duration": 3.32,
+  "text": "The point of this is right now"
+ },
+ {
+  "start": 374.32,
+  "duration": 4.16,
+  "text": "everything [clears throat] around the AI"
+ },
+ {
+  "start": 375.72,
+  "duration": 5.08,
+  "text": "discourse is incredibly heightened."
+ },
+ {
+  "start": 378.48,
+  "duration": 4.76,
+  "text": "The whole conversation is at an 11 all"
+ },
+ {
+  "start": 380.8,
+  "duration": 3.6,
+  "text": "the time and basically has been since we"
+ },
+ {
+  "start": 383.24,
+  "duration": 3.12,
+  "text": "all returned to work at the beginning of"
+ },
+ {
+  "start": 384.4,
+  "duration": 3.88,
+  "text": "2026."
+ },
+ {
+  "start": 386.36,
+  "duration": 4.04,
+  "text": "There were two conversations that really"
+ },
+ {
+  "start": 388.28,
+  "duration": 3.76,
+  "text": "demonstrated this this weekend."
+ },
+ {
+  "start": 390.4,
+  "duration": 3.32,
+  "text": "The first was around a weekend project"
+ },
+ {
+  "start": 392.04,
+  "duration": 4.24,
+  "text": "from developer Andrej Karpathy that"
+ },
+ {
+  "start": 393.72,
+  "duration": 4.4,
+  "text": "became an absolute firestorm. At 5:00"
+ },
+ {
+  "start": 396.28,
+  "duration": 4.24,
+  "text": "p.m. Eastern time on Saturday night,"
+ },
+ {
+  "start": 398.12,
+  "duration": 3.52,
+  "text": "Kaito on X tweeted, \"5 minutes ago,"
+ },
+ {
+  "start": 400.52,
+  "duration": 2.72,
+  "text": "Andrej Karpathy just dropped"
+ },
+ {
+  "start": 401.64,
+  "duration": 3.48,
+  "text": "karpathy.ai/jobs."
+ },
+ {
+  "start": 403.24,
+  "duration": 4.96,
+  "text": "He scraped every job in the US economy,"
+ },
+ {
+  "start": 405.12,
+  "duration": 5.72,
+  "text": "342 occupations from BLS, scored each"
+ },
+ {
+  "start": 408.2,
+  "duration": 4.88,
+  "text": "one's AI exposure 0 to 10 using an LLM,"
+ },
+ {
+  "start": 410.84,
+  "duration": 4.0,
+  "text": "and visualized it as a tree map. If your"
+ },
+ {
+  "start": 413.08,
+  "duration": 4.24,
+  "text": "whole job happens on a screen, you're"
+ },
+ {
+  "start": 414.84,
+  "duration": 6.0,
+  "text": "cooked. Average score across all jobs is"
+ },
+ {
+  "start": 417.32,
+  "duration": 5.4,
+  "text": "5.3 out of 10. Software devs, 8 to 9."
+ },
+ {
+  "start": 420.84,
+  "duration": 4.6,
+  "text": "Roofers, 0 to 1. Medical"
+ },
+ {
+  "start": 422.72,
+  "duration": 3.92,
+  "text": "transcriptionists, 10 out of 10.\" Skull"
+ },
+ {
+  "start": 425.44,
+  "duration": 2.12,
+  "text": "emoji."
+ },
+ {
+  "start": 426.64,
+  "duration": 3.24,
+  "text": "It pointed to this link"
+ },
+ {
+  "start": 427.56,
+  "duration": 4.44,
+  "text": "karpathy.ai/jobs,"
+ },
+ {
+  "start": 429.88,
+  "duration": 4.08,
+  "text": "which is the full chart."
+ },
+ {
+  "start": 432.0,
+  "duration": 3.96,
+  "text": "Instantly, Twitter was flooded with"
+ },
+ {
+  "start": 433.96,
+  "duration": 3.68,
+  "text": "takes like this one from"
+ },
+ {
+  "start": 435.96,
+  "duration": 3.72,
+  "text": "Siren emoji, do you understand what"
+ },
+ {
+  "start": 437.64,
+  "duration": 3.84,
+  "text": "Karpathy just did? He didn't write an"
+ },
+ {
+  "start": 439.68,
+  "duration": 4.0,
+  "text": "opinion piece. He scraped every single"
+ },
+ {
+  "start": 441.48,
+  "duration": 4.12,
+  "text": "job in America, ran it through AI, and"
+ },
+ {
+  "start": 443.68,
+  "duration": 4.12,
+  "text": "scored how replaceable you are on a"
+ },
+ {
+  "start": 445.6,
+  "duration": 4.56,
+  "text": "scale of 1 to 10. Not a prediction, a"
+ },
+ {
+  "start": 447.8,
+  "duration": 4.88,
+  "text": "diagnosis. Accountants scored nine,"
+ },
+ {
+  "start": 450.16,
+  "duration": 4.36,
+  "text": "paralegals nine, copywriters cooked,"
+ },
+ {
+  "start": 452.68,
+  "duration": 3.84,
+  "text": "radiologists reading scans, the AI"
+ },
+ {
+  "start": 454.52,
+  "duration": 3.36,
+  "text": "already does it faster. The only jobs"
+ },
+ {
+  "start": 456.52,
+  "duration": 3.08,
+  "text": "that scored lower, the ones that require"
+ },
+ {
+  "start": 457.88,
+  "duration": 3.48,
+  "text": "you to physically touch something. In"
+ },
+ {
+  "start": 459.6,
+  "duration": 4.8,
+  "text": "2015, learn to code was the answer to"
+ },
+ {
+  "start": 461.36,
+  "duration": 4.28,
+  "text": "everything. In 2025, code writes itself."
+ },
+ {
+  "start": 464.4,
+  "duration": 3.36,
+  "text": "The people who listen are now the most"
+ },
+ {
+  "start": 465.64,
+  "duration": 3.56,
+  "text": "replaceable generation in history. I"
+ },
+ {
+  "start": 467.76,
+  "duration": 2.96,
+  "text": "guess your degree didn't prepare you for"
+ },
+ {
+  "start": 469.2,
+  "duration": 3.24,
+  "text": "a career."
+ },
+ {
+  "start": 470.72,
+  "duration": 3.6,
+  "text": "Even people who aren't usually schlock"
+ },
+ {
+  "start": 472.44,
+  "duration": 3.2,
+  "text": "merchants like that started to veer into"
+ },
+ {
+  "start": 474.32,
+  "duration": 2.6,
+  "text": "the same sort of sensationalist"
+ },
+ {
+  "start": 475.64,
+  "duration": 3.72,
+  "text": "territory."
+ },
+ {
+  "start": 476.92,
+  "duration": 3.84,
+  "text": "Chubby @kimonusmits writes, \"Karpathy is"
+ },
+ {
+  "start": 479.36,
+  "duration": 4.0,
+  "text": "by no means interested in hyper"
+ },
+ {
+  "start": 480.76,
+  "duration": 4.52,
+  "text": "exaggeration. Using AI, he concluded"
+ },
+ {
+  "start": 483.36,
+  "duration": 4.4,
+  "text": "that out of 143 million people working"
+ },
+ {
+  "start": 485.28,
+  "duration": 4.16,
+  "text": "in the US, approximately 57 million are"
+ },
+ {
+  "start": 487.76,
+  "duration": 4.08,
+  "text": "at high to very high risk of their jobs"
+ },
+ {
+  "start": 489.44,
+  "duration": 4.64,
+  "text": "being negatively impacted by AI. That's"
+ },
+ {
+  "start": 491.84,
+  "duration": 4.24,
+  "text": "almost 40%. Let that sink in and"
+ },
+ {
+  "start": 494.08,
+  "duration": 2.96,
+  "text": "consider what it means.\""
+ },
+ {
+  "start": 496.08,
+  "duration": 2.76,
+  "text": "Now, at this point, if you listen"
+ },
+ {
+  "start": 497.04,
+  "duration": 4.16,
+  "text": "frequently, you're probably waiting for"
+ },
+ {
+  "start": 498.84,
+  "duration": 4.32,
+  "text": "the yes, but where's the nuance here?"
+ },
+ {
+  "start": 501.2,
+  "duration": 3.92,
+  "text": "Well, first of all, if you go actually"
+ },
+ {
+  "start": 503.16,
+  "duration": 3.28,
+  "text": "read the page that Karpathy posted,"
+ },
+ {
+  "start": 505.12,
+  "duration": 3.24,
+  "text": "which I don't think most of the people"
+ },
+ {
+  "start": 506.44,
+  "duration": 3.96,
+  "text": "who are tweeting about it did, he has a"
+ },
+ {
+  "start": 508.36,
+  "duration": 4.4,
+  "text": "very important caveat on digital AI"
+ },
+ {
+  "start": 510.4,
+  "duration": 4.36,
+  "text": "exposure scores. He writes, \"These are"
+ },
+ {
+  "start": 512.76,
+  "duration": 3.92,
+  "text": "rough LLM estimates, not rigorous"
+ },
+ {
+  "start": 514.76,
+  "duration": 3.959,
+  "text": "predictions. A high score does not"
+ },
+ {
+  "start": 516.68,
+  "duration": 3.76,
+  "text": "predict the job will disappear. Software"
+ },
+ {
+  "start": 518.719,
+  "duration": 3.521,
+  "text": "developers score nine out of 10 because"
+ },
+ {
+  "start": 520.44,
+  "duration": 3.68,
+  "text": "AI is transforming their work, but"
+ },
+ {
+  "start": 522.24,
+  "duration": 3.84,
+  "text": "demand for software could easily grow as"
+ },
+ {
+  "start": 524.12,
+  "duration": 3.719,
+  "text": "each developer becomes more productive."
+ },
+ {
+  "start": 526.08,
+  "duration": 4.32,
+  "text": "The score does not account for demand"
+ },
+ {
+  "start": 527.839,
+  "duration": 4.521,
+  "text": "elasticity, latent demand, regulatory"
+ },
+ {
+  "start": 530.4,
+  "duration": 3.28,
+  "text": "barriers, or social preferences for"
+ },
+ {
+  "start": 532.36,
+  "duration": 2.84,
+  "text": "human workers."
+ },
+ {
+  "start": 533.68,
+  "duration": 3.64,
+  "text": "Many high-exposure jobs will be"
+ },
+ {
+  "start": 535.2,
+  "duration": 3.76,
+  "text": "reshaped, not replaced.\""
+ },
+ {
+  "start": 537.32,
+  "duration": 3.36,
+  "text": "Indeed, Karpathy himself was frustrated"
+ },
+ {
+  "start": 538.96,
+  "duration": 3.44,
+  "text": "by the response. When someone on that"
+ },
+ {
+  "start": 540.68,
+  "duration": 4.08,
+  "text": "original tweet from Kaito said, \"I can't"
+ },
+ {
+  "start": 542.4,
+  "duration": 4.16,
+  "text": "find it,\" Andre responded, \"This was a"
+ },
+ {
+  "start": 544.76,
+  "duration": 3.88,
+  "text": "Saturday morning 2-hour vibe-coded"
+ },
+ {
+  "start": 546.56,
+  "duration": 3.2,
+  "text": "project inspired by a book I'm reading."
+ },
+ {
+  "start": 548.64,
+  "duration": 2.72,
+  "text": "I thought the code and data might be"
+ },
+ {
+  "start": 549.76,
+  "duration": 3.4,
+  "text": "helpful to others to explore the BLS"
+ },
+ {
+  "start": 551.36,
+  "duration": 2.8,
+  "text": "data set visually, or color it in"
+ },
+ {
+  "start": 553.16,
+  "duration": 1.84,
+  "text": "different ways, or with different"
+ },
+ {
+  "start": 554.16,
+  "duration": 2.36,
+  "text": "prompts, or add their own"
+ },
+ {
+  "start": 555.0,
+  "duration": 3.2,
+  "text": "visualizations.\""
+ },
+ {
+  "start": 556.52,
+  "duration": 3.24,
+  "text": "It's been wildly misinterpreted, which I"
+ },
+ {
+  "start": 558.2,
+  "duration": 3.76,
+  "text": "should have anticipated even despite the"
+ },
+ {
+  "start": 559.76,
+  "duration": 3.96,
+  "text": "read me doc, so I took it down."
+ },
+ {
+  "start": 561.96,
+  "duration": 4.32,
+  "text": "In another tweet, he wrote, \"The {quote}"
+ },
+ {
+  "start": 563.72,
+  "duration": 4.52,
+  "text": "exposure was scored by an LLM based on"
+ },
+ {
+  "start": 566.28,
+  "duration": 3.4,
+  "text": "how digital the job is. This has no"
+ },
+ {
+  "start": 568.24,
+  "duration": 3.52,
+  "text": "bearing on what actually happens to"
+ },
+ {
+  "start": 569.68,
+  "duration": 4.56,
+  "text": "these occupations, which has to do with"
+ },
+ {
+  "start": 571.76,
+  "duration": 4.04,
+  "text": "demand elasticity and a lot more. People"
+ },
+ {
+  "start": 574.24,
+  "duration": 3.84,
+  "text": "are sensationalizing the visualization"
+ },
+ {
+  "start": 575.8,
+  "duration": 4.0,
+  "text": "tool and putting words in my mouth."
+ },
+ {
+  "start": 578.08,
+  "duration": 3.68,
+  "text": "Now, there was some interesting nuance"
+ },
+ {
+  "start": 579.8,
+  "duration": 3.92,
+  "text": "conversation about this. The update"
+ },
+ {
+  "start": 581.76,
+  "duration": 3.36,
+  "text": "newsletter Stefan Schubert wrote, \"Many"
+ },
+ {
+  "start": 583.72,
+  "duration": 2.84,
+  "text": "seem to take this as a reason to believe"
+ },
+ {
+  "start": 585.12,
+  "duration": 2.76,
+  "text": "that the overall pace of automation will"
+ },
+ {
+  "start": 586.56,
+  "duration": 2.72,
+  "text": "be high, but I don't think that makes"
+ },
+ {
+  "start": 587.88,
+  "duration": 2.92,
+  "text": "any sense.\""
+ },
+ {
+  "start": 589.28,
+  "duration": 3.44,
+  "text": "Even more to the point, and more"
+ },
+ {
+  "start": 590.8,
+  "duration": 4.28,
+  "text": "insistently phrased, was Chicago Booth"
+ },
+ {
+  "start": 592.72,
+  "duration": 4.68,
+  "text": "economist Alex Imas who wrote, \"Exposure"
+ },
+ {
+  "start": 595.08,
+  "duration": 4.04,
+  "text": "does not mean threat of displacement. It"
+ },
+ {
+  "start": 597.4,
+  "duration": 3.68,
+  "text": "can literally mean the opposite."
+ },
+ {
+  "start": 599.12,
+  "duration": 4.32,
+  "text": "AI-exposed jobs may increase hiring and"
+ },
+ {
+  "start": 601.08,
+  "duration": 4.72,
+  "text": "attract higher wages.\" It all depends on"
+ },
+ {
+  "start": 603.44,
+  "duration": 5.12,
+  "text": "A, elasticity of consumer demand, and B,"
+ },
+ {
+  "start": 605.8,
+  "duration": 4.68,
+  "text": "number of AI-exposed tasks in a job."
+ },
+ {
+  "start": 608.56,
+  "duration": 4.04,
+  "text": "Anthropic's Peter McCrory added, \"I"
+ },
+ {
+  "start": 610.48,
+  "duration": 3.52,
+  "text": "agree strongly with Alex here. And my"
+ },
+ {
+  "start": 612.6,
+  "duration": 3.2,
+  "text": "read is that Claude usage patterns"
+ },
+ {
+  "start": 614.0,
+  "duration": 4.08,
+  "text": "clearly point toward uneven labor market"
+ },
+ {
+  "start": 615.8,
+  "duration": 3.84,
+  "text": "implications. Our recently introduced"
+ },
+ {
+  "start": 618.08,
+  "duration": 3.4,
+  "text": "observed exposure measure aims to"
+ },
+ {
+  "start": 619.64,
+  "duration": 3.28,
+  "text": "identify cases where exposure is more"
+ },
+ {
+  "start": 621.48,
+  "duration": 3.44,
+  "text": "likely to transform into actual"
+ },
+ {
+  "start": 622.92,
+  "duration": 3.84,
+  "text": "displacement. I.e., Claude is used in"
+ },
+ {
+  "start": 624.92,
+  "duration": 3.44,
+  "text": "automated ways for work-related purposes"
+ },
+ {
+  "start": 626.76,
+  "duration": 3.96,
+  "text": "on tasks that are conceptually feasible"
+ },
+ {
+  "start": 628.36,
+  "duration": 4.72,
+  "text": "for LLMs. But no exposure measure is"
+ },
+ {
+  "start": 630.72,
+  "duration": 4.76,
+  "text": "perfect or has monotone predictions. And"
+ },
+ {
+  "start": 633.08,
+  "duration": 3.84,
+  "text": "even when much of a job is automated,"
+ },
+ {
+  "start": 635.48,
+  "duration": 2.72,
+  "text": "the remaining bottleneck tasks may"
+ },
+ {
+  "start": 636.92,
+  "duration": 3.28,
+  "text": "ultimately increase demand for"
+ },
+ {
+  "start": 638.2,
+  "duration": 4.08,
+  "text": "complementary human skills even among"
+ },
+ {
+  "start": 640.2,
+  "duration": 4.28,
+  "text": "highly exposed roles.\""
+ },
+ {
+  "start": 642.28,
+  "duration": 3.76,
+  "text": "Toronto economist Kevin Bryan said, \"I"
+ },
+ {
+  "start": 644.48,
+  "duration": 4.44,
+  "text": "bet a thousand dollars that from now to"
+ },
+ {
+  "start": 646.04,
+  "duration": 4.72,
+  "text": "2030, most {quote} susceptible jobs see"
+ },
+ {
+  "start": 648.92,
+  "duration": 3.16,
+  "text": "increased share of labor.\""
+ },
+ {
+  "start": 650.76,
+  "duration": 3.44,
+  "text": "In the model these types of charts are"
+ },
+ {
+  "start": 652.08,
+  "duration": 5.0,
+  "text": "based on, it is explicitly not AI can"
+ },
+ {
+  "start": 654.2,
+  "duration": 4.92,
+  "text": "substitute, but AI is related. AI is a"
+ },
+ {
+  "start": 657.08,
+  "duration": 3.759,
+  "text": "complement too. Who doesn't want to code"
+ },
+ {
+  "start": 659.12,
+  "duration": 2.8,
+  "text": "right now, for instance?"
+ },
+ {
+  "start": 660.839,
+  "duration": 2.801,
+  "text": "And I think that's all true, and"
+ },
+ {
+  "start": 661.92,
+  "duration": 3.76,
+  "text": "obviously we will continue to discuss"
+ },
+ {
+  "start": 663.64,
+  "duration": 4.16,
+  "text": "the real no BS labor market implications"
+ },
+ {
+  "start": 665.68,
+  "duration": 4.56,
+  "text": "of AI. But the point is, relative to our"
+ },
+ {
+  "start": 667.8,
+  "duration": 4.48,
+  "text": "larger conversation, this frenetic tone"
+ },
+ {
+  "start": 670.24,
+  "duration": 3.56,
+  "text": "to the discourse. Not helping this was"
+ },
+ {
+  "start": 672.28,
+  "duration": 3.36,
+  "text": "the fact that it literally within one"
+ },
+ {
+  "start": 673.8,
+  "duration": 4.08,
+  "text": "minute of Kaito posting that thing about"
+ },
+ {
+  "start": 675.64,
+  "duration": 4.56,
+  "text": "Karpathy's research, the Kobaisi letter"
+ },
+ {
+  "start": 677.88,
+  "duration": 4.08,
+  "text": "posted, \"Breaking, Meta is planning"
+ },
+ {
+  "start": 680.2,
+  "duration": 3.56,
+  "text": "sweeping layoffs that could affect 20%"
+ },
+ {
+  "start": 681.96,
+  "duration": 3.28,
+  "text": "or more of the company.\""
+ },
+ {
+  "start": 683.76,
+  "duration": 3.36,
+  "text": "Like I said, right now the conversation"
+ },
+ {
+  "start": 685.24,
+  "duration": 3.48,
+  "text": "goes to 11."
+ },
+ {
+  "start": 687.12,
+  "duration": 3.48,
+  "text": "But it wasn't just the negative side of"
+ },
+ {
+  "start": 688.72,
+  "duration": 3.56,
+  "text": "AI that was at 11."
+ },
+ {
+  "start": 690.6,
+  "duration": 3.44,
+  "text": "Google DeepMind's Seb Kryer shared an"
+ },
+ {
+  "start": 692.28,
+  "duration": 4.08,
+  "text": "article link from The Australian that"
+ },
+ {
+  "start": 694.04,
+  "duration": 5.2,
+  "text": "went hyper-viral with nearly 13 million"
+ },
+ {
+  "start": 696.36,
+  "duration": 5.96,
+  "text": "views. Victor summed it up this way,"
+ },
+ {
+  "start": 699.24,
+  "duration": 5.2,
+  "text": "\"This is actually insane. Be tech guy in"
+ },
+ {
+  "start": 702.32,
+  "duration": 4.68,
+  "text": "Australia. Adopt cancer-riddled rescue"
+ },
+ {
+  "start": 704.44,
+  "duration": 4.52,
+  "text": "dog, months to live. Pay $3,000 to"
+ },
+ {
+  "start": 707.0,
+  "duration": 4.24,
+  "text": "sequence her tumor DNA, feed it to"
+ },
+ {
+  "start": 708.96,
+  "duration": 4.6,
+  "text": "ChatGPT and AlphaFold, zero background"
+ },
+ {
+  "start": 711.24,
+  "duration": 4.44,
+  "text": "in biology, identify mutated proteins,"
+ },
+ {
+  "start": 713.56,
+  "duration": 4.68,
+  "text": "match them to drug targets, design a"
+ },
+ {
+  "start": 715.68,
+  "duration": 4.48,
+  "text": "custom mRNA cancer vaccine from scratch,"
+ },
+ {
+  "start": 718.24,
+  "duration": 3.68,
+  "text": "genomics professor is gobsmacked some"
+ },
+ {
+  "start": 720.16,
+  "duration": 3.44,
+  "text": "puppy lover did this on his own, need"
+ },
+ {
+  "start": 721.92,
+  "duration": 2.84,
+  "text": "ethics approval to administer it, red"
+ },
+ {
+  "start": 723.6,
+  "duration": 3.44,
+  "text": "tape takes longer than designing the"
+ },
+ {
+  "start": 724.76,
+  "duration": 3.72,
+  "text": "vaccine, 3 months finally approved,"
+ },
+ {
+  "start": 727.04,
+  "duration": 3.24,
+  "text": "drive 10 hours to get Rosie her first"
+ },
+ {
+  "start": 728.48,
+  "duration": 4.32,
+  "text": "injection, tumor halves, coat gets"
+ },
+ {
+  "start": 730.28,
+  "duration": 4.28,
+  "text": "glossy again, dog is alive and happy."
+ },
+ {
+  "start": 732.8,
+  "duration": 2.76,
+  "text": "Professor, if we can do this for a dog,"
+ },
+ {
+  "start": 734.56,
+  "duration": 2.2,
+  "text": "why aren't we rolling this out to"
+ },
+ {
+  "start": 735.56,
+  "duration": 3.48,
+  "text": "humans?"
+ },
+ {
+  "start": 736.76,
+  "duration": 3.84,
+  "text": "One man with a chatbot and $3,000 just"
+ },
+ {
+  "start": 739.04,
+  "duration": 3.32,
+  "text": "outperformed the entire pharmaceutical"
+ },
+ {
+  "start": 740.6,
+  "duration": 4.44,
+  "text": "discovery pipeline."
+ },
+ {
+  "start": 742.36,
+  "duration": 4.08,
+  "text": "We are going to cure so many diseases. I"
+ },
+ {
+  "start": 745.04,
+  "duration": 3.36,
+  "text": "don't think people realize how good"
+ },
+ {
+  "start": 746.44,
+  "duration": 3.76,
+  "text": "things are going to get."
+ },
+ {
+  "start": 748.4,
+  "duration": 4.0,
+  "text": "So, here's the story. Australian"
+ },
+ {
+  "start": 750.2,
+  "duration": 4.76,
+  "text": "entrepreneur Paul Coiningham has a dog"
+ },
+ {
+  "start": 752.4,
+  "duration": 3.96,
+  "text": "named Rosie. In 2024, Rosie was"
+ },
+ {
+  "start": 754.96,
+  "duration": 3.04,
+  "text": "diagnosed with cancer that ended up"
+ },
+ {
+  "start": 756.36,
+  "duration": 4.24,
+  "text": "being non-responsive to chemotherapy or"
+ },
+ {
+  "start": 758.0,
+  "duration": 4.839,
+  "text": "surgery. The tumors just kept growing."
+ },
+ {
+  "start": 760.6,
+  "duration": 4.08,
+  "text": "When Paul turned to ChatGPT for help, it"
+ },
+ {
+  "start": 762.839,
+  "duration": 3.721,
+  "text": "suggested that he should get Rosie's DNA"
+ },
+ {
+  "start": 764.68,
+  "duration": 3.6,
+  "text": "sequenced and then use Google DeepMind's"
+ },
+ {
+  "start": 766.56,
+  "duration": 4.0,
+  "text": "AlphaFold to look for mutations that"
+ },
+ {
+  "start": 768.28,
+  "duration": 3.6,
+  "text": "could be a target for immunotherapy."
+ },
+ {
+  "start": 770.56,
+  "duration": 3.279,
+  "text": "When a drug maker wouldn't provide an"
+ },
+ {
+  "start": 771.88,
+  "duration": 3.56,
+  "text": "off-the-shelf immunotherapy treatment,"
+ },
+ {
+  "start": 773.839,
+  "duration": 3.321,
+  "text": "Coiningham turned to Pall Thordarson,"
+ },
+ {
+  "start": 775.44,
+  "duration": 3.76,
+  "text": "the director of the RNA Institute at the"
+ },
+ {
+  "start": 777.16,
+  "duration": 4.04,
+  "text": "University of New South Wales."
+ },
+ {
+  "start": 779.2,
+  "duration": 4.08,
+  "text": "Thordarson used Rosie's DNA to develop a"
+ },
+ {
+  "start": 781.2,
+  "duration": 4.4,
+  "text": "bespoke mRNA vaccine in less than 2"
+ },
+ {
+  "start": 783.28,
+  "duration": 4.16,
+  "text": "months. He told the press, \"This is the"
+ },
+ {
+  "start": 785.6,
+  "duration": 4.0,
+  "text": "first time a personalized cancer vaccine"
+ },
+ {
+  "start": 787.44,
+  "duration": 3.6,
+  "text": "has been designed for a dog. This is"
+ },
+ {
+  "start": 789.6,
+  "duration": 3.6,
+  "text": "still at the frontier of where cancer"
+ },
+ {
+  "start": 791.04,
+  "duration": 3.32,
+  "text": "immunotherapeutics are. And ultimately,"
+ },
+ {
+  "start": 793.2,
+  "duration": 2.4,
+  "text": "we're going to use this for helping"
+ },
+ {
+  "start": 794.36,
+  "duration": 2.44,
+  "text": "humans."
+ },
+ {
+  "start": 795.6,
+  "duration": 2.52,
+  "text": "What Rosie is teaching us is that"
+ },
+ {
+  "start": 796.8,
+  "duration": 3.039,
+  "text": "personalized medicine can be very"
+ },
+ {
+  "start": 798.12,
+  "duration": 4.28,
+  "text": "effective and done in a time-sensitive"
+ },
+ {
+  "start": 799.839,
+  "duration": 3.761,
+  "text": "manner with mRNA technology."
+ },
+ {
+  "start": 802.4,
+  "duration": 2.4,
+  "text": "Now, as you can tell, there is a lot"
+ },
+ {
+  "start": 803.6,
+  "duration": 3.48,
+  "text": "more to this process than simply"
+ },
+ {
+  "start": 804.8,
+  "duration": 3.88,
+  "text": "prompting ChatGPT to cure cancer. And"
+ },
+ {
+  "start": 807.08,
+  "duration": 3.32,
+  "text": "indeed, even the treatment itself wasn't"
+ },
+ {
+  "start": 808.68,
+  "duration": 3.52,
+  "text": "entirely successful."
+ },
+ {
+  "start": 810.4,
+  "duration": 3.08,
+  "text": "Yes, some of Rosie's tumors have shrunk,"
+ },
+ {
+  "start": 812.2,
+  "duration": 3.12,
+  "text": "but it would be certainly going too far"
+ },
+ {
+  "start": 813.48,
+  "duration": 3.44,
+  "text": "to call it a cancer cure."
+ },
+ {
+  "start": 815.32,
+  "duration": 3.0,
+  "text": "On top of that, it's arguably a story"
+ },
+ {
+  "start": 816.92,
+  "duration": 3.24,
+  "text": "about how revolutionary the Nobel"
+ },
+ {
+  "start": 818.32,
+  "duration": 4.12,
+  "text": "Prize-winning AlphaFold model is, rather"
+ },
+ {
+  "start": 820.16,
+  "duration": 3.88,
+  "text": "than a story about ChatGPT. Palle"
+ },
+ {
+  "start": 822.44,
+  "duration": 4.08,
+  "text": "Thordarson ended up turning to X to"
+ },
+ {
+  "start": 824.04,
+  "duration": 4.4,
+  "text": "explain some nuances of the story. The"
+ },
+ {
+  "start": 826.52,
+  "duration": 3.28,
+  "text": "nuances include the fact that this was"
+ },
+ {
+  "start": 828.44,
+  "duration": 3.12,
+  "text": "less about a cure and more about buying"
+ },
+ {
+  "start": 829.8,
+  "duration": 3.6,
+  "text": "time, the fact that it's difficult to"
+ },
+ {
+  "start": 831.56,
+  "duration": 3.4,
+  "text": "estimate the real costs as lots of"
+ },
+ {
+  "start": 833.4,
+  "duration": 3.76,
+  "text": "people donated time and resources to"
+ },
+ {
+  "start": 834.96,
+  "duration": 3.32,
+  "text": "this. A third nuance is that regulation"
+ },
+ {
+  "start": 837.16,
+  "duration": 2.32,
+  "text": "of vet research and treatment is"
+ },
+ {
+  "start": 838.28,
+  "duration": 3.92,
+  "text": "obviously quite different than human"
+ },
+ {
+  "start": 839.48,
+  "duration": 4.76,
+  "text": "health. But ultimately, Palle says, in"
+ },
+ {
+  "start": 842.2,
+  "duration": 3.6,
+  "text": "the human health space, Rosie's story"
+ },
+ {
+  "start": 844.24,
+  "duration": 3.72,
+  "text": "demonstrates that we can democratize the"
+ },
+ {
+  "start": 845.8,
+  "duration": 3.64,
+  "text": "process of designing cancer vaccine."
+ },
+ {
+  "start": 847.96,
+  "duration": 2.6,
+  "text": "While genomic analysis and RNA"
+ },
+ {
+  "start": 849.44,
+  "duration": 3.36,
+  "text": "production will continue to be"
+ },
+ {
+  "start": 850.56,
+  "duration": 3.68,
+  "text": "specialized, they could turn into pure"
+ },
+ {
+  "start": 852.8,
+  "duration": 3.6,
+  "text": "service provision, especially as"
+ },
+ {
+  "start": 854.24,
+  "duration": 3.64,
+  "text": "automation increases. This then begs the"
+ },
+ {
+  "start": 856.4,
+  "duration": 3.56,
+  "text": "question, do we need to overhaul the"
+ },
+ {
+  "start": 857.88,
+  "duration": 5.0,
+  "text": "regulatory regimes with this in mind?"
+ },
+ {
+  "start": 859.96,
+  "duration": 4.32,
+  "text": "And can we ensure equitable access?"
+ },
+ {
+  "start": 862.88,
+  "duration": 3.04,
+  "text": "Now, of course, there were tons of"
+ },
+ {
+  "start": 864.28,
+  "duration": 3.6,
+  "text": "people who were skeptical on spec when"
+ },
+ {
+  "start": 865.92,
+  "duration": 3.52,
+  "text": "they saw the story, even before all that"
+ },
+ {
+  "start": 867.88,
+  "duration": 3.8,
+  "text": "nuance was shared."
+ },
+ {
+  "start": 869.44,
+  "duration": 3.52,
+  "text": "And what's more, unsurprisingly, I"
+ },
+ {
+  "start": 871.68,
+  "duration": 2.88,
+  "text": "personally find it a little bit"
+ },
+ {
+  "start": 872.96,
+  "duration": 4.04,
+  "text": "refreshing to have people excited about"
+ },
+ {
+  "start": 874.56,
+  "duration": 3.72,
+  "text": "the positive disruptive potential of AI,"
+ },
+ {
+  "start": 877.0,
+  "duration": 2.76,
+  "text": "than to just be constantly looking at"
+ },
+ {
+  "start": 878.28,
+  "duration": 2.96,
+  "text": "the negative. But the point is that"
+ },
+ {
+  "start": 879.76,
+  "duration": 2.76,
+  "text": "these are still two sides of the same"
+ },
+ {
+  "start": 881.24,
+  "duration": 3.64,
+  "text": "coin."
+ },
+ {
+  "start": 882.52,
+  "duration": 4.64,
+  "text": "We are in the midst of the transition"
+ },
+ {
+  "start": 884.88,
+  "duration": 4.24,
+  "text": "into AI second moment. And for a little"
+ },
+ {
+  "start": 887.16,
+  "duration": 3.48,
+  "text": "while, until we all get used to the new"
+ },
+ {
+  "start": 889.12,
+  "duration": 3.64,
+  "text": "paradigm that we're living in, it's"
+ },
+ {
+  "start": 890.64,
+  "duration": 3.72,
+  "text": "going to be weird. All I can promise is"
+ },
+ {
+  "start": 892.76,
+  "duration": 2.92,
+  "text": "that if you hang out around here, you"
+ },
+ {
+  "start": 894.36,
+  "duration": 3.16,
+  "text": "will feel at least slightly less like"
+ },
+ {
+  "start": 895.68,
+  "duration": 2.8,
+  "text": "you're taking crazy pills."
+ },
+ {
+  "start": 897.52,
+  "duration": 2.76,
+  "text": "For now, that is going to do it for"
+ },
+ {
+  "start": 898.48,
+  "duration": 3.76,
+  "text": "today's AI Daily Brief. Appreciate you"
+ },
+ {
+  "start": 900.28,
+  "duration": 5.28,
+  "text": "listening or watching, as always. Until"
+ },
+ {
+  "start": 902.24,
+  "duration": 3.32,
+  "text": "next time, peace."
+ }
+]

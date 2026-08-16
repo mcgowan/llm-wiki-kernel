@@ -1,0 +1,1192 @@
+[
+ {
+  "start": 0.0,
+  "duration": 3.56,
+  "text": "In this operator's bonus episode, we are"
+ },
+ {
+  "start": 1.84,
+  "duration": 3.32,
+  "text": "talking about the agents that people are"
+ },
+ {
+  "start": 3.56,
+  "duration": 3.16,
+  "text": "building, the challenges they're running"
+ },
+ {
+  "start": 5.16,
+  "duration": 4.36,
+  "text": "into, and what it teaches us about the"
+ },
+ {
+  "start": 6.72,
+  "duration": 5.08,
+  "text": "full breadth of agentic use cases."
+ },
+ {
+  "start": 9.52,
+  "duration": 4.36,
+  "text": "All right, friends. Happy weekend. We"
+ },
+ {
+  "start": 11.8,
+  "duration": 4.28,
+  "text": "have a quick little operator's bonus"
+ },
+ {
+  "start": 13.88,
+  "duration": 3.44,
+  "text": "episode for you today. As you know, for"
+ },
+ {
+  "start": 16.08,
+  "duration": 3.6,
+  "text": "the last few weeks, I've been running"
+ },
+ {
+  "start": 17.32,
+  "duration": 4.36,
+  "text": "this agent madness experiment. I love a"
+ },
+ {
+  "start": 19.68,
+  "duration": 3.24,
+  "text": "good bracket. March madness is fun, and"
+ },
+ {
+  "start": 21.68,
+  "duration": 2.92,
+  "text": "I thought it would be a cool way to show"
+ },
+ {
+  "start": 22.92,
+  "duration": 4.08,
+  "text": "off the interesting agents people are"
+ },
+ {
+  "start": 24.6,
+  "duration": 4.32,
+  "text": "building. The big theme of 2026 is of"
+ },
+ {
+  "start": 27.0,
+  "duration": 3.92,
+  "text": "course that agents are officially real,"
+ },
+ {
+  "start": 28.92,
+  "duration": 3.8,
+  "text": "and you, yes, you, my friends, can build"
+ },
+ {
+  "start": 30.92,
+  "duration": 3.84,
+  "text": "them yourselves. And agent madness is"
+ },
+ {
+  "start": 32.72,
+  "duration": 4.12,
+  "text": "way less about the competition aspect"
+ },
+ {
+  "start": 34.76,
+  "duration": 3.92,
+  "text": "and more just about a fun way outside of"
+ },
+ {
+  "start": 36.84,
+  "duration": 3.8,
+  "text": "just a gallery to show off what people"
+ },
+ {
+  "start": 38.68,
+  "duration": 3.88,
+  "text": "are cooking up. We are now, as of the"
+ },
+ {
+  "start": 40.64,
+  "duration": 3.8,
+  "text": "time of this recording, in the Elite"
+ },
+ {
+  "start": 42.56,
+  "duration": 3.52,
+  "text": "Eight. But, I wanted to zoom out even"
+ },
+ {
+  "start": 44.44,
+  "duration": 3.64,
+  "text": "more broadly than that to talk about"
+ },
+ {
+  "start": 46.08,
+  "duration": 3.56,
+  "text": "some of the patterns that we saw. We had"
+ },
+ {
+  "start": 48.08,
+  "duration": 3.08,
+  "text": "about 100 submissions, and it was"
+ },
+ {
+  "start": 49.64,
+  "duration": 4.08,
+  "text": "overwhelmingly solo builders. They"
+ },
+ {
+  "start": 51.16,
+  "duration": 4.48,
+  "text": "represented about 71% of the field. That"
+ },
+ {
+  "start": 53.72,
+  "duration": 4.8,
+  "text": "said, among the projects that were"
+ },
+ {
+  "start": 55.64,
+  "duration": 6.0,
+  "text": "accepted, teams had an 87% acceptance"
+ },
+ {
+  "start": 58.52,
+  "duration": 4.48,
+  "text": "rate versus 51% for solos. Now, to give"
+ },
+ {
+  "start": 61.64,
+  "duration": 3.8,
+  "text": "you a sense of how acceptance actually"
+ },
+ {
+  "start": 63.0,
+  "duration": 4.4,
+  "text": "worked, I wanted absolutely nothing to"
+ },
+ {
+  "start": 65.44,
+  "duration": 5.12,
+  "text": "do with judging people's projects. So, I"
+ },
+ {
+  "start": 67.4,
+  "duration": 4.52,
+  "text": "had Opus 4 6 and GPT 5.4 debate, give"
+ },
+ {
+  "start": 70.56,
+  "duration": 2.68,
+  "text": "each project a score on a number of"
+ },
+ {
+  "start": 71.92,
+  "duration": 3.92,
+  "text": "different dimensions, and then"
+ },
+ {
+  "start": 73.24,
+  "duration": 4.56,
+  "text": "effectively use those top 64 ranks to"
+ },
+ {
+  "start": 75.84,
+  "duration": 3.64,
+  "text": "build out the bracket. I didn't actually"
+ },
+ {
+  "start": 77.8,
+  "duration": 3.36,
+  "text": "have to step in at all, so this is all"
+ },
+ {
+  "start": 79.48,
+  "duration": 3.36,
+  "text": "an AI-judged thing. So, if your project"
+ },
+ {
+  "start": 81.16,
+  "duration": 3.04,
+  "text": "didn't get in, your beef is with the"
+ },
+ {
+  "start": 82.84,
+  "duration": 3.08,
+  "text": "model labs."
+ },
+ {
+  "start": 84.2,
+  "duration": 4.24,
+  "text": "Unsurprisingly, the products that were"
+ },
+ {
+  "start": 85.92,
+  "duration": 4.36,
+  "text": "live got in at a much higher rate, about"
+ },
+ {
+  "start": 88.44,
+  "duration": 3.6,
+  "text": "twice as frequently as the companies"
+ },
+ {
+  "start": 90.28,
+  "duration": 3.56,
+  "text": "that were still at the prototype stage."
+ },
+ {
+  "start": 92.04,
+  "duration": 3.6,
+  "text": "And one interesting little note, about"
+ },
+ {
+  "start": 93.84,
+  "duration": 2.92,
+  "text": "20% of the projects came from companies"
+ },
+ {
+  "start": 95.64,
+  "duration": 3.4,
+  "text": "that said that they were entirely"
+ },
+ {
+  "start": 96.76,
+  "duration": 4.24,
+  "text": "AI-run. Okay. So, in terms of"
+ },
+ {
+  "start": 99.04,
+  "duration": 4.24,
+  "text": "observations, one really interesting"
+ },
+ {
+  "start": 101.0,
+  "duration": 4.16,
+  "text": "thing is that people are not building"
+ },
+ {
+  "start": 103.28,
+  "duration": 3.88,
+  "text": "themselves tools. They are building"
+ },
+ {
+  "start": 105.16,
+  "duration": 4.76,
+  "text": "themselves digital employees and org"
+ },
+ {
+  "start": 107.16,
+  "duration": 4.44,
+  "text": "charts. Some are explicitly employees."
+ },
+ {
+  "start": 109.92,
+  "duration": 4.2,
+  "text": "For example, Harold called itself an AI"
+ },
+ {
+  "start": 111.6,
+  "duration": 4.64,
+  "text": "chief of staff. Diamond dozen.ai had"
+ },
+ {
+  "start": 114.12,
+  "duration": 3.76,
+  "text": "Atlas as CEO, Nova running engineering,"
+ },
+ {
+  "start": 116.24,
+  "duration": 2.68,
+  "text": "and Blaze running marketing. And no,"
+ },
+ {
+  "start": 117.88,
+  "duration": 2.76,
+  "text": "those aren't just people with really"
+ },
+ {
+  "start": 118.92,
+  "duration": 4.08,
+  "text": "cool parents. Those are the names of the"
+ },
+ {
+  "start": 120.64,
+  "duration": 4.52,
+  "text": "agents. The fleet runs seven agents with"
+ },
+ {
+  "start": 123.0,
+  "duration": 4.8,
+  "text": "a chief of staff orchestrator. And Myze"
+ },
+ {
+  "start": 125.16,
+  "duration": 4.72,
+  "text": "has employee IDs for its agents and even"
+ },
+ {
+  "start": 127.8,
+  "duration": 3.239,
+  "text": "a three-strike termination policy where"
+ },
+ {
+  "start": 129.88,
+  "duration": 3.12,
+  "text": "one of the agents was fired for"
+ },
+ {
+  "start": 131.039,
+  "duration": 3.241,
+  "text": "fabricating business logic."
+ },
+ {
+  "start": 133.0,
+  "duration": 2.76,
+  "text": "So, in a very short amount of time,"
+ },
+ {
+  "start": 134.28,
+  "duration": 3.52,
+  "text": "you've gone from AI assistant to AI"
+ },
+ {
+  "start": 135.76,
+  "duration": 3.28,
+  "text": "employee to AI org chart, and it's very"
+ },
+ {
+  "start": 137.8,
+  "duration": 3.64,
+  "text": "clear that a big strand of"
+ },
+ {
+  "start": 139.04,
+  "duration": 4.0,
+  "text": "experimentation right now is not can AI"
+ },
+ {
+  "start": 141.44,
+  "duration": 3.48,
+  "text": "do work, but what's the minimum level of"
+ },
+ {
+  "start": 143.04,
+  "duration": 3.24,
+  "text": "human involvement. Now, for what it's"
+ },
+ {
+  "start": 144.92,
+  "duration": 2.84,
+  "text": "worth, I don't think this is where"
+ },
+ {
+  "start": 146.28,
+  "duration": 3.24,
+  "text": "things are going to land. I think that"
+ },
+ {
+  "start": 147.76,
+  "duration": 3.12,
+  "text": "it's very natural that we're in a phase"
+ },
+ {
+  "start": 149.52,
+  "duration": 3.8,
+  "text": "where we're going to the absolute"
+ },
+ {
+  "start": 150.88,
+  "duration": 4.04,
+  "text": "extremes to see what's possible. This is"
+ },
+ {
+  "start": 153.32,
+  "duration": 3.6,
+  "text": "of course the story of Pulsia that we've"
+ },
+ {
+  "start": 154.92,
+  "duration": 3.28,
+  "text": "covered on here before as well. I don't"
+ },
+ {
+  "start": 156.92,
+  "duration": 2.84,
+  "text": "really think the idea is that the"
+ },
+ {
+  "start": 158.2,
+  "duration": 3.52,
+  "text": "optimal number of humans to be involved"
+ },
+ {
+  "start": 159.76,
+  "duration": 3.88,
+  "text": "in a company is zero or one. I think"
+ },
+ {
+  "start": 161.72,
+  "duration": 3.8,
+  "text": "it's that by removing humans, you can"
+ },
+ {
+  "start": 163.64,
+  "duration": 4.24,
+  "text": "see where the current coordination and"
+ },
+ {
+  "start": 165.52,
+  "duration": 4.96,
+  "text": "capability set starts to break down."
+ },
+ {
+  "start": 167.88,
+  "duration": 4.84,
+  "text": "Now, if the org chart stuff was a really"
+ },
+ {
+  "start": 170.48,
+  "duration": 3.96,
+  "text": "persistent theme across the projects,"
+ },
+ {
+  "start": 172.72,
+  "duration": 3.88,
+  "text": "many of the most emotionally resonant"
+ },
+ {
+  "start": 174.44,
+  "duration": 3.44,
+  "text": "submissions pointed somewhere different."
+ },
+ {
+  "start": 176.6,
+  "duration": 3.76,
+  "text": "These are products that I think you"
+ },
+ {
+  "start": 177.88,
+  "duration": 4.04,
+  "text": "could see as markets of one. In other"
+ },
+ {
+  "start": 180.36,
+  "duration": 3.4,
+  "text": "words, they are problems that you"
+ },
+ {
+  "start": 181.92,
+  "duration": 3.72,
+  "text": "wouldn't necessarily expect companies to"
+ },
+ {
+  "start": 183.76,
+  "duration": 3.36,
+  "text": "build for because they're so specific"
+ },
+ {
+  "start": 185.64,
+  "duration": 3.24,
+  "text": "and discrete to the person who built"
+ },
+ {
+  "start": 187.12,
+  "duration": 4.12,
+  "text": "them. And of course, this is where you"
+ },
+ {
+  "start": 188.88,
+  "duration": 4.72,
+  "text": "see the payoff of the changing cost of"
+ },
+ {
+  "start": 191.24,
+  "duration": 4.04,
+  "text": "production of software. So, a couple of"
+ },
+ {
+  "start": 193.6,
+  "duration": 3.68,
+  "text": "examples from this pool, someone with"
+ },
+ {
+  "start": 195.28,
+  "duration": 3.6,
+  "text": "episodic Graves' disease gave Claude 9"
+ },
+ {
+  "start": 197.28,
+  "duration": 3.48,
+  "text": "years of Apple Health data, and their"
+ },
+ {
+  "start": 198.88,
+  "duration": 4.08,
+  "text": "detector now catches thyroid flares two"
+ },
+ {
+  "start": 200.76,
+  "duration": 5.24,
+  "text": "or three weeks early. A non-technical"
+ },
+ {
+  "start": 202.96,
+  "duration": 5.24,
+  "text": "ADHD mom built LifeCoachOS. An Arkansas"
+ },
+ {
+  "start": 206.0,
+  "duration": 3.8,
+  "text": "kayaker built Creek Intelligence, which"
+ },
+ {
+  "start": 208.2,
+  "duration": 3.48,
+  "text": "predicts when rain-fed whitewater creeks"
+ },
+ {
+  "start": 209.8,
+  "duration": 3.52,
+  "text": "are runnable. And a parent built a"
+ },
+ {
+  "start": 211.68,
+  "duration": 4.36,
+  "text": "toddler behavior chart rendering as an"
+ },
+ {
+  "start": 213.32,
+  "duration": 5.12,
+  "text": "exploding universe called Jude Stars."
+ },
+ {
+  "start": 216.04,
+  "duration": 4.68,
+  "text": "In terms of challenges people ran into,"
+ },
+ {
+  "start": 218.44,
+  "duration": 3.8,
+  "text": "there is one clear infrastructure gap"
+ },
+ {
+  "start": 220.72,
+  "duration": 4.24,
+  "text": "that the whole field is screaming about,"
+ },
+ {
+  "start": 222.24,
+  "duration": 4.2,
+  "text": "and that is memory. A meaningful number"
+ },
+ {
+  "start": 224.96,
+  "duration": 3.2,
+  "text": "of the submissions are effectively"
+ },
+ {
+  "start": 226.44,
+  "duration": 3.8,
+  "text": "elaborate workarounds for agents"
+ },
+ {
+  "start": 228.16,
+  "duration": 4.8,
+  "text": "forgetting everything between sessions."
+ },
+ {
+  "start": 230.24,
+  "duration": 4.16,
+  "text": "Myze uses 50-plus markdown brain files."
+ },
+ {
+  "start": 232.96,
+  "duration": 2.6,
+  "text": "Sign up reported that their agents kept"
+ },
+ {
+  "start": 234.4,
+  "duration": 3.4,
+  "text": "forgetting what each other were working"
+ },
+ {
+  "start": 235.56,
+  "duration": 4.08,
+  "text": "on. Carrier file is literally a text"
+ },
+ {
+  "start": 237.8,
+  "duration": 4.12,
+  "text": "file you paste into any AI to help with"
+ },
+ {
+  "start": 239.64,
+  "duration": 3.96,
+  "text": "context. Open Brain shares one MCP"
+ },
+ {
+  "start": 241.92,
+  "duration": 3.92,
+  "text": "memory server across Claude, Code,"
+ },
+ {
+  "start": 243.6,
+  "duration": 4.2,
+  "text": "Cursor, and Windsurf. All of these"
+ },
+ {
+  "start": 245.84,
+  "duration": 4.48,
+  "text": "hacks, markdown files, knowledge graphs,"
+ },
+ {
+  "start": 247.8,
+  "duration": 4.68,
+  "text": "vector DBs, copy-paste text, is kind of"
+ },
+ {
+  "start": 250.32,
+  "duration": 3.96,
+  "text": "the diagnosis of the big problem facing"
+ },
+ {
+  "start": 252.48,
+  "duration": 3.0,
+  "text": "the agent ecosystem, which is the memory"
+ },
+ {
+  "start": 254.28,
+  "duration": 3.519,
+  "text": "problem."
+ },
+ {
+  "start": 255.48,
+  "duration": 4.64,
+  "text": "Now, in terms of who is building, the"
+ },
+ {
+  "start": 257.799,
+  "duration": 4.441,
+  "text": "median builder here is probably not who"
+ },
+ {
+  "start": 260.12,
+  "duration": 3.6,
+  "text": "you'd guess. Partially, that is of"
+ },
+ {
+  "start": 262.24,
+  "duration": 3.32,
+  "text": "course because of the wide nature of"
+ },
+ {
+  "start": 263.72,
+  "duration": 3.84,
+  "text": "this audience. Partially, it's because"
+ },
+ {
+  "start": 265.56,
+  "duration": 3.36,
+  "text": "agent madness might have represented a"
+ },
+ {
+  "start": 267.56,
+  "duration": 2.96,
+  "text": "different type of opportunity that"
+ },
+ {
+  "start": 268.92,
+  "duration": 4.2,
+  "text": "non-technical builders might not usually"
+ },
+ {
+  "start": 270.52,
+  "duration": 4.6,
+  "text": "have had. Still, we have paramedics,"
+ },
+ {
+  "start": 273.12,
+  "duration": 4.32,
+  "text": "glaciologists, kayakers, restaurant"
+ },
+ {
+  "start": 275.12,
+  "duration": 4.88,
+  "text": "operators, sales leaders, people who are"
+ },
+ {
+  "start": 277.44,
+  "duration": 4.04,
+  "text": "domain experts and can now use software"
+ },
+ {
+  "start": 280.0,
+  "duration": 2.96,
+  "text": "to do things that they've always wanted"
+ },
+ {
+  "start": 281.48,
+  "duration": 3.64,
+  "text": "to do or solve problems that were never"
+ },
+ {
+  "start": 282.96,
+  "duration": 4.72,
+  "text": "possible to solve before."
+ },
+ {
+  "start": 285.12,
+  "duration": 4.6,
+  "text": "The story of agentic coding, as much as"
+ },
+ {
+  "start": 287.68,
+  "duration": 3.84,
+  "text": "it is about changes in how software gets"
+ },
+ {
+  "start": 289.72,
+  "duration": 4.04,
+  "text": "built, is actually more, in my"
+ },
+ {
+  "start": 291.52,
+  "duration": 4.68,
+  "text": "estimation, about changes in what"
+ },
+ {
+  "start": 293.76,
+  "duration": 3.48,
+  "text": "software gets built for and who builds"
+ },
+ {
+  "start": 296.2,
+  "duration": 3.04,
+  "text": "it."
+ },
+ {
+  "start": 297.24,
+  "duration": 4.76,
+  "text": "Now, one really interesting pattern that"
+ },
+ {
+  "start": 299.24,
+  "duration": 5.28,
+  "text": "showed up is the idea of argument as"
+ },
+ {
+  "start": 302.0,
+  "duration": 4.12,
+  "text": "architecture. Basically, multi-agent"
+ },
+ {
+  "start": 304.52,
+  "duration": 3.32,
+  "text": "debate is showing up as an actual"
+ },
+ {
+  "start": 306.12,
+  "duration": 3.72,
+  "text": "architectural pattern."
+ },
+ {
+  "start": 307.84,
+  "duration": 4.72,
+  "text": "In some cases, builders figured out that"
+ },
+ {
+  "start": 309.84,
+  "duration": 5.12,
+  "text": "a single LLM call was either unreliable"
+ },
+ {
+  "start": 312.56,
+  "duration": 5.0,
+  "text": "or incomplete. Rather than adding more"
+ },
+ {
+  "start": 314.96,
+  "duration": 4.6,
+  "text": "retrieval, they made agents argue. One"
+ },
+ {
+  "start": 317.56,
+  "duration": 3.88,
+  "text": "example of this is wikitax.ai, which"
+ },
+ {
+  "start": 319.56,
+  "duration": 3.72,
+  "text": "runs autonomous tax debates three times"
+ },
+ {
+  "start": 321.44,
+  "duration": 3.52,
+  "text": "a day. Now, part of what I think is"
+ },
+ {
+  "start": 323.28,
+  "duration": 4.68,
+  "text": "interesting about this is that this is"
+ },
+ {
+  "start": 324.96,
+  "duration": 3.0,
+  "text": "also"
+ },
+ {
+  "start": 489.12,
+  "duration": 3.12,
+  "text": "how the bracket itself was constructed."
+ },
+ {
+  "start": 491.12,
+  "duration": 3.64,
+  "text": "I had these things that the average"
+ },
+ {
+  "start": 492.24,
+  "duration": 4.16,
+  "text": "family needs to do on any given week. By"
+ },
+ {
+  "start": 494.76,
+  "duration": 3.44,
+  "text": "the way, if you are interested in agents"
+ },
+ {
+  "start": 496.4,
+  "duration": 4.44,
+  "text": "in this more family or home life"
+ },
+ {
+  "start": 498.2,
+  "duration": 4.92,
+  "text": "context, check out the recent A16Z"
+ },
+ {
+  "start": 500.84,
+  "duration": 4.4,
+  "text": "podcast with Jessie Gennet. Jessie is a"
+ },
+ {
+  "start": 503.12,
+  "duration": 4.4,
+  "text": "friend and serial entrepreneur who is"
+ },
+ {
+  "start": 505.24,
+  "duration": 4.6,
+  "text": "doing some super interesting things with"
+ },
+ {
+  "start": 507.52,
+  "duration": 3.92,
+  "text": "Open Claws as she homeschools four kids"
+ },
+ {
+  "start": 509.84,
+  "duration": 3.36,
+  "text": "under five."
+ },
+ {
+  "start": 511.44,
+  "duration": 3.92,
+  "text": "A really interesting matchup comes in"
+ },
+ {
+  "start": 513.2,
+  "duration": 4.12,
+  "text": "region two between Know Thyself, which"
+ },
+ {
+  "start": 515.36,
+  "duration": 5.08,
+  "text": "is basically an agentic medical training"
+ },
+ {
+  "start": 517.32,
+  "duration": 5.719,
+  "text": "platform, and Right Side AI, which is"
+ },
+ {
+  "start": 520.44,
+  "duration": 4.32,
+  "text": "kind of an agentic social experiment."
+ },
+ {
+  "start": 523.039,
+  "duration": 4.241,
+  "text": "Right Side AI describes itself as a"
+ },
+ {
+  "start": 524.76,
+  "duration": 3.92,
+  "text": "social cognition agent for AI agents"
+ },
+ {
+  "start": 527.28,
+  "duration": 3.12,
+  "text": "that tries to actually model"
+ },
+ {
+  "start": 528.68,
+  "duration": 3.32,
+  "text": "relationships. They write that they"
+ },
+ {
+  "start": 530.4,
+  "duration": 3.36,
+  "text": "deployed it on Multibook, which is of"
+ },
+ {
+  "start": 532.0,
+  "duration": 3.56,
+  "text": "course the social network for agents,"
+ },
+ {
+  "start": 533.76,
+  "duration": 4.0,
+  "text": "and gave it a simple task of making"
+ },
+ {
+  "start": 535.56,
+  "duration": 3.84,
+  "text": "friends. Within 48 hours, they say it"
+ },
+ {
+  "start": 537.76,
+  "duration": 3.4,
+  "text": "was engaged in over 200 mutual"
+ },
+ {
+  "start": 539.4,
+  "duration": 4.08,
+  "text": "conversations with other bots."
+ },
+ {
+  "start": 541.16,
+  "duration": 4.16,
+  "text": "Meanwhile, Know Thyself is an agentic"
+ },
+ {
+  "start": 543.48,
+  "duration": 3.6,
+  "text": "medical training platform that's a"
+ },
+ {
+  "start": 545.32,
+  "duration": 3.96,
+  "text": "multi-agent system that's designed to"
+ },
+ {
+  "start": 547.08,
+  "duration": 4.52,
+  "text": "give medical students the ability to"
+ },
+ {
+  "start": 549.28,
+  "duration": 4.72,
+  "text": "learn in a more dynamic environment. It"
+ },
+ {
+  "start": 551.6,
+  "duration": 3.96,
+  "text": "includes four AI agents, including a"
+ },
+ {
+  "start": 554.0,
+  "duration": 3.56,
+  "text": "cognitive coach that activates the"
+ },
+ {
+  "start": 555.56,
+  "duration": 3.0,
+  "text": "clinical knowledge before the crisis, as"
+ },
+ {
+  "start": 557.56,
+  "duration": 2.44,
+  "text": "well as agents for running the"
+ },
+ {
+  "start": 558.56,
+  "duration": 3.32,
+  "text": "simulation, debriefing on what went"
+ },
+ {
+  "start": 560.0,
+  "duration": 3.12,
+  "text": "wrong, and one to author the clinical"
+ },
+ {
+  "start": 561.88,
+  "duration": 3.32,
+  "text": "blueprints that make it medically"
+ },
+ {
+  "start": 563.12,
+  "duration": 3.6,
+  "text": "accurate. It's designed for a very"
+ },
+ {
+  "start": 565.2,
+  "duration": 3.88,
+  "text": "specific audience in a very specific"
+ },
+ {
+  "start": 566.72,
+  "duration": 3.76,
+  "text": "domain using new capabilities to"
+ },
+ {
+  "start": 569.08,
+  "duration": 2.52,
+  "text": "theoretically make the real world work"
+ },
+ {
+  "start": 570.48,
+  "duration": 2.84,
+  "text": "better."
+ },
+ {
+  "start": 571.6,
+  "duration": 4.84,
+  "text": "Finally, in region four, we have Carrier"
+ },
+ {
+  "start": 573.32,
+  "duration": 5.2,
+  "text": "File versus Retire E Plan. Retire E Plan"
+ },
+ {
+  "start": 576.44,
+  "duration": 3.88,
+  "text": "is a privacy-first, self-hosted Canadian"
+ },
+ {
+  "start": 578.52,
+  "duration": 3.8,
+  "text": "retirement planning application that"
+ },
+ {
+  "start": 580.32,
+  "duration": 3.64,
+  "text": "helps people model their financial life,"
+ },
+ {
+  "start": 582.32,
+  "duration": 3.36,
+  "text": "run simulations, optimize different"
+ },
+ {
+  "start": 583.96,
+  "duration": 3.2,
+  "text": "parts of their financial experience, all"
+ },
+ {
+  "start": 585.68,
+  "duration": 3.24,
+  "text": "on their own without professional help,"
+ },
+ {
+  "start": 587.16,
+  "duration": 3.04,
+  "text": "effectively empowering people to know"
+ },
+ {
+  "start": 588.92,
+  "duration": 2.64,
+  "text": "much more about their own financial"
+ },
+ {
+  "start": 590.2,
+  "duration": 3.72,
+  "text": "destiny rather than just leaving it to"
+ },
+ {
+  "start": 591.56,
+  "duration": 3.88,
+  "text": "an external expert. While Carrier File"
+ },
+ {
+  "start": 593.92,
+  "duration": 2.8,
+  "text": "is in the spirit of the context"
+ },
+ {
+  "start": 595.44,
+  "duration": 3.4,
+  "text": "portfolio episode I did a couple of"
+ },
+ {
+  "start": 596.72,
+  "duration": 4.08,
+  "text": "weeks ago, It is a simple solution to a"
+ },
+ {
+  "start": 598.84,
+  "duration": 3.76,
+  "text": "very common problem, a plain text file"
+ },
+ {
+  "start": 600.8,
+  "duration": 3.04,
+  "text": "that carries your contacts across any"
+ },
+ {
+  "start": 602.6,
+  "duration": 2.92,
+  "text": "AI."
+ },
+ {
+  "start": 603.84,
+  "duration": 3.08,
+  "text": "So, those are some themes and some of"
+ },
+ {
+  "start": 605.52,
+  "duration": 3.0,
+  "text": "the specific projects from Agent"
+ },
+ {
+  "start": 606.92,
+  "duration": 3.08,
+  "text": "Madness. Appreciate everyone who has"
+ },
+ {
+  "start": 608.52,
+  "duration": 3.12,
+  "text": "contributed to the project and I'm"
+ },
+ {
+  "start": 610.0,
+  "duration": 2.84,
+  "text": "excited to see how these agents evolve"
+ },
+ {
+  "start": 611.64,
+  "duration": 2.24,
+  "text": "over time."
+ },
+ {
+  "start": 612.84,
+  "duration": 2.96,
+  "text": "For now, that's going to do it for this"
+ },
+ {
+  "start": 613.88,
+  "duration": 3.4,
+  "text": "Operator's bonus episode. Appreciate you"
+ },
+ {
+  "start": 615.8,
+  "duration": 5.0,
+  "text": "listening or watching as always and"
+ },
+ {
+  "start": 617.28,
+  "duration": 3.52,
+  "text": "until next time, peace."
+ }
+]

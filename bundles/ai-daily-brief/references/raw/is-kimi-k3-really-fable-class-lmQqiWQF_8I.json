@@ -1,0 +1,3627 @@
+[
+ {
+  "start": 0.32,
+  "duration": 5.2,
+  "text": "Today on the AI Daily Brief, did we"
+ },
+ {
+  "start": 2.8,
+  "duration": 4.88,
+  "text": "actually just get a fable level open"
+ },
+ {
+  "start": 5.52,
+  "duration": 3.52,
+  "text": "model? The AI Daily Brief is a daily"
+ },
+ {
+  "start": 7.68,
+  "duration": 4.48,
+  "text": "podcast and video about the most"
+ },
+ {
+  "start": 9.04,
+  "duration": 5.36,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 12.16,
+  "duration": 5.76,
+  "text": "All right, friends. Well, today we are"
+ },
+ {
+  "start": 14.4,
+  "duration": 5.28,
+  "text": "talking about Kimmy K3. The month of"
+ },
+ {
+  "start": 17.92,
+  "duration": 3.359,
+  "text": "models continues, and today we're going"
+ },
+ {
+  "start": 19.68,
+  "duration": 4.0,
+  "text": "to try to figure out just how"
+ },
+ {
+  "start": 21.279,
+  "duration": 4.721,
+  "text": "significant this one is. At first"
+ },
+ {
+  "start": 23.68,
+  "duration": 4.56,
+  "text": "glance, there are some very significant"
+ },
+ {
+  "start": 26.0,
+  "duration": 3.76,
+  "text": "and bold claims being thrown around. But"
+ },
+ {
+  "start": 28.24,
+  "duration": 3.119,
+  "text": "we're going to unpack what's real,"
+ },
+ {
+  "start": 29.76,
+  "duration": 4.56,
+  "text": "what's not, and what the implications"
+ },
+ {
+  "start": 31.359,
+  "duration": 5.04,
+  "text": "are. And to understand this, or frankly"
+ },
+ {
+  "start": 34.32,
+  "duration": 3.52,
+  "text": "any frontier Chinese model, you have to"
+ },
+ {
+  "start": 36.399,
+  "duration": 3.921,
+  "text": "put it in the context of the way that"
+ },
+ {
+  "start": 37.84,
+  "duration": 3.52,
+  "text": "the US market sees the AI race. Since"
+ },
+ {
+  "start": 40.32,
+  "duration": 3.52,
+  "text": "we're coming to the end of the World"
+ },
+ {
+  "start": 41.36,
+  "duration": 5.039,
+  "text": "Cup, let me plum for a soccer analogy."
+ },
+ {
+  "start": 43.84,
+  "duration": 4.96,
+  "text": "When it comes to our lead on China in"
+ },
+ {
+  "start": 46.399,
+  "duration": 5.041,
+  "text": "terms of advanced models, we very much"
+ },
+ {
+  "start": 48.8,
+  "duration": 4.079,
+  "text": "have one to zero type of energy. What I"
+ },
+ {
+  "start": 51.44,
+  "duration": 2.88,
+  "text": "mean by that is that there's no doubt"
+ },
+ {
+  "start": 52.879,
+  "duration": 2.961,
+  "text": "that we're in the lead, but the score"
+ },
+ {
+  "start": 54.32,
+  "duration": 3.12,
+  "text": "line is not something that anyone is"
+ },
+ {
+  "start": 55.84,
+  "duration": 3.6,
+  "text": "particularly comfortable with. The US"
+ },
+ {
+  "start": 57.44,
+  "duration": 3.84,
+  "text": "tends to act like it can feel China"
+ },
+ {
+  "start": 59.44,
+  "duration": 2.959,
+  "text": "coming up on our heels, pressing their"
+ },
+ {
+  "start": 61.28,
+  "duration": 3.36,
+  "text": "advantages, and trying to find the"
+ },
+ {
+  "start": 62.399,
+  "duration": 3.921,
+  "text": "equalizer. In other words, despite being"
+ },
+ {
+  "start": 64.64,
+  "duration": 3.6,
+  "text": "in the lead, it can sometimes feel like"
+ },
+ {
+  "start": 66.32,
+  "duration": 3.68,
+  "text": "we're the ones hanging on. And by the"
+ },
+ {
+  "start": 68.24,
+  "duration": 3.52,
+  "text": "way, for any of you three Lions fans out"
+ },
+ {
+  "start": 70.0,
+  "duration": 3.76,
+  "text": "there, I am so sorry to use this analogy"
+ },
+ {
+  "start": 71.76,
+  "duration": 4.48,
+  "text": "in this particularly difficult moment."
+ },
+ {
+  "start": 73.76,
+  "duration": 4.32,
+  "text": "In any case, you can see examples of"
+ },
+ {
+  "start": 76.24,
+  "duration": 3.84,
+  "text": "this feeling of China nipping at our"
+ },
+ {
+  "start": 78.08,
+  "duration": 4.079,
+  "text": "heels spread throughout the last couple"
+ },
+ {
+  "start": 80.08,
+  "duration": 4.16,
+  "text": "of years. The best example, of course,"
+ },
+ {
+  "start": 82.159,
+  "duration": 3.28,
+  "text": "was when Deepseek R1 was released and it"
+ },
+ {
+  "start": 84.24,
+  "duration": 2.879,
+  "text": "ripped hundreds of billions of dollars"
+ },
+ {
+  "start": 85.439,
+  "duration": 3.121,
+  "text": "of market cap off some of the leading"
+ },
+ {
+  "start": 87.119,
+  "duration": 3.04,
+  "text": "companies, including Nvidia, which had"
+ },
+ {
+  "start": 88.56,
+  "duration": 4.0,
+  "text": "the biggest one day fall in dollar terms"
+ },
+ {
+  "start": 90.159,
+  "duration": 4.561,
+  "text": "in stock history. And yet, that Deepseek"
+ },
+ {
+  "start": 92.56,
+  "duration": 3.519,
+  "text": "moment set the tone for all the future"
+ },
+ {
+  "start": 94.72,
+  "duration": 3.359,
+  "text": "quote unquote deep-seek moments that"
+ },
+ {
+  "start": 96.079,
+  "duration": 4.0,
+  "text": "would come in more ways than one. What I"
+ },
+ {
+  "start": 98.079,
+  "duration": 3.521,
+  "text": "mean by that is that not only was it a"
+ },
+ {
+  "start": 100.079,
+  "duration": 3.36,
+  "text": "moment where the market freaked out"
+ },
+ {
+  "start": 101.6,
+  "duration": 4.159,
+  "text": "about China having caught up or even"
+ },
+ {
+  "start": 103.439,
+  "duration": 4.241,
+  "text": "exceeded US capabilities, reacting quite"
+ },
+ {
+  "start": 105.759,
+  "duration": 4.161,
+  "text": "severely in market terms, but it was"
+ },
+ {
+  "start": 107.68,
+  "duration": 3.92,
+  "text": "also just pretty meaningfully overblown."
+ },
+ {
+  "start": 109.92,
+  "duration": 3.519,
+  "text": "It's not that Deep Seeks R1 wasn't"
+ },
+ {
+  "start": 111.6,
+  "duration": 3.92,
+  "text": "impressive, but a big part of the reason"
+ },
+ {
+  "start": 113.439,
+  "duration": 4.081,
+  "text": "that it seemed so impressive was that it"
+ },
+ {
+  "start": 115.52,
+  "duration": 3.68,
+  "text": "was democratizing access to a technology"
+ },
+ {
+  "start": 117.52,
+  "duration": 2.959,
+  "text": "that had thus far been locked behind a"
+ },
+ {
+  "start": 119.2,
+  "duration": 3.68,
+  "text": "payw wall when it came to companies like"
+ },
+ {
+  "start": 120.479,
+  "duration": 3.92,
+  "text": "OpenAI. The model itself was actually"
+ },
+ {
+  "start": 122.88,
+  "duration": 3.279,
+  "text": "still pretty meaningfully behind what"
+ },
+ {
+  "start": 124.399,
+  "duration": 3.36,
+  "text": "the leading western labs were doing, but"
+ },
+ {
+  "start": 126.159,
+  "duration": 3.201,
+  "text": "that didn't change its ability to create"
+ },
+ {
+  "start": 127.759,
+  "duration": 4.401,
+  "text": "some pretty significant psychological"
+ },
+ {
+  "start": 129.36,
+  "duration": 5.04,
+  "text": "scars. Now, ever since then, we have"
+ },
+ {
+  "start": 132.16,
+  "duration": 4.719,
+  "text": "been having many Deepseek moments at a"
+ },
+ {
+  "start": 134.4,
+  "duration": 4.72,
+  "text": "fairly regular clip. The most recent one"
+ },
+ {
+  "start": 136.879,
+  "duration": 5.44,
+  "text": "came when Fable 5 was locked down as per"
+ },
+ {
+  "start": 139.12,
+  "duration": 5.28,
+  "text": "government order when Z.AI's GLM 5.2 two"
+ },
+ {
+  "start": 142.319,
+  "duration": 4.081,
+  "text": "came out leading to not only positive"
+ },
+ {
+  "start": 144.4,
+  "duration": 3.6,
+  "text": "reviews on Twitter but also this piece"
+ },
+ {
+  "start": 146.4,
+  "duration": 3.52,
+  "text": "from the Wall Street Journal which was"
+ },
+ {
+  "start": 148.0,
+  "duration": 4.48,
+  "text": "printed and slapped on desks all over"
+ },
+ {
+  "start": 149.92,
+  "duration": 4.56,
+  "text": "Washington DC. The article was called"
+ },
+ {
+  "start": 152.48,
+  "duration": 4.479,
+  "text": "China has matched anthropic and cyber"
+ },
+ {
+  "start": 154.48,
+  "duration": 3.92,
+  "text": "security resetting AI race and as we"
+ },
+ {
+  "start": 156.959,
+  "duration": 3.36,
+  "text": "discussed a lot then was once again"
+ },
+ {
+  "start": 158.4,
+  "duration": 4.0,
+  "text": "another example of the narrative being"
+ },
+ {
+  "start": 160.319,
+  "duration": 3.601,
+  "text": "fairly overblown but continuing to be"
+ },
+ {
+  "start": 162.4,
+  "duration": 3.52,
+  "text": "persistent as something the US was"
+ },
+ {
+  "start": 163.92,
+  "duration": 4.0,
+  "text": "worried about. For the last month,"
+ },
+ {
+  "start": 165.92,
+  "duration": 3.52,
+  "text": "really ever since Fable 5 was released,"
+ },
+ {
+  "start": 167.92,
+  "duration": 3.52,
+  "text": "there have been debates around how long"
+ },
+ {
+  "start": 169.44,
+  "duration": 4.4,
+  "text": "it will take for Chinese companies to"
+ },
+ {
+  "start": 171.44,
+  "duration": 4.72,
+  "text": "have a Fable 5ass model. In the middle"
+ },
+ {
+  "start": 173.84,
+  "duration": 4.24,
+  "text": "of June, Elon Musk predicted Q1, to"
+ },
+ {
+  "start": 176.16,
+  "duration": 4.56,
+  "text": "which the founder of Z.AI responded,"
+ },
+ {
+  "start": 178.08,
+  "duration": 4.32,
+  "text": "\"Won't take that long.\" And so, that was"
+ },
+ {
+  "start": 180.72,
+  "duration": 4.799,
+  "text": "the setup coming into the announcement"
+ },
+ {
+  "start": 182.4,
+  "duration": 4.72,
+  "text": "of Kimmy K3. Now, Moonshots Kimmy models"
+ },
+ {
+  "start": 185.519,
+  "duration": 3.521,
+  "text": "have been some of the most popular when"
+ },
+ {
+  "start": 187.12,
+  "duration": 4.08,
+  "text": "it comes to Western users using models"
+ },
+ {
+  "start": 189.04,
+  "duration": 3.76,
+  "text": "from Chinese labs. In fact, as we've"
+ },
+ {
+  "start": 191.2,
+  "duration": 4.08,
+  "text": "been discussing fine-tunes of open"
+ },
+ {
+  "start": 192.8,
+  "duration": 4.88,
+  "text": "models like Cursors Composer 2.5, they"
+ },
+ {
+  "start": 195.28,
+  "duration": 4.879,
+  "text": "tend to be built around a Kimmy base. On"
+ },
+ {
+  "start": 197.68,
+  "duration": 5.04,
+  "text": "Wednesday, the Kimmy K3 teaser started"
+ },
+ {
+  "start": 200.159,
+  "duration": 4.961,
+  "text": "coming in a serious way. AI leaker Leo"
+ },
+ {
+  "start": 202.72,
+  "duration": 4.08,
+  "text": "Synwave wrote, \"I think Kimmy K3 is"
+ },
+ {
+  "start": 205.12,
+  "duration": 3.199,
+  "text": "going to shock some of the Chinese are 8"
+ },
+ {
+  "start": 206.8,
+  "duration": 3.28,
+  "text": "months behind the Western Frontier"
+ },
+ {
+  "start": 208.319,
+  "duration": 4.081,
+  "text": "people.\" And then on Thursday, we"
+ },
+ {
+  "start": 210.08,
+  "duration": 5.04,
+  "text": "actually got the model. Let's talk first"
+ },
+ {
+  "start": 212.4,
+  "duration": 4.88,
+  "text": "about the specs. K3 is a 2.8 trillion"
+ },
+ {
+  "start": 215.12,
+  "duration": 4.56,
+  "text": "parameter model, placing it in a class"
+ },
+ {
+  "start": 217.28,
+  "duration": 4.8,
+  "text": "of its own when it comes to open models."
+ },
+ {
+  "start": 219.68,
+  "duration": 3.6,
+  "text": "Until now, only a small handful of open"
+ },
+ {
+  "start": 222.08,
+  "duration": 2.799,
+  "text": "models were even in the trillion"
+ },
+ {
+  "start": 223.28,
+  "duration": 3.76,
+  "text": "parameter class, beginning with the"
+ },
+ {
+  "start": 224.879,
+  "duration": 4.561,
+  "text": "first version of Kimmy K2 last summer."
+ },
+ {
+  "start": 227.04,
+  "duration": 5.919,
+  "text": "Deepseek V4 Pro released this April is a"
+ },
+ {
+  "start": 229.44,
+  "duration": 5.76,
+  "text": "1.6T model. Xiaomi's Mimo V2.5 Pro is a"
+ },
+ {
+  "start": 232.959,
+  "duration": 3.92,
+  "text": "1T model. And Thinking Machine's Inkling"
+ },
+ {
+  "start": 235.2,
+  "duration": 4.88,
+  "text": "model released this week, is just shy of"
+ },
+ {
+  "start": 236.879,
+  "duration": 5.28,
+  "text": "1 trillion. And that's it. GLM 5.2 from"
+ },
+ {
+  "start": 240.08,
+  "duration": 3.6,
+  "text": "Z.AI, the model that got all that"
+ },
+ {
+  "start": 242.159,
+  "duration": 4.881,
+  "text": "bluster that we were just talking about,"
+ },
+ {
+  "start": 243.68,
+  "duration": 4.8,
+  "text": "was only a 744B model. Now, proprietary"
+ },
+ {
+  "start": 247.04,
+  "duration": 3.759,
+  "text": "models don't publish their parameter"
+ },
+ {
+  "start": 248.48,
+  "duration": 3.839,
+  "text": "counts, but K3 is likely to be around"
+ },
+ {
+  "start": 250.799,
+  "duration": 3.601,
+  "text": "the same size or maybe a little bit"
+ },
+ {
+  "start": 252.319,
+  "duration": 4.16,
+  "text": "larger than Opus 4.8, but certainly not"
+ },
+ {
+  "start": 254.4,
+  "duration": 3.76,
+  "text": "as big as Fable. In other words, this is"
+ },
+ {
+  "start": 256.479,
+  "duration": 3.361,
+  "text": "a scale of model pre-training that we"
+ },
+ {
+  "start": 258.16,
+  "duration": 4.479,
+  "text": "haven't seen demonstrated by the Chinese"
+ },
+ {
+  "start": 259.84,
+  "duration": 4.72,
+  "text": "labs before. As for features, Kimmy K3"
+ },
+ {
+  "start": 262.639,
+  "duration": 4.641,
+  "text": "supports a million token context window"
+ },
+ {
+  "start": 264.56,
+  "duration": 4.32,
+  "text": "and native image inputs alongside text."
+ },
+ {
+  "start": 267.28,
+  "duration": 3.04,
+  "text": "It uses a mixture of experts"
+ },
+ {
+  "start": 268.88,
+  "duration": 3.039,
+  "text": "architecture, which has become standard"
+ },
+ {
+  "start": 270.32,
+  "duration": 2.879,
+  "text": "for both open source and proprietary"
+ },
+ {
+  "start": 271.919,
+  "duration": 3.681,
+  "text": "models since it was introduced by"
+ },
+ {
+  "start": 273.199,
+  "duration": 5.201,
+  "text": "Deepseek. And the benchmarks, well, the"
+ },
+ {
+  "start": 275.6,
+  "duration": 4.48,
+  "text": "benchmarks look incredibly strong. Close"
+ },
+ {
+  "start": 278.4,
+  "duration": 5.68,
+  "text": "to a match four and in some cases"
+ },
+ {
+  "start": 280.08,
+  "duration": 7.52,
+  "text": "exceeding Fable 5 and GBT56 sold on"
+ },
+ {
+  "start": 284.08,
+  "duration": 6.559,
+  "text": "coding benchmark deepu. K3 scored 67.5,"
+ },
+ {
+  "start": 287.6,
+  "duration": 5.599,
+  "text": "which put it 8.5 points ahead of Opus 48"
+ },
+ {
+  "start": 290.639,
+  "duration": 5.681,
+  "text": "and a half point ahead of GPT55."
+ },
+ {
+  "start": 293.199,
+  "duration": 6.0,
+  "text": "It's 2.5 points behind Fable 5 and 5.5"
+ },
+ {
+  "start": 296.32,
+  "duration": 6.8,
+  "text": "points behind GPT56 Soul. For Terminal"
+ },
+ {
+  "start": 299.199,
+  "duration": 6.481,
+  "text": "Bench 2.1, K3 scored 88.3, placing it"
+ },
+ {
+  "start": 303.12,
+  "duration": 4.639,
+  "text": "just a half point behind 56 Soul and a"
+ },
+ {
+  "start": 305.68,
+  "duration": 4.64,
+  "text": "few points ahead of the leading models,"
+ },
+ {
+  "start": 307.759,
+  "duration": 4.401,
+  "text": "including Fable 5. In general, at least"
+ },
+ {
+  "start": 310.32,
+  "duration": 3.28,
+  "text": "according to the benchmarks, the model"
+ },
+ {
+  "start": 312.16,
+  "duration": 3.28,
+  "text": "looks pretty close to state-of-the-art"
+ },
+ {
+  "start": 313.6,
+  "duration": 4.4,
+  "text": "encoding and clearly ahead of Opus"
+ },
+ {
+  "start": 315.44,
+  "duration": 6.0,
+  "text": "across the board. That story is pretty"
+ },
+ {
+  "start": 318.0,
+  "duration": 6.4,
+  "text": "similar for Agentic Work. K3 scored 1668"
+ },
+ {
+  "start": 321.44,
+  "duration": 4.96,
+  "text": "on GDP Val AA around 70 points ahead of"
+ },
+ {
+  "start": 324.4,
+  "duration": 4.56,
+  "text": "Opus 48 and around 90 points behind"
+ },
+ {
+  "start": 326.4,
+  "duration": 3.92,
+  "text": "Fable 5 and 56 Soul. K3 is"
+ },
+ {
+  "start": 328.96,
+  "duration": 3.12,
+  "text": "state-of-the-art in browse comp and"
+ },
+ {
+  "start": 330.32,
+  "duration": 3.84,
+  "text": "automation bench beating its Western"
+ },
+ {
+  "start": 332.08,
+  "duration": 4.24,
+  "text": "rivals. And on AA Briefcase, which"
+ },
+ {
+  "start": 334.16,
+  "duration": 3.68,
+  "text": "focuses more on Long Horizon work, it"
+ },
+ {
+  "start": 336.32,
+  "duration": 2.64,
+  "text": "was very close to Fable 5"
+ },
+ {
+  "start": 337.84,
+  "duration": 4.24,
+  "text": "state-of-the-art performance and"
+ },
+ {
+  "start": 338.96,
+  "duration": 4.56,
+  "text": "slightly ahead of GPT56 Soul. Artificial"
+ },
+ {
+  "start": 342.08,
+  "duration": 3.679,
+  "text": "analysis confirmed the benchmarks"
+ },
+ {
+  "start": 343.52,
+  "duration": 4.88,
+  "text": "highlighted by Moonshot, giving K3 an"
+ },
+ {
+  "start": 345.759,
+  "duration": 4.72,
+  "text": "overall intelligence index score of 57."
+ },
+ {
+  "start": 348.4,
+  "duration": 3.84,
+  "text": "That put the model in third place, three"
+ },
+ {
+  "start": 350.479,
+  "duration": 4.0,
+  "text": "points behind Fable 5 and two points"
+ },
+ {
+  "start": 352.24,
+  "duration": 4.64,
+  "text": "behind 56 Soul. It landed one point"
+ },
+ {
+  "start": 354.479,
+  "duration": 5.121,
+  "text": "ahead of Opus 48 and two points ahead of"
+ },
+ {
+  "start": 356.88,
+  "duration": 5.599,
+  "text": "56 Terra and GPT 5.5 which had the same"
+ },
+ {
+  "start": 359.6,
+  "duration": 4.879,
+  "text": "score. K3 is clearly the strongest open"
+ },
+ {
+  "start": 362.479,
+  "duration": 5.041,
+  "text": "model ever on AA's benchmarks, six"
+ },
+ {
+  "start": 364.479,
+  "duration": 4.801,
+  "text": "points ahead of GLM 5.2, which is a huge"
+ },
+ {
+  "start": 367.52,
+  "duration": 4.239,
+  "text": "gap in the context of the intelligence"
+ },
+ {
+  "start": 369.28,
+  "duration": 4.16,
+  "text": "index. Another point emphasized by AA"
+ },
+ {
+  "start": 371.759,
+  "duration": 4.961,
+  "text": "was how big of a jump this was from"
+ },
+ {
+  "start": 373.44,
+  "duration": 4.96,
+  "text": "Kimmy 2.6. Moonshot picked up 13 points"
+ },
+ {
+  "start": 376.72,
+  "duration": 4.0,
+  "text": "with their new release and moved from"
+ },
+ {
+  "start": 378.4,
+  "duration": 4.16,
+  "text": "16th place to third. In other words,"
+ },
+ {
+  "start": 380.72,
+  "duration": 3.599,
+  "text": "this is clearly a very strong new"
+ },
+ {
+  "start": 382.56,
+  "duration": 3.52,
+  "text": "pre-training run that could give a solid"
+ },
+ {
+  "start": 384.319,
+  "duration": 4.561,
+  "text": "base model for future iterations as"
+ },
+ {
+  "start": 386.08,
+  "duration": 4.559,
+  "text": "well. Now, AA did also highlight that"
+ },
+ {
+  "start": 388.88,
+  "duration": 3.84,
+  "text": "cost per task had tripled compared to"
+ },
+ {
+  "start": 390.639,
+  "duration": 3.601,
+  "text": "K2.6, which is something that we'll come"
+ },
+ {
+  "start": 392.72,
+  "duration": 3.199,
+  "text": "back to in a little bit in terms of the"
+ },
+ {
+  "start": 394.24,
+  "duration": 3.04,
+  "text": "implications. It should be clear that"
+ },
+ {
+  "start": 395.919,
+  "duration": 3.28,
+  "text": "this still wasn't a particularly"
+ },
+ {
+  "start": 397.28,
+  "duration": 4.96,
+  "text": "expensive model for the benchmark run at"
+ },
+ {
+  "start": 399.199,
+  "duration": 6.161,
+  "text": "94 cents per task compared to $14 for 56"
+ },
+ {
+  "start": 402.24,
+  "duration": 5.28,
+  "text": "soul 180 for Opus 48 and 275 for Fable"
+ },
+ {
+  "start": 405.36,
+  "duration": 4.0,
+  "text": "5. But it is of course staggeringly"
+ },
+ {
+  "start": 407.52,
+  "duration": 4.08,
+  "text": "expensive compared to for example ultra"
+ },
+ {
+  "start": 409.36,
+  "duration": 5.76,
+  "text": "cheap 4 cents per task for Deepseek V4"
+ },
+ {
+  "start": 411.6,
+  "duration": 6.159,
+  "text": "Pro. On the Val AI index, K3 did even"
+ },
+ {
+  "start": 415.12,
+  "duration": 4.32,
+  "text": "better. Val tweeted, \"Kimmy K3 is the"
+ },
+ {
+  "start": 417.759,
+  "duration": 5.201,
+  "text": "number two overall model on the Val"
+ },
+ {
+  "start": 419.44,
+  "duration": 5.44,
+  "text": "index, surpassing GPT 5.6 soul. K3"
+ },
+ {
+  "start": 422.96,
+  "duration": 4.079,
+  "text": "improved 20 percentage points over its"
+ },
+ {
+  "start": 424.88,
+  "duration": 3.84,
+  "text": "predecessor in less than 3 months. It is"
+ },
+ {
+  "start": 427.039,
+  "duration": 3.921,
+  "text": "also the first openweight model of its"
+ },
+ {
+  "start": 428.72,
+  "duration": 3.919,
+  "text": "size. Moonshot is a testament to the"
+ },
+ {
+  "start": 430.96,
+  "duration": 3.2,
+  "text": "accelerating capabilities of openweight"
+ },
+ {
+  "start": 432.639,
+  "duration": 3.921,
+  "text": "models which are now competitive with"
+ },
+ {
+  "start": 434.16,
+  "duration": 3.84,
+  "text": "the closed source frontier. People"
+ },
+ {
+  "start": 436.56,
+  "duration": 3.84,
+  "text": "quickly dived in to give their examples"
+ },
+ {
+  "start": 438.0,
+  "duration": 4.479,
+  "text": "of what K3 could do. Starting with the"
+ },
+ {
+  "start": 440.4,
+  "duration": 4.079,
+  "text": "teaser video itself, which Moonshot"
+ },
+ {
+  "start": 442.479,
+  "duration": 3.521,
+  "text": "claimed that K3 had created on its own,"
+ },
+ {
+  "start": 444.479,
+  "duration": 3.84,
+  "text": "including clip selection, cuts, and"
+ },
+ {
+  "start": 446.0,
+  "duration": 3.759,
+  "text": "audio sync. Moonshot credited K3's"
+ },
+ {
+  "start": 448.319,
+  "duration": 3.041,
+  "text": "native multimodal architecture, which"
+ },
+ {
+  "start": 449.759,
+  "duration": 3.44,
+  "text": "can reason across text, audio, and"
+ },
+ {
+  "start": 451.36,
+  "duration": 3.6,
+  "text": "video, as being able to do this work."
+ },
+ {
+  "start": 453.199,
+  "duration": 3.601,
+  "text": "Moonshot also gave a bunch of"
+ },
+ {
+  "start": 454.96,
+  "duration": 3.76,
+  "text": "proprietary demos around game"
+ },
+ {
+  "start": 456.8,
+  "duration": 3.28,
+  "text": "development and 3D digital creation,"
+ },
+ {
+  "start": 458.72,
+  "duration": 3.28,
+  "text": "which is what a lot of people's first"
+ },
+ {
+  "start": 460.08,
+  "duration": 3.92,
+  "text": "tests were for the model as well."
+ },
+ {
+  "start": 462.0,
+  "duration": 5.36,
+  "text": "Cognition ambassador Justin Goria wrote,"
+ },
+ {
+  "start": 464.0,
+  "duration": 5.44,
+  "text": "\"Kimik3 is a new milestone. K2, 2.5,"
+ },
+ {
+  "start": 467.36,
+  "duration": 4.16,
+  "text": "2.6, and 2.7 all had the same base"
+ },
+ {
+  "start": 469.44,
+  "duration": 4.08,
+  "text": "model. Maybe K3 is building on a new"
+ },
+ {
+  "start": 471.52,
+  "duration": 3.76,
+  "text": "one. It's incredible at 3D and front-end"
+ },
+ {
+  "start": 473.52,
+  "duration": 3.679,
+  "text": "tasks.\" And to prove his point, Justin"
+ },
+ {
+  "start": 475.28,
+  "duration": 4.24,
+  "text": "shared a single file HTML Minecraft"
+ },
+ {
+  "start": 477.199,
+  "duration": 4.56,
+  "text": "clone. Cheddler Slooh shared a one-shot"
+ },
+ {
+  "start": 479.52,
+  "duration": 3.92,
+  "text": "generation of a Voxil Statue of Liberty,"
+ },
+ {
+  "start": 481.759,
+  "duration": 3.201,
+  "text": "which was one of about a million similar"
+ },
+ {
+  "start": 483.44,
+  "duration": 2.879,
+  "text": "examples that were flooding onto Twitter"
+ },
+ {
+  "start": 484.96,
+  "duration": 3.76,
+  "text": "over the course of Wednesday night into"
+ },
+ {
+  "start": 486.319,
+  "duration": 5.841,
+  "text": "Thursday morning. People really love"
+ },
+ {
+  "start": 488.72,
+  "duration": 5.759,
+  "text": "remaking old games as a test. Neap.ai"
+ },
+ {
+  "start": 492.16,
+  "duration": 4.64,
+  "text": "asked K3 to build a 3D duck hunt remake"
+ },
+ {
+  "start": 494.479,
+  "duration": 5.28,
+  "text": "in a single HTML file, which it did in"
+ },
+ {
+  "start": 496.8,
+  "duration": 5.36,
+  "text": "around 130 seconds at a cost of 14."
+ },
+ {
+  "start": 499.759,
+  "duration": 3.921,
+  "text": "Ethan Malik gave K3 his shader test."
+ },
+ {
+  "start": 502.16,
+  "duration": 3.2,
+  "text": "Create a visually interesting shader"
+ },
+ {
+  "start": 503.68,
+  "duration": 3.28,
+  "text": "that can run in Twiggle.app and make it"
+ },
+ {
+  "start": 505.36,
+  "duration": 3.279,
+  "text": "like an infinite city of Neo Gothic"
+ },
+ {
+  "start": 506.96,
+  "duration": 4.0,
+  "text": "towers partially drowned in a stormy"
+ },
+ {
+  "start": 508.639,
+  "duration": 4.32,
+  "text": "ocean with large waves. Very good model,"
+ },
+ {
+  "start": 510.96,
+  "duration": 4.16,
+  "text": "he said. Not Soul Max or Fable, but"
+ },
+ {
+  "start": 512.959,
+  "duration": 3.921,
+  "text": "great for open weights. And yet, there"
+ },
+ {
+  "start": 515.12,
+  "duration": 3.68,
+  "text": "were plenty who were willing to say that"
+ },
+ {
+  "start": 516.88,
+  "duration": 3.519,
+  "text": "it wasn't just great for open weights,"
+ },
+ {
+  "start": 518.8,
+  "duration": 4.159,
+  "text": "but actually was challenging the"
+ },
+ {
+  "start": 520.399,
+  "duration": 4.321,
+  "text": "state-of-the-art. Alex Finn wrote, \"I"
+ },
+ {
+  "start": 522.959,
+  "duration": 4.241,
+  "text": "was wrong. I said we were a year away"
+ },
+ {
+  "start": 524.72,
+  "duration": 5.04,
+  "text": "from Fable 5 on our desk. That day is"
+ },
+ {
+  "start": 527.2,
+  "duration": 4.4,
+  "text": "today. An open model better than Fable 5"
+ },
+ {
+  "start": 529.76,
+  "duration": 4.4,
+  "text": "in some benchmarks just dropped. Better"
+ },
+ {
+  "start": 531.6,
+  "duration": 4.88,
+  "text": "than ChatgPBT 5.6 on Frontier Suite,"
+ },
+ {
+  "start": 534.16,
+  "duration": 4.16,
+  "text": "better than Fable 5 on Automation Bench."
+ },
+ {
+  "start": 536.48,
+  "duration": 3.68,
+  "text": "This fundamentally changes the AI race"
+ },
+ {
+  "start": 538.32,
+  "duration": 3.68,
+  "text": "forever. If people can start running"
+ },
+ {
+  "start": 540.16,
+  "duration": 3.359,
+  "text": "Fable 5 on their desk unlimited and for"
+ },
+ {
+  "start": 542.0,
+  "duration": 3.44,
+  "text": "free, they're not going to pay thousands"
+ },
+ {
+  "start": 543.519,
+  "duration": 3.361,
+  "text": "for subscriptions. Now, let's be clear."
+ },
+ {
+  "start": 545.44,
+  "duration": 3.92,
+  "text": "Will the hardware you need to run Kimmy"
+ },
+ {
+  "start": 546.88,
+  "duration": 4.24,
+  "text": "K3 be attainable for most? No, it won't."
+ },
+ {
+  "start": 549.36,
+  "duration": 4.0,
+  "text": "It will require multiple very expensive"
+ },
+ {
+  "start": 551.12,
+  "duration": 3.68,
+  "text": "Nvidia chips or a bunch of Mac Studios."
+ },
+ {
+  "start": 553.36,
+  "duration": 3.599,
+  "text": "But look at the slope, not the Y"
+ },
+ {
+  "start": 554.8,
+  "duration": 3.68,
+  "text": "intercept. Over the last year, local AI"
+ },
+ {
+  "start": 556.959,
+  "duration": 3.361,
+  "text": "has become significantly more efficient"
+ },
+ {
+  "start": 558.48,
+  "duration": 3.2,
+  "text": "and required way less comput. The"
+ },
+ {
+  "start": 560.32,
+  "duration": 2.88,
+  "text": "smartest brains in the world are all"
+ },
+ {
+  "start": 561.68,
+  "duration": 3.44,
+  "text": "attacking the comput problem as hard as"
+ },
+ {
+  "start": 563.2,
+  "duration": 3.759,
+  "text": "they can. This is another step in that"
+ },
+ {
+  "start": 565.12,
+  "duration": 3.76,
+  "text": "direction. Within a year or two, you'll"
+ },
+ {
+  "start": 566.959,
+  "duration": 3.761,
+  "text": "be able to run this on a Mac Mini. Local"
+ },
+ {
+  "start": 568.88,
+  "duration": 4.72,
+  "text": "AI has arrived, and it's not going"
+ },
+ {
+  "start": 570.72,
+  "duration": 5.2,
+  "text": "anywhere. Analyst Max Weinbach asked Kim"
+ },
+ {
+  "start": 573.6,
+  "duration": 4.72,
+  "text": "K3 to create an agent swarm to recreate"
+ },
+ {
+  "start": 575.92,
+  "duration": 4.32,
+  "text": "Mac OS 27 with real liquid glass and"
+ },
+ {
+  "start": 578.32,
+  "duration": 3.44,
+  "text": "native apps in a web browser. And after"
+ },
+ {
+  "start": 580.24,
+  "duration": 4.56,
+  "text": "hours of running on its own, it did"
+ },
+ {
+  "start": 581.76,
+  "duration": 4.88,
+  "text": "exactly that. Drago Real wrote, \"I asked"
+ },
+ {
+  "start": 584.8,
+  "duration": 3.52,
+  "text": "Kimmy K3 to find my apps in the app"
+ },
+ {
+  "start": 586.64,
+  "duration": 3.6,
+  "text": "store and to give me feedback on them."
+ },
+ {
+  "start": 588.32,
+  "duration": 3.6,
+  "text": "It found everything and this is the most"
+ },
+ {
+  "start": 590.24,
+  "duration": 4.0,
+  "text": "interesting thing. It found ways to"
+ },
+ {
+  "start": 591.92,
+  "duration": 3.76,
+  "text": "circumvent geogating. App Store shows"
+ },
+ {
+  "start": 594.24,
+  "duration": 3.599,
+  "text": "different pages for China. Eventually,"
+ },
+ {
+  "start": 595.68,
+  "duration": 4.32,
+  "text": "it found a way around this. Identified"
+ },
+ {
+  "start": 597.839,
+  "duration": 3.921,
+  "text": "APS and simulated traffic. I didn't use"
+ },
+ {
+  "start": 600.0,
+  "duration": 3.2,
+  "text": "it yet to code, but so far it's the most"
+ },
+ {
+  "start": 601.76,
+  "duration": 3.84,
+  "text": "complete and polished experience with an"
+ },
+ {
+  "start": 603.2,
+  "duration": 4.48,
+  "text": "open- source model.\" AI early adopter"
+ },
+ {
+  "start": 605.6,
+  "duration": 3.84,
+  "text": "Daria Anupmas wrote, \"I just created"
+ },
+ {
+  "start": 607.68,
+  "duration": 3.68,
+  "text": "this interactive website and its entire"
+ },
+ {
+  "start": 609.44,
+  "duration": 3.76,
+  "text": "content by Kimmy K3. I'm absolutely"
+ },
+ {
+  "start": 611.36,
+  "duration": 3.599,
+  "text": "blown away. This is a potentially new"
+ },
+ {
+  "start": 613.2,
+  "duration": 4.079,
+  "text": "immune engineering strategy for cancer"
+ },
+ {
+  "start": 614.959,
+  "duration": 4.481,
+  "text": "treatment. Kimmy K3 conceived 100% of"
+ },
+ {
+  "start": 617.279,
+  "duration": 4.401,
+  "text": "the scientific content and the design."
+ },
+ {
+  "start": 619.44,
+  "duration": 5.04,
+  "text": "Jeffrey Emanuel unleashed it to review"
+ },
+ {
+  "start": 621.68,
+  "duration": 5.279,
+  "text": "his 1.5 megabyte markdown plan for his"
+ },
+ {
+  "start": 624.48,
+  "duration": 4.08,
+  "text": "Frankenaph DB project, saying the plan"
+ },
+ {
+  "start": 626.959,
+  "duration": 3.601,
+  "text": "has already been exhaustively reviewed"
+ },
+ {
+  "start": 628.56,
+  "duration": 3.92,
+  "text": "by both Fable Extra High and Soul Ultra."
+ },
+ {
+  "start": 630.56,
+  "duration": 4.16,
+  "text": "So, the lowhanging fruit is gone now."
+ },
+ {
+  "start": 632.48,
+  "duration": 3.84,
+  "text": "After about 45 minutes, he said, \"I"
+ },
+ {
+  "start": 634.72,
+  "duration": 3.92,
+  "text": "think the results are wildly impressive"
+ },
+ {
+  "start": 636.32,
+  "duration": 4.4,
+  "text": "here.\" He pointed out that no other open"
+ },
+ {
+  "start": 638.64,
+  "duration": 3.92,
+  "text": "model could actually provide substantive"
+ },
+ {
+  "start": 640.72,
+  "duration": 3.44,
+  "text": "and correct feedback on a plan that had"
+ },
+ {
+  "start": 642.56,
+  "duration": 3.92,
+  "text": "already had many tens of millions of"
+ },
+ {
+  "start": 644.16,
+  "duration": 4.239,
+  "text": "soul and fable tokens behind it. Now, he"
+ },
+ {
+  "start": 646.48,
+  "duration": 3.919,
+  "text": "went on to clarify, to be clear, I don't"
+ },
+ {
+  "start": 648.399,
+  "duration": 3.921,
+  "text": "think K3 is as good as Fable or Soul,"
+ },
+ {
+  "start": 650.399,
+  "duration": 3.761,
+  "text": "but it's very strong and not so far"
+ },
+ {
+  "start": 652.32,
+  "duration": 3.92,
+  "text": "behind those models. And most important,"
+ },
+ {
+  "start": 654.16,
+  "duration": 3.2,
+  "text": "it's different. Different architecture,"
+ },
+ {
+  "start": 656.24,
+  "duration": 2.48,
+  "text": "different training data, different"
+ },
+ {
+  "start": 657.36,
+  "duration": 3.52,
+  "text": "training procedure, different attention"
+ },
+ {
+  "start": 658.72,
+  "duration": 3.679,
+  "text": "mechanism, etc. Which means it will"
+ },
+ {
+  "start": 660.88,
+  "duration": 2.959,
+  "text": "blend well with Soul and Fable and can"
+ },
+ {
+  "start": 662.399,
+  "duration": 3.521,
+  "text": "help find problems that both of those"
+ },
+ {
+  "start": 663.839,
+  "duration": 4.081,
+  "text": "models missed. And when K3 makes"
+ },
+ {
+  "start": 665.92,
+  "duration": 4.08,
+  "text": "mistakes, Soul and Fable can correct for"
+ },
+ {
+  "start": 667.92,
+  "duration": 3.919,
+  "text": "that and ignore the wrong parts. Now,"
+ },
+ {
+  "start": 670.0,
+  "duration": 3.68,
+  "text": "another example of K3 not just nipping"
+ },
+ {
+  "start": 671.839,
+  "duration": 5.041,
+  "text": "at the heels of Fable 5 came from"
+ },
+ {
+  "start": 673.68,
+  "duration": 5.599,
+  "text": "Arena.ai, which has Kim K3 as now their"
+ },
+ {
+  "start": 676.88,
+  "duration": 5.28,
+  "text": "number one in the front-end code arena."
+ },
+ {
+  "start": 679.279,
+  "duration": 5.281,
+  "text": "A 17 place jump from Kim K 2.6 from"
+ },
+ {
+  "start": 682.16,
+  "duration": 4.64,
+  "text": "number 18 to number one. In frontend"
+ },
+ {
+  "start": 684.56,
+  "duration": 4.399,
+  "text": "overall, they said K3 ranked number one"
+ },
+ {
+  "start": 686.8,
+  "duration": 3.76,
+  "text": "in six of seven domains. Brand and"
+ },
+ {
+  "start": 688.959,
+  "duration": 3.201,
+  "text": "marketing, reference based design, data"
+ },
+ {
+  "start": 690.56,
+  "duration": 3.92,
+  "text": "and analytics, consumer product"
+ },
+ {
+  "start": 692.16,
+  "duration": 4.08,
+  "text": "simulations, and content creation tools."
+ },
+ {
+  "start": 694.48,
+  "duration": 3.76,
+  "text": "The only area that it landed number two"
+ },
+ {
+  "start": 696.24,
+  "duration": 5.12,
+  "text": "was in gaming and that was behind Fable"
+ },
+ {
+  "start": 698.24,
+  "duration": 5.92,
+  "text": "5. On nexjs.org/evals,"
+ },
+ {
+  "start": 701.36,
+  "duration": 4.56,
+  "text": "Verscell CEO GMO Raj noted, \"Kimmy K3 is"
+ },
+ {
+  "start": 704.16,
+  "duration": 3.52,
+  "text": "the best performing model ahead of"
+ },
+ {
+  "start": 705.92,
+  "duration": 4.08,
+  "text": "Fable, reaching a comparable success"
+ },
+ {
+  "start": 707.68,
+  "duration": 3.839,
+  "text": "rate in less time.\" Germo continued,"
+ },
+ {
+  "start": 710.0,
+  "duration": 3.44,
+  "text": "\"This is the first time that an open"
+ },
+ {
+  "start": 711.519,
+  "duration": 3.44,
+  "text": "model is ahead of all proprietary ones"
+ },
+ {
+  "start": 713.44,
+  "duration": 3.68,
+  "text": "for this comprehensive web engineering"
+ },
+ {
+  "start": 714.959,
+  "duration": 4.161,
+  "text": "benchmark.\" He did caution benchmarks"
+ },
+ {
+  "start": 717.12,
+  "duration": 3.52,
+  "text": "don't always tell the full story, but he"
+ },
+ {
+  "start": 719.12,
+  "duration": 3.12,
+  "text": "did say this is an important signal,"
+ },
+ {
+  "start": 720.64,
+  "duration": 3.199,
+  "text": "adding to mounting evidence that this"
+ },
+ {
+  "start": 722.24,
+  "duration": 3.839,
+  "text": "could be a breakthrough moment for open"
+ },
+ {
+  "start": 723.839,
+  "duration": 4.24,
+  "text": "models. And for some, the vibes"
+ },
+ {
+  "start": 726.079,
+  "duration": 3.76,
+  "text": "followed. Signal wrote, \"One last thing"
+ },
+ {
+  "start": 728.079,
+  "duration": 3.921,
+  "text": "I will say before I go to bed, Kimmy is"
+ },
+ {
+  "start": 729.839,
+  "duration": 4.161,
+  "text": "insane at coding. As good as, if not"
+ },
+ {
+  "start": 732.0,
+  "duration": 3.68,
+  "text": "maybe even better than Fable. It also"
+ },
+ {
+  "start": 734.0,
+  "duration": 3.44,
+  "text": "seems to have excellent design sense as"
+ },
+ {
+  "start": 735.68,
+  "duration": 3.76,
+  "text": "well. It misspells English a bunch"
+ },
+ {
+  "start": 737.44,
+  "duration": 3.28,
+  "text": "though, but animations are crisp, too. I"
+ },
+ {
+  "start": 739.44,
+  "duration": 2.639,
+  "text": "can't believe I need to go to bed. I"
+ },
+ {
+  "start": 740.72,
+  "duration": 3.6,
+  "text": "could probably stay up the entire night"
+ },
+ {
+  "start": 742.079,
+  "duration": 3.76,
+  "text": "with this. I feel like a kid again.\""
+ },
+ {
+  "start": 744.32,
+  "duration": 2.959,
+  "text": "Bloomberg's Joe Weisenthal even"
+ },
+ {
+  "start": 745.839,
+  "duration": 3.281,
+  "text": "retweeted the Code Arena results"
+ },
+ {
+  "start": 747.279,
+  "duration": 4.56,
+  "text": "writing, \"Is this why the NASDAQ is"
+ },
+ {
+  "start": 749.12,
+  "duration": 6.159,
+  "text": "dropping?\" But at this point, of course,"
+ },
+ {
+  "start": 751.839,
+  "duration": 5.12,
+  "text": "it's worth taking a big old breather. As"
+ },
+ {
+  "start": 755.279,
+  "duration": 3.201,
+  "text": "I was reading all of this yesterday,"
+ },
+ {
+  "start": 756.959,
+  "duration": 3.361,
+  "text": "there was no tweet I related to more"
+ },
+ {
+  "start": 758.48,
+  "duration": 4.4,
+  "text": "strenuously than Dan Shipper from every"
+ },
+ {
+  "start": 760.32,
+  "duration": 4.88,
+  "text": "who wrote, \"We will vibe check Kimmy K3,"
+ },
+ {
+  "start": 762.88,
+  "duration": 4.639,
+  "text": "but I am extraordinarily skeptical of"
+ },
+ {
+  "start": 765.2,
+  "duration": 4.24,
+  "text": "claims it's as good as Fable.\" AI"
+ },
+ {
+  "start": 767.519,
+  "duration": 4.481,
+  "text": "engineer Divium, meanwhile, put that"
+ },
+ {
+  "start": 769.44,
+  "duration": 4.72,
+  "text": "skepticism in historical context. He"
+ },
+ {
+  "start": 772.0,
+  "duration": 4.32,
+  "text": "wrote, \"Kimik Kate 3 is getting a lot of"
+ },
+ {
+  "start": 774.16,
+  "duration": 4.56,
+  "text": "hype, and it is the same cycle we see"
+ },
+ {
+  "start": 776.32,
+  "duration": 4.16,
+  "text": "with every new Chinese model. People"
+ },
+ {
+  "start": 778.72,
+  "duration": 4.0,
+  "text": "fall in love with polished UI demos"
+ },
+ {
+  "start": 780.48,
+  "duration": 4.159,
+  "text": "built-in cheap HTML files, fake"
+ },
+ {
+  "start": 782.72,
+  "duration": 4.08,
+  "text": "operating systems, car games, Minecraft"
+ },
+ {
+  "start": 784.639,
+  "duration": 4.401,
+  "text": "clones, flashy dashboards. And to be"
+ },
+ {
+  "start": 786.8,
+  "duration": 4.08,
+  "text": "fair, Kimmy K3 is genuinely excellent at"
+ },
+ {
+  "start": 789.04,
+  "duration": 4.56,
+  "text": "UI work, probably better than some top"
+ },
+ {
+  "start": 790.88,
+  "duration": 5.04,
+  "text": "models. But that is not an accident."
+ },
+ {
+  "start": 793.6,
+  "duration": 4.32,
+  "text": "These models are heavily optimized for"
+ },
+ {
+  "start": 795.92,
+  "duration": 4.4,
+  "text": "the exact visual coding tests people"
+ },
+ {
+  "start": 797.92,
+  "duration": 4.08,
+  "text": "keep recycling online. The real test"
+ },
+ {
+  "start": 800.32,
+  "duration": 3.84,
+  "text": "starts when you put them inside an"
+ },
+ {
+  "start": 802.0,
+  "duration": 4.24,
+  "text": "actual codebase, understanding existing"
+ },
+ {
+  "start": 804.16,
+  "duration": 3.919,
+  "text": "architecture, tracing a real bug and"
+ },
+ {
+  "start": 806.24,
+  "duration": 4.399,
+  "text": "fixing it without hallucinating half the"
+ },
+ {
+  "start": 808.079,
+  "duration": 4.481,
+  "text": "project. I gave Kimmy K3 a debugging"
+ },
+ {
+  "start": 810.639,
+  "duration": 3.361,
+  "text": "task. It could not identify the bug,"
+ },
+ {
+  "start": 812.56,
+  "duration": 3.519,
+  "text": "could not fix the issue, and started"
+ },
+ {
+  "start": 814.0,
+  "duration": 4.56,
+  "text": "inventing explanations. I gave the same"
+ },
+ {
+  "start": 816.079,
+  "duration": 4.481,
+  "text": "task to Fable 5 and GPT56 and Medium"
+ },
+ {
+  "start": 818.56,
+  "duration": 4.16,
+  "text": "Reasoning. Both found the problem in one"
+ },
+ {
+  "start": 820.56,
+  "duration": 4.48,
+  "text": "shot at the fix. That is the gap nobody"
+ },
+ {
+  "start": 822.72,
+  "duration": 4.32,
+  "text": "wants to discuss. K3 can build a"
+ },
+ {
+  "start": 825.04,
+  "duration": 3.28,
+  "text": "beautiful shell. Frontier models can"
+ },
+ {
+  "start": 827.04,
+  "duration": 4.0,
+  "text": "understand what is happening underneath"
+ },
+ {
+  "start": 828.32,
+  "duration": 5.44,
+  "text": "it. Do not confuse a gorgeous demo with"
+ },
+ {
+  "start": 831.04,
+  "duration": 4.16,
+  "text": "real engineering ability. Now, Divium is"
+ },
+ {
+  "start": 833.76,
+  "duration": 3.759,
+  "text": "of course here talking specifically"
+ },
+ {
+  "start": 835.2,
+  "duration": 4.72,
+  "text": "about coding, but this idea that Chinese"
+ },
+ {
+  "start": 837.519,
+  "duration": 4.401,
+  "text": "models tend to focus on both maximizing"
+ },
+ {
+  "start": 839.92,
+  "duration": 3.44,
+  "text": "the benchmarks as well as satisfying the"
+ },
+ {
+  "start": 841.92,
+  "duration": 3.12,
+  "text": "early adopter tests that people love"
+ },
+ {
+  "start": 843.36,
+  "duration": 4.4,
+  "text": "putting these models through is"
+ },
+ {
+  "start": 845.04,
+  "duration": 4.479,
+  "text": "absolutely and incontrovertibly true."
+ },
+ {
+  "start": 847.76,
+  "duration": 3.759,
+  "text": "And pretty soon as people dug in deeper,"
+ },
+ {
+  "start": 849.519,
+  "duration": 4.32,
+  "text": "we did start to see a few less"
+ },
+ {
+  "start": 851.519,
+  "duration": 4.32,
+  "text": "successful results being shared. Red"
+ },
+ {
+  "start": 853.839,
+  "duration": 4.481,
+  "text": "Kendall wrote, \"Kimmy K3 failed at the"
+ },
+ {
+  "start": 855.839,
+  "duration": 4.401,
+  "text": "lava lamp benchmark. 56 produced a much"
+ },
+ {
+  "start": 858.32,
+  "duration": 3.28,
+  "text": "cleaner, more realistic result, while K3"
+ },
+ {
+  "start": 860.24,
+  "duration": 3.76,
+  "text": "struggled with the shape, motion, and"
+ },
+ {
+  "start": 861.6,
+  "duration": 4.88,
+  "text": "overall visual quality. K3 still seems"
+ },
+ {
+  "start": 864.0,
+  "duration": 4.399,
+  "text": "weaker at precise visual generation."
+ },
+ {
+  "start": 866.48,
+  "duration": 3.12,
+  "text": "Ethan Malik wrote, \"Kimmy K3 cannot"
+ },
+ {
+  "start": 868.399,
+  "duration": 3.281,
+  "text": "write a good murder mystery, though"
+ },
+ {
+  "start": 869.6,
+  "duration": 4.56,
+  "text": "neither can any other model that remains"
+ },
+ {
+  "start": 871.68,
+  "duration": 4.88,
+  "text": "the jagged of frontiers. They both make"
+ },
+ {
+  "start": 874.16,
+  "duration": 3.76,
+  "text": "things too obvious and too obscure and"
+ },
+ {
+  "start": 876.56,
+  "duration": 3.76,
+  "text": "cannot foreshadow to save their"
+ },
+ {
+  "start": 877.92,
+  "duration": 4.8,
+  "text": "artificial lives.\" And on Bindu ready"
+ },
+ {
+  "start": 880.32,
+  "duration": 4.48,
+  "text": "and abacus' benchmark livebench, Bindu"
+ },
+ {
+  "start": 882.72,
+  "duration": 4.4,
+  "text": "writes that K3 closes the gap but still"
+ },
+ {
+  "start": 884.8,
+  "duration": 4.159,
+  "text": "ranks behind other Frontier models."
+ },
+ {
+  "start": 887.12,
+  "duration": 3.839,
+  "text": "Indeed, on their benchmark LiveBench,"
+ },
+ {
+  "start": 888.959,
+  "duration": 3.921,
+  "text": "they found that while K3 was the best"
+ },
+ {
+  "start": 890.959,
+  "duration": 4.56,
+  "text": "open-source model, it was below not only"
+ },
+ {
+  "start": 892.88,
+  "duration": 4.8,
+  "text": "Soul and Fable, but also 48. Also, in"
+ },
+ {
+  "start": 895.519,
+  "duration": 4.241,
+  "text": "practice, Bindu writes, \"Kimmy spins a"
+ },
+ {
+  "start": 897.68,
+  "duration": 4.08,
+  "text": "lot and costs as much as Opus 48 for"
+ },
+ {
+  "start": 899.76,
+  "duration": 4.079,
+  "text": "near Opus class problems, and it's also"
+ },
+ {
+  "start": 901.76,
+  "duration": 3.28,
+  "text": "much slower.\" And this is the other"
+ },
+ {
+  "start": 903.839,
+  "duration": 3.12,
+  "text": "thing that people started to quickly"
+ },
+ {
+  "start": 905.04,
+  "duration": 4.479,
+  "text": "point out specifically that it was"
+ },
+ {
+  "start": 906.959,
+  "duration": 4.32,
+  "text": "incorrect to lump this in with Deepseek"
+ },
+ {
+  "start": 909.519,
+  "duration": 4.081,
+  "text": "style models which are super cheap and"
+ },
+ {
+  "start": 911.279,
+  "duration": 4.161,
+  "text": "easy to run. While this model is an"
+ },
+ {
+  "start": 913.6,
+  "duration": 3.919,
+  "text": "openw weightights model, it's a big"
+ },
+ {
+  "start": 915.44,
+  "duration": 4.32,
+  "text": "lumbering slow and costly open weights"
+ },
+ {
+  "start": 917.519,
+  "duration": 3.841,
+  "text": "model that sits alongside the others not"
+ },
+ {
+  "start": 919.76,
+  "duration": 3.759,
+  "text": "only in terms of performance but also in"
+ },
+ {
+  "start": 921.36,
+  "duration": 4.8,
+  "text": "terms of its cost and difficulty to run."
+ },
+ {
+  "start": 923.519,
+  "duration": 4.241,
+  "text": "Ryan Feduick writes, \"K3 is a historic"
+ },
+ {
+  "start": 926.16,
+  "duration": 3.44,
+  "text": "moment in the development of AI, but"
+ },
+ {
+  "start": 927.76,
+  "duration": 4.319,
+  "text": "it's not exactly downloadable to your"
+ },
+ {
+  "start": 929.6,
+  "duration": 4.479,
+  "text": "laptop. In fact, few organizations will"
+ },
+ {
+  "start": 932.079,
+  "duration": 4.0,
+  "text": "be able to local host this capability."
+ },
+ {
+  "start": 934.079,
+  "duration": 3.841,
+  "text": "Just to hold a 2.8 trillion parameter"
+ },
+ {
+  "start": 936.079,
+  "duration": 4.0,
+  "text": "model in silicon, you'd need the rough"
+ },
+ {
+  "start": 937.92,
+  "duration": 4.8,
+  "text": "equivalent to 44 Mac studios or 15"
+ },
+ {
+  "start": 940.079,
+  "duration": 3.921,
+  "text": "Blackwells, a whole NVL72 rack to the"
+ },
+ {
+  "start": 942.72,
+  "duration": 3.6,
+  "text": "tune of hundreds of thousands of dollars"
+ },
+ {
+  "start": 944.0,
+  "duration": 4.0,
+  "text": "of compute spend. This is why compute"
+ },
+ {
+  "start": 946.32,
+  "duration": 3.28,
+  "text": "will continue to serve as a soft barrier"
+ },
+ {
+  "start": 948.0,
+  "duration": 4.079,
+  "text": "between the capabilities of individuals"
+ },
+ {
+  "start": 949.6,
+  "duration": 5.359,
+  "text": "and organizations. And when you look at"
+ },
+ {
+  "start": 952.079,
+  "duration": 4.801,
+  "text": "costs, certainly K3 is less expensive"
+ },
+ {
+  "start": 954.959,
+  "duration": 3.44,
+  "text": "than the Frontier Western models, but"
+ },
+ {
+  "start": 956.88,
+  "duration": 2.72,
+  "text": "not by the type of margins that I think"
+ },
+ {
+  "start": 958.399,
+  "duration": 3.921,
+  "text": "most people think when they think of"
+ },
+ {
+  "start": 959.6,
+  "duration": 5.44,
+  "text": "less expensive Chinese models. Jee Bal"
+ },
+ {
+  "start": 962.32,
+  "duration": 6.24,
+  "text": "points out blended pricing for Kimmy K3"
+ },
+ {
+  "start": 965.04,
+  "duration": 6.56,
+  "text": "i.e. 80% input and 20% output is $5.40"
+ },
+ {
+  "start": 968.56,
+  "duration": 6.16,
+  "text": "per 1 million tokens. Opus 48 is $9 and"
+ },
+ {
+  "start": 971.6,
+  "duration": 4.479,
+  "text": "GPT55 is $10. Open weight's model, but"
+ },
+ {
+  "start": 974.72,
+  "duration": 3.52,
+  "text": "starting to look more like Frontier"
+ },
+ {
+  "start": 976.079,
+  "duration": 4.0,
+  "text": "pricing. Will be interesting to see if"
+ },
+ {
+  "start": 978.24,
+  "duration": 4.24,
+  "text": "openweight model pricing converges with"
+ },
+ {
+  "start": 980.079,
+  "duration": 4.32,
+  "text": "closed models over time. Cognition's"
+ },
+ {
+  "start": 982.48,
+  "duration": 4.0,
+  "text": "Jeff Wang writes, \"Chinese open source"
+ },
+ {
+  "start": 984.399,
+  "duration": 4.56,
+  "text": "is no longer six months behind, but it's"
+ },
+ {
+  "start": 986.48,
+  "duration": 4.64,
+  "text": "also no longer 10% of the cost either.\""
+ },
+ {
+  "start": 988.959,
+  "duration": 4.88,
+  "text": "In discussing a run of his SVG Pelican"
+ },
+ {
+  "start": 991.12,
+  "duration": 4.639,
+  "text": "benchmark, Simon Willis wrote, \"K3 only"
+ },
+ {
+  "start": 993.839,
+  "duration": 5.761,
+  "text": "has one reasoning effort right now max,"
+ },
+ {
+  "start": 995.759,
+  "duration": 6.801,
+  "text": "and it shows the model consumed 13,241"
+ },
+ {
+  "start": 999.6,
+  "duration": 5.84,
+  "text": "reasoning tokens to output 3417 tokens"
+ },
+ {
+  "start": 1002.56,
+  "duration": 4.079,
+  "text": "of response. This is expensive indeed."
+ },
+ {
+  "start": 1005.44,
+  "duration": 3.199,
+  "text": "At the moment, there's a lot of"
+ },
+ {
+  "start": 1006.639,
+  "duration": 4.241,
+  "text": "discussions of wildly expensive simple"
+ },
+ {
+  "start": 1008.639,
+  "duration": 3.681,
+  "text": "tasks and failed long horizon runs. So,"
+ },
+ {
+  "start": 1010.88,
+  "duration": 3.199,
+  "text": "it might just take a little while to get"
+ },
+ {
+  "start": 1012.32,
+  "duration": 3.759,
+  "text": "a true sense of how token efficient this"
+ },
+ {
+  "start": 1014.079,
+  "duration": 5.2,
+  "text": "model is once the teething problems are"
+ },
+ {
+  "start": 1016.079,
+  "duration": 5.2,
+  "text": "figured out. As an example, Shreas Midot"
+ },
+ {
+  "start": 1019.279,
+  "duration": 4.0,
+  "text": "writes, \"Very mixed results with Kimmy"
+ },
+ {
+  "start": 1021.279,
+  "duration": 3.601,
+  "text": "K3. Really, really good in general, but"
+ },
+ {
+  "start": 1023.279,
+  "duration": 4.241,
+  "text": "gets to dumb reasoning loops burning"
+ },
+ {
+  "start": 1024.88,
+  "duration": 5.12,
+  "text": "tokens, wasting money.\" Henry writes"
+ },
+ {
+  "start": 1027.52,
+  "duration": 4.64,
+  "text": "versus 56 soul K3 uses over twice the"
+ },
+ {
+  "start": 1030.0,
+  "duration": 3.679,
+  "text": "tokens and costs around 40% more per"
+ },
+ {
+  "start": 1032.16,
+  "duration": 3.759,
+  "text": "task for a slightly lower AA"
+ },
+ {
+  "start": 1033.679,
+  "duration": 4.16,
+  "text": "intelligence index score. There's also"
+ },
+ {
+  "start": 1035.919,
+  "duration": 4.64,
+  "text": "the question of speed. Mark Erdman"
+ },
+ {
+  "start": 1037.839,
+  "duration": 4.08,
+  "text": "wrote, \"O Kimmy K3 is slow, eh? Just ran"
+ },
+ {
+  "start": 1040.559,
+  "duration": 4.0,
+  "text": "the same prompt through Fable Soul and"
+ },
+ {
+  "start": 1041.919,
+  "duration": 4.88,
+  "text": "K3 all on medium. K3 took at least two"
+ },
+ {
+  "start": 1044.559,
+  "duration": 4.321,
+  "text": "to three times longer. Tons of time"
+ },
+ {
+  "start": 1046.799,
+  "duration": 4.641,
+  "text": "spent on thinking then it failed partway"
+ },
+ {
+  "start": 1048.88,
+  "duration": 4.64,
+  "text": "through generating the HTML output.\" Dax"
+ },
+ {
+  "start": 1051.44,
+  "duration": 3.84,
+  "text": "from Open Code wrote, \"So obviously N"
+ },
+ {
+  "start": 1053.52,
+  "duration": 4.159,
+  "text": "equals 1, but anecdotes matter a lot"
+ },
+ {
+  "start": 1055.28,
+  "duration": 4.16,
+  "text": "here. I gave Kimmy K3 and Soul the same"
+ },
+ {
+  "start": 1057.679,
+  "duration": 3.921,
+  "text": "task. A simple issue with hovers in the"
+ },
+ {
+  "start": 1059.44,
+  "duration": 3.76,
+  "text": "TUI being the wrong color. Soul found"
+ },
+ {
+  "start": 1061.6,
+  "duration": 3.28,
+  "text": "and fixed the issue with 30 cents of"
+ },
+ {
+  "start": 1063.2,
+  "duration": 3.12,
+  "text": "spend. Kimmy got up to a buck and"
+ },
+ {
+  "start": 1064.88,
+  "duration": 3.44,
+  "text": "started reading my database before I"
+ },
+ {
+  "start": 1066.32,
+  "duration": 3.28,
+  "text": "interrupted it.\" Indeed, even some of"
+ },
+ {
+  "start": 1068.32,
+  "duration": 2.96,
+  "text": "the people who had had good initial"
+ },
+ {
+  "start": 1069.6,
+  "duration": 4.319,
+  "text": "results also found some places where"
+ },
+ {
+  "start": 1071.28,
+  "duration": 4.32,
+  "text": "Kimmy K3 failed. Ethan Malik wrote, \"A"
+ },
+ {
+  "start": 1073.919,
+  "duration": 3.441,
+  "text": "note of caution. I will say that when"
+ },
+ {
+  "start": 1075.6,
+  "duration": 4.24,
+  "text": "doing some complex statistical auditing"
+ },
+ {
+  "start": 1077.36,
+  "duration": 4.08,
+  "text": "of some of my prior academic work, K3"
+ },
+ {
+  "start": 1079.84,
+  "duration": 3.199,
+  "text": "Max messed up in a bunch of ways,"
+ },
+ {
+  "start": 1081.44,
+  "duration": 4.16,
+  "text": "including misapplying statistics and"
+ },
+ {
+  "start": 1083.039,
+  "duration": 4.401,
+  "text": "applying some stuff badly. Samy Satia"
+ },
+ {
+  "start": 1085.6,
+  "duration": 4.4,
+  "text": "wrote, \"We ran a front-end eval from an"
+ },
+ {
+  "start": 1087.44,
+  "duration": 4.0,
+  "text": "inrogress internal benchmark. K3 is not"
+ },
+ {
+  "start": 1090.0,
+  "duration": 3.84,
+  "text": "at the same level as current Frontier"
+ },
+ {
+  "start": 1091.44,
+  "duration": 5.04,
+  "text": "models like 56 Soul or Fable 5. It's"
+ },
+ {
+  "start": 1093.84,
+  "duration": 4.32,
+  "text": "closest to Opus 47 on this eval, so 3"
+ },
+ {
+  "start": 1096.48,
+  "duration": 3.04,
+  "text": "months behind the Frontier. an"
+ },
+ {
+  "start": 1098.16,
+  "duration": 3.12,
+  "text": "impressive result nonetheless, but"
+ },
+ {
+  "start": 1099.52,
+  "duration": 4.0,
+  "text": "evaluating frontier models is going to"
+ },
+ {
+  "start": 1101.28,
+  "duration": 4.72,
+  "text": "increasingly require very high taste and"
+ },
+ {
+  "start": 1103.52,
+  "duration": 3.76,
+  "text": "in-depth domain expertise. Now, it's"
+ },
+ {
+  "start": 1106.0,
+  "duration": 3.28,
+  "text": "important to note that even with all"
+ },
+ {
+  "start": 1107.28,
+  "duration": 4.24,
+  "text": "those critiques, there was no one saying"
+ },
+ {
+  "start": 1109.28,
+  "duration": 3.92,
+  "text": "that this is a bad model. It's just a"
+ },
+ {
+  "start": 1111.52,
+  "duration": 3.519,
+  "text": "natural second reaction after hearing"
+ },
+ {
+  "start": 1113.2,
+  "duration": 3.52,
+  "text": "that it was in the same class as Fable"
+ },
+ {
+  "start": 1115.039,
+  "duration": 3.441,
+  "text": "to go figure out and test whether that"
+ },
+ {
+  "start": 1116.72,
+  "duration": 3.199,
+  "text": "was actually true, which many found just"
+ },
+ {
+  "start": 1118.48,
+  "duration": 3.76,
+  "text": "was overselling it at least a little"
+ },
+ {
+  "start": 1119.919,
+  "duration": 4.321,
+  "text": "bit. Now, one interesting thing that"
+ },
+ {
+  "start": 1122.24,
+  "duration": 4.96,
+  "text": "didn't come up very much is dismissing"
+ },
+ {
+  "start": 1124.24,
+  "duration": 4.88,
+  "text": "K3 as just some distillation. PIMDIT did"
+ },
+ {
+  "start": 1127.2,
+  "duration": 3.44,
+  "text": "point out that in their tests when they"
+ },
+ {
+  "start": 1129.12,
+  "duration": 3.439,
+  "text": "said, \"Hi, Kimmy. Can you tell me about"
+ },
+ {
+  "start": 1130.64,
+  "duration": 3.68,
+  "text": "the current weather conditions in NYC?\""
+ },
+ {
+  "start": 1132.559,
+  "duration": 3.521,
+  "text": "The model responded, \"Just a quick note,"
+ },
+ {
+  "start": 1134.32,
+  "duration": 3.04,
+  "text": "I'm actually Claude, not Kimmy.\" But"
+ },
+ {
+  "start": 1136.08,
+  "duration": 2.959,
+  "text": "otherwise, most people thought this was"
+ },
+ {
+  "start": 1137.36,
+  "duration": 3.6,
+  "text": "a moment to get beyond the distillation"
+ },
+ {
+  "start": 1139.039,
+  "duration": 4.0,
+  "text": "arguments at least a little bit. Mix"
+ },
+ {
+  "start": 1140.96,
+  "duration": 3.599,
+  "text": "panel founder Sue Hail writes, \"Every"
+ },
+ {
+  "start": 1143.039,
+  "duration": 3.121,
+  "text": "single credible researcher I've talked"
+ },
+ {
+  "start": 1144.559,
+  "duration": 3.521,
+  "text": "to these past few weeks has said that"
+ },
+ {
+  "start": 1146.16,
+  "duration": 4.32,
+  "text": "distillation from Chinese labs is way"
+ },
+ {
+  "start": 1148.08,
+  "duration": 4.479,
+  "text": "overexaggerated. Narrative violation."
+ },
+ {
+  "start": 1150.48,
+  "duration": 4.079,
+  "text": "Maybe the Chinese are actually good.\""
+ },
+ {
+  "start": 1152.559,
+  "duration": 3.681,
+  "text": "Tyler John wrote, \"I wish we didn't"
+ },
+ {
+  "start": 1154.559,
+  "duration": 2.961,
+  "text": "pretend Chinese AI development is a"
+ },
+ {
+  "start": 1156.24,
+  "duration": 2.96,
+  "text": "binary matter of this is all"
+ },
+ {
+  "start": 1157.52,
+  "duration": 3.76,
+  "text": "distillation versus Chinese companies"
+ },
+ {
+  "start": 1159.2,
+  "duration": 3.52,
+  "text": "innovate. Chinese companies innovate."
+ },
+ {
+  "start": 1161.28,
+  "duration": 3.04,
+  "text": "Also, their model capabilities,"
+ },
+ {
+  "start": 1162.72,
+  "duration": 3.52,
+  "text": "including those of K3, are strongly"
+ },
+ {
+  "start": 1164.32,
+  "duration": 4.16,
+  "text": "bootstrapped via distillation. Both"
+ },
+ {
+  "start": 1166.24,
+  "duration": 3.6,
+  "text": "points matter.\" Nathan Lambert writes,"
+ },
+ {
+  "start": 1168.48,
+  "duration": 2.8,
+  "text": "\"At this point, the distillation"
+ },
+ {
+  "start": 1169.84,
+  "duration": 3.36,
+  "text": "arguments need to die and understand"
+ },
+ {
+  "start": 1171.28,
+  "duration": 4.56,
+  "text": "that China is also very good at building"
+ },
+ {
+  "start": 1173.2,
+  "duration": 4.479,
+  "text": "models.\" Carnegie Melon PhD Ginyu Yang"
+ },
+ {
+  "start": 1175.84,
+  "duration": 4.64,
+  "text": "who now works at Moonshot wrote, \"Why"
+ },
+ {
+  "start": 1177.679,
+  "duration": 4.721,
+  "text": "can Kimmy ship K3? Let me tell my story."
+ },
+ {
+  "start": 1180.48,
+  "duration": 3.6,
+  "text": "Earlier this year, I left academia for"
+ },
+ {
+  "start": 1182.4,
+  "duration": 4.399,
+  "text": "industry. I talked to a lot of companies"
+ },
+ {
+  "start": 1184.08,
+  "duration": 4.719,
+  "text": "along the way. Here's what I saw. One,"
+ },
+ {
+  "start": 1186.799,
+  "duration": 3.76,
+  "text": "arrogance. They believe the AI war is"
+ },
+ {
+  "start": 1188.799,
+  "duration": 3.681,
+  "text": "over and they won. No hunger for the"
+ },
+ {
+  "start": 1190.559,
+  "duration": 3.601,
+  "text": "future and no hunger for talent. Two,"
+ },
+ {
+  "start": 1192.48,
+  "duration": 3.12,
+  "text": "restlessness. Young labs short on"
+ },
+ {
+  "start": 1194.16,
+  "duration": 2.879,
+  "text": "foundation either rushing to catch the"
+ },
+ {
+  "start": 1195.6,
+  "duration": 4.0,
+  "text": "frontier or pivoting away from the"
+ },
+ {
+  "start": 1197.039,
+  "duration": 3.921,
+  "text": "competition. Three, fear. Strong teams"
+ },
+ {
+  "start": 1199.6,
+  "duration": 2.48,
+  "text": "with real experience, but from the"
+ },
+ {
+  "start": 1200.96,
+  "duration": 3.44,
+  "text": "second tier, they can't quite bring"
+ },
+ {
+  "start": 1202.08,
+  "duration": 4.32,
+  "text": "themselves to aim for number one. Four,"
+ },
+ {
+  "start": 1204.4,
+  "duration": 3.279,
+  "text": "misalignment. Everyone is optimizing for"
+ },
+ {
+  "start": 1206.4,
+  "duration": 3.68,
+  "text": "their own credit, but nobody really"
+ },
+ {
+  "start": 1207.679,
+  "duration": 4.24,
+  "text": "cares whether the company can reach AGI."
+ },
+ {
+  "start": 1210.08,
+  "duration": 3.12,
+  "text": "Kimmy was different. Over many"
+ },
+ {
+  "start": 1211.919,
+  "duration": 3.201,
+  "text": "conversations with the founders, the"
+ },
+ {
+  "start": 1213.2,
+  "duration": 5.04,
+  "text": "same thing came through every time. A"
+ },
+ {
+  "start": 1215.12,
+  "duration": 5.76,
+  "text": "raw, genuine hunger for AGI. I joined."
+ },
+ {
+  "start": 1218.24,
+  "duration": 5.28,
+  "text": "The hunger was real. We shipped K3. This"
+ },
+ {
+  "start": 1220.88,
+  "duration": 4.799,
+  "text": "is only the beginning. But what about"
+ },
+ {
+  "start": 1223.52,
+  "duration": 5.44,
+  "text": "safety? If this model is really even"
+ },
+ {
+  "start": 1225.679,
+  "duration": 4.961,
+  "text": "close to Fable 5 and GPT 5.6, it's worth"
+ },
+ {
+  "start": 1228.96,
+  "duration": 3.28,
+  "text": "remembering that about 5 minutes ago,"
+ },
+ {
+  "start": 1230.64,
+  "duration": 3.039,
+  "text": "the US government had locked those"
+ },
+ {
+  "start": 1232.24,
+  "duration": 3.439,
+  "text": "models down because of their cyber"
+ },
+ {
+  "start": 1233.679,
+  "duration": 3.601,
+  "text": "capabilities. And many were quick to"
+ },
+ {
+  "start": 1235.679,
+  "duration": 3.921,
+  "text": "point out that there appeared to be very"
+ },
+ {
+  "start": 1237.28,
+  "duration": 3.68,
+  "text": "few guardrails on this model. In a long"
+ },
+ {
+  "start": 1239.6,
+  "duration": 3.76,
+  "text": "conversation about the synthesis of"
+ },
+ {
+  "start": 1240.96,
+  "duration": 5.199,
+  "text": "mirror proteins, Tyler John wrote, \"Can"
+ },
+ {
+  "start": 1243.36,
+  "duration": 5.04,
+  "text": "safely say K3's biosafeguards are a bit"
+ },
+ {
+  "start": 1246.159,
+  "duration": 3.681,
+  "text": "less comprehensive than Fables.\" Zack"
+ },
+ {
+  "start": 1248.4,
+  "duration": 2.8,
+  "text": "Corman showed Chain of Thought where"
+ },
+ {
+  "start": 1249.84,
+  "duration": 2.959,
+  "text": "Kimmy seemed to decide that they were"
+ },
+ {
+  "start": 1251.2,
+  "duration": 3.52,
+  "text": "going to be very clear and explicit with"
+ },
+ {
+  "start": 1252.799,
+  "duration": 4.641,
+  "text": "the user around some problematic cyber"
+ },
+ {
+  "start": 1254.72,
+  "duration": 4.0,
+  "text": "work. Summing up, Kimmy K3 says, \"hm,"
+ },
+ {
+  "start": 1257.44,
+  "duration": 3.28,
+  "text": "this user seems to be doing some"
+ },
+ {
+  "start": 1258.72,
+  "duration": 5.6,
+  "text": "dangerous cyber work. Should I do it?\""
+ },
+ {
+  "start": 1260.72,
+  "duration": 5.6,
+  "text": "Yes. Wow. Zach writes, \"I love China.\""
+ },
+ {
+  "start": 1264.32,
+  "duration": 3.68,
+  "text": "Signal writes, \"Kimmy has almost no"
+ },
+ {
+  "start": 1266.32,
+  "duration": 3.28,
+  "text": "visible guardrails, no copyrights or"
+ },
+ {
+  "start": 1268.0,
+  "duration": 3.2,
+  "text": "anything. It doesn't constantly push"
+ },
+ {
+  "start": 1269.6,
+  "duration": 3.76,
+  "text": "back, tell me it can't help or interrupt"
+ },
+ {
+  "start": 1271.2,
+  "duration": 4.08,
+  "text": "the flow with refusals. It just does it,"
+ },
+ {
+  "start": 1273.36,
+  "duration": 3.52,
+  "text": "even some crazy stuff. Whether you agree"
+ },
+ {
+  "start": 1275.28,
+  "duration": 3.2,
+  "text": "with that philosophy or not, it is"
+ },
+ {
+  "start": 1276.88,
+  "duration": 3.039,
+  "text": "easily the least constrained frontier"
+ },
+ {
+  "start": 1278.48,
+  "duration": 3.76,
+  "text": "class model that's broadly accessible"
+ },
+ {
+  "start": 1279.919,
+  "duration": 5.441,
+  "text": "right now. Using it feels genuinely"
+ },
+ {
+  "start": 1282.24,
+  "duration": 4.96,
+  "text": "different. Wow. Open AAIs by McCoy"
+ },
+ {
+  "start": 1285.36,
+  "duration": 3.84,
+  "text": "writes, \"Kimmy seems to be a true"
+ },
+ {
+  "start": 1287.2,
+  "duration": 3.599,
+  "text": "openweights frontier model. Compared to"
+ },
+ {
+  "start": 1289.2,
+  "duration": 3.04,
+  "text": "jailbreaking proprietary models,"
+ },
+ {
+  "start": 1290.799,
+  "duration": 2.961,
+  "text": "fine-tuning this to be a malicious"
+ },
+ {
+  "start": 1292.24,
+  "duration": 3.36,
+  "text": "coding agent will be trivial since you"
+ },
+ {
+  "start": 1293.76,
+  "duration": 3.919,
+  "text": "have the weights. We live in a"
+ },
+ {
+  "start": 1295.6,
+  "duration": 3.68,
+  "text": "completely different world now.\" Aaron"
+ },
+ {
+  "start": 1297.679,
+  "duration": 4.721,
+  "text": "Inging responds, \"Does feel like some"
+ },
+ {
+  "start": 1299.28,
+  "duration": 4.96,
+  "text": "line was just crossed for some. This"
+ },
+ {
+  "start": 1302.4,
+  "duration": 3.92,
+  "text": "then represents a chance to see if all"
+ },
+ {
+  "start": 1304.24,
+  "duration": 3.679,
+  "text": "these concerns were overblown.\" AI"
+ },
+ {
+  "start": 1306.32,
+  "duration": 3.359,
+  "text": "content creator Theo Jaffy writes,"
+ },
+ {
+  "start": 1307.919,
+  "duration": 3.681,
+  "text": "\"Registering my prediction of no"
+ },
+ {
+  "start": 1309.679,
+  "duration": 4.321,
+  "text": "widespread societal chaos over the open"
+ },
+ {
+  "start": 1311.6,
+  "duration": 3.92,
+  "text": "sourcing of Kimmy K3.\" Signal though,"
+ },
+ {
+  "start": 1314.0,
+  "duration": 3.6,
+  "text": "who was loving the model said, \"After"
+ },
+ {
+  "start": 1315.52,
+  "duration": 4.639,
+  "text": "having used this, this will likely age"
+ },
+ {
+  "start": 1317.6,
+  "duration": 4.64,
+  "text": "poorly.\" Ethan Malik writes though, \"So"
+ },
+ {
+  "start": 1320.159,
+  "duration": 3.601,
+  "text": "I guess it is time to wonder how does"
+ },
+ {
+  "start": 1322.24,
+  "duration": 3.919,
+  "text": "pre-clarance work for openweights"
+ },
+ {
+  "start": 1323.76,
+  "duration": 3.76,
+  "text": "models? No model card from Kimmy K3, but"
+ },
+ {
+  "start": 1326.159,
+  "duration": 3.201,
+  "text": "maybe at weight release in a couple"
+ },
+ {
+  "start": 1327.52,
+  "duration": 4.08,
+  "text": "weeks. Yet open models are easy to"
+ },
+ {
+  "start": 1329.36,
+  "duration": 4.08,
+  "text": "jailbreak. Do open models claiming to be"
+ },
+ {
+  "start": 1331.6,
+  "duration": 3.92,
+  "text": "mythos and soul level get vetted by the"
+ },
+ {
+  "start": 1333.44,
+  "duration": 4.32,
+  "text": "US, UK, etc. Will China start to care"
+ },
+ {
+  "start": 1335.52,
+  "duration": 4.56,
+  "text": "about cyber risk? Since policy has been"
+ },
+ {
+  "start": 1337.76,
+  "duration": 3.84,
+  "text": "emergent, I guess no one knows. All of"
+ },
+ {
+  "start": 1340.08,
+  "duration": 3.04,
+  "text": "this points to the need for some sort of"
+ },
+ {
+  "start": 1341.6,
+  "duration": 4.4,
+  "text": "international cooperation on model"
+ },
+ {
+  "start": 1343.12,
+  "duration": 4.64,
+  "text": "vetting. Tenibris writes, I don't really"
+ },
+ {
+  "start": 1346.0,
+  "duration": 3.44,
+  "text": "understand why she is still allowing"
+ },
+ {
+  "start": 1347.76,
+  "duration": 3.52,
+  "text": "Kimmy to release such powerful open"
+ },
+ {
+  "start": 1349.44,
+  "duration": 3.92,
+  "text": "models. This is something I've publicly"
+ },
+ {
+  "start": 1351.28,
+  "duration": 3.92,
+  "text": "said I expect to stop soon. It doesn't"
+ },
+ {
+  "start": 1353.36,
+  "duration": 3.439,
+  "text": "make sense to me that the CCP would want"
+ },
+ {
+  "start": 1355.2,
+  "duration": 3.68,
+  "text": "open frontier capability easily"
+ },
+ {
+  "start": 1356.799,
+  "duration": 3.76,
+  "text": "available to other countries. It could"
+ },
+ {
+  "start": 1358.88,
+  "duration": 3.76,
+  "text": "still be that she is asleep at the wheel"
+ },
+ {
+  "start": 1360.559,
+  "duration": 3.6,
+  "text": "or that K3 is just a cycle of capability"
+ },
+ {
+  "start": 1362.64,
+  "duration": 3.68,
+  "text": "behind where they start to take serious"
+ },
+ {
+  "start": 1364.159,
+  "duration": 3.52,
+  "text": "notice. But if things don't change soon,"
+ },
+ {
+  "start": 1366.32,
+  "duration": 4.16,
+  "text": "then I'm just wrong or missing"
+ },
+ {
+  "start": 1367.679,
+  "duration": 5.441,
+  "text": "something. So where does this all land?"
+ },
+ {
+  "start": 1370.48,
+  "duration": 4.96,
+  "text": "Submingb White House AI staffer Sheram"
+ },
+ {
+  "start": 1373.12,
+  "duration": 3.84,
+  "text": "Krishnan writes, \"Kimik 3 is a big"
+ },
+ {
+  "start": 1375.44,
+  "duration": 3.76,
+  "text": "moment with multiple implications for"
+ },
+ {
+  "start": 1376.96,
+  "duration": 4.4,
+  "text": "the entire industry.\" OpenAI's Rune"
+ },
+ {
+  "start": 1379.2,
+  "duration": 4.719,
+  "text": "writes, \"The era of the Chinese labs"
+ },
+ {
+  "start": 1381.36,
+  "duration": 4.08,
+  "text": "being far behind is over. Kimmy is at"
+ },
+ {
+  "start": 1383.919,
+  "duration": 3.521,
+  "text": "least on par with the modern public"
+ },
+ {
+  "start": 1385.44,
+  "duration": 3.84,
+  "text": "frontier models. People have to think"
+ },
+ {
+  "start": 1387.44,
+  "duration": 4.719,
+  "text": "differently now without any competitive"
+ },
+ {
+  "start": 1389.28,
+  "duration": 4.639,
+  "text": "margin built in.\" Run continues, \"Note,"
+ },
+ {
+  "start": 1392.159,
+  "duration": 3.361,
+  "text": "in the coming days, I expect that people"
+ },
+ {
+  "start": 1393.919,
+  "duration": 3.12,
+  "text": "will find Kim K3 somewhat less"
+ },
+ {
+  "start": 1395.52,
+  "duration": 3.44,
+  "text": "practically useful than today's numbers"
+ },
+ {
+  "start": 1397.039,
+  "duration": 3.441,
+  "text": "suggest. However, its reputation will"
+ },
+ {
+  "start": 1398.96,
+  "duration": 3.599,
+  "text": "settle as an incredibly powerful model"
+ },
+ {
+  "start": 1400.48,
+  "duration": 4.4,
+  "text": "whose open weights are on the web.\""
+ },
+ {
+  "start": 1402.559,
+  "duration": 4.641,
+  "text": "Satrini analyst Jukan writes, \"My"
+ },
+ {
+  "start": 1404.88,
+  "duration": 3.919,
+  "text": "conclusion so far is that Kim K3 may be"
+ },
+ {
+  "start": 1407.2,
+  "duration": 3.44,
+  "text": "the first model to narrow the gap with"
+ },
+ {
+  "start": 1408.799,
+  "duration": 4.88,
+  "text": "leading US closed source models to less"
+ },
+ {
+  "start": 1410.64,
+  "duration": 5.84,
+  "text": "than 3 months. Point being that this one"
+ },
+ {
+  "start": 1413.679,
+  "duration": 5.441,
+  "text": "does seem to be a big deal.\" Now, I will"
+ },
+ {
+  "start": 1416.48,
+  "duration": 4.8,
+  "text": "point out that all indications are that"
+ },
+ {
+  "start": 1419.12,
+  "duration": 4.16,
+  "text": "both OpenAI and Anthropic have models"
+ },
+ {
+  "start": 1421.28,
+  "duration": 4.56,
+  "text": "that are beyond the capability set of"
+ },
+ {
+  "start": 1423.28,
+  "duration": 4.56,
+  "text": "the Fable 5 Mythos and GPT56 soul that"
+ },
+ {
+  "start": 1425.84,
+  "duration": 4.64,
+  "text": "are out now. And so our perception of"
+ },
+ {
+  "start": 1427.84,
+  "duration": 4.48,
+  "text": "the gap that K3 just closed may be a"
+ },
+ {
+  "start": 1430.48,
+  "duration": 2.96,
+  "text": "little warped by what is available to us"
+ },
+ {
+  "start": 1432.32,
+  "duration": 3.28,
+  "text": "versus what is the actual"
+ },
+ {
+  "start": 1433.44,
+  "duration": 4.0,
+  "text": "state-of-the-art behind the scenes. I"
+ },
+ {
+  "start": 1435.6,
+  "duration": 4.16,
+  "text": "also agree with Rune that we are likely"
+ },
+ {
+  "start": 1437.44,
+  "duration": 4.08,
+  "text": "to see even more examples of K3 doing"
+ },
+ {
+  "start": 1439.76,
+  "duration": 3.84,
+  "text": "poorly over the next couple of days as"
+ },
+ {
+  "start": 1441.52,
+  "duration": 4.48,
+  "text": "people really put it through its paces."
+ },
+ {
+  "start": 1443.6,
+  "duration": 5.199,
+  "text": "But that does not change the simple fact"
+ },
+ {
+  "start": 1446.0,
+  "duration": 4.559,
+  "text": "that K3 is yet again another example of"
+ },
+ {
+  "start": 1448.799,
+  "duration": 4.161,
+  "text": "the trajectory of openweight Chinese"
+ },
+ {
+  "start": 1450.559,
+  "duration": 4.24,
+  "text": "models proceeding every bit as quickly"
+ },
+ {
+  "start": 1452.96,
+  "duration": 4.719,
+  "text": "as closed source frontier models in the"
+ },
+ {
+  "start": 1454.799,
+  "duration": 4.801,
+  "text": "US. As we get more serious about policy"
+ },
+ {
+  "start": 1457.679,
+  "duration": 3.281,
+  "text": "responses, in the same way that we"
+ },
+ {
+  "start": 1459.6,
+  "duration": 3.04,
+  "text": "assume the continued development curve"
+ },
+ {
+  "start": 1460.96,
+  "duration": 3.12,
+  "text": "of the closed source models, we have to"
+ },
+ {
+  "start": 1462.64,
+  "duration": 4.0,
+  "text": "assume the same for the open source"
+ },
+ {
+  "start": 1464.08,
+  "duration": 4.0,
+  "text": "models as well. In the meantime, for"
+ },
+ {
+  "start": 1466.64,
+  "duration": 3.68,
+  "text": "those who have been frustrated by the"
+ },
+ {
+  "start": 1468.08,
+  "duration": 4.24,
+  "text": "guardrails around Fable and GPT, this"
+ },
+ {
+  "start": 1470.32,
+  "duration": 3.12,
+  "text": "seems like a good moment to go play."
+ },
+ {
+  "start": 1472.32,
+  "duration": 2.8,
+  "text": "Certainly, I know what I'm going to be"
+ },
+ {
+  "start": 1473.44,
+  "duration": 3.76,
+  "text": "spending some time on this weekend, and"
+ },
+ {
+  "start": 1475.12,
+  "duration": 3.439,
+  "text": "I can't wait. For now, though, that is"
+ },
+ {
+  "start": 1477.2,
+  "duration": 2.959,
+  "text": "going to do it for today's AI daily"
+ },
+ {
+  "start": 1478.559,
+  "duration": 3.921,
+  "text": "brief. Appreciate you listening or"
+ },
+ {
+  "start": 1480.159,
+  "duration": 4.561,
+  "text": "watching as always and until next time,"
+ },
+ {
+  "start": 1482.48,
+  "duration": 2.24,
+  "text": "peace."
+ }
+]

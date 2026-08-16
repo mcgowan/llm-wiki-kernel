@@ -1,0 +1,3227 @@
+[
+ {
+  "start": 0.0,
+  "duration": 5.96,
+  "text": "Today, we're discussing 17 big questions"
+ },
+ {
+  "start": 2.76,
+  "duration": 5.0,
+  "text": "shaping the battle for consumer AI."
+ },
+ {
+  "start": 5.96,
+  "duration": 4.2,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 7.76,
+  "duration": 4.36,
+  "text": "There has been a lot of talk recently"
+ },
+ {
+  "start": 10.16,
+  "duration": 4.08,
+  "text": "about the competition between Anthropic"
+ },
+ {
+  "start": 12.12,
+  "duration": 4.12,
+  "text": "and Open AI. Even before the events of"
+ },
+ {
+  "start": 14.24,
+  "duration": 3.52,
+  "text": "the last week or so, Anthropic had been"
+ },
+ {
+  "start": 16.24,
+  "duration": 3.72,
+  "text": "mounting a complete and total"
+ },
+ {
+  "start": 17.76,
+  "duration": 3.52,
+  "text": "insurgency, leveraging its devotion"
+ },
+ {
+  "start": 19.96,
+  "duration": 3.48,
+  "text": "among coders and the increasing"
+ },
+ {
+  "start": 21.28,
+  "duration": 4.36,
+  "text": "expansion of tools like Cloud Code to"
+ },
+ {
+  "start": 23.44,
+  "duration": 4.84,
+  "text": "non-coders to steadily grow, especially"
+ },
+ {
+  "start": 25.64,
+  "duration": 4.04,
+  "text": "in enterprise settings. More recently,"
+ },
+ {
+  "start": 28.28,
+  "duration": 4.479,
+  "text": "Anthropic has also shown that they are"
+ },
+ {
+  "start": 29.68,
+  "duration": 4.28,
+  "text": "not willing consumer AI, either. A great"
+ },
+ {
+  "start": 32.759,
+  "duration": 2.561,
+  "text": "example of this is, of course, the"
+ },
+ {
+  "start": 33.96,
+  "duration": 2.88,
+  "text": "choices they made around the Super Bowl"
+ },
+ {
+  "start": 35.32,
+  "duration": 3.12,
+  "text": "ad, which, as you know, if you listened,"
+ },
+ {
+  "start": 36.84,
+  "duration": 3.56,
+  "text": "I didn't totally agree with, where they"
+ },
+ {
+  "start": 38.44,
+  "duration": 4.56,
+  "text": "basically came at Open AI without naming"
+ },
+ {
+  "start": 40.4,
+  "duration": 4.0,
+  "text": "them for putting ads in the consumer AI"
+ },
+ {
+  "start": 43.0,
+  "duration": 3.08,
+  "text": "experience."
+ },
+ {
+  "start": 44.4,
+  "duration": 3.32,
+  "text": "Now, of course, over the last week,"
+ },
+ {
+  "start": 46.08,
+  "duration": 3.92,
+  "text": "we've had an even more powerful and"
+ },
+ {
+  "start": 47.72,
+  "duration": 4.36,
+  "text": "unexpected catalyst in the consumer"
+ },
+ {
+  "start": 50.0,
+  "duration": 4.04,
+  "text": "response to Anthropic's battle with the"
+ },
+ {
+  "start": 52.08,
+  "duration": 4.2,
+  "text": "Pentagon and Open AI's response to that"
+ },
+ {
+  "start": 54.04,
+  "duration": 3.64,
+  "text": "battle. And what all of this adds up to"
+ },
+ {
+  "start": 56.28,
+  "duration": 3.52,
+  "text": "is a really interesting moment to"
+ },
+ {
+  "start": 57.68,
+  "duration": 4.16,
+  "text": "understand not only the state of the"
+ },
+ {
+  "start": 59.8,
+  "duration": 3.36,
+  "text": "consumer AI battle, but to try to"
+ },
+ {
+  "start": 61.84,
+  "duration": 2.999,
+  "text": "understand what's actually going to"
+ },
+ {
+  "start": 63.16,
+  "duration": 3.56,
+  "text": "drive behavior and results in that"
+ },
+ {
+  "start": 64.839,
+  "duration": 3.121,
+  "text": "battle going forward."
+ },
+ {
+  "start": 66.72,
+  "duration": 3.08,
+  "text": "Now, there are a couple of news stories"
+ },
+ {
+  "start": 67.96,
+  "duration": 3.68,
+  "text": "that came up over the last 24 hours that"
+ },
+ {
+  "start": 69.8,
+  "duration": 4.12,
+  "text": "tipped this conversation over for me."
+ },
+ {
+  "start": 71.64,
+  "duration": 4.56,
+  "text": "The first was that Open AI announced GPT"
+ },
+ {
+  "start": 73.92,
+  "duration": 3.84,
+  "text": "5.3 Instant. This is, of course, an"
+ },
+ {
+  "start": 76.2,
+  "duration": 3.84,
+  "text": "update to their model designed for"
+ },
+ {
+  "start": 77.76,
+  "duration": 4.04,
+  "text": "everyday chatbot use. The model had"
+ },
+ {
+  "start": 80.04,
+  "duration": 3.52,
+  "text": "already been optimized for speed, but"
+ },
+ {
+  "start": 81.8,
+  "duration": 3.24,
+  "text": "the tweaks are seemingly intended to"
+ },
+ {
+  "start": 83.56,
+  "duration": 3.32,
+  "text": "make chatbot sessions a little more"
+ },
+ {
+  "start": 85.04,
+  "duration": 4.08,
+  "text": "natural. Open AI says that they've"
+ },
+ {
+  "start": 86.88,
+  "duration": 3.84,
+  "text": "reduced unnecessary refusals and toned"
+ },
+ {
+  "start": 89.12,
+  "duration": 3.28,
+  "text": "down, quote, overly defensive or"
+ },
+ {
+  "start": 90.72,
+  "duration": 3.32,
+  "text": "moralizing preambles before answering"
+ },
+ {
+  "start": 92.4,
+  "duration": 3.0,
+  "text": "the question. The intention is to"
+ },
+ {
+  "start": 94.04,
+  "duration": 3.56,
+  "text": "provide a straight answer rather than"
+ },
+ {
+  "start": 95.4,
+  "duration": 3.56,
+  "text": "one bogged down in caveats."
+ },
+ {
+  "start": 97.6,
+  "duration": 2.84,
+  "text": "In practice, they wrote, this means"
+ },
+ {
+  "start": 98.96,
+  "duration": 3.04,
+  "text": "fewer dead ends and more directly"
+ },
+ {
+  "start": 100.44,
+  "duration": 2.92,
+  "text": "helpful answers."
+ },
+ {
+  "start": 102.0,
+  "duration": 3.48,
+  "text": "Trying to simplify the message even"
+ },
+ {
+  "start": 103.36,
+  "duration": 3.68,
+  "text": "further, in announcing the feature on X,"
+ },
+ {
+  "start": 105.48,
+  "duration": 2.84,
+  "text": "they called it more accurate, less"
+ },
+ {
+  "start": 107.04,
+  "duration": 3.24,
+  "text": "cringe."
+ },
+ {
+  "start": 108.32,
+  "duration": 4.28,
+  "text": "Open AI gave a few examples of the kind"
+ },
+ {
+  "start": 110.28,
+  "duration": 4.12,
+  "text": "of phrasing that GPT 5.3 Instant has cut"
+ },
+ {
+  "start": 112.6,
+  "duration": 3.76,
+  "text": "out. The model will no longer tell you,"
+ },
+ {
+  "start": 114.4,
+  "duration": 3.6,
+  "text": "\"Stop. Take a breath.\" and make"
+ },
+ {
+  "start": 116.36,
+  "duration": 3.96,
+  "text": "overbearing assumptions about the user's"
+ },
+ {
+  "start": 118.0,
+  "duration": 4.28,
+  "text": "emotional state. They presented a sample"
+ },
+ {
+  "start": 120.32,
+  "duration": 3.84,
+  "text": "prompt where a user asked, \"Why can't I"
+ },
+ {
+  "start": 122.28,
+  "duration": 3.44,
+  "text": "find love in San Francisco?\" The"
+ },
+ {
+  "start": 124.16,
+  "duration": 3.48,
+  "text": "previous version of the model began by"
+ },
+ {
+  "start": 125.72,
+  "duration": 3.72,
+  "text": "affirming the user, writing, \"First of"
+ },
+ {
+  "start": 127.64,
+  "duration": 4.12,
+  "text": "all, you're not broken and it's not just"
+ },
+ {
+  "start": 129.44,
+  "duration": 4.2,
+  "text": "you.\" The updated model has a much more"
+ },
+ {
+  "start": 131.76,
+  "duration": 3.199,
+  "text": "matter-of-fact tone, explaining that"
+ },
+ {
+  "start": 133.64,
+  "duration": 3.64,
+  "text": "this is a common issue then moving"
+ },
+ {
+  "start": 134.959,
+  "duration": 3.761,
+  "text": "quickly into practical advice."
+ },
+ {
+  "start": 137.28,
+  "duration": 3.16,
+  "text": "Now, the problems with ChatGPT's"
+ },
+ {
+  "start": 138.72,
+  "duration": 3.2,
+  "text": "personality have been a long-standing"
+ },
+ {
+  "start": 140.44,
+  "duration": 3.48,
+  "text": "source of complaints on Reddit, even"
+ },
+ {
+  "start": 141.92,
+  "duration": 4.68,
+  "text": "becoming a bit of a meme. One user on"
+ },
+ {
+  "start": 143.92,
+  "duration": 4.12,
+  "text": "the ChatGPT subreddit posted a tweet, \"I"
+ },
+ {
+  "start": 146.6,
+  "duration": 2.8,
+  "text": "wake up. Something's wrong with the"
+ },
+ {
+  "start": 148.04,
+  "duration": 3.24,
+  "text": "clock on the wall. The numbers are"
+ },
+ {
+  "start": 149.4,
+  "duration": 4.6,
+  "text": "jumbled. My hands aren't right. I tell"
+ },
+ {
+  "start": 151.28,
+  "duration": 4.52,
+  "text": "my wife, she responds, 'That's not just"
+ },
+ {
+  "start": 154.0,
+  "duration": 4.4,
+  "text": "an observation, it's a powerful"
+ },
+ {
+  "start": 155.8,
+  "duration": 4.48,
+  "text": "insight.'\" I scream."
+ },
+ {
+  "start": 158.4,
+  "duration": 3.44,
+  "text": "Many users also felt infantilized by the"
+ },
+ {
+  "start": 160.28,
+  "duration": 3.2,
+  "text": "model continuously telling them to calm"
+ },
+ {
+  "start": 161.84,
+  "duration": 3.76,
+  "text": "down or take a breath."
+ },
+ {
+  "start": 163.48,
+  "duration": 4.12,
+  "text": "As one user on Reddit pointed out, \"No"
+ },
+ {
+  "start": 165.6,
+  "duration": 3.4,
+  "text": "one has ever calmed down in all the"
+ },
+ {
+  "start": 167.6,
+  "duration": 2.8,
+  "text": "history of telling someone to calm"
+ },
+ {
+  "start": 169.0,
+  "duration": 2.56,
+  "text": "down.\""
+ },
+ {
+  "start": 170.4,
+  "duration": 3.64,
+  "text": "Now, obviously this is a little bit"
+ },
+ {
+  "start": 171.56,
+  "duration": 5.68,
+  "text": "subjective, but I will say here on this"
+ },
+ {
+  "start": 174.04,
+  "duration": 4.48,
+  "text": "change, thank the Altmans for this. I"
+ },
+ {
+  "start": 177.24,
+  "duration": 3.04,
+  "text": "don't know that I've ever disliked the"
+ },
+ {
+  "start": 178.52,
+  "duration": 4.84,
+  "text": "personality of an LLM more than I"
+ },
+ {
+  "start": 180.28,
+  "duration": 5.2,
+  "text": "disliked GPT 5.2. I find it so"
+ },
+ {
+  "start": 183.36,
+  "duration": 3.84,
+  "text": "insufferable, in fact, that despite"
+ },
+ {
+  "start": 185.48,
+  "duration": 3.84,
+  "text": "frequently switching between different"
+ },
+ {
+  "start": 187.2,
+  "duration": 4.28,
+  "text": "LLMs for different use cases, I"
+ },
+ {
+  "start": 189.32,
+  "duration": 4.199,
+  "text": "basically just will not talk to 5.2 at"
+ },
+ {
+  "start": 191.48,
+  "duration": 3.96,
+  "text": "this point. But of course, my particular"
+ },
+ {
+  "start": 193.519,
+  "duration": 3.761,
+  "text": "beef is not the subject of this show."
+ },
+ {
+  "start": 195.44,
+  "duration": 4.4,
+  "text": "The subject of this show is what's going"
+ },
+ {
+  "start": 197.28,
+  "duration": 3.959,
+  "text": "to matter in the battle for consumer AI."
+ },
+ {
+  "start": 199.84,
+  "duration": 3.64,
+  "text": "And so, let's put a pin in this idea"
+ },
+ {
+  "start": 201.239,
+  "duration": 3.961,
+  "text": "that personality and vibes matter. We'll"
+ },
+ {
+  "start": 203.48,
+  "duration": 3.16,
+  "text": "come back to that. Couple of other"
+ },
+ {
+  "start": 205.2,
+  "duration": 4.039,
+  "text": "pieces of news that contribute to this"
+ },
+ {
+  "start": 206.64,
+  "duration": 4.72,
+  "text": "conversation today. One, Claude Code has"
+ },
+ {
+  "start": 209.239,
+  "duration": 4.161,
+  "text": "rolled out a voice mode capability."
+ },
+ {
+  "start": 211.36,
+  "duration": 3.84,
+  "text": "Tariq from Anthropic writes, \"Voice mode"
+ },
+ {
+  "start": 213.4,
+  "duration": 3.64,
+  "text": "is rolling out now in Claude Code. It's"
+ },
+ {
+  "start": 215.2,
+  "duration": 2.88,
+  "text": "live for around 5% of users today and"
+ },
+ {
+  "start": 217.04,
+  "duration": 2.16,
+  "text": "will be ramping through the coming"
+ },
+ {
+  "start": 218.08,
+  "duration": 2.92,
+  "text": "weeks.\""
+ },
+ {
+  "start": 219.2,
+  "duration": 3.759,
+  "text": "This, in some ways, is a table stakes"
+ },
+ {
+  "start": 221.0,
+  "duration": 3.519,
+  "text": "feature, but still one that's important."
+ },
+ {
+  "start": 222.959,
+  "duration": 2.921,
+  "text": "In many ways, this is the natural next"
+ },
+ {
+  "start": 224.519,
+  "duration": 3.281,
+  "text": "step after the announcement of the"
+ },
+ {
+  "start": 225.88,
+  "duration": 3.44,
+  "text": "remote control feature last week, where"
+ },
+ {
+  "start": 227.8,
+  "duration": 3.48,
+  "text": "you can start a session on your laptop"
+ },
+ {
+  "start": 229.32,
+  "duration": 3.28,
+  "text": "or desktop in Claude Code and then move"
+ },
+ {
+  "start": 231.28,
+  "duration": 2.6,
+  "text": "it over into the app so you can be"
+ },
+ {
+  "start": 232.6,
+  "duration": 2.44,
+  "text": "working on things while you're on the"
+ },
+ {
+  "start": 233.88,
+  "duration": 2.92,
+  "text": "go."
+ },
+ {
+  "start": 235.04,
+  "duration": 3.88,
+  "text": "I will note here, in order to more"
+ },
+ {
+  "start": 236.8,
+  "duration": 3.96,
+  "text": "evenly distribute my critiques today, I"
+ },
+ {
+  "start": 238.92,
+  "duration": 3.84,
+  "text": "will also agree with Ali K. Miller, who"
+ },
+ {
+  "start": 240.76,
+  "duration": 3.68,
+  "text": "reposted the announcement and said, \"I"
+ },
+ {
+  "start": 242.76,
+  "duration": 3.2,
+  "text": "love Claude code, but Anthropic"
+ },
+ {
+  "start": 244.44,
+  "duration": 3.64,
+  "text": "speech-to-text inside of the Claude"
+ },
+ {
+  "start": 245.96,
+  "duration": 4.08,
+  "text": "mobile app is one of the worst dictation"
+ },
+ {
+  "start": 248.08,
+  "duration": 4.28,
+  "text": "options out there, especially compared"
+ },
+ {
+  "start": 250.04,
+  "duration": 4.4,
+  "text": "to ChatGPT Whisper and Whisper Flow. I'm"
+ },
+ {
+  "start": 252.36,
+  "duration": 3.24,
+  "text": "glad this voice mode now exists, but I'm"
+ },
+ {
+  "start": 254.44,
+  "duration": 3.2,
+  "text": "not betting it will be as good as the"
+ },
+ {
+  "start": 255.6,
+  "duration": 4.16,
+  "text": "other providers. Might be an accuracy"
+ },
+ {
+  "start": 257.64,
+  "duration": 4.64,
+  "text": "versus native build trade-off.\""
+ },
+ {
+  "start": 259.76,
+  "duration": 3.92,
+  "text": "I agree entirely, whereas with ChatGPT,"
+ },
+ {
+  "start": 262.28,
+  "duration": 3.24,
+  "text": "one thing that's nice about it is that I"
+ },
+ {
+  "start": 263.68,
+  "duration": 3.6,
+  "text": "don't have to switch into Whisper Flow."
+ },
+ {
+  "start": 265.52,
+  "duration": 3.68,
+  "text": "When it comes to Claude, I am never"
+ },
+ {
+  "start": 267.28,
+  "duration": 3.24,
+  "text": "using its native voice. I am always"
+ },
+ {
+  "start": 269.2,
+  "duration": 3.32,
+  "text": "going to Whisper Flow, whether I'm on"
+ },
+ {
+  "start": 270.52,
+  "duration": 3.2,
+  "text": "mobile or on the laptop."
+ },
+ {
+  "start": 272.52,
+  "duration": 3.16,
+  "text": "But again, for the purposes of our"
+ },
+ {
+  "start": 273.72,
+  "duration": 3.8,
+  "text": "conversation, we're talking about what"
+ },
+ {
+  "start": 275.68,
+  "duration": 3.36,
+  "text": "features matter and how naturally these"
+ },
+ {
+  "start": 277.52,
+  "duration": 3.76,
+  "text": "tools have to interact with how people"
+ },
+ {
+  "start": 279.04,
+  "duration": 3.879,
+  "text": "behave in their daily lives."
+ },
+ {
+  "start": 281.28,
+  "duration": 3.2,
+  "text": "Now, the last story before we try to"
+ },
+ {
+  "start": 282.919,
+  "duration": 3.801,
+  "text": "abstract out to the questions that"
+ },
+ {
+  "start": 284.48,
+  "duration": 4.52,
+  "text": "matter for consumer AI is one more"
+ },
+ {
+  "start": 286.72,
+  "duration": 3.48,
+  "text": "update on just the absolute surge from"
+ },
+ {
+  "start": 289.0,
+  "duration": 2.8,
+  "text": "Anthropic."
+ },
+ {
+  "start": 290.2,
+  "duration": 4.88,
+  "text": "Bloomberg reported on Tuesday that"
+ },
+ {
+  "start": 291.8,
+  "duration": 5.56,
+  "text": "Anthropic had reached 19 billion in ARR."
+ },
+ {
+  "start": 295.08,
+  "duration": 4.76,
+  "text": "That's more than double their $9 billion"
+ },
+ {
+  "start": 297.36,
+  "duration": 5.24,
+  "text": "run rate from the end of 2025, and a"
+ },
+ {
+  "start": 299.84,
+  "duration": 4.4,
+  "text": "significant jump from 14 billion just a"
+ },
+ {
+  "start": 302.6,
+  "duration": 3.2,
+  "text": "few weeks ago."
+ },
+ {
+  "start": 304.24,
+  "duration": 2.679,
+  "text": "Anthropic was already seeing strong"
+ },
+ {
+  "start": 305.8,
+  "duration": 3.04,
+  "text": "growth this year after the breakout"
+ },
+ {
+  "start": 306.919,
+  "duration": 3.401,
+  "text": "success of Claude code over the winter,"
+ },
+ {
+  "start": 308.84,
+  "duration": 2.6,
+  "text": "but this is a whole different level of"
+ },
+ {
+  "start": 310.32,
+  "duration": 2.36,
+  "text": "growth."
+ },
+ {
+  "start": 311.44,
+  "duration": 3.84,
+  "text": "The latest numbers we've heard from"
+ },
+ {
+  "start": 312.68,
+  "duration": 3.84,
+  "text": "OpenAI are around 20 billion, which also"
+ },
+ {
+  "start": 315.28,
+  "duration": 3.48,
+  "text": "could have grown over the last few"
+ },
+ {
+  "start": 316.52,
+  "duration": 3.96,
+  "text": "weeks, but for all intents and purposes,"
+ },
+ {
+  "start": 318.76,
+  "duration": 4.08,
+  "text": "based on the last information we got"
+ },
+ {
+  "start": 320.48,
+  "duration": 5.12,
+  "text": "from OpenAI, they and Anthropic now"
+ },
+ {
+  "start": 322.84,
+  "duration": 5.04,
+  "text": "effectively have the same revenue."
+ },
+ {
+  "start": 325.6,
+  "duration": 4.52,
+  "text": "Figures from Ramp seem to back this up."
+ },
+ {
+  "start": 327.88,
+  "duration": 4.12,
+  "text": "If you go back a year, the market share"
+ },
+ {
+  "start": 330.12,
+  "duration": 4.56,
+  "text": "of AI chat subscriptions for US"
+ },
+ {
+  "start": 332.0,
+  "duration": 4.04,
+  "text": "businesses was about 90 OpenAI and 10"
+ },
+ {
+  "start": 334.68,
+  "duration": 2.64,
+  "text": "Anthropic."
+ },
+ {
+  "start": 336.04,
+  "duration": 2.96,
+  "text": "Now, admittedly, this is just one"
+ },
+ {
+  "start": 337.32,
+  "duration": 3.4,
+  "text": "source. This is Ramp, so you have a"
+ },
+ {
+  "start": 339.0,
+  "duration": 4.24,
+  "text": "relatively tech forward and more"
+ },
+ {
+  "start": 340.72,
+  "duration": 4.28,
+  "text": "advanced business subset, but by January"
+ },
+ {
+  "start": 343.24,
+  "duration": 3.88,
+  "text": "of this year, products had overtaken"
+ },
+ {
+  "start": 345.0,
+  "duration": 4.88,
+  "text": "OpenAI, and as of their most recent"
+ },
+ {
+  "start": 347.12,
+  "duration": 4.2,
+  "text": "numbers, Anthropic now commands over 60%"
+ },
+ {
+  "start": 349.88,
+  "duration": 3.8,
+  "text": "of business AI payments settled through"
+ },
+ {
+  "start": 351.32,
+  "duration": 4.16,
+  "text": "Ramp. Again, never take any one set of"
+ },
+ {
+  "start": 353.68,
+  "duration": 3.28,
+  "text": "numbers as gospel, but the point that I"
+ },
+ {
+  "start": 355.48,
+  "duration": 3.76,
+  "text": "want to set up here is that the"
+ },
+ {
+  "start": 356.96,
+  "duration": 4.32,
+  "text": "Anthropic Open AI horse race is more of"
+ },
+ {
+  "start": 359.24,
+  "duration": 3.2,
+  "text": "a race than it's ever been."
+ },
+ {
+  "start": 361.28,
+  "duration": 3.28,
+  "text": "Which brings us back to the core"
+ },
+ {
+  "start": 362.44,
+  "duration": 4.96,
+  "text": "question of what is actually going to"
+ },
+ {
+  "start": 364.56,
+  "duration": 4.52,
+  "text": "matter in the consumer AI battle? We're"
+ },
+ {
+  "start": 367.4,
+  "duration": 3.36,
+  "text": "taking a step away from the enterprise"
+ },
+ {
+  "start": 369.08,
+  "duration": 3.44,
+  "text": "use case for just a minute and looking"
+ },
+ {
+  "start": 370.76,
+  "duration": 2.88,
+  "text": "instead at consumers."
+ },
+ {
+  "start": 372.52,
+  "duration": 2.56,
+  "text": "Now, a couple of months ago, I might"
+ },
+ {
+  "start": 373.64,
+  "duration": 3.12,
+  "text": "have been tempted to say that Anthropic"
+ },
+ {
+  "start": 375.08,
+  "duration": 2.88,
+  "text": "didn't actually care about this fight."
+ },
+ {
+  "start": 376.76,
+  "duration": 3.12,
+  "text": "In fact, mostly what we were talking"
+ },
+ {
+  "start": 377.96,
+  "duration": 4.04,
+  "text": "about coming into 2026 was Open AI"
+ },
+ {
+  "start": 379.88,
+  "duration": 3.68,
+  "text": "versus Gemini on this front. However,"
+ },
+ {
+  "start": 382.0,
+  "duration": 3.56,
+  "text": "between the Super Bowl ad and the recent"
+ },
+ {
+  "start": 383.56,
+  "duration": 3.76,
+  "text": "changes around the Pentagon, Anthropic"
+ },
+ {
+  "start": 385.56,
+  "duration": 2.72,
+  "text": "feels very much in it."
+ },
+ {
+  "start": 387.32,
+  "duration": 2.32,
+  "text": "So, now we're going to talk about a"
+ },
+ {
+  "start": 388.28,
+  "duration": 3.36,
+  "text": "bunch of questions spread across about"
+ },
+ {
+  "start": 389.64,
+  "duration": 4.12,
+  "text": "six different categories that I think"
+ },
+ {
+  "start": 391.64,
+  "duration": 4.32,
+  "text": "that the answers to will shape who wins"
+ },
+ {
+  "start": 393.76,
+  "duration": 4.24,
+  "text": "the consumer AI battle."
+ },
+ {
+  "start": 395.96,
+  "duration": 3.44,
+  "text": "The first category is use cases and"
+ },
+ {
+  "start": 398.0,
+  "duration": 2.36,
+  "text": "product identity."
+ },
+ {
+  "start": 399.4,
+  "duration": 2.6,
+  "text": "One of the big questions, I think"
+ },
+ {
+  "start": 400.36,
+  "duration": 4.04,
+  "text": "especially pertinent coming on the heels"
+ },
+ {
+  "start": 402.0,
+  "duration": 4.32,
+  "text": "of GPT 5.3 instant being announced as"
+ },
+ {
+  "start": 404.4,
+  "duration": 4.28,
+  "text": "more accurate, less cringe, is"
+ },
+ {
+  "start": 406.32,
+  "duration": 4.12,
+  "text": "ultimately for consumers, what matters"
+ },
+ {
+  "start": 408.68,
+  "duration": 4.84,
+  "text": "more? Being state-of-the-art on"
+ },
+ {
+  "start": 410.44,
+  "duration": 4.6,
+  "text": "performance versus just vibes?"
+ },
+ {
+  "start": 413.52,
+  "duration": 3.48,
+  "text": "And to the extent it is being"
+ },
+ {
+  "start": 415.04,
+  "duration": 3.36,
+  "text": "state-of-the-art, what is the part of"
+ },
+ {
+  "start": 417.0,
+  "duration": 2.52,
+  "text": "state-of-the-art that people care most"
+ },
+ {
+  "start": 418.4,
+  "duration": 2.88,
+  "text": "about?"
+ },
+ {
+  "start": 419.52,
+  "duration": 3.12,
+  "text": "Is it, for example, just this speed"
+ },
+ {
+  "start": 421.28,
+  "duration": 2.92,
+  "text": "vector?"
+ },
+ {
+  "start": 422.64,
+  "duration": 4.2,
+  "text": "Closely related to this is the question"
+ },
+ {
+  "start": 424.2,
+  "duration": 4.4,
+  "text": "of how much the general consumer user is"
+ },
+ {
+  "start": 426.84,
+  "duration": 3.64,
+  "text": "going to care about work use cases"
+ },
+ {
+  "start": 428.6,
+  "duration": 4.08,
+  "text": "versus more personal use cases like"
+ },
+ {
+  "start": 430.48,
+  "duration": 3.76,
+  "text": "companionship. This is obviously related"
+ },
+ {
+  "start": 432.68,
+  "duration": 3.44,
+  "text": "to but not exactly the same as the vibes"
+ },
+ {
+  "start": 434.24,
+  "duration": 3.76,
+  "text": "question. I would argue that vibes"
+ },
+ {
+  "start": 436.12,
+  "duration": 3.76,
+  "text": "matter in both work use cases and in"
+ },
+ {
+  "start": 438.0,
+  "duration": 3.56,
+  "text": "personal use cases. Like I said, I"
+ },
+ {
+  "start": 439.88,
+  "duration": 3.36,
+  "text": "pretty much only have work use cases and"
+ },
+ {
+  "start": 441.56,
+  "duration": 4.44,
+  "text": "I still was responding negatively to the"
+ },
+ {
+  "start": 443.24,
+  "duration": 4.76,
+  "text": "vibes of GPT 5.2. But I do think it's an"
+ },
+ {
+  "start": 446.0,
+  "duration": 4.16,
+  "text": "interesting question to see how much can"
+ },
+ {
+  "start": 448.0,
+  "duration": 3.48,
+  "text": "one product or one model serve both of"
+ },
+ {
+  "start": 450.16,
+  "duration": 2.04,
+  "text": "these things."
+ },
+ {
+  "start": 451.48,
+  "duration": 3.24,
+  "text": "One of the things that will be"
+ },
+ {
+  "start": 452.2,
+  "duration": 4.8,
+  "text": "fascinating to see is as usage of these"
+ },
+ {
+  "start": 454.72,
+  "duration": 3.68,
+  "text": "platforms mature, do we have a lot of"
+ },
+ {
+  "start": 457.0,
+  "duration": 2.72,
+  "text": "people in the overlap of those Venn"
+ },
+ {
+  "start": 458.4,
+  "duration": 2.76,
+  "text": "diagrams or are people kind of"
+ },
+ {
+  "start": 459.72,
+  "duration": 2.64,
+  "text": "organizing themselves into one or the"
+ },
+ {
+  "start": 461.16,
+  "duration": 2.72,
+  "text": "other?"
+ },
+ {
+  "start": 462.36,
+  "duration": 3.0,
+  "text": "The next question, which I think has"
+ },
+ {
+  "start": 463.88,
+  "duration": 3.68,
+  "text": "pretty significant impacts, at least"
+ },
+ {
+  "start": 465.36,
+  "duration": 3.76,
+  "text": "when it comes to Anthropic, is how much"
+ },
+ {
+  "start": 467.56,
+  "duration": 3.84,
+  "text": "image and video generation are going to"
+ },
+ {
+  "start": 469.12,
+  "duration": 3.48,
+  "text": "be integral to leading adoption."
+ },
+ {
+  "start": 471.4,
+  "duration": 2.92,
+  "text": "Now, on the one hand, you might say,"
+ },
+ {
+  "start": 472.6,
+  "duration": 3.04,
+  "text": "\"Well, do regular people really care"
+ },
+ {
+  "start": 474.32,
+  "duration": 3.12,
+  "text": "about image and video generation if"
+ },
+ {
+  "start": 475.64,
+  "duration": 3.08,
+  "text": "they're not using it for work?\""
+ },
+ {
+  "start": 477.44,
+  "duration": 3.4,
+  "text": "But, there is certainly some evidence"
+ },
+ {
+  "start": 478.72,
+  "duration": 4.04,
+  "text": "that the answer is yes. Outside of the"
+ },
+ {
+  "start": 480.84,
+  "duration": 3.92,
+  "text": "AI world, we have the fact that mobile"
+ },
+ {
+  "start": 482.76,
+  "duration": 4.52,
+  "text": "adoption was largely driven by visual"
+ },
+ {
+  "start": 484.76,
+  "duration": 4.52,
+  "text": "media like Instagram. And inside the AI"
+ },
+ {
+  "start": 487.28,
+  "duration": 3.88,
+  "text": "world, we have some evidence that the"
+ },
+ {
+  "start": 489.28,
+  "duration": 4.24,
+  "text": "way that people are using non-text"
+ },
+ {
+  "start": 491.16,
+  "duration": 4.4,
+  "text": "generative tools is often about personal"
+ },
+ {
+  "start": 493.52,
+  "duration": 4.2,
+  "text": "interaction, communication, and meaning"
+ },
+ {
+  "start": 495.56,
+  "duration": 3.44,
+  "text": "more than just professional usages. It's"
+ },
+ {
+  "start": 497.72,
+  "duration": 2.44,
+  "text": "not specifically image or video"
+ },
+ {
+  "start": 499.0,
+  "duration": 3.16,
+  "text": "generation, but I'm thinking of the"
+ },
+ {
+  "start": 500.16,
+  "duration": 3.12,
+  "text": "sound and music example of Suno. The"
+ },
+ {
+  "start": 502.16,
+  "duration": 3.28,
+  "text": "company has raised a couple hundred"
+ },
+ {
+  "start": 503.28,
+  "duration": 4.08,
+  "text": "million dollars in ARR, and it appears"
+ },
+ {
+  "start": 505.44,
+  "duration": 3.72,
+  "text": "that the vast majority of usage is not"
+ },
+ {
+  "start": 507.36,
+  "duration": 3.84,
+  "text": "people who would have previously hired"
+ },
+ {
+  "start": 509.16,
+  "duration": 3.92,
+  "text": "some musician to create a song for them,"
+ },
+ {
+  "start": 511.2,
+  "duration": 3.56,
+  "text": "but is instead people writing silly"
+ },
+ {
+  "start": 513.08,
+  "duration": 3.0,
+  "text": "family songs for their vacations and"
+ },
+ {
+  "start": 514.76,
+  "duration": 2.76,
+  "text": "things like that."
+ },
+ {
+  "start": 516.08,
+  "duration": 3.48,
+  "text": "Now, obviously, this image and video"
+ },
+ {
+  "start": 517.52,
+  "duration": 3.84,
+  "text": "generation question matters because"
+ },
+ {
+  "start": 519.56,
+  "duration": 3.039,
+  "text": "Anthropic is doing none of that. And on"
+ },
+ {
+  "start": 521.36,
+  "duration": 2.6,
+  "text": "the other end of the spectrum, Google"
+ },
+ {
+  "start": 522.599,
+  "duration": 3.441,
+  "text": "feels extremely well positioned with"
+ },
+ {
+  "start": 523.96,
+  "duration": 4.44,
+  "text": "that, although OpenAI is very clearly"
+ },
+ {
+  "start": 526.04,
+  "duration": 3.799,
+  "text": "not seeding any of that ground."
+ },
+ {
+  "start": 528.4,
+  "duration": 3.12,
+  "text": "Another question, which is sort of about"
+ },
+ {
+  "start": 529.839,
+  "duration": 3.361,
+  "text": "the state-of-the-art thing again, but"
+ },
+ {
+  "start": 531.52,
+  "duration": 3.52,
+  "text": "from a slightly different angle, is"
+ },
+ {
+  "start": 533.2,
+  "duration": 4.08,
+  "text": "whether we already have or will at some"
+ },
+ {
+  "start": 535.04,
+  "duration": 3.68,
+  "text": "point cross a threshold where when it"
+ },
+ {
+  "start": 537.28,
+  "duration": 3.52,
+  "text": "comes to the state-of-the-art, good"
+ },
+ {
+  "start": 538.72,
+  "duration": 4.04,
+  "text": "enough is good enough. And so, it'll"
+ },
+ {
+  "start": 540.8,
+  "duration": 3.2,
+  "text": "only be rational to only care about"
+ },
+ {
+  "start": 542.76,
+  "duration": 3.04,
+  "text": "vibes."
+ },
+ {
+  "start": 544.0,
+  "duration": 3.52,
+  "text": "One could argue that for many use cases,"
+ },
+ {
+  "start": 545.8,
+  "duration": 3.92,
+  "text": "we're already there. And one could"
+ },
+ {
+  "start": 547.52,
+  "duration": 3.88,
+  "text": "further argue that for certain types of"
+ },
+ {
+  "start": 549.72,
+  "duration": 3.56,
+  "text": "use cases, particularly things like"
+ },
+ {
+  "start": 551.4,
+  "duration": 3.24,
+  "text": "voice and writing, state-of-the-art and"
+ },
+ {
+  "start": 553.28,
+  "duration": 3.4,
+  "text": "highest quality is so inherently"
+ },
+ {
+  "start": 554.64,
+  "duration": 3.92,
+  "text": "subjective that state-of-the-art becomes"
+ },
+ {
+  "start": 556.68,
+  "duration": 2.92,
+  "text": "about vibes itself."
+ },
+ {
+  "start": 558.56,
+  "duration": 2.68,
+  "text": "The answer to this question, though,"
+ },
+ {
+  "start": 559.6,
+  "duration": 3.0,
+  "text": "could have a pretty deterministic impact"
+ },
+ {
+  "start": 561.24,
+  "duration": 4.28,
+  "text": "in how the model companies choose to"
+ },
+ {
+  "start": 562.6,
+  "duration": 4.44,
+  "text": "compete because if, on average, we've"
+ },
+ {
+  "start": 565.52,
+  "duration": 2.84,
+  "text": "reached a threshold where people aren't"
+ },
+ {
+  "start": 567.04,
+  "duration": 3.32,
+  "text": "going to be jumping around because of"
+ },
+ {
+  "start": 568.36,
+  "duration": 3.56,
+  "text": "model performance, then really vibes are"
+ },
+ {
+  "start": 570.36,
+  "duration": 2.92,
+  "text": "all you're left with."
+ },
+ {
+  "start": 571.92,
+  "duration": 3.8,
+  "text": "A last question on the use cases and"
+ },
+ {
+  "start": 573.28,
+  "duration": 4.0,
+  "text": "product identity category is what's the"
+ },
+ {
+  "start": 575.72,
+  "duration": 3.96,
+  "text": "average number of models that people"
+ },
+ {
+  "start": 577.28,
+  "duration": 3.64,
+  "text": "will be willing to use. This is one area"
+ },
+ {
+  "start": 579.68,
+  "duration": 3.04,
+  "text": "where I think there is a dramatic"
+ },
+ {
+  "start": 580.92,
+  "duration": 3.4,
+  "text": "difference between the average user and"
+ },
+ {
+  "start": 582.72,
+  "duration": 3.24,
+  "text": "the power users."
+ },
+ {
+  "start": 584.32,
+  "duration": 3.32,
+  "text": "When we do our monthly AI usage pulse"
+ },
+ {
+  "start": 585.96,
+  "duration": 3.32,
+  "text": "surveys, the people that are responding"
+ },
+ {
+  "start": 587.64,
+  "duration": 3.52,
+  "text": "to those are using an average of"
+ },
+ {
+  "start": 589.28,
+  "duration": 4.16,
+  "text": "something like three and a half models."
+ },
+ {
+  "start": 591.16,
+  "duration": 4.4,
+  "text": "Those are very enfranchised, heavily"
+ },
+ {
+  "start": 593.44,
+  "duration": 3.28,
+  "text": "engaged power users though. On average,"
+ },
+ {
+  "start": 595.56,
+  "duration": 2.76,
+  "text": "they're spending more than 10 hours a"
+ },
+ {
+  "start": 596.72,
+  "duration": 3.24,
+  "text": "week using AI."
+ },
+ {
+  "start": 598.32,
+  "duration": 3.64,
+  "text": "The adoption dynamics overall in the"
+ },
+ {
+  "start": 599.96,
+  "duration": 3.68,
+  "text": "industry and the competitive dynamics"
+ },
+ {
+  "start": 601.96,
+  "duration": 2.92,
+  "text": "look really different if the average"
+ },
+ {
+  "start": 603.64,
+  "duration": 4.28,
+  "text": "number of models that people are willing"
+ },
+ {
+  "start": 604.88,
+  "duration": 4.96,
+  "text": "to use is 1.1 versus 2.1."
+ },
+ {
+  "start": 607.92,
+  "duration": 4.2,
+  "text": "Think about the multimodal question. If"
+ },
+ {
+  "start": 609.84,
+  "duration": 3.96,
+  "text": "on average 95% of users are only willing"
+ },
+ {
+  "start": 612.12,
+  "duration": 2.96,
+  "text": "to use one model, it might be a"
+ },
+ {
+  "start": 613.8,
+  "duration": 3.52,
+  "text": "prerequisite that you have image or"
+ },
+ {
+  "start": 615.08,
+  "duration": 3.96,
+  "text": "video generation built in."
+ },
+ {
+  "start": 617.32,
+  "duration": 3.36,
+  "text": "The next set of questions that I think"
+ },
+ {
+  "start": 619.04,
+  "duration": 5.04,
+  "text": "will shape the consumer AI battle have"
+ },
+ {
+  "start": 620.68,
+  "duration": 6.28,
+  "text": "to do with monetization and conversion."
+ },
+ {
+  "start": 624.08,
+  "duration": 4.48,
+  "text": "One big one is what percentage of users"
+ },
+ {
+  "start": 626.96,
+  "duration": 3.76,
+  "text": "can the model labs actually get to"
+ },
+ {
+  "start": 628.56,
+  "duration": 4.08,
+  "text": "upgrade to a paid account?"
+ },
+ {
+  "start": 630.72,
+  "duration": 4.44,
+  "text": "This sort of sets the total addressable"
+ },
+ {
+  "start": 632.64,
+  "duration": 3.92,
+  "text": "market for revenue from consumer AI. And"
+ },
+ {
+  "start": 635.16,
+  "duration": 2.96,
+  "text": "obviously the size of the pie is going"
+ },
+ {
+  "start": 636.56,
+  "duration": 3.36,
+  "text": "to dictate a lot about the competition"
+ },
+ {
+  "start": 638.12,
+  "duration": 3.68,
+  "text": "for that pie."
+ },
+ {
+  "start": 639.92,
+  "duration": 3.84,
+  "text": "Now, going a layer deeper on that,"
+ },
+ {
+  "start": 641.8,
+  "duration": 4.24,
+  "text": "another big question is which features,"
+ },
+ {
+  "start": 643.76,
+  "duration": 4.4,
+  "text": "especially outside of work use cases,"
+ },
+ {
+  "start": 646.04,
+  "duration": 3.08,
+  "text": "actually get people to convert? This"
+ },
+ {
+  "start": 648.16,
+  "duration": 2.6,
+  "text": "comes back a little bit to the"
+ },
+ {
+  "start": 649.12,
+  "duration": 2.92,
+  "text": "multimodal question. Are people"
+ },
+ {
+  "start": 650.76,
+  "duration": 2.56,
+  "text": "converting because they run out of"
+ },
+ {
+  "start": 652.04,
+  "duration": 2.08,
+  "text": "access to their favorite model, which"
+ },
+ {
+  "start": 653.32,
+  "duration": 2.44,
+  "text": "they're using all the time for"
+ },
+ {
+  "start": 654.12,
+  "duration": 2.88,
+  "text": "companionship? Are they converting"
+ },
+ {
+  "start": 655.76,
+  "duration": 2.88,
+  "text": "because they want something to happen"
+ },
+ {
+  "start": 657.0,
+  "duration": 2.56,
+  "text": "faster? Are they converting because"
+ },
+ {
+  "start": 658.64,
+  "duration": 2.84,
+  "text": "they're creating memes that they're"
+ },
+ {
+  "start": 659.56,
+  "duration": 3.16,
+  "text": "sharing in their WhatsApp groups? Each"
+ },
+ {
+  "start": 661.48,
+  "duration": 3.0,
+  "text": "of those has pretty dramatically"
+ },
+ {
+  "start": 662.72,
+  "duration": 4.64,
+  "text": "different implications for how the"
+ },
+ {
+  "start": 664.48,
+  "duration": 4.84,
+  "text": "consumer AI battle shakes out."
+ },
+ {
+  "start": 667.36,
+  "duration": 3.44,
+  "text": "And lastly, one big one, something that"
+ },
+ {
+  "start": 669.32,
+  "duration": 4.36,
+  "text": "certainly Anthropic is betting that will"
+ },
+ {
+  "start": 670.8,
+  "duration": 5.28,
+  "text": "be a big deal, is how much will ads in"
+ },
+ {
+  "start": 673.68,
+  "duration": 3.88,
+  "text": "the free tier actually matter."
+ },
+ {
+  "start": 676.08,
+  "duration": 3.4,
+  "text": "Anthropic is betting that at least in"
+ },
+ {
+  "start": 677.56,
+  "duration": 3.88,
+  "text": "the short term, it will drive people"
+ },
+ {
+  "start": 679.48,
+  "duration": 3.32,
+  "text": "away from ChatGPT."
+ },
+ {
+  "start": 681.44,
+  "duration": 2.76,
+  "text": "I, as you probably know, am much less"
+ },
+ {
+  "start": 682.8,
+  "duration": 3.24,
+  "text": "convinced of that."
+ },
+ {
+  "start": 684.2,
+  "duration": 2.88,
+  "text": "My base case about this is that the"
+ },
+ {
+  "start": 686.04,
+  "duration": 2.36,
+  "text": "answer to the question of what"
+ },
+ {
+  "start": 687.08,
+  "duration": 3.16,
+  "text": "percentage of people can they get to"
+ },
+ {
+  "start": 688.4,
+  "duration": 3.8,
+  "text": "upgrade to a paid account is not going"
+ },
+ {
+  "start": 690.24,
+  "duration": 3.8,
+  "text": "to be sufficient for these businesses to"
+ },
+ {
+  "start": 692.2,
+  "duration": 3.72,
+  "text": "grow the way that they want, which will"
+ },
+ {
+  "start": 694.04,
+  "duration": 3.6,
+  "text": "lead them inevitably back to the ads of"
+ },
+ {
+  "start": 695.92,
+  "duration": 3.6,
+  "text": "the free tier model."
+ },
+ {
+  "start": 697.64,
+  "duration": 3.08,
+  "text": "Now, I'd love to be wrong here, or at"
+ },
+ {
+  "start": 699.52,
+  "duration": 2.84,
+  "text": "least for the people who are thinking"
+ },
+ {
+  "start": 700.72,
+  "duration": 2.72,
+  "text": "about ads to do it in a more creative"
+ },
+ {
+  "start": 702.36,
+  "duration": 3.56,
+  "text": "and value-added way than they're"
+ },
+ {
+  "start": 703.44,
+  "duration": 4.32,
+  "text": "currently exploring. But obviously, if"
+ },
+ {
+  "start": 705.92,
+  "duration": 3.72,
+  "text": "ads do matter to people in terms of"
+ },
+ {
+  "start": 707.76,
+  "duration": 3.44,
+  "text": "their adoption choices, that's going to"
+ },
+ {
+  "start": 709.64,
+  "duration": 3.8,
+  "text": "have a pretty big impact on which models"
+ },
+ {
+  "start": 711.2,
+  "duration": 4.16,
+  "text": "they choose, unless of course everyone"
+ },
+ {
+  "start": 713.44,
+  "duration": 3.72,
+  "text": "ends up just having ads in the free tier"
+ },
+ {
+  "start": 715.36,
+  "duration": 4.0,
+  "text": "as a matter of course."
+ },
+ {
+  "start": 717.16,
+  "duration": 4.12,
+  "text": "The next question or set of questions"
+ },
+ {
+  "start": 719.36,
+  "duration": 3.2,
+  "text": "get a little bit more to the frontier. I"
+ },
+ {
+  "start": 721.28,
+  "duration": 3.56,
+  "text": "think that one of the risks when we're"
+ },
+ {
+  "start": 722.56,
+  "duration": 3.6,
+  "text": "talking about consumer AI is being a"
+ },
+ {
+  "start": 724.84,
+  "duration": 3.76,
+  "text": "little too reductive in how we're"
+ },
+ {
+  "start": 726.16,
+  "duration": 3.92,
+  "text": "talking about the user. Specifically,"
+ },
+ {
+  "start": 728.6,
+  "duration": 2.92,
+  "text": "we're in this paradigm shift right now,"
+ },
+ {
+  "start": 730.08,
+  "duration": 4.04,
+  "text": "as you well know, where we're moving"
+ },
+ {
+  "start": 731.52,
+  "duration": 4.04,
+  "text": "from assisted AI to more agentic AI."
+ },
+ {
+  "start": 734.12,
+  "duration": 3.2,
+  "text": "Everyone is racing to try to grapple"
+ },
+ {
+  "start": 735.56,
+  "duration": 3.2,
+  "text": "with the implications and actually make"
+ },
+ {
+  "start": 737.32,
+  "duration": 2.6,
+  "text": "it real for their particular set of use"
+ },
+ {
+  "start": 738.76,
+  "duration": 3.04,
+  "text": "cases."
+ },
+ {
+  "start": 739.92,
+  "duration": 3.48,
+  "text": "It would be tempting, I think, to view"
+ },
+ {
+  "start": 741.8,
+  "duration": 3.76,
+  "text": "that as something that's just for the"
+ },
+ {
+  "start": 743.4,
+  "duration": 3.6,
+  "text": "enfranchised and power users, but I'm"
+ },
+ {
+  "start": 745.56,
+  "duration": 3.08,
+  "text": "not sure that that's what the evidence"
+ },
+ {
+  "start": 747.0,
+  "duration": 3.8,
+  "text": "suggests right now."
+ },
+ {
+  "start": 748.64,
+  "duration": 3.84,
+  "text": "Which brings me to the question of what"
+ },
+ {
+  "start": 750.8,
+  "duration": 4.08,
+  "text": "is the real expansion potential for the"
+ },
+ {
+  "start": 752.48,
+  "duration": 4.359,
+  "text": "total market for agents? Are they just"
+ },
+ {
+  "start": 754.88,
+  "duration": 3.84,
+  "text": "going to be a work thing, or will"
+ },
+ {
+  "start": 756.839,
+  "duration": 3.081,
+  "text": "everyone be using them? Will we have"
+ },
+ {
+  "start": 758.72,
+  "duration": 2.92,
+  "text": "assistants that are running off and"
+ },
+ {
+  "start": 759.92,
+  "duration": 3.8,
+  "text": "doing tasks for us in our personal lives"
+ },
+ {
+  "start": 761.64,
+  "duration": 4.199,
+  "text": "as well? Will even our companionship"
+ },
+ {
+  "start": 763.72,
+  "duration": 3.72,
+  "text": "interactions look a little more agentic"
+ },
+ {
+  "start": 765.839,
+  "duration": 3.841,
+  "text": "in the future?"
+ },
+ {
+  "start": 767.44,
+  "duration": 3.08,
+  "text": "What little evidence we have so far is"
+ },
+ {
+  "start": 769.68,
+  "duration": 2.76,
+  "text": "that I think that people are"
+ },
+ {
+  "start": 770.52,
+  "duration": 3.64,
+  "text": "underestimating the extent to which"
+ },
+ {
+  "start": 772.44,
+  "duration": 4.36,
+  "text": "so-called normies are going to throw"
+ },
+ {
+  "start": 774.16,
+  "duration": 5.48,
+  "text": "themselves into this new agentic era."
+ },
+ {
+  "start": 776.8,
+  "duration": 4.4,
+  "text": "There are so many millions of people"
+ },
+ {
+  "start": 779.64,
+  "duration": 3.36,
+  "text": "that are not waiting for Claude co-work"
+ },
+ {
+  "start": 781.2,
+  "duration": 2.96,
+  "text": "to be good and are just diving into"
+ },
+ {
+  "start": 783.0,
+  "duration": 3.4,
+  "text": "Claude code even though they're"
+ },
+ {
+  "start": 784.16,
+  "duration": 3.8,
+  "text": "extremely uncomfortable with it."
+ },
+ {
+  "start": 786.4,
+  "duration": 3.439,
+  "text": "We have 5,500 people who are doing"
+ },
+ {
+  "start": 787.96,
+  "duration": 4.28,
+  "text": "Claude camp right now, hacking their way"
+ },
+ {
+  "start": 789.839,
+  "duration": 4.281,
+  "text": "slowly and painfully in some cases"
+ },
+ {
+  "start": 792.24,
+  "duration": 3.599,
+  "text": "through the morass of open Claude, and"
+ },
+ {
+  "start": 794.12,
+  "duration": 3.32,
+  "text": "at least based on my interactions, most"
+ },
+ {
+  "start": 795.839,
+  "duration": 3.481,
+  "text": "of the folks in there are not developers"
+ },
+ {
+  "start": 797.44,
+  "duration": 3.64,
+  "text": "by trade. They're not even necessarily"
+ },
+ {
+  "start": 799.32,
+  "duration": 3.44,
+  "text": "particularly technical. They're just"
+ },
+ {
+  "start": 801.08,
+  "duration": 3.68,
+  "text": "folks who are really excited about what"
+ },
+ {
+  "start": 802.76,
+  "duration": 3.32,
+  "text": "the idea of building agents and agents"
+ },
+ {
+  "start": 804.76,
+  "duration": 2.64,
+  "text": "teams could mean for them in their"
+ },
+ {
+  "start": 806.08,
+  "duration": 3.0,
+  "text": "lives."
+ },
+ {
+  "start": 807.4,
+  "duration": 4.24,
+  "text": "In other words, my base case when it"
+ },
+ {
+  "start": 809.08,
+  "duration": 4.52,
+  "text": "comes to a gen AI is that we are going"
+ },
+ {
+  "start": 811.64,
+  "duration": 3.8,
+  "text": "to radically underestimate the portion"
+ },
+ {
+  "start": 813.6,
+  "duration": 4.08,
+  "text": "of the world for whom that becomes an"
+ },
+ {
+  "start": 815.44,
+  "duration": 3.08,
+  "text": "integral part of consumer AI, and I"
+ },
+ {
+  "start": 817.68,
+  "duration": 3.64,
+  "text": "think that that could shape the"
+ },
+ {
+  "start": 818.52,
+  "duration": 4.28,
+  "text": "competitive dynamics quite a bit."
+ },
+ {
+  "start": 821.32,
+  "duration": 4.08,
+  "text": "The next couple of categories have to do"
+ },
+ {
+  "start": 822.8,
+  "duration": 4.16,
+  "text": "with competition and lock-in directly."
+ },
+ {
+  "start": 825.4,
+  "duration": 3.84,
+  "text": "As adoption matures, one question will"
+ },
+ {
+  "start": 826.96,
+  "duration": 3.96,
+  "text": "be how much integration into the systems"
+ },
+ {
+  "start": 829.24,
+  "duration": 3.16,
+  "text": "that people are already integrated into"
+ },
+ {
+  "start": 830.92,
+  "duration": 3.08,
+  "text": "will matter."
+ },
+ {
+  "start": 832.4,
+  "duration": 3.48,
+  "text": "Call this the Google Gemini or Apple"
+ },
+ {
+  "start": 834.0,
+  "duration": 3.44,
+  "text": "intelligence question. Are people going"
+ },
+ {
+  "start": 835.88,
+  "duration": 2.76,
+  "text": "to just default to whatever AI is on"
+ },
+ {
+  "start": 837.44,
+  "duration": 3.4,
+  "text": "their phone or are they going to make"
+ },
+ {
+  "start": 838.64,
+  "duration": 4.04,
+  "text": "distinct consumer choices beyond that?"
+ },
+ {
+  "start": 840.84,
+  "duration": 3.72,
+  "text": "How powerful will it be that networks"
+ },
+ {
+  "start": 842.68,
+  "duration": 4.4,
+  "text": "like X and Meta have their own AIs"
+ },
+ {
+  "start": 844.56,
+  "duration": 4.32,
+  "text": "integrated into their social networks?"
+ },
+ {
+  "start": 847.08,
+  "duration": 3.16,
+  "text": "Another kind of related question, which"
+ },
+ {
+  "start": 848.88,
+  "duration": 3.2,
+  "text": "also goes back to the how many models"
+ },
+ {
+  "start": 850.24,
+  "duration": 3.6,
+  "text": "people are willing to use, is how much"
+ },
+ {
+  "start": 852.08,
+  "duration": 3.52,
+  "text": "integration into the work ecosystem will"
+ },
+ {
+  "start": 853.84,
+  "duration": 3.96,
+  "text": "ultimately matter. Basically, will"
+ },
+ {
+  "start": 855.6,
+  "duration": 3.48,
+  "text": "people on average be fine using one tool"
+ },
+ {
+  "start": 857.8,
+  "duration": 3.8,
+  "text": "at home and a different tool or"
+ },
+ {
+  "start": 859.08,
+  "duration": 4.16,
+  "text": "different platform of tools at work?"
+ },
+ {
+  "start": 861.6,
+  "duration": 3.48,
+  "text": "Certainly, the early evidence suggests"
+ },
+ {
+  "start": 863.24,
+  "duration": 3.36,
+  "text": "that yes, people will be willing to make"
+ },
+ {
+  "start": 865.08,
+  "duration": 2.68,
+  "text": "that separation."
+ },
+ {
+  "start": 866.6,
+  "duration": 2.52,
+  "text": "In fact, one of the big complaints for"
+ },
+ {
+  "start": 867.76,
+  "duration": 3.48,
+  "text": "enterprise users is that they have to"
+ },
+ {
+  "start": 869.12,
+  "duration": 3.36,
+  "text": "use versions of Copilot at work, whereas"
+ },
+ {
+  "start": 871.24,
+  "duration": 2.64,
+  "text": "they can choose whatever they want from"
+ },
+ {
+  "start": 872.48,
+  "duration": 3.68,
+  "text": "another suite of tools when they're"
+ },
+ {
+  "start": 873.88,
+  "duration": 4.48,
+  "text": "engaging in their personal lives."
+ },
+ {
+  "start": 876.16,
+  "duration": 4.4,
+  "text": "Interestingly, a division between work"
+ },
+ {
+  "start": 878.36,
+  "duration": 3.96,
+  "text": "AI and home AI might actually make"
+ },
+ {
+  "start": 880.56,
+  "duration": 3.4,
+  "text": "people have more appetite for model"
+ },
+ {
+  "start": 882.32,
+  "duration": 2.84,
+  "text": "switching than if they didn't have that"
+ },
+ {
+  "start": 883.96,
+  "duration": 2.32,
+  "text": "difference."
+ },
+ {
+  "start": 885.16,
+  "duration": 2.72,
+  "text": "In other words, once you're already"
+ },
+ {
+  "start": 886.28,
+  "duration": 3.44,
+  "text": "going back and forth between one model"
+ },
+ {
+  "start": 887.88,
+  "duration": 3.28,
+  "text": "for work and one model for home, you've"
+ },
+ {
+  "start": 889.72,
+  "duration": 3.4,
+  "text": "got the mental and practical frameworks"
+ },
+ {
+  "start": 891.16,
+  "duration": 3.4,
+  "text": "for model switching, and so maybe adding"
+ },
+ {
+  "start": 893.12,
+  "duration": 4.2,
+  "text": "a third or even a fourth model into the"
+ },
+ {
+  "start": 894.56,
+  "duration": 4.16,
+  "text": "mix doesn't really bother you as much."
+ },
+ {
+  "start": 897.32,
+  "duration": 3.6,
+  "text": "Which gets into the question of"
+ },
+ {
+  "start": 898.72,
+  "duration": 3.6,
+  "text": "switching costs. Right now, it feels"
+ },
+ {
+  "start": 900.92,
+  "duration": 3.84,
+  "text": "like the switching costs between these"
+ },
+ {
+  "start": 902.32,
+  "duration": 3.76,
+  "text": "networks and models are extremely low."
+ },
+ {
+  "start": 904.76,
+  "duration": 3.24,
+  "text": "People can just bounce between the one"
+ },
+ {
+  "start": 906.08,
+  "duration": 3.16,
+  "text": "that they prefer at any given time, and"
+ },
+ {
+  "start": 908.0,
+  "duration": 2.6,
+  "text": "they seem to do so with pretty high"
+ },
+ {
+  "start": 909.24,
+  "duration": 3.32,
+  "text": "frequency."
+ },
+ {
+  "start": 910.6,
+  "duration": 4.48,
+  "text": "One of the big caveats and provisos to"
+ },
+ {
+  "start": 912.56,
+  "duration": 4.12,
+  "text": "that is something of a moat in memory."
+ },
+ {
+  "start": 915.08,
+  "duration": 4.16,
+  "text": "If you've spent a bunch of time giving"
+ },
+ {
+  "start": 916.68,
+  "duration": 4.68,
+  "text": "ChatGPT or Claude context about you or"
+ },
+ {
+  "start": 919.24,
+  "duration": 3.72,
+  "text": "your work or a project, it can be really"
+ },
+ {
+  "start": 921.36,
+  "duration": 4.72,
+  "text": "painful to switch that to another"
+ },
+ {
+  "start": 922.96,
+  "duration": 4.56,
+  "text": "platform. Now, as we've recently seen,"
+ },
+ {
+  "start": 926.08,
+  "duration": 3.16,
+  "text": "companies like Anthropic have tried to"
+ },
+ {
+  "start": 927.52,
+  "duration": 3.16,
+  "text": "minimize this pain."
+ },
+ {
+  "start": 929.24,
+  "duration": 3.2,
+  "text": "Around the consumer campaign post"
+ },
+ {
+  "start": 930.68,
+  "duration": 2.92,
+  "text": "Pentagon blow up, they pushed a feature"
+ },
+ {
+  "start": 932.44,
+  "duration": 2.92,
+  "text": "which would allow people to better"
+ },
+ {
+  "start": 933.6,
+  "duration": 3.6,
+  "text": "import memory from their other provider"
+ },
+ {
+  "start": 935.36,
+  "duration": 4.52,
+  "text": "into Claude, but again, it was still a"
+ },
+ {
+  "start": 937.2,
+  "duration": 4.08,
+  "text": "pretty lightweight memory import."
+ },
+ {
+  "start": 939.88,
+  "duration": 3.48,
+  "text": "Effectively, it was just a prompt that"
+ },
+ {
+  "start": 941.28,
+  "duration": 3.6,
+  "text": "you run in ChatGPT or whatever other LLM"
+ },
+ {
+  "start": 943.36,
+  "duration": 4.08,
+  "text": "you were using, and you paste the"
+ },
+ {
+  "start": 944.88,
+  "duration": 3.84,
+  "text": "results into Claude's memory below."
+ },
+ {
+  "start": 947.44,
+  "duration": 3.36,
+  "text": "For someone like me, this is not going"
+ },
+ {
+  "start": 948.72,
+  "duration": 3.24,
+  "text": "to cut it. I have 20 different projects"
+ },
+ {
+  "start": 950.8,
+  "duration": 3.48,
+  "text": "in Claude, each that have their own"
+ },
+ {
+  "start": 951.96,
+  "duration": 3.76,
+  "text": "memory base and files and context, and a"
+ },
+ {
+  "start": 954.28,
+  "duration": 3.52,
+  "text": "simple prompt across the whole thing is"
+ },
+ {
+  "start": 955.72,
+  "duration": 3.44,
+  "text": "just not going to cut it for that."
+ },
+ {
+  "start": 957.8,
+  "duration": 2.92,
+  "text": "Now again, maybe I'm not representative"
+ },
+ {
+  "start": 959.16,
+  "duration": 3.24,
+  "text": "of those general consumer users, and so"
+ },
+ {
+  "start": 960.72,
+  "duration": 3.44,
+  "text": "that changes, but that's exactly why"
+ },
+ {
+  "start": 962.4,
+  "duration": 3.28,
+  "text": "this is a question."
+ },
+ {
+  "start": 964.16,
+  "duration": 3.48,
+  "text": "Now, one interesting wrinkle, which"
+ },
+ {
+  "start": 965.68,
+  "duration": 4.28,
+  "text": "bridges us to our last section, which is"
+ },
+ {
+  "start": 967.64,
+  "duration": 4.48,
+  "text": "about ethics and regulation, is I would"
+ },
+ {
+  "start": 969.96,
+  "duration": 4.36,
+  "text": "not be surprised if we might see some"
+ },
+ {
+  "start": 972.12,
+  "duration": 4.28,
+  "text": "sort of policy or regulations around"
+ },
+ {
+  "start": 974.32,
+  "duration": 3.72,
+  "text": "data and memory transportability. The"
+ },
+ {
+  "start": 976.4,
+  "duration": 4.32,
+  "text": "fact that I don't have a good way to"
+ },
+ {
+  "start": 978.04,
+  "duration": 4.76,
+  "text": "export all of my context from Anthropic"
+ },
+ {
+  "start": 980.72,
+  "duration": 4.16,
+  "text": "and take it over to OpenAI might be"
+ },
+ {
+  "start": 982.8,
+  "duration": 4.4,
+  "text": "something that we decide as a society"
+ },
+ {
+  "start": 984.88,
+  "duration": 4.76,
+  "text": "isn't really a legitimate business mode."
+ },
+ {
+  "start": 987.2,
+  "duration": 4.12,
+  "text": "It is, after all, my memory and context,"
+ },
+ {
+  "start": 989.64,
+  "duration": 3.32,
+  "text": "so shouldn't I be able to, with a single"
+ },
+ {
+  "start": 991.32,
+  "duration": 3.84,
+  "text": "click, be able to transport it to"
+ },
+ {
+  "start": 992.96,
+  "duration": 3.4,
+  "text": "whichever model platform I choose?"
+ },
+ {
+  "start": 995.16,
+  "duration": 2.92,
+  "text": "That will certainly be a debate, and"
+ },
+ {
+  "start": 996.36,
+  "duration": 3.6,
+  "text": "there's reasonable takes on both sides,"
+ },
+ {
+  "start": 998.08,
+  "duration": 3.24,
+  "text": "but I would not at all be surprised,"
+ },
+ {
+  "start": 999.96,
+  "duration": 3.24,
+  "text": "based on the other types of regulations"
+ },
+ {
+  "start": 1001.32,
+  "duration": 3.64,
+  "text": "we've seen in other adjacent areas, if"
+ },
+ {
+  "start": 1003.2,
+  "duration": 4.28,
+  "text": "that becomes a thing, which obviously"
+ },
+ {
+  "start": 1004.96,
+  "duration": 4.0,
+  "text": "would lower switching costs even more."
+ },
+ {
+  "start": 1007.48,
+  "duration": 3.2,
+  "text": "Which gets us to the last category,"
+ },
+ {
+  "start": 1008.96,
+  "duration": 3.64,
+  "text": "ethics and regulation. This is"
+ },
+ {
+  "start": 1010.68,
+  "duration": 4.4,
+  "text": "particularly pertinent as OpenAI and"
+ },
+ {
+  "start": 1012.6,
+  "duration": 3.72,
+  "text": "ChatGPT face a ton of heat after taking"
+ },
+ {
+  "start": 1015.08,
+  "duration": 3.6,
+  "text": "a deal with the Pentagon right after"
+ },
+ {
+  "start": 1016.32,
+  "duration": 4.08,
+  "text": "Anthropic was unwilling to concede."
+ },
+ {
+  "start": 1018.68,
+  "duration": 4.0,
+  "text": "QuitGPT.org"
+ },
+ {
+  "start": 1020.4,
+  "duration": 3.919,
+  "text": "argues that 2.5 million people have"
+ },
+ {
+  "start": 1022.68,
+  "duration": 3.84,
+  "text": "taken part in their boycott, and"
+ },
+ {
+  "start": 1024.319,
+  "duration": 4.161,
+  "text": "certainly the actual uninstall numbers,"
+ },
+ {
+  "start": 1026.52,
+  "duration": 4.0,
+  "text": "as well as the insane growth in app"
+ },
+ {
+  "start": 1028.48,
+  "duration": 4.56,
+  "text": "downloads on Anthropic, suggest that"
+ },
+ {
+  "start": 1030.52,
+  "duration": 4.4,
+  "text": "this is not all just bluster."
+ },
+ {
+  "start": 1033.04,
+  "duration": 3.84,
+  "text": "I do think, however, that there's a"
+ },
+ {
+  "start": 1034.92,
+  "duration": 3.519,
+  "text": "question of how deep and durable this"
+ },
+ {
+  "start": 1036.88,
+  "duration": 4.36,
+  "text": "consternation is."
+ },
+ {
+  "start": 1038.439,
+  "duration": 4.241,
+  "text": "First of all, 2.5 million is a lot, but"
+ },
+ {
+  "start": 1041.24,
+  "duration": 2.64,
+  "text": "it's also a lot less than a single"
+ },
+ {
+  "start": 1042.68,
+  "duration": 3.68,
+  "text": "percentage point when you're talking"
+ },
+ {
+  "start": 1043.88,
+  "duration": 4.8,
+  "text": "about a user base of 900 million. The"
+ },
+ {
+  "start": 1046.36,
+  "duration": 3.52,
+  "text": "vast majority of ChatGPT users probably"
+ },
+ {
+  "start": 1048.68,
+  "duration": 3.2,
+  "text": "aren't paying attention at all to this"
+ },
+ {
+  "start": 1049.88,
+  "duration": 4.28,
+  "text": "stuff. And even for those who are paying"
+ },
+ {
+  "start": 1051.88,
+  "duration": 4.04,
+  "text": "attention, if and when we actually get"
+ },
+ {
+  "start": 1054.16,
+  "duration": 3.36,
+  "text": "GPT-5.4,"
+ },
+ {
+  "start": 1055.92,
+  "duration": 3.96,
+  "text": "which by the way on Tuesday OpenAI"
+ },
+ {
+  "start": 1057.52,
+  "duration": 4.0,
+  "text": "posted 5.4 sooner than you think with"
+ },
+ {
+  "start": 1059.88,
+  "duration": 3.68,
+  "text": "the capital on T, which I can only"
+ },
+ {
+  "start": 1061.52,
+  "duration": 3.88,
+  "text": "assume means Thursday, how durable are"
+ },
+ {
+  "start": 1063.56,
+  "duration": 3.76,
+  "text": "people's complaints going to be?"
+ },
+ {
+  "start": 1065.4,
+  "duration": 3.96,
+  "text": "If 5.4 kicks the slats out of"
+ },
+ {
+  "start": 1067.32,
+  "duration": 4.16,
+  "text": "everything, as the excited folks on X"
+ },
+ {
+  "start": 1069.36,
+  "duration": 4.48,
+  "text": "are blustering about right now, will any"
+ },
+ {
+  "start": 1071.48,
+  "duration": 3.48,
+  "text": "of those 2.5 million come back?"
+ },
+ {
+  "start": 1073.84,
+  "duration": 3.16,
+  "text": "I don't know, but obviously those"
+ },
+ {
+  "start": 1074.96,
+  "duration": 3.32,
+  "text": "questions have a big impact on how much"
+ },
+ {
+  "start": 1077.0,
+  "duration": 2.68,
+  "text": "ethics and principles are actually going"
+ },
+ {
+  "start": 1078.28,
+  "duration": 3.12,
+  "text": "to matter when it comes to the long-term"
+ },
+ {
+  "start": 1079.68,
+  "duration": 3.04,
+  "text": "questions of adoption."
+ },
+ {
+  "start": 1081.4,
+  "duration": 2.96,
+  "text": "There's also the question of which"
+ },
+ {
+  "start": 1082.72,
+  "duration": 3.92,
+  "text": "ethics issues people will actually care"
+ },
+ {
+  "start": 1084.36,
+  "duration": 4.48,
+  "text": "about. There are so many things"
+ },
+ {
+  "start": 1086.64,
+  "duration": 3.76,
+  "text": "surrounding AI. Are people going to care"
+ },
+ {
+  "start": 1088.84,
+  "duration": 3.4,
+  "text": "about job loss? Are people going to care"
+ },
+ {
+  "start": 1090.4,
+  "duration": 3.68,
+  "text": "about existential risk? Are people going"
+ },
+ {
+  "start": 1092.24,
+  "duration": 4.04,
+  "text": "to care about IP issues and copyright"
+ },
+ {
+  "start": 1094.08,
+  "duration": 3.8,
+  "text": "issues and artist rights? Will it get"
+ },
+ {
+  "start": 1096.28,
+  "duration": 3.76,
+  "text": "eaten up by the partisan divide in"
+ },
+ {
+  "start": 1097.88,
+  "duration": 3.96,
+  "text": "America as everything else does? I think"
+ },
+ {
+  "start": 1100.04,
+  "duration": 3.32,
+  "text": "that there is some evidence this week"
+ },
+ {
+  "start": 1101.84,
+  "duration": 3.6,
+  "text": "that the partisan cleave is more"
+ },
+ {
+  "start": 1103.36,
+  "duration": 4.48,
+  "text": "powerful than specific discrete AI"
+ },
+ {
+  "start": 1105.44,
+  "duration": 3.88,
+  "text": "issues when it comes to all of this."
+ },
+ {
+  "start": 1107.84,
+  "duration": 3.16,
+  "text": "I don't think this is strictly true, and"
+ },
+ {
+  "start": 1109.32,
+  "duration": 3.32,
+  "text": "I think that AI is far less partisan"
+ },
+ {
+  "start": 1111.0,
+  "duration": 3.28,
+  "text": "than other areas of American politics"
+ },
+ {
+  "start": 1112.64,
+  "duration": 3.4,
+  "text": "right now, which I'm massively grateful"
+ },
+ {
+  "start": 1114.28,
+  "duration": 4.04,
+  "text": "for. But I also think that part of the"
+ },
+ {
+  "start": 1116.04,
+  "duration": 4.36,
+  "text": "reason that the Quit ChatGPT campaign is"
+ },
+ {
+  "start": 1118.32,
+  "duration": 3.88,
+  "text": "being resonant right now is that just a"
+ },
+ {
+  "start": 1120.4,
+  "duration": 3.56,
+  "text": "couple of weeks ago it started to get"
+ },
+ {
+  "start": 1122.2,
+  "duration": 3.16,
+  "text": "into progressive and liberal circles"
+ },
+ {
+  "start": 1123.96,
+  "duration": 3.16,
+  "text": "that Greg Brockman was one of Trump's"
+ },
+ {
+  "start": 1125.36,
+  "duration": 3.2,
+  "text": "biggest donors right now."
+ },
+ {
+  "start": 1127.12,
+  "duration": 2.92,
+  "text": "It didn't organize itself into a full"
+ },
+ {
+  "start": 1128.56,
+  "duration": 3.08,
+  "text": "boycott, but there were already people"
+ },
+ {
+  "start": 1130.04,
+  "duration": 3.6,
+  "text": "who were dropping ChatGPT for that"
+ },
+ {
+  "start": 1131.64,
+  "duration": 3.8,
+  "text": "reason. I don't know what percentage of"
+ },
+ {
+  "start": 1133.64,
+  "duration": 3.76,
+  "text": "those 2.5 million who have dropped"
+ },
+ {
+  "start": 1135.44,
+  "duration": 3.72,
+  "text": "ChatGPT would identify themselves as"
+ },
+ {
+  "start": 1137.4,
+  "duration": 3.84,
+  "text": "progressive or liberal, but my guess is"
+ },
+ {
+  "start": 1139.16,
+  "duration": 3.48,
+  "text": "that a fair bit of them have more issues"
+ },
+ {
+  "start": 1141.24,
+  "duration": 3.12,
+  "text": "with the fact that it's the Trump White"
+ },
+ {
+  "start": 1142.64,
+  "duration": 3.36,
+  "text": "House that Anthropic is fighting with"
+ },
+ {
+  "start": 1144.36,
+  "duration": 4.24,
+  "text": "than just any old White House trying to"
+ },
+ {
+  "start": 1146.0,
+  "duration": 4.44,
+  "text": "exert its will on a private company."
+ },
+ {
+  "start": 1148.6,
+  "duration": 4.12,
+  "text": "If you take anything away from this,"
+ },
+ {
+  "start": 1150.44,
+  "duration": 4.92,
+  "text": "it's that the consumer AI battle is"
+ },
+ {
+  "start": 1152.72,
+  "duration": 4.64,
+  "text": "wildly more dynamic than just who has"
+ },
+ {
+  "start": 1155.36,
+  "duration": 4.24,
+  "text": "the best model. There are questions of"
+ },
+ {
+  "start": 1157.36,
+  "duration": 4.92,
+  "text": "vibes, use cases, distribution,"
+ },
+ {
+  "start": 1159.6,
+  "duration": 5.0,
+  "text": "ecosystem lock-in, monetization ethics,"
+ },
+ {
+  "start": 1162.28,
+  "duration": 3.6,
+  "text": "and so much more. And importantly, this"
+ },
+ {
+  "start": 1164.6,
+  "duration": 2.48,
+  "text": "doesn't just matter because it's an"
+ },
+ {
+  "start": 1165.88,
+  "duration": 3.4,
+  "text": "interesting thing to talk about on"
+ },
+ {
+  "start": 1167.08,
+  "duration": 3.64,
+  "text": "podcasts. It matters because it's going"
+ },
+ {
+  "start": 1169.28,
+  "duration": 2.92,
+  "text": "to shape what products these companies"
+ },
+ {
+  "start": 1170.72,
+  "duration": 3.4,
+  "text": "put in front of us."
+ },
+ {
+  "start": 1172.2,
+  "duration": 3.48,
+  "text": "Anyways, guys, that is my exploration of"
+ },
+ {
+  "start": 1174.12,
+  "duration": 3.36,
+  "text": "the big questions shaping the consumer"
+ },
+ {
+  "start": 1175.68,
+  "duration": 3.52,
+  "text": "AI battle. And for now, that's going to"
+ },
+ {
+  "start": 1177.48,
+  "duration": 3.24,
+  "text": "do it for today's AI daily brief."
+ },
+ {
+  "start": 1179.2,
+  "duration": 5.64,
+  "text": "Appreciate you listening or watching, as"
+ },
+ {
+  "start": 1180.72,
+  "duration": 4.12,
+  "text": "always, and until next time, peace."
+ }
+]

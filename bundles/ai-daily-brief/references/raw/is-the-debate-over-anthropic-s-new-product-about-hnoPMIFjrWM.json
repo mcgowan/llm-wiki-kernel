@@ -1,0 +1,2497 @@
+[
+ {
+  "start": 0.0,
+  "duration": 3.92,
+  "text": "Today, we are discussing the latest"
+ },
+ {
+  "start": 1.72,
+  "duration": 3.76,
+  "text": "product from Anthropic. It is somehow"
+ },
+ {
+  "start": 3.92,
+  "duration": 2.92,
+  "text": "more controversial than just about"
+ },
+ {
+  "start": 5.48,
+  "duration": 3.2,
+  "text": "anything I've seen from them, and I"
+ },
+ {
+  "start": 6.84,
+  "duration": 3.64,
+  "text": "think that the reasons why for that, or"
+ },
+ {
+  "start": 8.68,
+  "duration": 3.64,
+  "text": "at least the multiple different reasons"
+ },
+ {
+  "start": 10.48,
+  "duration": 3.76,
+  "text": "why for that, can tell us a lot about"
+ },
+ {
+  "start": 12.32,
+  "duration": 4.0,
+  "text": "kind of where we are as a field right"
+ },
+ {
+  "start": 14.24,
+  "duration": 3.48,
+  "text": "now in the larger space of artificial"
+ },
+ {
+  "start": 16.32,
+  "duration": 3.24,
+  "text": "intelligence."
+ },
+ {
+  "start": 17.72,
+  "duration": 3.64,
+  "text": "Welcome back to the AI Daily Brief. In"
+ },
+ {
+  "start": 19.56,
+  "duration": 3.32,
+  "text": "2026, the one thing that's clear to"
+ },
+ {
+  "start": 21.36,
+  "duration": 3.68,
+  "text": "everyone is that things are moving very"
+ },
+ {
+  "start": 22.88,
+  "duration": 3.44,
+  "text": "fast. Even for an industry where it"
+ },
+ {
+  "start": 25.04,
+  "duration": 3.12,
+  "text": "already felt like things were going"
+ },
+ {
+  "start": 26.32,
+  "duration": 3.76,
+  "text": "quickly, we've ratcheted up another"
+ },
+ {
+  "start": 28.16,
+  "duration": 3.32,
+  "text": "notch. As part of that, everyone is"
+ },
+ {
+  "start": 30.08,
+  "duration": 3.2,
+  "text": "grappling with a series of different"
+ },
+ {
+  "start": 31.48,
+  "duration": 3.4,
+  "text": "issues. Everything from the very"
+ },
+ {
+  "start": 33.28,
+  "duration": 2.8,
+  "text": "positive, how do I take advantage of all"
+ },
+ {
+  "start": 34.88,
+  "duration": 2.84,
+  "text": "these new superpowers that I've been"
+ },
+ {
+  "start": 36.08,
+  "duration": 3.52,
+  "text": "given, to the exciting but it's a"
+ },
+ {
+  "start": 37.72,
+  "duration": 3.32,
+  "text": "challenge kind of questions like, how do"
+ },
+ {
+  "start": 39.6,
+  "duration": 3.28,
+  "text": "we redesign our organization around"
+ },
+ {
+  "start": 41.04,
+  "duration": 3.44,
+  "text": "these new capabilities, to the much more"
+ },
+ {
+  "start": 42.88,
+  "duration": 3.28,
+  "text": "existential questions of what does it"
+ },
+ {
+  "start": 44.48,
+  "duration": 3.04,
+  "text": "mean that the work that I've always done"
+ },
+ {
+  "start": 46.16,
+  "duration": 3.2,
+  "text": "is no longer the work that I will be"
+ },
+ {
+  "start": 47.52,
+  "duration": 3.64,
+  "text": "doing. In many ways, it feels to me like"
+ },
+ {
+  "start": 49.36,
+  "duration": 4.44,
+  "text": "all of those debates came home to roost"
+ },
+ {
+  "start": 51.16,
+  "duration": 5.2,
+  "text": "around a single product this week, which"
+ },
+ {
+  "start": 53.8,
+  "duration": 3.68,
+  "text": "is Anthropic's new code review feature."
+ },
+ {
+  "start": 56.36,
+  "duration": 3.32,
+  "text": "Now, this is not a particularly"
+ },
+ {
+  "start": 57.48,
+  "duration": 4.4,
+  "text": "complicated product to explain. Claude"
+ },
+ {
+  "start": 59.68,
+  "duration": 3.84,
+  "text": "writes, \"When a PR opens, Claude"
+ },
+ {
+  "start": 61.88,
+  "duration": 3.44,
+  "text": "dispatches a team of agents to hunt for"
+ },
+ {
+  "start": 63.52,
+  "duration": 3.36,
+  "text": "bugs. Code review is a key part of the"
+ },
+ {
+  "start": 65.32,
+  "duration": 3.52,
+  "text": "development life cycle, so it stands to"
+ },
+ {
+  "start": 66.88,
+  "duration": 3.92,
+  "text": "reason that AI would be trying to add"
+ },
+ {
+  "start": 68.84,
+  "duration": 3.16,
+  "text": "new efficiency to it.\" And certainly,"
+ },
+ {
+  "start": 70.8,
+  "duration": 3.2,
+  "text": "Anthropic is not the only company"
+ },
+ {
+  "start": 72.0,
+  "duration": 4.04,
+  "text": "thinking in these directions. Cognition"
+ },
+ {
+  "start": 74.0,
+  "duration": 3.72,
+  "text": "recently released Devon Review, which"
+ },
+ {
+  "start": 76.04,
+  "duration": 3.72,
+  "text": "they call a reimagined interface for"
+ },
+ {
+  "start": 77.72,
+  "duration": 3.48,
+  "text": "understanding complex PRs. In their"
+ },
+ {
+  "start": 79.76,
+  "duration": 3.08,
+  "text": "announcement tweet, they wrote, \"Code"
+ },
+ {
+  "start": 81.2,
+  "duration": 3.6,
+  "text": "review tools today don't actually make"
+ },
+ {
+  "start": 82.84,
+  "duration": 3.4,
+  "text": "it easier to read code. Devon Review"
+ },
+ {
+  "start": 84.8,
+  "duration": 3.52,
+  "text": "builds your comprehension and helps you"
+ },
+ {
+  "start": 86.24,
+  "duration": 3.52,
+  "text": "stop slop.\" Now, they go through a whole"
+ },
+ {
+  "start": 88.32,
+  "duration": 2.68,
+  "text": "bunch of ways in which the product is"
+ },
+ {
+  "start": 89.76,
+  "duration": 3.08,
+  "text": "different, and it got pretty good"
+ },
+ {
+  "start": 91.0,
+  "duration": 3.2,
+  "text": "response. A thousand people bookmark"
+ },
+ {
+  "start": 92.84,
+  "duration": 3.04,
+  "text": "that tweet, and three quarters of a"
+ },
+ {
+  "start": 94.2,
+  "duration": 3.88,
+  "text": "million people viewed it. That is of"
+ },
+ {
+  "start": 95.88,
+  "duration": 4.0,
+  "text": "course nothing compared to the nearly 14"
+ },
+ {
+  "start": 98.08,
+  "duration": 3.28,
+  "text": "million who viewed the Claude post,"
+ },
+ {
+  "start": 99.88,
+  "duration": 3.0,
+  "text": "which speaks not only to the relative"
+ },
+ {
+  "start": 101.36,
+  "duration": 3.0,
+  "text": "size of Anthropic, but to the"
+ },
+ {
+  "start": 102.88,
+  "duration": 3.6,
+  "text": "controversy surrounding this new"
+ },
+ {
+  "start": 104.36,
+  "duration": 3.52,
+  "text": "product. So, what actually was"
+ },
+ {
+  "start": 106.48,
+  "duration": 2.76,
+  "text": "controversial?"
+ },
+ {
+  "start": 107.88,
+  "duration": 3.4,
+  "text": "On the surface of it, this seems like it"
+ },
+ {
+  "start": 109.24,
+  "duration": 3.68,
+  "text": "would be highly value-additive. While"
+ },
+ {
+  "start": 111.28,
+  "duration": 3.08,
+  "text": "they are biased and incentivized to say"
+ },
+ {
+  "start": 112.92,
+  "duration": 3.32,
+  "text": "so, certainly it seems like all the"
+ },
+ {
+  "start": 114.36,
+  "duration": 3.36,
+  "text": "folks inside Anthropic who are using it"
+ },
+ {
+  "start": 116.24,
+  "duration": 3.24,
+  "text": "have had really positive experiences"
+ },
+ {
+  "start": 117.72,
+  "duration": 3.32,
+  "text": "with it. Alex Albert, who does Claude"
+ },
+ {
+  "start": 119.48,
+  "duration": 3.08,
+  "text": "and evaluation, says this has been a"
+ },
+ {
+  "start": 121.04,
+  "duration": 3.36,
+  "text": "game-changer for our internal engine"
+ },
+ {
+  "start": 122.56,
+  "duration": 3.2,
+  "text": "research teams. Rare to see a product"
+ },
+ {
+  "start": 124.4,
+  "duration": 3.56,
+  "text": "get this much praise from some of the"
+ },
+ {
+  "start": 125.76,
+  "duration": 4.24,
+  "text": "top engineers I know. Boris Cherny, the"
+ },
+ {
+  "start": 127.96,
+  "duration": 4.12,
+  "text": "creator of Claude Code, points out, \"We"
+ },
+ {
+  "start": 130.0,
+  "duration": 4.44,
+  "text": "built it for ourselves first. Code"
+ },
+ {
+  "start": 132.08,
+  "duration": 3.48,
+  "text": "output per Anthropic engineer is up 200%"
+ },
+ {
+  "start": 134.44,
+  "duration": 3.04,
+  "text": "this year, and reviews were the"
+ },
+ {
+  "start": 135.56,
+  "duration": 3.32,
+  "text": "bottleneck. Personally, I've been using"
+ },
+ {
+  "start": 137.48,
+  "duration": 3.04,
+  "text": "it for a few weeks, and I've found it"
+ },
+ {
+  "start": 138.88,
+  "duration": 3.6,
+  "text": "catches many real bugs that I would not"
+ },
+ {
+  "start": 140.52,
+  "duration": 4.56,
+  "text": "have noticed otherwise.\" Jared Sumner"
+ },
+ {
+  "start": 142.48,
+  "duration": 4.0,
+  "text": "writes, \"Been using this in Bun's repo.\""
+ },
+ {
+  "start": 145.08,
+  "duration": 3.2,
+  "text": "Bun JavaScript being a company that"
+ },
+ {
+  "start": 146.48,
+  "duration": 3.4,
+  "text": "joined Anthropic recently. Jared"
+ },
+ {
+  "start": 148.28,
+  "duration": 3.2,
+  "text": "continues, \"This, in my opinion, is the"
+ },
+ {
+  "start": 149.88,
+  "duration": 3.8,
+  "text": "best product in the code review category"
+ },
+ {
+  "start": 151.48,
+  "duration": 4.4,
+  "text": "today. It regularly catches extremely"
+ },
+ {
+  "start": 153.68,
+  "duration": 3.76,
+  "text": "subtle bugs and rarely makes mistakes.\""
+ },
+ {
+  "start": 155.88,
+  "duration": 3.44,
+  "text": "Claude Code's Tariq writes, \"Code review"
+ },
+ {
+  "start": 157.44,
+  "duration": 3.56,
+  "text": "is so, so good. One of those things I"
+ },
+ {
+  "start": 159.32,
+  "duration": 3.16,
+  "text": "can't remember how I lived without.\""
+ },
+ {
+  "start": 161.0,
+  "duration": 3.4,
+  "text": "What's more, the discussion of code"
+ },
+ {
+  "start": 162.48,
+  "duration": 3.56,
+  "text": "review, and the inevitable changes to"
+ },
+ {
+  "start": 164.4,
+  "duration": 3.04,
+  "text": "it, is something that the larger agentic"
+ },
+ {
+  "start": 166.04,
+  "duration": 3.0,
+  "text": "engineering community has been talking"
+ },
+ {
+  "start": 167.44,
+  "duration": 3.88,
+  "text": "about recently, irrespective of this"
+ },
+ {
+  "start": 169.04,
+  "duration": 4.92,
+  "text": "Claude product. Shawn Wang/Swyx of"
+ },
+ {
+  "start": 171.32,
+  "duration": 4.88,
+  "text": "Latent Space wrote, \"This is the final"
+ },
+ {
+  "start": 173.96,
+  "duration": 4.16,
+  "text": "boss of agentic engineering, killing the"
+ },
+ {
+  "start": 176.2,
+  "duration": 3.28,
+  "text": "code review. At this point, multiple"
+ },
+ {
+  "start": 178.12,
+  "duration": 3.04,
+  "text": "people are already weighing how to"
+ },
+ {
+  "start": 179.48,
+  "duration": 3.72,
+  "text": "remove the human code review bottleneck"
+ },
+ {
+  "start": 181.16,
+  "duration": 3.84,
+  "text": "from agents becoming fully productive."
+ },
+ {
+  "start": 183.2,
+  "duration": 3.48,
+  "text": "I'm not personally there yet, but I tend"
+ },
+ {
+  "start": 185.0,
+  "duration": 3.92,
+  "text": "to be 3 to 6 months behind these people,"
+ },
+ {
+  "start": 186.68,
+  "duration": 4.48,
+  "text": "and yeah, it's definitely coming.\""
+ },
+ {
+  "start": 188.92,
+  "duration": 3.8,
+  "text": "Now, he points to a guest essay shared"
+ },
+ {
+  "start": 191.16,
+  "duration": 4.2,
+  "text": "on Latent Space by entrepreneur Ankur"
+ },
+ {
+  "start": 192.72,
+  "duration": 3.96,
+  "text": "Jain called How to Kill the Code Review."
+ },
+ {
+  "start": 195.36,
+  "duration": 3.16,
+  "text": "The subheader, which encapsulates the"
+ },
+ {
+  "start": 196.68,
+  "duration": 4.48,
+  "text": "thesis pretty clearly, is \"Human-written"
+ },
+ {
+  "start": 198.52,
+  "duration": 4.84,
+  "text": "code died in 2025. Code reviews will die"
+ },
+ {
+  "start": 201.16,
+  "duration": 3.76,
+  "text": "in 2026.\" I won't read the whole thing,"
+ },
+ {
+  "start": 203.36,
+  "duration": 2.88,
+  "text": "but a couple of excerpts. \"Humans"
+ },
+ {
+  "start": 204.92,
+  "duration": 2.88,
+  "text": "already couldn't keep up with code"
+ },
+ {
+  "start": 206.24,
+  "duration": 3.48,
+  "text": "reviews when humans wrote code at human"
+ },
+ {
+  "start": 207.8,
+  "duration": 3.76,
+  "text": "speed. Every engineering org I've talked"
+ },
+ {
+  "start": 209.72,
+  "duration": 3.04,
+  "text": "to has the same dirty secret. PRs"
+ },
+ {
+  "start": 211.56,
+  "duration": 2.48,
+  "text": "sitting for days, rubber-stamp"
+ },
+ {
+  "start": 212.76,
+  "duration": 2.8,
+  "text": "approvals, and reviewers skimming"
+ },
+ {
+  "start": 214.04,
+  "duration": 3.52,
+  "text": "500-line diffs because they have their"
+ },
+ {
+  "start": 215.56,
+  "duration": 3.64,
+  "text": "own work to do. We tell ourselves it is"
+ },
+ {
+  "start": 217.56,
+  "duration": 3.56,
+  "text": "a quality gate, but teams have shipped"
+ },
+ {
+  "start": 219.2,
+  "duration": 3.56,
+  "text": "without line-by-line review for decades."
+ },
+ {
+  "start": 221.12,
+  "duration": 3.6,
+  "text": "Code review wasn't even ubiquitous until"
+ },
+ {
+  "start": 222.76,
+  "duration": 3.56,
+  "text": "around 2012 to 2014, one veteran"
+ },
+ {
+  "start": 224.72,
+  "duration": 3.56,
+  "text": "engineer told me. There just aren't"
+ },
+ {
+  "start": 226.32,
+  "duration": 4.08,
+  "text": "enough of us around to remember. And"
+ },
+ {
+  "start": 228.28,
+  "duration": 3.32,
+  "text": "even with reviews, things break. We have"
+ },
+ {
+  "start": 230.4,
+  "duration": 2.6,
+  "text": "learned to build systems that handle"
+ },
+ {
+  "start": 231.6,
+  "duration": 3.36,
+  "text": "failure because we accept that review"
+ },
+ {
+  "start": 233.0,
+  "duration": 3.48,
+  "text": "alone wasn't enough. This shows in terms"
+ },
+ {
+  "start": 234.96,
+  "duration": 3.64,
+  "text": "of feature flags, rollouts, and instant"
+ },
+ {
+  "start": 236.48,
+  "duration": 3.56,
+  "text": "rollbacks.\" The next section, and the"
+ },
+ {
+  "start": 238.6,
+  "duration": 3.0,
+  "text": "core thrust of Ankur's argument, is"
+ },
+ {
+  "start": 240.04,
+  "duration": 4.08,
+  "text": "called \"We Have to Give Up on Reading"
+ },
+ {
+  "start": 241.6,
+  "duration": 5.68,
+  "text": "All the Code.\" He continues, \"Teams with"
+ },
+ {
+  "start": 244.12,
+  "duration": 5.72,
+  "text": "high AI adoption complete 21% more tasks"
+ },
+ {
+  "start": 247.28,
+  "duration": 5.44,
+  "text": "and merged 98% more pull requests, but"
+ },
+ {
+  "start": 249.84,
+  "duration": 4.64,
+  "text": "PR review time increases 91% based on"
+ },
+ {
+  "start": 252.72,
+  "duration": 4.48,
+  "text": "data from over 10,000 developers across"
+ },
+ {
+  "start": 254.48,
+  "duration": 4.68,
+  "text": "1,255 teams. Two things are scaling"
+ },
+ {
+  "start": 257.2,
+  "duration": 4.2,
+  "text": "exponentially, the number of changes and"
+ },
+ {
+  "start": 259.16,
+  "duration": 3.96,
+  "text": "the size of changes. We cannot consume"
+ },
+ {
+  "start": 261.4,
+  "duration": 3.48,
+  "text": "this much code. On top of that,"
+ },
+ {
+  "start": 263.12,
+  "duration": 3.44,
+  "text": "developers keep saying that AI-generated"
+ },
+ {
+  "start": 264.88,
+  "duration": 3.6,
+  "text": "code requires more effort than reviewing"
+ },
+ {
+  "start": 266.56,
+  "duration": 3.56,
+  "text": "code written by their colleagues. Teams"
+ },
+ {
+  "start": 268.48,
+  "duration": 3.44,
+  "text": "produce more code than spend more time"
+ },
+ {
+  "start": 270.12,
+  "duration": 3.64,
+  "text": "reviewing it. There is no way we win"
+ },
+ {
+  "start": 271.92,
+  "duration": 3.6,
+  "text": "this fight with manual code reviews."
+ },
+ {
+  "start": 273.76,
+  "duration": 3.68,
+  "text": "Code review is a historical approval"
+ },
+ {
+  "start": 275.52,
+  "duration": 3.04,
+  "text": "gate that no longer matches the shape of"
+ },
+ {
+  "start": 277.44,
+  "duration": 2.76,
+  "text": "the work.\""
+ },
+ {
+  "start": 278.56,
+  "duration": 3.4,
+  "text": "Now, Boris Tain wrote something about"
+ },
+ {
+  "start": 280.2,
+  "duration": 3.2,
+  "text": "this as well. His more broadly themed"
+ },
+ {
+  "start": 281.96,
+  "duration": 3.32,
+  "text": "piece from February of this year was"
+ },
+ {
+  "start": 283.4,
+  "duration": 4.4,
+  "text": "called \"The Software Development Life"
+ },
+ {
+  "start": 285.28,
+  "duration": 5.36,
+  "text": "Cycle Is Dead.\" Boris writes,"
+ },
+ {
+  "start": 287.8,
+  "duration": 4.56,
+  "text": "\"AI agents didn't make the SDLC faster,"
+ },
+ {
+  "start": 290.64,
+  "duration": 3.96,
+  "text": "they killed it. I keep hearing people"
+ },
+ {
+  "start": 292.36,
+  "duration": 4.28,
+  "text": "talk about AI as a 10x developer tool."
+ },
+ {
+  "start": 294.6,
+  "duration": 3.48,
+  "text": "That framing is wrong. It assumes the"
+ },
+ {
+  "start": 296.64,
+  "duration": 3.68,
+  "text": "workflow stays the same and the speed"
+ },
+ {
+  "start": 298.08,
+  "duration": 3.68,
+  "text": "goes up. That's not what's happening."
+ },
+ {
+  "start": 300.32,
+  "duration": 2.72,
+  "text": "The entire life cycle, the one we've"
+ },
+ {
+  "start": 301.76,
+  "duration": 2.72,
+  "text": "built careers around, the one that"
+ },
+ {
+  "start": 303.04,
+  "duration": 3.6,
+  "text": "spawned a multi-billion-dollar tooling"
+ },
+ {
+  "start": 304.48,
+  "duration": 4.12,
+  "text": "industry, is collapsing in on itself,"
+ },
+ {
+  "start": 306.64,
+  "duration": 3.24,
+  "text": "and most people haven't noticed yet.\""
+ },
+ {
+  "start": 308.6,
+  "duration": 2.96,
+  "text": "Boris argues that the software"
+ },
+ {
+  "start": 309.88,
+  "duration": 3.6,
+  "text": "development life cycle as we learned it"
+ },
+ {
+  "start": 311.56,
+  "duration": 3.36,
+  "text": "is a relic. He writes, \"Here is the"
+ },
+ {
+  "start": 313.48,
+  "duration": 3.04,
+  "text": "classic software development life cycle"
+ },
+ {
+  "start": 314.92,
+  "duration": 3.12,
+  "text": "most of us were taught. And apologies"
+ },
+ {
+  "start": 316.52,
+  "duration": 3.08,
+  "text": "for those of you who are just listening,"
+ },
+ {
+  "start": 318.04,
+  "duration": 3.12,
+  "text": "but basically, it's a circular chart"
+ },
+ {
+  "start": 319.6,
+  "duration": 3.44,
+  "text": "that goes from requirements to system"
+ },
+ {
+  "start": 321.16,
+  "duration": 3.48,
+  "text": "design to implementation to testing to"
+ },
+ {
+  "start": 323.04,
+  "duration": 2.84,
+  "text": "code review to deployment to monitoring,"
+ },
+ {
+  "start": 324.64,
+  "duration": 3.2,
+  "text": "and then back to requirements and"
+ },
+ {
+  "start": 325.88,
+  "duration": 3.64,
+  "text": "through the system again.\" Boris writes,"
+ },
+ {
+  "start": 327.84,
+  "duration": 3.8,
+  "text": "\"Every stage has its own tools, its own"
+ },
+ {
+  "start": 329.52,
+  "duration": 4.0,
+  "text": "rituals, its own cottage industry. Jira"
+ },
+ {
+  "start": 331.64,
+  "duration": 3.36,
+  "text": "for requirements, Figma for design, VS"
+ },
+ {
+  "start": 333.52,
+  "duration": 3.52,
+  "text": "Code for implementation, Jest for"
+ },
+ {
+  "start": 335.0,
+  "duration": 4.12,
+  "text": "testing, GitHub for code review, AWS for"
+ },
+ {
+  "start": 337.04,
+  "duration": 3.8,
+  "text": "deployment, DataDog for monitoring. Each"
+ },
+ {
+  "start": 339.12,
+  "duration": 3.68,
+  "text": "step is discrete, sequential, handoffs"
+ },
+ {
+  "start": 340.84,
+  "duration": 3.32,
+  "text": "everywhere. Now, here's what actually"
+ },
+ {
+  "start": 342.8,
+  "duration": 3.68,
+  "text": "happens when an engineer works with a"
+ },
+ {
+  "start": 344.16,
+  "duration": 4.12,
+  "text": "coding agent. In this chart, there is"
+ },
+ {
+  "start": 346.48,
+  "duration": 3.6,
+  "text": "one starting point, which is intent,"
+ },
+ {
+  "start": 348.28,
+  "duration": 3.6,
+  "text": "which moves to the agent, and then the"
+ },
+ {
+  "start": 350.08,
+  "duration": 3.72,
+  "text": "agent works in a circular fashion"
+ },
+ {
+  "start": 351.88,
+  "duration": 3.56,
+  "text": "through code plus test plus deployment"
+ },
+ {
+  "start": 353.8,
+  "duration": 3.32,
+  "text": "to the question of does it work? If the"
+ },
+ {
+  "start": 355.44,
+  "duration": 3.44,
+  "text": "answer is no, it's back to the agent for"
+ },
+ {
+  "start": 357.12,
+  "duration": 3.32,
+  "text": "more code, test, and deployment, back to"
+ },
+ {
+  "start": 358.88,
+  "duration": 2.96,
+  "text": "the question of does it work? And then"
+ },
+ {
+  "start": 360.44,
+  "duration": 4.12,
+  "text": "as soon as the answer to does it work is"
+ },
+ {
+  "start": 361.84,
+  "duration": 5.16,
+  "text": "yes, the code gets shipped.\" Boris's"
+ },
+ {
+  "start": 364.56,
+  "duration": 4.52,
+  "text": "point is this, quote, \"The stages"
+ },
+ {
+  "start": 367.0,
+  "duration": 3.96,
+  "text": "collapsed. They didn't get faster, they"
+ },
+ {
+  "start": 369.08,
+  "duration": 3.8,
+  "text": "merged. The agent doesn't know what step"
+ },
+ {
+  "start": 370.96,
+  "duration": 3.28,
+  "text": "it's on because there are no steps."
+ },
+ {
+  "start": 372.88,
+  "duration": 2.6,
+  "text": "There's just intent, context, and"
+ },
+ {
+  "start": 374.24,
+  "duration": 2.52,
+  "text": "iteration.\""
+ },
+ {
+  "start": 375.48,
+  "duration": 3.32,
+  "text": "Boris is talking about the entire"
+ },
+ {
+  "start": 376.76,
+  "duration": 3.28,
+  "text": "development process, but to re-localize"
+ },
+ {
+  "start": 378.8,
+  "duration": 3.2,
+  "text": "it back to code review, which is the"
+ },
+ {
+  "start": 380.04,
+  "duration": 3.68,
+  "text": "subject of this particular product, his"
+ },
+ {
+  "start": 382.0,
+  "duration": 4.2,
+  "text": "section on code review is called \"Give"
+ },
+ {
+  "start": 383.72,
+  "duration": 4.8,
+  "text": "It Up.\" Boris writes, \"The pull request"
+ },
+ {
+  "start": 386.2,
+  "duration": 4.28,
+  "text": "flow needs to go. I was never a fan, but"
+ },
+ {
+  "start": 388.52,
+  "duration": 3.64,
+  "text": "now it's just a relic of the past. I"
+ },
+ {
+  "start": 390.48,
+  "duration": 3.12,
+  "text": "know that's uncomfortable. Code review"
+ },
+ {
+  "start": 392.16,
+  "duration": 3.2,
+  "text": "is sacred. It's how you catch bugs,"
+ },
+ {
+  "start": 393.6,
+  "duration": 3.44,
+  "text": "share knowledge, maintain standards."
+ },
+ {
+  "start": 395.36,
+  "duration": 3.12,
+  "text": "It's also an identity thing. We're"
+ },
+ {
+  "start": 397.04,
+  "duration": 3.4,
+  "text": "engineers, and reviewing code is what"
+ },
+ {
+  "start": 398.48,
+  "duration": 3.68,
+  "text": "engineers do. But clinging to the PR"
+ },
+ {
+  "start": 400.44,
+  "duration": 3.92,
+  "text": "workflow in an agent-driven world isn't"
+ },
+ {
+  "start": 402.16,
+  "duration": 4.48,
+  "text": "rigor, it's an identity crisis. Think"
+ },
+ {
+  "start": 404.36,
+  "duration": 4.56,
+  "text": "about it. An agent generates 500 PRs a"
+ },
+ {
+  "start": 406.64,
+  "duration": 4.12,
+  "text": "day. Your team can review maybe 10. The"
+ },
+ {
+  "start": 408.92,
+  "duration": 3.96,
+  "text": "review queue backs up. This isn't a"
+ },
+ {
+  "start": 410.76,
+  "duration": 3.76,
+  "text": "bottleneck worth optimizing, it's a fake"
+ },
+ {
+  "start": 412.88,
+  "duration": 3.12,
+  "text": "bottleneck, one that only exists because"
+ },
+ {
+  "start": 414.52,
+  "duration": 3.28,
+  "text": "we're forcing a human ritual onto a"
+ },
+ {
+  "start": 416.0,
+  "duration": 2.84,
+  "text": "machine workflow.\""
+ },
+ {
+  "start": 417.8,
+  "duration": 2.44,
+  "text": "All right, so the point here that I'm"
+ },
+ {
+  "start": 418.84,
+  "duration": 3.24,
+  "text": "trying to make is that clearly there is"
+ },
+ {
+  "start": 420.24,
+  "duration": 3.48,
+  "text": "something in the air, and big questions"
+ },
+ {
+  "start": 422.08,
+  "duration": 2.8,
+  "text": "and perhaps an inevitable change coming"
+ },
+ {
+  "start": 423.72,
+  "duration": 3.84,
+  "text": "to the way that we think about code"
+ },
+ {
+  "start": 424.88,
+  "duration": 4.92,
+  "text": "review. And yet still, I was genuinely"
+ },
+ {
+  "start": 427.56,
+  "duration": 3.76,
+  "text": "surprised to see how much antipathy"
+ },
+ {
+  "start": 429.8,
+  "duration": 3.48,
+  "text": "there was towards this code review"
+ },
+ {
+  "start": 431.32,
+  "duration": 4.12,
+  "text": "announcement. There were a few reasons"
+ },
+ {
+  "start": 433.28,
+  "duration": 4.04,
+  "text": "for that. One has to do with a sort of"
+ },
+ {
+  "start": 435.44,
+  "duration": 4.2,
+  "text": "who's going to watch the watchers idea."
+ },
+ {
+  "start": 437.32,
+  "duration": 4.32,
+  "text": "Professor Bo Wang writes, \"Did Claude"
+ },
+ {
+  "start": 439.64,
+  "duration": 3.76,
+  "text": "Code write Claude Code Review? Next"
+ },
+ {
+  "start": 441.64,
+  "duration": 3.72,
+  "text": "question, can Claude Code Review review"
+ },
+ {
+  "start": 443.4,
+  "duration": 3.24,
+  "text": "Claude Code's code and make it better?"
+ },
+ {
+  "start": 445.36,
+  "duration": 2.64,
+  "text": "And even create a better Claude Code"
+ },
+ {
+  "start": 446.64,
+  "duration": 3.88,
+  "text": "Review?\" Now, he's a little bit"
+ },
+ {
+  "start": 448.0,
+  "duration": 4.08,
+  "text": "tongue-in-cheek, but the idea of whether"
+ },
+ {
+  "start": 450.52,
+  "duration": 3.44,
+  "text": "review is likely to bring the same"
+ },
+ {
+  "start": 452.08,
+  "duration": 3.24,
+  "text": "biases to the review that might have"
+ },
+ {
+  "start": 453.96,
+  "duration": 3.04,
+  "text": "created the mistakes in the code in the"
+ },
+ {
+  "start": 455.32,
+  "duration": 3.52,
+  "text": "first place if people wrote their code"
+ },
+ {
+  "start": 457.0,
+  "duration": 3.28,
+  "text": "with Claude Code, is I think maybe a"
+ },
+ {
+  "start": 458.84,
+  "duration": 3.6,
+  "text": "more practical question that a lot of"
+ },
+ {
+  "start": 460.28,
+  "duration": 5.08,
+  "text": "folks have. The much bigger part of the"
+ },
+ {
+  "start": 462.44,
+  "duration": 4.36,
+  "text": "response came around cost."
+ },
+ {
+  "start": 465.36,
+  "duration": 3.08,
+  "text": "The big thing that really caught"
+ },
+ {
+  "start": 466.8,
+  "duration": 3.64,
+  "text": "people's attention was around the"
+ },
+ {
+  "start": 468.44,
+  "duration": 4.24,
+  "text": "pricing. In the pricing section of the"
+ },
+ {
+  "start": 470.44,
+  "duration": 4.72,
+  "text": "Claude Code Review docs, it says, \"Code"
+ },
+ {
+  "start": 472.68,
+  "duration": 5.08,
+  "text": "review is billed based on token usage."
+ },
+ {
+  "start": 475.16,
+  "duration": 5.12,
+  "text": "Reviews average $15 to $25, scaling with"
+ },
+ {
+  "start": 477.76,
+  "duration": 5.04,
+  "text": "PR size, code base complexity, and how"
+ },
+ {
+  "start": 480.28,
+  "duration": 4.76,
+  "text": "many issues require verification.\" And"
+ },
+ {
+  "start": 482.8,
+  "duration": 4.52,
+  "text": "boy, were people shocked at this. Var"
+ },
+ {
+  "start": 485.04,
+  "duration": 4.24,
+  "text": "epsilon writes, \"The Claude Code max"
+ },
+ {
+  "start": 487.32,
+  "duration": 3.32,
+  "text": "$200-a-month plan is literally infinite"
+ },
+ {
+  "start": 489.28,
+  "duration": 3.16,
+  "text": "tokens. You can just write the one"
+ },
+ {
+  "start": 490.64,
+  "duration": 3.0,
+  "text": "prompt to do a PR review locally, save"
+ },
+ {
+  "start": 492.44,
+  "duration": 4.48,
+  "text": "it as a skill, and you get unlimited"
+ },
+ {
+  "start": 493.64,
+  "duration": 5.4,
+  "text": "reviews. $15 to $25 per review is nuts.\""
+ },
+ {
+  "start": 496.92,
+  "duration": 4.92,
+  "text": "Daxter Labs' Nick Schrock writes,"
+ },
+ {
+  "start": 499.04,
+  "duration": 5.88,
+  "text": "\"$15 to $25 USD per review, my lord.\""
+ },
+ {
+  "start": 501.84,
+  "duration": 5.16,
+  "text": "Alex Kaplan says, \"$20 for a PR?\" Head"
+ },
+ {
+  "start": 504.92,
+  "duration": 5.0,
+  "text": "blown emoji, exclamation question mark"
+ },
+ {
+  "start": 507.0,
+  "duration": 4.52,
+  "text": "emoji. \"Devon review.com is free.\""
+ },
+ {
+  "start": 509.92,
+  "duration": 3.4,
+  "text": "So, one part of this, I think, is just a"
+ },
+ {
+  "start": 511.52,
+  "duration": 3.36,
+  "text": "sticker shock argument. If you've got"
+ },
+ {
+  "start": 513.32,
+  "duration": 3.839,
+  "text": "most developers used to paying in the"
+ },
+ {
+  "start": 514.88,
+  "duration": 4.08,
+  "text": "tens of dollars for coding tools, and"
+ },
+ {
+  "start": 517.159,
+  "duration": 3.601,
+  "text": "seeing review-type features bundled into"
+ },
+ {
+  "start": 518.96,
+  "duration": 3.759,
+  "text": "a broader plan, then this amount"
+ },
+ {
+  "start": 520.76,
+  "duration": 3.279,
+  "text": "obviously seems much larger. What's"
+ },
+ {
+  "start": 522.719,
+  "duration": 3.441,
+  "text": "more, people are immediately doing the"
+ },
+ {
+  "start": 524.039,
+  "duration": 4.121,
+  "text": "scale math. If a team opens up lots of"
+ },
+ {
+  "start": 526.16,
+  "duration": 3.52,
+  "text": "PRs, $25 per review sounds like it could"
+ },
+ {
+  "start": 528.16,
+  "duration": 3.48,
+  "text": "explode very quickly into hundreds of"
+ },
+ {
+  "start": 529.68,
+  "duration": 3.36,
+  "text": "thousands per developer per month. Now,"
+ },
+ {
+  "start": 531.64,
+  "duration": 3.4,
+  "text": "it doesn't really matter that Anthropic"
+ },
+ {
+  "start": 533.04,
+  "duration": 3.68,
+  "text": "is explicitly targeting a deeper review"
+ },
+ {
+  "start": 535.04,
+  "duration": 3.92,
+  "text": "experience using multiple specialized"
+ },
+ {
+  "start": 536.72,
+  "duration": 3.6,
+  "text": "agents, i.e., probably not using it for"
+ },
+ {
+  "start": 538.96,
+  "duration": 3.12,
+  "text": "every single time you have to review"
+ },
+ {
+  "start": 540.32,
+  "duration": 3.24,
+  "text": "anything, but still, people are just"
+ },
+ {
+  "start": 542.08,
+  "duration": 2.8,
+  "text": "extrapolating out from that number and"
+ },
+ {
+  "start": 543.56,
+  "duration": 3.44,
+  "text": "coming up with some very big numbers on"
+ },
+ {
+  "start": 544.88,
+  "duration": 3.96,
+  "text": "the other side. Another piece of this,"
+ },
+ {
+  "start": 547.0,
+  "duration": 3.88,
+  "text": "though, is that I think it shows some"
+ },
+ {
+  "start": 548.84,
+  "duration": 4.68,
+  "text": "chinks in the Anthropic and Opus armor"
+ },
+ {
+  "start": 550.88,
+  "duration": 4.52,
+  "text": "right now. For a very long time,"
+ },
+ {
+  "start": 553.52,
+  "duration": 3.44,
+  "text": "Anthropic was the only game in town when"
+ },
+ {
+  "start": 555.4,
+  "duration": 2.84,
+  "text": "it came to coding. This has been well"
+ },
+ {
+  "start": 556.96,
+  "duration": 2.36,
+  "text": "documented on this show to the point"
+ },
+ {
+  "start": 558.24,
+  "duration": 3.0,
+  "text": "where we don't really need to discuss"
+ },
+ {
+  "start": 559.32,
+  "duration": 4.56,
+  "text": "it. However, ever since the release of"
+ },
+ {
+  "start": 561.24,
+  "duration": 4.8,
+  "text": "GPT-5, OpenAI has been explicitly"
+ },
+ {
+  "start": 563.88,
+  "duration": 3.84,
+  "text": "attempting to close that gap, and even"
+ },
+ {
+  "start": 566.04,
+  "duration": 3.44,
+  "text": "get out ahead, and increasingly, there"
+ },
+ {
+  "start": 567.72,
+  "duration": 4.56,
+  "text": "is some evidence that that effort has"
+ },
+ {
+  "start": 569.48,
+  "duration": 4.36,
+  "text": "been successful. Wes Windham writes, \"I"
+ },
+ {
+  "start": 572.28,
+  "duration": 4.52,
+  "text": "really don't understand why you would"
+ },
+ {
+  "start": 573.84,
+  "duration": 5.04,
+  "text": "pay $25 for Claude to review a single PR"
+ },
+ {
+  "start": 576.8,
+  "duration": 4.72,
+  "text": "when Opus 4.6 isn't even the best model"
+ },
+ {
+  "start": 578.88,
+  "duration": 4.24,
+  "text": "for deep code review. GPT-5.4 is the"
+ },
+ {
+  "start": 581.52,
+  "duration": 2.64,
+  "text": "only model I trust for reviews right"
+ },
+ {
+  "start": 583.12,
+  "duration": 3.28,
+  "text": "now.\""
+ },
+ {
+  "start": 584.16,
+  "duration": 4.32,
+  "text": "Shopify product builder Gil writes,"
+ },
+ {
+  "start": 586.4,
+  "duration": 3.24,
+  "text": "\"Imagine spending $15 to $25 on code"
+ },
+ {
+  "start": 588.48,
+  "duration": 3.36,
+  "text": "review, and you still have daily"
+ },
+ {
+  "start": 589.64,
+  "duration": 3.28,
+  "text": "downtime and buggy releases. I'd be more"
+ },
+ {
+  "start": 591.84,
+  "duration": 3.0,
+  "text": "confident in this feature if their"
+ },
+ {
+  "start": 592.92,
+  "duration": 3.88,
+  "text": "production quality was higher.\""
+ },
+ {
+  "start": 594.84,
+  "duration": 3.8,
+  "text": "Fermantevo writes, \"In all our"
+ },
+ {
+  "start": 596.8,
+  "duration": 3.92,
+  "text": "benchmarks, Claude reviews are always"
+ },
+ {
+  "start": 598.64,
+  "duration": 3.92,
+  "text": "just the worst. But don't you worry, now"
+ },
+ {
+  "start": 600.72,
+  "duration": 3.0,
+  "text": "you can pay between $15 and $25 per"
+ },
+ {
+  "start": 602.56,
+  "duration": 3.64,
+  "text": "freaking PR and you'll have good"
+ },
+ {
+  "start": 603.72,
+  "duration": 3.84,
+  "text": "reviews. Are you kidding me?\""
+ },
+ {
+  "start": 606.2,
+  "duration": 3.2,
+  "text": "And even some of the first people who"
+ },
+ {
+  "start": 607.56,
+  "duration": 3.92,
+  "text": "are testing it aren't necessarily coming"
+ },
+ {
+  "start": 609.4,
+  "duration": 4.08,
+  "text": "away all that impressed. Daniel Sand"
+ },
+ {
+  "start": 611.48,
+  "duration": 3.32,
+  "text": "tested Claude code review and said, \"I'm"
+ },
+ {
+  "start": 613.48,
+  "duration": 3.08,
+  "text": "always the first to get excited when"
+ },
+ {
+  "start": 614.8,
+  "duration": 3.32,
+  "text": "Claude ships something new, but in this"
+ },
+ {
+  "start": 616.56,
+  "duration": 2.72,
+  "text": "case enabling code review is just not"
+ },
+ {
+  "start": 618.12,
+  "duration": 2.32,
+  "text": "worth it.\""
+ },
+ {
+  "start": 619.28,
+  "duration": 2.68,
+  "text": "Now, none of this is to say that there"
+ },
+ {
+  "start": 620.44,
+  "duration": 3.52,
+  "text": "aren't people who are taking the other"
+ },
+ {
+  "start": 621.96,
+  "duration": 4.0,
+  "text": "side of this argument. Lindy founder"
+ },
+ {
+  "start": 623.96,
+  "duration": 4.4,
+  "text": "Flow writes, \"People's comments on the"
+ },
+ {
+  "start": 625.96,
+  "duration": 3.72,
+  "text": "$15 to $25 per PR price tag remind me of"
+ },
+ {
+  "start": 628.36,
+  "duration": 3.36,
+  "text": "Michael Bloomberg's answer to people"
+ },
+ {
+  "start": 629.68,
+  "duration": 3.72,
+  "text": "balking at the $2,700 per month cost of"
+ },
+ {
+  "start": 631.72,
+  "duration": 3.8,
+  "text": "the Bloomberg terminal. If you can't"
+ },
+ {
+  "start": 633.4,
+  "duration": 3.36,
+  "text": "make $2,700 a month with our product,"
+ },
+ {
+  "start": 635.52,
+  "duration": 3.6,
+  "text": "you've got bigger problems to deal"
+ },
+ {
+  "start": 636.76,
+  "duration": 4.72,
+  "text": "with.\" Open codes Resu Levin writes, \"A"
+ },
+ {
+  "start": 639.12,
+  "duration": 3.44,
+  "text": "$15 to $25 PR review bought that catches"
+ },
+ {
+  "start": 641.48,
+  "duration": 2.84,
+  "text": "an incident that would have cost the"
+ },
+ {
+  "start": 642.56,
+  "duration": 3.96,
+  "text": "company $5 million and breached SLAs and"
+ },
+ {
+  "start": 644.32,
+  "duration": 3.96,
+  "text": "reputation is a no-brainer.\""
+ },
+ {
+  "start": 646.52,
+  "duration": 3.36,
+  "text": "I think maybe ultimately the even more"
+ },
+ {
+  "start": 648.28,
+  "duration": 3.84,
+  "text": "interesting dimension of the cost part"
+ },
+ {
+  "start": 649.88,
+  "duration": 3.96,
+  "text": "of the conversation actually has to do"
+ },
+ {
+  "start": 652.12,
+  "duration": 3.84,
+  "text": "with the implications for where things"
+ },
+ {
+  "start": 653.84,
+  "duration": 3.6,
+  "text": "are going. I think increasingly, and"
+ },
+ {
+  "start": 655.96,
+  "duration": 3.72,
+  "text": "especially AI coding weaves itself"
+ },
+ {
+  "start": 657.44,
+  "duration": 3.96,
+  "text": "deeper into how we do work, cost"
+ },
+ {
+  "start": 659.68,
+  "duration": 3.92,
+  "text": "profiles which were somewhat ignorable"
+ },
+ {
+  "start": 661.4,
+  "duration": 3.6,
+  "text": "before become not ignorable anymore."
+ },
+ {
+  "start": 663.6,
+  "duration": 2.84,
+  "text": "Another way of saying it is that AI"
+ },
+ {
+  "start": 665.0,
+  "duration": 2.839,
+  "text": "inference costs start to look a little"
+ },
+ {
+  "start": 666.44,
+  "duration": 3.84,
+  "text": "bit closer to labor cost than to"
+ },
+ {
+  "start": 667.839,
+  "duration": 3.721,
+  "text": "software costs. Sourcegraph CEO Dan"
+ },
+ {
+  "start": 670.28,
+  "duration": 2.68,
+  "text": "Adler writes,"
+ },
+ {
+  "start": 671.56,
+  "duration": 3.56,
+  "text": "\"I spend much of my week every week"
+ },
+ {
+  "start": 672.96,
+  "duration": 4.36,
+  "text": "talking to large enterprise buyers. The"
+ },
+ {
+  "start": 675.12,
+  "duration": 4.04,
+  "text": "appetite for tokens is insatiable."
+ },
+ {
+  "start": 677.32,
+  "duration": 3.56,
+  "text": "C-level FOMO is off the charts and every"
+ },
+ {
+  "start": 679.16,
+  "duration": 4.08,
+  "text": "spare dollar is going into Claude code,"
+ },
+ {
+  "start": 680.88,
+  "duration": 3.68,
+  "text": "cursor, amp, etc. Tens or even hundreds"
+ },
+ {
+  "start": 683.24,
+  "duration": 2.84,
+  "text": "of millions of dollars in engineering"
+ },
+ {
+  "start": 684.56,
+  "duration": 4.279,
+  "text": "organizations that cost billions in"
+ },
+ {
+  "start": 686.08,
+  "duration": 4.32,
+  "text": "salaries seems reasonable, but if CTOs"
+ },
+ {
+  "start": 688.839,
+  "duration": 3.521,
+  "text": "can't deliver head count savings, we're"
+ },
+ {
+  "start": 690.4,
+  "duration": 3.6,
+  "text": "going to see some real whiplash on token"
+ },
+ {
+  "start": 692.36,
+  "duration": 3.479,
+  "text": "budgets in the next two to four"
+ },
+ {
+  "start": 694.0,
+  "duration": 3.56,
+  "text": "quarters.\" Another way to put what Dan"
+ },
+ {
+  "start": 695.839,
+  "duration": 3.601,
+  "text": "is saying is that something's got to"
+ },
+ {
+  "start": 697.56,
+  "duration": 3.76,
+  "text": "give. The cost of agentic engineering"
+ },
+ {
+  "start": 699.44,
+  "duration": 4.12,
+  "text": "can't keep rising without there being"
+ },
+ {
+  "start": 701.32,
+  "duration": 4.519,
+  "text": "commensurate cost cuts somewhere else in"
+ },
+ {
+  "start": 703.56,
+  "duration": 4.12,
+  "text": "the organization. Anonymous 40 account"
+ },
+ {
+  "start": 705.839,
+  "duration": 3.241,
+  "text": "on Twitter writes, \"This marks the"
+ },
+ {
+  "start": 707.68,
+  "duration": 4.04,
+  "text": "beginning of the end of the subsidized"
+ },
+ {
+  "start": 709.08,
+  "duration": 4.759,
+  "text": "inference era. It will only go higher. I"
+ },
+ {
+  "start": 711.72,
+  "duration": 4.68,
+  "text": "think we are just beginning to grapple"
+ },
+ {
+  "start": 713.839,
+  "duration": 4.161,
+  "text": "with what the full bore cost of AI when"
+ },
+ {
+  "start": 716.4,
+  "duration": 2.72,
+  "text": "fully utilized is going to look like and"
+ },
+ {
+  "start": 718.0,
+  "duration": 2.96,
+  "text": "what it means for the structure of"
+ },
+ {
+  "start": 719.12,
+  "duration": 4.04,
+  "text": "organizations. There is of course,"
+ },
+ {
+  "start": 720.96,
+  "duration": 3.56,
+  "text": "however, another piece of this. One that"
+ },
+ {
+  "start": 723.16,
+  "duration": 3.4,
+  "text": "Boris got in that essay that I read"
+ },
+ {
+  "start": 724.52,
+  "duration": 3.76,
+  "text": "before. As he put it, it's also an"
+ },
+ {
+  "start": 726.56,
+  "duration": 3.64,
+  "text": "identity thing where engineers and"
+ },
+ {
+  "start": 728.28,
+  "duration": 3.32,
+  "text": "reviewing code is what engineers do."
+ },
+ {
+  "start": 730.2,
+  "duration": 3.56,
+  "text": "From some corners you can almost feel"
+ },
+ {
+  "start": 731.6,
+  "duration": 4.28,
+  "text": "the existential nature of the response."
+ },
+ {
+  "start": 733.76,
+  "duration": 4.16,
+  "text": "Look at how Montana puts it. We need to"
+ },
+ {
+  "start": 735.88,
+  "duration": 4.2,
+  "text": "admit defeat. We won't be reviewing code"
+ },
+ {
+  "start": 737.92,
+  "duration": 4.44,
+  "text": "before it goes to production. Humans are"
+ },
+ {
+  "start": 740.08,
+  "duration": 4.0,
+  "text": "already the bottleneck, are already the"
+ },
+ {
+  "start": 742.36,
+  "duration": 3.28,
+  "text": "bottleneck. Now, it wasn't directly"
+ },
+ {
+  "start": 744.08,
+  "duration": 3.04,
+  "text": "related to this release, but there's"
+ },
+ {
+  "start": 745.64,
+  "duration": 4.64,
+  "text": "been a viral video going around Twitter"
+ },
+ {
+  "start": 747.12,
+  "duration": 4.84,
+  "text": "{slash} X from Mo @moiao with the"
+ },
+ {
+  "start": 750.28,
+  "duration": 3.24,
+  "text": "caption on the video, \"I was a 10X"
+ },
+ {
+  "start": 751.96,
+  "duration": 2.92,
+  "text": "engineer, now I'm useless.\" It's"
+ },
+ {
+  "start": 753.52,
+  "duration": 3.319,
+  "text": "actually less dramatic than the caption"
+ },
+ {
+  "start": 754.88,
+  "duration": 3.4,
+  "text": "makes it sound, but it's a real honest"
+ },
+ {
+  "start": 756.839,
+  "duration": 2.761,
+  "text": "exploration of a lot of the feelings"
+ },
+ {
+  "start": 758.28,
+  "duration": 3.52,
+  "text": "that many developers are having right"
+ },
+ {
+  "start": 759.6,
+  "duration": 4.4,
+  "text": "now as the fundamental nature of what"
+ },
+ {
+  "start": 761.8,
+  "duration": 4.2,
+  "text": "they do as developers has changed"
+ },
+ {
+  "start": 764.0,
+  "duration": 3.64,
+  "text": "underneath their feet almost overnight."
+ },
+ {
+  "start": 766.0,
+  "duration": 3.48,
+  "text": "And it does feel to me a bit like part"
+ },
+ {
+  "start": 767.64,
+  "duration": 3.48,
+  "text": "of the response to the code review feels"
+ },
+ {
+  "start": 769.48,
+  "duration": 3.0,
+  "text": "a bit like watching the last part of the"
+ },
+ {
+  "start": 771.12,
+  "duration": 3.08,
+  "text": "sandcastle that they spent their whole"
+ },
+ {
+  "start": 772.48,
+  "duration": 4.32,
+  "text": "lives building washed away into the"
+ },
+ {
+  "start": 774.2,
+  "duration": 4.44,
+  "text": "ocean. Why I think this part matters,"
+ },
+ {
+  "start": 776.8,
+  "duration": 3.2,
+  "text": "regardless of whether you're engineer,"
+ },
+ {
+  "start": 778.64,
+  "duration": 3.76,
+  "text": "is that as I frequently said on this"
+ },
+ {
+  "start": 780.0,
+  "duration": 3.64,
+  "text": "show, if you want to understand what"
+ },
+ {
+  "start": 782.4,
+  "duration": 3.08,
+  "text": "other types of knowledge workers are"
+ },
+ {
+  "start": 783.64,
+  "duration": 3.56,
+  "text": "going to be feeling like in a year or"
+ },
+ {
+  "start": 785.48,
+  "duration": 3.64,
+  "text": "two years, watching how developers"
+ },
+ {
+  "start": 787.2,
+  "duration": 3.84,
+  "text": "handle these changes and how the broader"
+ },
+ {
+  "start": 789.12,
+  "duration": 3.36,
+  "text": "shape of their field is shifting is the"
+ },
+ {
+  "start": 791.04,
+  "duration": 3.0,
+  "text": "closest thing we have to peering into"
+ },
+ {
+  "start": 792.48,
+  "duration": 3.2,
+  "text": "the future. There is a deep set of"
+ },
+ {
+  "start": 794.04,
+  "duration": 3.52,
+  "text": "existential questions in this liminal"
+ },
+ {
+  "start": 795.68,
+  "duration": 3.88,
+  "text": "moment, and I think how folks resolve"
+ },
+ {
+  "start": 797.56,
+  "duration": 4.16,
+  "text": "them on a personal and professional and"
+ },
+ {
+  "start": 799.56,
+  "duration": 4.16,
+  "text": "organizational level is going to create"
+ },
+ {
+  "start": 801.72,
+  "duration": 4.04,
+  "text": "a template and a blueprint for how we"
+ },
+ {
+  "start": 803.72,
+  "duration": 3.76,
+  "text": "deal with AI disruption in other areas."
+ },
+ {
+  "start": 805.76,
+  "duration": 3.6,
+  "text": "Now, there is one more piece of the"
+ },
+ {
+  "start": 807.48,
+  "duration": 3.88,
+  "text": "negative response to code review that I"
+ },
+ {
+  "start": 809.36,
+  "duration": 3.68,
+  "text": "think is worth tracking as well, which"
+ },
+ {
+  "start": 811.36,
+  "duration": 4.04,
+  "text": "is not just about cost, but about"
+ },
+ {
+  "start": 813.04,
+  "duration": 4.32,
+  "text": "pricing power. And this to me maybe"
+ },
+ {
+  "start": 815.4,
+  "duration": 3.28,
+  "text": "represents another in Anthropic's"
+ },
+ {
+  "start": 817.36,
+  "duration": 4.0,
+  "text": "armor, although I don't think it's"
+ },
+ {
+  "start": 818.68,
+  "duration": 4.08,
+  "text": "limited to Anthropic alone. Garb writes,"
+ },
+ {
+  "start": 821.36,
+  "duration": 3.12,
+  "text": "\"Feels like the wild west days of"
+ },
+ {
+  "start": 822.76,
+  "duration": 3.8,
+  "text": "pricing. The general store has you"
+ },
+ {
+  "start": 824.48,
+  "duration": 3.0,
+  "text": "hooked on their supply. They know it and"
+ },
+ {
+  "start": 826.56,
+  "duration": 3.36,
+  "text": "they're telling you how much they're"
+ },
+ {
+  "start": 827.48,
+  "duration": 3.84,
+  "text": "going to fleece you because they can.\""
+ },
+ {
+  "start": 829.92,
+  "duration": 2.96,
+  "text": "Ejaz writes,"
+ },
+ {
+  "start": 831.32,
+  "duration": 3.16,
+  "text": "\"Lol, Anthropic just killed a $50"
+ },
+ {
+  "start": 832.88,
+  "duration": 3.92,
+  "text": "billion industry with a single feature"
+ },
+ {
+  "start": 834.48,
+  "duration": 3.8,
+  "text": "again. Companies pay 50K a year to scan"
+ },
+ {
+  "start": 836.8,
+  "duration": 2.8,
+  "text": "their code for vulnerabilities."
+ },
+ {
+  "start": 838.28,
+  "duration": 3.2,
+  "text": "Anthropic's code review does it for you"
+ },
+ {
+  "start": 839.6,
+  "duration": 3.4,
+  "text": "in minutes for a fraction of the cost.\""
+ },
+ {
+  "start": 841.48,
+  "duration": 4.56,
+  "text": "Broadloom's Todd Sonders uses an"
+ },
+ {
+  "start": 843.0,
+  "duration": 4.72,
+  "text": "analogy. \"Anthropic is the new Amazon."
+ },
+ {
+  "start": 846.04,
+  "duration": 3.64,
+  "text": "Build on our platform and once you get"
+ },
+ {
+  "start": 847.72,
+  "duration": 3.48,
+  "text": "scale, we will build a basics version of"
+ },
+ {
+  "start": 849.68,
+  "duration": 3.52,
+  "text": "your product and put you out of business"
+ },
+ {
+  "start": 851.2,
+  "duration": 4.16,
+  "text": "instantly.\" That was a quote tweet from"
+ },
+ {
+  "start": 853.2,
+  "duration": 3.6,
+  "text": "this from Varun Ram Ganesh who wrote,"
+ },
+ {
+  "start": 855.36,
+  "duration": 3.16,
+  "text": "\"At this point, it's pretty clear that"
+ },
+ {
+  "start": 856.8,
+  "duration": 4.039,
+  "text": "if you are an app layer company using"
+ },
+ {
+  "start": 858.52,
+  "duration": 3.8,
+  "text": "Claude code SDK, it is inevitable that"
+ },
+ {
+  "start": 860.839,
+  "duration": 4.081,
+  "text": "Anthropic sees your usage and then"
+ },
+ {
+  "start": 862.32,
+  "duration": 5.08,
+  "text": "develops that tool in-house. One of the"
+ },
+ {
+  "start": 864.92,
+  "duration": 3.68,
+  "text": "potential reckonings in the AI space is"
+ },
+ {
+  "start": 867.4,
+  "duration": 2.92,
+  "text": "going to be questions of power and"
+ },
+ {
+  "start": 868.6,
+  "duration": 3.359,
+  "text": "consolidation around the very small"
+ },
+ {
+  "start": 870.32,
+  "duration": 3.24,
+  "text": "number of neutron star companies that"
+ },
+ {
+  "start": 871.959,
+  "duration": 2.961,
+  "text": "are just absorbing everything around"
+ },
+ {
+  "start": 873.56,
+  "duration": 3.04,
+  "text": "them. It is worth pointing out, of"
+ },
+ {
+  "start": 874.92,
+  "duration": 3.76,
+  "text": "course, that this particular product is"
+ },
+ {
+  "start": 876.6,
+  "duration": 4.44,
+  "text": "not guaranteed to work. Certainly the"
+ },
+ {
+  "start": 878.68,
+  "duration": 3.48,
+  "text": "teams at Cognition and OpenAI are using"
+ },
+ {
+  "start": 881.04,
+  "duration": 2.64,
+  "text": "this as a bonanza for their own"
+ },
+ {
+  "start": 882.16,
+  "duration": 3.84,
+  "text": "marketing, and maybe the market will"
+ },
+ {
+  "start": 883.68,
+  "duration": 3.92,
+  "text": "force the price of AI code review down."
+ },
+ {
+  "start": 886.0,
+  "duration": 4.0,
+  "text": "Still, it's very clear taking a step"
+ },
+ {
+  "start": 887.6,
+  "duration": 4.52,
+  "text": "back that the response around the code"
+ },
+ {
+  "start": 890.0,
+  "duration": 3.959,
+  "text": "review product was about more than just"
+ },
+ {
+  "start": 892.12,
+  "duration": 3.6,
+  "text": "price. Cut to the quick of the types of"
+ },
+ {
+  "start": 893.959,
+  "duration": 3.241,
+  "text": "issues that are just going to be part of"
+ },
+ {
+  "start": 895.72,
+  "duration": 3.359,
+  "text": "our everyday in the period that's coming"
+ },
+ {
+  "start": 897.2,
+  "duration": 4.32,
+  "text": "up next. We will, of course, continue to"
+ },
+ {
+  "start": 899.079,
+  "duration": 4.361,
+  "text": "track this. I will say I have the sense,"
+ },
+ {
+  "start": 901.52,
+  "duration": 3.76,
+  "text": "like Swyx, that perhaps while it takes 3"
+ },
+ {
+  "start": 903.44,
+  "duration": 3.399,
+  "text": "to 6 months for everyone to get there,"
+ },
+ {
+  "start": 905.28,
+  "duration": 3.72,
+  "text": "it is very likely to me that this debate"
+ },
+ {
+  "start": 906.839,
+  "duration": 4.081,
+  "text": "or conversation seems kind of quaint in"
+ },
+ {
+  "start": 909.0,
+  "duration": 3.48,
+  "text": "retrospect. For now, that is going to do"
+ },
+ {
+  "start": 910.92,
+  "duration": 3.039,
+  "text": "it for today's AI Daily Brief."
+ },
+ {
+  "start": 912.48,
+  "duration": 5.92,
+  "text": "Appreciate you listening or watching as"
+ },
+ {
+  "start": 913.959,
+  "duration": 4.441,
+  "text": "always, and until next time, peace."
+ }
+]

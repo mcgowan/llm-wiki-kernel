@@ -1,0 +1,4762 @@
+[
+ {
+  "start": 0.8,
+  "duration": 4.72,
+  "text": "Today on the AI Daily Brief, how the"
+ },
+ {
+  "start": 3.439,
+  "duration": 4.641,
+  "text": "count of four new models we got access"
+ },
+ {
+  "start": 5.52,
+  "duration": 4.4,
+  "text": "to this week will change how you work."
+ },
+ {
+  "start": 8.08,
+  "duration": 3.36,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 9.92,
+  "duration": 3.44,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 11.44,
+  "duration": 4.239,
+  "text": "and discussions in AI. Welcome back to"
+ },
+ {
+  "start": 13.36,
+  "duration": 3.919,
+  "text": "the AI Daily Brief. Among the many"
+ },
+ {
+  "start": 15.679,
+  "duration": 3.52,
+  "text": "changes that AI is bringing to the"
+ },
+ {
+  "start": 17.279,
+  "duration": 3.76,
+  "text": "professional world, one of them is an"
+ },
+ {
+  "start": 19.199,
+  "duration": 3.441,
+  "text": "almost total obliteration of the"
+ },
+ {
+  "start": 21.039,
+  "duration": 2.961,
+  "text": "previously agreed upon idea that you"
+ },
+ {
+  "start": 22.64,
+  "duration": 3.68,
+  "text": "could actually slow down a little bit"
+ },
+ {
+  "start": 24.0,
+  "duration": 3.84,
+  "text": "over the warm summer months. While not"
+ },
+ {
+  "start": 26.32,
+  "duration": 3.76,
+  "text": "every white collar professional would"
+ },
+ {
+  "start": 27.84,
+  "duration": 3.92,
+  "text": "agree that July and August are a time"
+ },
+ {
+  "start": 30.08,
+  "duration": 3.6,
+  "text": "for resting and vacations and catching"
+ },
+ {
+  "start": 31.76,
+  "duration": 4.08,
+  "text": "up, it's pretty undeniable that it's a"
+ },
+ {
+  "start": 33.68,
+  "duration": 4.96,
+  "text": "season where things quiet down a bit."
+ },
+ {
+  "start": 35.84,
+  "duration": 5.039,
+  "text": "Except in AI land, where almost"
+ },
+ {
+  "start": 38.64,
+  "duration": 3.599,
+  "text": "especially now that the previous cadence"
+ },
+ {
+  "start": 40.879,
+  "duration": 3.601,
+  "text": "was thrown off by the government's"
+ },
+ {
+  "start": 42.239,
+  "duration": 4.0,
+  "text": "interference, we are in for what I"
+ },
+ {
+  "start": 44.48,
+  "duration": 4.079,
+  "text": "believe will just be an absolute"
+ },
+ {
+  "start": 46.239,
+  "duration": 3.761,
+  "text": "cavalcade of models. Many of which, as"
+ },
+ {
+  "start": 48.559,
+  "duration": 3.201,
+  "text": "you'll see, I think have fairly"
+ },
+ {
+  "start": 50.0,
+  "duration": 3.76,
+  "text": "significant implications for how we"
+ },
+ {
+  "start": 51.76,
+  "duration": 3.36,
+  "text": "work. The month of models got off to a"
+ },
+ {
+  "start": 53.76,
+  "duration": 3.119,
+  "text": "big start with the return of Fable,"
+ },
+ {
+  "start": 55.12,
+  "duration": 3.84,
+  "text": "which while yes, of course technically"
+ },
+ {
+  "start": 56.879,
+  "duration": 3.84,
+  "text": "was released in June, for all intents"
+ },
+ {
+  "start": 58.96,
+  "duration": 3.52,
+  "text": "and purposes for most of us, it actually"
+ },
+ {
+  "start": 60.719,
+  "duration": 4.08,
+  "text": "feels like an early July release. And"
+ },
+ {
+  "start": 62.48,
+  "duration": 4.8,
+  "text": "yet this week, we added a whole new"
+ },
+ {
+  "start": 64.799,
+  "duration": 5.521,
+  "text": "slate of models to the roster, including"
+ },
+ {
+  "start": 67.28,
+  "duration": 4.8,
+  "text": "OpenAI's first answer to Fable 5.6 Soul,"
+ },
+ {
+  "start": 70.32,
+  "duration": 3.36,
+  "text": "a new entrant from Grock, their first"
+ },
+ {
+  "start": 72.08,
+  "duration": 4.88,
+  "text": "since they hooked up with Cursor called"
+ },
+ {
+  "start": 73.68,
+  "duration": 5.92,
+  "text": "Grock 4.5. a new model from Cognition"
+ },
+ {
+  "start": 76.96,
+  "duration": 5.519,
+  "text": "SUI 1.7 which continues a trend that we"
+ },
+ {
+  "start": 79.6,
+  "duration": 4.08,
+  "text": "saw with cursor and composer 2.5 and"
+ },
+ {
+  "start": 82.479,
+  "duration": 4.481,
+  "text": "finally the model that we're going to"
+ },
+ {
+  "start": 83.68,
+  "duration": 4.4,
+  "text": "start with today GPT live. Now you might"
+ },
+ {
+  "start": 86.96,
+  "duration": 3.12,
+  "text": "have seen this announcement floating"
+ },
+ {
+  "start": 88.08,
+  "duration": 3.76,
+  "text": "around social media. It's a set of cute"
+ },
+ {
+  "start": 90.08,
+  "duration": 3.76,
+  "text": "and charismatic granny's talking to chat"
+ },
+ {
+  "start": 91.84,
+  "duration": 3.52,
+  "text": "GPT's new live model in a way that's"
+ },
+ {
+  "start": 93.84,
+  "duration": 3.36,
+  "text": "meant to represent just how much more"
+ },
+ {
+  "start": 95.36,
+  "duration": 3.68,
+  "text": "natural and conversational the new model"
+ },
+ {
+  "start": 97.2,
+  "duration": 3.12,
+  "text": "feels. Now, this is not at all the main"
+ },
+ {
+  "start": 99.04,
+  "duration": 3.439,
+  "text": "point of the show, but it is worth"
+ },
+ {
+  "start": 100.32,
+  "duration": 3.52,
+  "text": "noting as a side story that I think many"
+ },
+ {
+  "start": 102.479,
+  "duration": 3.201,
+  "text": "think that this content was some of the"
+ },
+ {
+  "start": 103.84,
+  "duration": 3.76,
+  "text": "more effective we've seen from Open AI."
+ },
+ {
+  "start": 105.68,
+  "duration": 4.399,
+  "text": "Not boring as Packy McCormick wrote,"
+ },
+ {
+  "start": 107.6,
+  "duration": 4.24,
+  "text": "\"The Open AI just be normal strategy is"
+ },
+ {
+  "start": 110.079,
+  "duration": 3.121,
+  "text": "working beautifully. Bonus points for"
+ },
+ {
+  "start": 111.84,
+  "duration": 2.72,
+  "text": "making the ladies look very smart and"
+ },
+ {
+  "start": 113.2,
+  "duration": 2.08,
+  "text": "sophisticated and clearly putting them"
+ },
+ {
+  "start": 114.56,
+  "duration": 2.72,
+  "text": "in control of the"
+ },
+ {
+  "start": 115.28,
+  "duration": 4.0,
+  "text": "conversation/interrupting/even"
+ },
+ {
+  "start": 117.28,
+  "duration": 3.92,
+  "text": "being kind of rude with chat.\" Now, that"
+ },
+ {
+  "start": 119.28,
+  "duration": 3.439,
+  "text": "particular choice I also think reflects"
+ },
+ {
+  "start": 121.2,
+  "duration": 3.12,
+  "text": "one of the big underlying points of this"
+ },
+ {
+  "start": 122.719,
+  "duration": 3.521,
+  "text": "announcement, which is an evolution in"
+ },
+ {
+  "start": 124.32,
+  "duration": 3.76,
+  "text": "how they imagine consumers interacting"
+ },
+ {
+  "start": 126.24,
+  "duration": 2.96,
+  "text": "with AI. We'll come to that in just a"
+ },
+ {
+  "start": 128.08,
+  "duration": 2.959,
+  "text": "minute though. Let's talk about the"
+ },
+ {
+  "start": 129.2,
+  "duration": 3.84,
+  "text": "actual model that was released first."
+ },
+ {
+  "start": 131.039,
+  "duration": 5.2,
+  "text": "The model is called GPT Live and it"
+ },
+ {
+  "start": 133.04,
+  "duration": 5.279,
+  "text": "comes in two flavors, GBT Live 1 and GPT"
+ },
+ {
+  "start": 136.239,
+  "duration": 4.64,
+  "text": "Live Mini. It is built on what they call"
+ },
+ {
+  "start": 138.319,
+  "duration": 4.321,
+  "text": "a full duplex architecture, meaning"
+ },
+ {
+  "start": 140.879,
+  "duration": 4.0,
+  "text": "OpenAI says that it can listen and speak"
+ },
+ {
+  "start": 142.64,
+  "duration": 4.319,
+  "text": "at the same time. And a big part of the"
+ },
+ {
+  "start": 144.879,
+  "duration": 4.0,
+  "text": "emphasis here is in how the interaction"
+ },
+ {
+  "start": 146.959,
+  "duration": 3.601,
+  "text": "model has changed. The earliest versions"
+ },
+ {
+  "start": 148.879,
+  "duration": 3.121,
+  "text": "of chat GBT voice were built on"
+ },
+ {
+  "start": 150.56,
+  "duration": 3.759,
+  "text": "something called a cascaded voice"
+ },
+ {
+  "start": 152.0,
+  "duration": 4.16,
+  "text": "system. Basically, that model was"
+ },
+ {
+  "start": 154.319,
+  "duration": 3.441,
+  "text": "actually three models chained together."
+ },
+ {
+  "start": 156.16,
+  "duration": 3.52,
+  "text": "The user would speak and then a"
+ },
+ {
+  "start": 157.76,
+  "duration": 3.759,
+  "text": "speechtoext model would transcribe that"
+ },
+ {
+  "start": 159.68,
+  "duration": 3.199,
+  "text": "speech. An LLM in the background would"
+ },
+ {
+  "start": 161.519,
+  "duration": 3.041,
+  "text": "produce a response and then a"
+ },
+ {
+  "start": 162.879,
+  "duration": 3.921,
+  "text": "texttospech model would convert it back"
+ },
+ {
+  "start": 164.56,
+  "duration": 4.16,
+  "text": "into speech. This approach OpenAI wrote"
+ },
+ {
+  "start": 166.8,
+  "duration": 3.439,
+  "text": "enabled us to talk to Frontier AI models"
+ },
+ {
+  "start": 168.72,
+  "duration": 3.44,
+  "text": "for the first time. But the complexity"
+ },
+ {
+  "start": 170.239,
+  "duration": 3.601,
+  "text": "came at a cost. Information could be"
+ },
+ {
+  "start": 172.16,
+  "duration": 4.24,
+  "text": "lost across models and responses were"
+ },
+ {
+  "start": 173.84,
+  "duration": 4.56,
+  "text": "slow and stilted. Now the next version"
+ },
+ {
+  "start": 176.4,
+  "duration": 5.119,
+  "text": "which was built into TACBT advanced"
+ },
+ {
+  "start": 178.4,
+  "duration": 5.36,
+  "text": "voice mode was a turnbased model system."
+ },
+ {
+  "start": 181.519,
+  "duration": 3.601,
+  "text": "It generated audio within a single model"
+ },
+ {
+  "start": 183.76,
+  "duration": 2.88,
+  "text": "as in it didn't have to go through that"
+ },
+ {
+  "start": 185.12,
+  "duration": 3.28,
+  "text": "speech to text and texttospech"
+ },
+ {
+  "start": 186.64,
+  "duration": 3.44,
+  "text": "translation which made a big difference"
+ },
+ {
+  "start": 188.4,
+  "duration": 4.16,
+  "text": "in terms of latency but it still"
+ },
+ {
+  "start": 190.08,
+  "duration": 4.159,
+  "text": "operated in a discrete turn-based way."
+ },
+ {
+  "start": 192.56,
+  "duration": 3.52,
+  "text": "I.e. the model had to wait for the user"
+ },
+ {
+  "start": 194.239,
+  "duration": 3.92,
+  "text": "to stop speaking before it started which"
+ },
+ {
+  "start": 196.08,
+  "duration": 4.48,
+  "text": "created all sorts of challenges because"
+ },
+ {
+  "start": 198.159,
+  "duration": 4.08,
+  "text": "when turn detection was based on silence"
+ },
+ {
+  "start": 200.56,
+  "duration": 3.36,
+  "text": "something like a brief pause in thought"
+ },
+ {
+  "start": 202.239,
+  "duration": 3.521,
+  "text": "or background noise could be mistaken"
+ },
+ {
+  "start": 203.92,
+  "duration": 3.2,
+  "text": "for the end of the user talking which"
+ },
+ {
+  "start": 205.76,
+  "duration": 3.199,
+  "text": "could lead to the model interrupting in"
+ },
+ {
+  "start": 207.12,
+  "duration": 4.0,
+  "text": "weird ways keeping things feeling"
+ },
+ {
+  "start": 208.959,
+  "duration": 4.0,
+  "text": "stilted and not all that natural. The"
+ },
+ {
+  "start": 211.12,
+  "duration": 3.839,
+  "text": "new model makes two big architectural"
+ },
+ {
+  "start": 212.959,
+  "duration": 3.92,
+  "text": "changes. The first is that full duplex"
+ },
+ {
+  "start": 214.959,
+  "duration": 3.2,
+  "text": "architecture, which means that GPT live"
+ },
+ {
+  "start": 216.879,
+  "duration": 3.681,
+  "text": "they say is built for continuous"
+ },
+ {
+  "start": 218.159,
+  "duration": 3.601,
+  "text": "interactions. Instead of processing a"
+ },
+ {
+  "start": 220.56,
+  "duration": 3.28,
+  "text": "sequence of separate messages they"
+ },
+ {
+  "start": 221.76,
+  "duration": 4.08,
+  "text": "write, GPT live continuously processes"
+ },
+ {
+  "start": 223.84,
+  "duration": 3.6,
+  "text": "input while generating output. The model"
+ },
+ {
+  "start": 225.84,
+  "duration": 3.36,
+  "text": "they say can therefore make interaction"
+ },
+ {
+  "start": 227.44,
+  "duration": 3.12,
+  "text": "decisions many times per second whether"
+ },
+ {
+  "start": 229.2,
+  "duration": 3.44,
+  "text": "to speak, continue listening, pause,"
+ },
+ {
+  "start": 230.56,
+  "duration": 3.28,
+  "text": "interrupt, or invoke a tool. And as you"
+ },
+ {
+  "start": 232.64,
+  "duration": 2.879,
+  "text": "can hear from all of the different tests"
+ },
+ {
+  "start": 233.84,
+  "duration": 3.28,
+  "text": "and videos they shared, this makes for a"
+ },
+ {
+  "start": 235.519,
+  "duration": 2.961,
+  "text": "conversational experience that's a lot"
+ },
+ {
+  "start": 237.12,
+  "duration": 3.039,
+  "text": "closer to what you get when you're"
+ },
+ {
+  "start": 238.48,
+  "duration": 4.24,
+  "text": "interacting in a normal humanto human"
+ },
+ {
+  "start": 240.159,
+  "duration": 5.041,
+  "text": "conversation. The second architectural"
+ },
+ {
+  "start": 242.72,
+  "duration": 4.32,
+  "text": "decision is that they separated GPT live"
+ },
+ {
+  "start": 245.2,
+  "duration": 3.92,
+  "text": "as a model which has its focus on"
+ },
+ {
+  "start": 247.04,
+  "duration": 4.16,
+  "text": "continuous interaction from deeper types"
+ },
+ {
+  "start": 249.12,
+  "duration": 4.72,
+  "text": "of work including reasoning, agent"
+ },
+ {
+  "start": 251.2,
+  "duration": 4.72,
+  "text": "capabilities or search. So basically as"
+ },
+ {
+  "start": 253.84,
+  "duration": 4.32,
+  "text": "the GPT live model is doing that"
+ },
+ {
+  "start": 255.92,
+  "duration": 4.96,
+  "text": "interaction, it can summon another model"
+ },
+ {
+  "start": 258.16,
+  "duration": 4.88,
+  "text": "like GPT 5.5 or now going forward 5.6"
+ },
+ {
+  "start": 260.88,
+  "duration": 4.08,
+  "text": "six to go take care of a task like"
+ },
+ {
+  "start": 263.04,
+  "duration": 4.24,
+  "text": "searching or reasoning even as it keeps"
+ },
+ {
+  "start": 264.96,
+  "duration": 3.519,
+  "text": "the conversation going. Now, you might"
+ },
+ {
+  "start": 267.28,
+  "duration": 2.88,
+  "text": "remember a couple months ago when"
+ },
+ {
+  "start": 268.479,
+  "duration": 3.44,
+  "text": "Thinking Machines Labs introduced their"
+ },
+ {
+  "start": 270.16,
+  "duration": 3.92,
+  "text": "interaction model that took a pretty"
+ },
+ {
+  "start": 271.919,
+  "duration": 4.241,
+  "text": "similar approach here. Riley Brown, in"
+ },
+ {
+  "start": 274.08,
+  "duration": 3.92,
+  "text": "fact, wrote, \"This graphic from Thinking"
+ },
+ {
+  "start": 276.16,
+  "duration": 2.88,
+  "text": "Machine seems relevant to the GPT voice"
+ },
+ {
+  "start": 278.0,
+  "duration": 2.88,
+  "text": "release. They are, from my"
+ },
+ {
+  "start": 279.04,
+  "duration": 3.36,
+  "text": "understanding, very similar. Real-time"
+ },
+ {
+  "start": 280.88,
+  "duration": 3.12,
+  "text": "voice models have an interaction model"
+ },
+ {
+  "start": 282.4,
+  "duration": 3.28,
+  "text": "that can run background models that use"
+ },
+ {
+  "start": 284.0,
+  "duration": 2.88,
+  "text": "tools. You don't need to wait for the"
+ },
+ {
+  "start": 285.68,
+  "duration": 2.72,
+  "text": "voice model to finish doing something"
+ },
+ {
+  "start": 286.88,
+  "duration": 3.44,
+  "text": "while talking to it. It can just do"
+ },
+ {
+  "start": 288.4,
+  "duration": 3.92,
+  "text": "things in the background.\" Developer"
+ },
+ {
+  "start": 290.32,
+  "duration": 3.76,
+  "text": "Daniel Vela wrote, \"I built a project"
+ },
+ {
+  "start": 292.32,
+  "duration": 3.68,
+  "text": "with this architecture. Instead of a"
+ },
+ {
+  "start": 294.08,
+  "duration": 3.679,
+  "text": "secondary background LLM, my project is"
+ },
+ {
+  "start": 296.0,
+  "duration": 3.36,
+  "text": "a voice first mini agent that delegates"
+ },
+ {
+  "start": 297.759,
+  "duration": 3.281,
+  "text": "tasks to other agents like Hermes or"
+ },
+ {
+  "start": 299.36,
+  "duration": 3.119,
+  "text": "Open Code through ACP. You can"
+ },
+ {
+  "start": 301.04,
+  "duration": 3.52,
+  "text": "continuously talk with the agent while"
+ },
+ {
+  "start": 302.479,
+  "duration": 3.921,
+  "text": "heavy task occurs in background. Much"
+ },
+ {
+  "start": 304.56,
+  "duration": 4.24,
+  "text": "more pleasant experience than the usual"
+ },
+ {
+  "start": 306.4,
+  "duration": 4.56,
+  "text": "voice agents. So, in some ways, what"
+ },
+ {
+  "start": 308.8,
+  "duration": 3.839,
+  "text": "you're seeing here is a voice equivalent"
+ },
+ {
+  "start": 310.96,
+  "duration": 3.2,
+  "text": "version of an increasingly common"
+ },
+ {
+  "start": 312.639,
+  "duration": 3.441,
+  "text": "architectural pattern in general with"
+ },
+ {
+  "start": 314.16,
+  "duration": 3.84,
+  "text": "advanced AI systems that involve"
+ },
+ {
+  "start": 316.08,
+  "duration": 3.92,
+  "text": "multiple models at the same time and the"
+ },
+ {
+  "start": 318.0,
+  "duration": 3.919,
+  "text": "ability for an orchestrator model to"
+ },
+ {
+  "start": 320.0,
+  "duration": 3.52,
+  "text": "initiate agents or sub agents to go do"
+ },
+ {
+  "start": 321.919,
+  "duration": 3.441,
+  "text": "some specific set of tasks that work in"
+ },
+ {
+  "start": 323.52,
+  "duration": 4.399,
+  "text": "the background before organizing it all"
+ },
+ {
+  "start": 325.36,
+  "duration": 3.839,
+  "text": "into a coherent single response."
+ },
+ {
+  "start": 327.919,
+  "duration": 2.72,
+  "text": "So, there are a couple interesting"
+ },
+ {
+  "start": 329.199,
+  "duration": 3.601,
+  "text": "things that come up right away from the"
+ },
+ {
+  "start": 330.639,
+  "duration": 4.241,
+  "text": "demos. One of the first places that"
+ },
+ {
+  "start": 332.8,
+  "duration": 3.76,
+  "text": "people went was just how powerful this"
+ },
+ {
+  "start": 334.88,
+  "duration": 3.68,
+  "text": "was going to be for anything involving"
+ },
+ {
+  "start": 336.56,
+  "duration": 3.84,
+  "text": "multiple language interactions. Live"
+ },
+ {
+  "start": 338.56,
+  "duration": 3.68,
+  "text": "turnless operation means, for example,"
+ },
+ {
+  "start": 340.4,
+  "duration": 3.92,
+  "text": "that the model can translate each phrase"
+ },
+ {
+  "start": 342.24,
+  "duration": 3.76,
+  "text": "as it's spoken, not having to wait for a"
+ },
+ {
+  "start": 344.32,
+  "duration": 3.439,
+  "text": "break in the conversation. This means"
+ },
+ {
+  "start": 346.0,
+  "duration": 3.6,
+  "text": "the model can function much more like a"
+ },
+ {
+  "start": 347.759,
+  "duration": 4.0,
+  "text": "human translator and less like a wooden"
+ },
+ {
+  "start": 349.6,
+  "duration": 3.68,
+  "text": "computer. Think about when you've seen a"
+ },
+ {
+  "start": 351.759,
+  "duration": 3.28,
+  "text": "translator for a speech where the"
+ },
+ {
+  "start": 353.28,
+  "duration": 3.52,
+  "text": "translation happens just a few seconds"
+ },
+ {
+  "start": 355.039,
+  "duration": 3.281,
+  "text": "after the person being translated starts"
+ },
+ {
+  "start": 356.8,
+  "duration": 3.119,
+  "text": "speaking rather than waiting for that"
+ },
+ {
+  "start": 358.32,
+  "duration": 3.599,
+  "text": "speaker to stop and pause at any given"
+ },
+ {
+  "start": 359.919,
+  "duration": 3.601,
+  "text": "point. Now, people also grocked very"
+ },
+ {
+  "start": 361.919,
+  "duration": 3.12,
+  "text": "quickly, no pun intended, that this"
+ },
+ {
+  "start": 363.52,
+  "duration": 3.44,
+  "text": "seemed like a really excellent tool for"
+ },
+ {
+  "start": 365.039,
+  "duration": 4.0,
+  "text": "language learning. Click health Simon"
+ },
+ {
+  "start": 366.96,
+  "duration": 4.079,
+  "text": "Smith says that yes indeed for learning"
+ },
+ {
+  "start": 369.039,
+  "duration": 3.44,
+  "text": "this does rock. He wrote, \"I tried"
+ },
+ {
+  "start": 371.039,
+  "duration": 2.88,
+  "text": "practicing Spanish with it. It can give"
+ },
+ {
+  "start": 372.479,
+  "duration": 3.44,
+  "text": "me words in English to translate and"
+ },
+ {
+  "start": 373.919,
+  "duration": 3.521,
+  "text": "properly critique my pronunciation.\" He"
+ },
+ {
+  "start": 375.919,
+  "duration": 3.041,
+  "text": "also though saw that this was probably"
+ },
+ {
+  "start": 377.44,
+  "duration": 3.28,
+  "text": "valuable for more than just language"
+ },
+ {
+  "start": 378.96,
+  "duration": 3.679,
+  "text": "learning, noting that if there was a"
+ },
+ {
+  "start": 380.72,
+  "duration": 3.68,
+  "text": "generic flashcard tool, we could use"
+ },
+ {
+  "start": 382.639,
+  "duration": 3.761,
+  "text": "this for all sorts of learning. He"
+ },
+ {
+  "start": 384.4,
+  "duration": 3.44,
+  "text": "writes, \"Lash cards, quizzes, Blackboard"
+ },
+ {
+  "start": 386.4,
+  "duration": 3.2,
+  "text": "like Sketchpad, and so forth would just"
+ },
+ {
+  "start": 387.84,
+  "duration": 4.0,
+  "text": "be incredible here. this thing could be"
+ },
+ {
+  "start": 389.6,
+  "duration": 4.159,
+  "text": "an exceptional teacher. Now, one thing"
+ },
+ {
+  "start": 391.84,
+  "duration": 3.359,
+  "text": "that is worth noting is that although"
+ },
+ {
+  "start": 393.759,
+  "duration": 3.601,
+  "text": "there is not a flash card feature"
+ },
+ {
+  "start": 395.199,
+  "duration": 4.401,
+  "text": "specifically, the new model in ChachiBT"
+ },
+ {
+  "start": 397.36,
+  "duration": 4.48,
+  "text": "does now have the ability to show visual"
+ },
+ {
+  "start": 399.6,
+  "duration": 4.24,
+  "text": "cards for things like weather, stocks,"
+ },
+ {
+  "start": 401.84,
+  "duration": 3.359,
+  "text": "sports schedules, and more. This"
+ },
+ {
+  "start": 403.84,
+  "duration": 2.72,
+  "text": "suggests that the jump to something like"
+ },
+ {
+  "start": 405.199,
+  "duration": 2.881,
+  "text": "flash cards wouldn't be all that"
+ },
+ {
+  "start": 406.56,
+  "duration": 2.56,
+  "text": "difficult. And yet, the flash cards, I"
+ },
+ {
+  "start": 408.08,
+  "duration": 2.48,
+  "text": "think, are another part of the story"
+ },
+ {
+  "start": 409.12,
+  "duration": 4.32,
+  "text": "that started with the granny's, which"
+ },
+ {
+  "start": 410.56,
+  "duration": 4.479,
+  "text": "that is to me, this is very clearly the"
+ },
+ {
+  "start": 413.44,
+  "duration": 3.44,
+  "text": "set of use cases that this is really"
+ },
+ {
+  "start": 415.039,
+  "duration": 3.761,
+  "text": "focused on are what we might call the"
+ },
+ {
+  "start": 416.88,
+  "duration": 3.92,
+  "text": "Siri use cases."
+ },
+ {
+  "start": 418.8,
+  "duration": 3.92,
+  "text": "This is the basic personal assistant"
+ },
+ {
+  "start": 420.8,
+  "duration": 3.92,
+  "text": "stuff that they assume a lot of regular"
+ },
+ {
+  "start": 422.72,
+  "duration": 4.879,
+  "text": "people who aren't using chatbt for work"
+ },
+ {
+  "start": 424.72,
+  "duration": 4.56,
+  "text": "use chatbt for. When you look at the"
+ },
+ {
+  "start": 427.599,
+  "duration": 3.281,
+  "text": "grandma's ad again, a lot of the things"
+ },
+ {
+  "start": 429.28,
+  "duration": 2.88,
+  "text": "that they ask the new model to do are"
+ },
+ {
+  "start": 430.88,
+  "duration": 2.8,
+  "text": "the things that you've seen for the last"
+ },
+ {
+  "start": 432.16,
+  "duration": 3.12,
+  "text": "several years, people screeching about"
+ },
+ {
+  "start": 433.68,
+  "duration": 3.359,
+  "text": "on social media because it seems like"
+ },
+ {
+  "start": 435.28,
+  "duration": 3.759,
+  "text": "stuff that Siri should be able to do but"
+ },
+ {
+  "start": 437.039,
+  "duration": 3.681,
+  "text": "can't. They're basically actively stress"
+ },
+ {
+  "start": 439.039,
+  "duration": 3.761,
+  "text": "testing it along archetypal failure"
+ },
+ {
+  "start": 440.72,
+  "duration": 3.84,
+  "text": "modes that cause user frustration and it"
+ },
+ {
+  "start": 442.8,
+  "duration": 3.6,
+  "text": "appears to keep functioning properly."
+ },
+ {
+  "start": 444.56,
+  "duration": 4.24,
+  "text": "And I think in some ways that this sort"
+ },
+ {
+  "start": 446.4,
+  "duration": 4.079,
+  "text": "of interaction mode, voice first, might"
+ },
+ {
+  "start": 448.8,
+  "duration": 3.36,
+  "text": "be closer to the future of how people"
+ },
+ {
+  "start": 450.479,
+  "duration": 4.401,
+  "text": "interact with AI than the current"
+ },
+ {
+  "start": 452.16,
+  "duration": 5.36,
+  "text": "paradigm of typing. Sam Alman basically"
+ },
+ {
+  "start": 454.88,
+  "duration": 4.8,
+  "text": "said as much, writing, GPT live launches"
+ },
+ {
+  "start": 457.52,
+  "duration": 4.239,
+  "text": "today in chat GBT. It feels magical and"
+ },
+ {
+  "start": 459.68,
+  "duration": 4.0,
+  "text": "real. I have always preferred typing to"
+ },
+ {
+  "start": 461.759,
+  "duration": 4.0,
+  "text": "talking to an AI. Now I think that's"
+ },
+ {
+  "start": 463.68,
+  "duration": 4.0,
+  "text": "going to shift. What's interesting"
+ },
+ {
+  "start": 465.759,
+  "duration": 3.84,
+  "text": "though is that while I think this makes"
+ },
+ {
+  "start": 467.68,
+  "duration": 3.76,
+  "text": "a ton of sense for consumers, it's a"
+ },
+ {
+  "start": 469.599,
+  "duration": 3.201,
+  "text": "more interesting question to ask how"
+ },
+ {
+  "start": 471.44,
+  "duration": 3.92,
+  "text": "this might change the interaction"
+ },
+ {
+  "start": 472.8,
+  "duration": 4.399,
+  "text": "pattern for work-based users as well."
+ },
+ {
+  "start": 475.36,
+  "duration": 4.0,
+  "text": "Now, regular listeners will know that"
+ },
+ {
+  "start": 477.199,
+  "duration": 4.56,
+  "text": "one of my most common tips to getting"
+ },
+ {
+  "start": 479.36,
+  "duration": 4.48,
+  "text": "more out of AI is to switch to a voice"
+ },
+ {
+  "start": 481.759,
+  "duration": 3.921,
+  "text": "paradigm. Not to switch to these voice"
+ },
+ {
+  "start": 483.84,
+  "duration": 4.16,
+  "text": "models, but to use something like"
+ },
+ {
+  "start": 485.68,
+  "duration": 4.32,
+  "text": "Whisper Flow to be able to ramble speak"
+ },
+ {
+  "start": 488.0,
+  "duration": 4.0,
+  "text": "your inputs rather than typing them. The"
+ },
+ {
+  "start": 490.0,
+  "duration": 3.759,
+  "text": "reason for this is pretty simple. AI"
+ },
+ {
+  "start": 492.0,
+  "duration": 3.52,
+  "text": "tends to live or die on the basis of the"
+ },
+ {
+  "start": 493.759,
+  "duration": 3.521,
+  "text": "context you give it. And no matter how"
+ },
+ {
+  "start": 495.52,
+  "duration": 4.239,
+  "text": "fast you type, you almost certainly talk"
+ },
+ {
+  "start": 497.28,
+  "duration": 4.319,
+  "text": "faster. Typing also forces you into"
+ },
+ {
+  "start": 499.759,
+  "duration": 3.921,
+  "text": "structure in a way that while it can be"
+ },
+ {
+  "start": 501.599,
+  "duration": 3.761,
+  "text": "useful, it might not always actually be"
+ },
+ {
+  "start": 503.68,
+  "duration": 4.239,
+  "text": "helpful to what you're trying to achieve"
+ },
+ {
+  "start": 505.36,
+  "duration": 4.48,
+  "text": "with AI. In short, when you speak, i.e."
+ },
+ {
+  "start": 507.919,
+  "duration": 3.921,
+  "text": "ramble, you can provide the AI a lot"
+ },
+ {
+  "start": 509.84,
+  "duration": 3.92,
+  "text": "more context. And at this point, the"
+ },
+ {
+  "start": 511.84,
+  "duration": 3.759,
+  "text": "vast vast majority of my interactions"
+ },
+ {
+  "start": 513.76,
+  "duration": 4.24,
+  "text": "with AI, even when I'm sitting at my"
+ },
+ {
+  "start": 515.599,
+  "duration": 4.161,
+  "text": "desktop computer, are done via voice."
+ },
+ {
+  "start": 518.0,
+  "duration": 4.0,
+  "text": "But it's not this sort of back and forth"
+ },
+ {
+  "start": 519.76,
+  "duration": 4.48,
+  "text": "voice mode. It's just about voice as my"
+ },
+ {
+  "start": 522.0,
+  "duration": 4.48,
+  "text": "input. Not only do I not care about"
+ },
+ {
+  "start": 524.24,
+  "duration": 4.159,
+  "text": "having the AI speak back to me, in many"
+ },
+ {
+  "start": 526.48,
+  "duration": 3.12,
+  "text": "applications, including the one that we"
+ },
+ {
+  "start": 528.399,
+  "duration": 3.601,
+  "text": "built with Super Intelligent that"
+ },
+ {
+  "start": 529.6,
+  "duration": 4.64,
+  "text": "interviews people, I've sometimes found"
+ },
+ {
+  "start": 532.0,
+  "duration": 4.48,
+  "text": "that waiting for the AI to speak back"
+ },
+ {
+  "start": 534.24,
+  "duration": 3.76,
+  "text": "can be incredibly annoying and slow."
+ },
+ {
+  "start": 536.48,
+  "duration": 3.84,
+  "text": "Basically, your brain's ability to read"
+ },
+ {
+  "start": 538.0,
+  "duration": 4.48,
+  "text": "a sentence and absorb it is a lot faster"
+ },
+ {
+  "start": 540.32,
+  "duration": 4.32,
+  "text": "than having to listen to the AI talk at"
+ },
+ {
+  "start": 542.48,
+  "duration": 4.64,
+  "text": "some mediated pace. So an interesting"
+ },
+ {
+  "start": 544.64,
+  "duration": 4.72,
+  "text": "question I have about this new model is"
+ },
+ {
+  "start": 547.12,
+  "duration": 4.159,
+  "text": "how it might start to interact if at all"
+ },
+ {
+  "start": 549.36,
+  "duration": 3.36,
+  "text": "with people's work behaviors and while"
+ },
+ {
+  "start": 551.279,
+  "duration": 4.0,
+  "text": "it's early there is some interesting"
+ },
+ {
+  "start": 552.72,
+  "duration": 5.04,
+  "text": "feedback on that front. Early tester"
+ },
+ {
+  "start": 555.279,
+  "duration": 4.481,
+  "text": "Daria an Maz wrote since the original"
+ },
+ {
+  "start": 557.76,
+  "duration": 4.0,
+  "text": "release of voice and chat GBT I rarely"
+ },
+ {
+  "start": 559.76,
+  "duration": 3.759,
+  "text": "used it but this new version completely"
+ },
+ {
+  "start": 561.76,
+  "duration": 3.759,
+  "text": "changed that it has made me a frequent"
+ },
+ {
+  "start": 563.519,
+  "duration": 3.281,
+  "text": "user. The voice is so much more natural,"
+ },
+ {
+  "start": 565.519,
+  "duration": 3.281,
+  "text": "smooth, intelligent and really so"
+ },
+ {
+  "start": 566.8,
+  "duration": 3.68,
+  "text": "enjoyable to talk with. I also tried it"
+ },
+ {
+  "start": 568.8,
+  "duration": 2.96,
+  "text": "in my mother tongue Turkish including a"
+ },
+ {
+  "start": 570.48,
+  "duration": 3.039,
+  "text": "few local dialects and it does a"
+ },
+ {
+  "start": 571.76,
+  "duration": 3.36,
+  "text": "phenomenal job. The simultaneous"
+ },
+ {
+  "start": 573.519,
+  "duration": 3.121,
+  "text": "translation is impressive, but what is"
+ },
+ {
+  "start": 575.12,
+  "duration": 2.8,
+  "text": "even more remarkable is that it captures"
+ },
+ {
+  "start": 576.64,
+  "duration": 3.199,
+  "text": "the subtleties, rhythm, and local"
+ },
+ {
+  "start": 577.92,
+  "duration": 3.2,
+  "text": "feeling of the language. Okay, so we"
+ },
+ {
+  "start": 579.839,
+  "duration": 3.12,
+  "text": "have a skeptic who's starting to be"
+ },
+ {
+  "start": 581.12,
+  "duration": 3.6,
+  "text": "converted, which was also Riley Brown's"
+ },
+ {
+  "start": 582.959,
+  "duration": 3.841,
+  "text": "experience. He wrote, \"This one was"
+ },
+ {
+  "start": 584.72,
+  "duration": 4.0,
+  "text": "unexpected. I was not excited for voice"
+ },
+ {
+  "start": 586.8,
+  "duration": 3.92,
+  "text": "models until I tried this one. It's very"
+ },
+ {
+  "start": 588.72,
+  "duration": 3.92,
+  "text": "realistic, almost spooky. The coolest"
+ },
+ {
+  "start": 590.72,
+  "duration": 3.92,
+  "text": "part, the model can search the internet"
+ },
+ {
+  "start": 592.64,
+  "duration": 4.48,
+  "text": "fast. And if you've spent any time with"
+ },
+ {
+  "start": 594.64,
+  "duration": 3.92,
+  "text": "GPT Realtime 2, you know these voice"
+ },
+ {
+  "start": 597.12,
+  "duration": 3.839,
+  "text": "models are getting very good at using"
+ },
+ {
+  "start": 598.56,
+  "duration": 3.76,
+  "text": "tools. Soon, I'm guessing you'll be able"
+ },
+ {
+  "start": 600.959,
+  "duration": 2.88,
+  "text": "to do your email, check on business"
+ },
+ {
+  "start": 602.32,
+  "duration": 3.199,
+  "text": "data, schedule meetings, and basically"
+ },
+ {
+  "start": 603.839,
+  "duration": 3.601,
+  "text": "anything just by chatting with this"
+ },
+ {
+  "start": 605.519,
+  "duration": 4.0,
+  "text": "voice model. The tech is basically"
+ },
+ {
+  "start": 607.44,
+  "duration": 5.12,
+  "text": "already there for Jarvis. The only thing"
+ },
+ {
+  "start": 609.519,
+  "duration": 4.88,
+  "text": "left is a generative UI layer. Okay, so"
+ },
+ {
+  "start": 612.56,
+  "duration": 3.6,
+  "text": "we have here Riley not only being a"
+ },
+ {
+  "start": 614.399,
+  "duration": 3.841,
+  "text": "skeptic converted, but starting to see"
+ },
+ {
+  "start": 616.16,
+  "duration": 3.84,
+  "text": "how it might start to become something"
+ },
+ {
+  "start": 618.24,
+  "duration": 4.48,
+  "text": "that changes how he works, even if it's"
+ },
+ {
+  "start": 620.0,
+  "duration": 4.48,
+  "text": "not there yet. Simon Smith again wrote,"
+ },
+ {
+  "start": 622.72,
+  "duration": 3.76,
+  "text": "\"This felt like the closest I've ever"
+ },
+ {
+  "start": 624.48,
+  "duration": 3.76,
+  "text": "seen an AI come to being a capable"
+ },
+ {
+  "start": 626.48,
+  "duration": 3.68,
+  "text": "humanlike digital assistant, Jarvis,"
+ },
+ {
+  "start": 628.24,
+  "duration": 3.599,
+  "text": "her, what have you. On the heels of my"
+ },
+ {
+  "start": 630.16,
+  "duration": 3.6,
+  "text": "experience the past 2 weeks with Claude"
+ },
+ {
+  "start": 631.839,
+  "duration": 3.68,
+  "text": "Tag, it feels like we're in a transition"
+ },
+ {
+  "start": 633.76,
+  "duration": 4.24,
+  "text": "period where AI's become more like"
+ },
+ {
+  "start": 635.519,
+  "duration": 4.88,
+  "text": "colleagues and less like tools.\" Ethan"
+ },
+ {
+  "start": 638.0,
+  "duration": 3.68,
+  "text": "Malik made a similar point. GBT voice is"
+ },
+ {
+  "start": 640.399,
+  "duration": 2.88,
+  "text": "really good and much closer to the"
+ },
+ {
+  "start": 641.68,
+  "duration": 3.76,
+  "text": "science fiction experience of talking to"
+ },
+ {
+  "start": 643.279,
+  "duration": 4.24,
+  "text": "AI in part because it is much smarter."
+ },
+ {
+  "start": 645.44,
+  "duration": 4.48,
+  "text": "That plus Claude Tag suggests emerging"
+ },
+ {
+  "start": 647.519,
+  "duration": 3.841,
+  "text": "new modes of working with AI. Now,"
+ },
+ {
+  "start": 649.92,
+  "duration": 2.96,
+  "text": "Claude tag, you'll remember, is the"
+ },
+ {
+  "start": 651.36,
+  "duration": 4.0,
+  "text": "version of Claude that sits inside your"
+ },
+ {
+  "start": 652.88,
+  "duration": 4.32,
+  "text": "Slack and has shared context across user"
+ },
+ {
+  "start": 655.36,
+  "duration": 4.4,
+  "text": "channels, i.e. isn't just limited to a"
+ },
+ {
+  "start": 657.2,
+  "duration": 5.199,
+  "text": "single users instance of Claude. Max"
+ },
+ {
+  "start": 659.76,
+  "duration": 4.319,
+  "text": "Weinbach wrote, \"Imagine GPT live and"
+ },
+ {
+  "start": 662.399,
+  "duration": 2.88,
+  "text": "codeex with the thread management tools."
+ },
+ {
+  "start": 664.079,
+  "duration": 2.721,
+  "text": "You just chat with it and it can"
+ },
+ {
+  "start": 665.279,
+  "duration": 3.361,
+  "text": "delegate, read, and manage all the work"
+ },
+ {
+  "start": 666.8,
+  "duration": 3.12,
+  "text": "going on in projects and chats. I"
+ },
+ {
+  "start": 668.64,
+  "duration": 2.72,
+  "text": "imagine this will be a thing and"
+ },
+ {
+  "start": 669.92,
+  "duration": 3.68,
+  "text": "downstream of that is just controlling"
+ },
+ {
+  "start": 671.36,
+  "duration": 5.44,
+  "text": "your entire computer with voice.\" Prince"
+ },
+ {
+  "start": 673.6,
+  "duration": 5.919,
+  "text": "had a great analogy writing, \"2025 AI is"
+ },
+ {
+  "start": 676.8,
+  "duration": 4.08,
+  "text": "a toy. 2026 AI is a genie that lives in"
+ },
+ {
+  "start": 679.519,
+  "duration": 2.56,
+  "text": "a bottle. If you know where to find the"
+ },
+ {
+  "start": 680.88,
+  "duration": 3.519,
+  "text": "bottle and how to phrase your wish, then"
+ },
+ {
+  "start": 682.079,
+  "duration": 3.76,
+  "text": "your wish shall be fulfilled. 2027, the"
+ },
+ {
+  "start": 684.399,
+  "duration": 3.12,
+  "text": "genie has escaped the bottle and lives"
+ },
+ {
+  "start": 685.839,
+  "duration": 3.12,
+  "text": "alongside you. It infers your wishes"
+ },
+ {
+  "start": 687.519,
+  "duration": 3.361,
+  "text": "from context and fulfills them before"
+ },
+ {
+  "start": 688.959,
+  "duration": 4.401,
+  "text": "you ask. The most important skill is"
+ },
+ {
+  "start": 690.88,
+  "duration": 3.519,
+  "text": "real-time genie steering. So, is"
+ },
+ {
+  "start": 693.36,
+  "duration": 3.12,
+  "text": "everything different? Did everything"
+ },
+ {
+  "start": 694.399,
+  "duration": 4.161,
+  "text": "change? Not so fast, says Gail Weiner,"
+ },
+ {
+  "start": 696.48,
+  "duration": 3.68,
+  "text": "who wrote, \"I just tried GPT live voice,"
+ },
+ {
+  "start": 698.56,
+  "duration": 3.2,
+  "text": "and the voice itself is gorgeous. The"
+ },
+ {
+  "start": 700.16,
+  "duration": 3.28,
+  "text": "pacing, the warmth, the naturalness is"
+ },
+ {
+  "start": 701.76,
+  "duration": 3.519,
+  "text": "genuinely impressive. It sounds like"
+ },
+ {
+  "start": 703.44,
+  "duration": 3.6,
+  "text": "someone you'd enjoy thinking with. But"
+ },
+ {
+  "start": 705.279,
+  "duration": 3.521,
+  "text": "the voice isn't the product. The"
+ },
+ {
+  "start": 707.04,
+  "duration": 3.2,
+  "text": "thinking is a beautiful voice wrapped"
+ },
+ {
+  "start": 708.8,
+  "duration": 3.12,
+  "text": "around shallow reasoning is just a"
+ },
+ {
+  "start": 710.24,
+  "duration": 3.44,
+  "text": "pretty face with no depth. It's pleasant"
+ },
+ {
+  "start": 711.92,
+  "duration": 3.2,
+  "text": "to look at but doesn't help you build."
+ },
+ {
+  "start": 713.68,
+  "duration": 2.96,
+  "text": "If you're looking for quick answers to"
+ },
+ {
+  "start": 715.12,
+  "duration": 3.279,
+  "text": "questions, it's lovely. If you want to"
+ },
+ {
+  "start": 716.64,
+  "duration": 4.0,
+  "text": "brainstorm and work, it's not great at"
+ },
+ {
+  "start": 718.399,
+  "duration": 4.0,
+  "text": "all. Reinforcing that point is this"
+ },
+ {
+  "start": 720.64,
+  "duration": 3.52,
+  "text": "video from Husk, who showed that while"
+ },
+ {
+  "start": 722.399,
+  "duration": 2.961,
+  "text": "the voice model may have gotten smarter,"
+ },
+ {
+  "start": 724.16,
+  "duration": 2.56,
+  "text": "it still isn't necessarily"
+ },
+ {
+  "start": 725.36,
+  "duration": 2.32,
+  "text": "state-of-the-art when it comes to raw"
+ },
+ {
+  "start": 726.72,
+  "duration": 4.0,
+  "text": "intelligence."
+ },
+ {
+  "start": 727.68,
+  "duration": 5.279,
+  "text": ">> Chat GPT just had a big voice update,"
+ },
+ {
+  "start": 730.72,
+  "duration": 5.919,
+  "text": "and this is supposed to be way smarter"
+ },
+ {
+  "start": 732.959,
+  "duration": 5.68,
+  "text": "now and way more natural. So, let's put"
+ },
+ {
+  "start": 736.639,
+  "duration": 4.561,
+  "text": "that to the test. I have it set to the"
+ },
+ {
+  "start": 738.639,
+  "duration": 4.561,
+  "text": "highest smart setting."
+ },
+ {
+  "start": 741.2,
+  "duration": 5.759,
+  "text": "Um, hey, can you tell me how many E's"
+ },
+ {
+  "start": 743.2,
+  "duration": 7.68,
+  "text": "are in the number 17?"
+ },
+ {
+  "start": 746.959,
+  "duration": 6.0,
+  "text": ">> Two E. One and seven and one in."
+ },
+ {
+  "start": 750.88,
+  "duration": 4.079,
+  "text": ">> And you're really smart, right?"
+ },
+ {
+  "start": 752.959,
+  "duration": 3.921,
+  "text": ">> Yeah. Two E and 17."
+ },
+ {
+  "start": 754.959,
+  "duration": 7.68,
+  "text": ">> And you're sure about that?"
+ },
+ {
+  "start": 756.88,
+  "duration": 9.36,
+  "text": ">> Absolutely. S E V E N T E N."
+ },
+ {
+  "start": 762.639,
+  "duration": 4.88,
+  "text": ">> That is too. That's right."
+ },
+ {
+  "start": 766.24,
+  "duration": 2.719,
+  "text": "Exactly."
+ },
+ {
+  "start": 767.519,
+  "duration": 3.281,
+  "text": ">> Now, this is obviously meant to be a bit"
+ },
+ {
+  "start": 768.959,
+  "duration": 3.761,
+  "text": "of a meme, and the OpenAI folks took it"
+ },
+ {
+  "start": 770.8,
+  "duration": 3.68,
+  "text": "in stride with Adleti saying, \"Bro, you"
+ },
+ {
+  "start": 772.72,
+  "duration": 3.28,
+  "text": "didn't even give us a day. JK, we love"
+ },
+ {
+  "start": 774.48,
+  "duration": 2.96,
+  "text": "your videos.\" But I think that the"
+ },
+ {
+  "start": 776.0,
+  "duration": 2.88,
+  "text": "important thing here to note is that"
+ },
+ {
+  "start": 777.44,
+  "duration": 4.959,
+  "text": "when you look at the difference between"
+ },
+ {
+  "start": 778.88,
+  "duration": 5.84,
+  "text": "GPT Realtime 2, the API, and GPT Live 1,"
+ },
+ {
+  "start": 782.399,
+  "duration": 4.0,
+  "text": "and the GPT5 class reasoning models,"
+ },
+ {
+  "start": 784.72,
+  "duration": 4.239,
+  "text": "these are not just model tiers, they're"
+ },
+ {
+  "start": 786.399,
+  "duration": 4.0,
+  "text": "interaction tiers. Realtime 2 is the"
+ },
+ {
+  "start": 788.959,
+  "duration": 4.0,
+  "text": "smarter real-time voice model for"
+ },
+ {
+  "start": 790.399,
+  "duration": 4.56,
+  "text": "developers. GPT live 1 is the chat GPT"
+ },
+ {
+  "start": 792.959,
+  "duration": 4.0,
+  "text": "voice experience. It's a more natural,"
+ },
+ {
+  "start": 794.959,
+  "duration": 4.56,
+  "text": "interruptible, always flowing interface"
+ },
+ {
+  "start": 796.959,
+  "duration": 4.801,
+  "text": "that can call on GPT 5.5 behind the"
+ },
+ {
+  "start": 799.519,
+  "duration": 3.841,
+  "text": "scenes. But if you are looking to do"
+ },
+ {
+  "start": 801.76,
+  "duration": 3.12,
+  "text": "something like it sounds like Gail was,"
+ },
+ {
+  "start": 803.36,
+  "duration": 3.12,
+  "text": "and something that's one of my main use"
+ },
+ {
+  "start": 804.88,
+  "duration": 3.36,
+  "text": "cases, which is extended strategic"
+ },
+ {
+  "start": 806.48,
+  "duration": 3.359,
+  "text": "debate, the benchmark is still going to"
+ },
+ {
+  "start": 808.24,
+  "duration": 4.0,
+  "text": "be the underlying frontier reasoning"
+ },
+ {
+  "start": 809.839,
+  "duration": 4.081,
+  "text": "model, not the voice layer itself. Voice"
+ },
+ {
+  "start": 812.24,
+  "duration": 3.599,
+  "text": "models, in other words, are making a"
+ },
+ {
+  "start": 813.92,
+  "duration": 3.599,
+  "text": "trade-off. They have to listen, decide"
+ },
+ {
+  "start": 815.839,
+  "duration": 3.521,
+  "text": "when to interrupt, respond naturally,"
+ },
+ {
+  "start": 817.519,
+  "duration": 3.281,
+  "text": "avoid awkward silence, and keep latency"
+ },
+ {
+  "start": 819.36,
+  "duration": 3.36,
+  "text": "low. That's a very different"
+ },
+ {
+  "start": 820.8,
+  "duration": 3.36,
+  "text": "optimization target from sit with the"
+ },
+ {
+  "start": 822.72,
+  "duration": 4.239,
+  "text": "problem the user is suggesting and"
+ },
+ {
+  "start": 824.16,
+  "duration": 5.359,
+  "text": "reason deeply. And yet still this is one"
+ },
+ {
+  "start": 826.959,
+  "duration": 4.401,
+  "text": "more indication that overall even if"
+ },
+ {
+  "start": 829.519,
+  "duration": 3.521,
+  "text": "it's not this model exactly the"
+ },
+ {
+  "start": 831.36,
+  "duration": 4.719,
+  "text": "interaction pattern is starting to"
+ },
+ {
+  "start": 833.04,
+  "duration": 4.72,
+  "text": "shift. Sitebringer wrote GPT live points"
+ },
+ {
+  "start": 836.079,
+  "duration": 3.281,
+  "text": "at the moment AI stops feeling like"
+ },
+ {
+  "start": 837.76,
+  "duration": 3.68,
+  "text": "software and starts feeling like a live"
+ },
+ {
+  "start": 839.36,
+  "duration": 4.0,
+  "text": "cognitive presence. Text keeps AI at a"
+ },
+ {
+  "start": 841.44,
+  "duration": 3.6,
+  "text": "distance. Voice collapses that distance."
+ },
+ {
+  "start": 843.36,
+  "duration": 3.12,
+  "text": "Once the model can interrupt naturally,"
+ },
+ {
+  "start": 845.04,
+  "duration": 3.039,
+  "text": "respond emotionally, follow rhythm,"
+ },
+ {
+  "start": 846.48,
+  "duration": 2.799,
+  "text": "catch hesitation, hear uncertainty, and"
+ },
+ {
+  "start": 848.079,
+  "duration": 2.801,
+  "text": "keep pace with human thought. the"
+ },
+ {
+  "start": 849.279,
+  "duration": 3.68,
+  "text": "interaction starts moving from tool use"
+ },
+ {
+  "start": 850.88,
+  "duration": 3.92,
+  "text": "into relationship use. Now, obviously,"
+ },
+ {
+  "start": 852.959,
+  "duration": 3.921,
+  "text": "there are implications here for the sort"
+ },
+ {
+  "start": 854.8,
+  "duration": 3.599,
+  "text": "of companionship dimension of AI, which"
+ },
+ {
+  "start": 856.88,
+  "duration": 3.04,
+  "text": "we'll probably discuss at some point in"
+ },
+ {
+  "start": 858.399,
+  "duration": 3.201,
+  "text": "the future, but I think it would be a"
+ },
+ {
+  "start": 859.92,
+  "duration": 3.76,
+  "text": "mistake to solely view this as a"
+ },
+ {
+  "start": 861.6,
+  "duration": 4.32,
+  "text": "consumer shift. Instead, I think it is"
+ },
+ {
+  "start": 863.68,
+  "duration": 4.159,
+  "text": "part and parcel of a larger shift where"
+ },
+ {
+  "start": 865.92,
+  "duration": 3.52,
+  "text": "as we delegate more and more and more of"
+ },
+ {
+  "start": 867.839,
+  "duration": 3.041,
+  "text": "our work becomes coordination and"
+ },
+ {
+  "start": 869.44,
+  "duration": 3.12,
+  "text": "management, voice might be an"
+ },
+ {
+  "start": 870.88,
+  "duration": 4.399,
+  "text": "increasingly important way that we do"
+ },
+ {
+  "start": 872.56,
+  "duration": 5.6,
+  "text": "that coordination. The next new model I"
+ },
+ {
+  "start": 875.279,
+  "duration": 5.201,
+  "text": "want to discuss is Grock 4.5. And"
+ },
+ {
+  "start": 878.16,
+  "duration": 3.44,
+  "text": "candidly, up until very recently,"
+ },
+ {
+  "start": 880.48,
+  "duration": 3.039,
+  "text": "specifically the announcement of the"
+ },
+ {
+  "start": 881.6,
+  "duration": 3.52,
+  "text": "cursor acquisition, there have been a"
+ },
+ {
+  "start": 883.519,
+  "duration": 4.161,
+  "text": "fair number of people who have thought"
+ },
+ {
+  "start": 885.12,
+  "duration": 4.32,
+  "text": "that we might be seeing Elon moving away"
+ },
+ {
+  "start": 887.68,
+  "duration": 3.599,
+  "text": "from owning the model layer to owning"
+ },
+ {
+  "start": 889.44,
+  "duration": 3.28,
+  "text": "the compute layer. Certainly, at some"
+ },
+ {
+  "start": 891.279,
+  "duration": 3.68,
+  "text": "point, he started to think differently"
+ },
+ {
+  "start": 892.72,
+  "duration": 4.0,
+  "text": "about his competitive advantage. By"
+ },
+ {
+  "start": 894.959,
+  "duration": 3.361,
+  "text": "giving both Anthropic and Google and"
+ },
+ {
+  "start": 896.72,
+  "duration": 3.84,
+  "text": "even some other companies access to"
+ },
+ {
+  "start": 898.32,
+  "duration": 3.759,
+  "text": "Colossus and Colossus 2, Elon was"
+ },
+ {
+  "start": 900.56,
+  "duration": 3.519,
+  "text": "clearly deciding that he was willing to"
+ },
+ {
+  "start": 902.079,
+  "duration": 4.481,
+  "text": "play at that computar type of level as"
+ },
+ {
+  "start": 904.079,
+  "duration": 5.041,
+  "text": "well. And yet, one of the outcomes of"
+ },
+ {
+  "start": 906.56,
+  "duration": 4.48,
+  "text": "Space XAI going public and seeing such a"
+ },
+ {
+  "start": 909.12,
+  "duration": 3.76,
+  "text": "big pop and having success in the public"
+ },
+ {
+  "start": 911.04,
+  "duration": 3.44,
+  "text": "markets is that they have a lot more"
+ },
+ {
+  "start": 912.88,
+  "duration": 3.36,
+  "text": "capital to play with and that capital"
+ },
+ {
+  "start": 914.48,
+  "duration": 3.359,
+  "text": "becomes leverage. The completion of the"
+ },
+ {
+  "start": 916.24,
+  "duration": 5.2,
+  "text": "cursor acquisition was a great case in"
+ },
+ {
+  "start": 917.839,
+  "duration": 6.161,
+  "text": "point. And Gro 4.5 is the first output"
+ },
+ {
+  "start": 921.44,
+  "duration": 5.28,
+  "text": "of the new collaboration between SpaceX"
+ },
+ {
+  "start": 924.0,
+  "duration": 4.399,
+  "text": "and Cursor. SpaceXI called this their"
+ },
+ {
+  "start": 926.72,
+  "duration": 4.32,
+  "text": "first model trained specifically for"
+ },
+ {
+  "start": 928.399,
+  "duration": 4.641,
+  "text": "coding and agents and really emphasizes"
+ },
+ {
+  "start": 931.04,
+  "duration": 4.0,
+  "text": "those engineering type of use cases."
+ },
+ {
+  "start": 933.04,
+  "duration": 3.919,
+  "text": "Grock 4.5, they wrote, was built for"
+ },
+ {
+  "start": 935.04,
+  "duration": 3.2,
+  "text": "real world engineering. It excels in"
+ },
+ {
+  "start": 936.959,
+  "duration": 3.041,
+  "text": "large code bases and handles"
+ },
+ {
+  "start": 938.24,
+  "duration": 3.68,
+  "text": "long-running tasks that span multiple"
+ },
+ {
+  "start": 940.0,
+  "duration": 3.76,
+  "text": "repositories, hundreds of skills, and a"
+ },
+ {
+  "start": 941.92,
+  "duration": 3.279,
+  "text": "variety of tools. Cursor, for their"
+ },
+ {
+  "start": 943.76,
+  "duration": 3.12,
+  "text": "part, tweeted, \"It's our most powerful"
+ },
+ {
+  "start": 945.199,
+  "duration": 3.76,
+  "text": "model yet, and the first we've built for"
+ },
+ {
+  "start": 946.88,
+  "duration": 3.6,
+  "text": "more than software engineering.\" Now,"
+ },
+ {
+  "start": 948.959,
+  "duration": 3.12,
+  "text": "for those worried that cursor is now"
+ },
+ {
+  "start": 950.48,
+  "duration": 3.039,
+  "text": "headed in a different direction, the"
+ },
+ {
+  "start": 952.079,
+  "duration": 3.841,
+  "text": "main Twitter account made sure to point"
+ },
+ {
+  "start": 953.519,
+  "duration": 4.081,
+  "text": "out that Grock 4.5 and Composer are two"
+ },
+ {
+  "start": 955.92,
+  "duration": 3.839,
+  "text": "different model weight classes and that"
+ },
+ {
+  "start": 957.6,
+  "duration": 3.599,
+  "text": "not only will composer 2.5 continue to"
+ },
+ {
+  "start": 959.759,
+  "duration": 3.361,
+  "text": "be remain offered, but they will be"
+ },
+ {
+  "start": 961.199,
+  "duration": 4.56,
+  "text": "releasing new models of that size going"
+ },
+ {
+  "start": 963.12,
+  "duration": 4.24,
+  "text": "forward. Cursor 2.5, you'll remember, is"
+ },
+ {
+  "start": 965.759,
+  "duration": 3.361,
+  "text": "their model that was built on a Kimmy"
+ },
+ {
+  "start": 967.36,
+  "duration": 3.76,
+  "text": "base and postrain using their unique"
+ },
+ {
+  "start": 969.12,
+  "duration": 4.24,
+  "text": "data to get high performance at a lower"
+ },
+ {
+  "start": 971.12,
+  "duration": 4.48,
+  "text": "cost. When it comes to the benchmarks,"
+ },
+ {
+  "start": 973.36,
+  "duration": 5.039,
+  "text": "Grog 4.5 is more or less a match for"
+ },
+ {
+  "start": 975.6,
+  "duration": 5.919,
+  "text": "Opus 48 and GPT55 across terminal bench"
+ },
+ {
+  "start": 978.399,
+  "duration": 5.521,
+  "text": "2.1, Sweepbench Pro and Deep Suite 1.0."
+ },
+ {
+  "start": 981.519,
+  "duration": 4.88,
+  "text": "On the artificial analysis index, Grock"
+ },
+ {
+  "start": 983.92,
+  "duration": 5.44,
+  "text": "4.5 places fourth overall behind Fable"
+ },
+ {
+  "start": 986.399,
+  "duration": 4.8,
+  "text": "5, Opus48 and GPT55. It has particularly"
+ },
+ {
+  "start": 989.36,
+  "duration": 3.839,
+  "text": "strong performance in agentic knowledge"
+ },
+ {
+  "start": 991.199,
+  "duration": 4.401,
+  "text": "work and coding and also ranks fourth in"
+ },
+ {
+  "start": 993.199,
+  "duration": 4.0,
+  "text": "GDP valve. Importantly though, we"
+ },
+ {
+  "start": 995.6,
+  "duration": 3.28,
+  "text": "continue to see that these models are no"
+ },
+ {
+  "start": 997.199,
+  "duration": 3.361,
+  "text": "longer simply competing on the question"
+ },
+ {
+  "start": 998.88,
+  "duration": 3.759,
+  "text": "of raw intelligence, but also on"
+ },
+ {
+  "start": 1000.56,
+  "duration": 5.519,
+  "text": "questions of efficiency. On artificial"
+ },
+ {
+  "start": 1002.639,
+  "duration": 4.721,
+  "text": "analysis's tests, Grock 4.5 was by far"
+ },
+ {
+  "start": 1006.079,
+  "duration": 3.76,
+  "text": "the most costefficient run of the"
+ },
+ {
+  "start": 1007.36,
+  "duration": 4.24,
+  "text": "NearFrontier models. It cost 31 cents"
+ },
+ {
+  "start": 1009.839,
+  "duration": 4.881,
+  "text": "per task across the overall index"
+ },
+ {
+  "start": 1011.6,
+  "duration": 5.599,
+  "text": "benchmark as compared to 180 for Opus 48"
+ },
+ {
+  "start": 1014.72,
+  "duration": 4.08,
+  "text": "and 275 for Fable 5. For some"
+ },
+ {
+  "start": 1017.199,
+  "duration": 4.401,
+  "text": "comparisons, it was slightly cheaper"
+ },
+ {
+  "start": 1018.8,
+  "duration": 4.959,
+  "text": "than GLM 5.2 and Kim K 2.6 six and"
+ },
+ {
+  "start": 1021.6,
+  "duration": 4.479,
+  "text": "slightly more expensive than Haiku 4.5"
+ },
+ {
+  "start": 1023.759,
+  "duration": 4.881,
+  "text": "and Neotron 3 Ultra. Its cost per task"
+ },
+ {
+  "start": 1026.079,
+  "duration": 5.76,
+  "text": "was about a third of GPT55, a fifth of"
+ },
+ {
+  "start": 1028.64,
+  "duration": 4.799,
+  "text": "Opus 48 and 1 nth the cost of Fable 5."
+ },
+ {
+  "start": 1031.839,
+  "duration": 3.521,
+  "text": "Effectively, based on the benchmarks"
+ },
+ {
+  "start": 1033.439,
+  "duration": 3.921,
+  "text": "alone, it is very realistic to say that"
+ },
+ {
+  "start": 1035.36,
+  "duration": 4.64,
+  "text": "the model delivers near Opus performance"
+ },
+ {
+  "start": 1037.36,
+  "duration": 4.559,
+  "text": "for high coup level costs. Meanwhile,"
+ },
+ {
+  "start": 1040.0,
+  "duration": 3.919,
+  "text": "Grock build seems like a big deal as"
+ },
+ {
+  "start": 1041.919,
+  "duration": 4.321,
+  "text": "well. The combination of build and grock"
+ },
+ {
+  "start": 1043.919,
+  "duration": 4.64,
+  "text": "4.5 was the third best harness and model"
+ },
+ {
+  "start": 1046.24,
+  "duration": 4.319,
+  "text": "pairing on AA's coding agent index ahead"
+ },
+ {
+  "start": 1048.559,
+  "duration": 4.641,
+  "text": "of Opus 48 in Claude Code and just"
+ },
+ {
+  "start": 1050.559,
+  "duration": 5.281,
+  "text": "behind GPT55 and Codex and Fable 5 in"
+ },
+ {
+  "start": 1053.2,
+  "duration": 4.64,
+  "text": "Claude Code. Gro 4.5 is also fully"
+ },
+ {
+  "start": 1055.84,
+  "duration": 4.079,
+  "text": "state-of-the-art on automation bench"
+ },
+ {
+  "start": 1057.84,
+  "duration": 3.76,
+  "text": "which is AI's proprietary benchmark that"
+ },
+ {
+  "start": 1059.919,
+  "duration": 3.281,
+  "text": "tests the model's ability to use tools"
+ },
+ {
+  "start": 1061.6,
+  "duration": 3.36,
+  "text": "to complete a range of real world SAS"
+ },
+ {
+  "start": 1063.2,
+  "duration": 3.92,
+  "text": "workflows in simulated app environments"
+ },
+ {
+  "start": 1064.96,
+  "duration": 4.079,
+  "text": "like Excel, Gmail, and Slack."
+ },
+ {
+  "start": 1067.12,
+  "duration": 3.36,
+  "text": "Essentially, it's an agentic computer"
+ },
+ {
+  "start": 1069.039,
+  "duration": 3.441,
+  "text": "style benchmark based in real world"
+ },
+ {
+  "start": 1070.48,
+  "duration": 4.4,
+  "text": "examples. And not only did it get the"
+ },
+ {
+  "start": 1072.48,
+  "duration": 5.52,
+  "text": "top score at 51.4% compared to, for"
+ },
+ {
+  "start": 1074.88,
+  "duration": 5.6,
+  "text": "example, Fable 5's 48.6%, it did that at"
+ },
+ {
+  "start": 1078.0,
+  "duration": 4.559,
+  "text": "34 cents per task compared to 135 for"
+ },
+ {
+  "start": 1080.48,
+  "duration": 4.319,
+  "text": "Fable. It used less than half the tokens"
+ },
+ {
+  "start": 1082.559,
+  "duration": 4.161,
+  "text": "of Opus 48's run and fewer turns while"
+ },
+ {
+  "start": 1084.799,
+  "duration": 4.401,
+  "text": "using tool calls than other Frontier"
+ },
+ {
+  "start": 1086.72,
+  "duration": 4.8,
+  "text": "models. But as we know, benchmarks can"
+ },
+ {
+  "start": 1089.2,
+  "duration": 4.0,
+  "text": "be deceiving. Back in April, YouTuber"
+ },
+ {
+  "start": 1091.52,
+  "duration": 3.6,
+  "text": "and AI entrepreneur Theo wrote, \"I"
+ },
+ {
+  "start": 1093.2,
+  "duration": 3.92,
+  "text": "legitimately believe XAI might have a"
+ },
+ {
+  "start": 1095.12,
+  "duration": 4.16,
+  "text": "crazy comeback.\" And after testing Grock"
+ },
+ {
+  "start": 1097.12,
+  "duration": 4.32,
+  "text": "4.5, he retweeted himself and said,"
+ },
+ {
+  "start": 1099.28,
+  "duration": 3.92,
+  "text": "\"Called it.\" Elon Musk would actually"
+ },
+ {
+  "start": 1101.44,
+  "duration": 4.0,
+  "text": "later on retweet the video that Theo"
+ },
+ {
+  "start": 1103.2,
+  "duration": 3.76,
+  "text": "ended up producing about Grock 4.5 where"
+ },
+ {
+  "start": 1105.44,
+  "duration": 3.92,
+  "text": "he had a lot of positive things to say"
+ },
+ {
+  "start": 1106.96,
+  "duration": 4.32,
+  "text": "about the model. After asking it to do"
+ },
+ {
+  "start": 1109.36,
+  "duration": 4.16,
+  "text": "multiple codebased changes and PRs at"
+ },
+ {
+  "start": 1111.28,
+  "duration": 3.759,
+  "text": "the same time, Theo said, \"This is the"
+ },
+ {
+  "start": 1113.52,
+  "duration": 3.12,
+  "text": "kind of back and forth and complex"
+ },
+ {
+  "start": 1115.039,
+  "duration": 3.281,
+  "text": "multi-target tasks that you could make"
+ },
+ {
+  "start": 1116.64,
+  "duration": 3.2,
+  "text": "most models do if you try to break them"
+ },
+ {
+  "start": 1118.32,
+  "duration": 3.44,
+  "text": "up really carefully and not try to bloat"
+ },
+ {
+  "start": 1119.84,
+  "duration": 3.68,
+  "text": "the context. I had no ergonomic issues"
+ },
+ {
+  "start": 1121.76,
+  "duration": 3.36,
+  "text": "with 4.5 at all. It was actually really"
+ },
+ {
+  "start": 1123.52,
+  "duration": 3.84,
+  "text": "pleasant to work with. Did it find"
+ },
+ {
+  "start": 1125.12,
+  "duration": 5.12,
+  "text": "everything Fable found? No. Was its code"
+ },
+ {
+  "start": 1127.36,
+  "duration": 4.4,
+  "text": "as thorough as GPT 5.6? No. Was it able"
+ },
+ {
+  "start": 1130.24,
+  "duration": 3.28,
+  "text": "to go back and forth with me on really"
+ },
+ {
+  "start": 1131.76,
+  "duration": 3.76,
+  "text": "big, heavy tasks and be pleasant to use"
+ },
+ {
+  "start": 1133.52,
+  "duration": 3.6,
+  "text": "while also being very fast and cheap?"
+ },
+ {
+  "start": 1135.52,
+  "duration": 3.039,
+  "text": "Yeah. In a lot of ways, I see this"
+ },
+ {
+  "start": 1137.12,
+  "duration": 3.2,
+  "text": "model, Theo concludes, as a good"
+ },
+ {
+  "start": 1138.559,
+  "duration": 4.561,
+  "text": "alternative to something like Opus 48,"
+ },
+ {
+  "start": 1140.32,
+  "duration": 4.479,
+  "text": "and it kind of outclasses GLM 5.2. I"
+ },
+ {
+  "start": 1143.12,
+  "duration": 3.52,
+  "text": "have no interest in that model anymore,"
+ },
+ {
+  "start": 1144.799,
+  "duration": 4.401,
+  "text": "aside from it being open weights. But"
+ },
+ {
+  "start": 1146.64,
+  "duration": 4.72,
+  "text": "Grock 4.5 is a weirdly good default code"
+ },
+ {
+  "start": 1149.2,
+  "duration": 4.8,
+  "text": "model. And I think in some ways what you"
+ },
+ {
+  "start": 1151.36,
+  "duration": 4.559,
+  "text": "can view Gro 4.5 as as the first model"
+ },
+ {
+  "start": 1154.0,
+  "duration": 3.6,
+  "text": "that self-consciously understands its"
+ },
+ {
+  "start": 1155.919,
+  "duration": 3.281,
+  "text": "relationship to the state-of-the-art in"
+ },
+ {
+  "start": 1157.6,
+  "duration": 4.079,
+  "text": "the era of more complex model"
+ },
+ {
+  "start": 1159.2,
+  "duration": 4.56,
+  "text": "architectures. Elon Musk who is not one"
+ },
+ {
+  "start": 1161.679,
+  "duration": 4.081,
+  "text": "for underelling even tweeted at one"
+ },
+ {
+  "start": 1163.76,
+  "duration": 4.48,
+  "text": "point in fairness Fable is definitely"
+ },
+ {
+  "start": 1165.76,
+  "duration": 4.56,
+  "text": "better than Grock 4.5 but most tasks"
+ },
+ {
+  "start": 1168.24,
+  "duration": 4.08,
+  "text": "don't require Fable level capability."
+ },
+ {
+  "start": 1170.32,
+  "duration": 4.16,
+  "text": "And indeed, if you look across the early"
+ },
+ {
+  "start": 1172.32,
+  "duration": 4.64,
+  "text": "adopters, what they're excited about is"
+ },
+ {
+  "start": 1174.48,
+  "duration": 4.4,
+  "text": "not 4.5 replacing the top OpenAI or"
+ },
+ {
+  "start": 1176.96,
+  "duration": 3.2,
+  "text": "anthropic model, but using it as the"
+ },
+ {
+  "start": 1178.88,
+  "duration": 3.84,
+  "text": "model for one of the implementation"
+ },
+ {
+  "start": 1180.16,
+  "duration": 4.8,
+  "text": "agents when you have Fable or GPT 5.6"
+ },
+ {
+  "start": 1182.72,
+  "duration": 4.64,
+  "text": "acting as the orchestrator. Now, this"
+ },
+ {
+  "start": 1184.96,
+  "duration": 4.959,
+  "text": "comes at an extremely important moment."
+ },
+ {
+  "start": 1187.36,
+  "duration": 4.559,
+  "text": "Remember, yesterday's entire episode was"
+ },
+ {
+  "start": 1189.919,
+  "duration": 4.0,
+  "text": "about what happens in the unique market"
+ },
+ {
+  "start": 1191.919,
+  "duration": 4.0,
+  "text": "opportunities that arise if China"
+ },
+ {
+  "start": 1193.919,
+  "duration": 3.281,
+  "text": "decides to back off allowing their"
+ },
+ {
+  "start": 1195.919,
+  "duration": 3.201,
+  "text": "companies to continue to push"
+ },
+ {
+  "start": 1197.2,
+  "duration": 4.08,
+  "text": "state-of-the-art openweight models. For"
+ },
+ {
+  "start": 1199.12,
+  "duration": 4.0,
+  "text": "some playing around with 4.5, that"
+ },
+ {
+  "start": 1201.28,
+  "duration": 3.519,
+  "text": "question ceases to matter as they're"
+ },
+ {
+  "start": 1203.12,
+  "duration": 4.08,
+  "text": "just going to default to that instead of"
+ },
+ {
+  "start": 1204.799,
+  "duration": 5.361,
+  "text": "one of those GLM 5.2 or Kimmy K models"
+ },
+ {
+  "start": 1207.2,
+  "duration": 4.56,
+  "text": "anyway. Ston Daddy wrote, \"Not sure"
+ },
+ {
+  "start": 1210.16,
+  "duration": 4.56,
+  "text": "people fully grasp what the launch of"
+ },
+ {
+  "start": 1211.76,
+  "duration": 5.12,
+  "text": "Grock 4.5 means. Enterprises are already"
+ },
+ {
+  "start": 1214.72,
+  "duration": 3.76,
+  "text": "clamping down on token spend. Chinese"
+ },
+ {
+  "start": 1216.88,
+  "duration": 2.64,
+  "text": "open source models offer strong price"
+ },
+ {
+  "start": 1218.48,
+  "duration": 3.04,
+  "text": "and performance and have gained"
+ },
+ {
+  "start": 1219.52,
+  "duration": 3.68,
+  "text": "traction, but many orgs still avoid them"
+ },
+ {
+  "start": 1221.52,
+  "duration": 3.76,
+  "text": "over data sovereignty, compliance,"
+ },
+ {
+  "start": 1223.2,
+  "duration": 4.16,
+  "text": "security, and geopolitical risks. Gro"
+ },
+ {
+  "start": 1225.28,
+  "duration": 3.84,
+  "text": "4.5 delivers better than Chinese open"
+ },
+ {
+  "start": 1227.36,
+  "duration": 4.319,
+  "text": "source performance at near Chinese open"
+ },
+ {
+  "start": 1229.12,
+  "duration": 4.799,
+  "text": "source cost without the stigma of being"
+ },
+ {
+  "start": 1231.679,
+  "duration": 4.24,
+  "text": "Chinese open source westernbuilt and"
+ },
+ {
+  "start": 1233.919,
+  "duration": 4.24,
+  "text": "enterprise friendly. They are about to"
+ },
+ {
+  "start": 1235.919,
+  "duration": 4.721,
+  "text": "suck the oxygen out of the room. And as"
+ },
+ {
+  "start": 1238.159,
+  "duration": 4.721,
+  "text": "Ston points out, oh and surprise, cursor"
+ },
+ {
+  "start": 1240.64,
+  "duration": 5.2,
+  "text": "is already in enterprises. That Trojan"
+ },
+ {
+  "start": 1242.88,
+  "duration": 4.32,
+  "text": "horse already got Croc through the door."
+ },
+ {
+  "start": 1245.84,
+  "duration": 3.44,
+  "text": "Now because we are back to being"
+ },
+ {
+  "start": 1247.2,
+  "duration": 5.359,
+  "text": "absolutely spoiled with new models, we"
+ },
+ {
+  "start": 1249.28,
+  "duration": 5.279,
+  "text": "also this week got Cognition Sui 1.7."
+ },
+ {
+  "start": 1252.559,
+  "duration": 3.841,
+  "text": "Now, this is closer to Cursor's Composer"
+ },
+ {
+  "start": 1254.559,
+  "duration": 4.641,
+  "text": "model. Like Composer, it's built on a"
+ },
+ {
+  "start": 1256.4,
+  "duration": 4.399,
+  "text": "Kimmy base, in this case, Kimmy K 2.7."
+ },
+ {
+  "start": 1259.2,
+  "duration": 4.24,
+  "text": "They point out that it's slightly better"
+ },
+ {
+  "start": 1260.799,
+  "duration": 4.561,
+  "text": "than GLM 5.2 and Composer 2.5 on the"
+ },
+ {
+  "start": 1263.44,
+  "duration": 3.68,
+  "text": "standard benchmarks and almost as good"
+ },
+ {
+  "start": 1265.36,
+  "duration": 3.28,
+  "text": "as Frontier models, but costs only"
+ },
+ {
+  "start": 1267.12,
+  "duration": 4.16,
+  "text": "around half to a third as much as those"
+ },
+ {
+  "start": 1268.64,
+  "duration": 4.159,
+  "text": "Frontier models for the same tasks. Now,"
+ },
+ {
+  "start": 1271.28,
+  "duration": 3.68,
+  "text": "not as many people have had a chance to"
+ },
+ {
+  "start": 1272.799,
+  "duration": 3.521,
+  "text": "play around with SU 1.7 yet, so it's"
+ },
+ {
+  "start": 1274.96,
+  "duration": 2.8,
+  "text": "hard to get too many first impressions"
+ },
+ {
+  "start": 1276.32,
+  "duration": 2.88,
+  "text": "of its actual performance in the real"
+ },
+ {
+  "start": 1277.76,
+  "duration": 2.399,
+  "text": "world. There were two things that I"
+ },
+ {
+  "start": 1279.2,
+  "duration": 2.479,
+  "text": "thought were interesting though about"
+ },
+ {
+  "start": 1280.159,
+  "duration": 3.041,
+  "text": "the way that the cognition folks were"
+ },
+ {
+  "start": 1281.679,
+  "duration": 3.36,
+  "text": "talking about it. First is the"
+ },
+ {
+  "start": 1283.2,
+  "duration": 4.08,
+  "text": "implications for the state of research."
+ },
+ {
+  "start": 1285.039,
+  "duration": 4.081,
+  "text": "Cognition founder Silus Albertie wrote,"
+ },
+ {
+  "start": 1287.28,
+  "duration": 3.12,
+  "text": "\"Recently the industry chatter moved"
+ },
+ {
+  "start": 1289.12,
+  "duration": 3.28,
+  "text": "from reinforcement learning to"
+ },
+ {
+  "start": 1290.4,
+  "duration": 3.36,
+  "text": "pre-training and mid-training. RL is"
+ },
+ {
+  "start": 1292.4,
+  "duration": 2.88,
+  "text": "supposed to get diminishing returns"
+ },
+ {
+  "start": 1293.76,
+  "duration": 3.52,
+  "text": "because it hits a ceiling that depends"
+ },
+ {
+  "start": 1295.28,
+  "duration": 4.08,
+  "text": "on the quality of your pre-train. While"
+ },
+ {
+  "start": 1297.28,
+  "duration": 3.759,
+  "text": "that is certainly true, it's an open"
+ },
+ {
+  "start": 1299.36,
+  "duration": 4.0,
+  "text": "question how high the ceiling actually"
+ },
+ {
+  "start": 1301.039,
+  "duration": 4.481,
+  "text": "is. We wanted to push this to the limit."
+ },
+ {
+  "start": 1303.36,
+  "duration": 4.4,
+  "text": "For Kimmy K 2.7, which has already been"
+ },
+ {
+  "start": 1305.52,
+  "duration": 3.68,
+  "text": "heavily post-trained multiple times, it"
+ },
+ {
+  "start": 1307.76,
+  "duration": 3.44,
+  "text": "initially seemed like there wasn't much"
+ },
+ {
+  "start": 1309.2,
+  "duration": 3.76,
+  "text": "to squeeze. We dealt with fast entropy"
+ },
+ {
+  "start": 1311.2,
+  "duration": 3.44,
+  "text": "collapse and many other issues. However,"
+ },
+ {
+  "start": 1312.96,
+  "duration": 3.52,
+  "text": "we use this as a challenge to tune our"
+ },
+ {
+  "start": 1314.64,
+  "duration": 3.279,
+  "text": "algorithm and data. At some point, it"
+ },
+ {
+  "start": 1316.48,
+  "duration": 3.84,
+  "text": "suddenly started working and the model"
+ },
+ {
+  "start": 1317.919,
+  "duration": 4.24,
+  "text": "Suite 1.7 magically improved by much"
+ },
+ {
+  "start": 1320.32,
+  "duration": 3.44,
+  "text": "more than we expected. It also seems"
+ },
+ {
+  "start": 1322.159,
+  "duration": 3.041,
+  "text": "like the ceiling isn't obviously hit"
+ },
+ {
+  "start": 1323.76,
+  "duration": 3.279,
+  "text": "yet, so we're excited to see how much"
+ },
+ {
+  "start": 1325.2,
+  "duration": 3.92,
+  "text": "further we can push it. Cognition's Jeff"
+ },
+ {
+  "start": 1327.039,
+  "duration": 3.361,
+  "text": "Wang wrote, \"We've made some awesome"
+ },
+ {
+  "start": 1329.12,
+  "duration": 2.96,
+  "text": "breakthroughs in research such as"
+ },
+ {
+  "start": 1330.4,
+  "duration": 3.6,
+  "text": "multi-reion training, self-compaction,"
+ },
+ {
+  "start": 1332.08,
+  "duration": 4.079,
+  "text": "and efficiency, as well as changing the"
+ },
+ {
+  "start": 1334.0,
+  "duration": 4.4,
+  "text": "overall behavior compared to Kimk 2.7,"
+ },
+ {
+  "start": 1336.159,
+  "duration": 3.841,
+  "text": "the base model.\" And Ben Dixon points"
+ },
+ {
+  "start": 1338.4,
+  "duration": 3.2,
+  "text": "out that this is a broader pattern."
+ },
+ {
+  "start": 1340.0,
+  "duration": 3.679,
+  "text": "Application layer companies, he writes,"
+ },
+ {
+  "start": 1341.6,
+  "duration": 3.92,
+  "text": "are using their unique access to UX data"
+ },
+ {
+  "start": 1343.679,
+  "duration": 3.441,
+  "text": "to fine-tune specialized models that"
+ },
+ {
+  "start": 1345.52,
+  "duration": 3.36,
+  "text": "perform specific tasks on par with"
+ },
+ {
+  "start": 1347.12,
+  "duration": 3.439,
+  "text": "closed frontier AI models at a higher"
+ },
+ {
+  "start": 1348.88,
+  "duration": 3.679,
+  "text": "speed and at a fraction of the price."
+ },
+ {
+  "start": 1350.559,
+  "duration": 3.521,
+  "text": "Cognition SU 1.7 is the second"
+ },
+ {
+  "start": 1352.559,
+  "duration": 3.6,
+  "text": "application layer model that is showing"
+ },
+ {
+  "start": 1354.08,
+  "duration": 4.079,
+  "text": "promising results. Cursor's composer"
+ },
+ {
+  "start": 1356.159,
+  "duration": 3.361,
+  "text": "series follow the same pattern. Closed"
+ },
+ {
+  "start": 1358.159,
+  "duration": 3.441,
+  "text": "frontier AI models are good for"
+ },
+ {
+  "start": 1359.52,
+  "duration": 4.399,
+  "text": "exploration. Open LLMs are the engine"
+ },
+ {
+  "start": 1361.6,
+  "duration": 3.6,
+  "text": "for scale and production. Now, this is a"
+ },
+ {
+  "start": 1363.919,
+  "duration": 2.561,
+  "text": "pattern we're seeing more and more and"
+ },
+ {
+  "start": 1365.2,
+  "duration": 3.28,
+  "text": "that we've been paying attention closely"
+ },
+ {
+  "start": 1366.48,
+  "duration": 5.6,
+  "text": "to. Now, the one other thing that I"
+ },
+ {
+  "start": 1368.48,
+  "duration": 6.72,
+  "text": "wanted to flag around 1.7 is its speed."
+ },
+ {
+  "start": 1372.08,
+  "duration": 5.2,
+  "text": "JP Xenoware writes, \"Just tried SWE 1.7"
+ },
+ {
+  "start": 1375.2,
+  "duration": 4.16,
+  "text": "Lightning and holy crap, it's fast. My"
+ },
+ {
+  "start": 1377.28,
+  "duration": 3.759,
+  "text": "eyes can't keep up.\" Now, what makes"
+ },
+ {
+  "start": 1379.36,
+  "duration": 3.439,
+  "text": "this more than just a novelty is that"
+ },
+ {
+  "start": 1381.039,
+  "duration": 3.921,
+  "text": "this actually has implications once"
+ },
+ {
+  "start": 1382.799,
+  "duration": 5.041,
+  "text": "again for the interaction patterns. Last"
+ },
+ {
+  "start": 1384.96,
+  "duration": 4.64,
+  "text": "year, Shawn Wang aka Swix had a great"
+ },
+ {
+  "start": 1387.84,
+  "duration": 3.839,
+  "text": "graph of one of the challenges for AI"
+ },
+ {
+  "start": 1389.6,
+  "duration": 4.4,
+  "text": "enabled coding where things worked great"
+ },
+ {
+  "start": 1391.679,
+  "duration": 3.761,
+  "text": "if you were either a dealing with tasks"
+ },
+ {
+  "start": 1394.0,
+  "duration": 3.44,
+  "text": "that needed enough interaction that you"
+ },
+ {
+  "start": 1395.44,
+  "duration": 3.76,
+  "text": "were there and engaged or b on the other"
+ },
+ {
+  "start": 1397.44,
+  "duration": 2.88,
+  "text": "end of the spectrum dealing with tasks"
+ },
+ {
+  "start": 1399.2,
+  "duration": 2.8,
+  "text": "that were complex enough that you could"
+ },
+ {
+  "start": 1400.32,
+  "duration": 3.359,
+  "text": "just delegate them entirely and go away"
+ },
+ {
+  "start": 1402.0,
+  "duration": 3.12,
+  "text": "for a while. But then in the middle"
+ },
+ {
+  "start": 1403.679,
+  "duration": 3.201,
+  "text": "there were real challenges because there"
+ },
+ {
+  "start": 1405.12,
+  "duration": 3.679,
+  "text": "was too much latency to be actually real"
+ },
+ {
+  "start": 1406.88,
+  "duration": 4.48,
+  "text": "time but not enough to go away for long"
+ },
+ {
+  "start": 1408.799,
+  "duration": 4.721,
+  "text": "making it really uncomfortable. 1.7"
+ },
+ {
+  "start": 1411.36,
+  "duration": 3.92,
+  "text": "seems to be playing in that space, but"
+ },
+ {
+  "start": 1413.52,
+  "duration": 3.76,
+  "text": "almost challenging the problems based on"
+ },
+ {
+  "start": 1415.28,
+  "duration": 4.16,
+  "text": "its speed. Cognition's nater dabbbit"
+ },
+ {
+  "start": 1417.28,
+  "duration": 4.48,
+  "text": "wrote, \"Building this way is a new"
+ },
+ {
+  "start": 1419.44,
+  "duration": 4.4,
+  "text": "category of DX, a task that used to"
+ },
+ {
+  "start": 1421.76,
+  "duration": 3.919,
+  "text": "justify walking away finishes before"
+ },
+ {
+  "start": 1423.84,
+  "duration": 3.92,
+  "text": "you've mentally moved on. There's a"
+ },
+ {
+  "start": 1425.679,
+  "duration": 4.161,
+  "text": "weird middle mode now. It's technically"
+ },
+ {
+  "start": 1427.76,
+  "duration": 3.6,
+  "text": "async, but fast enough that you just"
+ },
+ {
+  "start": 1429.84,
+  "duration": 2.8,
+  "text": "watch.\" This is something that I think"
+ },
+ {
+  "start": 1431.36,
+  "duration": 3.04,
+  "text": "is going to be super interesting to"
+ },
+ {
+  "start": 1432.64,
+  "duration": 3.36,
+  "text": "watch and actually gets at one part of"
+ },
+ {
+  "start": 1434.4,
+  "duration": 3.2,
+  "text": "the conversation of the final model that"
+ },
+ {
+  "start": 1436.0,
+  "duration": 4.08,
+  "text": "we're going to discuss today, which is"
+ },
+ {
+  "start": 1437.6,
+  "duration": 5.439,
+  "text": "GPT 5.6."
+ },
+ {
+  "start": 1440.08,
+  "duration": 4.8,
+  "text": "The early reviews of GPT 5.6 continue to"
+ },
+ {
+  "start": 1443.039,
+  "duration": 3.76,
+  "text": "come in, and we're starting to get more"
+ },
+ {
+  "start": 1444.88,
+  "duration": 3.2,
+  "text": "details than just it was good or not."
+ },
+ {
+  "start": 1446.799,
+  "duration": 3.201,
+  "text": "Specifically, we're starting to get a"
+ },
+ {
+  "start": 1448.08,
+  "duration": 3.92,
+  "text": "lot more about where it excels and how"
+ },
+ {
+  "start": 1450.0,
+  "duration": 4.24,
+  "text": "it compares to Fable 5 and how we're"
+ },
+ {
+  "start": 1452.0,
+  "duration": 4.64,
+  "text": "likely to use it as part of our new more"
+ },
+ {
+  "start": 1454.24,
+  "duration": 6.16,
+  "text": "complex model architectures."
+ },
+ {
+  "start": 1456.64,
+  "duration": 5.6,
+  "text": "How II's Clairvo writes things GPT 5.6"
+ },
+ {
+  "start": 1460.4,
+  "duration": 4.24,
+  "text": "Soul is significantly better at than"
+ },
+ {
+  "start": 1462.24,
+  "duration": 4.24,
+  "text": "other models. browser use, writing like"
+ },
+ {
+  "start": 1464.64,
+  "duration": 3.76,
+  "text": "a human, communicating to a human,"
+ },
+ {
+  "start": 1466.48,
+  "duration": 4.079,
+  "text": "shipping usable product, not just code,"
+ },
+ {
+  "start": 1468.4,
+  "duration": 4.159,
+  "text": "video editing, the dark horse use case,"
+ },
+ {
+  "start": 1470.559,
+  "duration": 4.72,
+  "text": "front-end design, though it loves forest"
+ },
+ {
+  "start": 1472.559,
+  "duration": 4.24,
+  "text": "green, and productive loops. Dan Shipper"
+ },
+ {
+  "start": 1475.279,
+  "duration": 3.921,
+  "text": "from every who are some of the most"
+ },
+ {
+  "start": 1476.799,
+  "duration": 4.961,
+  "text": "conscientious writing testers in AI,"
+ },
+ {
+  "start": 1479.2,
+  "duration": 4.4,
+  "text": "also agrees that GPT 5.6 is, in his"
+ },
+ {
+  "start": 1481.76,
+  "duration": 4.32,
+  "text": "words, a much better writer than Fable."
+ },
+ {
+  "start": 1483.6,
+  "duration": 4.24,
+  "text": "Dan continues, \"It consistently oneshots"
+ },
+ {
+  "start": 1486.08,
+  "duration": 3.68,
+  "text": "marketing emails that every previous"
+ },
+ {
+  "start": 1487.84,
+  "duration": 3.6,
+  "text": "model would fail at. Fable is too"
+ },
+ {
+  "start": 1489.76,
+  "duration": 3.84,
+  "text": "verbose and liable to fall into using"
+ },
+ {
+  "start": 1491.44,
+  "duration": 4.16,
+  "text": "sentences in its own private language."
+ },
+ {
+  "start": 1493.6,
+  "duration": 3.52,
+  "text": "Lawyer Prince found that 5.6 was very"
+ },
+ {
+  "start": 1495.6,
+  "duration": 4.079,
+  "text": "good at work that related to his job as"
+ },
+ {
+  "start": 1497.12,
+  "duration": 4.48,
+  "text": "a lawyer. He wrote, \"It can replace an"
+ },
+ {
+  "start": 1499.679,
+  "duration": 4.081,
+  "text": "associate of any level in the specific"
+ },
+ {
+  "start": 1501.6,
+  "duration": 3.6,
+  "text": "task of legal research, provided that"
+ },
+ {
+  "start": 1503.76,
+  "duration": 2.799,
+  "text": "the entirety of relevant legal"
+ },
+ {
+  "start": 1505.2,
+  "duration": 3.92,
+  "text": "authorities are publicly available"
+ },
+ {
+  "start": 1506.559,
+  "duration": 4.081,
+  "text": "online. This is a very narrow claim, but"
+ },
+ {
+  "start": 1509.12,
+  "duration": 3.679,
+  "text": "this kind of legal research is a very"
+ },
+ {
+  "start": 1510.64,
+  "duration": 4.32,
+  "text": "important part of my work as a lawyer.\""
+ },
+ {
+  "start": 1512.799,
+  "duration": 3.921,
+  "text": "Now, part of why Prince prefers OpenAI"
+ },
+ {
+  "start": 1514.96,
+  "duration": 3.68,
+  "text": "models to entropic models for this type"
+ },
+ {
+  "start": 1516.72,
+  "duration": 4.16,
+  "text": "of legal work is that one of his key"
+ },
+ {
+  "start": 1518.64,
+  "duration": 3.84,
+  "text": "tests is around search. He tests a"
+ },
+ {
+  "start": 1520.88,
+  "duration": 3.279,
+  "text": "model's needle in the haststack search"
+ },
+ {
+  "start": 1522.48,
+  "duration": 2.72,
+  "text": "capabilities, which are obviously very"
+ },
+ {
+  "start": 1524.159,
+  "duration": 2.481,
+  "text": "important when you're dealing with the"
+ },
+ {
+  "start": 1525.2,
+  "duration": 3.76,
+  "text": "legal field, which needs extremely"
+ },
+ {
+  "start": 1526.64,
+  "duration": 4.32,
+  "text": "precise information. Now, in terms of"
+ },
+ {
+  "start": 1528.96,
+  "duration": 4.319,
+  "text": "overall comparisons, people were really"
+ },
+ {
+  "start": 1530.96,
+  "duration": 5.44,
+  "text": "plumbing for analogies. Dan Shipper"
+ },
+ {
+  "start": 1533.279,
+  "duration": 5.361,
+  "text": "again writes, \"GPD 5.6 is like a"
+ },
+ {
+  "start": 1536.4,
+  "duration": 3.68,
+  "text": "Porsche. Fable is like a warp drive.\" He"
+ },
+ {
+  "start": 1538.64,
+  "duration": 2.88,
+  "text": "said that after testing 5.6 ICS"
+ },
+ {
+  "start": 1540.08,
+  "duration": 2.88,
+  "text": "internally for about a month that the"
+ },
+ {
+  "start": 1541.52,
+  "duration": 2.8,
+  "text": "team at every decided that it was the"
+ },
+ {
+  "start": 1542.96,
+  "duration": 2.4,
+  "text": "best combination of power, speed, and"
+ },
+ {
+  "start": 1544.32,
+  "duration": 3.12,
+  "text": "performance for your day-to-day"
+ },
+ {
+  "start": 1545.36,
+  "duration": 3.679,
+  "text": "knowledge, work, and coding. Fable is a"
+ },
+ {
+  "start": 1547.44,
+  "duration": 3.68,
+  "text": "different beast, Dan writes. If you need"
+ },
+ {
+  "start": 1549.039,
+  "duration": 3.52,
+  "text": "to get across the galaxy, use Fable. If"
+ },
+ {
+  "start": 1551.12,
+  "duration": 3.039,
+  "text": "you need to get around town using the"
+ },
+ {
+  "start": 1552.559,
+  "duration": 3.201,
+  "text": "best available tool for the job, use"
+ },
+ {
+  "start": 1554.159,
+  "duration": 3.841,
+  "text": "5.6."
+ },
+ {
+  "start": 1555.76,
+  "duration": 4.399,
+  "text": "In fact, Dan wrote, when they lost"
+ },
+ {
+  "start": 1558.0,
+  "duration": 3.84,
+  "text": "access to 5.6 as part of the US"
+ },
+ {
+  "start": 1560.159,
+  "duration": 3.201,
+  "text": "government's Fable delay, he said he"
+ },
+ {
+  "start": 1561.84,
+  "duration": 2.959,
+  "text": "felt like he was back in the Stone Age."
+ },
+ {
+  "start": 1563.36,
+  "duration": 3.679,
+  "text": "Another member of his team, Austin"
+ },
+ {
+  "start": 1564.799,
+  "duration": 4.24,
+  "text": "Tedesco, said that going back to 5'5"
+ },
+ {
+  "start": 1567.039,
+  "duration": 3.76,
+  "text": "after having access to 5'6 felt like,"
+ },
+ {
+  "start": 1569.039,
+  "duration": 3.201,
+  "text": "quote, \"Trying to shoot a basketball"
+ },
+ {
+  "start": 1570.799,
+  "duration": 3.36,
+  "text": "that's twice as heavy as the one I'm"
+ },
+ {
+  "start": 1572.24,
+  "duration": 3.039,
+  "text": "used to using.\" Going into some more"
+ },
+ {
+  "start": 1574.159,
+  "duration": 2.481,
+  "text": "details, there were a few things that"
+ },
+ {
+  "start": 1575.279,
+  "duration": 2.64,
+  "text": "every found which I think are things"
+ },
+ {
+  "start": 1576.64,
+  "duration": 3.519,
+  "text": "that you should look out for as you"
+ },
+ {
+  "start": 1577.919,
+  "duration": 4.401,
+  "text": "start to test 5.6. The first they said"
+ },
+ {
+  "start": 1580.159,
+  "duration": 3.681,
+  "text": "is that speed changes the model. Soul,"
+ },
+ {
+  "start": 1582.32,
+  "duration": 3.52,
+  "text": "they wrote, is the fastest model we"
+ },
+ {
+  "start": 1583.84,
+  "duration": 4.319,
+  "text": "trust as a daily driver. A revision"
+ },
+ {
+  "start": 1585.84,
+  "duration": 4.079,
+  "text": "costs, which makes it easier to discard"
+ },
+ {
+  "start": 1588.159,
+  "duration": 3.201,
+  "text": "a weak draft, try a different direction,"
+ },
+ {
+  "start": 1589.919,
+  "duration": 3.281,
+  "text": "and keep moving while the problem is"
+ },
+ {
+  "start": 1591.36,
+  "duration": 3.28,
+  "text": "still in your head. So here we have a"
+ },
+ {
+  "start": 1593.2,
+  "duration": 3.2,
+  "text": "very different example than the coding"
+ },
+ {
+  "start": 1594.64,
+  "duration": 4.32,
+  "text": "use case that nater was describing with"
+ },
+ {
+  "start": 1596.4,
+  "duration": 4.56,
+  "text": "sui 1.7 but still an area where the"
+ },
+ {
+  "start": 1598.96,
+  "duration": 3.599,
+  "text": "increase in speed actually changes the"
+ },
+ {
+  "start": 1600.96,
+  "duration": 3.36,
+  "text": "way that people think about the work."
+ },
+ {
+  "start": 1602.559,
+  "duration": 3.761,
+  "text": "Second they found that soul finds the"
+ },
+ {
+  "start": 1604.32,
+  "duration": 3.839,
+  "text": "context it needs gives soul an outcome"
+ },
+ {
+  "start": 1606.32,
+  "duration": 3.2,
+  "text": "and access to the project. It reads the"
+ },
+ {
+  "start": 1608.159,
+  "duration": 3.281,
+  "text": "relevant files follows standing"
+ },
+ {
+  "start": 1609.52,
+  "duration": 3.92,
+  "text": "instructions asks useful questions and"
+ },
+ {
+  "start": 1611.44,
+  "duration": 3.599,
+  "text": "keeps those choices through long runs."
+ },
+ {
+  "start": 1613.44,
+  "duration": 3.68,
+  "text": "However this does come with a challenge"
+ },
+ {
+  "start": 1615.039,
+  "duration": 3.601,
+  "text": "if there are stale instructions. Rules"
+ },
+ {
+  "start": 1617.12,
+  "duration": 3.84,
+  "text": "written around older models can make it"
+ },
+ {
+  "start": 1618.64,
+  "duration": 4.56,
+  "text": "worse. Their final note was that it"
+ },
+ {
+  "start": 1620.96,
+  "duration": 3.44,
+  "text": "works best when you plan to steer. Soul,"
+ },
+ {
+  "start": 1623.2,
+  "duration": 2.88,
+  "text": "they write, gets better when the"
+ },
+ {
+  "start": 1624.4,
+  "duration": 3.279,
+  "text": "surrounding system supplies sources,"
+ },
+ {
+  "start": 1626.08,
+  "duration": 3.599,
+  "text": "examples, style, guidance, and a clear"
+ },
+ {
+  "start": 1627.679,
+  "duration": 3.921,
+  "text": "outcome. Review its choices and redirect"
+ },
+ {
+  "start": 1629.679,
+  "duration": 3.521,
+  "text": "it as the work changes. Ultimately, they"
+ },
+ {
+  "start": 1631.6,
+  "duration": 3.36,
+  "text": "said we use Fable for the loosest,"
+ },
+ {
+  "start": 1633.2,
+  "duration": 3.359,
+  "text": "longest assignments, and Opus for when"
+ },
+ {
+  "start": 1634.96,
+  "duration": 3.199,
+  "text": "we want to see the work more clearly."
+ },
+ {
+  "start": 1636.559,
+  "duration": 3.841,
+  "text": "Soul is what we want beside us for the"
+ },
+ {
+  "start": 1638.159,
+  "duration": 3.921,
+  "text": "work that fills the day. This gets to"
+ },
+ {
+  "start": 1640.4,
+  "duration": 3.36,
+  "text": "what has been the most popular review so"
+ },
+ {
+  "start": 1642.08,
+  "duration": 4.64,
+  "text": "far, which came from Arena AI's Peter"
+ },
+ {
+  "start": 1643.76,
+  "duration": 5.279,
+  "text": "Gostev, who wrote, \"Fable 5 and GPT56"
+ },
+ {
+  "start": 1646.72,
+  "duration": 4.64,
+  "text": "Soul are not easy models to compare. My"
+ },
+ {
+  "start": 1649.039,
+  "duration": 3.76,
+  "text": "overall feel is that Fable is a wise owl"
+ },
+ {
+  "start": 1651.36,
+  "duration": 3.919,
+  "text": "who is very thoughtful and very well"
+ },
+ {
+  "start": 1652.799,
+  "duration": 4.0,
+  "text": "spoken. GPT 5.6 Soul is like a"
+ },
+ {
+  "start": 1655.279,
+  "duration": 3.121,
+  "text": "Rottweiler who will grab the problem by"
+ },
+ {
+  "start": 1656.799,
+  "duration": 3.521,
+  "text": "the throat and not let it go until it's"
+ },
+ {
+  "start": 1658.4,
+  "duration": 4.08,
+  "text": "done. In other words, Fable is a"
+ },
+ {
+  "start": 1660.32,
+  "duration": 3.76,
+  "text": "fundamentally smarter model. Even at low"
+ },
+ {
+  "start": 1662.48,
+  "duration": 4.24,
+  "text": "reasoning, it can be very insightful and"
+ },
+ {
+  "start": 1664.08,
+  "duration": 4.079,
+  "text": "writes in a clear, compelling way. GPT56"
+ },
+ {
+  "start": 1666.72,
+  "duration": 3.12,
+  "text": "Soul, on the other hand, is extremely"
+ },
+ {
+  "start": 1668.159,
+  "duration": 3.041,
+  "text": "diligent. I can give it a list of eight"
+ },
+ {
+  "start": 1669.84,
+  "duration": 3.199,
+  "text": "things to do and you will be sure that"
+ },
+ {
+  "start": 1671.2,
+  "duration": 3.52,
+  "text": "they will be done. He then goes through"
+ },
+ {
+  "start": 1673.039,
+  "duration": 3.36,
+  "text": "a bunch of examples around how the"
+ },
+ {
+  "start": 1674.72,
+  "duration": 4.319,
+  "text": "different models work for video editing,"
+ },
+ {
+  "start": 1676.399,
+  "duration": 4.721,
+  "text": "computer use, research, writing, UI, and"
+ },
+ {
+  "start": 1679.039,
+  "duration": 4.64,
+  "text": "app building, but concludes, \"So, is"
+ },
+ {
+  "start": 1681.12,
+  "duration": 4.559,
+  "text": "GPT56 soul better than Fable? On pure"
+ },
+ {
+  "start": 1683.679,
+  "duration": 3.841,
+  "text": "intelligence? No. But man, I missed it"
+ },
+ {
+  "start": 1685.679,
+  "duration": 3.521,
+  "text": "when I wanted to get things done. It is"
+ },
+ {
+  "start": 1687.52,
+  "duration": 3.68,
+  "text": "an insanely capable workhorse that you"
+ },
+ {
+  "start": 1689.2,
+  "duration": 3.839,
+  "text": "can give any task to and just expect it"
+ },
+ {
+  "start": 1691.2,
+  "duration": 3.52,
+  "text": "to be done. No lectures or you are"
+ },
+ {
+  "start": 1693.039,
+  "duration": 3.36,
+  "text": "absolutely rightisms. Nothing is beneath"
+ },
+ {
+  "start": 1694.72,
+  "duration": 3.839,
+  "text": "it. If it takes 2 days to do some dirty"
+ },
+ {
+  "start": 1696.399,
+  "duration": 3.76,
+  "text": "work, it will do it.\" He concludes, \"It"
+ },
+ {
+  "start": 1698.559,
+  "duration": 2.961,
+  "text": "feels like the first time in a while"
+ },
+ {
+  "start": 1700.159,
+  "duration": 3.201,
+  "text": "when we have quite different types of"
+ },
+ {
+  "start": 1701.52,
+  "duration": 3.6,
+  "text": "frontier intelligences that benchmark"
+ },
+ {
+  "start": 1703.36,
+  "duration": 3.439,
+  "text": "sort of similarly but feel very"
+ },
+ {
+  "start": 1705.12,
+  "duration": 3.36,
+  "text": "different. If you can, you would"
+ },
+ {
+  "start": 1706.799,
+  "duration": 3.36,
+  "text": "probably be better off using both and"
+ },
+ {
+  "start": 1708.48,
+  "duration": 4.72,
+  "text": "iteratively finding what you'd use Fable"
+ },
+ {
+  "start": 1710.159,
+  "duration": 5.361,
+  "text": "or GPT56 soul for.\" And indeed, this is"
+ },
+ {
+  "start": 1713.2,
+  "duration": 3.839,
+  "text": "Dean Ball's takeaway as well. He writes,"
+ },
+ {
+  "start": 1715.52,
+  "duration": 3.6,
+  "text": "\"I can't remember a time when the"
+ },
+ {
+  "start": 1717.039,
+  "duration": 3.921,
+  "text": "leading models were a so decidedly ahead"
+ },
+ {
+  "start": 1719.12,
+  "duration": 3.76,
+  "text": "of everything else and b so distinct"
+ },
+ {
+  "start": 1720.96,
+  "duration": 3.92,
+  "text": "from one another.\" Ethan Mollik"
+ },
+ {
+  "start": 1722.88,
+  "duration": 3.919,
+  "text": "reinforces that first point, writing,"
+ },
+ {
+  "start": 1724.88,
+  "duration": 3.44,
+  "text": "\"My big takeaway is that both Soul and"
+ },
+ {
+  "start": 1726.799,
+  "duration": 3.12,
+  "text": "Fable represent jumps over previous"
+ },
+ {
+  "start": 1728.32,
+  "duration": 3.52,
+  "text": "models and have opened a large gap with"
+ },
+ {
+  "start": 1729.919,
+  "duration": 3.521,
+  "text": "the next best AIs. People will have"
+ },
+ {
+  "start": 1731.84,
+  "duration": 2.8,
+  "text": "preferences for one or the other, but if"
+ },
+ {
+  "start": 1733.44,
+  "duration": 2.959,
+  "text": "you're doing any work where better"
+ },
+ {
+  "start": 1734.64,
+  "duration": 4.96,
+  "text": "intelligence matters, those two models"
+ },
+ {
+  "start": 1736.399,
+  "duration": 4.561,
+  "text": "are your only choices.\" And yet, rumors"
+ },
+ {
+  "start": 1739.6,
+  "duration": 2.88,
+  "text": "suggest that this might not be the case"
+ },
+ {
+  "start": 1740.96,
+  "duration": 3.439,
+  "text": "for long."
+ },
+ {
+  "start": 1742.48,
+  "duration": 3.919,
+  "text": "Leo on Twitter, Syninwave, who has"
+ },
+ {
+  "start": 1744.399,
+  "duration": 4.4,
+  "text": "become one of the leading rumor leakers,"
+ },
+ {
+  "start": 1746.399,
+  "duration": 3.841,
+  "text": "writes that GPT6 is slated to launch in"
+ },
+ {
+  "start": 1748.799,
+  "duration": 3.441,
+  "text": "about a month, which is earlier than"
+ },
+ {
+  "start": 1750.24,
+  "duration": 4.72,
+  "text": "expected, and possibly even later in"
+ },
+ {
+  "start": 1752.24,
+  "duration": 5.12,
+  "text": "July. GPT 5.6, he says, will be based on"
+ },
+ {
+  "start": 1754.96,
+  "duration": 5.36,
+  "text": "a new significantly larger pre-train"
+ },
+ {
+  "start": 1757.36,
+  "duration": 5.28,
+  "text": "versus the 4 trillion 5.5 and 5.6 Spud"
+ },
+ {
+  "start": 1760.32,
+  "duration": 4.479,
+  "text": "base. Leo says, quote, \"There is lots of"
+ },
+ {
+  "start": 1762.64,
+  "duration": 3.68,
+  "text": "excitement at OpenAI over this new base,"
+ },
+ {
+  "start": 1764.799,
+  "duration": 3.281,
+  "text": "which they believe will be much better"
+ },
+ {
+  "start": 1766.32,
+  "duration": 4.0,
+  "text": "able to compete with both Fable 5 and"
+ },
+ {
+  "start": 1768.08,
+  "duration": 4.4,
+  "text": "upcoming 5.1, which is targeting a"
+ },
+ {
+  "start": 1770.32,
+  "duration": 3.68,
+  "text": "similar release window. OpenAI initially"
+ },
+ {
+  "start": 1772.48,
+  "duration": 3.76,
+  "text": "intended to continue with Spud through"
+ },
+ {
+  "start": 1774.0,
+  "duration": 4.72,
+  "text": "GPT6 but decided against it. On the"
+ },
+ {
+  "start": 1776.24,
+  "duration": 4.08,
+  "text": "topic of Fable 5.1, Leo continues, \"It"
+ },
+ {
+  "start": 1778.72,
+  "duration": 3.52,
+  "text": "is in the late stages of the pipeline at"
+ },
+ {
+  "start": 1780.32,
+  "duration": 4.479,
+  "text": "Enthropic and a release is expected in"
+ },
+ {
+  "start": 1782.24,
+  "duration": 3.84,
+  "text": "the coming weeks.\" Andrew Curran, who"
+ },
+ {
+  "start": 1784.799,
+  "duration": 3.36,
+  "text": "has the benefit of not being an"
+ },
+ {
+  "start": 1786.08,
+  "duration": 3.68,
+  "text": "anonymous leaker writes, I have also"
+ },
+ {
+  "start": 1788.159,
+  "duration": 3.841,
+  "text": "heard some of this independently, and I"
+ },
+ {
+  "start": 1789.76,
+  "duration": 4.32,
+  "text": "believe the following to be true. GPT6"
+ },
+ {
+  "start": 1792.0,
+  "duration": 3.919,
+  "text": "is the next release from OpenAI. It's"
+ },
+ {
+  "start": 1794.08,
+  "duration": 3.68,
+  "text": "their true answer to Mythos and it will"
+ },
+ {
+  "start": 1795.919,
+  "duration": 3.281,
+  "text": "arrive much sooner than people expect."
+ },
+ {
+  "start": 1797.76,
+  "duration": 2.96,
+  "text": "Model release cadence has been speeding"
+ },
+ {
+  "start": 1799.2,
+  "duration": 3.68,
+  "text": "up for a while now. It's possible that"
+ },
+ {
+  "start": 1800.72,
+  "duration": 4.16,
+  "text": "GPD6 even arrives within the next four"
+ },
+ {
+  "start": 1802.88,
+  "duration": 3.44,
+  "text": "weeks. When I say arrive, however, it"
+ },
+ {
+  "start": 1804.88,
+  "duration": 2.72,
+  "text": "may not mean a general release because"
+ },
+ {
+  "start": 1806.32,
+  "duration": 3.359,
+  "text": "of the last couple months or any"
+ },
+ {
+  "start": 1807.6,
+  "duration": 3.6,
+  "text": "indication. GPT6 will almost certainly"
+ },
+ {
+  "start": 1809.679,
+  "duration": 3.441,
+  "text": "be held back by the government, at least"
+ },
+ {
+  "start": 1811.2,
+  "duration": 4.4,
+  "text": "initially. It's a new much larger"
+ },
+ {
+  "start": 1813.12,
+  "duration": 4.4,
+  "text": "pre-train. As Leo says, Mythos changed"
+ },
+ {
+  "start": 1815.6,
+  "duration": 3.6,
+  "text": "everything. Everyone is going big,"
+ },
+ {
+  "start": 1817.52,
+  "duration": 3.6,
+  "text": "including Elon, who has a 10 trillion"
+ },
+ {
+  "start": 1819.2,
+  "duration": 3.68,
+  "text": "Gro in training. Both OpenAI and"
+ },
+ {
+  "start": 1821.12,
+  "duration": 3.76,
+  "text": "Anthropic see capabilities increasing"
+ },
+ {
+  "start": 1822.88,
+  "duration": 3.279,
+  "text": "rapidly with advancement continuing on a"
+ },
+ {
+  "start": 1824.88,
+  "duration": 3.519,
+  "text": "new trajectory over the rest of this"
+ },
+ {
+  "start": 1826.159,
+  "duration": 3.681,
+  "text": "year and beyond. Both labs are very"
+ },
+ {
+  "start": 1828.399,
+  "duration": 4.4,
+  "text": "confident in what they have internally"
+ },
+ {
+  "start": 1829.84,
+  "duration": 4.64,
+  "text": "and see nothing above us but air. No"
+ },
+ {
+  "start": 1832.799,
+  "duration": 3.36,
+  "text": "ceiling."
+ },
+ {
+  "start": 1834.48,
+  "duration": 3.679,
+  "text": "So friends, even though we had a lot of"
+ },
+ {
+  "start": 1836.159,
+  "duration": 3.441,
+  "text": "models to talk about today, buckle in"
+ },
+ {
+  "start": 1838.159,
+  "duration": 2.561,
+  "text": "because I don't think that we're done."
+ },
+ {
+  "start": 1839.6,
+  "duration": 2.799,
+  "text": "For now, that is going to do it for"
+ },
+ {
+  "start": 1840.72,
+  "duration": 3.199,
+  "text": "today's AI daily brief. Appreciate you"
+ },
+ {
+  "start": 1842.399,
+  "duration": 5.481,
+  "text": "listening or watching as always and"
+ },
+ {
+  "start": 1843.919,
+  "duration": 3.961,
+  "text": "until next time, peace."
+ }
+]

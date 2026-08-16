@@ -1,0 +1,3192 @@
+[
+ {
+  "start": 0.4,
+  "duration": 6.92,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 2.88,
+  "duration": 4.44,
+  "text": "AI optimism versus AI pessimism."
+ },
+ {
+  "start": 7.56,
+  "duration": 3.16,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 9.16,
+  "duration": 4.36,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 10.72,
+  "duration": 4.52,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 13.52,
+  "duration": 2.8,
+  "text": "All right, friends. Today we are"
+ },
+ {
+  "start": 15.24,
+  "duration": 3.88,
+  "text": "checking in on the state of the"
+ },
+ {
+  "start": 16.32,
+  "duration": 5.36,
+  "text": "discourse around AI risk. And more"
+ },
+ {
+  "start": 19.12,
+  "duration": 4.72,
+  "text": "broadly, thinking about AI optimism"
+ },
+ {
+  "start": 21.68,
+  "duration": 5.12,
+  "text": "versus AI pessimism."
+ },
+ {
+  "start": 23.84,
+  "duration": 4.4,
+  "text": "Now, in that context, if I told you that"
+ },
+ {
+  "start": 26.8,
+  "duration": 3.6,
+  "text": "someone had produced a commercial about"
+ },
+ {
+  "start": 28.24,
+  "duration": 4.44,
+  "text": "AI where the first few images are smash"
+ },
+ {
+  "start": 30.4,
+  "duration": 4.44,
+  "text": "cuts of a burning building, a set of"
+ },
+ {
+  "start": 32.68,
+  "duration": 3.48,
+  "text": "gravestones, and mass surveillance, plus"
+ },
+ {
+  "start": 34.84,
+  "duration": 2.76,
+  "text": "a bunch of people being stressed out cuz"
+ },
+ {
+  "start": 36.16,
+  "duration": 3.44,
+  "text": "they lost their jobs, and some homeless"
+ },
+ {
+  "start": 37.6,
+  "duration": 4.2,
+  "text": "people, you might guess that that was a"
+ },
+ {
+  "start": 39.6,
+  "duration": 5.24,
+  "text": "political ad by some anti-AI group,"
+ },
+ {
+  "start": 41.8,
+  "duration": 5.0,
+  "text": "right? But in fact, it is not. Instead,"
+ },
+ {
+  "start": 44.84,
+  "duration": 3.76,
+  "text": "it's the first set of images from a new"
+ },
+ {
+  "start": 46.8,
+  "duration": 3.56,
+  "text": "ad from Anthropic."
+ },
+ {
+  "start": 48.6,
+  "duration": 3.92,
+  "text": "Now, the theme of the campaign is the"
+ },
+ {
+  "start": 50.36,
+  "duration": 4.44,
+  "text": "idea of there being hope in hard"
+ },
+ {
+  "start": 52.52,
+  "duration": 5.16,
+  "text": "questions. That's their phrase. And so,"
+ },
+ {
+  "start": 54.8,
+  "duration": 5.92,
+  "text": "what the ad actually is is a set of very"
+ },
+ {
+  "start": 57.68,
+  "duration": 4.76,
+  "text": "hard questions about AI taking our jobs"
+ },
+ {
+  "start": 60.72,
+  "duration": 2.8,
+  "text": "and whether or not AI can be trusted."
+ },
+ {
+  "start": 62.44,
+  "duration": 2.36,
+  "text": "That's where that visceral negative"
+ },
+ {
+  "start": 63.52,
+  "duration": 2.84,
+  "text": "imagery comes in at the beginning,"
+ },
+ {
+  "start": 64.8,
+  "duration": 3.76,
+  "text": "moving to a set of more optimistic or"
+ },
+ {
+  "start": 66.36,
+  "duration": 3.36,
+  "text": "positive questions. Like, could AI help"
+ },
+ {
+  "start": 68.56,
+  "duration": 3.08,
+  "text": "me build more connections in the"
+ },
+ {
+  "start": 69.72,
+  "duration": 4.04,
+  "text": "community? And could AI help more people"
+ },
+ {
+  "start": 71.64,
+  "duration": 4.48,
+  "text": "feel understood? Now, on the one hand, I"
+ },
+ {
+  "start": 73.76,
+  "duration": 4.84,
+  "text": "will say that I understand what the goal"
+ },
+ {
+  "start": 76.12,
+  "duration": 4.28,
+  "text": "of this content asset is. It's to try to"
+ },
+ {
+  "start": 78.6,
+  "duration": 4.08,
+  "text": "meet people where Anthropic imagines"
+ },
+ {
+  "start": 80.4,
+  "duration": 4.6,
+  "text": "they are and acknowledge the hard stuff"
+ },
+ {
+  "start": 82.68,
+  "duration": 4.4,
+  "text": "before pushing on into the good stuff."
+ },
+ {
+  "start": 85.0,
+  "duration": 4.6,
+  "text": "And yet, in practice, I think it is"
+ },
+ {
+  "start": 87.08,
+  "duration": 3.92,
+  "text": "spectacularly tone-deaf and completely"
+ },
+ {
+  "start": 89.6,
+  "duration": 3.44,
+  "text": "fails to acknowledge the way that people"
+ },
+ {
+  "start": 91.0,
+  "duration": 4.6,
+  "text": "actually receive media. It is a"
+ },
+ {
+  "start": 93.04,
+  "duration": 4.28,
+  "text": "perpetuation of this long-term fetish"
+ },
+ {
+  "start": 95.6,
+  "duration": 3.56,
+  "text": "that AI companies have had with"
+ },
+ {
+  "start": 97.32,
+  "duration": 3.72,
+  "text": "quote-unquote acknowledging all the bad"
+ },
+ {
+  "start": 99.16,
+  "duration": 3.8,
+  "text": "sides and the risks, rather than just"
+ },
+ {
+  "start": 101.04,
+  "duration": 3.36,
+  "text": "selling the positive vision. And blame"
+ },
+ {
+  "start": 102.96,
+  "duration": 3.36,
+  "text": "it on the attention spans or anything"
+ },
+ {
+  "start": 104.4,
+  "duration": 3.08,
+  "text": "else, I think most people who see this"
+ },
+ {
+  "start": 106.32,
+  "duration": 2.64,
+  "text": "aren't going to make it past the first"
+ },
+ {
+  "start": 107.48,
+  "duration": 3.56,
+  "text": "few seconds where it's all burning"
+ },
+ {
+  "start": 108.96,
+  "duration": 4.04,
+  "text": "buildings and gravestones."
+ },
+ {
+  "start": 111.04,
+  "duration": 3.96,
+  "text": "Now, I want to be clear, others were in"
+ },
+ {
+  "start": 113.0,
+  "duration": 3.52,
+  "text": "disbelief as well. Sam Altman, who"
+ },
+ {
+  "start": 115.0,
+  "duration": 3.44,
+  "text": "yesterday seemed to wake up and choose"
+ },
+ {
+  "start": 116.52,
+  "duration": 4.76,
+  "text": "violence on Twitter. Retweeted the ad"
+ },
+ {
+  "start": 118.44,
+  "duration": 4.16,
+  "text": "and said, \"I thought this was satire.\""
+ },
+ {
+  "start": 121.28,
+  "duration": 2.76,
+  "text": "And I thought this was an interesting"
+ },
+ {
+  "start": 122.6,
+  "duration": 3.56,
+  "text": "jumping off point for a larger"
+ },
+ {
+  "start": 124.04,
+  "duration": 4.359,
+  "text": "conversation about how some of the AI"
+ },
+ {
+  "start": 126.16,
+  "duration": 3.84,
+  "text": "societal concern discourse is evolving."
+ },
+ {
+  "start": 128.399,
+  "duration": 2.761,
+  "text": "Because over the last week or so, we've"
+ },
+ {
+  "start": 130.0,
+  "duration": 3.4,
+  "text": "actually gotten a couple different"
+ },
+ {
+  "start": 131.16,
+  "duration": 4.12,
+  "text": "examples that show what I think is a"
+ },
+ {
+  "start": 133.4,
+  "duration": 4.48,
+  "text": "more positive direction in the"
+ },
+ {
+  "start": 135.28,
+  "duration": 4.36,
+  "text": "practicality of that discourse."
+ },
+ {
+  "start": 137.88,
+  "duration": 3.6,
+  "text": "The first example of this is a new"
+ },
+ {
+  "start": 139.64,
+  "duration": 4.319,
+  "text": "petition on the AI economy that was"
+ },
+ {
+  "start": 141.48,
+  "duration": 3.44,
+  "text": "signed by 16 Nobel laureates. Now, if"
+ },
+ {
+  "start": 143.959,
+  "duration": 2.641,
+  "text": "you've been paying attention for a"
+ },
+ {
+  "start": 144.92,
+  "duration": 3.56,
+  "text": "while, you'll know that petitions"
+ },
+ {
+  "start": 146.6,
+  "duration": 3.56,
+  "text": "calling for drastic AI policy change"
+ },
+ {
+  "start": 148.48,
+  "duration": 3.88,
+  "text": "don't necessarily have the best track"
+ },
+ {
+  "start": 150.16,
+  "duration": 4.16,
+  "text": "record. Maybe the best known was back in"
+ },
+ {
+  "start": 152.36,
+  "duration": 3.88,
+  "text": "March of 2023 when the Future of Life"
+ },
+ {
+  "start": 154.32,
+  "duration": 3.56,
+  "text": "Institute issued their AI pause open"
+ },
+ {
+  "start": 156.24,
+  "duration": 3.56,
+  "text": "letter, which called for an immediate"
+ },
+ {
+  "start": 157.88,
+  "duration": 4.52,
+  "text": "6-month global pause in AI training for"
+ },
+ {
+  "start": 159.8,
+  "duration": 4.64,
+  "text": "models more powerful than GPT-4. If the"
+ },
+ {
+  "start": 162.4,
+  "duration": 4.32,
+  "text": "AI labs wouldn't voluntarily commit, the"
+ },
+ {
+  "start": 164.44,
+  "duration": 4.0,
+  "text": "letter demanded that government step in."
+ },
+ {
+  "start": 166.72,
+  "duration": 4.0,
+  "text": "The letter was deeply informed by the AI"
+ },
+ {
+  "start": 168.44,
+  "duration": 4.4,
+  "text": "safety movement and concerns of X-risk,"
+ },
+ {
+  "start": 170.72,
+  "duration": 3.6,
+  "text": "i.e. the risk of extinction, and loomed"
+ },
+ {
+  "start": 172.84,
+  "duration": 3.44,
+  "text": "in the regulatory conversation over the"
+ },
+ {
+  "start": 174.32,
+  "duration": 3.04,
+  "text": "following year. Now, part of the reason"
+ },
+ {
+  "start": 176.28,
+  "duration": 2.64,
+  "text": "that it didn't have all that much"
+ },
+ {
+  "start": 177.36,
+  "duration": 3.08,
+  "text": "resonance is that the risks that they"
+ },
+ {
+  "start": 178.92,
+  "duration": 2.84,
+  "text": "were talking about were so clearly"
+ },
+ {
+  "start": 180.44,
+  "duration": 3.76,
+  "text": "disconnected from the state of the"
+ },
+ {
+  "start": 181.76,
+  "duration": 4.64,
+  "text": "technology at that GPT-4 moment that for"
+ },
+ {
+  "start": 184.2,
+  "duration": 3.72,
+  "text": "most casual observers, the response"
+ },
+ {
+  "start": 186.4,
+  "duration": 3.559,
+  "text": "didn't really seem connected to the"
+ },
+ {
+  "start": 187.92,
+  "duration": 3.68,
+  "text": "state of the moment. Now, ultimately,"
+ },
+ {
+  "start": 189.959,
+  "duration": 3.241,
+  "text": "nothing much came of the AI pause"
+ },
+ {
+  "start": 191.6,
+  "duration": 2.8,
+  "text": "movement other than a group of dedicated"
+ },
+ {
+  "start": 193.2,
+  "duration": 2.28,
+  "text": "adherents that carried the message"
+ },
+ {
+  "start": 194.4,
+  "duration": 3.32,
+  "text": "forward."
+ },
+ {
+  "start": 195.48,
+  "duration": 4.28,
+  "text": "This resulted in entirely grounded and"
+ },
+ {
+  "start": 197.72,
+  "duration": 4.48,
+  "text": "realistic works like the book If anyone"
+ },
+ {
+  "start": 199.76,
+  "duration": 4.44,
+  "text": "builds it, everyone dies, released last"
+ },
+ {
+  "start": 202.2,
+  "duration": 3.88,
+  "text": "year. Another effort to stymie AI"
+ },
+ {
+  "start": 204.2,
+  "duration": 3.2,
+  "text": "development sprang up earlier this year,"
+ },
+ {
+  "start": 206.08,
+  "duration": 3.08,
+  "text": "again led by the Future of Life"
+ },
+ {
+  "start": 207.4,
+  "duration": 4.0,
+  "text": "Institute. This time the petition was"
+ },
+ {
+  "start": 209.16,
+  "duration": 3.92,
+  "text": "called the Pro-Human AI Declaration and"
+ },
+ {
+  "start": 211.4,
+  "duration": 3.72,
+  "text": "focused on guidelines for ensuring that"
+ },
+ {
+  "start": 213.08,
+  "duration": 3.439,
+  "text": "AI development was human-focused. It"
+ },
+ {
+  "start": 215.12,
+  "duration": 3.119,
+  "text": "featured a string of restrictions around"
+ },
+ {
+  "start": 216.519,
+  "duration": 2.881,
+  "text": "the wellbeing of children, limits to the"
+ },
+ {
+  "start": 218.239,
+  "duration": 2.561,
+  "text": "data center buildout, and the"
+ },
+ {
+  "start": 219.4,
+  "duration": 3.36,
+  "text": "preservation of human agency and"
+ },
+ {
+  "start": 220.8,
+  "duration": 3.64,
+  "text": "liberty. The most notable part of this"
+ },
+ {
+  "start": 222.76,
+  "duration": 3.84,
+  "text": "effort was the broad cross-section of"
+ },
+ {
+  "start": 224.44,
+  "duration": 3.76,
+  "text": "signatories. Both Steve Bannon and"
+ },
+ {
+  "start": 226.6,
+  "duration": 3.24,
+  "text": "former Bernie Sanders staffers found"
+ },
+ {
+  "start": 228.2,
+  "duration": 3.16,
+  "text": "themselves in a secret meeting to hash"
+ },
+ {
+  "start": 229.84,
+  "duration": 3.16,
+  "text": "out the details of their demands,"
+ },
+ {
+  "start": 231.36,
+  "duration": 3.24,
+  "text": "ultimately signing up for a common"
+ },
+ {
+  "start": 233.0,
+  "duration": 4.12,
+  "text": "cause."
+ },
+ {
+  "start": 234.6,
+  "duration": 4.84,
+  "text": "Now, there are a number of big issues"
+ },
+ {
+  "start": 237.12,
+  "duration": 4.04,
+  "text": "with these types of petitions. One is"
+ },
+ {
+  "start": 239.44,
+  "duration": 3.36,
+  "text": "that the entire premise of an open"
+ },
+ {
+  "start": 241.16,
+  "duration": 4.72,
+  "text": "letter signed by a group of so-called"
+ },
+ {
+  "start": 242.8,
+  "duration": 4.76,
+  "text": "experts could not be more out of sync"
+ },
+ {
+  "start": 245.88,
+  "duration": 3.24,
+  "text": "with the tenor of this moment. Now, I'm"
+ },
+ {
+  "start": 247.56,
+  "duration": 2.92,
+  "text": "not sure that open letters have ever"
+ },
+ {
+  "start": 249.12,
+  "duration": 3.28,
+  "text": "been a particularly potent political"
+ },
+ {
+  "start": 250.48,
+  "duration": 3.28,
+  "text": "force, but the idea of a closed-door"
+ },
+ {
+  "start": 252.4,
+  "duration": 2.96,
+  "text": "meeting with a group of experts, even"
+ },
+ {
+  "start": 253.76,
+  "duration": 4.08,
+  "text": "ones that represent a wide cross-section"
+ },
+ {
+  "start": 255.36,
+  "duration": 4.64,
+  "text": "of politics, being against something is"
+ },
+ {
+  "start": 257.84,
+  "duration": 3.239,
+  "text": "almost as scary and abhorrent to most as"
+ },
+ {
+  "start": 260.0,
+  "duration": 3.04,
+  "text": "a closed-door meeting of a group of"
+ },
+ {
+  "start": 261.079,
+  "duration": 3.601,
+  "text": "experts across a wide political spectrum"
+ },
+ {
+  "start": 263.04,
+  "duration": 3.24,
+  "text": "being for something."
+ },
+ {
+  "start": 264.68,
+  "duration": 3.68,
+  "text": "Now, another issue with these petitions"
+ },
+ {
+  "start": 266.28,
+  "duration": 4.12,
+  "text": "has been their lack of support within"
+ },
+ {
+  "start": 268.36,
+  "duration": 3.64,
+  "text": "the AI industry itself. They've been"
+ },
+ {
+  "start": 270.4,
+  "duration": 3.48,
+  "text": "presented as having Nobel laureates and"
+ },
+ {
+  "start": 272.0,
+  "duration": 3.52,
+  "text": "AI experts as signatories, but when you"
+ },
+ {
+  "start": 273.88,
+  "duration": 3.08,
+  "text": "take a closer look, the Nobel laureates"
+ },
+ {
+  "start": 275.52,
+  "duration": 3.52,
+  "text": "are usually basically just Geoffrey"
+ },
+ {
+  "start": 276.96,
+  "duration": 3.6,
+  "text": "Hinton, an early pioneer of AI research"
+ },
+ {
+  "start": 279.04,
+  "duration": 3.28,
+  "text": "who has become one of the leading voices"
+ },
+ {
+  "start": 280.56,
+  "duration": 3.44,
+  "text": "of AI doomism in this era, and the"
+ },
+ {
+  "start": 282.32,
+  "duration": 3.0,
+  "text": "so-called AI experts are typically the"
+ },
+ {
+  "start": 284.0,
+  "duration": 2.84,
+  "text": "group of internet bloggers who have made"
+ },
+ {
+  "start": 285.32,
+  "duration": 3.599,
+  "text": "a career out of spinning science fiction"
+ },
+ {
+  "start": 286.84,
+  "duration": 3.84,
+  "text": "into prophecies of AI doom."
+ },
+ {
+  "start": 288.919,
+  "duration": 3.961,
+  "text": "More than that, the arguments usually"
+ },
+ {
+  "start": 290.68,
+  "duration": 2.2,
+  "text": "aren't"
+ },
+ {
+  "start": 294.48,
+  "duration": 3.92,
+  "text": "In other words, it's not that the"
+ },
+ {
+  "start": 295.8,
+  "duration": 4.24,
+  "text": "concept of AI having some catastrophic"
+ },
+ {
+  "start": 298.4,
+  "duration": 3.4,
+  "text": "possibility is completely out of the"
+ },
+ {
+  "start": 300.04,
+  "duration": 3.68,
+  "text": "question for most people. It's that"
+ },
+ {
+  "start": 301.8,
+  "duration": 3.92,
+  "text": "having the conversation start from a"
+ },
+ {
+  "start": 303.72,
+  "duration": 5.48,
+  "text": "place that is completely unmoored from"
+ },
+ {
+  "start": 305.72,
+  "duration": 4.76,
+  "text": "reality does no one any favors."
+ },
+ {
+  "start": 309.2,
+  "duration": 2.92,
+  "text": "And that's what makes this new letter"
+ },
+ {
+  "start": 310.48,
+  "duration": 3.56,
+  "text": "somewhat different. Produced by the"
+ },
+ {
+  "start": 312.12,
+  "duration": 3.76,
+  "text": "Stanford Digital Economy Lab, this"
+ },
+ {
+  "start": 314.04,
+  "duration": 4.32,
+  "text": "petition is solely focused on the"
+ },
+ {
+  "start": 315.88,
+  "duration": 5.76,
+  "text": "economic impact of AI that is beginning"
+ },
+ {
+  "start": 318.36,
+  "duration": 5.12,
+  "text": "to unfold. It's titled We Must Act Now,"
+ },
+ {
+  "start": 321.64,
+  "duration": 3.96,
+  "text": "A Statement on AI's Transformation of"
+ },
+ {
+  "start": 323.48,
+  "duration": 4.04,
+  "text": "the Economy, and calls for urgent"
+ },
+ {
+  "start": 325.6,
+  "duration": 4.04,
+  "text": "preparations for the economic impact of"
+ },
+ {
+  "start": 327.52,
+  "duration": 3.76,
+  "text": "radically more powerful AI."
+ },
+ {
+  "start": 329.64,
+  "duration": 3.4,
+  "text": "The statement warns that AI could drive"
+ },
+ {
+  "start": 331.28,
+  "duration": 3.44,
+  "text": "an economic transformation larger than"
+ },
+ {
+  "start": 333.04,
+  "duration": 3.64,
+  "text": "the Industrial Revolution on a vastly"
+ },
+ {
+  "start": 334.72,
+  "duration": 3.6,
+  "text": "shorter timeline, and urges economists,"
+ },
+ {
+  "start": 336.68,
+  "duration": 3.52,
+  "text": "policymakers, and technology leaders to"
+ },
+ {
+  "start": 338.32,
+  "duration": 3.52,
+  "text": "prepare. The effort was led by Erik"
+ },
+ {
+  "start": 340.2,
+  "duration": 3.64,
+  "text": "Brynjolfsson, a Stanford professor and"
+ },
+ {
+  "start": 341.84,
+  "duration": 3.16,
+  "text": "director of the Digital Economy Lab. We"
+ },
+ {
+  "start": 343.84,
+  "duration": 3.16,
+  "text": "featured Erik's work on this show"
+ },
+ {
+  "start": 345.0,
+  "duration": 4.2,
+  "text": "multiple times in the past, and while it"
+ },
+ {
+  "start": 347.0,
+  "duration": 3.36,
+  "text": "can be a alarmist, it is as opposed to"
+ },
+ {
+  "start": 349.2,
+  "duration": 3.0,
+  "text": "many of the things that I've just been"
+ },
+ {
+  "start": 350.36,
+  "duration": 3.72,
+  "text": "critiquing always grounded in fact and"
+ },
+ {
+  "start": 352.2,
+  "duration": 3.08,
+  "text": "reasonable analysis."
+ },
+ {
+  "start": 354.08,
+  "duration": 3.4,
+  "text": "Introducing the new statement,"
+ },
+ {
+  "start": 355.28,
+  "duration": 3.6,
+  "text": "Brynjolfsson wrote, \"AI capabilities are"
+ },
+ {
+  "start": 357.48,
+  "duration": 2.6,
+  "text": "advancing far faster than our"
+ },
+ {
+  "start": 358.88,
+  "duration": 3.16,
+  "text": "understanding of the economic"
+ },
+ {
+  "start": 360.08,
+  "duration": 3.68,
+  "text": "implications. In that gap lie the"
+ },
+ {
+  "start": 362.04,
+  "duration": 3.68,
+  "text": "greatest opportunities of our era. We"
+ },
+ {
+  "start": 363.76,
+  "duration": 3.8,
+  "text": "must act now to guide AI to complement"
+ },
+ {
+  "start": 365.72,
+  "duration": 3.44,
+  "text": "humans rather than simply imitate them,"
+ },
+ {
+  "start": 367.56,
+  "duration": 3.16,
+  "text": "and to generate prosperity for the many,"
+ },
+ {
+  "start": 369.16,
+  "duration": 2.84,
+  "text": "not just the few.\""
+ },
+ {
+  "start": 370.72,
+  "duration": 2.84,
+  "text": "Michael Spence is one of the Nobel"
+ },
+ {
+  "start": 372.0,
+  "duration": 3.0,
+  "text": "laureates supporting the statement. Now"
+ },
+ {
+  "start": 373.56,
+  "duration": 3.48,
+  "text": "a professor at New York University,"
+ },
+ {
+  "start": 375.0,
+  "duration": 4.4,
+  "text": "Spence won the 2001 Nobel Prize in"
+ },
+ {
+  "start": 377.04,
+  "duration": 4.2,
+  "text": "economics for his 1973 work on markets"
+ },
+ {
+  "start": 379.4,
+  "duration": 3.4,
+  "text": "with asymmetric information, leading to"
+ },
+ {
+  "start": 381.24,
+  "duration": 3.28,
+  "text": "the theory of job market signaling."
+ },
+ {
+  "start": 382.8,
+  "duration": 3.84,
+  "text": "Discussing the AI statement, Spence"
+ },
+ {
+  "start": 384.52,
+  "duration": 3.88,
+  "text": "wrote, \"The scale, scope, and speed of"
+ },
+ {
+  "start": 386.64,
+  "duration": 3.36,
+  "text": "the advances in AI, combined with a high"
+ },
+ {
+  "start": 388.4,
+  "duration": 3.16,
+  "text": "level of uncertainty about the magnitude"
+ },
+ {
+  "start": 390.0,
+  "duration": 3.36,
+  "text": "and timing of the impacts across many"
+ },
+ {
+  "start": 391.56,
+  "duration": 3.64,
+  "text": "parts of the economy, call for an all"
+ },
+ {
+  "start": 393.36,
+  "duration": 3.84,
+  "text": "hands-on-deck approach to steering AI in"
+ },
+ {
+  "start": 395.2,
+  "duration": 3.64,
+  "text": "beneficial directions.\""
+ },
+ {
+  "start": 397.2,
+  "duration": 3.16,
+  "text": "Now, when you look at the signatories,"
+ },
+ {
+  "start": 398.84,
+  "duration": 2.84,
+  "text": "some of them are actually folks in the"
+ },
+ {
+  "start": 400.36,
+  "duration": 3.44,
+  "text": "AI industry who are building the"
+ },
+ {
+  "start": 401.68,
+  "duration": 3.16,
+  "text": "technology, not just commenting on it."
+ },
+ {
+  "start": 403.8,
+  "duration": 2.28,
+  "text": "And part of the reason that this"
+ },
+ {
+  "start": 404.84,
+  "duration": 3.079,
+  "text": "statement may be finding a little bit"
+ },
+ {
+  "start": 406.08,
+  "duration": 4.08,
+  "text": "more resonance is that it is not"
+ },
+ {
+  "start": 407.919,
+  "duration": 4.441,
+  "text": "prescriptive in quite the same way."
+ },
+ {
+  "start": 410.16,
+  "duration": 4.4,
+  "text": "It's not saying AI is moving fast, so we"
+ },
+ {
+  "start": 412.36,
+  "duration": 4.32,
+  "text": "have to do X, Y, and Z. It's saying AI"
+ },
+ {
+  "start": 414.56,
+  "duration": 3.64,
+  "text": "is moving fast, so we have to talk about"
+ },
+ {
+  "start": 416.68,
+  "duration": 2.48,
+  "text": "what we should do."
+ },
+ {
+  "start": 418.2,
+  "duration": 2.32,
+  "text": "In fact, let's just read the full"
+ },
+ {
+  "start": 419.16,
+  "duration": 2.32,
+  "text": "statement because it's not very long at"
+ },
+ {
+  "start": 420.52,
+  "duration": 3.36,
+  "text": "all."
+ },
+ {
+  "start": 421.48,
+  "duration": 4.08,
+  "text": "The statement reads, \"One, AI may become"
+ },
+ {
+  "start": 423.88,
+  "duration": 4.039,
+  "text": "radically more powerful over the next 10"
+ },
+ {
+  "start": 425.56,
+  "duration": 4.92,
+  "text": "years.\" Notice the use of may, an"
+ },
+ {
+  "start": 427.919,
+  "duration": 4.241,
+  "text": "inherently intellectually humble word."
+ },
+ {
+  "start": 430.48,
+  "duration": 3.56,
+  "text": "\"Two, this could drive an unprecedented"
+ },
+ {
+  "start": 432.16,
+  "duration": 3.36,
+  "text": "transformation of our economy, larger"
+ },
+ {
+  "start": 434.04,
+  "duration": 4.36,
+  "text": "than the Industrial Revolution, but"
+ },
+ {
+  "start": 435.52,
+  "duration": 4.76,
+  "text": "unfolding over time frame. It could, and"
+ },
+ {
+  "start": 438.4,
+  "duration": 3.56,
+  "text": "there's that humility again, bring risks"
+ },
+ {
+  "start": 440.28,
+  "duration": 3.639,
+  "text": "including large-scale job displacement"
+ },
+ {
+  "start": 441.96,
+  "duration": 3.88,
+  "text": "as well as opportunities, such as major"
+ },
+ {
+  "start": 443.919,
+  "duration": 3.801,
+  "text": "gains in living standards. Three,"
+ },
+ {
+  "start": 445.84,
+  "duration": 3.88,
+  "text": "economists, policymakers, and technology"
+ },
+ {
+  "start": 447.72,
+  "duration": 4.16,
+  "text": "leaders must act now to understand the"
+ },
+ {
+  "start": 449.72,
+  "duration": 3.64,
+  "text": "economics of transformative AI and build"
+ },
+ {
+  "start": 451.88,
+  "duration": 3.6,
+  "text": "the incentives, guardrails, and"
+ },
+ {
+  "start": 453.36,
+  "duration": 3.84,
+  "text": "institutions needed to steer AI in a"
+ },
+ {
+  "start": 455.48,
+  "duration": 3.6,
+  "text": "direction that complements humans and"
+ },
+ {
+  "start": 457.2,
+  "duration": 4.04,
+  "text": "benefits society.\""
+ },
+ {
+  "start": 459.08,
+  "duration": 4.0,
+  "text": "Signatory Anders Sandberg wrote, \"I"
+ },
+ {
+  "start": 461.24,
+  "duration": 3.48,
+  "text": "signed We Must Act Now, a statement on"
+ },
+ {
+  "start": 463.08,
+  "duration": 3.28,
+  "text": "AI's transformation of the economy,"
+ },
+ {
+  "start": 464.72,
+  "duration": 2.84,
+  "text": "which is much less alarming than it"
+ },
+ {
+  "start": 466.36,
+  "duration": 2.72,
+  "text": "sounds."
+ },
+ {
+  "start": 467.56,
+  "duration": 2.64,
+  "text": "It is basically saying, this is a"
+ },
+ {
+  "start": 469.08,
+  "duration": 2.6,
+  "text": "freaking big thing, we ought to"
+ },
+ {
+  "start": 470.2,
+  "duration": 3.64,
+  "text": "investigate this way more than is being"
+ },
+ {
+  "start": 471.68,
+  "duration": 4.6,
+  "text": "done. The statement is not about"
+ },
+ {
+  "start": 473.84,
+  "duration": 4.88,
+  "text": "superintelligence or existential risk."
+ },
+ {
+  "start": 476.28,
+  "duration": 4.32,
+  "text": "It is merely assuming a transformative"
+ },
+ {
+  "start": 478.72,
+  "duration": 3.8,
+  "text": "general technology happening much faster"
+ },
+ {
+  "start": 480.6,
+  "duration": 3.16,
+  "text": "than past technological revolutions,"
+ },
+ {
+  "start": 482.52,
+  "duration": 2.68,
+  "text": "which ought to raise concerns that we"
+ },
+ {
+  "start": 483.76,
+  "duration": 2.8,
+  "text": "need to find things out faster than we"
+ },
+ {
+  "start": 485.2,
+  "duration": 3.16,
+  "text": "are used to.\""
+ },
+ {
+  "start": 486.56,
+  "duration": 3.88,
+  "text": "Now, Anders' argument in particular here"
+ },
+ {
+  "start": 488.36,
+  "duration": 4.68,
+  "text": "is that specifically the economics of AI"
+ },
+ {
+  "start": 490.44,
+  "duration": 4.08,
+  "text": "haven't had enough focus. He continues,"
+ },
+ {
+  "start": 493.04,
+  "duration": 2.879,
+  "text": "\"It might sound somewhat absurd to call"
+ },
+ {
+  "start": 494.52,
+  "duration": 3.04,
+  "text": "for more research about AI of all"
+ },
+ {
+  "start": 495.919,
+  "duration": 3.521,
+  "text": "topics. Isn't that the most talked about"
+ },
+ {
+  "start": 497.56,
+  "duration": 3.56,
+  "text": "thing at present? But the economics of"
+ },
+ {
+  "start": 499.44,
+  "duration": 4.2,
+  "text": "AI is surprisingly understudied, it"
+ },
+ {
+  "start": 501.12,
+  "duration": 4.44,
+  "text": "turns out.\" He continues, \"I am somewhat"
+ },
+ {
+  "start": 503.64,
+  "duration": 3.64,
+  "text": "of an optimist about AI alignment and"
+ },
+ {
+  "start": 505.56,
+  "duration": 3.359,
+  "text": "X-risk, but I've become increasingly"
+ },
+ {
+  "start": 507.28,
+  "duration": 3.24,
+  "text": "worried that we as a society might not"
+ },
+ {
+  "start": 508.919,
+  "duration": 3.641,
+  "text": "even handle the transition to merely"
+ },
+ {
+  "start": 510.52,
+  "duration": 3.199,
+  "text": "useful AI well, risking that we shake"
+ },
+ {
+  "start": 512.56,
+  "duration": 2.68,
+  "text": "apart social contracts and"
+ },
+ {
+  "start": 513.719,
+  "duration": 2.961,
+  "text": "institutions.\""
+ },
+ {
+  "start": 515.24,
+  "duration": 3.04,
+  "text": "Indeed, you kind of get a sense that a"
+ },
+ {
+  "start": 516.68,
+  "duration": 3.68,
+  "text": "lot of the particularly economics folks"
+ },
+ {
+  "start": 518.28,
+  "duration": 3.639,
+  "text": "who signed on to this are signing on not"
+ },
+ {
+  "start": 520.36,
+  "duration": 3.04,
+  "text": "because things have been scarier than"
+ },
+ {
+  "start": 521.919,
+  "duration": 3.601,
+  "text": "they thought, but because they've been"
+ },
+ {
+  "start": 523.4,
+  "duration": 3.96,
+  "text": "surprising in ways that make them want"
+ },
+ {
+  "start": 525.52,
+  "duration": 3.319,
+  "text": "to have more information."
+ },
+ {
+  "start": 527.36,
+  "duration": 3.8,
+  "text": "Google DeepMind's director of AGI"
+ },
+ {
+  "start": 528.839,
+  "duration": 4.041,
+  "text": "economics, Alex Emes, wrote, \"I was at a"
+ },
+ {
+  "start": 531.16,
+  "duration": 3.36,
+  "text": "workshop yesterday and asked several"
+ },
+ {
+  "start": 532.88,
+  "duration": 3.48,
+  "text": "technologists and economists who had"
+ },
+ {
+  "start": 534.52,
+  "duration": 3.319,
+  "text": "predicted large job market losses from"
+ },
+ {
+  "start": 536.36,
+  "duration": 3.0,
+  "text": "AI model improvement whether they are"
+ },
+ {
+  "start": 537.839,
+  "duration": 3.361,
+  "text": "surprised about this, that the"
+ },
+ {
+  "start": 539.36,
+  "duration": 3.6,
+  "text": "unemployment rate for 20-24s is"
+ },
+ {
+  "start": 541.2,
+  "duration": 4.24,
+  "text": "effectively unchanged since the AI boom"
+ },
+ {
+  "start": 542.96,
+  "duration": 4.08,
+  "text": "began.\" Alex continues, \"Models, after"
+ },
+ {
+  "start": 545.44,
+  "duration": 3.92,
+  "text": "all, have improved in some ways more"
+ },
+ {
+  "start": 547.04,
+  "duration": 4.16,
+  "text": "than projections. Most said yes, some"
+ },
+ {
+  "start": 549.36,
+  "duration": 3.84,
+  "text": "are indeed very surprised.\" Alex"
+ },
+ {
+  "start": 551.2,
+  "duration": 3.639,
+  "text": "concludes, \"I do think disruption is"
+ },
+ {
+  "start": 553.2,
+  "duration": 2.96,
+  "text": "likely coming, but it is not at all"
+ },
+ {
+  "start": 554.839,
+  "duration": 2.721,
+  "text": "obvious that it will look like mass"
+ },
+ {
+  "start": 556.16,
+  "duration": 3.0,
+  "text": "unemployment.\""
+ },
+ {
+  "start": 557.56,
+  "duration": 4.32,
+  "text": "Sam Altman has also reported the"
+ },
+ {
+  "start": 559.16,
+  "duration": 4.04,
+  "text": "surprise and in fact used it to explain"
+ },
+ {
+  "start": 561.88,
+  "duration": 2.84,
+  "text": "why the company has shifted their"
+ },
+ {
+  "start": 563.2,
+  "duration": 2.68,
+  "text": "communications."
+ },
+ {
+  "start": 564.72,
+  "duration": 3.08,
+  "text": "Altman wrote,"
+ },
+ {
+  "start": 565.88,
+  "duration": 4.04,
+  "text": "\"So far, at least, I'm pretty sure AI"
+ },
+ {
+  "start": 567.8,
+  "duration": 3.92,
+  "text": "has been net job creating. This was not"
+ },
+ {
+  "start": 569.92,
+  "duration": 3.52,
+  "text": "what I expected, although I was much"
+ },
+ {
+  "start": 571.72,
+  "duration": 3.08,
+  "text": "less pessimistic than others. I thought"
+ },
+ {
+  "start": 573.44,
+  "duration": 3.36,
+  "text": "by this level of capability we'd have"
+ },
+ {
+  "start": 574.8,
+  "duration": 3.76,
+  "text": "seen some impact. It is possible this"
+ },
+ {
+  "start": 576.8,
+  "duration": 2.92,
+  "text": "direction keeps going."
+ },
+ {
+  "start": 578.56,
+  "duration": 2.96,
+  "text": "Now, obviously, if you've listened to"
+ },
+ {
+  "start": 579.72,
+  "duration": 3.2,
+  "text": "episodes of mine like the new jobs AI"
+ },
+ {
+  "start": 581.52,
+  "duration": 3.6,
+  "text": "will create, you will know that I am"
+ },
+ {
+  "start": 582.92,
+  "duration": 4.32,
+  "text": "fully in the camp of AI being a job"
+ },
+ {
+  "start": 585.12,
+  "duration": 3.32,
+  "text": "changer, but a net job unlocker, but"
+ },
+ {
+  "start": 587.24,
+  "duration": 3.04,
+  "text": "that doesn't mean that the transition"
+ },
+ {
+  "start": 588.44,
+  "duration": 4.12,
+  "text": "period won't be without some incredible"
+ },
+ {
+  "start": 590.28,
+  "duration": 3.76,
+  "text": "challenges."
+ },
+ {
+  "start": 592.56,
+  "duration": 3.68,
+  "text": "So, to the extent that our discourse can"
+ },
+ {
+  "start": 594.04,
+  "duration": 4.44,
+  "text": "shift from, you know, burning buildings"
+ },
+ {
+  "start": 596.24,
+  "duration": 3.64,
+  "text": "and gravestones to, hey, this is big and"
+ },
+ {
+  "start": 598.48,
+  "duration": 3.24,
+  "text": "we should study it, I think that would"
+ },
+ {
+  "start": 599.88,
+  "duration": 3.56,
+  "text": "be a positive thing."
+ },
+ {
+  "start": 601.72,
+  "duration": 4.04,
+  "text": "One other evolution of a previous"
+ },
+ {
+  "start": 603.44,
+  "duration": 3.84,
+  "text": "document of AI social discourse is a new"
+ },
+ {
+  "start": 605.76,
+  "duration": 4.92,
+  "text": "discussion piece from the AI Futures"
+ },
+ {
+  "start": 607.28,
+  "duration": 4.76,
+  "text": "project called AI 2040 Plan A."
+ },
+ {
+  "start": 610.68,
+  "duration": 4.04,
+  "text": "This was produced by the same people who"
+ },
+ {
+  "start": 612.04,
+  "duration": 4.6,
+  "text": "published AI 2027 last year, which got a"
+ },
+ {
+  "start": 614.72,
+  "duration": 4.96,
+  "text": "whole lot of attention and a whole lot"
+ },
+ {
+  "start": 616.64,
+  "duration": 5.6,
+  "text": "of critique. AI 2027 was, for lack of a"
+ },
+ {
+  "start": 619.68,
+  "duration": 3.84,
+  "text": "better term, a doomsday scenario. It ran"
+ },
+ {
+  "start": 622.24,
+  "duration": 3.08,
+  "text": "through a hypothetical chain of events"
+ },
+ {
+  "start": 623.52,
+  "duration": 3.96,
+  "text": "that began in the current day, which was"
+ },
+ {
+  "start": 625.32,
+  "duration": 3.64,
+  "text": "then mid-2025, with hapless agents that"
+ },
+ {
+  "start": 627.48,
+  "duration": 3.16,
+  "text": "couldn't do much of anything. In late"
+ },
+ {
+  "start": 628.96,
+  "duration": 3.08,
+  "text": "2025, the scenario predicted the"
+ },
+ {
+  "start": 630.64,
+  "duration": 3.24,
+  "text": "emergence of the world's largest AI"
+ },
+ {
+  "start": 632.04,
+  "duration": 3.36,
+  "text": "model called Agent One. This fictional"
+ },
+ {
+  "start": 633.88,
+  "duration": 3.2,
+  "text": "model was great at many things like web"
+ },
+ {
+  "start": 635.4,
+  "duration": 3.04,
+  "text": "browsing and autonomous coding, but also"
+ },
+ {
+  "start": 637.08,
+  "duration": 3.92,
+  "text": "developing bioweapons and computer"
+ },
+ {
+  "start": 638.44,
+  "duration": 4.36,
+  "text": "hacking. Open Brain, the fictional"
+ },
+ {
+  "start": 641.0,
+  "duration": 3.24,
+  "text": "company that trained Agent One, was"
+ },
+ {
+  "start": 642.8,
+  "duration": 2.76,
+  "text": "careful to align the system to ensure"
+ },
+ {
+  "start": 644.24,
+  "duration": 3.36,
+  "text": "these nefarious use cases would be"
+ },
+ {
+  "start": 645.56,
+  "duration": 3.36,
+  "text": "refused. In particular, Agent One was"
+ },
+ {
+  "start": 647.6,
+  "duration": 3.48,
+  "text": "the first AI model that was truly"
+ },
+ {
+  "start": 648.92,
+  "duration": 3.76,
+  "text": "capable of training other AI models, the"
+ },
+ {
+  "start": 651.08,
+  "duration": 3.64,
+  "text": "dawn of recursive self-improvement."
+ },
+ {
+  "start": 652.68,
+  "duration": 3.96,
+  "text": "Moving through into 2026, the scenario"
+ },
+ {
+  "start": 654.72,
+  "duration": 3.52,
+  "text": "discussed the rise of autonomous coding,"
+ },
+ {
+  "start": 656.64,
+  "duration": 2.96,
+  "text": "plus China focusing resources more"
+ },
+ {
+  "start": 658.24,
+  "duration": 3.2,
+  "text": "intensely on supporting their AI"
+ },
+ {
+  "start": 659.6,
+  "duration": 4.28,
+  "text": "industry and fully joining the AI race,"
+ },
+ {
+  "start": 661.44,
+  "duration": 5.52,
+  "text": "and the start of undeniable AI job loss."
+ },
+ {
+  "start": 663.88,
+  "duration": 5.2,
+  "text": "In the AI 2027 document, it was in 2027"
+ },
+ {
+  "start": 666.96,
+  "duration": 3.72,
+  "text": "that the hard takeoff began. Open Brain"
+ },
+ {
+  "start": 669.08,
+  "duration": 3.2,
+  "text": "trains Agent Two with the help of Agent"
+ },
+ {
+  "start": 670.68,
+  "duration": 3.12,
+  "text": "One, focusing even more on recursive"
+ },
+ {
+  "start": 672.28,
+  "duration": 2.88,
+  "text": "self-improvement, with the model held"
+ },
+ {
+  "start": 673.8,
+  "duration": 3.16,
+  "text": "back from release under the guise of"
+ },
+ {
+  "start": 675.16,
+  "duration": 3.4,
+  "text": "responsible AI development. Then, in"
+ },
+ {
+  "start": 676.96,
+  "duration": 3.2,
+  "text": "February of '27, the US government"
+ },
+ {
+  "start": 678.56,
+  "duration": 3.36,
+  "text": "glimpses the cyber hacking capabilities"
+ },
+ {
+  "start": 680.16,
+  "duration": 3.56,
+  "text": "of Agent Two and considers nationalizing"
+ },
+ {
+  "start": 681.92,
+  "duration": 3.4,
+  "text": "Open Brain to lock down the technology."
+ },
+ {
+  "start": 683.72,
+  "duration": 3.4,
+  "text": "Turns out to be too late as the Chinese"
+ },
+ {
+  "start": 685.32,
+  "duration": 3.92,
+  "text": "government steals the model. From there,"
+ },
+ {
+  "start": 687.12,
+  "duration": 4.04,
+  "text": "the scenario spirals off into AI doomer"
+ },
+ {
+  "start": 689.24,
+  "duration": 3.88,
+  "text": "fan fiction. Agent Three is developed,"
+ },
+ {
+  "start": 691.16,
+  "duration": 3.88,
+  "text": "another step change more powerful with"
+ },
+ {
+  "start": 693.12,
+  "duration": 3.44,
+  "text": "even more alignment difficulties. AI"
+ },
+ {
+  "start": 695.04,
+  "duration": 3.4,
+  "text": "becomes the primary national security"
+ },
+ {
+  "start": 696.56,
+  "duration": 3.32,
+  "text": "concern across the globe. Self-improving"
+ },
+ {
+  "start": 698.44,
+  "duration": 3.0,
+  "text": "AI becomes a reality and the"
+ },
+ {
+  "start": 699.88,
+  "duration": 3.2,
+  "text": "intelligence explosion replaces all"
+ },
+ {
+  "start": 701.44,
+  "duration": 3.24,
+  "text": "work. By the end of 2027"
+ },
+ {
+  "start": 703.08,
+  "duration": 3.32,
+  "text": "superintelligence has essentially broken"
+ },
+ {
+  "start": 704.68,
+  "duration": 2.88,
+  "text": "the economy and society as a whole are"
+ },
+ {
+  "start": 706.4,
+  "duration": 3.36,
+  "text": "scrambling to figure out how to put the"
+ },
+ {
+  "start": 707.56,
+  "duration": 3.72,
+  "text": "genie back in the bottle."
+ },
+ {
+  "start": 709.76,
+  "duration": 4.52,
+  "text": "Now, instead of being a doomsday"
+ },
+ {
+  "start": 711.28,
+  "duration": 4.92,
+  "text": "scenario, AI 2040 is a plan. The AI"
+ },
+ {
+  "start": 714.28,
+  "duration": 3.72,
+  "text": "Futures Project indeed introduced it as"
+ },
+ {
+  "start": 716.2,
+  "duration": 4.24,
+  "text": "the quote least bad plan we currently"
+ },
+ {
+  "start": 718.0,
+  "duration": 3.8,
+  "text": "know of and wrote, \"It's called plan A"
+ },
+ {
+  "start": 720.44,
+  "duration": 2.96,
+  "text": "because it's a recommendation, not a"
+ },
+ {
+  "start": 721.8,
+  "duration": 3.16,
+  "text": "prediction. It's what we think should"
+ },
+ {
+  "start": 723.4,
+  "duration": 3.36,
+  "text": "happen, not what will happen, though we"
+ },
+ {
+  "start": 724.96,
+  "duration": 4.0,
+  "text": "think it's plausible enough to aim for."
+ },
+ {
+  "start": 726.76,
+  "duration": 3.84,
+  "text": "It's called AI 2040 because in it they"
+ },
+ {
+  "start": 728.96,
+  "duration": 3.4,
+  "text": "delay the creation of superintelligence"
+ },
+ {
+  "start": 730.6,
+  "duration": 3.84,
+  "text": "to 2040. It would have happened much"
+ },
+ {
+  "start": 732.36,
+  "duration": 3.36,
+  "text": "sooner, in 2030 to be precise, if not"
+ },
+ {
+  "start": 734.44,
+  "duration": 3.36,
+  "text": "for the decisive action on the part of"
+ },
+ {
+  "start": 735.72,
+  "duration": 4.04,
+  "text": "the US and Chinese governments.\""
+ },
+ {
+  "start": 737.8,
+  "duration": 3.28,
+  "text": "It's basically a big plan for how the"
+ },
+ {
+  "start": 739.76,
+  "duration": 3.4,
+  "text": "Chinese and US government could get"
+ },
+ {
+  "start": 741.08,
+  "duration": 3.84,
+  "text": "together and slow down AI even if they"
+ },
+ {
+  "start": 743.16,
+  "duration": 3.56,
+  "text": "don't trust each other. And while on the"
+ },
+ {
+  "start": 744.92,
+  "duration": 5.24,
+  "text": "one hand, many of the issues with AI"
+ },
+ {
+  "start": 746.72,
+  "duration": 4.96,
+  "text": "2027 remain. Timothy B. Lee wrote, \"I"
+ },
+ {
+  "start": 750.16,
+  "duration": 4.24,
+  "text": "struggle with what to say about the new"
+ },
+ {
+  "start": 751.68,
+  "duration": 4.159,
+  "text": "AI 2040 plan A website. It all seems so"
+ },
+ {
+  "start": 754.4,
+  "duration": 3.32,
+  "text": "implausible to me that I'm not sure"
+ },
+ {
+  "start": 755.839,
+  "duration": 3.281,
+  "text": "where to start. There is an epistemic"
+ },
+ {
+  "start": 757.72,
+  "duration": 2.68,
+  "text": "chasm between those who think"
+ },
+ {
+  "start": 759.12,
+  "duration": 3.16,
+  "text": "superintelligence applies near"
+ },
+ {
+  "start": 760.4,
+  "duration": 3.92,
+  "text": "omnipotence and those, like me, who"
+ },
+ {
+  "start": 762.28,
+  "duration": 3.64,
+  "text": "don't. I found that people believe it at"
+ },
+ {
+  "start": 764.32,
+  "duration": 2.92,
+  "text": "such a deeply intuitive level that it's"
+ },
+ {
+  "start": 765.92,
+  "duration": 3.32,
+  "text": "hard to have a meaningful discussion"
+ },
+ {
+  "start": 767.24,
+  "duration": 3.16,
+  "text": "about it. Each side finds it baffling to"
+ },
+ {
+  "start": 769.24,
+  "duration": 2.64,
+  "text": "encounter people with the opposite"
+ },
+ {
+  "start": 770.4,
+  "duration": 3.439,
+  "text": "intuition and on some level can't"
+ },
+ {
+  "start": 771.88,
+  "duration": 4.32,
+  "text": "believe they're being serious. At the"
+ },
+ {
+  "start": 773.839,
+  "duration": 4.721,
+  "text": "same time, because it is framed as a"
+ },
+ {
+  "start": 776.2,
+  "duration": 4.56,
+  "text": "plan, people can engage in some more"
+ },
+ {
+  "start": 778.56,
+  "duration": 4.36,
+  "text": "meaningful way with what to actually do"
+ },
+ {
+  "start": 780.76,
+  "duration": 4.32,
+  "text": "about concerns if they happen.\""
+ },
+ {
+  "start": 782.92,
+  "duration": 4.12,
+  "text": "Finally today, Google's Demis Hassabis"
+ },
+ {
+  "start": 785.08,
+  "duration": 3.64,
+  "text": "also jumped into the conversation with"
+ },
+ {
+  "start": 787.04,
+  "duration": 3.6,
+  "text": "an ex-post called a framework for"
+ },
+ {
+  "start": 788.72,
+  "duration": 4.04,
+  "text": "frontier AI and the dawning of a new"
+ },
+ {
+  "start": 790.64,
+  "duration": 4.08,
+  "text": "age. Demis writes,"
+ },
+ {
+  "start": 792.76,
+  "duration": 3.079,
+  "text": "\"I've spent my whole life working on AGI"
+ },
+ {
+  "start": 794.72,
+  "duration": 3.04,
+  "text": "because I've always had a deep"
+ },
+ {
+  "start": 795.839,
+  "duration": 3.521,
+  "text": "conviction that, if built and deployed"
+ },
+ {
+  "start": 797.76,
+  "duration": 3.04,
+  "text": "responsibly, it would prove to be one of"
+ },
+ {
+  "start": 799.36,
+  "duration": 3.84,
+  "text": "the most beneficial and transformative"
+ },
+ {
+  "start": 800.8,
+  "duration": 4.08,
+  "text": "technologies ever invented. AGI cannot"
+ },
+ {
+  "start": 803.2,
+  "duration": 3.36,
+  "text": "be compared to standard technological"
+ },
+ {
+  "start": 804.88,
+  "duration": 3.72,
+  "text": "breakthroughs, not even ones as"
+ },
+ {
+  "start": 806.56,
+  "duration": 3.76,
+  "text": "consequential as the internet or mobile."
+ },
+ {
+  "start": 808.6,
+  "duration": 3.6,
+  "text": "It is much more akin to the discovery of"
+ },
+ {
+  "start": 810.32,
+  "duration": 3.28,
+  "text": "electricity or fire. If you stop to"
+ },
+ {
+  "start": 812.2,
+  "duration": 2.88,
+  "text": "think about it, we've essentially found"
+ },
+ {
+  "start": 813.6,
+  "duration": 3.16,
+  "text": "a way to make sand think. It's"
+ },
+ {
+  "start": 815.08,
+  "duration": 3.12,
+  "text": "miraculous. The magnitude of this"
+ },
+ {
+  "start": 816.76,
+  "duration": 3.48,
+  "text": "technology's impact will be"
+ },
+ {
+  "start": 818.2,
+  "duration": 4.24,
+  "text": "unprecedented, perhaps 10x of the"
+ },
+ {
+  "start": 820.24,
+  "duration": 3.24,
+  "text": "industrial revolution at 10x the speed."
+ },
+ {
+  "start": 822.44,
+  "duration": 2.64,
+  "text": "It will help us solve some of the"
+ },
+ {
+  "start": 823.48,
+  "duration": 3.04,
+  "text": "biggest problems society faces from"
+ },
+ {
+  "start": 825.08,
+  "duration": 3.04,
+  "text": "accelerating drug discovery to"
+ },
+ {
+  "start": 826.52,
+  "duration": 3.56,
+  "text": "developing new clean energy sources to"
+ },
+ {
+  "start": 828.12,
+  "duration": 3.76,
+  "text": "creating novel advanced materials. We"
+ },
+ {
+  "start": 830.08,
+  "duration": 3.24,
+  "text": "could even reach a point where resources"
+ },
+ {
+  "start": 831.88,
+  "duration": 3.44,
+  "text": "are no longer the limiting factor for"
+ },
+ {
+  "start": 833.32,
+  "duration": 3.84,
+  "text": "human progress, leading to an amazing"
+ },
+ {
+  "start": 835.32,
+  "duration": 3.76,
+  "text": "new era of abundance."
+ },
+ {
+  "start": 837.16,
+  "duration": 3.32,
+  "text": "The rest of the piece then is about what"
+ },
+ {
+  "start": 839.08,
+  "duration": 3.36,
+  "text": "Demis believes needs to happen to"
+ },
+ {
+  "start": 840.48,
+  "duration": 4.2,
+  "text": "achieve that positive vision."
+ },
+ {
+  "start": 842.44,
+  "duration": 4.12,
+  "text": "No one challenge in Demis's estimation"
+ },
+ {
+  "start": 844.68,
+  "duration": 3.64,
+  "text": "is that the race around AI doesn't"
+ },
+ {
+  "start": 846.56,
+  "duration": 3.2,
+  "text": "create a lot of space for the type of"
+ },
+ {
+  "start": 848.32,
+  "duration": 2.92,
+  "text": "considered policy discourse that needs"
+ },
+ {
+  "start": 849.76,
+  "duration": 3.12,
+  "text": "to surround it. At the moment, he"
+ },
+ {
+  "start": 851.24,
+  "duration": 3.32,
+  "text": "writes, we are locked in an extremely"
+ },
+ {
+  "start": 852.88,
+  "duration": 3.12,
+  "text": "intense multi-layer commercial and"
+ },
+ {
+  "start": 854.56,
+  "duration": 3.48,
+  "text": "geopolitical race. While these"
+ },
+ {
+  "start": 856.0,
+  "duration": 3.8,
+  "text": "competitive dynamics fuel rapid progress"
+ },
+ {
+  "start": 858.04,
+  "duration": 3.72,
+  "text": "and accelerate the incredible upsides,"
+ },
+ {
+  "start": 859.8,
+  "duration": 3.56,
+  "text": "advances on the frontier are outpacing"
+ },
+ {
+  "start": 861.76,
+  "duration": 2.92,
+  "text": "our understanding of the technology."
+ },
+ {
+  "start": 863.36,
+  "duration": 2.72,
+  "text": "Nobody in the world knows for sure what"
+ },
+ {
+  "start": 864.68,
+  "duration": 3.2,
+  "text": "is going to happen from here, and even"
+ },
+ {
+  "start": 866.08,
+  "duration": 3.04,
+  "text": "the experts disagree. When there is a"
+ },
+ {
+  "start": 867.88,
+  "duration": 2.84,
+  "text": "large degree of uncertainty and the"
+ },
+ {
+  "start": 869.12,
+  "duration": 3.36,
+  "text": "stakes are this high, proceeding with"
+ },
+ {
+  "start": 870.72,
+  "duration": 3.68,
+  "text": "cautious optimism is the sensible and"
+ },
+ {
+  "start": 872.48,
+  "duration": 3.72,
+  "text": "correct strategy. That calls for public"
+ },
+ {
+  "start": 874.4,
+  "duration": 3.52,
+  "text": "policy that promotes innovation while"
+ },
+ {
+  "start": 876.2,
+  "duration": 3.44,
+  "text": "also incentivizing responsibility and"
+ },
+ {
+  "start": 877.92,
+  "duration": 3.64,
+  "text": "security, fosters international"
+ },
+ {
+  "start": 879.64,
+  "duration": 3.8,
+  "text": "collaboration on key safety issues, and"
+ },
+ {
+  "start": 881.56,
+  "duration": 3.16,
+  "text": "encourages careful consideration of how"
+ },
+ {
+  "start": 883.44,
+  "duration": 2.56,
+  "text": "AI is deployed for the benefit of"
+ },
+ {
+  "start": 884.72,
+  "duration": 2.92,
+  "text": "society."
+ },
+ {
+  "start": 886.0,
+  "duration": 3.92,
+  "text": "From there, Demis advocates for a new"
+ },
+ {
+  "start": 887.64,
+  "duration": 3.84,
+  "text": "framework frontier AI standards. One he"
+ },
+ {
+  "start": 889.92,
+  "duration": 3.68,
+  "text": "suggests that could establish a new"
+ },
+ {
+  "start": 891.48,
+  "duration": 3.8,
+  "text": "standards body, modeled on a federally"
+ },
+ {
+  "start": 893.6,
+  "duration": 3.88,
+  "text": "overseen public-private partnership or"
+ },
+ {
+  "start": 895.28,
+  "duration": 3.68,
+  "text": "self-regulation organization, much like"
+ },
+ {
+  "start": 897.48,
+  "duration": 3.2,
+  "text": "the Financial Industry Regulatory"
+ },
+ {
+  "start": 898.96,
+  "duration": 3.12,
+  "text": "Authority or FINRA."
+ },
+ {
+  "start": 900.68,
+  "duration": 2.88,
+  "text": "The standards body he suggests would be"
+ },
+ {
+  "start": 902.08,
+  "duration": 3.24,
+  "text": "responsible for developing assessment"
+ },
+ {
+  "start": 903.56,
+  "duration": 3.6,
+  "text": "protocols and working with appropriate"
+ },
+ {
+  "start": 905.32,
+  "duration": 3.44,
+  "text": "federal agencies in the US national labs"
+ },
+ {
+  "start": 907.16,
+  "duration": 3.52,
+  "text": "to conduct testing in areas relevant to"
+ },
+ {
+  "start": 908.76,
+  "duration": 3.64,
+  "text": "national security. A model, he says,"
+ },
+ {
+  "start": 910.68,
+  "duration": 3.08,
+  "text": "would qualify as frontier class if it"
+ },
+ {
+  "start": 912.4,
+  "duration": 2.76,
+  "text": "meets certain thresholds on a set of"
+ },
+ {
+  "start": 913.76,
+  "duration": 3.72,
+  "text": "benchmarks determined by the standards"
+ },
+ {
+  "start": 915.16,
+  "duration": 4.16,
+  "text": "body and regularly updated to keep pace"
+ },
+ {
+  "start": 917.48,
+  "duration": 3.24,
+  "text": "with evolving AI capabilities. He"
+ },
+ {
+  "start": 919.32,
+  "duration": 3.12,
+  "text": "suggests that the frontier labs would"
+ },
+ {
+  "start": 920.72,
+  "duration": 3.52,
+  "text": "share models voluntarily with the"
+ },
+ {
+  "start": 922.44,
+  "duration": 3.8,
+  "text": "standards body for review up to 30 days"
+ },
+ {
+  "start": 924.24,
+  "duration": 4.36,
+  "text": "before release. And basically, he's"
+ },
+ {
+  "start": 926.24,
+  "duration": 4.24,
+  "text": "articulating a sort of formalization of"
+ },
+ {
+  "start": 928.6,
+  "duration": 3.32,
+  "text": "the kind of ad hoc process that the"
+ },
+ {
+  "start": 930.48,
+  "duration": 3.24,
+  "text": "White House has started to wander down"
+ },
+ {
+  "start": 931.92,
+  "duration": 3.72,
+  "text": "over the last month or so."
+ },
+ {
+  "start": 933.72,
+  "duration": 3.44,
+  "text": "Now, many commented on the tone of"
+ },
+ {
+  "start": 935.64,
+  "duration": 3.32,
+  "text": "optimism in Demis Hassabis' piece."
+ },
+ {
+  "start": 937.16,
+  "duration": 3.16,
+  "text": "Chubby Communist Miss writes,"
+ },
+ {
+  "start": 938.96,
+  "duration": 3.12,
+  "text": "Demis Hassabis has written a piece about"
+ },
+ {
+  "start": 940.32,
+  "duration": 3.68,
+  "text": "AGI, and rarely has he sounded so"
+ },
+ {
+  "start": 942.08,
+  "duration": 3.04,
+  "text": "optimistic. The golden future of science"
+ },
+ {
+  "start": 944.0,
+  "duration": 3.08,
+  "text": "lies ahead of us, and we are on the"
+ },
+ {
+  "start": 945.12,
+  "duration": 4.0,
+  "text": "threshold of the singularity."
+ },
+ {
+  "start": 947.08,
+  "duration": 4.04,
+  "text": "Microsoft's Mustafa Suleyman wrote,"
+ },
+ {
+  "start": 949.12,
+  "duration": 4.12,
+  "text": "Fully support this important from Demis"
+ },
+ {
+  "start": 951.12,
+  "duration": 3.16,
+  "text": "Hassabis. The time for us all to act is"
+ },
+ {
+  "start": 953.24,
+  "duration": 2.56,
+  "text": "now."
+ },
+ {
+  "start": 954.28,
+  "duration": 3.84,
+  "text": "Economist Alex Mask, who we heard from"
+ },
+ {
+  "start": 955.8,
+  "duration": 3.88,
+  "text": "before, wrote, Demis' proposal for a"
+ },
+ {
+  "start": 958.12,
+  "duration": 3.24,
+  "text": "frontier model standards body is an"
+ },
+ {
+  "start": 959.68,
+  "duration": 3.36,
+  "text": "important blueprint for governance as AI"
+ },
+ {
+  "start": 961.36,
+  "duration": 3.44,
+  "text": "begins to impact almost every aspect of"
+ },
+ {
+  "start": 963.04,
+  "duration": 3.0,
+  "text": "society. Developing a rigorous"
+ },
+ {
+  "start": 964.8,
+  "duration": 2.72,
+  "text": "pre-release testing framework is"
+ },
+ {
+  "start": 966.04,
+  "duration": 3.68,
+  "text": "critical for the collective stewardship"
+ },
+ {
+  "start": 967.52,
+  "duration": 4.92,
+  "text": "of this transformative technology."
+ },
+ {
+  "start": 969.72,
+  "duration": 5.32,
+  "text": "Others are less sure. Saiho writes,"
+ },
+ {
+  "start": 972.44,
+  "duration": 5.0,
+  "text": "TLDR, maybe we should regulate AI corpo"
+ },
+ {
+  "start": 975.04,
+  "duration": 3.76,
+  "text": "slot padded with techno-messianism."
+ },
+ {
+  "start": 977.44,
+  "duration": 3.56,
+  "text": "Getting at the same idea with fewer"
+ },
+ {
+  "start": 978.8,
+  "duration": 4.32,
+  "text": "made-up words, investor Andrew Steinwold"
+ },
+ {
+  "start": 981.0,
+  "duration": 3.6,
+  "text": "wrote, Demis is a super genius, and I"
+ },
+ {
+  "start": 983.12,
+  "duration": 3.24,
+  "text": "respect the hell out of him. But having"
+ },
+ {
+  "start": 984.6,
+  "duration": 3.96,
+  "text": "the US regulate anything around AI just"
+ },
+ {
+  "start": 986.36,
+  "duration": 3.92,
+  "text": "spells doom for the entire ecosystem. If"
+ },
+ {
+  "start": 988.56,
+  "duration": 3.44,
+  "text": "the US does regulate AI, then we can"
+ },
+ {
+  "start": 990.28,
+  "duration": 4.28,
+  "text": "kiss our slight lead goodbye and welcome"
+ },
+ {
+  "start": 992.0,
+  "duration": 4.6,
+  "text": "our future Chinese AI overlords."
+ },
+ {
+  "start": 994.56,
+  "duration": 3.76,
+  "text": "A few days ago, Google DeepMind's Seb"
+ },
+ {
+  "start": 996.6,
+  "duration": 3.28,
+  "text": "Krier wrote something that I think does"
+ },
+ {
+  "start": 998.32,
+  "duration": 3.6,
+  "text": "a lot to explain different people's"
+ },
+ {
+  "start": 999.88,
+  "duration": 4.28,
+  "text": "reactions to this conversation. He"
+ },
+ {
+  "start": 1001.92,
+  "duration": 4.88,
+  "text": "wrote, The reactions to prescriptions"
+ },
+ {
+  "start": 1004.16,
+  "duration": 4.32,
+  "text": "about AGI have less to do with being AGI"
+ },
+ {
+  "start": 1006.8,
+  "duration": 3.32,
+  "text": "pilled or not, and more about whether"
+ },
+ {
+  "start": 1008.48,
+  "duration": 4.4,
+  "text": "you're more concerned with AI's taking"
+ },
+ {
+  "start": 1010.12,
+  "duration": 4.88,
+  "text": "over, ex-risk, companies taking over,"
+ },
+ {
+  "start": 1012.88,
+  "duration": 3.56,
+  "text": "anti-capitalism, or the abuse of power"
+ },
+ {
+  "start": 1015.0,
+  "duration": 3.2,
+  "text": "by empowered governments,"
+ },
+ {
+  "start": 1016.44,
+  "duration": 3.6,
+  "text": "anti-authoritarianism."
+ },
+ {
+  "start": 1018.2,
+  "duration": 4.48,
+  "text": "Singularity University's Ramez Naam"
+ },
+ {
+  "start": 1020.04,
+  "duration": 4.039,
+  "text": "writes, I'm firmly in the third camp."
+ },
+ {
+  "start": 1022.68,
+  "duration": 3.159,
+  "text": "And making the connection back to AI"
+ },
+ {
+  "start": 1024.079,
+  "duration": 3.681,
+  "text": "2040, he writes,"
+ },
+ {
+  "start": 1025.839,
+  "duration": 3.721,
+  "text": "The basic problem with AI 2040 is that"
+ },
+ {
+  "start": 1027.76,
+  "duration": 4.199,
+  "text": "it uses a fictional and speculative"
+ },
+ {
+  "start": 1029.56,
+  "duration": 4.24,
+  "text": "doomsday scenario to justify very real"
+ },
+ {
+  "start": 1031.959,
+  "duration": 3.401,
+  "text": "surveillance and control capabilities"
+ },
+ {
+  "start": 1033.8,
+  "duration": 3.399,
+  "text": "that governments would be certain to use"
+ },
+ {
+  "start": 1035.36,
+  "duration": 3.8,
+  "text": "in authoritarian ways well beyond AI"
+ },
+ {
+  "start": 1037.199,
+  "duration": 3.961,
+  "text": "safety. It warns against concentration"
+ },
+ {
+  "start": 1039.16,
+  "duration": 3.52,
+  "text": "of AI power, but its policy proposals"
+ },
+ {
+  "start": 1041.16,
+  "duration": 3.36,
+  "text": "serve to increase the power of the most"
+ },
+ {
+  "start": 1042.68,
+  "duration": 3.759,
+  "text": "powerful entities on planet Earth. It"
+ },
+ {
+  "start": 1044.52,
+  "duration": 3.919,
+  "text": "completely sacrifices freedom in ways"
+ },
+ {
+  "start": 1046.439,
+  "duration": 4.041,
+  "text": "guaranteed to cause harm in an effort to"
+ },
+ {
+  "start": 1048.439,
+  "duration": 3.201,
+  "text": "forestall a made-up threat. It proposes"
+ },
+ {
+  "start": 1050.48,
+  "duration": 2.92,
+  "text": "safety tools that give governments"
+ },
+ {
+  "start": 1051.64,
+  "duration": 3.44,
+  "text": "unprecedented capabilities to monitor,"
+ },
+ {
+  "start": 1053.4,
+  "duration": 2.92,
+  "text": "suppress, and manipulate. These tools"
+ },
+ {
+  "start": 1055.08,
+  "duration": 3.24,
+  "text": "are intended only to stop the"
+ },
+ {
+  "start": 1056.32,
+  "duration": 3.44,
+  "text": "development of overly powerful AI, but"
+ },
+ {
+  "start": 1058.32,
+  "duration": 3.52,
+  "text": "once they exist, governments will use"
+ },
+ {
+  "start": 1059.76,
+  "duration": 3.56,
+  "text": "them as they please. The authors mean"
+ },
+ {
+  "start": 1061.84,
+  "duration": 3.24,
+  "text": "well, but are so convinced of a"
+ },
+ {
+  "start": 1063.32,
+  "duration": 3.56,
+  "text": "fictional and unproven threat that they"
+ },
+ {
+  "start": 1065.08,
+  "duration": 3.12,
+  "text": "do real harm to the world to prevent it."
+ },
+ {
+  "start": 1066.88,
+  "duration": 3.08,
+  "text": "It would create a world that is less"
+ },
+ {
+  "start": 1068.2,
+  "duration": 4.72,
+  "text": "free and less safe in the name of safety"
+ },
+ {
+  "start": 1069.96,
+  "duration": 5.0,
+  "text": "for a threat that may not even exist."
+ },
+ {
+  "start": 1072.92,
+  "duration": 3.2,
+  "text": "So, clearly there is no consensus here."
+ },
+ {
+  "start": 1074.96,
+  "duration": 3.12,
+  "text": "So, how do we make sense of where we"
+ },
+ {
+  "start": 1076.12,
+  "duration": 3.4,
+  "text": "are? Honestly, the short of it is that I"
+ },
+ {
+  "start": 1078.08,
+  "duration": 3.0,
+  "text": "think even the societal discourse"
+ },
+ {
+  "start": 1079.52,
+  "duration": 3.44,
+  "text": "conversation is that I think that there"
+ },
+ {
+  "start": 1081.08,
+  "duration": 3.88,
+  "text": "is reason for optimism in the discourse"
+ },
+ {
+  "start": 1082.96,
+  "duration": 3.44,
+  "text": "itself. Having watched the AI social"
+ },
+ {
+  "start": 1084.96,
+  "duration": 2.8,
+  "text": "discourse since basically the moment"
+ },
+ {
+  "start": 1086.4,
+  "duration": 3.6,
+  "text": "that ChatGPT launched, the"
+ },
+ {
+  "start": 1087.76,
+  "duration": 4.6,
+  "text": "directionality is extremely clear. The"
+ },
+ {
+  "start": 1090.0,
+  "duration": 5.32,
+  "text": "conversation has at almost every turn"
+ },
+ {
+  "start": 1092.36,
+  "duration": 4.76,
+  "text": "proceeded to more nuance, more epistemic"
+ },
+ {
+  "start": 1095.32,
+  "duration": 3.64,
+  "text": "humility, less a priori"
+ },
+ {
+  "start": 1097.12,
+  "duration": 3.6,
+  "text": "prescriptiveness, more openness to"
+ },
+ {
+  "start": 1098.96,
+  "duration": 3.32,
+  "text": "possibility, and this last one might"
+ },
+ {
+  "start": 1100.72,
+  "duration": 3.72,
+  "text": "just be a vector of more time having"
+ },
+ {
+  "start": 1102.28,
+  "duration": 3.88,
+  "text": "passed, more interest in and adherence"
+ },
+ {
+  "start": 1104.44,
+  "duration": 3.52,
+  "text": "to the facts as they are actually"
+ },
+ {
+  "start": 1106.16,
+  "duration": 4.0,
+  "text": "showing themselves rather than what"
+ },
+ {
+  "start": 1107.96,
+  "duration": 3.84,
+  "text": "people imagined would happen."
+ },
+ {
+  "start": 1110.16,
+  "duration": 3.32,
+  "text": "Look, even the Anthropic ad that I was"
+ },
+ {
+  "start": 1111.8,
+  "duration": 3.28,
+  "text": "lambasting at the beginning of this show"
+ },
+ {
+  "start": 1113.48,
+  "duration": 3.28,
+  "text": "is trying to drag itself towards"
+ },
+ {
+  "start": 1115.08,
+  "duration": 3.48,
+  "text": "optimism, even if I'm not sure it"
+ },
+ {
+  "start": 1116.76,
+  "duration": 3.92,
+  "text": "succeeds in practice."
+ },
+ {
+  "start": 1118.56,
+  "duration": 5.04,
+  "text": "In short, I think that the context for"
+ },
+ {
+  "start": 1120.68,
+  "duration": 5.84,
+  "text": "useful conversations about AI risks and"
+ },
+ {
+  "start": 1123.6,
+  "duration": 4.48,
+  "text": "AI challenges and AI concerns is much"
+ },
+ {
+  "start": 1126.52,
+  "duration": 2.88,
+  "text": "better than it has previously been, and"
+ },
+ {
+  "start": 1128.08,
+  "duration": 3.52,
+  "text": "that the discourse is much more likely"
+ },
+ {
+  "start": 1129.4,
+  "duration": 3.6,
+  "text": "to produce actually useful advancement"
+ },
+ {
+  "start": 1131.6,
+  "duration": 3.2,
+  "text": "rather than just vague hand-waving"
+ },
+ {
+  "start": 1133.0,
+  "duration": 4.0,
+  "text": "notions of threats or overly dramatic"
+ },
+ {
+  "start": 1134.8,
+  "duration": 3.48,
+  "text": "responses. And whatever the context is,"
+ },
+ {
+  "start": 1137.0,
+  "duration": 3.12,
+  "text": "it's clear that more people are going to"
+ },
+ {
+  "start": 1138.28,
+  "duration": 3.92,
+  "text": "get involved in this conversation. For"
+ },
+ {
+  "start": 1140.12,
+  "duration": 3.96,
+  "text": "example, the Vatican is about to host"
+ },
+ {
+  "start": 1142.2,
+  "duration": 4.12,
+  "text": "what is effectively a conclave on"
+ },
+ {
+  "start": 1144.08,
+  "duration": 4.4,
+  "text": "pro-human AI featuring Nobel laureates,"
+ },
+ {
+  "start": 1146.32,
+  "duration": 4.04,
+  "text": "AI experts, and researchers."
+ },
+ {
+  "start": 1148.48,
+  "duration": 3.72,
+  "text": "If this had been 3 years ago, I would"
+ },
+ {
+  "start": 1150.36,
+  "duration": 3.6,
+  "text": "probably cringe at this, but given where"
+ },
+ {
+  "start": 1152.2,
+  "duration": 3.56,
+  "text": "we are today, I'm actually interested to"
+ },
+ {
+  "start": 1153.96,
+  "duration": 4.08,
+  "text": "see what they talk about."
+ },
+ {
+  "start": 1155.76,
+  "duration": 3.68,
+  "text": "So there you go. In spite of myself,"
+ },
+ {
+  "start": 1158.04,
+  "duration": 3.08,
+  "text": "even in this part of the AI discourse"
+ },
+ {
+  "start": 1159.44,
+  "duration": 3.84,
+  "text": "that I historically have had huge issues"
+ },
+ {
+  "start": 1161.12,
+  "duration": 4.0,
+  "text": "with, I find more room for optimism than"
+ },
+ {
+  "start": 1163.28,
+  "duration": 3.04,
+  "text": "I might have thought. Anyways, friends,"
+ },
+ {
+  "start": 1165.12,
+  "duration": 2.92,
+  "text": "that is going to do it for today's AI"
+ },
+ {
+  "start": 1166.32,
+  "duration": 3.6,
+  "text": "daily brief. Appreciate you listening or"
+ },
+ {
+  "start": 1168.04,
+  "duration": 4.92,
+  "text": "watching, as always, and until next"
+ },
+ {
+  "start": 1169.92,
+  "duration": 3.04,
+  "text": "time, peace."
+ }
+]

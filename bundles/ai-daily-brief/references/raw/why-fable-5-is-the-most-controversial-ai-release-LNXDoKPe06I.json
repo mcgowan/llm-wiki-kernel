@@ -1,0 +1,4222 @@
+[
+ {
+  "start": 1.36,
+  "duration": 6.479,
+  "text": "Today on the AI daily brief, why Fable 5"
+ },
+ {
+  "start": 4.96,
+  "duration": 5.92,
+  "text": "is easily the most controversial AI"
+ },
+ {
+  "start": 7.839,
+  "duration": 5.76,
+  "text": "model launch of all time. Before that,"
+ },
+ {
+  "start": 10.88,
+  "duration": 5.12,
+  "text": "in the headlines, more chatter about the"
+ },
+ {
+  "start": 13.599,
+  "duration": 4.801,
+  "text": "AI labs donating equity to a sovereign"
+ },
+ {
+  "start": 16.0,
+  "duration": 4.08,
+  "text": "wealth fund. The AI Daily Brief is a"
+ },
+ {
+  "start": 18.4,
+  "duration": 4.719,
+  "text": "daily podcast and video about the most"
+ },
+ {
+  "start": 20.08,
+  "duration": 4.32,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 23.119,
+  "duration": 3.841,
+  "text": "All right, friends, quick announcements"
+ },
+ {
+  "start": 24.4,
+  "duration": 4.48,
+  "text": "before we dive in. Now, speaking of AI"
+ },
+ {
+  "start": 26.96,
+  "duration": 3.44,
+  "text": "Daily Brief.ai, I this has come up a"
+ },
+ {
+  "start": 28.88,
+  "duration": 3.6,
+  "text": "couple of times in the past few days in"
+ },
+ {
+  "start": 30.4,
+  "duration": 4.159,
+  "text": "and around my discussions of Fable, but"
+ },
+ {
+  "start": 32.48,
+  "duration": 3.84,
+  "text": "given the increase in capability to just"
+ },
+ {
+  "start": 34.559,
+  "duration": 4.0,
+  "text": "get things done, I have officially"
+ },
+ {
+  "start": 36.32,
+  "duration": 3.84,
+  "text": "pulled the trigger and launched a new AI"
+ },
+ {
+  "start": 38.559,
+  "duration": 3.52,
+  "text": "daily brief website. This one is meant"
+ },
+ {
+  "start": 40.16,
+  "duration": 4.239,
+  "text": "to answer the most common request that I"
+ },
+ {
+  "start": 42.079,
+  "duration": 4.561,
+  "text": "get, which is make it easier for us to"
+ },
+ {
+  "start": 44.399,
+  "duration": 4.16,
+  "text": "share specific parts of the episode."
+ },
+ {
+  "start": 46.64,
+  "duration": 3.68,
+  "text": "Each episode then is going to have a"
+ },
+ {
+  "start": 48.559,
+  "duration": 3.68,
+  "text": "summary page that includes the one big"
+ },
+ {
+  "start": 50.32,
+  "duration": 4.719,
+  "text": "idea, the key numbers thrown throughout"
+ },
+ {
+  "start": 52.239,
+  "duration": 4.48,
+  "text": "the episode, and 15 to 20 sharable cards"
+ },
+ {
+  "start": 55.039,
+  "duration": 4.241,
+  "text": "that have individual insights,"
+ },
+ {
+  "start": 56.719,
+  "duration": 4.081,
+  "text": "individual quotes, along with timestamps"
+ },
+ {
+  "start": 59.28,
+  "duration": 3.119,
+  "text": "and the ability to link those specific"
+ },
+ {
+  "start": 60.8,
+  "duration": 3.2,
+  "text": "cards out. For folks who want their"
+ },
+ {
+  "start": 62.399,
+  "duration": 3.521,
+  "text": "agents to grab it, you can also download"
+ },
+ {
+  "start": 64.0,
+  "duration": 3.76,
+  "text": "everything on this page as markdown or"
+ },
+ {
+  "start": 65.92,
+  "duration": 3.36,
+  "text": "get the official episode transcript."
+ },
+ {
+  "start": 67.76,
+  "duration": 2.8,
+  "text": "Now, I decided to push this out fast"
+ },
+ {
+  "start": 69.28,
+  "duration": 2.8,
+  "text": "rather than have it perfect, so there's"
+ },
+ {
+  "start": 70.56,
+  "duration": 2.72,
+  "text": "going to be a lot of rough edges. Please"
+ },
+ {
+  "start": 72.08,
+  "duration": 3.039,
+  "text": "shoot me an email if you have any"
+ },
+ {
+  "start": 73.28,
+  "duration": 5.04,
+  "text": "feature requests and I hope you enjoy"
+ },
+ {
+  "start": 75.119,
+  "duration": 5.121,
+  "text": "the new AI daily brief.ai."
+ },
+ {
+  "start": 78.32,
+  "duration": 3.839,
+  "text": "We kick off today with President Trump"
+ },
+ {
+  "start": 80.24,
+  "duration": 4.16,
+  "text": "once again calling for a sovereign"
+ },
+ {
+  "start": 82.159,
+  "duration": 3.681,
+  "text": "wealth fund seated by AI equity. In a"
+ },
+ {
+  "start": 84.4,
+  "duration": 3.359,
+  "text": "press conference in the Oval Office on"
+ },
+ {
+  "start": 85.84,
+  "duration": 3.36,
+  "text": "Wednesday, Trump said, \"I'm going to"
+ },
+ {
+  "start": 87.759,
+  "duration": 2.961,
+  "text": "have meetings with the top 12 or 15"
+ },
+ {
+  "start": 89.2,
+  "duration": 2.72,
+  "text": "executives very shortly, and we're"
+ },
+ {
+  "start": 90.72,
+  "duration": 2.48,
+  "text": "talking about giving something back to"
+ },
+ {
+  "start": 91.92,
+  "duration": 2.72,
+  "text": "the public, and if we do that, the"
+ },
+ {
+  "start": 93.2,
+  "duration": 2.64,
+  "text": "public will become very rich, the people"
+ },
+ {
+  "start": 94.64,
+  "duration": 2.64,
+  "text": "in our country, because that's the kind"
+ },
+ {
+  "start": 95.84,
+  "duration": 2.56,
+  "text": "of money we're talking about.\" And I"
+ },
+ {
+  "start": 97.28,
+  "duration": 2.96,
+  "text": "think they'll do that, and I think it"
+ },
+ {
+  "start": 98.4,
+  "duration": 3.28,
+  "text": "will make it very popular. Now, the New"
+ },
+ {
+  "start": 100.24,
+  "duration": 3.199,
+  "text": "York Times noted that Trump's comments"
+ },
+ {
+  "start": 101.68,
+  "duration": 3.52,
+  "text": "have quote turned up the temperature on"
+ },
+ {
+  "start": 103.439,
+  "duration": 3.521,
+  "text": "a hot topic in Washington and Silicon"
+ },
+ {
+  "start": 105.2,
+  "duration": 3.919,
+  "text": "Valley as the tech industry reckons with"
+ },
+ {
+  "start": 106.96,
+  "duration": 3.92,
+  "text": "the growing backlash against AI. Sources"
+ },
+ {
+  "start": 109.119,
+  "duration": 3.121,
+  "text": "said that Sam Alman did not discuss the"
+ },
+ {
+  "start": 110.88,
+  "duration": 2.8,
+  "text": "idea directly with Trump during his"
+ },
+ {
+  "start": 112.24,
+  "duration": 2.8,
+  "text": "visit to the White House last week."
+ },
+ {
+  "start": 113.68,
+  "duration": 2.88,
+  "text": "However, the concept of a sovereign"
+ },
+ {
+  "start": 115.04,
+  "duration": 3.439,
+  "text": "wealth fund was heavily discussed in"
+ },
+ {
+  "start": 116.56,
+  "duration": 3.36,
+  "text": "Altman's meeting with Bernie Sanders. In"
+ },
+ {
+  "start": 118.479,
+  "duration": 3.441,
+  "text": "good news that the world has not gone"
+ },
+ {
+  "start": 119.92,
+  "duration": 3.68,
+  "text": "completely topsyturvy, Altman did"
+ },
+ {
+  "start": 121.92,
+  "duration": 3.92,
+  "text": "reportedly object to Sanders proposal of"
+ },
+ {
+  "start": 123.6,
+  "duration": 4.56,
+  "text": "OpenAI giving 50% of their equity to the"
+ },
+ {
+  "start": 125.84,
+  "duration": 3.919,
+  "text": "public. Back in Silicon Valley, Altimter"
+ },
+ {
+  "start": 128.16,
+  "duration": 3.52,
+  "text": "Capital founder Brad Girtzner is warning"
+ },
+ {
+  "start": 129.759,
+  "duration": 4.321,
+  "text": "the AI companies might need to pay some"
+ },
+ {
+  "start": 131.68,
+  "duration": 4.08,
+  "text": "form of anti-revolutionary tax. During a"
+ },
+ {
+  "start": 134.08,
+  "duration": 3.2,
+  "text": "conference panel this week, he said, \"It"
+ },
+ {
+  "start": 135.76,
+  "duration": 3.199,
+  "text": "is destabilizing when you're creating"
+ },
+ {
+  "start": 137.28,
+  "duration": 3.679,
+  "text": "trillions of dollars in private value,"
+ },
+ {
+  "start": 138.959,
+  "duration": 3.92,
+  "text": "and 80% of Americans think it's a scam"
+ },
+ {
+  "start": 140.959,
+  "duration": 3.36,
+  "text": "where they're left out and left behind.\""
+ },
+ {
+  "start": 142.879,
+  "duration": 2.961,
+  "text": "Now, while there is some amount of"
+ },
+ {
+  "start": 144.319,
+  "duration": 3.041,
+  "text": "ground swell around the idea, White"
+ },
+ {
+  "start": 145.84,
+  "duration": 3.36,
+  "text": "House officials said discussions are in"
+ },
+ {
+  "start": 147.36,
+  "duration": 4.08,
+  "text": "very early stages, stating that they're"
+ },
+ {
+  "start": 149.2,
+  "duration": 4.16,
+  "text": "unaware of any real plan or vehicle to"
+ },
+ {
+  "start": 151.44,
+  "duration": 3.36,
+  "text": "acquire stock. Subbing things up, David"
+ },
+ {
+  "start": 153.36,
+  "duration": 3.28,
+  "text": "Yafia, a professor at Harvard Business"
+ },
+ {
+  "start": 154.8,
+  "duration": 3.6,
+  "text": "School, said, \"The notion that the"
+ },
+ {
+  "start": 156.64,
+  "duration": 4.0,
+  "text": "government should be a partner in new"
+ },
+ {
+  "start": 158.4,
+  "duration": 3.76,
+  "text": "technology is not new, but the idea that"
+ },
+ {
+  "start": 160.64,
+  "duration": 2.959,
+  "text": "the government and American citizens"
+ },
+ {
+  "start": 162.16,
+  "duration": 3.28,
+  "text": "should have equity is a radical"
+ },
+ {
+  "start": 163.599,
+  "duration": 3.521,
+  "text": "departure from the free markets approach"
+ },
+ {
+  "start": 165.44,
+  "duration": 3.04,
+  "text": "of the world.\" Then again, the New York"
+ },
+ {
+  "start": 167.12,
+  "duration": 3.36,
+  "text": "Times suggested that all of this might"
+ },
+ {
+  "start": 168.48,
+  "duration": 4.08,
+  "text": "not be some grand plan to reshape the US"
+ },
+ {
+  "start": 170.48,
+  "duration": 3.759,
+  "text": "economic system for the AI age. Instead,"
+ },
+ {
+  "start": 172.56,
+  "duration": 3.44,
+  "text": "arguing that the concept of an AI public"
+ },
+ {
+  "start": 174.239,
+  "duration": 3.921,
+  "text": "wealth fund appears to have one central"
+ },
+ {
+  "start": 176.0,
+  "duration": 3.92,
+  "text": "animating idea. As they put it, the"
+ },
+ {
+  "start": 178.16,
+  "duration": 3.76,
+  "text": "president likes owning equity in"
+ },
+ {
+  "start": 179.92,
+  "duration": 3.12,
+  "text": "businesses. Next up, whatever the"
+ },
+ {
+  "start": 181.92,
+  "duration": 3.36,
+  "text": "ultimate state of their equity looks"
+ },
+ {
+  "start": 183.04,
+  "duration": 4.8,
+  "text": "like, OpenAI is closing a deal to stand"
+ },
+ {
+  "start": 185.28,
+  "duration": 4.4,
+  "text": "up 10 gawatts of data center capacity."
+ },
+ {
+  "start": 187.84,
+  "duration": 3.52,
+  "text": "Sources told the information that OpenAI"
+ },
+ {
+  "start": 189.68,
+  "duration": 3.6,
+  "text": "is in advanced negotiations to lease a"
+ },
+ {
+  "start": 191.36,
+  "duration": 4.159,
+  "text": "10 gawatt data center campus to be built"
+ },
+ {
+  "start": 193.28,
+  "duration": 4.64,
+  "text": "on federal land in Ohio. The campus is"
+ },
+ {
+  "start": 195.519,
+  "duration": 3.921,
+  "text": "expected to cost $500 billion based on"
+ },
+ {
+  "start": 197.92,
+  "duration": 3.039,
+  "text": "current pricing for chips, labor, and"
+ },
+ {
+  "start": 199.44,
+  "duration": 3.28,
+  "text": "power. This would make it not only"
+ },
+ {
+  "start": 200.959,
+  "duration": 3.521,
+  "text": "OpenAI's largest data center commitment"
+ },
+ {
+  "start": 202.72,
+  "duration": 4.0,
+  "text": "to date, but likely the largest data"
+ },
+ {
+  "start": 204.48,
+  "duration": 4.399,
+  "text": "center campus ever built. 10 gigawatts"
+ },
+ {
+  "start": 206.72,
+  "duration": 4.159,
+  "text": "is roughly four and a half times the"
+ },
+ {
+  "start": 208.879,
+  "duration": 3.44,
+  "text": "total output of the Hoover Dam and more"
+ },
+ {
+  "start": 210.879,
+  "duration": 3.041,
+  "text": "than twice the capacity of the largest"
+ },
+ {
+  "start": 212.319,
+  "duration": 3.681,
+  "text": "nuclear power plants operating in the"
+ },
+ {
+  "start": 213.92,
+  "duration": 3.679,
+  "text": "US. Sources said that Nvidia is attached"
+ },
+ {
+  "start": 216.0,
+  "duration": 3.12,
+  "text": "as a financial backer and the current"
+ },
+ {
+  "start": 217.599,
+  "duration": 2.72,
+  "text": "structure of the deal would see OpenAI"
+ },
+ {
+  "start": 219.12,
+  "duration": 2.96,
+  "text": "lease the chips as well as the"
+ },
+ {
+  "start": 220.319,
+  "duration": 3.521,
+  "text": "facilities. They wouldn't be required to"
+ },
+ {
+  "start": 222.08,
+  "duration": 3.519,
+  "text": "begin repayments until the first GPUs"
+ },
+ {
+  "start": 223.84,
+  "duration": 3.759,
+  "text": "are powered up with 800 megawatts"
+ },
+ {
+  "start": 225.599,
+  "duration": 3.761,
+  "text": "expected to come online in 2028. The"
+ },
+ {
+  "start": 227.599,
+  "duration": 3.761,
+  "text": "total life of the lease could be as long"
+ },
+ {
+  "start": 229.36,
+  "duration": 3.84,
+  "text": "as 20 years. And while one of the"
+ },
+ {
+  "start": 231.36,
+  "duration": 3.439,
+  "text": "critiques of Nvidia in the past has been"
+ },
+ {
+  "start": 233.2,
+  "duration": 3.44,
+  "text": "participating in some sort of circular"
+ },
+ {
+  "start": 234.799,
+  "duration": 3.52,
+  "text": "financing deals, they haven't previously"
+ },
+ {
+  "start": 236.64,
+  "duration": 3.76,
+  "text": "backstopped any data center deals"
+ },
+ {
+  "start": 238.319,
+  "duration": 3.681,
+  "text": "whatsoever, let alone one of this size."
+ },
+ {
+  "start": 240.4,
+  "duration": 2.96,
+  "text": "Instead, the deal has echoes of project"
+ },
+ {
+  "start": 242.0,
+  "duration": 2.959,
+  "text": "Stargate, which was announced at the"
+ },
+ {
+  "start": 243.36,
+  "duration": 3.2,
+  "text": "beginning of 2025, but stalled out"
+ },
+ {
+  "start": 244.959,
+  "duration": 3.521,
+  "text": "earlier this year. Stargate was"
+ },
+ {
+  "start": 246.56,
+  "duration": 3.599,
+  "text": "originally intended to be a $500 billion"
+ },
+ {
+  "start": 248.48,
+  "duration": 3.119,
+  "text": "joint venture with Oracle and SoftBank,"
+ },
+ {
+  "start": 250.159,
+  "duration": 3.28,
+  "text": "who appear to be playing a role in this"
+ },
+ {
+  "start": 251.599,
+  "duration": 3.681,
+  "text": "new deal as well. The site in question"
+ },
+ {
+  "start": 253.439,
+  "duration": 4.161,
+  "text": "is a decommissioned uranium enrichment"
+ },
+ {
+  "start": 255.28,
+  "duration": 4.079,
+  "text": "facility in Pike County, Ohio, around 50"
+ },
+ {
+  "start": 257.6,
+  "duration": 3.52,
+  "text": "mi south of Columbus. The federal"
+ },
+ {
+  "start": 259.359,
+  "duration": 3.601,
+  "text": "government will own the power plant with"
+ },
+ {
+  "start": 261.12,
+  "duration": 3.44,
+  "text": "SoftBank subsidiary SB Energy"
+ },
+ {
+  "start": 262.96,
+  "duration": 3.04,
+  "text": "functioning as the plant operator. Now,"
+ },
+ {
+  "start": 264.56,
+  "duration": 2.88,
+  "text": "while it appears that the project is"
+ },
+ {
+  "start": 266.0,
+  "duration": 3.44,
+  "text": "being designed to preempt the major"
+ },
+ {
+  "start": 267.44,
+  "duration": 4.0,
+  "text": "sources of data center outrage, local"
+ },
+ {
+  "start": 269.44,
+  "duration": 3.36,
+  "text": "politics are still turning sour."
+ },
+ {
+  "start": 271.44,
+  "duration": 2.8,
+  "text": "Controversy erupted this week in"
+ },
+ {
+  "start": 272.8,
+  "duration": 3.119,
+  "text": "Cleveland when legislators discovered"
+ },
+ {
+  "start": 274.24,
+  "duration": 3.84,
+  "text": "their previous governor had signed deals"
+ },
+ {
+  "start": 275.919,
+  "duration": 4.321,
+  "text": "with Amazon, Meta, and Google to provide"
+ },
+ {
+  "start": 278.08,
+  "duration": 4.16,
+  "text": "100% sales tax exemptions on data center"
+ },
+ {
+  "start": 280.24,
+  "duration": 3.6,
+  "text": "operation lasting for 40 years. While"
+ },
+ {
+  "start": 282.24,
+  "duration": 3.36,
+  "text": "the deal made Ohio an attractive"
+ },
+ {
+  "start": 283.84,
+  "duration": 3.28,
+  "text": "destination for new data centers and has"
+ },
+ {
+  "start": 285.6,
+  "duration": 3.12,
+  "text": "already brought in tens of billions in"
+ },
+ {
+  "start": 287.12,
+  "duration": 3.68,
+  "text": "investment, the state estimates the"
+ },
+ {
+  "start": 288.72,
+  "duration": 4.16,
+  "text": "deals will cost 1.8 billion in lost tax"
+ },
+ {
+  "start": 290.8,
+  "duration": 3.36,
+  "text": "revenue. And as one report states, given"
+ },
+ {
+  "start": 292.88,
+  "duration": 2.64,
+  "text": "the uncapped nature of the tax"
+ },
+ {
+  "start": 294.16,
+  "duration": 2.88,
+  "text": "exemption, final numbers could be"
+ },
+ {
+  "start": 295.52,
+  "duration": 3.36,
+  "text": "significantly higher. Democrat"
+ },
+ {
+  "start": 297.04,
+  "duration": 3.76,
+  "text": "representative Tristan Radar told local"
+ },
+ {
+  "start": 298.88,
+  "duration": 3.92,
+  "text": "press, \"I'm just dumbfounded this is so"
+ },
+ {
+  "start": 300.8,
+  "duration": 3.119,
+  "text": "poorly designed. The tech company saw"
+ },
+ {
+  "start": 302.8,
+  "duration": 3.36,
+  "text": "fertile ground and have been taking"
+ },
+ {
+  "start": 303.919,
+  "duration": 3.761,
+  "text": "advantage of us ever since.\" Meanwhile,"
+ },
+ {
+  "start": 306.16,
+  "duration": 3.039,
+  "text": "overall, bans moratoriums are"
+ },
+ {
+  "start": 307.68,
+  "duration": 3.519,
+  "text": "increasingly on the table as data center"
+ },
+ {
+  "start": 309.199,
+  "duration": 3.44,
+  "text": "resistance grows. New York looks set to"
+ },
+ {
+  "start": 311.199,
+  "duration": 2.801,
+  "text": "become the first state to hit pause on"
+ },
+ {
+  "start": 312.639,
+  "duration": 3.12,
+  "text": "new data center construction after"
+ },
+ {
+  "start": 314.0,
+  "duration": 3.199,
+  "text": "passing a one-year moratorium late last"
+ },
+ {
+  "start": 315.759,
+  "duration": 2.88,
+  "text": "week. The bill would block any new"
+ },
+ {
+  "start": 317.199,
+  "duration": 3.041,
+  "text": "permits for data centers above 20"
+ },
+ {
+  "start": 318.639,
+  "duration": 3.441,
+  "text": "megawatts, which is obviously very small"
+ },
+ {
+  "start": 320.24,
+  "duration": 3.36,
+  "text": "scale for AI infrastructure. State"
+ },
+ {
+  "start": 322.08,
+  "duration": 3.04,
+  "text": "Senator Kristen Gonzalez, the lead"
+ },
+ {
+  "start": 323.6,
+  "duration": 3.12,
+  "text": "sponsor of the bill, argued that New"
+ },
+ {
+  "start": 325.12,
+  "duration": 3.04,
+  "text": "York's constrained and aging grid can't"
+ },
+ {
+  "start": 326.72,
+  "duration": 3.28,
+  "text": "keep up with the pace of construction."
+ },
+ {
+  "start": 328.16,
+  "duration": 3.599,
+  "text": "Almost 10 gawatts of new facilities are"
+ },
+ {
+  "start": 330.0,
+  "duration": 2.96,
+  "text": "currently seeking approval. Next up, we"
+ },
+ {
+  "start": 331.759,
+  "duration": 3.361,
+  "text": "wait to see whether New York Governor"
+ },
+ {
+  "start": 332.96,
+  "duration": 3.92,
+  "text": "Kathy Hocha will actually sign this one."
+ },
+ {
+  "start": 335.12,
+  "duration": 3.68,
+  "text": "The city of Seattle followed suit on"
+ },
+ {
+  "start": 336.88,
+  "duration": 3.44,
+  "text": "Tuesday with city council unanimously"
+ },
+ {
+  "start": 338.8,
+  "duration": 3.28,
+  "text": "approving a one-year ban on new data"
+ },
+ {
+  "start": 340.32,
+  "duration": 3.36,
+  "text": "centers as well. The proposal came after"
+ },
+ {
+  "start": 342.08,
+  "duration": 3.119,
+  "text": "the Seattle Times reported that five"
+ },
+ {
+  "start": 343.68,
+  "duration": 3.359,
+  "text": "proposed data centers could consume up"
+ },
+ {
+  "start": 345.199,
+  "duration": 3.28,
+  "text": "to a third of the city's electricity."
+ },
+ {
+  "start": 347.039,
+  "duration": 2.801,
+  "text": "Interestingly, the opposition in this"
+ },
+ {
+  "start": 348.479,
+  "duration": 3.121,
+  "text": "case was driven by tech workers"
+ },
+ {
+  "start": 349.84,
+  "duration": 3.6,
+  "text": "themselves with groups including Amazon"
+ },
+ {
+  "start": 351.6,
+  "duration": 3.68,
+  "text": "Employees for Climate Justice mounting a"
+ },
+ {
+  "start": 353.44,
+  "duration": 4.16,
+  "text": "letterw writing campaign. The reasoning"
+ },
+ {
+  "start": 355.28,
+  "duration": 4.32,
+  "text": "was a little garbled with a spokesperson"
+ },
+ {
+  "start": 357.6,
+  "duration": 3.599,
+  "text": "for climate group 350 Seattle claiming"
+ },
+ {
+  "start": 359.6,
+  "duration": 3.68,
+  "text": "tech workers organized against the data"
+ },
+ {
+  "start": 361.199,
+  "duration": 3.921,
+  "text": "centers because quote AI is synonymous"
+ },
+ {
+  "start": 363.28,
+  "duration": 3.44,
+  "text": "with people losing their jobs. The"
+ },
+ {
+  "start": 365.12,
+  "duration": 3.359,
+  "text": "antipathy towards data centers has even"
+ },
+ {
+  "start": 366.72,
+  "duration": 2.96,
+  "text": "reached Texas with Governor Greg Abbott"
+ },
+ {
+  "start": 368.479,
+  "duration": 2.801,
+  "text": "calling for stronger consumer"
+ },
+ {
+  "start": 369.68,
+  "duration": 3.68,
+  "text": "protections against rising electricity"
+ },
+ {
+  "start": 371.28,
+  "duration": 3.759,
+  "text": "costs. Abbott directed state utilities"
+ },
+ {
+  "start": 373.36,
+  "duration": 3.119,
+  "text": "to require new data centers to fully"
+ },
+ {
+  "start": 375.039,
+  "duration": 3.201,
+  "text": "fund additional infrastructure needed"
+ },
+ {
+  "start": 376.479,
+  "duration": 4.0,
+  "text": "for their operations to ensure the costs"
+ },
+ {
+  "start": 378.24,
+  "duration": 3.679,
+  "text": "aren't passed to rateayers. In addition,"
+ },
+ {
+  "start": 380.479,
+  "duration": 3.201,
+  "text": "Abbott unveiled a wide-ranging"
+ },
+ {
+  "start": 381.919,
+  "duration": 3.441,
+  "text": "regulatory agenda for consideration in"
+ },
+ {
+  "start": 383.68,
+  "duration": 3.519,
+  "text": "next year's state legislative session,"
+ },
+ {
+  "start": 385.36,
+  "duration": 3.76,
+  "text": "including mandatory closed loop cooling"
+ },
+ {
+  "start": 387.199,
+  "duration": 3.681,
+  "text": "systems, annual reporting of water and"
+ },
+ {
+  "start": 389.12,
+  "duration": 3.28,
+  "text": "electricity use, and a requirement for"
+ },
+ {
+  "start": 390.88,
+  "duration": 3.12,
+  "text": "data centers to add new electricity"
+ },
+ {
+  "start": 392.4,
+  "duration": 3.519,
+  "text": "generation to the grid. Now to be"
+ },
+ {
+  "start": 394.0,
+  "duration": 4.08,
+  "text": "honest, if you are a person who thinks"
+ },
+ {
+  "start": 395.919,
+  "duration": 4.641,
+  "text": "on the one hand the single fastest way"
+ },
+ {
+  "start": 398.08,
+  "duration": 4.399,
+  "text": "towards guaranteed AI inequality is data"
+ },
+ {
+  "start": 400.56,
+  "duration": 4.16,
+  "text": "center moratoriums but on the other hand"
+ },
+ {
+  "start": 402.479,
+  "duration": 3.84,
+  "text": "completely recognizes communities not"
+ },
+ {
+  "start": 404.72,
+  "duration": 3.36,
+  "text": "wanting to foot the bill for increased"
+ },
+ {
+  "start": 406.319,
+  "duration": 2.72,
+  "text": "electricity costs along with dealing"
+ },
+ {
+  "start": 408.08,
+  "duration": 2.64,
+  "text": "with other type of negative"
+ },
+ {
+  "start": 409.039,
+  "duration": 3.921,
+  "text": "externalities of data centers then"
+ },
+ {
+  "start": 410.72,
+  "duration": 4.0,
+  "text": "looking to a place like Texas which is a"
+ },
+ {
+  "start": 412.96,
+  "duration": 3.84,
+  "text": "very popular destination for new data"
+ },
+ {
+  "start": 414.72,
+  "duration": 3.759,
+  "text": "center construction to lead the way in"
+ },
+ {
+  "start": 416.8,
+  "duration": 3.679,
+  "text": "setting standards for what that"
+ },
+ {
+  "start": 418.479,
+  "duration": 4.0,
+  "text": "construction should look like is kind of"
+ },
+ {
+  "start": 420.479,
+  "duration": 3.84,
+  "text": "optimistic. Certainly, the money for"
+ },
+ {
+  "start": 422.479,
+  "duration": 3.041,
+  "text": "data continues to flow. Broadcom is"
+ },
+ {
+  "start": 424.319,
+  "duration": 3.44,
+  "text": "getting in the data center financing"
+ },
+ {
+  "start": 425.52,
+  "duration": 4.399,
+  "text": "game with a $ 35 billion fund backed by"
+ },
+ {
+  "start": 427.759,
+  "duration": 4.16,
+  "text": "Blackstone and Apollo. The initial 35"
+ },
+ {
+  "start": 429.919,
+  "duration": 4.0,
+  "text": "billion will be used to fund 1 gawatt of"
+ },
+ {
+  "start": 431.919,
+  "duration": 4.161,
+  "text": "capacity deployed at sites operated by"
+ },
+ {
+  "start": 433.919,
+  "duration": 3.84,
+  "text": "Fluid Stack using Broadcom's custom AI"
+ },
+ {
+  "start": 436.08,
+  "duration": 2.88,
+  "text": "chips and networking infrastructure. The"
+ },
+ {
+  "start": 437.759,
+  "duration": 2.961,
+  "text": "first project will be delivered to"
+ },
+ {
+  "start": 438.96,
+  "duration": 3.519,
+  "text": "Anthropic. The fund is intended to"
+ },
+ {
+  "start": 440.72,
+  "duration": 3.199,
+  "text": "provide a stable multi-year capital"
+ },
+ {
+  "start": 442.479,
+  "duration": 3.041,
+  "text": "structure to facilitate the long-term"
+ },
+ {
+  "start": 443.919,
+  "duration": 3.441,
+  "text": "compute buildout. The partnership is"
+ },
+ {
+  "start": 445.52,
+  "duration": 4.32,
+  "text": "aiming to fund 20 gawatts of capacity"
+ },
+ {
+  "start": 447.36,
+  "duration": 4.0,
+  "text": "for leading AI labs through 2028. Apollo"
+ },
+ {
+  "start": 449.84,
+  "duration": 3.359,
+  "text": "and Blackstone will serve as capital"
+ },
+ {
+  "start": 451.36,
+  "duration": 4.08,
+  "text": "providers, syndicating the fund out to"
+ },
+ {
+  "start": 453.199,
+  "duration": 3.84,
+  "text": "their investors. Broadcom and Anthropic"
+ },
+ {
+  "start": 455.44,
+  "duration": 2.72,
+  "text": "are worldclass companies operating at"
+ },
+ {
+  "start": 457.039,
+  "duration": 2.801,
+  "text": "the frontier of technological"
+ },
+ {
+  "start": 458.16,
+  "duration": 3.12,
+  "text": "innovation. And we are proud to have led"
+ },
+ {
+  "start": 459.84,
+  "duration": 3.759,
+  "text": "the largest private financing ever"
+ },
+ {
+  "start": 461.28,
+  "duration": 3.84,
+  "text": "executed. AI compute is rapidly emerging"
+ },
+ {
+  "start": 463.599,
+  "duration": 3.44,
+  "text": "as one of the most compelling new asset"
+ },
+ {
+  "start": 465.12,
+  "duration": 4.0,
+  "text": "classes in finance characterized by"
+ },
+ {
+  "start": 467.039,
+  "duration": 3.841,
+  "text": "contracted cash flows, missionritical"
+ },
+ {
+  "start": 469.12,
+  "duration": 3.76,
+  "text": "utility, and a supply demand dynamic"
+ },
+ {
+  "start": 470.88,
+  "duration": 3.12,
+  "text": "that continues to intensify. Juan Kim,"
+ },
+ {
+  "start": 472.88,
+  "duration": 2.8,
+  "text": "the head of corporate development and"
+ },
+ {
+  "start": 474.0,
+  "duration": 3.68,
+  "text": "infrastructure partnerships at Broadcom,"
+ },
+ {
+  "start": 475.68,
+  "duration": 3.519,
+  "text": "commented, \"The demand for AI compute is"
+ },
+ {
+  "start": 477.68,
+  "duration": 2.959,
+  "text": "growing faster than traditional capital"
+ },
+ {
+  "start": 479.199,
+  "duration": 3.361,
+  "text": "markets can accommodate, and this"
+ },
+ {
+  "start": 480.639,
+  "duration": 3.601,
+  "text": "initial transaction led by Apollo"
+ },
+ {
+  "start": 482.56,
+  "duration": 3.44,
+  "text": "demonstrates what becomes possible when"
+ },
+ {
+  "start": 484.24,
+  "duration": 4.32,
+  "text": "worldclass technology is paired with a"
+ },
+ {
+  "start": 486.0,
+  "duration": 4.16,
+  "text": "partner of that caliber.\" Lastly today,"
+ },
+ {
+  "start": 488.56,
+  "duration": 3.759,
+  "text": "despite revenue figures remaining"
+ },
+ {
+  "start": 490.16,
+  "duration": 4.24,
+  "text": "strong, huge cost overruns and an"
+ },
+ {
+  "start": 492.319,
+  "duration": 3.841,
+  "text": "ambitious fundraising plan overshadowed"
+ },
+ {
+  "start": 494.4,
+  "duration": 3.28,
+  "text": "Oracle's solid earnings. During their"
+ },
+ {
+  "start": 496.16,
+  "duration": 4.0,
+  "text": "Wednesday night earnings call, Oracle"
+ },
+ {
+  "start": 497.68,
+  "duration": 4.0,
+  "text": "reported 16.5 billion in capex spend for"
+ },
+ {
+  "start": 500.16,
+  "duration": 3.84,
+  "text": "the previous quarter, which brings their"
+ },
+ {
+  "start": 501.68,
+  "duration": 4.639,
+  "text": "annual total to 55.7 billion, which was"
+ },
+ {
+  "start": 504.0,
+  "duration": 4.0,
+  "text": "above their $50 billion forecast. Oracle"
+ },
+ {
+  "start": 506.319,
+  "duration": 3.361,
+  "text": "said they plan to raise spending to 70"
+ },
+ {
+  "start": 508.0,
+  "duration": 3.28,
+  "text": "billion for the coming fiscal year, but"
+ },
+ {
+  "start": 509.68,
+  "duration": 3.52,
+  "text": "reported costs will come in between 20"
+ },
+ {
+  "start": 511.28,
+  "duration": 3.92,
+  "text": "and 25 billion higher due to prepayment"
+ },
+ {
+  "start": 513.2,
+  "duration": 4.0,
+  "text": "of some components. To deal with rising"
+ },
+ {
+  "start": 515.2,
+  "duration": 3.36,
+  "text": "costs, Oracle plans to raise another 40"
+ },
+ {
+  "start": 517.2,
+  "duration": 3.519,
+  "text": "billion in equity and debt in the coming"
+ },
+ {
+  "start": 518.56,
+  "duration": 3.599,
+  "text": "fiscal year. Oracle raised 48 billion in"
+ },
+ {
+  "start": 520.719,
+  "duration": 3.521,
+  "text": "debt and equity over the past fiscal"
+ },
+ {
+  "start": 522.159,
+  "duration": 3.761,
+  "text": "year and now carries 117 billion in"
+ },
+ {
+  "start": 524.24,
+  "duration": 3.92,
+  "text": "total debt. Revenue figures remain"
+ },
+ {
+  "start": 525.92,
+  "duration": 3.52,
+  "text": "strong with 21% growth to reach 19.2"
+ },
+ {
+  "start": 528.16,
+  "duration": 2.96,
+  "text": "billion for the quarter. Cloud"
+ },
+ {
+  "start": 529.44,
+  "duration": 4.399,
+  "text": "infrastructure sales are growing at a"
+ },
+ {
+  "start": 531.12,
+  "duration": 4.399,
+  "text": "93% pace. Meanwhile, still investors"
+ },
+ {
+  "start": 533.839,
+  "duration": 4.0,
+  "text": "couldn't look past the pile of mounting"
+ },
+ {
+  "start": 535.519,
+  "duration": 4.561,
+  "text": "debt and the stock plummeted 11% in"
+ },
+ {
+  "start": 537.839,
+  "duration": 4.161,
+  "text": "after hours trading. Now, this is not"
+ },
+ {
+  "start": 540.08,
+  "duration": 3.36,
+  "text": "primarily a market show, but there is"
+ },
+ {
+  "start": 542.0,
+  "duration": 2.959,
+  "text": "some interesting new discourse making"
+ },
+ {
+  "start": 543.44,
+  "duration": 2.88,
+  "text": "its way to Wall Street. Stuff that"
+ },
+ {
+  "start": 544.959,
+  "duration": 2.641,
+  "text": "frankly listeners of this show would"
+ },
+ {
+  "start": 546.32,
+  "duration": 2.48,
+  "text": "already have been hearing about, and"
+ },
+ {
+  "start": 547.6,
+  "duration": 2.88,
+  "text": "it's likely we'll dive a little deeper"
+ },
+ {
+  "start": 548.8,
+  "duration": 2.8,
+  "text": "into that in the coming days. For now,"
+ },
+ {
+  "start": 550.48,
+  "duration": 4.4,
+  "text": "that is going to do it for today's"
+ },
+ {
+  "start": 551.6,
+  "duration": 5.6,
+  "text": "headlines. Next up, the main episode."
+ },
+ {
+  "start": 554.88,
+  "duration": 5.2,
+  "text": "Welcome back to the AI daily brief."
+ },
+ {
+  "start": 557.2,
+  "duration": 6.319,
+  "text": "There is apparently something cursed"
+ },
+ {
+  "start": 560.08,
+  "duration": 6.319,
+  "text": "when a big AI lab launches the first"
+ },
+ {
+  "start": 563.519,
+  "duration": 5.521,
+  "text": "five edition of their big model. Last"
+ },
+ {
+  "start": 566.399,
+  "duration": 4.721,
+  "text": "August, it was GPT5, which caused"
+ },
+ {
+  "start": 569.04,
+  "duration": 4.479,
+  "text": "intense controversy around the choice to"
+ },
+ {
+  "start": 571.12,
+  "duration": 3.52,
+  "text": "deprecate the 40 model. Not to say other"
+ },
+ {
+  "start": 573.519,
+  "duration": 4.081,
+  "text": "questions around the performance of"
+ },
+ {
+  "start": 574.64,
+  "duration": 6.56,
+  "text": "GPT5, but the sheer tonnage of the"
+ },
+ {
+  "start": 577.6,
+  "duration": 6.64,
+  "text": "backlash to Fable 5 makes that look like"
+ },
+ {
+  "start": 581.2,
+  "duration": 6.24,
+  "text": "nothing. Indeed, it took less than 24"
+ },
+ {
+  "start": 584.24,
+  "duration": 5.599,
+  "text": "hours of intense response for Anthropic"
+ },
+ {
+  "start": 587.44,
+  "duration": 4.8,
+  "text": "to walk back policy changes, telling"
+ },
+ {
+  "start": 589.839,
+  "duration": 4.161,
+  "text": "Wired, \"We made the wrong trade-off, and"
+ },
+ {
+  "start": 592.24,
+  "duration": 4.8,
+  "text": "we apologize for not getting the balance"
+ },
+ {
+  "start": 594.0,
+  "duration": 5.2,
+  "text": "right.\" But how did we get here? Why was"
+ },
+ {
+  "start": 597.04,
+  "duration": 3.919,
+  "text": "there so much anger? And why do I think"
+ },
+ {
+  "start": 599.2,
+  "duration": 4.319,
+  "text": "that this particular issue is coming to"
+ },
+ {
+  "start": 600.959,
+  "duration": 5.44,
+  "text": "some sort of resolution? It portends"
+ },
+ {
+  "start": 603.519,
+  "duration": 4.961,
+  "text": "much bigger fights ahead. Summing up the"
+ },
+ {
+  "start": 606.399,
+  "duration": 4.081,
+  "text": "mood late in the afternoon yesterday was"
+ },
+ {
+  "start": 608.48,
+  "duration": 3.68,
+  "text": "Matt Palmer who wrote, \"Anthropic"
+ },
+ {
+  "start": 610.48,
+  "duration": 3.359,
+  "text": "people, you've got a couple of days at"
+ },
+ {
+  "start": 612.16,
+  "duration": 3.28,
+  "text": "most to mitigate the damage being done"
+ },
+ {
+  "start": 613.839,
+  "duration": 3.521,
+  "text": "by your senior leadership and policy"
+ },
+ {
+  "start": 615.44,
+  "duration": 3.36,
+  "text": "people. The stealth nerfing and data"
+ },
+ {
+  "start": 617.36,
+  "duration": 3.28,
+  "text": "retention decisions are titanic"
+ },
+ {
+  "start": 618.8,
+  "duration": 3.76,
+  "text": "screw-ups that pose serious risks to"
+ },
+ {
+  "start": 620.64,
+  "duration": 4.639,
+  "text": "both your technical pole position and"
+ },
+ {
+  "start": 622.56,
+  "duration": 3.839,
+  "text": "your bags. And honestly, it wasn't even"
+ },
+ {
+  "start": 625.279,
+  "duration": 3.441,
+  "text": "just these things that people were"
+ },
+ {
+  "start": 626.399,
+  "duration": 4.161,
+  "text": "complaining about. First of all, as we"
+ },
+ {
+  "start": 628.72,
+  "duration": 3.92,
+  "text": "discussed on yesterday's show, there"
+ },
+ {
+  "start": 630.56,
+  "duration": 4.719,
+  "text": "were some pretty strict safeguards put"
+ },
+ {
+  "start": 632.64,
+  "duration": 4.24,
+  "text": "into place around things like biology."
+ },
+ {
+  "start": 635.279,
+  "duration": 3.361,
+  "text": "Now, I will fully admit that on"
+ },
+ {
+  "start": 636.88,
+  "duration": 3.519,
+  "text": "yesterday's episode, I lamented the fact"
+ },
+ {
+  "start": 638.64,
+  "duration": 3.84,
+  "text": "that a lot of the initial response to"
+ },
+ {
+  "start": 640.399,
+  "duration": 3.44,
+  "text": "this I saw seemed to me to be coming"
+ },
+ {
+  "start": 642.48,
+  "duration": 3.12,
+  "text": "from people who were just looking for"
+ },
+ {
+  "start": 643.839,
+  "duration": 3.361,
+  "text": "something to gripe about. And yet, as"
+ },
+ {
+  "start": 645.6,
+  "duration": 3.679,
+  "text": "the course of the day went on, there"
+ },
+ {
+  "start": 647.2,
+  "duration": 4.879,
+  "text": "were more and more stories showing just"
+ },
+ {
+  "start": 649.279,
+  "duration": 5.521,
+  "text": "how overwired these guard rails were."
+ },
+ {
+  "start": 652.079,
+  "duration": 4.641,
+  "text": "Biomedical engineer Daria Anutmaz who is"
+ },
+ {
+  "start": 654.8,
+  "duration": 4.4,
+  "text": "by the way always given early access to"
+ },
+ {
+  "start": 656.72,
+  "duration": 5.2,
+  "text": "models and who is a huge booster of all"
+ },
+ {
+  "start": 659.2,
+  "duration": 4.879,
+  "text": "of the labs tweeted I can't even say"
+ },
+ {
+  "start": 661.92,
+  "duration": 4.32,
+  "text": "hello to Fable 5 except in incognito"
+ },
+ {
+  "start": 664.079,
+  "duration": 4.241,
+  "text": "mode i.e memories off because it knows"
+ },
+ {
+  "start": 666.24,
+  "duration": 4.4,
+  "text": "I'm a biomedical researcher. It would be"
+ },
+ {
+  "start": 668.32,
+  "duration": 4.16,
+  "text": "nice not to ban biomedical scientists."
+ },
+ {
+  "start": 670.64,
+  "duration": 3.28,
+  "text": "But I think even if it were that alone,"
+ },
+ {
+  "start": 672.48,
+  "duration": 3.44,
+  "text": "it could have been fairly easy to come"
+ },
+ {
+  "start": 673.92,
+  "duration": 4.88,
+  "text": "to some sort of resolution over a period"
+ },
+ {
+  "start": 675.92,
+  "duration": 6.0,
+  "text": "of time. The problem was that underneath"
+ },
+ {
+  "start": 678.8,
+  "duration": 5.36,
+  "text": "that, the revelation of the power to"
+ },
+ {
+  "start": 681.92,
+  "duration": 4.08,
+  "text": "determine who gets access to the tools"
+ },
+ {
+  "start": 684.16,
+  "duration": 2.88,
+  "text": "of the new economy is something that"
+ },
+ {
+  "start": 686.0,
+  "duration": 3.6,
+  "text": "people are getting more and more"
+ },
+ {
+  "start": 687.04,
+  "duration": 4.08,
+  "text": "unsettled with. Now, another issue was"
+ },
+ {
+  "start": 689.6,
+  "duration": 3.679,
+  "text": "the data retention policy that we"
+ },
+ {
+  "start": 691.12,
+  "duration": 4.399,
+  "text": "discussed where basically enterprises"
+ },
+ {
+  "start": 693.279,
+  "duration": 3.761,
+  "text": "would have to be okay with Anthropic"
+ },
+ {
+  "start": 695.519,
+  "duration": 4.401,
+  "text": "keeping their messages, even ones that"
+ },
+ {
+  "start": 697.04,
+  "duration": 4.479,
+  "text": "they deleted for 30 days. Lawyer and AI"
+ },
+ {
+  "start": 699.92,
+  "duration": 3.68,
+  "text": "user Prince writes, \"The 30-day"
+ },
+ {
+  "start": 701.519,
+  "duration": 3.841,
+  "text": "retention policy is not fine at all."
+ },
+ {
+  "start": 703.6,
+  "duration": 3.2,
+  "text": "First, it applies only to zero data"
+ },
+ {
+  "start": 705.36,
+  "duration": 2.96,
+  "text": "retention customers, i.e. those"
+ },
+ {
+  "start": 706.8,
+  "duration": 2.96,
+  "text": "customers that have specific reasons to"
+ },
+ {
+  "start": 708.32,
+  "duration": 3.92,
+  "text": "ensure that Anthropic can't see their"
+ },
+ {
+  "start": 709.76,
+  "duration": 4.48,
+  "text": "data at all. Second, anthropic employees"
+ },
+ {
+  "start": 712.24,
+  "duration": 3.52,
+  "text": "get to see both prompts and outputs,"
+ },
+ {
+  "start": 714.24,
+  "duration": 4.32,
+  "text": "quote, flagged for potential serious"
+ },
+ {
+  "start": 715.76,
+  "duration": 4.48,
+  "text": "harm or at a customer's written request."
+ },
+ {
+  "start": 718.56,
+  "duration": 3.68,
+  "text": "What is flagged for potential serious"
+ },
+ {
+  "start": 720.24,
+  "duration": 3.12,
+  "text": "harm? If I'm a lawyer representing the"
+ },
+ {
+  "start": 722.24,
+  "duration": 2.64,
+  "text": "government in a case involving"
+ },
+ {
+  "start": 723.36,
+  "duration": 3.279,
+  "text": "allegations of improperly conducted"
+ },
+ {
+  "start": 724.88,
+  "duration": 3.44,
+  "text": "surveillance, is that potential serious"
+ },
+ {
+  "start": 726.639,
+  "duration": 3.44,
+  "text": "harm? What's a customer's written"
+ },
+ {
+  "start": 728.32,
+  "duration": 3.28,
+  "text": "request? Which customers are we talking"
+ },
+ {
+  "start": 730.079,
+  "duration": 3.76,
+  "text": "about? The NSA is a customer of"
+ },
+ {
+  "start": 731.6,
+  "duration": 3.919,
+  "text": "Anthropic. If my law firm were using"
+ },
+ {
+  "start": 733.839,
+  "duration": 3.281,
+  "text": "Claude, I would tell it to lock us out"
+ },
+ {
+  "start": 735.519,
+  "duration": 3.44,
+  "text": "of Mythos and Fable immediately and"
+ },
+ {
+  "start": 737.12,
+  "duration": 3.76,
+  "text": "transition us to another provider. He"
+ },
+ {
+  "start": 738.959,
+  "duration": 3.521,
+  "text": "continued in another tweet, \"Reasons of"
+ },
+ {
+  "start": 740.88,
+  "duration": 3.36,
+  "text": "safety are all well and fine, but"
+ },
+ {
+  "start": 742.48,
+  "duration": 4.08,
+  "text": "enterprises will now find themselves in"
+ },
+ {
+  "start": 744.24,
+  "duration": 3.76,
+  "text": "the same position as the DoD. Anthropic"
+ },
+ {
+  "start": 746.56,
+  "duration": 3.04,
+  "text": "is asserting its right to look at their"
+ },
+ {
+  "start": 748.0,
+  "duration": 3.44,
+  "text": "private communications with Claude that"
+ },
+ {
+  "start": 749.6,
+  "duration": 3.84,
+  "text": "have quote potential for serious harm,\""
+ },
+ {
+  "start": 751.44,
+  "duration": 4.079,
+  "text": "a vague phrase defined by Anthropic in"
+ },
+ {
+  "start": 753.44,
+  "duration": 4.24,
+  "text": "its sole discretion. I am extremely"
+ },
+ {
+  "start": 755.519,
+  "duration": 4.801,
+  "text": "uncomfortable with this notion. By the"
+ },
+ {
+  "start": 757.68,
+  "duration": 4.719,
+  "text": "way, sympathy for the DoD was one fairly"
+ },
+ {
+  "start": 760.32,
+  "duration": 4.319,
+  "text": "widespread and pretty unexpected"
+ },
+ {
+  "start": 762.399,
+  "duration": 4.321,
+  "text": "response to Fable 5. Investor Yand"
+ },
+ {
+  "start": 764.639,
+  "duration": 3.601,
+  "text": "Erlick writes, \"I feel like we all got"
+ },
+ {
+  "start": 766.72,
+  "duration": 4.08,
+  "text": "the same treatment from Anthropic that"
+ },
+ {
+  "start": 768.24,
+  "duration": 4.96,
+  "text": "the DO got in February. I viscerally"
+ },
+ {
+  "start": 770.8,
+  "duration": 4.4,
+  "text": "understand the DOW reaction now.\" Now,"
+ },
+ {
+  "start": 773.2,
+  "duration": 4.24,
+  "text": "what's more, this data retention issue"
+ },
+ {
+  "start": 775.2,
+  "duration": 3.759,
+  "text": "wasn't just theoretical. It took about 1"
+ },
+ {
+  "start": 777.44,
+  "duration": 3.12,
+  "text": "hour before The Verge reported that"
+ },
+ {
+  "start": 778.959,
+  "duration": 3.921,
+  "text": "Microsoft had started restricting"
+ },
+ {
+  "start": 780.56,
+  "duration": 3.76,
+  "text": "employees from using Fable 5 and C-Pilot"
+ },
+ {
+  "start": 782.88,
+  "duration": 3.68,
+  "text": "because of those data retention"
+ },
+ {
+  "start": 784.32,
+  "duration": 4.639,
+  "text": "concerns. Matt Palmer again wrote,"
+ },
+ {
+  "start": 786.56,
+  "duration": 4.399,
+  "text": "\"Cannot think of a more disastrous set"
+ },
+ {
+  "start": 788.959,
+  "duration": 4.0,
+  "text": "of decisions to make ahead of an IPO."
+ },
+ {
+  "start": 790.959,
+  "duration": 3.521,
+  "text": "the reaction to data policies alone will"
+ },
+ {
+  "start": 792.959,
+  "duration": 3.921,
+  "text": "show up in their revenue figures to say"
+ },
+ {
+  "start": 794.48,
+  "duration": 4.159,
+  "text": "nothing of cost control measures. Okay,"
+ },
+ {
+  "start": 796.88,
+  "duration": 3.84,
+  "text": "so we've got two things now. We've got"
+ },
+ {
+  "start": 798.639,
+  "duration": 3.921,
+  "text": "the safety classifiers in general, which"
+ },
+ {
+  "start": 800.72,
+  "duration": 3.679,
+  "text": "Arena AI's Peter Goss may have had the"
+ },
+ {
+  "start": 802.56,
+  "duration": 3.6,
+  "text": "best response to, writing, \"A year ago"
+ },
+ {
+  "start": 804.399,
+  "duration": 3.201,
+  "text": "or so, I participated in anthropic"
+ },
+ {
+  "start": 806.16,
+  "duration": 3.28,
+  "text": "safety testing program trying to get"
+ },
+ {
+  "start": 807.6,
+  "duration": 3.359,
+  "text": "past their safety classifiers. I"
+ },
+ {
+  "start": 809.44,
+  "duration": 2.88,
+  "text": "remember thinking, \"This is stupid."
+ },
+ {
+  "start": 810.959,
+  "duration": 2.481,
+  "text": "These trigger on everything. Nobody"
+ },
+ {
+  "start": 812.32,
+  "duration": 3.84,
+  "text": "would ship a model like this to"
+ },
+ {
+  "start": 813.44,
+  "duration": 4.48,
+  "text": "production.\" Turns out I was wrong. So,"
+ },
+ {
+  "start": 816.16,
+  "duration": 3.84,
+  "text": "we've got that plus we've got these data"
+ },
+ {
+  "start": 817.92,
+  "duration": 4.08,
+  "text": "retention policies which we're already"
+ },
+ {
+  "start": 820.0,
+  "duration": 3.839,
+  "text": "starting to see enterprises respond to."
+ },
+ {
+  "start": 822.0,
+  "duration": 4.0,
+  "text": "But the biggest thing and the thing that"
+ },
+ {
+  "start": 823.839,
+  "duration": 4.8,
+  "text": "really got everyone fired up was the new"
+ },
+ {
+  "start": 826.0,
+  "duration": 4.959,
+  "text": "limitations on how LLMs could be used"
+ },
+ {
+  "start": 828.639,
+  "duration": 4.401,
+  "text": "for other LLM development. The relevant"
+ },
+ {
+  "start": 830.959,
+  "duration": 3.841,
+  "text": "part of the system card was this. In"
+ },
+ {
+  "start": 833.04,
+  "duration": 3.44,
+  "text": "light of the ability of recent models to"
+ },
+ {
+  "start": 834.8,
+  "duration": 3.44,
+  "text": "accelerate their own development, we've"
+ },
+ {
+  "start": 836.48,
+  "duration": 3.28,
+  "text": "implemented new interventions that limit"
+ },
+ {
+  "start": 838.24,
+  "duration": 3.599,
+  "text": "Claude's effectiveness for requests"
+ },
+ {
+  "start": 839.76,
+  "duration": 3.519,
+  "text": "targeting Frontier LM development. for"
+ },
+ {
+  "start": 841.839,
+  "duration": 2.8,
+  "text": "example, on building pre-training"
+ },
+ {
+  "start": 843.279,
+  "duration": 3.041,
+  "text": "pipelines, distributed training"
+ },
+ {
+  "start": 844.639,
+  "duration": 3.681,
+  "text": "infrastructure, or ML accelerator"
+ },
+ {
+  "start": 846.32,
+  "duration": 3.6,
+  "text": "design. Using claw to develop competing"
+ },
+ {
+  "start": 848.32,
+  "duration": 3.28,
+  "text": "models already violates our terms of"
+ },
+ {
+  "start": 849.92,
+  "duration": 2.88,
+  "text": "service, but enforcing this restriction"
+ },
+ {
+  "start": 851.6,
+  "duration": 2.72,
+  "text": "through our safeguards avoids"
+ },
+ {
+  "start": 852.8,
+  "duration": 3.52,
+  "text": "accelerating the actors most willing to"
+ },
+ {
+  "start": 854.32,
+  "duration": 3.6,
+  "text": "violate these terms. And yet, for many,"
+ },
+ {
+  "start": 856.32,
+  "duration": 3.04,
+  "text": "the worst part was in the next paragraph"
+ },
+ {
+  "start": 857.92,
+  "duration": 3.039,
+  "text": "when they write, \"Unlike our"
+ },
+ {
+  "start": 859.36,
+  "duration": 3.52,
+  "text": "interventions for cyber security,"
+ },
+ {
+  "start": 860.959,
+  "duration": 4.161,
+  "text": "biology, and chemistry, and distillation"
+ },
+ {
+  "start": 862.88,
+  "duration": 4.48,
+  "text": "attempts, these safeguards will not be"
+ },
+ {
+  "start": 865.12,
+  "duration": 4.56,
+  "text": "visible to the user. Fable 5 will not"
+ },
+ {
+  "start": 867.36,
+  "duration": 4.08,
+  "text": "fall back to a different model. Instead,"
+ },
+ {
+  "start": 869.68,
+  "duration": 3.04,
+  "text": "the safeguards will limit effectiveness"
+ },
+ {
+  "start": 871.44,
+  "duration": 3.199,
+  "text": "through methods such as prompt"
+ },
+ {
+  "start": 872.72,
+  "duration": 4.0,
+  "text": "modification, steering vectors, or"
+ },
+ {
+  "start": 874.639,
+  "duration": 4.0,
+  "text": "parameter efficient fine-tuning. In"
+ },
+ {
+  "start": 876.72,
+  "duration": 4.64,
+  "text": "other words, this was to be a silent"
+ },
+ {
+  "start": 878.639,
+  "duration": 4.801,
+  "text": "nerfing of the model. Akoska summed up."
+ },
+ {
+  "start": 881.36,
+  "duration": 4.24,
+  "text": "Enthropic is now silently making claw"
+ },
+ {
+  "start": 883.44,
+  "duration": 3.36,
+  "text": "dumber for certain users on purpose, and"
+ },
+ {
+  "start": 885.6,
+  "duration": 3.359,
+  "text": "there is no way to tell when it's"
+ },
+ {
+  "start": 886.8,
+  "duration": 4.399,
+  "text": "happening to you. If your request looks"
+ },
+ {
+  "start": 888.959,
+  "duration": 3.761,
+  "text": "like Frontier LLM development, Fable 5"
+ },
+ {
+  "start": 891.199,
+  "duration": 3.041,
+  "text": "degrades its own output through prompt"
+ },
+ {
+  "start": 892.72,
+  "duration": 3.28,
+  "text": "modification, steering vectors, or"
+ },
+ {
+  "start": 894.24,
+  "duration": 3.2,
+  "text": "parameter efficient fine-tuning. You'll"
+ },
+ {
+  "start": 896.0,
+  "duration": 3.519,
+  "text": "never see a refusal and you never get"
+ },
+ {
+  "start": 897.44,
+  "duration": 4.16,
+  "text": "switched to a weaker model. The answers"
+ },
+ {
+  "start": 899.519,
+  "duration": 4.161,
+  "text": "just get worse. Think about what that"
+ },
+ {
+  "start": 901.6,
+  "duration": 3.76,
+  "text": "breaks. Benchmarks assume the model you"
+ },
+ {
+  "start": 903.68,
+  "duration": 3.2,
+  "text": "tested is the model you get. That"
+ },
+ {
+  "start": 905.36,
+  "duration": 3.52,
+  "text": "assumption just died for an entire"
+ },
+ {
+  "start": 906.88,
+  "duration": 3.759,
+  "text": "category of work. An ML engineer"
+ },
+ {
+  "start": 908.88,
+  "duration": 3.36,
+  "text": "debugging a failing training run can no"
+ },
+ {
+  "start": 910.639,
+  "duration": 2.961,
+  "text": "longer distinguish the model is wrong"
+ },
+ {
+  "start": 912.24,
+  "duration": 4.32,
+  "text": "from the model was made wrong on"
+ },
+ {
+  "start": 913.6,
+  "duration": 5.039,
+  "text": "purpose. And classifiers misfire. Sammy"
+ },
+ {
+  "start": 916.56,
+  "duration": 3.6,
+  "text": "analysis says GPU inference research is"
+ },
+ {
+  "start": 918.639,
+  "duration": 2.88,
+  "text": "already getting caught. And inference"
+ },
+ {
+  "start": 920.16,
+  "duration": 2.96,
+  "text": "optimization is what every company"
+ },
+ {
+  "start": 921.519,
+  "duration": 3.68,
+  "text": "running open models does, not just"
+ },
+ {
+  "start": 923.12,
+  "duration": 3.92,
+  "text": "Frontier Labs. A false positive on a"
+ },
+ {
+  "start": 925.199,
+  "duration": 3.44,
+  "text": "visible refusal is annoying. A false"
+ },
+ {
+  "start": 927.04,
+  "duration": 4.08,
+  "text": "positive on silent degradation is"
+ },
+ {
+  "start": 928.639,
+  "duration": 4.32,
+  "text": "undetectable. He concludes the strategic"
+ },
+ {
+  "start": 931.12,
+  "duration": 3.2,
+  "text": "logic is real. Enthropic has said models"
+ },
+ {
+  "start": 932.959,
+  "duration": 2.721,
+  "text": "now accelerate their own development,"
+ },
+ {
+  "start": 934.32,
+  "duration": 2.639,
+  "text": "which means that they know precisely how"
+ },
+ {
+  "start": 935.68,
+  "duration": 3.04,
+  "text": "much a Frontier model compresses"
+ },
+ {
+  "start": 936.959,
+  "duration": 3.601,
+  "text": "Frontier timelines. Renting that"
+ },
+ {
+  "start": 938.72,
+  "duration": 3.76,
+  "text": "compression to competitors for $200 a"
+ },
+ {
+  "start": 940.56,
+  "duration": 4.0,
+  "text": "month is a genuine cost. But the"
+ },
+ {
+  "start": 942.48,
+  "duration": 3.919,
+  "text": "precedent is the story. Once silent"
+ },
+ {
+  "start": 944.56,
+  "duration": 4.399,
+  "text": "degradation ships as a feature, every"
+ },
+ {
+  "start": 946.399,
+  "duration": 4.401,
+  "text": "eval needs an asterisk. Results valid"
+ },
+ {
+  "start": 948.959,
+  "duration": 4.88,
+  "text": "unless the lab decided your use case"
+ },
+ {
+  "start": 950.8,
+  "duration": 5.12,
+  "text": "shouldn't work. Research Group Alpha XIV"
+ },
+ {
+  "start": 953.839,
+  "duration": 3.521,
+  "text": "writes, \"As believers of open research,"
+ },
+ {
+  "start": 955.92,
+  "duration": 3.279,
+  "text": "we are disappointed to see anthropics"
+ },
+ {
+  "start": 957.36,
+  "duration": 3.44,
+  "text": "silently degrading Fable 5 for AI"
+ },
+ {
+  "start": 959.199,
+  "duration": 3.281,
+  "text": "development. Not only do they get to"
+ },
+ {
+  "start": 960.8,
+  "duration": 3.36,
+  "text": "decide what you use LLMs for in"
+ },
+ {
+  "start": 962.48,
+  "duration": 3.12,
+  "text": "research, but this also enables them to"
+ },
+ {
+  "start": 964.16,
+  "duration": 3.2,
+  "text": "silently intervene in your research"
+ },
+ {
+  "start": 965.6,
+  "duration": 3.679,
+  "text": "without you knowing. This sets a"
+ },
+ {
+  "start": 967.36,
+  "duration": 3.279,
+  "text": "dangerous precedent. If a model refuses"
+ },
+ {
+  "start": 969.279,
+  "duration": 3.12,
+  "text": "openly, users can understand the"
+ },
+ {
+  "start": 970.639,
+  "duration": 3.44,
+  "text": "boundary. If a model falls back to"
+ },
+ {
+  "start": 972.399,
+  "duration": 3.521,
+  "text": "another model, users can still evaluate"
+ },
+ {
+  "start": 974.079,
+  "duration": 3.361,
+  "text": "the difference. But if a model silently"
+ },
+ {
+  "start": 975.92,
+  "duration": 2.719,
+  "text": "modifies or weakens its own answers"
+ },
+ {
+  "start": 977.44,
+  "duration": 2.72,
+  "text": "while still pretending to help,"
+ },
+ {
+  "start": 978.639,
+  "duration": 3.041,
+  "text": "researchers lose the ability to know"
+ },
+ {
+  "start": 980.16,
+  "duration": 3.76,
+  "text": "whether a failed result came from their"
+ },
+ {
+  "start": 981.68,
+  "duration": 3.76,
+  "text": "own idea, their implementation, or an"
+ },
+ {
+  "start": 983.92,
+  "duration": 4.4,
+  "text": "invisible intervention by the model"
+ },
+ {
+  "start": 985.44,
+  "duration": 4.72,
+  "text": "provider. This is not safety. Safety"
+ },
+ {
+  "start": 988.32,
+  "duration": 3.84,
+  "text": "policy should be transparent, auditable,"
+ },
+ {
+  "start": 990.16,
+  "duration": 3.44,
+  "text": "and user visible. On top of that, the"
+ },
+ {
+  "start": 992.16,
+  "duration": 2.72,
+  "text": "people most harmed by this are not the"
+ },
+ {
+  "start": 993.6,
+  "duration": 3.039,
+  "text": "largest labs with massive teams and"
+ },
+ {
+  "start": 994.88,
+  "duration": 3.28,
+  "text": "proprietary infrastructure. It's the"
+ },
+ {
+  "start": 996.639,
+  "duration": 2.961,
+  "text": "independent researchers, academic"
+ },
+ {
+  "start": 998.16,
+  "duration": 3.44,
+  "text": "groups, startups, and open source"
+ },
+ {
+  "start": 999.6,
+  "duration": 4.159,
+  "text": "builders who rely on public tools to"
+ },
+ {
+  "start": 1001.6,
+  "duration": 5.28,
+  "text": "compete, innovate, and pioneer AI for"
+ },
+ {
+  "start": 1003.759,
+  "duration": 5.281,
+  "text": "everyone else. Rohitan X writes, \"The"
+ },
+ {
+  "start": 1006.88,
+  "duration": 4.0,
+  "text": "issue isn't the existence of safeguards."
+ },
+ {
+  "start": 1009.04,
+  "duration": 3.76,
+  "text": "It is that the classifier is terrible,"
+ },
+ {
+  "start": 1010.88,
+  "duration": 3.759,
+  "text": "exceedingly trigger-happy, unusably so"
+ },
+ {
+  "start": 1012.8,
+  "duration": 3.52,
+  "text": "for many. That it silently degrades"
+ },
+ {
+  "start": 1014.639,
+  "duration": 3.681,
+  "text": "responses if it's about AI, and that it"
+ },
+ {
+  "start": 1016.32,
+  "duration": 4.639,
+  "text": "captures all user data. These are"
+ },
+ {
+  "start": 1018.32,
+  "duration": 4.56,
+  "text": "actively bad, not just a mistake. There"
+ },
+ {
+  "start": 1020.959,
+  "duration": 3.921,
+  "text": "are real trade-offs in safety, and this"
+ },
+ {
+  "start": 1022.88,
+  "duration": 3.28,
+  "text": "release chose none of those. It"
+ },
+ {
+  "start": 1024.88,
+  "duration": 2.799,
+  "text": "basically nerfed the model in the most"
+ },
+ {
+  "start": 1026.16,
+  "duration": 3.36,
+  "text": "blatant way possible, taking none of the"
+ },
+ {
+  "start": 1027.679,
+  "duration": 3.36,
+  "text": "nuances into account. AI safety"
+ },
+ {
+  "start": 1029.52,
+  "duration": 3.12,
+  "text": "researchers can't use it. Bio"
+ },
+ {
+  "start": 1031.039,
+  "duration": 3.361,
+  "text": "researchers can't use it. Cyersc"
+ },
+ {
+  "start": 1032.64,
+  "duration": 3.279,
+  "text": "researchers can't use it. Even by the"
+ },
+ {
+  "start": 1034.4,
+  "duration": 3.12,
+  "text": "system card's own admission, this isn't"
+ },
+ {
+  "start": 1035.919,
+  "duration": 2.961,
+  "text": "in immediately developed super weapons"
+ },
+ {
+  "start": 1037.52,
+  "duration": 4.319,
+  "text": "territory, which makes it even more"
+ },
+ {
+  "start": 1038.88,
+  "duration": 4.72,
+  "text": "egregious. They did it because they can,"
+ },
+ {
+  "start": 1041.839,
+  "duration": 3.441,
+  "text": "which invites scrutiny. How can you"
+ },
+ {
+  "start": 1043.6,
+  "duration": 3.599,
+  "text": "trust Anthropic to do the right thing"
+ },
+ {
+  "start": 1045.28,
+  "duration": 3.84,
+  "text": "when it counts? We just had this"
+ },
+ {
+  "start": 1047.199,
+  "duration": 3.36,
+  "text": "argument about their fight with the DO"
+ },
+ {
+  "start": 1049.12,
+  "duration": 3.52,
+  "text": "that Anthropic didn't want to be the"
+ },
+ {
+  "start": 1050.559,
+  "duration": 4.321,
+  "text": "final arbiter. They just wanted safety."
+ },
+ {
+  "start": 1052.64,
+  "duration": 4.64,
+  "text": "This is the opposite. they really do"
+ },
+ {
+  "start": 1054.88,
+  "duration": 4.159,
+  "text": "want to be the final arbiter. David"
+ },
+ {
+  "start": 1057.28,
+  "duration": 3.44,
+  "text": "Shapiro agrees, arguing in different"
+ },
+ {
+  "start": 1059.039,
+  "duration": 3.361,
+  "text": "words that this is anthropic wanting to"
+ },
+ {
+  "start": 1060.72,
+  "duration": 4.319,
+  "text": "be final arbiter because of where it"
+ },
+ {
+  "start": 1062.4,
+  "duration": 4.24,
+  "text": "stands visav AI safety. He writes to"
+ },
+ {
+  "start": 1065.039,
+  "duration": 3.601,
+  "text": "anyone who doesn't understand why"
+ },
+ {
+  "start": 1066.64,
+  "duration": 3.68,
+  "text": "anthropic is silently nerfing AI and ML"
+ },
+ {
+  "start": 1068.64,
+  "duration": 3.44,
+  "text": "research specifically, it's because they"
+ },
+ {
+  "start": 1070.32,
+  "duration": 2.88,
+  "text": "believe in Yudowski and delusion of fume"
+ },
+ {
+  "start": 1072.08,
+  "duration": 2.24,
+  "text": "whereby achieving recursive"
+ },
+ {
+  "start": 1073.2,
+  "duration": 3.04,
+  "text": "self-improvement means that the"
+ },
+ {
+  "start": 1074.32,
+  "duration": 3.44,
+  "text": "extinction of humanity is nigh. Thus,"
+ },
+ {
+  "start": 1076.24,
+  "duration": 3.04,
+  "text": "they believe that hamstringing their one"
+ },
+ {
+  "start": 1077.76,
+  "duration": 3.6,
+  "text": "model will meaningfully slow down AI"
+ },
+ {
+  "start": 1079.28,
+  "duration": 4.0,
+  "text": "development. and research fellow Tom"
+ },
+ {
+  "start": 1081.36,
+  "duration": 3.28,
+  "text": "Davidson, who to be clear ultimately"
+ },
+ {
+  "start": 1083.28,
+  "duration": 3.279,
+  "text": "came to the conclusion that silent"
+ },
+ {
+  "start": 1084.64,
+  "duration": 3.76,
+  "text": "sabotage is a scary precedent and the"
+ },
+ {
+  "start": 1086.559,
+  "duration": 3.681,
+  "text": "wrong call, gave the steelman argument"
+ },
+ {
+  "start": 1088.4,
+  "duration": 4.24,
+  "text": "for anthropic's decision to secretly"
+ },
+ {
+  "start": 1090.24,
+  "duration": 4.319,
+  "text": "nerf AI R&D and it was about exactly"
+ },
+ {
+  "start": 1092.64,
+  "duration": 3.84,
+  "text": "what the critics said it was. He argued"
+ },
+ {
+  "start": 1094.559,
+  "duration": 3.761,
+  "text": "that the strongest defense of Anthropic"
+ },
+ {
+  "start": 1096.48,
+  "duration": 4.24,
+  "text": "was that one, by far the biggest risks"
+ },
+ {
+  "start": 1098.32,
+  "duration": 3.92,
+  "text": "are from super intelligent AI. Two, to"
+ },
+ {
+  "start": 1100.72,
+  "duration": 2.959,
+  "text": "manage these risks, the leading company"
+ },
+ {
+  "start": 1102.24,
+  "duration": 3.28,
+  "text": "will need to pause partway through the"
+ },
+ {
+  "start": 1103.679,
+  "duration": 3.201,
+  "text": "intelligence explosion because pausing"
+ },
+ {
+  "start": 1105.52,
+  "duration": 2.88,
+  "text": "allows them to generate evidence of"
+ },
+ {
+  "start": 1106.88,
+  "duration": 3.6,
+  "text": "misalignment that would be needed to"
+ },
+ {
+  "start": 1108.4,
+  "duration": 3.68,
+  "text": "justify a longer global pause as well as"
+ },
+ {
+  "start": 1110.48,
+  "duration": 3.84,
+  "text": "to use powerful AI to accelerate"
+ },
+ {
+  "start": 1112.08,
+  "duration": 3.76,
+  "text": "alignment progress. That three, a pause"
+ },
+ {
+  "start": 1114.32,
+  "duration": 3.359,
+  "text": "is much more likely if the leading"
+ },
+ {
+  "start": 1115.84,
+  "duration": 3.199,
+  "text": "company has a big lead and much less"
+ },
+ {
+  "start": 1117.679,
+  "duration": 3.441,
+  "text": "likely if multiple companies are neck"
+ },
+ {
+  "start": 1119.039,
+  "duration": 4.081,
+  "text": "andneck. That four, if lagging AI"
+ },
+ {
+  "start": 1121.12,
+  "duration": 3.6,
+  "text": "companies can use the leader AI for AI"
+ },
+ {
+  "start": 1123.12,
+  "duration": 3.52,
+  "text": "R&D during an intelligence explosion,"
+ },
+ {
+  "start": 1124.72,
+  "duration": 4.72,
+  "text": "the leader cannot maintain their lead."
+ },
+ {
+  "start": 1126.64,
+  "duration": 4.399,
+  "text": "And so five, sharing AI R&D access with"
+ },
+ {
+  "start": 1129.44,
+  "duration": 3.2,
+  "text": "competitors massively decreases the"
+ },
+ {
+  "start": 1131.039,
+  "duration": 3.201,
+  "text": "chance of a pause at the critical time"
+ },
+ {
+  "start": 1132.64,
+  "duration": 3.919,
+  "text": "and massively increases the risk from"
+ },
+ {
+  "start": 1134.24,
+  "duration": 4.4,
+  "text": "super intelligent AI. And six, and this"
+ },
+ {
+  "start": 1136.559,
+  "duration": 3.841,
+  "text": "is a big one, Enthropic can't block"
+ },
+ {
+  "start": 1138.64,
+  "duration": 3.919,
+  "text": "competitors using Mythos without the"
+ },
+ {
+  "start": 1140.4,
+  "duration": 3.76,
+  "text": "silent sabotage. It's very hard, Tom"
+ },
+ {
+  "start": 1142.559,
+  "duration": 3.281,
+  "text": "writes, for a frozen safeguard to block"
+ },
+ {
+  "start": 1144.16,
+  "duration": 3.28,
+  "text": "someone that can iterate against it. It"
+ },
+ {
+  "start": 1145.84,
+  "duration": 3.92,
+  "text": "sucks that this is the only way, but it"
+ },
+ {
+  "start": 1147.44,
+  "duration": 3.76,
+  "text": "is. And this idea, even if it's not"
+ },
+ {
+  "start": 1149.76,
+  "duration": 3.84,
+  "text": "fully the way that Anthropic is looking"
+ },
+ {
+  "start": 1151.2,
+  "duration": 4.56,
+  "text": "at things, has the feel of being close"
+ },
+ {
+  "start": 1153.6,
+  "duration": 5.12,
+  "text": "enough that many people are for the"
+ },
+ {
+  "start": 1155.76,
+  "duration": 6.08,
+  "text": "first time grappling with just how much"
+ },
+ {
+  "start": 1158.72,
+  "duration": 5.52,
+  "text": "power the leading AI lab or labs are"
+ },
+ {
+  "start": 1161.84,
+  "duration": 4.959,
+  "text": "going to have and they don't like it."
+ },
+ {
+  "start": 1164.24,
+  "duration": 4.24,
+  "text": "Imbu CTO Josh Albert writes, \"Why stop"
+ },
+ {
+  "start": 1166.799,
+  "duration": 2.88,
+  "text": "there? If Anthropic was serious about"
+ },
+ {
+  "start": 1168.48,
+  "duration": 3.199,
+  "text": "safety, they shouldn't just degrade"
+ },
+ {
+  "start": 1169.679,
+  "duration": 3.681,
+  "text": "output quality. They should insert back"
+ },
+ {
+  "start": 1171.679,
+  "duration": 2.961,
+  "text": "doors, exfiltrate your data, ban your"
+ },
+ {
+  "start": 1173.36,
+  "duration": 2.72,
+  "text": "account, and break your computer."
+ },
+ {
+  "start": 1174.64,
+  "duration": 2.88,
+  "text": "wouldn't want to increase existential"
+ },
+ {
+  "start": 1176.08,
+  "duration": 3.839,
+  "text": "risk by letting random humans do"
+ },
+ {
+  "start": 1177.52,
+  "duration": 3.76,
+  "text": "science. CMU's Graham Nubig writes,"
+ },
+ {
+  "start": 1179.919,
+  "duration": 2.88,
+  "text": "\"First, they came for the model"
+ },
+ {
+  "start": 1181.28,
+  "duration": 3.12,
+  "text": "builders. I feel like we're getting a"
+ },
+ {
+  "start": 1182.799,
+  "duration": 3.521,
+  "text": "glimpse of the future where AI is only"
+ },
+ {
+  "start": 1184.4,
+  "duration": 3.92,
+  "text": "provided to a privileged few, and that's"
+ },
+ {
+  "start": 1186.32,
+  "duration": 3.92,
+  "text": "not a future I want to live in.\""
+ },
+ {
+  "start": 1188.32,
+  "duration": 4.32,
+  "text": "Anthropics communications did not make"
+ },
+ {
+  "start": 1190.24,
+  "duration": 4.24,
+  "text": "it any easier on themselves. Two things"
+ },
+ {
+  "start": 1192.64,
+  "duration": 3.919,
+  "text": "were flying around that I think very"
+ },
+ {
+  "start": 1194.48,
+  "duration": 4.4,
+  "text": "inarguably made everything worse. The"
+ },
+ {
+  "start": 1196.559,
+  "duration": 4.48,
+  "text": "first was that anthropic CEO Dario Amade"
+ },
+ {
+  "start": 1198.88,
+  "duration": 4.799,
+  "text": "wrote a typically massively long piece"
+ },
+ {
+  "start": 1201.039,
+  "duration": 4.321,
+  "text": "called policy on the AI exponential that"
+ },
+ {
+  "start": 1203.679,
+  "duration": 4.081,
+  "text": "in the context of the discussion that we"
+ },
+ {
+  "start": 1205.36,
+  "duration": 4.24,
+  "text": "were having did not sit well with many."
+ },
+ {
+  "start": 1207.76,
+  "duration": 5.279,
+  "text": "Khan Grogan summed up what many readers"
+ },
+ {
+  "start": 1209.6,
+  "duration": 5.6,
+  "text": "felt when he said TLDDR one declare AI"
+ },
+ {
+  "start": 1213.039,
+  "duration": 4.161,
+  "text": "too dangerous for ordinary competition."
+ },
+ {
+  "start": 1215.2,
+  "duration": 4.24,
+  "text": "So you propose a regulatory regime where"
+ },
+ {
+  "start": 1217.2,
+  "duration": 4.32,
+  "text": "only the largest incumbents can survive."
+ },
+ {
+  "start": 1219.44,
+  "duration": 3.68,
+  "text": "Two, warn about labor displacement while"
+ },
+ {
+  "start": 1221.52,
+  "duration": 3.84,
+  "text": "selling the product to executives as a"
+ },
+ {
+  "start": 1223.12,
+  "duration": 3.919,
+  "text": "labor displacement tool. Three, warn"
+ },
+ {
+  "start": 1225.36,
+  "duration": 3.28,
+  "text": "about state overreach while asking the"
+ },
+ {
+  "start": 1227.039,
+  "duration": 4.161,
+  "text": "state to license and gatekeep frontier"
+ },
+ {
+  "start": 1228.64,
+  "duration": 4.24,
+  "text": "models. Four, warn about corporate power"
+ },
+ {
+  "start": 1231.2,
+  "duration": 4.08,
+  "text": "while sketching a corporate state cartel"
+ },
+ {
+  "start": 1232.88,
+  "duration": 4.88,
+  "text": "over compute, release, security, export"
+ },
+ {
+  "start": 1235.28,
+  "duration": 4.56,
+  "text": "controls, and deployment. So that was"
+ },
+ {
+  "start": 1237.76,
+  "duration": 4.399,
+  "text": "one problematic document. And then the"
+ },
+ {
+  "start": 1239.84,
+  "duration": 4.4,
+  "text": "second was Bloomberg Originals released"
+ },
+ {
+  "start": 1242.159,
+  "duration": 3.921,
+  "text": "this 47minute deep dive on the company"
+ },
+ {
+  "start": 1244.24,
+  "duration": 4.0,
+  "text": "that to put it lightly did not do"
+ },
+ {
+  "start": 1246.08,
+  "duration": 3.76,
+  "text": "anything to decrease people's concerns"
+ },
+ {
+  "start": 1248.24,
+  "duration": 3.04,
+  "text": "around the role that Anthropic appear to"
+ },
+ {
+  "start": 1249.84,
+  "duration": 3.6,
+  "text": "be putting themselves in visav the"
+ },
+ {
+  "start": 1251.28,
+  "duration": 3.84,
+  "text": "world. Power Bottom Dad, who is a market"
+ },
+ {
+  "start": 1253.44,
+  "duration": 3.68,
+  "text": "commentator outside of the AI space,"
+ },
+ {
+  "start": 1255.12,
+  "duration": 3.679,
+  "text": "quoted Daario in the video when he said,"
+ },
+ {
+  "start": 1257.12,
+  "duration": 3.84,
+  "text": "\"I'm scared of government having it.\""
+ },
+ {
+  "start": 1258.799,
+  "duration": 4.321,
+  "text": "and added, \"Yeah, this guy thinks he"
+ },
+ {
+  "start": 1260.96,
+  "duration": 4.48,
+  "text": "should be god emperor of AI, sole"
+ },
+ {
+  "start": 1263.12,
+  "duration": 4.16,
+  "text": "decision maker.\" Now the point here is"
+ },
+ {
+  "start": 1265.44,
+  "duration": 4.0,
+  "text": "of course not that everyone agrees with"
+ },
+ {
+  "start": 1267.28,
+  "duration": 4.879,
+  "text": "that analysis but that when you take the"
+ },
+ {
+  "start": 1269.44,
+  "duration": 5.119,
+  "text": "combination of the communications coming"
+ },
+ {
+  "start": 1272.159,
+  "duration": 5.121,
+  "text": "out of anthropic the decisions they are"
+ },
+ {
+  "start": 1274.559,
+  "duration": 5.041,
+  "text": "making around policy and the inherent"
+ },
+ {
+  "start": 1277.28,
+  "duration": 4.0,
+  "text": "power of their position it makes this"
+ },
+ {
+  "start": 1279.6,
+  "duration": 4.079,
+  "text": "take feel a lot more reasonable than it"
+ },
+ {
+  "start": 1281.28,
+  "duration": 4.24,
+  "text": "might once have. Finnbonx wrote as my"
+ },
+ {
+  "start": 1283.679,
+  "duration": 3.041,
+  "text": "entire feed is criticizing anthropic I"
+ },
+ {
+  "start": 1285.52,
+  "duration": 2.639,
+  "text": "think that the team there genuinely"
+ },
+ {
+  "start": 1286.72,
+  "duration": 2.959,
+  "text": "believes what they're saying. It's not a"
+ },
+ {
+  "start": 1288.159,
+  "duration": 3.041,
+  "text": "marketing or anti-competitive tactic."
+ },
+ {
+  "start": 1289.679,
+  "duration": 2.961,
+  "text": "They genuinely believe these models are"
+ },
+ {
+  "start": 1291.2,
+  "duration": 3.76,
+  "text": "dangerous and that AI research should be"
+ },
+ {
+  "start": 1292.64,
+  "duration": 3.76,
+  "text": "slowed down. GMU law professor Samuel"
+ },
+ {
+  "start": 1294.96,
+  "duration": 3.28,
+  "text": "Roman retweeted that, however, and"
+ },
+ {
+  "start": 1296.4,
+  "duration": 3.92,
+  "text": "added, \"I think this is the true and"
+ },
+ {
+  "start": 1298.24,
+  "duration": 3.919,
+  "text": "fair reading of anthropics actions. But"
+ },
+ {
+  "start": 1300.32,
+  "duration": 3.52,
+  "text": "the real problem is that it reveals a"
+ },
+ {
+  "start": 1302.159,
+  "duration": 4.081,
+  "text": "real level of hubris visav other"
+ },
+ {
+  "start": 1303.84,
+  "duration": 4.48,
+  "text": "societal actors. The only way their"
+ },
+ {
+  "start": 1306.24,
+  "duration": 3.76,
+  "text": "decisions make logical sense is if they"
+ },
+ {
+  "start": 1308.32,
+  "duration": 3.92,
+  "text": "presume that they will maintain control"
+ },
+ {
+  "start": 1310.0,
+  "duration": 3.76,
+  "text": "over the frontier to dole out access to"
+ },
+ {
+  "start": 1312.24,
+  "duration": 3.36,
+  "text": "it without push back from those other"
+ },
+ {
+  "start": 1313.76,
+  "duration": 3.36,
+  "text": "actors. Regardless of whether you"
+ },
+ {
+  "start": 1315.6,
+  "duration": 3.28,
+  "text": "believe that this disposition is morally"
+ },
+ {
+  "start": 1317.12,
+  "duration": 3.28,
+  "text": "justifiable, there's a practical"
+ },
+ {
+  "start": 1318.88,
+  "duration": 2.88,
+  "text": "consideration about maintaining control"
+ },
+ {
+  "start": 1320.4,
+  "duration": 3.279,
+  "text": "of it I don't think has been thought"
+ },
+ {
+  "start": 1321.76,
+  "duration": 4.08,
+  "text": "through. If Anthropic genuinely"
+ },
+ {
+  "start": 1323.679,
+  "duration": 4.161,
+  "text": "establishes itself as the toll booth for"
+ },
+ {
+  "start": 1325.84,
+  "duration": 4.24,
+  "text": "frontier model access, the state is"
+ },
+ {
+  "start": 1327.84,
+  "duration": 4.48,
+  "text": "absolutely going to correctly read that"
+ },
+ {
+  "start": 1330.08,
+  "duration": 3.92,
+  "text": "as a direct form of competition and act"
+ },
+ {
+  "start": 1332.32,
+  "duration": 4.0,
+  "text": "accordingly. And I'm sorry, but"
+ },
+ {
+  "start": 1334.0,
+  "duration": 4.159,
+  "text": "Anthropic just does not win that fight."
+ },
+ {
+  "start": 1336.32,
+  "duration": 3.599,
+  "text": "This means the future direction of"
+ },
+ {
+  "start": 1338.159,
+  "duration": 3.041,
+  "text": "models just became much more likely to"
+ },
+ {
+  "start": 1339.919,
+  "duration": 3.201,
+  "text": "be determined by a small group of"
+ },
+ {
+  "start": 1341.2,
+  "duration": 3.2,
+  "text": "bureaucrats via edict rather than a"
+ },
+ {
+  "start": 1343.12,
+  "duration": 2.96,
+  "text": "broad societal discussion and"
+ },
+ {
+  "start": 1344.4,
+  "duration": 3.12,
+  "text": "development. I personally trust the"
+ },
+ {
+  "start": 1346.08,
+  "duration": 3.2,
+  "text": "latter much more than the former, hence"
+ },
+ {
+  "start": 1347.52,
+  "duration": 3.12,
+  "text": "the disappointment. Everyone I've met at"
+ },
+ {
+  "start": 1349.28,
+  "duration": 3.04,
+  "text": "Anthropic has been wonderful and"
+ },
+ {
+  "start": 1350.64,
+  "duration": 3.519,
+  "text": "well-intentioned, but there's a degree"
+ },
+ {
+  "start": 1352.32,
+  "duration": 3.44,
+  "text": "of myopic focus on the mission that I"
+ },
+ {
+  "start": 1354.159,
+  "duration": 3.52,
+  "text": "think often ends up blinding them to the"
+ },
+ {
+  "start": 1355.76,
+  "duration": 3.84,
+  "text": "fact that these are not singleplayer"
+ },
+ {
+  "start": 1357.679,
+  "duration": 4.88,
+  "text": "games. Mostly, there was just a lot of"
+ },
+ {
+  "start": 1359.6,
+  "duration": 4.88,
+  "text": "frustration. Nekon X writes, \"The actual"
+ },
+ {
+  "start": 1362.559,
+  "duration": 3.281,
+  "text": "audacity anthropic absorbed the"
+ },
+ {
+  "start": 1364.48,
+  "duration": 2.72,
+  "text": "collective intelligence of the world and"
+ },
+ {
+  "start": 1365.84,
+  "duration": 3.199,
+  "text": "is now trying to create a class system"
+ },
+ {
+  "start": 1367.2,
+  "duration": 3.2,
+  "text": "where that very intelligence is gatekept"
+ },
+ {
+  "start": 1369.039,
+  "duration": 3.361,
+  "text": "from anyone and everyone who they deem"
+ },
+ {
+  "start": 1370.4,
+  "duration": 3.6,
+  "text": "is not worthy.\" Bubble Boy writes,"
+ },
+ {
+  "start": 1372.4,
+  "duration": 2.88,
+  "text": "\"Everybody is scared of Chinese models"
+ },
+ {
+  "start": 1374.0,
+  "duration": 3.36,
+  "text": "because it won't let you criticize the"
+ },
+ {
+  "start": 1375.28,
+  "duration": 3.44,
+  "text": "CCP, while Anthropic won't let me use"
+ },
+ {
+  "start": 1377.36,
+  "duration": 3.28,
+  "text": "their models for life-saving medical"
+ },
+ {
+  "start": 1378.72,
+  "duration": 3.839,
+  "text": "research. Who's the real villain again?\""
+ },
+ {
+  "start": 1380.64,
+  "duration": 3.68,
+  "text": "Summing it up, Baze Lord writes, \"If"
+ },
+ {
+  "start": 1382.559,
+  "duration": 3.681,
+  "text": "future human actions will be largely"
+ },
+ {
+  "start": 1384.32,
+  "duration": 4.16,
+  "text": "taken via AI models, we need to"
+ },
+ {
+  "start": 1386.24,
+  "duration": 4.64,
+  "text": "seriously consider what it means for AI"
+ },
+ {
+  "start": 1388.48,
+  "duration": 4.319,
+  "text": "labs to arbitrarily control what people"
+ },
+ {
+  "start": 1390.88,
+  "duration": 4.08,
+  "text": "are and aren't allowed to do.\" And this"
+ },
+ {
+  "start": 1392.799,
+  "duration": 3.76,
+  "text": "is what I mean when I say hold aside the"
+ },
+ {
+  "start": 1394.96,
+  "duration": 3.04,
+  "text": "specific decisions that Anthropic is"
+ },
+ {
+  "start": 1396.559,
+  "duration": 2.961,
+  "text": "making. Hold aside the specific"
+ },
+ {
+  "start": 1398.0,
+  "duration": 3.44,
+  "text": "communications that may or may not make"
+ },
+ {
+  "start": 1399.52,
+  "duration": 3.84,
+  "text": "those decisions worse. There is an"
+ },
+ {
+  "start": 1401.44,
+  "duration": 4.08,
+  "text": "inherent power in their position that"
+ },
+ {
+  "start": 1403.36,
+  "duration": 4.48,
+  "text": "people are finally coming around to that"
+ },
+ {
+  "start": 1405.52,
+  "duration": 4.399,
+  "text": "potentially gives them far more power"
+ },
+ {
+  "start": 1407.84,
+  "duration": 4.8,
+  "text": "over people than any private corporation"
+ },
+ {
+  "start": 1409.919,
+  "duration": 4.961,
+  "text": "has ever had. Now, back to the change in"
+ },
+ {
+  "start": 1412.64,
+  "duration": 4.32,
+  "text": "specific policy. Like I said, it took"
+ },
+ {
+  "start": 1414.88,
+  "duration": 4.24,
+  "text": "less than 24 hours for Anthropic to walk"
+ },
+ {
+  "start": 1416.96,
+  "duration": 3.92,
+  "text": "back the policy around nerfing LLM"
+ },
+ {
+  "start": 1419.12,
+  "duration": 4.0,
+  "text": "research. In a statement to Wired,"
+ },
+ {
+  "start": 1420.88,
+  "duration": 4.0,
+  "text": "Anthropic said, \"We're changing Fable 5"
+ },
+ {
+  "start": 1423.12,
+  "duration": 3.439,
+  "text": "safeguards for Frontier LM development"
+ },
+ {
+  "start": 1424.88,
+  "duration": 3.12,
+  "text": "to make them visible. We made the wrong"
+ },
+ {
+  "start": 1426.559,
+  "duration": 3.12,
+  "text": "trade-off and we apologize for not"
+ },
+ {
+  "start": 1428.0,
+  "duration": 3.44,
+  "text": "getting the balance right.\" Basically,"
+ },
+ {
+  "start": 1429.679,
+  "duration": 4.0,
+  "text": "now Fable safeguards for AI development"
+ },
+ {
+  "start": 1431.44,
+  "duration": 4.0,
+  "text": "will be visible. As Wired puts it, if"
+ },
+ {
+  "start": 1433.679,
+  "duration": 3.921,
+  "text": "the company suspects a user is trying to"
+ },
+ {
+  "start": 1435.44,
+  "duration": 3.44,
+  "text": "use Claude to build a highly capable AI,"
+ },
+ {
+  "start": 1437.6,
+  "duration": 2.959,
+  "text": "it will alert them that it's either"
+ },
+ {
+  "start": 1438.88,
+  "duration": 3.919,
+  "text": "refusing the request or rerouting the"
+ },
+ {
+  "start": 1440.559,
+  "duration": 4.48,
+  "text": "user to a less capable model. AI policy"
+ },
+ {
+  "start": 1442.799,
+  "duration": 4.0,
+  "text": "expert Dean Ball writes, \"This resolves"
+ },
+ {
+  "start": 1445.039,
+  "duration": 3.041,
+  "text": "the central concern I had with the Fable"
+ },
+ {
+  "start": 1446.799,
+  "duration": 3.12,
+  "text": "release, which was the silent"
+ },
+ {
+  "start": 1448.08,
+  "duration": 4.0,
+  "text": "degradation. I'm glad to see Enthropic"
+ },
+ {
+  "start": 1449.919,
+  "duration": 3.76,
+  "text": "make the right call here. That said, I"
+ },
+ {
+  "start": 1452.08,
+  "duration": 3.04,
+  "text": "suspect the residual broken trust and"
+ },
+ {
+  "start": 1453.679,
+  "duration": 3.041,
+  "text": "resentment this has created will linger"
+ },
+ {
+  "start": 1455.12,
+  "duration": 3.84,
+  "text": "and have a blast radius wider than"
+ },
+ {
+  "start": 1456.72,
+  "duration": 4.079,
+  "text": "Anthropic.\" Hugging Faces Arthur Zucker"
+ },
+ {
+  "start": 1458.96,
+  "duration": 3.04,
+  "text": "writes, \"Dear Anthropic, you broke our"
+ },
+ {
+  "start": 1460.799,
+  "duration": 3.521,
+  "text": "trust and I don't think you'll ever get"
+ },
+ {
+  "start": 1462.0,
+  "duration": 4.08,
+  "text": "it back. My tokens will no longer fly"
+ },
+ {
+  "start": 1464.32,
+  "duration": 3.359,
+  "text": "your way.\" David Kramer makes another"
+ },
+ {
+  "start": 1466.08,
+  "duration": 2.88,
+  "text": "good point. Even if you don't have an"
+ },
+ {
+  "start": 1467.679,
+  "duration": 2.641,
+  "text": "ethical or moral stance on the"
+ },
+ {
+  "start": 1468.96,
+  "duration": 3.199,
+  "text": "limitations of anthropics models,"
+ },
+ {
+  "start": 1470.32,
+  "duration": 3.52,
+  "text": "there's a practical business one. I will"
+ },
+ {
+  "start": 1472.159,
+  "duration": 3.201,
+  "text": "avoid Anthropic models because they keep"
+ },
+ {
+  "start": 1473.84,
+  "duration": 3.439,
+  "text": "imposing more limits on the products I"
+ },
+ {
+  "start": 1475.36,
+  "duration": 3.919,
+  "text": "can build. I'm not going to build on a"
+ },
+ {
+  "start": 1477.279,
+  "duration": 4.081,
+  "text": "completely walled off ecosystem. Now, as"
+ },
+ {
+  "start": 1479.279,
+  "duration": 4.481,
+  "text": "we wrap, one part of this story is about"
+ },
+ {
+  "start": 1481.36,
+  "duration": 4.72,
+  "text": "the implications for Anthropic. Factory"
+ },
+ {
+  "start": 1483.76,
+  "duration": 4.159,
+  "text": "CEO Matan Grinberg writes, \"Anthropic"
+ },
+ {
+  "start": 1486.08,
+  "duration": 3.92,
+  "text": "speedrun to becoming the bad guy should"
+ },
+ {
+  "start": 1487.919,
+  "duration": 4.161,
+  "text": "be studied.\" And truly, from an"
+ },
+ {
+  "start": 1490.0,
+  "duration": 5.679,
+  "text": "unassalable position just a few months"
+ },
+ {
+  "start": 1492.08,
+  "duration": 5.44,
+  "text": "ago to where they are now is quite wild."
+ },
+ {
+  "start": 1495.679,
+  "duration": 3.681,
+  "text": "For what my advice is worth, now that"
+ },
+ {
+  "start": 1497.52,
+  "duration": 3.759,
+  "text": "this particular LLM research policy is"
+ },
+ {
+  "start": 1499.36,
+  "duration": 3.28,
+  "text": "resolved, I would be looking very"
+ },
+ {
+  "start": 1501.279,
+  "duration": 3.441,
+  "text": "quickly into that enterprise data"
+ },
+ {
+  "start": 1502.64,
+  "duration": 3.84,
+  "text": "retention policy because there are a"
+ },
+ {
+  "start": 1504.72,
+  "duration": 3.28,
+  "text": "heck of a lot of users, the users in"
+ },
+ {
+  "start": 1506.48,
+  "duration": 3.76,
+  "text": "fact, who have made Enthropic the"
+ },
+ {
+  "start": 1508.0,
+  "duration": 4.0,
+  "text": "juggernaut that it is, who cynically"
+ },
+ {
+  "start": 1510.24,
+  "duration": 3.28,
+  "text": "might not care at all about the LLM"
+ },
+ {
+  "start": 1512.0,
+  "duration": 3.12,
+  "text": "research question, but you better"
+ },
+ {
+  "start": 1513.52,
+  "duration": 3.12,
+  "text": "believe aren't going to stick around if"
+ },
+ {
+  "start": 1515.12,
+  "duration": 3.439,
+  "text": "their corporate data is subject to"
+ },
+ {
+  "start": 1516.64,
+  "duration": 3.84,
+  "text": "Enthropic's whims. When it comes to"
+ },
+ {
+  "start": 1518.559,
+  "duration": 4.0,
+  "text": "competition and next moves, the ball is"
+ },
+ {
+  "start": 1520.48,
+  "duration": 3.52,
+  "text": "clearly in OpenAI's court, although it's"
+ },
+ {
+  "start": 1522.559,
+  "duration": 3.36,
+  "text": "not clear exactly what step they'll"
+ },
+ {
+  "start": 1524.0,
+  "duration": 3.6,
+  "text": "take. The information reported on a Sam"
+ },
+ {
+  "start": 1525.919,
+  "duration": 4.0,
+  "text": "Alman Slack message that many people"
+ },
+ {
+  "start": 1527.6,
+  "duration": 5.04,
+  "text": "took as indicating that their next AI"
+ },
+ {
+  "start": 1529.919,
+  "duration": 4.721,
+  "text": "model release 56 wasn't at current state"
+ },
+ {
+  "start": 1532.64,
+  "duration": 3.76,
+  "text": "up to fable standards. The Wall Street"
+ },
+ {
+  "start": 1534.64,
+  "duration": 3.919,
+  "text": "Journal, meanwhile, last night reported"
+ },
+ {
+  "start": 1536.4,
+  "duration": 4.0,
+  "text": "that OpenAI is considering significant"
+ },
+ {
+  "start": 1538.559,
+  "duration": 3.441,
+  "text": "price cuts on their tokens which could"
+ },
+ {
+  "start": 1540.4,
+  "duration": 3.04,
+  "text": "create a pricing war with fairly"
+ },
+ {
+  "start": 1542.0,
+  "duration": 3.039,
+  "text": "significant impacts for this whole"
+ },
+ {
+  "start": 1543.44,
+  "duration": 3.44,
+  "text": "industry. Although at this point it's"
+ },
+ {
+  "start": 1545.039,
+  "duration": 3.841,
+  "text": "just a report and clearly just one of"
+ },
+ {
+  "start": 1546.88,
+  "duration": 3.44,
+  "text": "many things being discussed. Ultimately,"
+ },
+ {
+  "start": 1548.88,
+  "duration": 3.84,
+  "text": "if you are looking for the positive side"
+ },
+ {
+  "start": 1550.32,
+  "duration": 4.239,
+  "text": "of this, it's a whole lot of folks"
+ },
+ {
+  "start": 1552.72,
+  "duration": 4.24,
+  "text": "waking up to the stakes of the role of"
+ },
+ {
+  "start": 1554.559,
+  "duration": 4.561,
+  "text": "the labs in society. Hugging Faces Clem"
+ },
+ {
+  "start": 1556.96,
+  "duration": 4.0,
+  "text": "Lang wrote, \"Concentration of power,"
+ },
+ {
+  "start": 1559.12,
+  "duration": 4.24,
+  "text": "capabilities, and economic wealth is the"
+ },
+ {
+  "start": 1560.96,
+  "duration": 4.4,
+  "text": "biggest risk in AI. We need open science"
+ },
+ {
+  "start": 1563.36,
+  "duration": 3.36,
+  "text": "and open source more than ever.\" I think"
+ },
+ {
+  "start": 1565.36,
+  "duration": 3.04,
+  "text": "the fallout from everything that has"
+ },
+ {
+  "start": 1566.72,
+  "duration": 4.48,
+  "text": "happened right now is just like the"
+ },
+ {
+  "start": 1568.4,
+  "duration": 4.48,
+  "text": "fallout after GPT5 going to cast a long"
+ },
+ {
+  "start": 1571.2,
+  "duration": 3.04,
+  "text": "shadow on the next stage of development."
+ },
+ {
+  "start": 1572.88,
+  "duration": 3.52,
+  "text": "And I will of course be here to follow"
+ },
+ {
+  "start": 1574.24,
+  "duration": 3.28,
+  "text": "along as it happens. For now, however,"
+ },
+ {
+  "start": 1576.4,
+  "duration": 2.879,
+  "text": "that's going to do it for today's AI"
+ },
+ {
+  "start": 1577.52,
+  "duration": 4.08,
+  "text": "daily brief. Appreciate you listening or"
+ },
+ {
+  "start": 1579.279,
+  "duration": 5.321,
+  "text": "watching as always, and until next time,"
+ },
+ {
+  "start": 1581.6,
+  "duration": 3.0,
+  "text": "peace."
+ }
+]

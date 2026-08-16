@@ -1,0 +1,3547 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.12,
+  "text": "Today, I'm discussing a new way to think"
+ },
+ {
+  "start": 2.04,
+  "duration": 5.52,
+  "text": "about AI and agent readiness inside your"
+ },
+ {
+  "start": 4.12,
+  "duration": 5.52,
+  "text": "company, and it is called maturity maps."
+ },
+ {
+  "start": 7.56,
+  "duration": 3.36,
+  "text": "Today is the second day in our build"
+ },
+ {
+  "start": 9.64,
+  "duration": 3.44,
+  "text": "week, which is happening while I'm"
+ },
+ {
+  "start": 10.92,
+  "duration": 4.2,
+  "text": "traveling with my family. Yesterday, we"
+ },
+ {
+  "start": 13.08,
+  "duration": 3.4,
+  "text": "did a very high-level overview around"
+ },
+ {
+  "start": 15.12,
+  "duration": 2.48,
+  "text": "everything that had happened last"
+ },
+ {
+  "start": 16.48,
+  "duration": 2.68,
+  "text": "quarter and what it meant for this"
+ },
+ {
+  "start": 17.6,
+  "duration": 3.56,
+  "text": "quarter. And if we put this in the"
+ },
+ {
+  "start": 19.16,
+  "duration": 3.68,
+  "text": "framework of this being build week,"
+ },
+ {
+  "start": 21.16,
+  "duration": 3.44,
+  "text": "yesterday was sort of the context"
+ },
+ {
+  "start": 22.84,
+  "duration": 3.6,
+  "text": "setting, the environment in which your"
+ },
+ {
+  "start": 24.6,
+  "duration": 4.12,
+  "text": "building is happening."
+ },
+ {
+  "start": 26.44,
+  "duration": 4.48,
+  "text": "Today's episode takes that down a level"
+ },
+ {
+  "start": 28.72,
+  "duration": 5.04,
+  "text": "to discuss the benchmarks that show"
+ },
+ {
+  "start": 30.92,
+  "duration": 3.96,
+  "text": "where others like you are. Now, one of"
+ },
+ {
+  "start": 33.76,
+  "duration": 3.6,
+  "text": "the things that I've been thinking about"
+ },
+ {
+  "start": 34.88,
+  "duration": 4.12,
+  "text": "a lot over the last 6 months or so is"
+ },
+ {
+  "start": 37.36,
+  "duration": 4.04,
+  "text": "just how much we need a totally"
+ },
+ {
+  "start": 39.0,
+  "duration": 5.28,
+  "text": "different set of data and benchmarks for"
+ },
+ {
+  "start": 41.4,
+  "duration": 4.64,
+  "text": "this new AI era. Everyone is adapting"
+ },
+ {
+  "start": 44.28,
+  "duration": 3.32,
+  "text": "incredibly quickly right now, or at"
+ },
+ {
+  "start": 46.04,
+  "duration": 3.52,
+  "text": "least they're trying to. It's new"
+ },
+ {
+  "start": 47.6,
+  "duration": 4.68,
+  "text": "processes, new workflows, new tooling,"
+ },
+ {
+  "start": 49.56,
+  "duration": 4.12,
+  "text": "new everything. And by and large, we're"
+ },
+ {
+  "start": 52.28,
+  "duration": 3.68,
+  "text": "doing all that exploration without a"
+ },
+ {
+  "start": 53.68,
+  "duration": 4.64,
+  "text": "map. Let me give you a practical example"
+ },
+ {
+  "start": 55.96,
+  "duration": 4.24,
+  "text": "of where I think our lack of benchmarks"
+ },
+ {
+  "start": 58.32,
+  "duration": 4.16,
+  "text": "could actually very significantly and"
+ },
+ {
+  "start": 60.2,
+  "duration": 4.6,
+  "text": "meaningfully negatively impact a company"
+ },
+ {
+  "start": 62.48,
+  "duration": 4.28,
+  "text": "when it comes to their AI adoption."
+ },
+ {
+  "start": 64.8,
+  "duration": 3.64,
+  "text": "Let's say that you are an early adopter"
+ },
+ {
+  "start": 66.76,
+  "duration": 3.56,
+  "text": "company. Across your different"
+ },
+ {
+  "start": 68.44,
+  "duration": 3.76,
+  "text": "functions, you've had really strong"
+ },
+ {
+  "start": 70.32,
+  "duration": 3.48,
+  "text": "hands-on efforts to get your AI up and"
+ },
+ {
+  "start": 72.2,
+  "duration": 2.92,
+  "text": "running. In the absence of knowing"
+ },
+ {
+  "start": 73.8,
+  "duration": 3.08,
+  "text": "exactly what to measure, you're just"
+ },
+ {
+  "start": 75.12,
+  "duration": 3.88,
+  "text": "trying to measure whatever you can, and"
+ },
+ {
+  "start": 76.88,
+  "duration": 4.32,
+  "text": "early results are pretty positive. For"
+ },
+ {
+  "start": 79.0,
+  "duration": 4.84,
+  "text": "example, in the marketing function, you"
+ },
+ {
+  "start": 81.2,
+  "duration": 4.28,
+  "text": "have increased your content output 30%"
+ },
+ {
+  "start": 83.84,
+  "duration": 3.44,
+  "text": "year over year without any sort of"
+ },
+ {
+  "start": 85.48,
+  "duration": 4.0,
+  "text": "proportional increase in the resources"
+ },
+ {
+  "start": 87.28,
+  "duration": 4.08,
+  "text": "it takes to produce that content. Now,"
+ },
+ {
+  "start": 89.48,
+  "duration": 4.04,
+  "text": "that 30% year over year growth sounds"
+ },
+ {
+  "start": 91.36,
+  "duration": 4.0,
+  "text": "great. But what if I told you that all"
+ },
+ {
+  "start": 93.52,
+  "duration": 4.64,
+  "text": "of your competitors had actually grown"
+ },
+ {
+  "start": 95.36,
+  "duration": 4.64,
+  "text": "their content output by 50%?"
+ },
+ {
+  "start": 98.16,
+  "duration": 3.96,
+  "text": "In AI world, this is actually not a"
+ },
+ {
+  "start": 100.0,
+  "duration": 3.8,
+  "text": "far-fetched scenario, and it shows how"
+ },
+ {
+  "start": 102.12,
+  "duration": 4.6,
+  "text": "the need for better benchmarks and"
+ },
+ {
+  "start": 103.8,
+  "duration": 4.4,
+  "text": "numbers is not just a vanity exercise."
+ },
+ {
+  "start": 106.72,
+  "duration": 3.48,
+  "text": "When we don't know how we're doing"
+ },
+ {
+  "start": 108.2,
+  "duration": 3.96,
+  "text": "relative to peers and competitors, it"
+ },
+ {
+  "start": 110.2,
+  "duration": 3.36,
+  "text": "makes it really hard for us to judge"
+ },
+ {
+  "start": 112.16,
+  "duration": 3.76,
+  "text": "what we need to change, what we need to"
+ },
+ {
+  "start": 113.56,
+  "duration": 4.8,
+  "text": "shift, and what we need to do next. Now,"
+ },
+ {
+  "start": 115.92,
+  "duration": 3.76,
+  "text": "at AI DB and at Super Intelligent, which"
+ },
+ {
+  "start": 118.36,
+  "duration": 3.28,
+  "text": "is my enterprise AI planning and"
+ },
+ {
+  "start": 119.68,
+  "duration": 3.32,
+  "text": "strategy company, we started exploring"
+ },
+ {
+  "start": 121.64,
+  "duration": 2.96,
+  "text": "some of this with our AI ROI"
+ },
+ {
+  "start": 123.0,
+  "duration": 3.56,
+  "text": "benchmarking survey at the end of last"
+ },
+ {
+  "start": 124.6,
+  "duration": 3.96,
+  "text": "year. We had people submit and share"
+ },
+ {
+  "start": 126.56,
+  "duration": 3.8,
+  "text": "their real use cases and share with us"
+ },
+ {
+  "start": 128.56,
+  "duration": 3.52,
+  "text": "the impact those use cases were having"
+ },
+ {
+  "start": 130.36,
+  "duration": 3.32,
+  "text": "across an array of eight different"
+ },
+ {
+  "start": 132.08,
+  "duration": 3.72,
+  "text": "impact dimensions, things like time"
+ },
+ {
+  "start": 133.68,
+  "duration": 3.56,
+  "text": "savings, cost savings, new capabilities,"
+ },
+ {
+  "start": 135.8,
+  "duration": 4.08,
+  "text": "increased output, and a handful of"
+ },
+ {
+  "start": 137.24,
+  "duration": 4.4,
+  "text": "others. We asked them to rate impact"
+ },
+ {
+  "start": 139.88,
+  "duration": 3.64,
+  "text": "from negative to transformational and"
+ },
+ {
+  "start": 141.64,
+  "duration": 3.92,
+  "text": "found that by and large, at least when"
+ },
+ {
+  "start": 143.52,
+  "duration": 4.04,
+  "text": "it comes to people self-reporting, they"
+ },
+ {
+  "start": 145.56,
+  "duration": 4.36,
+  "text": "were already seeing strong and positive"
+ },
+ {
+  "start": 147.56,
+  "duration": 3.72,
+  "text": "impact from their AI initiatives."
+ },
+ {
+  "start": 149.92,
+  "duration": 3.56,
+  "text": "But there are a couple of clear and"
+ },
+ {
+  "start": 151.28,
+  "duration": 3.56,
+  "text": "obvious limitations with that study."
+ },
+ {
+  "start": 153.48,
+  "duration": 2.88,
+  "text": "First of all, while self-reporting is"
+ },
+ {
+  "start": 154.84,
+  "duration": 3.4,
+  "text": "better than nothing, it's always going"
+ },
+ {
+  "start": 156.36,
+  "duration": 3.44,
+  "text": "to be somewhat imprecise."
+ },
+ {
+  "start": 158.24,
+  "duration": 3.36,
+  "text": "Second, like pretty much everything that"
+ },
+ {
+  "start": 159.8,
+  "duration": 3.64,
+  "text": "we do with this audience, you have to"
+ },
+ {
+  "start": 161.6,
+  "duration": 3.84,
+  "text": "calibrate it to a more advanced"
+ },
+ {
+  "start": 163.44,
+  "duration": 3.08,
+  "text": "individual and organizational user than"
+ },
+ {
+  "start": 165.44,
+  "duration": 2.24,
+  "text": "if you just surveyed a broad"
+ },
+ {
+  "start": 166.52,
+  "duration": 3.96,
+  "text": "cross-section of businesses in the"
+ },
+ {
+  "start": 167.68,
+  "duration": 5.16,
+  "text": "world. Third, while it did give us some"
+ },
+ {
+  "start": 170.48,
+  "duration": 4.48,
+  "text": "great information around individual use"
+ },
+ {
+  "start": 172.84,
+  "duration": 3.68,
+  "text": "case impact, it didn't tell us all that"
+ },
+ {
+  "start": 174.96,
+  "duration": 3.52,
+  "text": "much about other dimensions of AI"
+ },
+ {
+  "start": 176.52,
+  "duration": 3.92,
+  "text": "readiness and adoption outside of just"
+ },
+ {
+  "start": 178.48,
+  "duration": 3.64,
+  "text": "the use cases themselves."
+ },
+ {
+  "start": 180.44,
+  "duration": 3.88,
+  "text": "Anyone who's felt the sting of the"
+ },
+ {
+  "start": 182.12,
+  "duration": 3.88,
+  "text": "capability overhang, in other words, the"
+ },
+ {
+  "start": 184.32,
+  "duration": 3.84,
+  "text": "gap between what AI can do and what"
+ },
+ {
+  "start": 186.0,
+  "duration": 3.56,
+  "text": "we're actually using it for, knows that"
+ },
+ {
+  "start": 188.16,
+  "duration": 3.84,
+  "text": "raw capability isn't really the"
+ },
+ {
+  "start": 189.56,
+  "duration": 4.28,
+  "text": "question. It's the systems we put around"
+ },
+ {
+  "start": 192.0,
+  "duration": 2.96,
+  "text": "it to get value from it. And"
+ },
+ {
+  "start": 193.84,
+  "duration": 2.88,
+  "text": "unfortunately, the research and"
+ },
+ {
+  "start": 194.96,
+  "duration": 4.16,
+  "text": "information apparatus just has not"
+ },
+ {
+  "start": 196.72,
+  "duration": 3.8,
+  "text": "adapted to this new reality. Not to pick"
+ },
+ {
+  "start": 199.12,
+  "duration": 3.0,
+  "text": "on Gartner specifically, but they're the"
+ },
+ {
+  "start": 200.52,
+  "duration": 3.84,
+  "text": "biggest in the space, and so sort of"
+ },
+ {
+  "start": 202.12,
+  "duration": 4.24,
+  "text": "present an easy target. Tried and true"
+ },
+ {
+  "start": 204.36,
+  "duration": 4.76,
+  "text": "benchmarks and information products like"
+ },
+ {
+  "start": 206.36,
+  "duration": 4.84,
+  "text": "Gartner's Magic Quadrant have literally"
+ },
+ {
+  "start": 209.12,
+  "duration": 3.32,
+  "text": "never been less useful than they are"
+ },
+ {
+  "start": 211.2,
+  "duration": 4.24,
+  "text": "right now."
+ },
+ {
+  "start": 212.44,
+  "duration": 5.32,
+  "text": "The idea that success in something like"
+ },
+ {
+  "start": 215.44,
+  "duration": 4.92,
+  "text": "AI application development was going to"
+ },
+ {
+  "start": 217.76,
+  "duration": 4.64,
+  "text": "be even a little bit dictated by"
+ },
+ {
+  "start": 220.36,
+  "duration": 4.76,
+  "text": "choosing the right AI application"
+ },
+ {
+  "start": 222.4,
+  "duration": 4.88,
+  "text": "development platform vendor is just so"
+ },
+ {
+  "start": 225.12,
+  "duration": 4.56,
+  "text": "far outside of the reality of these"
+ },
+ {
+  "start": 227.28,
+  "duration": 3.56,
+  "text": "tools as to be almost actively harmful"
+ },
+ {
+  "start": 229.68,
+  "duration": 2.44,
+  "text": "if that's where you're putting your time"
+ },
+ {
+  "start": 230.84,
+  "duration": 3.88,
+  "text": "and effort when it comes to trying to"
+ },
+ {
+  "start": 232.12,
+  "duration": 3.76,
+  "text": "figure out how to adopt AI. Now, Gartner"
+ },
+ {
+  "start": 234.72,
+  "duration": 2.56,
+  "text": "is more than the Magic Quadrant, and"
+ },
+ {
+  "start": 235.88,
+  "duration": 3.32,
+  "text": "they are doing lots to try to catch up"
+ },
+ {
+  "start": 237.28,
+  "duration": 4.08,
+  "text": "to the AI world, so it's not to single"
+ },
+ {
+  "start": 239.2,
+  "duration": 3.68,
+  "text": "them out. It's more to make the point"
+ },
+ {
+  "start": 241.36,
+  "duration": 3.16,
+  "text": "that we are in desperate need of some"
+ },
+ {
+  "start": 242.88,
+  "duration": 3.16,
+  "text": "new frameworks, some new benchmarks, and"
+ },
+ {
+  "start": 244.52,
+  "duration": 3.4,
+  "text": "some new tools."
+ },
+ {
+  "start": 246.04,
+  "duration": 3.08,
+  "text": "And so, at both AI DB and at Super"
+ },
+ {
+  "start": 247.92,
+  "duration": 3.04,
+  "text": "Intelligent, we've been thinking about"
+ },
+ {
+  "start": 249.12,
+  "duration": 3.68,
+  "text": "this a lot over the last, call it 3 to 4"
+ },
+ {
+  "start": 250.96,
+  "duration": 3.16,
+  "text": "months. We've experimented with a couple"
+ },
+ {
+  "start": 252.8,
+  "duration": 2.96,
+  "text": "things that you'll probably see some"
+ },
+ {
+  "start": 254.12,
+  "duration": 3.8,
+  "text": "version of come out at some point in the"
+ },
+ {
+  "start": 255.76,
+  "duration": 4.479,
+  "text": "near future. One of them I call AI"
+ },
+ {
+  "start": 257.92,
+  "duration": 4.44,
+  "text": "opportunity radars, which are basically"
+ },
+ {
+  "start": 260.239,
+  "duration": 4.681,
+  "text": "a way of organizing use cases by"
+ },
+ {
+  "start": 262.36,
+  "duration": 4.4,
+  "text": "function, but then also by applicability"
+ },
+ {
+  "start": 264.92,
+  "duration": 4.04,
+  "text": "depending on where your organization is"
+ },
+ {
+  "start": 266.76,
+  "duration": 4.56,
+  "text": "in its development cycle. Simply put,"
+ },
+ {
+  "start": 268.96,
+  "duration": 4.04,
+  "text": "it's a radar or bullseye type of visual"
+ },
+ {
+  "start": 271.32,
+  "duration": 3.96,
+  "text": "where use cases are organized into one"
+ },
+ {
+  "start": 273.0,
+  "duration": 5.0,
+  "text": "of three categories. Prime time means"
+ },
+ {
+  "start": 275.28,
+  "duration": 4.84,
+  "text": "that most organizations as they are are"
+ },
+ {
+  "start": 278.0,
+  "duration": 3.56,
+  "text": "well suited to get value from that use"
+ },
+ {
+  "start": 280.12,
+  "duration": 3.32,
+  "text": "case right now."
+ },
+ {
+  "start": 281.56,
+  "duration": 3.6,
+  "text": "Emerging means that while there are a"
+ },
+ {
+  "start": 283.44,
+  "duration": 3.56,
+  "text": "lot of organizations that can get value"
+ },
+ {
+  "start": 285.16,
+  "duration": 4.0,
+  "text": "out of them, there is some amount of"
+ },
+ {
+  "start": 287.0,
+  "duration": 3.4,
+  "text": "setup cost or right set of circumstances"
+ },
+ {
+  "start": 289.16,
+  "duration": 3.36,
+  "text": "or infrastructure that is going to be"
+ },
+ {
+  "start": 290.4,
+  "duration": 3.48,
+  "text": "needed to get value from that, and not"
+ },
+ {
+  "start": 292.52,
+  "duration": 4.12,
+  "text": "all organizations are going to be there"
+ },
+ {
+  "start": 293.88,
+  "duration": 4.56,
+  "text": "just yet. Finally, frontier is exactly"
+ },
+ {
+  "start": 296.64,
+  "duration": 3.68,
+  "text": "what it sounds like, where if your"
+ },
+ {
+  "start": 298.44,
+  "duration": 3.4,
+  "text": "organization is well set up with the"
+ },
+ {
+  "start": 300.32,
+  "duration": 3.96,
+  "text": "right infrastructure, you can be getting"
+ },
+ {
+  "start": 301.84,
+  "duration": 4.12,
+  "text": "a lot of value from those use cases, but"
+ },
+ {
+  "start": 304.28,
+  "duration": 3.88,
+  "text": "at this point, most organizations aren't"
+ },
+ {
+  "start": 305.96,
+  "duration": 4.0,
+  "text": "there yet. So, over the last quarter, we"
+ },
+ {
+  "start": 308.16,
+  "duration": 3.68,
+  "text": "built an agentic system that is"
+ },
+ {
+  "start": 309.96,
+  "duration": 4.0,
+  "text": "basically constantly seeking out every"
+ },
+ {
+  "start": 311.84,
+  "duration": 4.16,
+  "text": "new resource it can get its hands on,"
+ },
+ {
+  "start": 313.96,
+  "duration": 3.24,
+  "text": "assessing what those resources tell us"
+ },
+ {
+  "start": 316.0,
+  "duration": 3.2,
+  "text": "about the use cases in different"
+ },
+ {
+  "start": 317.2,
+  "duration": 3.84,
+  "text": "functions, and keeping these radars"
+ },
+ {
+  "start": 319.2,
+  "duration": 3.44,
+  "text": "continuously updated both with with new"
+ },
+ {
+  "start": 321.04,
+  "duration": 4.04,
+  "text": "use cases as well as changes in where"
+ },
+ {
+  "start": 322.64,
+  "duration": 4.56,
+  "text": "the existing use cases are placed."
+ },
+ {
+  "start": 325.08,
+  "duration": 3.2,
+  "text": "But as we were working on radars, it was"
+ },
+ {
+  "start": 327.2,
+  "duration": 3.4,
+  "text": "clear again that there was something"
+ },
+ {
+  "start": 328.28,
+  "duration": 4.8,
+  "text": "even more fundamental, and that overly"
+ },
+ {
+  "start": 330.6,
+  "duration": 4.24,
+  "text": "or only focusing on use cases was"
+ },
+ {
+  "start": 333.08,
+  "duration": 3.4,
+  "text": "leaving out so much of what actual AI"
+ },
+ {
+  "start": 334.84,
+  "duration": 3.04,
+  "text": "readiness means."
+ },
+ {
+  "start": 336.48,
+  "duration": 2.4,
+  "text": "When we're doing AI readiness and"
+ },
+ {
+  "start": 337.88,
+  "duration": 2.64,
+  "text": "planning assessments at Super"
+ },
+ {
+  "start": 338.88,
+  "duration": 3.04,
+  "text": "Intelligent, we're not just thinking"
+ },
+ {
+  "start": 340.52,
+  "duration": 3.88,
+  "text": "about what use cases a company should"
+ },
+ {
+  "start": 341.92,
+  "duration": 4.08,
+  "text": "do, but what's the full set of change"
+ },
+ {
+  "start": 344.4,
+  "duration": 3.6,
+  "text": "management and infrastructure"
+ },
+ {
+  "start": 346.0,
+  "duration": 3.52,
+  "text": "development and new policy and"
+ },
+ {
+  "start": 348.0,
+  "duration": 3.56,
+  "text": "investment in people and all this other"
+ },
+ {
+  "start": 349.52,
+  "duration": 4.2,
+  "text": "stuff needs to go around it to actually"
+ },
+ {
+  "start": 351.56,
+  "duration": 3.28,
+  "text": "get value from those use cases."
+ },
+ {
+  "start": 353.72,
+  "duration": 2.28,
+  "text": "And that led to the development of the"
+ },
+ {
+  "start": 354.84,
+  "duration": 3.4,
+  "text": "framework which I'm going to be sharing"
+ },
+ {
+  "start": 356.0,
+  "duration": 4.32,
+  "text": "today, which we call for simplicity AI"
+ },
+ {
+  "start": 358.24,
+  "duration": 3.4,
+  "text": "maturity maps."
+ },
+ {
+  "start": 360.32,
+  "duration": 3.0,
+  "text": "Now, the concept of maturity is"
+ },
+ {
+  "start": 361.64,
+  "duration": 3.96,
+  "text": "certainly not some proprietary thing"
+ },
+ {
+  "start": 363.32,
+  "duration": 4.28,
+  "text": "that we invented. Maturity is just a"
+ },
+ {
+  "start": 365.6,
+  "duration": 3.92,
+  "text": "heuristic and a framework to look at"
+ },
+ {
+  "start": 367.6,
+  "duration": 4.0,
+  "text": "where different organizations are around"
+ },
+ {
+  "start": 369.52,
+  "duration": 4.08,
+  "text": "some key areas relative to one another"
+ },
+ {
+  "start": 371.6,
+  "duration": 3.76,
+  "text": "and where they should be. So, the way"
+ },
+ {
+  "start": 373.6,
+  "duration": 4.64,
+  "text": "that maturity maps work is that they"
+ },
+ {
+  "start": 375.36,
+  "duration": 5.2,
+  "text": "organize AI and agent maturity into six"
+ },
+ {
+  "start": 378.24,
+  "duration": 4.64,
+  "text": "different categories. Those categories"
+ },
+ {
+  "start": 380.56,
+  "duration": 5.24,
+  "text": "are, first, deployment depth, which is"
+ },
+ {
+  "start": 382.88,
+  "duration": 4.76,
+  "text": "sort of an expanded notion of use cases."
+ },
+ {
+  "start": 385.8,
+  "duration": 4.24,
+  "text": "Deployment depth in the context of AI"
+ },
+ {
+  "start": 387.64,
+  "duration": 4.76,
+  "text": "maturity not only thinks about how many"
+ },
+ {
+  "start": 390.04,
+  "duration": 4.68,
+  "text": "use cases you have in play, but how much"
+ },
+ {
+  "start": 392.4,
+  "duration": 4.24,
+  "text": "those use cases are assistance versus"
+ },
+ {
+  "start": 394.72,
+  "duration": 3.84,
+  "text": "full workflow automations versus actual"
+ },
+ {
+  "start": 396.64,
+  "duration": 3.12,
+  "text": "applied agentic systems that are doing"
+ },
+ {
+  "start": 398.56,
+  "duration": 2.44,
+  "text": "work with some meaningful degree of"
+ },
+ {
+  "start": 399.76,
+  "duration": 2.88,
+  "text": "autonomy."
+ },
+ {
+  "start": 401.0,
+  "duration": 4.16,
+  "text": "The second category is systems"
+ },
+ {
+  "start": 402.64,
+  "duration": 4.92,
+  "text": "integration. This is a measure of how"
+ },
+ {
+  "start": 405.16,
+  "duration": 3.92,
+  "text": "deeply integrated the AI solutions and"
+ },
+ {
+  "start": 407.56,
+  "duration": 3.28,
+  "text": "workflows that you're deploying are"
+ },
+ {
+  "start": 409.08,
+  "duration": 3.88,
+  "text": "integrated with the existing systems"
+ },
+ {
+  "start": 410.84,
+  "duration": 4.64,
+  "text": "that run your enterprise. Is everyone"
+ },
+ {
+  "start": 412.96,
+  "duration": 4.32,
+  "text": "using ChatGPT independently, or does"
+ },
+ {
+  "start": 415.48,
+  "duration": 3.32,
+  "text": "your CRM system have an agent running"
+ },
+ {
+  "start": 417.28,
+  "duration": 3.08,
+  "text": "through it automatically extracting"
+ },
+ {
+  "start": 418.8,
+  "duration": 3.64,
+  "text": "insights, making recommendations, and"
+ },
+ {
+  "start": 420.36,
+  "duration": 3.84,
+  "text": "even setting up new outreach campaigns?"
+ },
+ {
+  "start": 422.44,
+  "duration": 3.0,
+  "text": "Systems integration is in some ways one"
+ },
+ {
+  "start": 424.2,
+  "duration": 3.72,
+  "text": "part of the measure of how good the"
+ },
+ {
+  "start": 425.44,
+  "duration": 3.76,
+  "text": "context that an enterprise's AI has to"
+ },
+ {
+  "start": 427.92,
+  "duration": 2.48,
+  "text": "work with."
+ },
+ {
+  "start": 429.2,
+  "duration": 3.72,
+  "text": "Now, the other piece that relates to"
+ },
+ {
+  "start": 430.4,
+  "duration": 5.0,
+  "text": "context is, of course, data. How much,"
+ },
+ {
+  "start": 432.92,
+  "duration": 4.2,
+  "text": "what quality, and how well-managed is"
+ },
+ {
+  "start": 435.4,
+  "duration": 3.64,
+  "text": "your company's AI's access to your"
+ },
+ {
+  "start": 437.12,
+  "duration": 3.88,
+  "text": "company's data? Does it require people"
+ },
+ {
+  "start": 439.04,
+  "duration": 4.4,
+  "text": "dropping in PDFs? Do you have company"
+ },
+ {
+  "start": 441.0,
+  "duration": 3.96,
+  "text": "knowledge all set up on MCP servers? How"
+ },
+ {
+  "start": 443.44,
+  "duration": 3.08,
+  "text": "does the AI that your company is looking"
+ },
+ {
+  "start": 444.96,
+  "duration": 2.92,
+  "text": "to transform your company have access to"
+ },
+ {
+  "start": 446.52,
+  "duration": 3.56,
+  "text": "the information it needs to know what"
+ },
+ {
+  "start": 447.88,
+  "duration": 3.92,
+  "text": "that transformation should look like?"
+ },
+ {
+  "start": 450.08,
+  "duration": 3.44,
+  "text": "Outcomes is almost a measure of"
+ },
+ {
+  "start": 451.8,
+  "duration": 3.6,
+  "text": "measurement. Are all of your deployments"
+ },
+ {
+  "start": 453.52,
+  "duration": 4.0,
+  "text": "pilots and experiments, or do you have a"
+ },
+ {
+  "start": 455.4,
+  "duration": 4.4,
+  "text": "track record of actual demonstrable and"
+ },
+ {
+  "start": 457.52,
+  "duration": 3.96,
+  "text": "measured outcomes? Outcomes in some ways"
+ },
+ {
+  "start": 459.8,
+  "duration": 3.16,
+  "text": "are the information you need to know"
+ },
+ {
+  "start": 461.48,
+  "duration": 3.0,
+  "text": "what you should do next across all these"
+ },
+ {
+  "start": 462.96,
+  "duration": 3.2,
+  "text": "other dimensions."
+ },
+ {
+  "start": 464.48,
+  "duration": 4.16,
+  "text": "The fifth dimension of AI maturity maps"
+ },
+ {
+  "start": 466.16,
+  "duration": 4.64,
+  "text": "is people. And this is an admittedly"
+ },
+ {
+  "start": 468.64,
+  "duration": 4.72,
+  "text": "broad category. A big part of this"
+ },
+ {
+  "start": 470.8,
+  "duration": 3.96,
+  "text": "refers to upskilling and capabilities,"
+ },
+ {
+  "start": 473.36,
+  "duration": 4.0,
+  "text": "but another piece has to do with"
+ },
+ {
+  "start": 474.76,
+  "duration": 5.4,
+  "text": "attitudes. Given that one of the major"
+ },
+ {
+  "start": 477.36,
+  "duration": 4.56,
+  "text": "barriers to adoption in many companies"
+ },
+ {
+  "start": 480.16,
+  "duration": 4.16,
+  "text": "is not just going to be skills using AI,"
+ },
+ {
+  "start": 481.92,
+  "duration": 4.12,
+  "text": "but attitudes towards AI, people is an"
+ },
+ {
+  "start": 484.32,
+  "duration": 3.44,
+  "text": "extremely important and unfortunately,"
+ },
+ {
+  "start": 486.04,
+  "duration": 3.76,
+  "text": "as we'll see, often neglected piece of"
+ },
+ {
+  "start": 487.76,
+  "duration": 4.16,
+  "text": "the AI maturity pie."
+ },
+ {
+  "start": 489.8,
+  "duration": 3.6,
+  "text": "Lastly, of course, is governance. How"
+ },
+ {
+  "start": 491.92,
+  "duration": 3.36,
+  "text": "clear, how established, how"
+ },
+ {
+  "start": 493.4,
+  "duration": 3.92,
+  "text": "communicable, how known are the rules"
+ },
+ {
+  "start": 495.28,
+  "duration": 4.44,
+  "text": "and guidelines and access provisioning"
+ },
+ {
+  "start": 497.32,
+  "duration": 3.64,
+  "text": "around your AI systems? Do people know"
+ },
+ {
+  "start": 499.72,
+  "duration": 2.96,
+  "text": "where to go to get the permissions they"
+ },
+ {
+  "start": 500.96,
+  "duration": 3.08,
+  "text": "need? Do they know what expectations"
+ },
+ {
+  "start": 502.68,
+  "duration": 3.92,
+  "text": "are? When issues come up, are there"
+ },
+ {
+  "start": 504.04,
+  "duration": 4.76,
+  "text": "mechanisms for resolving those issues?"
+ },
+ {
+  "start": 506.6,
+  "duration": 4.76,
+  "text": "So, those are the six areas across which"
+ },
+ {
+  "start": 508.8,
+  "duration": 3.72,
+  "text": "we look at AI maturity."
+ },
+ {
+  "start": 511.36,
+  "duration": 2.96,
+  "text": "Now, for the purposes of developing"
+ },
+ {
+  "start": 512.52,
+  "duration": 3.8,
+  "text": "these maps, we started with 10"
+ },
+ {
+  "start": 514.32,
+  "duration": 4.36,
+  "text": "functional maps split across some of the"
+ },
+ {
+  "start": 516.32,
+  "duration": 4.12,
+  "text": "most common, very broad brush categories"
+ },
+ {
+  "start": 518.68,
+  "duration": 5.039,
+  "text": "of knowledge work. That includes"
+ },
+ {
+  "start": 520.44,
+  "duration": 4.64,
+  "text": "customer service, engineering, IT, which"
+ },
+ {
+  "start": 523.719,
+  "duration": 3.281,
+  "text": "by the way, the difference between those"
+ },
+ {
+  "start": 525.08,
+  "duration": 3.16,
+  "text": "two for our purposes is effectively that"
+ },
+ {
+  "start": 527.0,
+  "duration": 2.64,
+  "text": "engineering is all the stuff that's"
+ },
+ {
+  "start": 528.24,
+  "duration": 3.36,
+  "text": "external facing and IT is all the"
+ },
+ {
+  "start": 529.64,
+  "duration": 4.88,
+  "text": "technology stuff that's internal facing,"
+ },
+ {
+  "start": 531.6,
+  "duration": 5.44,
+  "text": "sales, marketing, HR, operations,"
+ },
+ {
+  "start": 534.52,
+  "duration": 3.76,
+  "text": "finance, legal, and product."
+ },
+ {
+  "start": 537.04,
+  "duration": 3.24,
+  "text": "So, at the end of last year, we started"
+ },
+ {
+  "start": 538.28,
+  "duration": 4.0,
+  "text": "to put together a process for actually"
+ },
+ {
+  "start": 540.28,
+  "duration": 3.88,
+  "text": "assessing and visualizing AI maturity"
+ },
+ {
+  "start": 542.28,
+  "duration": 3.72,
+  "text": "across all these dimensions."
+ },
+ {
+  "start": 544.16,
+  "duration": 3.76,
+  "text": "What came out of that is the chart that"
+ },
+ {
+  "start": 546.0,
+  "duration": 3.64,
+  "text": "you see here, which plots the each of"
+ },
+ {
+  "start": 547.92,
+  "duration": 4.68,
+  "text": "these six categories within a specific"
+ },
+ {
+  "start": 549.64,
+  "duration": 4.56,
+  "text": "function on a five-point scale. Number"
+ },
+ {
+  "start": 552.6,
+  "duration": 3.88,
+  "text": "three, the center of the chart, is the"
+ },
+ {
+  "start": 554.2,
+  "duration": 4.2,
+  "text": "on-track line. In other words, where an"
+ },
+ {
+  "start": 556.48,
+  "duration": 3.32,
+  "text": "average organization should be. And the"
+ },
+ {
+  "start": 558.4,
+  "duration": 3.08,
+  "text": "word should, as you'll see, is doing a"
+ },
+ {
+  "start": 559.8,
+  "duration": 4.0,
+  "text": "lot of heavy lifting there."
+ },
+ {
+  "start": 561.48,
+  "duration": 4.44,
+  "text": "Now, if on-track is a three, four is"
+ },
+ {
+  "start": 563.8,
+  "duration": 4.24,
+  "text": "ahead and five is significantly ahead,"
+ },
+ {
+  "start": 565.92,
+  "duration": 4.76,
+  "text": "while two is behind and one is"
+ },
+ {
+  "start": 568.04,
+  "duration": 4.56,
+  "text": "significantly behind. The idea is that"
+ },
+ {
+  "start": 570.68,
+  "duration": 3.24,
+  "text": "when you look at a maturity map, without"
+ },
+ {
+  "start": 572.6,
+  "duration": 3.56,
+  "text": "having to read a lot of words, you can"
+ },
+ {
+  "start": 573.92,
+  "duration": 4.2,
+  "text": "instantly see the gaps between where"
+ },
+ {
+  "start": 576.16,
+  "duration": 4.16,
+  "text": "organizations should be and where the"
+ },
+ {
+  "start": 578.12,
+  "duration": 3.72,
+  "text": "average organization actually is, and"
+ },
+ {
+  "start": 580.32,
+  "duration": 4.04,
+  "text": "when you compare your organization to"
+ },
+ {
+  "start": 581.84,
+  "duration": 4.56,
+  "text": "it, also see where you are relative to"
+ },
+ {
+  "start": 584.36,
+  "duration": 3.6,
+  "text": "both the general on-track line and the"
+ },
+ {
+  "start": 586.4,
+  "duration": 3.6,
+  "text": "average."
+ },
+ {
+  "start": 587.96,
+  "duration": 4.92,
+  "text": "So, clarifying this a little bit more, a"
+ },
+ {
+  "start": 590.0,
+  "duration": 5.56,
+  "text": "quarterly's designation of on-track is"
+ },
+ {
+  "start": 592.88,
+  "duration": 5.04,
+  "text": "not where the average organization is."
+ },
+ {
+  "start": 595.56,
+  "duration": 4.36,
+  "text": "It is a subjective measure of where we"
+ },
+ {
+  "start": 597.92,
+  "duration": 4.04,
+  "text": "think the average organization should"
+ },
+ {
+  "start": 599.92,
+  "duration": 4.12,
+  "text": "be. As you'll see when you dig into this"
+ },
+ {
+  "start": 601.96,
+  "duration": 4.24,
+  "text": "quarter's numbers, in the vast majority"
+ },
+ {
+  "start": 604.04,
+  "duration": 4.6,
+  "text": "of cases, we believe that the average"
+ },
+ {
+  "start": 606.2,
+  "duration": 4.36,
+  "text": "organization is behind that on-track"
+ },
+ {
+  "start": 608.64,
+  "duration": 3.36,
+  "text": "line across pretty much all of these"
+ },
+ {
+  "start": 610.56,
+  "duration": 2.56,
+  "text": "dimensions."
+ },
+ {
+  "start": 612.0,
+  "duration": 3.08,
+  "text": "To use a term that comes up a lot on"
+ },
+ {
+  "start": 613.12,
+  "duration": 3.76,
+  "text": "this show, the fact that organizations"
+ },
+ {
+  "start": 615.08,
+  "duration": 3.48,
+  "text": "tend to be behind this on-track line is"
+ },
+ {
+  "start": 616.88,
+  "duration": 4.28,
+  "text": "effectively a visualization of the"
+ },
+ {
+  "start": 618.56,
+  "duration": 3.4,
+  "text": "capability overhang."
+ },
+ {
+  "start": 621.16,
+  "duration": 2.12,
+  "text": "Now, at this point you might be"
+ },
+ {
+  "start": 621.96,
+  "duration": 2.88,
+  "text": "wondering, well, what gives you"
+ },
+ {
+  "start": 623.28,
+  "duration": 3.56,
+  "text": "authority to determine what the on-track"
+ },
+ {
+  "start": 624.84,
+  "duration": 3.84,
+  "text": "line is? It's a totally reasonable"
+ },
+ {
+  "start": 626.84,
+  "duration": 3.48,
+  "text": "question and believe it or not, it is a"
+ },
+ {
+  "start": 628.68,
+  "duration": 2.84,
+  "text": "little bit more at least than just my"
+ },
+ {
+  "start": 630.32,
+  "duration": 2.6,
+  "text": "opinion."
+ },
+ {
+  "start": 631.52,
+  "duration": 3.16,
+  "text": "We have a few different places to pull"
+ },
+ {
+  "start": 632.92,
+  "duration": 3.48,
+  "text": "from. The first is the sort of"
+ },
+ {
+  "start": 634.68,
+  "duration": 3.56,
+  "text": "proprietary research and surveying that"
+ },
+ {
+  "start": 636.4,
+  "duration": 3.12,
+  "text": "we do as part of AIDB Intel, which gives"
+ },
+ {
+  "start": 638.24,
+  "duration": 3.36,
+  "text": "us some pretty good insight into where"
+ },
+ {
+  "start": 639.52,
+  "duration": 3.76,
+  "text": "particularly leading organizations are."
+ },
+ {
+  "start": 641.6,
+  "duration": 2.92,
+  "text": "Second, it's Super Intelligent, given"
+ },
+ {
+  "start": 643.28,
+  "duration": 2.84,
+  "text": "that we are doing thousands and"
+ },
+ {
+  "start": 644.52,
+  "duration": 3.56,
+  "text": "thousands of voice agent interviews"
+ },
+ {
+  "start": 646.12,
+  "duration": 3.48,
+  "text": "every month to help organizations assess"
+ },
+ {
+  "start": 648.08,
+  "duration": 3.76,
+  "text": "their AI maturity and plan their AI"
+ },
+ {
+  "start": 649.6,
+  "duration": 4.16,
+  "text": "strategy, that's another pretty unique"
+ },
+ {
+  "start": 651.84,
+  "duration": 3.68,
+  "text": "source of frontline data."
+ },
+ {
+  "start": 653.76,
+  "duration": 3.28,
+  "text": "And then combined with that, we built a"
+ },
+ {
+  "start": 655.52,
+  "duration": 3.48,
+  "text": "system to go out and effectively"
+ },
+ {
+  "start": 657.04,
+  "duration": 3.84,
+  "text": "aggregate pretty much every new survey"
+ },
+ {
+  "start": 659.0,
+  "duration": 4.04,
+  "text": "or study that comes out that even"
+ },
+ {
+  "start": 660.88,
+  "duration": 3.84,
+  "text": "vaguely touches AI. You might have heard"
+ },
+ {
+  "start": 663.04,
+  "duration": 4.0,
+  "text": "me mention before that my most useful"
+ },
+ {
+  "start": 664.72,
+  "duration": 3.72,
+  "text": "open clause are my research open clause,"
+ },
+ {
+  "start": 667.04,
+  "duration": 3.56,
+  "text": "and this is one of the main things that"
+ },
+ {
+  "start": 668.44,
+  "duration": 4.96,
+  "text": "they do. They are in a never-ending"
+ },
+ {
+  "start": 670.6,
+  "duration": 5.12,
+  "text": "24-hour a day constantly hunting loop to"
+ },
+ {
+  "start": 673.4,
+  "duration": 3.68,
+  "text": "both surface new sources, to assess"
+ },
+ {
+  "start": 675.72,
+  "duration": 4.08,
+  "text": "those sources in terms of their"
+ },
+ {
+  "start": 677.08,
+  "duration": 4.28,
+  "text": "legitimacy, credibility, and bias,"
+ },
+ {
+  "start": 679.8,
+  "duration": 3.92,
+  "text": "and then to integrate that information"
+ },
+ {
+  "start": 681.36,
+  "duration": 4.84,
+  "text": "into our larger assessment system."
+ },
+ {
+  "start": 683.72,
+  "duration": 4.84,
+  "text": "There are more than 480 studies and"
+ },
+ {
+  "start": 686.2,
+  "duration": 4.92,
+  "text": "surveys from the last quarter that went"
+ },
+ {
+  "start": 688.56,
+  "duration": 4.0,
+  "text": "into these Q2 maturity maps."
+ },
+ {
+  "start": 691.12,
+  "duration": 3.36,
+  "text": "Among the sources that have explicit"
+ },
+ {
+  "start": 692.56,
+  "duration": 4.2,
+  "text": "sample sizes, the combined survey"
+ },
+ {
+  "start": 694.48,
+  "duration": 3.68,
+  "text": "respondent base exceeds 150,000"
+ },
+ {
+  "start": 696.76,
+  "duration": 3.28,
+  "text": "professionals across more than 50"
+ },
+ {
+  "start": 698.16,
+  "duration": 4.6,
+  "text": "countries. The types of source"
+ },
+ {
+  "start": 700.04,
+  "duration": 4.04,
+  "text": "categories that we have are one, big"
+ },
+ {
+  "start": 702.76,
+  "duration": 3.0,
+  "text": "four and top-tier consulting firm"
+ },
+ {
+  "start": 704.08,
+  "duration": 3.68,
+  "text": "research. There's over 20 of those"
+ },
+ {
+  "start": 705.76,
+  "duration": 4.04,
+  "text": "sources in that mix. Major platform"
+ },
+ {
+  "start": 707.76,
+  "duration": 3.64,
+  "text": "earnings and public market statements."
+ },
+ {
+  "start": 709.8,
+  "duration": 3.08,
+  "text": "Analyst firm predictions and research"
+ },
+ {
+  "start": 711.4,
+  "duration": 3.92,
+  "text": "from companies like Gartner, Forrester,"
+ },
+ {
+  "start": 712.88,
+  "duration": 4.68,
+  "text": "and IDC. Function-specific regular"
+ },
+ {
+  "start": 715.32,
+  "duration": 4.32,
+  "text": "annual surveys, such as Stack Overflow's"
+ },
+ {
+  "start": 717.56,
+  "duration": 3.6,
+  "text": "engineering study, or other similar"
+ },
+ {
+  "start": 719.64,
+  "duration": 3.64,
+  "text": "things for areas like marketing, legal,"
+ },
+ {
+  "start": 721.16,
+  "duration": 4.72,
+  "text": "and IT. Academic and government"
+ },
+ {
+  "start": 723.28,
+  "duration": 4.2,
+  "text": "research. Behavioral data sources, where"
+ },
+ {
+  "start": 725.88,
+  "duration": 3.959,
+  "text": "companies that have access to some"
+ },
+ {
+  "start": 727.48,
+  "duration": 4.24,
+  "text": "unique user behavior data aggregate,"
+ },
+ {
+  "start": 729.839,
+  "duration": 3.561,
+  "text": "analyze, and share that. A good example"
+ },
+ {
+  "start": 731.72,
+  "duration": 4.0,
+  "text": "of that is Jellyfish's AI coding"
+ },
+ {
+  "start": 733.4,
+  "duration": 4.32,
+  "text": "benchmark, which used behavioral data"
+ },
+ {
+  "start": 735.72,
+  "duration": 5.28,
+  "text": "for more than 200,000 engineers across"
+ },
+ {
+  "start": 737.72,
+  "duration": 4.32,
+  "text": "700 companies with 20 million PRs."
+ },
+ {
+  "start": 741.0,
+  "duration": 2.64,
+  "text": "Finally, there are of course"
+ },
+ {
+  "start": 742.04,
+  "duration": 3.4,
+  "text": "practitioner reports and vendor case"
+ },
+ {
+  "start": 743.64,
+  "duration": 2.92,
+  "text": "studies, although the system is careful"
+ },
+ {
+  "start": 745.44,
+  "duration": 2.64,
+  "text": "to rate them with some amount of"
+ },
+ {
+  "start": 746.56,
+  "duration": 3.6,
+  "text": "skepticism given that they are of course"
+ },
+ {
+  "start": 748.08,
+  "duration": 4.12,
+  "text": "selling something."
+ },
+ {
+  "start": 750.16,
+  "duration": 4.2,
+  "text": "So, in Q2, what are some of the patterns"
+ },
+ {
+  "start": 752.2,
+  "duration": 5.0,
+  "text": "that we saw? The first you might call"
+ },
+ {
+  "start": 754.36,
+  "duration": 4.56,
+  "text": "the adoption embedding gap. Basically,"
+ },
+ {
+  "start": 757.2,
+  "duration": 4.04,
+  "text": "every single function-specific survey"
+ },
+ {
+  "start": 758.92,
+  "duration": 4.2,
+  "text": "reports the same pattern. High claimed"
+ },
+ {
+  "start": 761.24,
+  "duration": 3.72,
+  "text": "adoption, but a fairly low depth and"
+ },
+ {
+  "start": 763.12,
+  "duration": 3.24,
+  "text": "utilization. This is maybe the most"
+ },
+ {
+  "start": 764.96,
+  "duration": 3.52,
+  "text": "dominant finding across all these"
+ },
+ {
+  "start": 766.36,
+  "duration": 4.28,
+  "text": "sources, that the story of Q2 when it"
+ },
+ {
+  "start": 768.48,
+  "duration": 4.28,
+  "text": "comes to enterprise AI adoption is not"
+ },
+ {
+  "start": 770.64,
+  "duration": 4.199,
+  "text": "just the capability overhang in general,"
+ },
+ {
+  "start": 772.76,
+  "duration": 3.96,
+  "text": "but the applied capability overhang even"
+ },
+ {
+  "start": 774.839,
+  "duration": 4.0,
+  "text": "when it comes to adoption inside an"
+ },
+ {
+  "start": 776.72,
+  "duration": 4.48,
+  "text": "individual organization."
+ },
+ {
+  "start": 778.839,
+  "duration": 4.321,
+  "text": "A second very common finding across a"
+ },
+ {
+  "start": 781.2,
+  "duration": 4.6,
+  "text": "huge array of these sources,"
+ },
+ {
+  "start": 783.16,
+  "duration": 4.679,
+  "text": "there tends to be a fairly big gap"
+ },
+ {
+  "start": 785.8,
+  "duration": 4.92,
+  "text": "between worker level data and leader"
+ },
+ {
+  "start": 787.839,
+  "duration": 4.641,
+  "text": "level data. For example, one study found"
+ },
+ {
+  "start": 790.72,
+  "duration": 3.64,
+  "text": "that in the area of customer service,"
+ },
+ {
+  "start": 792.48,
+  "duration": 4.28,
+  "text": "72% of leaders said that their AI"
+ },
+ {
+  "start": 794.36,
+  "duration": 5.0,
+  "text": "training was adequate with 55% of their"
+ },
+ {
+  "start": 796.76,
+  "duration": 4.36,
+  "text": "employees disagreeing. In HR, a huge"
+ },
+ {
+  "start": 799.36,
+  "duration": 3.84,
+  "text": "percentage of leaders report that AI is"
+ },
+ {
+  "start": 801.12,
+  "duration": 3.719,
+  "text": "a priority, but more than two-thirds of"
+ },
+ {
+  "start": 803.2,
+  "duration": 3.8,
+  "text": "HR staff say that their organizations"
+ },
+ {
+  "start": 804.839,
+  "duration": 4.321,
+  "text": "are not proactive in upskilling."
+ },
+ {
+  "start": 807.0,
+  "duration": 3.92,
+  "text": "In fact, one can argue that people are"
+ },
+ {
+  "start": 809.16,
+  "duration": 4.48,
+  "text": "the bottleneck that is not getting"
+ },
+ {
+  "start": 810.92,
+  "duration": 5.44,
+  "text": "nearly enough investment. We gave seven"
+ },
+ {
+  "start": 813.64,
+  "duration": 5.0,
+  "text": "of the 10 functions a score of one,"
+ },
+ {
+  "start": 816.36,
+  "duration": 4.08,
+  "text": "significantly behind, when it came to"
+ },
+ {
+  "start": 818.64,
+  "duration": 3.56,
+  "text": "that people category."
+ },
+ {
+  "start": 820.44,
+  "duration": 3.72,
+  "text": "The irony is that one could argue that"
+ },
+ {
+  "start": 822.2,
+  "duration": 4.04,
+  "text": "the single largest barrier to converting"
+ },
+ {
+  "start": 824.16,
+  "duration": 3.52,
+  "text": "AI adoption into AI value is on the"
+ },
+ {
+  "start": 826.24,
+  "duration": 4.04,
+  "text": "human side, and it's the thing"
+ },
+ {
+  "start": 827.68,
+  "duration": 4.76,
+  "text": "organizations are spending the least on."
+ },
+ {
+  "start": 830.28,
+  "duration": 4.32,
+  "text": "To use one dramatic example, Deloitte"
+ },
+ {
+  "start": 832.44,
+  "duration": 4.36,
+  "text": "found 93% of AI spend going to"
+ },
+ {
+  "start": 834.6,
+  "duration": 4.16,
+  "text": "infrastructure with only 7% going to"
+ },
+ {
+  "start": 836.8,
+  "duration": 3.68,
+  "text": "anything related to people."
+ },
+ {
+  "start": 838.76,
+  "duration": 4.0,
+  "text": "Now, outside of people, another finding"
+ },
+ {
+  "start": 840.48,
+  "duration": 3.64,
+  "text": "across all of these sources is that data"
+ },
+ {
+  "start": 842.76,
+  "duration": 2.4,
+  "text": "is kind of the ceiling on everything"
+ },
+ {
+  "start": 844.12,
+  "duration": 3.16,
+  "text": "else."
+ },
+ {
+  "start": 845.16,
+  "duration": 4.16,
+  "text": "Eight of the 10 functions score a one or"
+ },
+ {
+  "start": 847.28,
+  "duration": 3.08,
+  "text": "a 1.5 on data."
+ },
+ {
+  "start": 849.32,
+  "duration": 2.84,
+  "text": "Now, I don't need to beat this drum"
+ },
+ {
+  "start": 850.36,
+  "duration": 3.96,
+  "text": "anymore for this audience, but obviously"
+ },
+ {
+  "start": 852.16,
+  "duration": 3.36,
+  "text": "without proprietary context feeding AI,"
+ },
+ {
+  "start": 854.32,
+  "duration": 3.24,
+  "text": "things like your code base, your"
+ },
+ {
+  "start": 855.52,
+  "duration": 3.92,
+  "text": "customer history, your deal data, you"
+ },
+ {
+  "start": 857.56,
+  "duration": 3.519,
+  "text": "really are not going to get past basic"
+ },
+ {
+  "start": 859.44,
+  "duration": 3.68,
+  "text": "assisted usage, no matter how good the"
+ },
+ {
+  "start": 861.079,
+  "duration": 3.961,
+  "text": "assistant tools get. One could argue"
+ },
+ {
+  "start": 863.12,
+  "duration": 3.6,
+  "text": "that data is not one pillar among six,"
+ },
+ {
+  "start": 865.04,
+  "duration": 3.08,
+  "text": "but the floor constraint that caps all"
+ },
+ {
+  "start": 866.72,
+  "duration": 3.48,
+  "text": "the others."
+ },
+ {
+  "start": 868.12,
+  "duration": 3.959,
+  "text": "Another area with universal challenge is"
+ },
+ {
+  "start": 870.2,
+  "duration": 4.28,
+  "text": "around outcome measurement, and this is"
+ },
+ {
+  "start": 872.079,
+  "duration": 4.601,
+  "text": "not surprising. Given how much pressure"
+ },
+ {
+  "start": 874.48,
+  "duration": 3.4,
+  "text": "there has been to adopt AI as fast as"
+ },
+ {
+  "start": 876.68,
+  "duration": 2.96,
+  "text": "possible,"
+ },
+ {
+  "start": 877.88,
+  "duration": 3.52,
+  "text": "one of the consequences of that is that"
+ },
+ {
+  "start": 879.64,
+  "duration": 3.199,
+  "text": "no one slowed down, paused their"
+ },
+ {
+  "start": 881.4,
+  "duration": 3.04,
+  "text": "adoption while they went out and figured"
+ },
+ {
+  "start": 882.839,
+  "duration": 3.641,
+  "text": "out how to actually measure the ROI of"
+ },
+ {
+  "start": 884.44,
+  "duration": 3.68,
+  "text": "all those investments. Can you imagine"
+ },
+ {
+  "start": 886.48,
+  "duration": 3.8,
+  "text": "right now someone in the C-suite"
+ },
+ {
+  "start": 888.12,
+  "duration": 4.28,
+  "text": "suggesting with a straight face that you"
+ },
+ {
+  "start": 890.28,
+  "duration": 4.36,
+  "text": "take 6 months off of adoption to figure"
+ },
+ {
+  "start": 892.4,
+  "duration": 3.52,
+  "text": "out better ways to measure the ROI first"
+ },
+ {
+  "start": 894.64,
+  "duration": 3.52,
+  "text": "to ensure that you weren't spending too"
+ },
+ {
+  "start": 895.92,
+  "duration": 4.039,
+  "text": "much? That, my friends, is a recipe for"
+ },
+ {
+  "start": 898.16,
+  "duration": 3.2,
+  "text": "an early retirement."
+ },
+ {
+  "start": 899.959,
+  "duration": 3.601,
+  "text": "The byproduct of that, however, is that"
+ },
+ {
+  "start": 901.36,
+  "duration": 4.16,
+  "text": "the actual evidence for AI ROI is pretty"
+ },
+ {
+  "start": 903.56,
+  "duration": 3.56,
+  "text": "thin. Now, I will say that if I had to"
+ },
+ {
+  "start": 905.52,
+  "duration": 2.88,
+  "text": "make a prediction about one area where"
+ },
+ {
+  "start": 907.12,
+  "duration": 3.64,
+  "text": "you're going to see the biggest glow-up"
+ },
+ {
+  "start": 908.4,
+  "duration": 4.72,
+  "text": "this year, I think there are tons and"
+ },
+ {
+  "start": 910.76,
+  "duration": 3.64,
+  "text": "tons of efforts around ROI measurement,"
+ },
+ {
+  "start": 913.12,
+  "duration": 4.28,
+  "text": "and I would expect that to jump"
+ },
+ {
+  "start": 914.4,
+  "duration": 5.8,
+  "text": "significantly in the quarters to come."
+ },
+ {
+  "start": 917.4,
+  "duration": 5.48,
+  "text": "Across all of these functions, the vast"
+ },
+ {
+  "start": 920.2,
+  "duration": 4.52,
+  "text": "majority do not have any scores that are"
+ },
+ {
+  "start": 922.88,
+  "duration": 3.6,
+  "text": "actually on track."
+ },
+ {
+  "start": 924.72,
+  "duration": 3.08,
+  "text": "Customer service we rated on track in"
+ },
+ {
+  "start": 926.48,
+  "duration": 3.32,
+  "text": "terms of the deployment depth and"
+ },
+ {
+  "start": 927.8,
+  "duration": 3.6,
+  "text": "systems. It makes sense given how much"
+ },
+ {
+  "start": 929.8,
+  "duration": 3.24,
+  "text": "focus there has been on customer"
+ },
+ {
+  "start": 931.4,
+  "duration": 3.96,
+  "text": "service-related solutions, vertical and"
+ },
+ {
+  "start": 933.04,
+  "duration": 3.76,
+  "text": "otherwise. Engineering as well, we have"
+ },
+ {
+  "start": 935.36,
+  "duration": 3.44,
+  "text": "as on track for deployment depth,"
+ },
+ {
+  "start": 936.8,
+  "duration": 3.6,
+  "text": "systems, and people. Again, given that"
+ },
+ {
+  "start": 938.8,
+  "duration": 3.4,
+  "text": "software engineering organizations are"
+ },
+ {
+  "start": 940.4,
+  "duration": 3.04,
+  "text": "effectively the harbingers and guinea"
+ },
+ {
+  "start": 942.2,
+  "duration": 2.24,
+  "text": "pigs for everything else that's going to"
+ },
+ {
+  "start": 943.44,
+  "duration": 2.12,
+  "text": "happen to all the other knowledge"
+ },
+ {
+  "start": 944.44,
+  "duration": 3.28,
+  "text": "workers, I think that this will be"
+ },
+ {
+  "start": 945.56,
+  "duration": 3.72,
+  "text": "intuitive. And then relatedly in IT, we"
+ },
+ {
+  "start": 947.72,
+  "duration": 3.72,
+  "text": "also have deployment depth, systems, and"
+ },
+ {
+  "start": 949.28,
+  "duration": 3.84,
+  "text": "people as on track."
+ },
+ {
+  "start": 951.44,
+  "duration": 4.0,
+  "text": "Now, of course, all of these areas share"
+ },
+ {
+  "start": 953.12,
+  "duration": 3.959,
+  "text": "structural advantages, mature pooling,"
+ },
+ {
+  "start": 955.44,
+  "duration": 3.8,
+  "text": "technical practitioners, and measurable"
+ },
+ {
+  "start": 957.079,
+  "duration": 3.681,
+  "text": "workflows. Unfortunately, though, even"
+ },
+ {
+  "start": 959.24,
+  "duration": 3.36,
+  "text": "if it is the case that there are bigger"
+ },
+ {
+  "start": 960.76,
+  "duration": 3.079,
+  "text": "challenges in some ways when it comes to"
+ },
+ {
+  "start": 962.6,
+  "duration": 2.96,
+  "text": "the technical capabilities of"
+ },
+ {
+  "start": 963.839,
+  "duration": 3.601,
+  "text": "practitioners and the measurability of"
+ },
+ {
+  "start": 965.56,
+  "duration": 3.519,
+  "text": "what you do, those other areas of the"
+ },
+ {
+  "start": 967.44,
+  "duration": 2.72,
+  "text": "enterprise are going to have to catch"
+ },
+ {
+  "start": 969.079,
+  "duration": 2.641,
+  "text": "up."
+ },
+ {
+  "start": 970.16,
+  "duration": 3.24,
+  "text": "Now, a few observations looking across"
+ },
+ {
+  "start": 971.72,
+  "duration": 3.2,
+  "text": "the different functions, while customer"
+ },
+ {
+  "start": 973.4,
+  "duration": 3.76,
+  "text": "service did have a couple areas that we"
+ },
+ {
+  "start": 974.92,
+  "duration": 3.48,
+  "text": "rated as on track, it also I think"
+ },
+ {
+  "start": 977.16,
+  "duration": 3.52,
+  "text": "reveals something that could be a"
+ },
+ {
+  "start": 978.4,
+  "duration": 4.4,
+  "text": "harbinger for other areas. Remember,"
+ },
+ {
+  "start": 980.68,
+  "duration": 3.76,
+  "text": "when it came to CS, we heard 72% of"
+ },
+ {
+  "start": 982.8,
+  "duration": 3.84,
+  "text": "leaders say that training is adequate,"
+ },
+ {
+  "start": 984.44,
+  "duration": 4.84,
+  "text": "but 55% of people actually working in CS"
+ },
+ {
+  "start": 986.64,
+  "duration": 5.12,
+  "text": "say it's not. 87% of customer service"
+ },
+ {
+  "start": 989.28,
+  "duration": 3.84,
+  "text": "workers report high stress, and 75% of"
+ },
+ {
+  "start": 991.76,
+  "duration": 3.04,
+  "text": "leaders acknowledge that AI may be"
+ },
+ {
+  "start": 993.12,
+  "duration": 3.28,
+  "text": "increasing stress."
+ },
+ {
+  "start": 994.8,
+  "duration": 4.0,
+  "text": "So, you've got a situation where AI is"
+ },
+ {
+  "start": 996.4,
+  "duration": 4.6,
+  "text": "absorbing routine cases, humans get the"
+ },
+ {
+  "start": 998.8,
+  "duration": 3.92,
+  "text": "harder, more emotional ones. Many people"
+ },
+ {
+  "start": 1001.0,
+  "duration": 3.76,
+  "text": "might not be trained for that shift, and"
+ },
+ {
+  "start": 1002.72,
+  "duration": 3.28,
+  "text": "that plus the fact of just increased"
+ },
+ {
+  "start": 1004.76,
+  "duration": 3.319,
+  "text": "questions about the long-term"
+ },
+ {
+  "start": 1006.0,
+  "duration": 4.16,
+  "text": "sustainability of your job, the result"
+ },
+ {
+  "start": 1008.079,
+  "duration": 3.961,
+  "text": "is stress, anxiety, and burnout."
+ },
+ {
+  "start": 1010.16,
+  "duration": 3.24,
+  "text": "Basically, CS could be the canary in the"
+ },
+ {
+  "start": 1012.04,
+  "duration": 3.28,
+  "text": "coal mine for what happens when you"
+ },
+ {
+  "start": 1013.4,
+  "duration": 3.48,
+  "text": "deploy AI without investing"
+ },
+ {
+  "start": 1015.32,
+  "duration": 3.16,
+  "text": "simultaneously in the humans who work"
+ },
+ {
+  "start": 1016.88,
+  "duration": 2.52,
+  "text": "alongside it."
+ },
+ {
+  "start": 1018.48,
+  "duration": 2.72,
+  "text": "One of the areas that I think is"
+ },
+ {
+  "start": 1019.4,
+  "duration": 3.24,
+  "text": "interesting to point out is the two"
+ },
+ {
+  "start": 1021.2,
+  "duration": 4.239,
+  "text": "rating or behind when it comes to"
+ },
+ {
+  "start": 1022.64,
+  "duration": 5.199,
+  "text": "governance. In most organizations, IT"
+ },
+ {
+  "start": 1025.439,
+  "duration": 4.721,
+  "text": "owns AI governance for a big part of, if"
+ },
+ {
+  "start": 1027.839,
+  "duration": 4.801,
+  "text": "not the entire organization. And yet"
+ },
+ {
+  "start": 1030.16,
+  "duration": 5.36,
+  "text": "only 54% have centralized frameworks."
+ },
+ {
+  "start": 1032.64,
+  "duration": 4.72,
+  "text": "50% of AI agents are unmonitored. 88%"
+ },
+ {
+  "start": 1035.52,
+  "duration": 3.24,
+  "text": "have had security incidents. And the"
+ },
+ {
+  "start": 1037.36,
+  "duration": 3.4,
+  "text": "question becomes, if the governance"
+ },
+ {
+  "start": 1038.76,
+  "duration": 3.199,
+  "text": "function is behind on governance, what"
+ },
+ {
+  "start": 1040.76,
+  "duration": 2.679,
+  "text": "does that tell us about the rest of the"
+ },
+ {
+  "start": 1041.959,
+  "duration": 2.561,
+  "text": "organization?"
+ },
+ {
+  "start": 1043.439,
+  "duration": 3.0,
+  "text": "One of the most interesting findings"
+ },
+ {
+  "start": 1044.52,
+  "duration": 3.679,
+  "text": "when it comes to sales is that it might"
+ },
+ {
+  "start": 1046.439,
+  "duration": 4.681,
+  "text": "be the cleanest example of the adoption"
+ },
+ {
+  "start": 1048.199,
+  "duration": 5.121,
+  "text": "mirage. 88% of sales teams say they use"
+ },
+ {
+  "start": 1051.12,
+  "duration": 3.88,
+  "text": "AI, but only 24% have it in their actual"
+ },
+ {
+  "start": 1053.32,
+  "duration": 3.359,
+  "text": "revenue workflows."
+ },
+ {
+  "start": 1055.0,
+  "duration": 3.64,
+  "text": "A fair bit of adoption then, in other"
+ },
+ {
+  "start": 1056.679,
+  "duration": 3.961,
+  "text": "words. This is why we rate them behind"
+ },
+ {
+  "start": 1058.64,
+  "duration": 4.32,
+  "text": "in deployment depth. Much of the {quote}"
+ },
+ {
+  "start": 1060.64,
+  "duration": 3.88,
+  "text": "adoption is reps using ChatGPT in a"
+ },
+ {
+  "start": 1062.96,
+  "duration": 2.84,
+  "text": "separate browser tab for email drafts"
+ },
+ {
+  "start": 1064.52,
+  "duration": 3.2,
+  "text": "and call prep,"
+ },
+ {
+  "start": 1065.8,
+  "duration": 3.24,
+  "text": "which is not a bad thing at all. It's"
+ },
+ {
+  "start": 1067.72,
+  "duration": 2.36,
+  "text": "just not the level of automation and"
+ },
+ {
+  "start": 1069.04,
+  "duration": 3.28,
+  "text": "autonomy that I think sales"
+ },
+ {
+  "start": 1070.08,
+  "duration": 4.32,
+  "text": "organizations are hoping for."
+ },
+ {
+  "start": 1072.32,
+  "duration": 3.64,
+  "text": "The autonomous SDR dream has not fully"
+ },
+ {
+  "start": 1074.4,
+  "duration": 2.72,
+  "text": "come to fruition yet, and I don't think"
+ },
+ {
+  "start": 1075.96,
+  "duration": 2.96,
+  "text": "that most sales organizations have"
+ },
+ {
+  "start": 1077.12,
+  "duration": 3.6,
+  "text": "figured out the right integration and"
+ },
+ {
+  "start": 1078.92,
+  "duration": 4.24,
+  "text": "balance between humans and agents in the"
+ },
+ {
+  "start": 1080.72,
+  "duration": 4.12,
+  "text": "new sales working system."
+ },
+ {
+  "start": 1083.16,
+  "duration": 3.0,
+  "text": "The deployment depth score on operations"
+ },
+ {
+  "start": 1084.84,
+  "duration": 3.68,
+  "text": "I think is another really interesting"
+ },
+ {
+  "start": 1086.16,
+  "duration": 4.12,
+  "text": "one. In some ways, operations has had"
+ },
+ {
+  "start": 1088.52,
+  "duration": 3.88,
+  "text": "automatable functions longer than any"
+ },
+ {
+  "start": 1090.28,
+  "duration": 4.08,
+  "text": "other function in the enterprise. Think"
+ },
+ {
+  "start": 1092.4,
+  "duration": 3.279,
+  "text": "statistical forecasting, rules-based"
+ },
+ {
+  "start": 1094.36,
+  "duration": 2.84,
+  "text": "inventory management, predictive"
+ },
+ {
+  "start": 1095.679,
+  "duration": 3.441,
+  "text": "maintenance. That's all stuff that"
+ },
+ {
+  "start": 1097.2,
+  "duration": 4.52,
+  "text": "predates this latest wave of GenAI by a"
+ },
+ {
+  "start": 1099.12,
+  "duration": 3.8,
+  "text": "decade. What that means is that when 90%"
+ },
+ {
+  "start": 1101.72,
+  "duration": 3.6,
+  "text": "of operations teams say they're"
+ },
+ {
+  "start": 1102.92,
+  "duration": 4.239,
+  "text": "investing in AI, it sounds impressive."
+ },
+ {
+  "start": 1105.32,
+  "duration": 4.0,
+  "text": "When you actually look at what that is,"
+ },
+ {
+  "start": 1107.159,
+  "duration": 3.321,
+  "text": "a lot of it is legacy optimization"
+ },
+ {
+  "start": 1109.32,
+  "duration": 3.48,
+  "text": "infrastructure that's been running"
+ },
+ {
+  "start": 1110.48,
+  "duration": 4.679,
+  "text": "since, I don't know, 2015. The GenAI"
+ },
+ {
+  "start": 1112.8,
+  "duration": 4.0,
+  "text": "layer on top is often very thin, mostly"
+ },
+ {
+  "start": 1115.159,
+  "duration": 3.641,
+  "text": "asking AI questions about operational"
+ },
+ {
+  "start": 1116.8,
+  "duration": 4.0,
+  "text": "data and generating reports."
+ },
+ {
+  "start": 1118.8,
+  "duration": 4.119,
+  "text": "In fact, one study found that only 23%"
+ },
+ {
+  "start": 1120.8,
+  "duration": 4.6,
+  "text": "of operations groups even have a formal"
+ },
+ {
+  "start": 1122.919,
+  "duration": 4.081,
+  "text": "AI strategy. Operations is the function"
+ },
+ {
+  "start": 1125.4,
+  "duration": 3.88,
+  "text": "where the distinction between old"
+ },
+ {
+  "start": 1127.0,
+  "duration": 4.88,
+  "text": "automation and new AI maturity is"
+ },
+ {
+  "start": 1129.28,
+  "duration": 4.2,
+  "text": "showing up as a real distinct challenge."
+ },
+ {
+  "start": 1131.88,
+  "duration": 2.88,
+  "text": "Lastly, one more interesting stat,"
+ },
+ {
+  "start": 1133.48,
+  "duration": 2.84,
+  "text": "outside of the technical areas of"
+ },
+ {
+  "start": 1134.76,
+  "duration": 3.08,
+  "text": "engineering and IT, and the long"
+ },
+ {
+  "start": 1136.32,
+  "duration": 3.76,
+  "text": "duration area of customer service, which"
+ },
+ {
+  "start": 1137.84,
+  "duration": 3.96,
+  "text": "has had so much emphasis on automation,"
+ },
+ {
+  "start": 1140.08,
+  "duration": 4.0,
+  "text": "finance is the only other function to"
+ },
+ {
+  "start": 1141.8,
+  "duration": 3.96,
+  "text": "hit on track on any pillar, and it does"
+ },
+ {
+  "start": 1144.08,
+  "duration": 3.28,
+  "text": "so on governance."
+ },
+ {
+  "start": 1145.76,
+  "duration": 3.36,
+  "text": "Now, why do you think this might be?"
+ },
+ {
+  "start": 1147.36,
+  "duration": 4.48,
+  "text": "It's because, of course, finance is"
+ },
+ {
+  "start": 1149.12,
+  "duration": 5.88,
+  "text": "operating in an area where governance is"
+ },
+ {
+  "start": 1151.84,
+  "duration": 4.76,
+  "text": "not optional. 69% of CFOs report"
+ },
+ {
+  "start": 1155.0,
+  "duration": 4.2,
+  "text": "advanced or established AI risk"
+ },
+ {
+  "start": 1156.6,
+  "duration": 4.48,
+  "text": "governance frameworks. Why? SOX"
+ },
+ {
+  "start": 1159.2,
+  "duration": 3.76,
+  "text": "compliance, audit trails, fiduciary"
+ },
+ {
+  "start": 1161.08,
+  "duration": 3.88,
+  "text": "duty, decades of regulatory muscle"
+ },
+ {
+  "start": 1162.96,
+  "duration": 3.76,
+  "text": "memory. Basically, finance already knew"
+ },
+ {
+  "start": 1164.96,
+  "duration": 3.08,
+  "text": "how to govern risky tools even before AI"
+ },
+ {
+  "start": 1166.72,
+  "duration": 2.88,
+  "text": "existed."
+ },
+ {
+  "start": 1168.04,
+  "duration": 3.24,
+  "text": "Now, don't look at the rest of finance,"
+ },
+ {
+  "start": 1169.6,
+  "duration": 3.76,
+  "text": "where we rated it significantly behind"
+ },
+ {
+  "start": 1171.28,
+  "duration": 3.52,
+  "text": "in every other category. Basically, they"
+ },
+ {
+  "start": 1173.36,
+  "duration": 3.319,
+  "text": "know how to control AI, but haven't"
+ },
+ {
+  "start": 1174.8,
+  "duration": 3.359,
+  "text": "figured out how to use it. What's"
+ },
+ {
+  "start": 1176.679,
+  "duration": 3.48,
+  "text": "interesting will be whether over the"
+ },
+ {
+  "start": 1178.159,
+  "duration": 3.881,
+  "text": "next few quarters we see this turn into"
+ },
+ {
+  "start": 1180.159,
+  "duration": 3.561,
+  "text": "a tortoise and a hare thing."
+ },
+ {
+  "start": 1182.04,
+  "duration": 3.84,
+  "text": "In other words, when finance does figure"
+ },
+ {
+  "start": 1183.72,
+  "duration": 3.439,
+  "text": "out how to deploy, will they do it more"
+ },
+ {
+  "start": 1185.88,
+  "duration": 2.6,
+  "text": "safely and more effectively than"
+ },
+ {
+  "start": 1187.159,
+  "duration": 3.081,
+  "text": "functions that deployed first and"
+ },
+ {
+  "start": 1188.48,
+  "duration": 3.48,
+  "text": "governed later, and will that actually"
+ },
+ {
+  "start": 1190.24,
+  "duration": 3.76,
+  "text": "allow them to catapult at some point and"
+ },
+ {
+  "start": 1191.96,
+  "duration": 3.44,
+  "text": "jump out ahead of other functions who at"
+ },
+ {
+  "start": 1194.0,
+  "duration": 4.12,
+  "text": "the moment feel like they are farther"
+ },
+ {
+  "start": 1195.4,
+  "duration": 4.72,
+  "text": "when it comes to deployment depth."
+ },
+ {
+  "start": 1198.12,
+  "duration": 3.56,
+  "text": "So, this is the idea of maturity maps."
+ },
+ {
+  "start": 1200.12,
+  "duration": 2.76,
+  "text": "They are, of course, very nascent. This"
+ },
+ {
+  "start": 1201.68,
+  "duration": 2.68,
+  "text": "is the first quarter we've actually"
+ },
+ {
+  "start": 1202.88,
+  "duration": 3.36,
+  "text": "fully trotted them out. And in the"
+ },
+ {
+  "start": 1204.36,
+  "duration": 3.48,
+  "text": "spirit of getting feedback and seeing"
+ },
+ {
+  "start": 1206.24,
+  "duration": 2.84,
+  "text": "how useful these things can be, we're"
+ },
+ {
+  "start": 1207.84,
+  "duration": 3.48,
+  "text": "putting up the ability on the Super"
+ },
+ {
+  "start": 1209.08,
+  "duration": 4.08,
+  "text": "Intelligent website besuper.ai to"
+ },
+ {
+  "start": 1211.32,
+  "duration": 3.92,
+  "text": "actually go not only review all of these"
+ },
+ {
+  "start": 1213.16,
+  "duration": 3.48,
+  "text": "maturity maps, but do a short quiz that"
+ },
+ {
+  "start": 1215.24,
+  "duration": 3.28,
+  "text": "actually shows you where your"
+ },
+ {
+  "start": 1216.64,
+  "duration": 3.44,
+  "text": "organization is relative to both the"
+ },
+ {
+  "start": 1218.52,
+  "duration": 4.0,
+  "text": "on-track line and what we think is the"
+ },
+ {
+  "start": 1220.08,
+  "duration": 5.0,
+  "text": "average. And I do want to emphasize that"
+ },
+ {
+  "start": 1222.52,
+  "duration": 4.64,
+  "text": "this is not an assessment. This is not"
+ },
+ {
+  "start": 1225.08,
+  "duration": 4.68,
+  "text": "an audit. This is a quiz. It is an"
+ },
+ {
+  "start": 1227.16,
+  "duration": 4.88,
+  "text": "online quiz that's 18 questions that is"
+ },
+ {
+  "start": 1229.76,
+  "duration": 3.72,
+  "text": "going to give you a very general idea of"
+ },
+ {
+  "start": 1232.04,
+  "duration": 2.8,
+  "text": "where you stand."
+ },
+ {
+  "start": 1233.48,
+  "duration": 2.84,
+  "text": "We of course have ways to go deeper with"
+ },
+ {
+  "start": 1234.84,
+  "duration": 3.2,
+  "text": "your organization and get much better"
+ },
+ {
+  "start": 1236.32,
+  "duration": 3.16,
+  "text": "data to actually inform these things,"
+ },
+ {
+  "start": 1238.04,
+  "duration": 3.28,
+  "text": "but we want as many people as possible"
+ },
+ {
+  "start": 1239.48,
+  "duration": 3.28,
+  "text": "to have access to this to actually help"
+ },
+ {
+  "start": 1241.32,
+  "duration": 3.12,
+  "text": "us figure out where these lines should"
+ },
+ {
+  "start": 1242.76,
+  "duration": 2.84,
+  "text": "be and how we should evolve the entire"
+ },
+ {
+  "start": 1244.44,
+  "duration": 2.28,
+  "text": "system."
+ },
+ {
+  "start": 1245.6,
+  "duration": 2.36,
+  "text": "Obviously, I'll have links to all of"
+ },
+ {
+  "start": 1246.72,
+  "duration": 4.16,
+  "text": "this in the show notes, but again, it's"
+ },
+ {
+  "start": 1247.96,
+  "duration": 4.08,
+  "text": "going to be at besuper.ai/quiz."
+ },
+ {
+  "start": 1250.88,
+  "duration": 3.08,
+  "text": "In terms of where we want to take this"
+ },
+ {
+  "start": 1252.04,
+  "duration": 4.32,
+  "text": "next, in addition to just continuously"
+ },
+ {
+  "start": 1253.96,
+  "duration": 3.68,
+  "text": "having better and more sources of data,"
+ },
+ {
+  "start": 1256.36,
+  "duration": 3.2,
+  "text": "probably the most glaring thing that"
+ },
+ {
+  "start": 1257.64,
+  "duration": 4.68,
+  "text": "stands out to me is that we're trying to"
+ },
+ {
+  "start": 1259.56,
+  "duration": 5.32,
+  "text": "argue for one on-track line and one"
+ },
+ {
+  "start": 1262.32,
+  "duration": 4.44,
+  "text": "average line across all different"
+ },
+ {
+  "start": 1264.88,
+  "duration": 3.12,
+  "text": "organization types."
+ },
+ {
+  "start": 1266.76,
+  "duration": 3.88,
+  "text": "In other words, is it really even"
+ },
+ {
+  "start": 1268.0,
+  "duration": 4.72,
+  "text": "remotely reasonable to judge a 10-person"
+ },
+ {
+  "start": 1270.64,
+  "duration": 4.2,
+  "text": "startup by the same on-track lines as a"
+ },
+ {
+  "start": 1272.72,
+  "duration": 3.24,
+  "text": "10,000-person enterprise?"
+ },
+ {
+  "start": 1274.84,
+  "duration": 2.92,
+  "text": "I obviously believe that there's enough"
+ },
+ {
+  "start": 1275.96,
+  "duration": 3.84,
+  "text": "value that it's worth putting it out"
+ },
+ {
+  "start": 1277.76,
+  "duration": 3.84,
+  "text": "while acknowledging that where I'd like"
+ },
+ {
+  "start": 1279.8,
+  "duration": 4.2,
+  "text": "to go next with this is vastly more"
+ },
+ {
+  "start": 1281.6,
+  "duration": 4.88,
+  "text": "gradations in both the on-track and the"
+ },
+ {
+  "start": 1284.0,
+  "duration": 5.12,
+  "text": "average lines organized by things like"
+ },
+ {
+  "start": 1286.48,
+  "duration": 4.4,
+  "text": "organization size. Industry is another"
+ },
+ {
+  "start": 1289.12,
+  "duration": 3.52,
+  "text": "obvious area where you might see some"
+ },
+ {
+  "start": 1290.88,
+  "duration": 2.92,
+  "text": "fairly significant differences. And"
+ },
+ {
+  "start": 1292.64,
+  "duration": 2.8,
+  "text": "while I think it is the right call to"
+ },
+ {
+  "start": 1293.8,
+  "duration": 3.44,
+  "text": "start with some very broad-brush"
+ },
+ {
+  "start": 1295.44,
+  "duration": 3.72,
+  "text": "high-level functions, obviously most"
+ },
+ {
+  "start": 1297.24,
+  "duration": 3.2,
+  "text": "organizations are a lot more nuanced"
+ },
+ {
+  "start": 1299.16,
+  "duration": 2.72,
+  "text": "than just having these 10 clear"
+ },
+ {
+  "start": 1300.44,
+  "duration": 3.56,
+  "text": "departments."
+ },
+ {
+  "start": 1301.88,
+  "duration": 3.72,
+  "text": "Still, ultimately, it is my argument"
+ },
+ {
+  "start": 1304.0,
+  "duration": 3.88,
+  "text": "that right now we are in a moment where"
+ },
+ {
+  "start": 1305.6,
+  "duration": 3.96,
+  "text": "we need all the data that we can get."
+ },
+ {
+  "start": 1307.88,
+  "duration": 3.44,
+  "text": "And the more we can all pile in on top"
+ },
+ {
+  "start": 1309.56,
+  "duration": 4.16,
+  "text": "of each other and actually share that"
+ },
+ {
+  "start": 1311.32,
+  "duration": 4.56,
+  "text": "information, create new benchmarks, and"
+ },
+ {
+  "start": 1313.72,
+  "duration": 3.72,
+  "text": "help each other know what on-track is"
+ },
+ {
+  "start": 1315.88,
+  "duration": 3.52,
+  "text": "and then how to get there, the better"
+ },
+ {
+  "start": 1317.44,
+  "duration": 3.52,
+  "text": "off we're all going to be."
+ },
+ {
+  "start": 1319.4,
+  "duration": 2.76,
+  "text": "So, that is maturity maps. I'm excited"
+ },
+ {
+  "start": 1320.96,
+  "duration": 2.88,
+  "text": "to share them with you. I'm excited to"
+ },
+ {
+  "start": 1322.16,
+  "duration": 4.12,
+  "text": "see what you think. Again, you can go to"
+ },
+ {
+  "start": 1323.84,
+  "duration": 3.48,
+  "text": "besuper.ai/quiz,"
+ },
+ {
+  "start": 1326.28,
+  "duration": 2.76,
+  "text": "which of course will be on all my"
+ },
+ {
+  "start": 1327.32,
+  "duration": 3.6,
+  "text": "websites and on the show notes, and"
+ },
+ {
+  "start": 1329.04,
+  "duration": 3.32,
+  "text": "check this out for yourself."
+ },
+ {
+  "start": 1330.92,
+  "duration": 2.88,
+  "text": "For the sake of precision for every one"
+ },
+ {
+  "start": 1332.36,
+  "duration": 3.08,
+  "text": "of these ratings, we have at least a"
+ },
+ {
+  "start": 1333.8,
+  "duration": 3.28,
+  "text": "little bit of our argument about what it"
+ },
+ {
+  "start": 1335.44,
+  "duration": 2.96,
+  "text": "means to be behind, significantly"
+ },
+ {
+  "start": 1337.08,
+  "duration": 3.08,
+  "text": "behind, on track, ahead, or"
+ },
+ {
+  "start": 1338.4,
+  "duration": 2.88,
+  "text": "significantly ahead."
+ },
+ {
+  "start": 1340.16,
+  "duration": 3.08,
+  "text": "Anyways, friends, that is going to do it"
+ },
+ {
+  "start": 1341.28,
+  "duration": 3.92,
+  "text": "for day two of Build Week. Appreciate"
+ },
+ {
+  "start": 1343.24,
+  "duration": 5.48,
+  "text": "you listening or watching, as always."
+ },
+ {
+  "start": 1345.2,
+  "duration": 3.52,
+  "text": "And until next time, peace."
+ }
+]

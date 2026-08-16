@@ -1,0 +1,3292 @@
+[
+ {
+  "start": 0.4,
+  "duration": 4.0,
+  "text": "Today on the AI Daily Brief, what it"
+ },
+ {
+  "start": 2.32,
+  "duration": 4.32,
+  "text": "means for AI to create self-driving"
+ },
+ {
+  "start": 4.4,
+  "duration": 3.68,
+  "text": "companies. The AI Daily Brief is a daily"
+ },
+ {
+  "start": 6.64,
+  "duration": 4.879,
+  "text": "podcast and video about the most"
+ },
+ {
+  "start": 8.08,
+  "duration": 5.679,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 11.519,
+  "duration": 3.761,
+  "text": "Welcome back to the AI Daily Brief. One"
+ },
+ {
+  "start": 13.759,
+  "duration": 3.28,
+  "text": "of the things that is happening and"
+ },
+ {
+  "start": 15.28,
+  "duration": 4.32,
+  "text": "really has been happening all year is"
+ },
+ {
+  "start": 17.039,
+  "duration": 5.281,
+  "text": "that AI has advanced in such a way that"
+ },
+ {
+  "start": 19.6,
+  "duration": 5.12,
+  "text": "it's no longer just making us rethink"
+ },
+ {
+  "start": 22.32,
+  "duration": 4.32,
+  "text": "how we do work on an individual level or"
+ },
+ {
+  "start": 24.72,
+  "duration": 3.6,
+  "text": "even a team level, but is starting to"
+ },
+ {
+  "start": 26.64,
+  "duration": 3.76,
+  "text": "implicate the entire design of the"
+ },
+ {
+  "start": 28.32,
+  "duration": 3.279,
+  "text": "company itself. Some of the experiments"
+ },
+ {
+  "start": 30.4,
+  "duration": 3.76,
+  "text": "that people have been really excited"
+ },
+ {
+  "start": 31.599,
+  "duration": 4.241,
+  "text": "about this year are things like Pulsia,"
+ },
+ {
+  "start": 34.16,
+  "duration": 3.76,
+  "text": "which started as a framework for"
+ },
+ {
+  "start": 35.84,
+  "duration": 4.48,
+  "text": "entirely no human companies and that has"
+ },
+ {
+  "start": 37.92,
+  "duration": 4.0,
+  "text": "evolved a bit to be a new AI native"
+ },
+ {
+  "start": 40.32,
+  "duration": 3.36,
+  "text": "company operating system that"
+ },
+ {
+  "start": 41.92,
+  "duration": 3.44,
+  "text": "dramatically minimizes the base"
+ },
+ {
+  "start": 43.68,
+  "duration": 3.359,
+  "text": "activation energy needed to build and"
+ },
+ {
+  "start": 45.36,
+  "duration": 3.679,
+  "text": "maintain a company, even if it doesn't"
+ },
+ {
+  "start": 47.039,
+  "duration": 3.921,
+  "text": "require there being no humans at all."
+ },
+ {
+  "start": 49.039,
+  "duration": 3.281,
+  "text": "But it's not just totally new efforts"
+ },
+ {
+  "start": 50.96,
+  "duration": 4.32,
+  "text": "that are seeing the impact of new"
+ },
+ {
+  "start": 52.32,
+  "duration": 4.8,
+  "text": "agentic ways of working. In fact, as"
+ },
+ {
+  "start": 55.28,
+  "duration": 4.0,
+  "text": "cool as some of these brand new startup"
+ },
+ {
+  "start": 57.12,
+  "duration": 4.239,
+  "text": "style experiments are, ultimately their"
+ },
+ {
+  "start": 59.28,
+  "duration": 4.24,
+  "text": "examples can be a little bit hard to see"
+ },
+ {
+  "start": 61.359,
+  "duration": 3.84,
+  "text": "how they apply to today's existing"
+ },
+ {
+  "start": 63.52,
+  "duration": 3.279,
+  "text": "companies, which is why it's really"
+ },
+ {
+  "start": 65.199,
+  "duration": 3.201,
+  "text": "interesting to see when companies that"
+ },
+ {
+  "start": 66.799,
+  "duration": 3.441,
+  "text": "are at least slightly larger, even if"
+ },
+ {
+  "start": 68.4,
+  "duration": 3.759,
+  "text": "one might still consider them startups,"
+ },
+ {
+  "start": 70.24,
+  "duration": 4.4,
+  "text": "are sharing their totally new ways of"
+ },
+ {
+  "start": 72.159,
+  "duration": 4.081,
+  "text": "working that are well working. We got a"
+ },
+ {
+  "start": 74.64,
+  "duration": 4.0,
+  "text": "great example of this last week when"
+ },
+ {
+  "start": 76.24,
+  "duration": 4.64,
+  "text": "Replet CEO Amjad Msad published a new"
+ },
+ {
+  "start": 78.64,
+  "duration": 4.159,
+  "text": "post called the self-driving company."
+ },
+ {
+  "start": 80.88,
+  "duration": 3.2,
+  "text": "I'm going to read that blog post from X"
+ },
+ {
+  "start": 82.799,
+  "duration": 3.281,
+  "text": "and then we'll come back and talk about"
+ },
+ {
+  "start": 84.08,
+  "duration": 4.24,
+  "text": "some of the implications. The"
+ },
+ {
+  "start": 86.08,
+  "duration": 4.32,
+  "text": "self-driving company. We're beginning to"
+ },
+ {
+  "start": 88.32,
+  "duration": 5.36,
+  "text": "see what happens when a company learns"
+ },
+ {
+  "start": 90.4,
+  "duration": 5.2,
+  "text": "to operate itself. In the past 6 months,"
+ },
+ {
+  "start": 93.68,
+  "duration": 4.24,
+  "text": "engineers at Replet have nearly tripled"
+ },
+ {
+  "start": 95.6,
+  "duration": 4.0,
+  "text": "code output. Review times held steady."
+ },
+ {
+  "start": 97.92,
+  "duration": 3.92,
+  "text": "Reversions and product incidents have"
+ },
+ {
+  "start": 99.6,
+  "duration": 4.32,
+  "text": "stayed flat. Quality metrics improved"
+ },
+ {
+  "start": 101.84,
+  "duration": 4.0,
+  "text": "and releases have accelerated. All the"
+ },
+ {
+  "start": 103.92,
+  "duration": 4.159,
+  "text": "typical trade-offs you might expect have"
+ },
+ {
+  "start": 105.84,
+  "duration": 4.319,
+  "text": "not occurred. While the code is the"
+ },
+ {
+  "start": 108.079,
+  "duration": 4.641,
+  "text": "visible part, what's happening under the"
+ },
+ {
+  "start": 110.159,
+  "duration": 4.32,
+  "text": "surface is much more interesting. Agents"
+ },
+ {
+  "start": 112.72,
+  "duration": 3.92,
+  "text": "now investigate production incidents,"
+ },
+ {
+  "start": 114.479,
+  "duration": 4.081,
+  "text": "review pull requests, answer questions,"
+ },
+ {
+  "start": 116.64,
+  "duration": 3.759,
+  "text": "analyze business data, triage support"
+ },
+ {
+  "start": 118.56,
+  "duration": 3.519,
+  "text": "tickets, research sales accounts, and"
+ },
+ {
+  "start": 120.399,
+  "duration": 4.32,
+  "text": "improve the systems that power replet"
+ },
+ {
+  "start": 122.079,
+  "duration": 4.481,
+  "text": "agent itself. It feels like a single"
+ },
+ {
+  "start": 124.719,
+  "duration": 4.081,
+  "text": "master intelligence threaded through"
+ },
+ {
+  "start": 126.56,
+  "duration": 4.319,
+  "text": "every employee. Even though it is not,"
+ },
+ {
+  "start": 128.8,
+  "duration": 4.0,
+  "text": "it is an expanding system of agents"
+ },
+ {
+  "start": 130.879,
+  "duration": 4.321,
+  "text": "operating across the company. Taking"
+ },
+ {
+  "start": 132.8,
+  "duration": 4.56,
+  "text": "goals from people, gathering context,"
+ },
+ {
+  "start": 135.2,
+  "duration": 4.08,
+  "text": "performing work, checking the results,"
+ },
+ {
+  "start": 137.36,
+  "duration": 3.92,
+  "text": "and escalating when human judgment is"
+ },
+ {
+  "start": 139.28,
+  "duration": 3.84,
+  "text": "needed. We think this represents the"
+ },
+ {
+  "start": 141.28,
+  "duration": 4.319,
+  "text": "beginning of a new kind of organization,"
+ },
+ {
+  "start": 143.12,
+  "duration": 4.96,
+  "text": "the self-driving company. A self-driving"
+ },
+ {
+  "start": 145.599,
+  "duration": 4.241,
+  "text": "company is not one without people."
+ },
+ {
+  "start": 148.08,
+  "duration": 3.84,
+  "text": "People still choose the destination."
+ },
+ {
+  "start": 149.84,
+  "duration": 4.0,
+  "text": "They decide which problems matter, make"
+ },
+ {
+  "start": 151.92,
+  "duration": 4.64,
+  "text": "difficult trade-offs, exercise taste,"
+ },
+ {
+  "start": 153.84,
+  "duration": 4.72,
+  "text": "and take responsibility for the outcome."
+ },
+ {
+  "start": 156.56,
+  "duration": 4.319,
+  "text": "But increasingly they do not perform"
+ },
+ {
+  "start": 158.56,
+  "duration": 4.8,
+  "text": "every step required to get there. The"
+ },
+ {
+  "start": 160.879,
+  "duration": 4.241,
+  "text": "shift began late last year. Like many"
+ },
+ {
+  "start": 163.36,
+  "duration": 3.36,
+  "text": "people working in AI, we returned from"
+ },
+ {
+  "start": 165.12,
+  "duration": 3.68,
+  "text": "the Christmas break feeling that"
+ },
+ {
+  "start": 166.72,
+  "duration": 3.84,
+  "text": "something fundamental had changed."
+ },
+ {
+  "start": 168.8,
+  "duration": 3.84,
+  "text": "Models could sustain work over much"
+ },
+ {
+  "start": 170.56,
+  "duration": 4.16,
+  "text": "longer horizons. Tasks that had"
+ },
+ {
+  "start": 172.64,
+  "duration": 4.8,
+  "text": "repeatedly failed, like alert triage and"
+ },
+ {
+  "start": 174.72,
+  "duration": 4.48,
+  "text": "root cause investigation, began working."
+ },
+ {
+  "start": 177.44,
+  "duration": 3.92,
+  "text": "AI started solving some of our most"
+ },
+ {
+  "start": 179.2,
+  "duration": 3.84,
+  "text": "stubborn bugs. We stopped treating"
+ },
+ {
+  "start": 181.36,
+  "duration": 3.76,
+  "text": "agents as tools that lived inside an"
+ },
+ {
+  "start": 183.04,
+  "duration": 3.839,
+  "text": "editor or chat window. We wo them"
+ },
+ {
+  "start": 185.12,
+  "duration": 3.92,
+  "text": "carefully into the fabric of the company"
+ },
+ {
+  "start": 186.879,
+  "duration": 4.08,
+  "text": "itself. Once engineering proved the"
+ },
+ {
+  "start": 189.04,
+  "duration": 4.32,
+  "text": "value, adoption took on a life of its"
+ },
+ {
+  "start": 190.959,
+  "duration": 4.56,
+  "text": "own. Team after team started offloading"
+ },
+ {
+  "start": 193.36,
+  "duration": 3.68,
+  "text": "their most tedious work, reclaiming time"
+ },
+ {
+  "start": 195.519,
+  "duration": 3.521,
+  "text": "for the strategic and creative thinking"
+ },
+ {
+  "start": 197.04,
+  "duration": 3.6,
+  "text": "that actually moves the business. People"
+ },
+ {
+  "start": 199.04,
+  "duration": 3.6,
+  "text": "don't feel like they've been automated."
+ },
+ {
+  "start": 200.64,
+  "duration": 3.679,
+  "text": "They feel like they've been promoted."
+ },
+ {
+  "start": 202.64,
+  "duration": 3.36,
+  "text": "This is the story of how AI has"
+ },
+ {
+  "start": 204.319,
+  "duration": 4.241,
+  "text": "completely changed the way that we work"
+ },
+ {
+  "start": 206.0,
+  "duration": 5.04,
+  "text": "at Replet. Engineering saw the impact"
+ },
+ {
+  "start": 208.56,
+  "duration": 3.84,
+  "text": "first. In late January, we turned up"
+ },
+ {
+  "start": 211.04,
+  "duration": 3.6,
+  "text": "infrastructure to experiment with"
+ },
+ {
+  "start": 212.4,
+  "duration": 4.479,
+  "text": "internal agent use cases quickly. We"
+ },
+ {
+  "start": 214.64,
+  "duration": 4.159,
+  "text": "leveraged our agent harness, microVMs,"
+ },
+ {
+  "start": 216.879,
+  "duration": 3.841,
+  "text": "and remote file systems infrastructure"
+ },
+ {
+  "start": 218.799,
+  "duration": 3.841,
+  "text": "so any engineer could orchestrate swarms"
+ },
+ {
+  "start": 220.72,
+  "duration": 3.599,
+  "text": "of agents in parallel. Then we locked"
+ },
+ {
+  "start": 222.64,
+  "duration": 3.679,
+  "text": "the whole thing behind access policies,"
+ },
+ {
+  "start": 224.319,
+  "duration": 4.48,
+  "text": "token proxies, audit logging, and our"
+ },
+ {
+  "start": 226.319,
+  "duration": 4.56,
+  "text": "zero trust network. At that point, we"
+ },
+ {
+  "start": 228.799,
+  "duration": 4.16,
+  "text": "felt safe giving the agent access to all"
+ },
+ {
+  "start": 230.879,
+  "duration": 5.44,
+  "text": "the things we use to get our jobs done."
+ },
+ {
+  "start": 232.959,
+  "duration": 5.681,
+  "text": "GitHub, GCP, Linear, Notion, Slack,"
+ },
+ {
+  "start": 236.319,
+  "duration": 4.161,
+  "text": "Zenesk, and more. With context across"
+ },
+ {
+  "start": 238.64,
+  "duration": 3.599,
+  "text": "systems, we saw a leap forward in"
+ },
+ {
+  "start": 240.48,
+  "duration": 4.0,
+  "text": "productivity. Experiments that"
+ },
+ {
+  "start": 242.239,
+  "duration": 4.801,
+  "text": "previously failed became easy. The most"
+ },
+ {
+  "start": 244.48,
+  "duration": 4.16,
+  "text": "immediate impact was in coding stats. We"
+ },
+ {
+  "start": 247.04,
+  "duration": 3.04,
+  "text": "were in a sprint week leading up to"
+ },
+ {
+  "start": 248.64,
+  "duration": 3.44,
+  "text": "agent 4 release in March where we"
+ },
+ {
+  "start": 250.08,
+  "duration": 3.84,
+  "text": "typically see a big spike. Meetings"
+ },
+ {
+  "start": 252.08,
+  "duration": 3.519,
+  "text": "disappear, scope is known, and"
+ },
+ {
+  "start": 253.92,
+  "duration": 4.319,
+  "text": "engineering shifts into pure execution"
+ },
+ {
+  "start": 255.599,
+  "duration": 4.561,
+  "text": "mode, often for up to 16 hours per day."
+ },
+ {
+  "start": 258.239,
+  "duration": 3.68,
+  "text": "But this time was different. Our"
+ },
+ {
+  "start": 260.16,
+  "duration": 3.68,
+  "text": "productivity curve bent upward in a way"
+ },
+ {
+  "start": 261.919,
+  "duration": 3.28,
+  "text": "none of us had seen before, which can be"
+ },
+ {
+  "start": 263.84,
+  "duration": 3.68,
+  "text": "traced to the adoption of our new"
+ },
+ {
+  "start": 265.199,
+  "duration": 5.44,
+  "text": "internal agentic system. From early"
+ },
+ {
+  "start": 267.52,
+  "duration": 4.399,
+  "text": "January to late June, there was a 5.8x"
+ },
+ {
+  "start": 270.639,
+  "duration": 3.28,
+  "text": "increase in the lines of code"
+ },
+ {
+  "start": 271.919,
+  "duration": 3.921,
+  "text": "contributed. Part of this increase can"
+ },
+ {
+  "start": 273.919,
+  "duration": 3.761,
+  "text": "be attributed to hiring. Well, our new"
+ },
+ {
+  "start": 275.84,
+  "duration": 3.52,
+  "text": "agent accelerates time to productivity,"
+ },
+ {
+  "start": 277.68,
+  "duration": 3.84,
+  "text": "which is great, but we can remove the"
+ },
+ {
+  "start": 279.36,
+  "duration": 4.24,
+  "text": "hiring effect for cleaner data. Keeping"
+ },
+ {
+  "start": 281.52,
+  "duration": 4.56,
+  "text": "a consistent cohort of authors, we see"
+ },
+ {
+  "start": 283.6,
+  "duration": 4.159,
+  "text": "2.9x as much code as before."
+ },
+ {
+  "start": 286.08,
+  "duration": 3.679,
+  "text": "Traditionally, it's considered excellent"
+ },
+ {
+  "start": 287.759,
+  "duration": 4.241,
+  "text": "if you keep output per engineer flat as"
+ },
+ {
+  "start": 289.759,
+  "duration": 4.481,
+  "text": "you scale a team. We just tripled per"
+ },
+ {
+  "start": 292.0,
+  "duration": 4.0,
+  "text": "engineer rate while doubling the team."
+ },
+ {
+  "start": 294.24,
+  "duration": 3.44,
+  "text": "Now, you might wonder who is reviewing"
+ },
+ {
+  "start": 296.0,
+  "duration": 3.28,
+  "text": "all this new code and whether we've"
+ },
+ {
+  "start": 297.68,
+  "duration": 4.56,
+  "text": "created a new bottleneck in the review"
+ },
+ {
+  "start": 299.28,
+  "duration": 4.639,
+  "text": "process. Our code latency is flat,"
+ },
+ {
+  "start": 302.24,
+  "duration": 3.92,
+  "text": "largely because we put our agent to work"
+ },
+ {
+  "start": 303.919,
+  "duration": 4.241,
+  "text": "in reviewing code. It's now able to"
+ },
+ {
+  "start": 306.16,
+  "duration": 3.92,
+  "text": "assess risk levels and only call in a"
+ },
+ {
+  "start": 308.16,
+  "duration": 4.319,
+  "text": "second human reviewer when necessary."
+ },
+ {
+  "start": 310.08,
+  "duration": 4.64,
+  "text": "That means 30% and growing of human PR"
+ },
+ {
+  "start": 312.479,
+  "duration": 4.321,
+  "text": "review time has been saved. With our"
+ },
+ {
+  "start": 314.72,
+  "duration": 4.16,
+  "text": "agent writing and reviewing more code,"
+ },
+ {
+  "start": 316.8,
+  "duration": 3.76,
+  "text": "we should be worried about quality. If"
+ },
+ {
+  "start": 318.88,
+  "duration": 4.159,
+  "text": "we look at PR reversion rates and"
+ },
+ {
+  "start": 320.56,
+  "duration": 4.16,
+  "text": "incidents opened, trends are flat. This"
+ },
+ {
+  "start": 323.039,
+  "duration": 4.16,
+  "text": "means we're actually improving on a"
+ },
+ {
+  "start": 324.72,
+  "duration": 5.199,
+  "text": "relative basis. One reason is that these"
+ },
+ {
+  "start": 327.199,
+  "duration": 4.321,
+  "text": "processes are also agent assisted. Human"
+ },
+ {
+  "start": 329.919,
+  "duration": 4.0,
+  "text": "code reviews have the benefit of an"
+ },
+ {
+  "start": 331.52,
+  "duration": 5.04,
+  "text": "agentic co-reer. So more bugs get"
+ },
+ {
+  "start": 333.919,
+  "duration": 4.641,
+  "text": "caught. Incident investigations i.e."
+ },
+ {
+  "start": 336.56,
+  "duration": 3.6,
+  "text": "meaningful bugs or actual incidents are"
+ },
+ {
+  "start": 338.56,
+  "duration": 3.68,
+  "text": "assisted by an agent that attempts to"
+ },
+ {
+  "start": 340.16,
+  "duration": 5.2,
+  "text": "find the root cause. So meanantime to"
+ },
+ {
+  "start": 342.24,
+  "duration": 5.04,
+  "text": "mitigation or MTTM is going down. The"
+ },
+ {
+  "start": 345.36,
+  "duration": 4.559,
+  "text": "final test is whether additional code"
+ },
+ {
+  "start": 347.28,
+  "duration": 4.24,
+  "text": "inputs represent real value output. At"
+ },
+ {
+  "start": 349.919,
+  "duration": 3.84,
+  "text": "the end of the day, engineering is"
+ },
+ {
+  "start": 351.52,
+  "duration": 4.0,
+  "text": "delivering features for users. We track"
+ },
+ {
+  "start": 353.759,
+  "duration": 3.361,
+  "text": "projects in linear so that sales and"
+ },
+ {
+  "start": 355.52,
+  "duration": 4.0,
+  "text": "marketing teams know when to communicate"
+ },
+ {
+  "start": 357.12,
+  "duration": 3.919,
+  "text": "with users about new features. You can"
+ },
+ {
+  "start": 359.52,
+  "duration": 4.32,
+  "text": "see the rate of project completion is"
+ },
+ {
+  "start": 361.039,
+  "duration": 4.72,
+  "text": "sharply up along with our coding volume."
+ },
+ {
+  "start": 363.84,
+  "duration": 4.0,
+  "text": "Conclusion. A self-driving engineering"
+ },
+ {
+  "start": 365.759,
+  "duration": 5.361,
+  "text": "team can ship more while raising quality"
+ },
+ {
+  "start": 367.84,
+  "duration": 5.359,
+  "text": "at the same time. Section. Our agent of"
+ },
+ {
+  "start": 371.12,
+  "duration": 4.639,
+  "text": "agents is enabling loop engineering at"
+ },
+ {
+  "start": 373.199,
+  "duration": 4.56,
+  "text": "scale. Zooming in gives us an idea of"
+ },
+ {
+  "start": 375.759,
+  "duration": 4.16,
+  "text": "what this looks like. When engineers"
+ },
+ {
+  "start": 377.759,
+  "duration": 3.521,
+  "text": "find ways to generate loops, sending a"
+ },
+ {
+  "start": 379.919,
+  "duration": 3.521,
+  "text": "fleet of agents off to complete a"
+ },
+ {
+  "start": 381.28,
+  "duration": 4.479,
+  "text": "verifiable task, we see the most"
+ },
+ {
+  "start": 383.44,
+  "duration": 4.24,
+  "text": "dramatic change. Every employee gets"
+ },
+ {
+  "start": 385.759,
+  "duration": 4.0,
+  "text": "access to a manager agent that can spawn"
+ },
+ {
+  "start": 387.68,
+  "duration": 3.68,
+  "text": "multiple agents, enabling orchestration"
+ },
+ {
+  "start": 389.759,
+  "duration": 3.921,
+  "text": "of agents working in loops on your"
+ },
+ {
+  "start": 391.36,
+  "duration": 4.8,
+  "text": "behalf. Loops result in some very"
+ },
+ {
+  "start": 393.68,
+  "duration": 4.0,
+  "text": "unique-l looking PR graphs. One engineer"
+ },
+ {
+  "start": 396.16,
+  "duration": 4.159,
+  "text": "completed a long-stalled migration of"
+ },
+ {
+  "start": 397.68,
+  "duration": 4.4,
+  "text": "our CSS system and shared his learnings."
+ },
+ {
+  "start": 400.319,
+  "duration": 3.841,
+  "text": "Another engineer automated a migration"
+ },
+ {
+  "start": 402.08,
+  "duration": 3.92,
+  "text": "that enabled us to localize the product."
+ },
+ {
+  "start": 404.16,
+  "duration": 4.4,
+  "text": "Yet another automated flaky test"
+ },
+ {
+  "start": 406.0,
+  "duration": 4.08,
+  "text": "maintenance. Our CTO finally cracked one"
+ },
+ {
+  "start": 408.56,
+  "duration": 3.52,
+  "text": "of our hardest networking bugs related"
+ },
+ {
+  "start": 410.08,
+  "duration": 4.0,
+  "text": "to PSC NFD shutdown with a swarm of"
+ },
+ {
+  "start": 412.08,
+  "duration": 4.64,
+  "text": "agents. All of our assumptions about"
+ },
+ {
+  "start": 414.08,
+  "duration": 4.8,
+  "text": "what is possible have changed. The most"
+ },
+ {
+  "start": 416.72,
+  "duration": 4.879,
+  "text": "exciting self-driving example comes from"
+ },
+ {
+  "start": 418.88,
+  "duration": 4.56,
+  "text": "our AI team. They built a continual"
+ },
+ {
+  "start": 421.599,
+  "duration": 4.16,
+  "text": "learning system that analyzes user"
+ },
+ {
+  "start": 423.44,
+  "duration": 4.319,
+  "text": "feedback, proposes improvements, and"
+ },
+ {
+  "start": 425.759,
+  "duration": 4.801,
+  "text": "uses a combination of benchmarks and AB"
+ },
+ {
+  "start": 427.759,
+  "duration": 4.801,
+  "text": "tests to validate the wins. Replet agent"
+ },
+ {
+  "start": 430.56,
+  "duration": 4.16,
+  "text": "is self-improving"
+ },
+ {
+  "start": 432.56,
+  "duration": 4.56,
+  "text": "section. The build versus buy"
+ },
+ {
+  "start": 434.72,
+  "duration": 3.84,
+  "text": "conversation has changed. Our new"
+ },
+ {
+  "start": 437.12,
+  "duration": 3.199,
+  "text": "internal agent also changed"
+ },
+ {
+  "start": 438.56,
+  "duration": 4.56,
+  "text": "conversations about whether we build or"
+ },
+ {
+  "start": 440.319,
+  "duration": 5.201,
+  "text": "buy software. We regularly try out new"
+ },
+ {
+  "start": 443.12,
+  "duration": 4.56,
+  "text": "AI tooling. Buying solutions can help us"
+ },
+ {
+  "start": 445.52,
+  "duration": 4.239,
+  "text": "go faster. And we also assess the market"
+ },
+ {
+  "start": 447.68,
+  "duration": 3.919,
+  "text": "constantly, but the more we build, the"
+ },
+ {
+  "start": 449.759,
+  "duration": 3.84,
+  "text": "less of this we will need to do. Our"
+ },
+ {
+  "start": 451.599,
+  "duration": 4.081,
+  "text": "internal agent now outperforms products"
+ },
+ {
+  "start": 453.599,
+  "duration": 3.761,
+  "text": "we test that are seen as market leading."
+ },
+ {
+  "start": 455.68,
+  "duration": 3.44,
+  "text": "We just turned a 7 figureure SAS"
+ },
+ {
+  "start": 457.36,
+  "duration": 3.76,
+  "text": "solution because our internal app built"
+ },
+ {
+  "start": 459.12,
+  "duration": 4.16,
+  "text": "entirely in Replet was superior and"
+ },
+ {
+  "start": 461.12,
+  "duration": 3.68,
+  "text": "employees had migrated over. All of a"
+ },
+ {
+  "start": 463.28,
+  "duration": 3.52,
+  "text": "sudden, tools feel like they are built"
+ },
+ {
+  "start": 464.8,
+  "duration": 3.76,
+  "text": "for us. The deep integration with our"
+ },
+ {
+  "start": 466.8,
+  "duration": 3.2,
+  "text": "knowledge bases and customization we've"
+ },
+ {
+  "start": 468.56,
+  "duration": 3.759,
+  "text": "done makes other solutions feel"
+ },
+ {
+  "start": 470.0,
+  "duration": 4.16,
+  "text": "inferior. What surprised us more was"
+ },
+ {
+  "start": 472.319,
+  "duration": 4.16,
+  "text": "that our internal agent also beat out"
+ },
+ {
+  "start": 474.16,
+  "duration": 4.159,
+  "text": "vertical specific products we evaluated."
+ },
+ {
+  "start": 476.479,
+  "duration": 3.761,
+  "text": "A tool to help engineers triage alerts"
+ },
+ {
+  "start": 478.319,
+  "duration": 4.0,
+  "text": "and root cause incidents came back with"
+ },
+ {
+  "start": 480.24,
+  "duration": 4.239,
+  "text": "similar quality, but at 10x the cost of"
+ },
+ {
+  "start": 482.319,
+  "duration": 4.081,
+  "text": "running it on our agent. A tool that"
+ },
+ {
+  "start": 484.479,
+  "duration": 3.681,
+  "text": "runs automated penetration testing found"
+ },
+ {
+  "start": 486.4,
+  "duration": 4.079,
+  "text": "fewer vulnerabilities than our internal"
+ },
+ {
+  "start": 488.16,
+  "duration": 3.759,
+  "text": "version at 10x higher cost. Both our"
+ },
+ {
+  "start": 490.479,
+  "duration": 4.081,
+  "text": "versions were put into production with"
+ },
+ {
+  "start": 491.919,
+  "duration": 4.081,
+  "text": "ease, reducing MTTM and incidents and"
+ },
+ {
+  "start": 494.56,
+  "duration": 3.199,
+  "text": "hardening critical systems against"
+ },
+ {
+  "start": 496.0,
+  "duration": 3.599,
+  "text": "attacks. With how much we're still"
+ },
+ {
+  "start": 497.759,
+  "duration": 4.401,
+  "text": "learning and how models are improving,"
+ },
+ {
+  "start": 499.599,
+  "duration": 4.961,
+  "text": "it's clear this is only the beginning."
+ },
+ {
+  "start": 502.16,
+  "duration": 4.8,
+  "text": "Section beyond engineering and into the"
+ },
+ {
+  "start": 504.56,
+  "duration": 4.4,
+  "text": "whole business. A self-driving company"
+ },
+ {
+  "start": 506.96,
+  "duration": 4.48,
+  "text": "doesn't stop at engineering. Every"
+ },
+ {
+  "start": 508.96,
+  "duration": 4.16,
+  "text": "function at Replet is changing. Usage"
+ },
+ {
+  "start": 511.44,
+  "duration": 3.76,
+  "text": "spread quickly out of engineering,"
+ },
+ {
+  "start": 513.12,
+  "duration": 3.599,
+  "text": "mostly because of a Slack interface. The"
+ },
+ {
+  "start": 515.2,
+  "duration": 3.36,
+  "text": "rest of the company noticed engineers"
+ },
+ {
+  "start": 516.719,
+  "duration": 4.081,
+  "text": "tagging our agent with tasks and tried"
+ },
+ {
+  "start": 518.56,
+  "duration": 4.32,
+  "text": "it for themselves. Initially, the most"
+ },
+ {
+  "start": 520.8,
+  "duration": 3.76,
+  "text": "popular use case was asking questions."
+ },
+ {
+  "start": 522.88,
+  "duration": 3.36,
+  "text": "By combining our knowledge base with the"
+ },
+ {
+  "start": 524.56,
+  "duration": 3.52,
+  "text": "state of the codebase, anybody could"
+ },
+ {
+  "start": 526.24,
+  "duration": 3.84,
+  "text": "clarify product expectations without"
+ },
+ {
+  "start": 528.08,
+  "duration": 3.52,
+  "text": "waiting for engineering input. Those"
+ },
+ {
+  "start": 530.08,
+  "duration": 3.6,
+  "text": "employees could then fix copy or"
+ },
+ {
+  "start": 531.6,
+  "duration": 3.76,
+  "text": "documentation as a follow-up. It was an"
+ },
+ {
+  "start": 533.68,
+  "duration": 4.24,
+  "text": "immediate boost in being able to respond"
+ },
+ {
+  "start": 535.36,
+  "duration": 4.64,
+  "text": "to users faster. But that was just the"
+ },
+ {
+  "start": 537.92,
+  "duration": 3.84,
+  "text": "beginning. From there, contributions of"
+ },
+ {
+  "start": 540.0,
+  "duration": 3.92,
+  "text": "new skills and integrations started to"
+ },
+ {
+  "start": 541.76,
+  "duration": 4.079,
+  "text": "come in from all parts of the company."
+ },
+ {
+  "start": 543.92,
+  "duration": 4.16,
+  "text": "The first big unlock came from our data"
+ },
+ {
+  "start": 545.839,
+  "duration": 4.241,
+  "text": "team. They gave the agent a semantic"
+ },
+ {
+  "start": 548.08,
+  "duration": 3.68,
+  "text": "layer over our data warehouse. So it"
+ },
+ {
+  "start": 550.08,
+  "duration": 3.92,
+  "text": "knows which tables are sources of truth"
+ },
+ {
+  "start": 551.76,
+  "duration": 3.92,
+  "text": "and how they relate to one another. Now"
+ },
+ {
+  "start": 554.0,
+  "duration": 3.12,
+  "text": "anyone at Replic can ask business"
+ },
+ {
+  "start": 555.68,
+  "duration": 3.279,
+  "text": "intelligence questions and get a"
+ },
+ {
+  "start": 557.12,
+  "duration": 3.68,
+  "text": "reliable answer. They can build charts"
+ },
+ {
+  "start": 558.959,
+  "duration": 3.601,
+  "text": "and presentations from live data. The"
+ },
+ {
+  "start": 560.8,
+  "duration": 3.12,
+  "text": "data team spends its time going deeper"
+ },
+ {
+  "start": 562.56,
+  "duration": 4.0,
+  "text": "on the hardest problems instead of"
+ },
+ {
+  "start": 563.92,
+  "duration": 4.24,
+  "text": "fielding requests. Recently a PM was"
+ },
+ {
+  "start": 566.56,
+  "duration": 3.279,
+  "text": "able to self-s serve complex launch"
+ },
+ {
+  "start": 568.16,
+  "duration": 3.359,
+  "text": "analysis because our agent understands"
+ },
+ {
+  "start": 569.839,
+  "duration": 3.44,
+  "text": "events in the codebase, how they show up"
+ },
+ {
+  "start": 571.519,
+  "duration": 3.361,
+  "text": "in our customer data platform, and how"
+ },
+ {
+  "start": 573.279,
+  "duration": 4.24,
+  "text": "to join those with complex subscription"
+ },
+ {
+  "start": 574.88,
+  "duration": 4.24,
+  "text": "states. Sales found the same leverage."
+ },
+ {
+  "start": 577.519,
+  "duration": 3.201,
+  "text": "The sales development team uses the"
+ },
+ {
+  "start": 579.12,
+  "duration": 3.44,
+  "text": "agent to find and enrich product"
+ },
+ {
+  "start": 580.72,
+  "duration": 3.52,
+  "text": "qualified leads, drawing on internal"
+ },
+ {
+  "start": 582.56,
+  "duration": 3.76,
+  "text": "knowledge that more generic tools can't"
+ },
+ {
+  "start": 584.24,
+  "duration": 4.32,
+  "text": "see. So outreach lands with more"
+ },
+ {
+  "start": 586.32,
+  "duration": 3.92,
+  "text": "context. Account executives use it to"
+ },
+ {
+  "start": 588.56,
+  "duration": 2.959,
+  "text": "prepare for customer conversations to"
+ },
+ {
+  "start": 590.24,
+  "duration": 3.279,
+  "text": "understand who is getting the most"
+ },
+ {
+  "start": 591.519,
+  "duration": 3.681,
+  "text": "value, what projects are most active,"
+ },
+ {
+  "start": 593.519,
+  "duration": 3.601,
+  "text": "and how credit usage tracks against"
+ },
+ {
+  "start": 595.2,
+  "duration": 3.44,
+  "text": "their contract. This is all then"
+ },
+ {
+  "start": 597.12,
+  "duration": 2.96,
+  "text": "packaged up into branded slides"
+ },
+ {
+  "start": 598.64,
+  "duration": 3.36,
+  "text": "customized to the account. A"
+ },
+ {
+  "start": 600.08,
+  "duration": 3.12,
+  "text": "self-driving sales team has more higher"
+ },
+ {
+  "start": 602.0,
+  "duration": 3.36,
+  "text": "quality touch points with their"
+ },
+ {
+  "start": 603.2,
+  "duration": 3.92,
+  "text": "customers. Our marketing team can use"
+ },
+ {
+  "start": 605.36,
+  "duration": 4.0,
+  "text": "the agent to draft product specs from"
+ },
+ {
+  "start": 607.12,
+  "duration": 3.76,
+  "text": "scratch with a single prompt based on"
+ },
+ {
+  "start": 609.36,
+  "duration": 3.44,
+  "text": "conversations and documents produced"
+ },
+ {
+  "start": 610.88,
+  "duration": 3.44,
+  "text": "across engineering and product. This"
+ },
+ {
+  "start": 612.8,
+  "duration": 3.44,
+  "text": "gives them the ability to start moving"
+ },
+ {
+  "start": 614.32,
+  "duration": 3.519,
+  "text": "on launches sooner and stay up to date"
+ },
+ {
+  "start": 616.24,
+  "duration": 3.44,
+  "text": "without needing to be in every single"
+ },
+ {
+  "start": 617.839,
+  "duration": 3.68,
+  "text": "meeting. They have more time to plan and"
+ },
+ {
+  "start": 619.68,
+  "duration": 3.279,
+  "text": "be creative, which will ensure our"
+ },
+ {
+  "start": 621.519,
+  "duration": 3.841,
+  "text": "releases have greater impact when they"
+ },
+ {
+  "start": 622.959,
+  "duration": 4.081,
+  "text": "are out in the world. Our support team"
+ },
+ {
+  "start": 625.36,
+  "duration": 3.84,
+  "text": "gave the agent skills to investigate"
+ },
+ {
+  "start": 627.04,
+  "duration": 3.84,
+  "text": "issues and follow standard playbooks. It"
+ },
+ {
+  "start": 629.2,
+  "duration": 3.36,
+  "text": "can choose to offer a response in our"
+ },
+ {
+  "start": 630.88,
+  "duration": 3.28,
+  "text": "standard customer service voice or"
+ },
+ {
+  "start": 632.56,
+  "duration": 3.6,
+  "text": "escalate to engineering along with a"
+ },
+ {
+  "start": 634.16,
+  "duration": 3.84,
+  "text": "summary of the ticket and investigation."
+ },
+ {
+  "start": 636.16,
+  "duration": 3.359,
+  "text": "A self-driving support team closes the"
+ },
+ {
+  "start": 638.0,
+  "duration": 4.0,
+  "text": "hardest tickets, those escalated to"
+ },
+ {
+  "start": 639.519,
+  "duration": 5.281,
+  "text": "humans 60% faster. Users get back to"
+ },
+ {
+  "start": 642.0,
+  "duration": 4.88,
+  "text": "building sooner. In every example, the"
+ },
+ {
+  "start": 644.8,
+  "duration": 4.4,
+  "text": "human didn't get automated out. They got"
+ },
+ {
+  "start": 646.88,
+  "duration": 4.0,
+  "text": "promoted. Self-driving turns doers into"
+ },
+ {
+  "start": 649.2,
+  "duration": 3.36,
+  "text": "directors, and the people thriving are"
+ },
+ {
+  "start": 650.88,
+  "duration": 3.92,
+  "text": "the ones who think in outcomes and set"
+ },
+ {
+  "start": 652.56,
+  "duration": 4.959,
+  "text": "directions. That is the most valuable"
+ },
+ {
+  "start": 654.8,
+  "duration": 4.4,
+  "text": "work there is. Now, where to next?"
+ },
+ {
+  "start": 657.519,
+  "duration": 3.76,
+  "text": "Making ourselves more productive is"
+ },
+ {
+  "start": 659.2,
+  "duration": 3.6,
+  "text": "exciting, but what really motivates the"
+ },
+ {
+  "start": 661.279,
+  "duration": 3.281,
+  "text": "people at Replet is democratizing"
+ },
+ {
+  "start": 662.8,
+  "duration": 3.44,
+  "text": "technology. We want to bring this new"
+ },
+ {
+  "start": 664.56,
+  "duration": 3.2,
+  "text": "way of working to all of our users."
+ },
+ {
+  "start": 666.24,
+  "duration": 2.96,
+  "text": "We're hard at work making sure we can do"
+ },
+ {
+  "start": 667.76,
+  "duration": 3.12,
+  "text": "this with the policy, permissions,"
+ },
+ {
+  "start": 669.2,
+  "duration": 3.92,
+  "text": "security, and cost controls needed to"
+ },
+ {
+  "start": 670.88,
+  "duration": 3.68,
+  "text": "deploy this at scale. Replet's most"
+ },
+ {
+  "start": 673.12,
+  "duration": 2.719,
+  "text": "active users are entrepreneurs and"
+ },
+ {
+  "start": 674.56,
+  "duration": 3.44,
+  "text": "enterprise users building real"
+ },
+ {
+  "start": 675.839,
+  "duration": 3.521,
+  "text": "businesses. Self-driving need safety"
+ },
+ {
+  "start": 678.0,
+  "duration": 3.279,
+  "text": "measures that can scale to meet those"
+ },
+ {
+  "start": 679.36,
+  "duration": 4.08,
+  "text": "users. We're hard at work building that"
+ },
+ {
+  "start": 681.279,
+  "duration": 4.401,
+  "text": "now, but given all the above, you won't"
+ },
+ {
+  "start": 683.44,
+  "duration": 4.399,
+  "text": "have to wait long."
+ },
+ {
+  "start": 685.68,
+  "duration": 4.64,
+  "text": "All right. So, I think this is both a"
+ },
+ {
+  "start": 687.839,
+  "duration": 4.801,
+  "text": "super interesting case study, but also"
+ },
+ {
+  "start": 690.32,
+  "duration": 4.639,
+  "text": "even more than that, frankly, a really"
+ },
+ {
+  "start": 692.64,
+  "duration": 5.04,
+  "text": "interesting new mental model for how to"
+ },
+ {
+  "start": 694.959,
+  "duration": 3.681,
+  "text": "think about company building. So, let's"
+ },
+ {
+  "start": 697.68,
+  "duration": 3.04,
+  "text": "talk about a number of different"
+ },
+ {
+  "start": 698.64,
+  "duration": 3.52,
+  "text": "takeaways and things that you, as a"
+ },
+ {
+  "start": 700.72,
+  "duration": 3.6,
+  "text": "person thinking about how your company"
+ },
+ {
+  "start": 702.16,
+  "duration": 4.72,
+  "text": "can become more self-driving, can take"
+ },
+ {
+  "start": 704.32,
+  "duration": 4.16,
+  "text": "away from this post. The first part, I"
+ },
+ {
+  "start": 706.88,
+  "duration": 4.0,
+  "text": "think, is the way that you think about"
+ },
+ {
+  "start": 708.48,
+  "duration": 4.56,
+  "text": "what AI can do in general. and to move"
+ },
+ {
+  "start": 710.88,
+  "duration": 4.16,
+  "text": "out of thinking about AI as something"
+ },
+ {
+  "start": 713.04,
+  "duration": 4.239,
+  "text": "that can change how individuals or even"
+ },
+ {
+  "start": 715.04,
+  "duration": 4.08,
+  "text": "small teams work and instead assume that"
+ },
+ {
+  "start": 717.279,
+  "duration": 4.721,
+  "text": "the true implications of this technology"
+ },
+ {
+  "start": 719.12,
+  "duration": 5.839,
+  "text": "are huge structural change to how work"
+ },
+ {
+  "start": 722.0,
+  "duration": 5.68,
+  "text": "gets done. This is easy to say but hard"
+ },
+ {
+  "start": 724.959,
+  "duration": 4.801,
+  "text": "to do in practice. We are wired by"
+ },
+ {
+  "start": 727.68,
+  "duration": 4.399,
+  "text": "decades of doing things in certain ways"
+ },
+ {
+  "start": 729.76,
+  "duration": 4.16,
+  "text": "to evolve only incrementally. But the"
+ },
+ {
+  "start": 732.079,
+  "duration": 3.841,
+  "text": "implications here are not incremental"
+ },
+ {
+  "start": 733.92,
+  "duration": 3.52,
+  "text": "evolutions. They are massive shifts in"
+ },
+ {
+  "start": 735.92,
+  "duration": 3.28,
+  "text": "the very nature of what it means to work"
+ },
+ {
+  "start": 737.44,
+  "duration": 3.199,
+  "text": "and what our relationship to work is."
+ },
+ {
+  "start": 739.2,
+  "duration": 3.6,
+  "text": "And in some ways we have to continually"
+ },
+ {
+  "start": 740.639,
+  "duration": 3.601,
+  "text": "hold that as the implications and goal"
+ },
+ {
+  "start": 742.8,
+  "duration": 4.32,
+  "text": "rather than something to be frankly"
+ },
+ {
+  "start": 744.24,
+  "duration": 5.36,
+  "text": "scared by. Next I think one of the most"
+ },
+ {
+  "start": 747.12,
+  "duration": 4.64,
+  "text": "reasonable questions to come out of this"
+ },
+ {
+  "start": 749.6,
+  "duration": 4.72,
+  "text": "is is this for engineering native"
+ },
+ {
+  "start": 751.76,
+  "duration": 4.72,
+  "text": "organizations only? So much of what"
+ },
+ {
+  "start": 754.32,
+  "duration": 4.56,
+  "text": "Amjad talked about is specific to the"
+ },
+ {
+  "start": 756.48,
+  "duration": 4.32,
+  "text": "work of software development. And given"
+ },
+ {
+  "start": 758.88,
+  "duration": 4.32,
+  "text": "that Replet's business not only requires"
+ },
+ {
+  "start": 760.8,
+  "duration": 4.32,
+  "text": "software development but is in fact"
+ },
+ {
+  "start": 763.2,
+  "duration": 3.52,
+  "text": "providing software development to"
+ },
+ {
+  "start": 765.12,
+  "duration": 3.279,
+  "text": "everyone, there's even more of a"
+ },
+ {
+  "start": 766.72,
+  "duration": 4.32,
+  "text": "reasonable question here I think about"
+ },
+ {
+  "start": 768.399,
+  "duration": 4.721,
+  "text": "whether this is limited to engineering"
+ },
+ {
+  "start": 771.04,
+  "duration": 3.84,
+  "text": "organizations. Let's say I want to come"
+ },
+ {
+  "start": 773.12,
+  "duration": 3.36,
+  "text": "back to that question in a minute. But I"
+ },
+ {
+  "start": 774.88,
+  "duration": 4.079,
+  "text": "will say that no matter what, one"
+ },
+ {
+  "start": 776.48,
+  "duration": 5.44,
+  "text": "takeaway which was explicit at Replet is"
+ },
+ {
+  "start": 778.959,
+  "duration": 4.481,
+  "text": "to start with engineers. And that is not"
+ },
+ {
+  "start": 781.92,
+  "duration": 3.68,
+  "text": "only because they're more comfortable"
+ },
+ {
+  "start": 783.44,
+  "duration": 4.0,
+  "text": "with this technology than others, but"
+ },
+ {
+  "start": 785.6,
+  "duration": 4.0,
+  "text": "because the domain in which they work"
+ },
+ {
+  "start": 787.44,
+  "duration": 4.079,
+  "text": "has clear structure around it in a way"
+ },
+ {
+  "start": 789.6,
+  "duration": 3.84,
+  "text": "that some other categories of work is"
+ },
+ {
+  "start": 791.519,
+  "duration": 3.521,
+  "text": "going to have a harder time with. This I"
+ },
+ {
+  "start": 793.44,
+  "duration": 3.28,
+  "text": "think is fairly intuitive, but to put a"
+ },
+ {
+  "start": 795.04,
+  "duration": 3.599,
+  "text": "fine point on it, when something is"
+ },
+ {
+  "start": 796.72,
+  "duration": 4.239,
+  "text": "wrong with your marketing campaign, it"
+ },
+ {
+  "start": 798.639,
+  "duration": 3.841,
+  "text": "very well might be intangible. a weird"
+ },
+ {
+  "start": 800.959,
+  "duration": 3.12,
+  "text": "feeling about how a certain word or"
+ },
+ {
+  "start": 802.48,
+  "duration": 2.96,
+  "text": "phrase hits that doesn't really comport"
+ },
+ {
+  "start": 804.079,
+  "duration": 3.2,
+  "text": "with the brand identity that you've been"
+ },
+ {
+  "start": 805.44,
+  "duration": 3.519,
+  "text": "working to build, which you know as a"
+ },
+ {
+  "start": 807.279,
+  "duration": 2.881,
+  "text": "marketer and a brand guardian upon"
+ },
+ {
+  "start": 808.959,
+  "duration": 3.281,
+  "text": "seeing it, but which wouldn't"
+ },
+ {
+  "start": 810.16,
+  "duration": 4.479,
+  "text": "necessarily be easy for an AI to pick up"
+ },
+ {
+  "start": 812.24,
+  "duration": 4.48,
+  "text": "itself that there was a problem. Compare"
+ },
+ {
+  "start": 814.639,
+  "duration": 4.0,
+  "text": "that to a software bug where when the"
+ },
+ {
+  "start": 816.72,
+  "duration": 3.919,
+  "text": "code runs, it does something verifiably"
+ },
+ {
+  "start": 818.639,
+  "duration": 4.241,
+  "text": "wrong. That bug is going to be much"
+ },
+ {
+  "start": 820.639,
+  "duration": 4.32,
+  "text": "easier for AI to fix than the much more"
+ },
+ {
+  "start": 822.88,
+  "duration": 3.36,
+  "text": "intangible marketing issue. And while I"
+ },
+ {
+  "start": 824.959,
+  "duration": 2.481,
+  "text": "don't believe that that means that this"
+ },
+ {
+  "start": 826.24,
+  "duration": 3.599,
+  "text": "sort of self-driving should be"
+ },
+ {
+  "start": 827.44,
+  "duration": 4.48,
+  "text": "engineering only, it certainly does make"
+ },
+ {
+  "start": 829.839,
+  "duration": 3.921,
+  "text": "sense to start experimenting with this"
+ },
+ {
+  "start": 831.92,
+  "duration": 3.28,
+  "text": "process in the place where it is most"
+ },
+ {
+  "start": 833.76,
+  "duration": 4.319,
+  "text": "natively fertile, which is going to be"
+ },
+ {
+  "start": 835.2,
+  "duration": 4.319,
+  "text": "with engineers. Now, wherever you start,"
+ },
+ {
+  "start": 838.079,
+  "duration": 4.161,
+  "text": "one of the most important pillars that"
+ },
+ {
+  "start": 839.519,
+  "duration": 4.721,
+  "text": "Amjad almost breezes past too quickly is"
+ },
+ {
+  "start": 842.24,
+  "duration": 5.039,
+  "text": "the fact that the fundamental"
+ },
+ {
+  "start": 844.24,
+  "duration": 5.039,
+  "text": "prerequisite for all of this is not just"
+ },
+ {
+  "start": 847.279,
+  "duration": 4.56,
+  "text": "having an agent that can do stuff for"
+ },
+ {
+  "start": 849.279,
+  "duration": 5.201,
+  "text": "you. It's having that agent or those"
+ },
+ {
+  "start": 851.839,
+  "duration": 5.761,
+  "text": "agents integrated with all of your"
+ },
+ {
+  "start": 854.48,
+  "duration": 5.76,
+  "text": "existing systems. This goes way beyond"
+ },
+ {
+  "start": 857.6,
+  "duration": 6.0,
+  "text": "having access to good structured data."
+ },
+ {
+  "start": 860.24,
+  "duration": 5.68,
+  "text": "It is full-on crossorg context tool and"
+ },
+ {
+  "start": 863.6,
+  "duration": 4.32,
+  "text": "system integration. I'm John talks about"
+ },
+ {
+  "start": 865.92,
+  "duration": 4.4,
+  "text": "engineering giving access to GitHub,"
+ },
+ {
+  "start": 867.92,
+  "duration": 5.279,
+  "text": "GCP, Azure, linear, notion, slack,"
+ },
+ {
+  "start": 870.32,
+  "duration": 4.8,
+  "text": "zenesk, and more. Without access to the"
+ },
+ {
+  "start": 873.199,
+  "duration": 3.921,
+  "text": "systems that drive the company, there is"
+ },
+ {
+  "start": 875.12,
+  "duration": 4.24,
+  "text": "no way for an agent to help the company"
+ },
+ {
+  "start": 877.12,
+  "duration": 4.88,
+  "text": "become self-driving. Period. to full"
+ },
+ {
+  "start": 879.36,
+  "duration": 4.4,
+  "text": "stop. Now, both upstream and downstream"
+ },
+ {
+  "start": 882.0,
+  "duration": 3.199,
+  "text": "of that systems access are going to be"
+ },
+ {
+  "start": 883.76,
+  "duration": 3.28,
+  "text": "things like security issues that need to"
+ },
+ {
+  "start": 885.199,
+  "duration": 3.2,
+  "text": "be solved themselves, but that systems"
+ },
+ {
+  "start": 887.04,
+  "duration": 3.84,
+  "text": "access has to be assumed as a"
+ },
+ {
+  "start": 888.399,
+  "duration": 3.841,
+  "text": "prerequisite. Now, speaking of upstream"
+ },
+ {
+  "start": 890.88,
+  "duration": 3.84,
+  "text": "and downstream problems, the next"
+ },
+ {
+  "start": 892.24,
+  "duration": 5.44,
+  "text": "takeaway I think is that new problems"
+ },
+ {
+  "start": 894.72,
+  "duration": 5.44,
+  "text": "will emerge even if overall the system"
+ },
+ {
+  "start": 897.68,
+  "duration": 4.399,
+  "text": "is unlocking new opportunities. To take"
+ },
+ {
+  "start": 900.16,
+  "duration": 4.08,
+  "text": "an example from the replic case study,"
+ },
+ {
+  "start": 902.079,
+  "duration": 4.0,
+  "text": "when you're producing new code, that's a"
+ },
+ {
+  "start": 904.24,
+  "duration": 3.68,
+  "text": "whole lot of new code to review. Now,"
+ },
+ {
+  "start": 906.079,
+  "duration": 3.681,
+  "text": "Amjad talked about how they built a new"
+ },
+ {
+  "start": 907.92,
+  "duration": 3.84,
+  "text": "review process that was agent integrated"
+ },
+ {
+  "start": 909.76,
+  "duration": 4.24,
+  "text": "as well, solving the issue and in fact"
+ },
+ {
+  "start": 911.76,
+  "duration": 3.439,
+  "text": "improving PR review time. But that"
+ },
+ {
+  "start": 914.0,
+  "duration": 2.72,
+  "text": "doesn't mean that that wasn't a new"
+ },
+ {
+  "start": 915.199,
+  "duration": 3.601,
+  "text": "problem to be solved. It just means they"
+ },
+ {
+  "start": 916.72,
+  "duration": 3.359,
+  "text": "solved it. I think many organizations"
+ },
+ {
+  "start": 918.8,
+  "duration": 3.76,
+  "text": "that try to move towards this"
+ },
+ {
+  "start": 920.079,
+  "duration": 4.56,
+  "text": "self-driving modality will get stopped"
+ },
+ {
+  "start": 922.56,
+  "duration": 4.079,
+  "text": "when they realize that by moving to this"
+ },
+ {
+  "start": 924.639,
+  "duration": 4.32,
+  "text": "agentic way of working, they're not"
+ },
+ {
+  "start": 926.639,
+  "duration": 3.521,
+  "text": "giving up on problems. They're switching"
+ },
+ {
+  "start": 928.959,
+  "duration": 2.961,
+  "text": "the problems that they have to deal"
+ },
+ {
+  "start": 930.16,
+  "duration": 3.44,
+  "text": "with. Now, of course, the trade-off is"
+ },
+ {
+  "start": 931.92,
+  "duration": 3.919,
+  "text": "that hopefully those new problems once"
+ },
+ {
+  "start": 933.6,
+  "duration": 4.72,
+  "text": "solved are either a better problems to"
+ },
+ {
+  "start": 935.839,
+  "duration": 4.161,
+  "text": "be solving or b problems that once"
+ },
+ {
+  "start": 938.32,
+  "duration": 2.8,
+  "text": "solved or in service of a better way of"
+ },
+ {
+  "start": 940.0,
+  "duration": 2.56,
+  "text": "working that is so clearly and"
+ },
+ {
+  "start": 941.12,
+  "duration": 3.76,
+  "text": "self-evidently better that it's worth"
+ },
+ {
+  "start": 942.56,
+  "duration": 4.88,
+  "text": "doing. But self-driving does not mean no"
+ },
+ {
+  "start": 944.88,
+  "duration": 4.319,
+  "text": "problems. It means new problems. Okay."
+ },
+ {
+  "start": 947.44,
+  "duration": 2.8,
+  "text": "So, you've now assumed huge structural"
+ },
+ {
+  "start": 949.199,
+  "duration": 2.88,
+  "text": "change. You've started with your"
+ },
+ {
+  "start": 950.24,
+  "duration": 3.12,
+  "text": "engineers. You've given systems access"
+ },
+ {
+  "start": 952.079,
+  "duration": 2.801,
+  "text": "and you've accepted that there will be"
+ },
+ {
+  "start": 953.36,
+  "duration": 3.599,
+  "text": "new problems that emerge that need to be"
+ },
+ {
+  "start": 954.88,
+  "duration": 3.519,
+  "text": "solved. How do you then move from the"
+ },
+ {
+  "start": 956.959,
+  "duration": 3.44,
+  "text": "engineering section of your organization"
+ },
+ {
+  "start": 958.399,
+  "duration": 3.601,
+  "text": "to others? Another thing that stood out"
+ },
+ {
+  "start": 960.399,
+  "duration": 4.081,
+  "text": "from this post is that their approach"
+ },
+ {
+  "start": 962.0,
+  "duration": 5.519,
+  "text": "was clearly pull not push. In other"
+ },
+ {
+  "start": 964.48,
+  "duration": 5.2,
+  "text": "words, by using public spaces like Slack"
+ },
+ {
+  "start": 967.519,
+  "duration": 4.481,
+  "text": "for engineers to interact with the new"
+ },
+ {
+  "start": 969.68,
+  "duration": 4.64,
+  "text": "self-driving system, they allowed others"
+ },
+ {
+  "start": 972.0,
+  "duration": 4.639,
+  "text": "from other parts of the organization to"
+ },
+ {
+  "start": 974.32,
+  "duration": 4.4,
+  "text": "see the benefits of those interactions"
+ },
+ {
+  "start": 976.639,
+  "duration": 3.681,
+  "text": "without it seems at least demanding that"
+ },
+ {
+  "start": 978.72,
+  "duration": 3.28,
+  "text": "they dive all the way in before being"
+ },
+ {
+  "start": 980.32,
+  "duration": 4.079,
+  "text": "convinced. I think we sometimes"
+ },
+ {
+  "start": 982.0,
+  "duration": 4.079,
+  "text": "underestimate how valuable it is to show"
+ },
+ {
+  "start": 984.399,
+  "duration": 4.321,
+  "text": "not tell when it comes to the benefits"
+ },
+ {
+  "start": 986.079,
+  "duration": 4.241,
+  "text": "of new big structural changes. People"
+ },
+ {
+  "start": 988.72,
+  "duration": 3.119,
+  "text": "inherently, especially outside of"
+ },
+ {
+  "start": 990.32,
+  "duration": 3.36,
+  "text": "engineering, but not exclusively, are"
+ },
+ {
+  "start": 991.839,
+  "duration": 3.841,
+  "text": "going to be in many cases reluctant to"
+ },
+ {
+  "start": 993.68,
+  "duration": 4.0,
+  "text": "change, that is just human nature, and"
+ },
+ {
+  "start": 995.68,
+  "duration": 3.839,
+  "text": "it's certainly enterprise inertia. But"
+ },
+ {
+  "start": 997.68,
+  "duration": 3.44,
+  "text": "by creating spaces where people can see"
+ },
+ {
+  "start": 999.519,
+  "duration": 3.201,
+  "text": "not only the results of that new way of"
+ },
+ {
+  "start": 1001.12,
+  "duration": 3.36,
+  "text": "working, but how the work actually"
+ },
+ {
+  "start": 1002.72,
+  "duration": 4.16,
+  "text": "proceeds itself, a lot of that"
+ },
+ {
+  "start": 1004.48,
+  "duration": 3.919,
+  "text": "skepticism can be dealt with in advance."
+ },
+ {
+  "start": 1006.88,
+  "duration": 3.6,
+  "text": "Now, once people outside of engineering"
+ },
+ {
+  "start": 1008.399,
+  "duration": 3.921,
+  "text": "do start to get interested, they like"
+ },
+ {
+  "start": 1010.48,
+  "duration": 3.76,
+  "text": "engineering are also going to have to"
+ },
+ {
+  "start": 1012.32,
+  "duration": 3.439,
+  "text": "have their systems wired together. And"
+ },
+ {
+  "start": 1014.24,
+  "duration": 3.44,
+  "text": "in some cases, this is going to be a"
+ },
+ {
+  "start": 1015.759,
+  "duration": 3.76,
+  "text": "technical process. While it might be"
+ },
+ {
+  "start": 1017.68,
+  "duration": 3.44,
+  "text": "second nature for engineers to be able"
+ },
+ {
+  "start": 1019.519,
+  "duration": 3.841,
+  "text": "to give these new agentic systems access"
+ },
+ {
+  "start": 1021.12,
+  "duration": 3.679,
+  "text": "to the right APIs, that might not at all"
+ },
+ {
+  "start": 1023.36,
+  "duration": 4.079,
+  "text": "be intuitive or even technically"
+ },
+ {
+  "start": 1024.799,
+  "duration": 4.16,
+  "text": "feasible for these other teams. One"
+ },
+ {
+  "start": 1027.439,
+  "duration": 3.36,
+  "text": "pattern that I think is going to be"
+ },
+ {
+  "start": 1028.959,
+  "duration": 4.24,
+  "text": "increasingly important and valuable is"
+ },
+ {
+  "start": 1030.799,
+  "duration": 3.681,
+  "text": "the pairing of engineers, especially"
+ },
+ {
+  "start": 1033.199,
+  "duration": 3.201,
+  "text": "engineers who have already gone through"
+ },
+ {
+  "start": 1034.48,
+  "duration": 4.079,
+  "text": "this sort of change with parts of the"
+ },
+ {
+  "start": 1036.4,
+  "duration": 4.24,
+  "text": "business organization that can use their"
+ },
+ {
+  "start": 1038.559,
+  "duration": 3.76,
+  "text": "help to set up the new way of working. I"
+ },
+ {
+  "start": 1040.64,
+  "duration": 3.76,
+  "text": "think as important as for deployed"
+ },
+ {
+  "start": 1042.319,
+  "duration": 3.76,
+  "text": "engineers are, internally deployed"
+ },
+ {
+  "start": 1044.4,
+  "duration": 3.439,
+  "text": "engineers are going to be every bit if"
+ },
+ {
+  "start": 1046.079,
+  "duration": 3.361,
+  "text": "not more important when it comes to this"
+ },
+ {
+  "start": 1047.839,
+  "duration": 3.441,
+  "text": "full-scale structural change that's"
+ },
+ {
+  "start": 1049.44,
+  "duration": 3.28,
+  "text": "happening. But once the systems and data"
+ },
+ {
+  "start": 1051.28,
+  "duration": 3.759,
+  "text": "sources that have all the context come"
+ },
+ {
+  "start": 1052.72,
+  "duration": 3.839,
+  "text": "online, those non-engineering teams are"
+ },
+ {
+  "start": 1055.039,
+  "duration": 3.601,
+  "text": "still going to need support designing"
+ },
+ {
+  "start": 1056.559,
+  "duration": 4.641,
+  "text": "the types of loops that can actually"
+ },
+ {
+  "start": 1058.64,
+  "duration": 4.399,
+  "text": "result in true self-driving. Now, I love"
+ },
+ {
+  "start": 1061.2,
+  "duration": 3.04,
+  "text": "this blog post. I think it's great. But"
+ },
+ {
+  "start": 1063.039,
+  "duration": 3.441,
+  "text": "if there's a place that I would like to"
+ },
+ {
+  "start": 1064.24,
+  "duration": 4.96,
+  "text": "see it push even further, it's actually"
+ },
+ {
+  "start": 1066.48,
+  "duration": 4.559,
+  "text": "deepening this analogy of self-driving."
+ },
+ {
+  "start": 1069.2,
+  "duration": 4.0,
+  "text": "Amjad is talking about agents taking on"
+ },
+ {
+  "start": 1071.039,
+  "duration": 4.721,
+  "text": "a lot of new work. But self-driving"
+ },
+ {
+  "start": 1073.2,
+  "duration": 4.719,
+  "text": "isn't just about agents doing work. It's"
+ },
+ {
+  "start": 1075.76,
+  "duration": 4.72,
+  "text": "about a pattern in which agents have"
+ },
+ {
+  "start": 1077.919,
+  "duration": 4.721,
+  "text": "their goals set by people, have access"
+ },
+ {
+  "start": 1080.48,
+  "duration": 3.6,
+  "text": "to the systems and data they need to do"
+ },
+ {
+  "start": 1082.64,
+  "duration": 4.88,
+  "text": "the things that are required to achieve"
+ },
+ {
+  "start": 1084.08,
+  "duration": 5.12,
+  "text": "those goals and have the criteria to see"
+ },
+ {
+  "start": 1087.52,
+  "duration": 4.0,
+  "text": "how what they're doing is actually"
+ },
+ {
+  "start": 1089.2,
+  "duration": 3.839,
+  "text": "achieving those goals or not. Now, this"
+ },
+ {
+  "start": 1091.52,
+  "duration": 3.76,
+  "text": "is what we talk about when we talk about"
+ },
+ {
+  "start": 1093.039,
+  "duration": 4.081,
+  "text": "loops. But the reason that loops aren't"
+ },
+ {
+  "start": 1095.28,
+  "duration": 3.519,
+  "text": "just a buzzword is that more than"
+ },
+ {
+  "start": 1097.12,
+  "duration": 3.76,
+  "text": "anything else, they're this interaction"
+ },
+ {
+  "start": 1098.799,
+  "duration": 4.401,
+  "text": "pattern of structuring goals with"
+ },
+ {
+  "start": 1100.88,
+  "duration": 4.56,
+  "text": "verifiable endpoints so that agents can"
+ },
+ {
+  "start": 1103.2,
+  "duration": 3.92,
+  "text": "do more work on their own. And where I"
+ },
+ {
+  "start": 1105.44,
+  "duration": 3.68,
+  "text": "think loops jump from just being an"
+ },
+ {
+  "start": 1107.12,
+  "duration": 3.679,
+  "text": "individual or team process to actually"
+ },
+ {
+  "start": 1109.12,
+  "duration": 3.76,
+  "text": "being the underpinning of a self-driving"
+ },
+ {
+  "start": 1110.799,
+  "duration": 4.961,
+  "text": "company is when they're given the access"
+ },
+ {
+  "start": 1112.88,
+  "duration": 5.12,
+  "text": "to the ongoing continuously updated flow"
+ },
+ {
+  "start": 1115.76,
+  "duration": 4.0,
+  "text": "of customer information that allows the"
+ },
+ {
+  "start": 1118.0,
+  "duration": 4.0,
+  "text": "goals of the loops to evolve in real"
+ },
+ {
+  "start": 1119.76,
+  "duration": 4.08,
+  "text": "time. This is why Amjad said that the"
+ },
+ {
+  "start": 1122.0,
+  "duration": 4.16,
+  "text": "most exciting self-driving example came"
+ },
+ {
+  "start": 1123.84,
+  "duration": 3.92,
+  "text": "from their AI team who built a continual"
+ },
+ {
+  "start": 1126.16,
+  "duration": 3.519,
+  "text": "learning system to analyze user"
+ },
+ {
+  "start": 1127.76,
+  "duration": 3.84,
+  "text": "feedback, propose improvements, and use"
+ },
+ {
+  "start": 1129.679,
+  "duration": 4.161,
+  "text": "a combination of benchmarks and AB tests"
+ },
+ {
+  "start": 1131.6,
+  "duration": 4.48,
+  "text": "to validate the wins. That I think is"
+ },
+ {
+  "start": 1133.84,
+  "duration": 4.64,
+  "text": "the best example of full self-driving as"
+ },
+ {
+  "start": 1136.08,
+  "duration": 4.16,
+  "text": "I imagine it from the entire article."
+ },
+ {
+  "start": 1138.48,
+  "duration": 3.68,
+  "text": "Now, outside of that full self-driving"
+ },
+ {
+  "start": 1140.24,
+  "duration": 3.439,
+  "text": "mode, it's clear that one of the other"
+ },
+ {
+  "start": 1142.16,
+  "duration": 3.28,
+  "text": "benefits to doing this and one of the"
+ },
+ {
+  "start": 1143.679,
+  "duration": 3.841,
+  "text": "reasons to perhaps dig into this if you"
+ },
+ {
+  "start": 1145.44,
+  "duration": 4.8,
+  "text": "are exploring it is the recognition of"
+ },
+ {
+  "start": 1147.52,
+  "duration": 4.159,
+  "text": "just how much every team's work is to"
+ },
+ {
+  "start": 1150.24,
+  "duration": 3.679,
+  "text": "greater or lesser extent being a"
+ },
+ {
+  "start": 1151.679,
+  "duration": 4.0,
+  "text": "bottleneck for other teams. Now, the"
+ },
+ {
+  "start": 1153.919,
+  "duration": 3.201,
+  "text": "classic example of this is all the"
+ },
+ {
+  "start": 1155.679,
+  "duration": 3.12,
+  "text": "non-engineering teams needing"
+ },
+ {
+  "start": 1157.12,
+  "duration": 3.36,
+  "text": "engineering to build something, but"
+ },
+ {
+  "start": 1158.799,
+  "duration": 3.841,
+  "text": "every team gets called on by every other"
+ },
+ {
+  "start": 1160.48,
+  "duration": 4.16,
+  "text": "team to ask for things or get access to"
+ },
+ {
+  "start": 1162.64,
+  "duration": 4.08,
+  "text": "updated information or get aligned with"
+ },
+ {
+  "start": 1164.64,
+  "duration": 4.08,
+  "text": "goals. And I think a big value of this"
+ },
+ {
+  "start": 1166.72,
+  "duration": 4.079,
+  "text": "sort of self-driving idea is to allow"
+ },
+ {
+  "start": 1168.72,
+  "duration": 3.6,
+  "text": "teams to stop being bottlenecks for one"
+ },
+ {
+  "start": 1170.799,
+  "duration": 3.12,
+  "text": "another by having a lot of that"
+ },
+ {
+  "start": 1172.32,
+  "duration": 4.08,
+  "text": "operational flow run through agents"
+ },
+ {
+  "start": 1173.919,
+  "duration": 4.321,
+  "text": "instead. Now, it is worth noting once"
+ },
+ {
+  "start": 1176.4,
+  "duration": 3.2,
+  "text": "again that Replet is in a unique"
+ },
+ {
+  "start": 1178.24,
+  "duration": 3.36,
+  "text": "position to be doing a lot of these"
+ },
+ {
+  "start": 1179.6,
+  "duration": 3.439,
+  "text": "experiments. Again, not only are they a"
+ },
+ {
+  "start": 1181.6,
+  "duration": 3.36,
+  "text": "software company, they're a software"
+ },
+ {
+  "start": 1183.039,
+  "duration": 4.0,
+  "text": "company that builds tools for building"
+ },
+ {
+  "start": 1184.96,
+  "duration": 4.64,
+  "text": "software. They are in the eye of this"
+ },
+ {
+  "start": 1187.039,
+  "duration": 4.64,
+  "text": "storm like no one else. But a lot of the"
+ },
+ {
+  "start": 1189.6,
+  "duration": 4.319,
+  "text": "solutions that they built for themselves"
+ },
+ {
+  "start": 1191.679,
+  "duration": 3.521,
+  "text": "are going to be productized. And by the"
+ },
+ {
+  "start": 1193.919,
+  "duration": 2.561,
+  "text": "way, I assume that a lot of them are"
+ },
+ {
+  "start": 1195.2,
+  "duration": 3.2,
+  "text": "going to be productized by Replet"
+ },
+ {
+  "start": 1196.48,
+  "duration": 3.12,
+  "text": "themselves. But still, I can see a lot"
+ },
+ {
+  "start": 1198.4,
+  "duration": 2.96,
+  "text": "of executives reading this and thinking"
+ },
+ {
+  "start": 1199.6,
+  "duration": 3.36,
+  "text": "to themselves, well, we don't have the"
+ },
+ {
+  "start": 1201.36,
+  "duration": 2.96,
+  "text": "engineering organization that could"
+ },
+ {
+  "start": 1202.96,
+  "duration": 3.12,
+  "text": "actually go build tools that could"
+ },
+ {
+  "start": 1204.32,
+  "duration": 3.28,
+  "text": "compete with SAS. But I don't think"
+ },
+ {
+  "start": 1206.08,
+  "duration": 3.04,
+  "text": "you're going to need to. And I think it"
+ },
+ {
+  "start": 1207.6,
+  "duration": 2.959,
+  "text": "would be a mistake to not at least"
+ },
+ {
+  "start": 1209.12,
+  "duration": 2.96,
+  "text": "explore thinking in this self-driving"
+ },
+ {
+  "start": 1210.559,
+  "duration": 3.201,
+  "text": "way because you don't think you have the"
+ },
+ {
+  "start": 1212.08,
+  "duration": 3.76,
+  "text": "engineering resources or wherewithal to"
+ },
+ {
+  "start": 1213.76,
+  "duration": 4.159,
+  "text": "do so. I think that to the extent that"
+ },
+ {
+  "start": 1215.84,
+  "duration": 4.0,
+  "text": "we find that the self-driving mode for"
+ },
+ {
+  "start": 1217.919,
+  "duration": 3.921,
+  "text": "companies actually produces these sort"
+ },
+ {
+  "start": 1219.84,
+  "duration": 3.68,
+  "text": "of gains across lots of different types"
+ },
+ {
+  "start": 1221.84,
+  "duration": 3.52,
+  "text": "of companies that there is such an"
+ },
+ {
+  "start": 1223.52,
+  "duration": 3.84,
+  "text": "incredible market incentive to"
+ },
+ {
+  "start": 1225.36,
+  "duration": 3.6,
+  "text": "productize parts of that process that"
+ },
+ {
+  "start": 1227.36,
+  "duration": 4.0,
+  "text": "you have to assume that over the next"
+ },
+ {
+  "start": 1228.96,
+  "duration": 4.0,
+  "text": "honestly 6 to 12 months all the pieces"
+ },
+ {
+  "start": 1231.36,
+  "duration": 3.439,
+  "text": "will find their way into some tool"
+ },
+ {
+  "start": 1232.96,
+  "duration": 3.839,
+  "text": "somewhere. In other words, I think you"
+ },
+ {
+  "start": 1234.799,
+  "duration": 3.921,
+  "text": "can assume that if you start to wander"
+ },
+ {
+  "start": 1236.799,
+  "duration": 3.281,
+  "text": "down this road, even if you have severe"
+ },
+ {
+  "start": 1238.72,
+  "duration": 3.36,
+  "text": "limitations in your engineering"
+ },
+ {
+  "start": 1240.08,
+  "duration": 4.4,
+  "text": "organization, there will be answers to"
+ },
+ {
+  "start": 1242.08,
+  "duration": 3.839,
+  "text": "those particular problems. Now, we"
+ },
+ {
+  "start": 1244.48,
+  "duration": 3.36,
+  "text": "started with a mindset takeaway. We're"
+ },
+ {
+  "start": 1245.919,
+  "duration": 3.521,
+  "text": "going to end with a mindset takeaway. I"
+ },
+ {
+  "start": 1247.84,
+  "duration": 3.12,
+  "text": "think ultimately this is all about"
+ },
+ {
+  "start": 1249.44,
+  "duration": 3.359,
+  "text": "changing our assumptions about what is"
+ },
+ {
+  "start": 1250.96,
+  "duration": 4.079,
+  "text": "possible. A lot of these things will"
+ },
+ {
+  "start": 1252.799,
+  "duration": 4.081,
+  "text": "look like increased lines of code and"
+ },
+ {
+  "start": 1255.039,
+  "duration": 3.681,
+  "text": "decreased timelines for new features,"
+ },
+ {
+  "start": 1256.88,
+  "duration": 3.52,
+  "text": "improved resolution rates on customer"
+ },
+ {
+  "start": 1258.72,
+  "duration": 3.52,
+  "text": "support and all of that, at least at the"
+ },
+ {
+  "start": 1260.4,
+  "duration": 4.08,
+  "text": "beginning. But if we can really set up"
+ },
+ {
+  "start": 1262.24,
+  "duration": 4.24,
+  "text": "looping systems, especially that"
+ },
+ {
+  "start": 1264.48,
+  "duration": 4.16,
+  "text": "interact with not only the inside of the"
+ },
+ {
+  "start": 1266.48,
+  "duration": 3.92,
+  "text": "company but outside the company as well,"
+ },
+ {
+  "start": 1268.64,
+  "duration": 3.84,
+  "text": "the rate at which companies can evolve"
+ },
+ {
+  "start": 1270.4,
+  "duration": 4.159,
+  "text": "and improve will be totally different a"
+ },
+ {
+  "start": 1272.48,
+  "duration": 3.76,
+  "text": "few years from now than it is today."
+ },
+ {
+  "start": 1274.559,
+  "duration": 3.681,
+  "text": "That is, yes, going to create all sorts"
+ },
+ {
+  "start": 1276.24,
+  "duration": 3.919,
+  "text": "of new challenges, but they pale in"
+ },
+ {
+  "start": 1278.24,
+  "duration": 3.12,
+  "text": "comparison to the opportunity. And I'll"
+ },
+ {
+  "start": 1280.159,
+  "duration": 3.041,
+  "text": "tell you what, if you are listening to"
+ },
+ {
+  "start": 1281.36,
+  "duration": 3.84,
+  "text": "this right now, you are in a unique"
+ },
+ {
+  "start": 1283.2,
+  "duration": 3.359,
+  "text": "position to be one of the people and one"
+ },
+ {
+  "start": 1285.2,
+  "duration": 2.88,
+  "text": "of the leaders and one of the companies"
+ },
+ {
+  "start": 1286.559,
+  "duration": 4.561,
+  "text": "that takes advantage of that before"
+ },
+ {
+  "start": 1288.08,
+  "duration": 4.479,
+  "text": "everyone else. So now, as we wrap up, go"
+ },
+ {
+  "start": 1291.12,
+  "duration": 3.2,
+  "text": "ask your agent to schedule a meeting"
+ },
+ {
+  "start": 1292.559,
+  "duration": 3.36,
+  "text": "with all of your top execs about what"
+ },
+ {
+  "start": 1294.32,
+  "duration": 3.12,
+  "text": "self-driving means in the context of"
+ },
+ {
+  "start": 1295.919,
+  "duration": 2.88,
+  "text": "your company, and then tell me what you"
+ },
+ {
+  "start": 1297.44,
+  "duration": 3.119,
+  "text": "figure out so I can do a follow-up to"
+ },
+ {
+  "start": 1298.799,
+  "duration": 3.441,
+  "text": "this episode. For now, that's going to"
+ },
+ {
+  "start": 1300.559,
+  "duration": 3.36,
+  "text": "do it for today's AI Daily Brief."
+ },
+ {
+  "start": 1302.24,
+  "duration": 5.679,
+  "text": "Appreciate you listening or watching as"
+ },
+ {
+  "start": 1303.919,
+  "duration": 4.0,
+  "text": "always. And until next time, peace."
+ }
+]

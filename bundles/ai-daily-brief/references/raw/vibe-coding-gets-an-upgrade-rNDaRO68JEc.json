@@ -1,0 +1,2062 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.48,
+  "text": "With new releases from Anthropic,"
+ },
+ {
+  "start": 2.04,
+  "duration": 4.12,
+  "text": "Lovable, and others, vibe coding is"
+ },
+ {
+  "start": 4.48,
+  "duration": 4.04,
+  "text": "getting an upgrade."
+ },
+ {
+  "start": 6.16,
+  "duration": 4.2,
+  "text": "Welcome back to the AI Daily Brief. Vibe"
+ },
+ {
+  "start": 8.52,
+  "duration": 3.8,
+  "text": "coding is one of those terms that was"
+ },
+ {
+  "start": 10.36,
+  "duration": 3.4,
+  "text": "extremely useful in drawing a hard line"
+ },
+ {
+  "start": 12.32,
+  "duration": 3.72,
+  "text": "in differentiation from what came"
+ },
+ {
+  "start": 13.76,
+  "duration": 4.8,
+  "text": "before, but which might ultimately have"
+ },
+ {
+  "start": 16.04,
+  "duration": 4.8,
+  "text": "a fairly short shelf life. It's been"
+ },
+ {
+  "start": 18.56,
+  "duration": 4.28,
+  "text": "just 14 months since the term was coined"
+ },
+ {
+  "start": 20.84,
+  "duration": 4.0,
+  "text": "by Andre Karpathy, and already many"
+ },
+ {
+  "start": 22.84,
+  "duration": 3.2,
+  "text": "people have moved on from it entirely."
+ },
+ {
+  "start": 24.84,
+  "duration": 2.92,
+  "text": "One of the reasons it doesn't quite fit"
+ },
+ {
+  "start": 26.04,
+  "duration": 3.92,
+  "text": "anymore is that the difference between"
+ },
+ {
+  "start": 27.76,
+  "duration": 3.8,
+  "text": "vibe coding and I don't know what you"
+ },
+ {
+  "start": 29.96,
+  "duration": 3.84,
+  "text": "want to call it, artisanal by hand"
+ },
+ {
+  "start": 31.56,
+  "duration": 3.52,
+  "text": "coding, have been increasingly obviated"
+ },
+ {
+  "start": 33.8,
+  "duration": 3.4,
+  "text": "by the way that the coding platforms"
+ },
+ {
+  "start": 35.08,
+  "duration": 4.36,
+  "text": "have evolved. In other words, there is"
+ },
+ {
+  "start": 37.2,
+  "duration": 4.08,
+  "text": "increasingly nothing but vibe coding."
+ },
+ {
+  "start": 39.44,
+  "duration": 3.68,
+  "text": "Now, as we will see, mostly a process of"
+ },
+ {
+  "start": 41.28,
+  "duration": 3.48,
+  "text": "multi-agent orchestration. The other"
+ },
+ {
+  "start": 43.12,
+  "duration": 3.4,
+  "text": "even more fundamental reason though that"
+ },
+ {
+  "start": 44.76,
+  "duration": 3.48,
+  "text": "the term is running into some challenge"
+ },
+ {
+  "start": 46.52,
+  "duration": 3.8,
+  "text": "is less about the vibe and more about"
+ },
+ {
+  "start": 48.24,
+  "duration": 4.44,
+  "text": "the coding. Does it make sense to even"
+ },
+ {
+  "start": 50.32,
+  "duration": 3.84,
+  "text": "identify the activity as coding when"
+ },
+ {
+  "start": 52.68,
+  "duration": 3.48,
+  "text": "coding is just the way that everyone"
+ },
+ {
+  "start": 54.16,
+  "duration": 3.2,
+  "text": "builds everything? Now, I'm starting"
+ },
+ {
+  "start": 56.16,
+  "duration": 2.92,
+  "text": "this conversation in the area of"
+ },
+ {
+  "start": 57.36,
+  "duration": 4.2,
+  "text": "linguistics, but where it's showing up"
+ },
+ {
+  "start": 59.08,
+  "duration": 3.8,
+  "text": "in practice is an extreme convergence in"
+ },
+ {
+  "start": 61.56,
+  "duration": 3.36,
+  "text": "the actual product suites through which"
+ },
+ {
+  "start": 62.88,
+  "duration": 3.36,
+  "text": "we interface with AI."
+ },
+ {
+  "start": 64.92,
+  "duration": 3.48,
+  "text": "A few days ago, we got the latest"
+ },
+ {
+  "start": 66.24,
+  "duration": 4.24,
+  "text": "theoretical leak out of Anthropic, and"
+ },
+ {
+  "start": 68.4,
+  "duration": 4.36,
+  "text": "it looked like it might be some sort of"
+ },
+ {
+  "start": 70.48,
+  "duration": 4.32,
+  "text": "full-stack vibe coding app along the"
+ },
+ {
+  "start": 72.76,
+  "duration": 4.04,
+  "text": "lines of Lovable. In addition to having"
+ },
+ {
+  "start": 74.8,
+  "duration": 3.64,
+  "text": "a very simple starting interface, it"
+ },
+ {
+  "start": 76.8,
+  "duration": 3.68,
+  "text": "also looked like it came with a set of"
+ },
+ {
+  "start": 78.44,
+  "duration": 3.56,
+  "text": "pre-built instructions for common tasks"
+ },
+ {
+  "start": 80.48,
+  "duration": 2.84,
+  "text": "like scanning for security risks,"
+ },
+ {
+  "start": 82.0,
+  "duration": 3.28,
+  "text": "exploring design directions, or"
+ },
+ {
+  "start": 83.32,
+  "duration": 3.48,
+  "text": "implementing dark mode. Now, no one has"
+ },
+ {
+  "start": 85.28,
+  "duration": 3.2,
+  "text": "confirmed this is real, but it didn't"
+ },
+ {
+  "start": 86.8,
+  "duration": 4.16,
+  "text": "particularly surprise anyone, and"
+ },
+ {
+  "start": 88.48,
+  "duration": 4.0,
+  "text": "Marmaduke91 can on Twitter sum up what"
+ },
+ {
+  "start": 90.96,
+  "duration": 4.44,
+  "text": "most people's feelings when they wrote,"
+ },
+ {
+  "start": 92.48,
+  "duration": 5.28,
+  "text": "\"Anthropic are coming after everything.\""
+ },
+ {
+  "start": 95.4,
+  "duration": 3.96,
+  "text": "Now, when Anthony Morris from Anthropic"
+ },
+ {
+  "start": 97.76,
+  "duration": 3.28,
+  "text": "teased that a new Claude Code desktop"
+ },
+ {
+  "start": 99.36,
+  "duration": 3.92,
+  "text": "version would be coming out this week,"
+ },
+ {
+  "start": 101.04,
+  "duration": 3.6,
+  "text": "Vibe Code's Riley Brown wrote, \"OpenAI"
+ },
+ {
+  "start": 103.28,
+  "duration": 3.04,
+  "text": "and Anthropic are racing to get their"
+ },
+ {
+  "start": 104.64,
+  "duration": 3.52,
+  "text": "version of Lovable out.\" Anthony"
+ },
+ {
+  "start": 106.32,
+  "duration": 3.52,
+  "text": "responded, \"My tweet has nothing to do"
+ },
+ {
+  "start": 108.16,
+  "duration": 3.92,
+  "text": "with Lovable though.\" Laugh-crying"
+ },
+ {
+  "start": 109.84,
+  "duration": 4.32,
+  "text": "emoji. And it turns out what Anthony was"
+ },
+ {
+  "start": 112.08,
+  "duration": 3.84,
+  "text": "talking about was a more general Claude"
+ },
+ {
+  "start": 114.16,
+  "duration": 4.0,
+  "text": "Code desktop update, which is what they"
+ },
+ {
+  "start": 115.92,
+  "duration": 4.16,
+  "text": "released yesterday. Anthropic's Felix"
+ },
+ {
+  "start": 118.16,
+  "duration": 3.6,
+  "text": "Riesberg wrote, \"Today is a big day."
+ },
+ {
+  "start": 120.08,
+  "duration": 3.28,
+  "text": "We're launching a new version of Claude"
+ },
+ {
+  "start": 121.76,
+  "duration": 2.84,
+  "text": "Code in the desktop app. It's been"
+ },
+ {
+  "start": 123.36,
+  "duration": 3.84,
+  "text": "redesigned from the ground up for"
+ },
+ {
+  "start": 124.6,
+  "duration": 4.04,
+  "text": "parallel work and is a lot faster.\""
+ },
+ {
+  "start": 127.2,
+  "duration": 3.4,
+  "text": "Now, in their announcement post,"
+ },
+ {
+  "start": 128.64,
+  "duration": 3.48,
+  "text": "Anthropic emphasized that the redesign"
+ },
+ {
+  "start": 130.6,
+  "duration": 3.48,
+  "text": "was focused on meeting developers where"
+ },
+ {
+  "start": 132.12,
+  "duration": 3.24,
+  "text": "they are, which, as they acknowledge, is"
+ },
+ {
+  "start": 134.08,
+  "duration": 4.0,
+  "text": "a completely different place from where"
+ },
+ {
+  "start": 135.36,
+  "duration": 4.36,
+  "text": "they were 6 months ago. They write, \"For"
+ },
+ {
+  "start": 138.08,
+  "duration": 3.6,
+  "text": "many developers, the shape of agentic"
+ },
+ {
+  "start": 139.72,
+  "duration": 3.72,
+  "text": "work has changed. You're not typing one"
+ },
+ {
+  "start": 141.68,
+  "duration": 3.6,
+  "text": "prompt and waiting. You're kicking off a"
+ },
+ {
+  "start": 143.44,
+  "duration": 3.48,
+  "text": "refactor in one repo, a bug fix in"
+ },
+ {
+  "start": 145.28,
+  "duration": 3.68,
+  "text": "another, and a test-writing pass in a"
+ },
+ {
+  "start": 146.92,
+  "duration": 3.88,
+  "text": "third, checking on each as results come"
+ },
+ {
+  "start": 148.96,
+  "duration": 3.84,
+  "text": "in, steering when something drifts, and"
+ },
+ {
+  "start": 150.8,
+  "duration": 3.64,
+  "text": "reviewing diffs before you ship. The new"
+ },
+ {
+  "start": 152.8,
+  "duration": 3.68,
+  "text": "app is built for how agentic coding"
+ },
+ {
+  "start": 154.44,
+  "duration": 3.36,
+  "text": "actually feels now. Many things in"
+ },
+ {
+  "start": 156.48,
+  "duration": 4.2,
+  "text": "flight and you in the orchestrator"
+ },
+ {
+  "start": 157.8,
+  "duration": 4.8,
+  "text": "seat.\" And indeed, in a lot of ways, the"
+ },
+ {
+  "start": 160.68,
+  "duration": 4.24,
+  "text": "concept that runs through this is"
+ },
+ {
+  "start": 162.6,
+  "duration": 4.0,
+  "text": "shifting the interface for a world in"
+ },
+ {
+  "start": 164.92,
+  "duration": 4.0,
+  "text": "which development is orchestrating"
+ },
+ {
+  "start": 166.6,
+  "duration": 3.88,
+  "text": "multiple agents. This takes steps to"
+ },
+ {
+  "start": 168.92,
+  "duration": 3.6,
+  "text": "make the Claude Code section of the"
+ },
+ {
+  "start": 170.48,
+  "duration": 3.88,
+  "text": "Claude desktop app into an agent"
+ },
+ {
+  "start": 172.52,
+  "duration": 3.48,
+  "text": "orchestration command center. Some of"
+ },
+ {
+  "start": 174.36,
+  "duration": 3.32,
+  "text": "the features they point to include a new"
+ },
+ {
+  "start": 176.0,
+  "duration": 3.64,
+  "text": "sidebar for managing multiple sessions"
+ },
+ {
+  "start": 177.68,
+  "duration": 3.76,
+  "text": "at the same time, an integrated terminal"
+ },
+ {
+  "start": 179.64,
+  "duration": 3.36,
+  "text": "and file editor, plus the ability to"
+ },
+ {
+  "start": 181.44,
+  "duration": 3.52,
+  "text": "drag and drop to customize and arrange"
+ },
+ {
+  "start": 183.0,
+  "duration": 3.72,
+  "text": "your workspace. It certainly seems like"
+ },
+ {
+  "start": 184.96,
+  "duration": 4.08,
+  "text": "one of the big focuses is the ability to"
+ },
+ {
+  "start": 186.72,
+  "duration": 4.0,
+  "text": "run multiple sessions at the same time."
+ },
+ {
+  "start": 189.04,
+  "duration": 3.84,
+  "text": "They write, \"The new sidebar puts every"
+ },
+ {
+  "start": 190.72,
+  "duration": 3.68,
+  "text": "active and recent session in one place."
+ },
+ {
+  "start": 192.88,
+  "duration": 3.0,
+  "text": "You can kick off work across multiple"
+ },
+ {
+  "start": 194.4,
+  "duration": 3.2,
+  "text": "repos and move between them as results"
+ },
+ {
+  "start": 195.88,
+  "duration": 3.08,
+  "text": "arrive. You can filter by status,"
+ },
+ {
+  "start": 197.6,
+  "duration": 3.04,
+  "text": "project, or environment, or group the"
+ },
+ {
+  "start": 198.96,
+  "duration": 3.72,
+  "text": "sidebar by project to find and resume"
+ },
+ {
+  "start": 200.64,
+  "duration": 3.32,
+  "text": "sessions faster.\" The first reports from"
+ },
+ {
+  "start": 202.68,
+  "duration": 2.52,
+  "text": "the Anthropic team suggest that they've"
+ },
+ {
+  "start": 203.96,
+  "duration": 3.56,
+  "text": "been shifting behavior to this new"
+ },
+ {
+  "start": 205.2,
+  "duration": 4.0,
+  "text": "interface. Claude Code co-creator Kat Wu"
+ },
+ {
+  "start": 207.52,
+  "duration": 3.32,
+  "text": "writes, \"Over the past few weeks, I've"
+ },
+ {
+  "start": 209.2,
+  "duration": 3.48,
+  "text": "become a daily user of Claude Code on"
+ },
+ {
+  "start": 210.84,
+  "duration": 3.6,
+  "text": "desktop. It's the best way to kick off"
+ },
+ {
+  "start": 212.68,
+  "duration": 3.76,
+  "text": "and manage multiple CC sessions across"
+ },
+ {
+  "start": 214.44,
+  "duration": 3.68,
+  "text": "local and cloud in one place.\" Developer"
+ },
+ {
+  "start": 216.44,
+  "duration": 3.24,
+  "text": "Daniel Sun, who had early access,"
+ },
+ {
+  "start": 218.12,
+  "duration": 3.2,
+  "text": "pointed to the ability to run agents"
+ },
+ {
+  "start": 219.68,
+  "duration": 3.6,
+  "text": "simultaneously as one of the things that"
+ },
+ {
+  "start": 221.32,
+  "duration": 3.52,
+  "text": "he likes most about the new version. He"
+ },
+ {
+  "start": 223.28,
+  "duration": 3.52,
+  "text": "writes, \"The interface is much more"
+ },
+ {
+  "start": 224.84,
+  "duration": 3.6,
+  "text": "tailored to a dev-oriented design,"
+ },
+ {
+  "start": 226.8,
+  "duration": 3.96,
+  "text": "smaller inputs, and more focus on agent"
+ },
+ {
+  "start": 228.44,
+  "duration": 4.0,
+  "text": "execution and development tools.\" Goyal"
+ },
+ {
+  "start": 230.76,
+  "duration": 3.04,
+  "text": "pointed out, \"I think it'll be great to"
+ },
+ {
+  "start": 232.44,
+  "duration": 3.24,
+  "text": "have multiple sessions be able to share"
+ },
+ {
+  "start": 233.8,
+  "duration": 3.52,
+  "text": "context for the same feature. I saw"
+ },
+ {
+  "start": 235.68,
+  "duration": 3.16,
+  "text": "Cursor already start to do that, and I'm"
+ },
+ {
+  "start": 237.32,
+  "duration": 3.48,
+  "text": "excited for all the labs to figure this"
+ },
+ {
+  "start": 238.84,
+  "duration": 3.84,
+  "text": "out.\" And indeed, this is certainly one"
+ },
+ {
+  "start": 240.8,
+  "duration": 2.92,
+  "text": "of the big takeaways. You might remember"
+ },
+ {
+  "start": 242.68,
+  "duration": 3.24,
+  "text": "that at the beginning of the month,"
+ },
+ {
+  "start": 243.72,
+  "duration": 4.16,
+  "text": "Cursor 3 gave developers the option to"
+ },
+ {
+  "start": 245.92,
+  "duration": 3.96,
+  "text": "switch to a similar interface, and for"
+ },
+ {
+  "start": 247.88,
+  "duration": 3.96,
+  "text": "some, the convergence is clear. Riley"
+ },
+ {
+  "start": 249.88,
+  "duration": 3.96,
+  "text": "Brown again writes, \"Cursor, Codex, and"
+ },
+ {
+  "start": 251.84,
+  "duration": 4.0,
+  "text": "Claude Code desktop app look exactly the"
+ },
+ {
+  "start": 253.84,
+  "duration": 3.92,
+  "text": "same now.\" Now, we'll have to see if"
+ },
+ {
+  "start": 255.84,
+  "duration": 3.8,
+  "text": "that persists, because when Anthony"
+ },
+ {
+  "start": 257.76,
+  "duration": 3.36,
+  "text": "Morris from Anthropic sent that tweet"
+ },
+ {
+  "start": 259.64,
+  "duration": 3.4,
+  "text": "about the Claude Code new desktop"
+ },
+ {
+  "start": 261.12,
+  "duration": 3.36,
+  "text": "version, Andrew Ambrosino, who is a"
+ },
+ {
+  "start": 263.04,
+  "duration": 3.72,
+  "text": "member of technical staff working on"
+ },
+ {
+  "start": 264.48,
+  "duration": 3.52,
+  "text": "Codex at OpenAI, replied, \"Same.\""
+ },
+ {
+  "start": 266.76,
+  "duration": 2.84,
+  "text": "Meaning, I think that we can probably"
+ },
+ {
+  "start": 268.0,
+  "duration": 3.68,
+  "text": "expect some at least small updates to"
+ },
+ {
+  "start": 269.6,
+  "duration": 3.4,
+  "text": "Codex coming this week. Now, not"
+ },
+ {
+  "start": 271.68,
+  "duration": 3.2,
+  "text": "everyone's first impression of the new"
+ },
+ {
+  "start": 273.0,
+  "duration": 3.64,
+  "text": "Claude desktop app was perfect. Theo"
+ },
+ {
+  "start": 274.88,
+  "duration": 3.6,
+  "text": "wrote that it froze on his first prompt,"
+ },
+ {
+  "start": 276.64,
+  "duration": 3.8,
+  "text": "and I will admit it also completely"
+ },
+ {
+  "start": 278.48,
+  "duration": 3.64,
+  "text": "imploded on a project that I was doing"
+ },
+ {
+  "start": 280.44,
+  "duration": 2.88,
+  "text": "where I had to go basically delete all"
+ },
+ {
+  "start": 282.12,
+  "duration": 3.6,
+  "text": "the work that it had done and start"
+ },
+ {
+  "start": 283.32,
+  "duration": 4.0,
+  "text": "fresh. Still, the biggest complaint, and"
+ },
+ {
+  "start": 285.72,
+  "duration": 3.8,
+  "text": "something that you increasingly see"
+ },
+ {
+  "start": 287.32,
+  "duration": 3.96,
+  "text": "around every post from Anthropic,"
+ },
+ {
+  "start": 289.52,
+  "duration": 4.32,
+  "text": "continues to be about usage limits and"
+ },
+ {
+  "start": 291.28,
+  "duration": 4.6,
+  "text": "throttling. ControlAltDwayne wrote, \"Run"
+ },
+ {
+  "start": 293.84,
+  "duration": 3.52,
+  "text": "multiple Claude sessions in this economy"
+ },
+ {
+  "start": 295.88,
+  "duration": 3.6,
+  "text": "with these highly restricted usage"
+ },
+ {
+  "start": 297.36,
+  "duration": 4.48,
+  "text": "limits? It's nice in theory, but people"
+ },
+ {
+  "start": 299.48,
+  "duration": 3.6,
+  "text": "can barely run one session with Opus 4.6"
+ },
+ {
+  "start": 301.84,
+  "duration": 2.84,
+  "text": "without chewing through usage, and"
+ },
+ {
+  "start": 303.08,
+  "duration": 3.84,
+  "text": "they're saying you can run multiple. Did"
+ },
+ {
+  "start": 304.68,
+  "duration": 3.44,
+  "text": "they increase usage limits?\" GramVIP"
+ },
+ {
+  "start": 306.92,
+  "duration": 2.76,
+  "text": "responded to the Claude announcement"
+ },
+ {
+  "start": 308.12,
+  "duration": 3.6,
+  "text": "post and wrote, \"Allow me to fix your"
+ },
+ {
+  "start": 309.68,
+  "duration": 3.76,
+  "text": "post. You can now run multiple Claude"
+ },
+ {
+  "start": 311.72,
+  "duration": 2.88,
+  "text": "sessions side by side for around 5"
+ },
+ {
+  "start": 313.44,
+  "duration": 3.28,
+  "text": "minutes before we lock you out and"
+ },
+ {
+  "start": 314.6,
+  "duration": 4.08,
+  "text": "demand another 200 USD off you.\" I"
+ },
+ {
+  "start": 316.72,
+  "duration": 3.4,
+  "text": "think, unfortunately for Anthropic, this"
+ },
+ {
+  "start": 318.68,
+  "duration": 2.52,
+  "text": "is the big new PR battle, at least"
+ },
+ {
+  "start": 320.12,
+  "duration": 2.88,
+  "text": "internally, that they're going to have"
+ },
+ {
+  "start": 321.2,
+  "duration": 3.76,
+  "text": "to deal with. Now, there was one other"
+ },
+ {
+  "start": 323.0,
+  "duration": 3.92,
+  "text": "Claude Code update yesterday as well."
+ },
+ {
+  "start": 324.96,
+  "duration": 3.96,
+  "text": "Anthropic's Noa Weiman tweets, \"Claude"
+ },
+ {
+  "start": 326.92,
+  "duration": 3.8,
+  "text": "Code routines are here. In addition to a"
+ },
+ {
+  "start": 328.92,
+  "duration": 4.16,
+  "text": "schedule, you can now trigger templated"
+ },
+ {
+  "start": 330.72,
+  "duration": 4.72,
+  "text": "agents via GitHub event or API with our"
+ },
+ {
+  "start": 333.08,
+  "duration": 4.04,
+  "text": "infrastructure and your MCP and repos."
+ },
+ {
+  "start": 335.44,
+  "duration": 3.36,
+  "text": "They've changed how we do docs, backlog"
+ },
+ {
+  "start": 337.12,
+  "duration": 4.16,
+  "text": "maintenance, and more internally at"
+ },
+ {
+  "start": 338.8,
+  "duration": 4.32,
+  "text": "Anthropic.\" So, routines basically are"
+ },
+ {
+  "start": 341.28,
+  "duration": 3.36,
+  "text": "the next extension of the scheduled"
+ },
+ {
+  "start": 343.12,
+  "duration": 3.52,
+  "text": "tasks feature, which came a few weeks"
+ },
+ {
+  "start": 344.64,
+  "duration": 4.36,
+  "text": "ago. Rather than triggering at a certain"
+ },
+ {
+  "start": 346.64,
+  "duration": 4.64,
+  "text": "time or day, routines allow tasks to be"
+ },
+ {
+  "start": 349.0,
+  "duration": 4.36,
+  "text": "triggered via GitHub event or API. In"
+ },
+ {
+  "start": 351.28,
+  "duration": 4.44,
+  "text": "their docs, Anthropic wrote, \"A routine"
+ },
+ {
+  "start": 353.36,
+  "duration": 4.24,
+  "text": "is a saved Claude Code configuration, a"
+ },
+ {
+  "start": 355.72,
+  "duration": 4.16,
+  "text": "prompt, one or more repositories, and a"
+ },
+ {
+  "start": 357.6,
+  "duration": 4.16,
+  "text": "set of connectors packaged once and run"
+ },
+ {
+  "start": 359.88,
+  "duration": 3.56,
+  "text": "automatically. Routines execute on"
+ },
+ {
+  "start": 361.76,
+  "duration": 3.48,
+  "text": "Anthropic-managed cloud infrastructure,"
+ },
+ {
+  "start": 363.44,
+  "duration": 4.12,
+  "text": "so they keep working when your laptop is"
+ },
+ {
+  "start": 365.24,
+  "duration": 4.08,
+  "text": "closed.\" The Register described routines"
+ },
+ {
+  "start": 367.56,
+  "duration": 4.0,
+  "text": "as a dynamic cron job or a"
+ },
+ {
+  "start": 369.32,
+  "duration": 3.32,
+  "text": "trigger-driven short-lived event."
+ },
+ {
+  "start": 371.56,
+  "duration": 2.8,
+  "text": "Now, when you sit back and think about"
+ },
+ {
+  "start": 372.64,
+  "duration": 3.88,
+  "text": "this, this seems like a big unlock for a"
+ },
+ {
+  "start": 374.36,
+  "duration": 3.52,
+  "text": "number of different use cases. Rather"
+ },
+ {
+  "start": 376.52,
+  "duration": 2.84,
+  "text": "than requiring you to keep Claude"
+ },
+ {
+  "start": 377.88,
+  "duration": 3.68,
+  "text": "running at all times, you can now"
+ },
+ {
+  "start": 379.36,
+  "duration": 4.08,
+  "text": "offload complex and dynamic tasks onto"
+ },
+ {
+  "start": 381.56,
+  "duration": 3.28,
+  "text": "Anthropic's architecture. Now, on the"
+ },
+ {
+  "start": 383.44,
+  "duration": 3.64,
+  "text": "one hand, each of these individual"
+ },
+ {
+  "start": 384.84,
+  "duration": 3.36,
+  "text": "updates is small on its own, but in net,"
+ },
+ {
+  "start": 387.08,
+  "duration": 2.76,
+  "text": "you can see the path where they're"
+ },
+ {
+  "start": 388.2,
+  "duration": 3.4,
+  "text": "going, where Claude Code is basically"
+ },
+ {
+  "start": 389.84,
+  "duration": 3.64,
+  "text": "building out any possible variation of"
+ },
+ {
+  "start": 391.6,
+  "duration": 2.92,
+  "text": "triggering an event to complete a task,"
+ },
+ {
+  "start": 393.48,
+  "duration": 3.16,
+  "text": "with this addressing one of the big"
+ },
+ {
+  "start": 394.52,
+  "duration": 4.12,
+  "text": "remaining limitations. Greg Eisenberg"
+ },
+ {
+  "start": 396.64,
+  "duration": 3.28,
+  "text": "from the Startup Ideas Pod, as he is"
+ },
+ {
+  "start": 398.64,
+  "duration": 2.6,
+  "text": "wont to do, immediately thought about"
+ },
+ {
+  "start": 399.92,
+  "duration": 3.44,
+  "text": "how this could turn into new startup"
+ },
+ {
+  "start": 401.24,
+  "duration": 3.32,
+  "text": "opportunities. He writes, \"The model is"
+ },
+ {
+  "start": 403.36,
+  "duration": 2.64,
+  "text": "the commodity, the trigger is the"
+ },
+ {
+  "start": 404.56,
+  "duration": 3.0,
+  "text": "product, and whoever maps the most"
+ },
+ {
+  "start": 406.0,
+  "duration": 3.0,
+  "text": "valuable real-world events to the most"
+ },
+ {
+  "start": 407.56,
+  "duration": 3.2,
+  "text": "specific industry workflows is going to"
+ },
+ {
+  "start": 409.0,
+  "duration": 3.76,
+  "text": "build something massive. Here's what I"
+ },
+ {
+  "start": 410.76,
+  "duration": 4.12,
+  "text": "mean by trigger. A permit gets filed, a"
+ },
+ {
+  "start": 412.76,
+  "duration": 3.84,
+  "text": "customer's usage drops 40% in a week, a"
+ },
+ {
+  "start": 414.88,
+  "duration": 3.4,
+  "text": "competitor launches a feature, a deal"
+ },
+ {
+  "start": 416.6,
+  "duration": 4.16,
+  "text": "sits in your pipeline untouched for 14"
+ },
+ {
+  "start": 418.28,
+  "duration": 3.92,
+  "text": "days. Some public, some inside your own"
+ },
+ {
+  "start": 420.76,
+  "duration": 2.96,
+  "text": "tools, and every single one is a moment"
+ },
+ {
+  "start": 422.2,
+  "duration": 3.04,
+  "text": "where an AI agent can step in and do"
+ },
+ {
+  "start": 423.72,
+  "duration": 3.96,
+  "text": "something valuable before a human gets"
+ },
+ {
+  "start": 425.24,
+  "duration": 3.84,
+  "text": "around to it. The playbook is like this."
+ },
+ {
+  "start": 427.68,
+  "duration": 3.6,
+  "text": "Map every trigger that matters in one"
+ },
+ {
+  "start": 429.08,
+  "duration": 4.16,
+  "text": "industry, wire an AI agent to do each"
+ },
+ {
+  "start": 431.28,
+  "duration": 3.6,
+  "text": "one, sell the outcome. The person who"
+ },
+ {
+  "start": 433.24,
+  "duration": 3.12,
+  "text": "shows up first with exactly what someone"
+ },
+ {
+  "start": 434.88,
+  "duration": 3.28,
+  "text": "needs at exactly the right moment wins"
+ },
+ {
+  "start": 436.36,
+  "duration": 3.56,
+  "text": "the deal every time, and the people who"
+ },
+ {
+  "start": 438.16,
+  "duration": 3.16,
+  "text": "go embarrassingly deep on one industry's"
+ },
+ {
+  "start": 439.92,
+  "duration": 3.6,
+  "text": "trigger map are going to build"
+ },
+ {
+  "start": 441.32,
+  "duration": 3.88,
+  "text": "generational companies.\" To Greg, it is"
+ },
+ {
+  "start": 443.52,
+  "duration": 3.08,
+  "text": "one more indication of why this is, in"
+ },
+ {
+  "start": 445.2,
+  "duration": 3.88,
+  "text": "his words, the greatest time to be"
+ },
+ {
+  "start": 446.6,
+  "duration": 4.44,
+  "text": "starting a company. Now, while we didn't"
+ },
+ {
+  "start": 449.08,
+  "duration": 4.24,
+  "text": "get Anthropic's full-throated Lovable"
+ },
+ {
+  "start": 451.04,
+  "duration": 3.4,
+  "text": "vibe coding experience, we did get a"
+ },
+ {
+  "start": 453.32,
+  "duration": 3.0,
+  "text": "bunch of updates from Lovable"
+ },
+ {
+  "start": 454.44,
+  "duration": 3.72,
+  "text": "themselves. First of all, the company"
+ },
+ {
+  "start": 456.32,
+  "duration": 4.16,
+  "text": "has launched a new desktop app, which"
+ },
+ {
+  "start": 458.16,
+  "duration": 3.8,
+  "text": "allows users to access local MCPs, keep"
+ },
+ {
+  "start": 460.48,
+  "duration": 3.6,
+  "text": "track of multiple projects, and use"
+ },
+ {
+  "start": 461.96,
+  "duration": 3.96,
+  "text": "native keyboard shortcuts. Still, maybe"
+ },
+ {
+  "start": 464.08,
+  "duration": 3.52,
+  "text": "the bigger update from Lovable came a"
+ },
+ {
+  "start": 465.92,
+  "duration": 3.64,
+  "text": "couple of days ago and was the native"
+ },
+ {
+  "start": 467.6,
+  "duration": 3.36,
+  "text": "introduction of payments. Users can"
+ },
+ {
+  "start": 469.56,
+  "duration": 2.84,
+  "text": "describe what they want to sell and how"
+ },
+ {
+  "start": 470.96,
+  "duration": 2.96,
+  "text": "they want the payments function to work"
+ },
+ {
+  "start": 472.4,
+  "duration": 3.96,
+  "text": "in natural language, and the AI agent"
+ },
+ {
+  "start": 473.92,
+  "duration": 3.84,
+  "text": "will do the rest. Linear COO Kristina"
+ },
+ {
+  "start": 476.36,
+  "duration": 3.72,
+  "text": "Cordova writes, \"You know what you're"
+ },
+ {
+  "start": 477.76,
+  "duration": 4.0,
+  "text": "not vibe coding? PCI level one."
+ },
+ {
+  "start": 480.08,
+  "duration": 3.36,
+  "text": "Partnerships with several acquirers per"
+ },
+ {
+  "start": 481.76,
+  "duration": 3.84,
+  "text": "country all over the world, global tax"
+ },
+ {
+  "start": 483.44,
+  "duration": 3.92,
+  "text": "compliance, and the list goes on.\" The"
+ },
+ {
+  "start": 485.6,
+  "duration": 3.76,
+  "text": "argument is basically that this is one"
+ },
+ {
+  "start": 487.36,
+  "duration": 3.56,
+  "text": "of those key areas that just needs to be"
+ },
+ {
+  "start": 489.36,
+  "duration": 3.2,
+  "text": "built in for people to unlock the full"
+ },
+ {
+  "start": 490.92,
+  "duration": 4.08,
+  "text": "value of vibe coding platforms for"
+ },
+ {
+  "start": 492.56,
+  "duration": 4.28,
+  "text": "business. Indeed, as Lovable CEO Antoine"
+ },
+ {
+  "start": 495.0,
+  "duration": 4.12,
+  "text": "Osika writes, \"It's never been easier to"
+ },
+ {
+  "start": 496.84,
+  "duration": 3.68,
+  "text": "go from product to an actual business.\""
+ },
+ {
+  "start": 499.12,
+  "duration": 2.96,
+  "text": "In other parts of the market, we saw"
+ },
+ {
+  "start": 500.52,
+  "duration": 3.48,
+  "text": "vibe-related updates in other parts of"
+ },
+ {
+  "start": 502.08,
+  "duration": 3.48,
+  "text": "the market as well. A small one from"
+ },
+ {
+  "start": 504.0,
+  "duration": 3.56,
+  "text": "Google. The company launched a new"
+ },
+ {
+  "start": 505.56,
+  "duration": 4.08,
+  "text": "design preview in AI Studio's vibe"
+ },
+ {
+  "start": 507.56,
+  "duration": 3.72,
+  "text": "coding experience. Logan Kilpatrick"
+ },
+ {
+  "start": 509.64,
+  "duration": 3.36,
+  "text": "writes, \"Now, while you wait for an app"
+ },
+ {
+  "start": 511.28,
+  "duration": 3.08,
+  "text": "to be built, Gemini will create custom"
+ },
+ {
+  "start": 513.0,
+  "duration": 2.919,
+  "text": "themes you can easily choose from in"
+ },
+ {
+  "start": 514.36,
+  "duration": 2.84,
+  "text": "seconds.\" To me, it looks like a bit of"
+ },
+ {
+  "start": 515.919,
+  "duration": 2.881,
+  "text": "an integration with what you can do in"
+ },
+ {
+  "start": 517.2,
+  "duration": 3.6,
+  "text": "their dedicated Stitch app, but brought"
+ },
+ {
+  "start": 518.8,
+  "duration": 3.119,
+  "text": "into the Google AI Studio experience,"
+ },
+ {
+  "start": 520.8,
+  "duration": 2.48,
+  "text": "which is kind of the pattern that we've"
+ },
+ {
+  "start": 521.919,
+  "duration": 2.721,
+  "text": "been seeing with Google, where they're"
+ },
+ {
+  "start": 523.28,
+  "duration": 2.88,
+  "text": "both developing key products and"
+ },
+ {
+  "start": 524.64,
+  "duration": 3.04,
+  "text": "features in their own experiences, but"
+ },
+ {
+  "start": 526.16,
+  "duration": 3.76,
+  "text": "then also working to integrate them more"
+ },
+ {
+  "start": 527.68,
+  "duration": 4.4,
+  "text": "seamlessly. Google also announced a new"
+ },
+ {
+  "start": 529.92,
+  "duration": 3.92,
+  "text": "feature called Skills in Chrome. It"
+ },
+ {
+  "start": 532.08,
+  "duration": 3.4,
+  "text": "allows users to save and reuse AI"
+ },
+ {
+  "start": 533.84,
+  "duration": 3.8,
+  "text": "prompts when using the Gemini assistant"
+ },
+ {
+  "start": 535.48,
+  "duration": 3.72,
+  "text": "in the Chrome browser. Users can choose"
+ },
+ {
+  "start": 537.64,
+  "duration": 3.32,
+  "text": "from a skills library or build their own"
+ },
+ {
+  "start": 539.2,
+  "duration": 3.36,
+  "text": "skills with Gemini's help, and while the"
+ },
+ {
+  "start": 540.96,
+  "duration": 3.48,
+  "text": "name is the same, the feature is closer"
+ },
+ {
+  "start": 542.56,
+  "duration": 3.68,
+  "text": "to a prompt library than the full skills"
+ },
+ {
+  "start": 544.44,
+  "duration": 3.92,
+  "text": "file system implemented by Anthropic and"
+ },
+ {
+  "start": 546.24,
+  "duration": 3.72,
+  "text": "OpenAI. Still, it is spiritually in the"
+ },
+ {
+  "start": 548.36,
+  "duration": 3.36,
+  "text": "same domain, if focused on a slightly"
+ },
+ {
+  "start": 549.96,
+  "duration": 3.4,
+  "text": "different audience. Google says the"
+ },
+ {
+  "start": 551.72,
+  "duration": 3.36,
+  "text": "feature allows users to build one-click"
+ },
+ {
+  "start": 553.36,
+  "duration": 3.4,
+  "text": "workflows for frequent tasks and gave"
+ },
+ {
+  "start": 555.08,
+  "duration": 3.6,
+  "text": "the example of calculating nutrition"
+ },
+ {
+  "start": 556.76,
+  "duration": 3.68,
+  "text": "stats for a recipe, comparison shopping,"
+ },
+ {
+  "start": 558.68,
+  "duration": 3.12,
+  "text": "or summarizing documents. Now,"
+ },
+ {
+  "start": 560.44,
+  "duration": 2.8,
+  "text": "interestingly, when it comes to some of"
+ },
+ {
+  "start": 561.8,
+  "duration": 3.32,
+  "text": "these bigger themes of how the way that"
+ },
+ {
+  "start": 563.24,
+  "duration": 3.32,
+  "text": "people interact with AI is changing,"
+ },
+ {
+  "start": 565.12,
+  "duration": 3.52,
+  "text": "this came up in a recent interview with"
+ },
+ {
+  "start": 566.56,
+  "duration": 2.92,
+  "text": "Google CEO Sundar Pichai, and it sounds"
+ },
+ {
+  "start": 568.64,
+  "duration": 2.44,
+  "text": "like they're thinking about the"
+ },
+ {
+  "start": 569.48,
+  "duration": 2.92,
+  "text": "implications not just for their AI"
+ },
+ {
+  "start": 571.08,
+  "duration": 3.56,
+  "text": "tools, but for all of their core"
+ },
+ {
+  "start": 572.4,
+  "duration": 4.48,
+  "text": "experiences. In that interview, Pichai"
+ },
+ {
+  "start": 574.64,
+  "duration": 3.8,
+  "text": "said, \"If I fast-forward, a lot of what"
+ },
+ {
+  "start": 576.88,
+  "duration": 3.36,
+  "text": "are just information-seeking queries"
+ },
+ {
+  "start": 578.44,
+  "duration": 3.2,
+  "text": "will be agentic search. You'll be"
+ },
+ {
+  "start": 580.24,
+  "duration": 3.28,
+  "text": "completing tasks, you'll have many"
+ },
+ {
+  "start": 581.64,
+  "duration": 3.28,
+  "text": "threads running.\" When asked then if"
+ },
+ {
+  "start": 583.52,
+  "duration": 3.68,
+  "text": "traditional search will still exist in"
+ },
+ {
+  "start": 584.92,
+  "duration": 5.08,
+  "text": "10 years, he said, \"It keeps evolving."
+ },
+ {
+  "start": 587.2,
+  "duration": 5.0,
+  "text": "Search would be an agent manager.\""
+ },
+ {
+  "start": 590.0,
+  "duration": 3.72,
+  "text": "Over in Microsoft land, we continue to"
+ },
+ {
+  "start": 592.2,
+  "duration": 3.6,
+  "text": "hear about how the company is looking to"
+ },
+ {
+  "start": 593.72,
+  "duration": 3.4,
+  "text": "Claude-ify Copilot. The information"
+ },
+ {
+  "start": 595.8,
+  "duration": 3.4,
+  "text": "reports that Microsoft is testing"
+ },
+ {
+  "start": 597.12,
+  "duration": 4.12,
+  "text": "features inspired by open claw with a"
+ },
+ {
+  "start": 599.2,
+  "duration": 3.56,
+  "text": "statement from corporate VP Omar Shahine"
+ },
+ {
+  "start": 601.24,
+  "duration": 2.88,
+  "text": "saying that a newly created team is"
+ },
+ {
+  "start": 602.76,
+  "duration": 2.8,
+  "text": "quote exploring the potential of"
+ },
+ {
+  "start": 604.12,
+  "duration": 3.4,
+  "text": "technologies like open claw in an"
+ },
+ {
+  "start": 605.56,
+  "duration": 3.28,
+  "text": "enterprise context. A number of folks"
+ },
+ {
+  "start": 607.52,
+  "duration": 3.4,
+  "text": "picked this up a couple of weeks ago"
+ },
+ {
+  "start": 608.84,
+  "duration": 4.12,
+  "text": "when Omar announced his new role with"
+ },
+ {
+  "start": 610.92,
+  "duration": 4.0,
+  "text": "Swix from latent space writing, wow,"
+ },
+ {
+  "start": 612.96,
+  "duration": 4.52,
+  "text": "Microsoft just appointed a corporate VP"
+ },
+ {
+  "start": 614.92,
+  "duration": 3.92,
+  "text": "whose entire job is open claw. Now of"
+ },
+ {
+  "start": 617.48,
+  "duration": 3.28,
+  "text": "course one of the big challenges for"
+ },
+ {
+  "start": 618.84,
+  "duration": 3.68,
+  "text": "open claw is the issue surrounding"
+ },
+ {
+  "start": 620.76,
+  "duration": 2.92,
+  "text": "enterprise usage of it. As you've heard"
+ },
+ {
+  "start": 622.52,
+  "duration": 3.2,
+  "text": "we've been running the enterprise claw"
+ },
+ {
+  "start": 623.68,
+  "duration": 3.32,
+  "text": "program and part of that program is"
+ },
+ {
+  "start": 625.72,
+  "duration": 2.72,
+  "text": "actually giving people general"
+ },
+ {
+  "start": 627.0,
+  "duration": 3.08,
+  "text": "alternatives and helping them understand"
+ },
+ {
+  "start": 628.44,
+  "duration": 3.76,
+  "text": "the security risks, but there are some"
+ },
+ {
+  "start": 630.08,
+  "duration": 3.88,
+  "text": "big barriers there. Microsoft clearly"
+ },
+ {
+  "start": 632.2,
+  "duration": 3.32,
+  "text": "sees an opportunity in this challenge"
+ },
+ {
+  "start": 633.96,
+  "duration": 2.76,
+  "text": "with sources suggesting that Microsoft"
+ },
+ {
+  "start": 635.52,
+  "duration": 3.2,
+  "text": "are convinced that they can implement a"
+ },
+ {
+  "start": 636.72,
+  "duration": 3.44,
+  "text": "safer version of the product by limiting"
+ },
+ {
+  "start": 638.72,
+  "duration": 3.2,
+  "text": "permissions and siloing work within"
+ },
+ {
+  "start": 640.16,
+  "duration": 3.48,
+  "text": "certain roles. I would actually"
+ },
+ {
+  "start": 641.92,
+  "duration": 3.48,
+  "text": "anticipate the general vibe code"
+ },
+ {
+  "start": 643.64,
+  "duration": 3.04,
+  "text": "hardening for the enterprise to be one"
+ },
+ {
+  "start": 645.4,
+  "duration": 3.88,
+  "text": "of the biggest building opportunities of"
+ },
+ {
+  "start": 646.68,
+  "duration": 3.96,
+  "text": "the rest of 2026 and clearly I am not"
+ },
+ {
+  "start": 649.28,
+  "duration": 3.16,
+  "text": "alone with a new release from the"
+ },
+ {
+  "start": 650.64,
+  "duration": 4.4,
+  "text": "company Superblocks getting a lot of"
+ },
+ {
+  "start": 652.44,
+  "duration": 4.2,
+  "text": "chatter on X. Superblocks CEO Brad"
+ },
+ {
+  "start": 655.04,
+  "duration": 3.04,
+  "text": "Menezes argued that vibe coding apps"
+ },
+ {
+  "start": 656.64,
+  "duration": 3.76,
+  "text": "have quickly become an attack vector in"
+ },
+ {
+  "start": 658.08,
+  "duration": 4.0,
+  "text": "the enterprise. Like shadow AI used in"
+ },
+ {
+  "start": 660.4,
+  "duration": 3.08,
+  "text": "previous years, many companies are now"
+ },
+ {
+  "start": 662.08,
+  "duration": 3.28,
+  "text": "seeing employees building apps on"
+ },
+ {
+  "start": 663.48,
+  "duration": 4.16,
+  "text": "production data with very little or zero"
+ },
+ {
+  "start": 665.36,
+  "duration": 3.68,
+  "text": "oversight from their IT team. Menezes"
+ },
+ {
+  "start": 667.64,
+  "duration": 2.8,
+  "text": "noted that with mythos approaching,"
+ },
+ {
+  "start": 669.04,
+  "duration": 3.24,
+  "text": "cyber threats are also about to get a"
+ },
+ {
+  "start": 670.44,
+  "duration": 4.28,
+  "text": "huge boost. He then frames their"
+ },
+ {
+  "start": 672.28,
+  "duration": 4.2,
+  "text": "company's new Superblocks 2.0 platform"
+ },
+ {
+  "start": 674.72,
+  "duration": 4.44,
+  "text": "as the quote only platform to take back"
+ },
+ {
+  "start": 676.48,
+  "duration": 4.88,
+  "text": "control. And basically what this is is a"
+ },
+ {
+  "start": 679.16,
+  "duration": 4.08,
+  "text": "way to make employee vibe coding safe."
+ },
+ {
+  "start": 681.36,
+  "duration": 3.76,
+  "text": "Brad writes, business teams build AI"
+ },
+ {
+  "start": 683.24,
+  "duration": 3.599,
+  "text": "powered apps with permissions baked in."
+ },
+ {
+  "start": 685.12,
+  "duration": 3.44,
+  "text": "IT and security can audit everything and"
+ },
+ {
+  "start": 686.839,
+  "duration": 3.441,
+  "text": "lock down anything instantly."
+ },
+ {
+  "start": 688.56,
+  "duration": 3.0,
+  "text": "Engineering sets the standards, every op"
+ },
+ {
+  "start": 690.28,
+  "duration": 2.52,
+  "text": "follows them."
+ },
+ {
+  "start": 691.56,
+  "duration": 3.12,
+  "text": "Now it seems to me that most of the"
+ },
+ {
+  "start": 692.8,
+  "duration": 3.76,
+  "text": "replies to this have the feel of"
+ },
+ {
+  "start": 694.68,
+  "duration": 3.64,
+  "text": "undisclosed paid posts, but holding"
+ },
+ {
+  "start": 696.56,
+  "duration": 3.76,
+  "text": "aside the specific example, it is very"
+ },
+ {
+  "start": 698.32,
+  "duration": 3.8,
+  "text": "clear to me that enterprise hardening of"
+ },
+ {
+  "start": 700.32,
+  "duration": 4.16,
+  "text": "vibe coding is going to be a huge trend"
+ },
+ {
+  "start": 702.12,
+  "duration": 3.92,
+  "text": "for this year. Take all this together"
+ },
+ {
+  "start": 704.48,
+  "duration": 3.6,
+  "text": "and while there's no one massive change"
+ },
+ {
+  "start": 706.04,
+  "duration": 4.72,
+  "text": "that happened, there is a very clear"
+ },
+ {
+  "start": 708.08,
+  "duration": 4.56,
+  "text": "trajectory here. Not only are all the"
+ },
+ {
+  "start": 710.76,
+  "duration": 3.52,
+  "text": "labs, both the agent labs and the model"
+ },
+ {
+  "start": 712.64,
+  "duration": 3.199,
+  "text": "labs, racing to make all the"
+ },
+ {
+  "start": 714.28,
+  "duration": 3.64,
+  "text": "improvements that make their agentic"
+ },
+ {
+  "start": 715.839,
+  "duration": 3.241,
+  "text": "coding apps most useful 24/7 whether"
+ },
+ {
+  "start": 717.92,
+  "duration": 3.24,
+  "text": "you're sitting there in front of them or"
+ },
+ {
+  "start": 719.08,
+  "duration": 3.6,
+  "text": "not, you're also increasingly just"
+ },
+ {
+  "start": 721.16,
+  "duration": 4.08,
+  "text": "seeing companies deal with the"
+ },
+ {
+  "start": 722.68,
+  "duration": 4.76,
+  "text": "implications where all of knowledge work"
+ },
+ {
+  "start": 725.24,
+  "duration": 4.04,
+  "text": "runs in some way through code. The"
+ },
+ {
+  "start": 727.44,
+  "duration": 3.44,
+  "text": "products are converging because coding"
+ },
+ {
+  "start": 729.28,
+  "duration": 3.559,
+  "text": "to build things that do your work or"
+ },
+ {
+  "start": 730.88,
+  "duration": 4.16,
+  "text": "help you do your work is becoming one of"
+ },
+ {
+  "start": 732.839,
+  "duration": 3.961,
+  "text": "the core primitives of knowledge work."
+ },
+ {
+  "start": 735.04,
+  "duration": 3.72,
+  "text": "It is super interesting to see how these"
+ },
+ {
+  "start": 736.8,
+  "duration": 3.44,
+  "text": "things evolve. For now you got a bunch"
+ },
+ {
+  "start": 738.76,
+  "duration": 3.36,
+  "text": "of new toys to play with and I'm excited"
+ },
+ {
+  "start": 740.24,
+  "duration": 3.36,
+  "text": "to hear what you build. But that's going"
+ },
+ {
+  "start": 742.12,
+  "duration": 3.08,
+  "text": "to do it for today's AI daily brief."
+ },
+ {
+  "start": 743.6,
+  "duration": 5.76,
+  "text": "Appreciate you listening or watching. As"
+ },
+ {
+  "start": 745.2,
+  "duration": 4.16,
+  "text": "always and until next time, peace."
+ }
+]

@@ -1,0 +1,4272 @@
+[
+ {
+  "start": 0.32,
+  "duration": 4.08,
+  "text": "Today on the AI Daily Brief, we are"
+ },
+ {
+  "start": 2.32,
+  "duration": 4.479,
+  "text": "talking about the rise of the anti-AI"
+ },
+ {
+  "start": 4.4,
+  "duration": 3.84,
+  "text": "movement. The AI Daily Brief is a daily"
+ },
+ {
+  "start": 6.799,
+  "duration": 4.481,
+  "text": "podcast and video about the most"
+ },
+ {
+  "start": 8.24,
+  "duration": 4.319,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 11.28,
+  "duration": 3.12,
+  "text": "All right, friends, quick notes before"
+ },
+ {
+  "start": 12.559,
+  "duration": 3.681,
+  "text": "we dive in. First of all, thank you to"
+ },
+ {
+  "start": 14.4,
+  "duration": 4.799,
+  "text": "today's sponsors, Robots and Pencils,"
+ },
+ {
+  "start": 16.24,
+  "duration": 4.24,
+  "text": "Scrunch, AIU, and Blitzy. To get an"
+ },
+ {
+  "start": 19.199,
+  "duration": 3.121,
+  "text": "adree version of the show, go to"
+ },
+ {
+  "start": 20.48,
+  "duration": 3.92,
+  "text": "patreon.com/iailybrief,"
+ },
+ {
+  "start": 22.32,
+  "duration": 3.119,
+  "text": "or you can subscribe on Apple Podcasts."
+ },
+ {
+  "start": 24.4,
+  "duration": 2.639,
+  "text": "If you want to learn more about"
+ },
+ {
+  "start": 25.439,
+  "duration": 4.16,
+  "text": "sponsoring the show, send us a note at"
+ },
+ {
+  "start": 27.039,
+  "duration": 4.801,
+  "text": "sponsorsailybrief.ai."
+ },
+ {
+  "start": 29.599,
+  "duration": 4.081,
+  "text": "You can also head to aidbrief.ai to find"
+ },
+ {
+  "start": 31.84,
+  "duration": 4.0,
+  "text": "out all about the ecosystem of projects"
+ },
+ {
+  "start": 33.68,
+  "duration": 4.08,
+  "text": "that surround the AI daily brief. We've"
+ },
+ {
+  "start": 35.84,
+  "duration": 3.36,
+  "text": "got our claw camp where 4,000 people are"
+ },
+ {
+  "start": 37.76,
+  "duration": 3.92,
+  "text": "learning how to use OpenClaw and build"
+ },
+ {
+  "start": 39.2,
+  "duration": 3.76,
+  "text": "agents and build agent teams. Our AI"
+ },
+ {
+  "start": 41.68,
+  "duration": 3.039,
+  "text": "operators community where people are"
+ },
+ {
+  "start": 42.96,
+  "duration": 4.48,
+  "text": "sharing their ideas about AI every day"
+ },
+ {
+  "start": 44.719,
+  "duration": 4.561,
+  "text": "and so on and so forth. Now, a last note"
+ },
+ {
+  "start": 47.44,
+  "duration": 3.279,
+  "text": "about this episode before we dive in. If"
+ },
+ {
+  "start": 49.28,
+  "duration": 3.279,
+  "text": "you live anywhere near New York right"
+ },
+ {
+  "start": 50.719,
+  "duration": 4.0,
+  "text": "now, you know we are just coming off of"
+ },
+ {
+  "start": 52.559,
+  "duration": 3.121,
+  "text": "getting truly walloped by what is"
+ },
+ {
+  "start": 54.719,
+  "duration": 2.961,
+  "text": "predicted to be one of the biggest"
+ },
+ {
+  "start": 55.68,
+  "duration": 3.44,
+  "text": "blizzards in the last 5 years."
+ },
+ {
+  "start": 57.68,
+  "duration": 2.96,
+  "text": "Unfortunately for me, it turns out that"
+ },
+ {
+  "start": 59.12,
+  "duration": 3.36,
+  "text": "the Blizzard's path and timing was"
+ },
+ {
+  "start": 60.64,
+  "duration": 3.68,
+  "text": "nearly identical to our family's flight"
+ },
+ {
+  "start": 62.48,
+  "duration": 3.2,
+  "text": "back from South America, meaning of"
+ },
+ {
+  "start": 64.32,
+  "duration": 3.119,
+  "text": "course that it got pushed and I am"
+ },
+ {
+  "start": 65.68,
+  "duration": 3.119,
+  "text": "having to record this show in advance."
+ },
+ {
+  "start": 67.439,
+  "duration": 2.801,
+  "text": "Now, this kind of works out because this"
+ },
+ {
+  "start": 68.799,
+  "duration": 2.721,
+  "text": "is a topic I've wanted to do for a"
+ },
+ {
+  "start": 70.24,
+  "duration": 2.96,
+  "text": "little while now and was planning to do"
+ },
+ {
+  "start": 71.52,
+  "duration": 3.04,
+  "text": "sometime this week. But this is a"
+ },
+ {
+  "start": 73.2,
+  "duration": 3.279,
+  "text": "pre-record. I'm actually recording this"
+ },
+ {
+  "start": 74.56,
+  "duration": 3.28,
+  "text": "on Sunday, February 22nd. Unless"
+ },
+ {
+  "start": 76.479,
+  "duration": 3.28,
+  "text": "something dramatic happens, I should be"
+ },
+ {
+  "start": 77.84,
+  "duration": 3.68,
+  "text": "back tomorrow with our normal format."
+ },
+ {
+  "start": 79.759,
+  "duration": 4.321,
+  "text": "So, what we are talking about today is"
+ },
+ {
+  "start": 81.52,
+  "duration": 4.88,
+  "text": "the anti-AI movement. And to be honest,"
+ },
+ {
+  "start": 84.08,
+  "duration": 4.24,
+  "text": "calling it a movement might be a little"
+ },
+ {
+  "start": 86.4,
+  "duration": 4.24,
+  "text": "overstated at the moment. It is"
+ },
+ {
+  "start": 88.32,
+  "duration": 4.32,
+  "text": "certainly not one big organized thing."
+ },
+ {
+  "start": 90.64,
+  "duration": 3.519,
+  "text": "The reasons for it are not monolithic."
+ },
+ {
+  "start": 92.64,
+  "duration": 3.36,
+  "text": "And it would be reasonable for one to"
+ },
+ {
+  "start": 94.159,
+  "duration": 4.0,
+  "text": "ask to what extent this is just driven"
+ },
+ {
+  "start": 96.0,
+  "duration": 4.0,
+  "text": "by media narrative. It is certainly the"
+ },
+ {
+  "start": 98.159,
+  "duration": 3.761,
+  "text": "case that for the last few years since"
+ },
+ {
+  "start": 100.0,
+  "duration": 4.479,
+  "text": "the launch of Chat GBT, we've had a"
+ },
+ {
+  "start": 101.92,
+  "duration": 4.159,
+  "text": "pretty neverending cycle of AI hype and"
+ },
+ {
+  "start": 104.479,
+  "duration": 3.201,
+  "text": "enthusiasm as the main media story"
+ },
+ {
+  "start": 106.079,
+  "duration": 3.281,
+  "text": "around it, followed by some type of"
+ },
+ {
+  "start": 107.68,
+  "duration": 3.52,
+  "text": "skeptical narrative when that excited"
+ },
+ {
+  "start": 109.36,
+  "duration": 3.92,
+  "text": "narrative fails to be exciting anymore."
+ },
+ {
+  "start": 111.2,
+  "duration": 4.4,
+  "text": "And the media is all over this one right"
+ },
+ {
+  "start": 113.28,
+  "duration": 3.68,
+  "text": "now. Just this weekend from the New York"
+ },
+ {
+  "start": 115.6,
+  "duration": 4.0,
+  "text": "Times, we got a piece called, \"People"
+ },
+ {
+  "start": 116.96,
+  "duration": 4.88,
+  "text": "loved the dot boom. The AI boom, not so"
+ },
+ {
+  "start": 119.6,
+  "duration": 4.24,
+  "text": "much.\" In it, author David Stritfield"
+ },
+ {
+  "start": 121.84,
+  "duration": 3.52,
+  "text": "asks, \"Tech leaders are beginning to"
+ },
+ {
+  "start": 123.84,
+  "duration": 3.36,
+  "text": "worry about the public's underwhelming"
+ },
+ {
+  "start": 125.36,
+  "duration": 3.679,
+  "text": "enthusiasm for their plans to remake the"
+ },
+ {
+  "start": 127.2,
+  "duration": 3.279,
+  "text": "world with artificial intelligence. Will"
+ },
+ {
+  "start": 129.039,
+  "duration": 3.2,
+  "text": "that burst the bubble?\" And then, of"
+ },
+ {
+  "start": 130.479,
+  "duration": 3.601,
+  "text": "course, even more commented on the Time"
+ },
+ {
+  "start": 132.239,
+  "duration": 4.241,
+  "text": "magazine cover from last week called The"
+ },
+ {
+  "start": 134.08,
+  "duration": 4.08,
+  "text": "People Versus AI. The cover features"
+ },
+ {
+  "start": 136.48,
+  "duration": 3.839,
+  "text": "nine head shot of people who, for"
+ },
+ {
+  "start": 138.16,
+  "duration": 3.76,
+  "text": "various reasons, find themselves opposed"
+ },
+ {
+  "start": 140.319,
+  "duration": 3.601,
+  "text": "to AI, at least as it's currently"
+ },
+ {
+  "start": 141.92,
+  "duration": 4.08,
+  "text": "constituted, forming the basis for a"
+ },
+ {
+  "start": 143.92,
+  "duration": 4.72,
+  "text": "large cover story about this emergent"
+ },
+ {
+  "start": 146.0,
+  "duration": 3.92,
+  "text": "political and societal force. For some,"
+ },
+ {
+  "start": 148.64,
+  "duration": 4.319,
+  "text": "they believe that this is all somewhat"
+ },
+ {
+  "start": 149.92,
+  "duration": 4.56,
+  "text": "deserving of scorn. Lumps on X shared a"
+ },
+ {
+  "start": 152.959,
+  "duration": 3.681,
+  "text": "remixed version of the Time magazine"
+ },
+ {
+  "start": 154.48,
+  "duration": 3.759,
+  "text": "cover. This one featuring nine cave"
+ },
+ {
+  "start": 156.64,
+  "duration": 3.599,
+  "text": "people with the headline being the"
+ },
+ {
+  "start": 158.239,
+  "duration": 3.601,
+  "text": "people versus the wheel. Grunts from the"
+ },
+ {
+  "start": 160.239,
+  "duration": 3.841,
+  "text": "silent majority dragging rocks and"
+ },
+ {
+  "start": 161.84,
+  "duration": 3.759,
+  "text": "rolling is a drag. I've also seen plenty"
+ },
+ {
+  "start": 164.08,
+  "duration": 3.04,
+  "text": "of versions of this with the people"
+ },
+ {
+  "start": 165.599,
+  "duration": 3.521,
+  "text": "versus the internet or the people versus"
+ },
+ {
+  "start": 167.12,
+  "duration": 4.08,
+  "text": "any other technology. Now, of course,"
+ },
+ {
+  "start": 169.12,
+  "duration": 3.6,
+  "text": "what's being implied here is that with"
+ },
+ {
+  "start": 171.2,
+  "duration": 3.2,
+  "text": "any new technology, there's always some"
+ },
+ {
+  "start": 172.72,
+  "duration": 3.36,
+  "text": "amount of resistance that eventually"
+ },
+ {
+  "start": 174.4,
+  "duration": 3.6,
+  "text": "looks silly and short-sighted in"
+ },
+ {
+  "start": 176.08,
+  "duration": 3.68,
+  "text": "retrospect. And for those who are most"
+ },
+ {
+  "start": 178.0,
+  "duration": 3.04,
+  "text": "involved in this technology, I do"
+ },
+ {
+  "start": 179.76,
+  "duration": 3.199,
+  "text": "understand the frustration of feeling"
+ },
+ {
+  "start": 181.04,
+  "duration": 3.04,
+  "text": "assailed for building or working on a"
+ },
+ {
+  "start": 182.959,
+  "duration": 2.801,
+  "text": "thing that you think is going to be"
+ },
+ {
+  "start": 184.08,
+  "duration": 3.439,
+  "text": "really positive, but where it feels like"
+ },
+ {
+  "start": 185.76,
+  "duration": 3.92,
+  "text": "so many people are genuinely mad at you"
+ },
+ {
+  "start": 187.519,
+  "duration": 4.321,
+  "text": "just for doing what you're doing. And"
+ },
+ {
+  "start": 189.68,
+  "duration": 4.559,
+  "text": "yet, I think it would be a mistake to"
+ },
+ {
+  "start": 191.84,
+  "duration": 4.96,
+  "text": "view the rise of anti-AII sentiment as"
+ },
+ {
+  "start": 194.239,
+  "duration": 4.801,
+  "text": "simply a media narrative. There is a"
+ },
+ {
+  "start": 196.8,
+  "duration": 4.64,
+  "text": "huge and growing cannon of studies that"
+ },
+ {
+  "start": 199.04,
+  "duration": 5.199,
+  "text": "show particularly Americans have extreme"
+ },
+ {
+  "start": 201.44,
+  "duration": 5.04,
+  "text": "skepticism around AI. A recent Yuggov"
+ },
+ {
+  "start": 204.239,
+  "duration": 4.161,
+  "text": "study found that 58% of Americans said"
+ },
+ {
+  "start": 206.48,
+  "duration": 5.119,
+  "text": "that they don't have trust in AI versus"
+ },
+ {
+  "start": 208.4,
+  "duration": 4.64,
+  "text": "35% who do. 45% of Americans said that"
+ },
+ {
+  "start": 211.599,
+  "duration": 3.441,
+  "text": "they think that AI's effect on the"
+ },
+ {
+  "start": 213.04,
+  "duration": 4.08,
+  "text": "economy will be mostly negative versus"
+ },
+ {
+  "start": 215.04,
+  "duration": 3.839,
+  "text": "just 16% who think that it will be more"
+ },
+ {
+  "start": 217.12,
+  "duration": 3.36,
+  "text": "positive than negative. And nearly"
+ },
+ {
+  "start": 218.879,
+  "duration": 4.401,
+  "text": "twothirds of Americans in that Yuggov"
+ },
+ {
+  "start": 220.48,
+  "duration": 4.24,
+  "text": "poll, 63% think AI will lead to a"
+ },
+ {
+  "start": 223.28,
+  "duration": 3.92,
+  "text": "decrease in the number of jobs available"
+ },
+ {
+  "start": 224.72,
+  "duration": 4.48,
+  "text": "in the US versus just 7% who think that"
+ },
+ {
+  "start": 227.2,
+  "duration": 4.24,
+  "text": "it will increase the number of jobs. In"
+ },
+ {
+  "start": 229.2,
+  "duration": 5.2,
+  "text": "a Pew Research poll from last year, the"
+ },
+ {
+  "start": 231.44,
+  "duration": 4.48,
+  "text": "US ranked dead last in terms of the"
+ },
+ {
+  "start": 234.4,
+  "duration": 3.759,
+  "text": "ratio of citizens who were more"
+ },
+ {
+  "start": 235.92,
+  "duration": 4.0,
+  "text": "concerned versus more excited about AI."
+ },
+ {
+  "start": 238.159,
+  "duration": 3.841,
+  "text": "Only 10% of those pled said that they"
+ },
+ {
+  "start": 239.92,
+  "duration": 3.679,
+  "text": "were more excited than concerned versus"
+ },
+ {
+  "start": 242.0,
+  "duration": 3.92,
+  "text": "50% who said they were more concerned"
+ },
+ {
+  "start": 243.599,
+  "duration": 3.84,
+  "text": "than excited. So the point here is that"
+ },
+ {
+  "start": 245.92,
+  "duration": 3.36,
+  "text": "whatever reasons you want to ascribe to"
+ },
+ {
+  "start": 247.439,
+  "duration": 4.0,
+  "text": "it and even if you think that it is"
+ },
+ {
+  "start": 249.28,
+  "duration": 4.319,
+  "text": "overblown in the media narrative, there"
+ },
+ {
+  "start": 251.439,
+  "duration": 3.921,
+  "text": "is definitely a base level of skepticism"
+ },
+ {
+  "start": 253.599,
+  "duration": 3.6,
+  "text": "and concern among Americans when it"
+ },
+ {
+  "start": 255.36,
+  "duration": 3.76,
+  "text": "comes to artificial intelligence. And"
+ },
+ {
+  "start": 257.199,
+  "duration": 3.28,
+  "text": "what's more, it seems to be growing. A"
+ },
+ {
+  "start": 259.12,
+  "duration": 3.359,
+  "text": "number of videos out of New Brunswick,"
+ },
+ {
+  "start": 260.479,
+  "duration": 3.921,
+  "text": "New Jersey went viral on X after"
+ },
+ {
+  "start": 262.479,
+  "duration": 3.761,
+  "text": "hundreds of citizens showed up to a"
+ },
+ {
+  "start": 264.4,
+  "duration": 3.76,
+  "text": "planning meeting about a data center and"
+ },
+ {
+  "start": 266.24,
+  "duration": 4.0,
+  "text": "got the project cancelled. That video"
+ },
+ {
+  "start": 268.16,
+  "duration": 4.56,
+  "text": "shared just a couple of days ago got 5"
+ },
+ {
+  "start": 270.24,
+  "duration": 4.48,
+  "text": "million views. Organizer Ben Zobiaak,"
+ },
+ {
+  "start": 272.72,
+  "duration": 3.28,
+  "text": "who posted the video, wrote, \"A data"
+ },
+ {
+  "start": 274.72,
+  "duration": 2.479,
+  "text": "center in New Brunswick was canled"
+ },
+ {
+  "start": 276.0,
+  "duration": 2.88,
+  "text": "tonight when hundreds of residents"
+ },
+ {
+  "start": 277.199,
+  "duration": 4.081,
+  "text": "showed up. When we fight big tech and"
+ },
+ {
+  "start": 278.88,
+  "duration": 4.879,
+  "text": "private equity, we win.\" AI curator"
+ },
+ {
+  "start": 281.28,
+  "duration": 4.0,
+  "text": "Andrew Curran writes, \"After 3 years, it"
+ },
+ {
+  "start": 283.759,
+  "duration": 3.121,
+  "text": "seems to me that public anti-AI"
+ },
+ {
+  "start": 285.28,
+  "duration": 3.76,
+  "text": "sentiment in the West is now at its"
+ },
+ {
+  "start": 286.88,
+  "duration": 3.599,
+  "text": "highest point. Political commentator and"
+ },
+ {
+  "start": 289.04,
+  "duration": 3.28,
+  "text": "statistician Nate Silver has been"
+ },
+ {
+  "start": 290.479,
+  "duration": 4.481,
+  "text": "talking about this a lot. He recently"
+ },
+ {
+  "start": 292.32,
+  "duration": 4.4,
+  "text": "tweeted, \"If AI produces unprecedented"
+ },
+ {
+  "start": 294.96,
+  "duration": 3.12,
+  "text": "levels of technological disruption on"
+ },
+ {
+  "start": 296.72,
+  "duration": 3.199,
+  "text": "time scales that are an order of"
+ },
+ {
+  "start": 298.08,
+  "duration": 3.44,
+  "text": "magnitude or two faster than anything in"
+ },
+ {
+  "start": 299.919,
+  "duration": 3.601,
+  "text": "human history, it's going to be an"
+ },
+ {
+  "start": 301.52,
+  "duration": 3.119,
+  "text": "unprecedented political fight. And for"
+ },
+ {
+  "start": 303.52,
+  "duration": 2.88,
+  "text": "what it's worth, the timelines"
+ },
+ {
+  "start": 304.639,
+  "duration": 3.84,
+  "text": "potentially line up with the 2028 US"
+ },
+ {
+  "start": 306.4,
+  "duration": 4.0,
+  "text": "election.\" He also talked about how this"
+ },
+ {
+  "start": 308.479,
+  "duration": 3.681,
+  "text": "white collar first disruption doesn't"
+ },
+ {
+  "start": 310.4,
+  "duration": 3.359,
+  "text": "have political precedent. He writes,"
+ },
+ {
+  "start": 312.16,
+  "duration": 3.039,
+  "text": "\"Usually these transitions would take"
+ },
+ {
+  "start": 313.759,
+  "duration": 2.961,
+  "text": "decades and not affect white collar"
+ },
+ {
+  "start": 315.199,
+  "duration": 3.521,
+  "text": "workers first who have more political"
+ },
+ {
+  "start": 316.72,
+  "duration": 4.0,
+  "text": "power. Displacement of narrow classes of"
+ },
+ {
+  "start": 318.72,
+  "duration": 3.6,
+  "text": "bluecollar workers, eg coal miners, even"
+ },
+ {
+  "start": 320.72,
+  "duration": 3.6,
+  "text": "if most of society would benefit,"
+ },
+ {
+  "start": 322.32,
+  "duration": 3.36,
+  "text": "usually causes huge political battles."
+ },
+ {
+  "start": 324.32,
+  "duration": 2.96,
+  "text": "Here, the displacement would be much"
+ },
+ {
+  "start": 325.68,
+  "duration": 2.88,
+  "text": "broader, the benefits are less clear,"
+ },
+ {
+  "start": 327.28,
+  "duration": 3.199,
+  "text": "and the people displaced are more"
+ },
+ {
+  "start": 328.56,
+  "duration": 3.359,
+  "text": "influential. In another tweet, more"
+ },
+ {
+  "start": 330.479,
+  "duration": 4.16,
+  "text": "specifically focused on the data center"
+ },
+ {
+  "start": 331.919,
+  "duration": 3.84,
+  "text": "concern, Nate writes, \"Opposition to"
+ },
+ {
+  "start": 334.639,
+  "duration": 2.881,
+  "text": "building data centers might be"
+ },
+ {
+  "start": 335.759,
+  "duration": 3.201,
+  "text": "irrational at the micro scale. They're"
+ },
+ {
+  "start": 337.52,
+  "duration": 2.88,
+  "text": "just going to be built somewhere else."
+ },
+ {
+  "start": 338.96,
+  "duration": 3.04,
+  "text": "But at the mezzo scale, people are"
+ },
+ {
+  "start": 340.4,
+  "duration": 3.359,
+  "text": "profoundly doubtful about whether AI"
+ },
+ {
+  "start": 342.0,
+  "duration": 3.68,
+  "text": "will broadly benefit society, and that's"
+ },
+ {
+  "start": 343.759,
+  "duration": 3.201,
+  "text": "not so irrational at all. People don't"
+ },
+ {
+  "start": 345.68,
+  "duration": 3.2,
+  "text": "like being forced into prisoners"
+ },
+ {
+  "start": 346.96,
+  "duration": 3.519,
+  "text": "dilemmas they didn't ask for and it is"
+ },
+ {
+  "start": 348.88,
+  "duration": 3.28,
+  "text": "macrolevel rational for them to feel"
+ },
+ {
+  "start": 350.479,
+  "duration": 3.761,
+  "text": "resistance and indeed resentment towards"
+ },
+ {
+  "start": 352.16,
+  "duration": 4.0,
+  "text": "that. Joe Weisenthal from Bloomberg's"
+ },
+ {
+  "start": 354.24,
+  "duration": 4.32,
+  "text": "OLOS perhaps somewhat provocatively as"
+ },
+ {
+  "start": 356.16,
+  "duration": 4.16,
+  "text": "is his style on Twitter writes this is a"
+ },
+ {
+  "start": 358.56,
+  "duration": 3.68,
+  "text": "good take. I haven't heard anyone in the"
+ },
+ {
+  "start": 360.32,
+  "duration": 3.36,
+  "text": "AI world credibly articulate why the"
+ },
+ {
+  "start": 362.24,
+  "duration": 3.2,
+  "text": "average person should assume it will"
+ },
+ {
+  "start": 363.68,
+  "duration": 4.239,
+  "text": "make their life better. Typically they"
+ },
+ {
+  "start": 365.44,
+  "duration": 4.08,
+  "text": "say the opposite. Ethan Malik writes, \"I"
+ },
+ {
+  "start": 367.919,
+  "duration": 2.961,
+  "text": "would add that when imagining backlash,"
+ },
+ {
+  "start": 369.52,
+  "duration": 3.519,
+  "text": "people think of Dunes, but Larry and"
+ },
+ {
+  "start": 370.88,
+  "duration": 3.599,
+  "text": "Jihad or Leites, but what those fights"
+ },
+ {
+  "start": 373.039,
+  "duration": 2.801,
+  "text": "actually looked like during the previous"
+ },
+ {
+  "start": 374.479,
+  "duration": 3.28,
+  "text": "industrial revolutions were about"
+ },
+ {
+  "start": 375.84,
+  "duration": 4.4,
+  "text": "regulation, redistribution,"
+ },
+ {
+  "start": 377.759,
+  "duration": 4.641,
+  "text": "nationalization, unions, and safety nets"
+ },
+ {
+  "start": 380.24,
+  "duration": 4.079,
+  "text": "could expect similar.\" Now, it will come"
+ },
+ {
+  "start": 382.4,
+  "duration": 3.76,
+  "text": "as no surprise that I have very"
+ },
+ {
+  "start": 384.319,
+  "duration": 4.081,
+  "text": "different feelings than most of the"
+ },
+ {
+  "start": 386.16,
+  "duration": 4.24,
+  "text": "anti-AI folks when it comes to the"
+ },
+ {
+  "start": 388.4,
+  "duration": 3.919,
+  "text": "substance of the issues. But I do not"
+ },
+ {
+  "start": 390.4,
+  "duration": 3.68,
+  "text": "believe that the concerns are not"
+ },
+ {
+  "start": 392.319,
+  "duration": 4.0,
+  "text": "legitimate. Nor do I think it behooves"
+ },
+ {
+  "start": 394.08,
+  "duration": 4.559,
+  "text": "the AI industry to ignore these voices"
+ },
+ {
+  "start": 396.319,
+  "duration": 4.241,
+  "text": "and these concerns. In fact, I think the"
+ },
+ {
+  "start": 398.639,
+  "duration": 3.921,
+  "text": "leaders of the AI industry have done a"
+ },
+ {
+  "start": 400.56,
+  "duration": 3.6,
+  "text": "spectacularly bad job of both"
+ },
+ {
+  "start": 402.56,
+  "duration": 3.759,
+  "text": "acknowledging and addressing real"
+ },
+ {
+  "start": 404.16,
+  "duration": 3.68,
+  "text": "concerns that people have. We may want"
+ },
+ {
+  "start": 406.319,
+  "duration": 3.281,
+  "text": "things that are exciting to us to be"
+ },
+ {
+  "start": 407.84,
+  "duration": 3.84,
+  "text": "exciting to others. to have things that"
+ },
+ {
+  "start": 409.6,
+  "duration": 4.08,
+  "text": "are self-evident or obvious to us be"
+ },
+ {
+  "start": 411.68,
+  "duration": 4.079,
+  "text": "self-evident and obvious to others. But"
+ },
+ {
+  "start": 413.68,
+  "duration": 3.44,
+  "text": "that's not how the world works. And if"
+ },
+ {
+  "start": 415.759,
+  "duration": 3.601,
+  "text": "we acknowledge and believe that the"
+ },
+ {
+  "start": 417.12,
+  "duration": 4.72,
+  "text": "impact scale of this technology is going"
+ },
+ {
+  "start": 419.36,
+  "duration": 5.04,
+  "text": "to be circa everyone, we have to be"
+ },
+ {
+  "start": 421.84,
+  "duration": 4.96,
+  "text": "willing to engage with circa everyone."
+ },
+ {
+  "start": 424.4,
+  "duration": 4.56,
+  "text": "When I saw the time cover, I absolutely"
+ },
+ {
+  "start": 426.8,
+  "duration": 4.0,
+  "text": "cringed inside. Not because I'm"
+ },
+ {
+  "start": 428.96,
+  "duration": 3.6,
+  "text": "unwilling or even disinterested in AI"
+ },
+ {
+  "start": 430.8,
+  "duration": 3.519,
+  "text": "critique, but because usually what the"
+ },
+ {
+  "start": 432.56,
+  "duration": 3.359,
+  "text": "media puts in front of us is quite bad."
+ },
+ {
+  "start": 434.319,
+  "duration": 3.841,
+  "text": "I actually came away from the piece,"
+ },
+ {
+  "start": 435.919,
+  "duration": 4.881,
+  "text": "however, feeling, believe it or not,"
+ },
+ {
+  "start": 438.16,
+  "duration": 4.56,
+  "text": "pretty optimistic. Not exclusively, but"
+ },
+ {
+  "start": 440.8,
+  "duration": 3.28,
+  "text": "by and large. The people they focused on"
+ },
+ {
+  "start": 442.72,
+  "duration": 3.759,
+  "text": "as their reference points for the cover"
+ },
+ {
+  "start": 444.08,
+  "duration": 4.32,
+  "text": "story were not ideologues or career"
+ },
+ {
+  "start": 446.479,
+  "duration": 3.84,
+  "text": "skeptics. They were people who, in many"
+ },
+ {
+  "start": 448.4,
+  "duration": 4.0,
+  "text": "cases, aren't even necessarily anti-AII"
+ },
+ {
+  "start": 450.319,
+  "duration": 3.761,
+  "text": "by disposition, but who find themselves"
+ },
+ {
+  "start": 452.4,
+  "duration": 3.76,
+  "text": "concerned with some specific impact of"
+ },
+ {
+  "start": 454.08,
+  "duration": 4.08,
+  "text": "the technology and advocating for some"
+ },
+ {
+  "start": 456.16,
+  "duration": 3.599,
+  "text": "specific change in policy around it. In"
+ },
+ {
+  "start": 458.16,
+  "duration": 3.36,
+  "text": "most of these cases, I found the"
+ },
+ {
+  "start": 459.759,
+  "duration": 3.681,
+  "text": "concerns leveled in good faith in ways"
+ },
+ {
+  "start": 461.52,
+  "duration": 3.92,
+  "text": "that were actually solvable. And so what"
+ },
+ {
+  "start": 463.44,
+  "duration": 4.479,
+  "text": "I thought would be useful is to actually"
+ },
+ {
+  "start": 465.44,
+  "duration": 4.64,
+  "text": "try to break apart the anti-AII movement"
+ },
+ {
+  "start": 467.919,
+  "duration": 3.12,
+  "text": "into constituent categories. So we're"
+ },
+ {
+  "start": 470.08,
+  "duration": 2.959,
+  "text": "not talking about this thing in"
+ },
+ {
+  "start": 471.039,
+  "duration": 3.6,
+  "text": "monolithic terms. Like I said at the"
+ },
+ {
+  "start": 473.039,
+  "duration": 3.521,
+  "text": "beginning, I think this is much less an"
+ },
+ {
+  "start": 474.639,
+  "duration": 4.161,
+  "text": "organized movement and much more right"
+ },
+ {
+  "start": 476.56,
+  "duration": 4.079,
+  "text": "now pockets of concerns and resistance"
+ },
+ {
+  "start": 478.8,
+  "duration": 4.399,
+  "text": "that could at some point easily coales"
+ },
+ {
+  "start": 480.639,
+  "duration": 3.68,
+  "text": "into a larger political force. So let's"
+ },
+ {
+  "start": 483.199,
+  "duration": 2.801,
+  "text": "quickly go through a handful of"
+ },
+ {
+  "start": 484.319,
+  "duration": 3.361,
+  "text": "different categories and try to"
+ },
+ {
+  "start": 486.0,
+  "duration": 3.599,
+  "text": "understand what their big concerns are."
+ },
+ {
+  "start": 487.68,
+  "duration": 3.519,
+  "text": "We'll start first with the AI safety"
+ },
+ {
+  "start": 489.599,
+  "duration": 3.921,
+  "text": "folks. The people who are concerned"
+ },
+ {
+  "start": 491.199,
+  "duration": 3.761,
+  "text": "about X- risk or existential risk, who"
+ },
+ {
+  "start": 493.52,
+  "duration": 4.0,
+  "text": "talk to each other about what their P"
+ },
+ {
+  "start": 494.96,
+  "duration": 5.04,
+  "text": "doom is. P Doom being probability of"
+ },
+ {
+  "start": 497.52,
+  "duration": 4.239,
+  "text": "doom, that AI ends us all. These are the"
+ },
+ {
+  "start": 500.0,
+  "duration": 4.0,
+  "text": "voices that you will sometimes find AI"
+ },
+ {
+  "start": 501.759,
+  "duration": 4.241,
+  "text": "folks critiquing as living in the realm"
+ },
+ {
+  "start": 504.0,
+  "duration": 4.0,
+  "text": "of the sci-fi. It's the paperclip"
+ },
+ {
+  "start": 506.0,
+  "duration": 4.0,
+  "text": "maximalists who argue for why super"
+ },
+ {
+  "start": 508.0,
+  "duration": 4.0,
+  "text": "intelligent AI would be likely to end"
+ },
+ {
+  "start": 510.0,
+  "duration": 3.68,
+  "text": "humanity, not even necessarily out of"
+ },
+ {
+  "start": 512.0,
+  "duration": 3.12,
+  "text": "malice, but because we stood in the way"
+ },
+ {
+  "start": 513.68,
+  "duration": 3.12,
+  "text": "of accomplishing some goal that they"
+ },
+ {
+  "start": 515.12,
+  "duration": 3.279,
+  "text": "were trying to achieve. The voice of"
+ },
+ {
+  "start": 516.8,
+  "duration": 3.679,
+  "text": "this group was much louder right after"
+ },
+ {
+  "start": 518.399,
+  "duration": 3.281,
+  "text": "chat GPT was launched. Probably for the"
+ },
+ {
+  "start": 520.479,
+  "duration": 3.201,
+  "text": "reason that you could get crazy"
+ },
+ {
+  "start": 521.68,
+  "duration": 3.44,
+  "text": "headlines about how the robots were"
+ },
+ {
+  "start": 523.68,
+  "duration": 3.279,
+  "text": "going to kill us all and folks like"
+ },
+ {
+  "start": 525.12,
+  "duration": 3.12,
+  "text": "Eleazar Yudkowski to come in your"
+ },
+ {
+  "start": 526.959,
+  "duration": 3.121,
+  "text": "magazine and write an essay to that"
+ },
+ {
+  "start": 528.24,
+  "duration": 4.159,
+  "text": "effect. Now, just like within the"
+ },
+ {
+  "start": 530.08,
+  "duration": 3.84,
+  "text": "anti-AI movement overall and frankly on"
+ },
+ {
+  "start": 532.399,
+  "duration": 3.361,
+  "text": "the opposite side of the AI booster"
+ },
+ {
+  "start": 533.92,
+  "duration": 3.52,
+  "text": "train, there is a massive spectrum of"
+ },
+ {
+  "start": 535.76,
+  "duration": 3.84,
+  "text": "folks even just within this concern"
+ },
+ {
+  "start": 537.44,
+  "duration": 4.0,
+  "text": "range. Many of them operate from a place"
+ },
+ {
+  "start": 539.6,
+  "duration": 3.28,
+  "text": "of genuinely good faith, which creates"
+ },
+ {
+  "start": 541.44,
+  "duration": 2.8,
+  "text": "much more room for discussion. And even"
+ },
+ {
+  "start": 542.88,
+  "duration": 3.2,
+  "text": "if you fundamentally disagree with"
+ },
+ {
+  "start": 544.24,
+  "duration": 3.599,
+  "text": "everything that they think, you can go"
+ },
+ {
+  "start": 546.08,
+  "duration": 3.52,
+  "text": "check out the AI safety memes account on"
+ },
+ {
+  "start": 547.839,
+  "duration": 4.081,
+  "text": "Twitter as an example or even check out"
+ },
+ {
+  "start": 549.6,
+  "duration": 3.84,
+  "text": "Lon Shapiro's Doom Debates podcast. I"
+ },
+ {
+  "start": 551.92,
+  "duration": 3.039,
+  "text": "think even if one fundamentally"
+ },
+ {
+  "start": 553.44,
+  "duration": 3.28,
+  "text": "disagrees with the concerns animating"
+ },
+ {
+  "start": 554.959,
+  "duration": 3.201,
+  "text": "these folks, it's worth having a bit of"
+ },
+ {
+  "start": 556.72,
+  "duration": 2.88,
+  "text": "epistemic humility about all of this"
+ },
+ {
+  "start": 558.16,
+  "duration": 3.28,
+  "text": "given that none of us know the actual"
+ },
+ {
+  "start": 559.6,
+  "duration": 3.76,
+  "text": "future. Now, an interesting note about"
+ },
+ {
+  "start": 561.44,
+  "duration": 3.839,
+  "text": "these folks is that unlike some of the"
+ },
+ {
+  "start": 563.36,
+  "duration": 2.88,
+  "text": "others in the anti-AI space, they"
+ },
+ {
+  "start": 565.279,
+  "duration": 3.761,
+  "text": "actually quite agree with the"
+ },
+ {
+  "start": 566.24,
+  "duration": 4.159,
+  "text": "accelerationists on how powerful AI is."
+ },
+ {
+  "start": 569.04,
+  "duration": 3.12,
+  "text": "It's just they're very concerned about"
+ },
+ {
+  "start": 570.399,
+  "duration": 3.361,
+  "text": "what the implications of that are."
+ },
+ {
+  "start": 572.16,
+  "duration": 3.28,
+  "text": "Interestingly, I don't really think that"
+ },
+ {
+  "start": 573.76,
+  "duration": 3.68,
+  "text": "these folks have been as much of a"
+ },
+ {
+  "start": 575.44,
+  "duration": 3.36,
+  "text": "driver of the conversation as it might"
+ },
+ {
+  "start": 577.44,
+  "duration": 3.12,
+  "text": "have seemed if you looked just in the"
+ },
+ {
+  "start": 578.8,
+  "duration": 3.52,
+  "text": "first 6 months after ChatgBT was"
+ },
+ {
+  "start": 580.56,
+  "duration": 3.68,
+  "text": "launched. Going back to that tweet by"
+ },
+ {
+  "start": 582.32,
+  "duration": 3.68,
+  "text": "Andrew Curran about how public anti-AI"
+ },
+ {
+  "start": 584.24,
+  "duration": 4.08,
+  "text": "sentiment is now at its highest point."
+ },
+ {
+  "start": 586.0,
+  "duration": 4.24,
+  "text": "He continued, \"The primary driver by far"
+ },
+ {
+  "start": 588.32,
+  "duration": 3.92,
+  "text": "is not X-risk, but concerns about"
+ },
+ {
+  "start": 590.24,
+  "duration": 3.52,
+  "text": "employment and the impact on art. safety"
+ },
+ {
+  "start": 592.24,
+  "duration": 3.039,
+  "text": "advocacy might have been more effective"
+ },
+ {
+  "start": 593.76,
+  "duration": 3.36,
+  "text": "and might now be in a much stronger"
+ },
+ {
+  "start": 595.279,
+  "duration": 3.68,
+  "text": "position if they had emphasized societal"
+ },
+ {
+  "start": 597.12,
+  "duration": 4.159,
+  "text": "and economic impacts more than X-risk"
+ },
+ {
+  "start": 598.959,
+  "duration": 3.681,
+  "text": "over the last few years."
+ },
+ {
+  "start": 601.279,
+  "duration": 3.601,
+  "text": "Moving on to the next category of the"
+ },
+ {
+  "start": 602.64,
+  "duration": 4.16,
+  "text": "anti-AI folks are what we might call the"
+ },
+ {
+  "start": 604.88,
+  "duration": 3.28,
+  "text": "capability skeptics. These are the folks"
+ },
+ {
+  "start": 606.8,
+  "duration": 3.28,
+  "text": "you see running around on social"
+ },
+ {
+  "start": 608.16,
+  "duration": 4.16,
+  "text": "networks claiming things like AI is just"
+ },
+ {
+  "start": 610.08,
+  "duration": 4.4,
+  "text": "fancy autocomplete, demonstrating just"
+ },
+ {
+  "start": 612.32,
+  "duration": 3.84,
+  "text": "how much the anti-AI space is not one"
+ },
+ {
+  "start": 614.48,
+  "duration": 3.52,
+  "text": "thing. These folks disagree with the"
+ },
+ {
+  "start": 616.16,
+  "duration": 3.28,
+  "text": "safetists because if AI is just fancy"
+ },
+ {
+  "start": 618.0,
+  "duration": 2.72,
+  "text": "autocomplete, it's obviously not going"
+ },
+ {
+  "start": 619.44,
+  "duration": 3.04,
+  "text": "to take over the world and turn us all"
+ },
+ {
+  "start": 620.72,
+  "duration": 2.96,
+  "text": "into paper clips. If you're looking for"
+ },
+ {
+  "start": 622.48,
+  "duration": 3.359,
+  "text": "an example of this, one of the most"
+ },
+ {
+  "start": 623.68,
+  "duration": 4.48,
+  "text": "prominent examples is Gary Marcus. And"
+ },
+ {
+  "start": 625.839,
+  "duration": 3.761,
+  "text": "honestly, believe it or not, this is the"
+ },
+ {
+  "start": 628.16,
+  "duration": 3.04,
+  "text": "group that I kind of have the most"
+ },
+ {
+  "start": 629.6,
+  "duration": 3.52,
+  "text": "frustration with. The people who've been"
+ },
+ {
+  "start": 631.2,
+  "duration": 3.68,
+  "text": "lobbing these arguments take advantage"
+ },
+ {
+  "start": 633.12,
+  "duration": 3.839,
+  "text": "of every time the media narrative shifts"
+ },
+ {
+  "start": 634.88,
+  "duration": 4.959,
+  "text": "against AI to update their previous"
+ },
+ {
+  "start": 636.959,
+  "duration": 4.721,
+  "text": "essay about why AI has plateaued despite"
+ },
+ {
+  "start": 639.839,
+  "duration": 3.361,
+  "text": "the fact that it's plateaued at a point"
+ },
+ {
+  "start": 641.68,
+  "duration": 3.2,
+  "text": "significantly more advanced than the"
+ },
+ {
+  "start": 643.2,
+  "duration": 3.36,
+  "text": "last time they said the same thing. I"
+ },
+ {
+  "start": 644.88,
+  "duration": 3.44,
+  "text": "think in general the capability skeptics"
+ },
+ {
+  "start": 646.56,
+  "duration": 3.279,
+  "text": "are pedantic, pretty viciously"
+ },
+ {
+  "start": 648.32,
+  "duration": 2.959,
+  "text": "intellectually rigid and unable to"
+ },
+ {
+  "start": 649.839,
+  "duration": 4.481,
+  "text": "change their perception based on new"
+ },
+ {
+  "start": 651.279,
+  "duration": 4.641,
+  "text": "evidence and ultimately almost entirely"
+ },
+ {
+  "start": 654.32,
+  "duration": 3.04,
+  "text": "ignorable. I don't think we should"
+ },
+ {
+  "start": 655.92,
+  "duration": 3.44,
+  "text": "mistake the fact that a few people can"
+ },
+ {
+  "start": 657.36,
+  "duration": 3.68,
+  "text": "make careers by being the token skeptics"
+ },
+ {
+  "start": 659.36,
+  "duration": 3.36,
+  "text": "on the panel with their perspective"
+ },
+ {
+  "start": 661.04,
+  "duration": 3.12,
+  "text": "actually being useful. And the reason"
+ },
+ {
+  "start": 662.72,
+  "duration": 3.44,
+  "text": "that I have the most frustration and"
+ },
+ {
+  "start": 664.16,
+  "duration": 4.16,
+  "text": "animosity towards this group is that"
+ },
+ {
+  "start": 666.16,
+  "duration": 4.32,
+  "text": "these are the ones who so many normal"
+ },
+ {
+  "start": 668.32,
+  "duration": 3.84,
+  "text": "folks want to be right. They want them"
+ },
+ {
+  "start": 670.48,
+  "duration": 3.12,
+  "text": "to be right so they can safely ignore"
+ },
+ {
+  "start": 672.16,
+  "duration": 4.239,
+  "text": "this thing that they don't particularly"
+ },
+ {
+  "start": 673.6,
+  "duration": 5.919,
+  "text": "like until it fades like NFTTS. I"
+ },
+ {
+  "start": 676.399,
+  "duration": 5.521,
+  "text": "genuinely believe that many people will"
+ },
+ {
+  "start": 679.519,
+  "duration": 4.721,
+  "text": "not engage meaningfully with AI because"
+ },
+ {
+  "start": 681.92,
+  "duration": 4.56,
+  "text": "the capability skeptics aid in abet"
+ },
+ {
+  "start": 684.24,
+  "duration": 3.92,
+  "text": "their natural disincclination to do so."
+ },
+ {
+  "start": 686.48,
+  "duration": 3.599,
+  "text": "And because of that, those people will"
+ },
+ {
+  "start": 688.16,
+  "duration": 3.84,
+  "text": "be extremely far behind when it comes to"
+ },
+ {
+  "start": 690.079,
+  "duration": 4.081,
+  "text": "AI usage. They will be the least"
+ },
+ {
+  "start": 692.0,
+  "duration": 3.6,
+  "text": "adaptable to AI disruption, the least"
+ },
+ {
+  "start": 694.16,
+  "duration": 3.919,
+  "text": "likely to benefit from new opportunities"
+ },
+ {
+  "start": 695.6,
+  "duration": 4.0,
+  "text": "that AI creates. And because of that, I"
+ },
+ {
+  "start": 698.079,
+  "duration": 4.801,
+  "text": "genuinely believe that the capability"
+ },
+ {
+  "start": 699.6,
+  "duration": 5.2,
+  "text": "skeptics will cause more economic harm"
+ },
+ {
+  "start": 702.88,
+  "duration": 3.92,
+  "text": "when it comes to individual people than"
+ },
+ {
+  "start": 704.8,
+  "duration": 3.84,
+  "text": "the AI hypsters who overstate things in"
+ },
+ {
+  "start": 706.8,
+  "duration": 3.68,
+  "text": "order to sell their products. Now to the"
+ },
+ {
+  "start": 708.64,
+  "duration": 3.68,
+  "text": "extent that there's one subset of this"
+ },
+ {
+  "start": 710.48,
+  "duration": 3.2,
+  "text": "group that have at least a reasonable"
+ },
+ {
+  "start": 712.32,
+  "duration": 3.199,
+  "text": "point is the group that isn't trying to"
+ },
+ {
+  "start": 713.68,
+  "duration": 4.399,
+  "text": "say every 5 minutes that AI is on some"
+ },
+ {
+  "start": 715.519,
+  "duration": 3.841,
+  "text": "new plateau but who do caution that we"
+ },
+ {
+  "start": 718.079,
+  "duration": 3.041,
+  "text": "should turn the volume down on"
+ },
+ {
+  "start": 719.36,
+  "duration": 3.599,
+  "text": "everything just a few notches because"
+ },
+ {
+  "start": 721.12,
+  "duration": 3.36,
+  "text": "the actual diffusion pattern by which it"
+ },
+ {
+  "start": 722.959,
+  "duration": 3.68,
+  "text": "makes it into the workplace and into"
+ },
+ {
+  "start": 724.48,
+  "duration": 3.84,
+  "text": "society is inevitably going to be much"
+ },
+ {
+  "start": 726.639,
+  "duration": 3.281,
+  "text": "longer than we think. I don't even know"
+ },
+ {
+  "start": 728.32,
+  "duration": 3.759,
+  "text": "if you can really count them alongside"
+ },
+ {
+  "start": 729.92,
+  "duration": 4.0,
+  "text": "the capability skeptics. Maybe a better"
+ },
+ {
+  "start": 732.079,
+  "duration": 3.041,
+  "text": "framing would be the timeline skeptics,"
+ },
+ {
+  "start": 733.92,
+  "duration": 3.84,
+  "text": "but they I think have a much more"
+ },
+ {
+  "start": 735.12,
+  "duration": 4.32,
+  "text": "reasonable point. Next up, a group that"
+ },
+ {
+  "start": 737.76,
+  "duration": 3.6,
+  "text": "has some overlap with the skeptics, but"
+ },
+ {
+  "start": 739.44,
+  "duration": 4.079,
+  "text": "are ultimately a different thing. These"
+ },
+ {
+  "start": 741.36,
+  "duration": 3.76,
+  "text": "we'll call the AI bubblers. They're not"
+ },
+ {
+  "start": 743.519,
+  "duration": 3.601,
+  "text": "necessarily, or at least a priority,"
+ },
+ {
+  "start": 745.12,
+  "duration": 3.279,
+  "text": "skeptical of the capabilities of AI. In"
+ },
+ {
+  "start": 747.12,
+  "duration": 2.8,
+  "text": "fact, many of them are convinced in the"
+ },
+ {
+  "start": 748.399,
+  "duration": 3.921,
+  "text": "long-term power and disruption potential"
+ },
+ {
+  "start": 749.92,
+  "duration": 4.159,
+  "text": "of AI. They're skeptical of the business"
+ },
+ {
+  "start": 752.32,
+  "duration": 3.68,
+  "text": "side of things. They're skeptical of"
+ },
+ {
+  "start": 754.079,
+  "duration": 3.2,
+  "text": "where value is going to get realized."
+ },
+ {
+  "start": 756.0,
+  "duration": 2.959,
+  "text": "They're skeptical of whether today's"
+ },
+ {
+  "start": 757.279,
+  "duration": 3.12,
+  "text": "business models can support the deal and"
+ },
+ {
+  "start": 758.959,
+  "duration": 2.721,
+  "text": "debt structures that are financing the"
+ },
+ {
+  "start": 760.399,
+  "duration": 3.041,
+  "text": "industry. They're skeptical of the"
+ },
+ {
+  "start": 761.68,
+  "duration": 3.04,
+  "text": "markets valuations of these companies."
+ },
+ {
+  "start": 763.44,
+  "duration": 2.639,
+  "text": "Maybe the most prominent of these, at"
+ },
+ {
+  "start": 764.72,
+  "duration": 3.2,
+  "text": "least right now, when it comes to a"
+ },
+ {
+  "start": 766.079,
+  "duration": 3.361,
+  "text": "media profile, is Michael Bur of Big"
+ },
+ {
+  "start": 767.92,
+  "duration": 2.8,
+  "text": "Short Fame. One of the things that I've"
+ },
+ {
+  "start": 769.44,
+  "duration": 3.12,
+  "text": "always said on this show is that it's"
+ },
+ {
+  "start": 770.72,
+  "duration": 4.16,
+  "text": "extremely important to break apart"
+ },
+ {
+  "start": 772.56,
+  "duration": 3.839,
+  "text": "skepticism of the technology itself from"
+ },
+ {
+  "start": 774.88,
+  "duration": 3.36,
+  "text": "skepticism of the market's interaction"
+ },
+ {
+  "start": 776.399,
+  "duration": 3.12,
+  "text": "with the technology. It would be a"
+ },
+ {
+  "start": 778.24,
+  "duration": 3.2,
+  "text": "completely coherent intellectual"
+ },
+ {
+  "start": 779.519,
+  "duration": 4.401,
+  "text": "position. In other words, for someone to"
+ },
+ {
+  "start": 781.44,
+  "duration": 4.88,
+  "text": "think that AI is going to and even is"
+ },
+ {
+  "start": 783.92,
+  "duration": 3.76,
+  "text": "now radically changing things and still"
+ },
+ {
+  "start": 786.32,
+  "duration": 3.519,
+  "text": "not think the market is pricing the"
+ },
+ {
+  "start": 787.68,
+  "duration": 3.44,
+  "text": "companies behind it correctly. The next"
+ },
+ {
+  "start": 789.839,
+  "duration": 3.44,
+  "text": "category we'll call the artist"
+ },
+ {
+  "start": 791.12,
+  "duration": 4.0,
+  "text": "advocates. Now, in some cases, these are"
+ },
+ {
+  "start": 793.279,
+  "duration": 3.761,
+  "text": "folks in the artistic or entertainment"
+ },
+ {
+  "start": 795.12,
+  "duration": 3.04,
+  "text": "fields who are frustrated that AI is"
+ },
+ {
+  "start": 797.04,
+  "duration": 2.88,
+  "text": "doing the things that they and their"
+ },
+ {
+  "start": 798.16,
+  "duration": 3.84,
+  "text": "peers used to do. Others are concerned"
+ },
+ {
+  "start": 799.92,
+  "duration": 3.2,
+  "text": "about copyright and IP more generally."
+ },
+ {
+  "start": 802.0,
+  "duration": 2.959,
+  "text": "And then, of course, a big group of"
+ },
+ {
+  "start": 803.12,
+  "duration": 3.2,
+  "text": "these folks are kind of just normal"
+ },
+ {
+  "start": 804.959,
+  "duration": 3.041,
+  "text": "folks who aren't necessarily artists"
+ },
+ {
+  "start": 806.32,
+  "duration": 3.6,
+  "text": "themselves who just have a general"
+ },
+ {
+  "start": 808.0,
+  "duration": 2.959,
+  "text": "uneasiness of the fairness of things,"
+ },
+ {
+  "start": 809.92,
+  "duration": 2.8,
+  "text": "which is not something that, for"
+ },
+ {
+  "start": 810.959,
+  "duration": 4.641,
+  "text": "example, Supreme Court decisions about"
+ },
+ {
+  "start": 812.72,
+  "duration": 5.52,
+  "text": "copyright and AI are going to solve. The"
+ },
+ {
+  "start": 815.6,
+  "duration": 5.359,
+  "text": "next grouping doesn't exactly describe a"
+ },
+ {
+  "start": 818.24,
+  "duration": 4.64,
+  "text": "motivation for disliking AI, but a"
+ },
+ {
+  "start": 820.959,
+  "duration": 4.32,
+  "text": "shared organizing principle that cuts"
+ },
+ {
+  "start": 822.88,
+  "duration": 4.16,
+  "text": "across many people who don't like AI,"
+ },
+ {
+  "start": 825.279,
+  "duration": 4.24,
+  "text": "which is to viscerally dislike the"
+ },
+ {
+  "start": 827.04,
+  "duration": 4.32,
+  "text": "outputs of AI. We'll call these the slop"
+ },
+ {
+  "start": 829.519,
+  "duration": 3.601,
+  "text": "secessionists. And it's the people like"
+ },
+ {
+  "start": 831.36,
+  "duration": 3.84,
+  "text": "the millions of commentators on Time"
+ },
+ {
+  "start": 833.12,
+  "duration": 4.399,
+  "text": "magazine 1776 project by Darren"
+ },
+ {
+  "start": 835.2,
+  "duration": 3.92,
+  "text": "Areronowski where they're using AI to go"
+ },
+ {
+  "start": 837.519,
+  "duration": 3.68,
+  "text": "create mini documentaries about that"
+ },
+ {
+  "start": 839.12,
+  "duration": 4.079,
+  "text": "pivotal year in American history with"
+ },
+ {
+  "start": 841.199,
+  "duration": 3.681,
+  "text": "all of the YouTube commenters basically"
+ },
+ {
+  "start": 843.199,
+  "duration": 3.361,
+  "text": "just absolutely railing on it for"
+ },
+ {
+  "start": 844.88,
+  "duration": 3.519,
+  "text": "looking like in their estimation AI"
+ },
+ {
+  "start": 846.56,
+  "duration": 4.32,
+  "text": "slop. Like I said, I don't think that"
+ },
+ {
+  "start": 848.399,
+  "duration": 4.481,
+  "text": "people are anti-AI because they dislike"
+ },
+ {
+  "start": 850.88,
+  "duration": 3.84,
+  "text": "slop. I think they dislike and consider"
+ },
+ {
+  "start": 852.88,
+  "duration": 4.24,
+  "text": "the output of AI slop because they're"
+ },
+ {
+  "start": 854.72,
+  "duration": 3.76,
+  "text": "already anti AI. But it's enough of a"
+ },
+ {
+  "start": 857.12,
+  "duration": 3.68,
+  "text": "cultural force that it is worth"
+ },
+ {
+  "start": 858.48,
+  "duration": 4.24,
+  "text": "identifying on its own terms. Another"
+ },
+ {
+  "start": 860.8,
+  "duration": 3.44,
+  "text": "group which has a significant amount of"
+ },
+ {
+  "start": 862.72,
+  "duration": 3.28,
+  "text": "attention particularly in religious and"
+ },
+ {
+  "start": 864.24,
+  "duration": 3.44,
+  "text": "conservative circles are the folks who"
+ },
+ {
+  "start": 866.0,
+  "duration": 4.079,
+  "text": "are really concerned about the impact of"
+ },
+ {
+  "start": 867.68,
+  "duration": 4.0,
+  "text": "AI on children and teens. They're"
+ },
+ {
+  "start": 870.079,
+  "duration": 3.12,
+  "text": "concerned about human relationship"
+ },
+ {
+  "start": 871.68,
+  "duration": 3.44,
+  "text": "structures. They're concerned about the"
+ },
+ {
+  "start": 873.199,
+  "duration": 3.2,
+  "text": "impact of AI on child development."
+ },
+ {
+  "start": 875.12,
+  "duration": 2.88,
+  "text": "They're concerned about what happens"
+ },
+ {
+  "start": 876.399,
+  "duration": 2.88,
+  "text": "when people want to talk to AI"
+ },
+ {
+  "start": 878.0,
+  "duration": 3.199,
+  "text": "girlfriends and boyfriends more than"
+ },
+ {
+  "start": 879.279,
+  "duration": 3.92,
+  "text": "real life girlfriends and boyfriends. I"
+ },
+ {
+  "start": 881.199,
+  "duration": 3.76,
+  "text": "found that this category of concern is"
+ },
+ {
+  "start": 883.199,
+  "duration": 3.2,
+  "text": "invisible to many who aren't around the"
+ },
+ {
+  "start": 884.959,
+  "duration": 3.44,
+  "text": "circles where it's important but"
+ },
+ {
+  "start": 886.399,
+  "duration": 3.921,
+  "text": "incredibly pertinent. In fact, maybe the"
+ },
+ {
+  "start": 888.399,
+  "duration": 4.24,
+  "text": "very top of the list in certain groups"
+ },
+ {
+  "start": 890.32,
+  "duration": 3.519,
+  "text": "and communities. The data center deniers"
+ },
+ {
+  "start": 892.639,
+  "duration": 3.2,
+  "text": "we touched on at the beginning of the"
+ },
+ {
+  "start": 893.839,
+  "duration": 3.601,
+  "text": "show and are a growing political force"
+ },
+ {
+  "start": 895.839,
+  "duration": 3.68,
+  "text": "of people who are specifically pushing"
+ },
+ {
+  "start": 897.44,
+  "duration": 4.0,
+  "text": "back on data centers showing up in their"
+ },
+ {
+  "start": 899.519,
+  "duration": 3.921,
+  "text": "community. This group of course overlaps"
+ },
+ {
+  "start": 901.44,
+  "duration": 3.519,
+  "text": "with the environmental activists who are"
+ },
+ {
+  "start": 903.44,
+  "duration": 2.8,
+  "text": "concerned about AI's impact on the"
+ },
+ {
+  "start": 904.959,
+  "duration": 3.281,
+  "text": "environment through things like the"
+ },
+ {
+  "start": 906.24,
+  "duration": 3.44,
+  "text": "consumption of water for data centers as"
+ },
+ {
+  "start": 908.24,
+  "duration": 3.44,
+  "text": "well as just the general electricity"
+ },
+ {
+  "start": 909.68,
+  "duration": 3.599,
+  "text": "profile of the industry. But these two"
+ },
+ {
+  "start": 911.68,
+  "duration": 3.44,
+  "text": "are slightly different. Whereas the"
+ },
+ {
+  "start": 913.279,
+  "duration": 3.761,
+  "text": "environmentally concerned folks are"
+ },
+ {
+  "start": 915.12,
+  "duration": 3.2,
+  "text": "thinking on macro scale, many of the"
+ },
+ {
+  "start": 917.04,
+  "duration": 3.68,
+  "text": "people that are showing up at data"
+ },
+ {
+  "start": 918.32,
+  "duration": 4.48,
+  "text": "center protests are just focused on very"
+ },
+ {
+  "start": 920.72,
+  "duration": 3.44,
+  "text": "close to home issues like the actual or"
+ },
+ {
+  "start": 922.8,
+  "duration": 4.08,
+  "text": "potential rise of their electricity"
+ },
+ {
+  "start": 924.16,
+  "duration": 5.2,
+  "text": "bills. Now, I think the category that is"
+ },
+ {
+  "start": 926.88,
+  "duration": 3.84,
+  "text": "by far the biggest, most broad-based,"
+ },
+ {
+  "start": 929.36,
+  "duration": 3.2,
+  "text": "and has potentially the biggest"
+ },
+ {
+  "start": 930.72,
+  "duration": 3.28,
+  "text": "political footprint is those who are"
+ },
+ {
+  "start": 932.56,
+  "duration": 3.36,
+  "text": "concerned about the job displacement"
+ },
+ {
+  "start": 934.0,
+  "duration": 3.199,
+  "text": "potential of AI. Anyone who listens to"
+ },
+ {
+  "start": 935.92,
+  "duration": 2.8,
+  "text": "this show will have heard me talk about"
+ },
+ {
+  "start": 937.199,
+  "duration": 3.281,
+  "text": "this quite a bit, so I don't think we"
+ },
+ {
+  "start": 938.72,
+  "duration": 3.919,
+  "text": "need to get too deep into this. Simply"
+ },
+ {
+  "start": 940.48,
+  "duration": 4.32,
+  "text": "put, the concern here is that if AI does"
+ },
+ {
+  "start": 942.639,
+  "duration": 4.56,
+  "text": "everything better than us, what jobs are"
+ },
+ {
+  "start": 944.8,
+  "duration": 4.0,
+  "text": "there left for people? Now, I actually"
+ },
+ {
+  "start": 947.199,
+  "duration": 3.041,
+  "text": "have lots of answers to that, but the"
+ },
+ {
+  "start": 948.8,
+  "duration": 2.8,
+  "text": "point of today's episode is not to"
+ },
+ {
+  "start": 950.24,
+  "duration": 2.959,
+  "text": "answer the concerns of all these"
+ },
+ {
+  "start": 951.6,
+  "duration": 3.28,
+  "text": "different categories. It's just to"
+ },
+ {
+  "start": 953.199,
+  "duration": 3.121,
+  "text": "acknowledge that they exist, that they"
+ },
+ {
+  "start": 954.88,
+  "duration": 2.8,
+  "text": "are in many cases growing, and that"
+ },
+ {
+  "start": 956.32,
+  "duration": 3.28,
+  "text": "they're real positions that real people"
+ },
+ {
+  "start": 957.68,
+  "duration": 4.079,
+  "text": "have, not just some sidelong concerns"
+ },
+ {
+  "start": 959.6,
+  "duration": 4.32,
+  "text": "for internet debates. Now, one"
+ },
+ {
+  "start": 961.759,
+  "duration": 3.921,
+  "text": "interesting subcategory of the folks"
+ },
+ {
+  "start": 963.92,
+  "duration": 3.52,
+  "text": "concerned about job displacement, which"
+ },
+ {
+  "start": 965.68,
+  "duration": 2.959,
+  "text": "we see in the time piece, are the folks"
+ },
+ {
+  "start": 967.44,
+  "duration": 2.639,
+  "text": "who aren't just generally concerned"
+ },
+ {
+  "start": 968.639,
+  "duration": 3.44,
+  "text": "about things like white collar job"
+ },
+ {
+  "start": 970.079,
+  "duration": 4.161,
+  "text": "disruption, but have specific issues and"
+ },
+ {
+  "start": 972.079,
+  "duration": 4.56,
+  "text": "criticisms with the way that AI is being"
+ },
+ {
+  "start": 974.24,
+  "duration": 4.0,
+  "text": "implemented in particular workplaces. An"
+ },
+ {
+  "start": 976.639,
+  "duration": 3.521,
+  "text": "example of this from the time piece is"
+ },
+ {
+  "start": 978.24,
+  "duration": 3.519,
+  "text": "nurse Hannah Drummond. Now, based on"
+ },
+ {
+  "start": 980.16,
+  "duration": 3.359,
+  "text": "Times profile, which is of course all I"
+ },
+ {
+  "start": 981.759,
+  "duration": 3.841,
+  "text": "know about Hannah, it doesn't seem to me"
+ },
+ {
+  "start": 983.519,
+  "duration": 4.161,
+  "text": "like she's some ideologue who rejects AI"
+ },
+ {
+  "start": 985.6,
+  "duration": 3.84,
+  "text": "on principle, is that she has specific"
+ },
+ {
+  "start": 987.68,
+  "duration": 3.76,
+  "text": "concerns with how it's used in her"
+ },
+ {
+  "start": 989.44,
+  "duration": 3.68,
+  "text": "field, which she understandably feels"
+ },
+ {
+  "start": 991.44,
+  "duration": 4.24,
+  "text": "like she has some ground level lived"
+ },
+ {
+  "start": 993.12,
+  "duration": 4.639,
+  "text": "experience insight into. Time writes,"
+ },
+ {
+  "start": 995.68,
+  "duration": 3.92,
+  "text": "\"Drummond helped nurses at 17 facilities"
+ },
+ {
+  "start": 997.759,
+  "duration": 3.601,
+  "text": "in the HCA hospital system, including"
+ },
+ {
+  "start": 999.6,
+  "duration": 3.679,
+  "text": "her own, win AI protections in their"
+ },
+ {
+  "start": 1001.36,
+  "duration": 3.52,
+  "text": "most recent contract, including a"
+ },
+ {
+  "start": 1003.279,
+  "duration": 3.281,
+  "text": "provision requiring hospitals to give"
+ },
+ {
+  "start": 1004.88,
+  "duration": 3.44,
+  "text": "registered nurses a say in how new"
+ },
+ {
+  "start": 1006.56,
+  "duration": 3.36,
+  "text": "technologies related to patient care are"
+ },
+ {
+  "start": 1008.32,
+  "duration": 3.36,
+  "text": "implemented.\" Drummond points the"
+ },
+ {
+  "start": 1009.92,
+  "duration": 3.68,
+  "text": "concerns that nurses have had where the"
+ },
+ {
+  "start": 1011.68,
+  "duration": 3.76,
+  "text": "improper use of AI has not only been not"
+ },
+ {
+  "start": 1013.6,
+  "duration": 4.159,
+  "text": "helpful, but actively harmful. One"
+ },
+ {
+  "start": 1015.44,
+  "duration": 4.079,
+  "text": "example she gave was of an AI tool that"
+ },
+ {
+  "start": 1017.759,
+  "duration": 3.281,
+  "text": "was designed to automate shift handoffs"
+ },
+ {
+  "start": 1019.519,
+  "duration": 2.961,
+  "text": "that had assigned a patient with COVID"
+ },
+ {
+  "start": 1021.04,
+  "duration": 3.36,
+  "text": "alongside another who was immuno"
+ },
+ {
+  "start": 1022.48,
+  "duration": 4.16,
+  "text": "compromised which created obviously big"
+ },
+ {
+  "start": 1024.4,
+  "duration": 3.84,
+  "text": "risks for the imunompromised patient."
+ },
+ {
+  "start": 1026.64,
+  "duration": 3.199,
+  "text": "Drummond time writes doesn't want to ban"
+ },
+ {
+  "start": 1028.24,
+  "duration": 3.599,
+  "text": "AI from hospitals but says there need to"
+ },
+ {
+  "start": 1029.839,
+  "duration": 4.161,
+  "text": "be strict controls around its use. She"
+ },
+ {
+  "start": 1031.839,
+  "duration": 3.36,
+  "text": "says everything that reaches patients in"
+ },
+ {
+  "start": 1034.0,
+  "duration": 2.48,
+  "text": "healthcare has gone through rigorous"
+ },
+ {
+  "start": 1035.199,
+  "duration": 3.041,
+  "text": "testing and has proven to be safe,"
+ },
+ {
+  "start": 1036.48,
+  "duration": 3.199,
+  "text": "effective and free from harming us. Why"
+ },
+ {
+  "start": 1038.24,
+  "duration": 3.839,
+  "text": "would we cut out those same test points"
+ },
+ {
+  "start": 1039.679,
+  "duration": 4.4,
+  "text": "for this? Now, the last category of the"
+ },
+ {
+  "start": 1042.079,
+  "duration": 4.0,
+  "text": "anti-AI folks that I wanted to discuss"
+ },
+ {
+  "start": 1044.079,
+  "duration": 4.401,
+  "text": "is once again kind of a catch-all and"
+ },
+ {
+  "start": 1046.079,
+  "duration": 4.72,
+  "text": "we'll call the big tech haters. There"
+ },
+ {
+  "start": 1048.48,
+  "duration": 3.84,
+  "text": "are a bunch of flavors of this. One"
+ },
+ {
+  "start": 1050.799,
+  "duration": 3.12,
+  "text": "flavor that's increasingly popular in"
+ },
+ {
+  "start": 1052.32,
+  "duration": 3.52,
+  "text": "political rhetoric is the tech"
+ },
+ {
+  "start": 1053.919,
+  "duration": 3.361,
+  "text": "billionaires as partisan villains. This"
+ },
+ {
+  "start": 1055.84,
+  "duration": 3.12,
+  "text": "is of course more prominent, although"
+ },
+ {
+  "start": 1057.28,
+  "duration": 3.92,
+  "text": "not exclusively prominent on the left"
+ },
+ {
+  "start": 1058.96,
+  "duration": 3.76,
+  "text": "and was aided and abetted by tech's loud"
+ },
+ {
+  "start": 1061.2,
+  "duration": 3.28,
+  "text": "shift towards Trump in the most recent"
+ },
+ {
+  "start": 1062.72,
+  "duration": 3.199,
+  "text": "election cycle, as well as the very"
+ },
+ {
+  "start": 1064.48,
+  "duration": 3.36,
+  "text": "visible involvement of people like Peter"
+ },
+ {
+  "start": 1065.919,
+  "duration": 3.841,
+  "text": "Teal and Elon Musk on a national"
+ },
+ {
+  "start": 1067.84,
+  "duration": 4.16,
+  "text": "political stage. There are folks for"
+ },
+ {
+  "start": 1069.76,
+  "duration": 4.159,
+  "text": "whom hold aside any idea of Mark Andre"
+ },
+ {
+  "start": 1072.0,
+  "duration": 4.0,
+  "text": "as a super villain just have concerns in"
+ },
+ {
+  "start": 1073.919,
+  "duration": 3.921,
+  "text": "general about how much power the big"
+ },
+ {
+  "start": 1076.0,
+  "duration": 3.44,
+  "text": "tech companies have accred and again"
+ },
+ {
+  "start": 1077.84,
+  "duration": 3.52,
+  "text": "going back to the core idea at the heart"
+ },
+ {
+  "start": 1079.44,
+  "duration": 3.76,
+  "text": "of this episode of having humility even"
+ },
+ {
+  "start": 1081.36,
+  "duration": 4.16,
+  "text": "around positions that one doesn't hold."
+ },
+ {
+  "start": 1083.2,
+  "duration": 4.64,
+  "text": "It is absolutely the case that up until"
+ },
+ {
+  "start": 1085.52,
+  "duration": 3.92,
+  "text": "the last generation we had never had"
+ },
+ {
+  "start": 1087.84,
+  "duration": 2.719,
+  "text": "companies that touched billions of"
+ },
+ {
+  "start": 1089.44,
+  "duration": 2.88,
+  "text": "people in the way that big tech"
+ },
+ {
+  "start": 1090.559,
+  "duration": 3.761,
+  "text": "companies do. Part of the reason that"
+ },
+ {
+  "start": 1092.32,
+  "duration": 3.68,
+  "text": "it's so hard to regulate big tech is"
+ },
+ {
+  "start": 1094.32,
+  "duration": 3.04,
+  "text": "that networks and network effects don't"
+ },
+ {
+  "start": 1096.0,
+  "duration": 3.28,
+  "text": "operate in the same way that previous"
+ },
+ {
+  "start": 1097.36,
+  "duration": 3.439,
+  "text": "types of companies did. And however one"
+ },
+ {
+  "start": 1099.28,
+  "duration": 3.04,
+  "text": "wants to resolve them, there are lots of"
+ },
+ {
+  "start": 1100.799,
+  "duration": 3.601,
+  "text": "legitimate questions around the balance"
+ },
+ {
+  "start": 1102.32,
+  "duration": 3.52,
+  "text": "of powers between civil society,"
+ },
+ {
+  "start": 1104.4,
+  "duration": 4.159,
+  "text": "governments, and companies with big tech"
+ },
+ {
+  "start": 1105.84,
+  "duration": 5.04,
+  "text": "being a quintessential example. Now, one"
+ },
+ {
+  "start": 1108.559,
+  "duration": 5.36,
+  "text": "group which I actually think explains an"
+ },
+ {
+  "start": 1110.88,
+  "duration": 5.039,
+  "text": "extraordinary amount of AI animosity who"
+ },
+ {
+  "start": 1113.919,
+  "duration": 4.161,
+  "text": "is the folks who look back now 20 years"
+ },
+ {
+  "start": 1115.919,
+  "duration": 3.841,
+  "text": "on from the advent of social media who"
+ },
+ {
+  "start": 1118.08,
+  "duration": 3.76,
+  "text": "believe that not only has social media"
+ },
+ {
+  "start": 1119.76,
+  "duration": 4.0,
+  "text": "not particularly helped us but in fact"
+ },
+ {
+  "start": 1121.84,
+  "duration": 4.0,
+  "text": "that the world is actively worse for it"
+ },
+ {
+  "start": 1123.76,
+  "duration": 4.24,
+  "text": "existing. Matthew Iglacius wrote about"
+ },
+ {
+  "start": 1125.84,
+  "duration": 4.0,
+  "text": "this recently saying all discussions"
+ },
+ {
+  "start": 1128.0,
+  "duration": 3.52,
+  "text": "about AI happen in the shadow of the"
+ },
+ {
+  "start": 1129.84,
+  "duration": 3.199,
+  "text": "tremendous and very sincere optimism"
+ },
+ {
+  "start": 1131.52,
+  "duration": 4.48,
+  "text": "about the cultural impact of social"
+ },
+ {
+  "start": 1133.039,
+  "duration": 4.88,
+  "text": "media that existed 15 to 25 years ago. I"
+ },
+ {
+  "start": 1136.0,
+  "duration": 4.0,
+  "text": "think that even people who are very"
+ },
+ {
+  "start": 1137.919,
+  "duration": 3.441,
+  "text": "technology forward and progressive have"
+ },
+ {
+  "start": 1140.0,
+  "duration": 2.88,
+  "text": "massive concerns about the last"
+ },
+ {
+  "start": 1141.36,
+  "duration": 2.96,
+  "text": "generation of technology and social"
+ },
+ {
+  "start": 1142.88,
+  "duration": 2.88,
+  "text": "media, which you can see in the way that"
+ },
+ {
+  "start": 1144.32,
+  "duration": 3.359,
+  "text": "millennial parents are handling social"
+ },
+ {
+  "start": 1145.76,
+  "duration": 3.919,
+  "text": "media for their kids. I have a four"
+ },
+ {
+  "start": 1147.679,
+  "duration": 3.441,
+  "text": "almost 5-year-old and a 7-year-old. And"
+ },
+ {
+  "start": 1149.679,
+  "duration": 3.041,
+  "text": "none of the parents in and around our"
+ },
+ {
+  "start": 1151.12,
+  "duration": 2.799,
+  "text": "community are even considering giving"
+ },
+ {
+  "start": 1152.72,
+  "duration": 2.88,
+  "text": "their kids smartphones when they're"
+ },
+ {
+  "start": 1153.919,
+  "duration": 3.041,
+  "text": "young. We'll see how this changes in"
+ },
+ {
+  "start": 1155.6,
+  "duration": 3.199,
+  "text": "practice. But right now, pretty much all"
+ },
+ {
+  "start": 1156.96,
+  "duration": 4.32,
+  "text": "the parents I know who are not, I will"
+ },
+ {
+  "start": 1158.799,
+  "duration": 4.321,
+  "text": "be clear, lite anti-technology folks,"
+ },
+ {
+  "start": 1161.28,
+  "duration": 3.68,
+  "text": "many of them work in the technology"
+ },
+ {
+  "start": 1163.12,
+  "duration": 3.6,
+  "text": "field, but not a one of them wants their"
+ },
+ {
+  "start": 1164.96,
+  "duration": 4.24,
+  "text": "12 or 13year-old interacting with"
+ },
+ {
+  "start": 1166.72,
+  "duration": 4.4,
+  "text": "Instagram. Indeed, when you zoom out, I"
+ },
+ {
+  "start": 1169.2,
+  "duration": 3.76,
+  "text": "think that there are a few ingredients"
+ },
+ {
+  "start": 1171.12,
+  "duration": 4.08,
+  "text": "that are creating a particularly costic"
+ },
+ {
+  "start": 1172.96,
+  "duration": 4.16,
+  "text": "environment for AI right now in America."
+ },
+ {
+  "start": 1175.2,
+  "duration": 3.359,
+  "text": "One, like I just mentioned, is that many"
+ },
+ {
+  "start": 1177.12,
+  "duration": 3.28,
+  "text": "are not convinced that we're better off"
+ },
+ {
+  "start": 1178.559,
+  "duration": 3.521,
+  "text": "because of the internet, and so have a"
+ },
+ {
+  "start": 1180.4,
+  "duration": 3.76,
+  "text": "hard time accepting that all technology"
+ },
+ {
+  "start": 1182.08,
+  "duration": 3.28,
+  "text": "is inherently progress. Related very"
+ },
+ {
+  "start": 1184.16,
+  "duration": 2.8,
+  "text": "closely to that is what I was just"
+ },
+ {
+  "start": 1185.36,
+  "duration": 3.439,
+  "text": "discussing which is the legitimate"
+ },
+ {
+  "start": 1186.96,
+  "duration": 3.92,
+  "text": "concerns of people around the incredible"
+ },
+ {
+  "start": 1188.799,
+  "duration": 3.841,
+  "text": "power of the big technology companies to"
+ },
+ {
+  "start": 1190.88,
+  "duration": 3.28,
+  "text": "shape our lives. When the big output of"
+ },
+ {
+  "start": 1192.64,
+  "duration": 3.12,
+  "text": "those companies are not things that we"
+ },
+ {
+  "start": 1194.16,
+  "duration": 3.44,
+  "text": "perceive as generally having made our"
+ },
+ {
+  "start": 1195.76,
+  "duration": 3.76,
+  "text": "lives better but social media platforms"
+ },
+ {
+  "start": 1197.6,
+  "duration": 3.28,
+  "text": "that so often make us feel worse that"
+ },
+ {
+  "start": 1199.52,
+  "duration": 3.44,
+  "text": "colors how people look at the promise of"
+ },
+ {
+  "start": 1200.88,
+  "duration": 3.36,
+  "text": "a new generation of technology as well."
+ },
+ {
+  "start": 1202.96,
+  "duration": 3.2,
+  "text": "But I think that the other important"
+ },
+ {
+  "start": 1204.24,
+  "duration": 3.92,
+  "text": "part is that everything to some extent"
+ },
+ {
+  "start": 1206.16,
+  "duration": 4.32,
+  "text": "is downstream of economics. And"
+ },
+ {
+  "start": 1208.16,
+  "duration": 3.92,
+  "text": "economics for most people right now is"
+ },
+ {
+  "start": 1210.48,
+  "duration": 3.68,
+  "text": "actually or at least perceived to be"
+ },
+ {
+  "start": 1212.08,
+  "duration": 3.839,
+  "text": "very hard. Now, there is a ton of"
+ },
+ {
+  "start": 1214.16,
+  "duration": 3.04,
+  "text": "exploration around why people's"
+ },
+ {
+  "start": 1215.919,
+  "duration": 3.041,
+  "text": "perception of their own individual"
+ },
+ {
+  "start": 1217.2,
+  "duration": 3.68,
+  "text": "economic situation has gotten so much"
+ },
+ {
+  "start": 1218.96,
+  "duration": 3.68,
+  "text": "worse, even as general macro statistics"
+ },
+ {
+  "start": 1220.88,
+  "duration": 2.88,
+  "text": "have gotten better. Many people have"
+ },
+ {
+  "start": 1222.64,
+  "duration": 3.2,
+  "text": "answers to this question about the"
+ },
+ {
+  "start": 1223.76,
+  "duration": 3.68,
+  "text": "so-called vibe session. Some of it is"
+ },
+ {
+  "start": 1225.84,
+  "duration": 3.199,
+  "text": "related to the social media that we just"
+ },
+ {
+  "start": 1227.44,
+  "duration": 3.76,
+  "text": "talked about. The idea that people are"
+ },
+ {
+  "start": 1229.039,
+  "duration": 3.441,
+  "text": "now constantly confronted with images of"
+ },
+ {
+  "start": 1231.2,
+  "duration": 3.52,
+  "text": "people leading the lives that they'd"
+ },
+ {
+  "start": 1232.48,
+  "duration": 3.679,
+  "text": "like to that they can't afford. That"
+ },
+ {
+  "start": 1234.72,
+  "duration": 3.199,
+  "text": "changes people's perception of their own"
+ },
+ {
+  "start": 1236.159,
+  "duration": 3.601,
+  "text": "economic situation, even if in real"
+ },
+ {
+  "start": 1237.919,
+  "duration": 3.681,
+  "text": "terms things haven't gotten worse or"
+ },
+ {
+  "start": 1239.76,
+  "duration": 3.52,
+  "text": "have even gotten better. There are also"
+ },
+ {
+  "start": 1241.6,
+  "duration": 2.88,
+  "text": "more discreet actual economic things"
+ },
+ {
+  "start": 1243.28,
+  "duration": 3.2,
+  "text": "that don't have to do with just"
+ },
+ {
+  "start": 1244.48,
+  "duration": 3.36,
+  "text": "perception. When the price of essentials"
+ },
+ {
+  "start": 1246.48,
+  "duration": 2.96,
+  "text": "like groceries, transportation,"
+ },
+ {
+  "start": 1247.84,
+  "duration": 3.36,
+  "text": "healthcare, and housing rise faster than"
+ },
+ {
+  "start": 1249.44,
+  "duration": 3.52,
+  "text": "overall inflation, it doesn't really"
+ },
+ {
+  "start": 1251.2,
+  "duration": 3.76,
+  "text": "matter if advanced technology like flat"
+ },
+ {
+  "start": 1252.96,
+  "duration": 3.52,
+  "text": "screen TVs have gotten cheaper. You're"
+ },
+ {
+  "start": 1254.96,
+  "duration": 3.28,
+  "text": "feeling the pinch in a week- toeek way"
+ },
+ {
+  "start": 1256.48,
+  "duration": 3.439,
+  "text": "when you go to the grocery store. And"
+ },
+ {
+  "start": 1258.24,
+  "duration": 3.6,
+  "text": "then, of course, on top of all of this,"
+ },
+ {
+  "start": 1259.919,
+  "duration": 3.601,
+  "text": "we are in just an extremely politically"
+ },
+ {
+  "start": 1261.84,
+  "duration": 3.6,
+  "text": "divided moment, which makes this easier"
+ },
+ {
+  "start": 1263.52,
+  "duration": 3.68,
+  "text": "to make this partisan. So, you have all"
+ },
+ {
+  "start": 1265.44,
+  "duration": 3.359,
+  "text": "of these reasons that set up a rough"
+ },
+ {
+  "start": 1267.2,
+  "duration": 3.359,
+  "text": "environment for AI in terms of public"
+ },
+ {
+  "start": 1268.799,
+  "duration": 4.081,
+  "text": "perception. And then you have the"
+ },
+ {
+  "start": 1270.559,
+  "duration": 3.681,
+  "text": "so-called leaders of this industry. Sam"
+ },
+ {
+  "start": 1272.88,
+  "duration": 3.36,
+  "text": "Alman recently said in a public"
+ },
+ {
+  "start": 1274.24,
+  "duration": 3.76,
+  "text": "discussion, \"People talk about how much"
+ },
+ {
+  "start": 1276.24,
+  "duration": 3.36,
+  "text": "energy it takes to train an AI model,"
+ },
+ {
+  "start": 1278.0,
+  "duration": 3.44,
+  "text": "but it also takes a lot of energy to"
+ },
+ {
+  "start": 1279.6,
+  "duration": 2.959,
+  "text": "train a human. It takes like 20 years of"
+ },
+ {
+  "start": 1281.44,
+  "duration": 3.119,
+  "text": "life and all the food you eat during"
+ },
+ {
+  "start": 1282.559,
+  "duration": 3.761,
+  "text": "that time before you get smart.\" Context"
+ },
+ {
+  "start": 1284.559,
+  "duration": 4.24,
+  "text": "engineer Moratz and Coin responded to"
+ },
+ {
+  "start": 1286.32,
+  "duration": 4.16,
+  "text": "this. I build AI for a living. I believe"
+ },
+ {
+  "start": 1288.799,
+  "duration": 3.76,
+  "text": "in what we're building. But this kind of"
+ },
+ {
+  "start": 1290.48,
+  "duration": 4.0,
+  "text": "rhetoric makes my work harder and more"
+ },
+ {
+  "start": 1292.559,
+  "duration": 3.521,
+  "text": "dangerous. Comparing human development"
+ },
+ {
+  "start": 1294.48,
+  "duration": 3.439,
+  "text": "to model training is tonedeaf and"
+ },
+ {
+  "start": 1296.08,
+  "duration": 3.76,
+  "text": "strategically reckless. People are"
+ },
+ {
+  "start": 1297.919,
+  "duration": 3.681,
+  "text": "losing jobs. They're getting angry."
+ },
+ {
+  "start": 1299.84,
+  "duration": 3.839,
+  "text": "They're seeing AI as an enemy instead of"
+ },
+ {
+  "start": 1301.6,
+  "duration": 3.28,
+  "text": "a solution. Some are planning to destroy"
+ },
+ {
+  "start": 1303.679,
+  "duration": 3.201,
+  "text": "data centers and the people who build"
+ },
+ {
+  "start": 1304.88,
+  "duration": 3.44,
+  "text": "this stuff. That anger and backlash"
+ },
+ {
+  "start": 1306.88,
+  "duration": 2.799,
+  "text": "might not be reaching your floor, but it"
+ },
+ {
+  "start": 1308.32,
+  "duration": 3.44,
+  "text": "reaches the engineers and builders doing"
+ },
+ {
+  "start": 1309.679,
+  "duration": 3.761,
+  "text": "the actual work. The CEO of the most"
+ },
+ {
+  "start": 1311.76,
+  "duration": 3.84,
+  "text": "visible AI company should not frame"
+ },
+ {
+  "start": 1313.44,
+  "duration": 4.0,
+  "text": "humans as inefficient compute units."
+ },
+ {
+  "start": 1315.6,
+  "duration": 4.0,
+  "text": "Your role as a leader is to show how AI"
+ },
+ {
+  "start": 1317.44,
+  "duration": 3.76,
+  "text": "solves real problems for humanity, not"
+ },
+ {
+  "start": 1319.6,
+  "duration": 2.959,
+  "text": "to reduce human life to an energy"
+ },
+ {
+  "start": 1321.2,
+  "duration": 3.76,
+  "text": "accounting problem from a comfortable"
+ },
+ {
+  "start": 1322.559,
+  "duration": 4.401,
+  "text": "position. I'm a techno optimist. I"
+ },
+ {
+  "start": 1324.96,
+  "duration": 3.44,
+  "text": "believe AI enhances human capability. I"
+ },
+ {
+  "start": 1326.96,
+  "duration": 3.44,
+  "text": "work with this new form of intelligence"
+ },
+ {
+  "start": 1328.4,
+  "duration": 4.08,
+  "text": "every day. I genuinely respect what it"
+ },
+ {
+  "start": 1330.4,
+  "duration": 4.08,
+  "text": "is. It is real, significant, and unlike"
+ },
+ {
+  "start": 1332.48,
+  "duration": 4.079,
+  "text": "anything that has existed before. But I"
+ },
+ {
+  "start": 1334.48,
+  "duration": 3.199,
+  "text": "also believe in human excellence. We"
+ },
+ {
+  "start": 1336.559,
+  "duration": 2.24,
+  "text": "have to accept that it's two"
+ },
+ {
+  "start": 1337.679,
+  "duration": 3.041,
+  "text": "fundamentally different forms of"
+ },
+ {
+  "start": 1338.799,
+  "duration": 3.601,
+  "text": "intelligence working together. In my"
+ },
+ {
+  "start": 1340.72,
+  "duration": 3.36,
+  "text": "humble opinion, the real technoptimist"
+ },
+ {
+  "start": 1342.4,
+  "duration": 3.6,
+  "text": "position isn't AI is cheaper than"
+ },
+ {
+  "start": 1344.08,
+  "duration": 3.28,
+  "text": "humans. It's we now have two forms of"
+ },
+ {
+  "start": 1346.0,
+  "duration": 2.96,
+  "text": "intelligence on this planet and the"
+ },
+ {
+  "start": 1347.36,
+  "duration": 3.92,
+  "text": "combination is more powerful than either"
+ },
+ {
+  "start": 1348.96,
+  "duration": 4.16,
+  "text": "alone. Speaking to Sam directly, he"
+ },
+ {
+  "start": 1351.28,
+  "duration": 3.759,
+  "text": "concludes, \"You're the leader of open"
+ },
+ {
+  "start": 1353.12,
+  "duration": 3.76,
+  "text": "AI, and whether you chose it or not, you"
+ },
+ {
+  "start": 1355.039,
+  "duration": 4.161,
+  "text": "represent everyone building an AI right"
+ },
+ {
+  "start": 1356.88,
+  "duration": 3.679,
+  "text": "now. Every word you say shapes how the"
+ },
+ {
+  "start": 1359.2,
+  "duration": 4.8,
+  "text": "world sees this technology and the"
+ },
+ {
+  "start": 1360.559,
+  "duration": 5.441,
+  "text": "people behind it. Please act like it.\""
+ },
+ {
+  "start": 1364.0,
+  "duration": 3.6,
+  "text": "Now, I wanted to do this episode to"
+ },
+ {
+  "start": 1366.0,
+  "duration": 4.0,
+  "text": "break apart the different elements of"
+ },
+ {
+  "start": 1367.6,
+  "duration": 3.92,
+  "text": "anti-AI sentiment right now because I"
+ },
+ {
+  "start": 1370.0,
+  "duration": 3.76,
+  "text": "think that as we get more precise about"
+ },
+ {
+  "start": 1371.52,
+  "duration": 3.92,
+  "text": "what people's concerns are, we can do"
+ },
+ {
+  "start": 1373.76,
+  "duration": 3.12,
+  "text": "more to address them. And like I"
+ },
+ {
+  "start": 1375.44,
+  "duration": 3.119,
+  "text": "indicated at the beginning, call me"
+ },
+ {
+  "start": 1376.88,
+  "duration": 3.6,
+  "text": "naive, but I think there's more room for"
+ },
+ {
+  "start": 1378.559,
+  "duration": 4.561,
+  "text": "optimism than people might think. Even"
+ },
+ {
+  "start": 1380.48,
+  "duration": 4.319,
+  "text": "in the critique, coming back to the nine"
+ },
+ {
+  "start": 1383.12,
+  "duration": 4.32,
+  "text": "folks profiled in this Time magazine"
+ },
+ {
+  "start": 1384.799,
+  "duration": 4.801,
+  "text": "piece, what you don't have in there is"
+ },
+ {
+  "start": 1387.44,
+  "duration": 3.68,
+  "text": "anyone claiming that an army of robots"
+ },
+ {
+  "start": 1389.6,
+  "duration": 3.199,
+  "text": "is going to rise up and kill us all for"
+ },
+ {
+  "start": 1391.12,
+  "duration": 3.28,
+  "text": "some unknown reason. You don't have"
+ },
+ {
+  "start": 1392.799,
+  "duration": 3.36,
+  "text": "anyone talking about AI bubbles and"
+ },
+ {
+  "start": 1394.4,
+  "duration": 3.36,
+  "text": "concerns about market pricing, or people"
+ },
+ {
+  "start": 1396.159,
+  "duration": 3.52,
+  "text": "giving the line that, well, actually, AI"
+ },
+ {
+  "start": 1397.76,
+  "duration": 3.44,
+  "text": "isn't all that good. Instead, you have"
+ },
+ {
+  "start": 1399.679,
+  "duration": 3.441,
+  "text": "folks like Pana Drummond that we just"
+ },
+ {
+  "start": 1401.2,
+  "duration": 3.68,
+  "text": "profiled who aren't unwilling to engage"
+ },
+ {
+  "start": 1403.12,
+  "duration": 3.52,
+  "text": "with AI in their field. They just want"
+ },
+ {
+  "start": 1404.88,
+  "duration": 4.0,
+  "text": "to ensure that it's actually helpful."
+ },
+ {
+  "start": 1406.64,
+  "duration": 4.08,
+  "text": "Austin-based pastor Michael Grayson is"
+ },
+ {
+  "start": 1408.88,
+  "duration": 3.679,
+  "text": "very demonstratively not AI on"
+ },
+ {
+  "start": 1410.72,
+  "duration": 3.52,
+  "text": "principle, but worried about teen"
+ },
+ {
+  "start": 1412.559,
+  "duration": 3.6,
+  "text": "chatbot dependency in the loneliness"
+ },
+ {
+  "start": 1414.24,
+  "duration": 4.0,
+  "text": "epidemic. Muscogee Nation activists"
+ },
+ {
+  "start": 1416.159,
+  "duration": 3.441,
+  "text": "Jordan Harmon and Mackenzie Roberts are"
+ },
+ {
+  "start": 1418.24,
+  "duration": 3.439,
+  "text": "concerned with data centers, but not"
+ },
+ {
+  "start": 1419.6,
+  "duration": 3.6,
+  "text": "because data centers are a priority bad"
+ },
+ {
+  "start": 1421.679,
+  "duration": 2.961,
+  "text": "because in the specific area that they"
+ },
+ {
+  "start": 1423.2,
+  "duration": 3.92,
+  "text": "work, they're getting tangled up with"
+ },
+ {
+  "start": 1424.64,
+  "duration": 4.0,
+  "text": "sovereign and native land rights."
+ },
+ {
+  "start": 1427.12,
+  "duration": 3.679,
+  "text": "Georgia Public Service Commission member"
+ },
+ {
+  "start": 1428.64,
+  "duration": 4.48,
+  "text": "Alicia Johnson again is not actually"
+ },
+ {
+  "start": 1430.799,
+  "duration": 4.401,
+  "text": "against AI. She wants the way that data"
+ },
+ {
+  "start": 1433.12,
+  "duration": 4.24,
+  "text": "centers get built to be economically"
+ },
+ {
+  "start": 1435.2,
+  "duration": 3.839,
+  "text": "fair. The way that increased energy"
+ },
+ {
+  "start": 1437.36,
+  "duration": 3.84,
+  "text": "generation capacity used to be brought"
+ },
+ {
+  "start": 1439.039,
+  "duration": 3.76,
+  "text": "online where the cost of setting up new"
+ },
+ {
+  "start": 1441.2,
+  "duration": 3.839,
+  "text": "generation was passed on to local"
+ },
+ {
+  "start": 1442.799,
+  "duration": 3.521,
+  "text": "consumers very obviously doesn't work"
+ },
+ {
+  "start": 1445.039,
+  "duration": 2.961,
+  "text": "when those consumers aren't the"
+ },
+ {
+  "start": 1446.32,
+  "duration": 3.44,
+  "text": "beneficiary but all that new power goes"
+ },
+ {
+  "start": 1448.0,
+  "duration": 4.4,
+  "text": "to a data center. But that is an"
+ },
+ {
+  "start": 1449.76,
+  "duration": 4.32,
+  "text": "unbelievably solvable issue and frankly"
+ },
+ {
+  "start": 1452.4,
+  "duration": 3.759,
+  "text": "the fact that it hasn't been solved yet"
+ },
+ {
+  "start": 1454.08,
+  "duration": 3.76,
+  "text": "is I think a massive failure of both"
+ },
+ {
+  "start": 1456.159,
+  "duration": 4.0,
+  "text": "policy and imagination from the people"
+ },
+ {
+  "start": 1457.84,
+  "duration": 4.24,
+  "text": "who are building the data centers. There"
+ },
+ {
+  "start": 1460.159,
+  "duration": 3.601,
+  "text": "is absolutely no reason with the"
+ },
+ {
+  "start": 1462.08,
+  "duration": 3.12,
+  "text": "economic structures being what they are"
+ },
+ {
+  "start": 1463.76,
+  "duration": 3.519,
+  "text": "that data centers couldn't be some of"
+ },
+ {
+  "start": 1465.2,
+  "duration": 3.599,
+  "text": "the most pro community positively"
+ },
+ {
+  "start": 1467.279,
+  "duration": 3.441,
+  "text": "engaged types of businesses wherever"
+ },
+ {
+  "start": 1468.799,
+  "duration": 3.681,
+  "text": "they operate. By the way, even Donald"
+ },
+ {
+  "start": 1470.72,
+  "duration": 3.36,
+  "text": "Trump is on this train increasingly"
+ },
+ {
+  "start": 1472.48,
+  "duration": 3.36,
+  "text": "pushing the AI operators to make"
+ },
+ {
+  "start": 1474.08,
+  "duration": 3.12,
+  "text": "commitments to ensure that they are"
+ },
+ {
+  "start": 1475.84,
+  "duration": 3.36,
+  "text": "better stewards for the communities that"
+ },
+ {
+  "start": 1477.2,
+  "duration": 4.079,
+  "text": "their data centers operate within. A"
+ },
+ {
+  "start": 1479.2,
+  "duration": 4.079,
+  "text": "last point of optimism as we conclude is"
+ },
+ {
+  "start": 1481.279,
+  "duration": 4.4,
+  "text": "that right now the political discourse"
+ },
+ {
+  "start": 1483.279,
+  "duration": 4.801,
+  "text": "around AI has not hardened. It hasn't"
+ },
+ {
+  "start": 1485.679,
+  "duration": 3.921,
+  "text": "hardened from a partisan perspective and"
+ },
+ {
+  "start": 1488.08,
+  "duration": 2.8,
+  "text": "even the policies that people want to"
+ },
+ {
+  "start": 1489.6,
+  "duration": 2.88,
+  "text": "address all these issues are still"
+ },
+ {
+  "start": 1490.88,
+  "duration": 4.0,
+  "text": "forming. Politicians are currently"
+ },
+ {
+  "start": 1492.48,
+  "duration": 4.96,
+  "text": "exploring new types of proposals for new"
+ },
+ {
+  "start": 1494.88,
+  "duration": 4.159,
+  "text": "policies for the AI age and there's"
+ },
+ {
+  "start": 1497.44,
+  "duration": 3.599,
+  "text": "still a ton of room to shape perception"
+ },
+ {
+  "start": 1499.039,
+  "duration": 3.52,
+  "text": "of what should be done. I'm sure that as"
+ },
+ {
+  "start": 1501.039,
+  "duration": 3.52,
+  "text": "political campaigns take on a bigger"
+ },
+ {
+  "start": 1502.559,
+  "duration": 3.12,
+  "text": "portion of mind share in 2026, we'll be"
+ },
+ {
+  "start": 1504.559,
+  "duration": 2.881,
+  "text": "talking more about what some of those"
+ },
+ {
+  "start": 1505.679,
+  "duration": 3.841,
+  "text": "proposals look like. But the point is"
+ },
+ {
+  "start": 1507.44,
+  "duration": 4.16,
+  "text": "that right now the world has not,"
+ },
+ {
+  "start": 1509.52,
+  "duration": 4.159,
+  "text": "despite what X might make you think,"
+ },
+ {
+  "start": 1511.6,
+  "duration": 4.24,
+  "text": "hardened into the transhumanist"
+ },
+ {
+  "start": 1513.679,
+  "duration": 5.041,
+  "text": "accelerationists on the one hand and the"
+ },
+ {
+  "start": 1515.84,
+  "duration": 5.12,
+  "text": "neolletites on the other. The vast vast"
+ },
+ {
+  "start": 1518.72,
+  "duration": 3.839,
+  "text": "majority of people sit in the middle"
+ },
+ {
+  "start": 1520.96,
+  "duration": 3.199,
+  "text": "trying to make sense of what this is all"
+ },
+ {
+  "start": 1522.559,
+  "duration": 3.201,
+  "text": "going to mean for them, their families,"
+ },
+ {
+  "start": 1524.159,
+  "duration": 3.601,
+  "text": "and their communities. They are not"
+ },
+ {
+  "start": 1525.76,
+  "duration": 3.68,
+  "text": "going to accept blindly that somehow"
+ },
+ {
+  "start": 1527.76,
+  "duration": 3.039,
+  "text": "this is just going to be a good thing."
+ },
+ {
+  "start": 1529.44,
+  "duration": 3.44,
+  "text": "But most of them are also not going to"
+ },
+ {
+  "start": 1530.799,
+  "duration": 4.081,
+  "text": "reject out of hand the possibility that"
+ },
+ {
+  "start": 1532.88,
+  "duration": 4.159,
+  "text": "it could be. The more we do to address"
+ },
+ {
+  "start": 1534.88,
+  "duration": 4.08,
+  "text": "real issues, even if it's incrementally"
+ },
+ {
+  "start": 1537.039,
+  "duration": 4.0,
+  "text": "and one by one, the more that we might"
+ },
+ {
+  "start": 1538.96,
+  "duration": 4.319,
+  "text": "be able to shift the emerging anti-AII"
+ },
+ {
+  "start": 1541.039,
+  "duration": 3.76,
+  "text": "movement into a cautiously optimistic"
+ },
+ {
+  "start": 1543.279,
+  "duration": 3.681,
+  "text": "coalition that actually can look forward"
+ },
+ {
+  "start": 1544.799,
+  "duration": 3.841,
+  "text": "to the future. Ultimately, this show is"
+ },
+ {
+  "start": 1546.96,
+  "duration": 3.52,
+  "text": "not going to turn into a political show,"
+ },
+ {
+  "start": 1548.64,
+  "duration": 3.68,
+  "text": "and it is not going to primarily focus"
+ },
+ {
+  "start": 1550.48,
+  "duration": 3.76,
+  "text": "on the societal impacts of AI, although"
+ },
+ {
+  "start": 1552.32,
+  "duration": 4.08,
+  "text": "that will always be a part. My mission"
+ },
+ {
+  "start": 1554.24,
+  "duration": 4.48,
+  "text": "in all of this is to give the people who"
+ },
+ {
+  "start": 1556.4,
+  "duration": 3.519,
+  "text": "have decided that AI is going to be an"
+ },
+ {
+  "start": 1558.72,
+  "duration": 3.12,
+  "text": "incredibly important force in their"
+ },
+ {
+  "start": 1559.919,
+  "duration": 3.521,
+  "text": "lives going forward all the tools I"
+ },
+ {
+  "start": 1561.84,
+  "duration": 3.76,
+  "text": "possibly can to make that as positive"
+ },
+ {
+  "start": 1563.44,
+  "duration": 4.239,
+  "text": "for them and their families as can be."
+ },
+ {
+  "start": 1565.6,
+  "duration": 4.0,
+  "text": "But when I see this Time magazine piece,"
+ },
+ {
+  "start": 1567.679,
+  "duration": 4.161,
+  "text": "I do not see a bunch of opponents. I"
+ },
+ {
+  "start": 1569.6,
+  "duration": 3.439,
+  "text": "just see opportunity. Wish me luck"
+ },
+ {
+  "start": 1571.84,
+  "duration": 2.56,
+  "text": "getting home. Hopefully I will be with"
+ },
+ {
+  "start": 1573.039,
+  "duration": 3.281,
+  "text": "you in normal form from the Hudson"
+ },
+ {
+  "start": 1574.4,
+  "duration": 3.759,
+  "text": "Valley tomorrow. For now, that is going"
+ },
+ {
+  "start": 1576.32,
+  "duration": 3.359,
+  "text": "to do it for today's AI Daily Brief."
+ },
+ {
+  "start": 1578.159,
+  "duration": 5.841,
+  "text": "Appreciate you listening or watching as"
+ },
+ {
+  "start": 1579.679,
+  "duration": 4.321,
+  "text": "always and until next time, peace."
+ }
+]

@@ -1,0 +1,1517 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.52,
+  "text": "Big leak today as Anthropic confirms a"
+ },
+ {
+  "start": 2.44,
+  "duration": 4.84,
+  "text": "new model that is a step change in"
+ },
+ {
+  "start": 4.52,
+  "duration": 5.28,
+  "text": "capabilities from even Opus."
+ },
+ {
+  "start": 7.28,
+  "duration": 4.48,
+  "text": "Late breaking one last night, a data"
+ },
+ {
+  "start": 9.8,
+  "duration": 3.8,
+  "text": "leak revealed that Anthropic is testing"
+ },
+ {
+  "start": 11.76,
+  "duration": 4.32,
+  "text": "a new model referred to as Claude"
+ },
+ {
+  "start": 13.6,
+  "duration": 4.04,
+  "text": "Mythos. Anthropic has confirmed the"
+ },
+ {
+  "start": 16.08,
+  "duration": 3.28,
+  "text": "existence of this model with a"
+ },
+ {
+  "start": 17.64,
+  "duration": 3.92,
+  "text": "spokesperson saying that it was a step"
+ },
+ {
+  "start": 19.36,
+  "duration": 3.72,
+  "text": "change, their words, in performance and"
+ },
+ {
+  "start": 21.56,
+  "duration": 3.36,
+  "text": "quote the most capable we've built to"
+ },
+ {
+  "start": 23.08,
+  "duration": 4.44,
+  "text": "date. They said the model is currently"
+ },
+ {
+  "start": 24.92,
+  "duration": 4.48,
+  "text": "being trialed by early access customers."
+ },
+ {
+  "start": 27.52,
+  "duration": 3.88,
+  "text": "So, here's what happened. On Thursday"
+ },
+ {
+  "start": 29.4,
+  "duration": 3.64,
+  "text": "evening, a draft blog post describing"
+ },
+ {
+  "start": 31.4,
+  "duration": 3.84,
+  "text": "the model was left in an unsecured"
+ },
+ {
+  "start": 33.04,
+  "duration": 3.8,
+  "text": "publicly searchable database. The blog"
+ },
+ {
+  "start": 35.24,
+  "duration": 3.48,
+  "text": "post says we finished training a new AI"
+ },
+ {
+  "start": 36.84,
+  "duration": 3.16,
+  "text": "model, Claude Mythos. It's by far the"
+ },
+ {
+  "start": 38.72,
+  "duration": 3.28,
+  "text": "most powerful AI model we've ever"
+ },
+ {
+  "start": 40.0,
+  "duration": 3.8,
+  "text": "developed. Mythos, they write, is a new"
+ },
+ {
+  "start": 42.0,
+  "duration": 3.36,
+  "text": "name for a new tier of model, larger and"
+ },
+ {
+  "start": 43.8,
+  "duration": 3.72,
+  "text": "more intelligent than our Opus models,"
+ },
+ {
+  "start": 45.36,
+  "duration": 3.36,
+  "text": "which were until now our most powerful."
+ },
+ {
+  "start": 47.52,
+  "duration": 2.48,
+  "text": "We chose the name to evoke the deep"
+ },
+ {
+  "start": 48.72,
+  "duration": 3.32,
+  "text": "connective tissue that links together"
+ },
+ {
+  "start": 50.0,
+  "duration": 4.44,
+  "text": "knowledge and ideas. Compared to our"
+ },
+ {
+  "start": 52.04,
+  "duration": 4.16,
+  "text": "previous best model, Claude Opus 4.6,"
+ },
+ {
+  "start": 54.44,
+  "duration": 3.52,
+  "text": "Mythos gets dramatically higher scores"
+ },
+ {
+  "start": 56.2,
+  "duration": 3.48,
+  "text": "on tests of software coding, academic"
+ },
+ {
+  "start": 57.96,
+  "duration": 3.76,
+  "text": "reasoning, and cybersecurity, among"
+ },
+ {
+  "start": 59.68,
+  "duration": 3.76,
+  "text": "others. In preparing to release Claude"
+ },
+ {
+  "start": 61.72,
+  "duration": 3.24,
+  "text": "Mythos, however, they say, we want to"
+ },
+ {
+  "start": 63.44,
+  "duration": 3.64,
+  "text": "act with extra caution and understand"
+ },
+ {
+  "start": 64.96,
+  "duration": 4.12,
+  "text": "the risks it poses, even beyond what we"
+ },
+ {
+  "start": 67.08,
+  "duration": 3.12,
+  "text": "learn in our own testing. In particular,"
+ },
+ {
+  "start": 69.08,
+  "duration": 2.6,
+  "text": "we want to understand the model's"
+ },
+ {
+  "start": 70.2,
+  "duration": 3.48,
+  "text": "potential near-term risks in the realm"
+ },
+ {
+  "start": 71.68,
+  "duration": 4.28,
+  "text": "of cybersecurity and share the results"
+ },
+ {
+  "start": 73.68,
+  "duration": 4.48,
+  "text": "to help cyber defenders prepare. Mythos"
+ },
+ {
+  "start": 75.96,
+  "duration": 3.8,
+  "text": "is also a large compute-intensive model."
+ },
+ {
+  "start": 78.16,
+  "duration": 3.04,
+  "text": "It's very expensive for us to serve and"
+ },
+ {
+  "start": 79.76,
+  "duration": 3.32,
+  "text": "will be very expensive for our customers"
+ },
+ {
+  "start": 81.2,
+  "duration": 3.28,
+  "text": "to use. We're working to make the model"
+ },
+ {
+  "start": 83.08,
+  "duration": 3.44,
+  "text": "much more efficient before any general"
+ },
+ {
+  "start": 84.48,
+  "duration": 3.44,
+  "text": "release. For those reasons, we're taking"
+ },
+ {
+  "start": 86.52,
+  "duration": 2.68,
+  "text": "a slower, more gradual approach to"
+ },
+ {
+  "start": 87.92,
+  "duration": 2.76,
+  "text": "releasing Mythos than we have with our"
+ },
+ {
+  "start": 89.2,
+  "duration": 3.44,
+  "text": "other models. We're beginning with a"
+ },
+ {
+  "start": 90.68,
+  "duration": 2.84,
+  "text": "small number of early access customers"
+ },
+ {
+  "start": 92.64,
+  "duration": 2.36,
+  "text": "who will explore the model's"
+ },
+ {
+  "start": 93.52,
+  "duration": 3.36,
+  "text": "cybersecurity applications and report"
+ },
+ {
+  "start": 95.0,
+  "duration": 4.12,
+  "text": "back what they find."
+ },
+ {
+  "start": 96.88,
+  "duration": 4.36,
+  "text": "Now, this blog post is very undercooked."
+ },
+ {
+  "start": 99.12,
+  "duration": 3.52,
+  "text": "It ends not too long after that. Now, if"
+ },
+ {
+  "start": 101.24,
+  "duration": 3.08,
+  "text": "you hear the term capybara thrown"
+ },
+ {
+  "start": 102.64,
+  "duration": 3.52,
+  "text": "around, apparently the model was also"
+ },
+ {
+  "start": 104.32,
+  "duration": 4.04,
+  "text": "referred to as that. I'm not sure if"
+ },
+ {
+  "start": 106.16,
+  "duration": 3.68,
+  "text": "capybara was the code name and Mythos is"
+ },
+ {
+  "start": 108.36,
+  "duration": 4.2,
+  "text": "the intended launch name, but"
+ },
+ {
+  "start": 109.84,
+  "duration": 4.96,
+  "text": "regardless, this draft blog post was it"
+ },
+ {
+  "start": 112.56,
+  "duration": 3.8,
+  "text": "a cache of unsecured documents. In"
+ },
+ {
+  "start": 114.8,
+  "duration": 3.48,
+  "text": "total, Fortune reports there appear to"
+ },
+ {
+  "start": 116.36,
+  "duration": 3.84,
+  "text": "be close to 3,000 assets linked to"
+ },
+ {
+  "start": 118.28,
+  "duration": 3.44,
+  "text": "Anthropic's blog that had not previously"
+ },
+ {
+  "start": 120.2,
+  "duration": 2.88,
+  "text": "been published."
+ },
+ {
+  "start": 121.72,
+  "duration": 2.88,
+  "text": "Now, there is a lot of chatter about"
+ },
+ {
+  "start": 123.08,
+  "duration": 3.2,
+  "text": "this one, not least of which is the"
+ },
+ {
+  "start": 124.6,
+  "duration": 3.799,
+  "text": "choice of name, which many people"
+ },
+ {
+  "start": 126.28,
+  "duration": 4.16,
+  "text": "associate with the Cthulhu Mythos, which"
+ },
+ {
+  "start": 128.399,
+  "duration": 3.721,
+  "text": "given how much the AI safety folks use"
+ },
+ {
+  "start": 130.44,
+  "duration": 3.64,
+  "text": "those sort of literary reference points"
+ },
+ {
+  "start": 132.12,
+  "duration": 4.08,
+  "text": "to describe their concerns about AI, may"
+ },
+ {
+  "start": 134.08,
+  "duration": 3.44,
+  "text": "not be the most advised name. People"
+ },
+ {
+  "start": 136.2,
+  "duration": 3.8,
+  "text": "also compared it to the recently"
+ },
+ {
+  "start": 137.52,
+  "duration": 4.04,
+  "text": "revealed spud from OpenAI with Jason"
+ },
+ {
+  "start": 140.0,
+  "duration": 3.24,
+  "text": "Botterill writing, I like how"
+ },
+ {
+  "start": 141.56,
+  "duration": 3.84,
+  "text": "Anthropic's mysterious spooky new model"
+ },
+ {
+  "start": 143.24,
+  "duration": 4.32,
+  "text": "is code-named Mythos, while OpenAI named"
+ },
+ {
+  "start": 145.4,
+  "duration": 3.36,
+  "text": "theirs after a freaking potato."
+ },
+ {
+  "start": 147.56,
+  "duration": 3.24,
+  "text": "Still, the broader sentiment was"
+ },
+ {
+  "start": 148.76,
+  "duration": 4.48,
+  "text": "captured by Gavin Purcell who says, it"
+ },
+ {
+  "start": 150.8,
+  "duration": 3.72,
+  "text": "will only go faster from here."
+ },
+ {
+  "start": 153.24,
+  "duration": 3.12,
+  "text": "Obviously, there will be a lot to watch"
+ },
+ {
+  "start": 154.52,
+  "duration": 3.12,
+  "text": "with this one. Unfortunately, for those"
+ },
+ {
+  "start": 156.36,
+  "duration": 3.6,
+  "text": "of us who want to get our hands on the"
+ },
+ {
+  "start": 157.64,
+  "duration": 3.84,
+  "text": "most powerful models at any given time,"
+ },
+ {
+  "start": 159.96,
+  "duration": 2.96,
+  "text": "it kind of looks like the blog post was"
+ },
+ {
+  "start": 161.48,
+  "duration": 3.2,
+  "text": "not even announcement of the release of"
+ },
+ {
+  "start": 162.92,
+  "duration": 3.28,
+  "text": "the model, just an advanced warning"
+ },
+ {
+  "start": 164.68,
+  "duration": 2.76,
+  "text": "about it. So, who knows how long it'll"
+ },
+ {
+  "start": 166.2,
+  "duration": 2.76,
+  "text": "take before we actually see it in"
+ },
+ {
+  "start": 167.44,
+  "duration": 3.76,
+  "text": "practice."
+ },
+ {
+  "start": 168.96,
+  "duration": 4.12,
+  "text": "Now, one model that is available now,"
+ },
+ {
+  "start": 171.2,
+  "duration": 4.04,
+  "text": "Google has dropped a small voice model"
+ },
+ {
+  "start": 173.08,
+  "duration": 4.8,
+  "text": "that could have big implications. The"
+ },
+ {
+  "start": 175.24,
+  "duration": 4.04,
+  "text": "model is Gemini 3.1 Flash Live, which"
+ },
+ {
+  "start": 177.88,
+  "duration": 3.72,
+  "text": "brings real-time dialogue to voice"
+ },
+ {
+  "start": 179.28,
+  "duration": 3.88,
+  "text": "models. Up until now, most voice models"
+ },
+ {
+  "start": 181.6,
+  "duration": 2.88,
+  "text": "have been turn-based, causing awkward"
+ },
+ {
+  "start": 183.16,
+  "duration": 3.68,
+  "text": "stumbles and terrible interruption"
+ },
+ {
+  "start": 184.48,
+  "duration": 4.16,
+  "text": "handling. Flash Live is designed to work"
+ },
+ {
+  "start": 186.84,
+  "duration": 3.32,
+  "text": "more like a human conversation with a"
+ },
+ {
+  "start": 188.64,
+  "duration": 3.52,
+  "text": "continuous back and forth rather than a"
+ },
+ {
+  "start": 190.16,
+  "duration": 3.36,
+  "text": "jarring stilted experience. The model"
+ },
+ {
+  "start": 192.16,
+  "duration": 2.88,
+  "text": "apparently shows a step change"
+ },
+ {
+  "start": 193.52,
+  "duration": 3.4,
+  "text": "improvement in multiple on multiple"
+ },
+ {
+  "start": 195.04,
+  "duration": 3.84,
+  "text": "audio benchmarks, including one designed"
+ },
+ {
+  "start": 196.92,
+  "duration": 3.24,
+  "text": "to measure multi-step function calling."
+ },
+ {
+  "start": 198.88,
+  "duration": 3.8,
+  "text": "That's the feature that converts voice"
+ },
+ {
+  "start": 200.16,
+  "duration": 4.0,
+  "text": "commands into complex agentic actions."
+ },
+ {
+  "start": 202.68,
+  "duration": 3.12,
+  "text": "Some customers like Home Depot have"
+ },
+ {
+  "start": 204.16,
+  "duration": 3.08,
+  "text": "already deployed the model and Google"
+ },
+ {
+  "start": 205.8,
+  "duration": 3.12,
+  "text": "noted a big improvement in handling"
+ },
+ {
+  "start": 207.24,
+  "duration": 3.96,
+  "text": "complex details like alphanumeric"
+ },
+ {
+  "start": 208.92,
+  "duration": 3.72,
+  "text": "product codes in noisy environments."
+ },
+ {
+  "start": 211.2,
+  "duration": 2.92,
+  "text": "So, the obvious implication is the"
+ },
+ {
+  "start": 212.64,
+  "duration": 3.32,
+  "text": "quality of personal voice agents on"
+ },
+ {
+  "start": 214.12,
+  "duration": 3.56,
+  "text": "mobile devices, and especially given"
+ },
+ {
+  "start": 215.96,
+  "duration": 3.68,
+  "text": "that Apple is looking to Gemini to power"
+ },
+ {
+  "start": 217.68,
+  "duration": 3.36,
+  "text": "the new version of Siri, the long winter"
+ },
+ {
+  "start": 219.64,
+  "duration": 3.48,
+  "text": "of our discontent of Siri not"
+ },
+ {
+  "start": 221.04,
+  "duration": 4.96,
+  "text": "understanding a single damn word we say"
+ },
+ {
+  "start": 223.12,
+  "duration": 4.52,
+  "text": "may finally be coming to an end."
+ },
+ {
+  "start": 226.0,
+  "duration": 3.6,
+  "text": "One small product announcement from"
+ },
+ {
+  "start": 227.64,
+  "duration": 4.16,
+  "text": "Shopify that I actually think could be"
+ },
+ {
+  "start": 229.6,
+  "duration": 4.56,
+  "text": "fairly significant. One of my weirder or"
+ },
+ {
+  "start": 231.8,
+  "duration": 3.92,
+  "text": "more out-there predictions for 2026 was"
+ },
+ {
+  "start": 234.16,
+  "duration": 3.76,
+  "text": "that I thought that Shopify has kind of"
+ },
+ {
+  "start": 235.72,
+  "duration": 3.96,
+  "text": "an outsized role to play in the positive"
+ },
+ {
+  "start": 237.92,
+  "duration": 4.12,
+  "text": "normalization of AI."
+ },
+ {
+  "start": 239.68,
+  "duration": 3.44,
+  "text": "The reason for that is that Shopify is"
+ },
+ {
+  "start": 242.04,
+  "duration": 3.4,
+  "text": "where a ton of small business"
+ },
+ {
+  "start": 243.12,
+  "duration": 4.6,
+  "text": "entrepreneurship lives. Shopify's tools"
+ },
+ {
+  "start": 245.44,
+  "duration": 4.12,
+  "text": "have already, even in the pre-AI era,"
+ },
+ {
+  "start": 247.72,
+  "duration": 3.0,
+  "text": "given people who felt overwhelmed by"
+ },
+ {
+  "start": 249.56,
+  "duration": 3.04,
+  "text": "what they needed to do to start a"
+ },
+ {
+  "start": 250.72,
+  "duration": 4.12,
+  "text": "business enough help to get over the"
+ },
+ {
+  "start": 252.6,
+  "duration": 4.08,
+  "text": "hump. Although, as you well know, I am"
+ },
+ {
+  "start": 254.84,
+  "duration": 3.28,
+  "text": "not a jobs doomer, I do think that we're"
+ },
+ {
+  "start": 256.68,
+  "duration": 2.92,
+  "text": "going to see a lot of shifts in the"
+ },
+ {
+  "start": 258.12,
+  "duration": 3.28,
+  "text": "average way that people get employed and"
+ },
+ {
+  "start": 259.6,
+  "duration": 3.88,
+  "text": "make money. One piece of that, I"
+ },
+ {
+  "start": 261.4,
+  "duration": 4.68,
+  "text": "believe, will be an increase in small"
+ },
+ {
+  "start": 263.48,
+  "duration": 3.96,
+  "text": "business entrepreneurship. If Shopify is"
+ },
+ {
+  "start": 266.08,
+  "duration": 3.8,
+  "text": "the home of where a lot of that new"
+ },
+ {
+  "start": 267.44,
+  "duration": 4.36,
+  "text": "energy goes, the way that they use AI to"
+ },
+ {
+  "start": 269.88,
+  "duration": 3.12,
+  "text": "provide value for their people could"
+ },
+ {
+  "start": 271.8,
+  "duration": 3.12,
+  "text": "make a big difference in people's"
+ },
+ {
+  "start": 273.0,
+  "duration": 3.6,
+  "text": "perceptions of it. It's one thing when"
+ },
+ {
+  "start": 274.92,
+  "duration": 2.84,
+  "text": "the only thing you hear about AI is that"
+ },
+ {
+  "start": 276.6,
+  "duration": 3.4,
+  "text": "it's going to take your job and it uses"
+ },
+ {
+  "start": 277.76,
+  "duration": 3.96,
+  "text": "all the water. It's another thing when"
+ },
+ {
+  "start": 280.0,
+  "duration": 3.28,
+  "text": "you see your income rise 30% from the"
+ },
+ {
+  "start": 281.72,
+  "duration": 2.72,
+  "text": "month before because of the tools you"
+ },
+ {
+  "start": 283.28,
+  "duration": 2.68,
+  "text": "were able to use through your store's"
+ },
+ {
+  "start": 284.44,
+  "duration": 3.4,
+  "text": "hosting platform."
+ },
+ {
+  "start": 285.96,
+  "duration": 3.24,
+  "text": "So, what Tinker is is a free mobile app"
+ },
+ {
+  "start": 287.84,
+  "duration": 3.24,
+  "text": "with more than 100 AI tools for"
+ },
+ {
+  "start": 289.2,
+  "duration": 3.52,
+  "text": "e-commerce. Merchants can generate"
+ },
+ {
+  "start": 291.08,
+  "duration": 3.8,
+  "text": "logos, product photos, advertising"
+ },
+ {
+  "start": 292.72,
+  "duration": 4.76,
+  "text": "videos, and much more."
+ },
+ {
+  "start": 294.88,
+  "duration": 4.72,
+  "text": "It's an iterative, experimental, playful"
+ },
+ {
+  "start": 297.48,
+  "duration": 4.12,
+  "text": "canvas where you can try out all sorts"
+ },
+ {
+  "start": 299.6,
+  "duration": 4.44,
+  "text": "of different brand identities, product"
+ },
+ {
+  "start": 301.6,
+  "duration": 4.4,
+  "text": "placements, and more. The entire concept"
+ },
+ {
+  "start": 304.04,
+  "duration": 3.48,
+  "text": "is about flattening the learning curve."
+ },
+ {
+  "start": 306.0,
+  "duration": 2.84,
+  "text": "Apps are arranged by outcome, so"
+ },
+ {
+  "start": 307.52,
+  "duration": 3.4,
+  "text": "merchants only need to select what they"
+ },
+ {
+  "start": 308.84,
+  "duration": 3.12,
+  "text": "want to create. Once inside an app, they"
+ },
+ {
+  "start": 310.92,
+  "duration": 2.4,
+  "text": "can see a range of examples"
+ },
+ {
+  "start": 311.96,
+  "duration": 3.36,
+  "text": "demonstrating what it can do and how to"
+ },
+ {
+  "start": 313.32,
+  "duration": 3.6,
+  "text": "use it. They can then describe a desired"
+ },
+ {
+  "start": 315.32,
+  "duration": 2.92,
+  "text": "outcome in natural language, drop in a"
+ },
+ {
+  "start": 316.92,
+  "duration": 2.76,
+  "text": "reference image, and Tinker"
+ },
+ {
+  "start": 318.24,
+  "duration": 3.4,
+  "text": "automatically turns those inputs into"
+ },
+ {
+  "start": 319.68,
+  "duration": 3.48,
+  "text": "high-quality prompts on the back end."
+ },
+ {
+  "start": 321.64,
+  "duration": 3.88,
+  "text": "Shopify's director of product for So"
+ },
+ {
+  "start": 323.16,
+  "duration": 4.12,
+  "text": "Kazi said, if you want more artists,"
+ },
+ {
+  "start": 325.52,
+  "duration": 3.72,
+  "text": "lower the cost of paint."
+ },
+ {
+  "start": 327.28,
+  "duration": 3.44,
+  "text": "And cost isn't just money. It's the time"
+ },
+ {
+  "start": 329.24,
+  "duration": 2.88,
+  "text": "spent keeping up, the friction of"
+ },
+ {
+  "start": 330.72,
+  "duration": 2.6,
+  "text": "signing up for everything separately,"
+ },
+ {
+  "start": 332.12,
+  "duration": 4.4,
+  "text": "and the learning curve of figuring it"
+ },
+ {
+  "start": 333.32,
+  "duration": 4.64,
+  "text": "all out. We wanted to lower all of it."
+ },
+ {
+  "start": 336.52,
+  "duration": 2.84,
+  "text": "So, like I said, may seem small, but I"
+ },
+ {
+  "start": 337.96,
+  "duration": 3.64,
+  "text": "really do believe that Shopify"
+ },
+ {
+  "start": 339.36,
+  "duration": 3.84,
+  "text": "potentially has an outsized role to play"
+ },
+ {
+  "start": 341.6,
+  "duration": 3.48,
+  "text": "in the positive integration of AI into"
+ },
+ {
+  "start": 343.2,
+  "duration": 4.32,
+  "text": "the broader economy, and I think Tinker,"
+ },
+ {
+  "start": 345.08,
+  "duration": 3.56,
+  "text": "from my first glances, looks awesome."
+ },
+ {
+  "start": 347.52,
+  "duration": 2.56,
+  "text": "By the way, hopefully this goes without"
+ },
+ {
+  "start": 348.64,
+  "duration": 3.44,
+  "text": "saying, but this is a completely"
+ },
+ {
+  "start": 350.08,
+  "duration": 4.6,
+  "text": "unsponsored opinion."
+ },
+ {
+  "start": 352.08,
+  "duration": 4.72,
+  "text": "Over in OpenAI land, Codex gets a big"
+ },
+ {
+  "start": 354.68,
+  "duration": 3.96,
+  "text": "upgrade with the integration of plugins."
+ },
+ {
+  "start": 356.8,
+  "duration": 3.68,
+  "text": "The OpenAI Devs account writes, with"
+ },
+ {
+  "start": 358.64,
+  "duration": 3.28,
+  "text": "plugins, Codex can now support more real"
+ },
+ {
+  "start": 360.48,
+  "duration": 2.92,
+  "text": "work, including the planning, research,"
+ },
+ {
+  "start": 361.92,
+  "duration": 2.72,
+  "text": "and coordination that happens before you"
+ },
+ {
+  "start": 363.4,
+  "duration": 3.64,
+  "text": "write code and the workflows that"
+ },
+ {
+  "start": 364.64,
+  "duration": 4.2,
+  "text": "follow. The team at OpenAI also used the"
+ },
+ {
+  "start": 367.04,
+  "duration": 3.12,
+  "text": "occasion of the plugins launch to go for"
+ },
+ {
+  "start": 368.84,
+  "duration": 2.72,
+  "text": "Anthropic's throat around some"
+ },
+ {
+  "start": 370.16,
+  "duration": 3.2,
+  "text": "controversy of recent changes from"
+ },
+ {
+  "start": 371.56,
+  "duration": 3.6,
+  "text": "Claude. To read from the Claude code"
+ },
+ {
+  "start": 373.36,
+  "duration": 3.4,
+  "text": "team writes, to manage growing demand"
+ },
+ {
+  "start": 375.16,
+  "duration": 3.28,
+  "text": "for Claude, we're adjusting our 5-hour"
+ },
+ {
+  "start": 376.76,
+  "duration": 3.36,
+  "text": "session limits for free pro max subs"
+ },
+ {
+  "start": 378.44,
+  "duration": 3.4,
+  "text": "during peak hours. During weekdays"
+ },
+ {
+  "start": 380.12,
+  "duration": 3.36,
+  "text": "between 5:00 a.m. and 11:00 a.m. Pacific"
+ },
+ {
+  "start": 381.84,
+  "duration": 3.84,
+  "text": "time, you'll move through your 5-hour"
+ },
+ {
+  "start": 383.48,
+  "duration": 4.4,
+  "text": "session limits faster than before."
+ },
+ {
+  "start": 385.68,
+  "duration": 4.2,
+  "text": "People were not happy about that, and"
+ },
+ {
+  "start": 387.88,
+  "duration": 3.96,
+  "text": "OpenAI took full advantage. Tibo from"
+ },
+ {
+  "start": 389.88,
+  "duration": 3.68,
+  "text": "the Codex team writes, hello. We have"
+ },
+ {
+  "start": 391.84,
+  "duration": 3.2,
+  "text": "reset Codex usage limits across all"
+ },
+ {
+  "start": 393.56,
+  "duration": 2.64,
+  "text": "plans to let everyone experiment with"
+ },
+ {
+  "start": 395.04,
+  "duration": 3.12,
+  "text": "the magnificent plugins we just"
+ },
+ {
+  "start": 396.2,
+  "duration": 4.88,
+  "text": "launched. You can just build unlimited"
+ },
+ {
+  "start": 398.16,
+  "duration": 5.0,
+  "text": "things with Codex. Have fun."
+ },
+ {
+  "start": 401.08,
+  "duration": 3.84,
+  "text": "Speaking of OpenAI, the company has made"
+ },
+ {
+  "start": 403.16,
+  "duration": 3.76,
+  "text": "a decision which I think is extremely"
+ },
+ {
+  "start": 404.92,
+  "duration": 4.2,
+  "text": "the right one, putting their erotica"
+ },
+ {
+  "start": 406.92,
+  "duration": 4.04,
+  "text": "plans on hold. The Financial Times"
+ },
+ {
+  "start": 409.12,
+  "duration": 3.68,
+  "text": "reports that OpenAI has decided to shelf"
+ },
+ {
+  "start": 410.96,
+  "duration": 3.44,
+  "text": "plans for adult mode indefinitely as"
+ },
+ {
+  "start": 412.8,
+  "duration": 3.2,
+  "text": "they consolidate resources around coding"
+ },
+ {
+  "start": 414.4,
+  "duration": 3.28,
+  "text": "and enterprise sales."
+ },
+ {
+  "start": 416.0,
+  "duration": 3.68,
+  "text": "This is, to put it mildly, not all that"
+ },
+ {
+  "start": 417.68,
+  "duration": 3.48,
+  "text": "surprising. Earlier this month, the Wall"
+ },
+ {
+  "start": 419.68,
+  "duration": 3.12,
+  "text": "Street Journal reported that OpenAI's"
+ },
+ {
+  "start": 421.16,
+  "duration": 3.92,
+  "text": "independent advisory council was"
+ },
+ {
+  "start": 422.8,
+  "duration": 3.96,
+  "text": "unanimously against the feature."
+ },
+ {
+  "start": 425.08,
+  "duration": 3.84,
+  "text": "Reportedly, their age detection system"
+ },
+ {
+  "start": 426.76,
+  "duration": 3.64,
+  "text": "had a 12% failure rate, and the experts"
+ },
+ {
+  "start": 428.92,
+  "duration": 3.36,
+  "text": "on the council weren't even satisfied"
+ },
+ {
+  "start": 430.4,
+  "duration": 3.28,
+  "text": "adult mode would be safe for adults,"
+ },
+ {
+  "start": 432.28,
+  "duration": 3.64,
+  "text": "warning it could encourage an unhealthy"
+ },
+ {
+  "start": 433.68,
+  "duration": 3.72,
+  "text": "emotional dependence on ChatGPT. The"
+ },
+ {
+  "start": 435.92,
+  "duration": 3.32,
+  "text": "feature was also controversial among"
+ },
+ {
+  "start": 437.4,
+  "duration": 3.2,
+  "text": "staff with some departing the company"
+ },
+ {
+  "start": 439.24,
+  "duration": 2.64,
+  "text": "over the issue."
+ },
+ {
+  "start": 440.6,
+  "duration": 2.92,
+  "text": "Speaking with the Financial Times,"
+ },
+ {
+  "start": 441.88,
+  "duration": 3.04,
+  "text": "sources said that OpenAI wanted to have"
+ },
+ {
+  "start": 443.52,
+  "duration": 2.76,
+  "text": "more long-term research on the effects"
+ },
+ {
+  "start": 444.92,
+  "duration": 3.52,
+  "text": "of sexually explicit chatbots and"
+ },
+ {
+  "start": 446.28,
+  "duration": 3.72,
+  "text": "emotional attachment to AI before they"
+ },
+ {
+  "start": 448.44,
+  "duration": 2.96,
+  "text": "released the product."
+ },
+ {
+  "start": 450.0,
+  "duration": 3.6,
+  "text": "Now, my feeling about this, as I said"
+ },
+ {
+  "start": 451.4,
+  "duration": 4.04,
+  "text": "last fall, is that on the one hand, I"
+ },
+ {
+  "start": 453.6,
+  "duration": 3.16,
+  "text": "have a very socially libertarian bent"
+ },
+ {
+  "start": 455.44,
+  "duration": 2.68,
+  "text": "that basically thinks that adults should"
+ },
+ {
+  "start": 456.76,
+  "duration": 3.36,
+  "text": "be able to do whatever they want as long"
+ },
+ {
+  "start": 458.12,
+  "duration": 3.68,
+  "text": "as it's not hurting other people."
+ },
+ {
+  "start": 460.12,
+  "duration": 3.88,
+  "text": "That said, viewing this question from an"
+ },
+ {
+  "start": 461.8,
+  "duration": 4.12,
+  "text": "entrepreneur's lens, it did not make"
+ },
+ {
+  "start": 464.0,
+  "duration": 3.2,
+  "text": "sense to me for OpenAI to be the one to"
+ },
+ {
+  "start": 465.92,
+  "duration": 4.16,
+  "text": "offer this."
+ },
+ {
+  "start": 467.2,
+  "duration": 5.24,
+  "text": "There is going to be, I promise you, no"
+ },
+ {
+  "start": 470.08,
+  "duration": 3.96,
+  "text": "shortage of adult AI experiences that"
+ },
+ {
+  "start": 472.44,
+  "duration": 2.48,
+  "text": "are available to any adults who want"
+ },
+ {
+  "start": 474.04,
+  "duration": 2.68,
+  "text": "them."
+ },
+ {
+  "start": 474.92,
+  "duration": 3.2,
+  "text": "And I just think that all of the costs"
+ },
+ {
+  "start": 476.72,
+  "duration": 2.8,
+  "text": "of going down this route were so"
+ },
+ {
+  "start": 478.12,
+  "duration": 3.44,
+  "text": "obviously going to be higher than the"
+ },
+ {
+  "start": 479.52,
+  "duration": 3.32,
+  "text": "upside for OpenAI."
+ },
+ {
+  "start": 481.56,
+  "duration": 3.52,
+  "text": "So, one other thing that I did want to"
+ },
+ {
+  "start": 482.84,
+  "duration": 4.04,
+  "text": "note about OpenAI's recent moves, there"
+ },
+ {
+  "start": 485.08,
+  "duration": 3.08,
+  "text": "is a lot of chatter right now about how"
+ },
+ {
+  "start": 486.88,
+  "duration": 3.6,
+  "text": "many products are being killed by"
+ },
+ {
+  "start": 488.16,
+  "duration": 4.28,
+  "text": "OpenAI. Instant checkout, Sora, the"
+ },
+ {
+  "start": 490.48,
+  "duration": 4.12,
+  "text": "erotic chatbot, with people seeming to"
+ },
+ {
+  "start": 492.44,
+  "duration": 4.28,
+  "text": "suggest that it's the company flailing."
+ },
+ {
+  "start": 494.6,
+  "duration": 3.6,
+  "text": "I think in many ways it's the opposite."
+ },
+ {
+  "start": 496.72,
+  "duration": 3.28,
+  "text": "It would be the worst business decision"
+ },
+ {
+  "start": 498.2,
+  "duration": 3.36,
+  "text": "that OpenAI could make to stick with"
+ },
+ {
+  "start": 500.0,
+  "duration": 2.72,
+  "text": "something that wasn't the right move,"
+ },
+ {
+  "start": 501.56,
+  "duration": 3.04,
+  "text": "even if it looked like the right move"
+ },
+ {
+  "start": 502.72,
+  "duration": 3.32,
+  "text": "just a couple of months ago. Nothing"
+ },
+ {
+  "start": 504.6,
+  "duration": 3.48,
+  "text": "will kill a business faster than sunk"
+ },
+ {
+  "start": 506.04,
+  "duration": 3.64,
+  "text": "cost fallacy, and OpenAI being willing"
+ },
+ {
+  "start": 508.08,
+  "duration": 3.72,
+  "text": "to scrap efforts even where a lot of"
+ },
+ {
+  "start": 509.68,
+  "duration": 4.12,
+  "text": "effort went in is net-net a good thing"
+ },
+ {
+  "start": 511.8,
+  "duration": 3.44,
+  "text": "for that company. And it couldn't come"
+ },
+ {
+  "start": 513.8,
+  "duration": 2.919,
+  "text": "at a better time because boy, oh boy, is"
+ },
+ {
+  "start": 515.24,
+  "duration": 2.56,
+  "text": "the competition going to do nothing but"
+ },
+ {
+  "start": 516.719,
+  "duration": 2.641,
+  "text": "heat up."
+ },
+ {
+  "start": 517.8,
+  "duration": 2.919,
+  "text": "Latest rumors suggest that Anthropic is"
+ },
+ {
+  "start": 519.36,
+  "duration": 3.2,
+  "text": "discussing going public as soon as the"
+ },
+ {
+  "start": 520.719,
+  "duration": 3.481,
+  "text": "fourth quarter with follow-up Bloomberg"
+ },
+ {
+  "start": 522.56,
+  "duration": 3.96,
+  "text": "reporting saying that they might be"
+ },
+ {
+  "start": 524.2,
+  "duration": 3.88,
+  "text": "looking to IPO as soon as October. That,"
+ },
+ {
+  "start": 526.52,
+  "duration": 2.96,
+  "text": "of course, puts OpenAI on the clock as"
+ },
+ {
+  "start": 528.08,
+  "duration": 3.56,
+  "text": "Sam Altman has reportedly said he would"
+ },
+ {
+  "start": 529.48,
+  "duration": 3.6,
+  "text": "prefer to go first, meaning all in all,"
+ },
+ {
+  "start": 531.64,
+  "duration": 3.16,
+  "text": "I think my prediction that we actually"
+ },
+ {
+  "start": 533.08,
+  "duration": 4.04,
+  "text": "don't get IPOs this year might be one"
+ },
+ {
+  "start": 534.8,
+  "duration": 4.52,
+  "text": "that is wrong. Noel Moldvay writes,"
+ },
+ {
+  "start": 537.12,
+  "duration": 5.8,
+  "text": "according to the zodiac, 2026 is the"
+ },
+ {
+  "start": 539.32,
+  "duration": 4.36,
+  "text": "year of the mega IPO. Indeed. For now,"
+ },
+ {
+  "start": 542.92,
+  "duration": 4.96,
+  "text": "that is going to do it for the"
+ },
+ {
+  "start": 543.68,
+  "duration": 4.2,
+  "text": "headlines. Next up, the main episode."
+ }
+]

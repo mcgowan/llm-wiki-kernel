@@ -1,0 +1,3327 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.44,
+  "text": "16 agents enter the arena, one leaves."
+ },
+ {
+  "start": 2.84,
+  "duration": 4.04,
+  "text": "Today we are doing a head-by-head"
+ },
+ {
+  "start": 4.44,
+  "duration": 4.76,
+  "text": "competition to see what is the coolest"
+ },
+ {
+  "start": 6.88,
+  "duration": 3.68,
+  "text": "thing that I have built with AI so far"
+ },
+ {
+  "start": 9.2,
+  "duration": 3.6,
+  "text": "this year."
+ },
+ {
+  "start": 10.56,
+  "duration": 5.12,
+  "text": "Welcome back to the AI Daily Brief. We"
+ },
+ {
+  "start": 12.8,
+  "duration": 4.88,
+  "text": "have got a fun little operators bonus"
+ },
+ {
+  "start": 15.68,
+  "duration": 3.16,
+  "text": "episode for you guys today."
+ },
+ {
+  "start": 17.68,
+  "duration": 4.0,
+  "text": "You might have heard me mention over the"
+ },
+ {
+  "start": 18.84,
+  "duration": 5.48,
+  "text": "last couple of days Agent Madness. The"
+ },
+ {
+  "start": 21.68,
+  "duration": 4.84,
+  "text": "TLDR on this thing is that one, everyone"
+ },
+ {
+  "start": 24.32,
+  "duration": 4.32,
+  "text": "is building way more agents than we were"
+ },
+ {
+  "start": 26.52,
+  "duration": 3.4,
+  "text": "last year. There has been a massive"
+ },
+ {
+  "start": 28.64,
+  "duration": 3.68,
+  "text": "shift over the last three to four"
+ },
+ {
+  "start": 29.92,
+  "duration": 4.32,
+  "text": "months. It is an agentic shift and"
+ },
+ {
+  "start": 32.32,
+  "duration": 3.72,
+  "text": "between Open Claw and Claude Code and"
+ },
+ {
+  "start": 34.24,
+  "duration": 3.4,
+  "text": "Codex and Perplexity Computer and all"
+ },
+ {
+  "start": 36.04,
+  "duration": 4.48,
+  "text": "these things, everyone is getting"
+ },
+ {
+  "start": 37.64,
+  "duration": 4.2,
+  "text": "agentified. Two, a lot of the people who"
+ },
+ {
+  "start": 40.52,
+  "duration": 3.48,
+  "text": "are going through that are in this"
+ },
+ {
+  "start": 41.84,
+  "duration": 4.4,
+  "text": "community. Many of you have participated"
+ },
+ {
+  "start": 44.0,
+  "duration": 4.52,
+  "text": "in the AIDB New Year's projects or Claw"
+ },
+ {
+  "start": 46.24,
+  "duration": 3.84,
+  "text": "Camp or Enterprise Claw. Many of you are"
+ },
+ {
+  "start": 48.52,
+  "duration": 3.4,
+  "text": "building and sharing things in the AI"
+ },
+ {
+  "start": 50.08,
+  "duration": 3.08,
+  "text": "Operators community that goes alongside"
+ },
+ {
+  "start": 51.92,
+  "duration": 4.08,
+  "text": "AIDB."
+ },
+ {
+  "start": 53.16,
+  "duration": 5.28,
+  "text": "And three, since it is March, the season"
+ },
+ {
+  "start": 56.0,
+  "duration": 4.08,
+  "text": "of March Madness, the big NCAA"
+ },
+ {
+  "start": 58.44,
+  "duration": 3.24,
+  "text": "tournament, one of the coolest sporting"
+ },
+ {
+  "start": 60.08,
+  "duration": 3.8,
+  "text": "events of the year, I thought we would"
+ },
+ {
+  "start": 61.68,
+  "duration": 3.6,
+  "text": "hold our very own bracket to figure out"
+ },
+ {
+  "start": 63.88,
+  "duration": 3.44,
+  "text": "what is the coolest agent that people in"
+ },
+ {
+  "start": 65.28,
+  "duration": 2.96,
+  "text": "this community have built so far this"
+ },
+ {
+  "start": 67.32,
+  "duration": 2.76,
+  "text": "year."
+ },
+ {
+  "start": 68.24,
+  "duration": 3.2,
+  "text": "Now, as I was planning this, I started"
+ },
+ {
+  "start": 70.08,
+  "duration": 3.88,
+  "text": "thinking about just how many different"
+ },
+ {
+  "start": 71.44,
+  "duration": 4.16,
+  "text": "things I had built this year. Not all of"
+ },
+ {
+  "start": 73.96,
+  "duration": 3.32,
+  "text": "them have been fully formed, not all of"
+ },
+ {
+  "start": 75.6,
+  "duration": 2.88,
+  "text": "them have been all that useful. But"
+ },
+ {
+  "start": 77.28,
+  "duration": 2.96,
+  "text": "they've all been, if nothing else,"
+ },
+ {
+  "start": 78.48,
+  "duration": 3.68,
+  "text": "helpful in learning how to use some new"
+ },
+ {
+  "start": 80.24,
+  "duration": 3.8,
+  "text": "tool or learning what isn't quite useful"
+ },
+ {
+  "start": 82.16,
+  "duration": 4.2,
+  "text": "for me right now. So, what we've done"
+ },
+ {
+  "start": 84.04,
+  "duration": 3.8,
+  "text": "today is put 16 different things that"
+ },
+ {
+  "start": 86.36,
+  "duration": 3.92,
+  "text": "I've built this year,"
+ },
+ {
+  "start": 87.84,
+  "duration": 4.88,
+  "text": "all vibe coded or AI assisted builds,"
+ },
+ {
+  "start": 90.28,
+  "duration": 4.6,
+  "text": "many agentic, up against each other in"
+ },
+ {
+  "start": 92.72,
+  "duration": 3.28,
+  "text": "our own mini tournament as part of Agent"
+ },
+ {
+  "start": 94.88,
+  "duration": 3.76,
+  "text": "Madness."
+ },
+ {
+  "start": 96.0,
+  "duration": 4.64,
+  "text": "I gave both Claude and ChatGPT a list of"
+ },
+ {
+  "start": 98.64,
+  "duration": 3.64,
+  "text": "the projects to seed, and they actually"
+ },
+ {
+  "start": 100.64,
+  "duration": 2.68,
+  "text": "came up with almost exactly the same"
+ },
+ {
+  "start": 102.28,
+  "duration": 3.48,
+  "text": "seeding."
+ },
+ {
+  "start": 103.32,
+  "duration": 3.84,
+  "text": "The brackets are not divided by theme."
+ },
+ {
+  "start": 105.76,
+  "duration": 3.12,
+  "text": "Instead, we have a diversity of"
+ },
+ {
+  "start": 107.16,
+  "duration": 3.84,
+  "text": "different types of projects, so we can"
+ },
+ {
+  "start": 108.88,
+  "duration": 3.84,
+  "text": "have some really strong head-to-heads."
+ },
+ {
+  "start": 111.0,
+  "duration": 3.12,
+  "text": "When it comes to who or what wins each"
+ },
+ {
+  "start": 112.72,
+  "duration": 3.08,
+  "text": "of these match-ups, I'm going to be"
+ },
+ {
+  "start": 114.12,
+  "duration": 3.84,
+  "text": "ranking it based on a A subjective"
+ },
+ {
+  "start": 115.8,
+  "duration": 5.28,
+  "text": "concoction that includes technical"
+ },
+ {
+  "start": 117.96,
+  "duration": 4.56,
+  "text": "complexity, usefulness in my daily life,"
+ },
+ {
+  "start": 121.08,
+  "duration": 3.92,
+  "text": "things that I think have value beyond"
+ },
+ {
+  "start": 122.52,
+  "duration": 4.28,
+  "text": "just me, and whatever x-factor of I just"
+ },
+ {
+  "start": 125.0,
+  "duration": 3.64,
+  "text": "particularly like the thing."
+ },
+ {
+  "start": 126.8,
+  "duration": 3.239,
+  "text": "We'll keep track as we go through and"
+ },
+ {
+  "start": 128.64,
+  "duration": 3.88,
+  "text": "ultimately crown a coolest thing that"
+ },
+ {
+  "start": 130.039,
+  "duration": 4.241,
+  "text": "I've built this year so far."
+ },
+ {
+  "start": 132.52,
+  "duration": 4.6,
+  "text": "You guys are getting a lot of behind the"
+ },
+ {
+  "start": 134.28,
+  "duration": 5.04,
+  "text": "scenes on this one, so buckle up."
+ },
+ {
+  "start": 137.12,
+  "duration": 4.839,
+  "text": "Starting with bracket A, we have the one"
+ },
+ {
+  "start": 139.32,
+  "duration": 5.12,
+  "text": "versus the eight seed, the Homes Agent"
+ },
+ {
+  "start": 141.959,
+  "duration": 3.881,
+  "text": "versus the AI Daily Brief website. Let's"
+ },
+ {
+  "start": 144.44,
+  "duration": 3.56,
+  "text": "talk about the AI Daily Brief website"
+ },
+ {
+  "start": 145.84,
+  "duration": 3.64,
+  "text": "first. This is perhaps the least"
+ },
+ {
+  "start": 148.0,
+  "duration": 3.4,
+  "text": "technically complex of anything that"
+ },
+ {
+  "start": 149.48,
+  "duration": 3.44,
+  "text": "I've built. I maintain this guy with"
+ },
+ {
+  "start": 151.4,
+  "duration": 3.64,
+  "text": "Lovable, and it's basically just meant"
+ },
+ {
+  "start": 152.92,
+  "duration": 4.76,
+  "text": "to be the home for all things related to"
+ },
+ {
+  "start": 155.04,
+  "duration": 4.12,
+  "text": "the podcast and the broader ecosystem."
+ },
+ {
+  "start": 157.68,
+  "duration": 2.4,
+  "text": "It's a place where I can always dump"
+ },
+ {
+  "start": 159.16,
+  "duration": 2.88,
+  "text": "whatever the latest thing that I'm"
+ },
+ {
+  "start": 160.08,
+  "duration": 4.16,
+  "text": "working on is, so despite having a"
+ },
+ {
+  "start": 162.04,
+  "duration": 3.84,
+  "text": "sprawling mass of different URLs that I"
+ },
+ {
+  "start": 164.24,
+  "duration": 3.8,
+  "text": "mention on the show, you can always just"
+ },
+ {
+  "start": 165.88,
+  "duration": 3.24,
+  "text": "go back to AI Daily Brief.ai and be"
+ },
+ {
+  "start": 168.04,
+  "duration": 3.2,
+  "text": "assured that you can find the thing"
+ },
+ {
+  "start": 169.12,
+  "duration": 3.52,
+  "text": "there. I continue to be partial to this"
+ },
+ {
+  "start": 171.24,
+  "duration": 2.88,
+  "text": "silly little terminal theme even though"
+ },
+ {
+  "start": 172.64,
+  "duration": 3.4,
+  "text": "it is completely distracting from an"
+ },
+ {
+  "start": 174.12,
+  "duration": 3.68,
+  "text": "information discovery perspective. And"
+ },
+ {
+  "start": 176.04,
+  "duration": 2.84,
+  "text": "the technical stack for this one is just"
+ },
+ {
+  "start": 177.8,
+  "duration": 2.64,
+  "text": "Lovable."
+ },
+ {
+  "start": 178.88,
+  "duration": 3.72,
+  "text": "Overall, this ranks about as low as it"
+ },
+ {
+  "start": 180.44,
+  "duration": 3.92,
+  "text": "gets on technical complexity. After all,"
+ },
+ {
+  "start": 182.6,
+  "duration": 3.359,
+  "text": "it's just a website built with Lovable,"
+ },
+ {
+  "start": 184.36,
+  "duration": 3.2,
+  "text": "although it ranks higher on functional"
+ },
+ {
+  "start": 185.959,
+  "duration": 3.241,
+  "text": "utility, and of course I have some"
+ },
+ {
+  "start": 187.56,
+  "duration": 4.399,
+  "text": "affinity for it."
+ },
+ {
+  "start": 189.2,
+  "duration": 4.319,
+  "text": "Next up though, we go to the Homes"
+ },
+ {
+  "start": 191.959,
+  "duration": 3.921,
+  "text": "Agent. One of the things that you're"
+ },
+ {
+  "start": 193.519,
+  "duration": 4.201,
+  "text": "going to hear about is a small ecosystem"
+ },
+ {
+  "start": 195.88,
+  "duration": 3.68,
+  "text": "of agents that I'm working on, sort of"
+ },
+ {
+  "start": 197.72,
+  "duration": 2.96,
+  "text": "an agentified next generation approach"
+ },
+ {
+  "start": 199.56,
+  "duration": 3.04,
+  "text": "to the type of thing we do at"
+ },
+ {
+  "start": 200.68,
+  "duration": 3.96,
+  "text": "Superintellignt, which is helping people"
+ },
+ {
+  "start": 202.6,
+  "duration": 3.76,
+  "text": "figure out their AI strategy."
+ },
+ {
+  "start": 204.64,
+  "duration": 3.76,
+  "text": "At Superintellignt, we deploy voice"
+ },
+ {
+  "start": 206.36,
+  "duration": 3.76,
+  "text": "agents across your company and provide"
+ },
+ {
+  "start": 208.4,
+  "duration": 3.6,
+  "text": "you recommendations around use cases and"
+ },
+ {
+  "start": 210.12,
+  "duration": 3.44,
+  "text": "change management initiatives, and that"
+ },
+ {
+  "start": 212.0,
+  "duration": 3.36,
+  "text": "has been an extremely useful product for"
+ },
+ {
+  "start": 213.56,
+  "duration": 3.16,
+  "text": "lots and lots of companies."
+ },
+ {
+  "start": 215.36,
+  "duration": 3.0,
+  "text": "The fact that we can deploy voice agents"
+ },
+ {
+  "start": 216.72,
+  "duration": 2.92,
+  "text": "across a much wider set of people than"
+ },
+ {
+  "start": 218.36,
+  "duration": 3.36,
+  "text": "traditional consulting discovery"
+ },
+ {
+  "start": 219.64,
+  "duration": 3.64,
+  "text": "processes means that we get a much"
+ },
+ {
+  "start": 221.72,
+  "duration": 3.0,
+  "text": "better cross-section of the voices that"
+ },
+ {
+  "start": 223.28,
+  "duration": 3.52,
+  "text": "actually represent your employees, and"
+ },
+ {
+  "start": 224.72,
+  "duration": 3.32,
+  "text": "that I think is really useful."
+ },
+ {
+  "start": 226.8,
+  "duration": 3.04,
+  "text": "My guess though is that agents are going"
+ },
+ {
+  "start": 228.04,
+  "duration": 3.32,
+  "text": "to take it to a whole new level. And"
+ },
+ {
+  "start": 229.84,
+  "duration": 3.12,
+  "text": "that rather than this type of assessment"
+ },
+ {
+  "start": 231.36,
+  "duration": 3.72,
+  "text": "being a one-time thing, it can just be"
+ },
+ {
+  "start": 232.96,
+  "duration": 3.48,
+  "text": "persistent and ongoing. Rather than"
+ },
+ {
+  "start": 235.08,
+  "duration": 2.88,
+  "text": "recommendations getting stale and"
+ },
+ {
+  "start": 236.44,
+  "duration": 3.52,
+  "text": "needing to be updated at some regular"
+ },
+ {
+  "start": 237.96,
+  "duration": 3.8,
+  "text": "frequency, they can just be continuously"
+ },
+ {
+  "start": 239.96,
+  "duration": 3.04,
+  "text": "updated based on the new capabilities as"
+ },
+ {
+  "start": 241.76,
+  "duration": 2.88,
+  "text": "they change."
+ },
+ {
+  "start": 243.0,
+  "duration": 3.28,
+  "text": "As I'm building these individual agents"
+ },
+ {
+  "start": 244.64,
+  "duration": 3.76,
+  "text": "that are part of that system, they all"
+ },
+ {
+  "start": 246.28,
+  "duration": 3.56,
+  "text": "have names related to Sherlock Holmes."
+ },
+ {
+  "start": 248.4,
+  "duration": 2.92,
+  "text": "And the first one we will talk about is,"
+ },
+ {
+  "start": 249.84,
+  "duration": 2.64,
+  "text": "in fact, Holmes."
+ },
+ {
+  "start": 251.32,
+  "duration": 3.88,
+  "text": "What Holmes cares about in this"
+ },
+ {
+  "start": 252.48,
+  "duration": 4.8,
+  "text": "ecosystem is not recommendations for the"
+ },
+ {
+  "start": 255.2,
+  "duration": 4.759,
+  "text": "company as a whole, but recommendations"
+ },
+ {
+  "start": 257.28,
+  "duration": 4.56,
+  "text": "for the individual. Holmes has a web"
+ },
+ {
+  "start": 259.959,
+  "duration": 3.481,
+  "text": "interface where he can interview you"
+ },
+ {
+  "start": 261.84,
+  "duration": 3.44,
+  "text": "about your work in the AI you're using"
+ },
+ {
+  "start": 263.44,
+  "duration": 3.96,
+  "text": "and where you can ask him for specific"
+ },
+ {
+  "start": 265.28,
+  "duration": 3.88,
+  "text": "recommendations around AI tools. And he"
+ },
+ {
+  "start": 267.4,
+  "duration": 3.8,
+  "text": "also has a presence in Slack. You can"
+ },
+ {
+  "start": 269.16,
+  "duration": 4.2,
+  "text": "talk to him via DMs or by calling him up"
+ },
+ {
+  "start": 271.2,
+  "duration": 4.44,
+  "text": "in a thread. Based on the conversations"
+ },
+ {
+  "start": 273.36,
+  "duration": 4.48,
+  "text": "that Holmes has on Slack or on the web,"
+ },
+ {
+  "start": 275.64,
+  "duration": 4.12,
+  "text": "it builds a case file all about each"
+ },
+ {
+  "start": 277.84,
+  "duration": 4.52,
+  "text": "individual. The case file includes"
+ },
+ {
+  "start": 279.76,
+  "duration": 4.12,
+  "text": "identity and role, daily work, their AI"
+ },
+ {
+  "start": 282.36,
+  "duration": 3.2,
+  "text": "profile of what tools they use and their"
+ },
+ {
+  "start": 283.88,
+  "duration": 2.92,
+  "text": "comfort level, as well as a deeper"
+ },
+ {
+  "start": 285.56,
+  "duration": 3.0,
+  "text": "profile that includes things like"
+ },
+ {
+  "start": 286.8,
+  "duration": 3.64,
+  "text": "working style, decision-making, notable"
+ },
+ {
+  "start": 288.56,
+  "duration": 3.92,
+  "text": "insights, strategic context,"
+ },
+ {
+  "start": 290.44,
+  "duration": 3.52,
+  "text": "communication preferences."
+ },
+ {
+  "start": 292.48,
+  "duration": 3.56,
+  "text": "From that, Holmes provides a set of"
+ },
+ {
+  "start": 293.96,
+  "duration": 3.959,
+  "text": "recommendations. One that it made for"
+ },
+ {
+  "start": 296.04,
+  "duration": 3.4,
+  "text": "me, build an AI inquiry triage"
+ },
+ {
+  "start": 297.919,
+  "duration": 2.681,
+  "text": "assistant. Since you're spending"
+ },
+ {
+  "start": 299.44,
+  "duration": 2.96,
+  "text": "significant time responding to"
+ },
+ {
+  "start": 300.6,
+  "duration": 3.0,
+  "text": "sponsorship and speaking inquiries,"
+ },
+ {
+  "start": 302.4,
+  "duration": 2.8,
+  "text": "create a Claude code app that"
+ },
+ {
+  "start": 303.6,
+  "duration": 3.52,
+  "text": "categorizes and drafts responses to"
+ },
+ {
+  "start": 305.2,
+  "duration": 3.4,
+  "text": "inbound emails. This leverages your"
+ },
+ {
+  "start": 307.12,
+  "duration": 3.32,
+  "text": "existing coding comfort while solving an"
+ },
+ {
+  "start": 308.6,
+  "duration": 3.88,
+  "text": "immediate time sink. It even provides a"
+ },
+ {
+  "start": 310.44,
+  "duration": 3.16,
+  "text": "bit of an idea for how to start. From"
+ },
+ {
+  "start": 312.48,
+  "duration": 2.76,
+  "text": "there, you can rate it whether it was a"
+ },
+ {
+  "start": 313.6,
+  "duration": 3.28,
+  "text": "good recommendation or not that helpful"
+ },
+ {
+  "start": 315.24,
+  "duration": 3.56,
+  "text": "and whether you've tried it."
+ },
+ {
+  "start": 316.88,
+  "duration": 3.28,
+  "text": "Now, one cool thing is that once a week,"
+ },
+ {
+  "start": 318.8,
+  "duration": 3.4,
+  "text": "Holmes is going to update their"
+ },
+ {
+  "start": 320.16,
+  "duration": 3.44,
+  "text": "recommendations automatically based on"
+ },
+ {
+  "start": 322.2,
+  "duration": 3.44,
+  "text": "it pulling from another agent and"
+ },
+ {
+  "start": 323.6,
+  "duration": 3.6,
+  "text": "knowledge hub 221B that we'll talk about"
+ },
+ {
+  "start": 325.64,
+  "duration": 3.56,
+  "text": "in a little bit."
+ },
+ {
+  "start": 327.2,
+  "duration": 4.08,
+  "text": "So, that is Holmes. Holmes is live, it"
+ },
+ {
+  "start": 329.2,
+  "duration": 3.56,
+  "text": "is in testing right now. And although I"
+ },
+ {
+  "start": 331.28,
+  "duration": 3.36,
+  "text": "do have that fondness for AI daily"
+ },
+ {
+  "start": 332.76,
+  "duration": 4.12,
+  "text": "brief.ai, obviously I'm going to give"
+ },
+ {
+  "start": 334.64,
+  "duration": 3.72,
+  "text": "this one to Holmes."
+ },
+ {
+  "start": 336.88,
+  "duration": 3.64,
+  "text": "Next up, we have my first open claw"
+ },
+ {
+  "start": 338.36,
+  "duration": 4.4,
+  "text": "entry of the tournament. This is my open"
+ },
+ {
+  "start": 340.52,
+  "duration": 3.96,
+  "text": "claw coder, which I call witty builder."
+ },
+ {
+  "start": 342.76,
+  "duration": 3.48,
+  "text": "Now, this was the first open claw agent"
+ },
+ {
+  "start": 344.48,
+  "duration": 3.48,
+  "text": "that I actually built. And what I was"
+ },
+ {
+  "start": 346.24,
+  "duration": 3.36,
+  "text": "really excited about was the idea of"
+ },
+ {
+  "start": 347.96,
+  "duration": 4.08,
+  "text": "being able to vibe code via Telegram"
+ },
+ {
+  "start": 349.6,
+  "duration": 4.56,
+  "text": "from wherever I was, like the gym. I got"
+ },
+ {
+  "start": 352.04,
+  "duration": 3.56,
+  "text": "it all wired up, built some things, but"
+ },
+ {
+  "start": 354.16,
+  "duration": 3.04,
+  "text": "ultimately this did not really enter"
+ },
+ {
+  "start": 355.6,
+  "duration": 2.84,
+  "text": "into my rotation."
+ },
+ {
+  "start": 357.2,
+  "duration": 2.52,
+  "text": "Part of that was of course that Claude"
+ },
+ {
+  "start": 358.44,
+  "duration": 3.24,
+  "text": "Code released their remote control"
+ },
+ {
+  "start": 359.72,
+  "duration": 3.2,
+  "text": "feature, but it also just ended up not"
+ },
+ {
+  "start": 361.68,
+  "duration": 2.56,
+  "text": "being a really important part of my"
+ },
+ {
+  "start": 362.92,
+  "duration": 3.28,
+  "text": "workflows."
+ },
+ {
+  "start": 364.24,
+  "duration": 3.68,
+  "text": "Now, I have subsequently built another"
+ },
+ {
+  "start": 366.2,
+  "duration": 2.8,
+  "text": "open claw coding bot, which is more"
+ },
+ {
+  "start": 367.92,
+  "duration": 2.24,
+  "text": "useful"
+ },
+ {
+  "start": 369.0,
+  "duration": 2.52,
+  "text": "because it takes signal from a"
+ },
+ {
+  "start": 370.16,
+  "duration": 3.24,
+  "text": "researcher, which we'll talk about in a"
+ },
+ {
+  "start": 371.52,
+  "duration": 3.56,
+  "text": "little bit, and writes it to a database"
+ },
+ {
+  "start": 373.4,
+  "duration": 2.72,
+  "text": "in an automated way."
+ },
+ {
+  "start": 375.08,
+  "duration": 2.28,
+  "text": "So, I'm kind of counting those two"
+ },
+ {
+  "start": 376.12,
+  "duration": 3.68,
+  "text": "together."
+ },
+ {
+  "start": 377.36,
+  "duration": 3.96,
+  "text": "The open claw coder is up against the"
+ },
+ {
+  "start": 379.8,
+  "duration": 4.4,
+  "text": "one thing that I've tried to build with"
+ },
+ {
+  "start": 381.32,
+  "duration": 5.08,
+  "text": "Perplexity computer. That is an AI"
+ },
+ {
+  "start": 384.2,
+  "duration": 4.16,
+  "text": "research library. There is obviously a"
+ },
+ {
+  "start": 386.4,
+  "duration": 4.12,
+  "text": "huge amount of research and surveys and"
+ },
+ {
+  "start": 388.36,
+  "duration": 4.04,
+  "text": "studies all about AI adoption right now,"
+ },
+ {
+  "start": 390.52,
+  "duration": 3.56,
+  "text": "and because we use so much of it and"
+ },
+ {
+  "start": 392.4,
+  "duration": 3.72,
+  "text": "capture so much information about it, I"
+ },
+ {
+  "start": 394.08,
+  "duration": 4.2,
+  "text": "wanted to automate that aggregation and"
+ },
+ {
+  "start": 396.12,
+  "duration": 3.92,
+  "text": "give people access to it. This was a"
+ },
+ {
+  "start": 398.28,
+  "duration": 3.0,
+  "text": "one-shot build with Perplexity. It's"
+ },
+ {
+  "start": 400.04,
+  "duration": 3.16,
+  "text": "something I've also built a version of"
+ },
+ {
+  "start": 401.28,
+  "duration": 3.24,
+  "text": "through Claude Code, but Perplexity"
+ },
+ {
+  "start": 403.2,
+  "duration": 2.64,
+  "text": "computer did a great job with the"
+ },
+ {
+  "start": 404.52,
+  "duration": 3.56,
+  "text": "one-shot."
+ },
+ {
+  "start": 405.84,
+  "duration": 4.36,
+  "text": "Now, one place where it fell down was in"
+ },
+ {
+  "start": 408.08,
+  "duration": 3.8,
+  "text": "the generative search. It did not do a"
+ },
+ {
+  "start": 410.2,
+  "duration": 3.48,
+  "text": "good job out of the box with actually"
+ },
+ {
+  "start": 411.88,
+  "duration": 3.4,
+  "text": "allowing people to interact with via"
+ },
+ {
+  "start": 413.68,
+  "duration": 3.64,
+  "text": "natural language rather than just browse"
+ },
+ {
+  "start": 415.28,
+  "duration": 4.6,
+  "text": "the library, but I think as an initial"
+ },
+ {
+  "start": 417.32,
+  "duration": 3.84,
+  "text": "attempt, it has a lot of promise."
+ },
+ {
+  "start": 419.88,
+  "duration": 2.96,
+  "text": "I think probably if I'd given it a"
+ },
+ {
+  "start": 421.16,
+  "duration": 3.12,
+  "text": "little bit more time, the research"
+ },
+ {
+  "start": 422.84,
+  "duration": 3.04,
+  "text": "library could jump over the open claw"
+ },
+ {
+  "start": 424.28,
+  "duration": 3.52,
+  "text": "coder, but especially with the"
+ },
+ {
+  "start": 425.88,
+  "duration": 3.52,
+  "text": "introduction of the database writer bot,"
+ },
+ {
+  "start": 427.8,
+  "duration": 3.28,
+  "text": "I'm going to give this one to open claw"
+ },
+ {
+  "start": 429.4,
+  "duration": 3.24,
+  "text": "coder."
+ },
+ {
+  "start": 431.08,
+  "duration": 2.88,
+  "text": "Next up, we have a project inspired by"
+ },
+ {
+  "start": 432.64,
+  "duration": 3.2,
+  "text": "what is probably my favorite movie of"
+ },
+ {
+  "start": 433.96,
+  "duration": 3.4,
+  "text": "all time, Good Will Hunting. You might"
+ },
+ {
+  "start": 435.84,
+  "duration": 3.76,
+  "text": "remember the scene where genius Will"
+ },
+ {
+  "start": 437.36,
+  "duration": 3.44,
+  "text": "Hunting is being called upon to do all"
+ },
+ {
+  "start": 439.6,
+  "duration": 2.68,
+  "text": "of these interviews with consulting"
+ },
+ {
+  "start": 440.8,
+  "duration": 3.6,
+  "text": "firms that he really doesn't want to go"
+ },
+ {
+  "start": 442.28,
+  "duration": 3.36,
+  "text": "to. He of course wants to blow them off"
+ },
+ {
+  "start": 444.4,
+  "duration": 2.44,
+  "text": "to hang out with his new girlfriend"
+ },
+ {
+  "start": 445.64,
+  "duration": 3.0,
+  "text": "Minnie Driver."
+ },
+ {
+  "start": 446.84,
+  "duration": 3.96,
+  "text": "So, what does he do? He sends his best"
+ },
+ {
+  "start": 448.64,
+  "duration": 4.279,
+  "text": "friend Chucky, played by Ben Affleck, to"
+ },
+ {
+  "start": 450.8,
+  "duration": 4.04,
+  "text": "take the interview on his behalf. The"
+ },
+ {
+  "start": 452.919,
+  "duration": 3.161,
+  "text": "interviewing firms of course do not know"
+ },
+ {
+  "start": 454.84,
+  "duration": 2.24,
+  "text": "that they are not speaking with the"
+ },
+ {
+  "start": 456.08,
+  "duration": 3.24,
+  "text": "genius that they have heard so much"
+ },
+ {
+  "start": 457.08,
+  "duration": 4.36,
+  "text": "about, and are a little taken aback when"
+ },
+ {
+  "start": 459.32,
+  "duration": 3.76,
+  "text": "Chucky, posing as Will, asks them to"
+ },
+ {
+  "start": 461.44,
+  "duration": 5.08,
+  "text": "whip out their wallets and give them"
+ },
+ {
+  "start": 463.08,
+  "duration": 5.6,
+  "text": "money on the spot. Retainer."
+ },
+ {
+  "start": 466.52,
+  "duration": 4.32,
+  "text": "So, this agent is called Chucky. And"
+ },
+ {
+  "start": 468.68,
+  "duration": 4.08,
+  "text": "where it came from is there is very"
+ },
+ {
+  "start": 470.84,
+  "duration": 4.2,
+  "text": "clearly a new role that is going to be"
+ },
+ {
+  "start": 472.76,
+  "duration": 4.04,
+  "text": "incredibly important to basically every"
+ },
+ {
+  "start": 475.04,
+  "duration": 3.32,
+  "text": "company for AI builders and"
+ },
+ {
+  "start": 476.8,
+  "duration": 2.8,
+  "text": "orchestrators."
+ },
+ {
+  "start": 478.36,
+  "duration": 2.64,
+  "text": "Simultaneously, there are going to be a"
+ },
+ {
+  "start": 479.6,
+  "duration": 4.36,
+  "text": "lot of people saying that they have"
+ },
+ {
+  "start": 481.0,
+  "duration": 4.84,
+  "text": "those skills. But how do you show that?"
+ },
+ {
+  "start": 483.96,
+  "duration": 3.84,
+  "text": "A resume isn't going to do it, nor is"
+ },
+ {
+  "start": 485.84,
+  "duration": 3.44,
+  "text": "any sort of traditional cover letter."
+ },
+ {
+  "start": 487.8,
+  "duration": 3.24,
+  "text": "And even a portfolio approach kind of"
+ },
+ {
+  "start": 489.28,
+  "duration": 4.16,
+  "text": "falls down because you can't just drop a"
+ },
+ {
+  "start": 491.04,
+  "duration": 4.96,
+  "text": "screenshot and say good enough. So, what"
+ },
+ {
+  "start": 493.44,
+  "duration": 5.0,
+  "text": "Chucky is is an agent that acts as an"
+ },
+ {
+  "start": 496.0,
+  "duration": 4.08,
+  "text": "agent builder's representative."
+ },
+ {
+  "start": 498.44,
+  "duration": 4.24,
+  "text": "Instead of sending a potential partner"
+ },
+ {
+  "start": 500.08,
+  "duration": 4.12,
+  "text": "or consulting client your portfolio, you"
+ },
+ {
+  "start": 502.68,
+  "duration": 2.6,
+  "text": "send them your agent representative"
+ },
+ {
+  "start": 504.2,
+  "duration": 3.0,
+  "text": "Chucky"
+ },
+ {
+  "start": 505.28,
+  "duration": 3.88,
+  "text": "who can interact with them and tell them"
+ },
+ {
+  "start": 507.2,
+  "duration": 3.4,
+  "text": "about what you've built. So, for"
+ },
+ {
+  "start": 509.16,
+  "duration": 2.999,
+  "text": "example, imagine that I was someone"
+ },
+ {
+  "start": 510.6,
+  "duration": 4.28,
+  "text": "trying to decide if I was going to work"
+ },
+ {
+  "start": 512.159,
+  "duration": 4.88,
+  "text": "with NLW. I could press what are NLW's"
+ },
+ {
+  "start": 514.88,
+  "duration": 4.0,
+  "text": "best examples of real work or one of the"
+ },
+ {
+  "start": 517.039,
+  "duration": 3.44,
+  "text": "other guide questions on the side, and"
+ },
+ {
+  "start": 518.88,
+  "duration": 3.839,
+  "text": "Chucky would be able to interactively"
+ },
+ {
+  "start": 520.479,
+  "duration": 4.081,
+  "text": "pull information from me about different"
+ },
+ {
+  "start": 522.719,
+  "duration": 3.721,
+  "text": "applications that I built."
+ },
+ {
+  "start": 524.56,
+  "duration": 4.0,
+  "text": "For example, it pulls up Homes. Now,"
+ },
+ {
+  "start": 526.44,
+  "duration": 4.2,
+  "text": "when you click into Homes, you can see"
+ },
+ {
+  "start": 528.56,
+  "duration": 4.08,
+  "text": "that Chucky is both sharing a bunch of"
+ },
+ {
+  "start": 530.64,
+  "duration": 3.68,
+  "text": "information about Homes, including"
+ },
+ {
+  "start": 532.64,
+  "duration": 4.0,
+  "text": "things like screenshots, but also"
+ },
+ {
+  "start": 534.32,
+  "duration": 3.92,
+  "text": "providing some context. These things all"
+ },
+ {
+  "start": 536.64,
+  "duration": 4.16,
+  "text": "of course link to the public landing"
+ },
+ {
+  "start": 538.24,
+  "duration": 4.84,
+  "text": "pages of those tools, so you can get a"
+ },
+ {
+  "start": 540.8,
+  "duration": 4.2,
+  "text": "more full experience. You can also look"
+ },
+ {
+  "start": 543.08,
+  "duration": 3.24,
+  "text": "at the full ecosystem, which is a"
+ },
+ {
+  "start": 545.0,
+  "duration": 3.24,
+  "text": "visualization that I'm still playing"
+ },
+ {
+  "start": 546.32,
+  "duration": 3.04,
+  "text": "around with, to quickly get a sense of"
+ },
+ {
+  "start": 548.24,
+  "duration": 2.68,
+  "text": "the full breadth of things that the"
+ },
+ {
+  "start": 549.36,
+  "duration": 2.28,
+  "text": "person has built."
+ },
+ {
+  "start": 550.92,
+  "duration": 2.2,
+  "text": "And if you want to skip the"
+ },
+ {
+  "start": 551.64,
+  "duration": 3.4,
+  "text": "conversation, you can still go to a"
+ },
+ {
+  "start": 553.12,
+  "duration": 3.32,
+  "text": "portfolio view where you can go directly"
+ },
+ {
+  "start": 555.04,
+  "duration": 2.72,
+  "text": "to any of the agents that the person is"
+ },
+ {
+  "start": 556.44,
+  "duration": 3.04,
+  "text": "sharing."
+ },
+ {
+  "start": 557.76,
+  "duration": 3.44,
+  "text": "I'm still very much in the midst of"
+ },
+ {
+  "start": 559.48,
+  "duration": 3.359,
+  "text": "experimenting with this one, but I'm"
+ },
+ {
+  "start": 561.2,
+  "duration": 3.44,
+  "text": "super excited about the possibilities"
+ },
+ {
+  "start": 562.839,
+  "duration": 4.561,
+  "text": "and think it could be a really cool way"
+ },
+ {
+  "start": 564.64,
+  "duration": 4.16,
+  "text": "to do jobs matching in the future."
+ },
+ {
+  "start": 567.4,
+  "duration": 4.32,
+  "text": "Now, once again back on the other end of"
+ },
+ {
+  "start": 568.8,
+  "duration": 4.48,
+  "text": "the spectrum, we have AI DB New Year's."
+ },
+ {
+  "start": 571.72,
+  "duration": 3.48,
+  "text": "This came together almost as a little"
+ },
+ {
+  "start": 573.28,
+  "duration": 4.44,
+  "text": "throwaway idea as part of my New New"
+ },
+ {
+  "start": 575.2,
+  "duration": 4.68,
+  "text": "episode where I knew that a ton of folks"
+ },
+ {
+  "start": 577.72,
+  "duration": 5.08,
+  "text": "would be looking for a way to up their"
+ },
+ {
+  "start": 579.88,
+  "duration": 4.6,
+  "text": "AI skills coming back into 2026, and so"
+ },
+ {
+  "start": 582.8,
+  "duration": 4.04,
+  "text": "put together a self-directed 10-week"
+ },
+ {
+  "start": 584.48,
+  "duration": 4.24,
+  "text": "program, and ultimately more than 7,000"
+ },
+ {
+  "start": 586.84,
+  "duration": 3.92,
+  "text": "people have participated."
+ },
+ {
+  "start": 588.72,
+  "duration": 3.48,
+  "text": "Each week has a bunch of information,"
+ },
+ {
+  "start": 590.76,
+  "duration": 3.56,
+  "text": "plus the ability to show off what you've"
+ },
+ {
+  "start": 592.2,
+  "duration": 3.56,
+  "text": "built, leading to just thousands and"
+ },
+ {
+  "start": 594.32,
+  "duration": 3.28,
+  "text": "thousands of submissions of people"
+ },
+ {
+  "start": 595.76,
+  "duration": 3.92,
+  "text": "sharing their work and the cool things"
+ },
+ {
+  "start": 597.6,
+  "duration": 3.72,
+  "text": "they've built throughout the project."
+ },
+ {
+  "start": 599.68,
+  "duration": 3.56,
+  "text": "AIDB New Year would go on to inspire"
+ },
+ {
+  "start": 601.32,
+  "duration": 3.56,
+  "text": "another self-directed program that'll be"
+ },
+ {
+  "start": 603.24,
+  "duration": 3.04,
+  "text": "in our list a little bit later. It"
+ },
+ {
+  "start": 604.88,
+  "duration": 2.92,
+  "text": "definitely has a fun place in my heart"
+ },
+ {
+  "start": 606.28,
+  "duration": 2.84,
+  "text": "as the kickoff of what I think is going"
+ },
+ {
+  "start": 607.8,
+  "duration": 2.76,
+  "text": "to be a pretty consistent approach for"
+ },
+ {
+  "start": 609.12,
+  "duration": 3.52,
+  "text": "me going forward, which is these sort of"
+ },
+ {
+  "start": 610.56,
+  "duration": 4.08,
+  "text": "self-directed programs."
+ },
+ {
+  "start": 612.64,
+  "duration": 4.12,
+  "text": "In terms of overall impact for people"
+ },
+ {
+  "start": 614.64,
+  "duration": 3.72,
+  "text": "outside of me, obviously AIDB New Year"
+ },
+ {
+  "start": 616.76,
+  "duration": 2.96,
+  "text": "is biggest, but because of the future"
+ },
+ {
+  "start": 618.36,
+  "duration": 2.56,
+  "text": "orientation and what I think it could be"
+ },
+ {
+  "start": 619.72,
+  "duration": 3.84,
+  "text": "in the future,"
+ },
+ {
+  "start": 620.92,
+  "duration": 4.6,
+  "text": "I'm going to give this one to Chucky."
+ },
+ {
+  "start": 623.56,
+  "duration": 3.64,
+  "text": "Now, in our final match in bracket A,"
+ },
+ {
+  "start": 625.52,
+  "duration": 4.0,
+  "text": "we've got another part of the future"
+ },
+ {
+  "start": 627.2,
+  "duration": 4.6,
+  "text": "superintelligence-style agent ecosystem"
+ },
+ {
+  "start": 629.52,
+  "duration": 3.92,
+  "text": "in 221B up against a fun little project"
+ },
+ {
+  "start": 631.8,
+  "duration": 3.96,
+  "text": "called Model Mog."
+ },
+ {
+  "start": 633.44,
+  "duration": 4.0,
+  "text": "Let's look at 221B first. This is"
+ },
+ {
+  "start": 635.76,
+  "duration": 3.2,
+  "text": "effectively the brain that powers both"
+ },
+ {
+  "start": 637.44,
+  "duration": 3.72,
+  "text": "Holmes and Mycroft, who you'll meet"
+ },
+ {
+  "start": 638.96,
+  "duration": 4.04,
+  "text": "later. It's an agentic knowledge base"
+ },
+ {
+  "start": 641.16,
+  "duration": 3.6,
+  "text": "that automatically ingest transcripts"
+ },
+ {
+  "start": 643.0,
+  "duration": 3.56,
+  "text": "from the show, does automated web"
+ },
+ {
+  "start": 644.76,
+  "duration": 3.48,
+  "text": "searches around key platforms,"
+ },
+ {
+  "start": 646.56,
+  "duration": 2.92,
+  "text": "interviews me on a weekly basis to try"
+ },
+ {
+  "start": 648.24,
+  "duration": 3.08,
+  "text": "to understand what's trending in the"
+ },
+ {
+  "start": 649.48,
+  "duration": 3.48,
+  "text": "conversation, and ultimately puts"
+ },
+ {
+  "start": 651.32,
+  "duration": 3.8,
+  "text": "together dossiers of what matters in"
+ },
+ {
+  "start": 652.96,
+  "duration": 3.96,
+  "text": "enterprise AI, which can be used by"
+ },
+ {
+  "start": 655.12,
+  "duration": 3.84,
+  "text": "agents like Holmes to update the"
+ },
+ {
+  "start": 656.92,
+  "duration": 3.919,
+  "text": "recommendations on what people should be"
+ },
+ {
+  "start": 658.96,
+  "duration": 3.36,
+  "text": "using AI for."
+ },
+ {
+  "start": 660.839,
+  "duration": 3.361,
+  "text": "It's less flashy cuz it's not the thing"
+ },
+ {
+  "start": 662.32,
+  "duration": 4.24,
+  "text": "talking with people, but it's the power"
+ },
+ {
+  "start": 664.2,
+  "duration": 3.92,
+  "text": "center that makes the thing work."
+ },
+ {
+  "start": 666.56,
+  "duration": 2.76,
+  "text": "Model Mog is a fun little project that I"
+ },
+ {
+  "start": 668.12,
+  "duration": 2.68,
+  "text": "honestly haven't really given enough"
+ },
+ {
+  "start": 669.32,
+  "duration": 3.56,
+  "text": "time to and might come back to it some"
+ },
+ {
+  "start": 670.8,
+  "duration": 4.2,
+  "text": "point. There are a bunch of platforms"
+ },
+ {
+  "start": 672.88,
+  "duration": 4.0,
+  "text": "out there that are designed to determine"
+ },
+ {
+  "start": 675.0,
+  "duration": 3.8,
+  "text": "which output of models you like for"
+ },
+ {
+  "start": 676.88,
+  "duration": 4.16,
+  "text": "different purposes, but the idea of"
+ },
+ {
+  "start": 678.8,
+  "duration": 4.0,
+  "text": "Model Mog is to see people's express"
+ },
+ {
+  "start": 681.04,
+  "duration": 3.56,
+  "text": "preferences for models based on"
+ },
+ {
+  "start": 682.8,
+  "duration": 3.0,
+  "text": "different use cases."
+ },
+ {
+  "start": 684.6,
+  "duration": 2.6,
+  "text": "One of the things that's clear when we"
+ },
+ {
+  "start": 685.8,
+  "duration": 3.08,
+  "text": "survey people as part of our monthly"
+ },
+ {
+  "start": 687.2,
+  "duration": 3.68,
+  "text": "pulse surveys, or this is that the most"
+ },
+ {
+  "start": 688.88,
+  "duration": 4.04,
+  "text": "active power users are using multiple"
+ },
+ {
+  "start": 690.88,
+  "duration": 3.52,
+  "text": "models for different purposes."
+ },
+ {
+  "start": 692.92,
+  "duration": 4.08,
+  "text": "In fact, the average user is using"
+ },
+ {
+  "start": 694.4,
+  "duration": 4.4,
+  "text": "something like 3.5 different models. So,"
+ },
+ {
+  "start": 697.0,
+  "duration": 3.44,
+  "text": "Model Mog brings up a use case like"
+ },
+ {
+  "start": 698.8,
+  "duration": 4.12,
+  "text": "generating a 15-second product demo"
+ },
+ {
+  "start": 700.44,
+  "duration": 4.64,
+  "text": "video and asks you between two different"
+ },
+ {
+  "start": 702.92,
+  "duration": 3.6,
+  "text": "options which one you would use."
+ },
+ {
+  "start": 705.08,
+  "duration": 3.8,
+  "text": "I put this together walking around the"
+ },
+ {
+  "start": 706.52,
+  "duration": 3.44,
+  "text": "rocks of Jose Ignacio in Uruguay and"
+ },
+ {
+  "start": 708.88,
+  "duration": 2.4,
+  "text": "honestly think it has even more"
+ },
+ {
+  "start": 709.96,
+  "duration": 2.76,
+  "text": "opportunity to be something cool in the"
+ },
+ {
+  "start": 711.28,
+  "duration": 2.88,
+  "text": "future."
+ },
+ {
+  "start": 712.72,
+  "duration": 3.92,
+  "text": "Ultimately, though, while Mog is a fun"
+ },
+ {
+  "start": 714.16,
+  "duration": 4.36,
+  "text": "little side project, 221B, I think, is"
+ },
+ {
+  "start": 716.64,
+  "duration": 3.24,
+  "text": "going to be much more significant and a"
+ },
+ {
+  "start": 718.52,
+  "duration": 3.56,
+  "text": "really important part of a larger"
+ },
+ {
+  "start": 719.88,
+  "duration": 4.48,
+  "text": "agentic system."
+ },
+ {
+  "start": 722.08,
+  "duration": 4.64,
+  "text": "Moving over to bracket B, we start off"
+ },
+ {
+  "start": 724.36,
+  "duration": 3.52,
+  "text": "with Clawhammer versus Mycroft."
+ },
+ {
+  "start": 726.72,
+  "duration": 3.04,
+  "text": "Clawhammer is, of course, another"
+ },
+ {
+  "start": 727.88,
+  "duration": 4.04,
+  "text": "self-directed program this time to learn"
+ },
+ {
+  "start": 729.76,
+  "duration": 4.92,
+  "text": "how to use Open Claw to build agents and"
+ },
+ {
+  "start": 731.92,
+  "duration": 4.56,
+  "text": "agent teams that was a direct descendant"
+ },
+ {
+  "start": 734.68,
+  "duration": 3.44,
+  "text": "of AIDB New Year."
+ },
+ {
+  "start": 736.48,
+  "duration": 2.92,
+  "text": "The inside of the platform is a little"
+ },
+ {
+  "start": 738.12,
+  "duration": 2.88,
+  "text": "bit different, although it has some"
+ },
+ {
+  "start": 739.4,
+  "duration": 3.32,
+  "text": "similar features like projects, the"
+ },
+ {
+  "start": 741.0,
+  "duration": 3.84,
+  "text": "ability to check in, and the ability to"
+ },
+ {
+  "start": 742.72,
+  "duration": 4.64,
+  "text": "share the agents that you've built."
+ },
+ {
+  "start": 744.84,
+  "duration": 5.0,
+  "text": "Mycroft is another AI advisor agent that"
+ },
+ {
+  "start": 747.36,
+  "duration": 3.92,
+  "text": "lives in large part in Slack. If Holmes"
+ },
+ {
+  "start": 749.84,
+  "duration": 3.96,
+  "text": "is concerned just with what the"
+ },
+ {
+  "start": 751.28,
+  "duration": 5.16,
+  "text": "individual is doing with AI, Mycroft is"
+ },
+ {
+  "start": 753.8,
+  "duration": 4.8,
+  "text": "building an overall company strategy."
+ },
+ {
+  "start": 756.44,
+  "duration": 4.04,
+  "text": "You can talk to Mycroft via DMs or in"
+ },
+ {
+  "start": 758.6,
+  "duration": 3.0,
+  "text": "threads, or you can also chat to him on"
+ },
+ {
+  "start": 760.48,
+  "duration": 2.92,
+  "text": "the web."
+ },
+ {
+  "start": 761.6,
+  "duration": 3.84,
+  "text": "Like Holmes, Mycroft is going to do an"
+ },
+ {
+  "start": 763.4,
+  "duration": 4.24,
+  "text": "initial intake discovery interview and"
+ },
+ {
+  "start": 765.44,
+  "duration": 3.84,
+  "text": "with all of those conversations, build"
+ },
+ {
+  "start": 767.64,
+  "duration": 3.8,
+  "text": "out an AI roadmap and strategy for the"
+ },
+ {
+  "start": 769.28,
+  "duration": 4.559,
+  "text": "entire company. That's going to include"
+ },
+ {
+  "start": 771.44,
+  "duration": 4.52,
+  "text": "plans for use cases, updates and changes"
+ },
+ {
+  "start": 773.839,
+  "duration": 3.641,
+  "text": "around data and systems integration,"
+ },
+ {
+  "start": 775.96,
+  "duration": 3.52,
+  "text": "plans for governance, approaches to"
+ },
+ {
+  "start": 777.48,
+  "duration": 3.6,
+  "text": "upskilling in people, and goals around"
+ },
+ {
+  "start": 779.48,
+  "duration": 2.88,
+  "text": "outcomes and ROI."
+ },
+ {
+  "start": 781.08,
+  "duration": 3.28,
+  "text": "As it chats with you, it's building a"
+ },
+ {
+  "start": 782.36,
+  "duration": 4.08,
+  "text": "dossier on the individual as well as on"
+ },
+ {
+  "start": 784.36,
+  "duration": 4.04,
+  "text": "the company and that roadmap is getting"
+ },
+ {
+  "start": 786.44,
+  "duration": 3.48,
+  "text": "continuously improved over time as it"
+ },
+ {
+  "start": 788.4,
+  "duration": 3.04,
+  "text": "learns more both about the company"
+ },
+ {
+  "start": 789.92,
+  "duration": 4.8,
+  "text": "through conversations, but also gets"
+ },
+ {
+  "start": 791.44,
+  "duration": 5.56,
+  "text": "access to outside information via 221B."
+ },
+ {
+  "start": 794.72,
+  "duration": 3.96,
+  "text": "In short, Mycroft is your digital chief"
+ },
+ {
+  "start": 797.0,
+  "duration": 3.2,
+  "text": "AI officer."
+ },
+ {
+  "start": 798.68,
+  "duration": 3.04,
+  "text": "Again, I love Clawhammer, but there's no"
+ },
+ {
+  "start": 800.2,
+  "duration": 3.6,
+  "text": "question here. This one is going to"
+ },
+ {
+  "start": 801.72,
+  "duration": 4.2,
+  "text": "Mycroft. By the way, for those of you"
+ },
+ {
+  "start": 803.8,
+  "duration": 4.44,
+  "text": "who are not familiar with the Sherlock"
+ },
+ {
+  "start": 805.92,
+  "duration": 4.28,
+  "text": "Holmes universe, Mycroft is Sherlock's"
+ },
+ {
+  "start": 808.24,
+  "duration": 3.36,
+  "text": "even smarter older brother who basically"
+ },
+ {
+  "start": 810.2,
+  "duration": 3.24,
+  "text": "secretly runs the British government"
+ },
+ {
+  "start": 811.6,
+  "duration": 3.68,
+  "text": "behind the scenes, which is obviously"
+ },
+ {
+  "start": 813.44,
+  "duration": 4.36,
+  "text": "why Mycroft got to be the person who's"
+ },
+ {
+  "start": 815.28,
+  "duration": 4.24,
+  "text": "thinking about the company as a whole."
+ },
+ {
+  "start": 817.8,
+  "duration": 3.6,
+  "text": "Next in bracket B, we have two projects"
+ },
+ {
+  "start": 819.52,
+  "duration": 4.2,
+  "text": "that relate to Open Claw."
+ },
+ {
+  "start": 821.4,
+  "duration": 3.72,
+  "text": "One is my Open Claw Chief of Staff,"
+ },
+ {
+  "start": 823.72,
+  "duration": 3.64,
+  "text": "which is sort of a stand-in for actually"
+ },
+ {
+  "start": 825.12,
+  "duration": 4.36,
+  "text": "six different agents. Basically, one"
+ },
+ {
+  "start": 827.36,
+  "duration": 3.84,
+  "text": "category of agent that I built with Open"
+ },
+ {
+  "start": 829.48,
+  "duration": 3.04,
+  "text": "Claw are effectively just project"
+ },
+ {
+  "start": 831.2,
+  "duration": 3.24,
+  "text": "managers for all the different things"
+ },
+ {
+  "start": 832.52,
+  "duration": 4.0,
+  "text": "that I've got cooking at any time. We've"
+ },
+ {
+  "start": 834.44,
+  "duration": 3.12,
+  "text": "got AIDB, we've got superintelligent,"
+ },
+ {
+  "start": 836.52,
+  "duration": 2.72,
+  "text": "we've got initiatives like these"
+ },
+ {
+  "start": 837.56,
+  "duration": 3.12,
+  "text": "training programs, the Intel and"
+ },
+ {
+  "start": 839.24,
+  "duration": 2.44,
+  "text": "benchmarking service, and lots of other"
+ },
+ {
+  "start": 840.68,
+  "duration": 2.28,
+  "text": "things."
+ },
+ {
+  "start": 841.68,
+  "duration": 3.28,
+  "text": "Each of those has their own project"
+ },
+ {
+  "start": 842.96,
+  "duration": 3.76,
+  "text": "manager who is continuously interacting"
+ },
+ {
+  "start": 844.96,
+  "duration": 3.16,
+  "text": "and checking in on a day-to-day basis,"
+ },
+ {
+  "start": 846.72,
+  "duration": 3.96,
+  "text": "and then the Chief of Staff's job is to"
+ },
+ {
+  "start": 848.12,
+  "duration": 4.48,
+  "text": "keep all of that information organized."
+ },
+ {
+  "start": 850.68,
+  "duration": 3.44,
+  "text": "For our head-to-head, the Chief of Staff"
+ },
+ {
+  "start": 852.6,
+  "duration": 4.44,
+  "text": "is up against the Mission Control"
+ },
+ {
+  "start": 854.12,
+  "duration": 3.88,
+  "text": "Center. Once I got up to 10 agents, I"
+ },
+ {
+  "start": 857.04,
+  "duration": 2.72,
+  "text": "found that I was looking for an"
+ },
+ {
+  "start": 858.0,
+  "duration": 3.68,
+  "text": "interface that was different than just a"
+ },
+ {
+  "start": 859.76,
+  "duration": 3.84,
+  "text": "Telegram interface for keeping more"
+ },
+ {
+  "start": 861.68,
+  "duration": 3.6,
+  "text": "persistently relevant information, as"
+ },
+ {
+  "start": 863.6,
+  "duration": 3.04,
+  "text": "well as tracking problems like overdue"
+ },
+ {
+  "start": 865.28,
+  "duration": 3.68,
+  "text": "heartbeats or cron jobs that weren't"
+ },
+ {
+  "start": 866.64,
+  "duration": 3.76,
+  "text": "firing. This Mission Control Center was"
+ },
+ {
+  "start": 868.96,
+  "duration": 3.12,
+  "text": "one of the most technically difficult"
+ },
+ {
+  "start": 870.4,
+  "duration": 3.4,
+  "text": "things I've had to build, and just took"
+ },
+ {
+  "start": 872.08,
+  "duration": 3.88,
+  "text": "an endless amount of back and forth with"
+ },
+ {
+  "start": 873.8,
+  "duration": 3.4,
+  "text": "my Claw build partner to get right, and"
+ },
+ {
+  "start": 875.96,
+  "duration": 2.64,
+  "text": "is something that I found extremely"
+ },
+ {
+  "start": 877.2,
+  "duration": 2.92,
+  "text": "useful."
+ },
+ {
+  "start": 878.6,
+  "duration": 2.96,
+  "text": "The Chief of Staff, meanwhile, hasn't"
+ },
+ {
+  "start": 880.12,
+  "duration": 3.32,
+  "text": "really gotten off the ground as much for"
+ },
+ {
+  "start": 881.56,
+  "duration": 4.24,
+  "text": "me, which I think in part is because I"
+ },
+ {
+  "start": 883.44,
+  "duration": 3.84,
+  "text": "didn't empower it with my systems. I've"
+ },
+ {
+  "start": 885.8,
+  "duration": 2.88,
+  "text": "got Open Claw running off a Mac mini"
+ },
+ {
+  "start": 887.28,
+  "duration": 3.36,
+  "text": "like so many others, and I haven't"
+ },
+ {
+  "start": 888.68,
+  "duration": 3.48,
+  "text": "really wired it yet into places like"
+ },
+ {
+  "start": 890.64,
+  "duration": 3.199,
+  "text": "Slack where it could be automatically"
+ },
+ {
+  "start": 892.16,
+  "duration": 3.92,
+  "text": "getting contacts. So, in effect, the"
+ },
+ {
+  "start": 893.839,
+  "duration": 4.201,
+  "text": "project managers and Chief of Staff are"
+ },
+ {
+  "start": 896.08,
+  "duration": 3.4,
+  "text": "just kind of externalized to-do lists"
+ },
+ {
+  "start": 898.04,
+  "duration": 3.36,
+  "text": "that are effectively competing with"
+ },
+ {
+  "start": 899.48,
+  "duration": 4.84,
+  "text": "Notion for me, which is cool, but"
+ },
+ {
+  "start": 901.4,
+  "duration": 4.52,
+  "text": "ultimately not all that exciting."
+ },
+ {
+  "start": 904.32,
+  "duration": 3.68,
+  "text": "The third head-to-head in bracket B is a"
+ },
+ {
+  "start": 905.92,
+  "duration": 4.04,
+  "text": "forthcoming benchmarking tool against"
+ },
+ {
+  "start": 908.0,
+  "duration": 3.88,
+  "text": "what is easily my most useful Open Claw"
+ },
+ {
+  "start": 909.96,
+  "duration": 3.76,
+  "text": "agent. On the Open Claw side, we're"
+ },
+ {
+  "start": 911.88,
+  "duration": 4.72,
+  "text": "talking about the witty RADARS"
+ },
+ {
+  "start": 913.72,
+  "duration": 4.76,
+  "text": "researcher. RADARS refers to Opportunity"
+ },
+ {
+  "start": 916.6,
+  "duration": 3.68,
+  "text": "RADARS, which is a use case database"
+ },
+ {
+  "start": 918.48,
+  "duration": 3.2,
+  "text": "product that organizes use case across"
+ },
+ {
+  "start": 920.28,
+  "duration": 2.76,
+  "text": "its different function into three"
+ },
+ {
+  "start": 921.68,
+  "duration": 2.72,
+  "text": "categories."
+ },
+ {
+  "start": 923.04,
+  "duration": 3.32,
+  "text": "Primetime, which means it's viable for"
+ },
+ {
+  "start": 924.4,
+  "duration": 3.4,
+  "text": "just about every company. Emerging,"
+ },
+ {
+  "start": 926.36,
+  "duration": 2.96,
+  "text": "which means you need some setup, but"
+ },
+ {
+  "start": 927.8,
+  "duration": 3.48,
+  "text": "most companies can do it and get value"
+ },
+ {
+  "start": 929.32,
+  "duration": 3.12,
+  "text": "out of it. And frontier, which means"
+ },
+ {
+  "start": 931.28,
+  "duration": 2.76,
+  "text": "while it's valuable, you're going to"
+ },
+ {
+  "start": 932.44,
+  "duration": 2.6,
+  "text": "really have to have the right setup for"
+ },
+ {
+  "start": 934.04,
+  "duration": 2.56,
+  "text": "it."
+ },
+ {
+  "start": 935.04,
+  "duration": 3.36,
+  "text": "I think it's a useful way of organizing"
+ },
+ {
+  "start": 936.6,
+  "duration": 4.68,
+  "text": "use cases, and the Witty Radar's"
+ },
+ {
+  "start": 938.4,
+  "duration": 6.08,
+  "text": "research bot's job is to be continuously"
+ },
+ {
+  "start": 941.28,
+  "duration": 5.12,
+  "text": "hunting 24/7 for new inputs from out in"
+ },
+ {
+  "start": 944.48,
+  "duration": 3.88,
+  "text": "the world, studies, research, surveys,"
+ },
+ {
+  "start": 946.4,
+  "duration": 4.36,
+  "text": "etc. That would both generate new use"
+ },
+ {
+  "start": 948.36,
+  "duration": 4.2,
+  "text": "cases as well as inform where use cases"
+ },
+ {
+  "start": 950.76,
+  "duration": 3.72,
+  "text": "should be in that tearing of primetime,"
+ },
+ {
+  "start": 952.56,
+  "duration": 3.24,
+  "text": "emerging, or frontier."
+ },
+ {
+  "start": 954.48,
+  "duration": 3.12,
+  "text": "This sort of persistent research has"
+ },
+ {
+  "start": 955.8,
+  "duration": 3.44,
+  "text": "been my most useful application of Open"
+ },
+ {
+  "start": 957.6,
+  "duration": 3.0,
+  "text": "Claw overall."
+ },
+ {
+  "start": 959.24,
+  "duration": 2.68,
+  "text": "Maturity Maps, meanwhile, are the"
+ },
+ {
+  "start": 960.6,
+  "duration": 2.72,
+  "text": "forthcoming benchmark that I'm most"
+ },
+ {
+  "start": 961.92,
+  "duration": 3.12,
+  "text": "excited about."
+ },
+ {
+  "start": 963.32,
+  "duration": 3.44,
+  "text": "I think our old visualizations, like the"
+ },
+ {
+  "start": 965.04,
+  "duration": 3.72,
+  "text": "Gartner Magic Quadrant, have never been"
+ },
+ {
+  "start": 966.76,
+  "duration": 3.72,
+  "text": "less useful than they are today. And so,"
+ },
+ {
+  "start": 968.76,
+  "duration": 2.68,
+  "text": "I wanted to design something that was a"
+ },
+ {
+  "start": 970.48,
+  "duration": 2.28,
+  "text": "better fit for the world that we're"
+ },
+ {
+  "start": 971.44,
+  "duration": 3.16,
+  "text": "actually in."
+ },
+ {
+  "start": 972.76,
+  "duration": 3.6,
+  "text": "Maturity Maps organize AI and agent"
+ },
+ {
+  "start": 974.6,
+  "duration": 3.56,
+  "text": "readiness across six different vectors,"
+ },
+ {
+  "start": 976.36,
+  "duration": 3.16,
+  "text": "including use cases, systems, data"
+ },
+ {
+  "start": 978.16,
+  "duration": 3.28,
+  "text": "integration, outcomes, people, and"
+ },
+ {
+  "start": 979.52,
+  "duration": 4.32,
+  "text": "governance. And then it uses a simple"
+ },
+ {
+  "start": 981.44,
+  "duration": 3.68,
+  "text": "visualization of on track, behind, or"
+ },
+ {
+  "start": 983.84,
+  "duration": 2.88,
+  "text": "ahead."
+ },
+ {
+  "start": 985.12,
+  "duration": 4.04,
+  "text": "On a quarterly basis, we update the"
+ },
+ {
+  "start": 986.72,
+  "duration": 4.4,
+  "text": "Maturity Maps function by function to"
+ },
+ {
+  "start": 989.16,
+  "duration": 3.64,
+  "text": "where we think organizations should be"
+ },
+ {
+  "start": 991.12,
+  "duration": 3.44,
+  "text": "in each of those areas. And then"
+ },
+ {
+  "start": 992.8,
+  "duration": 3.8,
+  "text": "benchmark subscribers can see where they"
+ },
+ {
+  "start": 994.56,
+  "duration": 4.52,
+  "text": "fit relative to the on track line and"
+ },
+ {
+  "start": 996.6,
+  "duration": 3.92,
+  "text": "where we think organizations should be."
+ },
+ {
+  "start": 999.08,
+  "duration": 3.52,
+  "text": "Now, the Maturity Maps weren't agentic,"
+ },
+ {
+  "start": 1000.52,
+  "duration": 4.24,
+  "text": "but they were very much a co-production"
+ },
+ {
+  "start": 1002.6,
+  "duration": 4.04,
+  "text": "of me and AI. And I think that they have"
+ },
+ {
+  "start": 1004.76,
+  "duration": 4.32,
+  "text": "a ton of promise, but for now, I'm going"
+ },
+ {
+  "start": 1006.64,
+  "duration": 5.12,
+  "text": "to give the nod to the Witty 24/7 Open"
+ },
+ {
+  "start": 1009.08,
+  "duration": 4.72,
+  "text": "Claw research agent."
+ },
+ {
+  "start": 1011.76,
+  "duration": 4.4,
+  "text": "Last bracket, we have the Agent Madness"
+ },
+ {
+  "start": 1013.8,
+  "duration": 4.4,
+  "text": "bracket platform itself versus the beta"
+ },
+ {
+  "start": 1016.16,
+  "duration": 3.92,
+  "text": "superintelligent Compass platform, which"
+ },
+ {
+  "start": 1018.2,
+  "duration": 3.36,
+  "text": "is effectively a power tool for AI"
+ },
+ {
+  "start": 1020.08,
+  "duration": 2.759,
+  "text": "adoption folks."
+ },
+ {
+  "start": 1021.56,
+  "duration": 3.04,
+  "text": "Compass, you can see, has integrated"
+ },
+ {
+  "start": 1022.839,
+  "duration": 3.201,
+  "text": "things like the Opportunity Radars and"
+ },
+ {
+  "start": 1024.6,
+  "duration": 3.32,
+  "text": "the Maturity Maps, as well as the"
+ },
+ {
+  "start": 1026.04,
+  "duration": 3.68,
+  "text": "ability to build roadmaps, upload"
+ },
+ {
+  "start": 1027.92,
+  "duration": 3.159,
+  "text": "company context, and do the sort of"
+ },
+ {
+  "start": 1029.72,
+  "duration": 3.76,
+  "text": "self-directed assessments of the type"
+ },
+ {
+  "start": 1031.079,
+  "duration": 3.801,
+  "text": "that we do at Superintelligent."
+ },
+ {
+  "start": 1033.48,
+  "duration": 2.56,
+  "text": "Now, Compass continues to evolve, but I"
+ },
+ {
+  "start": 1034.88,
+  "duration": 2.439,
+  "text": "think when it comes to the tournament of"
+ },
+ {
+  "start": 1036.04,
+  "duration": 4.6,
+  "text": "the coolest things that I've built this"
+ },
+ {
+  "start": 1037.319,
+  "duration": 5.081,
+  "text": "year, Compass definitely gets the nod."
+ },
+ {
+  "start": 1040.64,
+  "duration": 3.4,
+  "text": "So, now you have seen all 16 of these"
+ },
+ {
+  "start": 1042.4,
+  "duration": 3.72,
+  "text": "things that I've built this year, and I"
+ },
+ {
+  "start": 1044.04,
+  "duration": 3.68,
+  "text": "won't dwell too long on the match-ups,"
+ },
+ {
+  "start": 1046.12,
+  "duration": 3.36,
+  "text": "but for the sake of completeness in this"
+ },
+ {
+  "start": 1047.72,
+  "duration": 3.8,
+  "text": "mini tournament between Holmes and the"
+ },
+ {
+  "start": 1049.48,
+  "duration": 4.16,
+  "text": "Open Claw Coder, it very obviously goes"
+ },
+ {
+  "start": 1051.52,
+  "duration": 3.8,
+  "text": "to Holmes. I mentioned Open Claw Coder"
+ },
+ {
+  "start": 1053.64,
+  "duration": 3.48,
+  "text": "barely got the nod over the Perplexity"
+ },
+ {
+  "start": 1055.32,
+  "duration": 3.12,
+  "text": "Researcher, and really has only gotten"
+ },
+ {
+  "start": 1057.12,
+  "duration": 3.52,
+  "text": "more useful recently because of my"
+ },
+ {
+  "start": 1058.44,
+  "duration": 4.0,
+  "text": "database writer, whereas Holmes I think"
+ },
+ {
+  "start": 1060.64,
+  "duration": 3.8,
+  "text": "has a lot of potential to be a very"
+ },
+ {
+  "start": 1062.44,
+  "duration": 3.64,
+  "text": "cool, valuable tool for lots of people"
+ },
+ {
+  "start": 1064.44,
+  "duration": 4.2,
+  "text": "going forward."
+ },
+ {
+  "start": 1066.08,
+  "duration": 4.64,
+  "text": "Chucky versus 221B is harder."
+ },
+ {
+  "start": 1068.64,
+  "duration": 3.88,
+  "text": "The 221B research hub is the sort of"
+ },
+ {
+  "start": 1070.72,
+  "duration": 3.6,
+  "text": "behind the scenes engine that a lot of"
+ },
+ {
+  "start": 1072.52,
+  "duration": 3.72,
+  "text": "agents are going to need to be useful,"
+ },
+ {
+  "start": 1074.32,
+  "duration": 3.64,
+  "text": "but I just think Chucky's approach to"
+ },
+ {
+  "start": 1076.24,
+  "duration": 2.84,
+  "text": "presenting someone's build history is"
+ },
+ {
+  "start": 1077.96,
+  "duration": 2.84,
+  "text": "something that I feel like could be a"
+ },
+ {
+  "start": 1079.08,
+  "duration": 2.84,
+  "text": "really valuable form factor going"
+ },
+ {
+  "start": 1080.8,
+  "duration": 3.4,
+  "text": "forward."
+ },
+ {
+  "start": 1081.92,
+  "duration": 3.8,
+  "text": "Mycroft versus Mission Control, as"
+ },
+ {
+  "start": 1084.2,
+  "duration": 3.8,
+  "text": "technologically challenging as Mission"
+ },
+ {
+  "start": 1085.72,
+  "duration": 4.36,
+  "text": "Control was, Mycroft wasn't particularly"
+ },
+ {
+  "start": 1088.0,
+  "duration": 4.52,
+  "text": "easy either. And I think the idea of a"
+ },
+ {
+  "start": 1090.08,
+  "duration": 3.76,
+  "text": "digital Chief AI Officer just really has"
+ },
+ {
+  "start": 1092.52,
+  "duration": 2.8,
+  "text": "legs, so we're going to give this one to"
+ },
+ {
+  "start": 1093.84,
+  "duration": 3.24,
+  "text": "Mycroft."
+ },
+ {
+  "start": 1095.32,
+  "duration": 3.96,
+  "text": "In the Open Claw Whitty Researcher"
+ },
+ {
+  "start": 1097.08,
+  "duration": 4.16,
+  "text": "versus Compass semi-final, I'm going to"
+ },
+ {
+  "start": 1099.28,
+  "duration": 3.64,
+  "text": "give it to the Whitty Researcher. A, as"
+ },
+ {
+  "start": 1101.24,
+  "duration": 3.44,
+  "text": "the last agent standing among the Open"
+ },
+ {
+  "start": 1102.92,
+  "duration": 3.6,
+  "text": "Claws, and B, because I think that the"
+ },
+ {
+  "start": 1104.68,
+  "duration": 3.08,
+  "text": "way that Compass is evolving, it's kind"
+ },
+ {
+  "start": 1106.52,
+  "duration": 3.28,
+  "text": "of just going to be the enterprise house"
+ },
+ {
+  "start": 1107.76,
+  "duration": 4.84,
+  "text": "for a lot of these different things."
+ },
+ {
+  "start": 1109.8,
+  "duration": 4.68,
+  "text": "So, the Whitty Researcher gets the nod."
+ },
+ {
+  "start": 1112.6,
+  "duration": 4.0,
+  "text": "Now, in the bracket A final, Holmes"
+ },
+ {
+  "start": 1114.48,
+  "duration": 4.12,
+  "text": "versus Chucky, this might be the hardest"
+ },
+ {
+  "start": 1116.6,
+  "duration": 3.36,
+  "text": "one for me in the entire bracket. I"
+ },
+ {
+  "start": 1118.6,
+  "duration": 3.4,
+  "text": "really do think that it would be"
+ },
+ {
+  "start": 1119.96,
+  "duration": 4.12,
+  "text": "massively useful for every individual to"
+ },
+ {
+  "start": 1122.0,
+  "duration": 3.6,
+  "text": "have a Holmes in their Slack giving them"
+ },
+ {
+  "start": 1124.08,
+  "duration": 3.48,
+  "text": "continuously updated recommendations"
+ },
+ {
+  "start": 1125.6,
+  "duration": 3.96,
+  "text": "around the AI that they should be using,"
+ },
+ {
+  "start": 1127.56,
+  "duration": 4.24,
+  "text": "but I also kind of have a feeling that"
+ },
+ {
+  "start": 1129.56,
+  "duration": 4.4,
+  "text": "Mycroft, despite being initially focused"
+ },
+ {
+  "start": 1131.8,
+  "duration": 3.68,
+  "text": "on the company's AI strategy, might"
+ },
+ {
+  "start": 1133.96,
+  "duration": 3.32,
+  "text": "swoop in and take over what his little"
+ },
+ {
+  "start": 1135.48,
+  "duration": 3.12,
+  "text": "brother is doing. Whereas, like I've"
+ },
+ {
+  "start": 1137.28,
+  "duration": 2.96,
+  "text": "said a bunch of times now, I think"
+ },
+ {
+  "start": 1138.6,
+  "duration": 3.12,
+  "text": "Chucky might be a form factor for the"
+ },
+ {
+  "start": 1140.24,
+  "duration": 3.8,
+  "text": "future in terms of presenting the work"
+ },
+ {
+  "start": 1141.72,
+  "duration": 3.6,
+  "text": "that you've done. So, Chucky gets the"
+ },
+ {
+  "start": 1144.04,
+  "duration": 3.08,
+  "text": "nod and makes it to the overall"
+ },
+ {
+  "start": 1145.32,
+  "duration": 4.08,
+  "text": "tournament final."
+ },
+ {
+  "start": 1147.12,
+  "duration": 4.28,
+  "text": "Over in the bracket B final, this one is"
+ },
+ {
+  "start": 1149.4,
+  "duration": 3.68,
+  "text": "a little bit more of a route. Mycroft is"
+ },
+ {
+  "start": 1151.4,
+  "duration": 3.24,
+  "text": "not just taking in information, it's"
+ },
+ {
+  "start": 1153.08,
+  "duration": 3.72,
+  "text": "doing something valuable with it in a"
+ },
+ {
+  "start": 1154.64,
+  "duration": 4.48,
+  "text": "customized and ongoing way, building out"
+ },
+ {
+  "start": 1156.8,
+  "duration": 5.28,
+  "text": "the strategy for your company over time."
+ },
+ {
+  "start": 1159.12,
+  "duration": 5.4,
+  "text": "So, Mycroft makes it to the final."
+ },
+ {
+  "start": 1162.08,
+  "duration": 5.0,
+  "text": "Now, in terms of who wins, what this"
+ },
+ {
+  "start": 1164.52,
+  "duration": 5.08,
+  "text": "comes down to is where things are now."
+ },
+ {
+  "start": 1167.08,
+  "duration": 4.32,
+  "text": "I have grand plans to introduce Chucky"
+ },
+ {
+  "start": 1169.6,
+  "duration": 3.2,
+  "text": "to all of you who are doing Claw Camp,"
+ },
+ {
+  "start": 1171.4,
+  "duration": 3.28,
+  "text": "and to see if we can't do some jobs"
+ },
+ {
+  "start": 1172.8,
+  "duration": 3.48,
+  "text": "matchmaking. However, that hasn't"
+ },
+ {
+  "start": 1174.68,
+  "duration": 3.52,
+  "text": "happened yet, and I'm still working out"
+ },
+ {
+  "start": 1176.28,
+  "duration": 3.52,
+  "text": "a lot of kinks in the system."
+ },
+ {
+  "start": 1178.2,
+  "duration": 3.56,
+  "text": "Mycroft, meanwhile, while it is in"
+ },
+ {
+  "start": 1179.8,
+  "duration": 3.8,
+  "text": "testing, is something that I am very"
+ },
+ {
+  "start": 1181.76,
+  "duration": 3.28,
+  "text": "excited to release soon, and I think"
+ },
+ {
+  "start": 1183.6,
+  "duration": 3.52,
+  "text": "might be the best way that I found so"
+ },
+ {
+  "start": 1185.04,
+  "duration": 4.24,
+  "text": "far to scale how I and the teams around"
+ },
+ {
+  "start": 1187.12,
+  "duration": 4.68,
+  "text": "me help people figure out AI. So,"
+ },
+ {
+  "start": 1189.28,
+  "duration": 5.04,
+  "text": "Mycroft is the champion of this agent"
+ },
+ {
+  "start": 1191.8,
+  "duration": 3.64,
+  "text": "madness.ai mini tournament."
+ },
+ {
+  "start": 1194.32,
+  "duration": 2.64,
+  "text": "Hopefully, this is a fun way to give you"
+ },
+ {
+  "start": 1195.44,
+  "duration": 3.12,
+  "text": "a behind-the-scenes in all the things"
+ },
+ {
+  "start": 1196.96,
+  "duration": 3.36,
+  "text": "that I am building and thinking about."
+ },
+ {
+  "start": 1198.56,
+  "duration": 3.44,
+  "text": "Remember, if you want to enter your"
+ },
+ {
+  "start": 1200.32,
+  "duration": 3.64,
+  "text": "agent into agent madness, you can find"
+ },
+ {
+  "start": 1202.0,
+  "duration": 3.04,
+  "text": "that at agentmadness.ai. And if there"
+ },
+ {
+  "start": 1203.96,
+  "duration": 1.88,
+  "text": "was anything that you heard about that"
+ },
+ {
+  "start": 1205.04,
+  "duration": 2.72,
+  "text": "you thought was particularly"
+ },
+ {
+  "start": 1205.84,
+  "duration": 3.64,
+  "text": "interesting, like the Mycroft or Home"
+ },
+ {
+  "start": 1207.76,
+  "duration": 3.52,
+  "text": "Spots, I'll put a link to sign up for"
+ },
+ {
+  "start": 1209.48,
+  "duration": 3.64,
+  "text": "more information for those on AI Daily"
+ },
+ {
+  "start": 1211.28,
+  "duration": 3.28,
+  "text": "Brief.ai as well."
+ },
+ {
+  "start": 1213.12,
+  "duration": 3.8,
+  "text": "For now, that is going to do it for this"
+ },
+ {
+  "start": 1214.56,
+  "duration": 3.88,
+  "text": "bonus operators episode of the AI Daily"
+ },
+ {
+  "start": 1216.92,
+  "duration": 3.24,
+  "text": "Brief. Appreciate you listening or"
+ },
+ {
+  "start": 1218.44,
+  "duration": 4.84,
+  "text": "watching, as always, and until next"
+ },
+ {
+  "start": 1220.16,
+  "duration": 3.12,
+  "text": "time, peace."
+ }
+]

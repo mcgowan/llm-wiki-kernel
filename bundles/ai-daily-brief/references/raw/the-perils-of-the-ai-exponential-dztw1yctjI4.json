@@ -1,0 +1,1917 @@
+[
+ {
+  "start": 0.36,
+  "duration": 4.04,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 2.08,
+  "duration": 4.84,
+  "text": "Today, we are talking about an update in"
+ },
+ {
+  "start": 4.4,
+  "duration": 4.8,
+  "text": "the Meter Moore's Law for AI Agents"
+ },
+ {
+  "start": 6.92,
+  "duration": 4.08,
+  "text": "chart. Opus 4.6, among others, is"
+ },
+ {
+  "start": 9.2,
+  "duration": 2.92,
+  "text": "finally on the chart with everyone"
+ },
+ {
+  "start": 11.0,
+  "duration": 3.4,
+  "text": "scurrying around to understand the"
+ },
+ {
+  "start": 12.12,
+  "duration": 4.24,
+  "text": "implications. Combined with that, a new"
+ },
+ {
+  "start": 14.4,
+  "duration": 3.8,
+  "text": "research note from Citrini Research,"
+ },
+ {
+  "start": 16.36,
+  "duration": 3.64,
+  "text": "which is rocketing around the pages of X"
+ },
+ {
+  "start": 18.2,
+  "duration": 3.52,
+  "text": "and the internet more broadly, and it's"
+ },
+ {
+  "start": 20.0,
+  "duration": 3.28,
+  "text": "an interesting case study in the moment"
+ },
+ {
+  "start": 21.72,
+  "duration": 3.64,
+  "text": "in which we are in."
+ },
+ {
+  "start": 23.28,
+  "duration": 3.64,
+  "text": "Now, by way of background, I'm sure at"
+ },
+ {
+  "start": 25.36,
+  "duration": 3.84,
+  "text": "this point that the vast majority of you"
+ },
+ {
+  "start": 26.92,
+  "duration": 3.92,
+  "text": "are familiar with this chart from Meter,"
+ },
+ {
+  "start": 29.2,
+  "duration": 4.04,
+  "text": "the Model Evaluation and Threat Research"
+ },
+ {
+  "start": 30.84,
+  "duration": 4.92,
+  "text": "Lab. The chart comes from a continuous"
+ },
+ {
+  "start": 33.24,
+  "duration": 4.92,
+  "text": "study and shows the longest time horizon"
+ },
+ {
+  "start": 35.76,
+  "duration": 4.32,
+  "text": "tasks an AI agent can handle. It was"
+ },
+ {
+  "start": 38.16,
+  "duration": 4.12,
+  "text": "first released in March of last year,"
+ },
+ {
+  "start": 40.08,
+  "duration": 4.2,
+  "text": "and at the time, Sonnet 3.7 was the most"
+ },
+ {
+  "start": 42.28,
+  "duration": 3.4,
+  "text": "advanced AI model available. Meter"
+ },
+ {
+  "start": 44.28,
+  "duration": 3.88,
+  "text": "conducted their study going all the way"
+ },
+ {
+  "start": 45.68,
+  "duration": 4.76,
+  "text": "back to GPT-2 and found that the time"
+ },
+ {
+  "start": 48.16,
+  "duration": 4.68,
+  "text": "horizon of agentic tasks was reliably"
+ },
+ {
+  "start": 50.44,
+  "duration": 4.16,
+  "text": "doubling roughly every 7 months. That's"
+ },
+ {
+  "start": 52.84,
+  "duration": 4.0,
+  "text": "where the idea of this being a kind of"
+ },
+ {
+  "start": 54.6,
+  "duration": 4.12,
+  "text": "Moore's Law for AI agents came from."
+ },
+ {
+  "start": 56.84,
+  "duration": 2.88,
+  "text": "That original report even suggested that"
+ },
+ {
+  "start": 58.72,
+  "duration": 2.52,
+  "text": "the speed of improvement was"
+ },
+ {
+  "start": 59.72,
+  "duration": 4.28,
+  "text": "accelerating, with the more recent"
+ },
+ {
+  "start": 61.24,
+  "duration": 4.52,
+  "text": "models at the end of 2024 and early 2025"
+ },
+ {
+  "start": 64.0,
+  "duration": 4.68,
+  "text": "implying a doubling rate as fast as 3"
+ },
+ {
+  "start": 65.76,
+  "duration": 5.4,
+  "text": "months. The chart was a huge part of the"
+ },
+ {
+  "start": 68.68,
+  "duration": 3.84,
+  "text": "discourse at the time and became even"
+ },
+ {
+  "start": 71.16,
+  "duration": 3.52,
+  "text": "more significant towards the end of the"
+ },
+ {
+  "start": 72.52,
+  "duration": 3.16,
+  "text": "year as we were overwhelmed by AI bubble"
+ },
+ {
+  "start": 74.68,
+  "duration": 3.28,
+  "text": "talk."
+ },
+ {
+  "start": 75.68,
+  "duration": 3.88,
+  "text": "Now, as we've discussed, 2025 was the"
+ },
+ {
+  "start": 77.96,
+  "duration": 3.96,
+  "text": "first year that we started to get some"
+ },
+ {
+  "start": 79.56,
+  "duration": 3.76,
+  "text": "wobbles in the AI narrative. It started"
+ },
+ {
+  "start": 81.92,
+  "duration": 3.6,
+  "text": "with the Deep Seek moment, which wiped"
+ },
+ {
+  "start": 83.32,
+  "duration": 3.96,
+  "text": "$600 billion off of Nvidia's market cap"
+ },
+ {
+  "start": 85.52,
+  "duration": 3.28,
+  "text": "in January, and throughout the year"
+ },
+ {
+  "start": 87.28,
+  "duration": 3.56,
+  "text": "there was this kind of ping-pong back"
+ },
+ {
+  "start": 88.8,
+  "duration": 4.2,
+  "text": "and forth behind excitement, but also"
+ },
+ {
+  "start": 90.84,
+  "duration": 3.76,
+  "text": "increasing skepticism. Now, one of the"
+ },
+ {
+  "start": 93.0,
+  "duration": 2.8,
+  "text": "flavors of skepticism that is"
+ },
+ {
+  "start": 94.6,
+  "duration": 3.08,
+  "text": "particularly relevant for those"
+ },
+ {
+  "start": 95.8,
+  "duration": 3.32,
+  "text": "proclaiming AI bubbles in the markets"
+ },
+ {
+  "start": 97.68,
+  "duration": 3.84,
+  "text": "had to do with performance plateaus and"
+ },
+ {
+  "start": 99.12,
+  "duration": 4.6,
+  "text": "scaling walls. Basically, the short of"
+ },
+ {
+  "start": 101.52,
+  "duration": 3.92,
+  "text": "it is that if AI actually hit a scaling"
+ },
+ {
+  "start": 103.72,
+  "duration": 3.2,
+  "text": "wall, where performance just wasn't"
+ },
+ {
+  "start": 105.44,
+  "duration": 2.88,
+  "text": "really getting better anymore, that"
+ },
+ {
+  "start": 106.92,
+  "duration": 3.24,
+  "text": "would make the bubble idea much more"
+ },
+ {
+  "start": 108.32,
+  "duration": 3.16,
+  "text": "likely. The gist of it is that if AI"
+ },
+ {
+  "start": 110.16,
+  "duration": 2.76,
+  "text": "can't improve from here, how could it"
+ },
+ {
+  "start": 111.48,
+  "duration": 2.76,
+  "text": "possibly hope to justify these huge"
+ },
+ {
+  "start": 112.92,
+  "duration": 2.68,
+  "text": "infrastructure deals that were"
+ },
+ {
+  "start": 114.24,
+  "duration": 2.84,
+  "text": "predicated on the idea that it kept"
+ },
+ {
+  "start": 115.6,
+  "duration": 3.68,
+  "text": "being more and more of a significant"
+ },
+ {
+  "start": 117.08,
+  "duration": 3.76,
+  "text": "force in the economy. This is why by the"
+ },
+ {
+  "start": 119.28,
+  "duration": 3.52,
+  "text": "end of the year, as the bubble narrative"
+ },
+ {
+  "start": 120.84,
+  "duration": 4.04,
+  "text": "took hold, many were calling it the most"
+ },
+ {
+  "start": 122.8,
+  "duration": 4.32,
+  "text": "important chart in the economy. It was"
+ },
+ {
+  "start": 124.88,
+  "duration": 3.64,
+  "text": "in many ways the bullwark holding back"
+ },
+ {
+  "start": 127.12,
+  "duration": 2.68,
+  "text": "the full tide of AI bubble pop"
+ },
+ {
+  "start": 128.52,
+  "duration": 2.52,
+  "text": "narratives."
+ },
+ {
+  "start": 129.8,
+  "duration": 3.04,
+  "text": "Now, before we dig into the latest"
+ },
+ {
+  "start": 131.04,
+  "duration": 3.36,
+  "text": "findings, it is worth noting a little"
+ },
+ {
+  "start": 132.84,
+  "duration": 3.44,
+  "text": "bit on what the meter studies actually"
+ },
+ {
+  "start": 134.4,
+  "duration": 3.12,
+  "text": "say and what they do not say. The"
+ },
+ {
+  "start": 136.28,
+  "duration": 3.08,
+  "text": "studies are designed around a set of"
+ },
+ {
+  "start": 137.52,
+  "duration": 3.76,
+  "text": "software engineering tasks ranging from"
+ },
+ {
+  "start": 139.36,
+  "duration": 3.599,
+  "text": "the trivial to the complex."
+ },
+ {
+  "start": 141.28,
+  "duration": 3.4,
+  "text": "Human engineers were tasked with solving"
+ },
+ {
+  "start": 142.959,
+  "duration": 4.081,
+  "text": "each problem and their times were used"
+ },
+ {
+  "start": 144.68,
+  "duration": 3.76,
+  "text": "as a benchmark. For example, if a human"
+ },
+ {
+  "start": 147.04,
+  "duration": 3.96,
+  "text": "engineer takes 2 hours to complete a"
+ },
+ {
+  "start": 148.44,
+  "duration": 4.6,
+  "text": "task, that task has a time horizon of 2"
+ },
+ {
+  "start": 151.0,
+  "duration": 3.68,
+  "text": "hours regardless of how quickly an AI"
+ },
+ {
+  "start": 153.04,
+  "duration": 3.0,
+  "text": "can complete it. In other words, and"
+ },
+ {
+  "start": 154.68,
+  "duration": 3.32,
+  "text": "this is the mistake you see most often"
+ },
+ {
+  "start": 156.04,
+  "duration": 4.12,
+  "text": "on the internet, the metric is not a"
+ },
+ {
+  "start": 158.0,
+  "duration": 4.28,
+  "text": "measure of for how long an AI agent can"
+ },
+ {
+  "start": 160.16,
+  "duration": 4.2,
+  "text": "continuously work. It is a measurement"
+ },
+ {
+  "start": 162.28,
+  "duration": 4.36,
+  "text": "of how difficult a problem an agent can"
+ },
+ {
+  "start": 164.36,
+  "duration": 4.4,
+  "text": "solve measured in comparative human time"
+ },
+ {
+  "start": 166.64,
+  "duration": 3.64,
+  "text": "to solve the same problem. If a task"
+ },
+ {
+  "start": 168.76,
+  "duration": 3.56,
+  "text": "that takes a human coder 2 hours is"
+ },
+ {
+  "start": 170.28,
+  "duration": 4.64,
+  "text": "solved by Claude in 2 minutes, it still"
+ },
+ {
+  "start": 172.32,
+  "duration": 3.96,
+  "text": "yields a 2-hour time horizon. The other"
+ },
+ {
+  "start": 174.92,
+  "duration": 3.08,
+  "text": "element of the study worth understanding"
+ },
+ {
+  "start": 176.28,
+  "duration": 4.04,
+  "text": "is how meter determines success for a"
+ },
+ {
+  "start": 178.0,
+  "duration": 4.16,
+  "text": "task. The researchers aren't looking for"
+ },
+ {
+  "start": 180.32,
+  "duration": 3.8,
+  "text": "perfect reliability, as they're trying"
+ },
+ {
+  "start": 182.16,
+  "duration": 3.76,
+  "text": "to measure the capability frontier."
+ },
+ {
+  "start": 184.12,
+  "duration": 3.64,
+  "text": "Instead, their core finding that"
+ },
+ {
+  "start": 185.92,
+  "duration": 3.88,
+  "text": "features on the viral chart requires an"
+ },
+ {
+  "start": 187.76,
+  "duration": 4.24,
+  "text": "AI agent to produce a correct answer 50%"
+ },
+ {
+  "start": 189.8,
+  "duration": 3.48,
+  "text": "of the time. Meter also has a secondary"
+ },
+ {
+  "start": 192.0,
+  "duration": 2.959,
+  "text": "finding that requires an agent to"
+ },
+ {
+  "start": 193.28,
+  "duration": 3.56,
+  "text": "deliver the correct response 80% of the"
+ },
+ {
+  "start": 194.959,
+  "duration": 3.961,
+  "text": "time, which as you would imagine results"
+ },
+ {
+  "start": 196.84,
+  "duration": 3.36,
+  "text": "in a much lower time horizon. To avoid"
+ },
+ {
+  "start": 198.92,
+  "duration": 2.64,
+  "text": "saying it every time, whenever I'm"
+ },
+ {
+  "start": 200.2,
+  "duration": 3.039,
+  "text": "referring to time horizon in the meter"
+ },
+ {
+  "start": 201.56,
+  "duration": 4.28,
+  "text": "report, I am referring to that standard"
+ },
+ {
+  "start": 203.239,
+  "duration": 4.121,
+  "text": "50% success rate unless I say otherwise."
+ },
+ {
+  "start": 205.84,
+  "duration": 3.28,
+  "text": "The point is that these metrics aren't"
+ },
+ {
+  "start": 207.36,
+  "duration": 3.76,
+  "text": "about benchmarking the model's ability"
+ },
+ {
+  "start": 209.12,
+  "duration": 3.56,
+  "text": "exactly. They're about showing the"
+ },
+ {
+  "start": 211.12,
+  "duration": 4.2,
+  "text": "relative improvements across model"
+ },
+ {
+  "start": 212.68,
+  "duration": 4.12,
+  "text": "generations. A 50% success rate is never"
+ },
+ {
+  "start": 215.32,
+  "duration": 3.16,
+  "text": "going to be good enough for an AI coding"
+ },
+ {
+  "start": 216.8,
+  "duration": 3.159,
+  "text": "agent in production, but what matters"
+ },
+ {
+  "start": 218.48,
+  "duration": 3.64,
+  "text": "for the benchmark is the consistent"
+ },
+ {
+  "start": 219.959,
+  "duration": 3.441,
+  "text": "measure and the shift over time."
+ },
+ {
+  "start": 222.12,
+  "duration": 4.119,
+  "text": "Now, with all of that background out of"
+ },
+ {
+  "start": 223.4,
+  "duration": 4.96,
+  "text": "the way, there was a ton of anticipation"
+ },
+ {
+  "start": 226.239,
+  "duration": 4.201,
+  "text": "around the current generation of models."
+ },
+ {
+  "start": 228.36,
+  "duration": 3.72,
+  "text": "Google, OpenAI, and Anthropic have all"
+ },
+ {
+  "start": 230.44,
+  "duration": 3.36,
+  "text": "focused on improving coding agents over"
+ },
+ {
+  "start": 232.08,
+  "duration": 3.76,
+  "text": "recent months, but Meter has been"
+ },
+ {
+  "start": 233.8,
+  "duration": 4.52,
+  "text": "relatively quiet. They published results"
+ },
+ {
+  "start": 235.84,
+  "duration": 4.68,
+  "text": "for GPT-5 1 Codex in November, but the"
+ },
+ {
+  "start": 238.32,
+  "duration": 3.96,
+  "text": "results weren't overwhelming. The model"
+ },
+ {
+  "start": 240.52,
+  "duration": 3.0,
+  "text": "had a time horizon of 2 hours and 40"
+ },
+ {
+  "start": 242.28,
+  "duration": 3.88,
+  "text": "minutes, which was barely better than"
+ },
+ {
+  "start": 243.52,
+  "duration": 4.68,
+  "text": "GPT-5. On the other hand, next came the"
+ },
+ {
+  "start": 246.16,
+  "duration": 4.2,
+  "text": "Opus 4.5 result in December, which"
+ },
+ {
+  "start": 248.2,
+  "duration": 4.24,
+  "text": "showed a 4-hour and 49-minute time"
+ },
+ {
+  "start": 250.36,
+  "duration": 4.08,
+  "text": "horizon. This was a big improvement and"
+ },
+ {
+  "start": 252.44,
+  "duration": 3.519,
+  "text": "almost a doubling all on its own. Now,"
+ },
+ {
+  "start": 254.44,
+  "duration": 3.04,
+  "text": "there was a sense that this might be a"
+ },
+ {
+  "start": 255.959,
+  "duration": 2.761,
+  "text": "one-off change due to improvements in"
+ },
+ {
+  "start": 257.48,
+  "duration": 2.92,
+  "text": "the way Anthropic was post-training"
+ },
+ {
+  "start": 258.72,
+  "duration": 3.0,
+  "text": "their models for coding tasks, but"
+ },
+ {
+  "start": 260.4,
+  "duration": 3.84,
+  "text": "obviously the market vindicated their"
+ },
+ {
+  "start": 261.72,
+  "duration": 4.64,
+  "text": "findings. In fact, in January Swyx"
+ },
+ {
+  "start": 264.24,
+  "duration": 4.24,
+  "text": "wrote, \"Evals should be validated by"
+ },
+ {
+  "start": 266.36,
+  "duration": 3.84,
+  "text": "vibes. I think not enough people give"
+ },
+ {
+  "start": 268.48,
+  "duration": 4.12,
+  "text": "sufficient credit to Meter for clearly"
+ },
+ {
+  "start": 270.2,
+  "duration": 5.0,
+  "text": "identifying and quantifying the Opus 4.5"
+ },
+ {
+  "start": 272.6,
+  "duration": 5.96,
+  "text": "outperformance. On paper, GPT-5 2"
+ },
+ {
+  "start": 275.2,
+  "duration": 5.719,
+  "text": "Thinking outperforms Opus 4.5 by 55.6"
+ },
+ {
+  "start": 278.56,
+  "duration": 4.4,
+  "text": "versus 52% on SweetBench Pro. In"
+ },
+ {
+  "start": 280.919,
+  "duration": 3.401,
+  "text": "practice, Meter's long evals benchmark,"
+ },
+ {
+  "start": 282.96,
+  "duration": 3.44,
+  "text": "while getting increasingly sparse in the"
+ },
+ {
+  "start": 284.32,
+  "duration": 3.72,
+  "text": "long tail, clearly called out the huge"
+ },
+ {
+  "start": 286.4,
+  "duration": 3.64,
+  "text": "jump that many devs are now experiencing"
+ },
+ {
+  "start": 288.04,
+  "duration": 3.48,
+  "text": "a month later. In fact, it is such an"
+ },
+ {
+  "start": 290.04,
+  "duration": 3.28,
+  "text": "outlier that the curve fit was probably"
+ },
+ {
+  "start": 291.52,
+  "duration": 2.92,
+  "text": "wrong and needs to be restarted as a new"
+ },
+ {
+  "start": 293.32,
+  "duration": 2.599,
+  "text": "epic.\""
+ },
+ {
+  "start": 294.44,
+  "duration": 4.04,
+  "text": "And yet, of course, even if January's"
+ },
+ {
+  "start": 295.919,
+  "duration": 4.281,
+  "text": "conversation was dominated by Opus 4.5,"
+ },
+ {
+  "start": 298.48,
+  "duration": 4.56,
+  "text": "we've since had the twin releases of"
+ },
+ {
+  "start": 300.2,
+  "duration": 4.36,
+  "text": "Opus 4.6 and GPT-5.3, which both"
+ },
+ {
+  "start": 303.04,
+  "duration": 3.44,
+  "text": "seemingly represented another big jump"
+ },
+ {
+  "start": 304.56,
+  "duration": 3.24,
+  "text": "in coding capabilities. That much was"
+ },
+ {
+  "start": 306.48,
+  "duration": 2.8,
+  "text": "obvious from using the models, but"
+ },
+ {
+  "start": 307.8,
+  "duration": 3.92,
+  "text": "people still wanted to see what Meter"
+ },
+ {
+  "start": 309.28,
+  "duration": 3.92,
+  "text": "would say once testing was complete."
+ },
+ {
+  "start": 311.72,
+  "duration": 3.48,
+  "text": "On Friday, Meter released the results"
+ },
+ {
+  "start": 313.2,
+  "duration": 3.24,
+  "text": "for both models simultaneously and"
+ },
+ {
+  "start": 315.2,
+  "duration": 2.88,
+  "text": "showed that model quality is"
+ },
+ {
+  "start": 316.44,
+  "duration": 4.32,
+  "text": "accelerating faster than it ever has"
+ },
+ {
+  "start": 318.08,
+  "duration": 5.32,
+  "text": "before. GPT-5.3 Codex achieved a time"
+ },
+ {
+  "start": 320.76,
+  "duration": 5.4,
+  "text": "horizon of 6.5 hours at 50% completion"
+ },
+ {
+  "start": 323.4,
+  "duration": 5.0,
+  "text": "rate, exceeding Opus 4.5. The results"
+ },
+ {
+  "start": 326.16,
+  "duration": 5.08,
+  "text": "for 4.6 were even more dramatic,"
+ },
+ {
+  "start": 328.4,
+  "duration": 5.2,
+  "text": "achieving a time horizon of around 14.5"
+ },
+ {
+  "start": 331.24,
+  "duration": 4.8,
+  "text": "hours. This is the largest generational"
+ },
+ {
+  "start": 333.6,
+  "duration": 4.28,
+  "text": "jump of any model in Meter's study. Opus"
+ },
+ {
+  "start": 336.04,
+  "duration": 4.16,
+  "text": "4.6 has more than tripled the time"
+ },
+ {
+  "start": 337.88,
+  "duration": 4.28,
+  "text": "horizon of 4.5, implying the time"
+ },
+ {
+  "start": 340.2,
+  "duration": 4.2,
+  "text": "horizon is now doubling every 1 and 1/2"
+ },
+ {
+  "start": 342.16,
+  "duration": 3.4,
+  "text": "months. Responses came in fast and"
+ },
+ {
+  "start": 344.4,
+  "duration": 2.92,
+  "text": "furious."
+ },
+ {
+  "start": 345.56,
+  "duration": 3.24,
+  "text": "Investor Net Carter wrote, \"This is the"
+ },
+ {
+  "start": 347.32,
+  "duration": 3.92,
+  "text": "most important chart in the world and"
+ },
+ {
+  "start": 348.8,
+  "duration": 3.88,
+  "text": "it's going absolutely ballistic.\""
+ },
+ {
+  "start": 351.24,
+  "duration": 3.44,
+  "text": "Even Bernie Sanders mentioned it in a"
+ },
+ {
+  "start": 352.68,
+  "duration": 4.16,
+  "text": "recent talk at Stanford. In fact, the"
+ },
+ {
+  "start": 354.68,
+  "duration": 4.36,
+  "text": "jaws dropped so hard that many people"
+ },
+ {
+  "start": 356.84,
+  "duration": 3.76,
+  "text": "raced to give some caveats. Dean Ball"
+ },
+ {
+  "start": 359.04,
+  "duration": 2.72,
+  "text": "wrote, \"For what it's worth, I don't"
+ },
+ {
+  "start": 360.6,
+  "duration": 2.72,
+  "text": "take the meter chart that's been going"
+ },
+ {
+  "start": 361.76,
+  "duration": 3.16,
+  "text": "around as much of an update. Meter"
+ },
+ {
+  "start": 363.32,
+  "duration": 2.92,
+  "text": "itself has been signaling their decrease"
+ },
+ {
+  "start": 364.92,
+  "duration": 3.04,
+  "text": "in confidence in the benchmark for a"
+ },
+ {
+  "start": 366.24,
+  "duration": 3.36,
+  "text": "while now, both because of saturation"
+ },
+ {
+  "start": 367.96,
+  "duration": 3.56,
+  "text": "and limited long-duration tasks in the"
+ },
+ {
+  "start": 369.6,
+  "duration": 3.64,
+  "text": "benchmark. It's certainly impressive and"
+ },
+ {
+  "start": 371.52,
+  "duration": 3.2,
+  "text": "signals that nothing is decelerating,"
+ },
+ {
+  "start": 373.24,
+  "duration": 2.6,
+  "text": "but I don't see it as strong evidence in"
+ },
+ {
+  "start": 374.72,
+  "duration": 3.04,
+  "text": "and of itself that we are in some"
+ },
+ {
+  "start": 375.84,
+  "duration": 3.36,
+  "text": "radically faster progress regime."
+ },
+ {
+  "start": 377.76,
+  "duration": 3.72,
+  "text": "Indeed, Meter themselves heavily"
+ },
+ {
+  "start": 379.2,
+  "duration": 3.64,
+  "text": "caveated the results.\" Codex results,"
+ },
+ {
+  "start": 381.48,
+  "duration": 3.28,
+  "text": "for example, showed some issues with"
+ },
+ {
+  "start": 382.84,
+  "duration": 3.88,
+  "text": "Meter Scaffolding. They tested the tasks"
+ },
+ {
+  "start": 384.76,
+  "duration": 3.24,
+  "text": "that again with OpenAI Scaffolding, and"
+ },
+ {
+  "start": 386.72,
+  "duration": 2.72,
+  "text": "while they got similar results, they"
+ },
+ {
+  "start": 388.0,
+  "duration": 3.96,
+  "text": "still found the issues noteworthy enough"
+ },
+ {
+  "start": 389.44,
+  "duration": 4.16,
+  "text": "to point out. For Opus 4.6, Meter noted"
+ },
+ {
+  "start": 391.96,
+  "duration": 3.16,
+  "text": "that their model has basically saturated"
+ },
+ {
+  "start": 393.6,
+  "duration": 3.48,
+  "text": "their task set, leading to some"
+ },
+ {
+  "start": 395.12,
+  "duration": 3.68,
+  "text": "unintuitive results. The upper bound of"
+ },
+ {
+  "start": 397.08,
+  "duration": 3.2,
+  "text": "their confidence interval is now 98"
+ },
+ {
+  "start": 398.8,
+  "duration": 2.84,
+  "text": "hours, practically infinite when it"
+ },
+ {
+  "start": 400.28,
+  "duration": 3.16,
+  "text": "comes to this measurement. You can"
+ },
+ {
+  "start": 401.64,
+  "duration": 3.36,
+  "text": "imagine that their task set has very few"
+ },
+ {
+  "start": 403.44,
+  "duration": 3.4,
+  "text": "tasks that would take a human coder more"
+ },
+ {
+  "start": 405.0,
+  "duration": 3.04,
+  "text": "than 14 hours to complete, so it stands"
+ },
+ {
+  "start": 406.84,
+  "duration": 3.12,
+  "text": "to reason that the benchmark is starting"
+ },
+ {
+  "start": 408.04,
+  "duration": 3.64,
+  "text": "to get a little saturated. Researcher"
+ },
+ {
+  "start": 409.96,
+  "duration": 3.52,
+  "text": "David Rein writes, \"Seems like a lot of"
+ },
+ {
+  "start": 411.68,
+  "duration": 3.04,
+  "text": "people are taking this as gospel. When"
+ },
+ {
+  "start": 413.48,
+  "duration": 3.48,
+  "text": "we say the measurement is extremely"
+ },
+ {
+  "start": 414.72,
+  "duration": 3.72,
+  "text": "noisy, we really mean it. Concretely, if"
+ },
+ {
+  "start": 416.96,
+  "duration": 3.08,
+  "text": "the task distribution we're using here"
+ },
+ {
+  "start": 418.44,
+  "duration": 3.24,
+  "text": "was just a tiny bit different, we could"
+ },
+ {
+  "start": 420.04,
+  "duration": 3.92,
+  "text": "have measured a time horizon of 8 hours"
+ },
+ {
+  "start": 421.68,
+  "duration": 3.76,
+  "text": "or 20 hours. Now, overall, Meter says"
+ },
+ {
+  "start": 423.96,
+  "duration": 3.2,
+  "text": "that they are updating their methodology"
+ },
+ {
+  "start": 425.44,
+  "duration": 3.36,
+  "text": "to address the issue, but cautioning"
+ },
+ {
+  "start": 427.16,
+  "duration": 3.88,
+  "text": "them overly focusing on these particular"
+ },
+ {
+  "start": 428.8,
+  "duration": 3.72,
+  "text": "results.\" I think VisiModino really"
+ },
+ {
+  "start": 431.04,
+  "duration": 3.2,
+  "text": "summed it up when they wrote, \"It's"
+ },
+ {
+  "start": 432.52,
+  "duration": 3.16,
+  "text": "possible that one, there really is"
+ },
+ {
+  "start": 434.24,
+  "duration": 2.84,
+  "text": "something massive happening right now"
+ },
+ {
+  "start": 435.68,
+  "duration": 3.88,
+  "text": "and the Meter graph really does capture"
+ },
+ {
+  "start": 437.08,
+  "duration": 3.96,
+  "text": "that fact, and two, some small subset of"
+ },
+ {
+  "start": 439.56,
+  "duration": 3.08,
+  "text": "people are mistakenly thinking it's even"
+ },
+ {
+  "start": 441.04,
+  "duration": 3.04,
+  "text": "bigger than it actually is, but that"
+ },
+ {
+  "start": 442.64,
+  "duration": 3.279,
+  "text": "doesn't mean it's actually not very,"
+ },
+ {
+  "start": 444.08,
+  "duration": 3.52,
+  "text": "very big.\" Now, that sense that"
+ },
+ {
+  "start": 445.919,
+  "duration": 3.761,
+  "text": "something very, very big is happening"
+ },
+ {
+  "start": 447.6,
+  "duration": 3.76,
+  "text": "was exemplified in the response to a new"
+ },
+ {
+  "start": 449.68,
+  "duration": 4.76,
+  "text": "piece from Citrine Research called the"
+ },
+ {
+  "start": 451.36,
+  "duration": 4.72,
+  "text": "2028 Global Intelligence Crisis. Citrine"
+ },
+ {
+  "start": 454.44,
+  "duration": 3.72,
+  "text": "is a well-regarded research firm among"
+ },
+ {
+  "start": 456.08,
+  "duration": 3.36,
+  "text": "FinTwit, largely doing thematic research"
+ },
+ {
+  "start": 458.16,
+  "duration": 3.28,
+  "text": "and having been very early to several"
+ },
+ {
+  "start": 459.44,
+  "duration": 3.64,
+  "text": "key themes during the AI boom. This"
+ },
+ {
+  "start": 461.44,
+  "duration": 3.68,
+  "text": "latest article covers the implications"
+ },
+ {
+  "start": 463.08,
+  "duration": 4.08,
+  "text": "of abundant intelligence. It essentially"
+ },
+ {
+  "start": 465.12,
+  "duration": 3.52,
+  "text": "took Dario Amodei's concept of a country"
+ },
+ {
+  "start": 467.16,
+  "duration": 3.24,
+  "text": "full of geniuses in a data center and"
+ },
+ {
+  "start": 468.64,
+  "duration": 3.0,
+  "text": "applied it to the real world. Among"
+ },
+ {
+  "start": 470.4,
+  "duration": 3.04,
+  "text": "other things, the piece predicted that"
+ },
+ {
+  "start": 471.64,
+  "duration": 3.84,
+  "text": "we'll see AI start to consume the entire"
+ },
+ {
+  "start": 473.44,
+  "duration": 3.36,
+  "text": "economy, moving from sector specific to"
+ },
+ {
+  "start": 475.48,
+  "duration": 3.24,
+  "text": "broad application of cheap machine"
+ },
+ {
+  "start": 476.8,
+  "duration": 3.32,
+  "text": "intelligence. Citrine's thesis is"
+ },
+ {
+  "start": 478.72,
+  "duration": 2.8,
+  "text": "essentially that capital owners are"
+ },
+ {
+  "start": 480.12,
+  "duration": 3.24,
+  "text": "about to reap the massive benefits of"
+ },
+ {
+  "start": 481.52,
+  "duration": 3.24,
+  "text": "AI, while workers in every strata of the"
+ },
+ {
+  "start": 483.36,
+  "duration": 3.16,
+  "text": "economy will be left jobless and"
+ },
+ {
+  "start": 484.76,
+  "duration": 3.28,
+  "text": "purposeless. Economic activity"
+ },
+ {
+  "start": 486.52,
+  "duration": 3.28,
+  "text": "transforms from being household based"
+ },
+ {
+  "start": 488.04,
+  "duration": 3.24,
+  "text": "into a capital based society. This"
+ },
+ {
+  "start": 489.8,
+  "duration": 3.08,
+  "text": "eventually leads to a massive collapse"
+ },
+ {
+  "start": 491.28,
+  "duration": 3.44,
+  "text": "in the stock market, a massive rise in"
+ },
+ {
+  "start": 492.88,
+  "duration": 3.28,
+  "text": "unemployment, and general immiseration"
+ },
+ {
+  "start": 494.72,
+  "duration": 2.4,
+  "text": "across society."
+ },
+ {
+  "start": 496.16,
+  "duration": 2.04,
+  "text": "Now, given that I'm ripping through"
+ },
+ {
+  "start": 497.12,
+  "duration": 2.12,
+  "text": "this, you can probably tell that what's"
+ },
+ {
+  "start": 498.2,
+  "duration": 3.28,
+  "text": "more interesting to me than the"
+ },
+ {
+  "start": 499.24,
+  "duration": 4.16,
+  "text": "particulars of the piece is the response"
+ },
+ {
+  "start": 501.48,
+  "duration": 4.16,
+  "text": "that it's getting. This is the latest in"
+ },
+ {
+  "start": 503.4,
+  "duration": 5.08,
+  "text": "a long line of future-oriented AI doomer"
+ },
+ {
+  "start": 505.64,
+  "duration": 4.76,
+  "text": "sci-fi. What's notable this time is that"
+ },
+ {
+  "start": 508.48,
+  "duration": 4.28,
+  "text": "it turns out that many investors already"
+ },
+ {
+  "start": 510.4,
+  "duration": 4.079,
+  "text": "believe some version of this thesis. So,"
+ },
+ {
+  "start": 512.76,
+  "duration": 3.6,
+  "text": "the incredible response to Citrine's"
+ },
+ {
+  "start": 514.479,
+  "duration": 3.56,
+  "text": "piece is because it's acting as a"
+ },
+ {
+  "start": 516.36,
+  "duration": 3.239,
+  "text": "confirmation that the worst nightmares"
+ },
+ {
+  "start": 518.039,
+  "duration": 3.481,
+  "text": "of an AI-driven economic crisis are"
+ },
+ {
+  "start": 519.599,
+  "duration": 3.761,
+  "text": "possible. Previous reports were met by a"
+ },
+ {
+  "start": 521.52,
+  "duration": 3.52,
+  "text": "lot of skepticism, whereas this article"
+ },
+ {
+  "start": 523.36,
+  "duration": 3.56,
+  "text": "is being met with much more widespread"
+ },
+ {
+  "start": 525.04,
+  "duration": 4.6,
+  "text": "acceptance, or one might suggest"
+ },
+ {
+  "start": 526.92,
+  "duration": 3.84,
+  "text": "confirmation bias. Felix Salmon writes,"
+ },
+ {
+  "start": 529.64,
+  "duration": 3.16,
+  "text": "\"I think what's fascinating about"
+ },
+ {
+  "start": 530.76,
+  "duration": 3.24,
+  "text": "Citrine's piece is it isn't necessarily"
+ },
+ {
+  "start": 532.8,
+  "duration": 2.52,
+  "text": "new ideas for those that have been"
+ },
+ {
+  "start": 534.0,
+  "duration": 3.12,
+  "text": "tapped into what's going on and thinking"
+ },
+ {
+  "start": 535.32,
+  "duration": 3.12,
+  "text": "about it all, but smashes the common"
+ },
+ {
+  "start": 537.12,
+  "duration": 2.719,
+  "text": "knowledge game around it, and now it's"
+ },
+ {
+  "start": 538.44,
+  "duration": 3.48,
+  "text": "becoming something that everyone knows"
+ },
+ {
+  "start": 539.839,
+  "duration": 3.921,
+  "text": "everyone knows. A tiny fraction of the"
+ },
+ {
+  "start": 541.92,
+  "duration": 3.84,
+  "text": "population knows what Open Claw is, and"
+ },
+ {
+  "start": 543.76,
+  "duration": 3.4,
+  "text": "an even smaller subset has set one up."
+ },
+ {
+  "start": 545.76,
+  "duration": 3.12,
+  "text": "There's a lot for people to come to"
+ },
+ {
+  "start": 547.16,
+  "duration": 3.56,
+  "text": "terms with.\" Unemployed capital"
+ },
+ {
+  "start": 548.88,
+  "duration": 3.959,
+  "text": "allocator writes, \"The final boss of"
+ },
+ {
+  "start": 550.72,
+  "duration": 3.68,
+  "text": "hysteria is entering the arena. In 2"
+ },
+ {
+  "start": 552.839,
+  "duration": 2.721,
+  "text": "weeks, it will be all over LinkedIn. In"
+ },
+ {
+  "start": 554.4,
+  "duration": 3.12,
+  "text": "4 weeks, Wall Street Journal and"
+ },
+ {
+  "start": 555.56,
+  "duration": 3.4,
+  "text": "Financial Times. Every analyst will be"
+ },
+ {
+  "start": 557.52,
+  "duration": 3.4,
+  "text": "typing in unemployment when to the"
+ },
+ {
+  "start": 558.96,
+  "duration": 4.08,
+  "text": "ChatGPT chatbot. Citrine will be"
+ },
+ {
+  "start": 560.92,
+  "duration": 3.8,
+  "text": "appointed the AI policy czar. Just"
+ },
+ {
+  "start": 563.04,
+  "duration": 3.64,
+  "text": "remember, it might be peak fear, it"
+ },
+ {
+  "start": 564.72,
+  "duration": 3.96,
+  "text": "might be dumb. Markets are primed to buy"
+ },
+ {
+  "start": 566.68,
+  "duration": 4.56,
+  "text": "it and drive things down. There are no"
+ },
+ {
+  "start": 568.68,
+  "duration": 3.4,
+  "text": "atheists in foxholes.\""
+ },
+ {
+  "start": 571.24,
+  "duration": 2.32,
+  "text": "Now, of course, there are plenty of"
+ },
+ {
+  "start": 572.08,
+  "duration": 3.2,
+  "text": "people who took issue with specific"
+ },
+ {
+  "start": 573.56,
+  "duration": 3.68,
+  "text": "parts of this. Dan Hawk and I are"
+ },
+ {
+  "start": 575.28,
+  "duration": 3.08,
+  "text": "rights, \"This piece shows a profound"
+ },
+ {
+  "start": 577.24,
+  "duration": 2.6,
+  "text": "lack of understanding of how"
+ },
+ {
+  "start": 578.36,
+  "duration": 3.24,
+  "text": "marketplaces work and why they are"
+ },
+ {
+  "start": 579.84,
+  "duration": 3.44,
+  "text": "defensible. Quoting from the piece he"
+ },
+ {
+  "start": 581.6,
+  "duration": 3.32,
+  "text": "says, \"A competent developer could"
+ },
+ {
+  "start": 583.28,
+  "duration": 3.48,
+  "text": "deploy a functional competitor in weeks"
+ },
+ {
+  "start": 584.92,
+  "duration": 3.52,
+  "text": "and dozens did, enticing drivers away"
+ },
+ {
+  "start": 586.76,
+  "duration": 3.68,
+  "text": "from DoorDash and Uber Eats by passing"
+ },
+ {
+  "start": 588.44,
+  "duration": 4.2,
+  "text": "90 to 95% of the delivery fee through to"
+ },
+ {
+  "start": 590.44,
+  "duration": 3.56,
+  "text": "the driver.\" Dan picks up, \"Anyone could"
+ },
+ {
+  "start": 592.64,
+  "duration": 3.52,
+  "text": "have done that at any time in the last"
+ },
+ {
+  "start": 594.0,
+  "duration": 3.48,
+  "text": "10 years. Why was no one able to?"
+ },
+ {
+  "start": 596.16,
+  "duration": 2.52,
+  "text": "Because the hard part has nothing to do"
+ },
+ {
+  "start": 597.48,
+  "duration": 2.76,
+  "text": "with building the app or attracting the"
+ },
+ {
+  "start": 598.68,
+  "duration": 2.88,
+  "text": "drivers. The hard part is building a"
+ },
+ {
+  "start": 600.24,
+  "duration": 2.44,
+  "text": "liquid marketplace with all the best"
+ },
+ {
+  "start": 601.56,
+  "duration": 2.64,
+  "text": "supply and a massive series of"
+ },
+ {
+  "start": 602.68,
+  "duration": 3.28,
+  "text": "optimizations and investments to drive"
+ },
+ {
+  "start": 604.2,
+  "duration": 3.72,
+  "text": "down prices and delivery times and drive"
+ },
+ {
+  "start": 605.96,
+  "duration": 3.08,
+  "text": "up reliability and quality. DoorDash and"
+ },
+ {
+  "start": 607.92,
+  "duration": 2.76,
+  "text": "Eats have built this when no one else"
+ },
+ {
+  "start": 609.04,
+  "duration": 3.32,
+  "text": "could, and they will not allow agents to"
+ },
+ {
+  "start": 610.68,
+  "duration": 3.52,
+  "text": "transact on their apps, nor will they"
+ },
+ {
+  "start": 612.36,
+  "duration": 3.2,
+  "text": "have a legal requirement to allow it."
+ },
+ {
+  "start": 614.2,
+  "duration": 2.72,
+  "text": "But, the real story isn't as"
+ },
+ {
+  "start": 615.56,
+  "duration": 3.04,
+  "text": "sensational, so it doesn't get the"
+ },
+ {
+  "start": 616.92,
+  "duration": 3.56,
+  "text": "engagement.\" Economist Guy Berger"
+ },
+ {
+  "start": 618.6,
+  "duration": 3.0,
+  "text": "writes, \"This was an interesting read,"
+ },
+ {
+  "start": 620.48,
+  "duration": 2.96,
+  "text": "but I'm not sure it's internally"
+ },
+ {
+  "start": 621.6,
+  "duration": 3.8,
+  "text": "consistent. One question that comes to"
+ },
+ {
+  "start": 623.44,
+  "duration": 2.84,
+  "text": "mind, those who own the agents, what are"
+ },
+ {
+  "start": 625.4,
+  "duration": 2.48,
+  "text": "they doing with the money they're"
+ },
+ {
+  "start": 626.28,
+  "duration": 4.2,
+  "text": "making? Why isn't that fueling"
+ },
+ {
+  "start": 627.88,
+  "duration": 3.72,
+  "text": "employment, GDP, and stock prices?\""
+ },
+ {
+  "start": 630.48,
+  "duration": 2.48,
+  "text": "Now again, I have a feeling that we're"
+ },
+ {
+  "start": 631.6,
+  "duration": 2.92,
+  "text": "going to be talking about this one more"
+ },
+ {
+  "start": 632.96,
+  "duration": 3.4,
+  "text": "in the weeks to come. So, I'm not trying"
+ },
+ {
+  "start": 634.52,
+  "duration": 3.44,
+  "text": "to go fully in depth today. I think"
+ },
+ {
+  "start": 636.36,
+  "duration": 3.12,
+  "text": "what's important here is the way that"
+ },
+ {
+  "start": 637.96,
+  "duration": 2.879,
+  "text": "these individual elements all add up to"
+ },
+ {
+  "start": 639.48,
+  "duration": 3.76,
+  "text": "something more."
+ },
+ {
+  "start": 640.839,
+  "duration": 4.321,
+  "text": "The story of early 2026 so far is a"
+ },
+ {
+  "start": 643.24,
+  "duration": 3.599,
+  "text": "broad-based sense that, to quote that"
+ },
+ {
+  "start": 645.16,
+  "duration": 3.08,
+  "text": "viral piece from about a week ago,"
+ },
+ {
+  "start": 646.839,
+  "duration": 3.241,
+  "text": "something big is happening. The"
+ },
+ {
+  "start": 648.24,
+  "duration": 3.52,
+  "text": "capability set of the coding models has"
+ },
+ {
+  "start": 650.08,
+  "duration": 3.56,
+  "text": "increased dramatically, which has opened"
+ },
+ {
+  "start": 651.76,
+  "duration": 3.76,
+  "text": "up agents as a real force. Those two"
+ },
+ {
+  "start": 653.64,
+  "duration": 3.32,
+  "text": "things combined have moved the impact of"
+ },
+ {
+  "start": 655.52,
+  "duration": 3.4,
+  "text": "AI and agents from just software"
+ },
+ {
+  "start": 656.96,
+  "duration": 3.16,
+  "text": "engineering to everything else. Markets"
+ },
+ {
+  "start": 658.92,
+  "duration": 3.16,
+  "text": "are starting to reprice things as a"
+ },
+ {
+  "start": 660.12,
+  "duration": 3.56,
+  "text": "consequence, and nothing seems like it's"
+ },
+ {
+  "start": 662.08,
+  "duration": 2.96,
+  "text": "going to slow down at all. And because"
+ },
+ {
+  "start": 663.68,
+  "duration": 3.04,
+  "text": "of that, everyone is trying to figure"
+ },
+ {
+  "start": 665.04,
+  "duration": 3.08,
+  "text": "out what next."
+ },
+ {
+  "start": 666.72,
+  "duration": 3.72,
+  "text": "Now, I would argue that we are"
+ },
+ {
+  "start": 668.12,
+  "duration": 4.32,
+  "text": "desperately in need of the non-doomer"
+ },
+ {
+  "start": 670.44,
+  "duration": 3.16,
+  "text": "version of the Citronelle piece, which"
+ },
+ {
+  "start": 672.44,
+  "duration": 2.84,
+  "text": "is something that I'm trying to work on"
+ },
+ {
+  "start": 673.6,
+  "duration": 3.8,
+  "text": "in the background. So, keep an eye out"
+ },
+ {
+  "start": 675.28,
+  "duration": 3.76,
+  "text": "for that. For now, it remains a really"
+ },
+ {
+  "start": 677.4,
+  "duration": 3.6,
+  "text": "interesting anthropological study of the"
+ },
+ {
+  "start": 679.04,
+  "duration": 4.32,
+  "text": "moment that I think can tell us a lot"
+ },
+ {
+  "start": 681.0,
+  "duration": 3.48,
+  "text": "about where general sentiment is."
+ },
+ {
+  "start": 683.36,
+  "duration": 3.12,
+  "text": "That, however, is going to do it for"
+ },
+ {
+  "start": 684.48,
+  "duration": 3.88,
+  "text": "today's AI Daily Brief. Appreciate you"
+ },
+ {
+  "start": 686.48,
+  "duration": 5.44,
+  "text": "listening or watching, as always, and"
+ },
+ {
+  "start": 688.36,
+  "duration": 3.56,
+  "text": "until next time, peace."
+ }
+]

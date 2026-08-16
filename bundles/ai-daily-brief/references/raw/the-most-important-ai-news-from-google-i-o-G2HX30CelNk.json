@@ -1,0 +1,5047 @@
+[
+ {
+  "start": 0.84,
+  "duration": 3.84,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 2.84,
+  "duration": 3.96,
+  "text": "a look at everything Google announced at"
+ },
+ {
+  "start": 4.68,
+  "duration": 4.72,
+  "text": "IO and why it seems like their AI"
+ },
+ {
+  "start": 6.8,
+  "duration": 5.68,
+  "text": "strategy is getting messier and messier,"
+ },
+ {
+  "start": 9.4,
+  "duration": 4.52,
+  "text": "but it also just might not matter"
+ },
+ {
+  "start": 12.48,
+  "duration": 2.88,
+  "text": "because of some of the significant"
+ },
+ {
+  "start": 13.92,
+  "duration": 2.48,
+  "text": "advantages that they're bringing to the"
+ },
+ {
+  "start": 15.36,
+  "duration": 2.72,
+  "text": "table."
+ },
+ {
+  "start": 16.4,
+  "duration": 3.24,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 18.08,
+  "duration": 4.24,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 19.64,
+  "duration": 4.0,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 22.32,
+  "duration": 2.68,
+  "text": "All right, friends, quick announcements"
+ },
+ {
+  "start": 23.64,
+  "duration": 2.56,
+  "text": "before we dive in."
+ },
+ {
+  "start": 25.0,
+  "duration": 3.0,
+  "text": "You always had to know that the Google"
+ },
+ {
+  "start": 26.2,
+  "duration": 3.76,
+  "text": "IO recap was going to be a full"
+ },
+ {
+  "start": 28.0,
+  "duration": 3.6,
+  "text": "end-to-end episode, but that certainly"
+ },
+ {
+  "start": 29.96,
+  "duration": 3.24,
+  "text": "didn't account for former OpenAI"
+ },
+ {
+  "start": 31.6,
+  "duration": 3.6,
+  "text": "co-founder Andrej Karpathy announcing"
+ },
+ {
+  "start": 33.2,
+  "duration": 4.72,
+  "text": "that he had joined Anthropic. To many,"
+ },
+ {
+  "start": 35.2,
+  "duration": 4.16,
+  "text": "if not most, in franchised AI watchers,"
+ },
+ {
+  "start": 37.92,
+  "duration": 2.92,
+  "text": "this was a bigger announcement than"
+ },
+ {
+  "start": 39.36,
+  "duration": 2.48,
+  "text": "anything that happened on the stage at"
+ },
+ {
+  "start": 40.84,
+  "duration": 2.08,
+  "text": "IO."
+ },
+ {
+  "start": 41.84,
+  "duration": 3.32,
+  "text": "And so with that in mind, we will"
+ },
+ {
+  "start": 42.92,
+  "duration": 4.64,
+  "text": "certainly be coming back to it tomorrow,"
+ },
+ {
+  "start": 45.16,
+  "duration": 4.4,
+  "text": "but for now, we have a lot of Google to"
+ },
+ {
+  "start": 47.56,
+  "duration": 4.64,
+  "text": "talk about."
+ },
+ {
+  "start": 49.56,
+  "duration": 4.44,
+  "text": "Today, we are talking about Google IO,"
+ },
+ {
+  "start": 52.2,
+  "duration": 3.64,
+  "text": "which in this particular case is more"
+ },
+ {
+  "start": 54.0,
+  "duration": 3.76,
+  "text": "than just a set of announcements, but a"
+ },
+ {
+  "start": 55.84,
+  "duration": 4.84,
+  "text": "chance to see how one of the biggest"
+ },
+ {
+  "start": 57.76,
+  "duration": 5.64,
+  "text": "labs thinks about AI priorities and"
+ },
+ {
+  "start": 60.68,
+  "duration": 5.24,
+  "text": "where they sit in the AI race. In short,"
+ },
+ {
+  "start": 63.4,
+  "duration": 4.6,
+  "text": "the event was a little confused. Google"
+ },
+ {
+  "start": 65.92,
+  "duration": 3.96,
+  "text": "is doing a ton. There's absolutely no"
+ },
+ {
+  "start": 68.0,
+  "duration": 4.8,
+  "text": "doubt. What it adds up to is a little"
+ },
+ {
+  "start": 69.88,
+  "duration": 4.92,
+  "text": "less clear, and in fact, it seems to me"
+ },
+ {
+  "start": 72.8,
+  "duration": 4.56,
+  "text": "like Google's leadership may have a very"
+ },
+ {
+  "start": 74.8,
+  "duration": 4.76,
+  "text": "different idea than either Anthropic or"
+ },
+ {
+  "start": 77.36,
+  "duration": 4.56,
+  "text": "OpenAI's leadership about what winning"
+ },
+ {
+  "start": 79.56,
+  "duration": 3.44,
+  "text": "the AI race will actually look like. But"
+ },
+ {
+  "start": 81.92,
+  "duration": 2.56,
+  "text": "we need a little bit of background and"
+ },
+ {
+  "start": 83.0,
+  "duration": 4.28,
+  "text": "context before we get into this year's"
+ },
+ {
+  "start": 84.48,
+  "duration": 5.0,
+  "text": "event. Google's history with generative"
+ },
+ {
+  "start": 87.28,
+  "duration": 4.04,
+  "text": "AI in general has been interesting. In"
+ },
+ {
+  "start": 89.48,
+  "duration": 4.04,
+  "text": "the prehistoric times, i.e., the"
+ },
+ {
+  "start": 91.32,
+  "duration": 3.92,
+  "text": "pre-ChatGPT times, when very few were"
+ },
+ {
+  "start": 93.52,
+  "duration": 3.52,
+  "text": "paying attention to all of this, Google"
+ },
+ {
+  "start": 95.24,
+  "duration": 4.48,
+  "text": "was ahead simply by virtue of paying"
+ },
+ {
+  "start": 97.04,
+  "duration": 4.6,
+  "text": "attention. Back in 2014, they acquired"
+ },
+ {
+  "start": 99.72,
+  "duration": 2.76,
+  "text": "DeepMind for a then massive $500"
+ },
+ {
+  "start": 101.64,
+  "duration": 2.8,
+  "text": "million,"
+ },
+ {
+  "start": 102.48,
+  "duration": 4.08,
+  "text": "but problematically, it was not their"
+ },
+ {
+  "start": 104.44,
+  "duration": 3.84,
+  "text": "only AI effort. In fact, part of the"
+ },
+ {
+  "start": 106.56,
+  "duration": 3.72,
+  "text": "reason that they were caught flat-footed"
+ },
+ {
+  "start": 108.28,
+  "duration": 4.56,
+  "text": "when ChatGPT first launched in November"
+ },
+ {
+  "start": 110.28,
+  "duration": 4.92,
+  "text": "of 2022 was that AI strategy wasn't"
+ },
+ {
+  "start": 112.84,
+  "duration": 4.12,
+  "text": "consolidated in a single place. That"
+ },
+ {
+  "start": 115.2,
+  "duration": 3.72,
+  "text": "wouldn't come till later, in fact, and"
+ },
+ {
+  "start": 116.96,
+  "duration": 4.12,
+  "text": "it honestly took a very rough year out"
+ },
+ {
+  "start": 118.92,
+  "duration": 3.36,
+  "text": "of the gate in 2023 for them to figure"
+ },
+ {
+  "start": 121.08,
+  "duration": 4.24,
+  "text": "out that they needed to go through that"
+ },
+ {
+  "start": 122.28,
+  "duration": 5.199,
+  "text": "sort of painful restructuring. 2023's IO"
+ },
+ {
+  "start": 125.32,
+  "duration": 3.32,
+  "text": "event was certainly a catch-up event."
+ },
+ {
+  "start": 127.479,
+  "duration": 3.441,
+  "text": "You might or might not remember that"
+ },
+ {
+  "start": 128.64,
+  "duration": 5.0,
+  "text": "before Gemini, we had something called"
+ },
+ {
+  "start": 130.92,
+  "duration": 5.16,
+  "text": "Bard. Bard was Google's first ChatGPT"
+ },
+ {
+  "start": 133.64,
+  "duration": 4.08,
+  "text": "competitor, and frankly, it wasn't"
+ },
+ {
+  "start": 136.08,
+  "duration": 3.04,
+  "text": "great. Honestly, to many it felt more"
+ },
+ {
+  "start": 137.72,
+  "duration": 3.08,
+  "text": "like the type of product that Microsoft"
+ },
+ {
+  "start": 139.12,
+  "duration": 3.52,
+  "text": "would put out, but Microsoft,"
+ },
+ {
+  "start": 140.8,
+  "duration": 4.159,
+  "text": "shockingly, by virtue of their deal with"
+ },
+ {
+  "start": 142.64,
+  "duration": 4.68,
+  "text": "OpenAI, was at the time broadly seen as"
+ },
+ {
+  "start": 144.959,
+  "duration": 4.121,
+  "text": "the head. Throughout 2024, there was"
+ },
+ {
+  "start": 147.32,
+  "duration": 3.32,
+  "text": "growing pressure on Google from lots of"
+ },
+ {
+  "start": 149.08,
+  "duration": 3.68,
+  "text": "sources, not least of which was the"
+ },
+ {
+  "start": 150.64,
+  "duration": 3.96,
+  "text": "public markets, to do something beyond"
+ },
+ {
+  "start": 152.76,
+  "duration": 3.76,
+  "text": "and better than Bard, which eventually"
+ },
+ {
+  "start": 154.6,
+  "duration": 4.12,
+  "text": "we got in December with the announcement"
+ },
+ {
+  "start": 156.52,
+  "duration": 3.72,
+  "text": "of Gemini. Gemini was Google starting to"
+ },
+ {
+  "start": 158.72,
+  "duration": 3.92,
+  "text": "consolidate their strategy around"
+ },
+ {
+  "start": 160.24,
+  "duration": 4.08,
+  "text": "DeepMind CEO Demis Hassabis, but even if"
+ },
+ {
+  "start": 162.64,
+  "duration": 2.68,
+  "text": "it appeared promising, that first"
+ },
+ {
+  "start": 164.32,
+  "duration": 2.84,
+  "text": "announcement was still pretty"
+ },
+ {
+  "start": 165.32,
+  "duration": 3.28,
+  "text": "disappointing. The most powerful version"
+ },
+ {
+  "start": 167.16,
+  "duration": 3.04,
+  "text": "of Gemini wouldn't be available for a"
+ },
+ {
+  "start": 168.6,
+  "duration": 3.24,
+  "text": "number of months, and it had the feeling"
+ },
+ {
+  "start": 170.2,
+  "duration": 3.96,
+  "text": "of a rushed move."
+ },
+ {
+  "start": 171.84,
+  "duration": 3.8,
+  "text": "Early 2024 didn't go much better. At the"
+ },
+ {
+  "start": 174.16,
+  "duration": 3.12,
+  "text": "beginning of the year, there was endless"
+ },
+ {
+  "start": 175.64,
+  "duration": 3.36,
+  "text": "digital ink spilled about their"
+ },
+ {
+  "start": 177.28,
+  "duration": 3.679,
+  "text": "quote-unquote woke image generation"
+ },
+ {
+  "start": 179.0,
+  "duration": 4.239,
+  "text": "model, which when asked to do things"
+ },
+ {
+  "start": 180.959,
+  "duration": 4.601,
+  "text": "like generating an image of a 1943"
+ },
+ {
+  "start": 183.239,
+  "duration": 5.72,
+  "text": "German soldier, would put Japanese women"
+ },
+ {
+  "start": 185.56,
+  "duration": 5.8,
+  "text": "or African-American men in Nazi regalia."
+ },
+ {
+  "start": 188.959,
+  "duration": 4.161,
+  "text": "By the IO event in 2024, we were"
+ },
+ {
+  "start": 191.36,
+  "duration": 3.56,
+  "text": "starting to get fully capable Gemini"
+ },
+ {
+  "start": 193.12,
+  "duration": 3.399,
+  "text": "models, but even then Google wasn't out"
+ },
+ {
+  "start": 194.92,
+  "duration": 3.0,
+  "text": "of the woods yet. One of the big things"
+ },
+ {
+  "start": 196.519,
+  "duration": 3.281,
+  "text": "they pushed at that event was AI"
+ },
+ {
+  "start": 197.92,
+  "duration": 3.68,
+  "text": "Overviews, which was Google's first"
+ },
+ {
+  "start": 199.8,
+  "duration": 3.64,
+  "text": "attempt to integrate this new set of"
+ },
+ {
+  "start": 201.6,
+  "duration": 3.52,
+  "text": "generative AI capabilities with their"
+ },
+ {
+  "start": 203.44,
+  "duration": 3.44,
+  "text": "most important existing business line,"
+ },
+ {
+  "start": 205.12,
+  "duration": 3.92,
+  "text": "which was of course search. The problem"
+ },
+ {
+  "start": 206.88,
+  "duration": 4.079,
+  "text": "was that that set of AI Overviews became"
+ },
+ {
+  "start": 209.04,
+  "duration": 3.76,
+  "text": "known not for how helpful they were, but"
+ },
+ {
+  "start": 210.959,
+  "duration": 3.801,
+  "text": "for suggesting that people put glue on"
+ },
+ {
+  "start": 212.8,
+  "duration": 4.52,
+  "text": "pizza and eat rocks."
+ },
+ {
+  "start": 214.76,
+  "duration": 4.64,
+  "text": "And yet by the end of 2024, Google had"
+ },
+ {
+  "start": 217.32,
+  "duration": 3.639,
+  "text": "started to get their groove back. And"
+ },
+ {
+  "start": 219.4,
+  "duration": 3.44,
+  "text": "part of the shifted momentum came from"
+ },
+ {
+  "start": 220.959,
+  "duration": 3.56,
+  "text": "an interesting source."
+ },
+ {
+  "start": 222.84,
+  "duration": 3.399,
+  "text": "Now, internally they had consolidated"
+ },
+ {
+  "start": 224.519,
+  "duration": 3.361,
+  "text": "strategy and put everything under one"
+ },
+ {
+  "start": 226.239,
+  "duration": 3.441,
+  "text": "roof, and so some of it was just the"
+ },
+ {
+  "start": 227.88,
+  "duration": 3.48,
+  "text": "dividends from that, but they also, for"
+ },
+ {
+  "start": 229.68,
+  "duration": 3.72,
+  "text": "the first time in a very long time, had"
+ },
+ {
+  "start": 231.36,
+  "duration": 5.24,
+  "text": "a genuine breakout product hit in the"
+ },
+ {
+  "start": 233.4,
+  "duration": 4.96,
+  "text": "form of notebook LM. Specifically, the"
+ },
+ {
+  "start": 236.6,
+  "duration": 3.24,
+  "text": "audio overview feature of notebook LM"
+ },
+ {
+  "start": 238.36,
+  "duration": 4.04,
+  "text": "which came in the fall, where you could"
+ },
+ {
+  "start": 239.84,
+  "duration": 4.08,
+  "text": "have a synthetic AI podcast discuss"
+ },
+ {
+  "start": 242.4,
+  "duration": 3.72,
+  "text": "whatever set of resources you had"
+ },
+ {
+  "start": 243.92,
+  "duration": 4.28,
+  "text": "dropped into notebook. People saw that"
+ },
+ {
+  "start": 246.12,
+  "duration": 4.16,
+  "text": "this could be a really cool way to learn"
+ },
+ {
+  "start": 248.2,
+  "duration": 4.04,
+  "text": "new material, study for exams,"
+ },
+ {
+  "start": 250.28,
+  "duration": 3.96,
+  "text": "familiarize themselves with the news,"
+ },
+ {
+  "start": 252.24,
+  "duration": 3.48,
+  "text": "and lots and lots of people did it."
+ },
+ {
+  "start": 254.24,
+  "duration": 4.559,
+  "text": "Google's AI efforts then headed into"
+ },
+ {
+  "start": 255.72,
+  "duration": 5.44,
+  "text": "2025 with good momentum, and I/O 2025"
+ },
+ {
+  "start": 258.799,
+  "duration": 3.721,
+  "text": "validated that. They premiered V03,"
+ },
+ {
+  "start": 261.16,
+  "duration": 3.28,
+  "text": "which was their first video generation"
+ },
+ {
+  "start": 262.52,
+  "duration": 4.0,
+  "text": "model to have native audio, and"
+ },
+ {
+  "start": 264.44,
+  "duration": 4.04,
+  "text": "throughout 2025, Gemini models were"
+ },
+ {
+  "start": 266.52,
+  "duration": 3.68,
+  "text": "treated as a genuine option and"
+ },
+ {
+  "start": 268.48,
+  "duration": 3.439,
+  "text": "contender, and you saw that in the"
+ },
+ {
+  "start": 270.2,
+  "duration": 4.04,
+  "text": "growth of Gemini, which started to get"
+ },
+ {
+  "start": 271.919,
+  "duration": 3.881,
+  "text": "up to chat GPT style numbers. Google"
+ },
+ {
+  "start": 274.24,
+  "duration": 3.36,
+  "text": "also had a couple of moments where"
+ },
+ {
+  "start": 275.8,
+  "duration": 3.08,
+  "text": "something that they released genuinely"
+ },
+ {
+  "start": 277.6,
+  "duration": 3.12,
+  "text": "expanded the set of things that were"
+ },
+ {
+  "start": 278.88,
+  "duration": 3.56,
+  "text": "possible with generative AI. Most"
+ },
+ {
+  "start": 280.72,
+  "duration": 3.56,
+  "text": "notably, Nano Banana and Nano Banana"
+ },
+ {
+  "start": 282.44,
+  "duration": 3.4,
+  "text": "Pro. Nano Banana, which came out at the"
+ },
+ {
+  "start": 284.28,
+  "duration": 3.8,
+  "text": "end of August and which was technically"
+ },
+ {
+  "start": 285.84,
+  "duration": 3.52,
+  "text": "called Gemini 2.5 / image before they"
+ },
+ {
+  "start": 288.08,
+  "duration": 2.92,
+  "text": "realized that they should just call it"
+ },
+ {
+  "start": 289.36,
+  "duration": 3.44,
+  "text": "by the name that people liked for it,"
+ },
+ {
+  "start": 291.0,
+  "duration": 3.0,
+  "text": "wasn't remarkable because the base-level"
+ },
+ {
+  "start": 292.8,
+  "duration": 3.04,
+  "text": "quality of the images was so"
+ },
+ {
+  "start": 294.0,
+  "duration": 3.919,
+  "text": "differentiated, but unlocked a ton of"
+ },
+ {
+  "start": 295.84,
+  "duration": 3.76,
+  "text": "value in the new types of fine-grain"
+ },
+ {
+  "start": 297.919,
+  "duration": 3.041,
+  "text": "editing controls that it gave you that"
+ },
+ {
+  "start": 299.6,
+  "duration": 3.56,
+  "text": "were simply not possible with other"
+ },
+ {
+  "start": 300.96,
+  "duration": 4.16,
+  "text": "image generation models. That expanded"
+ },
+ {
+  "start": 303.16,
+  "duration": 3.6,
+  "text": "in November with Nano Banana Pro, which"
+ },
+ {
+  "start": 305.12,
+  "duration": 3.84,
+  "text": "added reasoning over the prompt and"
+ },
+ {
+  "start": 306.76,
+  "duration": 3.76,
+  "text": "significant text rendering capabilities"
+ },
+ {
+  "start": 308.96,
+  "duration": 4.52,
+  "text": "that brought things like infographics"
+ },
+ {
+  "start": 310.52,
+  "duration": 5.12,
+  "text": "online in a real way for the first time."
+ },
+ {
+  "start": 313.48,
+  "duration": 4.76,
+  "text": "All of this led to a feeling that Google"
+ },
+ {
+  "start": 315.64,
+  "duration": 4.36,
+  "text": "was headed into 2026 with the best AI"
+ },
+ {
+  "start": 318.24,
+  "duration": 3.6,
+  "text": "momentum that they had ever had."
+ },
+ {
+  "start": 320.0,
+  "duration": 3.72,
+  "text": "Quietly, however, something was"
+ },
+ {
+  "start": 321.84,
+  "duration": 3.2,
+  "text": "happening that would push them from a"
+ },
+ {
+  "start": 323.72,
+  "duration": 4.16,
+  "text": "narrative perspective, at least,"
+ },
+ {
+  "start": 325.04,
+  "duration": 5.8,
+  "text": "significantly back behind again."
+ },
+ {
+  "start": 327.88,
+  "duration": 4.48,
+  "text": "2026 has been the year of coding agents,"
+ },
+ {
+  "start": 330.84,
+  "duration": 2.84,
+  "text": "agents for knowledge work, and"
+ },
+ {
+  "start": 332.36,
+  "duration": 2.36,
+  "text": "harnesses."
+ },
+ {
+  "start": 333.68,
+  "duration": 3.4,
+  "text": "And the seeds of that were laid at the"
+ },
+ {
+  "start": 334.72,
+  "duration": 4.16,
+  "text": "beginning of 2025. One part of that was"
+ },
+ {
+  "start": 337.08,
+  "duration": 2.96,
+  "text": "the reasoning models, which all of the"
+ },
+ {
+  "start": 338.88,
+  "duration": 3.4,
+  "text": "major labs released throughout the"
+ },
+ {
+  "start": 340.04,
+  "duration": 4.16,
+  "text": "course of 2025, but the importance of"
+ },
+ {
+  "start": 342.28,
+  "duration": 3.44,
+  "text": "harness wasn't exactly clear to everyone"
+ },
+ {
+  "start": 344.2,
+  "duration": 3.64,
+  "text": "when Claude Code launched back in"
+ },
+ {
+  "start": 345.72,
+  "duration": 3.44,
+  "text": "February and March of last year."
+ },
+ {
+  "start": 347.84,
+  "duration": 3.08,
+  "text": "Codex would technically come a few"
+ },
+ {
+  "start": 349.16,
+  "duration": 3.72,
+  "text": "months later in May, and for much of the"
+ },
+ {
+  "start": 350.92,
+  "duration": 4.4,
+  "text": "year all of this was quietly brewing."
+ },
+ {
+  "start": 352.88,
+  "duration": 4.56,
+  "text": "Anthropic's developer devotion clearly"
+ },
+ {
+  "start": 355.32,
+  "duration": 3.68,
+  "text": "started to be noticed by OpenAI, and by"
+ },
+ {
+  "start": 357.44,
+  "duration": 3.52,
+  "text": "August it was clear that they were"
+ },
+ {
+  "start": 359.0,
+  "duration": 3.96,
+  "text": "taking the threat seriously. They tried"
+ },
+ {
+  "start": 360.96,
+  "duration": 4.04,
+  "text": "to position their GPT-5 announcement as"
+ },
+ {
+  "start": 362.96,
+  "duration": 3.56,
+  "text": "all about that, putting coding-based use"
+ },
+ {
+  "start": 365.0,
+  "duration": 3.4,
+  "text": "cases up top of their announcement for"
+ },
+ {
+  "start": 366.52,
+  "duration": 3.68,
+  "text": "the first time, but ultimately that part"
+ },
+ {
+  "start": 368.4,
+  "duration": 3.44,
+  "text": "of the announcement was significantly"
+ },
+ {
+  "start": 370.2,
+  "duration": 3.76,
+  "text": "sidelined both by the genuinely"
+ },
+ {
+  "start": 371.84,
+  "duration": 3.76,
+  "text": "underwhelming performance of GPT-5, as"
+ },
+ {
+  "start": 373.96,
+  "duration": 3.959,
+  "text": "well as by the planned deprecation of"
+ },
+ {
+  "start": 375.6,
+  "duration": 4.64,
+  "text": "GPT-4o, which led to effectively a"
+ },
+ {
+  "start": 377.919,
+  "duration": 3.721,
+  "text": "consumer rebellion. Still, even as they"
+ },
+ {
+  "start": 380.24,
+  "duration": 3.04,
+  "text": "worked through that, by the end of the"
+ },
+ {
+  "start": 381.64,
+  "duration": 3.44,
+  "text": "year it was very clear that OpenAI was"
+ },
+ {
+  "start": 383.28,
+  "duration": 3.84,
+  "text": "all in on Codex and coding-related"
+ },
+ {
+  "start": 385.08,
+  "duration": 5.76,
+  "text": "models. Each incremental new release we"
+ },
+ {
+  "start": 387.12,
+  "duration": 5.84,
+  "text": "got, GPT-5.1, GPT-5.2, GPT-5.3, had a"
+ },
+ {
+  "start": 390.84,
+  "duration": 3.92,
+  "text": "Codex-optimized version along with it."
+ },
+ {
+  "start": 392.96,
+  "duration": 3.959,
+  "text": "And as we well know, all of these things"
+ },
+ {
+  "start": 394.76,
+  "duration": 4.84,
+  "text": "came together around the Opus 4.5"
+ },
+ {
+  "start": 396.919,
+  "duration": 4.521,
+  "text": "GPT-5.2 era, where all of a sudden"
+ },
+ {
+  "start": 399.6,
+  "duration": 3.68,
+  "text": "around the beginning of 2026 and"
+ },
+ {
+  "start": 401.44,
+  "duration": 3.36,
+  "text": "especially into January, everyone was"
+ },
+ {
+  "start": 403.28,
+  "duration": 3.72,
+  "text": "realizing that something big had"
+ },
+ {
+  "start": 404.8,
+  "duration": 3.64,
+  "text": "shifted. That the capacity to use code"
+ },
+ {
+  "start": 407.0,
+  "duration": 2.88,
+  "text": "to build things was totally different"
+ },
+ {
+  "start": 408.44,
+  "duration": 2.96,
+  "text": "than it had been before, and that the"
+ },
+ {
+  "start": 409.88,
+  "duration": 3.2,
+  "text": "promise of agents, which had been so"
+ },
+ {
+  "start": 411.4,
+  "duration": 3.0,
+  "text": "exciting for so many years, was no"
+ },
+ {
+  "start": 413.08,
+  "duration": 3.48,
+  "text": "longer just something for the future,"
+ },
+ {
+  "start": 414.4,
+  "duration": 4.68,
+  "text": "but was actually here. When the dominant"
+ },
+ {
+  "start": 416.56,
+  "duration": 4.32,
+  "text": "theme became agents, specifically coding"
+ },
+ {
+  "start": 419.08,
+  "duration": 3.6,
+  "text": "agents, and the reappropriation of"
+ },
+ {
+  "start": 420.88,
+  "duration": 4.28,
+  "text": "coding agents for knowledge work, it"
+ },
+ {
+  "start": 422.68,
+  "duration": 4.6,
+  "text": "absolutely left Google in the dust once"
+ },
+ {
+  "start": 425.16,
+  "duration": 3.84,
+  "text": "again, at least from the insider AI"
+ },
+ {
+  "start": 427.28,
+  "duration": 3.72,
+  "text": "conversation."
+ },
+ {
+  "start": 429.0,
+  "duration": 4.84,
+  "text": "Now, is there an argument that the"
+ },
+ {
+  "start": 431.0,
+  "duration": 4.76,
+  "text": "insider fixation on coding agents is"
+ },
+ {
+  "start": 433.84,
+  "duration": 3.92,
+  "text": "missing the forest for the trees? Is it"
+ },
+ {
+  "start": 435.76,
+  "duration": 3.84,
+  "text": "actually potentially an indictment of AI"
+ },
+ {
+  "start": 437.76,
+  "duration": 3.8,
+  "text": "progress that we're all obsessed with"
+ },
+ {
+  "start": 439.6,
+  "duration": 3.8,
+  "text": "this one area of immense product market"
+ },
+ {
+  "start": 441.56,
+  "duration": 3.68,
+  "text": "fit, and in fact over-interpolating that"
+ },
+ {
+  "start": 443.4,
+  "duration": 3.08,
+  "text": "product market fit to other areas of"
+ },
+ {
+  "start": 445.24,
+  "duration": 3.12,
+  "text": "knowledge work that are going to be much"
+ },
+ {
+  "start": 446.48,
+  "duration": 3.72,
+  "text": "harder? It is certainly possible that"
+ },
+ {
+  "start": 448.36,
+  "duration": 3.8,
+  "text": "that is the case. Certainly as part of"
+ },
+ {
+  "start": 450.2,
+  "duration": 3.44,
+  "text": "their big code red in December, OpenAI"
+ },
+ {
+  "start": 452.16,
+  "duration": 2.56,
+  "text": "made the decision that it was"
+ },
+ {
+  "start": 453.64,
+  "duration": 2.92,
+  "text": "significant enough that they were"
+ },
+ {
+  "start": 454.72,
+  "duration": 3.28,
+  "text": "willing to, for the first time, abandon"
+ },
+ {
+  "start": 456.56,
+  "duration": 3.4,
+  "text": "other areas of their ambition that were"
+ },
+ {
+  "start": 458.0,
+  "duration": 3.96,
+  "text": "competing with Google, most notably"
+ },
+ {
+  "start": 459.96,
+  "duration": 3.64,
+  "text": "around Sora, the video model and app"
+ },
+ {
+  "start": 461.96,
+  "duration": 4.0,
+  "text": "that they basically completely gave up"
+ },
+ {
+  "start": 463.6,
+  "duration": 4.96,
+  "text": "on. And yet at the same time, it is very"
+ },
+ {
+  "start": 465.96,
+  "duration": 4.8,
+  "text": "clear that it's not just the extremely"
+ },
+ {
+  "start": 468.56,
+  "duration": 4.2,
+  "text": "enfranchised AI users that think that"
+ },
+ {
+  "start": 470.76,
+  "duration": 4.24,
+  "text": "something significant has changed. The"
+ },
+ {
+  "start": 472.76,
+  "duration": 4.16,
+  "text": "enterprise has gone all in on this new"
+ },
+ {
+  "start": 475.0,
+  "duration": 3.2,
+  "text": "approach to AI in a way that opens up"
+ },
+ {
+  "start": 476.92,
+  "duration": 3.8,
+  "text": "questions for the labs that aren't"
+ },
+ {
+  "start": 478.2,
+  "duration": 4.4,
+  "text": "there, most notably Google, which is not"
+ },
+ {
+  "start": 480.72,
+  "duration": 4.4,
+  "text": "to say that Google didn't have any big"
+ },
+ {
+  "start": 482.6,
+  "duration": 4.56,
+  "text": "advantages in the first half of 2026."
+ },
+ {
+  "start": 485.12,
+  "duration": 3.64,
+  "text": "Google's TPU chips have become a bigger"
+ },
+ {
+  "start": 487.16,
+  "duration": 3.84,
+  "text": "deal than ever as compute constraints"
+ },
+ {
+  "start": 488.76,
+  "duration": 3.88,
+  "text": "have come home to roost. And for time"
+ },
+ {
+  "start": 491.0,
+  "duration": 3.4,
+  "text": "Google starting to think about that as"
+ },
+ {
+  "start": 492.64,
+  "duration": 3.36,
+  "text": "not just as an internal capacity, but as"
+ },
+ {
+  "start": 494.4,
+  "duration": 3.68,
+  "text": "an external business line. And what's"
+ },
+ {
+  "start": 496.0,
+  "duration": 4.2,
+  "text": "more, OpenAI deciding to focus on the"
+ },
+ {
+  "start": 498.08,
+  "duration": 3.2,
+  "text": "enterprise to the exclusion of consumer,"
+ },
+ {
+  "start": 500.2,
+  "duration": 2.96,
+  "text": "although of course they wouldn't put it"
+ },
+ {
+  "start": 501.28,
+  "duration": 3.52,
+  "text": "quite that dramatically over at OpenAI,"
+ },
+ {
+  "start": 503.16,
+  "duration": 3.84,
+  "text": "gave Google what appears to be an"
+ },
+ {
+  "start": 504.8,
+  "duration": 3.84,
+  "text": "increasingly open lane."
+ },
+ {
+  "start": 507.0,
+  "duration": 3.84,
+  "text": "And so, with all of that, the questions"
+ },
+ {
+  "start": 508.64,
+  "duration": 3.48,
+  "text": "coming into this IO were one, would"
+ },
+ {
+  "start": 510.84,
+  "duration": 3.199,
+  "text": "Google release a competitive"
+ },
+ {
+  "start": 512.12,
+  "duration": 4.16,
+  "text": "state-of-the-art model? Two, would they"
+ },
+ {
+  "start": 514.039,
+  "duration": 4.241,
+  "text": "release, update, or consolidate around a"
+ },
+ {
+  "start": 516.28,
+  "duration": 3.48,
+  "text": "real agentic coding or knowledge work"
+ },
+ {
+  "start": 518.28,
+  "duration": 2.879,
+  "text": "harness? Are we supposed to use"
+ },
+ {
+  "start": 519.76,
+  "duration": 3.6,
+  "text": "anti-gravity? Are we supposed to use"
+ },
+ {
+  "start": 521.159,
+  "duration": 4.281,
+  "text": "Google AI Studio? For OpenAI, it's"
+ },
+ {
+  "start": 523.36,
+  "duration": 3.84,
+  "text": "Codex. For Anthropic, it's Claude Coder"
+ },
+ {
+  "start": 525.44,
+  "duration": 3.68,
+  "text": "Claude Co-work, both of which live in"
+ },
+ {
+  "start": 527.2,
+  "duration": 3.32,
+  "text": "the same app. For Google, it's a sprawl"
+ },
+ {
+  "start": 529.12,
+  "duration": 3.16,
+  "text": "and it's never been exactly clear which"
+ },
+ {
+  "start": 530.52,
+  "duration": 3.0,
+  "text": "of these harnesses we should invest in."
+ },
+ {
+  "start": 532.28,
+  "duration": 3.04,
+  "text": "On top of questions of model and"
+ },
+ {
+  "start": 533.52,
+  "duration": 3.56,
+  "text": "harness, would Google clarify their"
+ },
+ {
+  "start": 535.32,
+  "duration": 4.16,
+  "text": "position on consumer versus the"
+ },
+ {
+  "start": 537.08,
+  "duration": 4.6,
+  "text": "enterprise? Or would they lean into this"
+ },
+ {
+  "start": 539.48,
+  "duration": 3.76,
+  "text": "new AI trade-off era, for example, by"
+ },
+ {
+  "start": 541.68,
+  "duration": 3.24,
+  "text": "honing in on lower cost or more"
+ },
+ {
+  "start": 543.24,
+  "duration": 3.72,
+  "text": "efficient models as one of their unique"
+ },
+ {
+  "start": 544.92,
+  "duration": 4.6,
+  "text": "opportunities?"
+ },
+ {
+  "start": 546.96,
+  "duration": 4.2,
+  "text": "What we got was, honestly, a little bit"
+ },
+ {
+  "start": 549.52,
+  "duration": 2.64,
+  "text": "of a confusing mess. The key"
+ },
+ {
+  "start": 551.16,
+  "duration": 3.64,
+  "text": "announcements we're going to talk"
+ },
+ {
+  "start": 552.16,
+  "duration": 5.8,
+  "text": "through are Omni, Spark, anti-gravity"
+ },
+ {
+  "start": 554.8,
+  "duration": 4.64,
+  "text": "2.0, Gemini 3.5 Flash, which together"
+ },
+ {
+  "start": 557.96,
+  "duration": 3.36,
+  "text": "only represent a part of what was"
+ },
+ {
+  "start": 559.44,
+  "duration": 3.8,
+  "text": "announced, and try to understand how"
+ },
+ {
+  "start": 561.32,
+  "duration": 3.519,
+  "text": "they all add up to something bigger."
+ },
+ {
+  "start": 563.24,
+  "duration": 3.28,
+  "text": "Just by looking at Twitter and social"
+ },
+ {
+  "start": 564.839,
+  "duration": 3.961,
+  "text": "media, you would think that Omni was"
+ },
+ {
+  "start": 566.52,
+  "duration": 4.319,
+  "text": "just a video model, but in fact, Google"
+ },
+ {
+  "start": 568.8,
+  "duration": 4.44,
+  "text": "is positioning it as a new family of"
+ },
+ {
+  "start": 570.839,
+  "duration": 4.721,
+  "text": "generative AI models that are eventually"
+ },
+ {
+  "start": 573.24,
+  "duration": 4.48,
+  "text": "an anything-to-anything truly multimodal"
+ },
+ {
+  "start": 575.56,
+  "duration": 4.52,
+  "text": "medium. The idea is that instead of"
+ },
+ {
+  "start": 577.72,
+  "duration": 4.12,
+  "text": "being constrained to a video model using"
+ },
+ {
+  "start": 580.08,
+  "duration": 4.28,
+  "text": "a video input or a text model using a"
+ },
+ {
+  "start": 581.84,
+  "duration": 4.28,
+  "text": "text input, Omni at full strength will"
+ },
+ {
+  "start": 584.36,
+  "duration": 3.56,
+  "text": "be able to take any input or any"
+ },
+ {
+  "start": 586.12,
+  "duration": 3.56,
+  "text": "combination of inputs to produce"
+ },
+ {
+  "start": 587.92,
+  "duration": 3.88,
+  "text": "whatever output you need in whatever"
+ },
+ {
+  "start": 589.68,
+  "duration": 3.36,
+  "text": "format you need. Again, this is a type"
+ },
+ {
+  "start": 591.8,
+  "duration": 3.36,
+  "text": "of thing that's been promised for a long"
+ },
+ {
+  "start": 593.04,
+  "duration": 3.76,
+  "text": "time but has never fully come to bear."
+ },
+ {
+  "start": 595.16,
+  "duration": 3.52,
+  "text": "The version that was released was"
+ },
+ {
+  "start": 596.8,
+  "duration": 3.16,
+  "text": "specifically positioned as a video model"
+ },
+ {
+  "start": 598.68,
+  "duration": 2.52,
+  "text": "and that's how most people initially"
+ },
+ {
+  "start": 599.96,
+  "duration": 3.24,
+  "text": "judged it."
+ },
+ {
+  "start": 601.2,
+  "duration": 3.52,
+  "text": "Researcher and AI water myth dispeller"
+ },
+ {
+  "start": 603.2,
+  "duration": 2.8,
+  "text": "Andy Masley summed up the first"
+ },
+ {
+  "start": 604.72,
+  "duration": 3.52,
+  "text": "impression feelings of many when he"
+ },
+ {
+  "start": 606.0,
+  "duration": 4.0,
+  "text": "tweeted, \"Google's Omni is fun but"
+ },
+ {
+  "start": 608.24,
+  "duration": 3.8,
+  "text": "definitely not a huge step up for me.\""
+ },
+ {
+  "start": 610.0,
+  "duration": 4.08,
+  "text": "Heisenberg on X went farther saying,"
+ },
+ {
+  "start": 612.04,
+  "duration": 4.16,
+  "text": "\"Was expecting VO4 got Gemini Omni"
+ },
+ {
+  "start": 614.08,
+  "duration": 3.84,
+  "text": "instead. See dance 2.0 is going to eat"
+ },
+ {
+  "start": 616.2,
+  "duration": 3.68,
+  "text": "this for breakfast.\" In the comments he"
+ },
+ {
+  "start": 617.92,
+  "duration": 3.72,
+  "text": "even said Grok imagine is better. And"
+ },
+ {
+  "start": 619.88,
+  "duration": 3.68,
+  "text": "yet as many jumped in to point out, the"
+ },
+ {
+  "start": 621.64,
+  "duration": 4.16,
+  "text": "comparison to see dance itself was"
+ },
+ {
+  "start": 623.56,
+  "duration": 4.6,
+  "text": "actually not particularly apt. As Carlos"
+ },
+ {
+  "start": 625.8,
+  "duration": 4.2,
+  "text": "Santana wrote, \"This is a model for"
+ },
+ {
+  "start": 628.16,
+  "duration": 3.92,
+  "text": "editing videos like Nana Banana like"
+ },
+ {
+  "start": 630.0,
+  "duration": 3.56,
+  "text": "we've never had before.\" And indeed,"
+ },
+ {
+  "start": 632.08,
+  "duration": 3.36,
+  "text": "when you actually read the blog post,"
+ },
+ {
+  "start": 633.56,
+  "duration": 3.6,
+  "text": "that's how Google is positioning this."
+ },
+ {
+  "start": 635.44,
+  "duration": 3.04,
+  "text": "It's less about the initial quality of"
+ },
+ {
+  "start": 637.16,
+  "duration": 2.92,
+  "text": "the video generation, although that's"
+ },
+ {
+  "start": 638.48,
+  "duration": 3.24,
+  "text": "strong, and more about your ability to"
+ },
+ {
+  "start": 640.08,
+  "duration": 2.759,
+  "text": "easily edit it."
+ },
+ {
+  "start": 641.72,
+  "duration": 2.92,
+  "text": "It wasn't long before some people"
+ },
+ {
+  "start": 642.839,
+  "duration": 3.361,
+  "text": "grokked this, pun intended, with Andy"
+ },
+ {
+  "start": 644.64,
+  "duration": 3.36,
+  "text": "Masley actually coming back later and"
+ },
+ {
+  "start": 646.2,
+  "duration": 3.96,
+  "text": "saying, \"Okay, I take it back on Omni."
+ },
+ {
+  "start": 648.0,
+  "duration": 3.76,
+  "text": "Editing real videos with it is crazy.\""
+ },
+ {
+  "start": 650.16,
+  "duration": 3.4,
+  "text": "Henry Dubra writes, \"Omni feels much"
+ },
+ {
+  "start": 651.76,
+  "duration": 3.4,
+  "text": "closer to a Nana Banana moment for video"
+ },
+ {
+  "start": 653.56,
+  "duration": 3.04,
+  "text": "than a traditional cinematic generation"
+ },
+ {
+  "start": 655.16,
+  "duration": 3.679,
+  "text": "model. You're comparing apples and"
+ },
+ {
+  "start": 656.6,
+  "duration": 3.64,
+  "text": "pears. I can easily ask Omni to change"
+ },
+ {
+  "start": 658.839,
+  "duration": 2.801,
+  "text": "the entire setting of a sequence and"
+ },
+ {
+  "start": 660.24,
+  "duration": 3.4,
+  "text": "turn day into night while preserving the"
+ },
+ {
+  "start": 661.64,
+  "duration": 3.48,
+  "text": "shot structure. That's a massive deal."
+ },
+ {
+  "start": 663.64,
+  "duration": 2.52,
+  "text": "Efficient video-to-video is probably"
+ },
+ {
+  "start": 665.12,
+  "duration": 2.32,
+  "text": "going to become a huge part of the"
+ },
+ {
+  "start": 666.16,
+  "duration": 4.0,
+  "text": "future of entertainment and hybrid"
+ },
+ {
+  "start": 667.44,
+  "duration": 3.72,
+  "text": "productions.\" Ethan Mollick writes,"
+ },
+ {
+  "start": 670.16,
+  "duration": 2.52,
+  "text": "\"It's really good at instruction"
+ },
+ {
+  "start": 671.16,
+  "duration": 3.28,
+  "text": "following and having a smart model"
+ },
+ {
+  "start": 672.68,
+  "duration": 3.72,
+  "text": "capable of doing video expands what you"
+ },
+ {
+  "start": 674.44,
+  "duration": 4.0,
+  "text": "can do by a considerable margin.\" Other"
+ },
+ {
+  "start": 676.4,
+  "duration": 3.72,
+  "text": "people shared a bunch of examples of how"
+ },
+ {
+  "start": 678.44,
+  "duration": 4.12,
+  "text": "easy it was to edit video with character"
+ },
+ {
+  "start": 680.12,
+  "duration": 4.36,
+  "text": "consistency, taking an influencer style"
+ },
+ {
+  "start": 682.56,
+  "duration": 3.76,
+  "text": "presentation and making the influencer"
+ },
+ {
+  "start": 684.48,
+  "duration": 3.64,
+  "text": "invisible, changing the background, and"
+ },
+ {
+  "start": 686.32,
+  "duration": 3.92,
+  "text": "changing the person's outfit. In another"
+ },
+ {
+  "start": 688.12,
+  "duration": 4.08,
+  "text": "example, there's a video scene of London"
+ },
+ {
+  "start": 690.24,
+  "duration": 3.48,
+  "text": "with a close-up of Big Ben where Omni"
+ },
+ {
+  "start": 692.2,
+  "duration": 3.36,
+  "text": "changed the scene from a generic"
+ },
+ {
+  "start": 693.72,
+  "duration": 3.44,
+  "text": "afternoon daylight scene to New Year's"
+ },
+ {
+  "start": 695.56,
+  "duration": 3.64,
+  "text": "Eve with fireworks, with the clock"
+ },
+ {
+  "start": 697.16,
+  "duration": 3.88,
+  "text": "updated as well."
+ },
+ {
+  "start": 699.2,
+  "duration": 4.12,
+  "text": "Now, I tend to think that based just on"
+ },
+ {
+  "start": 701.04,
+  "duration": 3.8,
+  "text": "what I've seen, we tend to overestimate"
+ },
+ {
+  "start": 703.32,
+  "duration": 3.6,
+  "text": "the importance of base-level model"
+ },
+ {
+  "start": 704.84,
+  "duration": 4.2,
+  "text": "upgrades, and underestimate and"
+ },
+ {
+  "start": 706.92,
+  "duration": 4.36,
+  "text": "undervalue, at least initially, changes"
+ },
+ {
+  "start": 709.04,
+  "duration": 4.0,
+  "text": "to the steerability of those models."
+ },
+ {
+  "start": 711.28,
+  "duration": 2.84,
+  "text": "That's changing a bit post Nano Banana,"
+ },
+ {
+  "start": 713.04,
+  "duration": 3.0,
+  "text": "and you can see why they use that"
+ },
+ {
+  "start": 714.12,
+  "duration": 4.84,
+  "text": "reference point, but it certainly seems"
+ },
+ {
+  "start": 716.04,
+  "duration": 4.88,
+  "text": "like this layer and depth of editability"
+ },
+ {
+  "start": 718.96,
+  "duration": 4.16,
+  "text": "will unlock new use cases in video"
+ },
+ {
+  "start": 720.92,
+  "duration": 4.28,
+  "text": "generation that weren't possible before."
+ },
+ {
+  "start": 723.12,
+  "duration": 4.28,
+  "text": "Still, it seems to me like in the wake"
+ },
+ {
+  "start": 725.2,
+  "duration": 4.24,
+  "text": "of OpenAI deciding to close the Sora"
+ },
+ {
+  "start": 727.4,
+  "duration": 4.28,
+  "text": "experiment, there are more people asking"
+ },
+ {
+  "start": 729.44,
+  "duration": 3.44,
+  "text": "the question of who this is actually for"
+ },
+ {
+  "start": 731.68,
+  "duration": 3.4,
+  "text": "than there might have been just a few"
+ },
+ {
+  "start": 732.88,
+  "duration": 4.84,
+  "text": "months ago. Is this something that"
+ },
+ {
+  "start": 735.08,
+  "duration": 4.24,
+  "text": "Google imagines general consumers using?"
+ },
+ {
+  "start": 737.72,
+  "duration": 3.44,
+  "text": "And if so, are they using it for social"
+ },
+ {
+  "start": 739.32,
+  "duration": 4.12,
+  "text": "media or something else?"
+ },
+ {
+  "start": 741.16,
+  "duration": 4.08,
+  "text": "Is this just a prosumer type of feature,"
+ },
+ {
+  "start": 743.44,
+  "duration": 3.52,
+  "text": "where a very specific subset of creators"
+ },
+ {
+  "start": 745.24,
+  "duration": 3.68,
+  "text": "are going to be using it? Is it in fact"
+ },
+ {
+  "start": 746.96,
+  "duration": 3.72,
+  "text": "an entirely professional focused tool"
+ },
+ {
+  "start": 748.92,
+  "duration": 3.84,
+  "text": "made for people who actually use video"
+ },
+ {
+  "start": 750.68,
+  "duration": 4.6,
+  "text": "for a living, or is it just meant to be"
+ },
+ {
+  "start": 752.76,
+  "duration": 4.44,
+  "text": "a preview of a larger paradigm shift in"
+ },
+ {
+  "start": 755.28,
+  "duration": 3.68,
+  "text": "models, with this being the easiest way"
+ },
+ {
+  "start": 757.2,
+  "duration": 3.68,
+  "text": "to demonstrate how those types of models"
+ },
+ {
+  "start": 758.96,
+  "duration": 3.68,
+  "text": "will change things? Google didn't really"
+ },
+ {
+  "start": 760.88,
+  "duration": 4.08,
+  "text": "answer that, which may simply reflect"
+ },
+ {
+  "start": 762.64,
+  "duration": 4.4,
+  "text": "the fact that they just aren't sure."
+ },
+ {
+  "start": 764.96,
+  "duration": 3.72,
+  "text": "Now, speaking of cool things that are a"
+ },
+ {
+  "start": 767.04,
+  "duration": 4.08,
+  "text": "little confused about their audience,"
+ },
+ {
+  "start": 768.68,
+  "duration": 4.52,
+  "text": "next we got Gemini Spark."
+ },
+ {
+  "start": 771.12,
+  "duration": 3.719,
+  "text": "Google describes it as your 24/7"
+ },
+ {
+  "start": 773.2,
+  "duration": 3.52,
+  "text": "personal agent that helps you navigate"
+ },
+ {
+  "start": 774.839,
+  "duration": 3.801,
+  "text": "your digital life, taking action on your"
+ },
+ {
+  "start": 776.72,
+  "duration": 4.56,
+  "text": "behalf and under your direction. This,"
+ },
+ {
+  "start": 778.64,
+  "duration": 4.84,
+  "text": "once again, was unclear exactly what the"
+ },
+ {
+  "start": 781.28,
+  "duration": 3.68,
+  "text": "reference point is. Some jumped to the"
+ },
+ {
+  "start": 783.48,
+  "duration": 3.08,
+  "text": "idea that it was their version of Open"
+ },
+ {
+  "start": 784.96,
+  "duration": 3.0,
+  "text": "Claw. That's in fact what The Verge"
+ },
+ {
+  "start": 786.56,
+  "duration": 2.68,
+  "text": "called it, and certainly some of the"
+ },
+ {
+  "start": 787.96,
+  "duration": 2.8,
+  "text": "ways that they described it point in"
+ },
+ {
+  "start": 789.24,
+  "duration": 3.56,
+  "text": "that direction. In their announcement"
+ },
+ {
+  "start": 790.76,
+  "duration": 3.64,
+  "text": "thread, they said it runs on Gemini 3.5"
+ },
+ {
+  "start": 792.8,
+  "duration": 3.039,
+  "text": "and is built on anti-gravity, so it can"
+ },
+ {
+  "start": 794.4,
+  "duration": 3.04,
+  "text": "perform long-running tasks in the"
+ },
+ {
+  "start": 795.839,
+  "duration": 3.321,
+  "text": "background. They called out the idea"
+ },
+ {
+  "start": 797.44,
+  "duration": 2.96,
+  "text": "that because it runs on virtual machines"
+ },
+ {
+  "start": 799.16,
+  "duration": 2.76,
+  "text": "on Google Cloud, you don't have to keep"
+ },
+ {
+  "start": 800.4,
+  "duration": 2.84,
+  "text": "your laptop open, which is clearly a"
+ },
+ {
+  "start": 801.92,
+  "duration": 3.4,
+  "text": "reference to the people who are walking"
+ },
+ {
+  "start": 803.24,
+  "duration": 3.8,
+  "text": "around Claude Coder CodeXing with their"
+ },
+ {
+  "start": 805.32,
+  "duration": 3.36,
+  "text": "computers open. And they also even"
+ },
+ {
+  "start": 807.04,
+  "duration": 3.64,
+  "text": "referenced integrations with Google"
+ },
+ {
+  "start": 808.68,
+  "duration": 4.28,
+  "text": "tools and third parties through MCP,"
+ },
+ {
+  "start": 810.68,
+  "duration": 4.08,
+  "text": "suggesting that this might in fact be"
+ },
+ {
+  "start": 812.96,
+  "duration": 3.12,
+  "text": "designed for that more prosumer or"
+ },
+ {
+  "start": 814.76,
+  "duration": 3.4,
+  "text": "professional type of audience that's"
+ },
+ {
+  "start": 816.08,
+  "duration": 3.88,
+  "text": "currently using Claude Code, Codex, or"
+ },
+ {
+  "start": 818.16,
+  "duration": 3.76,
+  "text": "even something like Hermes or Open Claw."
+ },
+ {
+  "start": 819.96,
+  "duration": 3.36,
+  "text": "And yet the examples they give seem to"
+ },
+ {
+  "start": 821.92,
+  "duration": 4.08,
+  "text": "point it a little bit more in the"
+ },
+ {
+  "start": 823.32,
+  "duration": 4.6,
+  "text": "direction of a consumer use case. Sundar"
+ },
+ {
+  "start": 826.0,
+  "duration": 3.08,
+  "text": "Pichai said, \"It's your personal AI"
+ },
+ {
+  "start": 827.92,
+  "duration": 2.64,
+  "text": "agent that helps you navigate your"
+ },
+ {
+  "start": 829.08,
+  "duration": 3.2,
+  "text": "digital life, taking actions on your"
+ },
+ {
+  "start": 830.56,
+  "duration": 4.0,
+  "text": "behalf and under your direction.\" Google"
+ },
+ {
+  "start": 832.28,
+  "duration": 4.12,
+  "text": "VP Josh Woodward said, \"Need to send an"
+ },
+ {
+  "start": 834.56,
+  "duration": 3.44,
+  "text": "email to your boss with a status update?"
+ },
+ {
+  "start": 836.4,
+  "duration": 3.04,
+  "text": "Spark can pull all the facts from your"
+ },
+ {
+  "start": 838.0,
+  "duration": 3.4,
+  "text": "emails, your docs, your sheets, and"
+ },
+ {
+  "start": 839.44,
+  "duration": 3.52,
+  "text": "slides and write the draft for you.\" He"
+ },
+ {
+  "start": 841.4,
+  "duration": 3.28,
+  "text": "also said small businesses are using"
+ },
+ {
+  "start": 842.96,
+  "duration": 2.96,
+  "text": "Spark. They can watch over their inbox"
+ },
+ {
+  "start": 844.68,
+  "duration": 2.72,
+  "text": "so they never miss a question from a"
+ },
+ {
+  "start": 845.92,
+  "duration": 3.16,
+  "text": "customer."
+ },
+ {
+  "start": 847.4,
+  "duration": 3.92,
+  "text": "So, on the one hand, it's clearly not"
+ },
+ {
+  "start": 849.08,
+  "duration": 4.08,
+  "text": "fully a personal agent for a"
+ },
+ {
+  "start": 851.32,
+  "duration": 3.8,
+  "text": "non-professional use, but it's also not"
+ },
+ {
+  "start": 853.16,
+  "duration": 3.44,
+  "text": "exactly positioned in opposition to one"
+ },
+ {
+  "start": 855.12,
+  "duration": 2.56,
+  "text": "of those other tools. And maybe to"
+ },
+ {
+  "start": 856.6,
+  "duration": 3.08,
+  "text": "Google this is just supposed to be"
+ },
+ {
+  "start": 857.68,
+  "duration": 4.84,
+  "text": "intuitive, that it is supposed to fill a"
+ },
+ {
+  "start": 859.68,
+  "duration": 4.2,
+  "text": "gap that they see for users who are not"
+ },
+ {
+  "start": 862.52,
+  "duration": 3.32,
+  "text": "comfortable with something like Claude"
+ },
+ {
+  "start": 863.88,
+  "duration": 3.84,
+  "text": "Code or maybe even Claude Co-work, but"
+ },
+ {
+  "start": 865.84,
+  "duration": 3.44,
+  "text": "who want these sort of capabilities. But"
+ },
+ {
+  "start": 867.72,
+  "duration": 3.119,
+  "text": "if that is obvious to them, it's not"
+ },
+ {
+  "start": 869.28,
+  "duration": 3.28,
+  "text": "obvious to others. And the way that"
+ },
+ {
+  "start": 870.839,
+  "duration": 3.401,
+  "text": "people didn't know exactly how to frame"
+ },
+ {
+  "start": 872.56,
+  "duration": 3.04,
+  "text": "this is an example of the broader"
+ },
+ {
+  "start": 874.24,
+  "duration": 3.36,
+  "text": "product confusion, which I think is"
+ },
+ {
+  "start": 875.6,
+  "duration": 3.52,
+  "text": "everywhere with Google right now. Making"
+ },
+ {
+  "start": 877.6,
+  "duration": 2.96,
+  "text": "it harder to get a handle on, the"
+ },
+ {
+  "start": 879.12,
+  "duration": 3.36,
+  "text": "product was announced, but not only is"
+ },
+ {
+  "start": 880.56,
+  "duration": 3.68,
+  "text": "it not actually available, it's not even"
+ },
+ {
+  "start": 882.48,
+  "duration": 4.08,
+  "text": "clear when it will be available, saying"
+ },
+ {
+  "start": 884.24,
+  "duration": 4.96,
+  "text": "it's coming just sometime this summer."
+ },
+ {
+  "start": 886.56,
+  "duration": 4.12,
+  "text": "But what about the biggies?"
+ },
+ {
+  "start": 889.2,
+  "duration": 3.52,
+  "text": "I said coming into this that maybe the"
+ },
+ {
+  "start": 890.68,
+  "duration": 3.159,
+  "text": "two biggest questions were whether"
+ },
+ {
+  "start": 892.72,
+  "duration": 3.16,
+  "text": "Google was going to release a"
+ },
+ {
+  "start": 893.839,
+  "duration": 3.761,
+  "text": "state-of-the-art model and whether there"
+ },
+ {
+  "start": 895.88,
+  "duration": 3.8,
+  "text": "was going to be any clarity on the"
+ },
+ {
+  "start": 897.6,
+  "duration": 4.76,
+  "text": "harness side of things, and a legitimate"
+ },
+ {
+  "start": 899.68,
+  "duration": 3.96,
+  "text": "competitor to Codex and Claude Code. To"
+ },
+ {
+  "start": 902.36,
+  "duration": 3.28,
+  "text": "some it was an indictment of Google that"
+ },
+ {
+  "start": 903.64,
+  "duration": 3.92,
+  "text": "this was even a question. Nvidia-focused"
+ },
+ {
+  "start": 905.64,
+  "duration": 3.8,
+  "text": "analyst take him wrote, \"The media"
+ },
+ {
+  "start": 907.56,
+  "duration": 3.8,
+  "text": "establishment consensus is enamored with"
+ },
+ {
+  "start": 909.44,
+  "duration": 3.68,
+  "text": "Demis Hassabis, but Google is soundly"
+ },
+ {
+  "start": 911.36,
+  "duration": 4.08,
+  "text": "losing in the biggest product market fit"
+ },
+ {
+  "start": 913.12,
+  "duration": 4.719,
+  "text": "agentic AI market.\" So, what did we"
+ },
+ {
+  "start": 915.44,
+  "duration": 3.96,
+  "text": "discover? What we did get an update to"
+ },
+ {
+  "start": 917.839,
+  "duration": 2.961,
+  "text": "Google's agentic coding surface,"
+ },
+ {
+  "start": 919.4,
+  "duration": 3.2,
+  "text": "Antigravity."
+ },
+ {
+  "start": 920.8,
+  "duration": 4.2,
+  "text": "The team writes, \"Introducing"
+ },
+ {
+  "start": 922.6,
+  "duration": 4.28,
+  "text": "antigravity 2.0, a new standalone"
+ },
+ {
+  "start": 925.0,
+  "duration": 3.36,
+  "text": "desktop application that delivers fully"
+ },
+ {
+  "start": 926.88,
+  "duration": 3.4,
+  "text": "on that original glimpse of a truly"
+ },
+ {
+  "start": 928.36,
+  "duration": 3.68,
+  "text": "agent-optimized experience. Rebuilt from"
+ },
+ {
+  "start": 930.28,
+  "duration": 3.28,
+  "text": "the ground up with multi-agent teams,"
+ },
+ {
+  "start": 932.04,
+  "duration": 2.88,
+  "text": "scheduled tasks, native voice, and"
+ },
+ {
+  "start": 933.56,
+  "duration": 2.6,
+  "text": "one-click integration with other Google"
+ },
+ {
+  "start": 934.92,
+  "duration": 3.8,
+  "text": "products.\""
+ },
+ {
+  "start": 936.16,
+  "duration": 4.64,
+  "text": "So, this, it appears, is meant to be the"
+ },
+ {
+  "start": 938.72,
+  "duration": 3.44,
+  "text": "Agentic Coding competitor. Adding some"
+ },
+ {
+  "start": 940.8,
+  "duration": 3.28,
+  "text": "confusion to that, though, was the fact"
+ },
+ {
+  "start": 942.16,
+  "duration": 4.32,
+  "text": "that they also announced a number of new"
+ },
+ {
+  "start": 944.08,
+  "duration": 4.24,
+  "text": "vibe code features for Google AI Studio."
+ },
+ {
+  "start": 946.48,
+  "duration": 4.16,
+  "text": "And I'm again left feeling like it might"
+ },
+ {
+  "start": 948.32,
+  "duration": 4.28,
+  "text": "be clear-ish inside Google that"
+ },
+ {
+  "start": 950.64,
+  "duration": 3.84,
+  "text": "antigravity is the Claude Code"
+ },
+ {
+  "start": 952.6,
+  "duration": 4.08,
+  "text": "equivalent, while AI Studio is the"
+ },
+ {
+  "start": 954.48,
+  "duration": 4.52,
+  "text": "Claude Co-worker equivalent, or maybe"
+ },
+ {
+  "start": 956.68,
+  "duration": 4.12,
+  "text": "the Lovable equivalent. Anyway, if that"
+ },
+ {
+  "start": 959.0,
+  "duration": 3.64,
+  "text": "is the conception, it's certainly not"
+ },
+ {
+  "start": 960.8,
+  "duration": 3.16,
+  "text": "clear from their public communications."
+ },
+ {
+  "start": 962.64,
+  "duration": 3.64,
+  "text": "To demonstrate the new capabilities of"
+ },
+ {
+  "start": 963.96,
+  "duration": 4.56,
+  "text": "antigravity 2.0, they rebuilt the core"
+ },
+ {
+  "start": 966.28,
+  "duration": 4.92,
+  "text": "framework of a working operating system"
+ },
+ {
+  "start": 968.52,
+  "duration": 4.32,
+  "text": "using 93 sub-agents and processing"
+ },
+ {
+  "start": 971.2,
+  "duration": 3.96,
+  "text": "billions of tokens, with the entire"
+ },
+ {
+  "start": 972.84,
+  "duration": 3.64,
+  "text": "operation taking about 12 hours. Now,"
+ },
+ {
+  "start": 975.16,
+  "duration": 3.04,
+  "text": "there are a couple first reactions when"
+ },
+ {
+  "start": 976.48,
+  "duration": 2.76,
+  "text": "developers saw this. It went down"
+ },
+ {
+  "start": 978.2,
+  "duration": 2.64,
+  "text": "briefly, which wasn't the best"
+ },
+ {
+  "start": 979.24,
+  "duration": 2.88,
+  "text": "experience, but I think everyone can"
+ },
+ {
+  "start": 980.84,
+  "duration": 2.44,
+  "text": "give them a pass for that, given that"
+ },
+ {
+  "start": 982.12,
+  "duration": 3.08,
+  "text": "any sort of launch day is always going"
+ },
+ {
+  "start": 983.28,
+  "duration": 3.84,
+  "text": "to involve some throttling the network."
+ },
+ {
+  "start": 985.2,
+  "duration": 3.56,
+  "text": "But even less positively was chatter"
+ },
+ {
+  "start": 987.12,
+  "duration": 3.64,
+  "text": "around the similarity and derivative"
+ },
+ {
+  "start": 988.76,
+  "duration": 4.0,
+  "text": "feeling of antigravity to other tools"
+ },
+ {
+  "start": 990.76,
+  "duration": 4.0,
+  "text": "like Codex. This was made worse by the"
+ },
+ {
+  "start": 992.76,
+  "duration": 4.2,
+  "text": "fact that in the second minute of the"
+ },
+ {
+  "start": 994.76,
+  "duration": 4.76,
+  "text": "launch video for antigravity, you can"
+ },
+ {
+  "start": 996.96,
+  "duration": 4.16,
+  "text": "see a folder for Codex on the screen"
+ },
+ {
+  "start": 999.52,
+  "duration": 2.88,
+  "text": "being demoed, which made people shake"
+ },
+ {
+  "start": 1001.12,
+  "duration": 2.76,
+  "text": "their heads with wonder that that wasn't"
+ },
+ {
+  "start": 1002.4,
+  "duration": 3.6,
+  "text": "caught, and certainly invited even more"
+ },
+ {
+  "start": 1003.88,
+  "duration": 4.24,
+  "text": "comparison between antigravity 2 and"
+ },
+ {
+  "start": 1006.0,
+  "duration": 3.52,
+  "text": "Codex. The Codex team themselves weren't"
+ },
+ {
+  "start": 1008.12,
+  "duration": 2.88,
+  "text": "shy about sharing their feelings with"
+ },
+ {
+  "start": 1009.52,
+  "duration": 3.0,
+  "text": "Thibault from that team saying, \"I"
+ },
+ {
+  "start": 1011.0,
+  "duration": 3.12,
+  "text": "wonder if the antigravity team has"
+ },
+ {
+  "start": 1012.52,
+  "duration": 3.24,
+  "text": "designers. Couldn't believe my eyes"
+ },
+ {
+  "start": 1014.12,
+  "duration": 3.84,
+  "text": "today, haha. Very flattering to the"
+ },
+ {
+  "start": 1015.76,
+  "duration": 3.36,
+  "text": "Codex team.\" But I would say that others"
+ },
+ {
+  "start": 1017.96,
+  "duration": 3.64,
+  "text": "who weren't as concerned with the"
+ },
+ {
+  "start": 1019.12,
+  "duration": 4.04,
+  "text": "comparison to Codex did seem to think"
+ },
+ {
+  "start": 1021.6,
+  "duration": 3.88,
+  "text": "that at least on first glance,"
+ },
+ {
+  "start": 1023.16,
+  "duration": 5.72,
+  "text": "antigravity had evolved in the way that"
+ },
+ {
+  "start": 1025.48,
+  "duration": 5.2,
+  "text": "an Agentic harness needed to evolve."
+ },
+ {
+  "start": 1028.88,
+  "duration": 3.68,
+  "text": "Antigravity 2.0 is interesting because"
+ },
+ {
+  "start": 1030.68,
+  "duration": 4.84,
+  "text": "it no longer feels like Google made an"
+ },
+ {
+  "start": 1032.56,
+  "duration": 5.48,
+  "text": "AI IDE. Antigravity 1.0 was the full"
+ },
+ {
+  "start": 1035.52,
+  "duration": 4.439,
+  "text": "IDE, editor, terminal, browser, agent"
+ },
+ {
+  "start": 1038.04,
+  "duration": 3.039,
+  "text": "workspace. Basically, Google's take on"
+ },
+ {
+  "start": 1039.959,
+  "duration": 3.281,
+  "text": "agentic coding as a complete"
+ },
+ {
+  "start": 1041.079,
+  "duration": 4.081,
+  "text": "environment. 2.0 feels more like they"
+ },
+ {
+  "start": 1043.24,
+  "duration": 3.76,
+  "text": "pulled the agent system out of the IDE"
+ },
+ {
+  "start": 1045.16,
+  "duration": 4.32,
+  "text": "and made it the product. It feels more"
+ },
+ {
+  "start": 1047.0,
+  "duration": 4.56,
+  "text": "like the Codex app, desktop app, CLI,"
+ },
+ {
+  "start": 1049.48,
+  "duration": 3.88,
+  "text": "SDK, managed agents, scheduled tasks,"
+ },
+ {
+  "start": 1051.56,
+  "duration": 4.12,
+  "text": "sub-agents, integration with AI Studio,"
+ },
+ {
+  "start": 1053.36,
+  "duration": 3.52,
+  "text": "Android, and Firebase. The IDE is still"
+ },
+ {
+  "start": 1055.68,
+  "duration": 3.68,
+  "text": "there, but it's no longer the main"
+ },
+ {
+  "start": 1056.88,
+  "duration": 4.56,
+  "text": "story. The agent layer is."
+ },
+ {
+  "start": 1059.36,
+  "duration": 4.12,
+  "text": "What I certainly didn't see is anyone"
+ },
+ {
+  "start": 1061.44,
+  "duration": 4.08,
+  "text": "arguing that it had surpassed Claude"
+ },
+ {
+  "start": 1063.48,
+  "duration": 3.8,
+  "text": "Coder Codex in any way. So, if we're"
+ },
+ {
+  "start": 1065.52,
+  "duration": 3.72,
+  "text": "keeping track of the score, at best you"
+ },
+ {
+  "start": 1067.28,
+  "duration": 3.68,
+  "text": "have to say that we did get a meaningful"
+ },
+ {
+  "start": 1069.24,
+  "duration": 3.28,
+  "text": "agentic harness upgrade that at least"
+ },
+ {
+  "start": 1070.96,
+  "duration": 3.44,
+  "text": "sort of brings Google into the realm of"
+ },
+ {
+  "start": 1072.52,
+  "duration": 4.64,
+  "text": "parity. So, what then about the model"
+ },
+ {
+  "start": 1074.4,
+  "duration": 4.64,
+  "text": "side? The new model premiered was 3.5"
+ },
+ {
+  "start": 1077.16,
+  "duration": 3.76,
+  "text": "Flash. There was no pro version, they"
+ },
+ {
+  "start": 1079.04,
+  "duration": 3.92,
+  "text": "say that's coming later, just the flash"
+ },
+ {
+  "start": 1080.92,
+  "duration": 4.0,
+  "text": "version, and as you'll see, flash"
+ },
+ {
+  "start": 1082.96,
+  "duration": 3.88,
+  "text": "doesn't exactly mean what it used to. Or"
+ },
+ {
+  "start": 1084.92,
+  "duration": 4.2,
+  "text": "at least, to the extent that flash used"
+ },
+ {
+  "start": 1086.84,
+  "duration": 4.68,
+  "text": "to be about both speed and cost, it is"
+ },
+ {
+  "start": 1089.12,
+  "duration": 4.36,
+  "text": "definitely more about speed now. Now,"
+ },
+ {
+  "start": 1091.52,
+  "duration": 3.48,
+  "text": "just going by the benchmarks, it does"
+ },
+ {
+  "start": 1093.48,
+  "duration": 4.12,
+  "text": "seem like this is now Google's most"
+ },
+ {
+  "start": 1095.0,
+  "duration": 5.12,
+  "text": "powerful model. It scored 76.2% on"
+ },
+ {
+  "start": 1097.6,
+  "duration": 5.6,
+  "text": "Terminal Bench 2.0 compared to 70.3% for"
+ },
+ {
+  "start": 1100.12,
+  "duration": 5.6,
+  "text": "Gemini 3.1 Pro, but beating Opus 4.7 but"
+ },
+ {
+  "start": 1103.2,
+  "duration": 4.96,
+  "text": "falling short of GPT 5.5. On SweepBench"
+ },
+ {
+  "start": 1105.72,
+  "duration": 4.52,
+  "text": "Pro, it scored a 55.1%,"
+ },
+ {
+  "start": 1108.16,
+  "duration": 4.24,
+  "text": "which was a slight jump over Gemini 3.1"
+ },
+ {
+  "start": 1110.24,
+  "duration": 4.12,
+  "text": "Pro, but still significantly behind 5.5"
+ },
+ {
+  "start": 1112.4,
+  "duration": 4.4,
+  "text": "and Opus 4.7. On certain agentic"
+ },
+ {
+  "start": 1114.36,
+  "duration": 3.8,
+  "text": "benchmarks, Gemini 3.5 Flash appears by"
+ },
+ {
+  "start": 1116.8,
+  "duration": 2.92,
+  "text": "the numbers state of the art. For the"
+ },
+ {
+  "start": 1118.16,
+  "duration": 3.8,
+  "text": "computer use benchmark OS World, the"
+ },
+ {
+  "start": 1119.72,
+  "duration": 4.04,
+  "text": "model is neck and neck with 5.5 and 4.7."
+ },
+ {
+  "start": 1121.96,
+  "duration": 3.48,
+  "text": "On GDP val, which is a measure of"
+ },
+ {
+  "start": 1123.76,
+  "duration": 3.52,
+  "text": "economically valuable real-world"
+ },
+ {
+  "start": 1125.44,
+  "duration": 2.88,
+  "text": "knowledge work tasks, it is not close to"
+ },
+ {
+  "start": 1127.28,
+  "duration": 3.8,
+  "text": "the state of the art, but still a"
+ },
+ {
+  "start": 1128.32,
+  "duration": 4.64,
+  "text": "significant jump from Gemini 3.1 Pro."
+ },
+ {
+  "start": 1131.08,
+  "duration": 3.48,
+  "text": "Generally, by the benchmarks, it looks"
+ },
+ {
+  "start": 1132.96,
+  "duration": 3.84,
+  "text": "like the model is going to be competent,"
+ },
+ {
+  "start": 1134.56,
+  "duration": 4.56,
+  "text": "but not nestled up against Opus 4.7 and"
+ },
+ {
+  "start": 1136.8,
+  "duration": 3.4,
+  "text": "5.5 as truly cross-the-board state of"
+ },
+ {
+  "start": 1139.12,
+  "duration": 2.96,
+  "text": "the art."
+ },
+ {
+  "start": 1140.2,
+  "duration": 3.68,
+  "text": "Of course, raw intelligence was never"
+ },
+ {
+  "start": 1142.08,
+  "duration": 3.16,
+  "text": "the focus of previous flash models,"
+ },
+ {
+  "start": 1143.88,
+  "duration": 3.68,
+  "text": "which were always, as I said, about"
+ },
+ {
+  "start": 1145.24,
+  "duration": 4.72,
+  "text": "speed and cost. And in this case, they"
+ },
+ {
+  "start": 1147.56,
+  "duration": 4.64,
+  "text": "definitely wanted to hammer the speed."
+ },
+ {
+  "start": 1149.96,
+  "duration": 4.08,
+  "text": "3.5 Flash is around three times faster"
+ },
+ {
+  "start": 1152.2,
+  "duration": 4.24,
+  "text": "than 3.1 Pro while delivering similar"
+ },
+ {
+  "start": 1154.04,
+  "duration": 4.56,
+  "text": "performance. It's also around 60% faster"
+ },
+ {
+  "start": 1156.44,
+  "duration": 4.6,
+  "text": "than three flash. The problem is that"
+ },
+ {
+  "start": 1158.6,
+  "duration": 4.48,
+  "text": "it's not all that inexpensive. The cost"
+ },
+ {
+  "start": 1161.04,
+  "duration": 4.2,
+  "text": "is about a 3x increase since the last"
+ },
+ {
+  "start": 1163.08,
+  "duration": 4.44,
+  "text": "flash model and about a 20x increase"
+ },
+ {
+  "start": 1165.24,
+  "duration": 4.16,
+  "text": "since 2.0 flash and the cost to run many"
+ },
+ {
+  "start": 1167.52,
+  "duration": 3.8,
+  "text": "of the big benchmark tests like those"
+ },
+ {
+  "start": 1169.4,
+  "duration": 3.96,
+  "text": "from artificial analysis were actually"
+ },
+ {
+  "start": 1171.32,
+  "duration": 5.12,
+  "text": "higher than other models like Gemini 3.1"
+ },
+ {
+  "start": 1173.36,
+  "duration": 4.96,
+  "text": "Pro and even GPT 5.5 medium."
+ },
+ {
+  "start": 1176.44,
+  "duration": 4.0,
+  "text": "People that had early access described"
+ },
+ {
+  "start": 1178.32,
+  "duration": 4.52,
+  "text": "it as a little strange. Peter Gostev"
+ },
+ {
+  "start": 1180.44,
+  "duration": 4.12,
+  "text": "wrote, \"It's a pretty weird release. It"
+ },
+ {
+  "start": 1182.84,
+  "duration": 3.48,
+  "text": "does way more than what you asked for."
+ },
+ {
+  "start": 1184.56,
+  "duration": 3.52,
+  "text": "It sometimes generates best-in-class"
+ },
+ {
+  "start": 1186.32,
+  "duration": 3.6,
+  "text": "stuff, but sometimes crashes out and"
+ },
+ {
+  "start": 1188.08,
+  "duration": 3.32,
+  "text": "does something strange. It can be decent"
+ },
+ {
+  "start": 1189.92,
+  "duration": 3.08,
+  "text": "at games, but weaker than 3.1 in"
+ },
+ {
+  "start": 1191.4,
+  "duration": 3.28,
+  "text": "controls. While it is good at things"
+ },
+ {
+  "start": 1193.0,
+  "duration": 3.36,
+  "text": "like 3D worlds, it is really quite bad"
+ },
+ {
+  "start": 1194.68,
+  "duration": 3.48,
+  "text": "at web UI, worse than open-source"
+ },
+ {
+  "start": 1196.36,
+  "duration": 3.36,
+  "text": "models. The pricing, of course, is the"
+ },
+ {
+  "start": 1198.16,
+  "duration": 3.48,
+  "text": "weird bit. It went up to pretty much"
+ },
+ {
+  "start": 1199.72,
+  "duration": 3.6,
+  "text": "become a pro model, so losing a lot of"
+ },
+ {
+  "start": 1201.64,
+  "duration": 4.04,
+  "text": "what flash was known and loved for.\""
+ },
+ {
+  "start": 1203.32,
+  "duration": 5.08,
+  "text": "Simon Smith writes, \"Initial experience"
+ },
+ {
+  "start": 1205.68,
+  "duration": 5.52,
+  "text": "with Gemini 3.5 flash, smart, crazy"
+ },
+ {
+  "start": 1208.4,
+  "duration": 4.48,
+  "text": "fast, but quite verbose. Example, I"
+ },
+ {
+  "start": 1211.2,
+  "duration": 3.64,
+  "text": "highlighted some text I wrote and asked,"
+ },
+ {
+  "start": 1212.88,
+  "duration": 5.2,
+  "text": "'Does this make sense?' The reply was"
+ },
+ {
+  "start": 1214.84,
+  "duration": 4.8,
+  "text": "568 words and included a legal analysis."
+ },
+ {
+  "start": 1218.08,
+  "duration": 3.56,
+  "text": "And this doesn't seem to be an isolated"
+ },
+ {
+  "start": 1219.64,
+  "duration": 4.4,
+  "text": "experience. When you go look at the"
+ },
+ {
+  "start": 1221.64,
+  "duration": 4.28,
+  "text": "output tokens that were used to run the"
+ },
+ {
+  "start": 1224.04,
+  "duration": 3.92,
+  "text": "artificial analysis intelligence index"
+ },
+ {
+  "start": 1225.92,
+  "duration": 4.56,
+  "text": "tests, which is basically a proxy for"
+ },
+ {
+  "start": 1227.96,
+  "duration": 4.52,
+  "text": "token efficiency, while 3.5 flash is"
+ },
+ {
+  "start": 1230.48,
+  "duration": 3.96,
+  "text": "nowhere near the top of the most token"
+ },
+ {
+  "start": 1232.48,
+  "duration": 4.96,
+  "text": "hungry reasoning models, it is less"
+ },
+ {
+  "start": 1234.44,
+  "duration": 5.6,
+  "text": "token efficient than 3.1 Pro and in fact"
+ },
+ {
+  "start": 1237.44,
+  "duration": 4.88,
+  "text": "less token efficient than any GPT 5.5"
+ },
+ {
+  "start": 1240.04,
+  "duration": 4.44,
+  "text": "model except extra high, where it's in a"
+ },
+ {
+  "start": 1242.32,
+  "duration": 3.88,
+  "text": "very similar range. It used about three"
+ },
+ {
+  "start": 1244.48,
+  "duration": 4.96,
+  "text": "and a half times more tokens for those"
+ },
+ {
+  "start": 1246.2,
+  "duration": 5.08,
+  "text": "tests than GPT 5.5 medium, which as many"
+ },
+ {
+  "start": 1249.44,
+  "duration": 3.36,
+  "text": "are starting to point out is kind of an"
+ },
+ {
+  "start": 1251.28,
+  "duration": 3.6,
+  "text": "indictment of the value proposition of"
+ },
+ {
+  "start": 1252.8,
+  "duration": 3.56,
+  "text": "speed and cost. If you're really fast,"
+ },
+ {
+  "start": 1254.88,
+  "duration": 2.84,
+  "text": "but it takes you three and a half times"
+ },
+ {
+  "start": 1256.36,
+  "duration": 2.8,
+  "text": "as many tokens to get to the same"
+ },
+ {
+  "start": 1257.72,
+  "duration": 3.64,
+  "text": "answer, that cuts into a lot of the"
+ },
+ {
+  "start": 1259.16,
+  "duration": 5.12,
+  "text": "speed gains and it also eats alive any"
+ },
+ {
+  "start": 1261.36,
+  "duration": 4.8,
+  "text": "cost gains.\" Theo from T3 wrote, \"The"
+ },
+ {
+  "start": 1264.28,
+  "duration": 3.92,
+  "text": "result of this is it costs two times"
+ },
+ {
+  "start": 1266.16,
+  "duration": 4.04,
+  "text": "more to run than Gemini 3.1 Pro on"
+ },
+ {
+  "start": 1268.2,
+  "duration": 4.04,
+  "text": "similar tasks. It's more expensive than"
+ },
+ {
+  "start": 1270.2,
+  "duration": 3.76,
+  "text": "GPT-5.5 medium."
+ },
+ {
+  "start": 1272.24,
+  "duration": 3.76,
+  "text": "And in point of fact, the more that Theo"
+ },
+ {
+  "start": 1273.96,
+  "duration": 4.24,
+  "text": "used it, the less he liked the model. He"
+ },
+ {
+  "start": 1276.0,
+  "duration": 4.76,
+  "text": "posted a self-admitted crash out video"
+ },
+ {
+  "start": 1278.2,
+  "duration": 4.48,
+  "text": "about just how badly it performed on"
+ },
+ {
+  "start": 1280.76,
+  "duration": 3.36,
+  "text": "actual agentic tasks that he tested it"
+ },
+ {
+  "start": 1282.68,
+  "duration": 2.84,
+  "text": "on, which is certainly the most"
+ },
+ {
+  "start": 1284.12,
+  "duration": 3.6,
+  "text": "problematic on top of all these other"
+ },
+ {
+  "start": 1285.52,
+  "duration": 3.88,
+  "text": "issues. Tenebrous writes,"
+ },
+ {
+  "start": 1287.72,
+  "duration": 4.36,
+  "text": "\"So far pretty negative impression of"
+ },
+ {
+  "start": 1289.4,
+  "duration": 4.36,
+  "text": "3.5 flash. It is very fast in terms of"
+ },
+ {
+  "start": 1292.08,
+  "duration": 3.24,
+  "text": "token output, but this basically doesn't"
+ },
+ {
+  "start": 1293.76,
+  "duration": 3.28,
+  "text": "matter because it explodes in a huge"
+ },
+ {
+  "start": 1295.32,
+  "duration": 3.68,
+  "text": "avalanche of unnecessary tool calls on"
+ },
+ {
+  "start": 1297.04,
+  "duration": 3.32,
+  "text": "basically every task. When it gets stuck"
+ },
+ {
+  "start": 1299.0,
+  "duration": 3.08,
+  "text": "on something, it seems to pretty much"
+ },
+ {
+  "start": 1300.36,
+  "duration": 3.12,
+  "text": "never pause or ask for help. It just"
+ },
+ {
+  "start": 1302.08,
+  "duration": 3.56,
+  "text": "kind of keeps steamrolling ahead and"
+ },
+ {
+  "start": 1303.48,
+  "duration": 4.0,
+  "text": "flailing. Frequently hallucinated fake"
+ },
+ {
+  "start": 1305.64,
+  "duration": 4.08,
+  "text": "acronym expansions, writing quality is"
+ },
+ {
+  "start": 1307.48,
+  "duration": 4.2,
+  "text": "mid to bad, tons of emoji slop, actual"
+ },
+ {
+  "start": 1309.72,
+  "duration": 3.4,
+  "text": "code quality is Sonic tier. This is a"
+ },
+ {
+  "start": 1311.68,
+  "duration": 3.24,
+  "text": "very early vibe check. I could be"
+ },
+ {
+  "start": 1313.12,
+  "duration": 3.08,
+  "text": "missing things, but even the initial use"
+ },
+ {
+  "start": 1314.92,
+  "duration": 3.0,
+  "text": "case of super quick code base"
+ },
+ {
+  "start": 1316.2,
+  "duration": 3.2,
+  "text": "exploration sub agent is pretty quickly"
+ },
+ {
+  "start": 1317.92,
+  "duration": 2.96,
+  "text": "dissolving for me because it's not"
+ },
+ {
+  "start": 1319.4,
+  "duration": 3.48,
+  "text": "actually smart enough to be quick about"
+ },
+ {
+  "start": 1320.88,
+  "duration": 3.92,
+  "text": "it. All in all, definitely not what"
+ },
+ {
+  "start": 1322.88,
+  "duration": 3.64,
+  "text": "Google needed to drop.\" And"
+ },
+ {
+  "start": 1324.8,
+  "duration": 3.36,
+  "text": "interestingly, zooming out a bit, the"
+ },
+ {
+  "start": 1326.52,
+  "duration": 4.2,
+  "text": "decision to focus so much of the"
+ },
+ {
+  "start": 1328.16,
+  "duration": 4.72,
+  "text": "messaging around speed seems kind of out"
+ },
+ {
+  "start": 1330.72,
+  "duration": 3.68,
+  "text": "of sync with the reality that speed is"
+ },
+ {
+  "start": 1332.88,
+  "duration": 3.52,
+  "text": "not the big thing that's an issue for"
+ },
+ {
+  "start": 1334.4,
+  "duration": 3.6,
+  "text": "developers right now. That issue is, of"
+ },
+ {
+  "start": 1336.4,
+  "duration": 2.88,
+  "text": "course, cost."
+ },
+ {
+  "start": 1338.0,
+  "duration": 2.88,
+  "text": "One of the questions that I had coming"
+ },
+ {
+  "start": 1339.28,
+  "duration": 3.16,
+  "text": "into this was whether Google would lean"
+ },
+ {
+  "start": 1340.88,
+  "duration": 3.2,
+  "text": "all the way into the potential to"
+ },
+ {
+  "start": 1342.44,
+  "duration": 3.8,
+  "text": "compete not on the full state of the"
+ },
+ {
+  "start": 1344.08,
+  "duration": 3.88,
+  "text": "art, but on a much more token efficient,"
+ },
+ {
+  "start": 1346.24,
+  "duration": 3.36,
+  "text": "lower priced model. And although that's"
+ },
+ {
+  "start": 1347.96,
+  "duration": 3.64,
+  "text": "kind of what you would assume a 3.5"
+ },
+ {
+  "start": 1349.6,
+  "duration": 3.48,
+  "text": "{quote} flash model would bring, that's"
+ },
+ {
+  "start": 1351.6,
+  "duration": 2.72,
+  "text": "not exactly how it appears in the real"
+ },
+ {
+  "start": 1353.08,
+  "duration": 2.28,
+  "text": "world."
+ },
+ {
+  "start": 1354.32,
+  "duration": 2.64,
+  "text": "Now, there was some quiet"
+ },
+ {
+  "start": 1355.36,
+  "duration": 3.0,
+  "text": "acknowledgement of the same sort of"
+ },
+ {
+  "start": 1356.96,
+  "duration": 2.96,
+  "text": "forces that are changing business models"
+ },
+ {
+  "start": 1358.36,
+  "duration": 3.0,
+  "text": "everywhere else. Google made hay about"
+ },
+ {
+  "start": 1359.92,
+  "duration": 4.36,
+  "text": "the fact that they had dropped the price"
+ },
+ {
+  "start": 1361.36,
+  "duration": 5.52,
+  "text": "of Ultra from $250 to $200 a month, as"
+ },
+ {
+  "start": 1364.28,
+  "duration": 4.56,
+  "text": "well as offering a new $100 plan. But in"
+ },
+ {
+  "start": 1366.88,
+  "duration": 3.96,
+  "text": "an email describing the changes, which I"
+ },
+ {
+  "start": 1368.84,
+  "duration": 3.4,
+  "text": "got as an Ultra user, they also wrote"
+ },
+ {
+  "start": 1370.84,
+  "duration": 3.48,
+  "text": "that the Ultra plan would now include,"
+ },
+ {
+  "start": 1372.24,
+  "duration": 3.64,
+  "text": "{quote} \"compute-based usage limits that"
+ },
+ {
+  "start": 1374.32,
+  "duration": 2.84,
+  "text": "factor in the complexity of your prompt,"
+ },
+ {
+  "start": 1375.88,
+  "duration": 3.76,
+  "text": "the features you use, and the length of"
+ },
+ {
+  "start": 1377.16,
+  "duration": 4.04,
+  "text": "your chat.\" In addition, agentic tools,"
+ },
+ {
+  "start": 1379.64,
+  "duration": 3.12,
+  "text": "including the flow design platform and"
+ },
+ {
+  "start": 1381.2,
+  "duration": 3.36,
+  "text": "anti-gravity, would now switch to a"
+ },
+ {
+  "start": 1382.76,
+  "duration": 3.44,
+  "text": "usage limit model. Basically, while"
+ },
+ {
+  "start": 1384.56,
+  "duration": 3.16,
+  "text": "they're bringing down the base price,"
+ },
+ {
+  "start": 1386.2,
+  "duration": 3.24,
+  "text": "you are now in certain instances going"
+ },
+ {
+  "start": 1387.72,
+  "duration": 3.52,
+  "text": "to have to pay on a usage basis when you"
+ },
+ {
+  "start": 1389.44,
+  "duration": 3.44,
+  "text": "didn't before. Now, this I don't think"
+ },
+ {
+  "start": 1391.24,
+  "duration": 2.92,
+  "text": "is an indictment of Google or anything."
+ },
+ {
+  "start": 1392.88,
+  "duration": 2.84,
+  "text": "In fact, it's an acknowledgement of"
+ },
+ {
+  "start": 1394.16,
+  "duration": 3.4,
+  "text": "where everything is going, but it does"
+ },
+ {
+  "start": 1395.72,
+  "duration": 3.28,
+  "text": "make the decision to focus so much on"
+ },
+ {
+  "start": 1397.56,
+  "duration": 3.56,
+  "text": "speed as the big competitive"
+ },
+ {
+  "start": 1399.0,
+  "duration": 3.76,
+  "text": "differentiator of 3.5 all the more"
+ },
+ {
+  "start": 1401.12,
+  "duration": 3.72,
+  "text": "questionable. I don't think it was any"
+ },
+ {
+  "start": 1402.76,
+  "duration": 4.0,
+  "text": "accident that on the same day Open AI"
+ },
+ {
+  "start": 1404.84,
+  "duration": 3.84,
+  "text": "introduced their new guaranteed capacity"
+ },
+ {
+  "start": 1406.76,
+  "duration": 4.16,
+  "text": "program, which is basically a way for"
+ },
+ {
+  "start": 1408.68,
+  "duration": 3.68,
+  "text": "customers to guarantee long-term access"
+ },
+ {
+  "start": 1410.92,
+  "duration": 3.32,
+  "text": "to compute even with even worse computer"
+ },
+ {
+  "start": 1412.36,
+  "duration": 2.96,
+  "text": "shortages on the horizon. And I will say"
+ },
+ {
+  "start": 1414.24,
+  "duration": 3.2,
+  "text": "that even though they didn't seem to"
+ },
+ {
+  "start": 1415.32,
+  "duration": 4.2,
+  "text": "nail it at IO, I do think that this is"
+ },
+ {
+  "start": 1417.44,
+  "duration": 4.4,
+  "text": "still an opportunity for Google. Box is"
+ },
+ {
+  "start": 1419.52,
+  "duration": 4.04,
+  "text": "Aaron Levie writes, \"Token costs will"
+ },
+ {
+  "start": 1421.84,
+  "duration": 3.64,
+  "text": "become a dominant topic in enterprises"
+ },
+ {
+  "start": 1423.56,
+  "duration": 3.68,
+  "text": "going forward with AI. Just got out of a"
+ },
+ {
+  "start": 1425.48,
+  "duration": 3.88,
+  "text": "dinner with many Fortune 500 enterprise"
+ },
+ {
+  "start": 1427.24,
+  "duration": 4.0,
+  "text": "CIOs and this was the most heated topic."
+ },
+ {
+  "start": 1429.36,
+  "duration": 3.2,
+  "text": "A mix of strategies are being employed,"
+ },
+ {
+  "start": 1431.24,
+  "duration": 2.84,
+  "text": "but basically no one feels like they"
+ },
+ {
+  "start": 1432.56,
+  "duration": 2.8,
+  "text": "have the right solution. It's going to"
+ },
+ {
+  "start": 1434.08,
+  "duration": 2.68,
+  "text": "be a mix of figuring out how to"
+ },
+ {
+  "start": 1435.36,
+  "duration": 3.12,
+  "text": "prioritize workloads to different"
+ },
+ {
+  "start": 1436.76,
+  "duration": 3.32,
+  "text": "models, giving out access to better or"
+ },
+ {
+  "start": 1438.48,
+  "duration": 3.4,
+  "text": "worse agents by user type, setting"
+ },
+ {
+  "start": 1440.08,
+  "duration": 3.8,
+  "text": "different spend caps by team, having"
+ },
+ {
+  "start": 1441.88,
+  "duration": 3.76,
+  "text": "teams justify AI by their use case, and"
+ },
+ {
+  "start": 1443.88,
+  "duration": 3.52,
+  "text": "some just having unfettered access."
+ },
+ {
+  "start": 1445.64,
+  "duration": 3.32,
+  "text": "Everyone is trying to figure out a semi"
+ },
+ {
+  "start": 1447.4,
+  "duration": 3.2,
+  "text": "or predictable model right now in a"
+ },
+ {
+  "start": 1448.96,
+  "duration": 4.4,
+  "text": "world where the underlying tech and cost"
+ },
+ {
+  "start": 1450.6,
+  "duration": 4.72,
+  "text": "models are constantly evolving.\""
+ },
+ {
+  "start": 1453.36,
+  "duration": 3.76,
+  "text": "Overall, holding aside first reactions"
+ },
+ {
+  "start": 1455.32,
+  "duration": 3.8,
+  "text": "to anyone product or the model that was"
+ },
+ {
+  "start": 1457.12,
+  "duration": 3.72,
+  "text": "announced, there were two big strands in"
+ },
+ {
+  "start": 1459.12,
+  "duration": 5.6,
+  "text": "the sentiment that I saw."
+ },
+ {
+  "start": 1460.84,
+  "duration": 5.96,
+  "text": "The first was OMG product sprawl."
+ },
+ {
+  "start": 1464.72,
+  "duration": 3.28,
+  "text": "Simon Smith again writes, \"The barrage"
+ },
+ {
+  "start": 1466.8,
+  "duration": 3.36,
+  "text": "of Google announcements today are"
+ },
+ {
+  "start": 1468.0,
+  "duration": 3.6,
+  "text": "exciting, but also confusing. So, now"
+ },
+ {
+  "start": 1470.16,
+  "duration": 2.6,
+  "text": "there's Google Images, Google Photos,"
+ },
+ {
+  "start": 1471.6,
+  "duration": 2.96,
+  "text": "and Google Pix, and there's"
+ },
+ {
+  "start": 1472.76,
+  "duration": 3.48,
+  "text": "anti-gravity, but also Spark.\" In"
+ },
+ {
+  "start": 1474.56,
+  "duration": 3.76,
+  "text": "another post he followed up,"
+ },
+ {
+  "start": 1476.24,
+  "duration": 3.76,
+  "text": "\"My head is spinning from Google IO. It"
+ },
+ {
+  "start": 1478.32,
+  "duration": 4.36,
+  "text": "leads me to a request for Open AI and"
+ },
+ {
+  "start": 1480.0,
+  "duration": 4.24,
+  "text": "Anthropic. Please avoid sprawl. Just"
+ },
+ {
+  "start": 1482.68,
+  "duration": 2.84,
+  "text": "give me a single powerful agentic tool"
+ },
+ {
+  "start": 1484.24,
+  "duration": 3.0,
+  "text": "like Codex or Co-work through which I"
+ },
+ {
+  "start": 1485.52,
+  "duration": 3.08,
+  "text": "can do everything. I don't want to have"
+ },
+ {
+  "start": 1487.24,
+  "duration": 3.16,
+  "text": "to think about whether to use Spark or"
+ },
+ {
+  "start": 1488.6,
+  "duration": 3.8,
+  "text": "anti-gravity or AI Studio or Flow or"
+ },
+ {
+  "start": 1490.4,
+  "duration": 3.32,
+  "text": "Pameli or Pix. I accept that these may"
+ },
+ {
+  "start": 1492.4,
+  "duration": 2.36,
+  "text": "meet the needs of different users and"
+ },
+ {
+  "start": 1493.72,
+  "duration": 2.96,
+  "text": "Google knows how to run a killer"
+ },
+ {
+  "start": 1494.76,
+  "duration": 3.4,
+  "text": "business, but personally, I just want"
+ },
+ {
+  "start": 1496.68,
+  "duration": 3.52,
+  "text": "one interface to rule them all and I'm"
+ },
+ {
+  "start": 1498.16,
+  "duration": 3.24,
+  "text": "willing to pay for that simplicity."
+ },
+ {
+  "start": 1500.2,
+  "duration": 3.4,
+  "text": "Moving outside of just the pure and"
+ },
+ {
+  "start": 1501.4,
+  "duration": 3.2,
+  "text": "franchise AI circle, Marques Brownlee"
+ },
+ {
+  "start": 1503.6,
+  "duration": 2.56,
+  "text": "writes,"
+ },
+ {
+  "start": 1504.6,
+  "duration": 2.8,
+  "text": "\"It's getting genuinely difficult to"
+ },
+ {
+  "start": 1506.16,
+  "duration": 2.92,
+  "text": "keep track of all the names of AI"
+ },
+ {
+  "start": 1507.4,
+  "duration": 3.4,
+  "text": "products being unveiled. In the last"
+ },
+ {
+  "start": 1509.08,
+  "duration": 3.56,
+  "text": "hour, Google unveiled Google pics, which"
+ },
+ {
+  "start": 1510.8,
+  "duration": 3.76,
+  "text": "is not Google photos, and updates to"
+ },
+ {
+  "start": 1512.64,
+  "duration": 3.36,
+  "text": "Google flow, nano banana, VO, which are"
+ },
+ {
+  "start": 1514.56,
+  "duration": 3.48,
+  "text": "all media generation, Google"
+ },
+ {
+  "start": 1516.0,
+  "duration": 4.64,
+  "text": "anti-gravity, Gemini spark, Gemini Omni,"
+ },
+ {
+  "start": 1518.04,
+  "duration": 4.16,
+  "text": "Gemini 3.5 flash.\" Nathan Clark summed"
+ },
+ {
+  "start": 1520.64,
+  "duration": 3.96,
+  "text": "up with his tongue firmly buried in his"
+ },
+ {
+  "start": 1522.2,
+  "duration": 4.4,
+  "text": "cheek, \"It's in Gemini. Just created an"
+ },
+ {
+  "start": 1524.6,
+  "duration": 3.72,
+  "text": "AI studio. Oh, that's for your personal"
+ },
+ {
+  "start": 1526.6,
+  "duration": 3.64,
+  "text": "Google One account. For workspace, you"
+ },
+ {
+  "start": 1528.32,
+  "duration": 3.72,
+  "text": "need Gemini business. No, not Gemini"
+ },
+ {
+  "start": 1530.24,
+  "duration": 3.88,
+  "text": "advanced, that's AI pro now. Unless you"
+ },
+ {
+  "start": 1532.04,
+  "duration": 3.8,
+  "text": "need AI ultra. Oh, agents, you do that"
+ },
+ {
+  "start": 1534.12,
+  "duration": 3.68,
+  "text": "in spark actually. For coding, use"
+ },
+ {
+  "start": 1535.84,
+  "duration": 3.76,
+  "text": "jewels. Unless you mean the agentic IDE,"
+ },
+ {
+  "start": 1537.8,
+  "duration": 3.32,
+  "text": "that's anti-gravity. No, that's the old"
+ },
+ {
+  "start": 1539.6,
+  "duration": 2.96,
+  "text": "anti-gravity, download the new one."
+ },
+ {
+  "start": 1541.12,
+  "duration": 3.64,
+  "text": "Actually, Gemini CLI is being"
+ },
+ {
+  "start": 1542.56,
+  "duration": 3.56,
+  "text": "deprecated, use anti-gravity CLI. No,"
+ },
+ {
+  "start": 1544.76,
+  "duration": 3.0,
+  "text": "the flash model is smarter than the pro"
+ },
+ {
+  "start": 1546.12,
+  "duration": 3.96,
+  "text": "model, unless you need pro. If it's"
+ },
+ {
+  "start": 1547.76,
+  "duration": 3.96,
+  "text": "video, use flow. No, flow uses VO."
+ },
+ {
+  "start": 1550.08,
+  "duration": 3.32,
+  "text": "Actually, that's in Gemini now. Unless"
+ },
+ {
+  "start": 1551.72,
+  "duration": 3.64,
+  "text": "you're in search, then it's AI mode. No,"
+ },
+ {
+  "start": 1553.4,
+  "duration": 3.36,
+  "text": "research is notebook LM. Anyway, it's"
+ },
+ {
+  "start": 1555.36,
+  "duration": 3.76,
+  "text": "all very simple.\""
+ },
+ {
+  "start": 1556.76,
+  "duration": 4.24,
+  "text": "So, that is one take, that even if these"
+ },
+ {
+  "start": 1559.12,
+  "duration": 3.48,
+  "text": "products are good, everyone is left"
+ },
+ {
+  "start": 1561.0,
+  "duration": 4.16,
+  "text": "confused."
+ },
+ {
+  "start": 1562.6,
+  "duration": 4.44,
+  "text": "The other take though, is that it might"
+ },
+ {
+  "start": 1565.16,
+  "duration": 4.8,
+  "text": "not matter."
+ },
+ {
+  "start": 1567.04,
+  "duration": 5.48,
+  "text": "The sheer surface area that Google has"
+ },
+ {
+  "start": 1569.96,
+  "duration": 4.32,
+  "text": "with its users, the total amount of"
+ },
+ {
+  "start": 1572.52,
+  "duration": 4.12,
+  "text": "digital interactions where we already"
+ },
+ {
+  "start": 1574.28,
+  "duration": 4.92,
+  "text": "interface with Google, may just mean"
+ },
+ {
+  "start": 1576.64,
+  "duration": 4.32,
+  "text": "that product sprawl that puts the right"
+ },
+ {
+  "start": 1579.2,
+  "duration": 3.64,
+  "text": "version of the thing in the right place"
+ },
+ {
+  "start": 1580.96,
+  "duration": 3.68,
+  "text": "where someone's already interacting is"
+ },
+ {
+  "start": 1582.84,
+  "duration": 3.64,
+  "text": "for the average consumer all that's"
+ },
+ {
+  "start": 1584.64,
+  "duration": 3.24,
+  "text": "going to matter. And on that front, it's"
+ },
+ {
+  "start": 1586.48,
+  "duration": 3.48,
+  "text": "hard to argue with some of the numbers"
+ },
+ {
+  "start": 1587.88,
+  "duration": 4.04,
+  "text": "we got yesterday. The Gemini app has"
+ },
+ {
+  "start": 1589.96,
+  "duration": 4.32,
+  "text": "jumped from 400 million monthly active"
+ },
+ {
+  "start": 1591.92,
+  "duration": 4.44,
+  "text": "users back in May last year to 900"
+ },
+ {
+  "start": 1594.28,
+  "duration": 3.48,
+  "text": "million users last month in April. In"
+ },
+ {
+  "start": 1596.36,
+  "duration": 3.64,
+  "text": "that same period of time, the number of"
+ },
+ {
+  "start": 1597.76,
+  "duration": 4.52,
+  "text": "monthly tokens processed across all of"
+ },
+ {
+  "start": 1600.0,
+  "duration": 6.0,
+  "text": "their surfaces has jumped from 480"
+ },
+ {
+  "start": 1602.28,
+  "duration": 4.92,
+  "text": "trillion to 3.2 quadrillion per month."
+ },
+ {
+  "start": 1606.0,
+  "duration": 4.0,
+  "text": "And there's also that point about the"
+ },
+ {
+  "start": 1607.2,
+  "duration": 4.96,
+  "text": "open lane. Peter Yang wrote, \"I feel"
+ },
+ {
+  "start": 1610.0,
+  "duration": 3.76,
+  "text": "like Google is going to win consumer AI."
+ },
+ {
+  "start": 1612.16,
+  "duration": 3.8,
+  "text": "It's the only US lab that's building"
+ },
+ {
+  "start": 1613.76,
+  "duration": 3.88,
+  "text": "video models and consumers love video."
+ },
+ {
+  "start": 1615.96,
+  "duration": 3.64,
+  "text": "EG Tik Tok and YouTube is far more"
+ },
+ {
+  "start": 1617.64,
+  "duration": 3.44,
+  "text": "popular than text-based platforms. The"
+ },
+ {
+  "start": 1619.6,
+  "duration": 2.92,
+  "text": "only real competition is C dance and"
+ },
+ {
+  "start": 1621.08,
+  "duration": 3.72,
+  "text": "other video models that don't care about"
+ },
+ {
+  "start": 1622.52,
+  "duration": 3.6,
+  "text": "copyright. Farzad writes,"
+ },
+ {
+  "start": 1624.8,
+  "duration": 3.04,
+  "text": "\"I think Google just won the consumer"
+ },
+ {
+  "start": 1626.12,
+  "duration": 3.52,
+  "text": "market for AI. Here's what I think is"
+ },
+ {
+  "start": 1627.84,
+  "duration": 3.56,
+  "text": "going to happen. Anthropic, the best"
+ },
+ {
+  "start": 1629.64,
+  "duration": 3.16,
+  "text": "models for running businesses. Google,"
+ },
+ {
+  "start": 1631.4,
+  "duration": 3.16,
+  "text": "the best models for everyday people and"
+ },
+ {
+  "start": 1632.8,
+  "duration": 3.92,
+  "text": "creatives. SpaceX, the biggest"
+ },
+ {
+  "start": 1634.56,
+  "duration": 3.4,
+  "text": "hyperscaler by far. OpenAI probably"
+ },
+ {
+  "start": 1636.72,
+  "duration": 2.32,
+  "text": "cooked unless they pull a rabbit out of"
+ },
+ {
+  "start": 1637.96,
+  "duration": 2.24,
+  "text": "a hat.\""
+ },
+ {
+  "start": 1639.04,
+  "duration": 2.48,
+  "text": "Now, a couple people asked whether he"
+ },
+ {
+  "start": 1640.2,
+  "duration": 2.88,
+  "text": "actually used these products or whether"
+ },
+ {
+  "start": 1641.52,
+  "duration": 2.84,
+  "text": "this was just an engagement tweet. But"
+ },
+ {
+  "start": 1643.08,
+  "duration": 3.04,
+  "text": "honestly, the fact that an engagement"
+ },
+ {
+  "start": 1644.36,
+  "duration": 3.2,
+  "text": "tweet is placing Google as the default"
+ },
+ {
+  "start": 1646.12,
+  "duration": 3.12,
+  "text": "winner of the consumer market says"
+ },
+ {
+  "start": 1647.56,
+  "duration": 2.76,
+  "text": "something in and of itself. Hater"
+ },
+ {
+  "start": 1649.24,
+  "duration": 2.8,
+  "text": "writes,"
+ },
+ {
+  "start": 1650.32,
+  "duration": 3.64,
+  "text": "\"Google has secured its ecosystem and is"
+ },
+ {
+  "start": 1652.04,
+  "duration": 3.52,
+  "text": "playing the long game. Gemini already"
+ },
+ {
+  "start": 1653.96,
+  "duration": 3.04,
+  "text": "powers search, workspace, and more. So,"
+ },
+ {
+  "start": 1655.56,
+  "duration": 3.64,
+  "text": "Google no longer needs to subsidize"
+ },
+ {
+  "start": 1657.0,
+  "duration": 3.56,
+  "text": "models to attract users. Gemini Omni may"
+ },
+ {
+  "start": 1659.2,
+  "duration": 2.48,
+  "text": "not be the best coding model, but it"
+ },
+ {
+  "start": 1660.56,
+  "duration": 3.32,
+  "text": "will become the base for future"
+ },
+ {
+  "start": 1661.68,
+  "duration": 3.32,
+  "text": "universal multimodal models.\""
+ },
+ {
+  "start": 1663.88,
+  "duration": 2.2,
+  "text": "And actually, as we start to round the"
+ },
+ {
+  "start": 1665.0,
+  "duration": 3.8,
+  "text": "corner, I want to bring it all the way"
+ },
+ {
+  "start": 1666.08,
+  "duration": 4.6,
+  "text": "back to Omni. Prakash at Pi wrote, \"The"
+ },
+ {
+  "start": 1668.8,
+  "duration": 4.16,
+  "text": "impression I got was that Demis Hassabis"
+ },
+ {
+  "start": 1670.68,
+  "duration": 3.84,
+  "text": "thinks AGI will require world models."
+ },
+ {
+  "start": 1672.96,
+  "duration": 3.84,
+  "text": "He's thinking of literally any input to"
+ },
+ {
+  "start": 1674.52,
+  "duration": 4.08,
+  "text": "any output models. Omni flash is a toy"
+ },
+ {
+  "start": 1676.8,
+  "duration": 3.2,
+  "text": "video model version of this. Demis's"
+ },
+ {
+  "start": 1678.6,
+  "duration": 2.72,
+  "text": "intention seems to be that Omni will"
+ },
+ {
+  "start": 1680.0,
+  "duration": 2.6,
+  "text": "eventually generate anything from"
+ },
+ {
+  "start": 1681.32,
+  "duration": 3.04,
+  "text": "construction blueprints to gene"
+ },
+ {
+  "start": 1682.6,
+  "duration": 3.36,
+  "text": "sequences. And with the rest of"
+ },
+ {
+  "start": 1684.36,
+  "duration": 3.36,
+  "text": "Prakash's tweet being about how they're"
+ },
+ {
+  "start": 1685.96,
+  "duration": 3.16,
+  "text": "now in the let a hundred flowers bloom"
+ },
+ {
+  "start": 1687.72,
+  "duration": 3.24,
+  "text": "phase and back to being a little"
+ },
+ {
+  "start": 1689.12,
+  "duration": 4.16,
+  "text": "disorganized, there's an interesting"
+ },
+ {
+  "start": 1690.96,
+  "duration": 4.64,
+  "text": "implication that the reason for that is"
+ },
+ {
+  "start": 1693.28,
+  "duration": 4.84,
+  "text": "that their AI leader Demis just doesn't"
+ },
+ {
+  "start": 1695.6,
+  "duration": 4.68,
+  "text": "care about the product fight.\""
+ },
+ {
+  "start": 1698.12,
+  "duration": 3.92,
+  "text": "So, fascinatingly, we're in a situation"
+ },
+ {
+  "start": 1700.28,
+  "duration": 3.44,
+  "text": "where Google may be the default consumer"
+ },
+ {
+  "start": 1702.04,
+  "duration": 3.44,
+  "text": "leader by virtue of their massive"
+ },
+ {
+  "start": 1703.72,
+  "duration": 3.56,
+  "text": "distribution and existing relationships"
+ },
+ {
+  "start": 1705.48,
+  "duration": 3.68,
+  "text": "with consumers, as well as the fact that"
+ },
+ {
+  "start": 1707.28,
+  "duration": 3.64,
+  "text": "OpenAI has clearly decided to go compete"
+ },
+ {
+  "start": 1709.16,
+  "duration": 4.0,
+  "text": "on enterprise, while also having their"
+ },
+ {
+  "start": 1710.92,
+  "duration": 4.44,
+  "text": "main leader not actually care about"
+ },
+ {
+  "start": 1713.16,
+  "duration": 4.28,
+  "text": "consumer products all that much."
+ },
+ {
+  "start": 1715.36,
+  "duration": 4.16,
+  "text": "For some, the gap between the AGI"
+ },
+ {
+  "start": 1717.44,
+  "duration": 3.32,
+  "text": "rhetoric at Demis's closing keynote,"
+ },
+ {
+  "start": 1719.52,
+  "duration": 3.12,
+  "text": "where he said we are standing in the"
+ },
+ {
+  "start": 1720.76,
+  "duration": 3.96,
+  "text": "foothills of the singularity, the gap"
+ },
+ {
+  "start": 1722.64,
+  "duration": 4.24,
+  "text": "between that and the demos that we got"
+ },
+ {
+  "start": 1724.72,
+  "duration": 3.76,
+  "text": "was fairly jarring. Even before the"
+ },
+ {
+  "start": 1726.88,
+  "duration": 2.96,
+  "text": "event, Prin summed up, \"Those who have"
+ },
+ {
+  "start": 1728.48,
+  "duration": 3.12,
+  "text": "been paying attention know that Demis"
+ },
+ {
+  "start": 1729.84,
+  "duration": 3.4,
+  "text": "Hassabis has been generally skeptical of"
+ },
+ {
+  "start": 1731.6,
+  "duration": 3.8,
+  "text": "the research direction being pursued by"
+ },
+ {
+  "start": 1733.24,
+  "duration": 3.52,
+  "text": "OpenAI and Anthropic, i.e., coding"
+ },
+ {
+  "start": 1735.4,
+  "duration": 2.6,
+  "text": "agents leading to acceleration and"
+ },
+ {
+  "start": 1736.76,
+  "duration": 3.0,
+  "text": "eventually full automation of AI"
+ },
+ {
+  "start": 1738.0,
+  "duration": 3.24,
+  "text": "research. Instead, Google has been"
+ },
+ {
+  "start": 1739.76,
+  "duration": 3.28,
+  "text": "pursuing its own separate 5-to-10-year"
+ },
+ {
+  "start": 1741.24,
+  "duration": 3.24,
+  "text": "track to AGI, to be achieved through"
+ },
+ {
+  "start": 1743.04,
+  "duration": 2.92,
+  "text": "continual learning, world models, and a"
+ },
+ {
+  "start": 1744.48,
+  "duration": 3.64,
+  "text": "link to the physical world, i.e.,"
+ },
+ {
+  "start": 1745.96,
+  "duration": 3.68,
+  "text": "robotics. Just 4 months ago in Davos,"
+ },
+ {
+  "start": 1748.12,
+  "duration": 3.52,
+  "text": "Hassabis spoke about the limits on how"
+ },
+ {
+  "start": 1749.64,
+  "duration": 3.72,
+  "text": "fast self-improving systems, i.e., those"
+ },
+ {
+  "start": 1751.64,
+  "duration": 4.28,
+  "text": "being pursued by Anthropic and OpenAI,"
+ },
+ {
+  "start": 1753.36,
+  "duration": 4.04,
+  "text": "can work.\" But now, Prin writes,"
+ },
+ {
+  "start": 1755.92,
+  "duration": 3.36,
+  "text": "\"The pace of releases by Anthropic and"
+ },
+ {
+  "start": 1757.4,
+  "duration": 3.4,
+  "text": "OpenAI has become relentless. It is"
+ },
+ {
+  "start": 1759.28,
+  "duration": 3.4,
+  "text": "clear that Codex and Claude code in"
+ },
+ {
+  "start": 1760.8,
+  "duration": 3.28,
+  "text": "particular is significantly accelerating"
+ },
+ {
+  "start": 1762.68,
+  "duration": 3.2,
+  "text": "the pace of AI research at these two"
+ },
+ {
+  "start": 1764.08,
+  "duration": 3.4,
+  "text": "labs. We've recently heard rumors that"
+ },
+ {
+  "start": 1765.88,
+  "duration": 3.28,
+  "text": "an important faction at Google, led by"
+ },
+ {
+  "start": 1767.48,
+  "duration": 3.48,
+  "text": "none other than Sergey Brin, is not"
+ },
+ {
+  "start": 1769.16,
+  "duration": 3.36,
+  "text": "happy about these developments. Brin has"
+ },
+ {
+  "start": 1770.96,
+  "duration": 3.4,
+  "text": "allegedly formed a strike team at Google"
+ },
+ {
+  "start": 1772.52,
+  "duration": 3.04,
+  "text": "tasked with achieving AI takeoff of AI"
+ },
+ {
+  "start": 1774.36,
+  "duration": 2.52,
+  "text": "that can improve itself through"
+ },
+ {
+  "start": 1775.56,
+  "duration": 3.04,
+  "text": "improvement of Google's AI coding"
+ },
+ {
+  "start": 1776.88,
+  "duration": 3.0,
+  "text": "abilities. For those paying attention,"
+ },
+ {
+  "start": 1778.6,
+  "duration": 3.04,
+  "text": "this is the exact path to fully"
+ },
+ {
+  "start": 1779.88,
+  "duration": 3.44,
+  "text": "automated AI research and RSI that is"
+ },
+ {
+  "start": 1781.64,
+  "duration": 3.08,
+  "text": "currently being pursued by OpenAI and"
+ },
+ {
+  "start": 1783.32,
+  "duration": 3.72,
+  "text": "Anthropic."
+ },
+ {
+  "start": 1784.72,
+  "duration": 4.0,
+  "text": "And here lies the tension."
+ },
+ {
+  "start": 1787.04,
+  "duration": 3.44,
+  "text": "Two paths are open to Google now. Will"
+ },
+ {
+  "start": 1788.72,
+  "duration": 4.16,
+  "text": "Google turn away from the Hassabis path"
+ },
+ {
+  "start": 1790.48,
+  "duration": 4.2,
+  "text": "to pursue RSI, or will Google stay on"
+ },
+ {
+  "start": 1792.88,
+  "duration": 3.68,
+  "text": "its current path, knowing full well that"
+ },
+ {
+  "start": 1794.68,
+  "duration": 3.24,
+  "text": "if OpenAI and Anthropic are wrong, and"
+ },
+ {
+  "start": 1796.56,
+  "duration": 2.92,
+  "text": "the approach of fully automating AI"
+ },
+ {
+  "start": 1797.92,
+  "duration": 3.04,
+  "text": "research does not turn out as fruitful"
+ },
+ {
+  "start": 1799.48,
+  "duration": 3.04,
+  "text": "as they hoped, then Google's lead in"
+ },
+ {
+  "start": 1800.96,
+  "duration": 3.96,
+  "text": "areas like world models and robotics may"
+ },
+ {
+  "start": 1802.52,
+  "duration": 3.96,
+  "text": "prove to be decisive? Or, finally, is"
+ },
+ {
+  "start": 1804.92,
+  "duration": 2.96,
+  "text": "there room, talent, resources, and"
+ },
+ {
+  "start": 1806.48,
+  "duration": 3.4,
+  "text": "compute to pursue both of these"
+ },
+ {
+  "start": 1807.88,
+  "duration": 4.52,
+  "text": "approaches simultaneously?"
+ },
+ {
+  "start": 1809.88,
+  "duration": 3.92,
+  "text": "Question: Shaping Google's AI strategy."
+ },
+ {
+  "start": 1812.4,
+  "duration": 3.72,
+  "text": "The answer seems to be, for the moment"
+ },
+ {
+  "start": 1813.8,
+  "duration": 3.88,
+  "text": "at least, to go both end. Whether that"
+ },
+ {
+  "start": 1816.12,
+  "duration": 2.76,
+  "text": "remains the strategy as the world gets"
+ },
+ {
+  "start": 1817.68,
+  "duration": 3.0,
+  "text": "even more computer and resource"
+ },
+ {
+  "start": 1818.88,
+  "duration": 2.96,
+  "text": "constrained will be what to watch for"
+ },
+ {
+  "start": 1820.68,
+  "duration": 2.84,
+  "text": "next."
+ },
+ {
+  "start": 1821.84,
+  "duration": 3.12,
+  "text": "Summing up all this, I want to be clear"
+ },
+ {
+  "start": 1823.52,
+  "duration": 3.32,
+  "text": "that I'm not now somehow massively"
+ },
+ {
+  "start": 1824.96,
+  "duration": 3.72,
+  "text": "bearish on Google or anything like that."
+ },
+ {
+  "start": 1826.84,
+  "duration": 3.0,
+  "text": "I think anti-gravity made progress,"
+ },
+ {
+  "start": 1828.68,
+  "duration": 2.76,
+  "text": "although I think on first glance it"
+ },
+ {
+  "start": 1829.84,
+  "duration": 4.04,
+  "text": "still appears behind. I think when it"
+ },
+ {
+  "start": 1831.44,
+  "duration": 3.6,
+  "text": "comes to 3.5 flash, it's surprising that"
+ },
+ {
+  "start": 1833.88,
+  "duration": 2.32,
+  "text": "with the stakes as high as they are,"
+ },
+ {
+  "start": 1835.04,
+  "duration": 2.8,
+  "text": "they couldn't get it together to get a"
+ },
+ {
+  "start": 1836.2,
+  "duration": 3.64,
+  "text": "pro model out. But I'm not particularly"
+ },
+ {
+  "start": 1837.84,
+  "duration": 4.64,
+  "text": "interested in judging how it compares to"
+ },
+ {
+  "start": 1839.84,
+  "duration": 5.2,
+  "text": "5.5 and 4.7 until we actually have 3.5"
+ },
+ {
+  "start": 1842.48,
+  "duration": 4.44,
+  "text": "Pro. When it comes to Spark, I think we"
+ },
+ {
+  "start": 1845.04,
+  "duration": 4.12,
+  "text": "are in such a new space in terms of what"
+ },
+ {
+  "start": 1846.92,
+  "duration": 4.48,
+  "text": "the right type of agent interaction is"
+ },
+ {
+  "start": 1849.16,
+  "duration": 4.04,
+  "text": "for most people, that epistemic humility"
+ },
+ {
+  "start": 1851.4,
+  "duration": 3.44,
+  "text": "demands that we be open to different"
+ },
+ {
+  "start": 1853.2,
+  "duration": 3.04,
+  "text": "possibilities. And frankly, I'm"
+ },
+ {
+  "start": 1854.84,
+  "duration": 3.24,
+  "text": "interested to see Google explore a"
+ },
+ {
+  "start": 1856.24,
+  "duration": 3.56,
+  "text": "different one. So, none of this is about"
+ },
+ {
+  "start": 1858.08,
+  "duration": 4.04,
+  "text": "counting Google out. What it is"
+ },
+ {
+  "start": 1859.8,
+  "duration": 3.92,
+  "text": "ultimately is a feeling that whereas"
+ },
+ {
+  "start": 1862.12,
+  "duration": 4.08,
+  "text": "they had started to feel, over the"
+ },
+ {
+  "start": 1863.72,
+  "duration": 3.96,
+  "text": "course of 2025 especially, locked in,"
+ },
+ {
+  "start": 1866.2,
+  "duration": 3.52,
+  "text": "focused, and rowing in the same"
+ },
+ {
+  "start": 1867.68,
+  "duration": 3.84,
+  "text": "direction, in this product sprawl we may"
+ },
+ {
+  "start": 1869.72,
+  "duration": 3.12,
+  "text": "be seeing splinters of both different"
+ },
+ {
+  "start": 1871.52,
+  "duration": 3.16,
+  "text": "strategy and different priorities"
+ },
+ {
+  "start": 1872.84,
+  "duration": 3.36,
+  "text": "showing up once again. I will certainly"
+ },
+ {
+  "start": 1874.68,
+  "duration": 4.08,
+  "text": "be trying out things like Anti-Gravity"
+ },
+ {
+  "start": 1876.2,
+  "duration": 4.52,
+  "text": "2.0 and Spark when it becomes available,"
+ },
+ {
+  "start": 1878.76,
+  "duration": 2.92,
+  "text": "and I will report back what I find. For"
+ },
+ {
+  "start": 1880.72,
+  "duration": 2.8,
+  "text": "now though, that's going to do it for"
+ },
+ {
+  "start": 1881.68,
+  "duration": 3.56,
+  "text": "today's AI Daily Brief. Appreciate you"
+ },
+ {
+  "start": 1883.52,
+  "duration": 5.32,
+  "text": "listening or watching as always, and"
+ },
+ {
+  "start": 1885.24,
+  "duration": 3.6,
+  "text": "until next time, peace."
+ }
+]

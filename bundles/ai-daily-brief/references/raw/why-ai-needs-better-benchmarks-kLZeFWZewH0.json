@@ -1,0 +1,2637 @@
+[
+ {
+  "start": 0.4,
+  "duration": 3.56,
+  "text": "Today, we are discussing why AI needs"
+ },
+ {
+  "start": 2.16,
+  "duration": 4.4,
+  "text": "better benchmarks and what to think"
+ },
+ {
+  "start": 3.96,
+  "duration": 4.12,
+  "text": "about the new Arc AGI-3."
+ },
+ {
+  "start": 6.56,
+  "duration": 3.12,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 8.08,
+  "duration": 4.44,
+  "text": "Today, we are looking at the launch of"
+ },
+ {
+  "start": 9.68,
+  "duration": 4.36,
+  "text": "Arc AGI-3. It's a new benchmark from Arc"
+ },
+ {
+  "start": 12.52,
+  "duration": 2.84,
+  "text": "Prize that is specifically designed to"
+ },
+ {
+  "start": 14.04,
+  "duration": 3.68,
+  "text": "test the interactive reasoning"
+ },
+ {
+  "start": 15.36,
+  "duration": 4.56,
+  "text": "capability of AI agents. Now, it is the"
+ },
+ {
+  "start": 17.72,
+  "duration": 3.48,
+  "text": "latest in a sequence of benchmarks that"
+ },
+ {
+  "start": 19.92,
+  "duration": 3.2,
+  "text": "are meant to deal with some of the"
+ },
+ {
+  "start": 21.2,
+  "duration": 3.32,
+  "text": "problems of benchmarks, but to better"
+ },
+ {
+  "start": 23.12,
+  "duration": 3.4,
+  "text": "understand what they are trying to"
+ },
+ {
+  "start": 24.52,
+  "duration": 4.08,
+  "text": "respond to, it's worth going back and"
+ },
+ {
+  "start": 26.52,
+  "duration": 4.04,
+  "text": "actually understanding what benchmark's"
+ },
+ {
+  "start": 28.6,
+  "duration": 3.36,
+  "text": "purpose is, what the problems with them"
+ },
+ {
+  "start": 30.56,
+  "duration": 3.32,
+  "text": "are, and how people have tried to"
+ },
+ {
+  "start": 31.96,
+  "duration": 3.88,
+  "text": "address those problems. Benchmarks are"
+ },
+ {
+  "start": 33.88,
+  "duration": 3.52,
+  "text": "effectively two things. They're a way to"
+ },
+ {
+  "start": 35.84,
+  "duration": 3.56,
+  "text": "compare AI's performance in various"
+ },
+ {
+  "start": 37.4,
+  "duration": 3.84,
+  "text": "areas, as well as a way to see how"
+ },
+ {
+  "start": 39.4,
+  "duration": 3.44,
+  "text": "models are progressing over time."
+ },
+ {
+  "start": 41.24,
+  "duration": 3.36,
+  "text": "Historically, there have been two major"
+ },
+ {
+  "start": 42.84,
+  "duration": 3.64,
+  "text": "categories of benchmarks that you see"
+ },
+ {
+  "start": 44.6,
+  "duration": 3.84,
+  "text": "included with every new model release."
+ },
+ {
+  "start": 46.48,
+  "duration": 3.2,
+  "text": "The two categories are benchmarks around"
+ },
+ {
+  "start": 48.44,
+  "duration": 2.92,
+  "text": "knowledge and benchmarks around"
+ },
+ {
+  "start": 49.68,
+  "duration": 4.36,
+  "text": "function. Knowledge was the first big"
+ },
+ {
+  "start": 51.36,
+  "duration": 4.72,
+  "text": "hill to climb with benchmarks like MMLU"
+ },
+ {
+  "start": 54.04,
+  "duration": 3.8,
+  "text": "for general knowledge and GPQA, which"
+ },
+ {
+  "start": 56.08,
+  "duration": 3.12,
+  "text": "measures scientific knowledge. Over"
+ },
+ {
+  "start": 57.84,
+  "duration": 3.16,
+  "text": "time, more difficult benchmarks were"
+ },
+ {
+  "start": 59.2,
+  "duration": 3.52,
+  "text": "introduced like Humanity's Last Exam,"
+ },
+ {
+  "start": 61.0,
+  "duration": 3.44,
+  "text": "which features obscure not typically"
+ },
+ {
+  "start": 62.72,
+  "duration": 3.32,
+  "text": "found in the training data. As models"
+ },
+ {
+  "start": 64.44,
+  "duration": 3.48,
+  "text": "developed, however, function became more"
+ },
+ {
+  "start": 66.04,
+  "duration": 3.56,
+  "text": "important. SWE-Bench is one of the best"
+ },
+ {
+  "start": 67.92,
+  "duration": 3.16,
+  "text": "known of the functional benchmarks,"
+ },
+ {
+  "start": 69.6,
+  "duration": 3.56,
+  "text": "testing the knowledge required to solve"
+ },
+ {
+  "start": 71.08,
+  "duration": 3.76,
+  "text": "typical coding problems from GitHub. As"
+ },
+ {
+  "start": 73.16,
+  "duration": 3.28,
+  "text": "agented coding has risen in importance"
+ },
+ {
+  "start": 74.84,
+  "duration": 3.44,
+  "text": "in the AI space, Terminal Bench has"
+ },
+ {
+  "start": 76.44,
+  "duration": 3.84,
+  "text": "arguably overtaken SWE-Bench as the most"
+ },
+ {
+  "start": 78.28,
+  "duration": 4.0,
+  "text": "important coding benchmark. Terminal"
+ },
+ {
+  "start": 80.28,
+  "duration": 3.72,
+  "text": "Bench tests not only coding reasoning,"
+ },
+ {
+  "start": 82.28,
+  "duration": 3.8,
+  "text": "but also the model's ability to use a"
+ },
+ {
+  "start": 84.0,
+  "duration": 4.16,
+  "text": "terminal. And interestingly, a lot of"
+ },
+ {
+  "start": 86.08,
+  "duration": 3.64,
+  "text": "benchmarks have followed this pattern,"
+ },
+ {
+  "start": 88.16,
+  "duration": 3.44,
+  "text": "starting off as a test of knowledge and"
+ },
+ {
+  "start": 89.72,
+  "duration": 3.4,
+  "text": "then implicitly or explicitly also"
+ },
+ {
+  "start": 91.6,
+  "duration": 3.72,
+  "text": "adding an element of testing functional"
+ },
+ {
+  "start": 93.12,
+  "duration": 3.96,
+  "text": "capacity. Humanity's Last Exam, for"
+ },
+ {
+  "start": 95.32,
+  "duration": 3.56,
+  "text": "example, began as a pure test of"
+ },
+ {
+  "start": 97.08,
+  "duration": 3.4,
+  "text": "pre-trained knowledge, but now it's"
+ },
+ {
+  "start": 98.88,
+  "duration": 3.2,
+  "text": "typically measured with web search tools"
+ },
+ {
+  "start": 100.48,
+  "duration": 3.68,
+  "text": "enabled, making it a proxy for"
+ },
+ {
+  "start": 102.08,
+  "duration": 4.68,
+  "text": "competency and tool use as well. Now,"
+ },
+ {
+  "start": 104.16,
+  "duration": 4.88,
+  "text": "very early on in the modern post-ChatGPT"
+ },
+ {
+  "start": 106.76,
+  "duration": 4.92,
+  "text": "era of AI, benchmark saturation became a"
+ },
+ {
+  "start": 109.04,
+  "duration": 5.04,
+  "text": "problem. All the way back in May of 2024"
+ },
+ {
+  "start": 111.68,
+  "duration": 5.28,
+  "text": "with the release of GPT-4o, all major"
+ },
+ {
+  "start": 114.08,
+  "duration": 5.96,
+  "text": "models were already above 80% on MMLU"
+ },
+ {
+  "start": 116.96,
+  "duration": 4.4,
+  "text": "with GPT-4o scoring 88.7%. Now, at the"
+ },
+ {
+  "start": 120.04,
+  "duration": 3.6,
+  "text": "time, some other benchmarks were a"
+ },
+ {
+  "start": 121.36,
+  "duration": 4.4,
+  "text": "little bit less saturated. 4o was a big"
+ },
+ {
+  "start": 123.64,
+  "duration": 4.399,
+  "text": "breakout, for example, in GPQA, scoring"
+ },
+ {
+  "start": 125.76,
+  "duration": 3.52,
+  "text": "53.6%, but of course, with all of these"
+ },
+ {
+  "start": 128.039,
+  "duration": 3.401,
+  "text": "benchmarks, it was only a matter of"
+ },
+ {
+  "start": 129.28,
+  "duration": 4.0,
+  "text": "time. By last summer, the saturation"
+ },
+ {
+  "start": 131.44,
+  "duration": 4.56,
+  "text": "problem had gotten much worse. At the"
+ },
+ {
+  "start": 133.28,
+  "duration": 4.12,
+  "text": "time, 03 was OpenAI's daily driver. More"
+ },
+ {
+  "start": 136.0,
+  "duration": 3.84,
+  "text": "difficult questions had been added to"
+ },
+ {
+  "start": 137.4,
+  "duration": 5.28,
+  "text": "GPQA Diamond, and 03 still achieved"
+ },
+ {
+  "start": 139.84,
+  "duration": 4.8,
+  "text": "83.3% without using tools. By that"
+ },
+ {
+  "start": 142.68,
+  "duration": 3.4,
+  "text": "stage, most of the 2024 benchmarks had"
+ },
+ {
+  "start": 144.64,
+  "duration": 3.32,
+  "text": "been abandoned or updated because of"
+ },
+ {
+  "start": 146.08,
+  "duration": 4.08,
+  "text": "saturation. For example, the math"
+ },
+ {
+  "start": 147.96,
+  "duration": 4.48,
+  "text": "benchmark was long gone, replaced by the"
+ },
+ {
+  "start": 150.16,
+  "duration": 4.52,
+  "text": "AIME math test, which uses questions"
+ },
+ {
+  "start": 152.44,
+  "duration": 5.44,
+  "text": "from a real-world math competition. 03"
+ },
+ {
+  "start": 154.68,
+  "duration": 4.44,
+  "text": "would score 88.9% on AIME math,"
+ },
+ {
+  "start": 157.88,
+  "duration": 3.2,
+  "text": "foreshadowing that a specifically"
+ },
+ {
+  "start": 159.12,
+  "duration": 3.12,
+  "text": "trained OpenAI model would achieve a"
+ },
+ {
+  "start": 161.08,
+  "duration": 2.76,
+  "text": "gold medal performance at the"
+ },
+ {
+  "start": 162.24,
+  "duration": 4.08,
+  "text": "International Math Olympiad a few months"
+ },
+ {
+  "start": 163.84,
+  "duration": 3.68,
+  "text": "later. Fast forward to today, and once"
+ },
+ {
+  "start": 166.32,
+  "duration": 4.16,
+  "text": "again, many of these benchmarks are"
+ },
+ {
+  "start": 167.52,
+  "duration": 5.92,
+  "text": "getting saturated. GPT-5.4 is now up to"
+ },
+ {
+  "start": 170.48,
+  "duration": 5.68,
+  "text": "52.1% on Humanity's Last Exam with tools"
+ },
+ {
+  "start": 173.44,
+  "duration": 5.84,
+  "text": "and 39.8% without, which is very close"
+ },
+ {
+  "start": 176.16,
+  "duration": 4.8,
+  "text": "to Opus-4.6's 53 and 40% respectively."
+ },
+ {
+  "start": 179.28,
+  "duration": 5.56,
+  "text": "SWE-Bench was once again upgraded with"
+ },
+ {
+  "start": 180.96,
+  "duration": 7.12,
+  "text": "GPT-5.4 scoring 57.7% on SWE-Bench Pro."
+ },
+ {
+  "start": 184.84,
+  "duration": 5.04,
+  "text": "For Opus-4.6, Anthropic reported 81.4%"
+ },
+ {
+  "start": 188.08,
+  "duration": 3.32,
+  "text": "on SWE-Bench Verified, but chose to"
+ },
+ {
+  "start": 189.88,
+  "duration": 4.76,
+  "text": "highlight Terminal Bench 2.0 more"
+ },
+ {
+  "start": 191.4,
+  "duration": 4.48,
+  "text": "prominently, where they scored a 65.4%."
+ },
+ {
+  "start": 194.64,
+  "duration": 3.08,
+  "text": "Now, it's difficult to keep track of all"
+ },
+ {
+  "start": 195.88,
+  "duration": 3.6,
+  "text": "these numbers, but this chart shows the"
+ },
+ {
+  "start": 197.72,
+  "duration": 3.96,
+  "text": "example of how performance on SWE-Bench"
+ },
+ {
+  "start": 199.48,
+  "duration": 4.28,
+  "text": "Verified progressed over the past year."
+ },
+ {
+  "start": 201.68,
+  "duration": 3.92,
+  "text": "Models from Anthropic, Google, OpenAI,"
+ },
+ {
+  "start": 203.76,
+  "duration": 3.6,
+  "text": "and Minimax, who produced the chart, are"
+ },
+ {
+  "start": 205.6,
+  "duration": 3.04,
+  "text": "basically all up into the right. They"
+ },
+ {
+  "start": 207.36,
+  "duration": 4.2,
+  "text": "each began at different points in the"
+ },
+ {
+  "start": 208.64,
+  "duration": 4.36,
+  "text": "middle of 2025, ranging from 55 to 70%."
+ },
+ {
+  "start": 211.56,
+  "duration": 3.96,
+  "text": "However, they've all arrived now at up"
+ },
+ {
+  "start": 213.0,
+  "duration": 4.44,
+  "text": "near 80%. Benchmark saturation then"
+ },
+ {
+  "start": 215.52,
+  "duration": 3.56,
+  "text": "means that benchmarks no longer show"
+ },
+ {
+  "start": 217.44,
+  "duration": 3.68,
+  "text": "particularly meaningful progress between"
+ },
+ {
+  "start": 219.08,
+  "duration": 3.48,
+  "text": "each model generation. They also don't"
+ },
+ {
+  "start": 221.12,
+  "duration": 3.56,
+  "text": "show meaningful differences between the"
+ },
+ {
+  "start": 222.56,
+  "duration": 4.4,
+  "text": "models. And making this problem worse is"
+ },
+ {
+  "start": 224.68,
+  "duration": 4.32,
+  "text": "the issue of benchmark maxing. Benchmark"
+ },
+ {
+  "start": 226.96,
+  "duration": 3.52,
+  "text": "maxing refers to when a lab trains the"
+ },
+ {
+  "start": 229.0,
+  "duration": 3.12,
+  "text": "model specifically to beat the"
+ },
+ {
+  "start": 230.48,
+  "duration": 3.44,
+  "text": "benchmark, even if it has little"
+ },
+ {
+  "start": 232.12,
+  "duration": 3.2,
+  "text": "relevance in the real world. This"
+ },
+ {
+  "start": 233.92,
+  "duration": 3.44,
+  "text": "happens because the benchmarks are"
+ },
+ {
+  "start": 235.32,
+  "duration": 3.16,
+  "text": "either completely known or semi-public,"
+ },
+ {
+  "start": 237.36,
+  "duration": 2.56,
+  "text": "meaning model labs can train"
+ },
+ {
+  "start": 238.48,
+  "duration": 2.72,
+  "text": "specifically for the test in order to"
+ },
+ {
+  "start": 239.92,
+  "duration": 2.92,
+  "text": "have more impressive numbers when they"
+ },
+ {
+  "start": 241.2,
+  "duration": 3.76,
+  "text": "come out. One common perception and"
+ },
+ {
+  "start": 242.84,
+  "duration": 4.16,
+  "text": "critique of Chinese labs is benchmark"
+ },
+ {
+  "start": 244.96,
+  "duration": 3.44,
+  "text": "maxing in the extreme, which frequently"
+ },
+ {
+  "start": 247.0,
+  "duration": 2.68,
+  "text": "leaves their models with a huge gap"
+ },
+ {
+  "start": 248.4,
+  "duration": 3.32,
+  "text": "between their benchmark scores and"
+ },
+ {
+  "start": 249.68,
+  "duration": 3.44,
+  "text": "real-world performance. In February, a"
+ },
+ {
+  "start": 251.72,
+  "duration": 3.76,
+  "text": "variant coding benchmark called"
+ },
+ {
+  "start": 253.12,
+  "duration": 4.239,
+  "text": "SWE-Rebench was released, containing a"
+ },
+ {
+  "start": 255.48,
+  "duration": 3.08,
+  "text": "different set of problems, and most of"
+ },
+ {
+  "start": 257.359,
+  "duration": 2.761,
+  "text": "the Chinese models dived in the"
+ },
+ {
+  "start": 258.56,
+  "duration": 3.08,
+  "text": "rankings, suggesting they were"
+ },
+ {
+  "start": 260.12,
+  "duration": 3.64,
+  "text": "specifically trained against the narrow"
+ },
+ {
+  "start": 261.64,
+  "duration": 3.84,
+  "text": "set of SWE-Bench Verified problems. The"
+ },
+ {
+  "start": 263.76,
+  "duration": 4.0,
+  "text": "western models did drop as well, but not"
+ },
+ {
+  "start": 265.48,
+  "duration": 3.52,
+  "text": "by nearly as much. Another example was"
+ },
+ {
+  "start": 267.76,
+  "duration": 3.28,
+  "text": "Meta with the release of Llama-4"
+ },
+ {
+  "start": 269.0,
+  "duration": 3.52,
+  "text": "Maverick last April. Meta was accused of"
+ },
+ {
+  "start": 271.04,
+  "duration": 3.72,
+  "text": "testing multiple model variants on"
+ },
+ {
+  "start": 272.52,
+  "duration": 4.56,
+  "text": "Arena, which is a crowd-sourced taste"
+ },
+ {
+  "start": 274.76,
+  "duration": 3.76,
+  "text": "test platform for LLM performance."
+ },
+ {
+  "start": 277.08,
+  "duration": 3.4,
+  "text": "Platform users are presented with two"
+ },
+ {
+  "start": 278.52,
+  "duration": 3.4,
+  "text": "samples and vote for the best one. Meta"
+ },
+ {
+  "start": 280.48,
+  "duration": 2.6,
+  "text": "was accused of having tested models"
+ },
+ {
+  "start": 281.92,
+  "duration": 2.92,
+  "text": "until they found the one that clicked"
+ },
+ {
+  "start": 283.08,
+  "duration": 4.0,
+  "text": "most with users and launched as the"
+ },
+ {
+  "start": 284.84,
+  "duration": 3.68,
+  "text": "second-ranked model on Arena. You will"
+ },
+ {
+  "start": 287.08,
+  "duration": 3.48,
+  "text": "recall that when people got their hands"
+ },
+ {
+  "start": 288.52,
+  "duration": 3.56,
+  "text": "on Llama-4, they did not in almost any"
+ },
+ {
+  "start": 290.56,
+  "duration": 2.68,
+  "text": "case think it was the second best model"
+ },
+ {
+  "start": 292.08,
+  "duration": 3.12,
+  "text": "available."
+ },
+ {
+  "start": 293.24,
+  "duration": 3.96,
+  "text": "Between benchmark maxing and benchmark"
+ },
+ {
+  "start": 295.2,
+  "duration": 4.0,
+  "text": "saturation, the net effect is the"
+ },
+ {
+  "start": 297.2,
+  "duration": 3.92,
+  "text": "diminished significance of benchmarks as"
+ },
+ {
+  "start": 299.2,
+  "duration": 4.4,
+  "text": "a tool for people to understand which"
+ },
+ {
+  "start": 301.12,
+  "duration": 4.08,
+  "text": "models are good for and at what."
+ },
+ {
+  "start": 303.6,
+  "duration": 2.8,
+  "text": "Now, on top of all of that, there is"
+ },
+ {
+  "start": 305.2,
+  "duration": 3.12,
+  "text": "just an inherent problem with"
+ },
+ {
+  "start": 306.4,
+  "duration": 3.44,
+  "text": "traditional benchmarks. Most of these"
+ },
+ {
+  "start": 308.32,
+  "duration": 3.72,
+  "text": "benchmarks tend to be narrowly focused"
+ },
+ {
+  "start": 309.84,
+  "duration": 3.72,
+  "text": "on solving one particular type of task."
+ },
+ {
+  "start": 312.04,
+  "duration": 3.24,
+  "text": "Some are about recalling knowledge and"
+ },
+ {
+  "start": 313.56,
+  "duration": 3.24,
+  "text": "some are about more complex skills, but"
+ },
+ {
+  "start": 315.28,
+  "duration": 3.44,
+  "text": "they are focused on doing one thing"
+ },
+ {
+  "start": 316.8,
+  "duration": 3.44,
+  "text": "within a very narrowly defined set."
+ },
+ {
+  "start": 318.72,
+  "duration": 3.92,
+  "text": "We've talked in some episodes this week"
+ },
+ {
+  "start": 320.24,
+  "duration": 4.44,
+  "text": "about the idea of task AGI, that at this"
+ },
+ {
+  "start": 322.64,
+  "duration": 3.76,
+  "text": "point, AI is really good at a huge array"
+ },
+ {
+  "start": 324.68,
+  "duration": 3.76,
+  "text": "of knowledge work tasks, but where it"
+ },
+ {
+  "start": 326.4,
+  "duration": 3.24,
+  "text": "struggles is in bringing tasks together."
+ },
+ {
+  "start": 328.44,
+  "duration": 3.16,
+  "text": "And in that light, it would be"
+ },
+ {
+  "start": 329.64,
+  "duration": 3.16,
+  "text": "reasonable, I think, to say that while"
+ },
+ {
+  "start": 331.6,
+  "duration": 3.6,
+  "text": "benchmarks might be good at"
+ },
+ {
+  "start": 332.8,
+  "duration": 3.52,
+  "text": "demonstrating task AGI, they're not"
+ },
+ {
+  "start": 335.2,
+  "duration": 3.64,
+  "text": "particularly useful in helping"
+ },
+ {
+  "start": 336.32,
+  "duration": 5.0,
+  "text": "understand how AI does outside of that"
+ },
+ {
+  "start": 338.84,
+  "duration": 4.4,
+  "text": "very narrow task. Math is a particularly"
+ },
+ {
+  "start": 341.32,
+  "duration": 3.64,
+  "text": "good example of this with last year's"
+ },
+ {
+  "start": 343.24,
+  "duration": 3.72,
+  "text": "models basically solving the very narrow"
+ },
+ {
+  "start": 344.96,
+  "duration": 3.76,
+  "text": "field of competition mathematics. This"
+ },
+ {
+  "start": 346.96,
+  "duration": 3.72,
+  "text": "was demonstrated in the IMO gold medal"
+ },
+ {
+  "start": 348.72,
+  "duration": 2.96,
+  "text": "performances from OpenAI and Google."
+ },
+ {
+  "start": 350.68,
+  "duration": 2.24,
+  "text": "That is, of course, a completely"
+ },
+ {
+  "start": 351.68,
+  "duration": 3.48,
+  "text": "different skill set than real-world"
+ },
+ {
+  "start": 352.92,
+  "duration": 4.72,
+  "text": "mathematics. To the extent the practical"
+ },
+ {
+  "start": 355.16,
+  "duration": 4.48,
+  "text": "reality of deploying AI is understanding"
+ },
+ {
+  "start": 357.64,
+  "duration": 3.56,
+  "text": "and dealing with its jagged frontiers,"
+ },
+ {
+  "start": 359.64,
+  "duration": 3.04,
+  "text": "most traditional benchmarks just aren't"
+ },
+ {
+  "start": 361.2,
+  "duration": 2.76,
+  "text": "all that helpful with that. Now,"
+ },
+ {
+  "start": 362.68,
+  "duration": 2.84,
+  "text": "everything I'm discussing today are"
+ },
+ {
+  "start": 363.96,
+  "duration": 2.72,
+  "text": "known long-standing problems, and there"
+ },
+ {
+  "start": 365.52,
+  "duration": 3.04,
+  "text": "have been a ton of attempts to fix"
+ },
+ {
+  "start": 366.68,
+  "duration": 3.4,
+  "text": "benchmarks over the years. One of the"
+ },
+ {
+  "start": 368.56,
+  "duration": 3.32,
+  "text": "brute-force methods is simply making the"
+ },
+ {
+  "start": 370.08,
+  "duration": 3.8,
+  "text": "questions harder. We've seen this with"
+ },
+ {
+  "start": 371.88,
+  "duration": 3.96,
+  "text": "SWE-Bench and GPQA, which remained"
+ },
+ {
+  "start": 373.88,
+  "duration": 3.88,
+  "text": "relevant deep into 2025 by simply"
+ },
+ {
+  "start": 375.84,
+  "duration": 3.16,
+  "text": "changing the difficulty level. This gave"
+ },
+ {
+  "start": 377.76,
+  "duration": 2.44,
+  "text": "the benchmarks at least a little more"
+ },
+ {
+  "start": 379.0,
+  "duration": 2.96,
+  "text": "life and kept them relevant for"
+ },
+ {
+  "start": 380.2,
+  "duration": 3.04,
+  "text": "hill-climbing performance, but it didn't"
+ },
+ {
+  "start": 381.96,
+  "duration": 3.24,
+  "text": "really address the core underlying"
+ },
+ {
+  "start": 383.24,
+  "duration": 3.36,
+  "text": "problem. There are also benchmarks that"
+ },
+ {
+  "start": 385.2,
+  "duration": 3.52,
+  "text": "were switched out for more practical"
+ },
+ {
+  "start": 386.6,
+  "duration": 3.72,
+  "text": "tests. A key example here is the"
+ },
+ {
+  "start": 388.72,
+  "duration": 3.64,
+  "text": "transition from SWE-Bench to Terminal"
+ },
+ {
+  "start": 390.32,
+  "duration": 3.48,
+  "text": "Bench as the major coding benchmark."
+ },
+ {
+  "start": 392.36,
+  "duration": 3.08,
+  "text": "Terminal Bench was intended to be a"
+ },
+ {
+  "start": 393.8,
+  "duration": 3.52,
+  "text": "closer match to the way people actually"
+ },
+ {
+  "start": 395.44,
+  "duration": 3.04,
+  "text": "use the models. It put models in a"
+ },
+ {
+  "start": 397.32,
+  "duration": 2.64,
+  "text": "standard harness and tested their"
+ },
+ {
+  "start": 398.48,
+  "duration": 3.72,
+  "text": "ability to use a terminal and other"
+ },
+ {
+  "start": 399.96,
+  "duration": 3.72,
+  "text": "tools to solve coding problems. On some"
+ },
+ {
+  "start": 402.2,
+  "duration": 3.36,
+  "text": "level, it was an improvement, but it's"
+ },
+ {
+  "start": 403.68,
+  "duration": 4.32,
+  "text": "still is dealing with saturation issues,"
+ },
+ {
+  "start": 405.56,
+  "duration": 4.2,
+  "text": "and it also adds more complex variables."
+ },
+ {
+  "start": 408.0,
+  "duration": 3.76,
+  "text": "Particularly early on, for example, good"
+ },
+ {
+  "start": 409.76,
+  "duration": 3.48,
+  "text": "coding models would fail tasks because"
+ },
+ {
+  "start": 411.76,
+  "duration": 3.24,
+  "text": "they couldn't execute the tool calls"
+ },
+ {
+  "start": 413.24,
+  "duration": 4.16,
+  "text": "properly. Another approach has been"
+ },
+ {
+  "start": 415.0,
+  "duration": 3.72,
+  "text": "trying to simulate real-world tasks. An"
+ },
+ {
+  "start": 417.4,
+  "duration": 3.32,
+  "text": "early version of this idea was the"
+ },
+ {
+  "start": 418.72,
+  "duration": 4.24,
+  "text": "SWE-Lancer benchmark, developed by"
+ },
+ {
+  "start": 420.72,
+  "duration": 3.92,
+  "text": "OpenAI last February. It tested coding"
+ },
+ {
+  "start": 422.96,
+  "duration": 3.08,
+  "text": "ability against real-world tasks from"
+ },
+ {
+  "start": 424.64,
+  "duration": 3.72,
+  "text": "Upwork that paid an aggregate of a"
+ },
+ {
+  "start": 426.04,
+  "duration": 3.92,
+  "text": "million dollars. This allowed OpenAI to"
+ },
+ {
+  "start": 428.36,
+  "duration": 3.88,
+  "text": "express their model's coding ability in"
+ },
+ {
+  "start": 429.96,
+  "duration": 4.64,
+  "text": "dollar terms. The spiritual successor"
+ },
+ {
+  "start": 432.24,
+  "duration": 4.2,
+  "text": "was GDP-Val, released by OpenAI last"
+ },
+ {
+  "start": 434.6,
+  "duration": 3.6,
+  "text": "September. It extended the real-world"
+ },
+ {
+  "start": 436.44,
+  "duration": 3.88,
+  "text": "problem set beyond coding to encompass"
+ },
+ {
+  "start": 438.2,
+  "duration": 4.2,
+  "text": "various types of white-collar work like"
+ },
+ {
+  "start": 440.32,
+  "duration": 4.12,
+  "text": "making spreadsheets and slide decks. One"
+ },
+ {
+  "start": 442.4,
+  "duration": 3.48,
+  "text": "of the interesting quirks of GDP-Val was"
+ },
+ {
+  "start": 444.44,
+  "duration": 3.24,
+  "text": "that it required the agent to build and"
+ },
+ {
+  "start": 445.88,
+  "duration": 3.16,
+  "text": "deliver a polished work product. It"
+ },
+ {
+  "start": 447.68,
+  "duration": 2.96,
+  "text": "quickly became clear that models were"
+ },
+ {
+  "start": 449.04,
+  "duration": 3.2,
+  "text": "failing tasks not always because they"
+ },
+ {
+  "start": 450.64,
+  "duration": 3.92,
+  "text": "couldn't do them, but because the tool"
+ },
+ {
+  "start": 452.24,
+  "duration": 4.12,
+  "text": "calls were failing. Now, GDP-Val also"
+ },
+ {
+  "start": 454.56,
+  "duration": 3.64,
+  "text": "has other challenges. For example,"
+ },
+ {
+  "start": 456.36,
+  "duration": 3.72,
+  "text": "OpenAI went out and actually worked with"
+ },
+ {
+  "start": 458.2,
+  "duration": 4.44,
+  "text": "experienced professionals to do a"
+ },
+ {
+  "start": 460.08,
+  "duration": 4.04,
+  "text": "combination of AI and human review."
+ },
+ {
+  "start": 462.64,
+  "duration": 3.84,
+  "text": "Other evaluators like Artificial"
+ },
+ {
+  "start": 464.12,
+  "duration": 3.96,
+  "text": "Analysis have gone and modified GDP-Val"
+ },
+ {
+  "start": 466.48,
+  "duration": 3.28,
+  "text": "to be a strictly automated AI-only"
+ },
+ {
+  "start": 468.08,
+  "duration": 3.16,
+  "text": "version, and it remains one of the"
+ },
+ {
+  "start": 469.76,
+  "duration": 2.68,
+  "text": "benchmarks that I think people are most"
+ },
+ {
+  "start": 471.24,
+  "duration": 2.28,
+  "text": "interested in relative to all the"
+ },
+ {
+  "start": 472.44,
+  "duration": 3.0,
+  "text": "others."
+ },
+ {
+  "start": 473.52,
+  "duration": 3.84,
+  "text": "Now, another major approach was looking"
+ },
+ {
+  "start": 475.44,
+  "duration": 3.44,
+  "text": "at continuous agent performance with"
+ },
+ {
+  "start": 477.36,
+  "duration": 3.32,
+  "text": "Meters Long Task benchmark being the"
+ },
+ {
+  "start": 478.88,
+  "duration": 3.24,
+  "text": "most well-known. This is that chart that"
+ },
+ {
+  "start": 480.68,
+  "duration": 3.16,
+  "text": "we joked during a lot of last year as"
+ },
+ {
+  "start": 482.12,
+  "duration": 3.24,
+  "text": "the bubble talk was increasing was"
+ },
+ {
+  "start": 483.84,
+  "duration": 3.8,
+  "text": "effectively holding up the entire global"
+ },
+ {
+  "start": 485.36,
+  "duration": 3.88,
+  "text": "market. The way that this test works"
+ },
+ {
+  "start": 487.64,
+  "duration": 3.36,
+  "text": "involves giving models a set of coding"
+ },
+ {
+  "start": 489.24,
+  "duration": 3.76,
+  "text": "problems that human coders could"
+ },
+ {
+  "start": 491.0,
+  "duration": 3.52,
+  "text": "complete in a set interval of time,"
+ },
+ {
+  "start": 493.0,
+  "duration": 3.52,
+  "text": "ranging from a few minutes to several"
+ },
+ {
+  "start": 494.52,
+  "duration": 3.48,
+  "text": "hours. The resulting chart has become"
+ },
+ {
+  "start": 496.52,
+  "duration": 3.36,
+  "text": "one of the clearest demonstrations of"
+ },
+ {
+  "start": 498.0,
+  "duration": 3.72,
+  "text": "model improvement. In the space of 2"
+ },
+ {
+  "start": 499.88,
+  "duration": 3.6,
+  "text": "years, we went from agents that could"
+ },
+ {
+  "start": 501.72,
+  "duration": 4.6,
+  "text": "only complete tasks that take humans 5"
+ },
+ {
+  "start": 503.48,
+  "duration": 4.44,
+  "text": "minutes in the case of GPT-4o, to agents"
+ },
+ {
+  "start": 506.32,
+  "duration": 4.2,
+  "text": "that can complete tasks that take humans"
+ },
+ {
+  "start": 507.92,
+  "duration": 4.4,
+  "text": "10 hours in the case of Opus-4.6. Now,"
+ },
+ {
+  "start": 510.52,
+  "duration": 3.44,
+  "text": "the big problem with Meters test, and"
+ },
+ {
+  "start": 512.32,
+  "duration": 3.04,
+  "text": "one that they've fully admitted, is that"
+ },
+ {
+  "start": 513.96,
+  "duration": 3.44,
+  "text": "they're running out of tasks to test"
+ },
+ {
+  "start": 515.36,
+  "duration": 3.88,
+  "text": "against. Their original task set"
+ },
+ {
+  "start": 517.4,
+  "duration": 3.96,
+  "text": "included very few tasks that take more"
+ },
+ {
+  "start": 519.24,
+  "duration": 4.12,
+  "text": "than a few hours. Now that agents can"
+ },
+ {
+  "start": 521.36,
+  "duration": 3.76,
+  "text": "complete complex tasks that take 10"
+ },
+ {
+  "start": 523.36,
+  "duration": 3.88,
+  "text": "hours, Meter is struggling to find a"
+ },
+ {
+  "start": 525.12,
+  "duration": 3.76,
+  "text": "useful test set. Realistically, tasks"
+ },
+ {
+  "start": 527.24,
+  "duration": 3.28,
+  "text": "that take human developers 10 hours"
+ },
+ {
+  "start": 528.88,
+  "duration": 3.12,
+  "text": "aren't really tasks anymore. They're"
+ },
+ {
+  "start": 530.52,
+  "duration": 3.44,
+  "text": "full-on software builds that introduce"
+ },
+ {
+  "start": 532.0,
+  "duration": 3.52,
+  "text": "far more complexity into the test. In"
+ },
+ {
+  "start": 533.96,
+  "duration": 3.04,
+  "text": "other words, Meter can't really extend"
+ },
+ {
+  "start": 535.52,
+  "duration": 3.2,
+  "text": "their benchmark without turning it into"
+ },
+ {
+  "start": 537.0,
+  "duration": 3.04,
+  "text": "something fundamentally different,"
+ },
+ {
+  "start": 538.72,
+  "duration": 3.44,
+  "text": "meaning that this test even is"
+ },
+ {
+  "start": 540.04,
+  "duration": 4.8,
+  "text": "effectively saturated."
+ },
+ {
+  "start": 542.16,
+  "duration": 4.88,
+  "text": "Which brings us to Arc AGI. It began as"
+ },
+ {
+  "start": 544.84,
+  "duration": 3.64,
+  "text": "the Arc Prize in the summer of 2024,"
+ },
+ {
+  "start": 547.04,
+  "duration": 3.2,
+  "text": "based on former Google computer"
+ },
+ {
+  "start": 548.48,
+  "duration": 3.36,
+  "text": "scientist François Chollet's approach to"
+ },
+ {
+  "start": 550.24,
+  "duration": 3.16,
+  "text": "measuring machine intelligence."
+ },
+ {
+  "start": 551.84,
+  "duration": 4.24,
+  "text": "Introducing the prize, Arc wrote at the"
+ },
+ {
+  "start": 553.4,
+  "duration": 4.84,
+  "text": "time, \"AGI progress has stalled. New"
+ },
+ {
+  "start": 556.08,
+  "duration": 4.12,
+  "text": "ideas are needed. Modern LLMs have shown"
+ },
+ {
+  "start": 558.24,
+  "duration": 3.32,
+  "text": "to be great memorization engines. They"
+ },
+ {
+  "start": 560.2,
+  "duration": 2.6,
+  "text": "are able to memorize high-dimension"
+ },
+ {
+  "start": 561.56,
+  "duration": 2.64,
+  "text": "patterns in their training data and"
+ },
+ {
+  "start": 562.8,
+  "duration": 3.36,
+  "text": "apply those patterns into adjacent"
+ },
+ {
+  "start": 564.2,
+  "duration": 3.96,
+  "text": "contexts. This is also how their"
+ },
+ {
+  "start": 566.16,
+  "duration": 4.12,
+  "text": "apparent reasoning capability works."
+ },
+ {
+  "start": 568.16,
+  "duration": 3.4,
+  "text": "LLMs are not actually reasoning."
+ },
+ {
+  "start": 570.28,
+  "duration": 2.48,
+  "text": "Instead, they memorize reasoning"
+ },
+ {
+  "start": 571.56,
+  "duration": 3.48,
+  "text": "patterns and apply those reasoning"
+ },
+ {
+  "start": 572.76,
+  "duration": 3.96,
+  "text": "patterns into adjacent contexts, but"
+ },
+ {
+  "start": 575.04,
+  "duration": 3.92,
+  "text": "they cannot generate new reasoning based"
+ },
+ {
+  "start": 576.72,
+  "duration": 3.6,
+  "text": "on novel situations. More training data"
+ },
+ {
+  "start": 578.96,
+  "duration": 3.16,
+  "text": "lets you buy performance on"
+ },
+ {
+  "start": 580.32,
+  "duration": 3.28,
+  "text": "memorization-based benchmarks, but"
+ },
+ {
+  "start": 582.12,
+  "duration": 3.56,
+  "text": "memorization alone is not general"
+ },
+ {
+  "start": 583.6,
+  "duration": 4.04,
+  "text": "intelligence. General intelligence is"
+ },
+ {
+  "start": 585.68,
+  "duration": 3.52,
+  "text": "the ability to efficiently acquire new"
+ },
+ {
+  "start": 587.64,
+  "duration": 3.8,
+  "text": "skills."
+ },
+ {
+  "start": 589.2,
+  "duration": 4.0,
+  "text": "Arc Prize's answer to this is a test"
+ },
+ {
+  "start": 591.44,
+  "duration": 3.88,
+  "text": "that contains a series of abstract"
+ },
+ {
+  "start": 593.2,
+  "duration": 3.8,
+  "text": "visual logic puzzles. The tasks are"
+ },
+ {
+  "start": 595.32,
+  "duration": 3.76,
+  "text": "presented as a series of colored squares"
+ },
+ {
+  "start": 597.0,
+  "duration": 4.08,
+  "text": "on a grid with squares added or removed"
+ },
+ {
+  "start": 599.08,
+  "duration": 3.76,
+  "text": "according to a particular pattern. Two"
+ },
+ {
+  "start": 601.08,
+  "duration": 3.32,
+  "text": "clues are given to teach the pattern,"
+ },
+ {
+  "start": 602.84,
+  "duration": 3.96,
+  "text": "then the task is to apply that pattern"
+ },
+ {
+  "start": 604.4,
+  "duration": 3.96,
+  "text": "to a problem square. For example, the"
+ },
+ {
+  "start": 606.8,
+  "duration": 3.16,
+  "text": "problem might require a yellow square to"
+ },
+ {
+  "start": 608.36,
+  "duration": 3.64,
+  "text": "be placed next to a line of blue squares"
+ },
+ {
+  "start": 609.96,
+  "duration": 3.48,
+  "text": "in various orientations. These are"
+ },
+ {
+  "start": 612.0,
+  "duration": 2.72,
+  "text": "problems that are relatively easy for"
+ },
+ {
+  "start": 613.44,
+  "duration": 3.72,
+  "text": "humans to solve but proved to be"
+ },
+ {
+  "start": 614.72,
+  "duration": 3.84,
+  "text": "difficult for LLMs. The tasks are also"
+ },
+ {
+  "start": 617.16,
+  "duration": 3.36,
+  "text": "kept hidden so the logic couldn't be"
+ },
+ {
+  "start": 618.56,
+  "duration": 3.36,
+  "text": "trained into the models. Instead, the"
+ },
+ {
+  "start": 620.52,
+  "duration": 2.92,
+  "text": "test was trying to measure an LLM's"
+ },
+ {
+  "start": 621.92,
+  "duration": 3.76,
+  "text": "ability to learn new logic within"
+ },
+ {
+  "start": 623.44,
+  "duration": 4.24,
+  "text": "context and apply it to a novel problem."
+ },
+ {
+  "start": 625.68,
+  "duration": 4.36,
+  "text": "Basically, it set out to be a pure test"
+ },
+ {
+  "start": 627.68,
+  "duration": 4.36,
+  "text": "ability rather than memorization of how"
+ },
+ {
+  "start": 630.04,
+  "duration": 3.16,
+  "text": "to reason. Early results were pretty"
+ },
+ {
+  "start": 632.04,
+  "duration": 3.4,
+  "text": "compelling that this is a solid"
+ },
+ {
+  "start": 633.2,
+  "duration": 4.44,
+  "text": "approach. At the time that Arc AGI 1 was"
+ },
+ {
+  "start": 635.44,
+  "duration": 3.88,
+  "text": "released, no models had come within 50%"
+ },
+ {
+  "start": 637.64,
+  "duration": 3.08,
+  "text": "of human performance. Subsequent"
+ },
+ {
+  "start": 639.32,
+  "duration": 2.68,
+  "text": "releases improved on this score but the"
+ },
+ {
+  "start": 640.72,
+  "duration": 2.88,
+  "text": "models seemed to be making genuine"
+ },
+ {
+  "start": 642.0,
+  "duration": 3.56,
+  "text": "progress through reasoning. Then in"
+ },
+ {
+  "start": 643.6,
+  "duration": 4.2,
+  "text": "December of 2024, Open AI dropped a"
+ },
+ {
+  "start": 645.56,
+  "duration": 4.52,
+  "text": "bombshell. A preview version of their O3"
+ },
+ {
+  "start": 647.8,
+  "duration": 4.16,
+  "text": "model had achieved a 76% score on low"
+ },
+ {
+  "start": 650.08,
+  "duration": 3.72,
+  "text": "inference settings, exceeding the human"
+ },
+ {
+  "start": 651.96,
+  "duration": 3.8,
+  "text": "score for the first time. On high"
+ },
+ {
+  "start": 653.8,
+  "duration": 3.4,
+  "text": "settings, the score was 88"
+ },
+ {
+  "start": 655.76,
+  "duration": 3.4,
+  "text": "The O3 model had been trained on the"
+ },
+ {
+  "start": 657.2,
+  "duration": 3.72,
+  "text": "public data set but tested on a private"
+ },
+ {
+  "start": 659.16,
+  "duration": 3.16,
+  "text": "data set to achieve this score so there"
+ },
+ {
+  "start": 660.92,
+  "duration": 3.56,
+  "text": "was no risk the logic was trained into"
+ },
+ {
+  "start": 662.32,
+  "duration": 3.64,
+  "text": "the model. Arc wrote at the time, \"This"
+ },
+ {
+  "start": 664.48,
+  "duration": 3.68,
+  "text": "is a surprising and important step"
+ },
+ {
+  "start": 665.96,
+  "duration": 4.08,
+  "text": "function increase in AI capabilities,"
+ },
+ {
+  "start": 668.16,
+  "duration": 3.6,
+  "text": "showing novel task adaptation ability"
+ },
+ {
+  "start": 670.04,
+  "duration": 3.84,
+  "text": "never before seen in the GPT family"
+ },
+ {
+  "start": 671.76,
+  "duration": 3.12,
+  "text": "models.\" At the same time, Arc announced"
+ },
+ {
+  "start": 673.88,
+  "duration": 3.76,
+  "text": "that they would be updating their"
+ },
+ {
+  "start": 674.88,
+  "duration": 4.2,
+  "text": "benchmark for 2025 with Arc AGI 2. The"
+ },
+ {
+  "start": 677.64,
+  "duration": 3.32,
+  "text": "new benchmark looks superficially"
+ },
+ {
+  "start": 679.08,
+  "duration": 3.84,
+  "text": "similar to the first. It contained the"
+ },
+ {
+  "start": 680.96,
+  "duration": 3.24,
+  "text": "same colored squares and was once again"
+ },
+ {
+  "start": 682.92,
+  "duration": 3.68,
+  "text": "designed to be easy for humans and"
+ },
+ {
+  "start": 684.2,
+  "duration": 3.639,
+  "text": "harder for LLMs. The key change was made"
+ },
+ {
+  "start": 686.6,
+  "duration": 2.64,
+  "text": "to counteract the innovation that"
+ },
+ {
+  "start": 687.839,
+  "duration": 3.921,
+  "text": "allowed the O series models to"
+ },
+ {
+  "start": 689.24,
+  "duration": 4.0,
+  "text": "outperform, which is test time compute."
+ },
+ {
+  "start": 691.76,
+  "duration": 3.44,
+  "text": "It kind of seems quaint now but at the"
+ },
+ {
+  "start": 693.24,
+  "duration": 3.599,
+  "text": "time the idea of making a model reason"
+ },
+ {
+  "start": 695.2,
+  "duration": 3.84,
+  "text": "for longer was a paradigm shifting"
+ },
+ {
+  "start": 696.839,
+  "duration": 4.361,
+  "text": "innovation. With O3, Open AI had"
+ },
+ {
+  "start": 699.04,
+  "duration": 3.799,
+  "text": "extended test time compute enough to"
+ },
+ {
+  "start": 701.2,
+  "duration": 3.56,
+  "text": "maintain context between problems and"
+ },
+ {
+  "start": 702.839,
+  "duration": 3.641,
+  "text": "learn iteratively throughout the test."
+ },
+ {
+  "start": 704.76,
+  "duration": 3.72,
+  "text": "In order to pressure test this approach,"
+ },
+ {
+  "start": 706.48,
+  "duration": 3.32,
+  "text": "Arc added a new twist to the problems."
+ },
+ {
+  "start": 708.48,
+  "duration": 2.56,
+  "text": "Rather than simply adding a square"
+ },
+ {
+  "start": 709.8,
+  "duration": 3.32,
+  "text": "according to the pattern, there were now"
+ },
+ {
+  "start": 711.04,
+  "duration": 3.84,
+  "text": "three new styles of tests. Symbolic"
+ },
+ {
+  "start": 713.12,
+  "duration": 2.88,
+  "text": "interpretation where the LLM was tasked"
+ },
+ {
+  "start": 714.88,
+  "duration": 3.16,
+  "text": "with interpreting more meaning within"
+ },
+ {
+  "start": 716.0,
+  "duration": 3.4,
+  "text": "the symbols. For example, tasks where"
+ },
+ {
+  "start": 718.04,
+  "duration": 3.16,
+  "text": "shapes needed to be colored differently"
+ },
+ {
+  "start": 719.4,
+  "duration": 3.2,
+  "text": "according to how many holes they have. A"
+ },
+ {
+  "start": 721.2,
+  "duration": 2.92,
+  "text": "second new set of tasks required"
+ },
+ {
+  "start": 722.6,
+  "duration": 2.88,
+  "text": "applying multiple rules within the same"
+ },
+ {
+  "start": 724.12,
+  "duration": 3.36,
+  "text": "problem set, which they called"
+ },
+ {
+  "start": 725.48,
+  "duration": 3.56,
+  "text": "compositional reasoning. And a final new"
+ },
+ {
+  "start": 727.48,
+  "duration": 3.44,
+  "text": "set of tasks added context to the"
+ },
+ {
+  "start": 729.04,
+  "duration": 3.799,
+  "text": "problem where logic was no longer"
+ },
+ {
+  "start": 730.92,
+  "duration": 4.24,
+  "text": "universally applied but depended on"
+ },
+ {
+  "start": 732.839,
+  "duration": 3.921,
+  "text": "context. For example, shapes with a red"
+ },
+ {
+  "start": 735.16,
+  "duration": 2.84,
+  "text": "border need to be shifted to the right"
+ },
+ {
+  "start": 736.76,
+  "duration": 3.2,
+  "text": "while shapes with a blue border need to"
+ },
+ {
+  "start": 738.0,
+  "duration": 3.44,
+  "text": "be shifted to the left. Again, all of"
+ },
+ {
+  "start": 739.96,
+  "duration": 3.36,
+  "text": "these problems remain fairly simple for"
+ },
+ {
+  "start": 741.44,
+  "duration": 3.92,
+  "text": "humans but the additional complexities"
+ },
+ {
+  "start": 743.32,
+  "duration": 4.44,
+  "text": "were designed to overload LLM context"
+ },
+ {
+  "start": 745.36,
+  "duration": 5.08,
+  "text": "and test pure reasoning ability."
+ },
+ {
+  "start": 747.76,
+  "duration": 5.36,
+  "text": "The test held up well for most of 2025."
+ },
+ {
+  "start": 750.44,
+  "duration": 3.96,
+  "text": "Most model releases scored below 30%. At"
+ },
+ {
+  "start": 753.12,
+  "duration": 3.32,
+  "text": "the very end of the year and as this"
+ },
+ {
+  "start": 754.4,
+  "duration": 4.72,
+  "text": "year got underway, things escalated"
+ },
+ {
+  "start": 756.44,
+  "duration": 4.36,
+  "text": "dramatically. Gemini 3.1 Pro scored"
+ },
+ {
+  "start": 759.12,
+  "duration": 3.92,
+  "text": "77.1%"
+ },
+ {
+  "start": 760.8,
+  "duration": 5.72,
+  "text": "and 96 cents per task in February. In"
+ },
+ {
+  "start": 763.04,
+  "duration": 6.6,
+  "text": "March, Opus 4.6 achieved a 68.8% score."
+ },
+ {
+  "start": 766.52,
+  "duration": 4.76,
+  "text": "GPT-5 4 Pro achieved 83.3%"
+ },
+ {
+  "start": 769.64,
+  "duration": 5.92,
+  "text": "and Gemini 3 DeepThink is the current"
+ },
+ {
+  "start": 771.28,
+  "duration": 6.2,
+  "text": "leader at 84.6% and 13.62 per task."
+ },
+ {
+  "start": 775.56,
+  "duration": 4.2,
+  "text": "Basically, once again, as the benchmark"
+ },
+ {
+  "start": 777.48,
+  "duration": 5.08,
+  "text": "got saturated, we needed something new."
+ },
+ {
+  "start": 779.76,
+  "duration": 4.92,
+  "text": "Which gets us to Arc AGI 3. In an X post"
+ },
+ {
+  "start": 782.56,
+  "duration": 4.96,
+  "text": "introducing the test on Wednesday, Arc"
+ },
+ {
+  "start": 784.68,
+  "duration": 4.6,
+  "text": "writes, \"Announcing Arc AGI 3, the only"
+ },
+ {
+  "start": 787.52,
+  "duration": 3.48,
+  "text": "unsaturated agentic general intelligence"
+ },
+ {
+  "start": 789.28,
+  "duration": 4.92,
+  "text": "benchmark in the world. Humans score"
+ },
+ {
+  "start": 791.0,
+  "duration": 5.48,
+  "text": "100%, AI less than 1%. This human-AI gap"
+ },
+ {
+  "start": 794.2,
+  "duration": 4.0,
+  "text": "demonstrates we do not yet have AGI."
+ },
+ {
+  "start": 796.48,
+  "duration": 4.72,
+  "text": "Most benchmarks test what models already"
+ },
+ {
+  "start": 798.2,
+  "duration": 4.76,
+  "text": "know. Arc AGI 3 tests how they learn."
+ },
+ {
+  "start": 801.2,
+  "duration": 4.04,
+  "text": "Now, the test is a complete rethink on"
+ },
+ {
+  "start": 802.96,
+  "duration": 3.84,
+  "text": "the Arc AGI formula. The static grids of"
+ },
+ {
+  "start": 805.24,
+  "duration": 4.08,
+  "text": "colored squares are gone. In their"
+ },
+ {
+  "start": 806.8,
+  "duration": 4.32,
+  "text": "place, Arc has designed a series of 135"
+ },
+ {
+  "start": 809.32,
+  "duration": 3.96,
+  "text": "simple graphical games that require the"
+ },
+ {
+  "start": 811.12,
+  "duration": 3.6,
+  "text": "LLM to manipulate the grid in real time."
+ },
+ {
+  "start": 813.28,
+  "duration": 3.0,
+  "text": "They have no instructions so the model"
+ },
+ {
+  "start": 814.72,
+  "duration": 3.4,
+  "text": "needs to explore the environment, figure"
+ },
+ {
+  "start": 816.28,
+  "duration": 3.84,
+  "text": "out how it works, execute a plan, and"
+ },
+ {
+  "start": 818.12,
+  "duration": 3.84,
+  "text": "adapt on the fly to what it sees. In"
+ },
+ {
+  "start": 820.12,
+  "duration": 3.24,
+  "text": "their early testing, Arc observed models"
+ },
+ {
+  "start": 821.96,
+  "duration": 3.08,
+  "text": "failing by mistaking one game for"
+ },
+ {
+  "start": 823.36,
+  "duration": 3.24,
+  "text": "another, carrying over theories between"
+ },
+ {
+  "start": 825.04,
+  "duration": 4.44,
+  "text": "games, and failing to forecast cause and"
+ },
+ {
+  "start": 826.6,
+  "duration": 4.88,
+  "text": "effect. Arc wrote, \"Arc AGI 3 gives us a"
+ },
+ {
+  "start": 829.48,
+  "duration": 4.04,
+  "text": "formal measure to compare human and AI"
+ },
+ {
+  "start": 831.48,
+  "duration": 3.52,
+  "text": "skill acquisition efficiency. Humans"
+ },
+ {
+  "start": 833.52,
+  "duration": 3.6,
+  "text": "don't brute force, they build mental"
+ },
+ {
+  "start": 835.0,
+  "duration": 4.64,
+  "text": "models, test ideas, and refine quickly."
+ },
+ {
+  "start": 837.12,
+  "duration": 5.48,
+  "text": "How close AI is to that? Spoiler, not"
+ },
+ {
+  "start": 839.64,
+  "duration": 4.84,
+  "text": "close. And unlike Arc AGI 2, we are"
+ },
+ {
+  "start": 842.6,
+  "duration": 3.4,
+  "text": "starting at ground zero. None of the"
+ },
+ {
+  "start": 844.48,
+  "duration": 3.2,
+  "text": "frontier models can complete this test"
+ },
+ {
+  "start": 846.0,
+  "duration": 4.08,
+  "text": "with any level of competency, each"
+ },
+ {
+  "start": 847.68,
+  "duration": 4.52,
+  "text": "scoring less than 1%. Google DeepMind's"
+ },
+ {
+  "start": 850.08,
+  "duration": 3.52,
+  "text": "Sha Ma shared one of Gemini's playbacks,"
+ },
+ {
+  "start": 852.2,
+  "duration": 3.16,
+  "text": "which are all publicly available in the"
+ },
+ {
+  "start": 853.6,
+  "duration": 3.96,
+  "text": "replay section of the Arc website. She"
+ },
+ {
+  "start": 855.36,
+  "duration": 4.32,
+  "text": "wrote, \"Poor Gemini straight thought it"
+ },
+ {
+  "start": 857.56,
+  "duration": 4.0,
+  "text": "was playing Activision Tennis.\" Now, not"
+ },
+ {
+  "start": 859.68,
+  "duration": 4.12,
+  "text": "everyone is a fan of how this is set up."
+ },
+ {
+  "start": 861.56,
+  "duration": 4.24,
+  "text": "Lassana Scaling AI 1 writes,"
+ },
+ {
+  "start": 863.8,
+  "duration": 3.96,
+  "text": "\"The scoring of Arc AGI 3 doesn't tell"
+ },
+ {
+  "start": 865.8,
+  "duration": 3.64,
+  "text": "you how many levels the models completed"
+ },
+ {
+  "start": 867.76,
+  "duration": 3.36,
+  "text": "but how efficiently they completed them"
+ },
+ {
+  "start": 869.44,
+  "duration": 3.84,
+  "text": "compared to humans, actually using"
+ },
+ {
+  "start": 871.12,
+  "duration": 4.2,
+  "text": "squared efficiency. Meaning if a human"
+ },
+ {
+  "start": 873.28,
+  "duration": 4.04,
+  "text": "took 10 steps to solve it and the model"
+ },
+ {
+  "start": 875.32,
+  "duration": 4.68,
+  "text": "100 steps, then the model gets a score"
+ },
+ {
+  "start": 877.32,
+  "duration": 4.2,
+  "text": "of 1%. The implication, they write, that"
+ },
+ {
+  "start": 880.0,
+  "duration": 3.56,
+  "text": "this means scores are not comparable to"
+ },
+ {
+  "start": 881.52,
+  "duration": 3.08,
+  "text": "the first two Arc tests.\""
+ },
+ {
+  "start": 883.56,
+  "duration": 3.12,
+  "text": "On the other end of the spectrum, AI"
+ },
+ {
+  "start": 884.6,
+  "duration": 3.76,
+  "text": "researcher Brandon Hancock commented on"
+ },
+ {
+  "start": 886.68,
+  "duration": 4.0,
+  "text": "the elegance of the benchmark. He"
+ },
+ {
+  "start": 888.36,
+  "duration": 3.88,
+  "text": "writes, \"An alien species with zero"
+ },
+ {
+  "start": 890.68,
+  "duration": 3.44,
+  "text": "knowledge of human language could ace"
+ },
+ {
+  "start": 892.24,
+  "duration": 3.52,
+  "text": "Arc AGI 3 on day one and I think that's"
+ },
+ {
+  "start": 894.12,
+  "duration": 3.56,
+  "text": "beautiful. In a time when AI is"
+ },
+ {
+  "start": 895.76,
+  "duration": 3.52,
+  "text": "dominated by language models, it's"
+ },
+ {
+  "start": 897.68,
+  "duration": 3.12,
+  "text": "refreshing to have a frontier benchmark,"
+ },
+ {
+  "start": 899.28,
+  "duration": 3.12,
+  "text": "the only one that I'm aware of, that"
+ },
+ {
+  "start": 900.8,
+  "duration": 3.68,
+  "text": "requires zero language ability or"
+ },
+ {
+  "start": 902.4,
+  "duration": 3.6,
+  "text": "cultural knowledge to solve. Intelligent"
+ },
+ {
+  "start": 904.48,
+  "duration": 3.72,
+  "text": "does not mean speaks English or speaks"
+ },
+ {
+  "start": 906.0,
+  "duration": 3.68,
+  "text": "Python. I'm reminded of classic first"
+ },
+ {
+  "start": 908.2,
+  "duration": 2.72,
+  "text": "encounter sci-fi storylines where"
+ },
+ {
+  "start": 909.68,
+  "duration": 3.04,
+  "text": "intelligent species are able to"
+ },
+ {
+  "start": 910.92,
+  "duration": 3.84,
+  "text": "communicate well before they hash out a"
+ },
+ {
+  "start": 912.72,
+  "duration": 3.56,
+  "text": "common spoken or written language simply"
+ },
+ {
+  "start": 914.76,
+  "duration": 3.4,
+  "text": "based on universal math, science, and"
+ },
+ {
+  "start": 916.28,
+  "duration": 3.36,
+  "text": "reasoning concepts. AI has gotten"
+ },
+ {
+  "start": 918.16,
+  "duration": 3.2,
+  "text": "complex enough that it behaves much more"
+ },
+ {
+  "start": 919.64,
+  "duration": 3.64,
+  "text": "like an alien species than a next token"
+ },
+ {
+  "start": 921.36,
+  "duration": 4.04,
+  "text": "predictor at this point.\" François"
+ },
+ {
+  "start": 923.28,
+  "duration": 3.28,
+  "text": "Chollet, one of the creators of Arc AGI,"
+ },
+ {
+  "start": 925.4,
+  "duration": 3.4,
+  "text": "warned that this won't be the one"
+ },
+ {
+  "start": 926.56,
+  "duration": 4.44,
+  "text": "benchmark to rule them all, commenting,"
+ },
+ {
+  "start": 928.8,
+  "duration": 4.48,
+  "text": "\"Keep in mind, Arc AGI is not a final"
+ },
+ {
+  "start": 931.0,
+  "duration": 4.079,
+  "text": "exam that you pass to claim AGI. The"
+ },
+ {
+  "start": 933.28,
+  "duration": 3.24,
+  "text": "benchmark's target the residual gap"
+ },
+ {
+  "start": 935.079,
+  "duration": 3.321,
+  "text": "between what's hard for AI and what's"
+ },
+ {
+  "start": 936.52,
+  "duration": 3.8,
+  "text": "easy for humans. It's meant to be a tool"
+ },
+ {
+  "start": 938.4,
+  "duration": 3.36,
+  "text": "to measure AGI progress and to drive"
+ },
+ {
+  "start": 940.32,
+  "duration": 3.8,
+  "text": "researchers towards the most important"
+ },
+ {
+  "start": 941.76,
+  "duration": 3.84,
+  "text": "open problems on the way to AGI. So,"
+ },
+ {
+  "start": 944.12,
+  "duration": 3.4,
+  "text": "it's a moving target designed to track"
+ },
+ {
+  "start": 945.6,
+  "duration": 3.76,
+  "text": "the frontier. As AI evolves, the"
+ },
+ {
+  "start": 947.52,
+  "duration": 4.16,
+  "text": "benchmark evolves to spotlight the exact"
+ },
+ {
+  "start": 949.36,
+  "duration": 3.44,
+  "text": "problems we haven't solved yet.\""
+ },
+ {
+  "start": 951.68,
+  "duration": 2.36,
+  "text": "And I think maybe that's the big"
+ },
+ {
+  "start": 952.8,
+  "duration": 4.039,
+  "text": "takeaway."
+ },
+ {
+  "start": 954.04,
+  "duration": 4.6,
+  "text": "The idea of trying to {quote} solve"
+ },
+ {
+  "start": 956.839,
+  "duration": 3.401,
+  "text": "benchmark saturation is probably as"
+ },
+ {
+  "start": 958.64,
+  "duration": 3.48,
+  "text": "simple as not assuming that benchmarks"
+ },
+ {
+  "start": 960.24,
+  "duration": 3.12,
+  "text": "are going to last all that long. Just as"
+ },
+ {
+  "start": 962.12,
+  "duration": 2.8,
+  "text": "we need innovation in the way that we"
+ },
+ {
+  "start": 963.36,
+  "duration": 2.719,
+  "text": "build these models, we're going to need"
+ },
+ {
+  "start": 964.92,
+  "duration": 3.12,
+  "text": "innovation in the way that we measure"
+ },
+ {
+  "start": 966.079,
+  "duration": 3.601,
+  "text": "them. It'll be interesting to see how"
+ },
+ {
+  "start": 968.04,
+  "duration": 3.2,
+  "text": "fast we have models that actually jump"
+ },
+ {
+  "start": 969.68,
+  "duration": 4.24,
+  "text": "from one to some meaningful percent on"
+ },
+ {
+  "start": 971.24,
+  "duration": 3.92,
+  "text": "Arc AGI 3, but of course before long,"
+ },
+ {
+  "start": 973.92,
+  "duration": 3.08,
+  "text": "we'll need some other new thing to"
+ },
+ {
+  "start": 975.16,
+  "duration": 2.96,
+  "text": "measure some other new capability. For"
+ },
+ {
+  "start": 977.0,
+  "duration": 2.839,
+  "text": "now, that is going to do it for today's"
+ },
+ {
+  "start": 978.12,
+  "duration": 3.6,
+  "text": "AI Daily Brief. Appreciate you listening"
+ },
+ {
+  "start": 979.839,
+  "duration": 4.921,
+  "text": "or watching as always and until next"
+ },
+ {
+  "start": 981.72,
+  "duration": 3.04,
+  "text": "time, peace."
+ }
+]

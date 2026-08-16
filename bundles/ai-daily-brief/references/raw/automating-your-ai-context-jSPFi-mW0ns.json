@@ -1,0 +1,1262 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.52,
+  "text": "And at least one's controversial feature"
+ },
+ {
+  "start": 2.44,
+  "duration": 3.88,
+  "text": "is coming to Open AI's Codex, but will"
+ },
+ {
+  "start": 4.52,
+  "duration": 4.0,
+  "text": "people's perceptions of it change now"
+ },
+ {
+  "start": 6.32,
+  "duration": 4.32,
+  "text": "that automating your AI context is so"
+ },
+ {
+  "start": 8.52,
+  "duration": 3.36,
+  "text": "much more valuable?"
+ },
+ {
+  "start": 10.64,
+  "duration": 3.36,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 11.88,
+  "duration": 4.52,
+  "text": "Headlines edition. All the daily AI news"
+ },
+ {
+  "start": 14.0,
+  "duration": 4.2,
+  "text": "you need in around 5 minutes."
+ },
+ {
+  "start": 16.4,
+  "duration": 4.88,
+  "text": "We kick off today with an interesting"
+ },
+ {
+  "start": 18.2,
+  "duration": 4.68,
+  "text": "new feature announcement from Open AI."
+ },
+ {
+  "start": 21.28,
+  "duration": 4.0,
+  "text": "The company has shipped a new memory"
+ },
+ {
+  "start": 22.88,
+  "duration": 3.8,
+  "text": "feature in Codex called Chronicle. This"
+ },
+ {
+  "start": 25.28,
+  "duration": 2.96,
+  "text": "is something that we've seen a couple"
+ },
+ {
+  "start": 26.68,
+  "duration": 3.04,
+  "text": "times from a couple different companies,"
+ },
+ {
+  "start": 28.24,
+  "duration": 3.24,
+  "text": "although it's usually been surrounded by"
+ },
+ {
+  "start": 29.72,
+  "duration": 3.72,
+  "text": "some amount of controversy, and in the"
+ },
+ {
+  "start": 31.48,
+  "duration": 4.72,
+  "text": "case of Microsoft, a withdrawal of the"
+ },
+ {
+  "start": 33.44,
+  "duration": 4.4,
+  "text": "feature entirely. Chronicle uses screen"
+ },
+ {
+  "start": 36.2,
+  "duration": 3.44,
+  "text": "captures to build a running memory of"
+ },
+ {
+  "start": 37.84,
+  "duration": 3.56,
+  "text": "your workflow. The feature runs as a"
+ },
+ {
+  "start": 39.64,
+  "duration": 3.28,
+  "text": "background agent taking screenshots and"
+ },
+ {
+  "start": 41.4,
+  "duration": 3.8,
+  "text": "deciphering them to build memory as you"
+ },
+ {
+  "start": 42.92,
+  "duration": 3.88,
+  "text": "work. Now, Open AI framed the feature as"
+ },
+ {
+  "start": 45.2,
+  "duration": 3.36,
+  "text": "being a quality of life improvement by"
+ },
+ {
+  "start": 46.8,
+  "duration": 4.28,
+  "text": "improving Codex's understanding of your"
+ },
+ {
+  "start": 48.56,
+  "duration": 3.96,
+  "text": "work. They write, \"With Chronicle, Codex"
+ },
+ {
+  "start": 51.08,
+  "duration": 3.56,
+  "text": "can better understand what you mean by"
+ },
+ {
+  "start": 52.52,
+  "duration": 3.6,
+  "text": "this or that, like an error on screen, a"
+ },
+ {
+  "start": 54.64,
+  "duration": 3.48,
+  "text": "doc you have open, or that thing you"
+ },
+ {
+  "start": 56.12,
+  "duration": 4.08,
+  "text": "were working on 2 weeks ago. Over time,"
+ },
+ {
+  "start": 58.12,
+  "duration": 3.52,
+  "text": "it helps Codex learn how you work, the"
+ },
+ {
+  "start": 60.2,
+  "duration": 3.36,
+  "text": "tools you use, the projects you return"
+ },
+ {
+  "start": 61.64,
+  "duration": 3.48,
+  "text": "to, and the workflows you rely on.\" Now,"
+ },
+ {
+  "start": 63.56,
+  "duration": 3.24,
+  "text": "they did warn that because Chronicle"
+ },
+ {
+  "start": 65.12,
+  "duration": 3.88,
+  "text": "runs as a background agent, it will chew"
+ },
+ {
+  "start": 66.8,
+  "duration": 4.52,
+  "text": "through usage limits. Screenshots also"
+ },
+ {
+  "start": 69.0,
+  "duration": 4.08,
+  "text": "carry some privacy and access concerns."
+ },
+ {
+  "start": 71.32,
+  "duration": 3.04,
+  "text": "All my old Bitcoin buddies are screaming"
+ },
+ {
+  "start": 73.08,
+  "duration": 3.04,
+  "text": "at their screens right now as I talk"
+ },
+ {
+  "start": 74.36,
+  "duration": 3.96,
+  "text": "about this. Yet, it's pretty clear that"
+ },
+ {
+  "start": 76.12,
+  "duration": 3.84,
+  "text": "Open AI is aiming this at professionals"
+ },
+ {
+  "start": 78.32,
+  "duration": 3.04,
+  "text": "who are working on secure systems with"
+ },
+ {
+  "start": 79.96,
+  "duration": 3.16,
+  "text": "their company picking up the tab on"
+ },
+ {
+  "start": 81.36,
+  "duration": 3.36,
+  "text": "usage. Apparently, the feature has"
+ },
+ {
+  "start": 83.12,
+  "duration": 3.16,
+  "text": "impressed internally with President Greg"
+ },
+ {
+  "start": 84.72,
+  "duration": 3.64,
+  "text": "Brockman writing that it feels, quote,"
+ },
+ {
+  "start": 86.28,
+  "duration": 3.76,
+  "text": "\"Surprisingly magical to use,\" and Sam"
+ },
+ {
+  "start": 88.36,
+  "duration": 3.2,
+  "text": "Altman saying the internal working name"
+ },
+ {
+  "start": 90.04,
+  "duration": 3.92,
+  "text": "for this was telepathy, and it feels"
+ },
+ {
+  "start": 91.56,
+  "duration": 4.08,
+  "text": "like it. Codex developer Thibaud wrote,"
+ },
+ {
+  "start": 93.96,
+  "duration": 3.48,
+  "text": "\"This is early and consumes quite a bit"
+ },
+ {
+  "start": 95.64,
+  "duration": 4.2,
+  "text": "of tokens, but it has changed how I and"
+ },
+ {
+  "start": 97.44,
+  "duration": 3.6,
+  "text": "many folks at Open AI use Codex.\" Now,"
+ },
+ {
+  "start": 99.84,
+  "duration": 2.56,
+  "text": "like I said, when these types of"
+ },
+ {
+  "start": 101.04,
+  "duration": 3.04,
+  "text": "features were first announced, they were"
+ },
+ {
+  "start": 102.4,
+  "duration": 3.6,
+  "text": "announced as general Windows type"
+ },
+ {
+  "start": 104.08,
+  "duration": 3.76,
+  "text": "features, as opposed to something very"
+ },
+ {
+  "start": 106.0,
+  "duration": 3.84,
+  "text": "discreet for a specific type of builder"
+ },
+ {
+  "start": 107.84,
+  "duration": 3.88,
+  "text": "in a specific use case, and maybe for"
+ },
+ {
+  "start": 109.84,
+  "duration": 3.88,
+  "text": "people the balance on the value of that"
+ },
+ {
+  "start": 111.72,
+  "duration": 3.8,
+  "text": "context changes how people will receive"
+ },
+ {
+  "start": 113.72,
+  "duration": 3.4,
+  "text": "it. I've always sort of thought that"
+ },
+ {
+  "start": 115.52,
+  "duration": 3.16,
+  "text": "this was one of those features that one"
+ },
+ {
+  "start": 117.12,
+  "duration": 3.08,
+  "text": "group who is used to an old way of doing"
+ },
+ {
+  "start": 118.68,
+  "duration": 3.32,
+  "text": "things will think is a complete privacy"
+ },
+ {
+  "start": 120.2,
+  "duration": 4.36,
+  "text": "nightmare, but in the future people will"
+ },
+ {
+  "start": 122.0,
+  "duration": 4.44,
+  "text": "just assume is completely normal."
+ },
+ {
+  "start": 124.56,
+  "duration": 3.32,
+  "text": "Staying on new features for a moment,"
+ },
+ {
+  "start": 126.44,
+  "duration": 2.72,
+  "text": "Anthropic has shipped a new feature for"
+ },
+ {
+  "start": 127.88,
+  "duration": 3.44,
+  "text": "Cohere that they're calling live"
+ },
+ {
+  "start": 129.16,
+  "duration": 4.0,
+  "text": "artifacts. The feature allows users to"
+ },
+ {
+  "start": 131.32,
+  "duration": 3.76,
+  "text": "build dashboards and trackers using live"
+ },
+ {
+  "start": 133.16,
+  "duration": 3.6,
+  "text": "data feeds from connected apps. Cohere"
+ },
+ {
+  "start": 135.08,
+  "duration": 3.4,
+  "text": "developer Felix Riesberg showed off the"
+ },
+ {
+  "start": 136.76,
+  "duration": 3.32,
+  "text": "flexibility of the new feature. In one"
+ },
+ {
+  "start": 138.48,
+  "duration": 3.04,
+  "text": "example, the feature produced a"
+ },
+ {
+  "start": 140.08,
+  "duration": 2.84,
+  "text": "personalized morning brief including a"
+ },
+ {
+  "start": 141.52,
+  "duration": 3.44,
+  "text": "meeting schedule, correspondence"
+ },
+ {
+  "start": 142.92,
+  "duration": 3.08,
+  "text": "summary, and key status indicators. In"
+ },
+ {
+  "start": 144.96,
+  "duration": 3.28,
+  "text": "another, the feature produced a"
+ },
+ {
+  "start": 146.0,
+  "duration": 3.92,
+  "text": "dashboard for a fictional lunar mission."
+ },
+ {
+  "start": 148.24,
+  "duration": 4.08,
+  "text": "It feels to me like a lot of these"
+ },
+ {
+  "start": 149.92,
+  "duration": 4.28,
+  "text": "features from both Anthropic and Open AI"
+ },
+ {
+  "start": 152.32,
+  "duration": 3.6,
+  "text": "are in some ways, quote, unquote, just"
+ },
+ {
+  "start": 154.2,
+  "duration": 3.4,
+  "text": "UX upgrades on stuff you could already"
+ },
+ {
+  "start": 155.92,
+  "duration": 3.24,
+  "text": "do, but given that the whole point is"
+ },
+ {
+  "start": 157.6,
+  "duration": 3.92,
+  "text": "allowing you to do more faster and"
+ },
+ {
+  "start": 159.16,
+  "duration": 4.52,
+  "text": "better, UX upgrades that cement and"
+ },
+ {
+  "start": 161.52,
+  "duration": 4.2,
+  "text": "simplify workflows can be significant"
+ },
+ {
+  "start": 163.68,
+  "duration": 5.12,
+  "text": "unlocks for the people using them."
+ },
+ {
+  "start": 165.72,
+  "duration": 5.0,
+  "text": "Speaking of Anthropic, CEO Dario Amodei"
+ },
+ {
+  "start": 168.8,
+  "duration": 3.72,
+  "text": "met with key White House officials on"
+ },
+ {
+  "start": 170.72,
+  "duration": 3.88,
+  "text": "Friday to talk through the cybersecurity"
+ },
+ {
+  "start": 172.52,
+  "duration": 3.36,
+  "text": "implications of Mythos. Among others,"
+ },
+ {
+  "start": 174.6,
+  "duration": 2.72,
+  "text": "the White House Chief of Staff Susie"
+ },
+ {
+  "start": 175.88,
+  "duration": 3.24,
+  "text": "Wiles and Treasury Secretary Scott"
+ },
+ {
+  "start": 177.32,
+  "duration": 3.28,
+  "text": "Bessent were there. In a statement, the"
+ },
+ {
+  "start": 179.12,
+  "duration": 3.6,
+  "text": "White House called this a productive and"
+ },
+ {
+  "start": 180.6,
+  "duration": 4.36,
+  "text": "constructive introductory meeting. They"
+ },
+ {
+  "start": 182.72,
+  "duration": 4.12,
+  "text": "released a very milk toast generic kind"
+ },
+ {
+  "start": 184.96,
+  "duration": 3.28,
+  "text": "of statement, but given the hostile"
+ },
+ {
+  "start": 186.84,
+  "duration": 3.04,
+  "text": "rhetoric towards Anthropic recently,"
+ },
+ {
+  "start": 188.24,
+  "duration": 3.92,
+  "text": "many viewed this as the administration"
+ },
+ {
+  "start": 189.88,
+  "duration": 4.04,
+  "text": "walking back hostilities in recognition"
+ },
+ {
+  "start": 192.16,
+  "duration": 3.6,
+  "text": "that Anthropic's technology has big"
+ },
+ {
+  "start": 193.92,
+  "duration": 3.4,
+  "text": "implications for national security."
+ },
+ {
+  "start": 195.76,
+  "duration": 3.08,
+  "text": "Anthropic's lawsuit against the Pentagon"
+ },
+ {
+  "start": 197.32,
+  "duration": 3.16,
+  "text": "is still ongoing, and the State"
+ },
+ {
+  "start": 198.84,
+  "duration": 3.2,
+  "text": "Department, Health and Human Services,"
+ },
+ {
+  "start": 200.48,
+  "duration": 4.0,
+  "text": "and the Federal Housing Finance Agency"
+ },
+ {
+  "start": 202.04,
+  "duration": 3.64,
+  "text": "have all terminated Anthropic contracts."
+ },
+ {
+  "start": 204.48,
+  "duration": 3.44,
+  "text": "Of course, at the same time, over the"
+ },
+ {
+  "start": 205.68,
+  "duration": 4.04,
+  "text": "weekend, Axios reported that the NSA is"
+ },
+ {
+  "start": 207.92,
+  "duration": 3.0,
+  "text": "actively using the Mythos preview model"
+ },
+ {
+  "start": 209.72,
+  "duration": 2.72,
+  "text": "despite their parent agency, the"
+ },
+ {
+  "start": 210.92,
+  "duration": 4.04,
+  "text": "Department of Defense, insisting that"
+ },
+ {
+  "start": 212.44,
+  "duration": 4.24,
+  "text": "Anthropic is a supply chain risk. Axios"
+ },
+ {
+  "start": 214.96,
+  "duration": 2.92,
+  "text": "writes, \"The government's cybersecurity"
+ },
+ {
+  "start": 216.68,
+  "duration": 3.4,
+  "text": "needs appear to be outweighing the"
+ },
+ {
+  "start": 217.88,
+  "duration": 3.8,
+  "text": "Pentagon's feud with Anthropic.\" Adding"
+ },
+ {
+  "start": 220.08,
+  "duration": 3.64,
+  "text": "more evidence to the idea that there may"
+ },
+ {
+  "start": 221.68,
+  "duration": 4.04,
+  "text": "be a detente forming, President Donald"
+ },
+ {
+  "start": 223.72,
+  "duration": 3.52,
+  "text": "Trump himself this morning said, \"They,"
+ },
+ {
+  "start": 225.72,
+  "duration": 2.8,
+  "text": "Anthropic, came to the White House a few"
+ },
+ {
+  "start": 227.24,
+  "duration": 2.36,
+  "text": "days ago, and we had some very good"
+ },
+ {
+  "start": 228.52,
+  "duration": 3.08,
+  "text": "talks with them, and I think they're"
+ },
+ {
+  "start": 229.6,
+  "duration": 4.04,
+  "text": "shaping up. They're very smart. I think"
+ },
+ {
+  "start": 231.6,
+  "duration": 4.16,
+  "text": "we'll get along with them just fine.\""
+ },
+ {
+  "start": 233.64,
+  "duration": 4.16,
+  "text": "Now, the administration's actions mirror"
+ },
+ {
+  "start": 235.76,
+  "duration": 3.72,
+  "text": "a fairly significant response to Mythos"
+ },
+ {
+  "start": 237.8,
+  "duration": 3.08,
+  "text": "on Wall Street. Central bank heads"
+ },
+ {
+  "start": 239.48,
+  "duration": 2.92,
+  "text": "across the globe have put financial"
+ },
+ {
+  "start": 240.88,
+  "duration": 3.04,
+  "text": "institutions on high alert, and the"
+ },
+ {
+  "start": 242.4,
+  "duration": 3.36,
+  "text": "Mythos preview has expanded to cover"
+ },
+ {
+  "start": 243.92,
+  "duration": 3.04,
+  "text": "numerous other banks. When it launched,"
+ },
+ {
+  "start": 245.76,
+  "duration": 3.44,
+  "text": "the preview was only extended to"
+ },
+ {
+  "start": 246.96,
+  "duration": 3.68,
+  "text": "JPMorgan, but around a dozen major banks"
+ },
+ {
+  "start": 249.2,
+  "duration": 3.56,
+  "text": "across the US and the UK are now"
+ },
+ {
+  "start": 250.64,
+  "duration": 4.08,
+  "text": "participating. To be perfectly honest,"
+ },
+ {
+  "start": 252.76,
+  "duration": 3.84,
+  "text": "the whole conversation feels a little"
+ },
+ {
+  "start": 254.72,
+  "duration": 3.44,
+  "text": "bit like big institutions just waking up"
+ },
+ {
+  "start": 256.6,
+  "duration": 3.28,
+  "text": "to the fact that models in general have"
+ },
+ {
+  "start": 258.16,
+  "duration": 3.639,
+  "text": "gotten really good, as opposed to there"
+ },
+ {
+  "start": 259.88,
+  "duration": 3.92,
+  "text": "being some massive leap with this one"
+ },
+ {
+  "start": 261.799,
+  "duration": 3.681,
+  "text": "specifically. But, we did kind of get a"
+ },
+ {
+  "start": 263.8,
+  "duration": 3.16,
+  "text": "preview this week of what a heightened"
+ },
+ {
+  "start": 265.48,
+  "duration": 3.72,
+  "text": "pattern of security incidents might look"
+ },
+ {
+  "start": 266.96,
+  "duration": 3.96,
+  "text": "like. Two big ones were AI development"
+ },
+ {
+  "start": 269.2,
+  "duration": 4.0,
+  "text": "platform Vercel disclosed a major"
+ },
+ {
+  "start": 270.92,
+  "duration": 3.92,
+  "text": "security incident. Describing the attack"
+ },
+ {
+  "start": 273.2,
+  "duration": 2.72,
+  "text": "on Sunday, Vercel said that hackers had"
+ },
+ {
+  "start": 274.84,
+  "duration": 2.96,
+  "text": "gained access to an employee's"
+ },
+ {
+  "start": 275.92,
+  "duration": 3.4,
+  "text": "credentials through a third-party tool."
+ },
+ {
+  "start": 277.8,
+  "duration": 3.24,
+  "text": "The hackers then accessed additional"
+ },
+ {
+  "start": 279.32,
+  "duration": 3.64,
+  "text": "Vercel systems and exfiltrated user"
+ },
+ {
+  "start": 281.04,
+  "duration": 3.36,
+  "text": "data. Vercel said the incident impacted"
+ },
+ {
+  "start": 282.96,
+  "duration": 3.04,
+  "text": "only a limited group of users who have"
+ },
+ {
+  "start": 284.4,
+  "duration": 2.8,
+  "text": "been contacted. The attack was"
+ },
+ {
+  "start": 286.0,
+  "duration": 3.16,
+  "text": "attributed to criminal hacking and"
+ },
+ {
+  "start": 287.2,
+  "duration": 3.48,
+  "text": "extortion group ShinyHunters. The group"
+ },
+ {
+  "start": 289.16,
+  "duration": 3.24,
+  "text": "has carried out dozens of sophisticated"
+ },
+ {
+  "start": 290.68,
+  "duration": 3.44,
+  "text": "attacks since 2020, claiming"
+ },
+ {
+  "start": 292.4,
+  "duration": 3.72,
+  "text": "responsibility for last year's Jaguar"
+ },
+ {
+  "start": 294.12,
+  "duration": 3.68,
+  "text": "and Land Rover and Ticketmaster attacks,"
+ },
+ {
+  "start": 296.12,
+  "duration": 3.28,
+  "text": "and more recently hitting Rockstar Games"
+ },
+ {
+  "start": 297.8,
+  "duration": 3.92,
+  "text": "through their Snowflake integration."
+ },
+ {
+  "start": 299.4,
+  "duration": 3.56,
+  "text": "Vercel CEO Guillermo Rauch commented,"
+ },
+ {
+  "start": 301.72,
+  "duration": 3.04,
+  "text": "\"We believe the attacking group to be"
+ },
+ {
+  "start": 302.96,
+  "duration": 4.8,
+  "text": "highly sophisticated, and I strongly"
+ },
+ {
+  "start": 304.76,
+  "duration": 4.6,
+  "text": "suspect significantly accelerated by AI."
+ },
+ {
+  "start": 307.76,
+  "duration": 3.96,
+  "text": "They moved with surprising velocity and"
+ },
+ {
+  "start": 309.36,
+  "duration": 4.4,
+  "text": "in-depth understanding of Vercel.\""
+ },
+ {
+  "start": 311.72,
+  "duration": 3.56,
+  "text": "Lastly today, in some financing news,"
+ },
+ {
+  "start": 313.76,
+  "duration": 2.92,
+  "text": "DeepSeek is taking outside investment"
+ },
+ {
+  "start": 315.28,
+  "duration": 3.32,
+  "text": "for the first time in order to compete"
+ },
+ {
+  "start": 316.68,
+  "duration": 3.36,
+  "text": "with the US mega labs. Until now, the"
+ },
+ {
+  "start": 318.6,
+  "duration": 2.92,
+  "text": "lab has been entirely funded by their"
+ },
+ {
+  "start": 320.04,
+  "duration": 3.24,
+  "text": "parent company, Chinese hedge fund"
+ },
+ {
+  "start": 321.52,
+  "duration": 3.48,
+  "text": "HighFlyer Capital. The Information"
+ },
+ {
+  "start": 323.28,
+  "duration": 3.36,
+  "text": "reports that DeepSeek is now seeking 300"
+ },
+ {
+  "start": 325.0,
+  "duration": 3.52,
+  "text": "million at a valuation of at least 10"
+ },
+ {
+  "start": 326.64,
+  "duration": 3.48,
+  "text": "billion. Worth noting that while the sum"
+ },
+ {
+  "start": 328.52,
+  "duration": 2.92,
+  "text": "is nothing to sneeze at, it's a drop in"
+ },
+ {
+  "start": 330.12,
+  "duration": 3.68,
+  "text": "the ocean compared to the war chests"
+ },
+ {
+  "start": 331.44,
+  "duration": 4.04,
+  "text": "being assembled in the US. Cohere is"
+ },
+ {
+  "start": 333.8,
+  "duration": 3.72,
+  "text": "seeking 2 billion in funding in a round"
+ },
+ {
+  "start": 335.48,
+  "duration": 3.56,
+  "text": "that would see them valued at 50 billion"
+ },
+ {
+  "start": 337.52,
+  "duration": 3.16,
+  "text": "dollars. Bloomberg reports that"
+ },
+ {
+  "start": 339.04,
+  "duration": 2.96,
+  "text": "fundraising talks are active, with"
+ },
+ {
+  "start": 340.68,
+  "duration": 3.4,
+  "text": "previous backer Andreessen Horowitz"
+ },
+ {
+  "start": 342.0,
+  "duration": 3.52,
+  "text": "leading the round. Nvidia is also said"
+ },
+ {
+  "start": 344.08,
+  "duration": 2.96,
+  "text": "to be planning to participate along with"
+ },
+ {
+  "start": 345.52,
+  "duration": 3.24,
+  "text": "Thrive Capital. The round would be a"
+ },
+ {
+  "start": 347.04,
+  "duration": 4.04,
+  "text": "significant boost to Cohere's valuation,"
+ },
+ {
+  "start": 348.76,
+  "duration": 4.44,
+  "text": "which reached 29 billion last November."
+ },
+ {
+  "start": 351.08,
+  "duration": 3.72,
+  "text": "Separately, rumors are swirling that xAI"
+ },
+ {
+  "start": 353.2,
+  "duration": 3.48,
+  "text": "plans to provide compute to power"
+ },
+ {
+  "start": 354.8,
+  "duration": 4.28,
+  "text": "Cohere's next training run. Business"
+ },
+ {
+  "start": 356.68,
+  "duration": 4.24,
+  "text": "Insider reports that Composer 2.5,"
+ },
+ {
+  "start": 359.08,
+  "duration": 3.48,
+  "text": "Cohere's proprietary model, will be"
+ },
+ {
+  "start": 360.92,
+  "duration": 4.0,
+  "text": "trained on tens of thousands of GPUs"
+ },
+ {
+  "start": 362.56,
+  "duration": 4.32,
+  "text": "housed in xAI's data centers. In public"
+ },
+ {
+  "start": 364.92,
+  "duration": 3.4,
+  "text": "markets, TSMC has booked another quarter"
+ },
+ {
+  "start": 366.88,
+  "duration": 3.04,
+  "text": "of record revenue and are forecasting"
+ },
+ {
+  "start": 368.32,
+  "duration": 3.88,
+  "text": "even more over the coming year. The"
+ },
+ {
+  "start": 369.92,
+  "duration": 4.08,
+  "text": "company reported a 35% boost to revenue"
+ },
+ {
+  "start": 372.2,
+  "duration": 3.56,
+  "text": "over the past year, and also lifted"
+ },
+ {
+  "start": 374.0,
+  "duration": 4.4,
+  "text": "growth expectations above 30% for the"
+ },
+ {
+  "start": 375.76,
+  "duration": 4.0,
+  "text": "coming year. Now, news isn't all good."
+ },
+ {
+  "start": 378.4,
+  "duration": 2.76,
+  "text": "Bloomberg, for example, discussed a"
+ },
+ {
+  "start": 379.76,
+  "duration": 3.12,
+  "text": "range of factors that could weigh on"
+ },
+ {
+  "start": 381.16,
+  "duration": 3.8,
+  "text": "TSMC's profitability over the coming"
+ },
+ {
+  "start": 382.88,
+  "duration": 3.88,
+  "text": "year, including rising input costs from"
+ },
+ {
+  "start": 384.96,
+  "duration": 3.08,
+  "text": "the Iran war, and questions about the"
+ },
+ {
+  "start": 386.76,
+  "duration": 3.0,
+  "text": "continued growth of the data center"
+ },
+ {
+  "start": 388.04,
+  "duration": 4.04,
+  "text": "buildout. But, for now, the story is"
+ },
+ {
+  "start": 389.76,
+  "duration": 4.08,
+  "text": "mostly about capacity constraints. Fab"
+ },
+ {
+  "start": 392.08,
+  "duration": 3.48,
+  "text": "manufacturer ASML can't supply"
+ },
+ {
+  "start": 393.84,
+  "duration": 4.24,
+  "text": "lithography machines fast enough to keep"
+ },
+ {
+  "start": 395.56,
+  "duration": 4.28,
+  "text": "up with TSMC's expansion plans. Memory"
+ },
+ {
+  "start": 398.08,
+  "duration": 3.16,
+  "text": "chip supply is another limitation."
+ },
+ {
+  "start": 399.84,
+  "duration": 3.04,
+  "text": "Nikkei Asia reports that the memory"
+ },
+ {
+  "start": 401.24,
+  "duration": 4.16,
+  "text": "shortage is expected to continue until"
+ },
+ {
+  "start": 402.88,
+  "duration": 4.28,
+  "text": "at least 2027. Chip producers are only"
+ },
+ {
+  "start": 405.4,
+  "duration": 3.28,
+  "text": "focusing on high-bandwidth memory for AI"
+ },
+ {
+  "start": 407.16,
+  "duration": 3.44,
+  "text": "chips to the exclusion of consumer"
+ },
+ {
+  "start": 408.68,
+  "duration": 3.52,
+  "text": "memory, with analysts saying the current"
+ },
+ {
+  "start": 410.6,
+  "duration": 4.0,
+  "text": "pace of production is only sufficient to"
+ },
+ {
+  "start": 412.2,
+  "duration": 3.8,
+  "text": "meet 60% of demand. New facilities are"
+ },
+ {
+  "start": 414.6,
+  "duration": 2.68,
+  "text": "being constructed by all the major"
+ },
+ {
+  "start": 416.0,
+  "duration": 3.32,
+  "text": "producers, but the first plans are"
+ },
+ {
+  "start": 417.28,
+  "duration": 3.48,
+  "text": "scheduled to come online only next year."
+ },
+ {
+  "start": 419.32,
+  "duration": 3.36,
+  "text": "Industry figures have flagged that the"
+ },
+ {
+  "start": 420.76,
+  "duration": 3.4,
+  "text": "shortage will continue much longer, with"
+ },
+ {
+  "start": 422.68,
+  "duration": 3.96,
+  "text": "some suggesting that supply constraints"
+ },
+ {
+  "start": 424.16,
+  "duration": 4.56,
+  "text": "will continue all the way out into 2030."
+ },
+ {
+  "start": 426.64,
+  "duration": 3.68,
+  "text": "Finally today, the vague posting has"
+ },
+ {
+  "start": 428.72,
+  "duration": 3.0,
+  "text": "reached a peak, and it seems very clear"
+ },
+ {
+  "start": 430.32,
+  "duration": 3.8,
+  "text": "that we are going to get some new Open"
+ },
+ {
+  "start": 431.72,
+  "duration": 4.48,
+  "text": "AI goodies in short order. Just as I was"
+ },
+ {
+  "start": 434.12,
+  "duration": 3.64,
+  "text": "finishing recording this, Open AI posted"
+ },
+ {
+  "start": 436.2,
+  "duration": 3.4,
+  "text": "a screenshot suggesting that at 3:00"
+ },
+ {
+  "start": 437.76,
+  "duration": 3.6,
+  "text": "p.m. Eastern today, there would be a"
+ },
+ {
+  "start": 439.6,
+  "duration": 3.16,
+  "text": "live stream from the company, and given"
+ },
+ {
+  "start": 441.36,
+  "duration": 3.2,
+  "text": "that they labeled the screenshot with"
+ },
+ {
+  "start": 442.76,
+  "duration": 3.08,
+  "text": "the caption, \"This is not a screenshot,\""
+ },
+ {
+  "start": 444.56,
+  "duration": 3.36,
+  "text": "it seems pretty clear that we're getting"
+ },
+ {
+  "start": 445.84,
+  "duration": 3.52,
+  "text": "their latest image model today. I'm sure"
+ },
+ {
+  "start": 447.92,
+  "duration": 2.6,
+  "text": "we will be discussing that tomorrow, but"
+ },
+ {
+  "start": 449.36,
+  "duration": 3.4,
+  "text": "for now, that's going to do it for"
+ },
+ {
+  "start": 450.52,
+  "duration": 5.4,
+  "text": "today's AI Daily Brief Headlines. Next"
+ },
+ {
+  "start": 452.76,
+  "duration": 3.16,
+  "text": "up, the main episode."
+ }
+]

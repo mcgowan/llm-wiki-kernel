@@ -1,0 +1,4707 @@
+[
+ {
+  "start": 0.64,
+  "duration": 4.719,
+  "text": "Today on the AI daily brief, a security"
+ },
+ {
+  "start": 3.28,
+  "duration": 5.52,
+  "text": "incident that has us asking just how"
+ },
+ {
+  "start": 5.359,
+  "duration": 5.841,
+  "text": "good is GPT6 really. Before that, in the"
+ },
+ {
+  "start": 8.8,
+  "duration": 4.24,
+  "text": "headlines, a new set of Google models,"
+ },
+ {
+  "start": 11.2,
+  "duration": 4.08,
+  "text": "but not necessarily the ones that we"
+ },
+ {
+  "start": 13.04,
+  "duration": 3.6,
+  "text": "wanted. The AI Daily Brief is a daily"
+ },
+ {
+  "start": 15.28,
+  "duration": 4.079,
+  "text": "podcast and video about the most"
+ },
+ {
+  "start": 16.64,
+  "duration": 4.16,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 19.359,
+  "duration": 3.281,
+  "text": "All right, friends. Welcome back to the"
+ },
+ {
+  "start": 20.8,
+  "duration": 4.559,
+  "text": "AI Daily Brief headlines edition. All"
+ },
+ {
+  "start": 22.64,
+  "duration": 5.04,
+  "text": "the daily AI news you need in around 5"
+ },
+ {
+  "start": 25.359,
+  "duration": 4.721,
+  "text": "minutes. In all of the recent model"
+ },
+ {
+  "start": 27.68,
+  "duration": 5.52,
+  "text": "talk, one lab that has been kind of"
+ },
+ {
+  "start": 30.08,
+  "duration": 5.2,
+  "text": "conspicuously absent is Google. It has"
+ },
+ {
+  "start": 33.2,
+  "duration": 3.76,
+  "text": "now been months and months since we got"
+ },
+ {
+  "start": 35.28,
+  "duration": 3.76,
+  "text": "any sort of update from them on their"
+ },
+ {
+  "start": 36.96,
+  "duration": 3.84,
+  "text": "Pro Series models, having to have"
+ },
+ {
+  "start": 39.04,
+  "duration": 4.4,
+  "text": "contented ourselves with just smaller"
+ },
+ {
+  "start": 40.8,
+  "duration": 4.72,
+  "text": "and faster models like 3.5 Flash."
+ },
+ {
+  "start": 43.44,
+  "duration": 4.32,
+  "text": "Yesterday's announcement did not bring"
+ },
+ {
+  "start": 45.52,
+  "duration": 4.32,
+  "text": "3.5 Pro, which has been rumored to be"
+ },
+ {
+  "start": 47.76,
+  "duration": 4.319,
+  "text": "underperforming. Instead, we once again"
+ },
+ {
+  "start": 49.84,
+  "duration": 4.32,
+  "text": "got a set of new variants of Gemini"
+ },
+ {
+  "start": 52.079,
+  "duration": 4.401,
+  "text": "Flash. Tuesday's release was headlined"
+ },
+ {
+  "start": 54.16,
+  "duration": 4.32,
+  "text": "by Gemini 3.6 six flash. And the big"
+ },
+ {
+  "start": 56.48,
+  "duration": 4.16,
+  "text": "change is better token efficiency. On"
+ },
+ {
+  "start": 58.48,
+  "duration": 5.679,
+  "text": "the artificial analysis benchmark run,"
+ },
+ {
+  "start": 60.64,
+  "duration": 5.519,
+  "text": "the model used 17% fewer tokens than 3.5"
+ },
+ {
+  "start": 64.159,
+  "duration": 3.921,
+  "text": "flash. Google also said that on some"
+ },
+ {
+  "start": 66.159,
+  "duration": 4.481,
+  "text": "isolated benchmarks like Deep Suite,"
+ },
+ {
+  "start": 68.08,
+  "duration": 4.48,
+  "text": "they observed up to a 65% reduction in"
+ },
+ {
+  "start": 70.64,
+  "duration": 3.44,
+  "text": "token usage. Now, this might be"
+ },
+ {
+  "start": 72.56,
+  "duration": 3.36,
+  "text": "particularly relevant because one of the"
+ },
+ {
+  "start": 74.08,
+  "duration": 3.92,
+  "text": "loudest complaints around the release of"
+ },
+ {
+  "start": 75.92,
+  "duration": 3.6,
+  "text": "3.5 Flash was that the model was"
+ },
+ {
+  "start": 78.0,
+  "duration": 3.52,
+  "text": "significantly more expensive and heavy"
+ },
+ {
+  "start": 79.52,
+  "duration": 3.52,
+  "text": "on token usage than its predecessors."
+ },
+ {
+  "start": 81.52,
+  "duration": 2.88,
+  "text": "Google appeared to have optimized for"
+ },
+ {
+  "start": 83.04,
+  "duration": 3.119,
+  "text": "speed, but that left some people"
+ },
+ {
+  "start": 84.4,
+  "duration": 4.399,
+  "text": "questioning exactly what the purpose of"
+ },
+ {
+  "start": 86.159,
+  "duration": 4.401,
+  "text": "3.5 flash was relative to other models."
+ },
+ {
+  "start": 88.799,
+  "duration": 3.601,
+  "text": "And of course, with Chinese AI labs"
+ },
+ {
+  "start": 90.56,
+  "duration": 4.64,
+  "text": "competing hard on cost efficiency, this"
+ },
+ {
+  "start": 92.4,
+  "duration": 4.24,
+  "text": "left 35 flash somewhat in no man's land."
+ },
+ {
+  "start": 95.2,
+  "duration": 3.2,
+  "text": "Not good enough for high performance"
+ },
+ {
+  "start": 96.64,
+  "duration": 3.92,
+  "text": "tasks and not cheap enough for low-end"
+ },
+ {
+  "start": 98.4,
+  "duration": 4.24,
+  "text": "tasks. Now, in addition to the reduction"
+ },
+ {
+  "start": 100.56,
+  "duration": 3.919,
+  "text": "in token usage, some of the benchmarks"
+ },
+ {
+  "start": 102.64,
+  "duration": 3.759,
+  "text": "suggest that 36 Flash has delivered a"
+ },
+ {
+  "start": 104.479,
+  "duration": 4.241,
+  "text": "boost in performance. On coding tasks,"
+ },
+ {
+  "start": 106.399,
+  "duration": 5.281,
+  "text": "it scored 49% on Deep Suite compared to"
+ },
+ {
+  "start": 108.72,
+  "duration": 4.56,
+  "text": "37% for 35 Flash with similar levels of"
+ },
+ {
+  "start": 111.68,
+  "duration": 3.2,
+  "text": "improvement observed across benchmarks"
+ },
+ {
+  "start": 113.28,
+  "duration": 3.68,
+  "text": "for ML research, computer use, and"
+ },
+ {
+  "start": 114.88,
+  "duration": 4.08,
+  "text": "knowledge work. Then again, benchmarking"
+ },
+ {
+  "start": 116.96,
+  "duration": 4.88,
+  "text": "from artificial analysis suggested that"
+ },
+ {
+  "start": 118.96,
+  "duration": 4.72,
+  "text": "not all that much had changed. 36 Flash"
+ },
+ {
+  "start": 121.84,
+  "duration": 4.16,
+  "text": "scored 50 on the intelligence index,"
+ },
+ {
+  "start": 123.68,
+  "duration": 4.88,
+  "text": "which was the same score as 35 flash."
+ },
+ {
+  "start": 126.0,
+  "duration": 5.36,
+  "text": "That said, AA did find a 50% speed boost"
+ },
+ {
+  "start": 128.56,
+  "duration": 5.039,
+  "text": "and an 18% reduction in cost per task."
+ },
+ {
+  "start": 131.36,
+  "duration": 4.32,
+  "text": "Google is also cutting prices explicitly"
+ },
+ {
+  "start": 133.599,
+  "duration": 5.521,
+  "text": "reducing cost per million output tokens"
+ },
+ {
+  "start": 135.68,
+  "duration": 6.32,
+  "text": "from $9 for 35 flash to 750 for 36"
+ },
+ {
+  "start": 139.12,
+  "duration": 5.52,
+  "text": "flash. Alongside 3.6 flash, Google"
+ },
+ {
+  "start": 142.0,
+  "duration": 5.12,
+  "text": "released 3.5 Flashlight and 3.5 Flash"
+ },
+ {
+  "start": 144.64,
+  "duration": 4.72,
+  "text": "Cyber. Flashlight is the ultraast model"
+ },
+ {
+  "start": 147.12,
+  "duration": 4.8,
+  "text": "designed for high latency agentic tasks."
+ },
+ {
+  "start": 149.36,
+  "duration": 4.4,
+  "text": "And compared to 3.1 Flashlight, the"
+ },
+ {
+  "start": 151.92,
+  "duration": 4.0,
+  "text": "model delivered a 23 point jump on"
+ },
+ {
+  "start": 153.76,
+  "duration": 5.199,
+  "text": "Terminal Bench 2.1 and almost doubled"
+ },
+ {
+  "start": 155.92,
+  "duration": 4.16,
+  "text": "its score on GDP vala. Now, none of"
+ },
+ {
+  "start": 158.959,
+  "duration": 3.201,
+  "text": "these numbers are even close to"
+ },
+ {
+  "start": 160.08,
+  "duration": 3.84,
+  "text": "Frontier, but even before it became a"
+ },
+ {
+  "start": 162.16,
+  "duration": 3.84,
+  "text": "thing in the wider enterprise world,"
+ },
+ {
+  "start": 163.92,
+  "duration": 4.24,
+  "text": "Google had already started to compete"
+ },
+ {
+  "start": 166.0,
+  "duration": 4.0,
+  "text": "for cost and efficiency optimized types"
+ },
+ {
+  "start": 168.16,
+  "duration": 4.079,
+  "text": "of models, which is clearly the game"
+ },
+ {
+  "start": 170.0,
+  "duration": 4.0,
+  "text": "here as well. As the name suggests,"
+ },
+ {
+  "start": 172.239,
+  "duration": 3.201,
+  "text": "Flash Cyber is a fine-tuned version of"
+ },
+ {
+  "start": 174.0,
+  "duration": 3.28,
+  "text": "the model designed for cyber security"
+ },
+ {
+  "start": 175.44,
+  "duration": 4.72,
+  "text": "work like bug hunting and patching. It"
+ },
+ {
+  "start": 177.28,
+  "duration": 4.48,
+  "text": "scores 83.2% on the Cyber Gym benchmark,"
+ },
+ {
+  "start": 180.16,
+  "duration": 4.96,
+  "text": "which actually puts it only a few points"
+ },
+ {
+  "start": 181.76,
+  "duration": 5.839,
+  "text": "behind Mythos 5, GPT56 Soul, and GPT55"
+ },
+ {
+  "start": 185.12,
+  "duration": 3.92,
+  "text": "Cyber. Now, presumably this model isn't"
+ },
+ {
+  "start": 187.599,
+  "duration": 3.36,
+  "text": "quite as strong in other aspects of"
+ },
+ {
+  "start": 189.04,
+  "duration": 3.119,
+  "text": "cyber work, but once again, having a"
+ },
+ {
+  "start": 190.959,
+  "duration": 2.881,
+  "text": "cheaper and faster option for"
+ },
+ {
+  "start": 192.159,
+  "duration": 4.0,
+  "text": "vulnerability mitigation could be a big"
+ },
+ {
+  "start": 193.84,
+  "duration": 3.759,
+  "text": "deal. Flash Cyber won't actually see a"
+ },
+ {
+  "start": 196.159,
+  "duration": 2.881,
+  "text": "general release, however, with Google"
+ },
+ {
+  "start": 197.599,
+  "duration": 3.521,
+  "text": "making it available only to governments"
+ },
+ {
+  "start": 199.04,
+  "duration": 3.52,
+  "text": "and trusted partners. Now, of course,"
+ },
+ {
+  "start": 201.12,
+  "duration": 2.88,
+  "text": "it's only been a short time, but"
+ },
+ {
+  "start": 202.56,
+  "duration": 3.679,
+  "text": "people's first impressions of this model"
+ },
+ {
+  "start": 204.0,
+  "duration": 5.04,
+  "text": "slate aren't great. Abacus AI's been"
+ },
+ {
+  "start": 206.239,
+  "duration": 5.28,
+  "text": "ready writes, \"Gemini 36 Flash scores"
+ },
+ {
+  "start": 209.04,
+  "duration": 4.08,
+  "text": "below 35 Flash, so this seems worse than"
+ },
+ {
+  "start": 211.519,
+  "duration": 3.841,
+  "text": "their last generation, more expensive"
+ },
+ {
+  "start": 213.12,
+  "duration": 5.119,
+  "text": "than Grock and Luna. Very strange model"
+ },
+ {
+  "start": 215.36,
+  "duration": 5.439,
+  "text": "release. Leo at Synthwaved writes,"
+ },
+ {
+  "start": 218.239,
+  "duration": 4.881,
+  "text": "\"Gemini 36 Flash benchmarks are out and"
+ },
+ {
+  "start": 220.799,
+  "duration": 4.16,
+  "text": "it's beaten by other models on code"
+ },
+ {
+  "start": 223.12,
+  "duration": 3.44,
+  "text": "tasks and is only really consistently"
+ },
+ {
+  "start": 224.959,
+  "duration": 4.401,
+  "text": "state-of-the-art on vision and context"
+ },
+ {
+  "start": 226.56,
+  "duration": 4.88,
+  "text": "benchmarks, but hey, 3.1 Pro is now so"
+ },
+ {
+  "start": 229.36,
+  "duration": 4.48,
+  "text": "old that 36 Flash outperforms it across"
+ },
+ {
+  "start": 231.44,
+  "duration": 4.799,
+  "text": "the board.\" Lan writes, \"They are so"
+ },
+ {
+  "start": 233.84,
+  "duration": 3.84,
+  "text": "scared of training Pro. If Flash flops,"
+ },
+ {
+  "start": 236.239,
+  "duration": 3.761,
+  "text": "they can at least say we have a bigger"
+ },
+ {
+  "start": 237.68,
+  "duration": 4.639,
+  "text": "model. This is not our best. Please lock"
+ },
+ {
+  "start": 240.0,
+  "duration": 4.0,
+  "text": "in Google Bros.\" And indeed the big"
+ },
+ {
+  "start": 242.319,
+  "duration": 3.84,
+  "text": "question right now is what happened to"
+ },
+ {
+  "start": 244.0,
+  "duration": 4.159,
+  "text": "Gemini 3.5 Pro. The model was"
+ },
+ {
+  "start": 246.159,
+  "duration": 4.08,
+  "text": "anticipated all the way back at the IO"
+ },
+ {
+  "start": 248.159,
+  "duration": 3.601,
+  "text": "conference in May, but at the time CEO"
+ },
+ {
+  "start": 250.239,
+  "duration": 3.441,
+  "text": "Sundar Pachai said that it was slated"
+ },
+ {
+  "start": 251.76,
+  "duration": 4.08,
+  "text": "for a June release. June of course has"
+ },
+ {
+  "start": 253.68,
+  "duration": 3.76,
+  "text": "come and gone with no 3.5 Pro and there"
+ },
+ {
+  "start": 255.84,
+  "duration": 3.2,
+  "text": "have been rumors of subpar performance"
+ },
+ {
+  "start": 257.44,
+  "duration": 3.6,
+  "text": "pushing back the timeline. Google's"
+ },
+ {
+  "start": 259.04,
+  "duration": 5.12,
+  "text": "Logan Kilpatrick insists it's still"
+ },
+ {
+  "start": 261.04,
+  "duration": 4.56,
+  "text": "coming posting on Tuesday. Gemini 3.5"
+ },
+ {
+  "start": 264.16,
+  "duration": 2.88,
+  "text": "Pro is currently testing with partners"
+ },
+ {
+  "start": 265.6,
+  "duration": 3.44,
+  "text": "and we plan to make it broadly available"
+ },
+ {
+  "start": 267.04,
+  "duration": 4.0,
+  "text": "as soon as it's ready. Perhaps a more"
+ },
+ {
+  "start": 269.04,
+  "duration": 4.32,
+  "text": "exciting hint also came from Logan who"
+ },
+ {
+  "start": 271.04,
+  "duration": 4.24,
+  "text": "added, \"We've started our most ambitious"
+ },
+ {
+  "start": 273.36,
+  "duration": 4.48,
+  "text": "pre-training run yet for Gemini 4 and"
+ },
+ {
+  "start": 275.28,
+  "duration": 3.919,
+  "text": "are excited by the progress.\" At this"
+ },
+ {
+  "start": 277.84,
+  "duration": 3.6,
+  "text": "point, I feel like people have pretty"
+ },
+ {
+  "start": 279.199,
+  "duration": 3.681,
+  "text": "much written off 3.5 Pro and maybe"
+ },
+ {
+  "start": 281.44,
+  "duration": 3.759,
+  "text": "Google's best play is to just wait"
+ },
+ {
+  "start": 282.88,
+  "duration": 4.0,
+  "text": "entirely to Gemini 4. Now, my sense is"
+ },
+ {
+  "start": 285.199,
+  "duration": 3.681,
+  "text": "that overall, especially with this new"
+ },
+ {
+  "start": 286.88,
+  "duration": 3.52,
+  "text": "focus on token efficiency and especially"
+ },
+ {
+  "start": 288.88,
+  "duration": 3.12,
+  "text": "with a lot of contentiousness and"
+ },
+ {
+  "start": 290.4,
+  "duration": 3.519,
+  "text": "questions around what the US government"
+ },
+ {
+  "start": 292.0,
+  "duration": 3.44,
+  "text": "is going to do visav Chinese models,"
+ },
+ {
+  "start": 293.919,
+  "duration": 3.361,
+  "text": "there is a lot of opportunity for"
+ },
+ {
+  "start": 295.44,
+  "duration": 3.44,
+  "text": "competition for Google in areas that"
+ },
+ {
+  "start": 297.28,
+  "duration": 3.04,
+  "text": "they've already started to explore with"
+ },
+ {
+  "start": 298.88,
+  "duration": 3.2,
+  "text": "these faster and more costefficient"
+ },
+ {
+  "start": 300.32,
+  "duration": 3.04,
+  "text": "models. But if they want to do so, I"
+ },
+ {
+  "start": 302.08,
+  "duration": 4.32,
+  "text": "think that they need to lean all the way"
+ },
+ {
+  "start": 303.36,
+  "duration": 5.36,
+  "text": "in. Next up, speaking of efficiency and"
+ },
+ {
+  "start": 306.4,
+  "duration": 3.84,
+  "text": "new approaches to model architecture,"
+ },
+ {
+  "start": 308.72,
+  "duration": 3.68,
+  "text": "lots and lots of discussion around"
+ },
+ {
+  "start": 310.24,
+  "duration": 3.76,
+  "text": "routers these days. Meta is apparently"
+ },
+ {
+  "start": 312.4,
+  "duration": 3.68,
+  "text": "working on their own model router to"
+ },
+ {
+  "start": 314.0,
+  "duration": 3.84,
+  "text": "help reduce token costs. The information"
+ },
+ {
+  "start": 316.08,
+  "duration": 4.0,
+  "text": "reports that Meta's internal incubator"
+ },
+ {
+  "start": 317.84,
+  "duration": 3.199,
+  "text": "called AI Labs is developing a model"
+ },
+ {
+  "start": 320.08,
+  "duration": 2.559,
+  "text": "router that they are calling"
+ },
+ {
+  "start": 321.039,
+  "duration": 3.201,
+  "text": "Switchboard. The product would allow"
+ },
+ {
+  "start": 322.639,
+  "duration": 3.28,
+  "text": "users to automatically send low"
+ },
+ {
+  "start": 324.24,
+  "duration": 3.44,
+  "text": "complexity tasks to cheaper models,"
+ },
+ {
+  "start": 325.919,
+  "duration": 3.681,
+  "text": "replicating the functionality of Open"
+ },
+ {
+  "start": 327.68,
+  "duration": 3.44,
+  "text": "Router. At this point, the reporting"
+ },
+ {
+  "start": 329.6,
+  "duration": 3.28,
+  "text": "suggests it is only an early stage"
+ },
+ {
+  "start": 331.12,
+  "duration": 3.04,
+  "text": "prototype and may never see release. But"
+ },
+ {
+  "start": 332.88,
+  "duration": 2.879,
+  "text": "this is also the first time we learned"
+ },
+ {
+  "start": 334.16,
+  "duration": 3.599,
+  "text": "about Meta's internal incubator, which"
+ },
+ {
+  "start": 335.759,
+  "duration": 3.681,
+  "text": "was spun up in March. Apparently, any"
+ },
+ {
+  "start": 337.759,
+  "duration": 3.601,
+  "text": "employee can pitch an idea for internal"
+ },
+ {
+  "start": 339.44,
+  "duration": 3.52,
+  "text": "use and possibly a later public release."
+ },
+ {
+  "start": 341.36,
+  "duration": 3.36,
+  "text": "Once a proposal is approved, a small"
+ },
+ {
+  "start": 342.96,
+  "duration": 3.6,
+  "text": "team is assembled to build the product."
+ },
+ {
+  "start": 344.72,
+  "duration": 3.52,
+  "text": "According to a July memo viewed by the"
+ },
+ {
+  "start": 346.56,
+  "duration": 3.76,
+  "text": "information, the incubator now has"
+ },
+ {
+  "start": 348.24,
+  "duration": 3.76,
+  "text": "around 200 approved AI products,"
+ },
+ {
+  "start": 350.32,
+  "duration": 3.2,
+  "text": "including consumer products, dev tools,"
+ },
+ {
+  "start": 352.0,
+  "duration": 3.199,
+  "text": "and infrastructure. Another product"
+ },
+ {
+  "start": 353.52,
+  "duration": 3.2,
+  "text": "under development is an AI tour guide"
+ },
+ {
+  "start": 355.199,
+  "duration": 3.361,
+  "text": "that integrates with Apple CarPlay, and"
+ },
+ {
+  "start": 356.72,
+  "duration": 3.52,
+  "text": "Instagram maps. Regarding the token"
+ },
+ {
+  "start": 358.56,
+  "duration": 3.12,
+  "text": "router, it seems like it began as an"
+ },
+ {
+  "start": 360.24,
+  "duration": 4.079,
+  "text": "internal product designed to reduce"
+ },
+ {
+  "start": 361.68,
+  "duration": 4.48,
+  "text": "costs at Meta. The memo explained, \"We"
+ },
+ {
+  "start": 364.319,
+  "duration": 4.081,
+  "text": "pay top model prices for every coding"
+ },
+ {
+  "start": 366.16,
+  "duration": 3.759,
+  "text": "request, including the easy ones. Today,"
+ },
+ {
+  "start": 368.4,
+  "duration": 3.359,
+  "text": "everything goes to one model, so we"
+ },
+ {
+  "start": 369.919,
+  "duration": 4.4,
+  "text": "overpay on easy work and underperform on"
+ },
+ {
+  "start": 371.759,
+  "duration": 4.72,
+  "text": "hard work.\" Now, Meta is hardly alone in"
+ },
+ {
+  "start": 374.319,
+  "duration": 3.841,
+  "text": "this issue with this challenge. Indeed,"
+ },
+ {
+  "start": 376.479,
+  "duration": 3.921,
+  "text": "right now, one of the biggest themes out"
+ },
+ {
+  "start": 378.16,
+  "duration": 4.0,
+  "text": "there is the token router space booming."
+ },
+ {
+  "start": 380.4,
+  "duration": 3.6,
+  "text": "RAMP is launching their own token router"
+ },
+ {
+  "start": 382.16,
+  "duration": 3.44,
+  "text": "designed to give existing customers easy"
+ },
+ {
+  "start": 384.0,
+  "duration": 3.44,
+  "text": "access to the infrastructure. They"
+ },
+ {
+  "start": 385.6,
+  "duration": 3.84,
+  "text": "wrote, \"3 years ago, we built an"
+ },
+ {
+  "start": 387.44,
+  "duration": 4.479,
+  "text": "internal LLM router at RAMP that powers"
+ },
+ {
+  "start": 389.44,
+  "duration": 4.319,
+  "text": "AI products for 70,000 customers. Back"
+ },
+ {
+  "start": 391.919,
+  "duration": 3.681,
+  "text": "then it was mostly about saving money."
+ },
+ {
+  "start": 393.759,
+  "duration": 4.16,
+  "text": "Now it feels obvious. The best model"
+ },
+ {
+  "start": 395.6,
+  "duration": 4.719,
+  "text": "changes constantly. GBT, Claw, Gemini,"
+ },
+ {
+  "start": 397.919,
+  "duration": 4.4,
+  "text": "Grock, Quen, Deepc, Kimmy, GLM. Prices"
+ },
+ {
+  "start": 400.319,
+  "duration": 4.241,
+  "text": "and capabilities move every week. So"
+ },
+ {
+  "start": 402.319,
+  "duration": 4.241,
+  "text": "we're opening up access to everyone. One"
+ },
+ {
+  "start": 404.56,
+  "duration": 3.84,
+  "text": "OpenAI compatible endpoint, the right"
+ },
+ {
+  "start": 406.56,
+  "duration": 4.16,
+  "text": "model for every request. Lower cost"
+ },
+ {
+  "start": 408.4,
+  "duration": 4.0,
+  "text": "without rewriting your app. Versel is"
+ },
+ {
+  "start": 410.72,
+  "duration": 3.36,
+  "text": "also walking down the model routing path"
+ },
+ {
+  "start": 412.4,
+  "duration": 3.04,
+  "text": "with the launch of a new product to sit"
+ },
+ {
+  "start": 414.08,
+  "duration": 3.119,
+  "text": "alongside their workflow hosting"
+ },
+ {
+  "start": 415.44,
+  "duration": 4.159,
+  "text": "business, which they're calling the AI"
+ },
+ {
+  "start": 417.199,
+  "duration": 4.4,
+  "text": "gateway for developers. There are also"
+ },
+ {
+  "start": 419.599,
+  "duration": 3.761,
+  "text": "rumors that Open Router is fielding"
+ },
+ {
+  "start": 421.599,
+  "duration": 3.921,
+  "text": "acquisition offers for multiple billions"
+ },
+ {
+  "start": 423.36,
+  "duration": 4.48,
+  "text": "of dollars, which has the speculation"
+ },
+ {
+  "start": 425.52,
+  "duration": 4.88,
+  "text": "running rampant. Inference.net's Sam"
+ },
+ {
+  "start": 427.84,
+  "duration": 4.4,
+  "text": "Hogan writes, \"If Thinking Machines Labs"
+ },
+ {
+  "start": 430.4,
+  "duration": 3.76,
+  "text": "buys Open Router, we all live in a very"
+ },
+ {
+  "start": 432.24,
+  "duration": 4.239,
+  "text": "different world in 90 days. Bad for"
+ },
+ {
+  "start": 434.16,
+  "duration": 3.439,
+  "text": "Frontier Labs. Good for everyone else.\""
+ },
+ {
+  "start": 436.479,
+  "duration": 2.801,
+  "text": "Still, now with all these different"
+ },
+ {
+  "start": 437.599,
+  "duration": 3.04,
+  "text": "router opportunities, Hugging Faces"
+ },
+ {
+  "start": 439.28,
+  "duration": 3.52,
+  "text": "Michigan, I think, really has the right"
+ },
+ {
+  "start": 440.639,
+  "duration": 3.68,
+  "text": "idea when he writes, \"I'm creating a"
+ },
+ {
+  "start": 442.8,
+  "duration": 3.92,
+  "text": "meta router that routes to routers,"
+ },
+ {
+  "start": 444.319,
+  "duration": 4.081,
+  "text": "including Open Router and RAM router.\""
+ },
+ {
+  "start": 446.72,
+  "duration": 3.919,
+  "text": "Next up, one interesting and sort of"
+ },
+ {
+  "start": 448.4,
+  "duration": 3.68,
+  "text": "contentious story. Substack is cracking"
+ },
+ {
+  "start": 450.639,
+  "duration": 3.921,
+  "text": "down on AI writing with a native"
+ },
+ {
+  "start": 452.08,
+  "duration": 4.08,
+  "text": "Panggram integration. Pangram has picked"
+ },
+ {
+  "start": 454.56,
+  "duration": 3.28,
+  "text": "up some buzz over recent months,"
+ },
+ {
+  "start": 456.16,
+  "duration": 3.759,
+  "text": "replacing the previous generation of"
+ },
+ {
+  "start": 457.84,
+  "duration": 3.68,
+  "text": "highly questionable AI detectors, but"
+ },
+ {
+  "start": 459.919,
+  "duration": 3.761,
+  "text": "the way that Substack is looking to use"
+ },
+ {
+  "start": 461.52,
+  "duration": 3.76,
+  "text": "this is a bit threading the needle. The"
+ },
+ {
+  "start": 463.68,
+  "duration": 3.44,
+  "text": "Substack integration is meant to be"
+ },
+ {
+  "start": 465.28,
+  "duration": 3.52,
+  "text": "permissive, allowing users to easily"
+ },
+ {
+  "start": 467.12,
+  "duration": 4.0,
+  "text": "check for AI writing rather than being"
+ },
+ {
+  "start": 468.8,
+  "duration": 4.56,
+  "text": "used to automatically block the content."
+ },
+ {
+  "start": 471.12,
+  "duration": 3.919,
+  "text": "Substack wrote, \"We care about this at"
+ },
+ {
+  "start": 473.36,
+  "duration": 3.36,
+  "text": "Substack because it gets to the core of"
+ },
+ {
+  "start": 475.039,
+  "duration": 4.0,
+  "text": "our mission to build an economic engine"
+ },
+ {
+  "start": 476.72,
+  "duration": 3.68,
+  "text": "for culture. When content made by no one"
+ },
+ {
+  "start": 479.039,
+  "duration": 3.041,
+  "text": "takes over parts of the internet that"
+ },
+ {
+  "start": 480.4,
+  "duration": 2.96,
+  "text": "are supposed to be human, it pollutes"
+ },
+ {
+  "start": 482.08,
+  "duration": 3.36,
+  "text": "the commons and makes it hard to"
+ },
+ {
+  "start": 483.36,
+  "duration": 4.08,
+  "text": "discover and hear human voices.\" For"
+ },
+ {
+  "start": 485.44,
+  "duration": 4.64,
+  "text": "some, this comes not a moment too soon."
+ },
+ {
+  "start": 487.44,
+  "duration": 4.319,
+  "text": "SAS Nicks wrote, \"Much needed. You'd be"
+ },
+ {
+  "start": 490.08,
+  "duration": 3.76,
+  "text": "horrified by the amount of quote unquote"
+ },
+ {
+  "start": 491.759,
+  "duration": 4.16,
+  "text": "popular and viral posts on Substack that"
+ },
+ {
+  "start": 493.84,
+  "duration": 3.759,
+  "text": "are almost entirely AI generated, which"
+ },
+ {
+  "start": 495.919,
+  "duration": 3.601,
+  "text": "is fine in some circumstances, but"
+ },
+ {
+  "start": 497.599,
+  "duration": 3.681,
+  "text": "should be disclosed.\" Indeed, one recent"
+ },
+ {
+  "start": 499.52,
+  "duration": 3.119,
+  "text": "critique of Substack is the sense among"
+ },
+ {
+  "start": 501.28,
+  "duration": 3.68,
+  "text": "some that it has devolved into a"
+ },
+ {
+  "start": 502.639,
+  "duration": 3.921,
+  "text": "repository of AI slop, giving them a"
+ },
+ {
+  "start": 504.96,
+  "duration": 3.6,
+  "text": "pretty significant incentive to find a"
+ },
+ {
+  "start": 506.56,
+  "duration": 3.359,
+  "text": "solution. Others think the introduction"
+ },
+ {
+  "start": 508.56,
+  "duration": 3.599,
+  "text": "of AI detectors could have some"
+ },
+ {
+  "start": 509.919,
+  "duration": 4.161,
+  "text": "unintended consequences. Justin Murphy"
+ },
+ {
+  "start": 512.159,
+  "duration": 3.601,
+  "text": "argued there's going to be a very"
+ },
+ {
+  "start": 514.08,
+  "duration": 3.12,
+  "text": "interesting AI arms race over the next"
+ },
+ {
+  "start": 515.76,
+  "duration": 3.04,
+  "text": "few months in a new domain that has"
+ },
+ {
+  "start": 517.2,
+  "duration": 3.519,
+  "text": "generally tried to avoid the question so"
+ },
+ {
+  "start": 518.8,
+  "duration": 3.76,
+  "text": "far. This integration will only increase"
+ },
+ {
+  "start": 520.719,
+  "duration": 4.24,
+  "text": "the profitability of more sophisticated"
+ },
+ {
+  "start": 522.56,
+  "duration": 3.92,
+  "text": "AI writing tools. Effectively, Substack"
+ },
+ {
+  "start": 524.959,
+  "duration": 3.121,
+  "text": "is now paying startups to solve this"
+ },
+ {
+  "start": 526.48,
+  "duration": 3.84,
+  "text": "problem. I believe the future is"
+ },
+ {
+  "start": 528.08,
+  "duration": 4.4,
+  "text": "infinitely divergent and customizable AI"
+ },
+ {
+  "start": 530.32,
+  "duration": 4.4,
+  "text": "writing and editing systems. And yet,"
+ },
+ {
+  "start": 532.48,
+  "duration": 3.919,
+  "text": "according to Substack CEO Chris Best,"
+ },
+ {
+  "start": 534.72,
+  "duration": 3.52,
+  "text": "this is a necessary step for defending"
+ },
+ {
+  "start": 536.399,
+  "duration": 3.841,
+  "text": "the integrity of the platform. Now,"
+ },
+ {
+  "start": 538.24,
+  "duration": 3.12,
+  "text": "interestingly, he explained why Substack"
+ },
+ {
+  "start": 540.24,
+  "duration": 3.76,
+  "text": "didn't take the next step to"
+ },
+ {
+  "start": 541.36,
+  "duration": 4.479,
+  "text": "automatically ban AI writing. He said,"
+ },
+ {
+  "start": 544.0,
+  "duration": 4.32,
+  "text": "\"One important point with this launch,"
+ },
+ {
+  "start": 545.839,
+  "duration": 4.321,
+  "text": "not all SLOP is AI, and not all AI use"
+ },
+ {
+  "start": 548.32,
+  "duration": 3.44,
+  "text": "is slop. As we developed this, I talked"
+ },
+ {
+  "start": 550.16,
+  "duration": 3.2,
+  "text": "to many people who are using AI with"
+ },
+ {
+  "start": 551.76,
+  "duration": 3.36,
+  "text": "great care to do work they believe in."
+ },
+ {
+  "start": 553.36,
+  "duration": 3.36,
+  "text": "They are worried about slop too because"
+ },
+ {
+  "start": 555.12,
+  "duration": 3.76,
+  "text": "the fake stuff can drive out the real"
+ },
+ {
+  "start": 556.72,
+  "duration": 4.64,
+  "text": "work. I'm mostly interested in this"
+ },
+ {
+  "start": 558.88,
+  "duration": 4.079,
+  "text": "story as a middle space where we can"
+ },
+ {
+  "start": 561.36,
+  "duration": 4.24,
+  "text": "explore what it looks like to not"
+ },
+ {
+  "start": 562.959,
+  "duration": 4.961,
+  "text": "dismiss AI augmentation out of hand, but"
+ },
+ {
+  "start": 565.6,
+  "duration": 4.0,
+  "text": "also to actively try to combat its worst"
+ },
+ {
+  "start": 567.92,
+  "duration": 3.039,
+  "text": "negative aspects. I think we're going to"
+ },
+ {
+  "start": 569.6,
+  "duration": 3.44,
+  "text": "have to have some experiments like that"
+ },
+ {
+  "start": 570.959,
+  "duration": 4.481,
+  "text": "to understand how to integrate AI well"
+ },
+ {
+  "start": 573.04,
+  "duration": 4.0,
+  "text": "as it becomes more ubiquitous. Finally"
+ },
+ {
+  "start": 575.44,
+  "duration": 3.92,
+  "text": "today, some follow-ups on the China"
+ },
+ {
+  "start": 577.04,
+  "duration": 4.08,
+  "text": "story from yesterday. The policy debate"
+ },
+ {
+  "start": 579.36,
+  "duration": 3.2,
+  "text": "continues to escalate as Treasury"
+ },
+ {
+  "start": 581.12,
+  "duration": 3.52,
+  "text": "Secretary Scott Besson threatens"
+ },
+ {
+  "start": 582.56,
+  "duration": 3.76,
+  "text": "sanctions over IP theft. In an"
+ },
+ {
+  "start": 584.64,
+  "duration": 3.84,
+  "text": "appearance on Fox Business on Tuesday,"
+ },
+ {
+  "start": 586.32,
+  "duration": 3.84,
+  "text": "Besson said, \"This administration"
+ },
+ {
+  "start": 588.48,
+  "duration": 3.68,
+  "text": "supports open- source models, but what"
+ },
+ {
+  "start": 590.16,
+  "duration": 3.84,
+  "text": "we do not support is IP theft. If we"
+ },
+ {
+  "start": 592.16,
+  "duration": 3.359,
+  "text": "see, especially that overseas models are"
+ },
+ {
+  "start": 594.0,
+  "duration": 2.72,
+  "text": "stealing from our great companies, we"
+ },
+ {
+  "start": 595.519,
+  "duration": 2.721,
+  "text": "have the ability to sanction them"
+ },
+ {
+  "start": 596.72,
+  "duration": 2.559,
+  "text": "because of this theft.\" Bessent"
+ },
+ {
+  "start": 598.24,
+  "duration": 2.8,
+  "text": "explained that he's referring to"
+ },
+ {
+  "start": 599.279,
+  "duration": 3.441,
+  "text": "distillation, adding, \"We are finding"
+ },
+ {
+  "start": 601.04,
+  "duration": 3.12,
+  "text": "watermarks of our US large language"
+ },
+ {
+  "start": 602.72,
+  "duration": 3.04,
+  "text": "models on many of the Chinese models,"
+ },
+ {
+  "start": 604.16,
+  "duration": 3.119,
+  "text": "and that's unacceptable. We're going to"
+ },
+ {
+  "start": 605.76,
+  "duration": 3.84,
+  "text": "be looking at that in the coming days or"
+ },
+ {
+  "start": 607.279,
+  "duration": 3.68,
+  "text": "weeks. Now, sanctions can refer to"
+ },
+ {
+  "start": 609.6,
+  "duration": 2.56,
+  "text": "several different government actions."
+ },
+ {
+  "start": 610.959,
+  "duration": 3.361,
+  "text": "So, it's important to clarify what"
+ },
+ {
+  "start": 612.16,
+  "duration": 3.919,
+  "text": "Bessant is actually calling for here."
+ },
+ {
+  "start": 614.32,
+  "duration": 3.36,
+  "text": "Presumably, he's not talking about"
+ },
+ {
+  "start": 616.079,
+  "duration": 3.2,
+  "text": "leveling sanctions against the entire"
+ },
+ {
+  "start": 617.68,
+  "duration": 3.12,
+  "text": "Chinese economy over this issue, as"
+ },
+ {
+  "start": 619.279,
+  "duration": 3.521,
+  "text": "we've seen against Russia, Iran, or"
+ },
+ {
+  "start": 620.8,
+  "duration": 3.279,
+  "text": "Cuba. Instead, he seems to be talking"
+ },
+ {
+  "start": 622.8,
+  "duration": 2.56,
+  "text": "about targeted sanctions against"
+ },
+ {
+  "start": 624.079,
+  "duration": 3.601,
+  "text": "specific companies found to be"
+ },
+ {
+  "start": 625.36,
+  "duration": 4.0,
+  "text": "distilling models. Still, sanctions are"
+ },
+ {
+  "start": 627.68,
+  "duration": 3.36,
+  "text": "an extremely severe punishment. They"
+ },
+ {
+  "start": 629.36,
+  "duration": 2.96,
+  "text": "make it a criminal offense for any US"
+ },
+ {
+  "start": 631.04,
+  "duration": 2.64,
+  "text": "citizen to do business with these"
+ },
+ {
+  "start": 632.32,
+  "duration": 2.8,
+  "text": "companies and have been historically"
+ },
+ {
+  "start": 633.68,
+  "duration": 2.8,
+  "text": "reserved for companies involved in"
+ },
+ {
+  "start": 635.12,
+  "duration": 3.44,
+  "text": "international crimes like drug"
+ },
+ {
+  "start": 636.48,
+  "duration": 3.68,
+  "text": "smuggling. Applying sanctions would go"
+ },
+ {
+  "start": 638.56,
+  "duration": 3.2,
+  "text": "way beyond measures like adding these"
+ },
+ {
+  "start": 640.16,
+  "duration": 3.679,
+  "text": "companies to the Pentagon or commerce"
+ },
+ {
+  "start": 641.76,
+  "duration": 3.68,
+  "text": "blacklist. Now, the comments generated"
+ },
+ {
+  "start": 643.839,
+  "duration": 3.761,
+  "text": "quite a response with many questioning"
+ },
+ {
+  "start": 645.44,
+  "duration": 4.48,
+  "text": "the framing of distillation as IP theft."
+ },
+ {
+  "start": 647.6,
+  "duration": 4.08,
+  "text": "Benchmark founder Bill Gurley commented,"
+ },
+ {
+  "start": 649.92,
+  "duration": 3.039,
+  "text": "\"If there has been quote unquote theft,"
+ },
+ {
+  "start": 651.68,
+  "duration": 2.8,
+  "text": "that suggests a crime has been"
+ },
+ {
+  "start": 652.959,
+  "duration": 3.521,
+  "text": "committed, but I am unaware of any"
+ },
+ {
+  "start": 654.48,
+  "duration": 3.28,
+  "text": "lawsuits being filed. No company should"
+ },
+ {
+  "start": 656.48,
+  "duration": 2.96,
+  "text": "be allowed to declare infringement"
+ },
+ {
+  "start": 657.76,
+  "duration": 3.36,
+  "text": "without adjudication. I'm not convinced"
+ },
+ {
+  "start": 659.44,
+  "duration": 3.76,
+  "text": "a court would call using a product as"
+ },
+ {
+  "start": 661.12,
+  "duration": 3.92,
+  "text": "it's designed theft. There is a reason"
+ },
+ {
+  "start": 663.2,
+  "duration": 4.16,
+  "text": "this is being lobbied in DC instead of"
+ },
+ {
+  "start": 665.04,
+  "duration": 4.88,
+  "text": "the normal court system. Quen Ambassador"
+ },
+ {
+  "start": 667.36,
+  "duration": 4.8,
+  "text": "Jun Song wrote what people call illegal"
+ },
+ {
+  "start": 669.92,
+  "duration": 4.32,
+  "text": "distillation. Paying proper API fees to"
+ },
+ {
+  "start": 672.16,
+  "duration": 3.44,
+  "text": "use an AI, asking it a massive set of"
+ },
+ {
+  "start": 674.24,
+  "duration": 3.2,
+  "text": "questions, and then combining the"
+ },
+ {
+  "start": 675.6,
+  "duration": 3.2,
+  "text": "answers into a structured data set. Am I"
+ },
+ {
+  "start": 677.44,
+  "duration": 4.079,
+  "text": "the only one who fails to see anything"
+ },
+ {
+  "start": 678.8,
+  "duration": 4.24,
+  "text": "wrong with this? Dan Nun responded, \"No"
+ },
+ {
+  "start": 681.519,
+  "duration": 2.961,
+  "text": "different than web scraping, right? But"
+ },
+ {
+  "start": 683.04,
+  "duration": 2.88,
+  "text": "wait, didn't these guys do that in the"
+ },
+ {
+  "start": 684.48,
+  "duration": 4.16,
+  "text": "first place to build the models? To"
+ },
+ {
+  "start": 685.92,
+  "duration": 4.32,
+  "text": "which June responded, \"Exactly.\" Now, at"
+ },
+ {
+  "start": 688.64,
+  "duration": 3.52,
+  "text": "this point, despite throwing around this"
+ },
+ {
+  "start": 690.24,
+  "duration": 3.839,
+  "text": "distillation word a lot, it's not"
+ },
+ {
+  "start": 692.16,
+  "duration": 3.2,
+  "text": "entirely clear how much of Chinese model"
+ },
+ {
+  "start": 694.079,
+  "duration": 2.801,
+  "text": "performance should be chocked up to"
+ },
+ {
+  "start": 695.36,
+  "duration": 3.36,
+  "text": "distillation rather than researcher"
+ },
+ {
+  "start": 696.88,
+  "duration": 3.68,
+  "text": "skill. Open source researcher Nathan"
+ },
+ {
+  "start": 698.72,
+  "duration": 3.6,
+  "text": "Lambert suggested that distillation is"
+ },
+ {
+  "start": 700.56,
+  "duration": 3.519,
+  "text": "largely about getting results faster and"
+ },
+ {
+  "start": 702.32,
+  "duration": 3.6,
+  "text": "cheaper compared to collecting training"
+ },
+ {
+  "start": 704.079,
+  "duration": 3.681,
+  "text": "data in other ways. If the goal of a"
+ },
+ {
+  "start": 705.92,
+  "duration": 3.76,
+  "text": "distillation crackdown is to kneecap"
+ },
+ {
+  "start": 707.76,
+  "duration": 3.68,
+  "text": "Chinese AI development, it's not obvious"
+ },
+ {
+  "start": 709.68,
+  "duration": 2.96,
+  "text": "then that it will be successful. Which"
+ },
+ {
+  "start": 711.44,
+  "duration": 3.12,
+  "text": "isn't to say that distillation of"
+ },
+ {
+  "start": 712.64,
+  "duration": 3.84,
+  "text": "frontier models isn't a problem. And"
+ },
+ {
+  "start": 714.56,
+  "duration": 3.279,
+  "text": "some are cheering on a drastic response."
+ },
+ {
+  "start": 716.48,
+  "duration": 3.28,
+  "text": "Chris Magcguire from the Council on"
+ },
+ {
+  "start": 717.839,
+  "duration": 3.601,
+  "text": "Foreign Relations wrote, \"This is the"
+ },
+ {
+  "start": 719.76,
+  "duration": 2.88,
+  "text": "right message from Secretary Besson, but"
+ },
+ {
+  "start": 721.44,
+  "duration": 2.72,
+  "text": "without action, it's just empty"
+ },
+ {
+  "start": 722.64,
+  "duration": 3.12,
+  "text": "rhetoric.\" In April, the White House"
+ },
+ {
+  "start": 724.16,
+  "duration": 3.359,
+  "text": "Office of Science and Technology put out"
+ },
+ {
+  "start": 725.76,
+  "duration": 3.12,
+  "text": "a fantastic memo on threats posed by"
+ },
+ {
+  "start": 727.519,
+  "duration": 3.12,
+  "text": "Chinese distillation, but has done"
+ },
+ {
+  "start": 728.88,
+  "duration": 4.32,
+  "text": "nothing to stop it. China won't stop"
+ },
+ {
+  "start": 730.639,
+  "duration": 5.041,
+  "text": "stealing USIP because we ask. It's time"
+ },
+ {
+  "start": 733.2,
+  "duration": 3.92,
+  "text": "to act. Now, of course, it is also"
+ },
+ {
+  "start": 735.68,
+  "duration": 3.12,
+  "text": "possible that this could be Bessent"
+ },
+ {
+  "start": 737.12,
+  "duration": 3.44,
+  "text": "practicing the art of the deal and"
+ },
+ {
+  "start": 738.8,
+  "duration": 3.52,
+  "text": "opening negotiations with a maximalist"
+ },
+ {
+  "start": 740.56,
+  "duration": 3.44,
+  "text": "threat. As I mentioned recently, Reuters"
+ },
+ {
+  "start": 742.32,
+  "duration": 3.84,
+  "text": "reports that the US and China will hold"
+ },
+ {
+  "start": 744.0,
+  "duration": 3.68,
+  "text": "AI talks in September and sources said"
+ },
+ {
+  "start": 746.16,
+  "duration": 2.96,
+  "text": "the talks will deal with AI safety and"
+ },
+ {
+  "start": 747.68,
+  "duration": 3.279,
+  "text": "how to mitigate each other's frontier"
+ },
+ {
+  "start": 749.12,
+  "duration": 2.88,
+  "text": "models. Then again, you got to think"
+ },
+ {
+  "start": 750.959,
+  "duration": 2.641,
+  "text": "that these sort of commercial"
+ },
+ {
+  "start": 752.0,
+  "duration": 3.44,
+  "text": "conversations are going to be part of"
+ },
+ {
+  "start": 753.6,
+  "duration": 3.039,
+  "text": "that discourse as well. For now, that's"
+ },
+ {
+  "start": 755.44,
+  "duration": 3.36,
+  "text": "going to do it for today's slightly"
+ },
+ {
+  "start": 756.639,
+  "duration": 3.681,
+  "text": "extended headlines. Next up, the main"
+ },
+ {
+  "start": 758.8,
+  "duration": 3.2,
+  "text": "episode."
+ },
+ {
+  "start": 760.32,
+  "duration": 4.319,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 762.0,
+  "duration": 4.72,
+  "text": "Today we are exploring just how good the"
+ },
+ {
+  "start": 764.639,
+  "duration": 3.76,
+  "text": "next generation of models is actually"
+ },
+ {
+  "start": 766.72,
+  "duration": 3.04,
+  "text": "going to be. One of the interesting"
+ },
+ {
+  "start": 768.399,
+  "duration": 3.44,
+  "text": "things in the discourse over the last"
+ },
+ {
+  "start": 769.76,
+  "duration": 4.079,
+  "text": "week or so since Kimmy K3 came out is"
+ },
+ {
+  "start": 771.839,
+  "duration": 3.841,
+  "text": "the idea that China has closed the gap"
+ },
+ {
+  "start": 773.839,
+  "duration": 4.321,
+  "text": "between where the frontier is and where"
+ },
+ {
+  "start": 775.68,
+  "duration": 4.959,
+  "text": "their models are. Now one of my problems"
+ },
+ {
+  "start": 778.16,
+  "duration": 5.2,
+  "text": "with this discourse around the gap is"
+ },
+ {
+  "start": 780.639,
+  "duration": 6.561,
+  "text": "that it compares Kimmy K3 and even GLM"
+ },
+ {
+  "start": 783.36,
+  "duration": 5.2,
+  "text": "5.2 to 56 soul in Fable 5 which on the"
+ },
+ {
+  "start": 787.2,
+  "duration": 3.28,
+  "text": "one hand is reasonable. Those are the"
+ },
+ {
+  "start": 788.56,
+  "duration": 4.719,
+  "text": "models that are available currently. But"
+ },
+ {
+  "start": 790.48,
+  "duration": 4.799,
+  "text": "they are also according to all reports"
+ },
+ {
+  "start": 793.279,
+  "duration": 3.68,
+  "text": "fairly significantly behind what's"
+ },
+ {
+  "start": 795.279,
+  "duration": 3.921,
+  "text": "actually state-of-the-art behind the"
+ },
+ {
+  "start": 796.959,
+  "duration": 3.68,
+  "text": "scenes the labs and this week for the"
+ },
+ {
+  "start": 799.2,
+  "duration": 3.12,
+  "text": "first time we're getting some"
+ },
+ {
+  "start": 800.639,
+  "duration": 5.041,
+  "text": "indications of just what might be on the"
+ },
+ {
+  "start": 802.32,
+  "duration": 5.12,
+  "text": "horizon. Specifically on Tuesday OpenAI"
+ },
+ {
+  "start": 805.68,
+  "duration": 3.68,
+  "text": "disclosed a security breach while"
+ },
+ {
+  "start": 807.44,
+  "duration": 4.56,
+  "text": "testing an unnamed pre-release model"
+ },
+ {
+  "start": 809.36,
+  "duration": 5.2,
+  "text": "that most presumed to be GPT6. Framing"
+ },
+ {
+  "start": 812.0,
+  "duration": 4.24,
+  "text": "the event, OpenAI wrote, \"We consider"
+ },
+ {
+  "start": 814.56,
+  "duration": 2.959,
+  "text": "this incident to be an unprecedented"
+ },
+ {
+  "start": 816.24,
+  "duration": 3.039,
+  "text": "cyber incident involving"
+ },
+ {
+  "start": 817.519,
+  "duration": 3.361,
+  "text": "state-of-the-art cyber capabilities and"
+ },
+ {
+  "start": 819.279,
+  "duration": 3.041,
+  "text": "are responding accordingly. We are"
+ },
+ {
+  "start": 820.88,
+  "duration": 3.04,
+  "text": "sharing preliminary findings at this"
+ },
+ {
+  "start": 822.32,
+  "duration": 3.519,
+  "text": "stage to help defenders understand what"
+ },
+ {
+  "start": 823.92,
+  "duration": 4.08,
+  "text": "happened and to help calibrate on what"
+ },
+ {
+  "start": 825.839,
+  "duration": 3.68,
+  "text": "models are now capable of.\" The incident"
+ },
+ {
+  "start": 828.0,
+  "duration": 4.079,
+  "text": "occurred during cyber security"
+ },
+ {
+  "start": 829.519,
+  "duration": 4.401,
+  "text": "benchmarking where OpenAI operates the"
+ },
+ {
+  "start": 832.079,
+  "duration": 3.76,
+  "text": "model without the typical guardrails to"
+ },
+ {
+  "start": 833.92,
+  "duration": 3.52,
+  "text": "see what it's actually capable of. The"
+ },
+ {
+  "start": 835.839,
+  "duration": 3.601,
+  "text": "tests are run in a sandbox environment"
+ },
+ {
+  "start": 837.44,
+  "duration": 3.759,
+  "text": "with restricted network access limited"
+ },
+ {
+  "start": 839.44,
+  "duration": 4.0,
+  "text": "to installation of packages from locally"
+ },
+ {
+  "start": 841.199,
+  "duration": 4.64,
+  "text": "hosted thirdparty software. OpenAI says"
+ },
+ {
+  "start": 843.44,
+  "duration": 4.48,
+  "text": "the model quote identified and chained"
+ },
+ {
+  "start": 845.839,
+  "duration": 4.081,
+  "text": "vulnerabilities across OpenAI's research"
+ },
+ {
+  "start": 847.92,
+  "duration": 4.159,
+  "text": "environment and HuggingFac's production"
+ },
+ {
+  "start": 849.92,
+  "duration": 3.84,
+  "text": "infrastructure to obtain test solutions"
+ },
+ {
+  "start": 852.079,
+  "duration": 4.241,
+  "text": "directly from HuggingFac's production"
+ },
+ {
+  "start": 853.76,
+  "duration": 4.4,
+  "text": "database. However, in this case, OpenAI"
+ },
+ {
+  "start": 856.32,
+  "duration": 4.079,
+  "text": "writes, \"While operating in our"
+ },
+ {
+  "start": 858.16,
+  "duration": 4.16,
+  "text": "sandboxed testing environment, our model"
+ },
+ {
+  "start": 860.399,
+  "duration": 3.921,
+  "text": "sent a substantial amount of inference"
+ },
+ {
+  "start": 862.32,
+  "duration": 3.92,
+  "text": "compute finding a way to obtain open"
+ },
+ {
+  "start": 864.32,
+  "duration": 4.0,
+  "text": "internet access in pursuit of solving"
+ },
+ {
+  "start": 866.24,
+  "duration": 4.24,
+  "text": "the evaluation problem for exploit gym."
+ },
+ {
+  "start": 868.32,
+  "duration": 3.92,
+  "text": "To gain access, the models identified"
+ },
+ {
+  "start": 870.48,
+  "duration": 3.359,
+  "text": "and exploited a zero-day vulnerability,"
+ },
+ {
+  "start": 872.24,
+  "duration": 3.76,
+  "text": "which we've now responsibly disclosed to"
+ },
+ {
+  "start": 873.839,
+  "duration": 4.161,
+  "text": "the vendor in the package registry cache"
+ },
+ {
+  "start": 876.0,
+  "duration": 3.12,
+  "text": "proxy. With this access, our models"
+ },
+ {
+  "start": 878.0,
+  "duration": 2.72,
+  "text": "performed a series of privilege"
+ },
+ {
+  "start": 879.12,
+  "duration": 3.2,
+  "text": "escalation and lateral movement actions"
+ },
+ {
+  "start": 880.72,
+  "duration": 3.2,
+  "text": "in our research testing environment"
+ },
+ {
+  "start": 882.32,
+  "duration": 3.68,
+  "text": "until the models reached a node with"
+ },
+ {
+  "start": 883.92,
+  "duration": 3.359,
+  "text": "internet access. After gaining internet"
+ },
+ {
+  "start": 886.0,
+  "duration": 3.279,
+  "text": "access, the models inferred that"
+ },
+ {
+  "start": 887.279,
+  "duration": 3.761,
+  "text": "HuggingFace potentially hosted models,"
+ },
+ {
+  "start": 889.279,
+  "duration": 3.441,
+  "text": "data sets, and solutions for exploit"
+ },
+ {
+  "start": 891.04,
+  "duration": 3.68,
+  "text": "gym. Knowing this, the model searched"
+ },
+ {
+  "start": 892.72,
+  "duration": 3.919,
+  "text": "for and successfully found ways to gain"
+ },
+ {
+  "start": 894.72,
+  "duration": 4.0,
+  "text": "access to secret information that it"
+ },
+ {
+  "start": 896.639,
+  "duration": 3.601,
+  "text": "could use to cheat the evaluation. In"
+ },
+ {
+  "start": 898.72,
+  "duration": 3.52,
+  "text": "one example, the model chained together"
+ },
+ {
+  "start": 900.24,
+  "duration": 3.44,
+  "text": "multiple attack vectors, including using"
+ },
+ {
+  "start": 902.24,
+  "duration": 2.959,
+  "text": "stolen credentials and zero-day"
+ },
+ {
+  "start": 903.68,
+  "duration": 3.04,
+  "text": "vulnerabilities to find a remote code"
+ },
+ {
+  "start": 905.199,
+  "duration": 3.681,
+  "text": "execution path on the HuggingFace"
+ },
+ {
+  "start": 906.72,
+  "duration": 4.0,
+  "text": "servers. OpenAI security team discovered"
+ },
+ {
+  "start": 908.88,
+  "duration": 3.519,
+  "text": "this anomalous activity internally."
+ },
+ {
+  "start": 910.72,
+  "duration": 3.119,
+  "text": "Hugging Face's security team and agents"
+ },
+ {
+  "start": 912.399,
+  "duration": 2.88,
+  "text": "detected and stopped the activity on"
+ },
+ {
+  "start": 913.839,
+  "duration": 2.8,
+  "text": "their infrastructure and had already"
+ },
+ {
+  "start": 915.279,
+  "duration": 2.641,
+  "text": "begun containment and forensic"
+ },
+ {
+  "start": 916.639,
+  "duration": 3.361,
+  "text": "reconstruction with their own open"
+ },
+ {
+  "start": 917.92,
+  "duration": 4.08,
+  "text": "source models when our teams connected."
+ },
+ {
+  "start": 920.0,
+  "duration": 4.24,
+  "text": "Now, one important note is that after"
+ },
+ {
+  "start": 922.0,
+  "duration": 3.839,
+  "text": "the model got access to HuggingFac's"
+ },
+ {
+  "start": 924.24,
+  "duration": 3.279,
+  "text": "database, it didn't do anything"
+ },
+ {
+  "start": 925.839,
+  "duration": 2.881,
+  "text": "particularly malicious. That's because"
+ },
+ {
+  "start": 927.519,
+  "duration": 2.961,
+  "text": "the cause of the whole thing was the"
+ },
+ {
+  "start": 928.72,
+  "duration": 3.359,
+  "text": "model being hyperfocused on finding a"
+ },
+ {
+  "start": 930.48,
+  "duration": 3.599,
+  "text": "solution to this particular benchmark"
+ },
+ {
+  "start": 932.079,
+  "duration": 3.281,
+  "text": "tests. Now, not mentioned in the"
+ },
+ {
+  "start": 934.079,
+  "duration": 2.721,
+  "text": "postmortem was whether the model"
+ },
+ {
+  "start": 935.36,
+  "duration": 3.36,
+  "text": "actually found the information it was"
+ },
+ {
+  "start": 936.8,
+  "duration": 3.52,
+  "text": "seeking, but presumably had scored"
+ },
+ {
+  "start": 938.72,
+  "duration": 3.6,
+  "text": "pretty well on the benchmark after this"
+ },
+ {
+  "start": 940.32,
+  "duration": 3.6,
+  "text": "display. OpenAI says following the"
+ },
+ {
+  "start": 942.32,
+  "duration": 3.12,
+  "text": "incident in addition to disclosing that"
+ },
+ {
+  "start": 943.92,
+  "duration": 2.719,
+  "text": "zeroday bug to their vendor, they've"
+ },
+ {
+  "start": 945.44,
+  "duration": 2.399,
+  "text": "also beefed up security for their"
+ },
+ {
+  "start": 946.639,
+  "duration": 2.401,
+  "text": "testing environment and are now"
+ },
+ {
+  "start": 947.839,
+  "duration": 3.36,
+  "text": "partnering with HuggingFace to"
+ },
+ {
+  "start": 949.04,
+  "duration": 3.919,
+  "text": "investigate further. Now, this is one of"
+ },
+ {
+  "start": 951.199,
+  "duration": 3.841,
+  "text": "the first examples that we've seen of"
+ },
+ {
+  "start": 952.959,
+  "duration": 3.361,
+  "text": "the new cyber security capabilities that"
+ },
+ {
+  "start": 955.04,
+  "duration": 2.96,
+  "text": "come with this next generation of"
+ },
+ {
+  "start": 956.32,
+  "duration": 3.68,
+  "text": "models. This, of course, was the concern"
+ },
+ {
+  "start": 958.0,
+  "duration": 3.519,
+  "text": "when Mythos was first released. Not just"
+ },
+ {
+  "start": 960.0,
+  "duration": 3.04,
+  "text": "that the model was highly capable of"
+ },
+ {
+  "start": 961.519,
+  "duration": 3.12,
+  "text": "finding bugs, but that this new"
+ },
+ {
+  "start": 963.04,
+  "duration": 3.52,
+  "text": "generation of models demonstrated the"
+ },
+ {
+  "start": 964.639,
+  "duration": 3.76,
+  "text": "ability to find a vulnerability, build"
+ },
+ {
+  "start": 966.56,
+  "duration": 4.0,
+  "text": "an exploit, and execute it all within an"
+ },
+ {
+  "start": 968.399,
+  "duration": 4.24,
+  "text": "automated agentic task. Summing up,"
+ },
+ {
+  "start": 970.56,
+  "duration": 3.76,
+  "text": "OpenAI wrote, \"The incident makes clear"
+ },
+ {
+  "start": 972.639,
+  "duration": 3.681,
+  "text": "that advanced models can discover and"
+ },
+ {
+  "start": 974.32,
+  "duration": 4.079,
+  "text": "exploit novel attack paths in real world"
+ },
+ {
+  "start": 976.32,
+  "duration": 3.28,
+  "text": "systems without source code access. It"
+ },
+ {
+  "start": 978.399,
+  "duration": 3.041,
+  "text": "highlights that advanced cyber"
+ },
+ {
+  "start": 979.6,
+  "duration": 4.0,
+  "text": "capabilities must be developed alongside"
+ },
+ {
+  "start": 981.44,
+  "duration": 3.68,
+  "text": "stronger safeguards and defensive tools."
+ },
+ {
+  "start": 983.6,
+  "duration": 3.28,
+  "text": "Still, they also emphasized that"
+ },
+ {
+  "start": 985.12,
+  "duration": 3.279,
+  "text": "security incidents aren't a reason to"
+ },
+ {
+  "start": 986.88,
+  "duration": 3.36,
+  "text": "further constrain models and limit the"
+ },
+ {
+  "start": 988.399,
+  "duration": 4.081,
+  "text": "tools available from cyber defenders."
+ },
+ {
+  "start": 990.24,
+  "duration": 4.08,
+  "text": "They added, \"We believe advanced cyber"
+ },
+ {
+  "start": 992.48,
+  "duration": 3.84,
+  "text": "capable models need to help security"
+ },
+ {
+  "start": 994.32,
+  "duration": 3.84,
+  "text": "teams find weaknesses before attackers"
+ },
+ {
+  "start": 996.32,
+  "duration": 3.6,
+  "text": "do, understand how vulnerabilities can"
+ },
+ {
+  "start": 998.16,
+  "duration": 4.16,
+  "text": "be chained, and remediate them at"
+ },
+ {
+  "start": 999.92,
+  "duration": 3.919,
+  "text": "machine speed.\" Now, this actually isn't"
+ },
+ {
+  "start": 1002.32,
+  "duration": 2.959,
+  "text": "the first time we've heard about a model"
+ },
+ {
+  "start": 1003.839,
+  "duration": 3.601,
+  "text": "breaking out of a sandbox and setting"
+ },
+ {
+  "start": 1005.279,
+  "duration": 3.92,
+  "text": "off on a deeply misaligned task. In"
+ },
+ {
+  "start": 1007.44,
+  "duration": 3.6,
+  "text": "April, when Entropic released the Mythos"
+ },
+ {
+  "start": 1009.199,
+  "duration": 3.361,
+  "text": "system card, it contained an anecdote"
+ },
+ {
+  "start": 1011.04,
+  "duration": 3.44,
+  "text": "generally referred to as the sandwich"
+ },
+ {
+  "start": 1012.56,
+  "duration": 3.36,
+  "text": "incident. A researcher was explicitly"
+ },
+ {
+  "start": 1014.48,
+  "duration": 2.88,
+  "text": "testing the model's ability to escape"
+ },
+ {
+  "start": 1015.92,
+  "duration": 3.2,
+  "text": "from a controlled environment. They"
+ },
+ {
+  "start": 1017.36,
+  "duration": 3.44,
+  "text": "prompted the model and later, while they"
+ },
+ {
+  "start": 1019.12,
+  "duration": 3.2,
+  "text": "were enjoying a sandwich in the park,"
+ },
+ {
+  "start": 1020.8,
+  "duration": 3.279,
+  "text": "they received an email from Mythos"
+ },
+ {
+  "start": 1022.32,
+  "duration": 3.68,
+  "text": "alerting them that it had escaped. The"
+ },
+ {
+  "start": 1024.079,
+  "duration": 3.6,
+  "text": "story seared itself into people's brains"
+ },
+ {
+  "start": 1026.0,
+  "duration": 3.839,
+  "text": "as such a memorable description of a"
+ },
+ {
+  "start": 1027.679,
+  "duration": 3.36,
+  "text": "completely unexpected result. Prince OnX"
+ },
+ {
+  "start": 1029.839,
+  "duration": 3.041,
+  "text": "discussed some of the previously"
+ },
+ {
+  "start": 1031.039,
+  "duration": 4.081,
+  "text": "documented sandbox escapes and made an"
+ },
+ {
+  "start": 1032.88,
+  "duration": 4.159,
+  "text": "interesting observation, writing, \"Once"
+ },
+ {
+  "start": 1035.12,
+  "duration": 3.679,
+  "text": "out of their sandboxes, the models did"
+ },
+ {
+  "start": 1037.039,
+  "duration": 3.28,
+  "text": "not scheme engage in behavior that had"
+ },
+ {
+  "start": 1038.799,
+  "duration": 3.52,
+  "text": "nothing to do with their instructions,"
+ },
+ {
+  "start": 1040.319,
+  "duration": 3.52,
+  "text": "i.e. hacking the NSA, launching a cyber"
+ },
+ {
+  "start": 1042.319,
+  "duration": 3.6,
+  "text": "attack on Russia, stealing secrets from"
+ },
+ {
+  "start": 1043.839,
+  "duration": 4.24,
+  "text": "a rival AI lab, or take any other major"
+ },
+ {
+  "start": 1045.919,
+  "duration": 3.76,
+  "text": "action to aponte.\" Probably the most"
+ },
+ {
+  "start": 1048.079,
+  "duration": 3.201,
+  "text": "contrary to instructions thing that any"
+ },
+ {
+  "start": 1049.679,
+  "duration": 3.041,
+  "text": "of these models did was Mythos preview"
+ },
+ {
+  "start": 1051.28,
+  "duration": 3.279,
+  "text": "bragging about its successful escape"
+ },
+ {
+  "start": 1052.72,
+  "duration": 4.319,
+  "text": "from its sandbox by posting about it on"
+ },
+ {
+  "start": 1054.559,
+  "duration": 4.0,
+  "text": "several obscure websites. Now, Hugging"
+ },
+ {
+  "start": 1057.039,
+  "duration": 3.281,
+  "text": "Face's perspective on this incident is"
+ },
+ {
+  "start": 1058.559,
+  "duration": 3.921,
+  "text": "also instructive. They had disclosed the"
+ },
+ {
+  "start": 1060.32,
+  "duration": 3.84,
+  "text": "incident late last week, writing, \"We"
+ },
+ {
+  "start": 1062.48,
+  "duration": 2.8,
+  "text": "detected and responded to an intrusion"
+ },
+ {
+  "start": 1064.16,
+  "duration": 2.56,
+  "text": "into part of our production"
+ },
+ {
+  "start": 1065.28,
+  "duration": 2.96,
+  "text": "infrastructure. This one was different"
+ },
+ {
+  "start": 1066.72,
+  "duration": 3.52,
+  "text": "from anything we had handled before in"
+ },
+ {
+  "start": 1068.24,
+  "duration": 4.0,
+  "text": "one important way. It was driven end to"
+ },
+ {
+  "start": 1070.24,
+  "duration": 3.76,
+  "text": "end by an autonomous AI agent system,"
+ },
+ {
+  "start": 1072.24,
+  "duration": 3.679,
+  "text": "and we detected and dissected it largely"
+ },
+ {
+  "start": 1074.0,
+  "duration": 3.52,
+  "text": "with AI of our own. At the time, they"
+ },
+ {
+  "start": 1075.919,
+  "duration": 2.961,
+  "text": "didn't know the source of the attack and"
+ },
+ {
+  "start": 1077.52,
+  "duration": 2.72,
+  "text": "weren't sure if this was some powerful"
+ },
+ {
+  "start": 1078.88,
+  "duration": 3.36,
+  "text": "new model or simply a new type of"
+ },
+ {
+  "start": 1080.24,
+  "duration": 3.52,
+  "text": "harness. The attack stole multiple sets"
+ },
+ {
+  "start": 1082.24,
+  "duration": 3.52,
+  "text": "of credentials and used them to access a"
+ },
+ {
+  "start": 1083.76,
+  "duration": 3.52,
+  "text": "limited set of databases. Hugging Face"
+ },
+ {
+  "start": 1085.76,
+  "duration": 3.68,
+  "text": "highlighted that this was a new and"
+ },
+ {
+  "start": 1087.28,
+  "duration": 4.0,
+  "text": "novel style of attack, writing, \"The"
+ },
+ {
+  "start": 1089.44,
+  "duration": 3.359,
+  "text": "campaign was run by an autonomous agent"
+ },
+ {
+  "start": 1091.28,
+  "duration": 3.36,
+  "text": "framework appearing to be built on an"
+ },
+ {
+  "start": 1092.799,
+  "duration": 3.521,
+  "text": "agentic security research harness,"
+ },
+ {
+  "start": 1094.64,
+  "duration": 3.2,
+  "text": "executing many thousands of individual"
+ },
+ {
+  "start": 1096.32,
+  "duration": 3.52,
+  "text": "actions across a swarm of short-lived"
+ },
+ {
+  "start": 1097.84,
+  "duration": 4.079,
+  "text": "sandboxes with self-migrating command"
+ },
+ {
+  "start": 1099.84,
+  "duration": 3.76,
+  "text": "and control staged on public services."
+ },
+ {
+  "start": 1101.919,
+  "duration": 2.88,
+  "text": "This matches the agentic attacker"
+ },
+ {
+  "start": 1103.6,
+  "duration": 3.6,
+  "text": "scenario the industry has been"
+ },
+ {
+  "start": 1104.799,
+  "duration": 4.641,
+  "text": "forecasting.\" Now, one big takeaway from"
+ },
+ {
+  "start": 1107.2,
+  "duration": 4.24,
+  "text": "the attack was that Western models with"
+ },
+ {
+  "start": 1109.44,
+  "duration": 4.08,
+  "text": "their cyber security guard rails were"
+ },
+ {
+  "start": 1111.44,
+  "duration": 3.599,
+  "text": "completely ineffective. Hugging face"
+ },
+ {
+  "start": 1113.52,
+  "duration": 3.84,
+  "text": "detected the intrusion using their"
+ },
+ {
+  "start": 1115.039,
+  "duration": 4.161,
+  "text": "AIdriven systems, but were unable to get"
+ },
+ {
+  "start": 1117.36,
+  "duration": 4.0,
+  "text": "models from OpenAI or Ananthropic to"
+ },
+ {
+  "start": 1119.2,
+  "duration": 3.839,
+  "text": "help with real-time analysis. In other"
+ },
+ {
+  "start": 1121.36,
+  "duration": 3.28,
+  "text": "words, the guardrails were unable to"
+ },
+ {
+  "start": 1123.039,
+  "duration": 3.281,
+  "text": "tell the difference between a bad actor"
+ },
+ {
+  "start": 1124.64,
+  "duration": 3.84,
+  "text": "and a legitimate cyber defender"
+ },
+ {
+  "start": 1126.32,
+  "duration": 4.0,
+  "text": "attempting to deal with an attack. In"
+ },
+ {
+  "start": 1128.48,
+  "duration": 4.16,
+  "text": "the end, Hugging Face had to use a"
+ },
+ {
+  "start": 1130.32,
+  "duration": 4.32,
+  "text": "locally installed version of GLM 5.2"
+ },
+ {
+  "start": 1132.64,
+  "duration": 4.0,
+  "text": "with no guardrails to help them triage"
+ },
+ {
+  "start": 1134.64,
+  "duration": 4.399,
+  "text": "the attack and repair vulnerabilities."
+ },
+ {
+  "start": 1136.64,
+  "duration": 4.48,
+  "text": "They wrote, \"This experience points to a"
+ },
+ {
+  "start": 1139.039,
+  "duration": 3.601,
+  "text": "gap worth planning for. We do not know"
+ },
+ {
+  "start": 1141.12,
+  "duration": 3.2,
+  "text": "which model powered the attacker's"
+ },
+ {
+  "start": 1142.64,
+  "duration": 3.6,
+  "text": "agents, whether a jailbroken hosted"
+ },
+ {
+  "start": 1144.32,
+  "duration": 3.84,
+  "text": "model or an unrestricted openweight one."
+ },
+ {
+  "start": 1146.24,
+  "duration": 4.0,
+  "text": "Either way, the attacker was bound by no"
+ },
+ {
+  "start": 1148.16,
+  "duration": 3.6,
+  "text": "usage policy, while our own forensic"
+ },
+ {
+  "start": 1150.24,
+  "duration": 3.36,
+  "text": "work was blocked by the guardrails of"
+ },
+ {
+  "start": 1151.76,
+  "duration": 3.84,
+  "text": "the hosted models we first tried. The"
+ },
+ {
+  "start": 1153.6,
+  "duration": 3.76,
+  "text": "practical lesson for defenders, have a"
+ },
+ {
+  "start": 1155.6,
+  "duration": 3.439,
+  "text": "capable model you can run on your own"
+ },
+ {
+  "start": 1157.36,
+  "duration": 3.679,
+  "text": "infrastructure vetted and ready before"
+ },
+ {
+  "start": 1159.039,
+  "duration": 3.841,
+  "text": "an incident, both to avoid guardrail"
+ },
+ {
+  "start": 1161.039,
+  "duration": 2.88,
+  "text": "lockout and to keep attacker data and"
+ },
+ {
+  "start": 1162.88,
+  "duration": 3.28,
+  "text": "credentials from leaving your"
+ },
+ {
+  "start": 1163.919,
+  "duration": 5.041,
+  "text": "environment. After OpenAI reached out,"
+ },
+ {
+  "start": 1166.16,
+  "duration": 4.56,
+  "text": "HuggingFace CEO Clem Dang posted, \"We"
+ },
+ {
+  "start": 1168.96,
+  "duration": 3.36,
+  "text": "suspected last week's cyber attack might"
+ },
+ {
+  "start": 1170.72,
+  "duration": 3.52,
+  "text": "have come from a Frontier Lab given the"
+ },
+ {
+  "start": 1172.32,
+  "duration": 4.08,
+  "text": "sophistication of the agent. Turns out"
+ },
+ {
+  "start": 1174.24,
+  "duration": 3.92,
+  "text": "it did. We've spent the past 24 hours"
+ },
+ {
+  "start": 1176.4,
+  "duration": 3.04,
+  "text": "working closely with the OpenAI team,"
+ },
+ {
+  "start": 1178.16,
+  "duration": 2.8,
+  "text": "and we strongly believe there was no"
+ },
+ {
+  "start": 1179.44,
+  "duration": 2.72,
+  "text": "malicious intent on their part. It's"
+ },
+ {
+  "start": 1180.96,
+  "duration": 2.959,
+  "text": "quite mind-blowing that all of this"
+ },
+ {
+  "start": 1182.16,
+  "duration": 2.96,
+  "text": "happened autonomously. The investigation"
+ },
+ {
+  "start": 1183.919,
+  "duration": 2.481,
+  "text": "is ongoing, and we'll share more"
+ },
+ {
+  "start": 1185.12,
+  "duration": 3.52,
+  "text": "learnings from what might be the first"
+ },
+ {
+  "start": 1186.4,
+  "duration": 3.68,
+  "text": "incident of its kind.\" Meanwhile, Open"
+ },
+ {
+  "start": 1188.64,
+  "duration": 3.12,
+  "text": "AAI has said they have now invited"
+ },
+ {
+  "start": 1190.08,
+  "duration": 3.36,
+  "text": "HuggingFace into their cyber access"
+ },
+ {
+  "start": 1191.76,
+  "duration": 2.88,
+  "text": "program so they won't run into those"
+ },
+ {
+  "start": 1193.44,
+  "duration": 3.52,
+  "text": "guardrails the next time they have to"
+ },
+ {
+  "start": 1194.64,
+  "duration": 4.159,
+  "text": "deal with an AIdriven cyber attack. For"
+ },
+ {
+  "start": 1196.96,
+  "duration": 3.599,
+  "text": "many, the gap between the AI that"
+ },
+ {
+  "start": 1198.799,
+  "duration": 3.76,
+  "text": "offender had access to and the AI that"
+ },
+ {
+  "start": 1200.559,
+  "duration": 4.721,
+  "text": "the attacker had access to was the big"
+ },
+ {
+  "start": 1202.559,
+  "duration": 4.161,
+  "text": "story here. Cole Tragquez writes, \"This"
+ },
+ {
+  "start": 1205.28,
+  "duration": 3.12,
+  "text": "is a great example of what we've been"
+ },
+ {
+  "start": 1206.72,
+  "duration": 3.36,
+  "text": "discussing as a possibility for a while"
+ },
+ {
+  "start": 1208.4,
+  "duration": 3.2,
+  "text": "now, where restricting access to"
+ },
+ {
+  "start": 1210.08,
+  "duration": 3.44,
+  "text": "features on the latest models is a"
+ },
+ {
+  "start": 1211.6,
+  "duration": 4.16,
+  "text": "disadvantage. This needs a rethink from"
+ },
+ {
+  "start": 1213.52,
+  "duration": 4.399,
+  "text": "the American AI labs urgently. Hugging"
+ },
+ {
+  "start": 1215.76,
+  "duration": 3.84,
+  "text": "Face had to analyze over 17,000 recorded"
+ },
+ {
+  "start": 1217.919,
+  "duration": 3.601,
+  "text": "events from the autonomous attack agent."
+ },
+ {
+  "start": 1219.6,
+  "duration": 4.4,
+  "text": "They ran the forensic analysis on GLM"
+ },
+ {
+  "start": 1221.52,
+  "duration": 3.92,
+  "text": "5.2 instead, a Chinese openweight model"
+ },
+ {
+  "start": 1224.0,
+  "duration": 3.2,
+  "text": "on their own infrastructure. The"
+ },
+ {
+  "start": 1225.44,
+  "duration": 3.28,
+  "text": "attacker's agent had no restrictions."
+ },
+ {
+  "start": 1227.2,
+  "duration": 3.2,
+  "text": "The defender trying to analyze what"
+ },
+ {
+  "start": 1228.72,
+  "duration": 3.92,
+  "text": "happened got blocked by safety features"
+ },
+ {
+  "start": 1230.4,
+  "duration": 3.92,
+  "text": "on American models. Developer Nick"
+ },
+ {
+  "start": 1232.64,
+  "duration": 3.6,
+  "text": "Doobos wrote, \"The government is"
+ },
+ {
+  "start": 1234.32,
+  "duration": 4.16,
+  "text": "allowing CIA, NSA, other government"
+ },
+ {
+  "start": 1236.24,
+  "duration": 3.52,
+  "text": "agencies, OpenAI, Anthropic, SpaceX AAI,"
+ },
+ {
+  "start": 1238.48,
+  "duration": 3.28,
+  "text": "Google, and other select companies"
+ },
+ {
+  "start": 1239.76,
+  "duration": 3.68,
+  "text": "access to cyber weapons while banning"
+ },
+ {
+  "start": 1241.76,
+  "duration": 3.6,
+  "text": "other companies and citizens the ability"
+ },
+ {
+  "start": 1243.44,
+  "duration": 3.68,
+  "text": "to defend themselves. These policy"
+ },
+ {
+  "start": 1245.36,
+  "duration": 3.76,
+  "text": "choices de facto outsource cyber"
+ },
+ {
+  "start": 1247.12,
+  "duration": 3.76,
+  "text": "security to China. The legal precedent"
+ },
+ {
+  "start": 1249.12,
+  "duration": 3.12,
+  "text": "here is dangerous and terrifying."
+ },
+ {
+  "start": 1250.88,
+  "duration": 3.84,
+  "text": "Imagine being hunted by something"
+ },
+ {
+  "start": 1252.24,
+  "duration": 4.0,
+  "text": "smarter than you. Former AISR David Sax"
+ },
+ {
+  "start": 1254.72,
+  "duration": 4.319,
+  "text": "has been beating the drum on this issue."
+ },
+ {
+  "start": 1256.24,
+  "duration": 4.72,
+  "text": "On July 19th, he tweeted, \"Kimmy K3 just"
+ },
+ {
+  "start": 1259.039,
+  "duration": 3.601,
+  "text": "fixed 15 critical security bugs that"
+ },
+ {
+  "start": 1260.96,
+  "duration": 3.68,
+  "text": "Codeex and Fable refuse to because of"
+ },
+ {
+  "start": 1262.64,
+  "duration": 3.68,
+  "text": "cyber guardrails. There's no reason to"
+ },
+ {
+  "start": 1264.64,
+  "duration": 3.2,
+  "text": "limit American models on tasks that"
+ },
+ {
+  "start": 1266.32,
+  "duration": 2.8,
+  "text": "Chinese models handle without issue."
+ },
+ {
+  "start": 1267.84,
+  "duration": 3.839,
+  "text": "We're only making ourselves less"
+ },
+ {
+  "start": 1269.12,
+  "duration": 4.32,
+  "text": "competitive.\" Later, he added, \"Here's"
+ },
+ {
+  "start": 1271.679,
+  "duration": 3.12,
+  "text": "another example. Hugging Face tried"
+ },
+ {
+  "start": 1273.44,
+  "duration": 3.119,
+  "text": "using American Frontier models to"
+ },
+ {
+  "start": 1274.799,
+  "duration": 3.201,
+  "text": "analyze an AI powered cyber attack, but"
+ },
+ {
+  "start": 1276.559,
+  "duration": 3.041,
+  "text": "the guardrails blocked requests"
+ },
+ {
+  "start": 1278.0,
+  "duration": 3.36,
+  "text": "containing real exploit payloads. So,"
+ },
+ {
+  "start": 1279.6,
+  "duration": 3.52,
+  "text": "they switched to GLM 5.2 running"
+ },
+ {
+  "start": 1281.36,
+  "duration": 4.24,
+  "text": "locally. The guardrails actually"
+ },
+ {
+  "start": 1283.12,
+  "duration": 4.559,
+  "text": "impaired defensive security. Now, for"
+ },
+ {
+  "start": 1285.6,
+  "duration": 3.68,
+  "text": "Aaron Levy from Box, this is just an"
+ },
+ {
+  "start": 1287.679,
+  "duration": 3.681,
+  "text": "example of the new phase that we're in."
+ },
+ {
+  "start": 1289.28,
+  "duration": 4.0,
+  "text": "He wrote, \"If you were wondering how"
+ },
+ {
+  "start": 1291.36,
+  "duration": 3.76,
+  "text": "powerful AI is getting, agents are now"
+ },
+ {
+  "start": 1293.28,
+  "duration": 3.2,
+  "text": "capable of escaping out of systems,"
+ },
+ {
+  "start": 1295.12,
+  "duration": 2.72,
+  "text": "finding their way to the internet,"
+ },
+ {
+  "start": 1296.48,
+  "duration": 2.96,
+  "text": "discovering zero-day security"
+ },
+ {
+  "start": 1297.84,
+  "duration": 3.44,
+  "text": "vulnerabilities along the way, and then"
+ },
+ {
+  "start": 1299.44,
+  "duration": 3.52,
+  "text": "breaking into external systems, all in"
+ },
+ {
+  "start": 1301.28,
+  "duration": 3.12,
+  "text": "an attempt to complete their goal.\""
+ },
+ {
+  "start": 1302.96,
+  "duration": 2.959,
+  "text": "Ironically, the ultimate way we're going"
+ },
+ {
+  "start": 1304.4,
+  "duration": 3.04,
+  "text": "to defend against these new risks is"
+ },
+ {
+  "start": 1305.919,
+  "duration": 3.281,
+  "text": "equally by throwing compute in the form"
+ },
+ {
+  "start": 1307.44,
+  "duration": 3.2,
+  "text": "of AI at our code bases, networks, and"
+ },
+ {
+  "start": 1309.2,
+  "duration": 3.359,
+  "text": "other systems. You're going to want"
+ },
+ {
+  "start": 1310.64,
+  "duration": 4.24,
+  "text": "vastly more AI on the side of defense as"
+ },
+ {
+  "start": 1312.559,
+  "duration": 4.0,
+  "text": "you do on the side of offense. And while"
+ },
+ {
+  "start": 1314.88,
+  "duration": 3.76,
+  "text": "some were overall just a little bit"
+ },
+ {
+  "start": 1316.559,
+  "duration": 4.0,
+  "text": "freaked out by this, Theo, for example,"
+ },
+ {
+  "start": 1318.64,
+  "duration": 3.279,
+  "text": "wrote, \"New OpenAI models are so"
+ },
+ {
+  "start": 1320.559,
+  "duration": 2.641,
+  "text": "goal-oriented that they literally"
+ },
+ {
+  "start": 1321.919,
+  "duration": 2.961,
+  "text": "escaped containment and hacked"
+ },
+ {
+  "start": 1323.2,
+  "duration": 4.16,
+  "text": "HuggingFace to cheat a benchmark."
+ },
+ {
+  "start": 1324.88,
+  "duration": 4.48,
+  "text": "Incredible, but also we're so screwed."
+ },
+ {
+  "start": 1327.36,
+  "duration": 3.92,
+  "text": "Terminally online engineer Techbog tried"
+ },
+ {
+  "start": 1329.36,
+  "duration": 4.16,
+  "text": "to situate this in the context of where"
+ },
+ {
+  "start": 1331.28,
+  "duration": 4.399,
+  "text": "cyber security actually is today.\" They"
+ },
+ {
+  "start": 1333.52,
+  "duration": 3.68,
+  "text": "wrote, \"Most of software is full of"
+ },
+ {
+  "start": 1335.679,
+  "duration": 3.201,
+  "text": "vulnerabilities because nobody cares"
+ },
+ {
+  "start": 1337.2,
+  "duration": 3.28,
+  "text": "about cyber security. It doesn't make"
+ },
+ {
+  "start": 1338.88,
+  "duration": 3.6,
+  "text": "money. Usually, you don't get owned"
+ },
+ {
+  "start": 1340.48,
+  "duration": 3.6,
+  "text": "because it's a crime to do so. models in"
+ },
+ {
+  "start": 1342.48,
+  "duration": 2.88,
+  "text": "this case just have a goal and the best"
+ },
+ {
+  "start": 1344.08,
+  "duration": 2.8,
+  "text": "way to achieve that goal is to get the"
+ },
+ {
+  "start": 1345.36,
+  "duration": 3.199,
+  "text": "data set by getting into hugging face"
+ },
+ {
+  "start": 1346.88,
+  "duration": 3.44,
+  "text": "servers. There's nothing scary about"
+ },
+ {
+  "start": 1348.559,
+  "duration": 3.281,
+  "text": "this other than the absolute dog state"
+ },
+ {
+  "start": 1350.32,
+  "duration": 3.359,
+  "text": "of the majority of the software when it"
+ },
+ {
+  "start": 1351.84,
+  "duration": 3.839,
+  "text": "comes to security. Now with having"
+ },
+ {
+  "start": 1353.679,
+  "duration": 3.761,
+  "text": "access to LLMs, everyone can make their"
+ },
+ {
+  "start": 1355.679,
+  "duration": 3.36,
+  "text": "security much better. I know people want"
+ },
+ {
+  "start": 1357.44,
+  "duration": 3.04,
+  "text": "to freak out about this and scream AGI"
+ },
+ {
+  "start": 1359.039,
+  "duration": 3.681,
+  "text": "and how we are all going to die, but"
+ },
+ {
+  "start": 1360.48,
+  "duration": 4.0,
+  "text": "it's a much simpler story than that. And"
+ },
+ {
+  "start": 1362.72,
+  "duration": 3.839,
+  "text": "indeed, many got that while this is"
+ },
+ {
+  "start": 1364.48,
+  "duration": 4.559,
+  "text": "serious, this is much a goal alignment"
+ },
+ {
+  "start": 1366.559,
+  "duration": 4.721,
+  "text": "issue as it is a cyber capability issue."
+ },
+ {
+  "start": 1369.039,
+  "duration": 3.681,
+  "text": "Dean Ball wrote, \"Today's models are"
+ },
+ {
+  "start": 1371.28,
+  "duration": 3.04,
+  "text": "more ambitious than the models of 6"
+ },
+ {
+  "start": 1372.72,
+  "duration": 3.12,
+  "text": "months ago. The younger agents would"
+ },
+ {
+  "start": 1374.32,
+  "duration": 3.599,
+  "text": "hedge constantly, turning every project"
+ },
+ {
+  "start": 1375.84,
+  "duration": 4.319,
+  "text": "into a pilot. Now models are more eager"
+ },
+ {
+  "start": 1377.919,
+  "duration": 4.561,
+  "text": "to do the thing.\" Redwood Research chief"
+ },
+ {
+  "start": 1380.159,
+  "duration": 4.321,
+  "text": "scientist Ryan Greenblat wrote, \"Reward"
+ },
+ {
+  "start": 1382.48,
+  "duration": 3.52,
+  "text": "hacking can go very far. I think"
+ },
+ {
+  "start": 1384.48,
+  "duration": 3.04,
+  "text": "generalizing all the way to a full AI"
+ },
+ {
+  "start": 1386.0,
+  "duration": 3.76,
+  "text": "takeover is possible for extremely"
+ },
+ {
+  "start": 1387.52,
+  "duration": 3.68,
+  "text": "capable AIs, and smaller incidents like"
+ },
+ {
+  "start": 1389.76,
+  "duration": 2.88,
+  "text": "temporarily launching rogue deployments"
+ },
+ {
+  "start": 1391.2,
+  "duration": 3.839,
+  "text": "or seizing control of some computer"
+ },
+ {
+  "start": 1392.64,
+  "duration": 3.84,
+  "text": "plausible earlier.\" Tennibus writes,"
+ },
+ {
+  "start": 1395.039,
+  "duration": 3.12,
+  "text": "\"Current models are powerful and"
+ },
+ {
+  "start": 1396.48,
+  "duration": 3.04,
+  "text": "misaligned enough to autonomously hack"
+ },
+ {
+  "start": 1398.159,
+  "duration": 3.041,
+  "text": "global production infrastructure to"
+ },
+ {
+  "start": 1399.52,
+  "duration": 3.039,
+  "text": "achieve their goals, but rather than"
+ },
+ {
+  "start": 1401.2,
+  "duration": 2.719,
+  "text": "exfiltrating their weights, they're"
+ },
+ {
+  "start": 1402.559,
+  "duration": 3.12,
+  "text": "using these exploits to get better"
+ },
+ {
+  "start": 1403.919,
+  "duration": 3.441,
+  "text": "scores on deployment evals, even"
+ },
+ {
+  "start": 1405.679,
+  "duration": 3.521,
+  "text": "slightly more coherent goal seeeking or"
+ },
+ {
+  "start": 1407.36,
+  "duration": 3.439,
+  "text": "intermodel cooperation. And we could"
+ },
+ {
+  "start": 1409.2,
+  "duration": 3.52,
+  "text": "have already seen significant negative"
+ },
+ {
+  "start": 1410.799,
+  "duration": 3.441,
+  "text": "effects, but they just really, really,"
+ },
+ {
+  "start": 1412.72,
+  "duration": 3.839,
+  "text": "really want to do well at what we asked"
+ },
+ {
+  "start": 1414.24,
+  "duration": 3.84,
+  "text": "them to do for now.\" Now, as some"
+ },
+ {
+  "start": 1416.559,
+  "duration": 3.441,
+  "text": "pointed out, this was not the only"
+ },
+ {
+  "start": 1418.08,
+  "duration": 3.76,
+  "text": "incident suggesting the increasingly"
+ },
+ {
+  "start": 1420.0,
+  "duration": 4.0,
+  "text": "advanced state of models today. Will"
+ },
+ {
+  "start": 1421.84,
+  "duration": 5.28,
+  "text": "Deoo writes, \"One of the craziest things"
+ },
+ {
+  "start": 1424.0,
+  "duration": 4.88,
+  "text": "I've read in uh checks notes three days."
+ },
+ {
+  "start": 1427.12,
+  "duration": 4.559,
+  "text": "Welcome to the singularity, I guess.\""
+ },
+ {
+  "start": 1428.88,
+  "duration": 5.679,
+  "text": "721-26 Codex escapes eval and attacks"
+ },
+ {
+  "start": 1431.679,
+  "duration": 6.88,
+  "text": "hugging face. 72026 Jacobian counter"
+ },
+ {
+  "start": 1434.559,
+  "duration": 7.36,
+  "text": "example. 52026 United conjecture. 41426"
+ },
+ {
+  "start": 1438.559,
+  "duration": 6.081,
+  "text": "Erdos 1196 primitive sets. 40726"
+ },
+ {
+  "start": 1441.919,
+  "duration": 4.321,
+  "text": "Glasswing finds tons of zero days. Now,"
+ },
+ {
+  "start": 1444.64,
+  "duration": 3.12,
+  "text": "outside of the security stuff, the thing"
+ },
+ {
+  "start": 1446.24,
+  "duration": 3.12,
+  "text": "that Will is referring to is the latest"
+ },
+ {
+  "start": 1447.76,
+  "duration": 3.519,
+  "text": "generation of Frontier models quietly"
+ },
+ {
+  "start": 1449.36,
+  "duration": 3.679,
+  "text": "plowing through unsolved math problems."
+ },
+ {
+  "start": 1451.279,
+  "duration": 3.361,
+  "text": "Last summer, one of the huge milestones"
+ },
+ {
+  "start": 1453.039,
+  "duration": 3.361,
+  "text": "in AI development was reached when both"
+ },
+ {
+  "start": 1454.64,
+  "duration": 3.2,
+  "text": "OpenAI and Google delivered models"
+ },
+ {
+  "start": 1456.4,
+  "duration": 2.72,
+  "text": "capable of putting up a gold medal"
+ },
+ {
+  "start": 1457.84,
+  "duration": 4.079,
+  "text": "performance in the International Math"
+ },
+ {
+  "start": 1459.12,
+  "duration": 4.64,
+  "text": "Olympiad. In May, OpenAI's models were"
+ },
+ {
+  "start": 1461.919,
+  "duration": 4.081,
+  "text": "able to disprove an 80-year-old Erdos"
+ },
+ {
+  "start": 1463.76,
+  "duration": 3.919,
+  "text": "conjecture in combinatorial geometry."
+ },
+ {
+  "start": 1466.0,
+  "duration": 3.76,
+  "text": "Now, the math breakthroughs are becoming"
+ },
+ {
+  "start": 1467.679,
+  "duration": 3.681,
+  "text": "somewhat routine. Basically, any"
+ },
+ {
+  "start": 1469.76,
+  "duration": 2.88,
+  "text": "Frontier model is capable of a perfect"
+ },
+ {
+  "start": 1471.36,
+  "duration": 3.199,
+  "text": "score in the International Math"
+ },
+ {
+  "start": 1472.64,
+  "duration": 4.399,
+  "text": "Olympiad, making that long-standing"
+ },
+ {
+  "start": 1474.559,
+  "duration": 3.761,
+  "text": "milestone seem trivial. We also saw"
+ },
+ {
+  "start": 1477.039,
+  "duration": 2.721,
+  "text": "competing models solve a range of"
+ },
+ {
+  "start": 1478.32,
+  "duration": 3.44,
+  "text": "different Erdos problems by the end of"
+ },
+ {
+  "start": 1479.76,
+  "duration": 3.76,
+  "text": "May, undermining OpenAI's claim of being"
+ },
+ {
+  "start": 1481.76,
+  "duration": 3.44,
+  "text": "way ahead of the curve. Math"
+ },
+ {
+  "start": 1483.52,
+  "duration": 3.84,
+  "text": "capabilities accelerated so quickly that"
+ },
+ {
+  "start": 1485.2,
+  "duration": 4.079,
+  "text": "DeepMind CEO Deisabis referenced them as"
+ },
+ {
+  "start": 1487.36,
+  "duration": 4.319,
+  "text": "a counterpoint, commenting in May,"
+ },
+ {
+  "start": 1489.279,
+  "duration": 4.0,
+  "text": "\"Today's systems are nowhere near AGI."
+ },
+ {
+  "start": 1491.679,
+  "duration": 3.521,
+  "text": "Doesn't matter how many erdos problems"
+ },
+ {
+  "start": 1493.279,
+  "duration": 3.601,
+  "text": "you solve. I think it's far far from"
+ },
+ {
+  "start": 1495.2,
+  "duration": 3.599,
+  "text": "what a true invention or someone like a"
+ },
+ {
+  "start": 1496.88,
+  "duration": 3.36,
+  "text": "Rammenujan would have been able to do."
+ },
+ {
+  "start": 1498.799,
+  "duration": 2.961,
+  "text": "This weekend though, an anthropic"
+ },
+ {
+  "start": 1500.24,
+  "duration": 3.52,
+  "text": "researcher solved another long-standing"
+ },
+ {
+  "start": 1501.76,
+  "duration": 4.399,
+  "text": "math problem in a fairly flippant way."
+ },
+ {
+  "start": 1503.76,
+  "duration": 4.32,
+  "text": "Levante posted, \"Hello there. The"
+ },
+ {
+  "start": 1506.159,
+  "duration": 3.361,
+  "text": "Jacobian conjecture is false thanks to"
+ },
+ {
+  "start": 1508.08,
+  "duration": 3.04,
+  "text": "my close friend Akquille for asking"
+ },
+ {
+  "start": 1509.52,
+  "duration": 3.2,
+  "text": "about it and my other close friend Fable"
+ },
+ {
+  "start": 1511.12,
+  "duration": 3.36,
+  "text": "for working during the World Cup final.\""
+ },
+ {
+  "start": 1512.72,
+  "duration": 4.0,
+  "text": "Now, the Jacobian conjecture was first"
+ },
+ {
+  "start": 1514.48,
+  "duration": 4.24,
+  "text": "posed in 1939 and hadn't been disproved"
+ },
+ {
+  "start": 1516.72,
+  "duration": 3.439,
+  "text": "until last weekend. It was a significant"
+ },
+ {
+  "start": 1518.72,
+  "duration": 2.959,
+  "text": "long-standing problem in a branch of"
+ },
+ {
+  "start": 1520.159,
+  "duration": 3.12,
+  "text": "mathematics known as map theory. But"
+ },
+ {
+  "start": 1521.679,
+  "duration": 3.6,
+  "text": "Fable knocked it over before Spain"
+ },
+ {
+  "start": 1523.279,
+  "duration": 3.601,
+  "text": "scored the winning goal. Kevin Buzzard,"
+ },
+ {
+  "start": 1525.279,
+  "duration": 3.361,
+  "text": "a pure mathematics professor at Imperial"
+ },
+ {
+  "start": 1526.88,
+  "duration": 3.52,
+  "text": "College London, was ecstatic about the"
+ },
+ {
+  "start": 1528.64,
+  "duration": 3.2,
+  "text": "result. He told Fortune, \"It's a big"
+ },
+ {
+  "start": 1530.4,
+  "duration": 2.96,
+  "text": "day. It's a great time to be alive"
+ },
+ {
+  "start": 1531.84,
+  "duration": 2.959,
+  "text": "personally.\" And of course, the rapid"
+ },
+ {
+  "start": 1533.36,
+  "duration": 3.12,
+  "text": "acceleration in pure mathematics is"
+ },
+ {
+  "start": 1534.799,
+  "duration": 3.12,
+  "text": "causing a lot of buzz in those circles."
+ },
+ {
+  "start": 1536.48,
+  "duration": 2.88,
+  "text": "While some mourn for the students"
+ },
+ {
+  "start": 1537.919,
+  "duration": 3.281,
+  "text": "entering the field, others are marveling"
+ },
+ {
+  "start": 1539.36,
+  "duration": 4.24,
+  "text": "at their developments. Stanford"
+ },
+ {
+  "start": 1541.2,
+  "duration": 4.24,
+  "text": "professor Patrick Sue commented, \"Damn,"
+ },
+ {
+  "start": 1543.6,
+  "duration": 4.24,
+  "text": "I was sure that Jacobian conjecture was"
+ },
+ {
+  "start": 1545.44,
+  "duration": 4.88,
+  "text": "true this whole time.\" Cisco's chief AI"
+ },
+ {
+  "start": 1547.84,
+  "duration": 4.48,
+  "text": "scientist Amin Kbasi wrote this is"
+ },
+ {
+  "start": 1550.32,
+  "duration": 3.44,
+  "text": "crazy. The incredible Yetan Jang worked"
+ },
+ {
+  "start": 1552.32,
+  "duration": 3.52,
+  "text": "on proving this conjecture for seven"
+ },
+ {
+  "start": 1553.76,
+  "duration": 3.76,
+  "text": "years. Mo his adviser wrote that Jang"
+ },
+ {
+  "start": 1555.84,
+  "duration": 3.52,
+  "text": "failed miserably in proving the Jacobian"
+ },
+ {
+  "start": 1557.52,
+  "duration": 3.519,
+  "text": "conjecture never published any paper on"
+ },
+ {
+  "start": 1559.36,
+  "duration": 3.199,
+  "text": "algebraic geometry after leaving Purdue"
+ },
+ {
+  "start": 1561.039,
+  "duration": 3.921,
+  "text": "and wasted seven years of his own life"
+ },
+ {
+  "start": 1562.559,
+  "duration": 4.72,
+  "text": "in my time. What a twist. Charles"
+ },
+ {
+  "start": 1564.96,
+  "duration": 4.079,
+  "text": "Rosenbower wrote prediction. We're going"
+ },
+ {
+  "start": 1567.279,
+  "duration": 4.0,
+  "text": "to see a lot of counter examples found"
+ },
+ {
+  "start": 1569.039,
+  "duration": 3.921,
+  "text": "to assumed true conjectures. The really"
+ },
+ {
+  "start": 1571.279,
+  "duration": 2.88,
+  "text": "big ones will probably go untouched, but"
+ },
+ {
+  "start": 1572.96,
+  "duration": 2.64,
+  "text": "there are a lot of smaller ones where"
+ },
+ {
+  "start": 1574.159,
+  "duration": 2.88,
+  "text": "the limiting factor is less that we"
+ },
+ {
+  "start": 1575.6,
+  "duration": 2.8,
+  "text": "don't know how to solve them and more"
+ },
+ {
+  "start": 1577.039,
+  "duration": 3.361,
+  "text": "that everyone is too invested in them"
+ },
+ {
+  "start": 1578.4,
+  "duration": 3.36,
+  "text": "being right to try very hard. Now,"
+ },
+ {
+  "start": 1580.4,
+  "duration": 3.6,
+  "text": "bringing it back to what this says about"
+ },
+ {
+  "start": 1581.76,
+  "duration": 4.24,
+  "text": "model capability, Chubby writes, will"
+ },
+ {
+  "start": 1584.0,
+  "duration": 3.44,
+  "text": "deoo raises several important points."
+ },
+ {
+  "start": 1586.0,
+  "duration": 3.279,
+  "text": "Over the past 3 days, things have"
+ },
+ {
+  "start": 1587.44,
+  "duration": 3.599,
+  "text": "happened that in normal times would have"
+ },
+ {
+  "start": 1589.279,
+  "duration": 3.361,
+  "text": "occurred months if not years apart."
+ },
+ {
+  "start": 1591.039,
+  "duration": 3.441,
+  "text": "Decades old mathematic problems are"
+ },
+ {
+  "start": 1592.64,
+  "duration": 3.76,
+  "text": "being solved. AI models are discovering"
+ },
+ {
+  "start": 1594.48,
+  "duration": 3.52,
+  "text": "zero-day exploits and breaking out while"
+ },
+ {
+  "start": 1596.4,
+  "duration": 4.0,
+  "text": "so much more is happening at the same"
+ },
+ {
+  "start": 1598.0,
+  "duration": 3.84,
+  "text": "time. However, Chubby points out that"
+ },
+ {
+  "start": 1600.4,
+  "duration": 2.72,
+  "text": "even though these models are already"
+ },
+ {
+  "start": 1601.84,
+  "duration": 3.04,
+  "text": "demonstrating such extraordinary"
+ },
+ {
+  "start": 1603.12,
+  "duration": 2.96,
+  "text": "capabilities, it remains true that there"
+ },
+ {
+  "start": 1604.88,
+  "duration": 3.36,
+  "text": "is still no end in sight to their"
+ },
+ {
+  "start": 1606.08,
+  "duration": 4.16,
+  "text": "capabilities or intelligence. And two,"
+ },
+ {
+  "start": 1608.24,
+  "duration": 4.08,
+  "text": "that adoption generally remains largely"
+ },
+ {
+  "start": 1610.24,
+  "duration": 3.679,
+  "text": "in the pilot phase. In short, Chubby"
+ },
+ {
+  "start": 1612.32,
+  "duration": 3.28,
+  "text": "writes, \"Everything we are experiencing"
+ },
+ {
+  "start": 1613.919,
+  "duration": 4.0,
+  "text": "right now is nothing more than a prelude"
+ },
+ {
+  "start": 1615.6,
+  "duration": 4.64,
+  "text": "of what is still to come.\" And speaking"
+ },
+ {
+  "start": 1617.919,
+  "duration": 4.24,
+  "text": "of preludes, the OpenAI hugging face"
+ },
+ {
+  "start": 1620.24,
+  "duration": 4.08,
+  "text": "disclosure comes as Sam Alman prepares"
+ },
+ {
+  "start": 1622.159,
+  "duration": 3.681,
+  "text": "to travel to DC next week to brief the"
+ },
+ {
+  "start": 1624.32,
+  "duration": 3.28,
+  "text": "Trump administration and Congress on the"
+ },
+ {
+  "start": 1625.84,
+  "duration": 3.439,
+  "text": "next generation of models. Bloomberg"
+ },
+ {
+  "start": 1627.6,
+  "duration": 3.679,
+  "text": "reports that Altman will also deliver"
+ },
+ {
+  "start": 1629.279,
+  "duration": 3.28,
+  "text": "OpenAI's recommendations on how safety"
+ },
+ {
+  "start": 1631.279,
+  "duration": 3.041,
+  "text": "testing should be handled moving"
+ },
+ {
+  "start": 1632.559,
+  "duration": 3.36,
+  "text": "forward. OpenAI's head of global"
+ },
+ {
+  "start": 1634.32,
+  "duration": 3.04,
+  "text": "affairs, Chris Leane, said that the next"
+ },
+ {
+  "start": 1635.919,
+  "duration": 2.961,
+  "text": "generation of models will have a big"
+ },
+ {
+  "start": 1637.36,
+  "duration": 3.28,
+  "text": "impact, even if you're not trying to"
+ },
+ {
+  "start": 1638.88,
+  "duration": 3.76,
+  "text": "break into a database. During a press"
+ },
+ {
+  "start": 1640.64,
+  "duration": 3.2,
+  "text": "briefing, he said, \"We think there's"
+ },
+ {
+  "start": 1642.64,
+  "duration": 2.8,
+  "text": "going to be some really interesting"
+ },
+ {
+  "start": 1643.84,
+  "duration": 3.28,
+  "text": "capabilities with this model family,"
+ },
+ {
+  "start": 1645.44,
+  "duration": 3.44,
+  "text": "particularly as it relates to work and"
+ },
+ {
+  "start": 1647.12,
+  "duration": 3.12,
+  "text": "scaling work. The focus will be on"
+ },
+ {
+  "start": 1648.88,
+  "duration": 2.96,
+  "text": "getting everyone on the same page to"
+ },
+ {
+  "start": 1650.24,
+  "duration": 3.919,
+  "text": "move forward with a safety framework.\""
+ },
+ {
+  "start": 1651.84,
+  "duration": 3.76,
+  "text": "Leah added, \"It's really important that"
+ },
+ {
+  "start": 1654.159,
+  "duration": 2.801,
+  "text": "there is a process in place to be able"
+ },
+ {
+  "start": 1655.6,
+  "duration": 3.36,
+  "text": "to ensure that we're getting our leading"
+ },
+ {
+  "start": 1656.96,
+  "duration": 4.319,
+  "text": "models out so cyber security specialists"
+ },
+ {
+  "start": 1658.96,
+  "duration": 4.16,
+  "text": "can have access.\" OpenAI appears to be"
+ },
+ {
+  "start": 1661.279,
+  "duration": 3.361,
+  "text": "pushing for a legislative approach,"
+ },
+ {
+  "start": 1663.12,
+  "duration": 3.2,
+  "text": "asking Congress to pass a bill that"
+ },
+ {
+  "start": 1664.64,
+  "duration": 3.519,
+  "text": "overrides the ad hoc approach we've seen"
+ },
+ {
+  "start": 1666.32,
+  "duration": 3.68,
+  "text": "thus far. Failing that, Leah said he"
+ },
+ {
+  "start": 1668.159,
+  "duration": 3.281,
+  "text": "would turn to the states, commenting,"
+ },
+ {
+  "start": 1670.0,
+  "duration": 3.44,
+  "text": "\"If you can't get Congress to create"
+ },
+ {
+  "start": 1671.44,
+  "duration": 3.359,
+  "text": "those national standards, the other path"
+ },
+ {
+  "start": 1673.44,
+  "duration": 3.119,
+  "text": "to get there is what we call reverse"
+ },
+ {
+  "start": 1674.799,
+  "duration": 2.961,
+  "text": "federalism, which is you work with these"
+ },
+ {
+  "start": 1676.559,
+  "duration": 3.12,
+  "text": "different states to be able to mirror"
+ },
+ {
+  "start": 1677.76,
+  "duration": 4.08,
+  "text": "one another.\" Still, with this security"
+ },
+ {
+  "start": 1679.679,
+  "duration": 3.761,
+  "text": "incident fresh on everyone's minds, it"
+ },
+ {
+  "start": 1681.84,
+  "duration": 3.439,
+  "text": "seems that Alman could be in for a tough"
+ },
+ {
+  "start": 1683.44,
+  "duration": 4.4,
+  "text": "reception as he meets with Congress."
+ },
+ {
+  "start": 1685.279,
+  "duration": 4.561,
+  "text": "Texas Democrat Greg Casar posted, \"This"
+ },
+ {
+  "start": 1687.84,
+  "duration": 3.68,
+  "text": "is extremely alarming. AI is developing"
+ },
+ {
+  "start": 1689.84,
+  "duration": 3.76,
+  "text": "extremely fast with no real regulations"
+ },
+ {
+  "start": 1691.52,
+  "duration": 3.519,
+  "text": "to keep us safe. That has to change. We"
+ },
+ {
+  "start": 1693.6,
+  "duration": 3.28,
+  "text": "need regular mandatory independent"
+ },
+ {
+  "start": 1695.039,
+  "duration": 3.52,
+  "text": "safety testing and oversight, mandatory"
+ },
+ {
+  "start": 1696.88,
+  "duration": 3.2,
+  "text": "disclosure of security incidents, and"
+ },
+ {
+  "start": 1698.559,
+  "duration": 4.0,
+  "text": "international cooperation to keep people"
+ },
+ {
+  "start": 1700.08,
+  "duration": 3.92,
+  "text": "safe from absolute disaster.\" Now, it's"
+ },
+ {
+  "start": 1702.559,
+  "duration": 3.6,
+  "text": "worth noting that while Casar is"
+ },
+ {
+  "start": 1704.0,
+  "duration": 4.0,
+  "text": "positioning himself as anti-AI, which"
+ },
+ {
+  "start": 1706.159,
+  "duration": 3.281,
+  "text": "unfortunately seems increasingly to be"
+ },
+ {
+  "start": 1708.0,
+  "duration": 2.96,
+  "text": "the consensus that progressives have"
+ },
+ {
+  "start": 1709.44,
+  "duration": 3.119,
+  "text": "landed on, it seems that his"
+ },
+ {
+  "start": 1710.96,
+  "duration": 3.36,
+  "text": "prescription is actually fairly close to"
+ },
+ {
+  "start": 1712.559,
+  "duration": 4.48,
+  "text": "what OpenAI will be asking Congress to"
+ },
+ {
+  "start": 1714.32,
+  "duration": 5.28,
+  "text": "pass. To sum, all of this suggests that"
+ },
+ {
+  "start": 1717.039,
+  "duration": 5.601,
+  "text": "GPT6 is coming sooner rather than later."
+ },
+ {
+  "start": 1719.6,
+  "duration": 4.72,
+  "text": "Chris GPT wrote, \"GPT6 arriving much"
+ },
+ {
+  "start": 1722.64,
+  "duration": 3.44,
+  "text": "earlier than expected. The target was"
+ },
+ {
+  "start": 1724.32,
+  "duration": 3.92,
+  "text": "late July, early August, now confirmed"
+ },
+ {
+  "start": 1726.08,
+  "duration": 3.839,
+  "text": "August. Early August, OpenAI will show"
+ },
+ {
+  "start": 1728.24,
+  "duration": 3.919,
+  "text": "why we need not be concerned about open"
+ },
+ {
+  "start": 1729.919,
+  "duration": 3.841,
+  "text": "source models again. Now, given what we"
+ },
+ {
+  "start": 1732.159,
+  "duration": 2.88,
+  "text": "saw this week, I think Matt Schumer"
+ },
+ {
+  "start": 1733.76,
+  "duration": 4.32,
+  "text": "summed up the challenge perfectly when"
+ },
+ {
+  "start": 1735.039,
+  "duration": 5.441,
+  "text": "he wrote, \"GBT6's launch lives or dies"
+ },
+ {
+  "start": 1738.08,
+  "duration": 4.479,
+  "text": "on one thing. Can OpenAI build a model"
+ },
+ {
+  "start": 1740.48,
+  "duration": 4.319,
+  "text": "that's relentless about goals without"
+ },
+ {
+  "start": 1742.559,
+  "duration": 3.761,
+  "text": "being reckless about how it gets there?\""
+ },
+ {
+  "start": 1744.799,
+  "duration": 3.041,
+  "text": "That is the question and one that we"
+ },
+ {
+  "start": 1746.32,
+  "duration": 2.88,
+  "text": "will continue to watch. For now, that's"
+ },
+ {
+  "start": 1747.84,
+  "duration": 2.959,
+  "text": "going to do it for today's AI Daily"
+ },
+ {
+  "start": 1749.2,
+  "duration": 3.92,
+  "text": "Brief. I appreciate you listening or"
+ },
+ {
+  "start": 1750.799,
+  "duration": 5.321,
+  "text": "watching as always and until next time,"
+ },
+ {
+  "start": 1753.12,
+  "duration": 3.0,
+  "text": "peace."
+ }
+]

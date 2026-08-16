@@ -1,0 +1,4357 @@
+[
+ {
+  "start": 0.88,
+  "duration": 4.959,
+  "text": "Today on the AI Daily Brief, why"
+ },
+ {
+  "start": 3.2,
+  "duration": 5.92,
+  "text": "everyone is debating AI policy and the"
+ },
+ {
+  "start": 5.839,
+  "duration": 5.121,
+  "text": "battle for the future of open-source AI."
+ },
+ {
+  "start": 9.12,
+  "duration": 3.36,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 10.96,
+  "duration": 3.92,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 12.48,
+  "duration": 3.68,
+  "text": "and discussions in AI. All right,"
+ },
+ {
+  "start": 14.88,
+  "duration": 3.2,
+  "text": "friends. Quick announcements before we"
+ },
+ {
+  "start": 16.16,
+  "duration": 3.84,
+  "text": "dive in. Today's episode is one of those"
+ },
+ {
+  "start": 18.08,
+  "duration": 3.44,
+  "text": "ones where the headlines are all kind of"
+ },
+ {
+  "start": 20.0,
+  "duration": 3.039,
+  "text": "connected to the main episode, so we're"
+ },
+ {
+  "start": 21.52,
+  "duration": 3.2,
+  "text": "just doing it as one big episode. We"
+ },
+ {
+  "start": 23.039,
+  "duration": 3.361,
+  "text": "will be back presumably with our normal"
+ },
+ {
+  "start": 24.72,
+  "duration": 4.08,
+  "text": "format between headlines and main"
+ },
+ {
+  "start": 26.4,
+  "duration": 5.039,
+  "text": "tomorrow. But for now, let's talk the"
+ },
+ {
+  "start": 28.8,
+  "duration": 4.32,
+  "text": "battle around open AI."
+ },
+ {
+  "start": 31.439,
+  "duration": 2.881,
+  "text": "Before we get into today's show, let me"
+ },
+ {
+  "start": 33.12,
+  "duration": 3.2,
+  "text": "pitch you on why you should pay"
+ },
+ {
+  "start": 34.32,
+  "duration": 3.6,
+  "text": "attention. Now, if you're listening,"
+ },
+ {
+  "start": 36.32,
+  "duration": 3.28,
+  "text": "maybe you don't need to be pitched, but"
+ },
+ {
+  "start": 37.92,
+  "duration": 3.44,
+  "text": "my observation over the past few years"
+ },
+ {
+  "start": 39.6,
+  "duration": 3.36,
+  "text": "of doing this show is that there is a"
+ },
+ {
+  "start": 41.36,
+  "duration": 4.56,
+  "text": "big chunk of this audience who is"
+ },
+ {
+  "start": 42.96,
+  "duration": 4.8,
+  "text": "primarily focused on how AI matters for"
+ },
+ {
+  "start": 45.92,
+  "duration": 4.159,
+  "text": "you. Specifically, this part of the"
+ },
+ {
+  "start": 47.76,
+  "duration": 3.92,
+  "text": "audience cares about new models and"
+ },
+ {
+  "start": 50.079,
+  "duration": 4.081,
+  "text": "changes in harnesses in the way that we"
+ },
+ {
+  "start": 51.68,
+  "duration": 4.719,
+  "text": "access those models. They are primarily"
+ },
+ {
+  "start": 54.16,
+  "duration": 3.84,
+  "text": "interested in how AI is going to change"
+ },
+ {
+  "start": 56.399,
+  "duration": 3.521,
+  "text": "their work and their careers and what"
+ },
+ {
+  "start": 58.0,
+  "duration": 3.92,
+  "text": "they do. They're interested in how AI"
+ },
+ {
+  "start": 59.92,
+  "duration": 3.6,
+  "text": "opens up new opportunities for them. And"
+ },
+ {
+  "start": 61.92,
+  "duration": 4.239,
+  "text": "this is of course why a lot of the show"
+ },
+ {
+  "start": 63.52,
+  "duration": 5.04,
+  "text": "is biased towards the highly actionable."
+ },
+ {
+  "start": 66.159,
+  "duration": 4.481,
+  "text": "It's also why almost inevitably there is"
+ },
+ {
+  "start": 68.56,
+  "duration": 4.239,
+  "text": "a little dip in engagement around shows"
+ },
+ {
+  "start": 70.64,
+  "duration": 4.64,
+  "text": "that are more on the policy side or on"
+ },
+ {
+  "start": 72.799,
+  "duration": 5.041,
+  "text": "the macro big picture geopolitics side."
+ },
+ {
+  "start": 75.28,
+  "duration": 4.879,
+  "text": "Today's show is entirely about that. But"
+ },
+ {
+  "start": 77.84,
+  "duration": 4.8,
+  "text": "my very strong argument is that what we"
+ },
+ {
+  "start": 80.159,
+  "duration": 5.521,
+  "text": "are discussing today is an area of"
+ },
+ {
+  "start": 82.64,
+  "duration": 6.08,
+  "text": "policy and geopolitics that could have"
+ },
+ {
+  "start": 85.68,
+  "duration": 5.36,
+  "text": "dramatic implications for what models"
+ },
+ {
+  "start": 88.72,
+  "duration": 4.24,
+  "text": "you have access to, how you access them,"
+ },
+ {
+  "start": 91.04,
+  "duration": 3.84,
+  "text": "the cost at which you access them, the"
+ },
+ {
+  "start": 92.96,
+  "duration": 3.6,
+  "text": "ways that you design systems for work,"
+ },
+ {
+  "start": 94.88,
+  "duration": 3.68,
+  "text": "the tools that are available to you to"
+ },
+ {
+  "start": 96.56,
+  "duration": 4.16,
+  "text": "design those systems. The stakes, in"
+ },
+ {
+  "start": 98.56,
+  "duration": 4.239,
+  "text": "other words, are extremely high, not"
+ },
+ {
+  "start": 100.72,
+  "duration": 4.8,
+  "text": "just on some random theoretical level,"
+ },
+ {
+  "start": 102.799,
+  "duration": 5.441,
+  "text": "but in terms of the AI that you actually"
+ },
+ {
+  "start": 105.52,
+  "duration": 5.12,
+  "text": "access. What's more, this particular"
+ },
+ {
+  "start": 108.24,
+  "duration": 4.879,
+  "text": "area is a policy discussion which blends"
+ },
+ {
+  "start": 110.64,
+  "duration": 5.04,
+  "text": "into democratic politics in the US in a"
+ },
+ {
+  "start": 113.119,
+  "duration": 4.401,
+  "text": "major way and so I believe and hope is"
+ },
+ {
+  "start": 115.68,
+  "duration": 3.68,
+  "text": "worthy of your engagement. So what we're"
+ },
+ {
+  "start": 117.52,
+  "duration": 4.32,
+  "text": "talking about today is of course the"
+ },
+ {
+  "start": 119.36,
+  "duration": 5.039,
+  "text": "increasingly loud political questions"
+ },
+ {
+  "start": 121.84,
+  "duration": 4.0,
+  "text": "around open-source and specifically but"
+ },
+ {
+  "start": 124.399,
+  "duration": 3.441,
+  "text": "not exclusively we're talking about"
+ },
+ {
+  "start": 125.84,
+  "duration": 4.479,
+  "text": "Chinese openweight models and whether"
+ },
+ {
+  "start": 127.84,
+  "duration": 4.24,
+  "text": "they have a future in the US. Now, the"
+ },
+ {
+  "start": 130.319,
+  "duration": 3.841,
+  "text": "genesis for this, of course, is the"
+ },
+ {
+  "start": 132.08,
+  "duration": 3.519,
+  "text": "release of Kimmy K3, the model that was"
+ },
+ {
+  "start": 134.16,
+  "duration": 3.6,
+  "text": "the subject of discussion in our Friday"
+ },
+ {
+  "start": 135.599,
+  "duration": 3.921,
+  "text": "episode. Now, at this point, you might"
+ },
+ {
+  "start": 137.76,
+  "duration": 3.44,
+  "text": "be a little anesthetized to every time"
+ },
+ {
+  "start": 139.52,
+  "duration": 3.439,
+  "text": "there is some new advanced Chinese"
+ },
+ {
+  "start": 141.2,
+  "duration": 3.44,
+  "text": "model, everyone having a freakout in the"
+ },
+ {
+  "start": 142.959,
+  "duration": 4.081,
+  "text": "style of the original Deepseek freakout"
+ },
+ {
+  "start": 144.64,
+  "duration": 4.48,
+  "text": "back from January 2025. It's almost at"
+ },
+ {
+  "start": 147.04,
+  "duration": 4.4,
+  "text": "this point kind of expected. And yet,"
+ },
+ {
+  "start": 149.12,
+  "duration": 4.56,
+  "text": "honestly, since that first Deepseek"
+ },
+ {
+  "start": 151.44,
+  "duration": 4.159,
+  "text": "moment back in January, I haven't seen"
+ },
+ {
+  "start": 153.68,
+  "duration": 4.08,
+  "text": "something dominate the discourse quite"
+ },
+ {
+  "start": 155.599,
+  "duration": 4.161,
+  "text": "as loudly as this has over the last few"
+ },
+ {
+  "start": 157.76,
+  "duration": 4.24,
+  "text": "days. Pretty much all anyone talked"
+ },
+ {
+  "start": 159.76,
+  "duration": 4.479,
+  "text": "about all weekend was a tweet from Dean"
+ },
+ {
+  "start": 162.0,
+  "duration": 3.84,
+  "text": "Ball, former policy adviser to the Trump"
+ },
+ {
+  "start": 164.239,
+  "duration": 3.521,
+  "text": "administration on AI, now head of"
+ },
+ {
+  "start": 165.84,
+  "duration": 4.24,
+  "text": "strategic futures at OpenAI, which"
+ },
+ {
+  "start": 167.76,
+  "duration": 3.68,
+  "text": "became just incredibly contentious and"
+ },
+ {
+  "start": 170.08,
+  "duration": 3.6,
+  "text": "controversial, as we will see,"
+ },
+ {
+  "start": 171.44,
+  "duration": 4.56,
+  "text": "generating at this point 11 million"
+ },
+ {
+  "start": 173.68,
+  "duration": 4.08,
+  "text": "views. But before we get into Dean's"
+ },
+ {
+  "start": 176.0,
+  "duration": 3.68,
+  "text": "post, let's take a step back and talk"
+ },
+ {
+  "start": 177.76,
+  "duration": 4.32,
+  "text": "about what we know so far around the"
+ },
+ {
+  "start": 179.68,
+  "duration": 4.32,
+  "text": "US's position over open source, as well"
+ },
+ {
+  "start": 182.08,
+  "duration": 4.4,
+  "text": "as the latest out of China around their"
+ },
+ {
+  "start": 184.0,
+  "duration": 4.319,
+  "text": "strategy. Over the past couple of weeks,"
+ },
+ {
+  "start": 186.48,
+  "duration": 3.759,
+  "text": "there have been a growing set of reports"
+ },
+ {
+  "start": 188.319,
+  "duration": 4.081,
+  "text": "that suggest that the White House is"
+ },
+ {
+  "start": 190.239,
+  "duration": 4.64,
+  "text": "taking a closer look at taking action"
+ },
+ {
+  "start": 192.4,
+  "duration": 4.88,
+  "text": "against open models. Last Wednesday,"
+ },
+ {
+  "start": 194.879,
+  "duration": 4.321,
+  "text": "Washington insider publication Semaphore"
+ },
+ {
+  "start": 197.28,
+  "duration": 3.679,
+  "text": "reported that the administration was"
+ },
+ {
+  "start": 199.2,
+  "duration": 3.759,
+  "text": "considering or at least not ruling out"
+ },
+ {
+  "start": 200.959,
+  "duration": 3.441,
+  "text": "action on open source models with a"
+ },
+ {
+  "start": 202.959,
+  "duration": 3.2,
+  "text": "senior White House official confirming"
+ },
+ {
+  "start": 204.4,
+  "duration": 4.0,
+  "text": "that there was quote plenty of ongoing"
+ },
+ {
+  "start": 206.159,
+  "duration": 4.64,
+  "text": "work that went beyond the cyber security"
+ },
+ {
+  "start": 208.4,
+  "duration": 3.759,
+  "text": "executive order from June. At the very"
+ },
+ {
+  "start": 210.799,
+  "duration": 3.041,
+  "text": "least, it's very clear that the White"
+ },
+ {
+  "start": 212.159,
+  "duration": 3.601,
+  "text": "House is paying close attention to open"
+ },
+ {
+  "start": 213.84,
+  "duration": 3.6,
+  "text": "models. Now, of course, the White"
+ },
+ {
+  "start": 215.76,
+  "duration": 3.199,
+  "text": "House's relationship with models in"
+ },
+ {
+  "start": 217.44,
+  "duration": 3.68,
+  "text": "general is in something of a flux"
+ },
+ {
+  "start": 218.959,
+  "duration": 4.321,
+  "text": "moment. On Friday, CNBC reported that"
+ },
+ {
+  "start": 221.12,
+  "duration": 4.08,
+  "text": "the administration expects to limit the"
+ },
+ {
+  "start": 223.28,
+  "duration": 4.16,
+  "text": "release of Western Frontier models on an"
+ },
+ {
+  "start": 225.2,
+  "duration": 4.88,
+  "text": "ongoing basis. CNBC highlighted the"
+ },
+ {
+  "start": 227.44,
+  "duration": 4.64,
+  "text": "limits around Fable 5 and GPT 5.6, but"
+ },
+ {
+  "start": 230.08,
+  "duration": 3.68,
+  "text": "also tied the policy to the new AI"
+ },
+ {
+  "start": 232.08,
+  "duration": 3.68,
+  "text": "clearing house announced last week named"
+ },
+ {
+  "start": 233.76,
+  "duration": 3.6,
+  "text": "Gold Eagle. It was originally believed"
+ },
+ {
+  "start": 235.76,
+  "duration": 3.039,
+  "text": "and frankly framed like the clearing"
+ },
+ {
+  "start": 237.36,
+  "duration": 3.599,
+  "text": "house would be mostly about sharing"
+ },
+ {
+  "start": 238.799,
+  "duration": 3.761,
+  "text": "software vulnerabilities detected by AI."
+ },
+ {
+  "start": 240.959,
+  "duration": 3.441,
+  "text": "But sources indicate that Gold Eagle"
+ },
+ {
+  "start": 242.56,
+  "duration": 3.36,
+  "text": "will also be the mechanism to determine"
+ },
+ {
+  "start": 244.4,
+  "duration": 3.759,
+  "text": "which companies have access to new"
+ },
+ {
+  "start": 245.92,
+  "duration": 3.519,
+  "text": "frontier models. On the record, a White"
+ },
+ {
+  "start": 248.159,
+  "duration": 3.28,
+  "text": "House official said the government"
+ },
+ {
+  "start": 249.439,
+  "duration": 4.241,
+  "text": "doesn't require approval of AI models"
+ },
+ {
+  "start": 251.439,
+  "duration": 4.241,
+  "text": "and any engagement is still voluntary,"
+ },
+ {
+  "start": 253.68,
+  "duration": 3.839,
+  "text": "asserting that quote decisions on timing"
+ },
+ {
+  "start": 255.68,
+  "duration": 3.6,
+  "text": "and scope of releases rest entirely with"
+ },
+ {
+  "start": 257.519,
+  "duration": 3.201,
+  "text": "the companies. Now, I'm sorry to be"
+ },
+ {
+  "start": 259.28,
+  "duration": 3.28,
+  "text": "cynical, but that is absolutely not the"
+ },
+ {
+  "start": 260.72,
+  "duration": 3.36,
+  "text": "case anymore as we have seen. And the"
+ },
+ {
+  "start": 262.56,
+  "duration": 3.28,
+  "text": "White House can pretend that this regime"
+ },
+ {
+  "start": 264.08,
+  "duration": 3.2,
+  "text": "is voluntary all at once. But"
+ },
+ {
+  "start": 265.84,
+  "duration": 3.359,
+  "text": "functionally speaking, that is no longer"
+ },
+ {
+  "start": 267.28,
+  "duration": 3.6,
+  "text": "the case. The only question is whether"
+ },
+ {
+  "start": 269.199,
+  "duration": 3.681,
+  "text": "moving forward, the quote unquote"
+ },
+ {
+  "start": 270.88,
+  "duration": 3.759,
+  "text": "voluntary regime that seemed to be over"
+ },
+ {
+  "start": 272.88,
+  "duration": 3.52,
+  "text": "the last month Howard Lutnik and Susie"
+ },
+ {
+  "start": 274.639,
+  "duration": 3.28,
+  "text": "Wilds getting together and deciding when"
+ },
+ {
+  "start": 276.4,
+  "duration": 2.799,
+  "text": "they thought Anthropic had eaten enough"
+ },
+ {
+  "start": 277.919,
+  "duration": 3.361,
+  "text": "crow for them to allow them to"
+ },
+ {
+  "start": 279.199,
+  "duration": 4.241,
+  "text": "re-release Fable 5 becomes actually"
+ },
+ {
+  "start": 281.28,
+  "duration": 3.76,
+  "text": "something more formalized in the future."
+ },
+ {
+  "start": 283.44,
+  "duration": 3.52,
+  "text": "Now, for those who think that basically"
+ },
+ {
+  "start": 285.04,
+  "duration": 4.159,
+  "text": "anything formalized would be better than"
+ },
+ {
+  "start": 286.96,
+  "duration": 3.679,
+  "text": "this weird deacto informal regime, over"
+ },
+ {
+  "start": 289.199,
+  "duration": 2.881,
+  "text": "the weekend, Bloomberg noted that the"
+ },
+ {
+  "start": 290.639,
+  "duration": 3.521,
+  "text": "White House is also considering a"
+ },
+ {
+  "start": 292.08,
+  "duration": 4.72,
+  "text": "proposal for a self-governing body put"
+ },
+ {
+  "start": 294.16,
+  "duration": 4.64,
+  "text": "forward by Demisabis. Financial industry"
+ },
+ {
+  "start": 296.8,
+  "duration": 4.0,
+  "text": "regulator FINRA is considered the model,"
+ },
+ {
+  "start": 298.8,
+  "duration": 3.76,
+  "text": "but then again, many have noted that"
+ },
+ {
+  "start": 300.8,
+  "duration": 3.6,
+  "text": "financial services aren't exactly known"
+ },
+ {
+  "start": 302.56,
+  "duration": 4.56,
+  "text": "for their rapid pace of innovation under"
+ },
+ {
+  "start": 304.4,
+  "duration": 4.639,
+  "text": "this particular model. Now, on Monday,"
+ },
+ {
+  "start": 307.12,
+  "duration": 3.359,
+  "text": "Axios published a provocatively titled"
+ },
+ {
+  "start": 309.039,
+  "duration": 2.961,
+  "text": "article suggesting that there was a"
+ },
+ {
+  "start": 310.479,
+  "duration": 4.321,
+  "text": "secret effort within the White House to"
+ },
+ {
+  "start": 312.0,
+  "duration": 4.479,
+  "text": "curb Chinese AI. They wrote, \"The Trump"
+ },
+ {
+  "start": 314.8,
+  "duration": 3.36,
+  "text": "administrations is showing signs it"
+ },
+ {
+  "start": 316.479,
+  "duration": 3.361,
+  "text": "could ban cutting edge Chinese AI"
+ },
+ {
+  "start": 318.16,
+  "duration": 3.84,
+  "text": "models, a momentous move that could lock"
+ },
+ {
+  "start": 319.84,
+  "duration": 3.68,
+  "text": "in dominance by open AI and anthropic.\""
+ },
+ {
+  "start": 322.0,
+  "duration": 3.52,
+  "text": "A source close to the administration"
+ },
+ {
+  "start": 323.52,
+  "duration": 3.76,
+  "text": "detailed some of the plans. They claimed"
+ },
+ {
+  "start": 325.52,
+  "duration": 3.44,
+  "text": "that last year the Commerce Department"
+ },
+ {
+  "start": 327.28,
+  "duration": 3.04,
+  "text": "considered adding Chinese AI firms to"
+ },
+ {
+  "start": 328.96,
+  "duration": 3.04,
+  "text": "their entity list, which would"
+ },
+ {
+  "start": 330.32,
+  "duration": 3.84,
+  "text": "discourage domestic use in the corporate"
+ },
+ {
+  "start": 332.0,
+  "duration": 3.84,
+  "text": "sector. An executive order is also being"
+ },
+ {
+  "start": 334.16,
+  "duration": 3.68,
+  "text": "considered which would require US tech"
+ },
+ {
+  "start": 335.84,
+  "duration": 3.44,
+  "text": "companies to only host Chinese models if"
+ },
+ {
+  "start": 337.84,
+  "duration": 3.44,
+  "text": "they can guarantee security and take"
+ },
+ {
+  "start": 339.28,
+  "duration": 3.28,
+  "text": "liability for any breaches. They said"
+ },
+ {
+  "start": 341.28,
+  "duration": 2.72,
+  "text": "the Commerce Department has also"
+ },
+ {
+  "start": 342.56,
+  "duration": 3.359,
+  "text": "circulated draft rules that would"
+ },
+ {
+  "start": 344.0,
+  "duration": 4.639,
+  "text": "leverage supply chain security powers to"
+ },
+ {
+  "start": 345.919,
+  "duration": 3.761,
+  "text": "crack down on Chinese AI. Now, one"
+ },
+ {
+  "start": 348.639,
+  "duration": 2.481,
+  "text": "important thing to note as we're"
+ },
+ {
+  "start": 349.68,
+  "duration": 3.12,
+  "text": "discussing all of this is that the White"
+ },
+ {
+  "start": 351.12,
+  "duration": 3.44,
+  "text": "House understands that they don't"
+ },
+ {
+  "start": 352.8,
+  "duration": 3.6,
+  "text": "necessarily have to actually outright"
+ },
+ {
+  "start": 354.56,
+  "duration": 3.84,
+  "text": "ban Chinese models to have their desired"
+ },
+ {
+  "start": 356.4,
+  "duration": 3.68,
+  "text": "effect of prohibiting access to them."
+ },
+ {
+  "start": 358.4,
+  "duration": 3.28,
+  "text": "One source familiar with the discussions"
+ },
+ {
+  "start": 360.08,
+  "duration": 3.44,
+  "text": "described a push to highlight potential"
+ },
+ {
+  "start": 361.68,
+  "duration": 3.68,
+  "text": "back doors in a lack of security. And"
+ },
+ {
+  "start": 363.52,
+  "duration": 3.44,
+  "text": "frankly, anyone who's paid any attention"
+ },
+ {
+  "start": 365.36,
+  "duration": 2.88,
+  "text": "at all to the operation chokepoint"
+ },
+ {
+  "start": 366.96,
+  "duration": 2.799,
+  "text": "regimes that have happened across"
+ },
+ {
+  "start": 368.24,
+  "duration": 3.28,
+  "text": "various administrations over the past"
+ },
+ {
+  "start": 369.759,
+  "duration": 4.16,
+  "text": "few years with regard to undesirable"
+ },
+ {
+  "start": 371.52,
+  "duration": 4.239,
+  "text": "areas. So, right now, it's very unclear"
+ },
+ {
+  "start": 373.919,
+  "duration": 3.361,
+  "text": "where this is going to land, but also"
+ },
+ {
+  "start": 375.759,
+  "duration": 3.841,
+  "text": "does seem clear that these conversations"
+ },
+ {
+  "start": 377.28,
+  "duration": 3.68,
+  "text": "are being had. Now, adding a bit of a"
+ },
+ {
+  "start": 379.6,
+  "duration": 3.12,
+  "text": "twist to the discussion coming out of"
+ },
+ {
+  "start": 380.96,
+  "duration": 3.519,
+  "text": "Washington, the Trump administration's"
+ },
+ {
+  "start": 382.72,
+  "duration": 3.759,
+  "text": "head of the Center for AI Standards and"
+ },
+ {
+  "start": 384.479,
+  "duration": 3.681,
+  "text": "Innovation has resigned. Now, this"
+ },
+ {
+  "start": 386.479,
+  "duration": 3.44,
+  "text": "organization was set up during the Biden"
+ },
+ {
+  "start": 388.16,
+  "duration": 3.28,
+  "text": "administration and had its power curbed"
+ },
+ {
+  "start": 389.919,
+  "duration": 3.12,
+  "text": "early in the Trump administration,"
+ },
+ {
+  "start": 391.44,
+  "duration": 2.8,
+  "text": "although had seen a resurgence in recent"
+ },
+ {
+  "start": 393.039,
+  "duration": 3.201,
+  "text": "months due to the role it played in"
+ },
+ {
+  "start": 394.24,
+  "duration": 3.36,
+  "text": "assessing Fable during the ban. Many saw"
+ },
+ {
+  "start": 396.24,
+  "duration": 3.36,
+  "text": "the center as a way to have civilian"
+ },
+ {
+  "start": 397.6,
+  "duration": 4.08,
+  "text": "input over AI regulation rather than"
+ },
+ {
+  "start": 399.6,
+  "duration": 3.92,
+  "text": "leaving the matter entirely to the NSA."
+ },
+ {
+  "start": 401.68,
+  "duration": 3.12,
+  "text": "On Monday, CNBC reported that Chris"
+ },
+ {
+  "start": 403.52,
+  "duration": 3.119,
+  "text": "Fall, the head of the center, had"
+ },
+ {
+  "start": 404.8,
+  "duration": 4.0,
+  "text": "resigned. Fall had only been in the"
+ },
+ {
+  "start": 406.639,
+  "duration": 4.641,
+  "text": "position for 3 months, so was a Trump"
+ },
+ {
+  "start": 408.8,
+  "duration": 4.239,
+  "text": "administration pick for the role. Axios"
+ },
+ {
+  "start": 411.28,
+  "duration": 3.44,
+  "text": "characterized the departure as abrupt."
+ },
+ {
+  "start": 413.039,
+  "duration": 3.041,
+  "text": "There is no immediate replacement with"
+ },
+ {
+  "start": 414.72,
+  "duration": 3.44,
+  "text": "National Institute of Standards and"
+ },
+ {
+  "start": 416.08,
+  "duration": 3.679,
+  "text": "Technology Director Arvin Raman filling"
+ },
+ {
+  "start": 418.16,
+  "duration": 3.52,
+  "text": "the role on an interim basis while he"
+ },
+ {
+  "start": 419.759,
+  "duration": 4.0,
+  "text": "interviews candidates. Analyst Max"
+ },
+ {
+  "start": 421.68,
+  "duration": 3.44,
+  "text": "Weinbach wrote, \"I hope this is because"
+ },
+ {
+  "start": 423.759,
+  "duration": 2.72,
+  "text": "what he was pushing was stupid and"
+ },
+ {
+  "start": 425.12,
+  "duration": 2.72,
+  "text": "people called him stupid rather than the"
+ },
+ {
+  "start": 426.479,
+  "duration": 2.72,
+  "text": "one I'm terrified of, which is he's"
+ },
+ {
+  "start": 427.84,
+  "duration": 3.28,
+  "text": "fighting for the smart solution and it"
+ },
+ {
+  "start": 429.199,
+  "duration": 3.921,
+  "text": "isn't working.\" Now, as I've frequently"
+ },
+ {
+  "start": 431.12,
+  "duration": 3.84,
+  "text": "said, overreading a single personnel"
+ },
+ {
+  "start": 433.12,
+  "duration": 3.6,
+  "text": "change is always a little bit dangerous,"
+ },
+ {
+  "start": 434.96,
+  "duration": 3.519,
+  "text": "but the timing does make it at least a"
+ },
+ {
+  "start": 436.72,
+  "duration": 4.4,
+  "text": "little bit notable."
+ },
+ {
+  "start": 438.479,
+  "duration": 4.801,
+  "text": "Overall, US AI policy is in an"
+ },
+ {
+  "start": 441.12,
+  "duration": 4.0,
+  "text": "extraordinarily confused place. In a"
+ },
+ {
+  "start": 443.28,
+  "duration": 3.759,
+  "text": "piece titled, \"Trump's AI agenda"
+ },
+ {
+  "start": 445.12,
+  "duration": 4.32,
+  "text": "collides with reality.\" The information"
+ },
+ {
+  "start": 447.039,
+  "duration": 4.241,
+  "text": "wrote, \"Inside the White House, turf"
+ },
+ {
+  "start": 449.44,
+  "duration": 3.599,
+  "text": "battles, clashing views, staff turnover,"
+ },
+ {
+  "start": 451.28,
+  "duration": 3.359,
+  "text": "and hollowedout offices have contributed"
+ },
+ {
+  "start": 453.039,
+  "duration": 3.841,
+  "text": "to a chaotic environment for"
+ },
+ {
+  "start": 454.639,
+  "duration": 3.84,
+  "text": "policymaking on AI.\" Many have noted"
+ },
+ {
+  "start": 456.88,
+  "duration": 3.599,
+  "text": "that the administration's apparent White"
+ },
+ {
+  "start": 458.479,
+  "duration": 3.921,
+  "text": "House policy has gone from handsoff to"
+ },
+ {
+  "start": 460.479,
+  "duration": 3.761,
+  "text": "extraordinarily heavy-handed in a very"
+ },
+ {
+  "start": 462.4,
+  "duration": 3.76,
+  "text": "short period of time and seems to be"
+ },
+ {
+  "start": 464.24,
+  "duration": 4.079,
+  "text": "veering wildly between the two, even"
+ },
+ {
+  "start": 466.16,
+  "duration": 4.319,
+  "text": "inside. But of course, when it comes to"
+ },
+ {
+  "start": 468.319,
+  "duration": 3.841,
+  "text": "AI policy, it's not like the US"
+ },
+ {
+  "start": 470.479,
+  "duration": 4.16,
+  "text": "government is sitting out there alone."
+ },
+ {
+  "start": 472.16,
+  "duration": 3.84,
+  "text": "They have a counterparty in Beijing who"
+ },
+ {
+  "start": 474.639,
+  "duration": 3.28,
+  "text": "is likewise going through its own"
+ },
+ {
+  "start": 476.0,
+  "duration": 4.319,
+  "text": "process of evolution and codification of"
+ },
+ {
+  "start": 477.919,
+  "duration": 4.481,
+  "text": "AI policy. Chinese officials recently"
+ },
+ {
+  "start": 480.319,
+  "duration": 4.32,
+  "text": "wrapped up the first world AI conference"
+ },
+ {
+  "start": 482.4,
+  "duration": 3.919,
+  "text": "in Beijing. Now, heading into the event,"
+ },
+ {
+  "start": 484.639,
+  "duration": 4.0,
+  "text": "it was clear that the purpose was to"
+ },
+ {
+  "start": 486.319,
+  "duration": 4.401,
+  "text": "offer a Chinese-led AI future to the"
+ },
+ {
+  "start": 488.639,
+  "duration": 3.921,
+  "text": "global south and US adversaries. The"
+ },
+ {
+  "start": 490.72,
+  "duration": 4.08,
+  "text": "Chinese foreign ministry touted 29"
+ },
+ {
+  "start": 492.56,
+  "duration": 4.4,
+  "text": "signitories to a new world artificial"
+ },
+ {
+  "start": 494.8,
+  "duration": 4.0,
+  "text": "intelligence cooperation organization,"
+ },
+ {
+  "start": 496.96,
+  "duration": 3.84,
+  "text": "including some of the US's favorite"
+ },
+ {
+  "start": 498.8,
+  "duration": 4.16,
+  "text": "people in Russia, Indonesia, Pakistan,"
+ },
+ {
+  "start": 500.8,
+  "duration": 4.16,
+  "text": "and Laos. The event itself was headlined"
+ },
+ {
+  "start": 502.96,
+  "duration": 4.88,
+  "text": "by a speech from President Xi Jinping,"
+ },
+ {
+  "start": 504.96,
+  "duration": 5.679,
+  "text": "who endorsed an open-source approach to"
+ },
+ {
+  "start": 507.84,
+  "duration": 4.879,
+  "text": "global AI. She said that global AI"
+ },
+ {
+  "start": 510.639,
+  "duration": 3.84,
+  "text": "governance must quote, \"uphold openness"
+ },
+ {
+  "start": 512.719,
+  "duration": 4.0,
+  "text": "and win-win cooperation to drive"
+ },
+ {
+  "start": 514.479,
+  "duration": 4.641,
+  "text": "innovation and development.\" She added,"
+ },
+ {
+  "start": 516.719,
+  "duration": 3.921,
+  "text": "\"AI is a new engine of global economic"
+ },
+ {
+  "start": 519.12,
+  "duration": 3.039,
+  "text": "growth and an accelerator in the"
+ },
+ {
+  "start": 520.64,
+  "duration": 3.519,
+  "text": "transition from old to new growth"
+ },
+ {
+  "start": 522.159,
+  "duration": 3.921,
+  "text": "drivers. It is moving from the digital"
+ },
+ {
+  "start": 524.159,
+  "duration": 3.921,
+  "text": "world into the physical world. We must"
+ },
+ {
+  "start": 526.08,
+  "duration": 3.6,
+  "text": "seize this rare historic opportunity,"
+ },
+ {
+  "start": 528.08,
+  "duration": 3.52,
+  "text": "encourage open source development,"
+ },
+ {
+  "start": 529.68,
+  "duration": 3.68,
+  "text": "openness, cooperation, and sharing, and"
+ },
+ {
+  "start": 531.6,
+  "duration": 3.44,
+  "text": "comprehensively advance technological"
+ },
+ {
+  "start": 533.36,
+  "duration": 3.76,
+  "text": "innovation, industrial development, and"
+ },
+ {
+  "start": 535.04,
+  "duration": 3.68,
+  "text": "real world applications of AI. We should"
+ },
+ {
+  "start": 537.12,
+  "duration": 3.6,
+  "text": "coordinate efforts to transform and"
+ },
+ {
+  "start": 538.72,
+  "duration": 3.92,
+  "text": "upgrade traditional industries, foster"
+ },
+ {
+  "start": 540.72,
+  "duration": 3.44,
+  "text": "and expand emerging industries, and make"
+ },
+ {
+  "start": 542.64,
+  "duration": 3.199,
+  "text": "forward-looking plans for industries of"
+ },
+ {
+  "start": 544.16,
+  "duration": 4.48,
+  "text": "the future, thereby empowering all"
+ },
+ {
+  "start": 545.839,
+  "duration": 4.641,
+  "text": "sectors through AI. Now, there had been"
+ },
+ {
+  "start": 548.64,
+  "duration": 3.36,
+  "text": "some questions of late around whether"
+ },
+ {
+  "start": 550.48,
+  "duration": 3.52,
+  "text": "China was going to decide to go in the"
+ },
+ {
+  "start": 552.0,
+  "duration": 4.08,
+  "text": "other direction and start restricting"
+ },
+ {
+  "start": 554.0,
+  "duration": 4.0,
+  "text": "access to its top models that were"
+ },
+ {
+  "start": 556.08,
+  "duration": 3.12,
+  "text": "coming out of labs like Moonshot. But at"
+ },
+ {
+  "start": 558.0,
+  "duration": 3.519,
+  "text": "the moment, at least, it seems like the"
+ },
+ {
+  "start": 559.2,
+  "duration": 4.72,
+  "text": "narrative thrust is firmly focused on"
+ },
+ {
+  "start": 561.519,
+  "duration": 4.721,
+  "text": "this open strategy. Geopolitics"
+ },
+ {
+  "start": 563.92,
+  "duration": 4.0,
+  "text": "commentator Arnad Bratron wrote, \"It's"
+ },
+ {
+  "start": 566.24,
+  "duration": 3.68,
+  "text": "becoming clearer and clear that China's"
+ },
+ {
+  "start": 567.92,
+  "duration": 3.44,
+  "text": "AI open source strategy may end up being"
+ },
+ {
+  "start": 569.92,
+  "duration": 3.359,
+  "text": "seen as one of the greatest strategic"
+ },
+ {
+  "start": 571.36,
+  "duration": 3.68,
+  "text": "master strokes of all time. They started"
+ },
+ {
+  "start": 573.279,
+  "duration": 3.281,
+  "text": "with a clear resource and technological"
+ },
+ {
+  "start": 575.04,
+  "duration": 3.359,
+  "text": "disadvantage, mainly due to the US"
+ },
+ {
+  "start": 576.56,
+  "duration": 2.959,
+  "text": "semiconductor export controls and have"
+ },
+ {
+  "start": 578.399,
+  "duration": 2.88,
+  "text": "managed to change the rules of"
+ },
+ {
+  "start": 579.519,
+  "duration": 3.361,
+  "text": "engagement in such a way that the US's"
+ },
+ {
+  "start": 581.279,
+  "duration": 3.521,
+  "text": "own tech leaders and officials are now"
+ },
+ {
+  "start": 582.88,
+  "duration": 3.519,
+  "text": "publicly siding with China's approach"
+ },
+ {
+  "start": 584.8,
+  "duration": 3.2,
+  "text": "against their own companies, which is"
+ },
+ {
+  "start": 586.399,
+  "duration": 3.041,
+  "text": "pretty extraordinary. When you can't"
+ },
+ {
+  "start": 588.0,
+  "duration": 3.04,
+  "text": "fight symmetrically, make the"
+ },
+ {
+  "start": 589.44,
+  "duration": 3.28,
+  "text": "adversaries way of fighting obsolete and"
+ },
+ {
+  "start": 591.04,
+  "duration": 3.6,
+  "text": "self-defeating.\" The greatest irony in"
+ },
+ {
+  "start": 592.72,
+  "duration": 3.6,
+  "text": "all of this is had the US not done the"
+ },
+ {
+  "start": 594.64,
+  "duration": 3.36,
+  "text": "export controls, there's a decent chance"
+ },
+ {
+  "start": 596.32,
+  "duration": 3.44,
+  "text": "that not only China wouldn't have gone"
+ },
+ {
+  "start": 598.0,
+  "duration": 3.04,
+  "text": "for the open source approach, but the US"
+ },
+ {
+  "start": 599.76,
+  "duration": 2.72,
+  "text": "would have made an enormous amount of"
+ },
+ {
+  "start": 601.04,
+  "duration": 2.64,
+  "text": "money selling compute to them. Now"
+ },
+ {
+  "start": 602.48,
+  "duration": 2.88,
+  "text": "they're getting neither the money nor"
+ },
+ {
+  "start": 603.68,
+  "duration": 3.36,
+  "text": "the containment. Now, according to"
+ },
+ {
+  "start": 605.36,
+  "duration": 3.44,
+  "text": "reporting from the Financial Times, the"
+ },
+ {
+  "start": 607.04,
+  "duration": 4.0,
+  "text": "consultations between the Chinese"
+ },
+ {
+  "start": 608.8,
+  "duration": 4.24,
+  "text": "Ministry of Commerce and AI companies"
+ },
+ {
+  "start": 611.04,
+  "duration": 3.6,
+  "text": "about possible export controls"
+ },
+ {
+  "start": 613.04,
+  "duration": 3.28,
+  "text": "continues. So, I don't think that we"
+ },
+ {
+  "start": 614.64,
+  "duration": 3.36,
+  "text": "should take anything of this moment as a"
+ },
+ {
+  "start": 616.32,
+  "duration": 3.12,
+  "text": "given going forward. But it's clear from"
+ },
+ {
+  "start": 618.0,
+  "duration": 3.36,
+  "text": "the speech that at least when it comes"
+ },
+ {
+  "start": 619.44,
+  "duration": 3.6,
+  "text": "to the global story, China is"
+ },
+ {
+  "start": 621.36,
+  "duration": 4.56,
+  "text": "positioning itself as the great defender"
+ },
+ {
+  "start": 623.04,
+  "duration": 4.16,
+  "text": "of open AI. All of which gets us to the"
+ },
+ {
+  "start": 625.92,
+  "duration": 3.44,
+  "text": "tweet which triggered the latest round"
+ },
+ {
+  "start": 627.2,
+  "duration": 4.319,
+  "text": "of conversations not just on Twitter but"
+ },
+ {
+  "start": 629.36,
+  "duration": 3.76,
+  "text": "all across the actual AI policy world."
+ },
+ {
+  "start": 631.519,
+  "duration": 2.961,
+  "text": "Dean Ball again, former White House"
+ },
+ {
+  "start": 633.12,
+  "duration": 3.6,
+  "text": "adviser and now head of strategic"
+ },
+ {
+  "start": 634.48,
+  "duration": 4.799,
+  "text": "futures at OpenAI began his tweet with"
+ },
+ {
+  "start": 636.72,
+  "duration": 4.08,
+  "text": "mild praise of Kimmy K3 recognizing that"
+ },
+ {
+  "start": 639.279,
+  "duration": 3.281,
+  "text": "the model is pretty much on par with"
+ },
+ {
+  "start": 640.8,
+  "duration": 3.76,
+  "text": "where the US labs were in Q1 of this"
+ },
+ {
+  "start": 642.56,
+  "duration": 3.2,
+  "text": "year. Ball then expressed surprise that"
+ },
+ {
+  "start": 644.56,
+  "duration": 2.56,
+  "text": "the Chinese government was still"
+ },
+ {
+  "start": 645.76,
+  "duration": 3.12,
+  "text": "allowing openweight models to be"
+ },
+ {
+  "start": 647.12,
+  "duration": 3.76,
+  "text": "released given the risk posed by the new"
+ },
+ {
+  "start": 648.88,
+  "duration": 3.76,
+  "text": "generation of ultra-large models."
+ },
+ {
+  "start": 650.88,
+  "duration": 3.92,
+  "text": "Continuing with a line that would cause"
+ },
+ {
+  "start": 652.64,
+  "duration": 3.84,
+  "text": "a ton of consternation, Dean wrote,"
+ },
+ {
+  "start": 654.8,
+  "duration": 3.68,
+  "text": "\"Openweight models are inherently"
+ },
+ {
+  "start": 656.48,
+  "duration": 3.359,
+  "text": "decelerationist, and I'm continually"
+ },
+ {
+  "start": 658.48,
+  "duration": 3.039,
+  "text": "surprised to see the so-called"
+ },
+ {
+  "start": 659.839,
+  "duration": 3.68,
+  "text": "accelerationists so excited about"
+ },
+ {
+  "start": 661.519,
+  "duration": 3.601,
+  "text": "openweight models. I suspect the reason"
+ },
+ {
+  "start": 663.519,
+  "duration": 3.681,
+  "text": "they are is that they know openweight"
+ },
+ {
+  "start": 665.12,
+  "duration": 3.76,
+  "text": "models are effectively ungovernable and"
+ },
+ {
+  "start": 667.2,
+  "duration": 3.36,
+  "text": "they simply like the overall cloak of"
+ },
+ {
+  "start": 668.88,
+  "duration": 3.84,
+  "text": "ungovernability openweight models"
+ },
+ {
+  "start": 670.56,
+  "duration": 3.76,
+  "text": "creates over the whole of AI. It's not a"
+ },
+ {
+  "start": 672.72,
+  "duration": 3.359,
+  "text": "bad strategy. It reminds me of James"
+ },
+ {
+  "start": 674.32,
+  "duration": 3.6,
+  "text": "Scott's recounting of The Hill people in"
+ },
+ {
+  "start": 676.079,
+  "duration": 3.921,
+  "text": "the art of not being governed. Still, at"
+ },
+ {
+  "start": 677.92,
+  "duration": 4.08,
+  "text": "the end, openweight models deter further"
+ },
+ {
+  "start": 680.0,
+  "duration": 3.76,
+  "text": "AI capex. The argument, of course, being"
+ },
+ {
+  "start": 682.0,
+  "duration": 3.839,
+  "text": "the same one that some market skeptics"
+ },
+ {
+  "start": 683.76,
+  "duration": 4.24,
+  "text": "are making, which is that if cheaper"
+ },
+ {
+  "start": 685.839,
+  "duration": 4.24,
+  "text": "open weights models can do everything or"
+ },
+ {
+  "start": 688.0,
+  "duration": 4.16,
+  "text": "close to everything that Fable 5 and GPT"
+ },
+ {
+  "start": 690.079,
+  "duration": 3.601,
+  "text": "5.6 Soul can do, why the heck would"
+ },
+ {
+  "start": 692.16,
+  "duration": 3.2,
+  "text": "customers spend a premium to buy those"
+ },
+ {
+  "start": 693.68,
+  "duration": 3.599,
+  "text": "Frontier models when they can get the"
+ },
+ {
+  "start": 695.36,
+  "duration": 3.599,
+  "text": "good enough models much cheaper? And by"
+ },
+ {
+  "start": 697.279,
+  "duration": 3.281,
+  "text": "extension, if those customers weren't"
+ },
+ {
+  "start": 698.959,
+  "duration": 2.801,
+  "text": "buying those models anymore, why would"
+ },
+ {
+  "start": 700.56,
+  "duration": 2.719,
+  "text": "investors continue to fund the"
+ },
+ {
+  "start": 701.76,
+  "duration": 3.28,
+  "text": "infrastructure buildout that is powering"
+ },
+ {
+  "start": 703.279,
+  "duration": 3.201,
+  "text": "those companies? And so on and so forth"
+ },
+ {
+  "start": 705.04,
+  "duration": 3.44,
+  "text": "until all of a sudden we have a big"
+ },
+ {
+  "start": 706.48,
+  "duration": 3.2,
+  "text": "market crash on our hands. Now, of"
+ },
+ {
+  "start": 708.48,
+  "duration": 2.64,
+  "text": "course, there is the less dramatic"
+ },
+ {
+  "start": 709.68,
+  "duration": 3.36,
+  "text": "reading of this that doesn't necessarily"
+ },
+ {
+  "start": 711.12,
+  "duration": 3.36,
+  "text": "implicate a full-on market crash, but"
+ },
+ {
+  "start": 713.04,
+  "duration": 2.88,
+  "text": "they can still recognize that on the"
+ },
+ {
+  "start": 714.48,
+  "duration": 3.039,
+  "text": "margins, the availability of near"
+ },
+ {
+  "start": 715.92,
+  "duration": 3.28,
+  "text": "frontier openweight models would"
+ },
+ {
+  "start": 717.519,
+  "duration": 3.201,
+  "text": "potentially dampen revenues for OpenAI"
+ },
+ {
+  "start": 719.2,
+  "duration": 3.44,
+  "text": "and anthropic and make further"
+ },
+ {
+  "start": 720.72,
+  "duration": 3.28,
+  "text": "investment in both model training as"
+ },
+ {
+  "start": 722.64,
+  "duration": 3.36,
+  "text": "well as infrastructure buildout to"
+ },
+ {
+  "start": 724.0,
+  "duration": 3.44,
+  "text": "support model training more risky. Dean"
+ },
+ {
+  "start": 726.0,
+  "duration": 3.519,
+  "text": "then attempted to describe where he saw"
+ },
+ {
+  "start": 727.44,
+  "duration": 3.92,
+  "text": "this going, writing, \"One probable"
+ },
+ {
+  "start": 729.519,
+  "duration": 3.76,
+  "text": "outcome of an openweight model dominant"
+ },
+ {
+  "start": 731.36,
+  "duration": 3.919,
+  "text": "world is full AI communism, which is"
+ },
+ {
+  "start": 733.279,
+  "duration": 3.921,
+  "text": "precisely what China proposes. Rather"
+ },
+ {
+  "start": 735.279,
+  "duration": 3.441,
+  "text": "than a market product, AI is a public"
+ },
+ {
+  "start": 737.2,
+  "duration": 3.199,
+  "text": "good which will ultimately be provided"
+ },
+ {
+  "start": 738.72,
+  "duration": 4.239,
+  "text": "by the state as a kind of digital public"
+ },
+ {
+  "start": 740.399,
+  "duration": 4.161,
+  "text": "infrastructure.\" Dean continues, \"This"
+ },
+ {
+  "start": 742.959,
+  "duration": 3.281,
+  "text": "future strikes me as a dystopian"
+ },
+ {
+  "start": 744.56,
+  "duration": 3.12,
+  "text": "hellscape, but I've never met an open"
+ },
+ {
+  "start": 746.24,
+  "duration": 2.96,
+  "text": "weights model advocate who doesn't"
+ },
+ {
+  "start": 747.68,
+  "duration": 3.36,
+  "text": "ultimately concede this is where things"
+ },
+ {
+  "start": 749.2,
+  "duration": 3.6,
+  "text": "end. You'd be surprised how many"
+ },
+ {
+  "start": 751.04,
+  "duration": 3.44,
+  "text": "accelerationists lobbyed me while I was"
+ },
+ {
+  "start": 752.8,
+  "duration": 3.2,
+  "text": "in government to support an 11 or 12"
+ },
+ {
+  "start": 754.48,
+  "duration": 2.96,
+  "text": "figure fedally funded data center so"
+ },
+ {
+  "start": 756.0,
+  "duration": 2.8,
+  "text": "that startups could train models at a"
+ },
+ {
+  "start": 757.44,
+  "duration": 3.12,
+  "text": "subsidy and then give them away for"
+ },
+ {
+  "start": 758.8,
+  "duration": 3.76,
+  "text": "free. There was no other way for AI to"
+ },
+ {
+  "start": 760.56,
+  "duration": 3.44,
+  "text": "progress, they said. Perhaps this is the"
+ },
+ {
+  "start": 762.56,
+  "duration": 3.12,
+  "text": "logical end state of things."
+ },
+ {
+  "start": 764.0,
+  "duration": 3.36,
+  "text": "Nonetheless, I find myself surprised to"
+ },
+ {
+  "start": 765.68,
+  "duration": 3.36,
+  "text": "see supposed accelerationists excited"
+ },
+ {
+  "start": 767.36,
+  "duration": 3.039,
+  "text": "about such an outcome. I think many of"
+ },
+ {
+  "start": 769.04,
+  "duration": 3.039,
+  "text": "them just don't know what they're doing."
+ },
+ {
+  "start": 770.399,
+  "duration": 3.201,
+  "text": "Many accelerationists do not view the"
+ },
+ {
+  "start": 772.079,
+  "duration": 3.76,
+  "text": "creation and serving of Frontier models"
+ },
+ {
+  "start": 773.6,
+  "duration": 4.32,
+  "text": "as a legitimate business. Turning back"
+ },
+ {
+  "start": 775.839,
+  "duration": 4.0,
+  "text": "to the US, Ball continued, and honestly,"
+ },
+ {
+  "start": 777.92,
+  "duration": 2.8,
+  "text": "this is where he really stepped in it. I"
+ },
+ {
+  "start": 779.839,
+  "duration": 2.401,
+  "text": "would guess that the Trump"
+ },
+ {
+  "start": 780.72,
+  "duration": 3.2,
+  "text": "administration will at some point"
+ },
+ {
+  "start": 782.24,
+  "duration": 3.36,
+  "text": "realize that their best strategy here"
+ },
+ {
+  "start": 783.92,
+  "duration": 3.2,
+  "text": "would be to create large amounts of"
+ },
+ {
+  "start": 785.6,
+  "duration": 3.28,
+  "text": "regulatory risk around the use of"
+ },
+ {
+  "start": 787.12,
+  "duration": 3.839,
+  "text": "openweight Chinese models. You don't"
+ },
+ {
+  "start": 788.88,
+  "duration": 3.759,
+  "text": "need to quote unquote ban open source."
+ },
+ {
+  "start": 790.959,
+  "duration": 3.761,
+  "text": "You just need to direct every agency to"
+ },
+ {
+  "start": 792.639,
+  "duration": 4.081,
+  "text": "issue soft law that creates FUD. For"
+ },
+ {
+  "start": 794.72,
+  "duration": 3.52,
+  "text": "example, a Federal Reserve advisory"
+ },
+ {
+  "start": 796.72,
+  "duration": 3.679,
+  "text": "bulletin found that there may be back"
+ },
+ {
+  "start": 798.24,
+  "duration": 3.839,
+  "text": "doors in Chinese AI models. It needn't"
+ },
+ {
+  "start": 800.399,
+  "duration": 3.12,
+  "text": "be that well justified. You just create"
+ },
+ {
+  "start": 802.079,
+  "duration": 3.361,
+  "text": "enough regulatory risk that every"
+ },
+ {
+  "start": 803.519,
+  "duration": 3.281,
+  "text": "regulated enterprise backs off. You"
+ },
+ {
+  "start": 805.44,
+  "duration": 2.88,
+  "text": "probably don't want to create so much"
+ },
+ {
+  "start": 806.8,
+  "duration": 2.96,
+  "text": "regulatory risk that you scare off the"
+ },
+ {
+  "start": 808.32,
+  "duration": 2.959,
+  "text": "hyperscalers from serving Chinese"
+ },
+ {
+  "start": 809.76,
+  "duration": 3.28,
+  "text": "models. This will just drive startups to"
+ },
+ {
+  "start": 811.279,
+  "duration": 3.201,
+  "text": "sketch your providers. There's a happy"
+ },
+ {
+  "start": 813.04,
+  "duration": 3.76,
+  "text": "middle ground here. I'd assume they will"
+ },
+ {
+  "start": 814.48,
+  "duration": 4.08,
+  "text": "do some version of this. Now, this was"
+ },
+ {
+  "start": 816.8,
+  "duration": 4.64,
+  "text": "the section that really had people's"
+ },
+ {
+  "start": 818.56,
+  "duration": 5.12,
+  "text": "flabers gasted as they took it as Dean"
+ },
+ {
+  "start": 821.44,
+  "duration": 5.04,
+  "text": "effectively advocating for some version"
+ },
+ {
+  "start": 823.68,
+  "duration": 5.2,
+  "text": "of Operation Chokepoint style tactics to"
+ },
+ {
+  "start": 826.48,
+  "duration": 4.24,
+  "text": "use the soft power of the government to"
+ },
+ {
+  "start": 828.88,
+  "duration": 3.04,
+  "text": "softban these models by creating so much"
+ },
+ {
+  "start": 830.72,
+  "duration": 2.799,
+  "text": "risk around them that companies would"
+ },
+ {
+  "start": 831.92,
+  "duration": 4.24,
+  "text": "effectively just ban themselves from"
+ },
+ {
+  "start": 833.519,
+  "duration": 4.801,
+  "text": "using those models. People jumped all"
+ },
+ {
+  "start": 836.16,
+  "duration": 4.32,
+  "text": "over this. Epic CEO Tim Sweeney"
+ },
+ {
+  "start": 838.32,
+  "duration": 3.6,
+  "text": "responded, \"Picture an executive of a"
+ },
+ {
+  "start": 840.48,
+  "duration": 3.12,
+  "text": "taco company saying the sort of thing"
+ },
+ {
+  "start": 841.92,
+  "duration": 3.2,
+  "text": "about a new brand of tacos coming onto"
+ },
+ {
+  "start": 843.6,
+  "duration": 3.12,
+  "text": "the market, speculating about the"
+ },
+ {
+  "start": 845.12,
+  "duration": 3.44,
+  "text": "geopolitical and societal disruptions"
+ },
+ {
+  "start": 846.72,
+  "duration": 4.239,
+  "text": "they anticipate as a result of advances"
+ },
+ {
+  "start": 848.56,
+  "duration": 4.639,
+  "text": "in tacos.\" Cloudflare engineer Dylan"
+ },
+ {
+  "start": 850.959,
+  "duration": 3.921,
+  "text": "Mroy wrote, \"Actually an insane thing"
+ },
+ {
+  "start": 853.199,
+  "duration": 4.721,
+  "text": "for OpenAI's head of strategy to"
+ },
+ {
+  "start": 854.88,
+  "duration": 5.04,
+  "text": "publicly say. Deep disher wrote, Lmo,"
+ },
+ {
+  "start": 857.92,
+  "duration": 3.76,
+  "text": "OpenAI admits it does not want fully"
+ },
+ {
+  "start": 859.92,
+  "duration": 2.88,
+  "text": "automated luxury space communism. They"
+ },
+ {
+  "start": 861.68,
+  "duration": 2.48,
+  "text": "are openly admitting they want"
+ },
+ {
+  "start": 862.8,
+  "duration": 3.52,
+  "text": "technofutalism where they own"
+ },
+ {
+  "start": 864.16,
+  "duration": 4.88,
+  "text": "everything.\" Entrepreneur Brian Atwood"
+ },
+ {
+  "start": 866.32,
+  "duration": 4.16,
+  "text": "wrote, \"This is grotesque. I bet Dean is"
+ },
+ {
+  "start": 869.04,
+  "duration": 3.039,
+  "text": "a good smart guy. Yet he is trying to"
+ },
+ {
+  "start": 870.48,
+  "duration": 3.039,
+  "text": "convince you that hosting an LLM in your"
+ },
+ {
+  "start": 872.079,
+  "duration": 2.721,
+  "text": "basement, private and sovereign, as the"
+ },
+ {
+  "start": 873.519,
+  "duration": 3.76,
+  "text": "founding fathers would have wished, is"
+ },
+ {
+  "start": 874.8,
+  "duration": 4.719,
+  "text": "dystopian communism.\" Now, why would he"
+ },
+ {
+  "start": 877.279,
+  "duration": 4.0,
+  "text": "do that? And of course, as you can see,"
+ },
+ {
+  "start": 879.519,
+  "duration": 3.281,
+  "text": "a lot of the critique is not just around"
+ },
+ {
+  "start": 881.279,
+  "duration": 3.68,
+  "text": "Dean's argument. It's the fact that Dean"
+ },
+ {
+  "start": 882.8,
+  "duration": 4.96,
+  "text": "is now an extension of Open AI making"
+ },
+ {
+  "start": 884.959,
+  "duration": 4.32,
+  "text": "that argument. Ben Norton wrote, \"This"
+ },
+ {
+  "start": 887.76,
+  "duration": 3.6,
+  "text": "guy who works at the poorly named Open"
+ },
+ {
+  "start": 889.279,
+  "duration": 3.521,
+  "text": "AI, more accurately closed AI, laments"
+ },
+ {
+  "start": 891.36,
+  "duration": 3.279,
+  "text": "that China's open source models could"
+ },
+ {
+  "start": 892.8,
+  "duration": 3.68,
+  "text": "lead to quote full AI communism,"
+ },
+ {
+  "start": 894.639,
+  "duration": 3.521,
+  "text": "precisely what China proposes. Rather"
+ },
+ {
+  "start": 896.48,
+  "duration": 2.96,
+  "text": "than a market product, AI is a public"
+ },
+ {
+  "start": 898.16,
+  "duration": 2.799,
+  "text": "good which will ultimately be provided"
+ },
+ {
+  "start": 899.44,
+  "duration": 3.92,
+  "text": "by the state as a kind of digital public"
+ },
+ {
+  "start": 900.959,
+  "duration": 3.841,
+  "text": "infrastructure.\" Norton continues, \"This"
+ },
+ {
+  "start": 903.36,
+  "duration": 3.36,
+  "text": "outcome would be objectively good for"
+ },
+ {
+  "start": 904.8,
+  "duration": 3.44,
+  "text": "the vast vast majority of humanity. But"
+ },
+ {
+  "start": 906.72,
+  "duration": 3.119,
+  "text": "of course, people who work at Open AI"
+ },
+ {
+  "start": 908.24,
+  "duration": 2.8,
+  "text": "claim it would be a dystopian hellscape"
+ },
+ {
+  "start": 909.839,
+  "duration": 2.8,
+  "text": "because they would not have a monopoly"
+ },
+ {
+  "start": 911.04,
+  "duration": 3.28,
+  "text": "on AI and could not become trillionaire"
+ },
+ {
+  "start": 912.639,
+  "duration": 3.601,
+  "text": "technical lords by forcing everyone to"
+ },
+ {
+  "start": 914.32,
+  "duration": 3.68,
+  "text": "pay them digital rents.\" Others made the"
+ },
+ {
+  "start": 916.24,
+  "duration": 3.12,
+  "text": "comparison to Steve Balmer comments on"
+ },
+ {
+  "start": 918.0,
+  "duration": 3.92,
+  "text": "Linux back from the beginning of the"
+ },
+ {
+  "start": 919.36,
+  "duration": 4.8,
+  "text": "century. Qualia script writes, \"It's"
+ },
+ {
+  "start": 921.92,
+  "duration": 4.24,
+  "text": "2001. Open source Linux is better than"
+ },
+ {
+  "start": 924.16,
+  "duration": 4.08,
+  "text": "Windows on servers. Steve Balmer calls"
+ },
+ {
+  "start": 926.16,
+  "duration": 4.72,
+  "text": "Linux cancer communist and asks for it"
+ },
+ {
+  "start": 928.24,
+  "duration": 4.56,
+  "text": "to be regulated away. It's 2026. Open"
+ },
+ {
+  "start": 930.88,
+  "duration": 3.36,
+  "text": "source LLMs are better than chatgbt and"
+ },
+ {
+  "start": 932.8,
+  "duration": 3.839,
+  "text": "claw on costs. They are called"
+ },
+ {
+  "start": 934.24,
+  "duration": 4.159,
+  "text": "decelerationist and communist. Now,"
+ },
+ {
+  "start": 936.639,
+  "duration": 3.601,
+  "text": "after all of this, Dean later came back"
+ },
+ {
+  "start": 938.399,
+  "duration": 3.12,
+  "text": "both to recognize that he effectively"
+ },
+ {
+  "start": 940.24,
+  "duration": 2.64,
+  "text": "doesn't get to tweet the way that he"
+ },
+ {
+  "start": 941.519,
+  "duration": 3.76,
+  "text": "used to anymore now that he works for"
+ },
+ {
+  "start": 942.88,
+  "duration": 4.72,
+  "text": "OpenAI, but also to try to tidy up a few"
+ },
+ {
+  "start": 945.279,
+  "duration": 3.841,
+  "text": "points. He tried to clarify that this"
+ },
+ {
+  "start": 947.6,
+  "duration": 3.28,
+  "text": "wasn't supposed to be a prescription for"
+ },
+ {
+  "start": 949.12,
+  "duration": 3.76,
+  "text": "the Trump administration, just what he"
+ },
+ {
+  "start": 950.88,
+  "duration": 3.519,
+  "text": "sees as the most likely scenario. He"
+ },
+ {
+  "start": 952.88,
+  "duration": 3.12,
+  "text": "also described his long-standing support"
+ },
+ {
+  "start": 954.399,
+  "duration": 3.201,
+  "text": "of open source software and gratefulness"
+ },
+ {
+  "start": 956.0,
+  "duration": 3.92,
+  "text": "for what it's brought to the world."
+ },
+ {
+  "start": 957.6,
+  "duration": 3.679,
+  "text": "However, he concluded, I think it's"
+ },
+ {
+  "start": 959.92,
+  "duration": 2.88,
+  "text": "pretty clear that we are approaching the"
+ },
+ {
+  "start": 961.279,
+  "duration": 3.281,
+  "text": "point I described, the point where"
+ },
+ {
+  "start": 962.8,
+  "duration": 3.36,
+  "text": "absent a major technical safety"
+ },
+ {
+  "start": 964.56,
+  "duration": 3.199,
+  "text": "breakthrough, the national security"
+ },
+ {
+  "start": 966.16,
+  "duration": 3.039,
+  "text": "implications of frontier openweight"
+ },
+ {
+  "start": 967.759,
+  "duration": 2.801,
+  "text": "model distribution are simply too"
+ },
+ {
+  "start": 969.199,
+  "duration": 2.961,
+  "text": "severe. I don't think we're there yet,"
+ },
+ {
+  "start": 970.56,
+  "duration": 3.279,
+  "text": "but the direction of travel is clear,"
+ },
+ {
+  "start": 972.16,
+  "duration": 3.359,
+  "text": "and an analyst must be honest about"
+ },
+ {
+  "start": 973.839,
+  "duration": 3.44,
+  "text": "this. Governments will realize these"
+ },
+ {
+  "start": 975.519,
+  "duration": 3.281,
+  "text": "risks eventually, and when they do, they"
+ },
+ {
+  "start": 977.279,
+  "duration": 3.441,
+  "text": "will have much lower risk tolerance than"
+ },
+ {
+  "start": 978.8,
+  "duration": 3.279,
+  "text": "I have. We see this today with the Trump"
+ },
+ {
+  "start": 980.72,
+  "duration": 3.28,
+  "text": "administration, which once proudly"
+ },
+ {
+  "start": 982.079,
+  "duration": 3.68,
+  "text": "championed open source AI and now has a"
+ },
+ {
+  "start": 984.0,
+  "duration": 3.04,
+  "text": "de facto licensing regime for Frontier"
+ },
+ {
+  "start": 985.759,
+  "duration": 2.64,
+  "text": "AI that I suspect will make it"
+ },
+ {
+  "start": 987.04,
+  "duration": 2.799,
+  "text": "challenging if they still end up"
+ },
+ {
+  "start": 988.399,
+  "duration": 3.281,
+  "text": "enforcing it to release the weights of"
+ },
+ {
+  "start": 989.839,
+  "duration": 3.521,
+  "text": "models of the mythos tier. Every"
+ },
+ {
+  "start": 991.68,
+  "duration": 2.8,
+  "text": "government will be safetiests once they"
+ },
+ {
+  "start": 993.36,
+  "duration": 3.2,
+  "text": "understand themselves to be in the"
+ },
+ {
+  "start": 994.48,
+  "duration": 3.84,
+  "text": "foxhole. You don't have to like this. I"
+ },
+ {
+  "start": 996.56,
+  "duration": 3.6,
+  "text": "don't. But it is the reality as I see"
+ },
+ {
+  "start": 998.32,
+  "duration": 3.36,
+  "text": "it. Now, speaking of the Trump"
+ },
+ {
+  "start": 1000.16,
+  "duration": 3.2,
+  "text": "administration, they were among the"
+ },
+ {
+  "start": 1001.68,
+  "duration": 3.519,
+  "text": "folks to jump all over Dean around these"
+ },
+ {
+  "start": 1003.36,
+  "duration": 3.36,
+  "text": "posts. In comments very clearly"
+ },
+ {
+  "start": 1005.199,
+  "duration": 3.281,
+  "text": "befitting the importance of his role,"
+ },
+ {
+  "start": 1006.72,
+  "duration": 3.52,
+  "text": "under secretary of war Emil Michael"
+ },
+ {
+  "start": 1008.48,
+  "duration": 4.479,
+  "text": "called Dean Ball the supreme village"
+ },
+ {
+  "start": 1010.24,
+  "duration": 4.88,
+  "text": "idiot for AI. While former AIZar David"
+ },
+ {
+  "start": 1012.959,
+  "duration": 3.68,
+  "text": "Sax wrote, I'm not sure whether Dean"
+ },
+ {
+  "start": 1015.12,
+  "duration": 3.279,
+  "text": "Ball is confessing to a regulatory"
+ },
+ {
+  "start": 1016.639,
+  "duration": 3.12,
+  "text": "capture strategy or simply predicting"
+ },
+ {
+  "start": 1018.399,
+  "duration": 3.201,
+  "text": "this will happen. He now says the"
+ },
+ {
+  "start": 1019.759,
+  "duration": 3.52,
+  "text": "latter. Either way, the weaponization of"
+ },
+ {
+  "start": 1021.6,
+  "duration": 3.52,
+  "text": "regulatory uncertainty as a competitive"
+ },
+ {
+  "start": 1023.279,
+  "duration": 3.601,
+  "text": "tool should be completely unacceptable."
+ },
+ {
+  "start": 1025.12,
+  "duration": 3.52,
+  "text": "He argues there's no need to ban Chinese"
+ },
+ {
+  "start": 1026.88,
+  "duration": 3.439,
+  "text": "open source models, just direct agencies"
+ },
+ {
+  "start": 1028.64,
+  "duration": 3.679,
+  "text": "to issue soft law warnings that create"
+ },
+ {
+  "start": 1030.319,
+  "duration": 4.24,
+  "text": "enough FUD so regulated enterprises back"
+ },
+ {
+  "start": 1032.319,
+  "duration": 3.921,
+  "text": "off. Wrong. Regulatory decisions should"
+ },
+ {
+  "start": 1034.559,
+  "duration": 3.28,
+  "text": "always be well justified and grounded in"
+ },
+ {
+  "start": 1036.24,
+  "duration": 3.04,
+  "text": "facts, logic, and evidence, not the"
+ },
+ {
+  "start": 1037.839,
+  "duration": 2.72,
+  "text": "deliberate exploitation of fear and"
+ },
+ {
+  "start": 1039.28,
+  "duration": 2.399,
+  "text": "uncertainty. Implementing a"
+ },
+ {
+  "start": 1040.559,
+  "duration": 2.721,
+  "text": "surreptitious policy through"
+ },
+ {
+  "start": 1041.679,
+  "duration": 3.441,
+  "text": "manufactured doubt rather than strong"
+ },
+ {
+  "start": 1043.28,
+  "duration": 3.44,
+  "text": "and explicit justification corrods the"
+ },
+ {
+  "start": 1045.12,
+  "duration": 3.36,
+  "text": "rule of law and invites future abuse"
+ },
+ {
+  "start": 1046.72,
+  "duration": 3.76,
+  "text": "against anyone. We are at a critical"
+ },
+ {
+  "start": 1048.48,
+  "duration": 4.079,
+  "text": "inflection point in AI policy. The"
+ },
+ {
+  "start": 1050.48,
+  "duration": 3.92,
+  "text": "leading closed labs, already a duopoly"
+ },
+ {
+  "start": 1052.559,
+  "duration": 2.961,
+  "text": "in terms of AI model revenue, want the"
+ },
+ {
+  "start": 1054.4,
+  "duration": 2.56,
+  "text": "government to eliminate their open"
+ },
+ {
+  "start": 1055.52,
+  "duration": 3.12,
+  "text": "source competition. They have laid their"
+ },
+ {
+  "start": 1056.96,
+  "duration": 3.12,
+  "text": "cards on the table. It's time for the"
+ },
+ {
+  "start": 1058.64,
+  "duration": 2.88,
+  "text": "rest of Silicon Valley, the vast"
+ },
+ {
+  "start": 1060.08,
+  "duration": 3.52,
+  "text": "majority that still values open"
+ },
+ {
+  "start": 1061.52,
+  "duration": 4.08,
+  "text": "competition, to do the same. Dean"
+ },
+ {
+  "start": 1063.6,
+  "duration": 3.6,
+  "text": "Balclapback, \"The departments of war,"
+ },
+ {
+  "start": 1065.6,
+  "duration": 3.12,
+  "text": "transportation, energy, agriculture,"
+ },
+ {
+  "start": 1067.2,
+  "duration": 2.719,
+  "text": "commerce, NASA, and Congress have all"
+ },
+ {
+  "start": 1068.72,
+  "duration": 3.44,
+  "text": "blocked their employees from using"
+ },
+ {
+  "start": 1069.919,
+  "duration": 4.0,
+  "text": "Chinese AI, citing illustified claims of"
+ },
+ {
+  "start": 1072.16,
+  "duration": 3.84,
+  "text": "danger. This already has sent a message"
+ },
+ {
+  "start": 1073.919,
+  "duration": 4.161,
+  "text": "to regulated firms. All of this happened"
+ },
+ {
+  "start": 1076.0,
+  "duration": 3.84,
+  "text": "during this administration.\" Now, for"
+ },
+ {
+  "start": 1078.08,
+  "duration": 3.839,
+  "text": "whatever influence David Sax still has"
+ },
+ {
+  "start": 1079.84,
+  "duration": 3.52,
+  "text": "at the White House, he seems to not be"
+ },
+ {
+  "start": 1081.919,
+  "duration": 2.88,
+  "text": "in favor of the sort of bannings that"
+ },
+ {
+  "start": 1083.36,
+  "duration": 2.8,
+  "text": "are being discussed. Talking about"
+ },
+ {
+  "start": 1084.799,
+  "duration": 3.441,
+  "text": "Chinese models and their advanced"
+ },
+ {
+  "start": 1086.16,
+  "duration": 3.68,
+  "text": "capabilities, he said, \"This is exactly"
+ },
+ {
+  "start": 1088.24,
+  "duration": 3.12,
+  "text": "what I predicted would happen. I said"
+ },
+ {
+  "start": 1089.84,
+  "duration": 2.959,
+  "text": "Chinese models would have advanced cyber"
+ },
+ {
+  "start": 1091.36,
+  "duration": 2.96,
+  "text": "capabilities within a matter of months,"
+ },
+ {
+  "start": 1092.799,
+  "duration": 3.441,
+  "text": "and the only thing to do about it was to"
+ },
+ {
+  "start": 1094.32,
+  "duration": 4.239,
+  "text": "use AI powered cyber defense to protect"
+ },
+ {
+  "start": 1096.24,
+  "duration": 4.72,
+  "text": "our systems. Trying to gatekeep models"
+ },
+ {
+  "start": 1098.559,
+  "duration": 3.601,
+  "text": "doesn't work.\" Boxes Aaron Levy agrees,"
+ },
+ {
+  "start": 1100.96,
+  "duration": 2.719,
+  "text": "saying, \"It's fairly obvious that"
+ },
+ {
+  "start": 1102.16,
+  "duration": 3.12,
+  "text": "gatekeeping models will not work at"
+ },
+ {
+  "start": 1103.679,
+  "duration": 3.041,
+  "text": "scale. Competing in AI is too"
+ },
+ {
+  "start": 1105.28,
+  "duration": 2.88,
+  "text": "economically and strategically important"
+ },
+ {
+  "start": 1106.72,
+  "duration": 2.72,
+  "text": "for China at this point, and we've now"
+ },
+ {
+  "start": 1108.16,
+  "duration": 2.8,
+  "text": "crossed the Rubicon where it's clear"
+ },
+ {
+  "start": 1109.44,
+  "duration": 3.359,
+  "text": "that they can compete at near frontier"
+ },
+ {
+  "start": 1110.96,
+  "duration": 3.12,
+  "text": "levels. The solution to this isn't to"
+ },
+ {
+  "start": 1112.799,
+  "duration": 3.041,
+  "text": "get more locked down and slow your own"
+ },
+ {
+  "start": 1114.08,
+  "duration": 3.52,
+  "text": "ecosystem. If that happens, you can"
+ },
+ {
+  "start": 1115.84,
+  "duration": 3.92,
+  "text": "guarantee that America loses the global"
+ },
+ {
+  "start": 1117.6,
+  "duration": 3.439,
+  "text": "battle. The solution is to safely ensure"
+ },
+ {
+  "start": 1119.76,
+  "duration": 2.96,
+  "text": "that you keep a high rate of progress"
+ },
+ {
+  "start": 1121.039,
+  "duration": 3.601,
+  "text": "and drive diffusion of the technology,"
+ },
+ {
+  "start": 1122.72,
+  "duration": 3.92,
+  "text": "build out infrastructure, enable us open"
+ },
+ {
+  "start": 1124.64,
+  "duration": 3.44,
+  "text": "source software, and more. But given"
+ },
+ {
+  "start": 1126.64,
+  "duration": 3.84,
+  "text": "that almost everyone seemed to be"
+ },
+ {
+  "start": 1128.08,
+  "duration": 3.52,
+  "text": "against Dean, is there any merit there?"
+ },
+ {
+  "start": 1130.48,
+  "duration": 2.64,
+  "text": "A few people tried to look"
+ },
+ {
+  "start": 1131.6,
+  "duration": 3.199,
+  "text": "dispassionately at what he was saying"
+ },
+ {
+  "start": 1133.12,
+  "duration": 3.76,
+  "text": "and give him the benefit of the doubt."
+ },
+ {
+  "start": 1134.799,
+  "duration": 3.521,
+  "text": "Growing Daniel on Twitter wrote, \"I'll"
+ },
+ {
+  "start": 1136.88,
+  "duration": 3.44,
+  "text": "take a hack at Dean's argument without"
+ },
+ {
+  "start": 1138.32,
+  "duration": 4.0,
+  "text": "his conflict of interest. What China is"
+ },
+ {
+  "start": 1140.32,
+  "duration": 3.359,
+  "text": "doing in AI is called dumping. They do"
+ },
+ {
+  "start": 1142.32,
+  "duration": 3.359,
+  "text": "it in literally every industry they"
+ },
+ {
+  "start": 1143.679,
+  "duration": 3.681,
+  "text": "enter. The goal is to kill all local"
+ },
+ {
+  "start": 1145.679,
+  "duration": 3.441,
+  "text": "competition by subsidizing their own"
+ },
+ {
+  "start": 1147.36,
+  "duration": 3.52,
+  "text": "industry so they can produce at a loss."
+ },
+ {
+  "start": 1149.12,
+  "duration": 3.36,
+  "text": "Then once all competitors are dead, they"
+ },
+ {
+  "start": 1150.88,
+  "duration": 3.6,
+  "text": "can charge profitable prices and control"
+ },
+ {
+  "start": 1152.48,
+  "duration": 3.68,
+  "text": "the market. In steel and automobiles,"
+ },
+ {
+  "start": 1154.48,
+  "duration": 3.28,
+  "text": "this is just bad. In AI, it's"
+ },
+ {
+  "start": 1156.16,
+  "duration": 3.84,
+  "text": "potentially fatal to our country."
+ },
+ {
+  "start": 1157.76,
+  "duration": 3.919,
+  "text": "Unfortunately, dumping is a very common"
+ },
+ {
+  "start": 1160.0,
+  "duration": 3.6,
+  "text": "argument for rent-seeking domestic firms"
+ },
+ {
+  "start": 1161.679,
+  "duration": 3.601,
+  "text": "who want protection. And Dean's position"
+ },
+ {
+  "start": 1163.6,
+  "duration": 3.92,
+  "text": "here seems to be a Jones act of sorts"
+ },
+ {
+  "start": 1165.28,
+  "duration": 3.84,
+  "text": "for AI. This has famously not saved our"
+ },
+ {
+  "start": 1167.52,
+  "duration": 3.76,
+  "text": "ship building industry and I suspect it"
+ },
+ {
+  "start": 1169.12,
+  "duration": 4.16,
+  "text": "won't save our AI labs. Stopping open"
+ },
+ {
+  "start": 1171.28,
+  "duration": 3.519,
+  "text": "weights is virtually impossible. So our"
+ },
+ {
+  "start": 1173.28,
+  "duration": 3.2,
+  "text": "only other option is governments taking"
+ },
+ {
+  "start": 1174.799,
+  "duration": 4.561,
+  "text": "stakes in labs and subsidizing our own"
+ },
+ {
+  "start": 1176.48,
+  "duration": 4.64,
+  "text": "industry. Investor Hib Keshi also argued"
+ },
+ {
+  "start": 1179.36,
+  "duration": 3.36,
+  "text": "that this is what Dean was trying to say"
+ },
+ {
+  "start": 1181.12,
+  "duration": 3.12,
+  "text": "that quote releasing the weights for a"
+ },
+ {
+  "start": 1182.72,
+  "duration": 3.92,
+  "text": "frontier level model is effectively"
+ },
+ {
+  "start": 1184.24,
+  "duration": 5.12,
+  "text": "dumping. Former meta chief AI scientist"
+ },
+ {
+  "start": 1186.64,
+  "duration": 5.2,
+  "text": "Yan Lun pounced on hib writing so"
+ },
+ {
+  "start": 1189.36,
+  "duration": 4.559,
+  "text": "releasing Linux was dumping Apache MySQL"
+ },
+ {
+  "start": 1191.84,
+  "duration": 3.839,
+  "text": "PHP. the open source stack of the mobile"
+ },
+ {
+  "start": 1193.919,
+  "duration": 4.721,
+  "text": "communication network signal pietorch"
+ },
+ {
+  "start": 1195.679,
+  "duration": 4.641,
+  "text": "llama to which hib responded to be clear"
+ },
+ {
+  "start": 1198.64,
+  "duration": 3.12,
+  "text": "I don't agree with Dean and I oppose his"
+ },
+ {
+  "start": 1200.32,
+  "duration": 2.8,
+  "text": "call for state intervention but I'm"
+ },
+ {
+  "start": 1201.76,
+  "duration": 3.2,
+  "text": "explaining his argument because most"
+ },
+ {
+  "start": 1203.12,
+  "duration": 3.6,
+  "text": "people refuse to actually engage with it"
+ },
+ {
+  "start": 1204.96,
+  "duration": 2.959,
+  "text": "he has a point that if Chinese frontier"
+ },
+ {
+  "start": 1206.72,
+  "duration": 3.36,
+  "text": "labs are now being encouraged to be"
+ },
+ {
+  "start": 1207.919,
+  "duration": 3.841,
+  "text": "totally open China now sees this as"
+ },
+ {
+  "start": 1210.08,
+  "duration": 3.2,
+  "text": "explicitly part of their strategy I"
+ },
+ {
+  "start": 1211.76,
+  "duration": 3.36,
+  "text": "would not assume that this is altruistic"
+ },
+ {
+  "start": 1213.28,
+  "duration": 4.0,
+  "text": "but calculated unlike the traditional"
+ },
+ {
+  "start": 1215.12,
+  "duration": 3.919,
+  "text": "OSS you lay out here if all of the"
+ },
+ {
+  "start": 1217.28,
+  "duration": 3.519,
+  "text": "Chinese labs are extremely unprofitable"
+ },
+ {
+  "start": 1219.039,
+  "duration": 3.76,
+  "text": "and they are and they are encouraged at"
+ },
+ {
+  "start": 1220.799,
+  "duration": 3.041,
+  "text": "a state level to remain unprofitable it"
+ },
+ {
+  "start": 1222.799,
+  "duration": 2.801,
+  "text": "is likely to have large and"
+ },
+ {
+  "start": 1223.84,
+  "duration": 4.16,
+  "text": "reverberating economic consequences on"
+ },
+ {
+  "start": 1225.6,
+  "duration": 4.079,
+  "text": "USI as well. That's Dean's point and I"
+ },
+ {
+  "start": 1228.0,
+  "duration": 3.12,
+  "text": "think it's worth taking seriously. I"
+ },
+ {
+  "start": 1229.679,
+  "duration": 3.041,
+  "text": "don't think China is encouraging this"
+ },
+ {
+  "start": 1231.12,
+  "duration": 4.0,
+  "text": "strategy with the same spirit of the"
+ },
+ {
+  "start": 1232.72,
+  "duration": 3.839,
+  "text": "people who built Linux. Now, Philipe Leo"
+ },
+ {
+  "start": 1235.12,
+  "duration": 2.88,
+  "text": "points out and this is exactly why we're"
+ },
+ {
+  "start": 1236.559,
+  "duration": 3.36,
+  "text": "having this conversation on this show as"
+ },
+ {
+  "start": 1238.0,
+  "duration": 3.44,
+  "text": "well that this is not just a Twitter"
+ },
+ {
+  "start": 1239.919,
+  "duration": 2.801,
+  "text": "debate, but it's a conversation that is"
+ },
+ {
+  "start": 1241.44,
+  "duration": 3.68,
+  "text": "happening in the halls of power right"
+ },
+ {
+  "start": 1242.72,
+  "duration": 4.48,
+  "text": "now. Philipe writes, \"It's now clear"
+ },
+ {
+  "start": 1245.12,
+  "duration": 3.84,
+  "text": "that Dean Ball's post wasn't random, but"
+ },
+ {
+  "start": 1247.2,
+  "duration": 3.28,
+  "text": "was a public manifestation of a debate"
+ },
+ {
+  "start": 1248.96,
+  "duration": 3.28,
+  "text": "that is currently taking place within"
+ },
+ {
+  "start": 1250.48,
+  "duration": 3.52,
+  "text": "the Trump administration about how to"
+ },
+ {
+  "start": 1252.24,
+  "duration": 3.76,
+  "text": "deal with Chinese openweights models,"
+ },
+ {
+  "start": 1254.0,
+  "duration": 3.36,
+  "text": "pitting advocates of competition, who"
+ },
+ {
+  "start": 1256.0,
+  "duration": 2.72,
+  "text": "probably have their own ulterior"
+ },
+ {
+  "start": 1257.36,
+  "duration": 3.439,
+  "text": "motives, but still defend the US"
+ },
+ {
+  "start": 1258.72,
+  "duration": 3.92,
+  "text": "consumer in this case against an unholy"
+ },
+ {
+  "start": 1260.799,
+  "duration": 4.321,
+  "text": "coalition of industry lobbyists,"
+ },
+ {
+  "start": 1262.64,
+  "duration": 3.84,
+  "text": "geopolitics pill, and AGI people who are"
+ },
+ {
+  "start": 1265.12,
+  "duration": 2.48,
+  "text": "trying to quote unquote protect US"
+ },
+ {
+  "start": 1266.48,
+  "duration": 2.96,
+  "text": "consumers from the benefits of"
+ },
+ {
+  "start": 1267.6,
+  "duration": 3.04,
+  "text": "competition by variously arguing that"
+ },
+ {
+  "start": 1269.44,
+  "duration": 2.4,
+  "text": "not doing something to hinder the"
+ },
+ {
+  "start": 1270.64,
+  "duration": 2.64,
+  "text": "deployment of Chinese open weights"
+ },
+ {
+  "start": 1271.84,
+  "duration": 3.52,
+  "text": "models in the US would destroy American"
+ },
+ {
+  "start": 1273.28,
+  "duration": 4.0,
+  "text": "AI companies, empower the CCP to harm"
+ },
+ {
+  "start": 1275.36,
+  "duration": 4.24,
+  "text": "Americans or push back the advent of the"
+ },
+ {
+  "start": 1277.28,
+  "duration": 3.68,
+  "text": "machine God. Now, to the extent that we"
+ },
+ {
+  "start": 1279.6,
+  "duration": 3.28,
+  "text": "are trying to take the conversation"
+ },
+ {
+  "start": 1280.96,
+  "duration": 3.599,
+  "text": "forward, in a weekend piece for the"
+ },
+ {
+  "start": 1282.88,
+  "duration": 3.919,
+  "text": "American Enterprise Institute, Ryan"
+ },
+ {
+  "start": 1284.559,
+  "duration": 4.641,
+  "text": "Fedic added an important aspect to the"
+ },
+ {
+  "start": 1286.799,
+  "duration": 4.401,
+  "text": "conversation. He noted that yes, the"
+ },
+ {
+  "start": 1289.2,
+  "duration": 4.0,
+  "text": "conventional wisdom around how far"
+ },
+ {
+  "start": 1291.2,
+  "duration": 3.92,
+  "text": "behind the US Chinese frontier models"
+ },
+ {
+  "start": 1293.2,
+  "duration": 3.68,
+  "text": "were has changed, but that there is a"
+ },
+ {
+  "start": 1295.12,
+  "duration": 3.6,
+  "text": "very important part of this competition"
+ },
+ {
+  "start": 1296.88,
+  "duration": 3.679,
+  "text": "that goes beyond model benchmarks that"
+ },
+ {
+  "start": 1298.72,
+  "duration": 3.52,
+  "text": "we need to consider. He noted that while"
+ },
+ {
+  "start": 1300.559,
+  "duration": 3.281,
+  "text": "China may have frontier training"
+ },
+ {
+  "start": 1302.24,
+  "duration": 3.2,
+  "text": "capabilities, they don't have anywhere"
+ },
+ {
+  "start": 1303.84,
+  "duration": 3.44,
+  "text": "near close enough compute to serve their"
+ },
+ {
+  "start": 1305.44,
+  "duration": 3.119,
+  "text": "models to the world, who by the way"
+ },
+ {
+  "start": 1307.28,
+  "duration": 2.639,
+  "text": "spent two years as the state"
+ },
+ {
+  "start": 1308.559,
+  "duration": 3.6,
+  "text": "department's main contact with the"
+ },
+ {
+  "start": 1309.919,
+  "duration": 3.921,
+  "text": "Chinese embassy. Quote, \"Washington"
+ },
+ {
+  "start": 1312.159,
+  "duration": 3.361,
+  "text": "would do well to stop measuring victory"
+ },
+ {
+  "start": 1313.84,
+  "duration": 3.52,
+  "text": "in the AI race according to model"
+ },
+ {
+  "start": 1315.52,
+  "duration": 3.92,
+  "text": "benchmarks where China has achieved"
+ },
+ {
+  "start": 1317.36,
+  "duration": 4.319,
+  "text": "semi-permanent parody and start paying"
+ },
+ {
+  "start": 1319.44,
+  "duration": 3.92,
+  "text": "attention to the industrial variables"
+ },
+ {
+  "start": 1321.679,
+  "duration": 3.041,
+  "text": "which will determine which AI labs are"
+ },
+ {
+  "start": 1323.36,
+  "duration": 3.199,
+  "text": "capable of serving intelligence to"
+ },
+ {
+  "start": 1324.72,
+  "duration": 3.28,
+  "text": "global publics. These factors include"
+ },
+ {
+  "start": 1326.559,
+  "duration": 3.521,
+  "text": "high bandwidth memory production,"
+ },
+ {
+  "start": 1328.0,
+  "duration": 3.6,
+  "text": "advanced packaging capacity, data center"
+ },
+ {
+  "start": 1330.08,
+  "duration": 3.12,
+  "text": "construction timelines, and resilient"
+ },
+ {
+  "start": 1331.6,
+  "duration": 4.8,
+  "text": "energy grids with spare capacity and"
+ },
+ {
+  "start": 1333.2,
+  "duration": 5.2,
+  "text": "high uptime. He concluded, Kim K3 is an"
+ },
+ {
+  "start": 1336.4,
+  "duration": 3.6,
+  "text": "important milestone in the US China AI"
+ },
+ {
+  "start": 1338.4,
+  "duration": 3.759,
+  "text": "competition, and Americans should treat"
+ },
+ {
+  "start": 1340.0,
+  "duration": 4.08,
+  "text": "it as one, not as a Sputnik moment"
+ },
+ {
+  "start": 1342.159,
+  "duration": 3.841,
+  "text": "demanding panic, but as the formal close"
+ },
+ {
+  "start": 1344.08,
+  "duration": 4.16,
+  "text": "of the era in which model capability"
+ },
+ {
+  "start": 1346.0,
+  "duration": 4.0,
+  "text": "alone conferred lasting advantage."
+ },
+ {
+  "start": 1348.24,
+  "duration": 3.52,
+  "text": "Frontier AI is quickly becoming a"
+ },
+ {
+  "start": 1350.0,
+  "duration": 3.52,
+  "text": "commons. The race now is to build"
+ },
+ {
+  "start": 1351.76,
+  "duration": 4.0,
+  "text": "industrial systems that put the frontier"
+ },
+ {
+  "start": 1353.52,
+  "duration": 4.24,
+  "text": "to work. Now, reinforcing the point that"
+ },
+ {
+  "start": 1355.76,
+  "duration": 4.0,
+  "text": "China is severely compute constrained,"
+ },
+ {
+  "start": 1357.76,
+  "duration": 4.72,
+  "text": "Moonshot pulled Kimmy K3 over the"
+ },
+ {
+  "start": 1359.76,
+  "duration": 4.56,
+  "text": "weekend. On Sunday, they posted, \"Kimmy"
+ },
+ {
+  "start": 1362.48,
+  "duration": 3.679,
+  "text": "K3 has received far more love than we"
+ },
+ {
+  "start": 1364.32,
+  "duration": 3.839,
+  "text": "expected, and our GPUs are feeling it."
+ },
+ {
+  "start": 1366.159,
+  "duration": 3.281,
+  "text": "Over the past 48 hours, demand has"
+ },
+ {
+  "start": 1368.159,
+  "duration": 2.801,
+  "text": "pushed close to the limits of our"
+ },
+ {
+  "start": 1369.44,
+  "duration": 3.2,
+  "text": "current capacity. To protect the"
+ },
+ {
+  "start": 1370.96,
+  "duration": 2.959,
+  "text": "experience of existing subscribers,"
+ },
+ {
+  "start": 1372.64,
+  "duration": 2.96,
+  "text": "we're temporarily pausing new"
+ },
+ {
+  "start": 1373.919,
+  "duration": 3.281,
+  "text": "subscriptions and prioritizing compute"
+ },
+ {
+  "start": 1375.6,
+  "duration": 3.28,
+  "text": "for current members. We're adding"
+ },
+ {
+  "start": 1377.2,
+  "duration": 3.2,
+  "text": "capacity as fast as we can, and we'll"
+ },
+ {
+  "start": 1378.88,
+  "duration": 3.919,
+  "text": "reopen new subscription spots in"
+ },
+ {
+  "start": 1380.4,
+  "duration": 4.0,
+  "text": "batches.\" Now, running out of compute is"
+ },
+ {
+  "start": 1382.799,
+  "duration": 2.961,
+  "text": "pretty normal following a major model"
+ },
+ {
+  "start": 1384.4,
+  "duration": 2.8,
+  "text": "release in the West, but this is the"
+ },
+ {
+  "start": 1385.76,
+  "duration": 3.52,
+  "text": "first time we've seen it from a Chinese"
+ },
+ {
+  "start": 1387.2,
+  "duration": 4.24,
+  "text": "lab. Moonshot made the curious decision"
+ },
+ {
+  "start": 1389.28,
+  "duration": 3.759,
+  "text": "to launch entirely on their own servers,"
+ },
+ {
+  "start": 1391.44,
+  "duration": 3.28,
+  "text": "while previous high-profile Chinese"
+ },
+ {
+  "start": 1393.039,
+  "duration": 3.76,
+  "text": "releases had day one inference partners"
+ },
+ {
+  "start": 1394.72,
+  "duration": 3.439,
+  "text": "in the US. Now, the interesting part is"
+ },
+ {
+  "start": 1396.799,
+  "duration": 2.88,
+  "text": "what this says about just how"
+ },
+ {
+  "start": 1398.159,
+  "duration": 3.76,
+  "text": "constrained the Chinese labs actually"
+ },
+ {
+  "start": 1399.679,
+  "duration": 3.681,
+  "text": "are on inference. Only hardcore AI"
+ },
+ {
+  "start": 1401.919,
+  "duration": 2.961,
+  "text": "enthusiasts were clearing the weekend to"
+ },
+ {
+  "start": 1403.36,
+  "duration": 3.04,
+  "text": "test the latest Chinese model, and that"
+ },
+ {
+  "start": 1404.88,
+  "duration": 3.6,
+  "text": "was still enough to knock over their"
+ },
+ {
+  "start": 1406.4,
+  "duration": 3.92,
+  "text": "servers. It suggests in short that"
+ },
+ {
+  "start": 1408.48,
+  "duration": 3.76,
+  "text": "Chinese labs don't have anywhere near"
+ },
+ {
+  "start": 1410.32,
+  "duration": 4.239,
+  "text": "enough capacity to serve AI models to"
+ },
+ {
+  "start": 1412.24,
+  "duration": 4.0,
+  "text": "the world. Council on Foreign Relations"
+ },
+ {
+  "start": 1414.559,
+  "duration": 4.081,
+  "text": "Chris Magcguire jumped all over this"
+ },
+ {
+  "start": 1416.24,
+  "duration": 4.4,
+  "text": "writing, \"Kimmy admits it is computed"
+ },
+ {
+  "start": 1418.64,
+  "duration": 3.36,
+  "text": "and is struggling to serve K3. The same"
+ },
+ {
+  "start": 1420.64,
+  "duration": 3.519,
+  "text": "thing happened to Deep Seek when it"
+ },
+ {
+  "start": 1422.0,
+  "duration": 3.6,
+  "text": "released V4. When Chinese AI labs say"
+ },
+ {
+  "start": 1424.159,
+  "duration": 2.801,
+  "text": "their number one constraint is comput,"
+ },
+ {
+  "start": 1425.6,
+  "duration": 2.88,
+  "text": "they aren't lying. They don't have"
+ },
+ {
+  "start": 1426.96,
+  "duration": 3.76,
+  "text": "enough chips to serve the model at scale"
+ },
+ {
+  "start": 1428.48,
+  "duration": 3.84,
+  "text": "to customers. If we stop China from"
+ },
+ {
+  "start": 1430.72,
+  "duration": 3.6,
+  "text": "buying, smuggling, or remotely accessing"
+ },
+ {
+  "start": 1432.32,
+  "duration": 3.76,
+  "text": "AI chips, it will be harder for them to"
+ },
+ {
+  "start": 1434.32,
+  "duration": 3.28,
+  "text": "either make advanced AI models or serve"
+ },
+ {
+  "start": 1436.08,
+  "duration": 2.88,
+  "text": "them at scale. But instead, we are"
+ },
+ {
+  "start": 1437.6,
+  "duration": 2.72,
+  "text": "selling them the compute capacity they"
+ },
+ {
+  "start": 1438.96,
+  "duration": 3.28,
+  "text": "need most and have loosened restrictions"
+ },
+ {
+  "start": 1440.32,
+  "duration": 3.52,
+  "text": "on smuggling and remote access. We are"
+ },
+ {
+  "start": 1442.24,
+  "duration": 2.96,
+  "text": "making it easier for China to catch up"
+ },
+ {
+  "start": 1443.84,
+  "duration": 3.04,
+  "text": "and are acting surprised when they"
+ },
+ {
+  "start": 1445.2,
+  "duration": 3.359,
+  "text": "release good models. The good news is if"
+ },
+ {
+  "start": 1446.88,
+  "duration": 3.279,
+  "text": "we start closing loopholes in our export"
+ },
+ {
+  "start": 1448.559,
+  "duration": 3.12,
+  "text": "control policies and enforcing them more"
+ },
+ {
+  "start": 1450.159,
+  "duration": 3.601,
+  "text": "vigorously, we can still constrain"
+ },
+ {
+  "start": 1451.679,
+  "duration": 3.6,
+  "text": "China's future AI capabilities. But this"
+ },
+ {
+  "start": 1453.76,
+  "duration": 2.96,
+  "text": "is the consequence of our non-serious"
+ },
+ {
+  "start": 1455.279,
+  "duration": 3.681,
+  "text": "approach to export controls over the"
+ },
+ {
+  "start": 1456.72,
+  "duration": 4.319,
+  "text": "past 18 months. Family Office investor"
+ },
+ {
+  "start": 1458.96,
+  "duration": 4.16,
+  "text": "Ricky Ho wrote, \"The most important"
+ },
+ {
+  "start": 1461.039,
+  "duration": 3.681,
+  "text": "takeaway is not that Kimmy K3 is good."
+ },
+ {
+  "start": 1463.12,
+  "duration": 3.6,
+  "text": "We already knew that.\" The real signal"
+ },
+ {
+  "start": 1464.72,
+  "duration": 3.76,
+  "text": "is that demand for Frontier AI is now"
+ },
+ {
+  "start": 1466.72,
+  "duration": 3.52,
+  "text": "being constrained by compute rather than"
+ },
+ {
+  "start": 1468.48,
+  "duration": 3.28,
+  "text": "customers. Moonshot is effectively"
+ },
+ {
+  "start": 1470.24,
+  "duration": 4.08,
+  "text": "saying that it has found product market"
+ },
+ {
+  "start": 1471.76,
+  "duration": 4.32,
+  "text": "fit faster than it can deploy GPUs."
+ },
+ {
+  "start": 1474.32,
+  "duration": 3.28,
+  "text": "Ironically, this also highlights the"
+ },
+ {
+  "start": 1476.08,
+  "duration": 3.12,
+  "text": "biggest misconception surrounding"
+ },
+ {
+  "start": 1477.6,
+  "duration": 3.84,
+  "text": "openweight models. While the model"
+ },
+ {
+  "start": 1479.2,
+  "duration": 4.0,
+  "text": "weights may be free, inference is not."
+ },
+ {
+  "start": 1481.44,
+  "duration": 4.08,
+  "text": "Serving millions of users still requires"
+ },
+ {
+  "start": 1483.2,
+  "duration": 3.599,
+  "text": "enormous investments in GPU, networking,"
+ },
+ {
+  "start": 1485.52,
+  "duration": 3.12,
+  "text": "power, memory, and data center"
+ },
+ {
+  "start": 1486.799,
+  "duration": 4.0,
+  "text": "infrastructure. Open Weights eliminates"
+ },
+ {
+  "start": 1488.64,
+  "duration": 4.88,
+  "text": "software licensing costs. They do not"
+ },
+ {
+  "start": 1490.799,
+  "duration": 4.801,
+  "text": "eliminate physics. Now, when push comes"
+ },
+ {
+  "start": 1493.52,
+  "duration": 4.639,
+  "text": "to shove, I'm not sure that I think that"
+ },
+ {
+  "start": 1495.6,
+  "duration": 4.959,
+  "text": "this is really the moment where anything"
+ },
+ {
+  "start": 1498.159,
+  "duration": 4.0,
+  "text": "dramatic shifts. I think we are still"
+ },
+ {
+  "start": 1500.559,
+  "duration": 3.6,
+  "text": "heading towards the crescendo rather"
+ },
+ {
+  "start": 1502.159,
+  "duration": 4.0,
+  "text": "than having reached it. When it comes to"
+ },
+ {
+  "start": 1504.159,
+  "duration": 3.841,
+  "text": "policy regarding Chinese openweight"
+ },
+ {
+  "start": 1506.159,
+  "duration": 5.441,
+  "text": "models, I think that pretty soon we'll"
+ },
+ {
+  "start": 1508.0,
+  "duration": 5.12,
+  "text": "get an announcement of Fable 5.1 or GPT6"
+ },
+ {
+  "start": 1511.6,
+  "duration": 3.28,
+  "text": "and all the attention will shift once"
+ },
+ {
+  "start": 1513.12,
+  "duration": 3.52,
+  "text": "again. Professor Ethan Mllik put it this"
+ },
+ {
+  "start": 1514.88,
+  "duration": 3.6,
+  "text": "way. Regardless of what you think the"
+ },
+ {
+  "start": 1516.64,
+  "duration": 3.76,
+  "text": "answer should be, the inherent tension"
+ },
+ {
+  "start": 1518.48,
+  "duration": 3.439,
+  "text": "between a growing US regulatory and"
+ },
+ {
+  "start": 1520.4,
+  "duration": 3.279,
+  "text": "approval regime for Frontier closed"
+ },
+ {
+  "start": 1521.919,
+  "duration": 3.36,
+  "text": "models and the lack of one for open"
+ },
+ {
+  "start": 1523.679,
+  "duration": 3.281,
+  "text": "models is going to need to be resolved"
+ },
+ {
+  "start": 1525.279,
+  "duration": 3.841,
+  "text": "in some way or another in the near"
+ },
+ {
+  "start": 1526.96,
+  "duration": 4.4,
+  "text": "future with large consequences. Which"
+ },
+ {
+  "start": 1529.12,
+  "duration": 4.08,
+  "text": "way do things go? One, approval regime"
+ },
+ {
+  "start": 1531.36,
+  "duration": 3.76,
+  "text": "for all models official and unofficial."
+ },
+ {
+  "start": 1533.2,
+  "duration": 4.24,
+  "text": "Make life difficult for AI labs that do"
+ },
+ {
+  "start": 1535.12,
+  "duration": 4.4,
+  "text": "not do it. Two, no required approval or"
+ },
+ {
+  "start": 1537.44,
+  "duration": 3.839,
+  "text": "true voluntary. Three, approval for"
+ },
+ {
+  "start": 1539.52,
+  "duration": 4.0,
+  "text": "closed weights not open. That's today,"
+ },
+ {
+  "start": 1541.279,
+  "duration": 4.561,
+  "text": "or it's reverse. Four, bless or ban"
+ },
+ {
+  "start": 1543.52,
+  "duration": 3.92,
+  "text": "individual labs. Now, if you need any"
+ },
+ {
+  "start": 1545.84,
+  "duration": 4.0,
+  "text": "more evidence that this conversation is"
+ },
+ {
+  "start": 1547.44,
+  "duration": 4.479,
+  "text": "going to get louder, not quieter. CNBC's"
+ },
+ {
+  "start": 1549.84,
+  "duration": 3.68,
+  "text": "Jim Kramer waited into it, saying, \"We"
+ },
+ {
+  "start": 1551.919,
+  "duration": 3.76,
+  "text": "must not let our companies use these"
+ },
+ {
+  "start": 1553.52,
+  "duration": 4.0,
+  "text": "Chinese models to save a few bucks. Open"
+ },
+ {
+  "start": 1555.679,
+  "duration": 4.561,
+  "text": "AAI and Anthropic are correct. This is"
+ },
+ {
+  "start": 1557.52,
+  "duration": 4.56,
+  "text": "vital national security.\" One way or"
+ },
+ {
+  "start": 1560.24,
+  "duration": 3.919,
+  "text": "another, this is going to impact how we"
+ },
+ {
+  "start": 1562.08,
+  "duration": 4.0,
+  "text": "build and use AI. So much of our"
+ },
+ {
+  "start": 1564.159,
+  "duration": 4.161,
+  "text": "conversation this year has been about"
+ },
+ {
+  "start": 1566.08,
+  "duration": 4.16,
+  "text": "how to deal with the rising costs of AI"
+ },
+ {
+  "start": 1568.32,
+  "duration": 4.239,
+  "text": "and how to design more complex"
+ },
+ {
+  "start": 1570.24,
+  "duration": 4.08,
+  "text": "architectures that can route tasks to"
+ },
+ {
+  "start": 1572.559,
+  "duration": 3.6,
+  "text": "different models. Different policy"
+ },
+ {
+  "start": 1574.32,
+  "duration": 3.52,
+  "text": "decisions or lack thereof could point in"
+ },
+ {
+  "start": 1576.159,
+  "duration": 3.681,
+  "text": "entirely different directions and market"
+ },
+ {
+  "start": 1577.84,
+  "duration": 4.48,
+  "text": "incentives for different models with"
+ },
+ {
+  "start": 1579.84,
+  "duration": 4.8,
+  "text": "huge consequences to come. Even if you"
+ },
+ {
+  "start": 1582.32,
+  "duration": 3.76,
+  "text": "are just using AI as a consumer, even if"
+ },
+ {
+  "start": 1584.64,
+  "duration": 2.399,
+  "text": "you are just thinking about it in terms"
+ },
+ {
+  "start": 1586.08,
+  "duration": 3.199,
+  "text": "of how you're going to help your"
+ },
+ {
+  "start": 1587.039,
+  "duration": 4.081,
+  "text": "business's AI strategy, like it or not,"
+ },
+ {
+  "start": 1589.279,
+  "duration": 3.841,
+  "text": "this conversation is going to impact"
+ },
+ {
+  "start": 1591.12,
+  "duration": 3.439,
+  "text": "you. And so now is a good time to start"
+ },
+ {
+  "start": 1593.12,
+  "duration": 3.039,
+  "text": "paying attention. Of course, for those"
+ },
+ {
+  "start": 1594.559,
+  "duration": 3.041,
+  "text": "of you who have made it this far, you"
+ },
+ {
+  "start": 1596.159,
+  "duration": 3.52,
+  "text": "are getting gold stars in paying"
+ },
+ {
+  "start": 1597.6,
+  "duration": 3.6,
+  "text": "attention, and I appreciate you. Thanks"
+ },
+ {
+  "start": 1599.679,
+  "duration": 5.641,
+  "text": "as always for listening or watching. And"
+ },
+ {
+  "start": 1601.2,
+  "duration": 4.12,
+  "text": "until next time, peace."
+ }
+]

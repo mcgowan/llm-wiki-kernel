@@ -1,0 +1,4167 @@
+[
+ {
+  "start": 0.88,
+  "duration": 4.76,
+  "text": "Today on the AI Daily Brief, nine Codex"
+ },
+ {
+  "start": 3.24,
+  "duration": 4.2,
+  "text": "tips from the Codex team."
+ },
+ {
+  "start": 5.64,
+  "duration": 3.12,
+  "text": "Before that, in the headlines,"
+ },
+ {
+  "start": 7.44,
+  "duration": 3.28,
+  "text": "yeah, we got a verdict in the Elon"
+ },
+ {
+  "start": 8.76,
+  "duration": 4.68,
+  "text": "OpenAI trial, but that's much less"
+ },
+ {
+  "start": 10.72,
+  "duration": 4.44,
+  "text": "interesting than Composer 2.5."
+ },
+ {
+  "start": 13.44,
+  "duration": 3.2,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 15.16,
+  "duration": 4.32,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 16.64,
+  "duration": 4.44,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 19.48,
+  "duration": 3.8,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 21.08,
+  "duration": 3.92,
+  "text": "before we dive in. You can apply for our"
+ },
+ {
+  "start": 23.28,
+  "duration": 2.96,
+  "text": "new growth engineer role. I'm going to"
+ },
+ {
+  "start": 25.0,
+  "duration": 3.36,
+  "text": "be closing that soon, so if you are"
+ },
+ {
+  "start": 26.24,
+  "duration": 3.84,
+  "text": "interested, get your application in. And"
+ },
+ {
+  "start": 28.36,
+  "duration": 3.52,
+  "text": "you can also find a link to register for"
+ },
+ {
+  "start": 30.08,
+  "duration": 3.96,
+  "text": "the third cohort of Enterprise Cloud,"
+ },
+ {
+  "start": 31.88,
+  "duration": 3.6,
+  "text": "which is coming right up soon."
+ },
+ {
+  "start": 34.04,
+  "duration": 3.2,
+  "text": "Basically, if you get all excited about"
+ },
+ {
+  "start": 35.48,
+  "duration": 3.4,
+  "text": "the Codex talk today and want to get"
+ },
+ {
+  "start": 37.24,
+  "duration": 3.44,
+  "text": "that spirit of agent building across"
+ },
+ {
+  "start": 38.88,
+  "duration": 3.84,
+  "text": "your company, that's what Enterprise"
+ },
+ {
+  "start": 40.68,
+  "duration": 3.72,
+  "text": "Cloud is going to be good for. But with"
+ },
+ {
+  "start": 42.72,
+  "duration": 3.88,
+  "text": "that out of the way, let's talk Composer"
+ },
+ {
+  "start": 44.4,
+  "duration": 4.28,
+  "text": "2.5 and what it says about Cursor in the"
+ },
+ {
+  "start": 46.6,
+  "duration": 3.8,
+  "text": "AI race."
+ },
+ {
+  "start": 48.68,
+  "duration": 4.64,
+  "text": "One of the questions coming into this"
+ },
+ {
+  "start": 50.4,
+  "duration": 5.2,
+  "text": "year was whether what Swyx calls the"
+ },
+ {
+  "start": 53.32,
+  "duration": 4.0,
+  "text": "agent labs, but which we now might call"
+ },
+ {
+  "start": 55.6,
+  "duration": 4.16,
+  "text": "the harness first labs. These are"
+ },
+ {
+  "start": 57.32,
+  "duration": 4.08,
+  "text": "companies like Cursor, Cognition, etc."
+ },
+ {
+  "start": 59.76,
+  "duration": 3.52,
+  "text": "would be able to compete on the model"
+ },
+ {
+  "start": 61.4,
+  "duration": 3.28,
+  "text": "front. The concern for these companies,"
+ },
+ {
+  "start": 63.28,
+  "duration": 3.04,
+  "text": "of course, was that if they were totally"
+ },
+ {
+  "start": 64.68,
+  "duration": 3.52,
+  "text": "beholden to the models from the big"
+ },
+ {
+  "start": 66.32,
+  "duration": 3.04,
+  "text": "labs, if those labs started to move in"
+ },
+ {
+  "start": 68.2,
+  "duration": 2.96,
+  "text": "the direction of building their own"
+ },
+ {
+  "start": 69.36,
+  "duration": 3.64,
+  "text": "harnesses as well, it could squeeze out"
+ },
+ {
+  "start": 71.16,
+  "duration": 3.96,
+  "text": "the space for the Cursors and Cognitions"
+ },
+ {
+  "start": 73.0,
+  "duration": 3.84,
+  "text": "of the world. And at the same time, the"
+ },
+ {
+  "start": 75.12,
+  "duration": 3.36,
+  "text": "Cursors and Cognitions of the world had"
+ },
+ {
+  "start": 76.84,
+  "duration": 3.64,
+  "text": "something valuable in the form of the"
+ },
+ {
+  "start": 78.48,
+  "duration": 3.84,
+  "text": "data exhaust from the usage of their"
+ },
+ {
+  "start": 80.48,
+  "duration": 3.28,
+  "text": "platforms, which theoretically gave them"
+ },
+ {
+  "start": 82.32,
+  "duration": 3.12,
+  "text": "insight into how people were actually"
+ },
+ {
+  "start": 83.76,
+  "duration": 3.04,
+  "text": "interacting with these models, which"
+ },
+ {
+  "start": 85.44,
+  "duration": 3.08,
+  "text": "could turn into a valuable asset for"
+ },
+ {
+  "start": 86.8,
+  "duration": 2.76,
+  "text": "training their own models. Whether it"
+ },
+ {
+  "start": 88.52,
+  "duration": 2.08,
+  "text": "could or couldn't, it was clear that"
+ },
+ {
+  "start": 89.56,
+  "duration": 2.32,
+  "text": "this was the direction that they were"
+ },
+ {
+  "start": 90.6,
+  "duration": 3.64,
+  "text": "going to start to head, and that the"
+ },
+ {
+  "start": 91.88,
+  "duration": 3.88,
+  "text": "space between these so-called agent labs"
+ },
+ {
+  "start": 94.24,
+  "duration": 3.36,
+  "text": "and the model labs was destined to"
+ },
+ {
+  "start": 95.76,
+  "duration": 3.52,
+  "text": "close. The model labs were going to move"
+ },
+ {
+  "start": 97.6,
+  "duration": 2.96,
+  "text": "into the harness space. The agent or"
+ },
+ {
+  "start": 99.28,
+  "duration": 3.56,
+  "text": "harness labs were going to move into the"
+ },
+ {
+  "start": 100.56,
+  "duration": 3.88,
+  "text": "model space. In January, CEO Michael"
+ },
+ {
+  "start": 102.84,
+  "duration": 3.44,
+  "text": "Truel told staff that it was, quote,"
+ },
+ {
+  "start": 104.44,
+  "duration": 3.44,
+  "text": "wartime, recognizing that Cursor's"
+ },
+ {
+  "start": 106.28,
+  "duration": 3.76,
+  "text": "business model was being eroded from"
+ },
+ {
+  "start": 107.88,
+  "duration": 3.88,
+  "text": "both sides. Claude Code was coming after"
+ },
+ {
+  "start": 110.04,
+  "duration": 3.12,
+  "text": "them on the harness side, but they also"
+ },
+ {
+  "start": 111.76,
+  "duration": 3.48,
+  "text": "couldn't keep eating the cost of serving"
+ },
+ {
+  "start": 113.16,
+  "duration": 3.52,
+  "text": "Anthropic models at a discount. With"
+ },
+ {
+  "start": 115.24,
+  "duration": 2.96,
+  "text": "that in mind, he said that the company's"
+ },
+ {
+  "start": 116.68,
+  "duration": 3.48,
+  "text": "number one priority was to build the"
+ },
+ {
+  "start": 118.2,
+  "duration": 4.24,
+  "text": "best coding model this year."
+ },
+ {
+  "start": 120.16,
+  "duration": 4.24,
+  "text": "The release of Composer 2 in March was a"
+ },
+ {
+  "start": 122.44,
+  "duration": 4.24,
+  "text": "decent first step, but it was still"
+ },
+ {
+  "start": 124.4,
+  "duration": 4.44,
+  "text": "mostly about bringing down costs. Where"
+ },
+ {
+  "start": 126.68,
+  "duration": 4.56,
+  "text": "users adopted the cheap in-house model,"
+ },
+ {
+  "start": 128.84,
+  "duration": 4.0,
+  "text": "it was mostly for simple tasks. However,"
+ },
+ {
+  "start": 131.24,
+  "duration": 4.6,
+  "text": "it failed to drive new users to the"
+ },
+ {
+  "start": 132.84,
+  "duration": 5.08,
+  "text": "platform. The just-launched Composer 2.5"
+ },
+ {
+  "start": 135.84,
+  "duration": 3.56,
+  "text": "could be a different story. The model"
+ },
+ {
+  "start": 137.92,
+  "duration": 4.64,
+  "text": "appears competitive on the key"
+ },
+ {
+  "start": 139.4,
+  "duration": 5.76,
+  "text": "benchmarks. It scored 69.3% on Terminal"
+ },
+ {
+  "start": 142.56,
+  "duration": 4.32,
+  "text": "Bench 2.0, which is just behind Opus 4.7"
+ },
+ {
+  "start": 145.16,
+  "duration": 3.44,
+  "text": "69.4%."
+ },
+ {
+  "start": 146.88,
+  "duration": 3.36,
+  "text": "On SweBench multilingual, it scored"
+ },
+ {
+  "start": 148.6,
+  "duration": 4.8,
+  "text": "79.8%"
+ },
+ {
+  "start": 150.24,
+  "duration": 5.84,
+  "text": "comparable to both Opus 4.7 at 80.5% and"
+ },
+ {
+  "start": 153.4,
+  "duration": 4.64,
+  "text": "GPT-5.5 at 77.8%."
+ },
+ {
+  "start": 156.08,
+  "duration": 3.92,
+  "text": "On Cursor's in-house benchmark, which"
+ },
+ {
+  "start": 158.04,
+  "duration": 5.08,
+  "text": "tests more difficult coding tasks,"
+ },
+ {
+  "start": 160.0,
+  "duration": 4.92,
+  "text": "Composer 2.5 scored 63.2%"
+ },
+ {
+  "start": 163.12,
+  "duration": 4.76,
+  "text": "just about a point behind both 4.7 and"
+ },
+ {
+  "start": 164.92,
+  "duration": 5.039,
+  "text": "5.5. Now, the coding performance gets"
+ },
+ {
+  "start": 167.88,
+  "duration": 4.0,
+  "text": "Composer 2.5 into the ballpark of"
+ },
+ {
+  "start": 169.959,
+  "duration": 3.921,
+  "text": "usability for serious coders, but the"
+ },
+ {
+  "start": 171.88,
+  "duration": 4.04,
+  "text": "bigger part of the story is the cost."
+ },
+ {
+  "start": 173.88,
+  "duration": 4.24,
+  "text": "Cursor is serving this model at just 50"
+ },
+ {
+  "start": 175.92,
+  "duration": 4.44,
+  "text": "cents per million input tokens and 250"
+ },
+ {
+  "start": 178.12,
+  "duration": 5.36,
+  "text": "per million output tokens, making it"
+ },
+ {
+  "start": 180.36,
+  "duration": 4.56,
+  "text": "half the cost of Opus 4.7 or GPT-5.5."
+ },
+ {
+  "start": 183.48,
+  "duration": 3.36,
+  "text": "They also seem to have delivered some"
+ },
+ {
+  "start": 184.92,
+  "duration": 3.92,
+  "text": "big token efficiency gains. Their"
+ },
+ {
+  "start": 186.84,
+  "duration": 4.44,
+  "text": "benchmark run on SweBench came in under"
+ },
+ {
+  "start": 188.84,
+  "duration": 4.48,
+  "text": "a dollar per task compared to around $5"
+ },
+ {
+  "start": 191.28,
+  "duration": 5.08,
+  "text": "per task for GPT-5.5 on extra high"
+ },
+ {
+  "start": 193.32,
+  "duration": 5.0,
+  "text": "settings or $11 per task for Opus 4.7 on"
+ },
+ {
+  "start": 196.36,
+  "duration": 3.44,
+  "text": "max settings. That has led Cursor to"
+ },
+ {
+  "start": 198.32,
+  "duration": 3.68,
+  "text": "claim that their model is 10x more"
+ },
+ {
+  "start": 199.8,
+  "duration": 4.76,
+  "text": "efficient compared to similarly capable"
+ },
+ {
+  "start": 202.0,
+  "duration": 4.04,
+  "text": "models. Now, Composer 2.5 is still built"
+ },
+ {
+  "start": 204.56,
+  "duration": 4.28,
+  "text": "on top of the same base model as"
+ },
+ {
+  "start": 206.04,
+  "duration": 4.52,
+  "text": "Composer 2, which is Moonshots Kimi 2.5."
+ },
+ {
+  "start": 208.84,
+  "duration": 3.32,
+  "text": "That implies that the entire performance"
+ },
+ {
+  "start": 210.56,
+  "duration": 3.44,
+  "text": "boost came from better reinforcement"
+ },
+ {
+  "start": 212.16,
+  "duration": 3.88,
+  "text": "learning techniques and suggests that"
+ },
+ {
+  "start": 214.0,
+  "duration": 4.519,
+  "text": "even if people don't switch en masse"
+ },
+ {
+  "start": 216.04,
+  "duration": 4.28,
+  "text": "from Opus and GPT to Composer, that"
+ },
+ {
+  "start": 218.519,
+  "duration": 3.401,
+  "text": "there is a ton of room to post-train"
+ },
+ {
+  "start": 220.32,
+  "duration": 3.44,
+  "text": "leading open-source models to compete at"
+ },
+ {
+  "start": 221.92,
+  "duration": 4.0,
+  "text": "the frontier, especially around these"
+ },
+ {
+  "start": 223.76,
+  "duration": 3.199,
+  "text": "discrete tasks. Cursor also announced"
+ },
+ {
+  "start": 225.92,
+  "duration": 2.96,
+  "text": "that they're in the middle of training a"
+ },
+ {
+  "start": 226.959,
+  "duration": 4.441,
+  "text": "new model from scratch using XAI's"
+ },
+ {
+  "start": 228.88,
+  "duration": 4.6,
+  "text": "Colossus 2 training cluster. They wrote,"
+ },
+ {
+  "start": 231.4,
+  "duration": 3.92,
+  "text": "\"With Colossus 2's million H100"
+ },
+ {
+  "start": 233.48,
+  "duration": 3.4,
+  "text": "equivalents and our combined data and"
+ },
+ {
+  "start": 235.32,
+  "duration": 3.52,
+  "text": "training techniques, we expect this to"
+ },
+ {
+  "start": 236.88,
+  "duration": 3.4,
+  "text": "be a major leap in model capability.\""
+ },
+ {
+  "start": 238.84,
+  "duration": 2.52,
+  "text": "Leon Lin summed up the model release"
+ },
+ {
+  "start": 240.28,
+  "duration": 3.16,
+  "text": "posting,"
+ },
+ {
+  "start": 241.36,
+  "duration": 4.4,
+  "text": "\"So, basically we got an Opus 4.7 model"
+ },
+ {
+  "start": 243.44,
+  "duration": 4.24,
+  "text": "that costs 10x less. I have to test"
+ },
+ {
+  "start": 245.76,
+  "duration": 3.6,
+  "text": "this.\" Later in the day, he checked back"
+ },
+ {
+  "start": 247.68,
+  "duration": 3.4,
+  "text": "in with the results writing,"
+ },
+ {
+  "start": 249.36,
+  "duration": 3.4,
+  "text": "\"Pretty fast and efficient model, does a"
+ },
+ {
+  "start": 251.08,
+  "duration": 3.84,
+  "text": "great job. I'd say it's almost as strong"
+ },
+ {
+  "start": 252.76,
+  "duration": 4.199,
+  "text": "as Opus 4.7 or in some cases just at the"
+ },
+ {
+  "start": 254.92,
+  "duration": 3.84,
+  "text": "same level. Cheap model, good at front"
+ },
+ {
+  "start": 256.959,
+  "duration": 3.721,
+  "text": "end, still a bit generic design when"
+ },
+ {
+  "start": 258.76,
+  "duration": 4.72,
+  "text": "used without skills.\" Analyst Max"
+ },
+ {
+  "start": 260.68,
+  "duration": 4.56,
+  "text": "Weinbach agreed writing, \"Composer 2.5"
+ },
+ {
+  "start": 263.48,
+  "duration": 3.32,
+  "text": "is very good. It's good at doing more"
+ },
+ {
+  "start": 265.24,
+  "duration": 3.8,
+  "text": "than just quick iterations of front end"
+ },
+ {
+  "start": 266.8,
+  "duration": 4.24,
+  "text": "now. I will probably use it over Claude"
+ },
+ {
+  "start": 269.04,
+  "duration": 4.48,
+  "text": "and Cursor.\" Addressing what had changed"
+ },
+ {
+  "start": 271.04,
+  "duration": 3.84,
+  "text": "from Composer 2, he added, \"Composer 2"
+ },
+ {
+  "start": 273.52,
+  "duration": 3.2,
+  "text": "was good at some quick tweaks, but I"
+ },
+ {
+  "start": 274.88,
+  "duration": 4.36,
+  "text": "didn't trust it enough to do more. I"
+ },
+ {
+  "start": 276.72,
+  "duration": 4.4,
+  "text": "trust 2.5 a lot more.\" Ali from Prime"
+ },
+ {
+  "start": 279.24,
+  "duration": 3.92,
+  "text": "Intellect noted that following the XAI"
+ },
+ {
+  "start": 281.12,
+  "duration": 4.24,
+  "text": "deal, which you might remember is where"
+ },
+ {
+  "start": 283.16,
+  "duration": 4.16,
+  "text": "XAI has the option to buy them for $60"
+ },
+ {
+  "start": 285.36,
+  "duration": 3.559,
+  "text": "billion, Ali said that Cursor is now"
+ },
+ {
+  "start": 287.32,
+  "duration": 3.0,
+  "text": "competitive with the frontier labs on"
+ },
+ {
+  "start": 288.919,
+  "duration": 3.601,
+  "text": "both model performance and training"
+ },
+ {
+  "start": 290.32,
+  "duration": 4.12,
+  "text": "compute. Certainly, Elon seems excited"
+ },
+ {
+  "start": 292.52,
+  "duration": 3.6,
+  "text": "spamming retweets to all of the excited"
+ },
+ {
+  "start": 294.44,
+  "duration": 3.76,
+  "text": "posts about the model."
+ },
+ {
+  "start": 296.12,
+  "duration": 3.88,
+  "text": "And to give you a sense of the type of"
+ },
+ {
+  "start": 298.2,
+  "duration": 2.8,
+  "text": "opening that Cursor might have,"
+ },
+ {
+  "start": 300.0,
+  "duration": 2.76,
+  "text": "especially if you're sitting there"
+ },
+ {
+  "start": 301.0,
+  "duration": 3.44,
+  "text": "thinking to yourself, \"Aren't companies"
+ },
+ {
+  "start": 302.76,
+  "duration": 3.44,
+  "text": "all just signing up with either OpenAI"
+ },
+ {
+  "start": 304.44,
+  "duration": 3.88,
+  "text": "or Anthropic at this point?\" Chamath"
+ },
+ {
+  "start": 306.2,
+  "duration": 3.56,
+  "text": "Palihapitiya wrote, \"If you're running a"
+ },
+ {
+  "start": 308.32,
+  "duration": 3.08,
+  "text": "consulting business and you're deploying"
+ },
+ {
+  "start": 309.76,
+  "duration": 3.88,
+  "text": "Anthropic or OpenAI directly into your"
+ },
+ {
+  "start": 311.4,
+  "duration": 4.0,
+  "text": "organization, I'm looking at you PwC and"
+ },
+ {
+  "start": 313.64,
+  "duration": 3.04,
+  "text": "Accenture, you're letting the fox into"
+ },
+ {
+  "start": 315.4,
+  "duration": 3.16,
+  "text": "the hen house."
+ },
+ {
+  "start": 316.68,
+  "duration": 3.48,
+  "text": "OpenAI and Anthropic are openly funding"
+ },
+ {
+  "start": 318.56,
+  "duration": 3.08,
+  "text": "and starting competitors to you, while"
+ },
+ {
+  "start": 320.16,
+  "duration": 3.28,
+  "text": "also using your usage to drive more"
+ },
+ {
+  "start": 321.64,
+  "duration": 3.2,
+  "text": "success for them. This is not a failure"
+ },
+ {
+  "start": 323.44,
+  "duration": 3.04,
+  "text": "on their part, but a failure on your"
+ },
+ {
+  "start": 324.84,
+  "duration": 3.16,
+  "text": "part. Consulting businesses that"
+ },
+ {
+  "start": 326.48,
+  "duration": 2.92,
+  "text": "understand this are adopting a control"
+ },
+ {
+  "start": 328.0,
+  "duration": 3.16,
+  "text": "plan that allows them to arbitrate where"
+ },
+ {
+  "start": 329.4,
+  "duration": 3.36,
+  "text": "tokens go and who generates tokens for"
+ },
+ {
+  "start": 331.16,
+  "duration": 3.72,
+  "text": "them. Controlling the tokens is"
+ },
+ {
+  "start": 332.76,
+  "duration": 3.28,
+  "text": "controlling the spice.\""
+ },
+ {
+  "start": 334.88,
+  "duration": 3.24,
+  "text": "Basically, there is a lot more"
+ },
+ {
+  "start": 336.04,
+  "duration": 3.68,
+  "text": "conversation around just how locked you"
+ },
+ {
+  "start": 338.12,
+  "duration": 3.4,
+  "text": "want to be as an enterprise into these"
+ },
+ {
+  "start": 339.72,
+  "duration": 3.48,
+  "text": "models, which creates an interesting"
+ },
+ {
+  "start": 341.52,
+  "duration": 3.8,
+  "text": "open lane for the harness-first"
+ },
+ {
+  "start": 343.2,
+  "duration": 3.84,
+  "text": "companies that may, yes, have have own"
+ },
+ {
+  "start": 345.32,
+  "duration": 3.4,
+  "text": "models, but are also ultimately"
+ },
+ {
+  "start": 347.04,
+  "duration": 3.16,
+  "text": "model-agnostic."
+ },
+ {
+  "start": 348.72,
+  "duration": 3.0,
+  "text": "Next up, Cloudflare has published their"
+ },
+ {
+  "start": 350.2,
+  "duration": 3.24,
+  "text": "findings after working with Mythos over"
+ },
+ {
+  "start": 351.72,
+  "duration": 3.24,
+  "text": "the past couple of months in what could"
+ },
+ {
+  "start": 353.44,
+  "duration": 3.6,
+  "text": "be one of the most useful reviews of"
+ },
+ {
+  "start": 354.96,
+  "duration": 3.16,
+  "text": "Anthropic's secretive new model."
+ },
+ {
+  "start": 357.04,
+  "duration": 3.4,
+  "text": "Cutting directly to the chase, they"
+ },
+ {
+  "start": 358.12,
+  "duration": 3.56,
+  "text": "write, \"Mythos preview is a real step"
+ },
+ {
+  "start": 360.44,
+  "duration": 2.6,
+  "text": "forward, and it's worth saying that"
+ },
+ {
+  "start": 361.68,
+  "duration": 3.04,
+  "text": "plainly before getting into anything"
+ },
+ {
+  "start": 363.04,
+  "duration": 3.16,
+  "text": "else. We've been running models against"
+ },
+ {
+  "start": 364.72,
+  "duration": 2.76,
+  "text": "our code for a while now, and the jump"
+ },
+ {
+  "start": 366.2,
+  "duration": 2.8,
+  "text": "from what was possible with previous"
+ },
+ {
+  "start": 367.48,
+  "duration": 3.52,
+  "text": "general-purpose frontier models to what"
+ },
+ {
+  "start": 369.0,
+  "duration": 3.88,
+  "text": "Mythos preview does today is not just a"
+ },
+ {
+  "start": 371.0,
+  "duration": 3.36,
+  "text": "refinement of what came before. It's a"
+ },
+ {
+  "start": 372.88,
+  "duration": 3.24,
+  "text": "different kind of tool doing a different"
+ },
+ {
+  "start": 374.36,
+  "duration": 3.24,
+  "text": "kind of work, and that makes a clean"
+ },
+ {
+  "start": 376.12,
+  "duration": 3.4,
+  "text": "apples-to-apples comparison to early"
+ },
+ {
+  "start": 377.6,
+  "duration": 4.2,
+  "text": "models difficult.\" Cloudflare goes on to"
+ },
+ {
+  "start": 379.52,
+  "duration": 3.92,
+  "text": "explain two big differences in kind."
+ },
+ {
+  "start": 381.8,
+  "duration": 3.32,
+  "text": "Unlike previous models, Mythos is"
+ },
+ {
+  "start": 383.44,
+  "duration": 3.6,
+  "text": "capable of creating an exploit chain"
+ },
+ {
+  "start": 385.12,
+  "duration": 3.56,
+  "text": "rather than just detecting single bugs."
+ },
+ {
+  "start": 387.04,
+  "duration": 3.12,
+  "text": "That means it can synthesize multiple"
+ },
+ {
+  "start": 388.68,
+  "duration": 3.28,
+  "text": "attack primitives into a functional"
+ },
+ {
+  "start": 390.16,
+  "duration": 3.56,
+  "text": "exploit. Cloudflare wrote that the use"
+ },
+ {
+  "start": 391.96,
+  "duration": 3.28,
+  "text": "of reasoning to build complex exploits"
+ },
+ {
+  "start": 393.72,
+  "duration": 3.24,
+  "text": "makes the model work more like a senior"
+ },
+ {
+  "start": 395.24,
+  "duration": 3.32,
+  "text": "researcher rather than an automated bug"
+ },
+ {
+  "start": 396.96,
+  "duration": 3.52,
+  "text": "scanner. The other big change is the"
+ },
+ {
+  "start": 398.56,
+  "duration": 3.16,
+  "text": "ability to generate proofs. Previous"
+ },
+ {
+  "start": 400.48,
+  "duration": 2.72,
+  "text": "models were quite good at detecting"
+ },
+ {
+  "start": 401.72,
+  "duration": 3.199,
+  "text": "potential vulnerabilities, but they"
+ },
+ {
+  "start": 403.2,
+  "duration": 3.52,
+  "text": "would rarely demonstrate an exploit."
+ },
+ {
+  "start": 404.919,
+  "duration": 3.521,
+  "text": "Mythos can generate functional exploits,"
+ },
+ {
+  "start": 406.72,
+  "duration": 3.199,
+  "text": "making it far more useful as a debugging"
+ },
+ {
+  "start": 408.44,
+  "duration": 3.32,
+  "text": "tool that doesn't simply generate a list"
+ },
+ {
+  "start": 409.919,
+  "duration": 3.441,
+  "text": "of false positives. What's more, Mythos"
+ },
+ {
+  "start": 411.76,
+  "duration": 2.96,
+  "text": "is able to test and refine its exploits"
+ },
+ {
+  "start": 413.36,
+  "duration": 2.84,
+  "text": "if they don't work the first time,"
+ },
+ {
+  "start": 414.72,
+  "duration": 3.4,
+  "text": "providing additional evidence to fix the"
+ },
+ {
+  "start": 416.2,
+  "duration": 3.16,
+  "text": "vulnerability. Cloudflare said that some"
+ },
+ {
+  "start": 418.12,
+  "duration": 2.72,
+  "text": "other models have been able to find the"
+ },
+ {
+  "start": 419.36,
+  "duration": 2.88,
+  "text": "same underlying bugs, but would rarely"
+ },
+ {
+  "start": 420.84,
+  "duration": 2.44,
+  "text": "go much further."
+ },
+ {
+  "start": 422.24,
+  "duration": 2.96,
+  "text": "All of this adds a huge amount of"
+ },
+ {
+  "start": 423.28,
+  "duration": 3.28,
+  "text": "context on why Mythos matters. In the"
+ },
+ {
+  "start": 425.2,
+  "duration": 2.84,
+  "text": "weeks after the preview release, many"
+ },
+ {
+  "start": 426.56,
+  "duration": 2.76,
+  "text": "pointed out that other models could find"
+ },
+ {
+  "start": 428.04,
+  "duration": 3.24,
+  "text": "many of the same bugs that Mythos"
+ },
+ {
+  "start": 429.32,
+  "duration": 3.28,
+  "text": "identified, but as Cloudflare points"
+ },
+ {
+  "start": 431.28,
+  "duration": 2.6,
+  "text": "out, there's a big difference between"
+ },
+ {
+  "start": 432.6,
+  "duration": 2.84,
+  "text": "pointing out potential bugs and"
+ },
+ {
+  "start": 433.88,
+  "duration": 3.16,
+  "text": "providing full code for a functional"
+ },
+ {
+  "start": 435.44,
+  "duration": 3.2,
+  "text": "exploit, demonstrating exactly what"
+ },
+ {
+  "start": 437.04,
+  "duration": 3.48,
+  "text": "needs to be patched."
+ },
+ {
+  "start": 438.64,
+  "duration": 3.56,
+  "text": "Author Daniel Jeffries argues that this"
+ },
+ {
+  "start": 440.52,
+  "duration": 3.6,
+  "text": "is the type of analysis we need around"
+ },
+ {
+  "start": 442.2,
+  "duration": 3.28,
+  "text": "these tools, saying,"
+ },
+ {
+  "start": 444.12,
+  "duration": 3.08,
+  "text": "\"This is the kind of conversation we"
+ },
+ {
+  "start": 445.48,
+  "duration": 3.36,
+  "text": "need, not idiotic ones about the end of"
+ },
+ {
+  "start": 447.2,
+  "duration": 3.04,
+  "text": "all software. We need what is the right"
+ },
+ {
+  "start": 448.84,
+  "duration": 2.8,
+  "text": "answer because these models are coming"
+ },
+ {
+  "start": 450.24,
+  "duration": 2.64,
+  "text": "and will get better. So, how we put our"
+ },
+ {
+  "start": 451.64,
+  "duration": 3.04,
+  "text": "heads together and make better and more"
+ },
+ {
+  "start": 452.88,
+  "duration": 3.28,
+  "text": "secure software across the world. And it"
+ },
+ {
+  "start": 454.68,
+  "duration": 2.88,
+  "text": "can't just be patching the 100 or so"
+ },
+ {
+  "start": 456.16,
+  "duration": 3.36,
+  "text": "projects that got access to Project"
+ },
+ {
+  "start": 457.56,
+  "duration": 3.16,
+  "text": "Glasswing. That is not going to help the"
+ },
+ {
+  "start": 459.52,
+  "duration": 3.84,
+  "text": "world.\""
+ },
+ {
+  "start": 460.72,
+  "duration": 4.16,
+  "text": "Lastly today, one little bit of AI drama"
+ },
+ {
+  "start": 463.36,
+  "duration": 3.6,
+  "text": "comes to a close at least in this"
+ },
+ {
+  "start": 464.88,
+  "duration": 4.6,
+  "text": "version. Elon Musk has lost his case"
+ },
+ {
+  "start": 466.96,
+  "duration": 4.0,
+  "text": "against OpenAI and Sam Altman. After 3"
+ },
+ {
+  "start": 469.48,
+  "duration": 3.2,
+  "text": "weeks of testimony, it took the jury"
+ },
+ {
+  "start": 470.96,
+  "duration": 3.64,
+  "text": "just 2 hours to return a unanimous"
+ },
+ {
+  "start": 472.68,
+  "duration": 3.76,
+  "text": "verdict, one which will be wildly"
+ },
+ {
+  "start": 474.6,
+  "duration": 3.56,
+  "text": "unsatisfying to many and leave many"
+ },
+ {
+  "start": 476.44,
+  "duration": 3.4,
+  "text": "issues unresolved emotionally, even if"
+ },
+ {
+  "start": 478.16,
+  "duration": 2.84,
+  "text": "they are resolved legally. The jury"
+ },
+ {
+  "start": 479.84,
+  "duration": 2.64,
+  "text": "found that the claim of breach of"
+ },
+ {
+  "start": 481.0,
+  "duration": 3.36,
+  "text": "charitable trust was barred by the"
+ },
+ {
+  "start": 482.48,
+  "duration": 3.28,
+  "text": "statute of limitations, meaning that"
+ },
+ {
+  "start": 484.36,
+  "duration": 2.88,
+  "text": "Elon took too long to commence his"
+ },
+ {
+  "start": 485.76,
+  "duration": 3.08,
+  "text": "lawsuit. With it, the claim that"
+ },
+ {
+  "start": 487.24,
+  "duration": 3.52,
+  "text": "Microsoft aided and abetted this breach"
+ },
+ {
+  "start": 488.84,
+  "duration": 3.64,
+  "text": "also fell away. Musk's claim for"
+ },
+ {
+  "start": 490.76,
+  "duration": 3.64,
+  "text": "restitution was also found to be barred"
+ },
+ {
+  "start": 492.48,
+  "duration": 3.439,
+  "text": "by the statute of limitations, and with"
+ },
+ {
+  "start": 494.4,
+  "duration": 3.04,
+  "text": "that, this big, massive,"
+ },
+ {
+  "start": 495.919,
+  "duration": 3.841,
+  "text": "headline-grabbing tech trial fizzled"
+ },
+ {
+  "start": 497.44,
+  "duration": 4.2,
+  "text": "into nothing. Now, honestly, the trial"
+ },
+ {
+  "start": 499.76,
+  "duration": 3.6,
+  "text": "was already weird even before we got to"
+ },
+ {
+  "start": 501.64,
+  "duration": 3.96,
+  "text": "the verdict. In the weeks before the"
+ },
+ {
+  "start": 503.36,
+  "duration": 3.8,
+  "text": "trial commenced, Elon abandoned his more"
+ },
+ {
+  "start": 505.6,
+  "duration": 2.68,
+  "text": "ambitious claims of fraud to focus"
+ },
+ {
+  "start": 507.16,
+  "duration": 2.92,
+  "text": "solely on the breach of charitable"
+ },
+ {
+  "start": 508.28,
+  "duration": 3.759,
+  "text": "trust. He went to trial seeking two"
+ },
+ {
+  "start": 510.08,
+  "duration": 3.88,
+  "text": "outcomes: the removal of Sam Altman and"
+ },
+ {
+  "start": 512.039,
+  "duration": 4.401,
+  "text": "Greg Brockman as executives and a casual"
+ },
+ {
+  "start": 513.96,
+  "duration": 3.959,
+  "text": "134 billion in damages. But even with"
+ },
+ {
+  "start": 516.44,
+  "duration": 3.2,
+  "text": "the reduced scope, the jury didn't need"
+ },
+ {
+  "start": 517.919,
+  "duration": 3.041,
+  "text": "to consider the merits of the case,"
+ },
+ {
+  "start": 519.64,
+  "duration": 2.68,
+  "text": "simply making their decision based"
+ },
+ {
+  "start": 520.96,
+  "duration": 3.52,
+  "text": "purely on technical defects with the"
+ },
+ {
+  "start": 522.32,
+  "duration": 3.92,
+  "text": "complaint itself. This fatal issue was"
+ },
+ {
+  "start": 524.48,
+  "duration": 3.32,
+  "text": "itself an interesting microcosm of how"
+ },
+ {
+  "start": 526.24,
+  "duration": 3.04,
+  "text": "the case played out. Musk had claimed"
+ },
+ {
+  "start": 527.8,
+  "duration": 3.2,
+  "text": "that Altman and Greg Brockman conspired"
+ },
+ {
+  "start": 529.28,
+  "duration": 3.4,
+  "text": "to, quote, steal a charity, linking"
+ },
+ {
+  "start": 531.0,
+  "duration": 4.12,
+  "text": "these claims to Microsoft's $10 billion"
+ },
+ {
+  "start": 532.68,
+  "duration": 4.0,
+  "text": "investment in 2023. However, OpenAI"
+ },
+ {
+  "start": 535.12,
+  "duration": 3.44,
+  "text": "convinced the jury that Musk was aware"
+ },
+ {
+  "start": 536.68,
+  "duration": 4.24,
+  "text": "of plans to form a for-profit company as"
+ },
+ {
+  "start": 538.56,
+  "duration": 4.2,
+  "text": "early as 2018 after being sent a term"
+ },
+ {
+  "start": 540.92,
+  "duration": 3.56,
+  "text": "sheet describing the proposed structure."
+ },
+ {
+  "start": 542.76,
+  "duration": 3.8,
+  "text": "The trial also surfaced Elon's own"
+ },
+ {
+  "start": 544.48,
+  "duration": 4.2,
+  "text": "thoughts on the matter, namely a 2017"
+ },
+ {
+  "start": 546.56,
+  "duration": 3.84,
+  "text": "proposal to fold OpenAI into Tesla to"
+ },
+ {
+  "start": 548.68,
+  "duration": 3.04,
+  "text": "allow for commercial fundraising. The"
+ },
+ {
+  "start": 550.4,
+  "duration": 3.4,
+  "text": "jury determined that these events began"
+ },
+ {
+  "start": 551.72,
+  "duration": 4.16,
+  "text": "the 3-year limit for Elon to bring this"
+ },
+ {
+  "start": 553.8,
+  "duration": 3.6,
+  "text": "lawsuit. Last week, The Verge did a"
+ },
+ {
+  "start": 555.88,
+  "duration": 2.8,
+  "text": "pretty good job summing up the case,"
+ },
+ {
+  "start": 557.4,
+  "duration": 2.72,
+  "text": "arguing that it, in their words,"
+ },
+ {
+  "start": 558.68,
+  "duration": 3.12,
+  "text": "accomplished nothing but airing dirty"
+ },
+ {
+  "start": 560.12,
+  "duration": 3.16,
+  "text": "laundry. We certainly got a lot of new"
+ },
+ {
+  "start": 561.8,
+  "duration": 2.88,
+  "text": "information on what went on behind"
+ },
+ {
+  "start": 563.28,
+  "duration": 3.4,
+  "text": "closed doors over the past decade at"
+ },
+ {
+  "start": 564.68,
+  "duration": 4.24,
+  "text": "OpenAI. That includes the power struggle"
+ },
+ {
+  "start": 566.68,
+  "duration": 4.04,
+  "text": "between Elon and other co-founders, the"
+ },
+ {
+  "start": 568.92,
+  "duration": 3.6,
+  "text": "fateful week where Sam Altman was ousted"
+ },
+ {
+  "start": 570.72,
+  "duration": 3.44,
+  "text": "and then returned as CEO, apparently"
+ },
+ {
+  "start": 572.52,
+  "duration": 3.68,
+  "text": "internally referred to as the blip. But"
+ },
+ {
+  "start": 574.16,
+  "duration": 3.68,
+  "text": "beyond that, there were no real answers."
+ },
+ {
+  "start": 576.2,
+  "duration": 3.36,
+  "text": "All we got was a 3-week interrogation"
+ },
+ {
+  "start": 577.84,
+  "duration": 3.52,
+  "text": "into the characters of Elon, Sam Altman,"
+ },
+ {
+  "start": 579.56,
+  "duration": 3.56,
+  "text": "and other leaders, which to borrow a"
+ },
+ {
+  "start": 581.36,
+  "duration": 3.32,
+  "text": "phrase from Amira Morati text message"
+ },
+ {
+  "start": 583.12,
+  "duration": 3.4,
+  "text": "disclosed during the trial, was"
+ },
+ {
+  "start": 584.68,
+  "duration": 3.52,
+  "text": "directionally very bad. Now, the good"
+ },
+ {
+  "start": 586.52,
+  "duration": 3.04,
+  "text": "news for the AI industry is that as"
+ },
+ {
+  "start": 588.2,
+  "duration": 2.84,
+  "text": "blustery as this whole thing was over"
+ },
+ {
+  "start": 589.56,
+  "duration": 3.12,
+  "text": "here, I don't think that most people in"
+ },
+ {
+  "start": 591.04,
+  "duration": 3.76,
+  "text": "the world outside of AI were paying any"
+ },
+ {
+  "start": 592.68,
+  "duration": 4.24,
+  "text": "attention at all to this. Unfortunately"
+ },
+ {
+  "start": 594.8,
+  "duration": 4.12,
+  "text": "for us, broad popular opinion already"
+ },
+ {
+  "start": 596.92,
+  "duration": 3.52,
+  "text": "has it that AI is just another tool for"
+ },
+ {
+  "start": 598.92,
+  "duration": 2.6,
+  "text": "the rich to become richer, and not"
+ },
+ {
+  "start": 600.44,
+  "duration": 2.72,
+  "text": "something that's actually going to help"
+ },
+ {
+  "start": 601.52,
+  "duration": 2.8,
+  "text": "their lives in any meaningful way, at"
+ },
+ {
+  "start": 603.16,
+  "duration": 2.8,
+  "text": "least not at a cost that they're willing"
+ },
+ {
+  "start": 604.32,
+  "duration": 3.04,
+  "text": "to bear. And so, more evidence of the"
+ },
+ {
+  "start": 605.96,
+  "duration": 3.0,
+  "text": "billionaires flinging their golden"
+ },
+ {
+  "start": 607.36,
+  "duration": 3.44,
+  "text": "at each other really doesn't change that"
+ },
+ {
+  "start": 608.96,
+  "duration": 3.44,
+  "text": "perspective. Do I think it would be"
+ },
+ {
+  "start": 610.8,
+  "duration": 3.24,
+  "text": "better for AI if all of these leaders"
+ },
+ {
+  "start": 612.4,
+  "duration": 4.04,
+  "text": "had a moratorium on speaking to the"
+ },
+ {
+  "start": 614.04,
+  "duration": 4.2,
+  "text": "public about the industry? Yes, yes, I"
+ },
+ {
+  "start": 616.44,
+  "duration": 4.04,
+  "text": "do. But am I also glad that at least"
+ },
+ {
+  "start": 618.24,
+  "duration": 4.28,
+  "text": "this particular bun fight is done? Yes,"
+ },
+ {
+  "start": 620.48,
+  "duration": 3.28,
+  "text": "yes, I am. With that, I am so glad to"
+ },
+ {
+  "start": 622.52,
+  "duration": 3.56,
+  "text": "close the coverage of that particular"
+ },
+ {
+  "start": 623.76,
+  "duration": 4.48,
+  "text": "saga and move on over into the main"
+ },
+ {
+  "start": 626.08,
+  "duration": 4.16,
+  "text": "episode."
+ },
+ {
+  "start": 628.24,
+  "duration": 4.84,
+  "text": "Welcome back to the AI Daily Brief. We"
+ },
+ {
+  "start": 630.24,
+  "duration": 4.84,
+  "text": "have had two pretty big think type of"
+ },
+ {
+  "start": 633.08,
+  "duration": 4.0,
+  "text": "episodes in a row, and right now as I"
+ },
+ {
+  "start": 635.08,
+  "duration": 3.28,
+  "text": "record, we are eagerly awaiting all the"
+ },
+ {
+  "start": 637.08,
+  "duration": 3.0,
+  "text": "new goodies we're going to get at Google"
+ },
+ {
+  "start": 638.36,
+  "duration": 3.44,
+  "text": "I/O. And so, given that, I thought it"
+ },
+ {
+  "start": 640.08,
+  "duration": 4.04,
+  "text": "would be a good day to have a bit more"
+ },
+ {
+  "start": 641.8,
+  "duration": 3.96,
+  "text": "of a practical hands-on kind of main."
+ },
+ {
+  "start": 644.12,
+  "duration": 3.48,
+  "text": "Now, this of course is the year of the"
+ },
+ {
+  "start": 645.76,
+  "duration": 4.12,
+  "text": "harvest, where people realize that"
+ },
+ {
+  "start": 647.6,
+  "duration": 3.96,
+  "text": "unlocking the true power of agents"
+ },
+ {
+  "start": 649.88,
+  "duration": 3.36,
+  "text": "involves getting good at using the"
+ },
+ {
+  "start": 651.56,
+  "duration": 3.2,
+  "text": "software through which you spin up and"
+ },
+ {
+  "start": 653.24,
+  "duration": 3.88,
+  "text": "manage those agents, whether that's"
+ },
+ {
+  "start": 654.76,
+  "duration": 3.72,
+  "text": "something open-source like Open Claw, or"
+ },
+ {
+  "start": 657.12,
+  "duration": 3.84,
+  "text": "something from one of the big labs like"
+ },
+ {
+  "start": 658.48,
+  "duration": 4.48,
+  "text": "Claude Code or Codex. Codex specifically"
+ },
+ {
+  "start": 660.96,
+  "duration": 3.6,
+  "text": "has been on an absolute tear this year,"
+ },
+ {
+  "start": 662.96,
+  "duration": 2.92,
+  "text": "going from almost no users at the"
+ },
+ {
+  "start": 664.56,
+  "duration": 3.76,
+  "text": "beginning of the year to mid single"
+ },
+ {
+  "start": 665.88,
+  "duration": 4.08,
+  "text": "digits right now. And as Anthropic has"
+ },
+ {
+  "start": 668.32,
+  "duration": 3.56,
+  "text": "been forced to make some difficult"
+ },
+ {
+  "start": 669.96,
+  "duration": 4.24,
+  "text": "decisions around their pricing model,"
+ },
+ {
+  "start": 671.88,
+  "duration": 3.76,
+  "text": "and move to cut off certain categories"
+ },
+ {
+  "start": 674.2,
+  "duration": 3.12,
+  "text": "of usage that were previously being"
+ },
+ {
+  "start": 675.64,
+  "duration": 3.48,
+  "text": "subsidized, particularly outside their"
+ },
+ {
+  "start": 677.32,
+  "duration": 4.04,
+  "text": "own harnesses, OpenAI has taken"
+ },
+ {
+  "start": 679.12,
+  "duration": 4.88,
+  "text": "advantage to pull more of these advanced"
+ },
+ {
+  "start": 681.36,
+  "duration": 4.68,
+  "text": "coding type users into the GPT and Codex"
+ },
+ {
+  "start": 684.0,
+  "duration": 3.6,
+  "text": "ecosystem. What this leaves us with is a"
+ },
+ {
+  "start": 686.04,
+  "duration": 3.0,
+  "text": "lot of folks who are digging into Codex"
+ },
+ {
+  "start": 687.6,
+  "duration": 2.76,
+  "text": "seriously for the first time, and"
+ },
+ {
+  "start": 689.04,
+  "duration": 3.28,
+  "text": "figuring out all the ways to make it"
+ },
+ {
+  "start": 690.36,
+  "duration": 3.8,
+  "text": "work for them. Now, I've been planning a"
+ },
+ {
+  "start": 692.32,
+  "duration": 3.44,
+  "text": "Codex primer episode, but over the"
+ },
+ {
+  "start": 694.16,
+  "duration": 3.88,
+  "text": "weekend I saw this post from Jason Lou"
+ },
+ {
+  "start": 695.76,
+  "duration": 4.16,
+  "text": "from the Codex team talking about the"
+ },
+ {
+  "start": 698.04,
+  "duration": 3.84,
+  "text": "tips that have made his use of Codex"
+ },
+ {
+  "start": 699.92,
+  "duration": 3.92,
+  "text": "really perform even better."
+ },
+ {
+  "start": 701.88,
+  "duration": 3.64,
+  "text": "The post is called Codex maxing. It was"
+ },
+ {
+  "start": 703.84,
+  "duration": 3.32,
+  "text": "published on Jason's GitHub. And so,"
+ },
+ {
+  "start": 705.52,
+  "duration": 3.48,
+  "text": "what we're going to do today is extract"
+ },
+ {
+  "start": 707.16,
+  "duration": 3.84,
+  "text": "the biggest insights from that post as a"
+ },
+ {
+  "start": 709.0,
+  "duration": 3.96,
+  "text": "bit of a 101 to see the best practices"
+ },
+ {
+  "start": 711.0,
+  "duration": 3.88,
+  "text": "in using Codex from some of the folks"
+ },
+ {
+  "start": 712.96,
+  "duration": 4.08,
+  "text": "who built Codex."
+ },
+ {
+  "start": 714.88,
+  "duration": 4.4,
+  "text": "My presentation version of Jason's post"
+ },
+ {
+  "start": 717.04,
+  "duration": 4.24,
+  "text": "was, of course, built with Codex."
+ },
+ {
+  "start": 719.28,
+  "duration": 3.68,
+  "text": "Now, by way of background, Jason said"
+ },
+ {
+  "start": 721.28,
+  "duration": 3.48,
+  "text": "that for a while he'd been using Codex"
+ },
+ {
+  "start": 722.96,
+  "duration": 3.16,
+  "text": "for coding-related tasks, but over the"
+ },
+ {
+  "start": 724.76,
+  "duration": 3.48,
+  "text": "last few months it's really become an"
+ },
+ {
+  "start": 726.12,
+  "duration": 3.8,
+  "text": "entire workspace for him. And part of"
+ },
+ {
+  "start": 728.24,
+  "duration": 3.44,
+  "text": "what makes it valuable is that it"
+ },
+ {
+  "start": 729.92,
+  "duration": 3.24,
+  "text": "replaces the single-instance"
+ },
+ {
+  "start": 731.68,
+  "duration": 3.88,
+  "text": "give-a-prompt-get-an-answer of a"
+ },
+ {
+  "start": 733.16,
+  "duration": 3.96,
+  "text": "ChatGPT-style interface with a broader,"
+ },
+ {
+  "start": 735.56,
+  "duration": 3.36,
+  "text": "complete experience that can hold"
+ },
+ {
+  "start": 737.12,
+  "duration": 3.48,
+  "text": "context over time and do much more"
+ },
+ {
+  "start": 738.92,
+  "duration": 3.84,
+  "text": "extensive types of work. The core of"
+ },
+ {
+  "start": 740.6,
+  "duration": 4.32,
+  "text": "Jason's tips are nine practices that add"
+ },
+ {
+  "start": 742.76,
+  "duration": 4.56,
+  "text": "up to one larger shift. The first is"
+ },
+ {
+  "start": 744.92,
+  "duration": 4.24,
+  "text": "using long-running, durable threads."
+ },
+ {
+  "start": 747.32,
+  "duration": 4.12,
+  "text": "Now, you might remember a few weeks ago"
+ },
+ {
+  "start": 749.16,
+  "duration": 4.92,
+  "text": "when one of the recent Codex updates had"
+ },
+ {
+  "start": 751.44,
+  "duration": 3.84,
+  "text": "a new system for compacting context."
+ },
+ {
+  "start": 754.08,
+  "duration": 3.16,
+  "text": "This is basically the way that on the"
+ },
+ {
+  "start": 755.28,
+  "duration": 3.44,
+  "text": "back end the harness collapses and"
+ },
+ {
+  "start": 757.24,
+  "duration": 3.48,
+  "text": "compresses the context from a"
+ },
+ {
+  "start": 758.72,
+  "duration": 3.8,
+  "text": "long-running conversation into just the"
+ },
+ {
+  "start": 760.72,
+  "duration": 3.6,
+  "text": "key elements that it needs to know,"
+ },
+ {
+  "start": 762.52,
+  "duration": 3.56,
+  "text": "clearing out space in the context window"
+ },
+ {
+  "start": 764.32,
+  "duration": 4.24,
+  "text": "to keep the chat moving. Part of what"
+ },
+ {
+  "start": 766.08,
+  "duration": 3.8,
+  "text": "OpenAI insiders noted around that update"
+ },
+ {
+  "start": 768.56,
+  "duration": 3.04,
+  "text": "was that the compaction system had"
+ },
+ {
+  "start": 769.88,
+  "duration": 3.72,
+  "text": "gotten so much better that they could"
+ },
+ {
+  "start": 771.6,
+  "duration": 4.64,
+  "text": "basically keep a set of persistent"
+ },
+ {
+  "start": 773.6,
+  "duration": 4.64,
+  "text": "threads going that never lost the larger"
+ },
+ {
+  "start": 776.24,
+  "duration": 4.28,
+  "text": "context of the thread and were able to"
+ },
+ {
+  "start": 778.24,
+  "duration": 3.92,
+  "text": "continuously add it on. Jason's"
+ },
+ {
+  "start": 780.52,
+  "duration": 3.0,
+  "text": "experience building a chief of staff"
+ },
+ {
+  "start": 782.16,
+  "duration": 2.96,
+  "text": "thread was actually one of the examples"
+ },
+ {
+  "start": 783.52,
+  "duration": 2.8,
+  "text": "that I pointed to as I talked about how"
+ },
+ {
+  "start": 785.12,
+  "duration": 2.719,
+  "text": "you might use this new version"
+ },
+ {
+  "start": 786.32,
+  "duration": 2.88,
+  "text": "differently. And to try to put a little"
+ },
+ {
+  "start": 787.839,
+  "duration": 3.161,
+  "text": "meat on the bone here of why this sort"
+ },
+ {
+  "start": 789.2,
+  "duration": 4.04,
+  "text": "of durable thread could be valuable. A"
+ },
+ {
+  "start": 791.0,
+  "duration": 4.64,
+  "text": "lot of the features inside apps like"
+ },
+ {
+  "start": 793.24,
+  "duration": 4.32,
+  "text": "ChatGPT are basically just proxies for"
+ },
+ {
+  "start": 795.64,
+  "duration": 3.6,
+  "text": "memory and context. When you use a"
+ },
+ {
+  "start": 797.56,
+  "duration": 3.4,
+  "text": "project and you add a bunch of files to"
+ },
+ {
+  "start": 799.24,
+  "duration": 3.88,
+  "text": "that project, it's effectively about"
+ },
+ {
+  "start": 800.96,
+  "duration": 4.28,
+  "text": "giving each new conversation in that"
+ },
+ {
+  "start": 803.12,
+  "duration": 4.32,
+  "text": "project the ability to go draw from all"
+ },
+ {
+  "start": 805.24,
+  "duration": 4.16,
+  "text": "of that context. But it still has to go"
+ },
+ {
+  "start": 807.44,
+  "duration": 3.36,
+  "text": "draw from that context. It's not"
+ },
+ {
+  "start": 809.4,
+  "duration": 2.84,
+  "text": "necessarily up to date unless you"
+ },
+ {
+  "start": 810.8,
+  "duration": 3.12,
+  "text": "specifically maintain it. And the"
+ },
+ {
+  "start": 812.24,
+  "duration": 4.24,
+  "text": "process of retrieving context from those"
+ },
+ {
+  "start": 813.92,
+  "duration": 4.4,
+  "text": "files isn't always perfect. That's not"
+ },
+ {
+  "start": 816.48,
+  "duration": 2.88,
+  "text": "to mention UI/UX issues of having a"
+ },
+ {
+  "start": 818.32,
+  "duration": 2.52,
+  "text": "whole bunch of different threads and"
+ },
+ {
+  "start": 819.36,
+  "duration": 2.72,
+  "text": "chats going that you have to sort"
+ },
+ {
+  "start": 820.84,
+  "duration": 2.16,
+  "text": "through and figure out which one you are"
+ },
+ {
+  "start": 822.08,
+  "duration": 3.16,
+  "text": "actually having the relevant"
+ },
+ {
+  "start": 823.0,
+  "duration": 4.52,
+  "text": "conversation within. The idea of the"
+ },
+ {
+  "start": 825.24,
+  "duration": 4.24,
+  "text": "mono thread pattern is to put key"
+ },
+ {
+  "start": 827.52,
+  "duration": 4.96,
+  "text": "conversations about a particular topic"
+ },
+ {
+  "start": 829.48,
+  "duration": 4.96,
+  "text": "all in one log thread relying on Codex's"
+ },
+ {
+  "start": 832.48,
+  "duration": 4.08,
+  "text": "compaction to allow that thread to be"
+ },
+ {
+  "start": 834.44,
+  "duration": 4.28,
+  "text": "durable and persist over time. Jason's"
+ },
+ {
+  "start": 836.56,
+  "duration": 4.0,
+  "text": "tip is not only to use this mono thread"
+ },
+ {
+  "start": 838.72,
+  "duration": 3.64,
+  "text": "pattern, but to have a different thread"
+ },
+ {
+  "start": 840.56,
+  "duration": 3.36,
+  "text": "for each of his key work streams. Which"
+ },
+ {
+  "start": 842.36,
+  "duration": 2.92,
+  "text": "is not to say that every single thing"
+ },
+ {
+  "start": 843.92,
+  "duration": 3.32,
+  "text": "that you work on is deserving of this"
+ },
+ {
+  "start": 845.28,
+  "duration": 4.72,
+  "text": "type of mono thread, but that for key"
+ },
+ {
+  "start": 847.24,
+  "duration": 5.48,
+  "text": "persistent work streams, they often are."
+ },
+ {
+  "start": 850.0,
+  "duration": 3.8,
+  "text": "Tip number two is about voice. Now, this"
+ },
+ {
+  "start": 852.72,
+  "duration": 2.64,
+  "text": "is one that if you are a regular"
+ },
+ {
+  "start": 853.8,
+  "duration": 3.72,
+  "text": "listener, you will have heard me squawk"
+ },
+ {
+  "start": 855.36,
+  "duration": 3.88,
+  "text": "on about endlessly. I actually strongly"
+ },
+ {
+  "start": 857.52,
+  "duration": 3.68,
+  "text": "advocate that anyone who's interacting"
+ },
+ {
+  "start": 859.24,
+  "duration": 3.76,
+  "text": "with agents or basically doing any work"
+ },
+ {
+  "start": 861.2,
+  "duration": 3.72,
+  "text": "on computers at this point, download"
+ },
+ {
+  "start": 863.0,
+  "duration": 3.24,
+  "text": "something like WhisperFlow as an"
+ },
+ {
+  "start": 864.92,
+  "duration": 2.96,
+  "text": "improved version of their computer's"
+ },
+ {
+  "start": 866.24,
+  "duration": 3.12,
+  "text": "native voice recognition. But, with"
+ },
+ {
+  "start": 867.88,
+  "duration": 3.16,
+  "text": "Codex, you don't even actually have to"
+ },
+ {
+  "start": 869.36,
+  "duration": 3.24,
+  "text": "do that because its internal"
+ },
+ {
+  "start": 871.04,
+  "duration": 3.799,
+  "text": "speech-to-text system is basically the"
+ },
+ {
+  "start": 872.6,
+  "duration": 3.64,
+  "text": "gold standard. For Jason, voice is not"
+ },
+ {
+  "start": 874.839,
+  "duration": 3.681,
+  "text": "just about getting the message out"
+ },
+ {
+  "start": 876.24,
+  "duration": 3.96,
+  "text": "faster. It actually opens up a totally"
+ },
+ {
+  "start": 878.52,
+  "duration": 3.88,
+  "text": "different type of relationship with"
+ },
+ {
+  "start": 880.2,
+  "duration": 4.6,
+  "text": "Codex itself. The art of the ramble"
+ },
+ {
+  "start": 882.4,
+  "duration": 4.92,
+  "text": "gives you the ability to provide much"
+ },
+ {
+  "start": 884.8,
+  "duration": 4.2,
+  "text": "more backstory. It allows you to provide"
+ },
+ {
+  "start": 887.32,
+  "duration": 3.72,
+  "text": "richer information about areas of"
+ },
+ {
+  "start": 889.0,
+  "duration": 3.6,
+  "text": "uncertainty versus certainty. As it"
+ },
+ {
+  "start": 891.04,
+  "duration": 2.76,
+  "text": "allows you to explain what you do know,"
+ },
+ {
+  "start": 892.6,
+  "duration": 2.8,
+  "text": "what you don't know, what you think you"
+ },
+ {
+  "start": 893.8,
+  "duration": 3.6,
+  "text": "know, what you don't think you know, to"
+ },
+ {
+  "start": 895.4,
+  "duration": 4.64,
+  "text": "name tradeoffs, and to allow the AI"
+ },
+ {
+  "start": 897.4,
+  "duration": 4.56,
+  "text": "itself to help you turn messy thoughts"
+ },
+ {
+  "start": 900.04,
+  "duration": 3.96,
+  "text": "into something clear rather than having"
+ },
+ {
+  "start": 901.96,
+  "duration": 3.879,
+  "text": "to do that all yourself. As Jason puts"
+ },
+ {
+  "start": 904.0,
+  "duration": 3.64,
+  "text": "it, \"A lot of plans get better when the"
+ },
+ {
+  "start": 905.839,
+  "duration": 3.281,
+  "text": "model has access to the messy version of"
+ },
+ {
+  "start": 907.64,
+  "duration": 3.68,
+  "text": "what I think, not just the polished"
+ },
+ {
+  "start": 909.12,
+  "duration": 4.04,
+  "text": "one.\" This is 100% my experience as"
+ },
+ {
+  "start": 911.32,
+  "duration": 3.32,
+  "text": "well. Could not cosign harder on this"
+ },
+ {
+  "start": 913.16,
+  "duration": 3.32,
+  "text": "particular tip."
+ },
+ {
+  "start": 914.64,
+  "duration": 3.4,
+  "text": "Tip three is an interesting one that"
+ },
+ {
+  "start": 916.48,
+  "duration": 3.92,
+  "text": "takes advantage of a key feature in"
+ },
+ {
+  "start": 918.04,
+  "duration": 4.8,
+  "text": "Codex to break the pattern a little bit"
+ },
+ {
+  "start": 920.4,
+  "duration": 4.48,
+  "text": "of how we interact with AI. If you are a"
+ },
+ {
+  "start": 922.84,
+  "duration": 3.36,
+  "text": "prolific AI user, you're probably used"
+ },
+ {
+  "start": 924.88,
+  "duration": 3.4,
+  "text": "to an interaction pattern that goes"
+ },
+ {
+  "start": 926.2,
+  "duration": 4.52,
+  "text": "something like ask for a particular"
+ },
+ {
+  "start": 928.28,
+  "duration": 4.2,
+  "text": "output, i.e. prompt a thing, wait for it"
+ },
+ {
+  "start": 930.72,
+  "duration": 3.84,
+  "text": "to do its work, and then once it does"
+ },
+ {
+  "start": 932.48,
+  "duration": 3.4,
+  "text": "its work and delivers things, you figure"
+ },
+ {
+  "start": 934.56,
+  "duration": 2.88,
+  "text": "out what corrections and changes you"
+ },
+ {
+  "start": 935.88,
+  "duration": 3.8,
+  "text": "want it to make, and then that whole"
+ },
+ {
+  "start": 937.44,
+  "duration": 4.24,
+  "text": "system repeats. But Codex's steer"
+ },
+ {
+  "start": 939.68,
+  "duration": 3.68,
+  "text": "feature allows you to do things a little"
+ },
+ {
+  "start": 941.68,
+  "duration": 3.08,
+  "text": "bit differently, especially once you've"
+ },
+ {
+  "start": 943.36,
+  "duration": 3.12,
+  "text": "got the first artifact that you're"
+ },
+ {
+  "start": 944.76,
+  "duration": 4.08,
+  "text": "reviewing. You can actually be starting"
+ },
+ {
+  "start": 946.48,
+  "duration": 4.48,
+  "text": "to build that feedback even as the tool"
+ },
+ {
+  "start": 948.84,
+  "duration": 4.24,
+  "text": "is working. Steer is the feature in"
+ },
+ {
+  "start": 950.96,
+  "duration": 4.16,
+  "text": "Codex that allows you to add or update"
+ },
+ {
+  "start": 953.08,
+  "duration": 4.6,
+  "text": "the prompt without stopping the flow"
+ },
+ {
+  "start": 955.12,
+  "duration": 4.04,
+  "text": "overall. Among other implications, this"
+ },
+ {
+  "start": 957.68,
+  "duration": 3.48,
+  "text": "means that you don't necessarily have to"
+ },
+ {
+  "start": 959.16,
+  "duration": 3.72,
+  "text": "get the entire prompt perfect up front."
+ },
+ {
+  "start": 961.16,
+  "duration": 3.16,
+  "text": "Instead of this sort of brittle upfront"
+ },
+ {
+  "start": 962.88,
+  "duration": 3.2,
+  "text": "planning, you can start a little bit"
+ },
+ {
+  "start": 964.32,
+  "duration": 3.76,
+  "text": "more broadly with the overall goals and"
+ },
+ {
+  "start": 966.08,
+  "duration": 4.76,
+  "text": "constraints, and then as progress comes"
+ },
+ {
+  "start": 968.08,
+  "duration": 4.48,
+  "text": "in, actually steer the conversation, so"
+ },
+ {
+  "start": 970.84,
+  "duration": 3.64,
+  "text": "effectively you and the agent are"
+ },
+ {
+  "start": 972.56,
+  "duration": 4.08,
+  "text": "working in parallel, and you're not just"
+ },
+ {
+  "start": 974.48,
+  "duration": 3.64,
+  "text": "stuck having to sit around wasting time"
+ },
+ {
+  "start": 976.64,
+  "duration": 3.16,
+  "text": "on Twitter as you wait for the AI to do"
+ },
+ {
+  "start": 978.12,
+  "duration": 2.92,
+  "text": "its work. By the way, voice is the"
+ },
+ {
+  "start": 979.8,
+  "duration": 3.32,
+  "text": "perfect medium for this type of"
+ },
+ {
+  "start": 981.04,
+  "duration": 4.16,
+  "text": "steering, because once again, as you"
+ },
+ {
+  "start": 983.12,
+  "duration": 3.52,
+  "text": "observe things as the agent is building,"
+ },
+ {
+  "start": 985.2,
+  "duration": 2.639,
+  "text": "you can just ramble into them. You don't"
+ },
+ {
+  "start": 986.64,
+  "duration": 3.36,
+  "text": "have to have a perfect constructed"
+ },
+ {
+  "start": 987.839,
+  "duration": 4.041,
+  "text": "sentence typed out every time."
+ },
+ {
+  "start": 990.0,
+  "duration": 3.36,
+  "text": "Tip number four from Jason is about"
+ },
+ {
+  "start": 991.88,
+  "duration": 3.72,
+  "text": "memory. And one of the things that's"
+ },
+ {
+  "start": 993.36,
+  "duration": 4.64,
+  "text": "interesting about it is that even though"
+ },
+ {
+  "start": 995.6,
+  "duration": 4.36,
+  "text": "Codex has started to introduce native"
+ },
+ {
+  "start": 998.0,
+  "duration": 3.839,
+  "text": "memory features, you can go to settings,"
+ },
+ {
+  "start": 999.96,
+  "duration": 3.72,
+  "text": "then personalization, then memories,"
+ },
+ {
+  "start": 1001.839,
+  "duration": 3.481,
+  "text": "Jason's argument is that while those"
+ },
+ {
+  "start": 1003.68,
+  "duration": 3.08,
+  "text": "things are {quote} useful for stable"
+ },
+ {
+  "start": 1005.32,
+  "duration": 3.28,
+  "text": "preferences, recurring workflows,"
+ },
+ {
+  "start": 1006.76,
+  "duration": 3.32,
+  "text": "project conventions, and known pitfalls,"
+ },
+ {
+  "start": 1008.6,
+  "duration": 3.239,
+  "text": "they are not, as he puts it, a"
+ },
+ {
+  "start": 1010.08,
+  "duration": 3.64,
+  "text": "replacement for checked-in instructions"
+ },
+ {
+  "start": 1011.839,
+  "duration": 3.721,
+  "text": "or an explicit vault. Jason's core"
+ },
+ {
+  "start": 1013.72,
+  "duration": 4.0,
+  "text": "argument is that work should leave"
+ },
+ {
+  "start": 1015.56,
+  "duration": 4.2,
+  "text": "behind structured memory, not just a"
+ },
+ {
+  "start": 1017.72,
+  "duration": 4.44,
+  "text": "longer chat. And so he's built a whole"
+ },
+ {
+  "start": 1019.76,
+  "duration": 4.559,
+  "text": "file system in Obsidian, which if you"
+ },
+ {
+  "start": 1022.16,
+  "duration": 3.72,
+  "text": "haven't used is a simple file-based note"
+ },
+ {
+  "start": 1024.319,
+  "duration": 4.401,
+  "text": "system that interacts with your local"
+ },
+ {
+  "start": 1025.88,
+  "duration": 4.84,
+  "text": "environment to in a structured way turn"
+ },
+ {
+  "start": 1028.72,
+  "duration": 4.0,
+  "text": "his threads into a structured set of"
+ },
+ {
+  "start": 1030.72,
+  "duration": 3.56,
+  "text": "contexts that can be called upon later."
+ },
+ {
+  "start": 1032.72,
+  "duration": 3.479,
+  "text": "Talking about his durable threads, Jason"
+ },
+ {
+  "start": 1034.28,
+  "duration": 3.88,
+  "text": "writes, \"A long thread can remember a"
+ },
+ {
+  "start": 1036.199,
+  "duration": 3.561,
+  "text": "lot, but that memory is trapped inside"
+ },
+ {
+  "start": 1038.16,
+  "duration": 3.4,
+  "text": "the thread unless the useful parts get"
+ },
+ {
+  "start": 1039.76,
+  "duration": 3.28,
+  "text": "serialized somewhere durable. The point"
+ },
+ {
+  "start": 1041.56,
+  "duration": 3.279,
+  "text": "of the memory system is to turn what the"
+ },
+ {
+  "start": 1043.04,
+  "duration": 4.039,
+  "text": "thread learns into an artifact I can"
+ },
+ {
+  "start": 1044.839,
+  "duration": 3.761,
+  "text": "inspect edit and reuse. Jason also"
+ },
+ {
+  "start": 1047.079,
+  "duration": 3.161,
+  "text": "shares the specific structure of the"
+ },
+ {
+  "start": 1048.6,
+  "duration": 3.92,
+  "text": "vault he puts together with the top"
+ },
+ {
+  "start": 1050.24,
+  "duration": 4.08,
+  "text": "level agents.md markdown file that has"
+ },
+ {
+  "start": 1052.52,
+  "duration": 3.0,
+  "text": "instructions that say things like, \"As"
+ },
+ {
+  "start": 1054.32,
+  "duration": 2.72,
+  "text": "you learn more about people, make"
+ },
+ {
+  "start": 1055.52,
+  "duration": 3.2,
+  "text": "progress on projects, or close an open"
+ },
+ {
+  "start": 1057.04,
+  "duration": 3.88,
+  "text": "loop, update the relevant pages in the"
+ },
+ {
+  "start": 1058.72,
+  "duration": 4.04,
+  "text": "vault.\" The vault he says holds rolling"
+ },
+ {
+  "start": 1060.92,
+  "duration": 3.64,
+  "text": "context around my work, people,"
+ },
+ {
+  "start": 1062.76,
+  "duration": 3.12,
+  "text": "decisions, open loops, daily notes,"
+ },
+ {
+  "start": 1064.56,
+  "duration": 2.48,
+  "text": "project state, and the bits of"
+ },
+ {
+  "start": 1065.88,
+  "duration": 3.24,
+  "text": "understanding that would otherwise get"
+ },
+ {
+  "start": 1067.04,
+  "duration": 4.0,
+  "text": "lost between threads. So, for any of you"
+ },
+ {
+  "start": 1069.12,
+  "duration": 3.12,
+  "text": "who use the personal context portfolio"
+ },
+ {
+  "start": 1071.04,
+  "duration": 2.84,
+  "text": "builder that I shared about a month and"
+ },
+ {
+  "start": 1072.24,
+  "duration": 4.0,
+  "text": "a half ago at this point, while that"
+ },
+ {
+  "start": 1073.88,
+  "duration": 4.32,
+  "text": "personal context portfolio builder was"
+ },
+ {
+  "start": 1076.24,
+  "duration": 3.44,
+  "text": "about putting together the broad context"
+ },
+ {
+  "start": 1078.2,
+  "duration": 3.6,
+  "text": "that you would take to any new agent"
+ },
+ {
+  "start": 1079.68,
+  "duration": 4.12,
+  "text": "experience, Jason's basically bringing"
+ },
+ {
+  "start": 1081.8,
+  "duration": 4.0,
+  "text": "that back down to the project based"
+ },
+ {
+  "start": 1083.8,
+  "duration": 4.24,
+  "text": "level in a way where there is a direct"
+ },
+ {
+  "start": 1085.8,
+  "duration": 4.48,
+  "text": "flow from the big threads where he's"
+ },
+ {
+  "start": 1088.04,
+  "duration": 4.16,
+  "text": "working on things into this vault that"
+ },
+ {
+  "start": 1090.28,
+  "duration": 3.32,
+  "text": "gets updated automatically. He also"
+ },
+ {
+  "start": 1092.2,
+  "duration": 3.52,
+  "text": "notes that he keeps the vault as a"
+ },
+ {
+  "start": 1093.6,
+  "duration": 4.04,
+  "text": "GitHub repo, which allows him to also"
+ },
+ {
+  "start": 1095.72,
+  "duration": 3.16,
+  "text": "work in the cloud. This memory section"
+ },
+ {
+  "start": 1097.64,
+  "duration": 2.44,
+  "text": "is one of the most overloaded with"
+ },
+ {
+  "start": 1098.88,
+  "duration": 2.48,
+  "text": "insights, which is why I'm sticking a"
+ },
+ {
+  "start": 1100.08,
+  "duration": 3.16,
+  "text": "little bit more closely to what Jason"
+ },
+ {
+  "start": 1101.36,
+  "duration": 3.92,
+  "text": "wrote. For example, he talks about why"
+ },
+ {
+  "start": 1103.24,
+  "duration": 4.12,
+  "text": "the review step of seeing what the agent"
+ },
+ {
+  "start": 1105.28,
+  "duration": 3.24,
+  "text": "decided to put in the vault, i.e. what"
+ },
+ {
+  "start": 1107.36,
+  "duration": 2.96,
+  "text": "it thought was important enough to"
+ },
+ {
+  "start": 1108.52,
+  "duration": 3.96,
+  "text": "remember, is a valuable step. He"
+ },
+ {
+  "start": 1110.32,
+  "duration": 4.04,
+  "text": "continues, \"I do not want evergreen"
+ },
+ {
+  "start": 1112.48,
+  "duration": 3.72,
+  "text": "threads to quietly accumulate vibes and"
+ },
+ {
+  "start": 1114.36,
+  "duration": 3.6,
+  "text": "conversation history. I want them to"
+ },
+ {
+  "start": 1116.2,
+  "duration": 3.4,
+  "text": "write down what changed. This person"
+ },
+ {
+  "start": 1117.96,
+  "duration": 3.28,
+  "text": "prefers this, this project is waiting on"
+ },
+ {
+  "start": 1119.6,
+  "duration": 3.76,
+  "text": "that, this decision was made, this loop"
+ },
+ {
+  "start": 1121.24,
+  "duration": 4.56,
+  "text": "is closed.\" This is also, he says, why I"
+ },
+ {
+  "start": 1123.36,
+  "duration": 4.32,
+  "text": "like memory as files. Files force the"
+ },
+ {
+  "start": 1125.8,
+  "duration": 3.44,
+  "text": "agent to compress experience into a form"
+ },
+ {
+  "start": 1127.68,
+  "duration": 3.8,
+  "text": "that can survive the thread. If the"
+ },
+ {
+  "start": 1129.24,
+  "duration": 3.96,
+  "text": "thread dies, compacts badly, or becomes"
+ },
+ {
+  "start": 1131.48,
+  "duration": 3.96,
+  "text": "too expensive to keep leaning on, the"
+ },
+ {
+  "start": 1133.2,
+  "duration": 4.04,
+  "text": "useful knowledge is still there. At that"
+ },
+ {
+  "start": 1135.44,
+  "duration": 3.28,
+  "text": "point, pinned threads start to feel less"
+ },
+ {
+  "start": 1137.24,
+  "duration": 3.76,
+  "text": "like chats and more like different"
+ },
+ {
+  "start": 1138.72,
+  "duration": 3.8,
+  "text": "workers reading from the same notebook."
+ },
+ {
+  "start": 1141.0,
+  "duration": 3.32,
+  "text": "So, some of the other ideas for things"
+ },
+ {
+  "start": 1142.52,
+  "duration": 4.4,
+  "text": "that you could put into that memory"
+ },
+ {
+  "start": 1144.32,
+  "duration": 4.28,
+  "text": "include rules, taste, i.e. what good"
+ },
+ {
+  "start": 1146.92,
+  "duration": 3.4,
+  "text": "means for tasks that include design,"
+ },
+ {
+  "start": 1148.6,
+  "duration": 3.88,
+  "text": "writing, or analysis, list of relevant"
+ },
+ {
+  "start": 1150.32,
+  "duration": 5.24,
+  "text": "sources, anti-patterns or what not to"
+ },
+ {
+  "start": 1152.48,
+  "duration": 4.68,
+  "text": "do, links to key artifacts, and more."
+ },
+ {
+  "start": 1155.56,
+  "duration": 3.4,
+  "text": "Tip number five is about computer and"
+ },
+ {
+  "start": 1157.16,
+  "duration": 3.36,
+  "text": "browser use. Although I think the way"
+ },
+ {
+  "start": 1158.96,
+  "duration": 4.48,
+  "text": "that my Codex interpretation summed it"
+ },
+ {
+  "start": 1160.52,
+  "duration": 4.64,
+  "text": "up as tools is a pretty good shorthand."
+ },
+ {
+  "start": 1163.44,
+  "duration": 3.72,
+  "text": "Tools allow Codex to turn into an"
+ },
+ {
+  "start": 1165.16,
+  "duration": 3.44,
+  "text": "evidence gatherer. When you give Codex"
+ },
+ {
+  "start": 1167.16,
+  "duration": 3.36,
+  "text": "the ability to use your computer and use"
+ },
+ {
+  "start": 1168.6,
+  "duration": 4.08,
+  "text": "the browser, it can do things like read"
+ },
+ {
+  "start": 1170.52,
+  "duration": 4.48,
+  "text": "files, open pages, run tests, edit"
+ },
+ {
+  "start": 1172.68,
+  "duration": 3.76,
+  "text": "artifacts, check visuals, and more. And"
+ },
+ {
+  "start": 1175.0,
+  "duration": 2.92,
+  "text": "understanding which tool or which"
+ },
+ {
+  "start": 1176.44,
+  "duration": 3.84,
+  "text": "environment matters for each different"
+ },
+ {
+  "start": 1177.92,
+  "duration": 4.04,
+  "text": "type of work is a key skill. So, if the"
+ },
+ {
+  "start": 1180.28,
+  "duration": 4.16,
+  "text": "truth and evidence that matters lives in"
+ },
+ {
+  "start": 1181.96,
+  "duration": 4.4,
+  "text": "code, documents, logs, CSVs, slide"
+ },
+ {
+  "start": 1184.44,
+  "duration": 3.12,
+  "text": "files, PDFs, or other types of artifacts"
+ },
+ {
+  "start": 1186.36,
+  "duration": 2.92,
+  "text": "on your computer, that's where you're"
+ },
+ {
+  "start": 1187.56,
+  "duration": 3.84,
+  "text": "going to need computer use. When the"
+ },
+ {
+  "start": 1189.28,
+  "duration": 3.56,
+  "text": "artifact needs visual inspection, or it"
+ },
+ {
+  "start": 1191.4,
+  "duration": 2.96,
+  "text": "needs to go check live documents or"
+ },
+ {
+  "start": 1192.84,
+  "duration": 3.24,
+  "text": "sources that live elsewhere, that's"
+ },
+ {
+  "start": 1194.36,
+  "duration": 3.52,
+  "text": "where browser use matters. And then of"
+ },
+ {
+  "start": 1196.08,
+  "duration": 3.6,
+  "text": "course, when the relevant information"
+ },
+ {
+  "start": 1197.88,
+  "duration": 3.88,
+  "text": "lives in other systems like Slack or"
+ },
+ {
+  "start": 1199.68,
+  "duration": 2.88,
+  "text": "Gmail or GitHub or Notion or Vercel,"
+ },
+ {
+  "start": 1201.76,
+  "duration": 2.56,
+  "text": "that's when you're going to use"
+ },
+ {
+  "start": 1202.56,
+  "duration": 3.16,
+  "text": "connectors. On the one hand, this sort"
+ },
+ {
+  "start": 1204.32,
+  "duration": 3.24,
+  "text": "of tool use is pretty obviously"
+ },
+ {
+  "start": 1205.72,
+  "duration": 3.56,
+  "text": "valuable, but it still does require a"
+ },
+ {
+  "start": 1207.56,
+  "duration": 3.04,
+  "text": "bit of setup that can feel like you're"
+ },
+ {
+  "start": 1209.28,
+  "duration": 2.48,
+  "text": "delaying yourself"
+ },
+ {
+  "start": 1210.6,
+  "duration": 3.56,
+  "text": "when you're just trying to get a thing"
+ },
+ {
+  "start": 1211.76,
+  "duration": 4.52,
+  "text": "done. However, if and as you move from"
+ },
+ {
+  "start": 1214.16,
+  "duration": 3.24,
+  "text": "thinking about Codex as just a different"
+ },
+ {
+  "start": 1216.28,
+  "duration": 3.12,
+  "text": "interface for the same thing that you"
+ },
+ {
+  "start": 1217.4,
+  "duration": 3.88,
+  "text": "would have used ChatGPT for previously,"
+ },
+ {
+  "start": 1219.4,
+  "duration": 4.16,
+  "text": "and instead think of it as the guts to"
+ },
+ {
+  "start": 1221.28,
+  "duration": 4.04,
+  "text": "an entire new work system, tool-based"
+ },
+ {
+  "start": 1223.56,
+  "duration": 4.16,
+  "text": "access to whatever environments Codex"
+ },
+ {
+  "start": 1225.32,
+  "duration": 3.68,
+  "text": "needs to have the full context and do"
+ },
+ {
+  "start": 1227.72,
+  "duration": 2.68,
+  "text": "all the work it needs to do become"
+ },
+ {
+  "start": 1229.0,
+  "duration": 3.24,
+  "text": "essential."
+ },
+ {
+  "start": 1230.4,
+  "duration": 3.84,
+  "text": "And speaking of Codex as a new work"
+ },
+ {
+  "start": 1232.24,
+  "duration": 3.84,
+  "text": "system, one of the biggest changes that"
+ },
+ {
+  "start": 1234.24,
+  "duration": 3.64,
+  "text": "is only just starting to emerge is the"
+ },
+ {
+  "start": 1236.08,
+  "duration": 3.56,
+  "text": "idea of being able to disentangle your"
+ },
+ {
+  "start": 1237.88,
+  "duration": 3.96,
+  "text": "work from physically sitting in front of"
+ },
+ {
+  "start": 1239.64,
+  "duration": 4.16,
+  "text": "a laptop top or desktop. Codex is"
+ },
+ {
+  "start": 1241.84,
+  "duration": 3.68,
+  "text": "pushing hard into this area. First, it"
+ },
+ {
+  "start": 1243.8,
+  "duration": 3.2,
+  "text": "had remote control, and now of course,"
+ },
+ {
+  "start": 1245.52,
+  "duration": 4.12,
+  "text": "Codex is actually available as a"
+ },
+ {
+  "start": 1247.0,
+  "duration": 4.08,
+  "text": "full-fledged feature in the ChatGPT app."
+ },
+ {
+  "start": 1249.64,
+  "duration": 2.48,
+  "text": "And for most people, the implication"
+ },
+ {
+  "start": 1251.08,
+  "duration": 2.8,
+  "text": "isn't going to be that they're going to"
+ },
+ {
+  "start": 1252.12,
+  "duration": 3.92,
+  "text": "do everything from their phone now, but"
+ },
+ {
+  "start": 1253.88,
+  "duration": 3.48,
+  "text": "simply that you can work more nimbly."
+ },
+ {
+  "start": 1256.04,
+  "duration": 3.6,
+  "text": "Thanks to these remote control type"
+ },
+ {
+  "start": 1257.36,
+  "duration": 4.64,
+  "text": "features, you can capture intent while"
+ },
+ {
+  "start": 1259.64,
+  "duration": 3.8,
+  "text": "ideas are fresh, you can help redirect,"
+ },
+ {
+  "start": 1262.0,
+  "duration": 3.2,
+  "text": "or you can steer a thread without"
+ },
+ {
+  "start": 1263.44,
+  "duration": 3.6,
+  "text": "reopening the whole project. In the same"
+ },
+ {
+  "start": 1265.2,
+  "duration": 3.48,
+  "text": "way that Jason's tip was that steering"
+ },
+ {
+  "start": 1267.04,
+  "duration": 3.24,
+  "text": "can be used to compress the time where"
+ },
+ {
+  "start": 1268.68,
+  "duration": 3.44,
+  "text": "you're waiting, remote control"
+ },
+ {
+  "start": 1270.28,
+  "duration": 4.04,
+  "text": "effectively does the same but for much"
+ },
+ {
+  "start": 1272.12,
+  "duration": 4.08,
+  "text": "longer running work. If increasingly we"
+ },
+ {
+  "start": 1274.32,
+  "duration": 3.76,
+  "text": "have projects that take on the scale of"
+ },
+ {
+  "start": 1276.2,
+  "duration": 4.2,
+  "text": "hours, not just minutes, being able to"
+ },
+ {
+  "start": 1278.08,
+  "duration": 3.88,
+  "text": "steer them while on the go is a massive"
+ },
+ {
+  "start": 1280.4,
+  "duration": 2.92,
+  "text": "productivity enhancement, and so it's"
+ },
+ {
+  "start": 1281.96,
+  "duration": 2.84,
+  "text": "really worth taking the time to figure"
+ },
+ {
+  "start": 1283.32,
+  "duration": 3.72,
+  "text": "out the relationship between the"
+ },
+ {
+  "start": 1284.8,
+  "duration": 3.52,
+  "text": "full-fledged desktop type experience and"
+ },
+ {
+  "start": 1287.04,
+  "duration": 3.4,
+  "text": "the remote controls that you can use to"
+ },
+ {
+  "start": 1288.32,
+  "duration": 4.6,
+  "text": "interact from mobile."
+ },
+ {
+  "start": 1290.44,
+  "duration": 4.2,
+  "text": "Tip seven is about heartbeats, and"
+ },
+ {
+  "start": 1292.92,
+  "duration": 3.36,
+  "text": "anyone who built an open claw will be"
+ },
+ {
+  "start": 1294.64,
+  "duration": 3.4,
+  "text": "well familiar with this pattern."
+ },
+ {
+  "start": 1296.28,
+  "duration": 3.52,
+  "text": "Heartbeats are a recurring or scheduled"
+ },
+ {
+  "start": 1298.04,
+  "duration": 3.76,
+  "text": "check-in that let the thread that you're"
+ },
+ {
+  "start": 1299.8,
+  "duration": 3.96,
+  "text": "working on wake back up. Heartbeats can"
+ },
+ {
+  "start": 1301.8,
+  "duration": 3.88,
+  "text": "be scheduled on a particular time basis,"
+ },
+ {
+  "start": 1303.76,
+  "duration": 3.72,
+  "text": "like every half hour, every hour, or"
+ },
+ {
+  "start": 1305.68,
+  "duration": 3.88,
+  "text": "they can be tied to specific triggers."
+ },
+ {
+  "start": 1307.48,
+  "duration": 3.76,
+  "text": "Couple examples that Jason gives include"
+ },
+ {
+  "start": 1309.56,
+  "duration": 3.64,
+  "text": "his chief of staff thread. He has a"
+ },
+ {
+  "start": 1311.24,
+  "duration": 3.44,
+  "text": "heartbeat that every 30 minutes that"
+ },
+ {
+  "start": 1313.2,
+  "duration": 3.12,
+  "text": "thread checks Slack and Gmail for"
+ },
+ {
+  "start": 1314.68,
+  "duration": 3.52,
+  "text": "unanswered messages to help him"
+ },
+ {
+  "start": 1316.32,
+  "duration": 3.48,
+  "text": "prioritize what matters most. This is"
+ },
+ {
+  "start": 1318.2,
+  "duration": 3.2,
+  "text": "exactly the sort of feature that was"
+ },
+ {
+  "start": 1319.8,
+  "duration": 3.68,
+  "text": "very common for the first early built-in"
+ },
+ {
+  "start": 1321.4,
+  "duration": 4.2,
+  "text": "experiments in open claw. Jason also"
+ },
+ {
+  "start": 1323.48,
+  "duration": 4.12,
+  "text": "gives an example that shows how setting"
+ },
+ {
+  "start": 1325.6,
+  "duration": 3.68,
+  "text": "up the ecosystem that Codex can interact"
+ },
+ {
+  "start": 1327.6,
+  "duration": 3.52,
+  "text": "with can make this sort of heartbeat"
+ },
+ {
+  "start": 1329.28,
+  "duration": 3.88,
+  "text": "even more powerful. Talking about an"
+ },
+ {
+  "start": 1331.12,
+  "duration": 4.0,
+  "text": "animation project, Jason writes,"
+ },
+ {
+  "start": 1333.16,
+  "duration": 3.52,
+  "text": "\"I had posted a video on Slack and asked"
+ },
+ {
+  "start": 1335.12,
+  "duration": 3.36,
+  "text": "Codex to check the thread every 15"
+ },
+ {
+  "start": 1336.68,
+  "duration": 3.6,
+  "text": "minutes for feedback, re-render a new"
+ },
+ {
+  "start": 1338.48,
+  "duration": 3.04,
+  "text": "version when comments came in, and reply"
+ },
+ {
+  "start": 1340.28,
+  "duration": 3.56,
+  "text": "back into the thread tagging the"
+ },
+ {
+  "start": 1341.52,
+  "duration": 4.2,
+  "text": "reviewer. The Slack MCP server could not"
+ },
+ {
+  "start": 1343.84,
+  "duration": 3.44,
+  "text": "upload files, so the agent used at"
+ },
+ {
+  "start": 1345.72,
+  "duration": 3.6,
+  "text": "computer to press the add file button"
+ },
+ {
+  "start": 1347.28,
+  "duration": 3.2,
+  "text": "and post the revised render anyway.\" In"
+ },
+ {
+  "start": 1349.32,
+  "duration": 2.88,
+  "text": "other words, what Jason is saying is"
+ },
+ {
+  "start": 1350.48,
+  "duration": 3.48,
+  "text": "that the Slack-specific tools didn't"
+ },
+ {
+  "start": 1352.2,
+  "duration": 3.28,
+  "text": "have an upload feature, so he just used"
+ },
+ {
+  "start": 1353.96,
+  "duration": 3.24,
+  "text": "computer use to take care of that"
+ },
+ {
+  "start": 1355.48,
+  "duration": 3.24,
+  "text": "manually. \"The interesting part,\" writes"
+ },
+ {
+  "start": 1357.2,
+  "duration": 3.76,
+  "text": "Jason, \"is not just that it checked"
+ },
+ {
+  "start": 1358.72,
+  "duration": 4.24,
+  "text": "Slack every 15 minutes. The loop crossed"
+ },
+ {
+  "start": 1360.96,
+  "duration": 3.72,
+  "text": "tool boundaries. Slack for feedback,"
+ },
+ {
+  "start": 1362.96,
+  "duration": 3.28,
+  "text": "Remotion for the render, at computer for"
+ },
+ {
+  "start": 1364.68,
+  "duration": 3.0,
+  "text": "the upload. That is when heartbeats,"
+ },
+ {
+  "start": 1366.24,
+  "duration": 2.84,
+  "text": "connectors, and computer use stop"
+ },
+ {
+  "start": 1367.68,
+  "duration": 2.8,
+  "text": "feeling like separate features."
+ },
+ {
+  "start": 1369.08,
+  "duration": 2.96,
+  "text": "Together, they become a feedback loop"
+ },
+ {
+  "start": 1370.48,
+  "duration": 2.6,
+  "text": "that keeps running without me sitting"
+ },
+ {
+  "start": 1372.04,
+  "duration": 2.84,
+  "text": "there.\""
+ },
+ {
+  "start": 1373.08,
+  "duration": 3.6,
+  "text": "Jason's eighth tip and behavior pattern"
+ },
+ {
+  "start": 1374.88,
+  "duration": 3.2,
+  "text": "is around goals, although he fully"
+ },
+ {
+  "start": 1376.68,
+  "duration": 3.32,
+  "text": "admits that he's still working to figure"
+ },
+ {
+  "start": 1378.08,
+  "duration": 4.04,
+  "text": "them out right now. The TLDR of the"
+ },
+ {
+  "start": 1380.0,
+  "duration": 3.88,
+  "text": "/goal feature, which by the way is now"
+ },
+ {
+  "start": 1382.12,
+  "duration": 4.56,
+  "text": "not only in Codex, but also in Cloud"
+ },
+ {
+  "start": 1383.88,
+  "duration": 4.52,
+  "text": "Code, is that when you have a project"
+ },
+ {
+  "start": 1386.68,
+  "duration": 4.24,
+  "text": "that has a very specific, knowable, and"
+ },
+ {
+  "start": 1388.4,
+  "duration": 4.48,
+  "text": "verifiable success criteria, you can use"
+ },
+ {
+  "start": 1390.92,
+  "duration": 4.0,
+  "text": "the goals feature to keep the agent"
+ },
+ {
+  "start": 1392.88,
+  "duration": 3.76,
+  "text": "pushing against that objective in a way"
+ },
+ {
+  "start": 1394.92,
+  "duration": 3.44,
+  "text": "that a normal prompt might just give up"
+ },
+ {
+  "start": 1396.64,
+  "duration": 3.4,
+  "text": "on. Now, I'm actually going to skip over"
+ },
+ {
+  "start": 1398.36,
+  "duration": 3.0,
+  "text": "goals here because later in the week,"
+ },
+ {
+  "start": 1400.04,
+  "duration": 3.12,
+  "text": "either as a main episode or as an"
+ },
+ {
+  "start": 1401.36,
+  "duration": 3.96,
+  "text": "operator bonus episode, I've actually"
+ },
+ {
+  "start": 1403.16,
+  "duration": 3.72,
+  "text": "got a full goals guide, also built off"
+ },
+ {
+  "start": 1405.32,
+  "duration": 3.0,
+  "text": "of recent tips from the Codex team"
+ },
+ {
+  "start": 1406.88,
+  "duration": 2.64,
+  "text": "themselves, but suffice it to say that"
+ },
+ {
+  "start": 1408.32,
+  "duration": 2.88,
+  "text": "goals is big enough for an entire"
+ },
+ {
+  "start": 1409.52,
+  "duration": 3.24,
+  "text": "episode on its own as people really"
+ },
+ {
+  "start": 1411.2,
+  "duration": 4.12,
+  "text": "figure out how it changes the behavior"
+ },
+ {
+  "start": 1412.76,
+  "duration": 4.76,
+  "text": "pattern of interacting with agents."
+ },
+ {
+  "start": 1415.32,
+  "duration": 3.96,
+  "text": "Jason's last tip is about the side"
+ },
+ {
+  "start": 1417.52,
+  "duration": 3.08,
+  "text": "panel. And this is one area where I"
+ },
+ {
+  "start": 1419.28,
+  "duration": 3.88,
+  "text": "think Jason is thinking about things"
+ },
+ {
+  "start": 1420.6,
+  "duration": 4.2,
+  "text": "differently than many others. He writes,"
+ },
+ {
+  "start": 1423.16,
+  "duration": 3.56,
+  "text": "\"The part of Codex I am most excited"
+ },
+ {
+  "start": 1424.8,
+  "duration": 3.36,
+  "text": "about is the side panel. It's easy to"
+ },
+ {
+  "start": 1426.72,
+  "duration": 3.44,
+  "text": "think of this as a place where previews"
+ },
+ {
+  "start": 1428.16,
+  "duration": 3.84,
+  "text": "happen, but that undersells it. The side"
+ },
+ {
+  "start": 1430.16,
+  "duration": 3.52,
+  "text": "panel is where Codex stops being only a"
+ },
+ {
+  "start": 1432.0,
+  "duration": 3.6,
+  "text": "chat app and starts becoming the place"
+ },
+ {
+  "start": 1433.68,
+  "duration": 3.92,
+  "text": "where work happens.\""
+ },
+ {
+  "start": 1435.6,
+  "duration": 3.68,
+  "text": "For him, he says it does three jobs:"
+ },
+ {
+  "start": 1437.6,
+  "duration": 3.72,
+  "text": "inspecting artifacts, operating web"
+ },
+ {
+  "start": 1439.28,
+  "duration": 4.0,
+  "text": "services, and reviewing changes. And the"
+ },
+ {
+  "start": 1441.32,
+  "duration": 4.12,
+  "text": "reason that this is so important is that"
+ },
+ {
+  "start": 1443.28,
+  "duration": 4.32,
+  "text": "this is the space that allows him to"
+ },
+ {
+  "start": 1445.44,
+  "duration": 4.0,
+  "text": "parallel process and work even as the"
+ },
+ {
+  "start": 1447.6,
+  "duration": 3.68,
+  "text": "other agent is working. The important"
+ },
+ {
+  "start": 1449.44,
+  "duration": 3.72,
+  "text": "thing he writes is not merely that Codex"
+ },
+ {
+  "start": 1451.28,
+  "duration": 3.44,
+  "text": "can generate artifacts, it's that I can"
+ },
+ {
+  "start": 1453.16,
+  "duration": 3.76,
+  "text": "inspect and annotate them without"
+ },
+ {
+  "start": 1454.72,
+  "duration": 4.04,
+  "text": "breaking the loop. And I think here it's"
+ },
+ {
+  "start": 1456.92,
+  "duration": 4.6,
+  "text": "worth taking a step back to recognize"
+ },
+ {
+  "start": 1458.76,
+  "duration": 5.36,
+  "text": "that the TLDR of this entire set of tips"
+ },
+ {
+  "start": 1461.52,
+  "duration": 5.36,
+  "text": "is about exactly that, not breaking the"
+ },
+ {
+  "start": 1464.12,
+  "duration": 5.68,
+  "text": "loop. How, in other words, do you allow"
+ },
+ {
+  "start": 1466.88,
+  "duration": 5.28,
+  "text": "the agents inside Codex to keep working"
+ },
+ {
+  "start": 1469.8,
+  "duration": 3.96,
+  "text": "in parallel with their human partner"
+ },
+ {
+  "start": 1472.16,
+  "duration": 3.8,
+  "text": "rather than it being an endless series"
+ },
+ {
+  "start": 1473.76,
+  "duration": 4.2,
+  "text": "of turns between the two? I think part"
+ },
+ {
+  "start": 1475.96,
+  "duration": 3.36,
+  "text": "of the value of Jason's tips is in even"
+ },
+ {
+  "start": 1477.96,
+  "duration": 3.4,
+  "text": "just thinking about that as the"
+ },
+ {
+  "start": 1479.32,
+  "duration": 4.16,
+  "text": "desirable behavior shift, which is of"
+ },
+ {
+  "start": 1481.36,
+  "duration": 3.28,
+  "text": "course not to say that A, you're never"
+ },
+ {
+  "start": 1483.48,
+  "duration": 2.84,
+  "text": "going to have that turn-based"
+ },
+ {
+  "start": 1484.64,
+  "duration": 3.04,
+  "text": "interaction with AI where you give it a"
+ },
+ {
+  "start": 1486.32,
+  "duration": 3.28,
+  "text": "prompt, you let it do a thing, and then"
+ },
+ {
+  "start": 1487.68,
+  "duration": 3.8,
+  "text": "you review it when it's done. Nor is it"
+ },
+ {
+  "start": 1489.6,
+  "duration": 3.84,
+  "text": "to say I don't believe that if you don't"
+ },
+ {
+  "start": 1491.48,
+  "duration": 3.48,
+  "text": "have your agent running 24/7, you're"
+ },
+ {
+  "start": 1493.44,
+  "duration": 3.56,
+  "text": "somehow not maximizing the value of the"
+ },
+ {
+  "start": 1494.96,
+  "duration": 4.16,
+  "text": "system. But for anyone who has found"
+ },
+ {
+  "start": 1497.0,
+  "duration": 3.4,
+  "text": "themselves distracted by the context"
+ },
+ {
+  "start": 1499.12,
+  "duration": 2.8,
+  "text": "switching as you wait for these ever"
+ },
+ {
+  "start": 1500.4,
+  "duration": 3.8,
+  "text": "more powerful tools to do ever bigger"
+ },
+ {
+  "start": 1501.92,
+  "duration": 3.84,
+  "text": "jobs, this sort of shift in thinking has"
+ },
+ {
+  "start": 1504.2,
+  "duration": 3.56,
+  "text": "a lot of potential to reintegrate those"
+ },
+ {
+  "start": 1505.76,
+  "duration": 4.04,
+  "text": "work experiences. So, that's going to do"
+ },
+ {
+  "start": 1507.76,
+  "duration": 4.24,
+  "text": "it for our nine tips from the Codex team"
+ },
+ {
+  "start": 1509.8,
+  "duration": 4.0,
+  "text": "about how to maximize Codex. There will,"
+ },
+ {
+  "start": 1512.0,
+  "duration": 3.44,
+  "text": "of course, be a link to Jason's original"
+ },
+ {
+  "start": 1513.8,
+  "duration": 2.84,
+  "text": "post in the show notes. Hopefully, this"
+ },
+ {
+  "start": 1515.44,
+  "duration": 2.48,
+  "text": "helps you get more out of one of the"
+ },
+ {
+  "start": 1516.64,
+  "duration": 2.64,
+  "text": "most powerful harnesses you can be"
+ },
+ {
+  "start": 1517.92,
+  "duration": 2.96,
+  "text": "using. For now, though, that's going to"
+ },
+ {
+  "start": 1519.28,
+  "duration": 3.12,
+  "text": "do it for today's AI Daily Brief."
+ },
+ {
+  "start": 1520.88,
+  "duration": 5.64,
+  "text": "Appreciate you listening or watching, as"
+ },
+ {
+  "start": 1522.4,
+  "duration": 4.12,
+  "text": "always, and until next time, peace."
+ }
+]

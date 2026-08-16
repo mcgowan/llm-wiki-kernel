@@ -1,0 +1,3382 @@
+[
+ {
+  "start": 0.48,
+  "duration": 6.04,
+  "text": "Today on the AI Daily Brief, why agents"
+ },
+ {
+  "start": 3.12,
+  "duration": 5.32,
+  "text": "make every job a startup. The AI Daily"
+ },
+ {
+  "start": 6.52,
+  "duration": 3.56,
+  "text": "Brief is a daily podcast and video about"
+ },
+ {
+  "start": 8.44,
+  "duration": 3.44,
+  "text": "the most important news and discussions"
+ },
+ {
+  "start": 10.08,
+  "duration": 4.48,
+  "text": "in AI."
+ },
+ {
+  "start": 11.88,
+  "duration": 4.84,
+  "text": "Now today for this long read / big think"
+ },
+ {
+  "start": 14.56,
+  "duration": 4.24,
+  "text": "style episode, we're exploring a"
+ },
+ {
+  "start": 16.72,
+  "duration": 4.12,
+  "text": "phenomenon that I've been observing for"
+ },
+ {
+  "start": 18.8,
+  "duration": 3.8,
+  "text": "some time, that I've been feeling within"
+ },
+ {
+  "start": 20.84,
+  "duration": 3.04,
+  "text": "myself, that I've seen many other people"
+ },
+ {
+  "start": 22.6,
+  "duration": 3.48,
+  "text": "feeling, and that I think there's"
+ },
+ {
+  "start": 23.88,
+  "duration": 4.04,
+  "text": "increasing discourse around."
+ },
+ {
+  "start": 26.08,
+  "duration": 4.48,
+  "text": "I think unpacking it is important to"
+ },
+ {
+  "start": 27.92,
+  "duration": 4.6,
+  "text": "understand in practice, not in theory,"
+ },
+ {
+  "start": 30.56,
+  "duration": 3.92,
+  "text": "how AI and agents are actually going to"
+ },
+ {
+  "start": 32.52,
+  "duration": 4.0,
+  "text": "impact the economy."
+ },
+ {
+  "start": 34.48,
+  "duration": 4.28,
+  "text": "The phenomenon is this. For the first"
+ },
+ {
+  "start": 36.52,
+  "duration": 3.52,
+  "text": "couple years of GenAI, the prevailing"
+ },
+ {
+  "start": 38.76,
+  "duration": 3.76,
+  "text": "narrative was that it was going to be"
+ },
+ {
+  "start": 40.04,
+  "duration": 4.16,
+  "text": "this time-saving thing. Even as recently"
+ },
+ {
+  "start": 42.52,
+  "duration": 4.32,
+  "text": "as the end of last year when we did our"
+ },
+ {
+  "start": 44.2,
+  "duration": 5.72,
+  "text": "big ROI survey, time-saving was the"
+ },
+ {
+  "start": 46.84,
+  "duration": 5.56,
+  "text": "biggest reported ROI that people shared."
+ },
+ {
+  "start": 49.92,
+  "duration": 5.24,
+  "text": "And yet, especially now that we're in"
+ },
+ {
+  "start": 52.4,
+  "duration": 5.88,
+  "text": "this agentic era, we're all finding"
+ },
+ {
+  "start": 55.16,
+  "duration": 4.52,
+  "text": "ourselves not clocking out at 3:00 p.m."
+ },
+ {
+  "start": 58.28,
+  "duration": 3.76,
+  "text": "on Thursday,"
+ },
+ {
+  "start": 59.68,
+  "duration": 4.64,
+  "text": "but forcing ourselves to go to bed and"
+ },
+ {
+  "start": 62.04,
+  "duration": 4.68,
+  "text": "turn off at 3:00 a.m."
+ },
+ {
+  "start": 64.32,
+  "duration": 4.36,
+  "text": "And you see this all over AI Twitter."
+ },
+ {
+  "start": 66.72,
+  "duration": 3.36,
+  "text": "Aaron Levie from Box writes, \"Sorry to"
+ },
+ {
+  "start": 68.68,
+  "duration": 3.6,
+  "text": "anyone who thought AI would mean we'd"
+ },
+ {
+  "start": 70.08,
+  "duration": 3.48,
+  "text": "work less, at least for now. AI makes it"
+ },
+ {
+  "start": 72.28,
+  "duration": 2.96,
+  "text": "easy to explore more than you did"
+ },
+ {
+  "start": 73.56,
+  "duration": 3.08,
+  "text": "before, and so you start doing far more"
+ },
+ {
+  "start": 75.24,
+  "duration": 3.4,
+  "text": "as a result.\""
+ },
+ {
+  "start": 76.64,
+  "duration": 3.88,
+  "text": "Shanu Matthew reposted that saying,"
+ },
+ {
+  "start": 78.64,
+  "duration": 3.52,
+  "text": "\"Have consistently logged 6:00 a.m. to"
+ },
+ {
+  "start": 80.52,
+  "duration": 3.44,
+  "text": "10:00 p.m. days the last few weeks with"
+ },
+ {
+  "start": 82.16,
+  "duration": 3.72,
+  "text": "only breaks for dinner and workout, and"
+ },
+ {
+  "start": 83.96,
+  "duration": 3.84,
+  "text": "let it disrupt sleep, too, unfortunately"
+ },
+ {
+  "start": 85.88,
+  "duration": 3.32,
+  "text": "thinking about the technical issues."
+ },
+ {
+  "start": 87.8,
+  "duration": 2.76,
+  "text": "Really hard to not get fixated on"
+ },
+ {
+  "start": 89.2,
+  "duration": 2.88,
+  "text": "solving some of these problems when you"
+ },
+ {
+  "start": 90.56,
+  "duration": 3.32,
+  "text": "make so much progress in each new"
+ },
+ {
+  "start": 92.08,
+  "duration": 3.84,
+  "text": "session, but run into a whole new set of"
+ },
+ {
+  "start": 93.88,
+  "duration": 3.28,
+  "text": "issues to resolve. Also, it's difficult"
+ },
+ {
+  "start": 95.92,
+  "duration": 2.56,
+  "text": "to step away when you think you just"
+ },
+ {
+  "start": 97.16,
+  "duration": 3.0,
+  "text": "need to point the agent to a detailed"
+ },
+ {
+  "start": 98.48,
+  "duration": 2.76,
+  "text": "spec and let it do the work, but end up"
+ },
+ {
+  "start": 100.16,
+  "duration": 3.56,
+  "text": "coming with the next three to five"
+ },
+ {
+  "start": 101.24,
+  "duration": 4.04,
+  "text": "things to work on while going at that.\""
+ },
+ {
+  "start": 103.72,
+  "duration": 3.36,
+  "text": "Discussing a recently released"
+ },
+ {
+  "start": 105.28,
+  "duration": 3.48,
+  "text": "open-source tool that advertises itself"
+ },
+ {
+  "start": 107.08,
+  "duration": 3.12,
+  "text": "as the orchestration layer for zero"
+ },
+ {
+  "start": 108.76,
+  "duration": 3.48,
+  "text": "human companies,"
+ },
+ {
+  "start": 110.2,
+  "duration": 4.52,
+  "text": "Abdul Qadir captured the excitement"
+ },
+ {
+  "start": 112.24,
+  "duration": 4.48,
+  "text": "around all of this. \"12 hours ago around"
+ },
+ {
+  "start": 114.72,
+  "duration": 4.08,
+  "text": "1:00 a.m., I found out about paperclip."
+ },
+ {
+  "start": 116.72,
+  "duration": 3.28,
+  "text": "12 hours later, I skipped sleep because"
+ },
+ {
+  "start": 118.8,
+  "duration": 3.64,
+  "text": "I couldn't go to bed with all the things"
+ },
+ {
+  "start": 120.0,
+  "duration": 5.08,
+  "text": "that's unlocking for me and my business."
+ },
+ {
+  "start": 122.44,
+  "duration": 5.4,
+  "text": "Brian Johnson, the king of healthy"
+ },
+ {
+  "start": 125.08,
+  "duration": 5.399,
+  "text": "habits, discussing Claude writes, \"I got"
+ },
+ {
+  "start": 127.84,
+  "duration": 4.88,
+  "text": "C-hold, suffered sleep consequences, I"
+ },
+ {
+  "start": 130.479,
+  "duration": 5.281,
+  "text": "busted my screens off rule, turned down"
+ },
+ {
+  "start": 132.72,
+  "duration": 5.2,
+  "text": "socializing, fell behind on work. AI is"
+ },
+ {
+  "start": 135.76,
+  "duration": 4.04,
+  "text": "preposterous, as close to magic as I've"
+ },
+ {
+  "start": 137.92,
+  "duration": 4.2,
+  "text": "experienced except a seed becoming a"
+ },
+ {
+  "start": 139.8,
+  "duration": 3.84,
+  "text": "tree and a zygote becoming a baby.\""
+ },
+ {
+  "start": 142.12,
+  "duration": 3.72,
+  "text": "Now, the post is really long, but the"
+ },
+ {
+  "start": 143.64,
+  "duration": 4.24,
+  "text": "key part is this. It's the contrast"
+ },
+ {
+  "start": 145.84,
+  "duration": 3.28,
+  "text": "between all of those things, all of the"
+ },
+ {
+  "start": 147.88,
+  "duration": 3.24,
+  "text": "breaking of his healthy habits on the"
+ },
+ {
+  "start": 149.12,
+  "duration": 3.92,
+  "text": "one hand, and on the other hand, how he"
+ },
+ {
+  "start": 151.12,
+  "duration": 4.56,
+  "text": "puts it, \"The exhilaration I felt in the"
+ },
+ {
+  "start": 153.04,
+  "duration": 3.8,
+  "text": "past 2 weeks is hard to explain.\""
+ },
+ {
+  "start": 155.68,
+  "duration": 2.44,
+  "text": "Sam Altman really summed this up at the"
+ },
+ {
+  "start": 156.84,
+  "duration": 3.24,
+  "text": "beginning of last week with a tweet"
+ },
+ {
+  "start": 158.12,
+  "duration": 4.04,
+  "text": "sharing two contrasting quotes. The"
+ },
+ {
+  "start": 160.08,
+  "duration": 3.24,
+  "text": "first quote, \"Post AGI, no one is going"
+ },
+ {
+  "start": 162.16,
+  "duration": 2.56,
+  "text": "to work and the economy is going to"
+ },
+ {
+  "start": 163.32,
+  "duration": 2.8,
+  "text": "collapse.\""
+ },
+ {
+  "start": 164.72,
+  "duration": 3.8,
+  "text": "The second quote, \"I'm switching to"
+ },
+ {
+  "start": 166.12,
+  "duration": 3.72,
+  "text": "polyphasic sleep because GPT-5 and Codex"
+ },
+ {
+  "start": 168.52,
+  "duration": 2.76,
+  "text": "is so good that I can't afford to be"
+ },
+ {
+  "start": 169.84,
+  "duration": 3.28,
+  "text": "sleeping for such long stretches and"
+ },
+ {
+  "start": 171.28,
+  "duration": 4.08,
+  "text": "miss out on working.\""
+ },
+ {
+  "start": 173.12,
+  "duration": 4.16,
+  "text": "Shayan Zhao writes, \"Polyphasic sleep to"
+ },
+ {
+  "start": 175.36,
+  "duration": 3.8,
+  "text": "maximize Codex usage is the most honest"
+ },
+ {
+  "start": 177.28,
+  "duration": 3.44,
+  "text": "thing Sam has ever tweeted. Forget the"
+ },
+ {
+  "start": 179.16,
+  "duration": 3.2,
+  "text": "AGI philosophy for a second, the"
+ },
+ {
+  "start": 180.72,
+  "duration": 3.16,
+  "text": "revealed preference is that the CEO of"
+ },
+ {
+  "start": 182.36,
+  "duration": 3.2,
+  "text": "the company building these tools"
+ },
+ {
+  "start": 183.88,
+  "duration": 3.44,
+  "text": "literally cannot stop using them because"
+ },
+ {
+  "start": 185.56,
+  "duration": 3.399,
+  "text": "the output per hour is too valuable to"
+ },
+ {
+  "start": 187.32,
+  "duration": 3.24,
+  "text": "waste on sleeping.\""
+ },
+ {
+  "start": 188.959,
+  "duration": 3.601,
+  "text": "That's not a sign of an economy about to"
+ },
+ {
+  "start": 190.56,
+  "duration": 3.44,
+  "text": "collapse. That's a sign of a tool so"
+ },
+ {
+  "start": 192.56,
+  "duration": 3.6,
+  "text": "productive that time itself becomes the"
+ },
+ {
+  "start": 194.0,
+  "duration": 3.959,
+  "text": "bottleneck, which is exactly what we've"
+ },
+ {
+  "start": 196.16,
+  "duration": 3.64,
+  "text": "been seeing in inference. The constraint"
+ },
+ {
+  "start": 197.959,
+  "duration": 4.28,
+  "text": "isn't model quality anymore, it's how"
+ },
+ {
+  "start": 199.8,
+  "duration": 4.92,
+  "text": "many hours per day you can feed it work."
+ },
+ {
+  "start": 202.239,
+  "duration": 4.561,
+  "text": "The point of all this is that right now,"
+ },
+ {
+  "start": 204.72,
+  "duration": 4.36,
+  "text": "many people are experiencing this weird"
+ },
+ {
+  "start": 206.8,
+  "duration": 3.64,
+  "text": "hybrid of exhilaration and anxiety,"
+ },
+ {
+  "start": 209.08,
+  "duration": 2.879,
+  "text": "where on the one hand they feel like"
+ },
+ {
+  "start": 210.44,
+  "duration": 2.56,
+  "text": "wizards because of what they can do, but"
+ },
+ {
+  "start": 211.959,
+  "duration": 2.361,
+  "text": "on the other they feel like they're"
+ },
+ {
+  "start": 213.0,
+  "duration": 2.64,
+  "text": "leaving more on the table than ever"
+ },
+ {
+  "start": 214.32,
+  "duration": 3.16,
+  "text": "before."
+ },
+ {
+  "start": 215.64,
+  "duration": 3.319,
+  "text": "So, what's going on? What's happening?"
+ },
+ {
+  "start": 217.48,
+  "duration": 2.88,
+  "text": "And what does it tell us about how AI is"
+ },
+ {
+  "start": 218.959,
+  "duration": 3.321,
+  "text": "going to play out?"
+ },
+ {
+  "start": 220.36,
+  "duration": 4.04,
+  "text": "A concept I want to introduce is the"
+ },
+ {
+  "start": 222.28,
+  "duration": 3.32,
+  "text": "infinite backlog."
+ },
+ {
+  "start": 224.4,
+  "duration": 3.68,
+  "text": "You might have heard of something called"
+ },
+ {
+  "start": 225.6,
+  "duration": 3.84,
+  "text": "the lump of labor fallacy. It comes up"
+ },
+ {
+  "start": 228.08,
+  "duration": 3.52,
+  "text": "basically every time there's some new"
+ },
+ {
+  "start": 229.44,
+  "duration": 5.0,
+  "text": "productivity-enhancing technology."
+ },
+ {
+  "start": 231.6,
+  "duration": 5.04,
+  "text": "And in short, it's the wrong idea that"
+ },
+ {
+  "start": 234.44,
+  "duration": 3.96,
+  "text": "there is some finite amount of work, in"
+ },
+ {
+  "start": 236.64,
+  "duration": 3.52,
+  "text": "other words, a lump of labor. And that"
+ },
+ {
+  "start": 238.4,
+  "duration": 3.32,
+  "text": "if something new comes along to take a"
+ },
+ {
+  "start": 240.16,
+  "duration": 3.04,
+  "text": "chunk of that work, it means someone"
+ },
+ {
+  "start": 241.72,
+  "duration": 3.6,
+  "text": "else doesn't get to do that work and"
+ },
+ {
+  "start": 243.2,
+  "duration": 4.2,
+  "text": "thus loses their job. The reason that"
+ },
+ {
+  "start": 245.32,
+  "duration": 4.04,
+  "text": "lump of labor is a fallacy is what I"
+ },
+ {
+  "start": 247.4,
+  "duration": 4.08,
+  "text": "call the infinite backlog."
+ },
+ {
+  "start": 249.36,
+  "duration": 3.68,
+  "text": "In an expansionary capitalist system,"
+ },
+ {
+  "start": 251.48,
+  "duration": 4.52,
+  "text": "and within the companies that are doing"
+ },
+ {
+  "start": 253.04,
+  "duration": 3.919,
+  "text": "that expansion, there is always more to"
+ },
+ {
+  "start": 256.0,
+  "duration": 3.12,
+  "text": "do."
+ },
+ {
+  "start": 256.959,
+  "duration": 3.481,
+  "text": "There's always some next thing. There's"
+ },
+ {
+  "start": 259.12,
+  "duration": 2.839,
+  "text": "always the things that you would do if"
+ },
+ {
+  "start": 260.44,
+  "duration": 2.44,
+  "text": "you had the time and resources to do"
+ },
+ {
+  "start": 261.959,
+  "duration": 2.441,
+  "text": "them."
+ },
+ {
+  "start": 262.88,
+  "duration": 3.64,
+  "text": "In many ways, the job of leaders is to"
+ },
+ {
+  "start": 264.4,
+  "duration": 4.72,
+  "text": "select from and prioritize the infinite"
+ },
+ {
+  "start": 266.52,
+  "duration": 4.72,
+  "text": "backlog and turn some tiny piece of it"
+ },
+ {
+  "start": 269.12,
+  "duration": 3.799,
+  "text": "into a road map. It's then the job of"
+ },
+ {
+  "start": 271.24,
+  "duration": 3.6,
+  "text": "individual contributors to take on and"
+ },
+ {
+  "start": 272.919,
+  "duration": 3.441,
+  "text": "do their part of that infinite backlog"
+ },
+ {
+  "start": 274.84,
+  "duration": 2.68,
+  "text": "that has been translated into a road"
+ },
+ {
+  "start": 276.36,
+  "duration": 2.2,
+  "text": "map."
+ },
+ {
+  "start": 277.52,
+  "duration": 2.48,
+  "text": "Of course, at that point, it's not"
+ },
+ {
+  "start": 278.56,
+  "duration": 3.76,
+  "text": "framed as backlog, it's framed as"
+ },
+ {
+  "start": 280.0,
+  "duration": 4.36,
+  "text": "current work streams. But lurking behind"
+ },
+ {
+  "start": 282.32,
+  "duration": 4.8,
+  "text": "that has always been the infinite"
+ },
+ {
+  "start": 284.36,
+  "duration": 4.28,
+  "text": "backlog of all these things you could do"
+ },
+ {
+  "start": 287.12,
+  "duration": 5.48,
+  "text": "if resources, but even more than"
+ },
+ {
+  "start": 288.64,
+  "duration": 5.88,
+  "text": "resources, time was not a constraint."
+ },
+ {
+  "start": 292.6,
+  "duration": 3.48,
+  "text": "In modern work, there's a reasonable"
+ },
+ {
+  "start": 294.52,
+  "duration": 3.12,
+  "text": "sense of what different people in"
+ },
+ {
+  "start": 296.08,
+  "duration": 3.4,
+  "text": "different types of roles could be"
+ },
+ {
+  "start": 297.64,
+  "duration": 2.96,
+  "text": "expected to achieve."
+ },
+ {
+  "start": 299.48,
+  "duration": 2.64,
+  "text": "Now, there might be significant"
+ },
+ {
+  "start": 300.6,
+  "duration": 3.08,
+  "text": "gradations between not so good"
+ },
+ {
+  "start": 302.12,
+  "duration": 3.16,
+  "text": "performers, average performers, good"
+ },
+ {
+  "start": 303.68,
+  "duration": 2.68,
+  "text": "performers, and great performers, but"
+ },
+ {
+  "start": 305.28,
+  "duration": 4.0,
+  "text": "you're talking about the difference"
+ },
+ {
+  "start": 306.36,
+  "duration": 4.44,
+  "text": "between a 1x and maybe a 4x. Maybe it's"
+ },
+ {
+  "start": 309.28,
+  "duration": 3.88,
+  "text": "even higher than 4x, but the point is"
+ },
+ {
+  "start": 310.8,
+  "duration": 5.0,
+  "text": "it's the same order of magnitude."
+ },
+ {
+  "start": 313.16,
+  "duration": 4.28,
+  "text": "Now, AI comes along, and all of a"
+ },
+ {
+  "start": 315.8,
+  "duration": 3.76,
+  "text": "sudden, everyone's getting these"
+ },
+ {
+  "start": 317.44,
+  "duration": 3.8,
+  "text": "multiples on their time. People are"
+ },
+ {
+  "start": 319.56,
+  "duration": 3.8,
+  "text": "doing twice as much or sometimes three"
+ },
+ {
+  "start": 321.24,
+  "duration": 3.32,
+  "text": "times as much. Some of the best workers"
+ },
+ {
+  "start": 323.36,
+  "duration": 4.2,
+  "text": "are even getting more out of it than"
+ },
+ {
+  "start": 324.56,
+  "duration": 5.24,
+  "text": "that, but when AI was an assistant, the"
+ },
+ {
+  "start": 327.56,
+  "duration": 4.96,
+  "text": "final boss of time still had not been"
+ },
+ {
+  "start": 329.8,
+  "duration": 5.44,
+  "text": "defeated. Even AI-assisted great"
+ },
+ {
+  "start": 332.52,
+  "duration": 5.0,
+  "text": "performers still were constrained by"
+ },
+ {
+  "start": 335.24,
+  "duration": 4.64,
+  "text": "time. There was still an end of the"
+ },
+ {
+  "start": 337.52,
+  "duration": 4.36,
+  "text": "week, a Friday afternoon, where you"
+ },
+ {
+  "start": 339.88,
+  "duration": 3.88,
+  "text": "could look and see what you accomplished"
+ },
+ {
+  "start": 341.88,
+  "duration": 3.8,
+  "text": "and be reasonably okay with it being"
+ },
+ {
+  "start": 343.76,
+  "duration": 3.12,
+  "text": "enough, even if you wished you had time"
+ },
+ {
+  "start": 345.68,
+  "duration": 4.36,
+  "text": "for more."
+ },
+ {
+  "start": 346.88,
+  "duration": 6.0,
+  "text": "Agents change this entirely."
+ },
+ {
+  "start": 350.04,
+  "duration": 4.64,
+  "text": "Whereas AI assistants compressed time,"
+ },
+ {
+  "start": 352.88,
+  "duration": 3.36,
+  "text": "allowed you to get higher leverage in"
+ },
+ {
+  "start": 354.68,
+  "duration": 4.84,
+  "text": "the same unit of time than you've ever"
+ },
+ {
+  "start": 356.24,
+  "duration": 6.2,
+  "text": "had before, agents seemingly break the"
+ },
+ {
+  "start": 359.52,
+  "duration": 4.76,
+  "text": "rules of time. Because agents aren't you"
+ },
+ {
+  "start": 362.44,
+  "duration": 3.68,
+  "text": "being more productive, they're you"
+ },
+ {
+  "start": 364.28,
+  "duration": 3.24,
+  "text": "replicating yourself"
+ },
+ {
+  "start": 366.12,
+  "duration": 4.2,
+  "text": "infinitely."
+ },
+ {
+  "start": 367.52,
+  "duration": 5.0,
+  "text": "Not only can agents work 24/7, even as"
+ },
+ {
+  "start": 370.32,
+  "duration": 4.12,
+  "text": "we sleep, multiple instances of those"
+ },
+ {
+  "start": 372.52,
+  "duration": 3.76,
+  "text": "agents can be working in parallel."
+ },
+ {
+  "start": 374.44,
+  "duration": 4.0,
+  "text": "Everything that we do, everything that"
+ },
+ {
+  "start": 376.28,
+  "duration": 4.84,
+  "text": "we might do, could be happening right"
+ },
+ {
+  "start": 378.44,
+  "duration": 5.2,
+  "text": "now, all at the same time. And all of a"
+ },
+ {
+  "start": 381.12,
+  "duration": 4.64,
+  "text": "sudden the infinite backlog becomes not"
+ },
+ {
+  "start": 383.64,
+  "duration": 4.48,
+  "text": "this theoretical future thing, but"
+ },
+ {
+  "start": 385.76,
+  "duration": 3.6,
+  "text": "something to actually be distributed"
+ },
+ {
+  "start": 388.12,
+  "duration": 3.72,
+  "text": "across all of these multiple"
+ },
+ {
+  "start": 389.36,
+  "duration": 4.12,
+  "text": "intelligences. The risk is that the"
+ },
+ {
+  "start": 391.84,
+  "duration": 3.92,
+  "text": "infinite backlog, instead of being a"
+ },
+ {
+  "start": 393.48,
+  "duration": 4.68,
+  "text": "thing that shapes your future, becomes a"
+ },
+ {
+  "start": 395.76,
+  "duration": 4.48,
+  "text": "contemporary failure, a never-ending"
+ },
+ {
+  "start": 398.16,
+  "duration": 3.68,
+  "text": "slate of immediate-term unmet"
+ },
+ {
+  "start": 400.24,
+  "duration": 3.28,
+  "text": "opportunities."
+ },
+ {
+  "start": 401.84,
+  "duration": 4.16,
+  "text": "The feeling that people are having as"
+ },
+ {
+  "start": 403.52,
+  "duration": 4.72,
+  "text": "they unlock the power of agents is the"
+ },
+ {
+  "start": 406.0,
+  "duration": 3.68,
+  "text": "awareness of the infinite backlog of"
+ },
+ {
+  "start": 408.24,
+  "duration": 3.08,
+  "text": "everything they could be doing and"
+ },
+ {
+  "start": 409.68,
+  "duration": 4.28,
+  "text": "everything that they're not doing"
+ },
+ {
+  "start": 411.32,
+  "duration": 4.2,
+  "text": "becoming immediate and close."
+ },
+ {
+  "start": 413.96,
+  "duration": 4.32,
+  "text": "What's interesting is when you take a"
+ },
+ {
+  "start": 415.52,
+  "duration": 5.24,
+  "text": "step back and you try to find analogies"
+ },
+ {
+  "start": 418.28,
+  "duration": 4.76,
+  "text": "for this, the best and frankly only"
+ },
+ {
+  "start": 420.76,
+  "duration": 3.72,
+  "text": "analogy that sort of works is"
+ },
+ {
+  "start": 423.04,
+  "duration": 3.68,
+  "text": "entrepreneurship."
+ },
+ {
+  "start": 424.48,
+  "duration": 4.88,
+  "text": "Entrepreneurship is basically the act of"
+ },
+ {
+  "start": 426.72,
+  "duration": 5.16,
+  "text": "assembling limited resources to take on"
+ },
+ {
+  "start": 429.36,
+  "duration": 4.52,
+  "text": "some infinite backlog that others, for"
+ },
+ {
+  "start": 431.88,
+  "duration": 3.2,
+  "text": "whatever reason, haven't taken on yet,"
+ },
+ {
+  "start": 433.88,
+  "duration": 3.48,
+  "text": "whether it's pursuing some new"
+ },
+ {
+  "start": 435.08,
+  "duration": 3.44,
+  "text": "opportunity, developing some new market."
+ },
+ {
+  "start": 437.36,
+  "duration": 2.72,
+  "text": "As a founder and an early"
+ },
+ {
+  "start": 438.52,
+  "duration": 2.92,
+  "text": "entrepreneurial team, you are building"
+ },
+ {
+  "start": 440.08,
+  "duration": 2.839,
+  "text": "without blueprints, sailing without a"
+ },
+ {
+  "start": 441.44,
+  "duration": 3.2,
+  "text": "rudder. Pick your metaphor. The point is"
+ },
+ {
+  "start": 442.919,
+  "duration": 3.161,
+  "text": "you have to figure it out as you go."
+ },
+ {
+  "start": 444.64,
+  "duration": 3.44,
+  "text": "Along the path, there are efforts that"
+ },
+ {
+  "start": 446.08,
+  "duration": 4.12,
+  "text": "you realize only in retrospect were"
+ },
+ {
+  "start": 448.08,
+  "duration": 3.92,
+  "text": "wasted efforts, dead-end pathways,"
+ },
+ {
+  "start": 450.2,
+  "duration": 4.12,
+  "text": "redundancies, and opportunities that you"
+ },
+ {
+  "start": 452.0,
+  "duration": 4.12,
+  "text": "missed. The job of the startup is to"
+ },
+ {
+  "start": 454.32,
+  "duration": 3.36,
+  "text": "figure out what to do when the options"
+ },
+ {
+  "start": 456.12,
+  "duration": 4.52,
+  "text": "are infinite, but the resources with"
+ },
+ {
+  "start": 457.68,
+  "duration": 5.04,
+  "text": "which to do it are extremely finite."
+ },
+ {
+  "start": 460.64,
+  "duration": 3.76,
+  "text": "Now, startups are extremely"
+ },
+ {
+  "start": 462.72,
+  "duration": 4.12,
+  "text": "exhilarating. They are some of the"
+ },
+ {
+  "start": 464.4,
+  "duration": 5.2,
+  "text": "highest highs you can have in business."
+ },
+ {
+  "start": 466.84,
+  "duration": 4.8,
+  "text": "You are creating something from nothing,"
+ },
+ {
+  "start": 469.6,
+  "duration": 4.08,
+  "text": "birthing purpose and meaning and value"
+ },
+ {
+  "start": 471.64,
+  "duration": 3.92,
+  "text": "into the world. And yet, of course, at"
+ },
+ {
+  "start": 473.68,
+  "duration": 4.6,
+  "text": "the same time, there is an almost"
+ },
+ {
+  "start": 475.56,
+  "duration": 5.0,
+  "text": "Kierkegaardian dizziness of freedom."
+ },
+ {
+  "start": 478.28,
+  "duration": 4.68,
+  "text": "When you can do anything, when you can"
+ },
+ {
+  "start": 480.56,
+  "duration": 3.72,
+  "text": "work on anything, what are you supposed"
+ },
+ {
+  "start": 482.96,
+  "duration": 3.24,
+  "text": "to do?"
+ },
+ {
+  "start": 484.28,
+  "duration": 3.84,
+  "text": "Ultimately, this is why most people"
+ },
+ {
+  "start": 486.2,
+  "duration": 4.12,
+  "text": "don't choose to be founders or even"
+ },
+ {
+  "start": 488.12,
+  "duration": 4.56,
+  "text": "early startup stage employees. It's too"
+ },
+ {
+  "start": 490.32,
+  "duration": 4.36,
+  "text": "stressful. It's too hard. The highs are"
+ },
+ {
+  "start": 492.68,
+  "duration": 3.56,
+  "text": "too infrequent and too hard to achieve"
+ },
+ {
+  "start": 494.68,
+  "duration": 3.8,
+  "text": "relative to the lows and the stress and"
+ },
+ {
+  "start": 496.24,
+  "duration": 4.32,
+  "text": "the anxiety, not to mention the frequent"
+ },
+ {
+  "start": 498.48,
+  "duration": 3.439,
+  "text": "financial sacrifice."
+ },
+ {
+  "start": 500.56,
+  "duration": 2.76,
+  "text": "Now, with that analogy in mind, let's"
+ },
+ {
+  "start": 501.919,
+  "duration": 2.801,
+  "text": "come back to the knowledge worker who's"
+ },
+ {
+  "start": 503.32,
+  "duration": 2.96,
+  "text": "sitting there with their open claw and"
+ },
+ {
+  "start": 504.72,
+  "duration": 3.44,
+  "text": "their Mac mini surrounding them,"
+ },
+ {
+  "start": 506.28,
+  "duration": 2.8,
+  "text": "discovering all the new things they can"
+ },
+ {
+  "start": 508.16,
+  "duration": 2.759,
+  "text": "do."
+ },
+ {
+  "start": 509.08,
+  "duration": 3.959,
+  "text": "The first part of them taking on their"
+ },
+ {
+  "start": 510.919,
+  "duration": 4.68,
+  "text": "infinite backlog is, in many cases,"
+ },
+ {
+  "start": 513.039,
+  "duration": 3.921,
+  "text": "extremely exciting because it's the do"
+ },
+ {
+  "start": 515.599,
+  "duration": 3.761,
+  "text": "big things that we've always wanted to"
+ },
+ {
+  "start": 516.96,
+  "duration": 5.28,
+  "text": "do part of the infinite backlog. It's"
+ },
+ {
+  "start": 519.36,
+  "duration": 4.4,
+  "text": "the known part of the infinite backlog."
+ },
+ {
+  "start": 522.24,
+  "duration": 3.44,
+  "text": "If you're a marketer, it's the radical"
+ },
+ {
+  "start": 523.76,
+  "duration": 4.0,
+  "text": "increase around and automation of"
+ },
+ {
+  "start": 525.68,
+  "duration": 3.68,
+  "text": "content output, the automation of"
+ },
+ {
+  "start": 527.76,
+  "duration": 3.12,
+  "text": "analytics and monitoring that feeds back"
+ },
+ {
+  "start": 529.36,
+  "duration": 3.0,
+  "text": "into a system that does what you've"
+ },
+ {
+  "start": 530.88,
+  "duration": 2.84,
+  "text": "always done, but more and better than"
+ },
+ {
+  "start": 532.36,
+  "duration": 3.64,
+  "text": "ever before."
+ },
+ {
+  "start": 533.72,
+  "duration": 4.6,
+  "text": "This is the part of the infinite backlog"
+ },
+ {
+  "start": 536.0,
+  "duration": 4.64,
+  "text": "that, while yes, very far out on the"
+ },
+ {
+  "start": 538.32,
+  "duration": 4.96,
+  "text": "knowable road map, was still on the"
+ },
+ {
+  "start": 540.64,
+  "duration": 5.28,
+  "text": "knowable road map. What gets challenging"
+ },
+ {
+  "start": 543.28,
+  "duration": 4.48,
+  "text": "is the uncharted waters beyond that."
+ },
+ {
+  "start": 545.92,
+  "duration": 4.2,
+  "text": "And this is where you start to feel that"
+ },
+ {
+  "start": 547.76,
+  "duration": 3.96,
+  "text": "dizziness of freedom that startups feel."
+ },
+ {
+  "start": 550.12,
+  "duration": 3.12,
+  "text": "It's the feeling of doing things, but"
+ },
+ {
+  "start": 551.72,
+  "duration": 3.48,
+  "text": "not knowing if those are the things that"
+ },
+ {
+  "start": 553.24,
+  "duration": 3.92,
+  "text": "are most effective to be doing. The"
+ },
+ {
+  "start": 555.2,
+  "duration": 3.48,
+  "text": "awareness of all the things that you're"
+ },
+ {
+  "start": 557.16,
+  "duration": 2.76,
+  "text": "choosing not to do by doing that thing"
+ },
+ {
+  "start": 558.68,
+  "duration": 3.08,
+  "text": "instead."
+ },
+ {
+  "start": 559.92,
+  "duration": 3.56,
+  "text": "In fact, once it becomes plausible to go"
+ },
+ {
+  "start": 561.76,
+  "duration": 3.92,
+  "text": "take on the unknown section of the"
+ },
+ {
+  "start": 563.48,
+  "duration": 4.24,
+  "text": "infinite backlog, there is a very common"
+ },
+ {
+  "start": 565.68,
+  "duration": 3.52,
+  "text": "tendency to feel like you're not doing"
+ },
+ {
+  "start": 567.72,
+  "duration": 3.08,
+  "text": "enough or like you're doing the wrong"
+ },
+ {
+  "start": 569.2,
+  "duration": 4.0,
+  "text": "thing, like you should be doing"
+ },
+ {
+  "start": 570.8,
+  "duration": 4.48,
+  "text": "something else. That feeling, combined"
+ },
+ {
+  "start": 573.2,
+  "duration": 4.6,
+  "text": "with just the very real constraints that"
+ },
+ {
+  "start": 575.28,
+  "duration": 4.56,
+  "text": "still do exist even in a world of"
+ },
+ {
+  "start": 577.8,
+  "duration": 4.12,
+  "text": "infinitely replicable agents, are"
+ },
+ {
+  "start": 579.84,
+  "duration": 4.04,
+  "text": "creating a new type of challenge."
+ },
+ {
+  "start": 581.92,
+  "duration": 4.12,
+  "text": "Tang Yan recently tweeted, \"Something"
+ },
+ {
+  "start": 583.88,
+  "duration": 3.56,
+  "text": "I've noticed. AI agents create a weird"
+ },
+ {
+  "start": 586.04,
+  "duration": 3.2,
+  "text": "new kind of burnout, especially for"
+ },
+ {
+  "start": 587.44,
+  "duration": 3.16,
+  "text": "young people. A lot of ambitious"
+ },
+ {
+  "start": 589.24,
+  "duration": 3.28,
+  "text": "22-year-olds are going to think the"
+ },
+ {
+  "start": 590.6,
+  "duration": 3.64,
+  "text": "answer is simple. Spin up more agents,"
+ },
+ {
+  "start": 592.52,
+  "duration": 4.24,
+  "text": "ship more code, sleep less, outwork"
+ },
+ {
+  "start": 594.24,
+  "duration": 3.84,
+  "text": "everyone. And for a while, it will feel"
+ },
+ {
+  "start": 596.76,
+  "duration": 2.88,
+  "text": "incredible."
+ },
+ {
+  "start": 598.08,
+  "duration": 3.4,
+  "text": "You can keep multiple agents running,"
+ },
+ {
+  "start": 599.64,
+  "duration": 3.52,
+  "text": "feed them tasks, review outputs, fix"
+ },
+ {
+  "start": 601.48,
+  "duration": 3.16,
+  "text": "mistakes, make decisions, and keep the"
+ },
+ {
+  "start": 603.16,
+  "duration": 2.96,
+  "text": "whole loop moving."
+ },
+ {
+  "start": 604.64,
+  "duration": 3.4,
+  "text": "Problem is that the work no longer"
+ },
+ {
+  "start": 606.12,
+  "duration": 4.04,
+  "text": "drains you through typing. It drains you"
+ },
+ {
+  "start": 608.04,
+  "duration": 3.88,
+  "text": "through judgment. More attention, more"
+ },
+ {
+  "start": 610.16,
+  "duration": 3.48,
+  "text": "context switching, more verification,"
+ },
+ {
+  "start": 611.92,
+  "duration": 3.4,
+  "text": "more decisions per hour."
+ },
+ {
+  "start": 613.64,
+  "duration": 3.0,
+  "text": "So, instead of 8 to 10 normal productive"
+ },
+ {
+  "start": 615.32,
+  "duration": 2.88,
+  "text": "hours, you might get four or five"
+ },
+ {
+  "start": 616.64,
+  "duration": 3.76,
+  "text": "extremely intense hours before your"
+ },
+ {
+  "start": 618.2,
+  "duration": 4.84,
+  "text": "brain is fully cooked, and you feel numb"
+ },
+ {
+  "start": 620.4,
+  "duration": 4.2,
+  "text": "until you sleep properly and reset."
+ },
+ {
+  "start": 623.04,
+  "duration": 3.36,
+  "text": "Some of my friends are already burnt"
+ },
+ {
+  "start": 624.6,
+  "duration": 4.24,
+  "text": "out. They don't say it out loud, but I"
+ },
+ {
+  "start": 626.4,
+  "duration": 3.96,
+  "text": "can tell. The agent can keep working"
+ },
+ {
+  "start": 628.84,
+  "duration": 5.08,
+  "text": "24/7."
+ },
+ {
+  "start": 630.36,
+  "duration": 5.12,
+  "text": "The human still has a hard limit."
+ },
+ {
+  "start": 633.92,
+  "duration": 3.52,
+  "text": "It turns out, of course, that"
+ },
+ {
+  "start": 635.48,
+  "duration": 3.52,
+  "text": "constraints, even in the world of"
+ },
+ {
+  "start": 637.44,
+  "duration": 4.2,
+  "text": "theoretically infinitely replicable"
+ },
+ {
+  "start": 639.0,
+  "duration": 4.08,
+  "text": "intelligence, do exist. They might not"
+ },
+ {
+  "start": 641.64,
+  "duration": 3.32,
+  "text": "be the same constraints, in fact, they"
+ },
+ {
+  "start": 643.08,
+  "duration": 4.0,
+  "text": "are not, but constraints they are"
+ },
+ {
+  "start": 644.96,
+  "duration": 3.92,
+  "text": "nonetheless. They are constraints like"
+ },
+ {
+  "start": 647.08,
+  "duration": 4.32,
+  "text": "judgment, figuring out what matters to"
+ },
+ {
+  "start": 648.88,
+  "duration": 4.0,
+  "text": "work on. Planning, how to sequence those"
+ },
+ {
+  "start": 651.4,
+  "duration": 3.96,
+  "text": "things, what to start when, and how to"
+ },
+ {
+  "start": 652.88,
+  "duration": 3.64,
+  "text": "do it. Coordination, when you have all"
+ },
+ {
+  "start": 655.36,
+  "duration": 2.44,
+  "text": "of these intelligences running in"
+ },
+ {
+  "start": 656.52,
+  "duration": 3.08,
+  "text": "parallel, how do you make sure they're"
+ },
+ {
+  "start": 657.8,
+  "duration": 3.039,
+  "text": "working towards a larger end, rather"
+ },
+ {
+  "start": 659.6,
+  "duration": 4.04,
+  "text": "than running off in a bunch of different"
+ },
+ {
+  "start": 660.839,
+  "duration": 4.401,
+  "text": "directions? Evaluation, are you simply"
+ },
+ {
+  "start": 663.64,
+  "duration": 2.96,
+  "text": "trusting that all of your new agent"
+ },
+ {
+  "start": 665.24,
+  "duration": 3.52,
+  "text": "workers are always going to get it"
+ },
+ {
+  "start": 666.6,
+  "duration": 3.56,
+  "text": "right, and to produce good work? Or is"
+ },
+ {
+  "start": 668.76,
+  "duration": 3.52,
+  "text": "there some part where you or someone"
+ },
+ {
+  "start": 670.16,
+  "duration": 3.72,
+  "text": "else, of the human persuasion that is,"
+ },
+ {
+  "start": 672.28,
+  "duration": 2.96,
+  "text": "has to step in and evaluate and see"
+ },
+ {
+  "start": 673.88,
+  "duration": 3.36,
+  "text": "whether their work is actually good or"
+ },
+ {
+  "start": 675.24,
+  "duration": 3.64,
+  "text": "not? And presumably, to the extent that"
+ },
+ {
+  "start": 677.24,
+  "duration": 3.28,
+  "text": "it's not, go back to that planning"
+ },
+ {
+  "start": 678.88,
+  "duration": 2.88,
+  "text": "constraint and figure out how to make it"
+ },
+ {
+  "start": 680.52,
+  "duration": 2.04,
+  "text": "better."
+ },
+ {
+  "start": 681.76,
+  "duration": 2.16,
+  "text": "And then, of course, there are the"
+ },
+ {
+  "start": 682.56,
+  "duration": 3.24,
+  "text": "technical challenges around all these"
+ },
+ {
+  "start": 683.92,
+  "duration": 3.52,
+  "text": "agents. There's issues of context,"
+ },
+ {
+  "start": 685.8,
+  "duration": 3.0,
+  "text": "memory, basically all the things that"
+ },
+ {
+  "start": 687.44,
+  "duration": 3.28,
+  "text": "all the startups are moving as fast as"
+ },
+ {
+  "start": 688.8,
+  "duration": 4.32,
+  "text": "they can to try to solve. There is, of"
+ },
+ {
+  "start": 690.72,
+  "duration": 3.96,
+  "text": "course, the constraint of cost. The"
+ },
+ {
+  "start": 693.12,
+  "duration": 3.6,
+  "text": "great constraint which will shape more"
+ },
+ {
+  "start": 694.68,
+  "duration": 3.8,
+  "text": "than anything else I believe the next 18"
+ },
+ {
+  "start": 696.72,
+  "duration": 4.08,
+  "text": "to 24 months."
+ },
+ {
+  "start": 698.48,
+  "duration": 4.04,
+  "text": "My whole episode on Friday was about how"
+ },
+ {
+  "start": 700.8,
+  "duration": 3.6,
+  "text": "we are running headlong into the"
+ },
+ {
+  "start": 702.52,
+  "duration": 4.36,
+  "text": "business model implications of"
+ },
+ {
+  "start": 704.4,
+  "duration": 4.04,
+  "text": "effectively unlimited demand for tokens"
+ },
+ {
+  "start": 706.88,
+  "duration": 3.44,
+  "text": "and the supply of tokens that because of"
+ },
+ {
+  "start": 708.44,
+  "duration": 3.84,
+  "text": "our supply of compute and upstream from"
+ },
+ {
+  "start": 710.32,
+  "duration": 3.52,
+  "text": "that even our supply of energy cannot"
+ },
+ {
+  "start": 712.28,
+  "duration": 3.04,
+  "text": "possibly meet."
+ },
+ {
+  "start": 713.84,
+  "duration": 3.2,
+  "text": "It turns out that those intelligences"
+ },
+ {
+  "start": 715.32,
+  "duration": 3.12,
+  "text": "probably won't be infinitely"
+ },
+ {
+  "start": 717.04,
+  "duration": 3.16,
+  "text": "self-replicable."
+ },
+ {
+  "start": 718.44,
+  "duration": 3.76,
+  "text": "Even if you can do a lot, you will still"
+ },
+ {
+  "start": 720.2,
+  "duration": 4.44,
+  "text": "have to choose, which brings us right on"
+ },
+ {
+  "start": 722.2,
+  "duration": 4.2,
+  "text": "back to judgement as a constraint."
+ },
+ {
+  "start": 724.64,
+  "duration": 3.32,
+  "text": "Finally, there is absorption. Whoever"
+ },
+ {
+  "start": 726.4,
+  "duration": 3.56,
+  "text": "the intended recipient of all of the"
+ },
+ {
+  "start": 727.96,
+  "duration": 4.04,
+  "text": "output of this work is, whether it's a"
+ },
+ {
+  "start": 729.96,
+  "duration": 4.2,
+  "text": "market that wants to buy something or be"
+ },
+ {
+  "start": 732.0,
+  "duration": 3.96,
+  "text": "advertised to or be solicited on behalf"
+ },
+ {
+  "start": 734.16,
+  "duration": 3.68,
+  "text": "of the sales department or whatever, how"
+ },
+ {
+  "start": 735.96,
+  "duration": 4.36,
+  "text": "much more stuff can they actually"
+ },
+ {
+  "start": 737.84,
+  "duration": 4.4,
+  "text": "absorb? How much consumption elasticity"
+ },
+ {
+  "start": 740.32,
+  "duration": 3.24,
+  "text": "do they have?"
+ },
+ {
+  "start": 742.24,
+  "duration": 2.52,
+  "text": "So, what are we supposed to do about"
+ },
+ {
+  "start": 743.56,
+  "duration": 4.04,
+  "text": "this?"
+ },
+ {
+  "start": 744.76,
+  "duration": 5.64,
+  "text": "The feeling of exhilaration is real."
+ },
+ {
+  "start": 747.6,
+  "duration": 4.36,
+  "text": "The unlock of parallelism and replicated"
+ },
+ {
+  "start": 750.4,
+  "duration": 3.72,
+  "text": "intelligences, even if it is not"
+ },
+ {
+  "start": 751.96,
+  "duration": 3.6,
+  "text": "infinite, is still unbelievably"
+ },
+ {
+  "start": 754.12,
+  "duration": 2.84,
+  "text": "powerful."
+ },
+ {
+  "start": 755.56,
+  "duration": 3.32,
+  "text": "It might not have beaten time even"
+ },
+ {
+  "start": 756.96,
+  "duration": 3.2,
+  "text": "though it feels like that at first, but"
+ },
+ {
+  "start": 758.88,
+  "duration": 3.28,
+  "text": "it has certainly changed our"
+ },
+ {
+  "start": 760.16,
+  "duration": 3.72,
+  "text": "relationship with time in a way that is"
+ },
+ {
+  "start": 762.16,
+  "duration": 3.8,
+  "text": "no longer a difference in scale, but a"
+ },
+ {
+  "start": 763.88,
+  "duration": 3.8,
+  "text": "difference in kind."
+ },
+ {
+  "start": 765.96,
+  "duration": 3.72,
+  "text": "And yet we're left with this dizziness"
+ },
+ {
+  "start": 767.68,
+  "duration": 4.12,
+  "text": "of freedom, of the challenge of actually"
+ },
+ {
+  "start": 769.68,
+  "duration": 4.24,
+  "text": "using these new powers and doing so"
+ },
+ {
+  "start": 771.8,
+  "duration": 4.8,
+  "text": "without burning ourselves out."
+ },
+ {
+  "start": 773.92,
+  "duration": 4.28,
+  "text": "What becomes pretty clear pretty fast is"
+ },
+ {
+  "start": 776.6,
+  "duration": 3.92,
+  "text": "that an entirely new structure of"
+ },
+ {
+  "start": 778.2,
+  "duration": 4.24,
+  "text": "support needs to be built around this."
+ },
+ {
+  "start": 780.52,
+  "duration": 4.0,
+  "text": "To put it differently, if we want agents"
+ },
+ {
+  "start": 782.44,
+  "duration": 4.04,
+  "text": "to unlock the infinite backlog, we have"
+ },
+ {
+  "start": 784.52,
+  "duration": 3.68,
+  "text": "to design entirely new architectures of"
+ },
+ {
+  "start": 786.48,
+  "duration": 3.92,
+  "text": "support around them."
+ },
+ {
+  "start": 788.2,
+  "duration": 4.36,
+  "text": "Now, some of those are build inputs for"
+ },
+ {
+  "start": 790.4,
+  "duration": 5.12,
+  "text": "the agents themselves. They need model"
+ },
+ {
+  "start": 792.56,
+  "duration": 6.0,
+  "text": "access, token allocations, sandboxes,"
+ },
+ {
+  "start": 795.52,
+  "duration": 4.36,
+  "text": "evaluation tools, permissioned context."
+ },
+ {
+  "start": 798.56,
+  "duration": 2.96,
+  "text": "This is the stuff that we talk about"
+ },
+ {
+  "start": 799.88,
+  "duration": 2.64,
+  "text": "most often because each of these, when"
+ },
+ {
+  "start": 801.52,
+  "duration": 2.56,
+  "text": "you squint at them, becomes an"
+ },
+ {
+  "start": 802.52,
+  "duration": 3.24,
+  "text": "opportunity for some startup to build"
+ },
+ {
+  "start": 804.08,
+  "duration": 4.16,
+  "text": "something new."
+ },
+ {
+  "start": 805.76,
+  "duration": 4.12,
+  "text": "What we talk a lot less about, but which"
+ },
+ {
+  "start": 808.24,
+  "duration": 3.72,
+  "text": "if we understand a big problem is going"
+ },
+ {
+  "start": 809.88,
+  "duration": 3.92,
+  "text": "to be this new category of burnout is"
+ },
+ {
+  "start": 811.96,
+  "duration": 3.56,
+  "text": "the human support that has to go around"
+ },
+ {
+  "start": 813.8,
+  "duration": 3.6,
+  "text": "agent architectures."
+ },
+ {
+  "start": 815.52,
+  "duration": 3.04,
+  "text": "New types of support for prioritization"
+ },
+ {
+  "start": 817.4,
+  "duration": 2.32,
+  "text": "and helping people figure out what"
+ },
+ {
+  "start": 818.56,
+  "duration": 3.04,
+  "text": "matters."
+ },
+ {
+  "start": 819.72,
+  "duration": 4.64,
+  "text": "New types of support to help people in a"
+ },
+ {
+  "start": 821.6,
+  "duration": 4.84,
+  "text": "dynamic and evolving way uncover what"
+ },
+ {
+  "start": 824.36,
+  "duration": 3.56,
+  "text": "are sustainable rhythms."
+ },
+ {
+  "start": 826.44,
+  "duration": 3.64,
+  "text": "If it is the case that our relationship"
+ },
+ {
+  "start": 827.92,
+  "duration": 4.24,
+  "text": "with time has changed but that time has"
+ },
+ {
+  "start": 830.08,
+  "duration": 4.0,
+  "text": "not been defeated, there is some new"
+ },
+ {
+  "start": 832.16,
+  "duration": 3.32,
+  "text": "pace that is sustainable that we're"
+ },
+ {
+  "start": 834.08,
+  "duration": 3.56,
+  "text": "going to have to normalize and design"
+ },
+ {
+  "start": 835.48,
+  "duration": 3.4,
+  "text": "around. That of course will be made even"
+ },
+ {
+  "start": 837.64,
+  "duration": 2.96,
+  "text": "more challenging by the fact that it's"
+ },
+ {
+  "start": 838.88,
+  "duration": 3.72,
+  "text": "likely to keep evolving."
+ },
+ {
+  "start": 840.6,
+  "duration": 4.24,
+  "text": "There's also other more practical stuff"
+ },
+ {
+  "start": 842.6,
+  "duration": 3.64,
+  "text": "like new types of embedded tech support"
+ },
+ {
+  "start": 844.84,
+  "duration": 3.36,
+  "text": "given that a lot of people managing"
+ },
+ {
+  "start": 846.24,
+  "duration": 4.12,
+  "text": "these fleets of agents won't have been"
+ },
+ {
+  "start": 848.2,
+  "duration": 4.44,
+  "text": "traditionally developers which gets us"
+ },
+ {
+  "start": 850.36,
+  "duration": 4.8,
+  "text": "to a third category of support which is"
+ },
+ {
+  "start": 852.64,
+  "duration": 4.56,
+  "text": "organizational support. We are going to"
+ },
+ {
+  "start": 855.16,
+  "duration": 4.16,
+  "text": "need massively new types of"
+ },
+ {
+  "start": 857.2,
+  "duration": 3.28,
+  "text": "coordination. If you have people in"
+ },
+ {
+  "start": 859.32,
+  "duration": 3.12,
+  "text": "different departments all around the"
+ },
+ {
+  "start": 860.48,
+  "duration": 4.08,
+  "text": "organization unlocking big chunks of"
+ },
+ {
+  "start": 862.44,
+  "duration": 3.68,
+  "text": "this infinite backlog which we never"
+ },
+ {
+  "start": 864.56,
+  "duration": 3.72,
+  "text": "assumed before we would possibly get"
+ },
+ {
+  "start": 866.12,
+  "duration": 3.24,
+  "text": "into in the same way that individuals"
+ },
+ {
+  "start": 868.28,
+  "duration": 2.64,
+  "text": "are going to have to design new"
+ },
+ {
+  "start": 869.36,
+  "duration": 2.76,
+  "text": "coordination systems around their fleets"
+ },
+ {
+  "start": 870.92,
+  "duration": 2.64,
+  "text": "of agents."
+ },
+ {
+  "start": 872.12,
+  "duration": 3.12,
+  "text": "The organization as a whole is going to"
+ },
+ {
+  "start": 873.56,
+  "duration": 3.56,
+  "text": "have to design new types of coordination"
+ },
+ {
+  "start": 875.24,
+  "duration": 3.0,
+  "text": "systems around the different individuals"
+ },
+ {
+  "start": 877.12,
+  "duration": 4.84,
+  "text": "who are deploying each of their own"
+ },
+ {
+  "start": 878.24,
+  "duration": 5.52,
+  "text": "fleets of agents. This will 100% change"
+ },
+ {
+  "start": 881.96,
+  "duration": 3.76,
+  "text": "management. Management will have to"
+ },
+ {
+  "start": 883.76,
+  "duration": 3.92,
+  "text": "become much more dynamic, much more"
+ },
+ {
+  "start": 885.72,
+  "duration": 4.4,
+  "text": "responsive and adept to dealing with"
+ },
+ {
+  "start": 887.68,
+  "duration": 5.04,
+  "text": "emergent opportunity that comes from"
+ },
+ {
+  "start": 890.12,
+  "duration": 4.0,
+  "text": "unlocking parts of the infinite backlog."
+ },
+ {
+  "start": 892.72,
+  "duration": 3.32,
+  "text": "Organizations will also need to get"
+ },
+ {
+  "start": 894.12,
+  "duration": 3.28,
+  "text": "better at transmitting value and unlocks"
+ },
+ {
+  "start": 896.04,
+  "duration": 2.52,
+  "text": "from one part of the organization to"
+ },
+ {
+  "start": 897.4,
+  "duration": 2.88,
+  "text": "another."
+ },
+ {
+  "start": 898.56,
+  "duration": 3.96,
+  "text": "And what's really cool is that when you"
+ },
+ {
+  "start": 900.28,
+  "duration": 4.48,
+  "text": "walk down this path, you start to see"
+ },
+ {
+  "start": 902.52,
+  "duration": 4.04,
+  "text": "the shape of some new types of roles"
+ },
+ {
+  "start": 904.76,
+  "duration": 3.079,
+  "text": "that will emerge."
+ },
+ {
+  "start": 906.56,
+  "duration": 3.24,
+  "text": "One of the things that grates me"
+ },
+ {
+  "start": 907.839,
+  "duration": 4.441,
+  "text": "endlessly about the job conversation"
+ },
+ {
+  "start": 909.8,
+  "duration": 6.08,
+  "text": "around AI is that it tends to be either"
+ },
+ {
+  "start": 912.28,
+  "duration": 5.4,
+  "text": "A, AI will take all our jobs or B, no"
+ },
+ {
+  "start": 915.88,
+  "duration": 3.08,
+  "text": "new technologies always create new types"
+ },
+ {
+  "start": 917.68,
+  "duration": 3.36,
+  "text": "of jobs."
+ },
+ {
+  "start": 918.96,
+  "duration": 4.36,
+  "text": "Now clearly I am in the B camp but what"
+ },
+ {
+  "start": 921.04,
+  "duration": 4.44,
+  "text": "frustrates me about the B argument is"
+ },
+ {
+  "start": 923.32,
+  "duration": 4.4,
+  "text": "that effectively no one takes the time"
+ },
+ {
+  "start": 925.48,
+  "duration": 4.08,
+  "text": "to actually try to game out what those"
+ },
+ {
+  "start": 927.72,
+  "duration": 3.76,
+  "text": "new jobs might look like."
+ },
+ {
+  "start": 929.56,
+  "duration": 3.68,
+  "text": "Now, there is a certain honesty to that"
+ },
+ {
+  "start": 931.48,
+  "duration": 3.52,
+  "text": "in the admitting that we very rarely"
+ },
+ {
+  "start": 933.24,
+  "duration": 2.96,
+  "text": "know what the future is shaped like and"
+ },
+ {
+  "start": 935.0,
+  "duration": 3.04,
+  "text": "what type of jobs will be needed to"
+ },
+ {
+  "start": 936.2,
+  "duration": 3.96,
+  "text": "support it. But, that doesn't mean that"
+ },
+ {
+  "start": 938.04,
+  "duration": 4.8,
+  "text": "we can't try. And what's cool about"
+ },
+ {
+  "start": 940.16,
+  "duration": 4.76,
+  "text": "what's happening in 2026 with agents"
+ },
+ {
+  "start": 942.84,
+  "duration": 3.72,
+  "text": "unlocking this infinite backlog is that"
+ },
+ {
+  "start": 944.92,
+  "duration": 3.76,
+  "text": "we don't just have to imagine, we're"
+ },
+ {
+  "start": 946.56,
+  "duration": 4.48,
+  "text": "starting to see some glimpses. Turning"
+ },
+ {
+  "start": 948.68,
+  "duration": 4.16,
+  "text": "it back to Aaron Levie again from Box."
+ },
+ {
+  "start": 951.04,
+  "duration": 3.8,
+  "text": "On Thursday, he tweeted, \"Starting to"
+ },
+ {
+  "start": 952.84,
+  "duration": 4.48,
+  "text": "hire and retrain for new agent"
+ },
+ {
+  "start": 954.84,
+  "duration": 4.16,
+  "text": "engineering roles for internal functions"
+ },
+ {
+  "start": 957.32,
+  "duration": 3.76,
+  "text": "to help get more powerful agents working"
+ },
+ {
+  "start": 959.0,
+  "duration": 3.56,
+  "text": "on critical business processes."
+ },
+ {
+  "start": 961.08,
+  "duration": 3.08,
+  "text": "I expect this type of role to be a very"
+ },
+ {
+  "start": 962.56,
+  "duration": 3.6,
+  "text": "big deal over time at Box and other"
+ },
+ {
+  "start": 964.16,
+  "duration": 4.48,
+  "text": "companies. It looks something like an"
+ },
+ {
+  "start": 966.16,
+  "duration": 4.04,
+  "text": "internal FTE whose job it is to wire up"
+ },
+ {
+  "start": 968.64,
+  "duration": 3.2,
+  "text": "internal systems and get agents working"
+ },
+ {
+  "start": 970.2,
+  "duration": 3.04,
+  "text": "with them effectively."
+ },
+ {
+  "start": 971.84,
+  "duration": 2.84,
+  "text": "The person will be extremely technical"
+ },
+ {
+  "start": 973.24,
+  "duration": 2.8,
+  "text": "and capable of building secure governed"
+ },
+ {
+  "start": 974.68,
+  "duration": 2.88,
+  "text": "agents for internal workflows that"
+ },
+ {
+  "start": 976.04,
+  "duration": 3.6,
+  "text": "connect to business systems like Box,"
+ },
+ {
+  "start": 977.56,
+  "duration": 4.2,
+  "text": "Salesforce, Workday, etc. and codify"
+ },
+ {
+  "start": 979.64,
+  "duration": 3.44,
+  "text": "workflows and skills. In some cases,"
+ },
+ {
+  "start": 981.76,
+  "duration": 2.96,
+  "text": "this person may understand the business"
+ },
+ {
+  "start": 983.08,
+  "duration": 3.16,
+  "text": "process well enough to do it fully, but"
+ },
+ {
+  "start": 984.72,
+  "duration": 2.8,
+  "text": "in many cases, I expect them to work"
+ },
+ {
+  "start": 986.24,
+  "duration": 3.52,
+  "text": "with the businesses directly in an"
+ },
+ {
+  "start": 987.52,
+  "duration": 3.96,
+  "text": "embedded fashion. Ironically, that may"
+ },
+ {
+  "start": 989.76,
+  "duration": 3.8,
+  "text": "introduce another new role on the"
+ },
+ {
+  "start": 991.48,
+  "duration": 3.44,
+  "text": "business side that is more akin to agent"
+ },
+ {
+  "start": 993.56,
+  "duration": 3.52,
+  "text": "product management for internal"
+ },
+ {
+  "start": 994.92,
+  "duration": 4.0,
+  "text": "processes. The key is that you need"
+ },
+ {
+  "start": 997.08,
+  "duration": 3.44,
+  "text": "technical plus process people that can"
+ },
+ {
+  "start": 998.92,
+  "duration": 3.72,
+  "text": "span multiple teams or functions in an"
+ },
+ {
+  "start": 1000.52,
+  "duration": 4.16,
+  "text": "organization. It's not about bringing"
+ },
+ {
+  "start": 1002.64,
+  "duration": 4.36,
+  "text": "automation to a job, but about bringing"
+ },
+ {
+  "start": 1004.68,
+  "duration": 4.0,
+  "text": "automation to a process. This is going"
+ },
+ {
+  "start": 1007.0,
+  "duration": 3.52,
+  "text": "to be a very big trend in most companies"
+ },
+ {
+  "start": 1008.68,
+  "duration": 3.88,
+  "text": "going forward. Fun to watch the early"
+ },
+ {
+  "start": 1010.52,
+  "duration": 3.2,
+  "text": "innings of what this will look like."
+ },
+ {
+  "start": 1012.56,
+  "duration": 3.48,
+  "text": "Now, this is something similar to what I"
+ },
+ {
+  "start": 1013.72,
+  "duration": 4.0,
+  "text": "talked about in my 2026 predictions when"
+ },
+ {
+  "start": 1016.04,
+  "duration": 3.12,
+  "text": "I talked about internally deployed five"
+ },
+ {
+  "start": 1017.72,
+  "duration": 2.68,
+  "text": "coders. People who could help"
+ },
+ {
+  "start": 1019.16,
+  "duration": 2.88,
+  "text": "non-technical people inside the"
+ },
+ {
+  "start": 1020.4,
+  "duration": 3.32,
+  "text": "organization figure out how to use these"
+ },
+ {
+  "start": 1022.04,
+  "duration": 3.159,
+  "text": "tools for more general business or"
+ },
+ {
+  "start": 1023.72,
+  "duration": 3.239,
+  "text": "knowledge work."
+ },
+ {
+  "start": 1025.199,
+  "duration": 3.921,
+  "text": "And while even Aaron, who is literally"
+ },
+ {
+  "start": 1026.959,
+  "duration": 4.0,
+  "text": "designing these roles right now, doesn't"
+ },
+ {
+  "start": 1029.12,
+  "duration": 3.4,
+  "text": "know exactly what they're going to mean,"
+ },
+ {
+  "start": 1030.959,
+  "duration": 3.681,
+  "text": "it's not hard to imagine some of the"
+ },
+ {
+  "start": 1032.52,
+  "duration": 3.84,
+  "text": "things that might be created. You"
+ },
+ {
+  "start": 1034.64,
+  "duration": 3.199,
+  "text": "basically take the opportunity created"
+ },
+ {
+  "start": 1036.36,
+  "duration": 3.56,
+  "text": "by fleets of agents unlocking the"
+ },
+ {
+  "start": 1037.839,
+  "duration": 3.561,
+  "text": "infinite backlog divided by the new"
+ },
+ {
+  "start": 1039.92,
+  "duration": 3.519,
+  "text": "support structures needed to make that"
+ },
+ {
+  "start": 1041.4,
+  "duration": 4.32,
+  "text": "work and what comes out is not just"
+ },
+ {
+  "start": 1043.439,
+  "duration": 4.361,
+  "text": "changes to what existing people do but a"
+ },
+ {
+  "start": 1045.72,
+  "duration": 3.72,
+  "text": "whole lot of new roles."
+ },
+ {
+  "start": 1047.8,
+  "duration": 3.48,
+  "text": "You've got technical and infrastructural"
+ },
+ {
+  "start": 1049.44,
+  "duration": 3.88,
+  "text": "roles which is sort of more what Aaron"
+ },
+ {
+  "start": 1051.28,
+  "duration": 3.84,
+  "text": "was talking about. You've got agent ops"
+ },
+ {
+  "start": 1053.32,
+  "duration": 3.76,
+  "text": "engineers who keep the fleets running,"
+ },
+ {
+  "start": 1055.12,
+  "duration": 3.32,
+  "text": "context librarians whose job it is to"
+ },
+ {
+  "start": 1057.08,
+  "duration": 3.48,
+  "text": "curate what agents know and make sure"
+ },
+ {
+  "start": 1058.44,
+  "duration": 3.2,
+  "text": "it's up to date and or manage complex"
+ },
+ {
+  "start": 1060.56,
+  "duration": 3.2,
+  "text": "permissioning which is going to be a"
+ },
+ {
+  "start": 1061.64,
+  "duration": 4.48,
+  "text": "huge part of every organization. You've"
+ },
+ {
+  "start": 1063.76,
+  "duration": 4.44,
+  "text": "got eval engineers who create quality"
+ },
+ {
+  "start": 1066.12,
+  "duration": 3.6,
+  "text": "gates at scale rather than assuming that"
+ },
+ {
+  "start": 1068.2,
+  "duration": 3.52,
+  "text": "every person who uses agents is going to"
+ },
+ {
+  "start": 1069.72,
+  "duration": 3.4,
+  "text": "be equally good at that. And then moving"
+ },
+ {
+  "start": 1071.72,
+  "duration": 3.0,
+  "text": "on from the technical we also have all"
+ },
+ {
+  "start": 1073.12,
+  "duration": 3.68,
+  "text": "of these new coordination and alignment"
+ },
+ {
+  "start": 1074.72,
+  "duration": 3.92,
+  "text": "roles. Coordination architects who"
+ },
+ {
+  "start": 1076.8,
+  "duration": 3.48,
+  "text": "design how everything stays legible,"
+ },
+ {
+  "start": 1078.64,
+  "duration": 3.2,
+  "text": "information pipeline owners who route"
+ },
+ {
+  "start": 1080.28,
+  "duration": 3.12,
+  "text": "signals to the right places,"
+ },
+ {
+  "start": 1081.84,
+  "duration": 3.64,
+  "text": "entrepreneur orchestration leads who"
+ },
+ {
+  "start": 1083.4,
+  "duration": 3.2,
+  "text": "broker conversations across overlapping"
+ },
+ {
+  "start": 1085.48,
+  "duration": 2.36,
+  "text": "work."
+ },
+ {
+  "start": 1086.6,
+  "duration": 3.6,
+  "text": "Finally, there are the strategic and"
+ },
+ {
+  "start": 1087.84,
+  "duration": 4.92,
+  "text": "managerial. Think experiment portfolio"
+ },
+ {
+  "start": 1090.2,
+  "duration": 5.52,
+  "text": "managers who fund scale merge and kill"
+ },
+ {
+  "start": 1092.76,
+  "duration": 5.12,
+  "text": "agentic unlocks of the infinite backlog."
+ },
+ {
+  "start": 1095.72,
+  "duration": 4.84,
+  "text": "Entrepreneur coaches who take this new"
+ },
+ {
+  "start": 1097.88,
+  "duration": 4.24,
+  "text": "generation of agentic entrepreneurs and"
+ },
+ {
+  "start": 1100.56,
+  "duration": 3.96,
+  "text": "support them with judgment, pacing,"
+ },
+ {
+  "start": 1102.12,
+  "duration": 5.68,
+  "text": "founder condition support and more."
+ },
+ {
+  "start": 1104.52,
+  "duration": 4.64,
+  "text": "Now to be clear, I have no idea if these"
+ },
+ {
+  "start": 1107.8,
+  "duration": 3.52,
+  "text": "are the exact roles that are going to be"
+ },
+ {
+  "start": 1109.16,
+  "duration": 3.4,
+  "text": "created. It is almost certainly the case"
+ },
+ {
+  "start": 1111.32,
+  "duration": 2.32,
+  "text": "that the way that it shakes out will be"
+ },
+ {
+  "start": 1112.56,
+  "duration": 3.8,
+  "text": "different than I'm sitting here and"
+ },
+ {
+  "start": 1113.64,
+  "duration": 5.4,
+  "text": "imagining it. But you better believe"
+ },
+ {
+  "start": 1116.36,
+  "duration": 5.96,
+  "text": "that some version of all these things is"
+ },
+ {
+  "start": 1119.04,
+  "duration": 4.76,
+  "text": "going to become big parts of what we do"
+ },
+ {
+  "start": 1122.32,
+  "duration": 2.52,
+  "text": "whether it's old roles that are just"
+ },
+ {
+  "start": 1123.8,
+  "duration": 4.2,
+  "text": "updated to have these new"
+ },
+ {
+  "start": 1124.84,
+  "duration": 5.72,
+  "text": "responsibilities or new roles entirely."
+ },
+ {
+  "start": 1128.0,
+  "duration": 5.04,
+  "text": "Now, none of this is going to be easy."
+ },
+ {
+  "start": 1130.56,
+  "duration": 4.72,
+  "text": "My thesis for this show is that agents"
+ },
+ {
+  "start": 1133.04,
+  "duration": 3.96,
+  "text": "make every job a startup."
+ },
+ {
+  "start": 1135.28,
+  "duration": 3.56,
+  "text": "Not everyone wants to work for a startup"
+ },
+ {
+  "start": 1137.0,
+  "duration": 4.52,
+  "text": "however and that's going to cause stress"
+ },
+ {
+  "start": 1138.84,
+  "duration": 4.44,
+  "text": "and challenge. But the opportunity is so"
+ },
+ {
+  "start": 1141.52,
+  "duration": 4.08,
+  "text": "immense that it's going to pay off to"
+ },
+ {
+  "start": 1143.28,
+  "duration": 3.8,
+  "text": "figure out how to make it work."
+ },
+ {
+  "start": 1145.6,
+  "duration": 3.32,
+  "text": "Now the vast majority of you guys"
+ },
+ {
+  "start": 1147.08,
+  "duration": 5.4,
+  "text": "listening, even though you are in the"
+ },
+ {
+  "start": 1148.92,
+  "duration": 5.28,
+  "text": "very very top tier and vanguard of where"
+ },
+ {
+  "start": 1152.48,
+  "duration": 4.52,
+  "text": "individuals and organizations are when"
+ },
+ {
+  "start": 1154.2,
+  "duration": 5.12,
+  "text": "it comes to AI. Still probably haven't"
+ },
+ {
+  "start": 1157.0,
+  "duration": 4.24,
+  "text": "gotten all that far along in your"
+ },
+ {
+  "start": 1159.32,
+  "duration": 3.16,
+  "text": "personal or organizational infinite"
+ },
+ {
+  "start": 1161.24,
+  "duration": 3.6,
+  "text": "backlog."
+ },
+ {
+  "start": 1162.48,
+  "duration": 4.44,
+  "text": "I certainly have some very clear known"
+ },
+ {
+  "start": 1164.84,
+  "duration": 3.48,
+  "text": "agentic work that I need to be doing,"
+ },
+ {
+  "start": 1166.92,
+  "duration": 3.04,
+  "text": "like building better systems for"
+ },
+ {
+  "start": 1168.32,
+  "duration": 4.32,
+  "text": "distributing and repurposing content,"
+ },
+ {
+  "start": 1169.96,
+  "duration": 4.76,
+  "text": "which I have exactly zero of right now."
+ },
+ {
+  "start": 1172.64,
+  "duration": 4.08,
+  "text": "The point being we are very early in"
+ },
+ {
+  "start": 1174.72,
+  "duration": 4.28,
+  "text": "this conversation. That doesn't mean we"
+ },
+ {
+  "start": 1176.72,
+  "duration": 3.72,
+  "text": "can't start having the conversation. I"
+ },
+ {
+  "start": 1179.0,
+  "duration": 3.12,
+  "text": "think some of the types of conversations"
+ },
+ {
+  "start": 1180.44,
+  "duration": 3.28,
+  "text": "you could be having are one, on the"
+ },
+ {
+  "start": 1182.12,
+  "duration": 3.64,
+  "text": "backlog itself."
+ },
+ {
+  "start": 1183.72,
+  "duration": 4.08,
+  "text": "What is actually in your organization's"
+ },
+ {
+  "start": 1185.76,
+  "duration": 3.04,
+  "text": "infinite backlog? In other words, what"
+ },
+ {
+  "start": 1187.8,
+  "duration": 3.24,
+  "text": "have you always meant to do but"
+ },
+ {
+  "start": 1188.8,
+  "duration": 3.96,
+  "text": "couldn't? What parts seem reachable now"
+ },
+ {
+  "start": 1191.04,
+  "duration": 3.0,
+  "text": "that weren't 6 months ago? And who in"
+ },
+ {
+  "start": 1192.76,
+  "duration": 3.32,
+  "text": "the company is best positioned to go"
+ },
+ {
+  "start": 1194.04,
+  "duration": 3.6,
+  "text": "after which parts? Another important"
+ },
+ {
+  "start": 1196.08,
+  "duration": 3.44,
+  "text": "conversation is how you support the"
+ },
+ {
+  "start": 1197.64,
+  "duration": 3.72,
+  "text": "people doing the work. Do your people"
+ },
+ {
+  "start": 1199.52,
+  "duration": 4.28,
+  "text": "have the power, the model access, the"
+ },
+ {
+  "start": 1201.36,
+  "duration": 4.64,
+  "text": "tools, the budgets to actually unlock"
+ },
+ {
+  "start": 1203.8,
+  "duration": 3.24,
+  "text": "the true capability set of the agentic"
+ },
+ {
+  "start": 1206.0,
+  "duration": 2.36,
+  "text": "era?"
+ },
+ {
+  "start": 1207.04,
+  "duration": 3.72,
+  "text": "Do they have the right types of"
+ },
+ {
+  "start": 1208.36,
+  "duration": 4.16,
+  "text": "playgrounds to experiment in? Can they"
+ },
+ {
+  "start": 1210.76,
+  "duration": 3.92,
+  "text": "get the cross-functional context their"
+ },
+ {
+  "start": 1212.52,
+  "duration": 4.36,
+  "text": "agents need without negotiating it from"
+ },
+ {
+  "start": 1214.68,
+  "duration": 3.96,
+  "text": "scratch every time? Are you teaching"
+ },
+ {
+  "start": 1216.88,
+  "duration": 3.4,
+  "text": "things like judgment and prioritization,"
+ },
+ {
+  "start": 1218.64,
+  "duration": 3.32,
+  "text": "not just prompting? Are you building"
+ },
+ {
+  "start": 1220.28,
+  "duration": 3.84,
+  "text": "pacing infrastructure or just rewarding"
+ },
+ {
+  "start": 1221.96,
+  "duration": 3.96,
+  "text": "whoever stays up latest?"
+ },
+ {
+  "start": 1224.12,
+  "duration": 4.12,
+  "text": "A third type of conversation is around"
+ },
+ {
+  "start": 1225.92,
+  "duration": 4.32,
+  "text": "organizational coherence. Does the org"
+ },
+ {
+  "start": 1228.24,
+  "duration": 4.08,
+  "text": "actually have that ambient awareness of"
+ },
+ {
+  "start": 1230.24,
+  "duration": 3.96,
+  "text": "what's being built across teams? Are"
+ },
+ {
+  "start": 1232.32,
+  "duration": 4.24,
+  "text": "managers equipped to make portfolio"
+ },
+ {
+  "start": 1234.2,
+  "duration": 3.64,
+  "text": "level decisions about emerging products?"
+ },
+ {
+  "start": 1236.56,
+  "duration": 3.16,
+  "text": "If something works in one corner of the"
+ },
+ {
+  "start": 1237.84,
+  "duration": 4.0,
+  "text": "company, are there mechanisms for it to"
+ },
+ {
+  "start": 1239.72,
+  "duration": 3.16,
+  "text": "spread to other parts of the company?"
+ },
+ {
+  "start": 1241.84,
+  "duration": 3.08,
+  "text": "And finally, of course, what are the"
+ },
+ {
+  "start": 1242.88,
+  "duration": 4.32,
+  "text": "implications for leadership itself? What"
+ },
+ {
+  "start": 1244.92,
+  "duration": 4.88,
+  "text": "does management mean on a fundamental"
+ },
+ {
+  "start": 1247.2,
+  "duration": 5.04,
+  "text": "level when its job shifts from assigning"
+ },
+ {
+  "start": 1249.8,
+  "duration": 4.88,
+  "text": "tasks to harnessing emergent infinite"
+ },
+ {
+  "start": 1252.24,
+  "duration": 4.28,
+  "text": "backlog unlocks? From a cultivating"
+ },
+ {
+  "start": 1254.68,
+  "duration": 3.56,
+  "text": "leadership perspective, which of the"
+ },
+ {
+  "start": 1256.52,
+  "duration": 3.44,
+  "text": "people currently thrive in the founder"
+ },
+ {
+  "start": 1258.24,
+  "duration": 3.52,
+  "text": "condition, and which need a different"
+ },
+ {
+  "start": 1259.96,
+  "duration": 3.6,
+  "text": "shape of work? And of course, that"
+ },
+ {
+  "start": 1261.76,
+  "duration": 4.08,
+  "text": "really fun one, which is going to come"
+ },
+ {
+  "start": 1263.56,
+  "duration": 4.2,
+  "text": "up so much faster than people think it"
+ },
+ {
+  "start": 1265.84,
+  "duration": 3.68,
+  "text": "is. What are the new roles that we're"
+ },
+ {
+  "start": 1267.76,
+  "duration": 3.88,
+  "text": "going to need that don't exist in the"
+ },
+ {
+  "start": 1269.52,
+  "duration": 4.28,
+  "text": "org chart yet? The great thing about"
+ },
+ {
+  "start": 1271.64,
+  "duration": 3.6,
+  "text": "starting to have these conversations now"
+ },
+ {
+  "start": 1273.8,
+  "duration": 3.48,
+  "text": "is that most of the answers are going to"
+ },
+ {
+  "start": 1275.24,
+  "duration": 4.04,
+  "text": "involve a lot of work that's going to"
+ },
+ {
+  "start": 1277.28,
+  "duration": 4.32,
+  "text": "take time and effort. The earlier you"
+ },
+ {
+  "start": 1279.28,
+  "duration": 3.92,
+  "text": "start, the better position you'll be."
+ },
+ {
+  "start": 1281.6,
+  "duration": 4.2,
+  "text": "So that my friends is my argument for"
+ },
+ {
+  "start": 1283.2,
+  "duration": 3.96,
+  "text": "why agents make every job a startup."
+ },
+ {
+  "start": 1285.8,
+  "duration": 3.88,
+  "text": "This will be challenging for many,"
+ },
+ {
+  "start": 1287.16,
+  "duration": 3.92,
+  "text": "incredibly exhilarating for others, but"
+ },
+ {
+  "start": 1289.68,
+  "duration": 3.28,
+  "text": "if nothing else we're all in it together"
+ },
+ {
+  "start": 1291.08,
+  "duration": 3.0,
+  "text": "and figuring it out as we go."
+ },
+ {
+  "start": 1292.96,
+  "duration": 5.6,
+  "text": "Thanks as always for listening or"
+ },
+ {
+  "start": 1294.08,
+  "duration": 4.48,
+  "text": "watching and until next time, peace."
+ }
+]

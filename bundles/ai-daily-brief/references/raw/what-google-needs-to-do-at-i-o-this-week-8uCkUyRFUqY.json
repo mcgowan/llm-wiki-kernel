@@ -1,0 +1,4242 @@
+[
+ {
+  "start": 0.92,
+  "duration": 3.48,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 2.8,
+  "duration": 4.0,
+  "text": "the significance of Codex coming to"
+ },
+ {
+  "start": 4.4,
+  "duration": 4.84,
+  "text": "ChatGPT mobile, the difference between"
+ },
+ {
+  "start": 6.8,
+  "duration": 5.08,
+  "text": "consumer and work AI, and what to expect"
+ },
+ {
+  "start": 9.24,
+  "duration": 4.68,
+  "text": "from Google's IO event next week."
+ },
+ {
+  "start": 11.88,
+  "duration": 4.4,
+  "text": "Before that, in the headlines, a heck of"
+ },
+ {
+  "start": 13.92,
+  "duration": 4.0,
+  "text": "a first day for Cerebras on Wall Street."
+ },
+ {
+  "start": 16.28,
+  "duration": 3.2,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 17.92,
+  "duration": 4.52,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 19.48,
+  "duration": 4.16,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 22.44,
+  "duration": 3.12,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 23.64,
+  "duration": 3.88,
+  "text": "before we dive in. First of all, check"
+ },
+ {
+  "start": 25.56,
+  "duration": 3.8,
+  "text": "out our careers page. I am hiring a"
+ },
+ {
+  "start": 27.52,
+  "duration": 3.96,
+  "text": "full-time growth engineer. That is"
+ },
+ {
+  "start": 29.36,
+  "duration": 3.6,
+  "text": "someone who is engineering growth, not a"
+ },
+ {
+  "start": 31.48,
+  "duration": 3.72,
+  "text": "developer by training necessarily,"
+ },
+ {
+  "start": 32.96,
+  "duration": 4.0,
+  "text": "although you will be building lots, but"
+ },
+ {
+  "start": 35.2,
+  "duration": 3.84,
+  "text": "it is a very cool way to be a part of"
+ },
+ {
+  "start": 36.96,
+  "duration": 4.28,
+  "text": "this ecosystem. And one final note,"
+ },
+ {
+  "start": 39.04,
+  "duration": 4.08,
+  "text": "Enterprise Claw Cohort 3 is currently"
+ },
+ {
+  "start": 41.24,
+  "duration": 3.12,
+  "text": "enrolling. You can find out about that"
+ },
+ {
+  "start": 43.12,
+  "duration": 3.84,
+  "text": "either from our website or at"
+ },
+ {
+  "start": 44.36,
+  "duration": 4.0,
+  "text": "enterpriseclaw.ai."
+ },
+ {
+  "start": 46.96,
+  "duration": 2.6,
+  "text": "Today we kick off with a follow-up of a"
+ },
+ {
+  "start": 48.36,
+  "duration": 3.0,
+  "text": "story that we have been watching this"
+ },
+ {
+  "start": 49.56,
+  "duration": 4.76,
+  "text": "week, which is the public market debut"
+ },
+ {
+  "start": 51.36,
+  "duration": 5.16,
+  "text": "of Cerebras. TLDR, the company delivered"
+ },
+ {
+  "start": 54.32,
+  "duration": 4.56,
+  "text": "a massive first day of trading, kicking"
+ },
+ {
+  "start": 56.52,
+  "duration": 5.0,
+  "text": "off a potentially significant IPO season"
+ },
+ {
+  "start": 58.88,
+  "duration": 4.8,
+  "text": "for AI companies. Now, heading into the"
+ },
+ {
+  "start": 61.52,
+  "duration": 4.4,
+  "text": "big day, Cerebras had upsized their"
+ },
+ {
+  "start": 63.68,
+  "duration": 3.76,
+  "text": "share offering, raised their price, and"
+ },
+ {
+  "start": 65.92,
+  "duration": 3.0,
+  "text": "still, after all of that, ended up"
+ },
+ {
+  "start": 67.44,
+  "duration": 3.68,
+  "text": "pricing the sale above their guided"
+ },
+ {
+  "start": 68.92,
+  "duration": 3.56,
+  "text": "range. Red-hot demand during the private"
+ },
+ {
+  "start": 71.12,
+  "duration": 3.2,
+  "text": "roadshow flowed through into public"
+ },
+ {
+  "start": 72.48,
+  "duration": 3.52,
+  "text": "markets on Thursday, with the opening"
+ },
+ {
+  "start": 74.32,
+  "duration": 3.92,
+  "text": "trade seeing the stock double in price"
+ },
+ {
+  "start": 76.0,
+  "duration": 4.28,
+  "text": "before settling into a 68% gain at the"
+ },
+ {
+  "start": 78.24,
+  "duration": 4.36,
+  "text": "end of trading. Cerebras began the day"
+ },
+ {
+  "start": 80.28,
+  "duration": 3.8,
+  "text": "as a $40 billion company, touched a"
+ },
+ {
+  "start": 82.6,
+  "duration": 4.64,
+  "text": "hundred billion for a minute, and now"
+ },
+ {
+  "start": 84.08,
+  "duration": 5.44,
+  "text": "has a market cap of 66 billion. Now,"
+ },
+ {
+  "start": 87.24,
+  "duration": 3.68,
+  "text": "predictably for a frothy IPO, and I"
+ },
+ {
+  "start": 89.52,
+  "duration": 3.08,
+  "text": "think that is a certainly reasonable"
+ },
+ {
+  "start": 90.92,
+  "duration": 3.56,
+  "text": "frame, the launch brought out a fair"
+ },
+ {
+  "start": 92.6,
+  "duration": 3.84,
+  "text": "number of contrarians on the stock."
+ },
+ {
+  "start": 94.48,
+  "duration": 3.8,
+  "text": "CNBC's Jim Cramer warned his audience to"
+ },
+ {
+  "start": 96.44,
+  "duration": 3.68,
+  "text": "tread carefully, arguing that the price"
+ },
+ {
+  "start": 98.28,
+  "duration": 3.32,
+  "text": "had detached from fundamentals. \"While"
+ },
+ {
+  "start": 100.12,
+  "duration": 2.8,
+  "text": "there might be a situation in the future"
+ },
+ {
+  "start": 101.6,
+  "duration": 3.12,
+  "text": "where I can recommend Cerebras,\" he"
+ },
+ {
+  "start": 102.92,
+  "duration": 3.56,
+  "text": "said, \"I just can't even come close to"
+ },
+ {
+  "start": 104.72,
+  "duration": 3.0,
+  "text": "justifying the valuation up here, given"
+ },
+ {
+  "start": 106.48,
+  "duration": 2.96,
+  "text": "how much it's already run right out of"
+ },
+ {
+  "start": 107.72,
+  "duration": 2.84,
+  "text": "the gate. For now, I say keep your bat"
+ },
+ {
+  "start": 109.44,
+  "duration": 2.48,
+  "text": "on your shoulder and hope the stock"
+ },
+ {
+  "start": 110.56,
+  "duration": 3.52,
+  "text": "gives you a giant pullback, because at"
+ },
+ {
+  "start": 111.92,
+  "duration": 3.8,
+  "text": "these levels it's too rich for me.\""
+ },
+ {
+  "start": 114.08,
+  "duration": 3.68,
+  "text": "Meanwhile, General Intelligence's Andrew"
+ },
+ {
+  "start": 115.72,
+  "duration": 3.88,
+  "text": "Piccinelli was one of many declaring,"
+ },
+ {
+  "start": 117.76,
+  "duration": 4.48,
+  "text": "\"Quote, the Cerebrus IPO may be the"
+ },
+ {
+  "start": 119.6,
+  "duration": 4.44,
+  "text": "top.\" CNBC reported that there were 45"
+ },
+ {
+  "start": 122.24,
+  "duration": 3.36,
+  "text": "buyers for every seller of the stock"
+ },
+ {
+  "start": 124.04,
+  "duration": 2.88,
+  "text": "with Packy McCormick tongue-in-cheek"
+ },
+ {
+  "start": 125.6,
+  "duration": 3.32,
+  "text": "arguing that the same is true for"
+ },
+ {
+  "start": 126.92,
+  "duration": 3.4,
+  "text": "Cerebrus's product posting,"
+ },
+ {
+  "start": 128.92,
+  "duration": 3.28,
+  "text": "\"Once again, you people don't understand"
+ },
+ {
+  "start": 130.32,
+  "duration": 3.68,
+  "text": "infinites. If inference demand is"
+ },
+ {
+  "start": 132.2,
+  "duration": 4.04,
+  "text": "infinite, Cerebrus at $400 is"
+ },
+ {
+  "start": 134.0,
+  "duration": 4.92,
+  "text": "ridiculously cheap. Infinity times their"
+ },
+ {
+  "start": 136.24,
+  "duration": 4.6,
+  "text": "inference market share equals infinity.\""
+ },
+ {
+  "start": 138.92,
+  "duration": 4.039,
+  "text": "Now, obviously, anytime you see this"
+ },
+ {
+  "start": 140.84,
+  "duration": 3.28,
+  "text": "much intense demand for a single issue,"
+ },
+ {
+  "start": 142.959,
+  "duration": 3.361,
+  "text": "it's worthy of some amount of"
+ },
+ {
+  "start": 144.12,
+  "duration": 3.76,
+  "text": "skepticism. However, it sets up a pretty"
+ },
+ {
+  "start": 146.32,
+  "duration": 3.8,
+  "text": "interesting dynamic for the mega IPOs"
+ },
+ {
+  "start": 147.88,
+  "duration": 4.079,
+  "text": "coming down the pike. SpaceX is expected"
+ },
+ {
+  "start": 150.12,
+  "duration": 3.12,
+  "text": "to finalize their paperwork next week,"
+ },
+ {
+  "start": 151.959,
+  "duration": 3.281,
+  "text": "so they could go live by the end of the"
+ },
+ {
+  "start": 153.24,
+  "duration": 3.48,
+  "text": "month. Then we have Anthropic and OpenAI"
+ },
+ {
+  "start": 155.24,
+  "duration": 3.2,
+  "text": "rumored to be lining up their IPOs by"
+ },
+ {
+  "start": 156.72,
+  "duration": 3.36,
+  "text": "the end of the year. Investor Kip"
+ },
+ {
+  "start": 158.44,
+  "duration": 3.6,
+  "text": "Hagerty suggested we shouldn't overthink"
+ },
+ {
+  "start": 160.08,
+  "duration": 3.84,
+  "text": "it writing, \"If you're bearish on this"
+ },
+ {
+  "start": 162.04,
+  "duration": 3.919,
+  "text": "market just as we are entering the IPO"
+ },
+ {
+  "start": 163.92,
+  "duration": 3.4,
+  "text": "boom phase, good luck to you. You're"
+ },
+ {
+  "start": 165.959,
+  "duration": 2.881,
+  "text": "going to need it.\""
+ },
+ {
+  "start": 167.32,
+  "duration": 3.12,
+  "text": "This is one of those moments where"
+ },
+ {
+  "start": 168.84,
+  "duration": 3.48,
+  "text": "anytime you see anyone arguing about the"
+ },
+ {
+  "start": 170.44,
+  "duration": 3.519,
+  "text": "fundamentals, it kind of feels divorced"
+ },
+ {
+  "start": 172.32,
+  "duration": 3.0,
+  "text": "from the reality of the moment, which is"
+ },
+ {
+  "start": 173.959,
+  "duration": 3.121,
+  "text": "that fundamentals don't matter if"
+ },
+ {
+  "start": 175.32,
+  "duration": 4.0,
+  "text": "everyone is bidding AI and everyone"
+ },
+ {
+  "start": 177.08,
+  "duration": 4.439,
+  "text": "right now is bidding AI. For what it's"
+ },
+ {
+  "start": 179.32,
+  "duration": 4.16,
+  "text": "worth, this is also why I think a lot of"
+ },
+ {
+  "start": 181.519,
+  "duration": 3.44,
+  "text": "the discussion around the OpenAI versus"
+ },
+ {
+  "start": 183.48,
+  "duration": 3.44,
+  "text": "Anthropic IPOs just a little"
+ },
+ {
+  "start": 184.959,
+  "duration": 3.961,
+  "text": "preposterous. Like there isn't going to"
+ },
+ {
+  "start": 186.92,
+  "duration": 3.68,
+  "text": "be absolutely infinite demand for both"
+ },
+ {
+  "start": 188.92,
+  "duration": 3.44,
+  "text": "of those stocks."
+ },
+ {
+  "start": 190.6,
+  "duration": 3.359,
+  "text": "Couple more stories staying in markets."
+ },
+ {
+  "start": 192.36,
+  "duration": 2.84,
+  "text": "Figma is the latest software company to"
+ },
+ {
+  "start": 193.959,
+  "duration": 3.681,
+  "text": "come back from the dead on the back of"
+ },
+ {
+  "start": 195.2,
+  "duration": 4.16,
+  "text": "strong AI revenue. Figma was one big"
+ },
+ {
+  "start": 197.64,
+  "duration": 3.52,
+  "text": "victim of the SaaS apocalypse narrative"
+ },
+ {
+  "start": 199.36,
+  "duration": 3.64,
+  "text": "seeing their stock down as much as 50%"
+ },
+ {
+  "start": 201.16,
+  "duration": 3.48,
+  "text": "this year. However, like Atlassian"
+ },
+ {
+  "start": 203.0,
+  "duration": 3.16,
+  "text": "before them, the addition of AI features"
+ },
+ {
+  "start": 204.64,
+  "duration": 3.08,
+  "text": "seems to have put them back on the right"
+ },
+ {
+  "start": 206.16,
+  "duration": 2.92,
+  "text": "course. During Thursday night's"
+ },
+ {
+  "start": 207.72,
+  "duration": 3.84,
+  "text": "earnings, Figma reported that revenue"
+ },
+ {
+  "start": 209.08,
+  "duration": 4.36,
+  "text": "grew at a 46% pace in the past quarter"
+ },
+ {
+  "start": 211.56,
+  "duration": 3.6,
+  "text": "accelerating from 40% in the previous"
+ },
+ {
+  "start": 213.44,
+  "duration": 3.6,
+  "text": "quarter. Figma credited their AI"
+ },
+ {
+  "start": 215.16,
+  "duration": 3.4,
+  "text": "features with CFO Praveen Melwani"
+ },
+ {
+  "start": 217.04,
+  "duration": 3.56,
+  "text": "stating, \"You can't dismiss the"
+ },
+ {
+  "start": 218.56,
+  "duration": 3.48,
+  "text": "significance of new tools. Figma is one"
+ },
+ {
+  "start": 220.6,
+  "duration": 2.68,
+  "text": "of those companies where as the AI's"
+ },
+ {
+  "start": 222.04,
+  "duration": 3.16,
+  "text": "gotten better, so is our pitch for"
+ },
+ {
+  "start": 223.28,
+  "duration": 2.8,
+  "text": "customers.\" Now, an interesting nugget"
+ },
+ {
+  "start": 225.2,
+  "duration": 2.4,
+  "text": "given the themes that we've been"
+ },
+ {
+  "start": 226.08,
+  "duration": 4.2,
+  "text": "exploring around the end of the AI"
+ },
+ {
+  "start": 227.6,
+  "duration": 4.359,
+  "text": "subsidy era, in early March, Figma"
+ },
+ {
+  "start": 230.28,
+  "duration": 3.52,
+  "text": "introduced a usage cap and started"
+ },
+ {
+  "start": 231.959,
+  "duration": 3.281,
+  "text": "charging for token use above a limit."
+ },
+ {
+  "start": 233.8,
+  "duration": 3.76,
+  "text": "They said that the change hasn't made a"
+ },
+ {
+  "start": 235.24,
+  "duration": 3.72,
+  "text": "dent in retention, noting that 75% of"
+ },
+ {
+  "start": 237.56,
+  "duration": 3.0,
+  "text": "customers are still using their AI"
+ },
+ {
+  "start": 238.96,
+  "duration": 3.56,
+  "text": "features either sticking within the cap"
+ },
+ {
+  "start": 240.56,
+  "duration": 3.24,
+  "text": "or paying for additional use. Whatever"
+ },
+ {
+  "start": 242.52,
+  "duration": 2.48,
+  "text": "the combination of reasons, the market"
+ },
+ {
+  "start": 243.8,
+  "duration": 3.52,
+  "text": "now seems to believe in the SAS"
+ },
+ {
+  "start": 245.0,
+  "duration": 4.0,
+  "text": "recovery, sending the stock up 8% in"
+ },
+ {
+  "start": 247.32,
+  "duration": 3.8,
+  "text": "after-hours trading."
+ },
+ {
+  "start": 249.0,
+  "duration": 4.12,
+  "text": "Meanwhile, Nvidia is very quietly having"
+ },
+ {
+  "start": 251.12,
+  "duration": 4.64,
+  "text": "a major surge as the markets get mega"
+ },
+ {
+  "start": 253.12,
+  "duration": 4.399,
+  "text": "bullish on AI. The stock is up 20% over"
+ },
+ {
+  "start": 255.76,
+  "duration": 3.92,
+  "text": "the past 7 days, pushing the world's"
+ },
+ {
+  "start": 257.519,
+  "duration": 5.041,
+  "text": "largest company close to a $6 trillion"
+ },
+ {
+  "start": 259.68,
+  "duration": 5.239,
+  "text": "valuation. Thursday's session added 4.7%"
+ },
+ {
+  "start": 262.56,
+  "duration": 3.6,
+  "text": "to an already hot run. Look, things"
+ },
+ {
+  "start": 264.919,
+  "duration": 3.201,
+  "text": "could change fast, but right now the"
+ },
+ {
+  "start": 266.16,
+  "duration": 3.2,
+  "text": "market is very much back on the AI hype"
+ },
+ {
+  "start": 268.12,
+  "duration": 3.52,
+  "text": "train."
+ },
+ {
+  "start": 269.36,
+  "duration": 3.64,
+  "text": "Next up, a bit of a weird one. OpenAI"
+ },
+ {
+  "start": 271.64,
+  "duration": 3.36,
+  "text": "might be heading for another messy"
+ },
+ {
+  "start": 273.0,
+  "duration": 3.84,
+  "text": "breakup as things reportedly get rocky"
+ },
+ {
+  "start": 275.0,
+  "duration": 3.72,
+  "text": "with Apple. The Information reports that"
+ },
+ {
+  "start": 276.84,
+  "duration": 3.4,
+  "text": "OpenAI is considering legal action for"
+ },
+ {
+  "start": 278.72,
+  "duration": 3.76,
+  "text": "breach of contract in relation to"
+ },
+ {
+  "start": 280.24,
+  "duration": 3.679,
+  "text": "Apple's ChatGPT integration."
+ },
+ {
+  "start": 282.48,
+  "duration": 2.76,
+  "text": "Now, you might remember that this all"
+ },
+ {
+  "start": 283.919,
+  "duration": 3.161,
+  "text": "seemed a little weird right from the"
+ },
+ {
+  "start": 285.24,
+  "duration": 5.04,
+  "text": "start. It was announced as part of Apple"
+ },
+ {
+  "start": 287.08,
+  "duration": 5.04,
+  "text": "Intelligence during WWDC 2024, but the"
+ },
+ {
+  "start": 290.28,
+  "duration": 3.88,
+  "text": "whole thing had an air of half"
+ },
+ {
+  "start": 292.12,
+  "duration": 3.72,
+  "text": "commitment. Sam Altman was present at"
+ },
+ {
+  "start": 294.16,
+  "duration": 3.04,
+  "text": "the event, but he wasn't called on stage"
+ },
+ {
+  "start": 295.84,
+  "duration": 2.88,
+  "text": "as part of the announcement. And"
+ },
+ {
+  "start": 297.2,
+  "duration": 3.32,
+  "text": "overall, the integration turned out to"
+ },
+ {
+  "start": 298.72,
+  "duration": 3.48,
+  "text": "be a bit of an afterthought. The idea"
+ },
+ {
+  "start": 300.52,
+  "duration": 3.44,
+  "text": "was that Apple Intelligence could kick"
+ },
+ {
+  "start": 302.2,
+  "duration": 4.16,
+  "text": "complex requests from Siri over to"
+ },
+ {
+  "start": 303.96,
+  "duration": 3.84,
+  "text": "ChatGPT, but OpenAI's technology was not"
+ },
+ {
+  "start": 306.36,
+  "duration": 3.32,
+  "text": "being integrated as a core part of the"
+ },
+ {
+  "start": 307.8,
+  "duration": 3.2,
+  "text": "product. Now, prior to the conference,"
+ },
+ {
+  "start": 309.68,
+  "duration": 2.88,
+  "text": "people treated it like it would be"
+ },
+ {
+  "start": 311.0,
+  "duration": 3.0,
+  "text": "Altman and OpenAI's coronation,"
+ },
+ {
+  "start": 312.56,
+  "duration": 3.52,
+  "text": "enshrining them as a cornerstone of the"
+ },
+ {
+  "start": 314.0,
+  "duration": 3.88,
+  "text": "Apple ecosystem. Instead, they kind of"
+ },
+ {
+  "start": 316.08,
+  "duration": 3.44,
+  "text": "got the little brother treatment. Now,"
+ },
+ {
+  "start": 317.88,
+  "duration": 3.2,
+  "text": "that said, we know exactly how Apple"
+ },
+ {
+  "start": 319.52,
+  "duration": 3.92,
+  "text": "Intelligence has gone or not gone in the"
+ },
+ {
+  "start": 321.08,
+  "duration": 3.96,
+  "text": "subsequent years, but apparently OpenAI"
+ },
+ {
+  "start": 323.44,
+  "duration": 3.08,
+  "text": "is now reportedly considering suing"
+ },
+ {
+  "start": 325.04,
+  "duration": 3.56,
+  "text": "Apple for failing to deliver on their"
+ },
+ {
+  "start": 326.52,
+  "duration": 3.72,
+  "text": "side of the contract such as it was. A"
+ },
+ {
+  "start": 328.6,
+  "duration": 2.76,
+  "text": "source at OpenAI said that the company"
+ },
+ {
+  "start": 330.24,
+  "duration": 2.4,
+  "text": "had been trying to improve their"
+ },
+ {
+  "start": 331.36,
+  "duration": 2.68,
+  "text": "relationship with Apple over recent"
+ },
+ {
+  "start": 332.64,
+  "duration": 3.4,
+  "text": "months, but there's been a lack of"
+ },
+ {
+  "start": 334.04,
+  "duration": 3.8,
+  "text": "effort on Apple's part. That source"
+ },
+ {
+  "start": 336.04,
+  "duration": 3.4,
+  "text": "added that OpenAI would prefer not to"
+ },
+ {
+  "start": 337.84,
+  "duration": 3.079,
+  "text": "sue, but wouldn't rule it out unless"
+ },
+ {
+  "start": 339.44,
+  "duration": 3.52,
+  "text": "Apple begins showing more interest in"
+ },
+ {
+  "start": 340.919,
+  "duration": 4.081,
+  "text": "collaborating with OpenAI. Meanwhile,"
+ },
+ {
+  "start": 342.96,
+  "duration": 3.32,
+  "text": "OpenAI did not take part in last year's"
+ },
+ {
+  "start": 345.0,
+  "duration": 2.72,
+  "text": "bake-off to determine who would win the"
+ },
+ {
+  "start": 346.28,
+  "duration": 2.76,
+  "text": "contract to power the new version of"
+ },
+ {
+  "start": 347.72,
+  "duration": 3.12,
+  "text": "Siri, which was ultimately won by"
+ },
+ {
+  "start": 349.04,
+  "duration": 3.16,
+  "text": "Google. The information is also"
+ },
+ {
+  "start": 350.84,
+  "duration": 2.96,
+  "text": "reporting that Apple is now largely"
+ },
+ {
+  "start": 352.2,
+  "duration": 3.6,
+  "text": "using Claude internally for coding and"
+ },
+ {
+  "start": 353.8,
+  "duration": 3.48,
+  "text": "business work and is reportedly testing"
+ },
+ {
+  "start": 355.8,
+  "duration": 3.2,
+  "text": "native integrations of Claude and Gemini"
+ },
+ {
+  "start": 357.28,
+  "duration": 4.16,
+  "text": "for iPhone, giving them the same level"
+ },
+ {
+  "start": 359.0,
+  "duration": 4.24,
+  "text": "of system access as ChatGPT. Right now,"
+ },
+ {
+  "start": 361.44,
+  "duration": 3.44,
+  "text": "this all feels like extremely thin"
+ },
+ {
+  "start": 363.24,
+  "duration": 3.28,
+  "text": "sourcing to me, but it's worth noting,"
+ },
+ {
+  "start": 364.88,
+  "duration": 2.6,
+  "text": "especially as we're heading into a week"
+ },
+ {
+  "start": 366.52,
+  "duration": 2.52,
+  "text": "where there's going to be a lot of"
+ },
+ {
+  "start": 367.48,
+  "duration": 3.0,
+  "text": "discourse thanks to Google I/O around"
+ },
+ {
+  "start": 369.04,
+  "duration": 2.96,
+  "text": "the state of the AI race across all"
+ },
+ {
+  "start": 370.48,
+  "duration": 2.76,
+  "text": "these labs."
+ },
+ {
+  "start": 372.0,
+  "duration": 3.16,
+  "text": "Meanwhile, heading into whatever the"
+ },
+ {
+  "start": 373.24,
+  "duration": 3.12,
+  "text": "next phase of that race is, Anthropic"
+ },
+ {
+  "start": 375.16,
+  "duration": 3.12,
+  "text": "appears to be trying to set a price"
+ },
+ {
+  "start": 376.36,
+  "duration": 3.559,
+  "text": "floor for their IPO, with the Financial"
+ },
+ {
+  "start": 378.28,
+  "duration": 3.76,
+  "text": "Times reporting that a new Anthropic"
+ },
+ {
+  "start": 379.919,
+  "duration": 3.321,
+  "text": "round is all but a done deal. They state"
+ },
+ {
+  "start": 382.04,
+  "duration": 2.879,
+  "text": "that terms have been agreed to and"
+ },
+ {
+  "start": 383.24,
+  "duration": 3.92,
+  "text": "Anthropic will be raising 30 billion at"
+ },
+ {
+  "start": 384.919,
+  "duration": 4.321,
+  "text": "a valuation of 900 billion, inching them"
+ },
+ {
+  "start": 387.16,
+  "duration": 3.88,
+  "text": "ahead of OpenAI's last valuation. A"
+ },
+ {
+  "start": 389.24,
+  "duration": 3.6,
+  "text": "number of traditional venture firms like"
+ },
+ {
+  "start": 391.04,
+  "duration": 3.36,
+  "text": "Sequoia and Altimeter are said to be"
+ },
+ {
+  "start": 392.84,
+  "duration": 3.44,
+  "text": "co-leading the round with each likely to"
+ },
+ {
+  "start": 394.4,
+  "duration": 3.28,
+  "text": "invest 2 billion or more, and it appears"
+ },
+ {
+  "start": 396.28,
+  "duration": 2.72,
+  "text": "that Anthropic has no shortage of"
+ },
+ {
+  "start": 397.68,
+  "duration": 3.239,
+  "text": "investors willing to take the rest of"
+ },
+ {
+  "start": 399.0,
+  "duration": 3.36,
+  "text": "the allocation. Once it closes, this"
+ },
+ {
+  "start": 400.919,
+  "duration": 3.201,
+  "text": "will be not only one of the largest"
+ },
+ {
+  "start": 402.36,
+  "duration": 3.6,
+  "text": "venture rounds in history, but also one"
+ },
+ {
+  "start": 404.12,
+  "duration": 3.88,
+  "text": "of the largest jumps in valuation ever"
+ },
+ {
+  "start": 405.96,
+  "duration": 4.04,
+  "text": "at this scale, close to tripling up from"
+ },
+ {
+  "start": 408.0,
+  "duration": 4.12,
+  "text": "the $380 billion valuation during their"
+ },
+ {
+  "start": 410.0,
+  "duration": 3.72,
+  "text": "Series G round in February."
+ },
+ {
+  "start": 412.12,
+  "duration": 3.88,
+  "text": "Now, while investors continue to be"
+ },
+ {
+  "start": 413.72,
+  "duration": 4.16,
+  "text": "extremely enthusiastic about Anthropic,"
+ },
+ {
+  "start": 416.0,
+  "duration": 4.08,
+  "text": "at least one big company is heading in a"
+ },
+ {
+  "start": 417.88,
+  "duration": 4.28,
+  "text": "different direction. Microsoft has begun"
+ },
+ {
+  "start": 420.08,
+  "duration": 3.6,
+  "text": "canceling Claude code licenses, shifting"
+ },
+ {
+  "start": 422.16,
+  "duration": 3.88,
+  "text": "their developers across to the GitHub"
+ },
+ {
+  "start": 423.68,
+  "duration": 3.68,
+  "text": "Copilot CLI instead. Microsoft first"
+ },
+ {
+  "start": 426.04,
+  "duration": 2.84,
+  "text": "gave their developers access to Claude"
+ },
+ {
+  "start": 427.36,
+  "duration": 2.8,
+  "text": "code in December, a subtle"
+ },
+ {
+  "start": 428.88,
+  "duration": 3.28,
+  "text": "acknowledgement that their own in-house"
+ },
+ {
+  "start": 430.16,
+  "duration": 3.36,
+  "text": "tools were falling behind. Sources told"
+ },
+ {
+  "start": 432.16,
+  "duration": 3.28,
+  "text": "The Verge that Anthropic's tools were"
+ },
+ {
+  "start": 433.52,
+  "duration": 4.08,
+  "text": "extremely popular, maybe a little too"
+ },
+ {
+  "start": 435.44,
+  "duration": 3.479,
+  "text": "popular. Now, they noted that alongside"
+ },
+ {
+  "start": 437.6,
+  "duration": 3.52,
+  "text": "promotion of in-house tools, there's"
+ },
+ {
+  "start": 438.919,
+  "duration": 3.641,
+  "text": "also a financial factor. The licenses"
+ },
+ {
+  "start": 441.12,
+  "duration": 2.52,
+  "text": "will be terminated at the end of June,"
+ },
+ {
+  "start": 442.56,
+  "duration": 2.84,
+  "text": "just in time for the beginning of"
+ },
+ {
+  "start": 443.64,
+  "duration": 3.36,
+  "text": "Microsoft's new financial year, with"
+ },
+ {
+  "start": 445.4,
+  "duration": 3.88,
+  "text": "management reportedly seeing Claude code"
+ },
+ {
+  "start": 447.0,
+  "duration": 4.2,
+  "text": "as an easy place to cut some costs."
+ },
+ {
+  "start": 449.28,
+  "duration": 3.639,
+  "text": "Look, I don't think this is that insane,"
+ },
+ {
+  "start": 451.2,
+  "duration": 3.44,
+  "text": "especially given that Microsoft has a"
+ },
+ {
+  "start": 452.919,
+  "duration": 3.321,
+  "text": "competing product that they really need"
+ },
+ {
+  "start": 454.64,
+  "duration": 3.279,
+  "text": "to be up to snuff. I think you could"
+ },
+ {
+  "start": 456.24,
+  "duration": 3.28,
+  "text": "argue this both ways, use one of the"
+ },
+ {
+  "start": 457.919,
+  "duration": 3.401,
+  "text": "best tools at the moment to actually"
+ },
+ {
+  "start": 459.52,
+  "duration": 3.52,
+  "text": "help make yours better, or take away"
+ },
+ {
+  "start": 461.32,
+  "duration": 3.36,
+  "text": "that tool to create more internal"
+ },
+ {
+  "start": 463.04,
+  "duration": 3.16,
+  "text": "incentive to improve what you've got."
+ },
+ {
+  "start": 464.68,
+  "duration": 3.08,
+  "text": "But in either case, it certainly feels"
+ },
+ {
+  "start": 466.2,
+  "duration": 3.0,
+  "text": "like another part of the competitive"
+ },
+ {
+  "start": 467.76,
+  "duration": 2.36,
+  "text": "strategies of these companies firming"
+ },
+ {
+  "start": 469.2,
+  "duration": 2.84,
+  "text": "up."
+ },
+ {
+  "start": 470.12,
+  "duration": 3.52,
+  "text": "Finally today, one of the big sub themes"
+ },
+ {
+  "start": 472.04,
+  "duration": 3.0,
+  "text": "running through the AI industry ever"
+ },
+ {
+  "start": 473.64,
+  "duration": 3.28,
+  "text": "since the announcement of Claude 3"
+ },
+ {
+  "start": 475.04,
+  "duration": 3.28,
+  "text": "Mythos has been security issues with"
+ },
+ {
+  "start": 476.92,
+  "duration": 3.64,
+  "text": "everyone trying to figure out just how"
+ },
+ {
+  "start": 478.32,
+  "duration": 3.92,
+  "text": "real the cybersecurity implications are."
+ },
+ {
+  "start": 480.56,
+  "duration": 3.48,
+  "text": "Reportedly, security researchers have"
+ },
+ {
+  "start": 482.24,
+  "duration": 4.28,
+  "text": "now used Claude 3 Mythos to find a new"
+ },
+ {
+  "start": 484.04,
+  "duration": 3.84,
+  "text": "way to exploit Apple's operating system."
+ },
+ {
+  "start": 486.52,
+  "duration": 2.96,
+  "text": "The researchers claim that Mythos was"
+ },
+ {
+  "start": 487.88,
+  "duration": 3.8,
+  "text": "able to link together a pair of bugs to"
+ },
+ {
+  "start": 489.48,
+  "duration": 4.52,
+  "text": "execute an attack that granted access to"
+ },
+ {
+  "start": 491.68,
+  "duration": 3.8,
+  "text": "kernel memory on Mac OS. Mythos was used"
+ },
+ {
+  "start": 494.0,
+  "duration": 3.32,
+  "text": "to both discover the vulnerability and"
+ },
+ {
+  "start": 495.48,
+  "duration": 3.48,
+  "text": "carry out the attack, which caught a lot"
+ },
+ {
+  "start": 497.32,
+  "duration": 2.84,
+  "text": "of people's attention as Mac OS is"
+ },
+ {
+  "start": 498.96,
+  "duration": 3.12,
+  "text": "generally considered one of the more"
+ },
+ {
+  "start": 500.16,
+  "duration": 3.4,
+  "text": "security hardened systems available."
+ },
+ {
+  "start": 502.08,
+  "duration": 3.12,
+  "text": "Researchers seemed blown away by the"
+ },
+ {
+  "start": 503.56,
+  "duration": 3.52,
+  "text": "capabilities writing,"
+ },
+ {
+  "start": 505.2,
+  "duration": 3.04,
+  "text": "\"Mythos preview is powerful. Once it has"
+ },
+ {
+  "start": 507.08,
+  "duration": 3.2,
+  "text": "learned how to attack a class of"
+ },
+ {
+  "start": 508.24,
+  "duration": 4.08,
+  "text": "problems, it generalizes to nearly any"
+ },
+ {
+  "start": 510.28,
+  "duration": 3.639,
+  "text": "problem in that class. Mythos discovered"
+ },
+ {
+  "start": 512.32,
+  "duration": 4.32,
+  "text": "the bugs quickly because they belong to"
+ },
+ {
+  "start": 513.919,
+  "duration": 4.24,
+  "text": "known bug classes. This is the latest in"
+ },
+ {
+  "start": 516.64,
+  "duration": 3.519,
+  "text": "a series of reports that suggest that"
+ },
+ {
+  "start": 518.159,
+  "duration": 3.521,
+  "text": "Mythos was not just marketing hype.\""
+ },
+ {
+  "start": 520.159,
+  "duration": 3.841,
+  "text": "Last week, Mozilla announced that Mythos"
+ },
+ {
+  "start": 521.68,
+  "duration": 3.92,
+  "text": "had helped them find and patch 423 bugs"
+ },
+ {
+  "start": 524.0,
+  "duration": 3.12,
+  "text": "in the past month, which was more than"
+ },
+ {
+  "start": 525.6,
+  "duration": 3.44,
+  "text": "they had found in the previous 15 months"
+ },
+ {
+  "start": 527.12,
+  "duration": 3.32,
+  "text": "combined. And Anthropic has also"
+ },
+ {
+  "start": 529.04,
+  "duration": 3.24,
+  "text": "released an updated checkpoint for"
+ },
+ {
+  "start": 530.44,
+  "duration": 4.399,
+  "text": "Mythos, which massively boosts its"
+ },
+ {
+  "start": 532.28,
+  "duration": 4.72,
+  "text": "cybersecurity capabilities. The UK AI"
+ },
+ {
+  "start": 534.839,
+  "duration": 3.401,
+  "text": "Security Institute tested the new update"
+ },
+ {
+  "start": 537.0,
+  "duration": 3.08,
+  "text": "and found that it could complete their"
+ },
+ {
+  "start": 538.24,
+  "duration": 3.32,
+  "text": "automated cyberattack benchmark in six"
+ },
+ {
+  "start": 540.08,
+  "duration": 3.2,
+  "text": "out of 10 attempts. The previous"
+ },
+ {
+  "start": 541.56,
+  "duration": 4.279,
+  "text": "benchmark run had two successes out of"
+ },
+ {
+  "start": 543.28,
+  "duration": 3.68,
+  "text": "10 with GPT 5.5 having one successful"
+ },
+ {
+  "start": 545.839,
+  "duration": 2.761,
+  "text": "run."
+ },
+ {
+  "start": 546.96,
+  "duration": 3.12,
+  "text": "TLDR, it seems that indeed there are"
+ },
+ {
+  "start": 548.6,
+  "duration": 3.04,
+  "text": "some pretty big capability jumps on the"
+ },
+ {
+  "start": 550.08,
+  "duration": 3.56,
+  "text": "horizon. For now, that that is going to"
+ },
+ {
+  "start": 551.64,
+  "duration": 4.08,
+  "text": "do it for the headlines. Next up, the"
+ },
+ {
+  "start": 553.64,
+  "duration": 3.88,
+  "text": "main episode."
+ },
+ {
+  "start": 555.72,
+  "duration": 3.08,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 557.52,
+  "duration": 3.12,
+  "text": "Today, we are doing a couple things at"
+ },
+ {
+  "start": 558.8,
+  "duration": 3.88,
+  "text": "once. Our overarching theme is a bit of"
+ },
+ {
+  "start": 560.64,
+  "duration": 4.76,
+  "text": "a preview of what's going down at Google"
+ },
+ {
+  "start": 562.68,
+  "duration": 4.96,
+  "text": "I/O next week. It is Google's big annual"
+ },
+ {
+  "start": 565.4,
+  "duration": 3.8,
+  "text": "event, so there's always some pretty"
+ },
+ {
+  "start": 567.64,
+  "duration": 2.88,
+  "text": "meaningful set of announcements around"
+ },
+ {
+  "start": 569.2,
+  "duration": 3.6,
+  "text": "it. And this year, it feels like it's"
+ },
+ {
+  "start": 570.52,
+  "duration": 4.12,
+  "text": "going to tell us a lot about how they"
+ },
+ {
+  "start": 572.8,
+  "duration": 3.56,
+  "text": "see the competition going forward and"
+ },
+ {
+  "start": 574.64,
+  "duration": 3.8,
+  "text": "where they fit in the AI competition"
+ },
+ {
+  "start": 576.36,
+  "duration": 3.92,
+  "text": "going forward. But to set it up and"
+ },
+ {
+  "start": 578.44,
+  "duration": 2.84,
+  "text": "maybe give a little bit more context,"
+ },
+ {
+  "start": 580.28,
+  "duration": 3.48,
+  "text": "we're actually going to start with some"
+ },
+ {
+  "start": 581.28,
+  "duration": 5.0,
+  "text": "news from OpenAI. It's no secret that at"
+ },
+ {
+  "start": 583.76,
+  "duration": 4.28,
+  "text": "this point Codex and coding adjacent"
+ },
+ {
+  "start": 586.28,
+  "duration": 4.08,
+  "text": "knowledge work use cases are where"
+ },
+ {
+  "start": 588.04,
+  "duration": 3.8,
+  "text": "OpenAI's big focus is. They've gone from"
+ },
+ {
+  "start": 590.36,
+  "duration": 3.84,
+  "text": "just a couple hundred thousand to more"
+ },
+ {
+  "start": 591.84,
+  "duration": 3.6,
+  "text": "than 4 million Codex users per week, and"
+ },
+ {
+  "start": 594.2,
+  "duration": 2.84,
+  "text": "those Codex users, as we've been"
+ },
+ {
+  "start": 595.44,
+  "duration": 2.68,
+  "text": "discussing for the past couple of weeks,"
+ },
+ {
+  "start": 597.04,
+  "duration": 3.32,
+  "text": "kind of represent something"
+ },
+ {
+  "start": 598.12,
+  "duration": 3.96,
+  "text": "categorically different because they are"
+ },
+ {
+  "start": 600.36,
+  "duration": 3.84,
+  "text": "building with agents. They don't"
+ },
+ {
+  "start": 602.08,
+  "duration": 4.12,
+  "text": "represent just individual seats, they"
+ },
+ {
+  "start": 604.2,
+  "duration": 3.36,
+  "text": "represent a huge amount of token spend,"
+ },
+ {
+  "start": 606.2,
+  "duration": 3.24,
+  "text": "either on their own or as part of their"
+ },
+ {
+  "start": 607.56,
+  "duration": 3.44,
+  "text": "organizations, meaning that that 4"
+ },
+ {
+  "start": 609.44,
+  "duration": 3.24,
+  "text": "million are going to be punching way"
+ },
+ {
+  "start": 611.0,
+  "duration": 3.76,
+  "text": "above their weight class, even relative"
+ },
+ {
+  "start": 612.68,
+  "duration": 3.68,
+  "text": "to the 8 or 900 other million consumers"
+ },
+ {
+  "start": 614.76,
+  "duration": 4.0,
+  "text": "who are using ChatGPT on a regular"
+ },
+ {
+  "start": 616.36,
+  "duration": 4.44,
+  "text": "basis. Alongside a lot of Anthropic's"
+ },
+ {
+  "start": 618.76,
+  "duration": 4.0,
+  "text": "communications troubles, OpenAI has"
+ },
+ {
+  "start": 620.8,
+  "duration": 3.6,
+  "text": "really taken advantage to put Codex for"
+ },
+ {
+  "start": 622.76,
+  "duration": 3.56,
+  "text": "the first time in a really leading"
+ },
+ {
+  "start": 624.4,
+  "duration": 3.52,
+  "text": "position relative to the other harnesses"
+ },
+ {
+  "start": 626.32,
+  "duration": 2.72,
+  "text": "out there, specifically Claude Code,"
+ },
+ {
+  "start": 627.92,
+  "duration": 2.96,
+  "text": "which you see not only in the"
+ },
+ {
+  "start": 629.04,
+  "duration": 3.8,
+  "text": "conversation among developers and AI"
+ },
+ {
+  "start": 630.88,
+  "duration": 3.68,
+  "text": "enthusiasts on Twitter, but also in more"
+ },
+ {
+  "start": 632.84,
+  "duration": 4.08,
+  "text": "direct signals, like the fact that the"
+ },
+ {
+  "start": 634.56,
+  "duration": 4.52,
+  "text": "slash goal primitive came to Codex"
+ },
+ {
+  "start": 636.92,
+  "duration": 3.56,
+  "text": "before it came to Claude Code. Now, real"
+ },
+ {
+  "start": 639.08,
+  "duration": 3.2,
+  "text": "ones also know that it was in Hermeneus"
+ },
+ {
+  "start": 640.48,
+  "duration": 3.76,
+  "text": "first, but the point is that Codex is"
+ },
+ {
+  "start": 642.28,
+  "duration": 3.6,
+  "text": "clearly where a ton of OpenAI's emphasis"
+ },
+ {
+  "start": 644.24,
+  "duration": 3.599,
+  "text": "is and is making big gains in the"
+ },
+ {
+  "start": 645.88,
+  "duration": 3.76,
+  "text": "industry. With that in mind, earlier"
+ },
+ {
+  "start": 647.839,
+  "duration": 3.641,
+  "text": "this week, Codex team member Thibault"
+ },
+ {
+  "start": 649.64,
+  "duration": 3.56,
+  "text": "from OpenAI said that the company was"
+ },
+ {
+  "start": 651.48,
+  "duration": 3.56,
+  "text": "beginning to think about having a stable"
+ },
+ {
+  "start": 653.2,
+  "duration": 3.44,
+  "text": "release cadence with a larger release"
+ },
+ {
+  "start": 655.04,
+  "duration": 3.24,
+  "text": "each week on Thursday. We're going to"
+ },
+ {
+  "start": 656.64,
+  "duration": 2.8,
+  "text": "announce things whenever they come up,"
+ },
+ {
+  "start": 658.28,
+  "duration": 2.92,
+  "text": "but the flip side, of course, is that it"
+ },
+ {
+  "start": 659.44,
+  "duration": 3.8,
+  "text": "means that we get predictably something"
+ },
+ {
+  "start": 661.2,
+  "duration": 3.32,
+  "text": "new each week. He did confirm later on"
+ },
+ {
+  "start": 663.24,
+  "duration": 3.36,
+  "text": "that this would be their approach going"
+ },
+ {
+  "start": 664.52,
+  "duration": 4.28,
+  "text": "forward, and this is the first Thursday"
+ },
+ {
+  "start": 666.6,
+  "duration": 5.04,
+  "text": "came to bear. What was announced was"
+ },
+ {
+  "start": 668.8,
+  "duration": 4.32,
+  "text": "Codex in the ChatGPT mobile app."
+ },
+ {
+  "start": 671.64,
+  "duration": 3.28,
+  "text": "Now, there's been a lot of memeing"
+ },
+ {
+  "start": 673.12,
+  "duration": 4.12,
+  "text": "recently around people carrying"
+ },
+ {
+  "start": 674.92,
+  "duration": 3.88,
+  "text": "half-open laptops everywhere they go."
+ },
+ {
+  "start": 677.24,
+  "duration": 3.48,
+  "text": "Basically, when you're running Codex or"
+ },
+ {
+  "start": 678.8,
+  "duration": 3.68,
+  "text": "Claude Code locally, the computer has to"
+ },
+ {
+  "start": 680.72,
+  "duration": 2.88,
+  "text": "stay on for you to continue working, so"
+ },
+ {
+  "start": 682.48,
+  "duration": 2.68,
+  "text": "you got all these people who are shoving"
+ },
+ {
+  "start": 683.6,
+  "duration": 3.28,
+  "text": "their thumbs in there as they go about"
+ },
+ {
+  "start": 685.16,
+  "duration": 3.4,
+  "text": "other parts of their business."
+ },
+ {
+  "start": 686.88,
+  "duration": 3.48,
+  "text": "Now, Anthropic had released some"
+ },
+ {
+  "start": 688.56,
+  "duration": 3.68,
+  "text": "features trying to make it easier to"
+ },
+ {
+  "start": 690.36,
+  "duration": 3.44,
+  "text": "interface between Claude Code locally in"
+ },
+ {
+  "start": 692.24,
+  "duration": 3.84,
+  "text": "your mobile app, specifically in the"
+ },
+ {
+  "start": 693.8,
+  "duration": 4.0,
+  "text": "remote control feature, but Codex in the"
+ },
+ {
+  "start": 696.08,
+  "duration": 3.84,
+  "text": "chat GPT mobile app takes it a step"
+ },
+ {
+  "start": 697.8,
+  "duration": 4.88,
+  "text": "farther. This is not just remote"
+ },
+ {
+  "start": 699.92,
+  "duration": 4.88,
+  "text": "control, but a full-fledged experience"
+ },
+ {
+  "start": 702.68,
+  "duration": 3.84,
+  "text": "where you can genuinely work completely,"
+ },
+ {
+  "start": 704.8,
+  "duration": 3.16,
+  "text": "including initiating new work, reviewing"
+ },
+ {
+  "start": 706.52,
+  "duration": 3.08,
+  "text": "outputs, steering the execution, and"
+ },
+ {
+  "start": 707.96,
+  "duration": 3.32,
+  "text": "approving next steps, all from within"
+ },
+ {
+  "start": 709.6,
+  "duration": 3.72,
+  "text": "this app. Now, the discussions around"
+ },
+ {
+  "start": 711.28,
+  "duration": 3.76,
+  "text": "this fell into one and three categories."
+ },
+ {
+  "start": 713.32,
+  "duration": 3.56,
+  "text": "The first was, \"OMG, thank you. I've"
+ },
+ {
+  "start": 715.04,
+  "duration": 3.12,
+  "text": "wanted this.\" The second was, \"Boy, that"
+ },
+ {
+  "start": 716.88,
+  "duration": 2.8,
+  "text": "feels a little bit buggy. Are you sure"
+ },
+ {
+  "start": 718.16,
+  "duration": 3.32,
+  "text": "you want to push things out every week?\""
+ },
+ {
+  "start": 719.68,
+  "duration": 4.0,
+  "text": "But, the third and more significant is"
+ },
+ {
+  "start": 721.48,
+  "duration": 3.8,
+  "text": "the one that recognizes that this is not"
+ },
+ {
+  "start": 723.68,
+  "duration": 3.36,
+  "text": "just a feature update, but a"
+ },
+ {
+  "start": 725.28,
+  "duration": 4.2,
+  "text": "continuation of the change in modality"
+ },
+ {
+  "start": 727.04,
+  "duration": 3.92,
+  "text": "of how we do work. Zord calls this a"
+ },
+ {
+  "start": 729.48,
+  "duration": 3.12,
+  "text": "much bigger shift than people realize,"
+ },
+ {
+  "start": 730.96,
+  "duration": 3.44,
+  "text": "writing, \"This is the beginning of AI"
+ },
+ {
+  "start": 732.6,
+  "duration": 3.72,
+  "text": "agents becoming persistent operators,"
+ },
+ {
+  "start": 734.4,
+  "duration": 3.68,
+  "text": "not just chat interfaces. You start"
+ },
+ {
+  "start": 736.32,
+  "duration": 3.68,
+  "text": "tasks on your phone, Codex keeps"
+ },
+ {
+  "start": 738.08,
+  "duration": 3.92,
+  "text": "executing on your Mac mini, laptop, or"
+ },
+ {
+  "start": 740.0,
+  "duration": 3.76,
+  "text": "dev box, and you step in only when"
+ },
+ {
+  "start": 742.0,
+  "duration": 3.52,
+  "text": "approvals or direction are needed. That"
+ },
+ {
+  "start": 743.76,
+  "duration": 3.68,
+  "text": "changes the entire workflow dynamic for"
+ },
+ {
+  "start": 745.52,
+  "duration": 4.6,
+  "text": "builders, researchers, and developers."
+ },
+ {
+  "start": 747.44,
+  "duration": 5.24,
+  "text": "We're moving from AI helps me code to AI"
+ },
+ {
+  "start": 750.12,
+  "duration": 4.6,
+  "text": "works alongside me continuously."
+ },
+ {
+  "start": 752.68,
+  "duration": 3.56,
+  "text": "So much of what we have been talking"
+ },
+ {
+  "start": 754.72,
+  "duration": 4.36,
+  "text": "about for the last couple weeks, but"
+ },
+ {
+  "start": 756.24,
+  "duration": 4.56,
+  "text": "really all year, is exactly this shift"
+ },
+ {
+  "start": 759.08,
+  "duration": 2.96,
+  "text": "from doing and producing things to"
+ },
+ {
+  "start": 760.8,
+  "duration": 2.88,
+  "text": "managing fleets of synthetic"
+ },
+ {
+  "start": 762.04,
+  "duration": 3.68,
+  "text": "intelligences that do those things for"
+ },
+ {
+  "start": 763.68,
+  "duration": 3.92,
+  "text": "you. And it makes sense that now, from"
+ },
+ {
+  "start": 765.72,
+  "duration": 4.24,
+  "text": "an interface perspective, if you are"
+ },
+ {
+  "start": 767.6,
+  "duration": 4.16,
+  "text": "indeed managing fleets of digital"
+ },
+ {
+  "start": 769.96,
+  "duration": 3.84,
+  "text": "intelligences, that the labs that are"
+ },
+ {
+  "start": 771.76,
+  "duration": 4.2,
+  "text": "creating those intelligences are trying"
+ },
+ {
+  "start": 773.8,
+  "duration": 3.64,
+  "text": "to free you up from being chained to"
+ },
+ {
+  "start": 775.96,
+  "duration": 3.0,
+  "text": "your traditional laptop type of"
+ },
+ {
+  "start": 777.44,
+  "duration": 4.0,
+  "text": "environment."
+ },
+ {
+  "start": 778.96,
+  "duration": 3.36,
+  "text": "OpenAI's Aidan McLaughlin writes, \"Codex"
+ },
+ {
+  "start": 781.44,
+  "duration": 2.44,
+  "text": "running while you cook with your"
+ },
+ {
+  "start": 782.32,
+  "duration": 3.08,
+  "text": "partner. Codex running while you push"
+ },
+ {
+  "start": 783.88,
+  "duration": 3.16,
+  "text": "your kid on the swing. Codex running"
+ },
+ {
+  "start": 785.4,
+  "duration": 2.76,
+  "text": "while you call your mom. Codex running"
+ },
+ {
+  "start": 787.04,
+  "duration": 2.84,
+  "text": "on the thing you dreamed about for"
+ },
+ {
+  "start": 788.16,
+  "duration": 2.76,
+  "text": "years, but never had time for. Codex"
+ },
+ {
+  "start": 789.88,
+  "duration": 2.4,
+  "text": "doing this while you hang with your"
+ },
+ {
+  "start": 790.92,
+  "duration": 3.4,
+  "text": "loved ones.\""
+ },
+ {
+  "start": 792.28,
+  "duration": 4.44,
+  "text": "Meanwhile, Nick Bowman from OpenAI gave"
+ },
+ {
+  "start": 794.32,
+  "duration": 4.04,
+  "text": "a specific example of how this shift had"
+ },
+ {
+  "start": 796.72,
+  "duration": 3.56,
+  "text": "changed the way that he worked. Nick"
+ },
+ {
+  "start": 798.36,
+  "duration": 3.479,
+  "text": "wrote, \"My laptop has become a satellite"
+ },
+ {
+  "start": 800.28,
+  "duration": 3.559,
+  "text": "device since I started using Codex from"
+ },
+ {
+  "start": 801.839,
+  "duration": 4.041,
+  "text": "my phone, and my Mac mini has become the"
+ },
+ {
+  "start": 803.839,
+  "duration": 3.201,
+  "text": "home. It's clunky, but the end state"
+ },
+ {
+  "start": 805.88,
+  "duration": 2.72,
+  "text": "feels more like how we're going to be"
+ },
+ {
+  "start": 807.04,
+  "duration": 3.0,
+  "text": "working in the near future. I'm"
+ },
+ {
+  "start": 808.6,
+  "duration": 3.72,
+  "text": "currently running the Codex app on two"
+ },
+ {
+  "start": 810.04,
+  "duration": 4.2,
+  "text": "devices, my MacBook and my Mac mini. My"
+ },
+ {
+  "start": 812.32,
+  "duration": 3.52,
+  "text": "laptop isn't reliably connected to Wi-Fi"
+ },
+ {
+  "start": 814.24,
+  "duration": 3.2,
+  "text": "enough, so I keep a Mac mini on my desk"
+ },
+ {
+  "start": 815.84,
+  "duration": 3.0,
+  "text": "that is always connected. When I kick"
+ },
+ {
+  "start": 817.44,
+  "duration": 3.0,
+  "text": "off new threads from my phone, I start"
+ },
+ {
+  "start": 818.84,
+  "duration": 3.4,
+  "text": "them on the Mac mini. When I'm working"
+ },
+ {
+  "start": 820.44,
+  "duration": 3.36,
+  "text": "from my desk, I run them there, too. The"
+ },
+ {
+  "start": 822.24,
+  "duration": 3.04,
+  "text": "cool part is that I've added my MacBook"
+ },
+ {
+  "start": 823.8,
+  "duration": 2.92,
+  "text": "and Mac mini as connected devices to"
+ },
+ {
+  "start": 825.28,
+  "duration": 3.32,
+  "text": "each other. That means I can start or"
+ },
+ {
+  "start": 826.72,
+  "duration": 3.2,
+  "text": "resume threads from either device. So,"
+ },
+ {
+  "start": 828.6,
+  "duration": 2.6,
+  "text": "if I'm in a meeting but want to continue"
+ },
+ {
+  "start": 829.92,
+  "duration": 3.36,
+  "text": "a thread on my laptop that was started"
+ },
+ {
+  "start": 831.2,
+  "duration": 4.08,
+  "text": "on my Mac mini, I can do that. What this"
+ },
+ {
+  "start": 833.28,
+  "duration": 3.4,
+  "text": "means, I have an always-on Codex that is"
+ },
+ {
+  "start": 835.28,
+  "duration": 3.16,
+  "text": "accessible from my phone with its own"
+ },
+ {
+  "start": 836.68,
+  "duration": 2.88,
+  "text": "dev environment. All threads are always"
+ },
+ {
+  "start": 838.44,
+  "duration": 3.0,
+  "text": "accessible from any of the three"
+ },
+ {
+  "start": 839.56,
+  "duration": 4.0,
+  "text": "devices. I can run heartbeat threads"
+ },
+ {
+  "start": 841.44,
+  "duration": 3.4,
+  "text": "that stay on 24/7. It's a little"
+ },
+ {
+  "start": 843.56,
+  "duration": 3.2,
+  "text": "makeshift today, but the shape of it"
+ },
+ {
+  "start": 844.84,
+  "duration": 3.2,
+  "text": "feels very real to me. Codex is no"
+ },
+ {
+  "start": 846.76,
+  "duration": 2.92,
+  "text": "longer tied to whichever computer"
+ },
+ {
+  "start": 848.04,
+  "duration": 3.0,
+  "text": "happens to be open in front of me. It"
+ },
+ {
+  "start": 849.68,
+  "duration": 3.24,
+  "text": "starts to feel like something I can stay"
+ },
+ {
+  "start": 851.04,
+  "duration": 3.16,
+  "text": "connected to across whatever device I'm"
+ },
+ {
+  "start": 852.92,
+  "duration": 3.92,
+  "text": "using."
+ },
+ {
+  "start": 854.2,
+  "duration": 4.24,
+  "text": "Early open claw hackers are going to see"
+ },
+ {
+  "start": 856.84,
+  "duration": 3.16,
+  "text": "a lot of the motivation and goals they"
+ },
+ {
+  "start": 858.44,
+  "duration": 3.76,
+  "text": "had for setting up those types of"
+ },
+ {
+  "start": 860.0,
+  "duration": 4.16,
+  "text": "environments on display in how Nick is"
+ },
+ {
+  "start": 862.2,
+  "duration": 4.12,
+  "text": "now using just these straight-up normal"
+ },
+ {
+  "start": 864.16,
+  "duration": 3.52,
+  "text": "offering from Open AI."
+ },
+ {
+  "start": 866.32,
+  "duration": 3.32,
+  "text": "Lapo Cheresi expands out the"
+ },
+ {
+  "start": 867.68,
+  "duration": 3.44,
+  "text": "implications even further. Open AI, he"
+ },
+ {
+  "start": 869.64,
+  "duration": 3.04,
+  "text": "writes, is launching Codex mobile so you"
+ },
+ {
+  "start": 871.12,
+  "duration": 3.16,
+  "text": "can monitor and approve your AI coding"
+ },
+ {
+  "start": 872.68,
+  "duration": 3.92,
+  "text": "agent from your phone."
+ },
+ {
+  "start": 874.28,
+  "duration": 4.0,
+  "text": "This is the real tell. When AI agents"
+ },
+ {
+  "start": 876.6,
+  "duration": 3.32,
+  "text": "work on supervised, the bottleneck isn't"
+ },
+ {
+  "start": 878.28,
+  "duration": 4.0,
+  "text": "generation speed, it's human review"
+ },
+ {
+  "start": 879.92,
+  "duration": 4.6,
+  "text": "cycles. The mobile interface isn't a"
+ },
+ {
+  "start": 882.28,
+  "duration": 3.559,
+  "text": "convenience feature, it's an admission"
+ },
+ {
+  "start": 884.52,
+  "duration": 3.6,
+  "text": "that we're entering a world where your"
+ },
+ {
+  "start": 885.839,
+  "duration": 4.601,
+  "text": "job is triage, not execution. And the"
+ },
+ {
+  "start": 888.12,
+  "duration": 4.28,
+  "text": "SLA is now how fast can you approve the"
+ },
+ {
+  "start": 890.44,
+  "duration": 4.72,
+  "text": "next step while you're in a meeting. B2B"
+ },
+ {
+  "start": 892.4,
+  "duration": 5.0,
+  "text": "will follow the same path. AI SDRs, AI"
+ },
+ {
+  "start": 895.16,
+  "duration": 3.96,
+  "text": "content engines, AI campaign builders,"
+ },
+ {
+  "start": 897.4,
+  "duration": 3.36,
+  "text": "all optimized for async human"
+ },
+ {
+  "start": 899.12,
+  "duration": 4.32,
+  "text": "checkpoints, not replacing the human"
+ },
+ {
+  "start": 900.76,
+  "duration": 4.68,
+  "text": "entirely. The UX question isn't can the"
+ },
+ {
+  "start": 903.44,
+  "duration": 3.64,
+  "text": "AI do it anymore, it's how do we design"
+ },
+ {
+  "start": 905.44,
+  "duration": 3.8,
+  "text": "approval flows that don't become the new"
+ },
+ {
+  "start": 907.08,
+  "duration": 5.08,
+  "text": "bottleneck. Most MarTech vendors haven't"
+ },
+ {
+  "start": 909.24,
+  "duration": 4.16,
+  "text": "even started asking that question yet."
+ },
+ {
+  "start": 912.16,
+  "duration": 2.84,
+  "text": "Now, here's where it starts to get"
+ },
+ {
+  "start": 913.4,
+  "duration": 3.56,
+  "text": "really interesting, especially in light"
+ },
+ {
+  "start": 915.0,
+  "duration": 4.52,
+  "text": "of the Google conversation. On the one"
+ },
+ {
+  "start": 916.96,
+  "duration": 4.96,
+  "text": "hand, this feels a little bit like"
+ },
+ {
+  "start": 919.52,
+  "duration": 4.56,
+  "text": "ChatGPT becoming the super app that Open"
+ },
+ {
+  "start": 921.92,
+  "duration": 4.76,
+  "text": "AI has been talking about for some time."
+ },
+ {
+  "start": 924.08,
+  "duration": 4.6,
+  "text": "Adam GPT from open AI writes, \"Codex and"
+ },
+ {
+  "start": 926.68,
+  "duration": 3.72,
+  "text": "chat GPT definitely feel super appish to"
+ },
+ {
+  "start": 928.68,
+  "duration": 3.48,
+  "text": "me. To be clear, directionally towards a"
+ },
+ {
+  "start": 930.4,
+  "duration": 3.76,
+  "text": "super app and not that it is the super"
+ },
+ {
+  "start": 932.16,
+  "duration": 4.16,
+  "text": "app. But there is another possible"
+ },
+ {
+  "start": 934.16,
+  "duration": 4.84,
+  "text": "route, which is not that Codex fits"
+ },
+ {
+  "start": 936.32,
+  "duration": 4.8,
+  "text": "inside chat GPT, but that Codex kind of"
+ },
+ {
+  "start": 939.0,
+  "duration": 4.0,
+  "text": "becomes chat GPT."
+ },
+ {
+  "start": 941.12,
+  "duration": 4.76,
+  "text": "And what you start to see is this weird"
+ },
+ {
+  "start": 943.0,
+  "duration": 6.56,
+  "text": "tension. It feels much more like it did"
+ },
+ {
+  "start": 945.88,
+  "duration": 6.24,
+  "text": "in 2025 and 2024 that work AI and"
+ },
+ {
+  "start": 949.56,
+  "duration": 4.52,
+  "text": "non-work AI are diverging."
+ },
+ {
+  "start": 952.12,
+  "duration": 3.52,
+  "text": "There was an essay last year that became"
+ },
+ {
+  "start": 954.08,
+  "duration": 3.24,
+  "text": "fairly influential, especially when"
+ },
+ {
+  "start": 955.64,
+  "duration": 4.0,
+  "text": "people were in these scaling bubble kind"
+ },
+ {
+  "start": 957.32,
+  "duration": 4.72,
+  "text": "of debate moment, called AI as normal"
+ },
+ {
+  "start": 959.64,
+  "duration": 4.44,
+  "text": "technology. And what it argued was not"
+ },
+ {
+  "start": 962.04,
+  "duration": 3.68,
+  "text": "that AI wasn't significant, but that"
+ },
+ {
+  "start": 964.08,
+  "duration": 3.68,
+  "text": "while people were acting like its"
+ },
+ {
+  "start": 965.72,
+  "duration": 4.0,
+  "text": "disruption was going to be faster,"
+ },
+ {
+  "start": 967.76,
+  "duration": 4.08,
+  "text": "broader, and more extreme than previous"
+ },
+ {
+  "start": 969.72,
+  "duration": 4.8,
+  "text": "technologies, the essay's authors,"
+ },
+ {
+  "start": 971.84,
+  "duration": 4.88,
+  "text": "Arvind Narayanan and Sayash Kapoor,"
+ },
+ {
+  "start": 974.52,
+  "duration": 3.84,
+  "text": "actually said no, AI was going to be"
+ },
+ {
+  "start": 976.72,
+  "duration": 3.64,
+  "text": "pretty normal in terms of its pattern of"
+ },
+ {
+  "start": 978.36,
+  "duration": 4.92,
+  "text": "diffusion. The inertia with which it hit"
+ },
+ {
+  "start": 980.36,
+  "duration": 5.28,
+  "text": "human systems. And this year, I think it"
+ },
+ {
+  "start": 983.28,
+  "duration": 5.96,
+  "text": "wouldn't be unreasonable to argue that"
+ },
+ {
+  "start": 985.64,
+  "duration": 5.6,
+  "text": "as a consumer technology, AI is, while"
+ },
+ {
+  "start": 989.24,
+  "duration": 4.0,
+  "text": "extremely impressive and certainly"
+ },
+ {
+  "start": 991.24,
+  "duration": 4.96,
+  "text": "faster growing than things we've seen,"
+ },
+ {
+  "start": 993.24,
+  "duration": 5.48,
+  "text": "still ultimately normal. In fact, one of"
+ },
+ {
+  "start": 996.2,
+  "duration": 4.88,
+  "text": "the reasons for AI pushback is regular"
+ },
+ {
+  "start": 998.72,
+  "duration": 4.2,
+  "text": "consumers who aren't using this for work"
+ },
+ {
+  "start": 1001.08,
+  "duration": 3.48,
+  "text": "having AI features shoved down their"
+ },
+ {
+  "start": 1002.92,
+  "duration": 4.16,
+  "text": "throats in places that they don't really"
+ },
+ {
+  "start": 1004.56,
+  "duration": 5.279,
+  "text": "want them. Meanwhile, over on the work"
+ },
+ {
+  "start": 1007.08,
+  "duration": 4.88,
+  "text": "side of the house, we simply cannot get"
+ },
+ {
+  "start": 1009.839,
+  "duration": 4.121,
+  "text": "enough. We cannot get updates to the"
+ },
+ {
+  "start": 1011.96,
+  "duration": 3.56,
+  "text": "models and harnesses fast enough. We"
+ },
+ {
+  "start": 1013.96,
+  "duration": 3.4,
+  "text": "cannot get unlocked access to more"
+ },
+ {
+  "start": 1015.52,
+  "duration": 3.04,
+  "text": "tokens fast enough."
+ },
+ {
+  "start": 1017.36,
+  "duration": 4.479,
+  "text": "I think when it comes to work, in other"
+ },
+ {
+  "start": 1018.56,
+  "duration": 5.32,
+  "text": "words, AI is an extremely abnormal"
+ },
+ {
+  "start": 1021.839,
+  "duration": 3.961,
+  "text": "technology, which is not to say that it"
+ },
+ {
+  "start": 1023.88,
+  "duration": 3.88,
+  "text": "won't deal with normal problems like"
+ },
+ {
+  "start": 1025.8,
+  "duration": 3.56,
+  "text": "institutional inertia. There is a reason"
+ },
+ {
+  "start": 1027.76,
+  "duration": 2.52,
+  "text": "the big labs are spending so much money"
+ },
+ {
+  "start": 1029.36,
+  "duration": 2.719,
+  "text": "building out forward deployed"
+ },
+ {
+  "start": 1030.28,
+  "duration": 4.2,
+  "text": "engineering organizations. But the"
+ },
+ {
+  "start": 1032.079,
+  "duration": 3.76,
+  "text": "disruption to the way that we work truly"
+ },
+ {
+  "start": 1034.48,
+  "duration": 3.64,
+  "text": "doesn't look like anything that came"
+ },
+ {
+  "start": 1035.839,
+  "duration": 4.36,
+  "text": "before it. If I am correct in this"
+ },
+ {
+  "start": 1038.12,
+  "duration": 4.0,
+  "text": "assertion that I keep making that big"
+ },
+ {
+  "start": 1040.199,
+  "duration": 4.041,
+  "text": "chunks of knowledge work are moving from"
+ },
+ {
+  "start": 1042.12,
+  "duration": 4.04,
+  "text": "doing the thing to managing AI agents"
+ },
+ {
+  "start": 1044.24,
+  "duration": 4.6,
+  "text": "that do the thing for us, that is a"
+ },
+ {
+  "start": 1046.16,
+  "duration": 4.6,
+  "text": "category shift in how we work and what"
+ },
+ {
+  "start": 1048.84,
+  "duration": 3.96,
+  "text": "we do, not just a change in how we"
+ },
+ {
+  "start": 1050.76,
+  "duration": 4.76,
+  "text": "accomplish the same old goals, which"
+ },
+ {
+  "start": 1052.8,
+  "duration": 5.68,
+  "text": "puts, I think, companies trying to build"
+ },
+ {
+  "start": 1055.52,
+  "duration": 5.12,
+  "text": "for both consumers and the work user in"
+ },
+ {
+  "start": 1058.48,
+  "duration": 4.52,
+  "text": "kind of a tricky situation."
+ },
+ {
+  "start": 1060.64,
+  "duration": 5.0,
+  "text": "Over the last 6 months, OpenAI made a"
+ },
+ {
+  "start": 1063.0,
+  "duration": 4.6,
+  "text": "very clear decision, best expressed in"
+ },
+ {
+  "start": 1065.64,
+  "duration": 3.68,
+  "text": "their shutdown of Sora, that although"
+ },
+ {
+  "start": 1067.6,
+  "duration": 3.12,
+  "text": "they certainly weren't going to abandon"
+ },
+ {
+  "start": 1069.32,
+  "duration": 3.76,
+  "text": "their hundreds of millions of consumer"
+ },
+ {
+  "start": 1070.72,
+  "duration": 3.96,
+  "text": "users, the big game for them, and where"
+ },
+ {
+  "start": 1073.08,
+  "duration": 4.32,
+  "text": "they needed to place all of their"
+ },
+ {
+  "start": 1074.68,
+  "duration": 4.36,
+  "text": "emphasis, was on that work user."
+ },
+ {
+  "start": 1077.4,
+  "duration": 3.12,
+  "text": "Anthropic, meanwhile, never really had"
+ },
+ {
+  "start": 1079.04,
+  "duration": 3.2,
+  "text": "the benefit of going after both and had"
+ },
+ {
+  "start": 1080.52,
+  "duration": 3.6,
+  "text": "always been on the work user train."
+ },
+ {
+  "start": 1082.24,
+  "duration": 3.24,
+  "text": "Microsoft, by default, given where it"
+ },
+ {
+  "start": 1084.12,
+  "duration": 3.16,
+  "text": "sits in the ecosystem, was always going"
+ },
+ {
+  "start": 1085.48,
+  "duration": 3.52,
+  "text": "to be work-related AI. And on the other"
+ },
+ {
+  "start": 1087.28,
+  "duration": 2.96,
+  "text": "side of the ledger, both Apple and Meta"
+ },
+ {
+  "start": 1089.0,
+  "duration": 3.24,
+  "text": "were obviously always going to be on the"
+ },
+ {
+  "start": 1090.24,
+  "duration": 4.0,
+  "text": "consumer side. Because it's not exactly"
+ },
+ {
+  "start": 1092.24,
+  "duration": 3.92,
+  "text": "clear how much the normalness of AI as a"
+ },
+ {
+  "start": 1094.24,
+  "duration": 3.2,
+  "text": "consumer technology has to do with AI"
+ },
+ {
+  "start": 1096.16,
+  "duration": 3.16,
+  "text": "itself or just the woeful"
+ },
+ {
+  "start": 1097.44,
+  "duration": 3.36,
+  "text": "underperformance of those two companies"
+ },
+ {
+  "start": 1099.32,
+  "duration": 2.72,
+  "text": "in finding a way for it to be useful for"
+ },
+ {
+  "start": 1100.8,
+  "duration": 3.44,
+  "text": "consumers."
+ },
+ {
+  "start": 1102.04,
+  "duration": 4.44,
+  "text": "All of this leaves Google. Google is the"
+ },
+ {
+  "start": 1104.24,
+  "duration": 4.88,
+  "text": "one other company besides OpenAI that"
+ },
+ {
+  "start": 1106.48,
+  "duration": 4.52,
+  "text": "for some time has pursued the consumer"
+ },
+ {
+  "start": 1109.12,
+  "duration": 3.72,
+  "text": "AI and the work AI uses in equal"
+ },
+ {
+  "start": 1111.0,
+  "duration": 3.72,
+  "text": "measure. Now, Google is even more"
+ },
+ {
+  "start": 1112.84,
+  "duration": 3.96,
+  "text": "voracious than that, working on new"
+ },
+ {
+  "start": 1114.72,
+  "duration": 3.96,
+  "text": "categories of models and world models,"
+ },
+ {
+  "start": 1116.8,
+  "duration": 3.76,
+  "text": "deep multimodal and video type of things"
+ },
+ {
+  "start": 1118.68,
+  "duration": 4.04,
+  "text": "and more. In fact, one of the challenges"
+ },
+ {
+  "start": 1120.56,
+  "duration": 4.52,
+  "text": "for people using Google's tools is"
+ },
+ {
+  "start": 1122.72,
+  "duration": 5.32,
+  "text": "product sprawl, which brings us to next"
+ },
+ {
+  "start": 1125.08,
+  "duration": 4.56,
+  "text": "week's IO. What are Google planning to"
+ },
+ {
+  "start": 1128.04,
+  "duration": 3.52,
+  "text": "announce? And what is it going to say"
+ },
+ {
+  "start": 1129.64,
+  "duration": 4.04,
+  "text": "about how they're choosing to handle the"
+ },
+ {
+  "start": 1131.56,
+  "duration": 3.72,
+  "text": "emerging difference between consumer and"
+ },
+ {
+  "start": 1133.68,
+  "duration": 3.76,
+  "text": "work AI?"
+ },
+ {
+  "start": 1135.28,
+  "duration": 4.0,
+  "text": "First glances suggest that, unlike"
+ },
+ {
+  "start": 1137.44,
+  "duration": 4.04,
+  "text": "OpenAI, they are not going to pick a"
+ },
+ {
+  "start": 1139.28,
+  "duration": 3.52,
+  "text": "lane, but continue to pursue both."
+ },
+ {
+  "start": 1141.48,
+  "duration": 3.48,
+  "text": "One of the reports is for a new"
+ },
+ {
+  "start": 1142.8,
+  "duration": 4.36,
+  "text": "always-on personal-ish AI agent called"
+ },
+ {
+  "start": 1144.96,
+  "duration": 3.76,
+  "text": "Spark. This screenshot of a welcome"
+ },
+ {
+  "start": 1147.16,
+  "duration": 3.76,
+  "text": "screen for Gemini Spark has been flying"
+ },
+ {
+  "start": 1148.72,
+  "duration": 4.44,
+  "text": "around, describing itself by saying,"
+ },
+ {
+  "start": 1150.92,
+  "duration": 4.16,
+  "text": "\"Let Gemini do more as your everyday AI"
+ },
+ {
+  "start": 1153.16,
+  "duration": 4.16,
+  "text": "agent, ready 24/7 to help with your"
+ },
+ {
+  "start": 1155.08,
+  "duration": 3.68,
+  "text": "inbox, online tasks, and more.\" The big"
+ },
+ {
+  "start": 1157.32,
+  "duration": 2.96,
+  "text": "promise is similar to what we've talked"
+ },
+ {
+  "start": 1158.76,
+  "duration": 3.72,
+  "text": "about in the context of Google and Apple"
+ },
+ {
+  "start": 1160.28,
+  "duration": 3.88,
+  "text": "before, that Google already has a whole"
+ },
+ {
+  "start": 1162.48,
+  "duration": 3.16,
+  "text": "bunch of contextual knowledge about you"
+ },
+ {
+  "start": 1164.16,
+  "duration": 3.64,
+  "text": "and can theoretically be using that"
+ },
+ {
+  "start": 1165.64,
+  "duration": 4.04,
+  "text": "context to build better experiences for"
+ },
+ {
+  "start": 1167.8,
+  "duration": 3.84,
+  "text": "you. And indeed, on that same launch"
+ },
+ {
+  "start": 1169.68,
+  "duration": 3.68,
+  "text": "screen it says, \"The more you use Gemini"
+ },
+ {
+  "start": 1171.64,
+  "duration": 3.48,
+  "text": "Spark, the better it understands you and"
+ },
+ {
+  "start": 1173.36,
+  "duration": 3.36,
+  "text": "what you want to accomplish. To work on"
+ },
+ {
+  "start": 1175.12,
+  "duration": 3.44,
+  "text": "your tasks, it uses your info from"
+ },
+ {
+  "start": 1176.72,
+  "duration": 3.56,
+  "text": "sources like connected apps, skills,"
+ },
+ {
+  "start": 1178.56,
+  "duration": 4.28,
+  "text": "chats, tasks, websites you're logged"
+ },
+ {
+  "start": 1180.28,
+  "duration": 4.36,
+  "text": "into, personal intelligence, and more.\""
+ },
+ {
+  "start": 1182.84,
+  "duration": 3.72,
+  "text": "Now, it doesn't say that Gemini Spark is"
+ },
+ {
+  "start": 1184.64,
+  "duration": 2.92,
+  "text": "strictly personal, but to me it feels"
+ },
+ {
+  "start": 1186.56,
+  "duration": 2.96,
+  "text": "like the language leans in that"
+ },
+ {
+  "start": 1187.56,
+  "duration": 3.52,
+  "text": "direction. In another part of that same"
+ },
+ {
+  "start": 1189.52,
+  "duration": 3.0,
+  "text": "screenshot it says,"
+ },
+ {
+  "start": 1191.08,
+  "duration": 2.84,
+  "text": "\"While it is designed to ask for your"
+ },
+ {
+  "start": 1192.52,
+  "duration": 3.4,
+  "text": "permission before taking sensitive"
+ },
+ {
+  "start": 1193.92,
+  "duration": 3.76,
+  "text": "actions, it may do things like share"
+ },
+ {
+  "start": 1195.92,
+  "duration": 4.28,
+  "text": "your info or make purchases without"
+ },
+ {
+  "start": 1197.68,
+  "duration": 3.76,
+  "text": "asking.\" And at least at first glance,"
+ },
+ {
+  "start": 1200.2,
+  "duration": 4.08,
+  "text": "people seem at least a little bit"
+ },
+ {
+  "start": 1201.44,
+  "duration": 4.48,
+  "text": "enthusiastic. Andrew Curran writes,"
+ },
+ {
+  "start": 1204.28,
+  "duration": 2.84,
+  "text": "\"I got a new permissions request pop-up"
+ },
+ {
+  "start": 1205.92,
+  "duration": 2.76,
+  "text": "a few days ago, so they're getting"
+ },
+ {
+  "start": 1207.12,
+  "duration": 3.16,
+  "text": "everything ready ahead of the launch."
+ },
+ {
+  "start": 1208.68,
+  "duration": 3.4,
+  "text": "Spark is a great name, and Gemini will"
+ },
+ {
+  "start": 1210.28,
+  "duration": 3.88,
+  "text": "be very good at this. All its best"
+ },
+ {
+  "start": 1212.08,
+  "duration": 4.24,
+  "text": "qualities are made for this. Google I/O"
+ },
+ {
+  "start": 1214.16,
+  "duration": 3.44,
+  "text": "is in 5 days, the agent wars are about"
+ },
+ {
+  "start": 1216.32,
+  "duration": 2.76,
+  "text": "to begin.\""
+ },
+ {
+  "start": 1217.6,
+  "duration": 3.12,
+  "text": "Brasser X writes,"
+ },
+ {
+  "start": 1219.08,
+  "duration": 3.92,
+  "text": "\"If this Gemini Spark leak is real, it"
+ },
+ {
+  "start": 1220.72,
+  "duration": 4.0,
+  "text": "actually looks promising. A 24/7 agent"
+ },
+ {
+  "start": 1223.0,
+  "duration": 3.6,
+  "text": "that learns from you, runs across apps,"
+ },
+ {
+  "start": 1224.72,
+  "duration": 4.16,
+  "text": "chats, tasks, and logged-in websites is"
+ },
+ {
+  "start": 1226.6,
+  "duration": 4.72,
+  "text": "exactly where consumer AI has to go."
+ },
+ {
+  "start": 1228.88,
+  "duration": 3.64,
+  "text": "Google I/O could be spicy.\" Yian Cronje"
+ },
+ {
+  "start": 1231.32,
+  "duration": 2.36,
+  "text": "writes,"
+ },
+ {
+  "start": 1232.52,
+  "duration": 2.84,
+  "text": "\"The winning assistant won't be the"
+ },
+ {
+  "start": 1233.68,
+  "duration": 3.28,
+  "text": "smartest empty chatbot, but the one with"
+ },
+ {
+  "start": 1235.36,
+  "duration": 3.76,
+  "text": "the deepest context about your actual"
+ },
+ {
+  "start": 1236.96,
+  "duration": 3.96,
+  "text": "life. Google has had that data for 20"
+ },
+ {
+  "start": 1239.12,
+  "duration": 3.48,
+  "text": "years, and Spark is finally the product"
+ },
+ {
+  "start": 1240.92,
+  "duration": 4.16,
+  "text": "built on top of it.\""
+ },
+ {
+  "start": 1242.6,
+  "duration": 5.68,
+  "text": "However, I can't help but feel a little"
+ },
+ {
+  "start": 1245.08,
+  "duration": 4.84,
+  "text": "bit like Peter Gostev from Arena AI when"
+ },
+ {
+  "start": 1248.28,
+  "duration": 3.24,
+  "text": "he tweets a quote from the posting, \"The"
+ },
+ {
+  "start": 1249.92,
+  "duration": 2.92,
+  "text": "more you use Gemini Spark, the better it"
+ },
+ {
+  "start": 1251.52,
+  "duration": 4.24,
+  "text": "understands you and what you want to"
+ },
+ {
+  "start": 1252.84,
+  "duration": 4.12,
+  "text": "accomplish,\" and adds, \"It's funny. I"
+ },
+ {
+  "start": 1255.76,
+  "duration": 3.08,
+  "text": "feel like I've seen that line from"
+ },
+ {
+  "start": 1256.96,
+  "duration": 3.8,
+  "text": "Google for about 8 years with product"
+ },
+ {
+  "start": 1258.84,
+  "duration": 4.24,
+  "text": "name changed once in a while. Hope it"
+ },
+ {
+  "start": 1260.76,
+  "duration": 4.0,
+  "text": "will actually work this time.\""
+ },
+ {
+  "start": 1263.08,
+  "duration": 3.4,
+  "text": "Now, I don't know about 8 years, but it"
+ },
+ {
+  "start": 1264.76,
+  "duration": 4.12,
+  "text": "certainly feels like this has been the"
+ },
+ {
+  "start": 1266.48,
+  "duration": 4.56,
+  "text": "promise of personal agents since we"
+ },
+ {
+  "start": 1268.88,
+  "duration": 4.64,
+  "text": "started talking about them. The question"
+ },
+ {
+  "start": 1271.04,
+  "duration": 5.36,
+  "text": "is what the personal use cases for"
+ },
+ {
+  "start": 1273.52,
+  "duration": 4.08,
+  "text": "agents actually want to be."
+ },
+ {
+  "start": 1276.4,
+  "duration": 3.32,
+  "text": "To the extent that we're talking about"
+ },
+ {
+  "start": 1277.6,
+  "duration": 3.44,
+  "text": "work agents, Jan Kromborg's assessment"
+ },
+ {
+  "start": 1279.72,
+  "duration": 2.48,
+  "text": "that the winner won't be the smartest"
+ },
+ {
+  "start": 1281.04,
+  "duration": 3.16,
+  "text": "empty chatbot, but the one with the"
+ },
+ {
+  "start": 1282.2,
+  "duration": 3.88,
+  "text": "deepest context about your actual life,"
+ },
+ {
+  "start": 1284.2,
+  "duration": 4.4,
+  "text": "I don't know if I agree with. There's a"
+ },
+ {
+  "start": 1286.08,
+  "duration": 4.24,
+  "text": "reason that context bleed can be one of"
+ },
+ {
+  "start": 1288.6,
+  "duration": 3.64,
+  "text": "the biggest challenges with agents."
+ },
+ {
+  "start": 1290.32,
+  "duration": 3.84,
+  "text": "Because I use AI and agents to talk"
+ },
+ {
+  "start": 1292.24,
+  "duration": 3.48,
+  "text": "about so many different ideas, many of"
+ },
+ {
+  "start": 1294.16,
+  "duration": 2.76,
+  "text": "which I get to at least second base"
+ },
+ {
+  "start": 1295.72,
+  "duration": 3.36,
+  "text": "before abandoning to move on to"
+ },
+ {
+  "start": 1296.92,
+  "duration": 4.24,
+  "text": "something else, when Claude or Codex"
+ },
+ {
+  "start": 1299.08,
+  "duration": 4.44,
+  "text": "have all of the context about me, I"
+ },
+ {
+  "start": 1301.16,
+  "duration": 4.24,
+  "text": "spend a lot of time telling them to just"
+ },
+ {
+  "start": 1303.52,
+  "duration": 3.12,
+  "text": "ignore or remove some past things from"
+ },
+ {
+  "start": 1305.4,
+  "duration": 3.16,
+  "text": "their memory because they're no longer"
+ },
+ {
+  "start": 1306.64,
+  "duration": 3.4,
+  "text": "relevant. I can't even tell you how"
+ },
+ {
+  "start": 1308.56,
+  "duration": 3.32,
+  "text": "confused it gets about my"
+ },
+ {
+  "start": 1310.04,
+  "duration": 3.24,
+  "text": "entrepreneurial or builder plans because"
+ },
+ {
+  "start": 1311.88,
+  "duration": 2.76,
+  "text": "it's always comparing them to whatever I"
+ },
+ {
+  "start": 1313.28,
+  "duration": 3.92,
+  "text": "was talking about a few weeks or a few"
+ },
+ {
+  "start": 1314.64,
+  "duration": 5.12,
+  "text": "months ago. Now, certainly, I think work"
+ },
+ {
+  "start": 1317.2,
+  "duration": 4.4,
+  "text": "AI wants better tools to curate context"
+ },
+ {
+  "start": 1319.76,
+  "duration": 3.2,
+  "text": "and make it available easily, but it's"
+ },
+ {
+  "start": 1321.6,
+  "duration": 3.04,
+  "text": "not just going to be this big old pot of"
+ },
+ {
+  "start": 1322.96,
+  "duration": 3.24,
+  "text": "everything about you."
+ },
+ {
+  "start": 1324.64,
+  "duration": 3.16,
+  "text": "On some intuitive level, though, it"
+ },
+ {
+  "start": 1326.2,
+  "duration": 4.52,
+  "text": "makes more sense that this would matter"
+ },
+ {
+  "start": 1327.8,
+  "duration": 4.2,
+  "text": "for consumer agent type use cases."
+ },
+ {
+  "start": 1330.72,
+  "duration": 2.68,
+  "text": "People probably aren't going to want to"
+ },
+ {
+  "start": 1332.0,
+  "duration": 3.76,
+  "text": "take a bunch of time to be perfectly"
+ },
+ {
+  "start": 1333.4,
+  "duration": 4.36,
+  "text": "curatorial in what an agent has access"
+ },
+ {
+  "start": 1335.76,
+  "duration": 3.6,
+  "text": "to. What I'm not sure yet is what the"
+ },
+ {
+  "start": 1337.76,
+  "duration": 3.44,
+  "text": "uses for those agents are actually going"
+ },
+ {
+  "start": 1339.36,
+  "duration": 3.56,
+  "text": "to be. I find myself feeling like a"
+ },
+ {
+  "start": 1341.2,
+  "duration": 3.88,
+  "text": "curmudgeonly old man when I look at"
+ },
+ {
+  "start": 1342.92,
+  "duration": 4.36,
+  "text": "people's attempt at shopping agents or"
+ },
+ {
+  "start": 1345.08,
+  "duration": 3.84,
+  "text": "travel booking agents and just get"
+ },
+ {
+  "start": 1347.28,
+  "duration": 3.28,
+  "text": "really skeptical that that's something"
+ },
+ {
+  "start": 1348.92,
+  "duration": 3.4,
+  "text": "that people are going to want agents"
+ },
+ {
+  "start": 1350.56,
+  "duration": 3.52,
+  "text": "for. But, I certainly don't have enough"
+ },
+ {
+  "start": 1352.32,
+  "duration": 4.04,
+  "text": "confidence in that to argue that people"
+ },
+ {
+  "start": 1354.08,
+  "duration": 4.04,
+  "text": "shouldn't try. And when you have all of"
+ },
+ {
+  "start": 1356.36,
+  "duration": 4.2,
+  "text": "that data and all of that context about"
+ },
+ {
+  "start": 1358.12,
+  "duration": 4.36,
+  "text": "people and billions of users for whom"
+ },
+ {
+  "start": 1360.56,
+  "duration": 3.84,
+  "text": "your tools are already integrated deeply"
+ },
+ {
+  "start": 1362.48,
+  "duration": 3.08,
+  "text": "into their personal lives, it makes"
+ },
+ {
+  "start": 1364.4,
+  "duration": 2.6,
+  "text": "sense that that would be something that"
+ },
+ {
+  "start": 1365.56,
+  "duration": 3.48,
+  "text": "Google would be out on the front trying"
+ },
+ {
+  "start": 1367.0,
+  "duration": 4.44,
+  "text": "to figure out. On the other side,"
+ },
+ {
+  "start": 1369.04,
+  "duration": 3.52,
+  "text": "though, it also does seem like Google is"
+ },
+ {
+  "start": 1371.44,
+  "duration": 3.44,
+  "text": "going to try to jump back more"
+ },
+ {
+  "start": 1372.56,
+  "duration": 4.64,
+  "text": "aggressively into work AI, as well."
+ },
+ {
+  "start": 1374.88,
+  "duration": 4.04,
+  "text": "Disappointingly to some, early reports"
+ },
+ {
+  "start": 1377.2,
+  "duration": 3.12,
+  "text": "are that while we will get new Gemini"
+ },
+ {
+  "start": 1378.92,
+  "duration": 3.16,
+  "text": "models, they will will be"
+ },
+ {
+  "start": 1380.32,
+  "duration": 3.48,
+  "text": "state-of-the-art. Anything that we got,"
+ },
+ {
+  "start": 1382.08,
+  "duration": 4.16,
+  "text": "it sounds like would be closer to"
+ },
+ {
+  "start": 1383.8,
+  "duration": 4.36,
+  "text": "somewhere between 4.7 and 5.5, certainly"
+ },
+ {
+  "start": 1386.24,
+  "duration": 4.04,
+  "text": "as opposed to anything like Mythos, and"
+ },
+ {
+  "start": 1388.16,
+  "duration": 4.0,
+  "text": "even that might be pushing it. Where the"
+ },
+ {
+  "start": 1390.28,
+  "duration": 4.24,
+  "text": "work AI side of the conversation gets"
+ },
+ {
+  "start": 1392.16,
+  "duration": 3.72,
+  "text": "interesting, however, is in the context"
+ },
+ {
+  "start": 1394.52,
+  "duration": 3.4,
+  "text": "of this broader conversation we're"
+ },
+ {
+  "start": 1395.88,
+  "duration": 4.04,
+  "text": "having about the end of AI's"
+ },
+ {
+  "start": 1397.92,
+  "duration": 4.0,
+  "text": "experimentation era, the end of the"
+ },
+ {
+  "start": 1399.92,
+  "duration": 4.92,
+  "text": "subsidy era, and the beginning of the"
+ },
+ {
+  "start": 1401.92,
+  "duration": 5.12,
+  "text": "era of actual factual tradeoffs. AI"
+ },
+ {
+  "start": 1404.84,
+  "duration": 4.92,
+  "text": "entrepreneur Bindu Reddy writes,"
+ },
+ {
+  "start": 1407.04,
+  "duration": 5.4,
+  "text": "\"Gemini 3.2 flash, rumors are that"
+ },
+ {
+  "start": 1409.76,
+  "duration": 4.56,
+  "text": "benchmark show it's hitting 92% of GPT"
+ },
+ {
+  "start": 1412.44,
+  "duration": 4.64,
+  "text": "5.5's performance on coding and"
+ },
+ {
+  "start": 1414.32,
+  "duration": 4.92,
+  "text": "reasoning tasks while being 15 to 20x"
+ },
+ {
+  "start": 1417.08,
+  "duration": 3.92,
+  "text": "cheaper on inference costs. The latency"
+ },
+ {
+  "start": 1419.24,
+  "duration": 3.8,
+  "text": "improvements are insane, sub 200"
+ },
+ {
+  "start": 1421.0,
+  "duration": 3.6,
+  "text": "milliseconds for most queries. Google's"
+ },
+ {
+  "start": 1423.04,
+  "duration": 3.0,
+  "text": "distillation and sparsity techniques are"
+ },
+ {
+  "start": 1424.6,
+  "duration": 3.24,
+  "text": "paying off massively. They've"
+ },
+ {
+  "start": 1426.04,
+  "duration": 3.6,
+  "text": "essentially compressed a frontier model"
+ },
+ {
+  "start": 1427.84,
+  "duration": 5.52,
+  "text": "into a flash variant without the usual"
+ },
+ {
+  "start": 1429.64,
+  "duration": 6.0,
+  "text": "quality cliff. This strikes me as a path"
+ },
+ {
+  "start": 1433.36,
+  "duration": 4.56,
+  "text": "where Google could easily become"
+ },
+ {
+  "start": 1435.64,
+  "duration": 3.68,
+  "text": "incredibly relevant for all these coding"
+ },
+ {
+  "start": 1437.92,
+  "duration": 4.04,
+  "text": "and coding adjacent work-related use"
+ },
+ {
+  "start": 1439.32,
+  "duration": 4.52,
+  "text": "cases. There are companies all around"
+ },
+ {
+  "start": 1441.96,
+  "duration": 3.12,
+  "text": "America right now trying to decide if"
+ },
+ {
+  "start": 1443.84,
+  "duration": 2.68,
+  "text": "they can get over their concerns to"
+ },
+ {
+  "start": 1445.08,
+  "duration": 4.56,
+  "text": "start running a Chinese open source"
+ },
+ {
+  "start": 1446.52,
+  "duration": 5.76,
+  "text": "model. If Google can swoop in with a 20x"
+ },
+ {
+  "start": 1449.64,
+  "duration": 4.48,
+  "text": "cheaper inference that's at Opus 4.5 or"
+ },
+ {
+  "start": 1452.28,
+  "duration": 3.48,
+  "text": "4.6 type of levels, a lot of those"
+ },
+ {
+  "start": 1454.12,
+  "duration": 3.76,
+  "text": "companies will breathe a cool sweep of"
+ },
+ {
+  "start": 1455.76,
+  "duration": 4.12,
+  "text": "relief and redesign their systems to use"
+ },
+ {
+  "start": 1457.88,
+  "duration": 3.96,
+  "text": "that model for a lot of their big"
+ },
+ {
+  "start": 1459.88,
+  "duration": 4.2,
+  "text": "workloads. Even if Google got their"
+ },
+ {
+  "start": 1461.84,
+  "duration": 4.36,
+  "text": "accidentally, if I were them, I would be"
+ },
+ {
+  "start": 1464.08,
+  "duration": 5.04,
+  "text": "thinking about how to triple down on"
+ },
+ {
+  "start": 1466.2,
+  "duration": 4.24,
+  "text": "this as a real significant opportunity."
+ },
+ {
+  "start": 1469.12,
+  "duration": 3.16,
+  "text": "But even if that's the case, there is"
+ },
+ {
+  "start": 1470.44,
+  "duration": 3.64,
+  "text": "still a big question around the"
+ },
+ {
+  "start": 1472.28,
+  "duration": 3.96,
+  "text": "hardness. This week Ethan Mollick"
+ },
+ {
+  "start": 1474.08,
+  "duration": 3.96,
+  "text": "posted, \"Really curious when Gemini is"
+ },
+ {
+  "start": 1476.24,
+  "duration": 3.44,
+  "text": "going to join the co-working Codex race"
+ },
+ {
+  "start": 1478.04,
+  "duration": 3.72,
+  "text": "to build a local app that isn't just for"
+ },
+ {
+  "start": 1479.68,
+  "duration": 4.12,
+  "text": "developers. Anti-gravity hasn't posted"
+ },
+ {
+  "start": 1481.76,
+  "duration": 4.04,
+  "text": "updates to XAI in a month and remains"
+ },
+ {
+  "start": 1483.8,
+  "duration": 3.56,
+  "text": "very software focused. Meanwhile, we see"
+ },
+ {
+  "start": 1485.8,
+  "duration": 4.24,
+  "text": "accelerated updates and releases from"
+ },
+ {
+  "start": 1487.36,
+  "duration": 4.28,
+  "text": "OpenAI and Anthropic.\" Hater writes,"
+ },
+ {
+  "start": 1490.04,
+  "duration": 4.12,
+  "text": "\"OpenAI is putting its energy into"
+ },
+ {
+  "start": 1491.64,
+  "duration": 4.64,
+  "text": "Codex. XAI just launched Grok built for"
+ },
+ {
+  "start": 1494.16,
+  "duration": 3.88,
+  "text": "coding. Anthropic already has Claude"
+ },
+ {
+  "start": 1496.28,
+  "duration": 3.36,
+  "text": "code, but Google still looks a bit"
+ },
+ {
+  "start": 1498.04,
+  "duration": 5.24,
+  "text": "unclear on its main agenda coding"
+ },
+ {
+  "start": 1499.64,
+  "duration": 5.08,
+  "text": "platform. Gemini CLI, AI Studio, Jewels?"
+ },
+ {
+  "start": 1503.28,
+  "duration": 3.2,
+  "text": "Really hoping the upcoming Google IO"
+ },
+ {
+  "start": 1504.72,
+  "duration": 4.04,
+  "text": "brings some clarity."
+ },
+ {
+  "start": 1506.48,
+  "duration": 3.84,
+  "text": "That I think would be another huge win"
+ },
+ {
+  "start": 1508.76,
+  "duration": 3.84,
+  "text": "if there were clarity and more than just"
+ },
+ {
+  "start": 1510.32,
+  "duration": 3.88,
+  "text": "clarity consolidation around what the"
+ },
+ {
+  "start": 1512.6,
+  "duration": 3.64,
+  "text": "core agent of harness was going to be"
+ },
+ {
+  "start": 1514.2,
+  "duration": 4.64,
+  "text": "for the Google ecosystem."
+ },
+ {
+  "start": 1516.24,
+  "duration": 4.36,
+  "text": "So, if at the end of next week after IO,"
+ },
+ {
+  "start": 1518.84,
+  "duration": 4.8,
+  "text": "we're sitting there having announced"
+ },
+ {
+  "start": 1520.6,
+  "duration": 5.24,
+  "text": "Spark for consumers, an Opus 4.5 or 4.6"
+ },
+ {
+  "start": 1523.64,
+  "duration": 4.04,
+  "text": "class model for 15 to 20 times less"
+ },
+ {
+  "start": 1525.84,
+  "duration": 2.92,
+  "text": "money, and a clear consolidation on"
+ },
+ {
+  "start": 1527.68,
+  "duration": 2.48,
+  "text": "which agent of harness that you're"
+ },
+ {
+  "start": 1528.76,
+  "duration": 3.08,
+  "text": "supposed to be working through, and"
+ },
+ {
+  "start": 1530.16,
+  "duration": 2.68,
+  "text": "hopefully some updates to that harness,"
+ },
+ {
+  "start": 1531.84,
+  "duration": 2.28,
+  "text": "how would I think people will have"
+ },
+ {
+  "start": 1532.84,
+  "duration": 3.28,
+  "text": "received that?"
+ },
+ {
+  "start": 1534.12,
+  "duration": 3.56,
+  "text": "I wouldn't be surprised if the market"
+ },
+ {
+  "start": 1536.12,
+  "duration": 3.04,
+  "text": "doesn't really know what to make of it."
+ },
+ {
+  "start": 1537.68,
+  "duration": 2.84,
+  "text": "Unfortunately for them, I think most"
+ },
+ {
+  "start": 1539.16,
+  "duration": 2.72,
+  "text": "Wall Street investors are not listening"
+ },
+ {
+  "start": 1540.52,
+  "duration": 2.8,
+  "text": "to this show, staying close to"
+ },
+ {
+  "start": 1541.88,
+  "duration": 3.28,
+  "text": "conversations like harness engineering"
+ },
+ {
+  "start": 1543.32,
+  "duration": 3.36,
+  "text": "in the subsidy era ending, and I think"
+ },
+ {
+  "start": 1545.16,
+  "duration": 3.2,
+  "text": "there might be a divergence between what"
+ },
+ {
+  "start": 1546.68,
+  "duration": 2.96,
+  "text": "they think is good. I mean, you got to"
+ },
+ {
+  "start": 1548.36,
+  "duration": 2.6,
+  "text": "think a lot of them are expecting to"
+ },
+ {
+  "start": 1549.64,
+  "duration": 3.48,
+  "text": "hear that Google has a state-of-the-art"
+ },
+ {
+  "start": 1550.96,
+  "duration": 3.96,
+  "text": "model, at least at the level of GPT 5.5"
+ },
+ {
+  "start": 1553.12,
+  "duration": 3.8,
+  "text": "or Opus 4.7. But, I think when it comes"
+ },
+ {
+  "start": 1554.92,
+  "duration": 3.68,
+  "text": "to actual builders, there is a clear"
+ },
+ {
+  "start": 1556.92,
+  "duration": 3.8,
+  "text": "lane for Google to get back in their"
+ },
+ {
+  "start": 1558.6,
+  "duration": 3.56,
+  "text": "game. Now, of course, it's also possible"
+ },
+ {
+  "start": 1560.72,
+  "duration": 3.24,
+  "text": "that Google just decides they don't care"
+ },
+ {
+  "start": 1562.16,
+  "duration": 3.04,
+  "text": "that much about that type of usage, but"
+ },
+ {
+  "start": 1563.96,
+  "duration": 3.08,
+  "text": "I'm skeptical that that's how it will"
+ },
+ {
+  "start": 1565.2,
+  "duration": 3.44,
+  "text": "go. In any case, it is going to be an"
+ },
+ {
+  "start": 1567.04,
+  "duration": 3.2,
+  "text": "interesting week. Give your arms a rest"
+ },
+ {
+  "start": 1568.64,
+  "duration": 2.6,
+  "text": "this weekend, and get geared up. For"
+ },
+ {
+  "start": 1570.24,
+  "duration": 2.76,
+  "text": "now, that's going to do it for today's"
+ },
+ {
+  "start": 1571.24,
+  "duration": 3.52,
+  "text": "AI Daily Brief. Appreciate you listening"
+ },
+ {
+  "start": 1573.0,
+  "duration": 4.84,
+  "text": "or watching as always, and until next"
+ },
+ {
+  "start": 1574.76,
+  "duration": 3.08,
+  "text": "time, peace."
+ }
+]

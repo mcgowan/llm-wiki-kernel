@@ -1,0 +1,4682 @@
+[
+ {
+  "start": 0.88,
+  "duration": 4.84,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 2.84,
+  "duration": 5.52,
+  "text": "we're discussing the AI doom cycle and"
+ },
+ {
+  "start": 5.72,
+  "duration": 5.92,
+  "text": "how we can move out of doom desperation"
+ },
+ {
+  "start": 8.36,
+  "duration": 4.92,
+  "text": "into a place of enlightened anxiety."
+ },
+ {
+  "start": 11.64,
+  "duration": 3.28,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 13.28,
+  "duration": 3.68,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 14.92,
+  "duration": 3.44,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 16.96,
+  "duration": 3.12,
+  "text": "All right, friends. Quick announcement"
+ },
+ {
+  "start": 18.36,
+  "duration": 3.56,
+  "text": "before we dive in."
+ },
+ {
+  "start": 20.08,
+  "duration": 3.92,
+  "text": "First of all, I have an open job for a"
+ },
+ {
+  "start": 21.92,
+  "duration": 4.44,
+  "text": "growth engineer. This person doesn't"
+ },
+ {
+  "start": 24.0,
+  "duration": 3.96,
+  "text": "have to be pre-AI technical, but you do"
+ },
+ {
+  "start": 26.36,
+  "duration": 3.52,
+  "text": "have to be a master of cloud code or"
+ },
+ {
+  "start": 27.96,
+  "duration": 4.12,
+  "text": "codex and really interested in"
+ },
+ {
+  "start": 29.88,
+  "duration": 4.4,
+  "text": "value-added ways to grow this audience"
+ },
+ {
+  "start": 32.08,
+  "duration": 5.12,
+  "text": "by doing cool stuff for them. Again, you"
+ },
+ {
+  "start": 34.28,
+  "duration": 4.28,
+  "text": "can find that at jobs.aidailybrief.ai."
+ },
+ {
+  "start": 37.2,
+  "duration": 3.64,
+  "text": "And lastly, we are registering for"
+ },
+ {
+  "start": 38.56,
+  "duration": 5.16,
+  "text": "cohort three of enterprise claw. You can"
+ },
+ {
+  "start": 40.84,
+  "duration": 5.04,
+  "text": "find that at enterpriseclaw.ai."
+ },
+ {
+  "start": 43.72,
+  "duration": 3.8,
+  "text": "Final note, today's episode is one"
+ },
+ {
+  "start": 45.88,
+  "duration": 3.56,
+  "text": "extended episode instead of it split"
+ },
+ {
+  "start": 47.52,
+  "duration": 3.84,
+  "text": "between headlines and main. Turned out"
+ },
+ {
+  "start": 49.44,
+  "duration": 3.4,
+  "text": "all the headlines fit in the context of"
+ },
+ {
+  "start": 51.36,
+  "duration": 3.6,
+  "text": "the main, but I'm sure we'll be back"
+ },
+ {
+  "start": 52.84,
+  "duration": 4.52,
+  "text": "with our normal format tomorrow."
+ },
+ {
+  "start": 54.96,
+  "duration": 4.52,
+  "text": "As I was preparing the show, I noticed"
+ },
+ {
+  "start": 57.36,
+  "duration": 3.76,
+  "text": "that a lot of the stories that people"
+ },
+ {
+  "start": 59.48,
+  "duration": 3.84,
+  "text": "have been discussing over the weekend"
+ },
+ {
+  "start": 61.12,
+  "duration": 4.84,
+  "text": "and the ones that I wanted to cover had"
+ },
+ {
+  "start": 63.32,
+  "duration": 4.36,
+  "text": "in a strange way a relationship to each"
+ },
+ {
+  "start": 65.96,
+  "duration": 3.76,
+  "text": "other that was worth exploring. Not"
+ },
+ {
+  "start": 67.68,
+  "duration": 3.84,
+  "text": "because they were directly related, but"
+ },
+ {
+  "start": 69.72,
+  "duration": 3.08,
+  "text": "because they were all part of something"
+ },
+ {
+  "start": 71.52,
+  "duration": 3.56,
+  "text": "that I've been thinking about for a"
+ },
+ {
+  "start": 72.8,
+  "duration": 5.24,
+  "text": "while, which as of this episode I am"
+ },
+ {
+  "start": 75.08,
+  "duration": 4.8,
+  "text": "calling the AI doom cycle."
+ },
+ {
+  "start": 78.04,
+  "duration": 3.96,
+  "text": "Today I want to explore what the doom"
+ },
+ {
+  "start": 79.88,
+  "duration": 3.56,
+  "text": "cycle is, why different types of people"
+ },
+ {
+  "start": 82.0,
+  "duration": 3.24,
+  "text": "in different contexts fall in different"
+ },
+ {
+  "start": 83.44,
+  "duration": 3.6,
+  "text": "parts of it, and how I think we can get"
+ },
+ {
+  "start": 85.24,
+  "duration": 3.64,
+  "text": "to the far side of it, which I believe"
+ },
+ {
+  "start": 87.04,
+  "duration": 3.64,
+  "text": "is the healthiest place from which to"
+ },
+ {
+  "start": 88.88,
+  "duration": 3.64,
+  "text": "actually engage with the big questions"
+ },
+ {
+  "start": 90.68,
+  "duration": 3.24,
+  "text": "around AI, whether it's policy or"
+ },
+ {
+  "start": 92.52,
+  "duration": 2.92,
+  "text": "something else."
+ },
+ {
+  "start": 93.92,
+  "duration": 3.36,
+  "text": "Now, you guys probably recognize the"
+ },
+ {
+  "start": 95.44,
+  "duration": 4.28,
+  "text": "inspiration for this, which is of course"
+ },
+ {
+  "start": 97.28,
+  "duration": 4.96,
+  "text": "Gartner's famous technology hype cycle"
+ },
+ {
+  "start": 99.72,
+  "duration": 4.6,
+  "text": "chart. The idea of the hype cycle chart"
+ },
+ {
+  "start": 102.24,
+  "duration": 4.0,
+  "text": "is that new technologies tend to, in"
+ },
+ {
+  "start": 104.32,
+  "duration": 4.16,
+  "text": "their argument, follow a pattern as they"
+ },
+ {
+  "start": 106.24,
+  "duration": 3.92,
+  "text": "diffuse throughout society. It kicks off"
+ },
+ {
+  "start": 108.48,
+  "duration": 2.76,
+  "text": "with an innovation trigger, the sparks"
+ },
+ {
+  "start": 110.16,
+  "duration": 3.24,
+  "text": "of that new thing that becomes"
+ },
+ {
+  "start": 111.24,
+  "duration": 4.16,
+  "text": "available, surges up to what they call"
+ },
+ {
+  "start": 113.4,
+  "duration": 3.76,
+  "text": "the peak of inflated expectations. This"
+ },
+ {
+  "start": 115.4,
+  "duration": 3.52,
+  "text": "is the very top of the hype cycle when"
+ },
+ {
+  "start": 117.16,
+  "duration": 3.48,
+  "text": "everyone's excited about a thing. It"
+ },
+ {
+  "start": 118.92,
+  "duration": 2.92,
+  "text": "often comes with big capital injections"
+ },
+ {
+  "start": 120.64,
+  "duration": 3.12,
+  "text": "in the form of venture capital and"
+ },
+ {
+  "start": 121.84,
+  "duration": 2.96,
+  "text": "investment. It's the part of the curve"
+ },
+ {
+  "start": 123.76,
+  "duration": 3.52,
+  "text": "where a big chunk of people are"
+ },
+ {
+  "start": 124.8,
+  "duration": 4.52,
+  "text": "convinced that this new thing is the new"
+ },
+ {
+  "start": 127.28,
+  "duration": 3.8,
+  "text": "thing that's going to change everything."
+ },
+ {
+  "start": 129.32,
+  "duration": 3.52,
+  "text": "The peak of inflated expectations"
+ },
+ {
+  "start": 131.08,
+  "duration": 4.12,
+  "text": "doesn't last all that long, and from"
+ },
+ {
+  "start": 132.84,
+  "duration": 4.68,
+  "text": "there you crash back down into the"
+ },
+ {
+  "start": 135.2,
+  "duration": 4.68,
+  "text": "trough of disillusionment. This is the"
+ },
+ {
+  "start": 137.52,
+  "duration": 4.24,
+  "text": "period during which expectations have"
+ },
+ {
+  "start": 139.88,
+  "duration": 4.24,
+  "text": "bottomed, in many cases not because the"
+ },
+ {
+  "start": 141.76,
+  "duration": 4.76,
+  "text": "technology is bad, but because it hasn't"
+ },
+ {
+  "start": 144.12,
+  "duration": 4.6,
+  "text": "lived up to its inflated expectations. A"
+ },
+ {
+  "start": 146.52,
+  "duration": 4.32,
+  "text": "lot of times this is in and of itself a"
+ },
+ {
+  "start": 148.72,
+  "duration": 3.72,
+  "text": "vector of time, where it's not even a"
+ },
+ {
+  "start": 150.84,
+  "duration": 3.92,
+  "text": "reassessment of what the technology can"
+ },
+ {
+  "start": 152.44,
+  "duration": 4.04,
+  "text": "do, but a recognition that the timeline"
+ },
+ {
+  "start": 154.76,
+  "duration": 4.08,
+  "text": "for it doing those things is a lot"
+ },
+ {
+  "start": 156.48,
+  "duration": 3.8,
+  "text": "longer than previously thought. Now, not"
+ },
+ {
+  "start": 158.84,
+  "duration": 3.2,
+  "text": "every technology climbs out of the"
+ },
+ {
+  "start": 160.28,
+  "duration": 4.0,
+  "text": "trough of disillusionment. Some stay"
+ },
+ {
+  "start": 162.04,
+  "duration": 4.24,
+  "text": "mired there for a very long time."
+ },
+ {
+  "start": 164.28,
+  "duration": 3.84,
+  "text": "Metaverse, I'm looking at you."
+ },
+ {
+  "start": 166.28,
+  "duration": 3.28,
+  "text": "But for those that do, the next stage is"
+ },
+ {
+  "start": 168.12,
+  "duration": 3.8,
+  "text": "what Gartner called the slope of"
+ },
+ {
+  "start": 169.56,
+  "duration": 4.36,
+  "text": "enlightenment. This is where freed from"
+ },
+ {
+  "start": 171.92,
+  "duration": 4.0,
+  "text": "those inflated expectations, people"
+ },
+ {
+  "start": 173.92,
+  "duration": 4.039,
+  "text": "actually start to figure out the right"
+ },
+ {
+  "start": 175.92,
+  "duration": 3.76,
+  "text": "ways to use that technology, the things"
+ },
+ {
+  "start": 177.959,
+  "duration": 3.28,
+  "text": "that it's actually good for, the"
+ },
+ {
+  "start": 179.68,
+  "duration": 3.88,
+  "text": "intersection with people's lives or"
+ },
+ {
+  "start": 181.239,
+  "duration": 4.121,
+  "text": "workflows that make it valuable, if not"
+ },
+ {
+  "start": 183.56,
+  "duration": 3.399,
+  "text": "as earth-shattering as maybe people once"
+ },
+ {
+  "start": 185.36,
+  "duration": 3.32,
+  "text": "thought. That leads eventually to the"
+ },
+ {
+  "start": 186.959,
+  "duration": 3.441,
+  "text": "plateau of productivity, where the"
+ },
+ {
+  "start": 188.68,
+  "duration": 3.48,
+  "text": "technology is actually diffused into the"
+ },
+ {
+  "start": 190.4,
+  "duration": 3.28,
+  "text": "world and is a valuable part of whatever"
+ },
+ {
+  "start": 192.16,
+  "duration": 2.84,
+  "text": "environment it's supposed to be around,"
+ },
+ {
+  "start": 193.68,
+  "duration": 2.72,
+  "text": "even if it never reaches the glorious"
+ },
+ {
+  "start": 195.0,
+  "duration": 3.239,
+  "text": "heights of expectations that it once"
+ },
+ {
+  "start": 196.4,
+  "duration": 3.8,
+  "text": "had. Now, a lot of ink has been spilled"
+ },
+ {
+  "start": 198.239,
+  "duration": 4.041,
+  "text": "on this chart, including much research"
+ },
+ {
+  "start": 200.2,
+  "duration": 4.0,
+  "text": "that suggests that most technologies"
+ },
+ {
+  "start": 202.28,
+  "duration": 3.48,
+  "text": "don't actually follow it exactly, but I"
+ },
+ {
+  "start": 204.2,
+  "duration": 3.759,
+  "text": "think the reason it has resonance is"
+ },
+ {
+  "start": 205.76,
+  "duration": 3.96,
+  "text": "that it is intuitively reflective of our"
+ },
+ {
+  "start": 207.959,
+  "duration": 3.641,
+  "text": "individual relationships with technology"
+ },
+ {
+  "start": 209.72,
+  "duration": 3.519,
+  "text": "in many cases. And I think one of the"
+ },
+ {
+  "start": 211.6,
+  "duration": 4.0,
+  "text": "most revealing things that is true in"
+ },
+ {
+  "start": 213.239,
+  "duration": 4.441,
+  "text": "almost all cases is that even when we"
+ },
+ {
+  "start": 215.6,
+  "duration": 4.32,
+  "text": "realize early on that a thing is going"
+ },
+ {
+  "start": 217.68,
+  "duration": 4.64,
+  "text": "to be extremely impactful in the world,"
+ },
+ {
+  "start": 219.92,
+  "duration": 3.88,
+  "text": "we just tend to wildly underestimate how"
+ },
+ {
+  "start": 222.32,
+  "duration": 4.16,
+  "text": "long it's going to take to make that"
+ },
+ {
+  "start": 223.8,
+  "duration": 4.76,
+  "text": "impact. The AI doom cycle, in that in"
+ },
+ {
+  "start": 226.48,
+  "duration": 3.68,
+  "text": "this case, I'm describing the emotional"
+ },
+ {
+  "start": 228.56,
+  "duration": 3.32,
+  "text": "and cognitive states of people and and"
+ },
+ {
+  "start": 230.16,
+  "duration": 3.48,
+  "text": "relationship with AI more than the"
+ },
+ {
+  "start": 231.88,
+  "duration": 3.0,
+  "text": "technology itself."
+ },
+ {
+  "start": 233.64,
+  "duration": 3.36,
+  "text": "The five stages in this journey that"
+ },
+ {
+  "start": 234.88,
+  "duration": 4.72,
+  "text": "I've identified are first skepticism and"
+ },
+ {
+  "start": 237.0,
+  "duration": 4.08,
+  "text": "disbelief, followed by AI psychosis,"
+ },
+ {
+  "start": 239.6,
+  "duration": 3.24,
+  "text": "which is of course the AI can do"
+ },
+ {
+  "start": 241.08,
+  "duration": 4.16,
+  "text": "everything stage, followed by doomed"
+ },
+ {
+  "start": 242.84,
+  "duration": 4.64,
+  "text": "desperation, real-world recalibration,"
+ },
+ {
+  "start": 245.24,
+  "duration": 4.48,
+  "text": "and eventually enlightened excitment,"
+ },
+ {
+  "start": 247.48,
+  "duration": 4.76,
+  "text": "with excitment being the portmanteau of"
+ },
+ {
+  "start": 249.72,
+  "duration": 3.96,
+  "text": "anxiety and excitement that GPT-4 all"
+ },
+ {
+  "start": 252.24,
+  "duration": 3.0,
+  "text": "the way back in the day argued"
+ },
+ {
+  "start": 253.68,
+  "duration": 3.559,
+  "text": "strenuously to me was the right way to"
+ },
+ {
+  "start": 255.24,
+  "duration": 3.96,
+  "text": "describe this combination of thrill and"
+ },
+ {
+  "start": 257.239,
+  "duration": 4.56,
+  "text": "caution that many people in the AI space"
+ },
+ {
+  "start": 259.2,
+  "duration": 3.52,
+  "text": "felt. Now, of these, for our purposes"
+ },
+ {
+  "start": 261.799,
+  "duration": 2.681,
+  "text": "today, the one that I'm going to spend"
+ },
+ {
+  "start": 262.72,
+  "duration": 4.04,
+  "text": "the least time on is the skepticism and"
+ },
+ {
+  "start": 264.48,
+  "duration": 4.68,
+  "text": "disbelief. This is a category, frankly,"
+ },
+ {
+  "start": 266.76,
+  "duration": 4.76,
+  "text": "that I think is a bit on the wane. In"
+ },
+ {
+  "start": 269.16,
+  "duration": 4.72,
+  "text": "many cases, since the launch of ChatGPT"
+ },
+ {
+  "start": 271.52,
+  "duration": 4.52,
+  "text": "in late 2022, I think that much of the"
+ },
+ {
+  "start": 273.88,
+  "duration": 4.2,
+  "text": "skepticism and disbelief came from"
+ },
+ {
+  "start": 276.04,
+  "duration": 5.32,
+  "text": "simply not actually interacting with the"
+ },
+ {
+  "start": 278.08,
+  "duration": 4.68,
+  "text": "technology, or interacting with AI only"
+ },
+ {
+  "start": 281.36,
+  "duration": 3.32,
+  "text": "on the neutered free settings,"
+ },
+ {
+  "start": 282.76,
+  "duration": 3.64,
+  "text": "especially early on, and never having"
+ },
+ {
+  "start": 284.68,
+  "duration": 3.44,
+  "text": "come back to try it again. You might"
+ },
+ {
+  "start": 286.4,
+  "duration": 4.2,
+  "text": "remember we had that explosive Deep Seek"
+ },
+ {
+  "start": 288.12,
+  "duration": 4.28,
+  "text": "moment back at the beginning of 2025,"
+ },
+ {
+  "start": 290.6,
+  "duration": 2.92,
+  "text": "when the Deep Seek app rocketed to the"
+ },
+ {
+  "start": 292.4,
+  "duration": 3.6,
+  "text": "top of the app charts, actually"
+ },
+ {
+  "start": 293.52,
+  "duration": 3.72,
+  "text": "displacing ChatGPT, also wiping out"
+ },
+ {
+  "start": 296.0,
+  "duration": 3.16,
+  "text": "hundreds of billions of dollars in"
+ },
+ {
+  "start": 297.24,
+  "duration": 3.32,
+  "text": "market value on Wall Street. Part of the"
+ },
+ {
+  "start": 299.16,
+  "duration": 3.88,
+  "text": "reason, in fact the biggest part of the"
+ },
+ {
+  "start": 300.56,
+  "duration": 4.0,
+  "text": "reason, that Deep Seek had such a moment"
+ },
+ {
+  "start": 303.04,
+  "duration": 3.96,
+  "text": "was that they were giving away a"
+ },
+ {
+  "start": 304.56,
+  "duration": 4.359,
+  "text": "reasoning model for free, and that was"
+ },
+ {
+  "start": 307.0,
+  "duration": 3.8,
+  "text": "for most people the first time they had"
+ },
+ {
+  "start": 308.919,
+  "duration": 4.521,
+  "text": "gotten their hands on a reasoning model."
+ },
+ {
+  "start": 310.8,
+  "duration": 4.96,
+  "text": "Yes, OpenAI had introduced O1 back a few"
+ },
+ {
+  "start": 313.44,
+  "duration": 4.479,
+  "text": "months earlier in September of 2024, but"
+ },
+ {
+  "start": 315.76,
+  "duration": 3.52,
+  "text": "it was not widely accessible, and even"
+ },
+ {
+  "start": 317.919,
+  "duration": 3.161,
+  "text": "when it did become a little bit more"
+ },
+ {
+  "start": 319.28,
+  "duration": 3.76,
+  "text": "available in December of that year, it"
+ },
+ {
+  "start": 321.08,
+  "duration": 3.76,
+  "text": "was strictly behind a paywall. So, when"
+ },
+ {
+  "start": 323.04,
+  "duration": 3.28,
+  "text": "people got their hands on the Deep Seek"
+ },
+ {
+  "start": 324.84,
+  "duration": 3.72,
+  "text": "app, which was powered by their R1"
+ },
+ {
+  "start": 326.32,
+  "duration": 4.4,
+  "text": "reasoning model, it felt categorically"
+ },
+ {
+  "start": 328.56,
+  "duration": 4.44,
+  "text": "better to the ChatGPT style AI they had"
+ },
+ {
+  "start": 330.72,
+  "duration": 3.8,
+  "text": "used because it was. To the extent that"
+ },
+ {
+  "start": 333.0,
+  "duration": 4.32,
+  "text": "there is still skepticism and disbelief"
+ },
+ {
+  "start": 334.52,
+  "duration": 5.64,
+  "text": "today, it often comes down to either A,"
+ },
+ {
+  "start": 337.32,
+  "duration": 4.16,
+  "text": "non-updated priors about what AI can do"
+ },
+ {
+  "start": 340.16,
+  "duration": 2.48,
+  "text": "because it was bad at the thing that you"
+ },
+ {
+  "start": 341.48,
+  "duration": 2.92,
+  "text": "were interested in it doing for you"
+ },
+ {
+  "start": 342.64,
+  "duration": 3.52,
+  "text": "before, and so you assume it still is"
+ },
+ {
+  "start": 344.4,
+  "duration": 3.52,
+  "text": "bad at that thing, or frankly, it's"
+ },
+ {
+  "start": 346.16,
+  "duration": 3.6,
+  "text": "attributable to people having AI"
+ },
+ {
+  "start": 347.92,
+  "duration": 3.08,
+  "text": "skepticism be their business model."
+ },
+ {
+  "start": 349.76,
+  "duration": 2.8,
+  "text": "Although, even that's being called out"
+ },
+ {
+  "start": 351.0,
+  "duration": 3.0,
+  "text": "more and more recently."
+ },
+ {
+  "start": 352.56,
+  "duration": 4.6,
+  "text": "But, where we go next in the doom cycle"
+ },
+ {
+  "start": 354.0,
+  "duration": 5.76,
+  "text": "is up to the AI psychosis category. I'm"
+ },
+ {
+  "start": 357.16,
+  "duration": 4.88,
+  "text": "using the not-so-generous term here to"
+ },
+ {
+  "start": 359.76,
+  "duration": 4.12,
+  "text": "acknowledge the fact that for a lot of"
+ },
+ {
+  "start": 362.04,
+  "duration": 4.4,
+  "text": "folks, once they start really"
+ },
+ {
+  "start": 363.88,
+  "duration": 3.92,
+  "text": "appreciating how powerful AI is, they"
+ },
+ {
+  "start": 366.44,
+  "duration": 4.32,
+  "text": "start to see its implications"
+ },
+ {
+  "start": 367.8,
+  "duration": 4.32,
+  "text": "everywhere, perhaps even overestimating"
+ },
+ {
+  "start": 370.76,
+  "duration": 4.04,
+  "text": "what it can do, at least in the short"
+ },
+ {
+  "start": 372.12,
+  "duration": 4.88,
+  "text": "term. Now, AI psychosis as a term is"
+ },
+ {
+  "start": 374.8,
+  "duration": 3.8,
+  "text": "generally used pejoratively, and I want"
+ },
+ {
+  "start": 377.0,
+  "duration": 3.88,
+  "text": "to be clear that that's not my intention"
+ },
+ {
+  "start": 378.6,
+  "duration": 4.48,
+  "text": "here. What this is shorthand for in the"
+ },
+ {
+  "start": 380.88,
+  "duration": 4.56,
+  "text": "context of our AI doom cycle chart is"
+ },
+ {
+  "start": 383.08,
+  "duration": 4.28,
+  "text": "simply the state of being peak convinced"
+ },
+ {
+  "start": 385.44,
+  "duration": 3.12,
+  "text": "that AI is going to change everything,"
+ },
+ {
+  "start": 387.36,
+  "duration": 2.64,
+  "text": "which is where we get to our first story"
+ },
+ {
+  "start": 388.56,
+  "duration": 4.72,
+  "text": "from the last couple of days, which is"
+ },
+ {
+  "start": 390.0,
+  "duration": 5.64,
+  "text": "the reversal in Citadel CEO Ken Griffin."
+ },
+ {
+  "start": 393.28,
+  "duration": 4.56,
+  "text": "Back in January, Griffin was, relative"
+ },
+ {
+  "start": 395.64,
+  "duration": 4.4,
+  "text": "to many of his finance industry peers,"
+ },
+ {
+  "start": 397.84,
+  "duration": 3.72,
+  "text": "deeply on the skeptical side. And given"
+ },
+ {
+  "start": 400.04,
+  "duration": 2.84,
+  "text": "that he was, at the time, the 39th"
+ },
+ {
+  "start": 401.56,
+  "duration": 2.8,
+  "text": "richest person in the world with a net"
+ },
+ {
+  "start": 402.88,
+  "duration": 3.08,
+  "text": "worth just shy of $50 billion, his"
+ },
+ {
+  "start": 404.36,
+  "duration": 3.559,
+  "text": "skepticism his skepticism was enough to"
+ },
+ {
+  "start": 405.96,
+  "duration": 4.44,
+  "text": "make headlines. At a panel discussion at"
+ },
+ {
+  "start": 407.919,
+  "duration": 4.601,
+  "text": "the World Economic Forum, he basically"
+ },
+ {
+  "start": 410.4,
+  "duration": 4.04,
+  "text": "claimed that AI was all hype, with the"
+ },
+ {
+  "start": 412.52,
+  "duration": 3.48,
+  "text": "specific intention of that hype being"
+ },
+ {
+  "start": 414.44,
+  "duration": 3.2,
+  "text": "drumming up support for the massive"
+ },
+ {
+  "start": 416.0,
+  "duration": 2.8,
+  "text": "amount of investment which was required"
+ },
+ {
+  "start": 417.64,
+  "duration": 2.76,
+  "text": "to keep the infrastructure buildout"
+ },
+ {
+  "start": 418.8,
+  "duration": 3.24,
+  "text": "going. Griffin said, \"You're not going"
+ },
+ {
+  "start": 420.4,
+  "duration": 2.84,
+  "text": "to generate this kind of spend unless"
+ },
+ {
+  "start": 422.04,
+  "duration": 2.48,
+  "text": "you're going to make a promise that"
+ },
+ {
+  "start": 423.24,
+  "duration": 3.2,
+  "text": "you're going to profoundly change the"
+ },
+ {
+  "start": 424.52,
+  "duration": 3.28,
+  "text": "world.\" Referencing his own work in"
+ },
+ {
+  "start": 426.44,
+  "duration": 2.84,
+  "text": "stock analysis, he described"
+ },
+ {
+  "start": 427.8,
+  "duration": 3.32,
+  "text": "AI-generated reports that look"
+ },
+ {
+  "start": 429.28,
+  "duration": 3.72,
+  "text": "impressive at first blush, but once you"
+ },
+ {
+  "start": 431.12,
+  "duration": 4.4,
+  "text": "dig deeper, it's, in his words, all"
+ },
+ {
+  "start": 433.0,
+  "duration": 4.52,
+  "text": "garbage. Griffin's mind has apparently"
+ },
+ {
+  "start": 435.52,
+  "duration": 3.72,
+  "text": "changed. During a discussion at Stanford"
+ },
+ {
+  "start": 437.52,
+  "duration": 3.68,
+  "text": "Business School earlier this month, he"
+ },
+ {
+  "start": 439.24,
+  "duration": 3.64,
+  "text": "noted that AI had become profoundly more"
+ },
+ {
+  "start": 441.2,
+  "duration": 3.68,
+  "text": "powerful, his words, than it was 9"
+ },
+ {
+  "start": 442.88,
+  "duration": 3.88,
+  "text": "months ago, which allowed Citadel to use"
+ },
+ {
+  "start": 444.88,
+  "duration": 4.4,
+  "text": "it in a wider range of cases. He"
+ },
+ {
+  "start": 446.76,
+  "duration": 4.12,
+  "text": "commented, \"For the first time, AI is"
+ },
+ {
+  "start": 449.28,
+  "duration": 3.0,
+  "text": "real.\" Now, we'll hold aside his"
+ },
+ {
+  "start": 450.88,
+  "duration": 2.92,
+  "text": "dismissal of all the value that people"
+ },
+ {
+  "start": 452.28,
+  "duration": 3.32,
+  "text": "got out of it for the 3 years previous"
+ },
+ {
+  "start": 453.8,
+  "duration": 4.56,
+  "text": "to the ascent of these coding models,"
+ },
+ {
+  "start": 455.6,
+  "duration": 4.319,
+  "text": "and focus on where he's landed. He said,"
+ },
+ {
+  "start": 458.36,
+  "duration": 3.44,
+  "text": "\"To be blunt, work that we would usually"
+ },
+ {
+  "start": 459.919,
+  "duration": 3.201,
+  "text": "do with people with master's and PhDs in"
+ },
+ {
+  "start": 461.8,
+  "duration": 3.08,
+  "text": "finance over the course of weeks or"
+ },
+ {
+  "start": 463.12,
+  "duration": 3.72,
+  "text": "months is being done by AI agents over"
+ },
+ {
+  "start": 464.88,
+  "duration": 4.12,
+  "text": "the course of hours or days. He said the"
+ },
+ {
+  "start": 466.84,
+  "duration": 3.72,
+  "text": "firm is seeing a 15 to 25% productivity"
+ },
+ {
+  "start": 469.0,
+  "duration": 3.16,
+  "text": "boost adding, \"When you're seeing really"
+ },
+ {
+  "start": 470.56,
+  "duration": 3.56,
+  "text": "high-level research being done by AI"
+ },
+ {
+  "start": 472.16,
+  "duration": 4.0,
+  "text": "engines, it's quite eye-opening.\" Now,"
+ },
+ {
+  "start": 474.12,
+  "duration": 3.92,
+  "text": "importantly, this filled Griffin not"
+ },
+ {
+  "start": 476.16,
+  "duration": 3.52,
+  "text": "with excitement but with trepidation."
+ },
+ {
+  "start": 478.04,
+  "duration": 3.04,
+  "text": "Continuing, he said,"
+ },
+ {
+  "start": 479.68,
+  "duration": 3.32,
+  "text": "\"These are not mid-tier white-collar"
+ },
+ {
+  "start": 481.08,
+  "duration": 3.6,
+  "text": "jobs. These are like extraordinarily"
+ },
+ {
+  "start": 483.0,
+  "duration": 4.24,
+  "text": "high-skilled jobs being, I'm going to"
+ },
+ {
+  "start": 484.68,
+  "duration": 4.2,
+  "text": "pick a word, automated by Agenda AI. And"
+ },
+ {
+  "start": 487.24,
+  "duration": 3.04,
+  "text": "I got to tell you, I went home on Friday"
+ },
+ {
+  "start": 488.88,
+  "duration": 2.64,
+  "text": "actually fairly depressed by this"
+ },
+ {
+  "start": 490.28,
+  "duration": 2.88,
+  "text": "because you could just see how this was"
+ },
+ {
+  "start": 491.52,
+  "duration": 3.48,
+  "text": "going to have such a dramatic impact on"
+ },
+ {
+  "start": 493.16,
+  "duration": 4.16,
+  "text": "society.\" And so, what you're seeing"
+ },
+ {
+  "start": 495.0,
+  "duration": 4.72,
+  "text": "with Ken Griffin is the fact that very"
+ },
+ {
+  "start": 497.32,
+  "duration": 4.96,
+  "text": "often an increase in one's belief about"
+ },
+ {
+  "start": 499.72,
+  "duration": 4.52,
+  "text": "the power AI can also start to nudge"
+ },
+ {
+  "start": 502.28,
+  "duration": 4.24,
+  "text": "them towards the next category on the"
+ },
+ {
+  "start": 504.24,
+  "duration": 3.6,
+  "text": "doom cycle, which is doom desperation."
+ },
+ {
+  "start": 506.52,
+  "duration": 3.48,
+  "text": "And this is, of course, where you"
+ },
+ {
+  "start": 507.84,
+  "duration": 4.0,
+  "text": "extrapolate out from the way you see AI"
+ },
+ {
+  "start": 510.0,
+  "duration": 3.2,
+  "text": "changing the workforce right now, the"
+ },
+ {
+  "start": 511.84,
+  "duration": 3.12,
+  "text": "way that is changing how companies think"
+ },
+ {
+  "start": 513.2,
+  "duration": 3.959,
+  "text": "about hiring, and the implication of"
+ },
+ {
+  "start": 514.96,
+  "duration": 4.04,
+  "text": "that is fewer jobs. One of the biggest"
+ },
+ {
+  "start": 517.159,
+  "duration": 3.76,
+  "text": "jobs doomers right now is former"
+ },
+ {
+  "start": 519.0,
+  "duration": 3.56,
+  "text": "presidential candidate and UBI advocate"
+ },
+ {
+  "start": 520.919,
+  "duration": 2.881,
+  "text": "Andrew Yang, who took the chance to"
+ },
+ {
+  "start": 522.56,
+  "duration": 3.279,
+  "text": "quote tweet a video of the Griffin"
+ },
+ {
+  "start": 523.8,
+  "duration": 3.92,
+  "text": "conversation, adding, \"Finance will"
+ },
+ {
+  "start": 525.839,
+  "duration": 4.521,
+  "text": "quickly follow tech and automation via"
+ },
+ {
+  "start": 527.72,
+  "duration": 4.76,
+  "text": "AI.\" Now, Andrew and Ken are far from"
+ },
+ {
+  "start": 530.36,
+  "duration": 3.44,
+  "text": "alone in their concerns. Anyone who's"
+ },
+ {
+  "start": 532.48,
+  "duration": 2.92,
+  "text": "been listening to this show certainly"
+ },
+ {
+  "start": 533.8,
+  "duration": 4.039,
+  "text": "knows that it seemed like every couple"
+ },
+ {
+  "start": 535.4,
+  "duration": 3.84,
+  "text": "of days one AI executive or another has"
+ },
+ {
+  "start": 537.839,
+  "duration": 3.161,
+  "text": "taken it upon themselves to go out and"
+ },
+ {
+  "start": 539.24,
+  "duration": 2.64,
+  "text": "do a media tour about just how many jobs"
+ },
+ {
+  "start": 541.0,
+  "duration": 2.48,
+  "text": "are going to be leveled by the"
+ },
+ {
+  "start": 541.88,
+  "duration": 3.08,
+  "text": "technology that they are racing with"
+ },
+ {
+  "start": 543.48,
+  "duration": 2.56,
+  "text": "everything they have to build. And"
+ },
+ {
+  "start": 544.96,
+  "duration": 2.68,
+  "text": "although we didn't get a set of new"
+ },
+ {
+  "start": 546.04,
+  "duration": 3.0,
+  "text": "comments over the last couple of days,"
+ },
+ {
+  "start": 547.64,
+  "duration": 3.16,
+  "text": "giving a sense of how resonant and"
+ },
+ {
+  "start": 549.04,
+  "duration": 3.28,
+  "text": "widespread the doom desperation is right"
+ },
+ {
+  "start": 550.8,
+  "duration": 3.6,
+  "text": "now, a whole bunch of speeches from"
+ },
+ {
+  "start": 552.32,
+  "duration": 3.32,
+  "text": "earlier in the year resurfaced and got"
+ },
+ {
+  "start": 554.4,
+  "duration": 3.56,
+  "text": "another round of life thanks to"
+ },
+ {
+  "start": 555.64,
+  "duration": 3.56,
+  "text": "reprinting in magazines like Fortune."
+ },
+ {
+  "start": 557.96,
+  "duration": 3.24,
+  "text": "A couple of days ago, Fortune, for"
+ },
+ {
+  "start": 559.2,
+  "duration": 4.32,
+  "text": "example, resurfaced comments from"
+ },
+ {
+  "start": 561.2,
+  "duration": 4.36,
+  "text": "Microsoft AI CEO Mustafa Suleyman from a"
+ },
+ {
+  "start": 563.52,
+  "duration": 4.28,
+  "text": "couple of months ago with the headline,"
+ },
+ {
+  "start": 565.56,
+  "duration": 3.6,
+  "text": "\"Microsoft AI chief gives it 18 months"
+ },
+ {
+  "start": 567.8,
+  "duration": 3.4,
+  "text": "for all white-collar work to be"
+ },
+ {
+  "start": 569.16,
+  "duration": 3.679,
+  "text": "automated by AI.\" The Wall Street"
+ },
+ {
+  "start": 571.2,
+  "duration": 4.08,
+  "text": "Journal also resurfaced videos of"
+ },
+ {
+  "start": 572.839,
+  "duration": 4.481,
+  "text": "Anthropic CEO Dario Amodei putting big"
+ },
+ {
+  "start": 575.28,
+  "duration": 3.88,
+  "text": "numbers on his prediction like a 10%"
+ },
+ {
+  "start": 577.32,
+  "duration": 3.04,
+  "text": "unemployment rate overall and a 50%"
+ },
+ {
+  "start": 579.16,
+  "duration": 3.0,
+  "text": "unemployment rate for entry-level"
+ },
+ {
+  "start": 580.36,
+  "duration": 3.68,
+  "text": "white-collar jobs. That same interviews"
+ },
+ {
+  "start": 582.16,
+  "duration": 3.32,
+  "text": "from around that time also predicted"
+ },
+ {
+  "start": 584.04,
+  "duration": 3.24,
+  "text": "that the cost of software was going to"
+ },
+ {
+  "start": 585.48,
+  "duration": 3.12,
+  "text": "go to zero, which in and of itself would"
+ },
+ {
+  "start": 587.28,
+  "duration": 3.28,
+  "text": "have implications for jobs in that"
+ },
+ {
+  "start": 588.6,
+  "duration": 3.16,
+  "text": "industry. Which is not to say that in"
+ },
+ {
+  "start": 590.56,
+  "duration": 3.16,
+  "text": "the tech industry there isn't some"
+ },
+ {
+  "start": 591.76,
+  "duration": 3.6,
+  "text": "skepticism of this or Anthropic's"
+ },
+ {
+  "start": 593.72,
+  "duration": 3.36,
+  "text": "motivation for it."
+ },
+ {
+  "start": 595.36,
+  "duration": 3.08,
+  "text": "Sodas on X summed up what many people"
+ },
+ {
+  "start": 597.08,
+  "duration": 3.48,
+  "text": "feel when they wrote, \"It's this"
+ },
+ {
+  "start": 598.44,
+  "duration": 4.56,
+  "text": "narrative that allows Dario to raise $30"
+ },
+ {
+  "start": 600.56,
+  "duration": 4.6,
+  "text": "billion at $900 billion post. Gen AI and"
+ },
+ {
+  "start": 603.0,
+  "duration": 4.28,
+  "text": "LLMs are implicitly framed as a zero-sum"
+ },
+ {
+  "start": 605.16,
+  "duration": 3.8,
+  "text": "narrative.\" Still, Menlo Ventures Didi"
+ },
+ {
+  "start": 607.28,
+  "duration": 3.68,
+  "text": "Dos painted a picture of a Silicon"
+ },
+ {
+  "start": 608.96,
+  "duration": 3.92,
+  "text": "Valley tech industry vibe that is, in a"
+ },
+ {
+  "start": 610.96,
+  "duration": 3.84,
+  "text": "word, pretty dreary. And to use our"
+ },
+ {
+  "start": 612.88,
+  "duration": 2.96,
+  "text": "frame, clearly in this doom desperation"
+ },
+ {
+  "start": 614.8,
+  "duration": 2.48,
+  "text": "mode."
+ },
+ {
+  "start": 615.84,
+  "duration": 3.52,
+  "text": "On Friday, Didi posted something that"
+ },
+ {
+  "start": 617.28,
+  "duration": 4.24,
+  "text": "went wildly viral with about 11 million"
+ },
+ {
+  "start": 619.36,
+  "duration": 3.92,
+  "text": "people seeing it. \"The vibes in SF feel"
+ },
+ {
+  "start": 621.52,
+  "duration": 3.12,
+  "text": "pretty frenetic right now,\" he wrote."
+ },
+ {
+  "start": 623.28,
+  "duration": 3.32,
+  "text": "\"The divide in outcomes is the worst"
+ },
+ {
+  "start": 624.64,
+  "duration": 4.28,
+  "text": "I've ever seen. Over the last 5 years, a"
+ },
+ {
+  "start": 626.6,
+  "duration": 4.64,
+  "text": "group of around 10,000 people, employees"
+ },
+ {
+  "start": 628.92,
+  "duration": 4.44,
+  "text": "at Anthropic, OpenAI, xAI, Nvidia, Meta,"
+ },
+ {
+  "start": 631.24,
+  "duration": 3.96,
+  "text": "TBD, and founders have hit retirement"
+ },
+ {
+  "start": 633.36,
+  "duration": 3.4,
+  "text": "wealth of well above $20 million."
+ },
+ {
+  "start": 635.2,
+  "duration": 3.0,
+  "text": "Everyone outside that group feels like"
+ },
+ {
+  "start": 636.76,
+  "duration": 3.16,
+  "text": "they can work their well-paying but less"
+ },
+ {
+  "start": 638.2,
+  "duration": 3.56,
+  "text": "than 500k job for their whole life and"
+ },
+ {
+  "start": 639.92,
+  "duration": 3.68,
+  "text": "never get there. Worse yet, layoffs are"
+ },
+ {
+  "start": 641.76,
+  "duration": 3.16,
+  "text": "in full swing. Many software engineers"
+ },
+ {
+  "start": 643.6,
+  "duration": 3.4,
+  "text": "feel like their life skill is no longer"
+ },
+ {
+  "start": 644.92,
+  "duration": 3.84,
+  "text": "useful. The day-to-day role of most jobs"
+ },
+ {
+  "start": 647.0,
+  "duration": 3.88,
+  "text": "has changed overnight with AI. As a"
+ },
+ {
+  "start": 648.76,
+  "duration": 3.84,
+  "text": "result, one, the corporate ladder looks"
+ },
+ {
+  "start": 650.88,
+  "duration": 3.12,
+  "text": "like the wrong building to climb."
+ },
+ {
+  "start": 652.6,
+  "duration": 3.0,
+  "text": "Everyone's trying to align with a new"
+ },
+ {
+  "start": 654.0,
+  "duration": 2.92,
+  "text": "set of career paths. Should I be a"
+ },
+ {
+  "start": 655.6,
+  "duration": 3.239,
+  "text": "founder? Is it too late to join"
+ },
+ {
+  "start": 656.92,
+  "duration": 4.36,
+  "text": "Anthropic or OpenAI? Should I get into"
+ },
+ {
+  "start": 658.839,
+  "duration": 3.921,
+  "text": "AI? What company's stock will 10x next?"
+ },
+ {
+  "start": 661.28,
+  "duration": 3.2,
+  "text": "People are demanding higher salaries and"
+ },
+ {
+  "start": 662.76,
+  "duration": 3.079,
+  "text": "switching jobs more and more. Two,"
+ },
+ {
+  "start": 664.48,
+  "duration": 3.08,
+  "text": "there's a deep malaise about work and"
+ },
+ {
+  "start": 665.839,
+  "duration": 3.281,
+  "text": "its future. Why even work at all for a"
+ },
+ {
+  "start": 667.56,
+  "duration": 3.36,
+  "text": "{quote} unquote peanuts? Will my job"
+ },
+ {
+  "start": 669.12,
+  "duration": 3.4,
+  "text": "even exist in a few years? Many feel"
+ },
+ {
+  "start": 670.92,
+  "duration": 3.0,
+  "text": "helpless. You hear the permanent"
+ },
+ {
+  "start": 672.52,
+  "duration": 2.92,
+  "text": "underclass conversation a lot,"
+ },
+ {
+  "start": 673.92,
+  "duration": 2.8,
+  "text": "especially from young people. It's hard"
+ },
+ {
+  "start": 675.44,
+  "duration": 2.8,
+  "text": "to focus on doing good work when you"
+ },
+ {
+  "start": 676.72,
+  "duration": 3.4,
+  "text": "think, \"Man, if I joined Anthropic 2"
+ },
+ {
+  "start": 678.24,
+  "duration": 3.28,
+  "text": "years ago, I could retire.\" Three, the"
+ },
+ {
+  "start": 680.12,
+  "duration": 3.4,
+  "text": "mid to late middle managers feel"
+ },
+ {
+  "start": 681.52,
+  "duration": 2.96,
+  "text": "paralyzed. Many have families and don't"
+ },
+ {
+  "start": 683.52,
+  "duration": 2.56,
+  "text": "feel like they have the energy or"
+ },
+ {
+  "start": 684.48,
+  "duration": 3.76,
+  "text": "network to just start a company. They"
+ },
+ {
+  "start": 686.08,
+  "duration": 3.84,
+  "text": "don't particularly have any AI skills."
+ },
+ {
+  "start": 688.24,
+  "duration": 3.16,
+  "text": "They see the writing on the wall. Middle"
+ },
+ {
+  "start": 689.92,
+  "duration": 3.44,
+  "text": "management is being hollowed out in many"
+ },
+ {
+  "start": 691.4,
+  "duration": 3.72,
+  "text": "companies. And four, the rich aren't"
+ },
+ {
+  "start": 693.36,
+  "duration": 3.48,
+  "text": "particularly happy either. No one is"
+ },
+ {
+  "start": 695.12,
+  "duration": 3.16,
+  "text": "shedding tears for them, and rightfully"
+ },
+ {
+  "start": 696.84,
+  "duration": 2.92,
+  "text": "so, but those who have quote-unquote"
+ },
+ {
+  "start": 698.28,
+  "duration": 3.24,
+  "text": "made it experience a profound lack of"
+ },
+ {
+  "start": 699.76,
+  "duration": 3.8,
+  "text": "purpose, too. Some have gone from less"
+ },
+ {
+  "start": 701.52,
+  "duration": 3.72,
+  "text": "than 150k to over 50 million in a few"
+ },
+ {
+  "start": 703.56,
+  "duration": 3.8,
+  "text": "years with no ramp. It flips your life"
+ },
+ {
+  "start": 705.24,
+  "duration": 3.56,
+  "text": "plans upside down. For some, comparison"
+ },
+ {
+  "start": 707.36,
+  "duration": 3.28,
+  "text": "is the thief of joy. For some, they"
+ },
+ {
+  "start": 708.8,
+  "duration": 3.12,
+  "text": "escape to New York City to live life."
+ },
+ {
+  "start": 710.64,
+  "duration": 3.28,
+  "text": "For others still, they start companies"
+ },
+ {
+  "start": 711.92,
+  "duration": 3.52,
+  "text": "just cuz, often to win status points."
+ },
+ {
+  "start": 713.92,
+  "duration": 3.4,
+  "text": "They never imagined that by age 30"
+ },
+ {
+  "start": 715.44,
+  "duration": 3.32,
+  "text": "they'd be set. I once asked a"
+ },
+ {
+  "start": 717.32,
+  "duration": 2.56,
+  "text": "post-economic founder friend why they"
+ },
+ {
+  "start": 718.76,
+  "duration": 2.56,
+  "text": "didn't just sell the company, and they"
+ },
+ {
+  "start": 719.88,
+  "duration": 3.12,
+  "text": "said, \"And do what? Right now everyone"
+ },
+ {
+  "start": 721.32,
+  "duration": 3.44,
+  "text": "wants to talk to me. If I sell, I will"
+ },
+ {
+  "start": 723.0,
+  "duration": 3.32,
+  "text": "only have money.\" I understand, Didi"
+ },
+ {
+  "start": 724.76,
+  "duration": 3.24,
+  "text": "concludes, that many reading this scoff"
+ },
+ {
+  "start": 726.32,
+  "duration": 3.52,
+  "text": "at the champagne problems of the Valley."
+ },
+ {
+  "start": 728.0,
+  "duration": 3.2,
+  "text": "Society is warped in this tech bubble."
+ },
+ {
+  "start": 729.84,
+  "duration": 3.32,
+  "text": "What is often well off anywhere else in"
+ },
+ {
+  "start": 731.2,
+  "duration": 3.64,
+  "text": "the world is bang average here. Unlike"
+ },
+ {
+  "start": 733.16,
+  "duration": 3.2,
+  "text": "many other places, tenure, intelligence,"
+ },
+ {
+  "start": 734.84,
+  "duration": 3.12,
+  "text": "and hard work can be loosely correlated"
+ },
+ {
+  "start": 736.36,
+  "duration": 3.28,
+  "text": "with outcomes in the Bay. Living through"
+ },
+ {
+  "start": 737.96,
+  "duration": 3.56,
+  "text": "a societally transformative gold rush in"
+ },
+ {
+  "start": 739.64,
+  "duration": 3.56,
+  "text": "that environment can be paralyzing. Am I"
+ },
+ {
+  "start": 741.52,
+  "duration": 3.28,
+  "text": "in the right place? Should I move? Is"
+ },
+ {
+  "start": 743.2,
+  "duration": 3.28,
+  "text": "there time still left? Am I going to"
+ },
+ {
+  "start": 744.8,
+  "duration": 2.84,
+  "text": "make it? It psychologically torments"
+ },
+ {
+  "start": 746.48,
+  "duration": 3.16,
+  "text": "many who have moved here in search of"
+ },
+ {
+  "start": 747.64,
+  "duration": 3.4,
+  "text": "success. Ironically, a frequent side"
+ },
+ {
+  "start": 749.64,
+  "duration": 2.96,
+  "text": "effect of this torment is to spin up the"
+ },
+ {
+  "start": 751.04,
+  "duration": 2.92,
+  "text": "very products making everyone rich in"
+ },
+ {
+  "start": 752.6,
+  "duration": 3.84,
+  "text": "hopes that you too can vibe code your"
+ },
+ {
+  "start": 753.96,
+  "duration": 3.68,
+  "text": "path to economic enlightenment."
+ },
+ {
+  "start": 756.44,
+  "duration": 2.76,
+  "text": "Now, I won't get into all of the"
+ },
+ {
+  "start": 757.64,
+  "duration": 2.84,
+  "text": "critiques of this, which of course are a"
+ },
+ {
+  "start": 759.2,
+  "duration": 3.32,
+  "text": "big part of the reason that 11 million"
+ },
+ {
+  "start": 760.48,
+  "duration": 3.68,
+  "text": "people have engaged. I will use Bucco"
+ },
+ {
+  "start": 762.52,
+  "duration": 3.44,
+  "text": "Capital as a sum-up for all of them when"
+ },
+ {
+  "start": 764.16,
+  "duration": 3.76,
+  "text": "he wrote, \"I can't stop thinking about"
+ },
+ {
+  "start": 765.96,
+  "duration": 3.2,
+  "text": "this post. If you do one thing today, I"
+ },
+ {
+  "start": 767.92,
+  "duration": 3.24,
+  "text": "encourage you to give it a thoughtful"
+ },
+ {
+  "start": 769.16,
+  "duration": 3.6,
+  "text": "thorough read, and then commit to never"
+ },
+ {
+  "start": 771.16,
+  "duration": 3.08,
+  "text": "living your life this way. Life has"
+ },
+ {
+  "start": 772.76,
+  "duration": 3.2,
+  "text": "wasted success on the people described"
+ },
+ {
+  "start": 774.24,
+  "duration": 3.36,
+  "text": "in this post. It really is completely"
+ },
+ {
+  "start": 775.96,
+  "duration": 3.36,
+  "text": "pathetic. They say that comparison is"
+ },
+ {
+  "start": 777.6,
+  "duration": 3.28,
+  "text": "the thief of joy. Look no further than"
+ },
+ {
+  "start": 779.32,
+  "duration": 3.0,
+  "text": "this post for validation it is indeed"
+ },
+ {
+  "start": 780.88,
+  "duration": 2.4,
+  "text": "true. On their deathbed, they will"
+ },
+ {
+  "start": 782.32,
+  "duration": 3.04,
+  "text": "realize they have lived their life"
+ },
+ {
+  "start": 783.28,
+  "duration": 4.12,
+  "text": "completely wrong. Don't let it be you.\""
+ },
+ {
+  "start": 785.36,
+  "duration": 4.12,
+  "text": "The point for our purposes is that part"
+ },
+ {
+  "start": 787.4,
+  "duration": 4.56,
+  "text": "of the reason that doomed desperation is"
+ },
+ {
+  "start": 789.48,
+  "duration": 4.24,
+  "text": "so widespread is that a lot of it is"
+ },
+ {
+  "start": 791.96,
+  "duration": 3.8,
+  "text": "coming from the people who are building"
+ },
+ {
+  "start": 793.72,
+  "duration": 4.2,
+  "text": "this technology, which by the way is"
+ },
+ {
+  "start": 795.76,
+  "duration": 4.2,
+  "text": "also why a lot of the animosity is so"
+ },
+ {
+  "start": 797.92,
+  "duration": 3.52,
+  "text": "white-hot with people outside of that"
+ },
+ {
+  "start": 799.96,
+  "duration": 3.52,
+  "text": "cultural bubble asking the obvious"
+ },
+ {
+  "start": 801.44,
+  "duration": 5.08,
+  "text": "question of if this thing is going to be"
+ },
+ {
+  "start": 803.48,
+  "duration": 5.16,
+  "text": "bad for us, why are you building it?"
+ },
+ {
+  "start": 806.52,
+  "duration": 3.88,
+  "text": "And that anger is getting louder. One of"
+ },
+ {
+  "start": 808.64,
+  "duration": 3.12,
+  "text": "the media's favorite themes right now is"
+ },
+ {
+  "start": 810.4,
+  "duration": 3.52,
+  "text": "commencement speakers getting booed off"
+ },
+ {
+  "start": 811.76,
+  "duration": 3.76,
+  "text": "the stage for mentioning AI. On Friday,"
+ },
+ {
+  "start": 813.92,
+  "duration": 3.08,
+  "text": "the graduating class at the University"
+ },
+ {
+  "start": 815.52,
+  "duration": 2.88,
+  "text": "of Arizona loudly booed Google"
+ },
+ {
+  "start": 817.0,
+  "duration": 2.96,
+  "text": "co-founder Eric Schmidt during his"
+ },
+ {
+  "start": 818.4,
+  "duration": 2.96,
+  "text": "commencement speech."
+ },
+ {
+  "start": 819.96,
+  "duration": 3.36,
+  "text": "Now, it is certainly possible that"
+ },
+ {
+  "start": 821.36,
+  "duration": 3.8,
+  "text": "Schmidt's status as a tech mogul colored"
+ },
+ {
+  "start": 823.32,
+  "duration": 3.08,
+  "text": "the crowd's reaction. His entire speech"
+ },
+ {
+  "start": 825.16,
+  "duration": 2.4,
+  "text": "was essentially about how the tech"
+ },
+ {
+  "start": 826.4,
+  "duration": 2.64,
+  "text": "industry had failed the younger"
+ },
+ {
+  "start": 827.56,
+  "duration": 3.48,
+  "text": "generation throughout the social media"
+ },
+ {
+  "start": 829.04,
+  "duration": 3.64,
+  "text": "era. He was already getting booed as he"
+ },
+ {
+  "start": 831.04,
+  "duration": 3.12,
+  "text": "claimed the damage was unintentional,"
+ },
+ {
+  "start": 832.68,
+  "duration": 3.2,
+  "text": "stating, \"In the years after I"
+ },
+ {
+  "start": 834.16,
+  "duration": 3.16,
+  "text": "graduated, no one sat down and resolved"
+ },
+ {
+  "start": 835.88,
+  "duration": 3.08,
+  "text": "to build technology that would polarize"
+ },
+ {
+  "start": 837.32,
+  "duration": 3.24,
+  "text": "democracies and unsettle a generation of"
+ },
+ {
+  "start": 838.96,
+  "duration": 3.04,
+  "text": "young people. That was not the plan, but"
+ },
+ {
+  "start": 840.56,
+  "duration": 2.84,
+  "text": "it happened.\""
+ },
+ {
+  "start": 842.0,
+  "duration": 3.2,
+  "text": "As an aside, at some point I'm going to"
+ },
+ {
+  "start": 843.4,
+  "duration": 4.24,
+  "text": "do an entire show about how what I"
+ },
+ {
+  "start": 845.2,
+  "duration": 4.48,
+  "text": "believe is increasingly broad consensus"
+ },
+ {
+  "start": 847.64,
+  "duration": 3.52,
+  "text": "that social media has just been net bad"
+ },
+ {
+  "start": 849.68,
+  "duration": 4.04,
+  "text": "for the world impacts the way that"
+ },
+ {
+  "start": 851.16,
+  "duration": 3.8,
+  "text": "people look at AI, but I digress."
+ },
+ {
+  "start": 853.72,
+  "duration": 2.76,
+  "text": "But even if they were primed already,"
+ },
+ {
+  "start": 854.96,
+  "duration": 3.64,
+  "text": "the boos reached a crescendo as Schmidt"
+ },
+ {
+  "start": 856.48,
+  "duration": 4.08,
+  "text": "said, \"The question is not whether AI"
+ },
+ {
+  "start": 858.6,
+  "duration": 3.36,
+  "text": "will shape the world. It will. The"
+ },
+ {
+  "start": 860.56,
+  "duration": 3.24,
+  "text": "question is whether you will have shaped"
+ },
+ {
+  "start": 861.96,
+  "duration": 3.76,
+  "text": "artificial intelligence.\" The question"
+ },
+ {
+  "start": 863.8,
+  "duration": 4.16,
+  "text": "is whether you will have shaped"
+ },
+ {
+  "start": 865.72,
+  "duration": 4.84,
+  "text": "artificial intelligence."
+ },
+ {
+  "start": 867.96,
+  "duration": 4.44,
+  "text": "We do not know."
+ },
+ {
+  "start": 870.56,
+  "duration": 4.88,
+  "text": "We do not know"
+ },
+ {
+  "start": 872.4,
+  "duration": 6.92,
+  "text": "the precise contours of what this"
+ },
+ {
+  "start": 875.44,
+  "duration": 3.88,
+  "text": "If you'd let me make this point, please."
+ },
+ {
+  "start": 884.52,
+  "duration": 3.72,
+  "text": "Yikes. Still making it seem like this is"
+ },
+ {
+  "start": 886.56,
+  "duration": 3.0,
+  "text": "a pattern and not a one-off. Days"
+ },
+ {
+  "start": 888.24,
+  "duration": 2.48,
+  "text": "earlier, another speaker who was"
+ },
+ {
+  "start": 889.56,
+  "duration": 3.08,
+  "text": "completely removed from the tech"
+ },
+ {
+  "start": 890.72,
+  "duration": 3.6,
+  "text": "industry garnered a similar response."
+ },
+ {
+  "start": 892.64,
+  "duration": 3.16,
+  "text": "Gloria Cordfield, the VP of Strategic"
+ },
+ {
+  "start": 894.32,
+  "duration": 2.68,
+  "text": "Alliances have a stock development"
+ },
+ {
+  "start": 895.8,
+  "duration": 2.36,
+  "text": "company was loudly booed at the"
+ },
+ {
+  "start": 897.0,
+  "duration": 3.08,
+  "text": "University of Central Florida"
+ },
+ {
+  "start": 898.16,
+  "duration": 3.32,
+  "text": "graduation. She stated the rise of"
+ },
+ {
+  "start": 900.08,
+  "duration": 3.32,
+  "text": "artificial intelligence is the next"
+ },
+ {
+  "start": 901.48,
+  "duration": 3.68,
+  "text": "industrial revolution, and the boos were"
+ },
+ {
+  "start": 903.4,
+  "duration": 3.6,
+  "text": "loud enough to derail the speech with"
+ },
+ {
+  "start": 905.16,
+  "duration": 3.92,
+  "text": "Cordfield asking the crowd to let her"
+ },
+ {
+  "start": 907.0,
+  "duration": 4.44,
+  "text": "continue. Journalist Alex Kantrowitz"
+ },
+ {
+  "start": 909.08,
+  "duration": 3.56,
+  "text": "wrote, \"This is incredible. Artificial"
+ },
+ {
+  "start": 911.44,
+  "duration": 2.8,
+  "text": "intelligence getting booed out of the"
+ },
+ {
+  "start": 912.64,
+  "duration": 3.4,
+  "text": "stadium in any commencement speech it's"
+ },
+ {
+  "start": 914.24,
+  "duration": 3.68,
+  "text": "mentioned. Maybe telling college"
+ },
+ {
+  "start": 916.04,
+  "duration": 3.56,
+  "text": "students AI was taking their job wasn't"
+ },
+ {
+  "start": 917.92,
+  "duration": 3.48,
+  "text": "the best strategy.\" Journalist Eric"
+ },
+ {
+  "start": 919.6,
+  "duration": 3.48,
+  "text": "Thompson retweeted that and said, \"AI"
+ },
+ {
+  "start": 921.4,
+  "duration": 4.04,
+  "text": "being booed in commencement addresses"
+ },
+ {
+  "start": 923.08,
+  "duration": 4.04,
+  "text": "seems pretty natural to me. It's really,"
+ },
+ {
+  "start": 925.44,
+  "duration": 3.24,
+  "text": "really unusual for the people building"
+ },
+ {
+  "start": 927.12,
+  "duration": 2.6,
+  "text": "and selling a new technology to promise"
+ },
+ {
+  "start": 928.68,
+  "duration": 2.64,
+  "text": "that it will destroy people's"
+ },
+ {
+  "start": 929.72,
+  "duration": 3.44,
+  "text": "livelihoods. Whether you consider this"
+ },
+ {
+  "start": 931.32,
+  "duration": 3.76,
+  "text": "to be horrendous marketing or actually a"
+ },
+ {
+  "start": 933.16,
+  "duration": 4.2,
+  "text": "craven justification for VC investment"
+ },
+ {
+  "start": 935.08,
+  "duration": 3.52,
+  "text": "or really just honest communication or"
+ },
+ {
+  "start": 937.36,
+  "duration": 2.88,
+  "text": "rationally overemphasizing the"
+ },
+ {
+  "start": 938.6,
+  "duration": 3.76,
+  "text": "probability of a long-tail catastrophic"
+ },
+ {
+  "start": 940.24,
+  "duration": 4.2,
+  "text": "outcome or whatever else, the point is"
+ },
+ {
+  "start": 942.36,
+  "duration": 4.0,
+  "text": "it's very unusual. I think today's"
+ },
+ {
+  "start": 944.44,
+  "duration": 3.96,
+  "text": "22-year-old should probably familiarize"
+ },
+ {
+  "start": 946.36,
+  "duration": 3.52,
+  "text": "themselves with Claude and ChatGPT, but"
+ },
+ {
+  "start": 948.4,
+  "duration": 2.8,
+  "text": "I don't entirely blame them for booing"
+ },
+ {
+  "start": 949.88,
+  "duration": 3.96,
+  "text": "the technology whose architects have"
+ },
+ {
+  "start": 951.2,
+  "duration": 3.92,
+  "text": "said, \"This will destroy your jobs.\""
+ },
+ {
+  "start": 953.84,
+  "duration": 4.08,
+  "text": "And I think that's an important point"
+ },
+ {
+  "start": 955.12,
+  "duration": 5.04,
+  "text": "here. It would be wildly oversimplistic"
+ },
+ {
+  "start": 957.92,
+  "duration": 4.28,
+  "text": "to just say graduates hate AI. But as"
+ },
+ {
+  "start": 960.16,
+  "duration": 3.92,
+  "text": "Trevor Garcia put it on X, \"Getting a"
+ },
+ {
+  "start": 962.2,
+  "duration": 3.28,
+  "text": "job out of college was already brutal."
+ },
+ {
+  "start": 964.08,
+  "duration": 2.84,
+  "text": "The promise of AI squeezing the market"
+ },
+ {
+  "start": 965.48,
+  "duration": 2.8,
+  "text": "even further while billionaires promise"
+ },
+ {
+  "start": 966.92,
+  "duration": 3.04,
+  "text": "it will create millions of jobs they"
+ },
+ {
+  "start": 968.28,
+  "duration": 3.84,
+  "text": "can't name doesn't exactly inspire"
+ },
+ {
+  "start": 969.96,
+  "duration": 4.4,
+  "text": "confidence. These kids, he says, are not"
+ },
+ {
+  "start": 972.12,
+  "duration": 3.48,
+  "text": "anti-technology. They're anti-being told"
+ },
+ {
+  "start": 974.36,
+  "duration": 3.12,
+  "text": "to be excited about something that feels"
+ },
+ {
+  "start": 975.6,
+  "duration": 2.88,
+  "text": "like it was built for everyone except"
+ },
+ {
+  "start": 977.48,
+  "duration": 3.04,
+  "text": "them.\""
+ },
+ {
+  "start": 978.48,
+  "duration": 4.24,
+  "text": "And here, and you can probably feel it,"
+ },
+ {
+  "start": 980.52,
+  "duration": 4.8,
+  "text": "is the low part of our cycle. There's a"
+ },
+ {
+  "start": 982.72,
+  "duration": 3.8,
+  "text": "reason I called it doom desperation. But"
+ },
+ {
+  "start": 985.32,
+  "duration": 3.36,
+  "text": "luckily for you, if you are still"
+ },
+ {
+  "start": 986.52,
+  "duration": 5.36,
+  "text": "hanging on, this is not where our story"
+ },
+ {
+  "start": 988.68,
+  "duration": 6.159,
+  "text": "ends. From here we move to real-world"
+ },
+ {
+  "start": 991.88,
+  "duration": 5.28,
+  "text": "recalibration. By this, I mean a step"
+ },
+ {
+  "start": 994.839,
+  "duration": 4.441,
+  "text": "away from the loudest voices and the"
+ },
+ {
+  "start": 997.16,
+  "duration": 3.96,
+  "text": "most media-friendly extremes to an"
+ },
+ {
+  "start": 999.28,
+  "duration": 3.8,
+  "text": "actual look at what's happening in the"
+ },
+ {
+  "start": 1001.12,
+  "duration": 4.8,
+  "text": "real world, whether it validates those"
+ },
+ {
+  "start": 1003.08,
+  "duration": 5.68,
+  "text": "narratives or not. Now, to be clear,"
+ },
+ {
+  "start": 1005.92,
+  "duration": 4.28,
+  "text": "real-world recalibration is not just"
+ },
+ {
+  "start": 1008.76,
+  "duration": 3.76,
+  "text": "about counteracting those doom"
+ },
+ {
+  "start": 1010.2,
+  "duration": 4.44,
+  "text": "narratives. In some cases, real-world"
+ },
+ {
+  "start": 1012.52,
+  "duration": 3.88,
+  "text": "recalibration is going to be confirming"
+ },
+ {
+  "start": 1014.64,
+  "duration": 3.68,
+  "text": "of the concern. Certainly the best"
+ },
+ {
+  "start": 1016.4,
+  "duration": 3.36,
+  "text": "example of this right now are what feels"
+ },
+ {
+  "start": 1018.32,
+  "duration": 3.36,
+  "text": "like the never-ending string of layoff"
+ },
+ {
+  "start": 1019.76,
+  "duration": 3.68,
+  "text": "announcements. A recent example comes"
+ },
+ {
+  "start": 1021.68,
+  "duration": 3.32,
+  "text": "from Meta, with that company telling"
+ },
+ {
+  "start": 1023.44,
+  "duration": 3.96,
+  "text": "around 10% of their staff that their"
+ },
+ {
+  "start": 1025.0,
+  "duration": 4.72,
+  "text": "last day will be on Wednesday, impacting"
+ },
+ {
+  "start": 1027.4,
+  "duration": 3.88,
+  "text": "about 8,000 people. Now, sources said"
+ },
+ {
+  "start": 1029.72,
+  "duration": 3.32,
+  "text": "that the official explanation is to run"
+ },
+ {
+  "start": 1031.28,
+  "duration": 3.919,
+  "text": "the company more efficiently and offset"
+ },
+ {
+  "start": 1033.04,
+  "duration": 3.32,
+  "text": "other investments, meaning presumably"
+ },
+ {
+  "start": 1035.199,
+  "duration": 2.64,
+  "text": "that payroll spending is being"
+ },
+ {
+  "start": 1036.36,
+  "duration": 3.479,
+  "text": "transferred into infrastructure"
+ },
+ {
+  "start": 1037.839,
+  "duration": 3.521,
+  "text": "spending. Wired reports that the looming"
+ },
+ {
+  "start": 1039.839,
+  "duration": 3.641,
+  "text": "layoffs in the broader AI restructuring"
+ },
+ {
+  "start": 1041.36,
+  "duration": 4.4,
+  "text": "have driven morale to new lows. One"
+ },
+ {
+  "start": 1043.48,
+  "duration": 4.04,
+  "text": "anonymous employee said, \"Everyone is"
+ },
+ {
+  "start": 1045.76,
+  "duration": 4.4,
+  "text": "unhappy. The only people who are not"
+ },
+ {
+  "start": 1047.52,
+  "duration": 4.12,
+  "text": "unhappy are literally executives.\" 16"
+ },
+ {
+  "start": 1050.16,
+  "duration": 3.04,
+  "text": "employees said that recently installed"
+ },
+ {
+  "start": 1051.64,
+  "duration": 3.24,
+  "text": "screen tracking software said to be used"
+ },
+ {
+  "start": 1053.2,
+  "duration": 4.0,
+  "text": "for AI training has contributed"
+ },
+ {
+  "start": 1054.88,
+  "duration": 4.44,
+  "text": "massively to the gloomy mood. One policy"
+ },
+ {
+  "start": 1057.2,
+  "duration": 4.04,
+  "text": "staffer commented, \"I don't know anyone"
+ },
+ {
+  "start": 1059.32,
+  "duration": 3.44,
+  "text": "having a good time. The vibe is a bit"
+ },
+ {
+  "start": 1061.24,
+  "duration": 3.44,
+  "text": "over it. Lack of connection to the"
+ },
+ {
+  "start": 1062.76,
+  "duration": 3.4,
+  "text": "mission, upcoming layoffs, American"
+ },
+ {
+  "start": 1064.68,
+  "duration": 3.64,
+  "text": "employees being used to train the AI"
+ },
+ {
+  "start": 1066.16,
+  "duration": 3.92,
+  "text": "models that will replace them.\" This is"
+ },
+ {
+  "start": 1068.32,
+  "duration": 3.2,
+  "text": "some of the easiest real-world evidence"
+ },
+ {
+  "start": 1070.08,
+  "duration": 3.48,
+  "text": "to see, which is why it tends to"
+ },
+ {
+  "start": 1071.52,
+  "duration": 3.48,
+  "text": "dominate the discourse. But, there are"
+ },
+ {
+  "start": 1073.56,
+  "duration": 3.6,
+  "text": "in fact other things happening at the"
+ },
+ {
+  "start": 1075.0,
+  "duration": 4.2,
+  "text": "same time. Let's take the conversation"
+ },
+ {
+  "start": 1077.16,
+  "duration": 4.16,
+  "text": "around token maxing. This was maybe our"
+ },
+ {
+  "start": 1079.2,
+  "duration": 3.72,
+  "text": "biggest theme from last week. The ideas"
+ },
+ {
+  "start": 1081.32,
+  "duration": 2.84,
+  "text": "surrounding this are some of the biggest"
+ },
+ {
+  "start": 1082.92,
+  "duration": 3.56,
+  "text": "themes that we've been exploring on the"
+ },
+ {
+  "start": 1084.16,
+  "duration": 3.84,
+  "text": "show recently. For a bit of background,"
+ },
+ {
+  "start": 1086.48,
+  "duration": 3.32,
+  "text": "for the last couple of months, you've"
+ },
+ {
+  "start": 1088.0,
+  "duration": 4.16,
+  "text": "seen companies experimenting with some"
+ },
+ {
+  "start": 1089.8,
+  "duration": 4.24,
+  "text": "version of leaderboards or incentives"
+ },
+ {
+  "start": 1092.16,
+  "duration": 3.96,
+  "text": "for people to consume the most tokens."
+ },
+ {
+  "start": 1094.04,
+  "duration": 3.44,
+  "text": "Now, of course, Goodhart's law says that"
+ },
+ {
+  "start": 1096.12,
+  "duration": 2.72,
+  "text": "as soon as you make something a metric,"
+ },
+ {
+  "start": 1097.48,
+  "duration": 3.04,
+  "text": "it ceases to be a good metric because"
+ },
+ {
+  "start": 1098.84,
+  "duration": 3.24,
+  "text": "people just game the system, and that's"
+ },
+ {
+  "start": 1100.52,
+  "duration": 3.48,
+  "text": "exactly what's happening at places like"
+ },
+ {
+  "start": 1102.08,
+  "duration": 3.76,
+  "text": "Amazon and before that, Meta. But,"
+ },
+ {
+  "start": 1104.0,
+  "duration": 4.44,
+  "text": "holding aside the gamesmanship, the"
+ },
+ {
+  "start": 1105.84,
+  "duration": 5.0,
+  "text": "positive idea of token maxing itself, of"
+ },
+ {
+  "start": 1108.44,
+  "duration": 4.2,
+  "text": "mass wide-scale experimentation, and"
+ },
+ {
+  "start": 1110.84,
+  "duration": 3.6,
+  "text": "using AI as much as you can to discover"
+ },
+ {
+  "start": 1112.64,
+  "duration": 4.64,
+  "text": "how it's going to actually be useful, is"
+ },
+ {
+  "start": 1114.44,
+  "duration": 4.8,
+  "text": "starting to crash headlong into the real"
+ },
+ {
+  "start": 1117.28,
+  "duration": 4.0,
+  "text": "constraints in the physical world that"
+ },
+ {
+  "start": 1119.24,
+  "duration": 3.8,
+  "text": "are forcing a business model shift from"
+ },
+ {
+  "start": 1121.28,
+  "duration": 3.12,
+  "text": "the labs themselves."
+ },
+ {
+  "start": 1123.04,
+  "duration": 3.2,
+  "text": "Back in April, before most people were"
+ },
+ {
+  "start": 1124.4,
+  "duration": 3.32,
+  "text": "paying attention to this, Anthropic had"
+ },
+ {
+  "start": 1126.24,
+  "duration": 3.56,
+  "text": "started to shift their enterprise"
+ },
+ {
+  "start": 1127.72,
+  "duration": 4.2,
+  "text": "customers to usage-based pricing for"
+ },
+ {
+  "start": 1129.8,
+  "duration": 3.8,
+  "text": "Claude Code and Cowork. The $200"
+ },
+ {
+  "start": 1131.92,
+  "duration": 4.4,
+  "text": "flat-rate subscription with generous"
+ },
+ {
+  "start": 1133.6,
+  "duration": 4.76,
+  "text": "usage limits, i.e. subsidies, is no"
+ },
+ {
+  "start": 1136.32,
+  "duration": 3.72,
+  "text": "longer available for enterprise seats."
+ },
+ {
+  "start": 1138.36,
+  "duration": 3.56,
+  "text": "Instead, enterprise customers have been"
+ },
+ {
+  "start": 1140.04,
+  "duration": 3.96,
+  "text": "switched over to a $20 per seat rate"
+ },
+ {
+  "start": 1141.92,
+  "duration": 3.88,
+  "text": "with all usage billed. This, however,"
+ },
+ {
+  "start": 1144.0,
+  "duration": 3.64,
+  "text": "got louder in the last couple of weeks"
+ },
+ {
+  "start": 1145.8,
+  "duration": 4.12,
+  "text": "as GitHub also moved to token-based"
+ },
+ {
+  "start": 1147.64,
+  "duration": 4.12,
+  "text": "usage, and most controversially of all,"
+ },
+ {
+  "start": 1149.92,
+  "duration": 4.04,
+  "text": "Claude updating their policies to"
+ },
+ {
+  "start": 1151.76,
+  "duration": 4.28,
+  "text": "basically make it so that any usage of"
+ },
+ {
+  "start": 1153.96,
+  "duration": 4.24,
+  "text": "Claude outside of a specific Anthropic"
+ },
+ {
+  "start": 1156.04,
+  "duration": 4.16,
+  "text": "owned harness like the Claude code app"
+ },
+ {
+  "start": 1158.2,
+  "duration": 3.68,
+  "text": "would be billed on a token basis rather"
+ },
+ {
+  "start": 1160.2,
+  "duration": 4.2,
+  "text": "than lump together with generous subsidy"
+ },
+ {
+  "start": 1161.88,
+  "duration": 4.84,
+  "text": "in a flat rate plan. As we've discussed"
+ },
+ {
+  "start": 1164.4,
+  "duration": 5.16,
+  "text": "extensively, this is a structural"
+ },
+ {
+  "start": 1166.72,
+  "duration": 5.28,
+  "text": "necessity and an inevitability of a"
+ },
+ {
+  "start": 1169.56,
+  "duration": 5.12,
+  "text": "world in which token demand starts to"
+ },
+ {
+  "start": 1172.0,
+  "duration": 4.76,
+  "text": "exceed token supply. We are at the very"
+ },
+ {
+  "start": 1174.68,
+  "duration": 4.56,
+  "text": "beginning of a structural compute"
+ },
+ {
+  "start": 1176.76,
+  "duration": 4.32,
+  "text": "shortage that involves basically all of"
+ },
+ {
+  "start": 1179.24,
+  "duration": 3.72,
+  "text": "the components required to get more"
+ },
+ {
+  "start": 1181.08,
+  "duration": 4.32,
+  "text": "compute online from electricity to"
+ },
+ {
+  "start": 1182.96,
+  "duration": 3.96,
+  "text": "memory, the chips and beyond. This is"
+ },
+ {
+  "start": 1185.4,
+  "duration": 3.92,
+  "text": "not something that is going to resolve"
+ },
+ {
+  "start": 1186.92,
+  "duration": 4.88,
+  "text": "fast, meaning that the only mechanism"
+ },
+ {
+  "start": 1189.32,
+  "duration": 5.12,
+  "text": "for solving it in the short term is to"
+ },
+ {
+  "start": 1191.8,
+  "duration": 5.36,
+  "text": "use market forces, i.e. to raise the"
+ },
+ {
+  "start": 1194.44,
+  "duration": 4.76,
+  "text": "cost of tokens sufficiently so that all"
+ },
+ {
+  "start": 1197.16,
+  "duration": 3.32,
+  "text": "of the tokens that are available flow to"
+ },
+ {
+  "start": 1199.2,
+  "duration": 2.96,
+  "text": "the people who are most willing to pay"
+ },
+ {
+  "start": 1200.48,
+  "duration": 3.32,
+  "text": "for them. I think you're going to start"
+ },
+ {
+  "start": 1202.16,
+  "duration": 3.52,
+  "text": "to see a lot more reports like this one"
+ },
+ {
+  "start": 1203.8,
+  "duration": 3.48,
+  "text": "from Max Weinbach who wrote, \"I don't"
+ },
+ {
+  "start": 1205.68,
+  "duration": 3.48,
+  "text": "know why it's happening, but around five"
+ },
+ {
+  "start": 1207.28,
+  "duration": 3.6,
+  "text": "of my friends mentioned that they had AI"
+ },
+ {
+  "start": 1209.16,
+  "duration": 3.36,
+  "text": "spend budgets added to their given AI"
+ },
+ {
+  "start": 1210.88,
+  "duration": 3.72,
+  "text": "platforms at their respective jobs this"
+ },
+ {
+  "start": 1212.52,
+  "duration": 4.52,
+  "text": "week. It was effectively unlimited"
+ },
+ {
+  "start": 1214.6,
+  "duration": 4.6,
+  "text": "before.\" And to give a sense of just how"
+ },
+ {
+  "start": 1217.04,
+  "duration": 4.6,
+  "text": "much these companies were subsidizing"
+ },
+ {
+  "start": 1219.2,
+  "duration": 4.36,
+  "text": "things previously, the GitHub Copilot"
+ },
+ {
+  "start": 1221.64,
+  "duration": 4.92,
+  "text": "subreddit is filled with people sharing"
+ },
+ {
+  "start": 1223.56,
+  "duration": 5.08,
+  "text": "screenshots of Copilot's estimator of"
+ },
+ {
+  "start": 1226.56,
+  "duration": 5.08,
+  "text": "what their usage would cost under usage"
+ },
+ {
+  "start": 1228.64,
+  "duration": 5.16,
+  "text": "based billing. This Marzipan9239"
+ },
+ {
+  "start": 1231.64,
+  "duration": 4.12,
+  "text": "in a post titled aptly \"I'm Cooked Dog"
+ },
+ {
+  "start": 1233.8,
+  "duration": 4.28,
+  "text": "Ain't No Way\" showed that while their"
+ },
+ {
+  "start": 1235.76,
+  "duration": 3.84,
+  "text": "current billing was $451,"
+ },
+ {
+  "start": 1238.08,
+  "duration": 3.44,
+  "text": "their usage based billing would be"
+ },
+ {
+  "start": 1239.6,
+  "duration": 4.92,
+  "text": "$11,432.22. Yusuke's current billing was"
+ },
+ {
+  "start": 1241.52,
+  "duration": 3.0,
+  "text": "39,"
+ },
+ {
+  "start": 1245.0,
+  "duration": 3.56,
+  "text": "but their usage based billing would be"
+ },
+ {
+  "start": 1246.4,
+  "duration": 3.6,
+  "text": "$5,851.77."
+ },
+ {
+  "start": 1248.56,
+  "duration": 3.52,
+  "text": "Ginger Tapper's is currently spending"
+ },
+ {
+  "start": 1250.0,
+  "duration": 3.36,
+  "text": "$54.43,"
+ },
+ {
+  "start": 1252.08,
+  "duration": 4.08,
+  "text": "which, while more modest than the"
+ },
+ {
+  "start": 1253.36,
+  "duration": 4.2,
+  "text": "others, was still a 22x subsidy with"
+ },
+ {
+  "start": 1256.16,
+  "duration": 3.84,
+  "text": "their usage based billing equivalent"
+ },
+ {
+  "start": 1257.56,
+  "duration": 3.96,
+  "text": "being just under $1,200. When you start"
+ },
+ {
+  "start": 1260.0,
+  "duration": 3.4,
+  "text": "to see the numbers, I think you get why"
+ },
+ {
+  "start": 1261.52,
+  "duration": 3.8,
+  "text": "this is not a short-term trend, but is"
+ },
+ {
+  "start": 1263.4,
+  "duration": 5.04,
+  "text": "in fact structural. And what What going"
+ },
+ {
+  "start": 1265.32,
+  "duration": 5.36,
+  "text": "to mean, for good and ill, is a lot less"
+ },
+ {
+  "start": 1268.44,
+  "duration": 3.8,
+  "text": "raw consumption just to try stuff out."
+ },
+ {
+  "start": 1270.68,
+  "duration": 3.88,
+  "text": "Companies are increasingly going to be"
+ },
+ {
+  "start": 1272.24,
+  "duration": 3.72,
+  "text": "back into an ROI mindset, where they"
+ },
+ {
+  "start": 1274.56,
+  "duration": 4.2,
+  "text": "want to see a direct relationship"
+ },
+ {
+  "start": 1275.96,
+  "duration": 4.88,
+  "text": "between token spend and value created. A"
+ },
+ {
+  "start": 1278.76,
+  "duration": 4.2,
+  "text": "couple weeks ago Axios published a piece"
+ },
+ {
+  "start": 1280.84,
+  "duration": 4.76,
+  "text": "titled simply AI can cost more than"
+ },
+ {
+  "start": 1282.96,
+  "duration": 4.28,
+  "text": "human workers now, and boy if that cost"
+ },
+ {
+  "start": 1285.6,
+  "duration": 4.28,
+  "text": "reality isn't going to shift the"
+ },
+ {
+  "start": 1287.24,
+  "duration": 4.2,
+  "text": "thinking on just how fast humans get"
+ },
+ {
+  "start": 1289.88,
+  "duration": 3.4,
+  "text": "displaced by their automated"
+ },
+ {
+  "start": 1291.44,
+  "duration": 4.24,
+  "text": "equivalents. And this is what I mean"
+ },
+ {
+  "start": 1293.28,
+  "duration": 4.4,
+  "text": "when I say real-world recalibration. The"
+ },
+ {
+  "start": 1295.68,
+  "duration": 4.16,
+  "text": "constraints of the real world, in this"
+ },
+ {
+  "start": 1297.68,
+  "duration": 4.36,
+  "text": "case the physical real world, in which"
+ },
+ {
+  "start": 1299.84,
+  "duration": 4.8,
+  "text": "AI it turns out is an expensive"
+ },
+ {
+  "start": 1302.04,
+  "duration": 4.6,
+  "text": "capital-intensive technology, is"
+ },
+ {
+  "start": 1304.64,
+  "duration": 3.4,
+  "text": "changing just how quickly companies"
+ },
+ {
+  "start": 1306.64,
+  "duration": 2.84,
+  "text": "could even theoretically automate"
+ },
+ {
+  "start": 1308.04,
+  "duration": 3.84,
+  "text": "everyone away."
+ },
+ {
+  "start": 1309.48,
+  "duration": 4.44,
+  "text": "And so real-world recalibration is what"
+ },
+ {
+  "start": 1311.88,
+  "duration": 4.68,
+  "text": "starts to flow into what I've called the"
+ },
+ {
+  "start": 1313.92,
+  "duration": 3.88,
+  "text": "end state of enlightened excitement. And"
+ },
+ {
+  "start": 1316.56,
+  "duration": 3.24,
+  "text": "hopefully it's clear from the word"
+ },
+ {
+  "start": 1317.8,
+  "duration": 4.32,
+  "text": "excitement that I am not saying that the"
+ },
+ {
+  "start": 1319.8,
+  "duration": 4.04,
+  "text": "end of the AI doom cycle is a 100%"
+ },
+ {
+  "start": 1322.12,
+  "duration": 4.2,
+  "text": "Pollyannaish Kumbaya everything's going"
+ },
+ {
+  "start": 1323.84,
+  "duration": 4.52,
+  "text": "to be fine. It's enlightened because"
+ },
+ {
+  "start": 1326.32,
+  "duration": 3.08,
+  "text": "instead of being generally anxious and"
+ },
+ {
+  "start": 1328.36,
+  "duration": 2.12,
+  "text": "assuming that everything's going to"
+ },
+ {
+  "start": 1329.4,
+  "duration": 3.0,
+  "text": "change and it's going to change"
+ },
+ {
+  "start": 1330.48,
+  "duration": 4.56,
+  "text": "tomorrow, we can start to get more"
+ },
+ {
+  "start": 1332.4,
+  "duration": 4.2,
+  "text": "specific and clear about what's actually"
+ },
+ {
+  "start": 1335.04,
+  "duration": 3.68,
+  "text": "happening, what we think is going to"
+ },
+ {
+  "start": 1336.6,
+  "duration": 3.04,
+  "text": "happen next, and what we should do about"
+ },
+ {
+  "start": 1338.72,
+  "duration": 2.68,
+  "text": "it."
+ },
+ {
+  "start": 1339.64,
+  "duration": 4.44,
+  "text": "Enlightened excitement also allows in a"
+ },
+ {
+  "start": 1341.4,
+  "duration": 4.64,
+  "text": "lot more space for nuanced discourse."
+ },
+ {
+  "start": 1344.08,
+  "duration": 3.56,
+  "text": "What I mean by that is things like when"
+ },
+ {
+  "start": 1346.04,
+  "duration": 3.68,
+  "text": "we talk about AI taking away all the"
+ },
+ {
+  "start": 1347.64,
+  "duration": 4.84,
+  "text": "software jobs, being able to zoom out"
+ },
+ {
+  "start": 1349.72,
+  "duration": 4.64,
+  "text": "and see that even as AI has come around,"
+ },
+ {
+  "start": 1352.48,
+  "duration": 4.48,
+  "text": "we've also been recalibrating for"
+ },
+ {
+  "start": 1354.36,
+  "duration": 5.56,
+  "text": "post-COVID zero interest rate hiring, or"
+ },
+ {
+  "start": 1356.96,
+  "duration": 4.68,
+  "text": "being able to see that if in fact we are"
+ },
+ {
+  "start": 1359.92,
+  "duration": 3.36,
+  "text": "in this structural shortage of the"
+ },
+ {
+  "start": 1361.64,
+  "duration": 3.04,
+  "text": "amount of compute that we need, along"
+ },
+ {
+  "start": 1363.28,
+  "duration": 3.2,
+  "text": "with every other component in the AI"
+ },
+ {
+  "start": 1364.68,
+  "duration": 3.84,
+  "text": "supply chain, that the quote-unquote"
+ },
+ {
+  "start": 1366.48,
+  "duration": 3.4,
+  "text": "jobs that AI will create aren't just"
+ },
+ {
+  "start": 1368.52,
+  "duration": 3.16,
+  "text": "interesting unimaginable ones in the"
+ },
+ {
+  "start": 1369.88,
+  "duration": 4.44,
+  "text": "future, but some very clear ones right"
+ },
+ {
+  "start": 1371.68,
+  "duration": 5.52,
+  "text": "now. The boom for example in data center"
+ },
+ {
+  "start": 1374.32,
+  "duration": 4.48,
+  "text": "construction jobs looks very different"
+ },
+ {
+  "start": 1377.2,
+  "duration": 3.64,
+  "text": "in a world where it's a short-term"
+ },
+ {
+  "start": 1378.8,
+  "duration": 4.48,
+  "text": "one-time shift versus one where we're"
+ },
+ {
+  "start": 1380.84,
+  "duration": 3.96,
+  "text": "talking a generational build-out."
+ },
+ {
+  "start": 1383.28,
+  "duration": 3.56,
+  "text": "And that recognition makes it a little"
+ },
+ {
+  "start": 1384.8,
+  "duration": 3.84,
+  "text": "bit easier to see perhaps why"
+ },
+ {
+  "start": 1386.84,
+  "duration": 3.6,
+  "text": "blue-collar unions are increasingly"
+ },
+ {
+  "start": 1388.64,
+  "duration": 3.44,
+  "text": "trying to provide a bridge between Big"
+ },
+ {
+  "start": 1390.44,
+  "duration": 2.92,
+  "text": "Tech on the one hand and local"
+ },
+ {
+  "start": 1392.08,
+  "duration": 3.0,
+  "text": "communities who have all sorts of"
+ },
+ {
+  "start": 1393.36,
+  "duration": 3.28,
+  "text": "reasonable skepticisms of data centers"
+ },
+ {
+  "start": 1395.08,
+  "duration": 3.28,
+  "text": "in their communities on the other and"
+ },
+ {
+  "start": 1396.64,
+  "duration": 3.76,
+  "text": "find a way to make these things be net"
+ },
+ {
+  "start": 1398.36,
+  "duration": 4.64,
+  "text": "positive for everyone. Another type of"
+ },
+ {
+  "start": 1400.4,
+  "duration": 3.84,
+  "text": "discourse that real-world recalibration"
+ },
+ {
+  "start": 1403.0,
+  "duration": 3.92,
+  "text": "and the new state of enlightened"
+ },
+ {
+  "start": 1404.24,
+  "duration": 4.52,
+  "text": "excitement allows for is for economics"
+ },
+ {
+  "start": 1406.92,
+  "duration": 4.04,
+  "text": "discussions that don't fit inside tweets"
+ },
+ {
+  "start": 1408.76,
+  "duration": 4.08,
+  "text": "and headlines, but actually explore how"
+ },
+ {
+  "start": 1410.96,
+  "duration": 3.64,
+  "text": "savings and surplus from one industry"
+ },
+ {
+  "start": 1412.84,
+  "duration": 3.56,
+  "text": "and type of work that will be changed"
+ },
+ {
+  "start": 1414.6,
+  "duration": 4.0,
+  "text": "flow into others. I think we'll look"
+ },
+ {
+  "start": 1416.4,
+  "duration": 3.88,
+  "text": "back at economist Alex Emos's essay"
+ },
+ {
+  "start": 1418.6,
+  "duration": 3.92,
+  "text": "\"What Will Be Scarce\" as one of the more"
+ },
+ {
+  "start": 1420.28,
+  "duration": 4.44,
+  "text": "influential in 2026, in which he"
+ },
+ {
+  "start": 1422.52,
+  "duration": 4.2,
+  "text": "explored how the relational sector,"
+ },
+ {
+  "start": 1424.72,
+  "duration": 4.0,
+  "text": "where the provenance of human creation"
+ },
+ {
+  "start": 1426.72,
+  "duration": 4.2,
+  "text": "or human service is actually part of the"
+ },
+ {
+  "start": 1428.72,
+  "duration": 4.48,
+  "text": "economic value of a thing, is likely to"
+ },
+ {
+  "start": 1430.92,
+  "duration": 4.08,
+  "text": "rise proportional to the savings in"
+ },
+ {
+  "start": 1433.2,
+  "duration": 3.76,
+  "text": "where it doesn't matter if a human or a"
+ },
+ {
+  "start": 1435.0,
+  "duration": 4.24,
+  "text": "computer creates something. I've noted"
+ },
+ {
+  "start": 1436.96,
+  "duration": 4.12,
+  "text": "importantly that Alex's essay isn't just"
+ },
+ {
+  "start": 1439.24,
+  "duration": 3.2,
+  "text": "playing in tech circles, but is also"
+ },
+ {
+  "start": 1441.08,
+  "duration": 2.88,
+  "text": "finding its way into larger political"
+ },
+ {
+  "start": 1442.44,
+  "duration": 3.68,
+  "text": "discourse vis-a-vis people like Ezra"
+ },
+ {
+  "start": 1443.96,
+  "duration": 3.84,
+  "text": "Klein, who discussed it in his recent"
+ },
+ {
+  "start": 1446.12,
+  "duration": 4.24,
+  "text": "New York Times essay \"Why the AI Job"
+ },
+ {
+  "start": 1447.8,
+  "duration": 4.4,
+  "text": "Apocalypse Probably Won't Happen.\""
+ },
+ {
+  "start": 1450.36,
+  "duration": 5.04,
+  "text": "Real-world recalibration and enlightened"
+ },
+ {
+  "start": 1452.2,
+  "duration": 5.72,
+  "text": "anxiety look like Open AI and Anthropic"
+ },
+ {
+  "start": 1455.4,
+  "duration": 4.16,
+  "text": "launching massive consulting efforts"
+ },
+ {
+  "start": 1457.92,
+  "duration": 4.4,
+  "text": "because it turns out, no matter how"
+ },
+ {
+  "start": 1459.56,
+  "duration": 4.64,
+  "text": "powerful AI is in the lab, it smashes"
+ },
+ {
+  "start": 1462.32,
+  "duration": 3.36,
+  "text": "against the wall of institutional and"
+ },
+ {
+  "start": 1464.2,
+  "duration": 4.64,
+  "text": "human inertia that is the corporate"
+ },
+ {
+  "start": 1465.68,
+  "duration": 5.92,
+  "text": "sector. It requires intensive amounts of"
+ },
+ {
+  "start": 1468.84,
+  "duration": 4.52,
+  "text": "work to actually be integrated and close"
+ },
+ {
+  "start": 1471.6,
+  "duration": 3.24,
+  "text": "the capability gap between what it can"
+ },
+ {
+  "start": 1473.36,
+  "duration": 3.52,
+  "text": "theoretically do and what it's actually"
+ },
+ {
+  "start": 1474.84,
+  "duration": 4.44,
+  "text": "doing. Paul Bloom nailed it when he"
+ },
+ {
+  "start": 1476.88,
+  "duration": 4.4,
+  "text": "jokingly tweeted, \"Anthropic knows they"
+ },
+ {
+  "start": 1479.28,
+  "duration": 3.32,
+  "text": "are weeks away from AGI, which is why"
+ },
+ {
+  "start": 1481.28,
+  "duration": 3.32,
+  "text": "they are working with companies like"
+ },
+ {
+  "start": 1482.6,
+  "duration": 3.44,
+  "text": "Accenture, Deloitte, PWC, and others to"
+ },
+ {
+  "start": 1484.6,
+  "duration": 3.2,
+  "text": "build joint centers of excellence and"
+ },
+ {
+  "start": 1486.04,
+  "duration": 3.88,
+  "text": "training and certify 30,000 PWC"
+ },
+ {
+  "start": 1487.8,
+  "duration": 3.36,
+  "text": "professionals on Claude.\""
+ },
+ {
+  "start": 1489.92,
+  "duration": 3.6,
+  "text": "And to put a fine point on this, there"
+ },
+ {
+  "start": 1491.16,
+  "duration": 5.2,
+  "text": "was genuinely for many years inside the"
+ },
+ {
+  "start": 1493.52,
+  "duration": 5.08,
+  "text": "labs an extreme debate between the"
+ },
+ {
+  "start": 1496.36,
+  "duration": 4.08,
+  "text": "enterprise business-focused folks and"
+ },
+ {
+  "start": 1498.6,
+  "duration": 4.04,
+  "text": "the research side of the organization"
+ },
+ {
+  "start": 1500.44,
+  "duration": 4.72,
+  "text": "about just how much they should focus on"
+ },
+ {
+  "start": 1502.64,
+  "duration": 4.44,
+  "text": "business model at all. If AGI is the big"
+ },
+ {
+  "start": 1505.16,
+  "duration": 3.6,
+  "text": "game and the only path to AGI is from"
+ },
+ {
+  "start": 1507.08,
+  "duration": 3.76,
+  "text": "the researchers, there's at least a"
+ },
+ {
+  "start": 1508.76,
+  "duration": 3.56,
+  "text": "compelling theoretical argument that all"
+ },
+ {
+  "start": 1510.84,
+  "duration": 3.88,
+  "text": "of your resources should go into that"
+ },
+ {
+  "start": 1512.32,
+  "duration": 4.08,
+  "text": "bigger play, not distracting yourself by"
+ },
+ {
+  "start": 1514.72,
+  "duration": 3.8,
+  "text": "helping heavy industry in the Midwest"
+ },
+ {
+  "start": 1516.4,
+  "duration": 4.56,
+  "text": "figure out how to use co-work. And yet,"
+ },
+ {
+  "start": 1518.52,
+  "duration": 4.92,
+  "text": "here we are. The constraints of the real"
+ },
+ {
+  "start": 1520.96,
+  "duration": 4.4,
+  "text": "world have won and demanded that these"
+ },
+ {
+  "start": 1523.44,
+  "duration": 4.8,
+  "text": "efforts go into place and consume"
+ },
+ {
+  "start": 1525.36,
+  "duration": 5.2,
+  "text": "significant resources in the process."
+ },
+ {
+  "start": 1528.24,
+  "duration": 3.52,
+  "text": "There's also just different ways to look"
+ },
+ {
+  "start": 1530.56,
+  "duration": 3.16,
+  "text": "at even the frustration that we're"
+ },
+ {
+  "start": 1531.76,
+  "duration": 3.64,
+  "text": "seeing on these college campuses."
+ },
+ {
+  "start": 1533.72,
+  "duration": 3.8,
+  "text": "Journalist Joanna Stern retweeted the"
+ },
+ {
+  "start": 1535.4,
+  "duration": 3.48,
+  "text": "Eric Schmidt booing and says this wasn't"
+ },
+ {
+  "start": 1537.52,
+  "duration": 2.76,
+  "text": "the case a year ago when I gave my"
+ },
+ {
+  "start": 1538.88,
+  "duration": 3.08,
+  "text": "commencement speech almost entirely"
+ },
+ {
+  "start": 1540.28,
+  "duration": 3.76,
+  "text": "about AI. I find this pushback"
+ },
+ {
+  "start": 1541.96,
+  "duration": 3.52,
+  "text": "unsurprising and even encouraging. I say"
+ },
+ {
+  "start": 1544.04,
+  "duration": 4.16,
+  "text": "encouraging because it means there's"
+ },
+ {
+  "start": 1545.48,
+  "duration": 4.12,
+  "text": "debate and discussion. And by the way,"
+ },
+ {
+  "start": 1548.2,
+  "duration": 3.48,
+  "text": "one commencement speech that didn't get"
+ },
+ {
+  "start": 1549.6,
+  "duration": 4.12,
+  "text": "nearly as much attention was Jensen"
+ },
+ {
+  "start": 1551.68,
+  "duration": 3.44,
+  "text": "Huang's at Carnegie Mellon, which one"
+ },
+ {
+  "start": 1553.72,
+  "duration": 4.52,
+  "text": "news outlet called the most"
+ },
+ {
+  "start": 1555.12,
+  "duration": 4.6,
+  "text": "anxiety-relieving speech in the AI era."
+ },
+ {
+  "start": 1558.24,
+  "duration": 3.6,
+  "text": "This is because Jensen clearly,"
+ },
+ {
+  "start": 1559.72,
+  "duration": 5.68,
+  "text": "genuinely believes and has been saying"
+ },
+ {
+  "start": 1561.84,
+  "duration": 5.88,
+  "text": "so forever, that AI doom is not destiny."
+ },
+ {
+  "start": 1565.4,
+  "duration": 4.76,
+  "text": "That we, including those students in the"
+ },
+ {
+  "start": 1567.72,
+  "duration": 4.64,
+  "text": "audience, have power to shape what the"
+ },
+ {
+  "start": 1570.16,
+  "duration": 4.16,
+  "text": "next phase looks like. He talked, as he"
+ },
+ {
+  "start": 1572.36,
+  "duration": 3.56,
+  "text": "always does, about the generational"
+ },
+ {
+  "start": 1574.32,
+  "duration": 3.28,
+  "text": "opportunity for the United States to"
+ },
+ {
+  "start": 1575.92,
+  "duration": 3.68,
+  "text": "re-industrialize and restore its"
+ },
+ {
+  "start": 1577.6,
+  "duration": 3.4,
+  "text": "capability to build, about all the"
+ },
+ {
+  "start": 1579.6,
+  "duration": 3.16,
+  "text": "specific new jobs that are going to be"
+ },
+ {
+  "start": 1581.0,
+  "duration": 3.8,
+  "text": "needed in the very short term for that"
+ },
+ {
+  "start": 1582.76,
+  "duration": 4.16,
+  "text": "re-industrialization. And whether one"
+ },
+ {
+  "start": 1584.8,
+  "duration": 4.44,
+  "text": "agrees or not, it's very clear that from"
+ },
+ {
+  "start": 1586.92,
+  "duration": 3.72,
+  "text": "a sheer efficacy standpoint, this type"
+ },
+ {
+  "start": 1589.24,
+  "duration": 3.56,
+  "text": "of message is a better place to build"
+ },
+ {
+  "start": 1590.64,
+  "duration": 3.96,
+  "text": "from than the presumption that what's"
+ },
+ {
+  "start": 1592.8,
+  "duration": 2.96,
+  "text": "next is already written and we have no"
+ },
+ {
+  "start": 1594.6,
+  "duration": 2.72,
+  "text": "control."
+ },
+ {
+  "start": 1595.76,
+  "duration": 3.48,
+  "text": "You can see the rest of the AI industry"
+ },
+ {
+  "start": 1597.32,
+  "duration": 3.28,
+  "text": "finally getting the memo. Basically"
+ },
+ {
+  "start": 1599.24,
+  "duration": 3.24,
+  "text": "starting at the beginning of May,"
+ },
+ {
+  "start": 1600.6,
+  "duration": 3.6,
+  "text": "OpenAI's Sam Altman finally decided to"
+ },
+ {
+  "start": 1602.48,
+  "duration": 3.0,
+  "text": "run away from the doomsday story and"
+ },
+ {
+  "start": 1604.2,
+  "duration": 2.48,
+  "text": "recommit to a different type of"
+ },
+ {
+  "start": 1605.48,
+  "duration": 3.2,
+  "text": "narrative."
+ },
+ {
+  "start": 1606.68,
+  "duration": 3.84,
+  "text": "On May 1st, he said, \"We want to build"
+ },
+ {
+  "start": 1608.68,
+  "duration": 4.04,
+  "text": "tools to augment and elevate people, not"
+ },
+ {
+  "start": 1610.52,
+  "duration": 3.84,
+  "text": "entities to replace them.\" A week later,"
+ },
+ {
+  "start": 1612.72,
+  "duration": 3.12,
+  "text": "he said, \"Way cooler to help software"
+ },
+ {
+  "start": 1614.36,
+  "duration": 3.0,
+  "text": "developers Pokémon evolve into"
+ },
+ {
+  "start": 1615.84,
+  "duration": 3.16,
+  "text": "superheroes than to try to replace"
+ },
+ {
+  "start": 1617.36,
+  "duration": 3.8,
+  "text": "them.\" And even more recently, about a"
+ },
+ {
+  "start": 1619.0,
+  "duration": 4.12,
+  "text": "week ago, he actually went further and"
+ },
+ {
+  "start": 1621.16,
+  "duration": 3.76,
+  "text": "painted a picture of how our changing"
+ },
+ {
+  "start": 1623.12,
+  "duration": 3.36,
+  "text": "relationship with work could actually"
+ },
+ {
+  "start": 1624.92,
+  "duration": 3.88,
+  "text": "make our individual lives better as"
+ },
+ {
+  "start": 1626.48,
+  "duration": 4.08,
+  "text": "well. He wrote, \"Kicking off a bunch of"
+ },
+ {
+  "start": 1628.8,
+  "duration": 3.28,
+  "text": "Codex tasks, running around with my kid"
+ },
+ {
+  "start": 1630.56,
+  "duration": 3.28,
+  "text": "in the sunshine, and then coming back at"
+ },
+ {
+  "start": 1632.08,
+  "duration": 4.6,
+  "text": "naptime to find them all completed makes"
+ },
+ {
+  "start": 1633.84,
+  "duration": 4.32,
+  "text": "me very optimistic for the future.\""
+ },
+ {
+  "start": 1636.68,
+  "duration": 3.32,
+  "text": "And lastly, the point that I want to"
+ },
+ {
+  "start": 1638.16,
+  "duration": 3.72,
+  "text": "make about this enlightened"
+ },
+ {
+  "start": 1640.0,
+  "duration": 3.6,
+  "text": "englightenment state is that it's not"
+ },
+ {
+  "start": 1641.88,
+  "duration": 4.0,
+  "text": "just that we feel better, but when we"
+ },
+ {
+  "start": 1643.6,
+  "duration": 4.76,
+  "text": "are all operating in this place, we can"
+ },
+ {
+  "start": 1645.88,
+  "duration": 4.96,
+  "text": "have more interesting, sometimes harder"
+ },
+ {
+  "start": 1648.36,
+  "duration": 5.36,
+  "text": "conversations about policy and what we"
+ },
+ {
+  "start": 1650.84,
+  "duration": 4.72,
+  "text": "should do. If AI is going to inexorably"
+ },
+ {
+  "start": 1653.72,
+  "duration": 3.4,
+  "text": "take all of our jobs, there's not a lot"
+ },
+ {
+  "start": 1655.56,
+  "duration": 3.88,
+  "text": "of policy discussion there. It's"
+ },
+ {
+  "start": 1657.12,
+  "duration": 3.68,
+  "text": "basically just UBI or die. If on the"
+ },
+ {
+  "start": 1659.44,
+  "duration": 3.56,
+  "text": "other hand, it is going to be"
+ },
+ {
+  "start": 1660.8,
+  "duration": 4.6,
+  "text": "disruptive, but in more specific and"
+ },
+ {
+  "start": 1663.0,
+  "duration": 3.88,
+  "text": "discrete ways and over a longer period"
+ },
+ {
+  "start": 1665.4,
+  "duration": 3.36,
+  "text": "of time than the doom prophecies"
+ },
+ {
+  "start": 1666.88,
+  "duration": 3.92,
+  "text": "thought, that gives us a lot more"
+ },
+ {
+  "start": 1668.76,
+  "duration": 4.68,
+  "text": "opportunity for more discrete and better"
+ },
+ {
+  "start": 1670.8,
+  "duration": 3.4,
+  "text": "policy. I'm not cosigning on this idea,"
+ },
+ {
+  "start": 1673.44,
+  "duration": 2.88,
+  "text": "but I think it's going to lead to"
+ },
+ {
+  "start": 1674.2,
+  "duration": 4.04,
+  "text": "conversations like this one from Matthew"
+ },
+ {
+  "start": 1676.32,
+  "duration": 4.0,
+  "text": "Yglesias who writes, \"Allow data"
+ },
+ {
+  "start": 1678.24,
+  "duration": 3.6,
+  "text": "centers, but only if 20% of the GPUs are"
+ },
+ {
+  "start": 1680.32,
+  "duration": 3.32,
+  "text": "set aside as affordable compute for"
+ },
+ {
+  "start": 1681.84,
+  "duration": 3.2,
+  "text": "low-income agents.\" I don't actually"
+ },
+ {
+  "start": 1683.64,
+  "duration": 3.08,
+  "text": "even know how tongue-in-cheek he was"
+ },
+ {
+  "start": 1685.04,
+  "duration": 3.44,
+  "text": "being, but why isn't that something we"
+ },
+ {
+  "start": 1686.72,
+  "duration": 3.08,
+  "text": "could discuss? My show over the weekend"
+ },
+ {
+  "start": 1688.48,
+  "duration": 2.8,
+  "text": "was about the potential for AI"
+ },
+ {
+  "start": 1689.8,
+  "duration": 3.64,
+  "text": "inequality in the circumstance of"
+ },
+ {
+  "start": 1691.28,
+  "duration": 4.24,
+  "text": "computer shortages, but right now local"
+ },
+ {
+  "start": 1693.44,
+  "duration": 3.96,
+  "text": "communities and policy makers have a lot"
+ },
+ {
+  "start": 1695.52,
+  "duration": 3.24,
+  "text": "of power to set the rules by which data"
+ },
+ {
+  "start": 1697.4,
+  "duration": 2.68,
+  "text": "centers are going to play. I don't"
+ },
+ {
+  "start": 1698.76,
+  "duration": 2.96,
+  "text": "believe that a lot of them would balk at"
+ },
+ {
+  "start": 1700.08,
+  "duration": 3.36,
+  "text": "something like this, at least not from"
+ },
+ {
+  "start": 1701.72,
+  "duration": 3.44,
+  "text": "the conversation about it. Or another"
+ },
+ {
+  "start": 1703.44,
+  "duration": 3.88,
+  "text": "one from Mark Cuban. On Friday, he"
+ },
+ {
+  "start": 1705.16,
+  "duration": 4.24,
+  "text": "tweeted, \"We should federally tax tokens"
+ },
+ {
+  "start": 1707.32,
+  "duration": 3.88,
+  "text": "at the provider level. Not a lot, less"
+ },
+ {
+  "start": 1709.4,
+  "duration": 3.88,
+  "text": "than 50 cents per million tokens. It'll"
+ },
+ {
+  "start": 1711.2,
+  "duration": 3.76,
+  "text": "accomplish four things at least. One, it"
+ },
+ {
+  "start": 1713.28,
+  "duration": 3.08,
+  "text": "will push big AI players to optimize"
+ },
+ {
+  "start": 1714.96,
+  "duration": 3.28,
+  "text": "tokenization, caching, routing, and"
+ },
+ {
+  "start": 1716.36,
+  "duration": 3.6,
+  "text": "localization, which will two, reduce"
+ },
+ {
+  "start": 1718.24,
+  "duration": 3.12,
+  "text": "energy usage, saving them in energy"
+ },
+ {
+  "start": 1719.96,
+  "duration": 2.88,
+  "text": "costs more than what they paid in tax"
+ },
+ {
+  "start": 1721.36,
+  "duration": 3.2,
+  "text": "and reducing strain created by the"
+ },
+ {
+  "start": 1722.84,
+  "duration": 3.56,
+  "text": "growth in energy consumption, which will"
+ },
+ {
+  "start": 1724.56,
+  "duration": 3.16,
+  "text": "three, generate maybe $10 billion a year"
+ },
+ {
+  "start": 1726.4,
+  "duration": 3.92,
+  "text": "to start, but over the next 10 years"
+ },
+ {
+  "start": 1727.72,
+  "duration": 3.8,
+  "text": "could grow 30x to 100x, which will for"
+ },
+ {
+  "start": 1730.32,
+  "duration": 3.16,
+  "text": "create a source of funding to pay down"
+ },
+ {
+  "start": 1731.52,
+  "duration": 3.2,
+  "text": "the federal debt or deploy in response"
+ },
+ {
+  "start": 1733.48,
+  "duration": 2.88,
+  "text": "to the things AI brings that we don't"
+ },
+ {
+  "start": 1734.72,
+  "duration": 3.08,
+  "text": "expect or don't like. At some point the"
+ },
+ {
+  "start": 1736.36,
+  "duration": 3.2,
+  "text": "models will pass it on to customers. Of"
+ },
+ {
+  "start": 1737.8,
+  "duration": 3.36,
+  "text": "course, that's okay. Customers will have"
+ },
+ {
+  "start": 1739.56,
+  "duration": 3.04,
+  "text": "the ability to choose between providers"
+ },
+ {
+  "start": 1741.16,
+  "duration": 3.4,
+  "text": "or to do everything using open-source"
+ },
+ {
+  "start": 1742.6,
+  "duration": 3.04,
+  "text": "models locally. Thoughts?"
+ },
+ {
+  "start": 1744.56,
+  "duration": 3.48,
+  "text": "And boy did people have a lot of"
+ },
+ {
+  "start": 1745.64,
+  "duration": 4.8,
+  "text": "thoughts. But man, if that isn't a more"
+ },
+ {
+  "start": 1748.04,
+  "duration": 5.04,
+  "text": "useful conversation to have than any of"
+ },
+ {
+  "start": 1750.44,
+  "duration": 4.4,
+  "text": "this BS about a permanent underclass."
+ },
+ {
+  "start": 1753.08,
+  "duration": 4.32,
+  "text": "Right now, the vast majority of the"
+ },
+ {
+  "start": 1754.84,
+  "duration": 4.56,
+  "text": "world still lives in this first hump of"
+ },
+ {
+  "start": 1757.4,
+  "duration": 4.12,
+  "text": "the AI doom cycle, somewhere between"
+ },
+ {
+  "start": 1759.4,
+  "duration": 3.92,
+  "text": "skepticism and disbelief, AI psychosis"
+ },
+ {
+  "start": 1761.52,
+  "duration": 4.64,
+  "text": "and doom desperation, or some part of"
+ },
+ {
+  "start": 1763.32,
+  "duration": 4.48,
+  "text": "all of it at once. I think the faster"
+ },
+ {
+  "start": 1766.16,
+  "duration": 3.28,
+  "text": "more of us can move into the real-world"
+ },
+ {
+  "start": 1767.8,
+  "duration": 3.28,
+  "text": "recalibration and enlightened"
+ },
+ {
+  "start": 1769.44,
+  "duration": 3.12,
+  "text": "excitement, the better off we're all"
+ },
+ {
+  "start": 1771.08,
+  "duration": 3.24,
+  "text": "going to be. For now, however, that is"
+ },
+ {
+  "start": 1772.56,
+  "duration": 3.28,
+  "text": "going to do it for the AI daily brief."
+ },
+ {
+  "start": 1774.32,
+  "duration": 5.92,
+  "text": "Appreciate you listening or watching as"
+ },
+ {
+  "start": 1775.84,
+  "duration": 4.4,
+  "text": "always, and until next time, peace."
+ }
+]

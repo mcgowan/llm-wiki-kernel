@@ -1,0 +1,3932 @@
+[
+ {
+  "start": 1.2,
+  "duration": 5.0,
+  "text": "Today on the AI Daily Brief, how to"
+ },
+ {
+  "start": 3.08,
+  "duration": 4.84,
+  "text": "build your agentic operating system."
+ },
+ {
+  "start": 6.2,
+  "duration": 3.28,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 7.92,
+  "duration": 4.96,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 9.48,
+  "duration": 3.4,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 23.04,
+  "duration": 5.48,
+  "text": "All right, friends. We are back with"
+ },
+ {
+  "start": 25.28,
+  "duration": 4.72,
+  "text": "another Operators bonus episode. Today"
+ },
+ {
+  "start": 28.52,
+  "duration": 3.68,
+  "text": "we are once again joined by Nofar"
+ },
+ {
+  "start": 30.0,
+  "duration": 5.44,
+  "text": "Gaspar, who is here to introduce the"
+ },
+ {
+  "start": 32.2,
+  "duration": 5.92,
+  "text": "latest free AIDB training program, Agent"
+ },
+ {
+  "start": 35.44,
+  "duration": 4.96,
+  "text": "OS. Now, those of you who have done AIDB"
+ },
+ {
+  "start": 38.12,
+  "duration": 3.84,
+  "text": "New Year or maybe Claw Camp will be"
+ },
+ {
+  "start": 40.4,
+  "duration": 4.16,
+  "text": "familiar with this style. It's a"
+ },
+ {
+  "start": 41.96,
+  "duration": 4.08,
+  "text": "self-directed build-based program that's"
+ },
+ {
+  "start": 44.56,
+  "duration": 3.52,
+  "text": "going to give you the tools you need to"
+ },
+ {
+  "start": 46.04,
+  "duration": 3.84,
+  "text": "build a complete agentic operating"
+ },
+ {
+  "start": 48.08,
+  "duration": 3.24,
+  "text": "system. And for those of you who are"
+ },
+ {
+  "start": 49.88,
+  "duration": 3.68,
+  "text": "wondering what the difference between"
+ },
+ {
+  "start": 51.32,
+  "duration": 4.32,
+  "text": "this and Claw Camp is, in many ways they"
+ },
+ {
+  "start": 53.56,
+  "duration": 3.44,
+  "text": "share a lot of foundations, but whereas"
+ },
+ {
+  "start": 55.64,
+  "duration": 3.6,
+  "text": "Claw Camp is of course focused"
+ },
+ {
+  "start": 57.0,
+  "duration": 4.2,
+  "text": "exclusively on Open Claw, this is an"
+ },
+ {
+  "start": 59.24,
+  "duration": 4.52,
+  "text": "updated program that is meant to be"
+ },
+ {
+  "start": 61.2,
+  "duration": 3.999,
+  "text": "platform, model, and harness neutral."
+ },
+ {
+  "start": 63.76,
+  "duration": 3.68,
+  "text": "Whether you're working with Claude Code"
+ },
+ {
+  "start": 65.199,
+  "duration": 4.401,
+  "text": "or Codex or some other set of tools,"
+ },
+ {
+  "start": 67.44,
+  "duration": 4.48,
+  "text": "Agent OS is about building dynamic and"
+ },
+ {
+  "start": 69.6,
+  "duration": 3.84,
+  "text": "extensible and adaptable agentic systems"
+ },
+ {
+  "start": 71.92,
+  "duration": 3.4,
+  "text": "that you can continue to evolve over"
+ },
+ {
+  "start": 73.44,
+  "duration": 3.6,
+  "text": "time. But instead of me yapping about"
+ },
+ {
+  "start": 75.32,
+  "duration": 3.0,
+  "text": "it, let's turn it over to Nofar to"
+ },
+ {
+  "start": 77.04,
+  "duration": 4.96,
+  "text": "introduce the program and get you"
+ },
+ {
+  "start": 78.32,
+  "duration": 5.84,
+  "text": "building your agentic operating system."
+ },
+ {
+  "start": 82.0,
+  "duration": 4.2,
+  "text": "All right, Nofar. Welcome back to the"
+ },
+ {
+  "start": 84.16,
+  "duration": 3.04,
+  "text": "show. We got a fun one today. Yes, we"
+ },
+ {
+  "start": 86.2,
+  "duration": 3.28,
+  "text": "do."
+ },
+ {
+  "start": 87.2,
+  "duration": 3.6,
+  "text": "So this started kind of emerging around"
+ },
+ {
+  "start": 89.48,
+  "duration": 3.84,
+  "text": "the time that I had started hacking"
+ },
+ {
+  "start": 90.8,
+  "duration": 4.16,
+  "text": "around Claw Camp. But before we dive in,"
+ },
+ {
+  "start": 93.32,
+  "duration": 3.08,
+  "text": "we're going to talk about this Agent OS"
+ },
+ {
+  "start": 94.96,
+  "duration": 4.2,
+  "text": "idea today, but give us a little bit of"
+ },
+ {
+  "start": 96.4,
+  "duration": 5.32,
+  "text": "background around where the the origin"
+ },
+ {
+  "start": 99.16,
+  "duration": 4.6,
+  "text": "of this came from. Like most other"
+ },
+ {
+  "start": 101.72,
+  "duration": 4.0,
+  "text": "people, I've been hacking around these"
+ },
+ {
+  "start": 103.76,
+  "duration": 4.48,
+  "text": "systems for a few months,"
+ },
+ {
+  "start": 105.72,
+  "duration": 5.24,
+  "text": "realizing that different tools, like we"
+ },
+ {
+  "start": 108.24,
+  "duration": 5.12,
+  "text": "will explore in a minute, are converging"
+ },
+ {
+  "start": 110.96,
+  "duration": 4.6,
+  "text": "and that I'm still not getting optimal"
+ },
+ {
+  "start": 113.36,
+  "duration": 4.44,
+  "text": "results unless I'm being very deliberate"
+ },
+ {
+  "start": 115.56,
+  "duration": 3.92,
+  "text": "about what I'm putting underneath."
+ },
+ {
+  "start": 117.8,
+  "duration": 4.04,
+  "text": "So, basically, that's the accumulation"
+ },
+ {
+  "start": 119.48,
+  "duration": 4.84,
+  "text": "of all my thinking around how can you"
+ },
+ {
+  "start": 121.84,
+  "duration": 5.48,
+  "text": "make any agentic tool work much better"
+ },
+ {
+  "start": 124.32,
+  "duration": 6.359,
+  "text": "for you. So, it's a framework that will"
+ },
+ {
+  "start": 127.32,
+  "duration": 5.32,
+  "text": "not give any one novel concept, but the"
+ },
+ {
+  "start": 130.679,
+  "duration": 4.921,
+  "text": "overall accumulation of everything"
+ },
+ {
+  "start": 132.64,
+  "duration": 4.68,
+  "text": "creates a much better system for any"
+ },
+ {
+  "start": 135.6,
+  "duration": 3.24,
+  "text": "tool, whether it's Open Claw or any"
+ },
+ {
+  "start": 137.32,
+  "duration": 3.44,
+  "text": "other agentic tool."
+ },
+ {
+  "start": 138.84,
+  "duration": 3.72,
+  "text": "Kind of moving from agents to agent"
+ },
+ {
+  "start": 140.76,
+  "duration": 4.16,
+  "text": "systems almost. And, you know,"
+ },
+ {
+  "start": 142.56,
+  "duration": 4.04,
+  "text": "especially as I mean, I literally as"
+ },
+ {
+  "start": 144.92,
+  "duration": 3.2,
+  "text": "we're recording this, OpenAI just"
+ },
+ {
+  "start": 146.6,
+  "duration": 2.76,
+  "text": "dropped their workspace agents. And it's"
+ },
+ {
+  "start": 148.12,
+  "duration": 3.28,
+  "text": "just that the innovation is going to"
+ },
+ {
+  "start": 149.36,
+  "duration": 3.88,
+  "text": "keep coming. I think the idea of having"
+ },
+ {
+  "start": 151.4,
+  "duration": 3.48,
+  "text": "systems underneath that are extensible"
+ },
+ {
+  "start": 153.24,
+  "duration": 3.08,
+  "text": "to the new platforms and and kind of"
+ },
+ {
+  "start": 154.88,
+  "duration": 3.44,
+  "text": "keep yourself organized are going to be"
+ },
+ {
+  "start": 156.32,
+  "duration": 3.68,
+  "text": "increasingly valuable. So, I'm excited"
+ },
+ {
+  "start": 158.32,
+  "duration": 3.8,
+  "text": "to dig into this with you."
+ },
+ {
+  "start": 160.0,
+  "duration": 4.92,
+  "text": "Excited to share with everyone my best"
+ },
+ {
+  "start": 162.12,
+  "duration": 5.08,
+  "text": "methods as of this morning, at least."
+ },
+ {
+  "start": 164.92,
+  "duration": 4.36,
+  "text": "In today's episode, as mentioned, I will"
+ },
+ {
+  "start": 167.2,
+  "duration": 4.48,
+  "text": "go over the full system that everybody"
+ },
+ {
+  "start": 169.28,
+  "duration": 4.08,
+  "text": "who wants to get more out of the new"
+ },
+ {
+  "start": 171.68,
+  "duration": 3.92,
+  "text": "wave of the agentic tools should build"
+ },
+ {
+  "start": 173.36,
+  "duration": 4.88,
+  "text": "for themselves. And as a means of a"
+ },
+ {
+  "start": 175.6,
+  "duration": 4.919,
+  "text": "background, what's happening today is"
+ },
+ {
+  "start": 178.24,
+  "duration": 5.04,
+  "text": "that basically every agentic tool is"
+ },
+ {
+  "start": 180.519,
+  "duration": 5.241,
+  "text": "becoming every agentic tool. You said it"
+ },
+ {
+  "start": 183.28,
+  "duration": 5.239,
+  "text": "in one of the shows over the last few"
+ },
+ {
+  "start": 185.76,
+  "duration": 4.759,
+  "text": "weeks. And you're correct, cuz Cursor"
+ },
+ {
+  "start": 188.519,
+  "duration": 4.801,
+  "text": "just added agents and automations, and"
+ },
+ {
+  "start": 190.519,
+  "duration": 4.44,
+  "text": "Claude code added new memory systems,"
+ },
+ {
+  "start": 193.32,
+  "duration": 4.04,
+  "text": "also allows you to communicate with it"
+ },
+ {
+  "start": 194.959,
+  "duration": 4.081,
+  "text": "from other channels. And Open Claw read"
+ },
+ {
+  "start": 197.36,
+  "duration": 4.24,
+  "text": "your files and code external in the"
+ },
+ {
+  "start": 199.04,
+  "duration": 4.8,
+  "text": "background. And Hermes, the kind of"
+ },
+ {
+  "start": 201.6,
+  "duration": 4.76,
+  "text": "up-and-coming open source from Nous,"
+ },
+ {
+  "start": 203.84,
+  "duration": 4.6,
+  "text": "they also have similar architecture,"
+ },
+ {
+  "start": 206.36,
+  "duration": 5.44,
+  "text": "whether it's Win Self on or Anti-Gravity"
+ },
+ {
+  "start": 208.44,
+  "duration": 5.4,
+  "text": "or any of the numerous tools out there,"
+ },
+ {
+  "start": 211.8,
+  "duration": 4.24,
+  "text": "they're all converging on the same set"
+ },
+ {
+  "start": 213.84,
+  "duration": 4.28,
+  "text": "of capabilities, which means that the"
+ },
+ {
+  "start": 216.04,
+  "duration": 4.36,
+  "text": "tool you pick matters less and less. And"
+ },
+ {
+  "start": 218.12,
+  "duration": 4.88,
+  "text": "what matters much more is the system"
+ },
+ {
+  "start": 220.4,
+  "duration": 4.32,
+  "text": "that you build underneath it. So, you"
+ },
+ {
+  "start": 223.0,
+  "duration": 3.88,
+  "text": "want to build a system that captures how"
+ },
+ {
+  "start": 224.72,
+  "duration": 4.799,
+  "text": "you work, what you know, and what you"
+ },
+ {
+  "start": 226.88,
+  "duration": 4.88,
+  "text": "need from the AI tool to do for you."
+ },
+ {
+  "start": 229.519,
+  "duration": 4.161,
+  "text": "And one important framing before we go"
+ },
+ {
+  "start": 231.76,
+  "duration": 3.96,
+  "text": "any further is that most of the"
+ },
+ {
+  "start": 233.68,
+  "duration": 4.28,
+  "text": "discourse around agentic tools is kind"
+ },
+ {
+  "start": 235.72,
+  "duration": 4.0,
+  "text": "of focusing on coding. And today I want"
+ },
+ {
+  "start": 237.96,
+  "duration": 3.0,
+  "text": "to focus primarily on knowledge work."
+ },
+ {
+  "start": 239.72,
+  "duration": 2.88,
+  "text": "So, whether it's strategy,"
+ },
+ {
+  "start": 240.96,
+  "duration": 3.92,
+  "text": "communication, operations,"
+ },
+ {
+  "start": 242.6,
+  "duration": 4.0,
+  "text": "decision-making, research, management,"
+ },
+ {
+  "start": 244.88,
+  "duration": 2.84,
+  "text": "and anything that the knowledge worker"
+ },
+ {
+  "start": 246.6,
+  "duration": 2.88,
+  "text": "does,"
+ },
+ {
+  "start": 247.72,
+  "duration": 4.16,
+  "text": "that is where the most professionals"
+ },
+ {
+  "start": 249.48,
+  "duration": 4.08,
+  "text": "live, and that is where the agent OS or"
+ },
+ {
+  "start": 251.88,
+  "duration": 4.12,
+  "text": "agentic operating system makes the"
+ },
+ {
+  "start": 253.56,
+  "duration": 5.48,
+  "text": "biggest difference. And if some of these"
+ },
+ {
+  "start": 256.0,
+  "duration": 4.799,
+  "text": "tools names are new to you, please don't"
+ },
+ {
+  "start": 259.04,
+  "duration": 3.8,
+  "text": "disconnect. Everything that that we're"
+ },
+ {
+  "start": 260.799,
+  "duration": 3.441,
+  "text": "going to cover today boils down to"
+ },
+ {
+  "start": 262.84,
+  "duration": 3.48,
+  "text": "human-readable text files and"
+ },
+ {
+  "start": 264.24,
+  "duration": 4.04,
+  "text": "configurations. So, if you can write a"
+ },
+ {
+  "start": 266.32,
+  "duration": 3.599,
+  "text": "document, you can build an agentic"
+ },
+ {
+  "start": 268.28,
+  "duration": 2.8,
+  "text": "operating system."
+ },
+ {
+  "start": 269.919,
+  "duration": 3.161,
+  "text": "And I'm seeing people building"
+ },
+ {
+  "start": 271.08,
+  "duration": 4.36,
+  "text": "incredible things with the new wave of"
+ },
+ {
+  "start": 273.08,
+  "duration": 5.4,
+  "text": "these tools. Many of you are using them"
+ },
+ {
+  "start": 275.44,
+  "duration": 4.56,
+  "text": "seriously and getting real results. But"
+ },
+ {
+  "start": 278.48,
+  "duration": 3.96,
+  "text": "here's what kind of clearly"
+ },
+ {
+  "start": 280.0,
+  "duration": 4.28,
+  "text": "differentiates how well any tool works"
+ },
+ {
+  "start": 282.44,
+  "duration": 3.56,
+  "text": "for you. And that is the underlying"
+ },
+ {
+  "start": 284.28,
+  "duration": 3.56,
+  "text": "system. Whether you've carefully built"
+ },
+ {
+  "start": 286.0,
+  "duration": 4.16,
+  "text": "it, maintained it, and improved it over"
+ },
+ {
+  "start": 287.84,
+  "duration": 4.16,
+  "text": "time, that's the biggest unlock. And"
+ },
+ {
+  "start": 290.16,
+  "duration": 3.84,
+  "text": "most people haven't. And it's not"
+ },
+ {
+  "start": 292.0,
+  "duration": 4.32,
+  "text": "because they can't, but because they're"
+ },
+ {
+  "start": 294.0,
+  "duration": 4.56,
+  "text": "building on instinct or best effort, and"
+ },
+ {
+  "start": 296.32,
+  "duration": 4.48,
+  "text": "they end up getting sub-optimal results"
+ },
+ {
+  "start": 298.56,
+  "duration": 3.44,
+  "text": "from the tools that are capable to do so"
+ },
+ {
+  "start": 300.8,
+  "duration": 3.44,
+  "text": "much more."
+ },
+ {
+  "start": 302.0,
+  "duration": 4.76,
+  "text": "So, the proof that the underlying system"
+ },
+ {
+  "start": 304.24,
+  "duration": 4.679,
+  "text": "is the thing that matters, every one of"
+ },
+ {
+  "start": 306.76,
+  "duration": 4.32,
+  "text": "these agentic tools are are basically"
+ },
+ {
+  "start": 308.919,
+  "duration": 4.601,
+  "text": "doing the same thing under the hood."
+ },
+ {
+  "start": 311.08,
+  "duration": 4.28,
+  "text": "They are reading text files that define"
+ },
+ {
+  "start": 313.52,
+  "duration": 4.68,
+  "text": "who you are, what you know, what you can"
+ },
+ {
+  "start": 315.36,
+  "duration": 5.6,
+  "text": "do, and what you remember, and what you"
+ },
+ {
+  "start": 318.2,
+  "duration": 4.56,
+  "text": "can reach. So, almost everything that"
+ },
+ {
+  "start": 320.96,
+  "duration": 5.08,
+  "text": "we're going to build today is a text"
+ },
+ {
+  "start": 322.76,
+  "duration": 5.32,
+  "text": "file, and that's that. Which means that"
+ },
+ {
+  "start": 326.04,
+  "duration": 4.72,
+  "text": "the work you do to build your system is"
+ },
+ {
+  "start": 328.08,
+  "duration": 4.64,
+  "text": "portable. And while the tool owners and"
+ },
+ {
+  "start": 330.76,
+  "duration": 4.08,
+  "text": "the tool companies might not want you to"
+ },
+ {
+  "start": 332.72,
+  "duration": 4.32,
+  "text": "think so, that's the reality of every"
+ },
+ {
+  "start": 334.84,
+  "duration": 4.44,
+  "text": "tool becoming every tool. And when you"
+ },
+ {
+  "start": 337.04,
+  "duration": 4.24,
+  "text": "switch tools or add a new one, all you"
+ },
+ {
+  "start": 339.28,
+  "duration": 4.32,
+  "text": "have to do is point the tool to the same"
+ },
+ {
+  "start": 341.28,
+  "duration": 4.96,
+  "text": "folder, and it reads the same files. No"
+ },
+ {
+  "start": 343.6,
+  "duration": 4.8,
+  "text": "migration, no rebuild, and the tool"
+ },
+ {
+  "start": 346.24,
+  "duration": 4.0,
+  "text": "choice does is becoming the least"
+ },
+ {
+  "start": 348.4,
+  "duration": 3.16,
+  "text": "important decision in my opinion that"
+ },
+ {
+  "start": 350.24,
+  "duration": 3.04,
+  "text": "you need to make."
+ },
+ {
+  "start": 351.56,
+  "duration": 3.32,
+  "text": "What does make a world of difference is"
+ },
+ {
+  "start": 353.28,
+  "duration": 3.8,
+  "text": "what you build underneath."
+ },
+ {
+  "start": 354.88,
+  "duration": 3.76,
+  "text": "So, the the underlying system has a name"
+ },
+ {
+  "start": 357.08,
+  "duration": 3.6,
+  "text": "and we're as mentioned calling it the"
+ },
+ {
+  "start": 358.64,
+  "duration": 4.32,
+  "text": "Agentic Operating System."
+ },
+ {
+  "start": 360.68,
+  "duration": 3.92,
+  "text": "And that's why we built a free program"
+ },
+ {
+  "start": 362.96,
+  "duration": 3.48,
+  "text": "to help everybody build one for"
+ },
+ {
+  "start": 364.6,
+  "duration": 4.56,
+  "text": "themselves regardless of which tool they"
+ },
+ {
+  "start": 366.44,
+  "duration": 4.84,
+  "text": "use and more of that at the end. But, a"
+ },
+ {
+  "start": 369.16,
+  "duration": 5.08,
+  "text": "few things that you need to do and know"
+ },
+ {
+  "start": 371.28,
+  "duration": 4.6,
+  "text": "today. First of all is why the Agent OS"
+ },
+ {
+  "start": 374.24,
+  "duration": 4.24,
+  "text": "is the most important and most"
+ },
+ {
+  "start": 375.88,
+  "duration": 4.6,
+  "text": "overlooked concept in practical AI."
+ },
+ {
+  "start": 378.48,
+  "duration": 3.8,
+  "text": "We then will go over quickly the seven"
+ },
+ {
+  "start": 380.48,
+  "duration": 4.48,
+  "text": "layers and what actually goes in each"
+ },
+ {
+  "start": 382.28,
+  "duration": 4.4,
+  "text": "one. And we'll talk about how to build"
+ },
+ {
+  "start": 384.96,
+  "duration": 4.08,
+  "text": "the first version of this this week"
+ },
+ {
+  "start": 386.68,
+  "duration": 4.2,
+  "text": "using the running example of a chief of"
+ },
+ {
+  "start": 389.04,
+  "duration": 4.0,
+  "text": "staff agent."
+ },
+ {
+  "start": 390.88,
+  "duration": 3.64,
+  "text": "So, your Agentic Operating System has"
+ },
+ {
+  "start": 393.04,
+  "duration": 4.08,
+  "text": "seven layers and you can see them on"
+ },
+ {
+  "start": 394.52,
+  "duration": 6.24,
+  "text": "screen. And all of your agents will run"
+ },
+ {
+  "start": 397.12,
+  "duration": 5.32,
+  "text": "on top of these layers and each agent is"
+ },
+ {
+  "start": 400.76,
+  "duration": 4.36,
+  "text": "basically inheriting the whole"
+ },
+ {
+  "start": 402.44,
+  "duration": 5.04,
+  "text": "foundation. So, the OS is what makes"
+ },
+ {
+  "start": 405.12,
+  "duration": 3.799,
+  "text": "agent effective regardless of which tool"
+ },
+ {
+  "start": 407.48,
+  "duration": 3.36,
+  "text": "you use and regardless of how many"
+ },
+ {
+  "start": 408.919,
+  "duration": 4.441,
+  "text": "agents you add over time."
+ },
+ {
+  "start": 410.84,
+  "duration": 4.72,
+  "text": "You build the OS once, you maintain it"
+ },
+ {
+  "start": 413.36,
+  "duration": 4.36,
+  "text": "and then every agent you add gets better"
+ },
+ {
+  "start": 415.56,
+  "duration": 4.24,
+  "text": "because the foundation is there. And"
+ },
+ {
+  "start": 417.72,
+  "duration": 3.92,
+  "text": "we're going to walk through each layer"
+ },
+ {
+  "start": 419.8,
+  "duration": 3.44,
+  "text": "so you you will have better sense of"
+ },
+ {
+  "start": 421.64,
+  "duration": 3.48,
+  "text": "what I mean by that."
+ },
+ {
+  "start": 423.24,
+  "duration": 3.8,
+  "text": "And before I go into the layers just to"
+ },
+ {
+  "start": 425.12,
+  "duration": 4.08,
+  "text": "make it more concrete, I want to build"
+ },
+ {
+  "start": 427.04,
+  "duration": 4.52,
+  "text": "one specific agent as we go through the"
+ },
+ {
+  "start": 429.2,
+  "duration": 4.68,
+  "text": "layers and let's focus on a chief of"
+ },
+ {
+  "start": 431.56,
+  "duration": 5.08,
+  "text": "staff agent. That will be the agent that"
+ },
+ {
+  "start": 433.88,
+  "duration": 4.6,
+  "text": "reviews your inbox. You perhaps let it"
+ },
+ {
+  "start": 436.64,
+  "duration": 4.0,
+  "text": "prepare you for meeting, track every"
+ },
+ {
+  "start": 438.48,
+  "duration": 5.08,
+  "text": "commitment you make across calls, maybe"
+ },
+ {
+  "start": 440.64,
+  "duration": 5.6,
+  "text": "flag any blind spot that you have. This"
+ },
+ {
+  "start": 443.56,
+  "duration": 4.68,
+  "text": "agent can perhaps draft your weekly"
+ },
+ {
+  "start": 446.24,
+  "duration": 3.92,
+  "text": "updates, know your people, know your"
+ },
+ {
+  "start": 448.24,
+  "duration": 4.28,
+  "text": "priorities and so on."
+ },
+ {
+  "start": 450.16,
+  "duration": 4.96,
+  "text": "And this is one of the first agent by"
+ },
+ {
+  "start": 452.52,
+  "duration": 5.28,
+  "text": "the way that I built for myself. I built"
+ },
+ {
+  "start": 455.12,
+  "duration": 5.08,
+  "text": "Chloe. She runs on Open Claw and she is"
+ },
+ {
+  "start": 457.8,
+  "duration": 4.48,
+  "text": "the front door to my entire system that"
+ },
+ {
+  "start": 460.2,
+  "duration": 3.84,
+  "text": "I will briefly share later on."
+ },
+ {
+  "start": 462.28,
+  "duration": 3.12,
+  "text": "So, of all the agents that you can"
+ },
+ {
+  "start": 464.04,
+  "duration": 2.84,
+  "text": "build, the chief of staff is probably"
+ },
+ {
+  "start": 465.4,
+  "duration": 3.56,
+  "text": "the one that helps you the most in the"
+ },
+ {
+  "start": 466.88,
+  "duration": 4.28,
+  "text": "day-to-day. And whether you're an"
+ },
+ {
+  "start": 468.96,
+  "duration": 4.24,
+  "text": "individual contributor and you're just"
+ },
+ {
+  "start": 471.16,
+  "duration": 3.8,
+  "text": "getting started in your career or you're"
+ },
+ {
+  "start": 473.2,
+  "duration": 4.16,
+  "text": "a seasoned executive already used to"
+ },
+ {
+  "start": 474.96,
+  "duration": 4.16,
+  "text": "managing a team of assistants, everybody"
+ },
+ {
+  "start": 477.36,
+  "duration": 3.84,
+  "text": "would benefit from having a chief of"
+ },
+ {
+  "start": 479.12,
+  "duration": 3.84,
+  "text": "staff. And eventually, your chief of"
+ },
+ {
+  "start": 481.2,
+  "duration": 4.48,
+  "text": "staff can become the agent that manages"
+ },
+ {
+  "start": 482.96,
+  "duration": 6.24,
+  "text": "the other agents. So, that's what we"
+ },
+ {
+  "start": 485.68,
+  "duration": 5.24,
+  "text": "will build today layer by layer."
+ },
+ {
+  "start": 489.2,
+  "duration": 4.36,
+  "text": "The first layer will be identity and"
+ },
+ {
+  "start": 490.92,
+  "duration": 5.12,
+  "text": "that answers one question. Who are you"
+ },
+ {
+  "start": 493.56,
+  "duration": 4.4,
+  "text": "and what rules do you want enforced"
+ },
+ {
+  "start": 496.04,
+  "duration": 2.76,
+  "text": "every single time the agent talks to"
+ },
+ {
+  "start": 497.96,
+  "duration": 3.72,
+  "text": "you?"
+ },
+ {
+  "start": 498.8,
+  "duration": 5.72,
+  "text": "This is the file that your tool reads"
+ },
+ {
+  "start": 501.68,
+  "duration": 5.32,
+  "text": "first. So, it will read it before any"
+ },
+ {
+  "start": 504.52,
+  "duration": 4.88,
+  "text": "question you type and before memory, the"
+ },
+ {
+  "start": 507.0,
+  "duration": 5.52,
+  "text": "first thing. In Open Claw, it's called"
+ },
+ {
+  "start": 509.4,
+  "duration": 5.28,
+  "text": "soul. In Cursor, it's called agents.md."
+ },
+ {
+  "start": 512.52,
+  "duration": 4.639,
+  "text": "In Claude code, it's Claude. In GitHub"
+ },
+ {
+  "start": 514.68,
+  "duration": 4.84,
+  "text": "Copilot, it's copilot instructions."
+ },
+ {
+  "start": 517.159,
+  "duration": 4.801,
+  "text": "And so on. Different names but the same"
+ },
+ {
+  "start": 519.52,
+  "duration": 4.24,
+  "text": "idea. A text file that tells the tool"
+ },
+ {
+  "start": 521.96,
+  "duration": 3.8,
+  "text": "who is it working for."
+ },
+ {
+  "start": 523.76,
+  "duration": 4.24,
+  "text": "If you've never proactively written this"
+ },
+ {
+  "start": 525.76,
+  "duration": 3.76,
+  "text": "file, your agent starts from zero or"
+ },
+ {
+  "start": 528.0,
+  "duration": 3.92,
+  "text": "what it was able to collect randomly"
+ },
+ {
+  "start": 529.52,
+  "duration": 4.88,
+  "text": "along the way. And if you don't have a"
+ },
+ {
+  "start": 531.92,
+  "duration": 4.04,
+  "text": "high intention, regularly updated, just"
+ },
+ {
+  "start": 534.4,
+  "duration": 3.64,
+  "text": "sufficient amount of information in the"
+ },
+ {
+  "start": 535.96,
+  "duration": 4.48,
+  "text": "identity file, you're missing a huge"
+ },
+ {
+  "start": 538.04,
+  "duration": 4.6,
+  "text": "opportunity for you to get so much more"
+ },
+ {
+  "start": 540.44,
+  "duration": 3.92,
+  "text": "out of the Agentic tool or the agent"
+ },
+ {
+  "start": 542.64,
+  "duration": 4.92,
+  "text": "that you will build on top of these"
+ },
+ {
+  "start": 544.36,
+  "duration": 5.6,
+  "text": "Agentic tools. So, you write it once and"
+ },
+ {
+  "start": 547.56,
+  "duration": 3.56,
+  "text": "you enforce it forever or rather the"
+ },
+ {
+  "start": 549.96,
+  "duration": 3.28,
+  "text": "tool does."
+ },
+ {
+  "start": 551.12,
+  "duration": 4.76,
+  "text": "And in terms of what goes into a good"
+ },
+ {
+  "start": 553.24,
+  "duration": 5.56,
+  "text": "identity file, it has to include who you"
+ },
+ {
+  "start": 555.88,
+  "duration": 5.28,
+  "text": "are, how you communicate, whether it's"
+ },
+ {
+  "start": 558.8,
+  "duration": 4.92,
+  "text": "direct or diplomatic, bullets or prose,"
+ },
+ {
+  "start": 561.16,
+  "duration": 5.24,
+  "text": "short or thorough and so on. It needs to"
+ },
+ {
+  "start": 563.72,
+  "duration": 5.68,
+  "text": "also include what you value. So, whether"
+ },
+ {
+  "start": 566.4,
+  "duration": 4.56,
+  "text": "you prefer concise versus lengthy,"
+ },
+ {
+  "start": 569.4,
+  "duration": 4.04,
+  "text": "whether you prefer challenge your"
+ },
+ {
+  "start": 570.96,
+  "duration": 4.12,
+  "text": "thinking versus execute what you say,"
+ },
+ {
+  "start": 573.44,
+  "duration": 4.52,
+  "text": "show your reasoning or just give you the"
+ },
+ {
+  "start": 575.08,
+  "duration": 5.0,
+  "text": "answer and so on. And whether you have"
+ },
+ {
+  "start": 577.96,
+  "duration": 4.44,
+  "text": "specific rules what they I should never"
+ },
+ {
+  "start": 580.08,
+  "duration": 4.64,
+  "text": "do. For example, never send external"
+ },
+ {
+  "start": 582.4,
+  "duration": 4.56,
+  "text": "email without showing me a draft, or"
+ },
+ {
+  "start": 584.72,
+  "duration": 3.96,
+  "text": "never flatter me, or always tell me what"
+ },
+ {
+  "start": 586.96,
+  "duration": 3.08,
+  "text": "I'm not seeing. So, that will be the"
+ },
+ {
+  "start": 588.68,
+  "duration": 3.44,
+  "text": "identity."
+ },
+ {
+  "start": 590.04,
+  "duration": 4.48,
+  "text": "And here is the key to actually building"
+ },
+ {
+  "start": 592.12,
+  "duration": 4.44,
+  "text": "a good identity file. You don't write"
+ },
+ {
+  "start": 594.52,
+  "duration": 4.64,
+  "text": "the file from scratch yourself. You will"
+ },
+ {
+  "start": 596.56,
+  "duration": 4.6,
+  "text": "hate it, and you will quit. Instead, I"
+ },
+ {
+  "start": 599.16,
+  "duration": 4.8,
+  "text": "encourage you to brain dump to an AI,"
+ },
+ {
+  "start": 601.16,
+  "duration": 4.96,
+  "text": "and let the AI interview you. So, open"
+ },
+ {
+  "start": 603.96,
+  "duration": 4.12,
+  "text": "any AI tool, and ideally one that"
+ },
+ {
+  "start": 606.12,
+  "duration": 4.48,
+  "text": "already has sufficient memory of you"
+ },
+ {
+  "start": 608.08,
+  "duration": 4.2,
+  "text": "from ongoing work with you, and say,"
+ },
+ {
+  "start": 610.6,
+  "duration": 4.32,
+  "text": "\"I'm building my AI identity file."
+ },
+ {
+  "start": 612.28,
+  "duration": 4.96,
+  "text": "Please ask me 15 questions about how I"
+ },
+ {
+  "start": 614.92,
+  "duration": 4.72,
+  "text": "work, what I want, what I don't want,"
+ },
+ {
+  "start": 617.24,
+  "duration": 5.32,
+  "text": "what frustrates me about AI today, and"
+ },
+ {
+  "start": 619.64,
+  "duration": 5.52,
+  "text": "what rules I want enforced.\" You answer,"
+ },
+ {
+  "start": 622.56,
+  "duration": 5.0,
+  "text": "and ideally out loud because it's much"
+ },
+ {
+  "start": 625.16,
+  "duration": 4.48,
+  "text": "easier to speak to an AI tool."
+ },
+ {
+  "start": 627.56,
+  "duration": 4.6,
+  "text": "And then the AI will draft, you will"
+ },
+ {
+  "start": 629.64,
+  "duration": 5.04,
+  "text": "edit, and you will shift a first version"
+ },
+ {
+  "start": 632.16,
+  "duration": 4.36,
+  "text": "that is let's say is about 70% right."
+ },
+ {
+  "start": 634.68,
+  "duration": 3.8,
+  "text": "You can scratch it over the next 3 weeks"
+ },
+ {
+  "start": 636.52,
+  "duration": 3.68,
+  "text": "as you notice the gaps."
+ },
+ {
+  "start": 638.48,
+  "duration": 3.8,
+  "text": "And basically, this is the methodology"
+ },
+ {
+  "start": 640.2,
+  "duration": 4.0,
+  "text": "for every layer that we will cover"
+ },
+ {
+  "start": 642.28,
+  "duration": 4.0,
+  "text": "today. You brain dump, you let the AI"
+ },
+ {
+  "start": 644.2,
+  "duration": 4.52,
+  "text": "interview you, you draft, you shift a"
+ },
+ {
+  "start": 646.28,
+  "duration": 3.96,
+  "text": "minimal viable version of this file, and"
+ },
+ {
+  "start": 648.72,
+  "duration": 3.96,
+  "text": "then you improve."
+ },
+ {
+  "start": 650.24,
+  "duration": 4.36,
+  "text": "And for our Chief of Staff, identity"
+ },
+ {
+  "start": 652.68,
+  "duration": 4.08,
+  "text": "will capture your communication style,"
+ },
+ {
+  "start": 654.6,
+  "duration": 4.04,
+  "text": "your pet peeves, your non-negotiables."
+ },
+ {
+  "start": 656.76,
+  "duration": 3.84,
+  "text": "For example, never let me walk into a"
+ },
+ {
+  "start": 658.64,
+  "duration": 4.48,
+  "text": "meeting without a pre-read, or always"
+ },
+ {
+  "start": 660.6,
+  "duration": 4.36,
+  "text": "tell me who else I owe to reply to, or"
+ },
+ {
+  "start": 663.12,
+  "duration": 3.6,
+  "text": "flag when I'm over committing for the"
+ },
+ {
+  "start": 664.96,
+  "duration": 3.0,
+  "text": "next week."
+ },
+ {
+  "start": 666.72,
+  "duration": 3.68,
+  "text": "And then,"
+ },
+ {
+  "start": 667.96,
+  "duration": 3.44,
+  "text": "we have the context. The context is what"
+ },
+ {
+  "start": 670.4,
+  "duration": 2.72,
+  "text": "you know."
+ },
+ {
+  "start": 671.4,
+  "duration": 3.6,
+  "text": "And what you know is the single biggest"
+ },
+ {
+  "start": 673.12,
+  "duration": 4.2,
+  "text": "predictor of whether AI gives you the"
+ },
+ {
+  "start": 675.0,
+  "duration": 5.04,
+  "text": "generic output or something genuinely"
+ },
+ {
+  "start": 677.32,
+  "duration": 5.16,
+  "text": "useful for your actual situation."
+ },
+ {
+  "start": 680.04,
+  "duration": 4.64,
+  "text": "So, a generic AI advice is just like one"
+ },
+ {
+  "start": 682.48,
+  "duration": 4.24,
+  "text": "Google search away, and what you cannot"
+ },
+ {
+  "start": 684.68,
+  "duration": 4.84,
+  "text": "get from the public internet is your"
+ },
+ {
+  "start": 686.72,
+  "duration": 4.6,
+  "text": "situation, your road map, your org"
+ },
+ {
+  "start": 689.52,
+  "duration": 4.48,
+  "text": "chart, your customer segments, your"
+ },
+ {
+  "start": 691.32,
+  "duration": 5.24,
+  "text": "priorities, and so on. And unlike other"
+ },
+ {
+  "start": 694.0,
+  "duration": 4.64,
+  "text": "layers, this is not something that will"
+ },
+ {
+  "start": 696.56,
+  "duration": 4.48,
+  "text": "be solved by better models. Your"
+ },
+ {
+  "start": 698.64,
+  "duration": 4.76,
+  "text": "specific context will always be yours,"
+ },
+ {
+  "start": 701.04,
+  "duration": 4.92,
+  "text": "and no model improvements will ever ever"
+ },
+ {
+  "start": 703.4,
+  "duration": 4.76,
+  "text": "know what you're shipping next quarter"
+ },
+ {
+  "start": 705.96,
+  "duration": 4.28,
+  "text": "or who your key stakeholders unless you"
+ },
+ {
+  "start": 708.16,
+  "duration": 4.0,
+  "text": "tell it. And context files are the"
+ },
+ {
+  "start": 710.24,
+  "duration": 4.32,
+  "text": "documents in your workspace that your"
+ },
+ {
+  "start": 712.16,
+  "duration": 4.28,
+  "text": "agent read on demand, and they are not"
+ },
+ {
+  "start": 714.56,
+  "duration": 4.52,
+  "text": "part of the prompt you type. They are"
+ },
+ {
+  "start": 716.44,
+  "duration": 4.68,
+  "text": "the library that the agent can reach for"
+ },
+ {
+  "start": 719.08,
+  "duration": 4.0,
+  "text": "when the task needs it."
+ },
+ {
+  "start": 721.12,
+  "duration": 3.88,
+  "text": "Now, there is a big trap here. If you're"
+ },
+ {
+  "start": 723.08,
+  "duration": 4.36,
+  "text": "trying to context engineer in one"
+ },
+ {
+  "start": 725.0,
+  "duration": 4.88,
+  "text": "session, you will produce a 40-page"
+ },
+ {
+  "start": 727.44,
+  "duration": 4.4,
+  "text": "document, and you never update that."
+ },
+ {
+  "start": 729.88,
+  "duration": 5.0,
+  "text": "That's not context. It's just a quick to"
+ },
+ {
+  "start": 731.84,
+  "duration": 6.68,
+  "text": "be stale novel. So, what actually works"
+ },
+ {
+  "start": 734.88,
+  "duration": 5.2,
+  "text": "here is to have basically three to five"
+ },
+ {
+  "start": 738.52,
+  "duration": 4.44,
+  "text": "focused files,"
+ },
+ {
+  "start": 740.08,
+  "duration": 5.4,
+  "text": "each on a single page, each covers one"
+ },
+ {
+  "start": 742.96,
+  "duration": 4.88,
+  "text": "thing, whether it's my team, my product,"
+ },
+ {
+  "start": 745.48,
+  "duration": 5.0,
+  "text": "my customers, my quarter, my"
+ },
+ {
+  "start": 747.84,
+  "duration": 4.24,
+  "text": "stakeholders, and so on. Make it dated"
+ },
+ {
+  "start": 750.48,
+  "duration": 2.76,
+  "text": "and fresh, and update when things"
+ },
+ {
+  "start": 752.08,
+  "duration": 3.64,
+  "text": "change."
+ },
+ {
+  "start": 753.24,
+  "duration": 4.28,
+  "text": "And often we call it context curation,"
+ },
+ {
+  "start": 755.72,
+  "duration": 4.28,
+  "text": "and it's not a project that has a"
+ },
+ {
+  "start": 757.52,
+  "duration": 4.8,
+  "text": "beginning or an end. It's a practice,"
+ },
+ {
+  "start": 760.0,
+  "duration": 4.6,
+  "text": "and every time you catch yourself"
+ },
+ {
+  "start": 762.32,
+  "duration": 4.68,
+  "text": "re-explaining something about your"
+ },
+ {
+  "start": 764.6,
+  "duration": 4.8,
+  "text": "situation to AI, that thing should have"
+ },
+ {
+  "start": 767.0,
+  "duration": 3.88,
+  "text": "been in a context file. Write it down"
+ },
+ {
+  "start": 769.4,
+  "duration": 2.68,
+  "text": "and add it to the library, and then you"
+ },
+ {
+  "start": 770.88,
+  "duration": 3.12,
+  "text": "move on."
+ },
+ {
+  "start": 772.08,
+  "duration": 3.92,
+  "text": "For example, for our chief of staff, we"
+ },
+ {
+  "start": 774.0,
+  "duration": 5.08,
+  "text": "will at the very minimum need a"
+ },
+ {
+  "start": 776.0,
+  "duration": 5.24,
+  "text": "stakeholders file, who reports to you,"
+ },
+ {
+  "start": 779.08,
+  "duration": 4.08,
+  "text": "who you report to, key cross-functional"
+ },
+ {
+  "start": 781.24,
+  "duration": 4.88,
+  "text": "partners, what each one cares about, and"
+ },
+ {
+  "start": 783.16,
+  "duration": 4.64,
+  "text": "so on. Strategy and priorities file,"
+ },
+ {
+  "start": 786.12,
+  "duration": 4.12,
+  "text": "what you're trying to achieve this year,"
+ },
+ {
+  "start": 787.8,
+  "duration": 4.88,
+  "text": "what the organization is focused on, and"
+ },
+ {
+  "start": 790.24,
+  "duration": 4.88,
+  "text": "an operating principle file, how"
+ },
+ {
+  "start": 792.68,
+  "duration": 4.88,
+  "text": "decisions get made, what you push back"
+ },
+ {
+  "start": 795.12,
+  "duration": 4.12,
+  "text": "on, what you escalate, and so on."
+ },
+ {
+  "start": 797.56,
+  "duration": 4.8,
+  "text": "And I believe that context curation is"
+ },
+ {
+  "start": 799.24,
+  "duration": 5.4,
+  "text": "the single fastest path to AI value. So,"
+ },
+ {
+  "start": 802.36,
+  "duration": 4.16,
+  "text": "the moment anyone gets this, whether"
+ },
+ {
+  "start": 804.64,
+  "duration": 3.68,
+  "text": "it's you or people around you, this is"
+ },
+ {
+  "start": 806.52,
+  "duration": 3.76,
+  "text": "where the conversation changes. They"
+ },
+ {
+  "start": 808.32,
+  "duration": 4.56,
+  "text": "stop asking what AI tool should I use"
+ },
+ {
+  "start": 810.28,
+  "duration": 5.12,
+  "text": "and start asking what knowledge do I"
+ },
+ {
+  "start": 812.88,
+  "duration": 4.04,
+  "text": "have that isn't written down anywhere."
+ },
+ {
+  "start": 815.4,
+  "duration": 3.84,
+  "text": "And of course, if you want to go deeper"
+ },
+ {
+  "start": 816.92,
+  "duration": 4.72,
+  "text": "on this layer, NLW did an amazing"
+ },
+ {
+  "start": 819.24,
+  "duration": 4.08,
+  "text": "episode a few days ago called how to"
+ },
+ {
+  "start": 821.64,
+  "duration": 4.28,
+  "text": "build a personal context portfolio and"
+ },
+ {
+  "start": 823.32,
+  "duration": 4.36,
+  "text": "MCP server and it walks you through"
+ },
+ {
+  "start": 825.92,
+  "duration": 4.0,
+  "text": "hands-on including templates and"
+ },
+ {
+  "start": 827.68,
+  "duration": 4.68,
+  "text": "companion apps. So, he did such a good"
+ },
+ {
+  "start": 829.92,
+  "duration": 4.16,
+  "text": "job that I'm going to let NLW take it"
+ },
+ {
+  "start": 832.36,
+  "duration": 3.84,
+  "text": "from here."
+ },
+ {
+  "start": 834.08,
+  "duration": 4.32,
+  "text": "So, identity is who you"
+ },
+ {
+  "start": 836.2,
+  "duration": 4.88,
+  "text": "what you know, and skills is how you"
+ },
+ {
+  "start": 838.4,
+  "duration": 5.28,
+  "text": "work. And a skill is a reusable"
+ },
+ {
+  "start": 841.08,
+  "duration": 5.08,
+  "text": "instruction set for the AI or workflow"
+ },
+ {
+  "start": 843.68,
+  "duration": 4.64,
+  "text": "that you do repeatedly. It can be the"
+ },
+ {
+  "start": 846.16,
+  "duration": 4.68,
+  "text": "weekly status updates or the meeting"
+ },
+ {
+  "start": 848.32,
+  "duration": 5.4,
+  "text": "prep, stakeholder emails, and so on. It"
+ },
+ {
+  "start": 850.84,
+  "duration": 4.4,
+  "text": "can be decisions and memos, you name it."
+ },
+ {
+  "start": 853.72,
+  "duration": 4.0,
+  "text": "And I believe that every knowledge"
+ },
+ {
+  "start": 855.24,
+  "duration": 4.96,
+  "text": "worker easily has 20 or 30 of these"
+ },
+ {
+  "start": 857.72,
+  "duration": 4.76,
+  "text": "patterns. And each one can be written as"
+ },
+ {
+  "start": 860.2,
+  "duration": 4.2,
+  "text": "when I say some kind of a trigger, do"
+ },
+ {
+  "start": 862.48,
+  "duration": 4.4,
+  "text": "some kind of a process using the"
+ },
+ {
+  "start": 864.4,
+  "duration": 5.48,
+  "text": "following sources and produce output"
+ },
+ {
+  "start": 866.88,
+  "duration": 4.84,
+  "text": "this format. So, without a skill, you're"
+ },
+ {
+  "start": 869.88,
+  "duration": 3.88,
+  "text": "basically re-explaining the format every"
+ },
+ {
+  "start": 871.72,
+  "duration": 3.8,
+  "text": "time. You paste the same sources every"
+ },
+ {
+  "start": 873.76,
+  "duration": 4.24,
+  "text": "time. You complain that AI writes in a"
+ },
+ {
+  "start": 875.52,
+  "duration": 4.88,
+  "text": "weird voice and you never bother to"
+ },
+ {
+  "start": 878.0,
+  "duration": 4.92,
+  "text": "teach it your voice. So, a skill fixes"
+ },
+ {
+  "start": 880.4,
+  "duration": 4.76,
+  "text": "that and if you write it once well, it"
+ },
+ {
+  "start": 882.92,
+  "duration": 3.96,
+  "text": "fires forever. Again, I want to"
+ },
+ {
+  "start": 885.16,
+  "duration": 3.64,
+  "text": "encourage an MVP skill, not a perfect"
+ },
+ {
+  "start": 886.88,
+  "duration": 4.52,
+  "text": "skill to begin with. The first version"
+ },
+ {
+  "start": 888.8,
+  "duration": 4.08,
+  "text": "is always not perfect and kind of wrong,"
+ },
+ {
+  "start": 891.4,
+  "duration": 3.64,
+  "text": "but you use it for a week and then you"
+ },
+ {
+  "start": 892.88,
+  "duration": 4.6,
+  "text": "notice when it's off and what it needs"
+ },
+ {
+  "start": 895.04,
+  "duration": 4.76,
+  "text": "to improve. You patch it and then a few"
+ },
+ {
+  "start": 897.48,
+  "duration": 4.44,
+  "text": "weeks in, that skill is writing better"
+ },
+ {
+  "start": 899.8,
+  "duration": 3.92,
+  "text": "first draft than you'd ever get from"
+ },
+ {
+  "start": 901.92,
+  "duration": 4.64,
+  "text": "starting over each time."
+ },
+ {
+  "start": 903.72,
+  "duration": 4.52,
+  "text": "For our beloved chief of staff agent,"
+ },
+ {
+  "start": 906.56,
+  "duration": 4.04,
+  "text": "bunch of skills that you can consider"
+ },
+ {
+  "start": 908.24,
+  "duration": 5.32,
+  "text": "will be pre-read that will produce a"
+ },
+ {
+  "start": 910.6,
+  "duration": 5.16,
+  "text": "one-page pre-read for any meeting. It"
+ },
+ {
+  "start": 913.56,
+  "duration": 4.44,
+  "text": "can be daily brief that scans everything"
+ },
+ {
+  "start": 915.76,
+  "duration": 4.28,
+  "text": "that is open on my inbox or slack or"
+ },
+ {
+  "start": 918.0,
+  "duration": 4.36,
+  "text": "calendar and gives me what there is on"
+ },
+ {
+  "start": 920.04,
+  "duration": 4.56,
+  "text": "my plate for today. Voice match that"
+ },
+ {
+  "start": 922.36,
+  "duration": 4.6,
+  "text": "helps AI write like you, commitment"
+ },
+ {
+  "start": 924.6,
+  "duration": 3.96,
+  "text": "tracker, and I can think of many other"
+ },
+ {
+  "start": 926.96,
+  "duration": 2.88,
+  "text": "and I'm sure you can."
+ },
+ {
+  "start": 928.56,
+  "duration": 3.12,
+  "text": "And of course, if you want to go deeper"
+ },
+ {
+  "start": 929.84,
+  "duration": 5.44,
+  "text": "on skills, we did a skill masterclass"
+ },
+ {
+  "start": 931.68,
+  "duration": 6.0,
+  "text": "episode in this show a few weeks ago."
+ },
+ {
+  "start": 935.28,
+  "duration": 4.56,
+  "text": "Memory is the next layer, and this is"
+ },
+ {
+  "start": 937.68,
+  "duration": 4.08,
+  "text": "where every agentic tool company is"
+ },
+ {
+  "start": 939.84,
+  "duration": 2.84,
+  "text": "probably investing extensively right"
+ },
+ {
+  "start": 941.76,
+  "duration": 2.68,
+  "text": "now."
+ },
+ {
+  "start": 942.68,
+  "duration": 4.12,
+  "text": "And that is happening for a very good"
+ },
+ {
+  "start": 944.44,
+  "duration": 4.68,
+  "text": "reason because it is clearly one of the"
+ },
+ {
+  "start": 946.8,
+  "duration": 4.68,
+  "text": "biggest unlocks. It's kind of the core"
+ },
+ {
+  "start": 949.12,
+  "duration": 5.24,
+  "text": "part of what makes open claw feel like"
+ },
+ {
+  "start": 951.48,
+  "duration": 4.88,
+  "text": "magic. Claude code recently added auto"
+ },
+ {
+  "start": 954.36,
+  "duration": 4.16,
+  "text": "memory, and cursor has project level"
+ },
+ {
+  "start": 956.36,
+  "duration": 4.8,
+  "text": "memory, and things are changing on a"
+ },
+ {
+  "start": 958.52,
+  "duration": 4.88,
+  "text": "daily basis in the memory front."
+ },
+ {
+  "start": 961.16,
+  "duration": 4.12,
+  "text": "And because it's so important, every"
+ },
+ {
+  "start": 963.4,
+  "duration": 3.44,
+  "text": "tool is racing to improve, and they"
+ },
+ {
+  "start": 965.28,
+  "duration": 3.2,
+  "text": "frequently copy each other's"
+ },
+ {
+  "start": 966.84,
+  "duration": 3.56,
+  "text": "breakthroughs. So, what's currently a"
+ },
+ {
+  "start": 968.48,
+  "duration": 4.8,
+  "text": "limitation in one tool will probably be"
+ },
+ {
+  "start": 970.4,
+  "duration": 5.36,
+  "text": "solved by the next time you go and and"
+ },
+ {
+  "start": 973.28,
+  "duration": 5.36,
+  "text": "look into an a new tool release."
+ },
+ {
+  "start": 975.76,
+  "duration": 5.6,
+  "text": "So, the question is if so many experts"
+ },
+ {
+  "start": 978.64,
+  "duration": 5.48,
+  "text": "are working on memory, what does it mean"
+ },
+ {
+  "start": 981.36,
+  "duration": 4.52,
+  "text": "for you in practical terms? So, first"
+ },
+ {
+  "start": 984.12,
+  "duration": 3.52,
+  "text": "the good news, you can just lean on the"
+ },
+ {
+  "start": 985.88,
+  "duration": 4.12,
+  "text": "existing memory in your tool, and it"
+ },
+ {
+  "start": 987.64,
+  "duration": 4.64,
+  "text": "will keep getting better for sure. But"
+ },
+ {
+  "start": 990.0,
+  "duration": 4.16,
+  "text": "at least as of now, no matter which tool"
+ },
+ {
+  "start": 992.28,
+  "duration": 3.88,
+  "text": "you're using and how well its memory is"
+ },
+ {
+  "start": 994.16,
+  "duration": 4.24,
+  "text": "working, there are a few things that you"
+ },
+ {
+  "start": 996.16,
+  "duration": 4.16,
+  "text": "should do. At the very minimum, I want"
+ },
+ {
+  "start": 998.4,
+  "duration": 5.32,
+  "text": "you to understand how your tool's memory"
+ },
+ {
+  "start": 1000.32,
+  "duration": 5.6,
+  "text": "works. You can ask it directly, \"Explain"
+ },
+ {
+  "start": 1003.72,
+  "duration": 4.119,
+  "text": "how your memory system works. What do"
+ },
+ {
+  "start": 1005.92,
+  "duration": 4.8,
+  "text": "you remember between sessions? What do"
+ },
+ {
+  "start": 1007.839,
+  "duration": 4.321,
+  "text": "you forget?\" You need to know what"
+ },
+ {
+  "start": 1010.72,
+  "duration": 3.4,
+  "text": "you're working with before you can"
+ },
+ {
+  "start": 1012.16,
+  "duration": 4.679,
+  "text": "improve it. And also, you need to know"
+ },
+ {
+  "start": 1014.12,
+  "duration": 4.84,
+  "text": "the limitations. Most tools still have"
+ },
+ {
+  "start": 1016.839,
+  "duration": 4.401,
+  "text": "gaps in core session memory, in what"
+ },
+ {
+  "start": 1018.96,
+  "duration": 4.0,
+  "text": "they retain versus discard, and also in"
+ },
+ {
+  "start": 1021.24,
+  "duration": 4.0,
+  "text": "how context window interact with the"
+ },
+ {
+  "start": 1022.96,
+  "duration": 4.68,
+  "text": "stored memory. So, by understanding the"
+ },
+ {
+  "start": 1025.24,
+  "duration": 4.0,
+  "text": "limitations, you will get significantly"
+ },
+ {
+  "start": 1027.64,
+  "duration": 4.36,
+  "text": "better results."
+ },
+ {
+  "start": 1029.24,
+  "duration": 4.719,
+  "text": "And for the more advanced users, I would"
+ },
+ {
+  "start": 1032.0,
+  "duration": 4.199,
+  "text": "encourage you to add specialized memory"
+ },
+ {
+  "start": 1033.959,
+  "duration": 4.801,
+  "text": "for your work context. So, some people"
+ },
+ {
+  "start": 1036.199,
+  "duration": 4.481,
+  "text": "maintain a running log. Others create"
+ },
+ {
+  "start": 1038.76,
+  "duration": 4.199,
+  "text": "structured memory files."
+ },
+ {
+  "start": 1040.68,
+  "duration": 4.08,
+  "text": "Some people use dedicated memory tools"
+ },
+ {
+  "start": 1042.959,
+  "duration": 3.0,
+  "text": "or MCP servers."
+ },
+ {
+  "start": 1044.76,
+  "duration": 3.319,
+  "text": "What I want you to be is to be"
+ },
+ {
+  "start": 1045.959,
+  "duration": 3.961,
+  "text": "deliberate about what gets remembered."
+ },
+ {
+  "start": 1048.079,
+  "duration": 3.721,
+  "text": "Your agent does remember things on its"
+ },
+ {
+  "start": 1049.92,
+  "duration": 4.32,
+  "text": "own, but it doesn't always pick up the"
+ },
+ {
+  "start": 1051.8,
+  "duration": 4.56,
+  "text": "right things. So, a major decision, a"
+ },
+ {
+  "start": 1054.24,
+  "duration": 4.64,
+  "text": "change in priorities, or the end of a"
+ },
+ {
+  "start": 1056.36,
+  "duration": 4.04,
+  "text": "very long session might not be picked up"
+ },
+ {
+  "start": 1058.88,
+  "duration": 3.84,
+  "text": "properly how you would expect. So, you"
+ },
+ {
+  "start": 1060.4,
+  "duration": 3.64,
+  "text": "should deliberately get the agent to"
+ },
+ {
+  "start": 1062.72,
+  "duration": 3.52,
+  "text": "remember that."
+ },
+ {
+  "start": 1064.04,
+  "duration": 4.4,
+  "text": "And these are the things that you should"
+ },
+ {
+  "start": 1066.24,
+  "duration": 4.56,
+  "text": "make into a habit or even create a"
+ },
+ {
+  "start": 1068.44,
+  "duration": 3.84,
+  "text": "dedicated skill to help your agent"
+ },
+ {
+  "start": 1070.8,
+  "duration": 2.68,
+  "text": "remember the way you like it to"
+ },
+ {
+  "start": 1072.28,
+  "duration": 2.56,
+  "text": "remember."
+ },
+ {
+  "start": 1073.48,
+  "duration": 2.92,
+  "text": "And there is a lot of variance between"
+ },
+ {
+  "start": 1074.84,
+  "duration": 2.44,
+  "text": "the tool. That's something that you need"
+ },
+ {
+  "start": 1076.4,
+  "duration": 3.16,
+  "text": "to know."
+ },
+ {
+  "start": 1077.28,
+  "duration": 3.84,
+  "text": "So, it's a layer that you can probably"
+ },
+ {
+  "start": 1079.56,
+  "duration": 4.28,
+  "text": "deepen over time. You don't need to"
+ },
+ {
+  "start": 1081.12,
+  "duration": 4.28,
+  "text": "solve it on day one, but it the better"
+ },
+ {
+  "start": 1083.84,
+  "duration": 4.36,
+  "text": "the memory works and the better the"
+ },
+ {
+  "start": 1085.4,
+  "duration": 4.92,
+  "text": "overall experience becomes because"
+ },
+ {
+  "start": 1088.2,
+  "duration": 4.8,
+  "text": "memory is what makes every other layer"
+ },
+ {
+  "start": 1090.32,
+  "duration": 4.4,
+  "text": "stick across sessions. If we're going"
+ },
+ {
+  "start": 1093.0,
+  "duration": 4.0,
+  "text": "with our chief of staff, beyond the"
+ },
+ {
+  "start": 1094.72,
+  "duration": 4.48,
+  "text": "general memory, you might want to create"
+ },
+ {
+  "start": 1097.0,
+  "duration": 5.16,
+  "text": "dedicated memory for decision logs. For"
+ },
+ {
+  "start": 1099.2,
+  "duration": 4.92,
+  "text": "example, what was decided, why, what's"
+ },
+ {
+  "start": 1102.16,
+  "duration": 4.4,
+  "text": "the alternatives that we were"
+ },
+ {
+  "start": 1104.12,
+  "duration": 4.4,
+  "text": "contemplating, and so on. We might want"
+ },
+ {
+  "start": 1106.56,
+  "duration": 4.12,
+  "text": "to also include a dedicated memory for"
+ },
+ {
+  "start": 1108.52,
+  "duration": 3.84,
+  "text": "learning about the working processes"
+ },
+ {
+  "start": 1110.68,
+  "duration": 4.6,
+  "text": "because you want the chief of staff to"
+ },
+ {
+  "start": 1112.36,
+  "duration": 4.08,
+  "text": "also own an ongoing improvement. And"
+ },
+ {
+  "start": 1115.28,
+  "duration": 3.2,
+  "text": "perhaps you want to remember"
+ },
+ {
+  "start": 1116.44,
+  "duration": 4.2,
+  "text": "relationship context, how conversation"
+ },
+ {
+  "start": 1118.48,
+  "duration": 4.6,
+  "text": "with a specific stakeholder went, what"
+ },
+ {
+  "start": 1120.64,
+  "duration": 4.8,
+  "text": "they reacted well to, and so on. And"
+ },
+ {
+  "start": 1123.08,
+  "duration": 4.24,
+  "text": "this is more structured than the generic"
+ },
+ {
+  "start": 1125.44,
+  "duration": 3.76,
+  "text": "memory that any tool that you would use"
+ },
+ {
+  "start": 1127.32,
+  "duration": 4.12,
+  "text": "will provide and will really help your"
+ },
+ {
+  "start": 1129.2,
+  "duration": 5.04,
+  "text": "chief of staff agent to be much better"
+ },
+ {
+  "start": 1131.44,
+  "duration": 5.4,
+  "text": "companion and helper for you."
+ },
+ {
+  "start": 1134.24,
+  "duration": 5.16,
+  "text": "So, everything so far has made your AI"
+ },
+ {
+  "start": 1136.84,
+  "duration": 4.16,
+  "text": "smarter about you. We move to the next"
+ },
+ {
+  "start": 1139.4,
+  "duration": 3.72,
+  "text": "layer, which is connections, and that"
+ },
+ {
+  "start": 1141.0,
+  "duration": 4.36,
+  "text": "makes it capable of acting in the real"
+ },
+ {
+  "start": 1143.12,
+  "duration": 4.28,
+  "text": "world. And connections are how your"
+ },
+ {
+  "start": 1145.36,
+  "duration": 4.44,
+  "text": "agent reaches real systems, whether it's"
+ },
+ {
+  "start": 1147.4,
+  "duration": 4.76,
+  "text": "email or calendar, Slack, Jira,"
+ },
+ {
+  "start": 1149.8,
+  "duration": 4.68,
+  "text": "Salesforce, your databases. There are"
+ },
+ {
+  "start": 1152.16,
+  "duration": 4.84,
+  "text": "various ways to get there. We have the"
+ },
+ {
+  "start": 1154.48,
+  "duration": 4.08,
+  "text": "MCPs or model context protocols. This is"
+ },
+ {
+  "start": 1157.0,
+  "duration": 3.84,
+  "text": "the open standard that many tools"
+ },
+ {
+  "start": 1158.56,
+  "duration": 4.48,
+  "text": "support. Recently, we're seeing CLI"
+ },
+ {
+  "start": 1160.84,
+  "duration": 3.6,
+  "text": "tools that give your agent more judgment"
+ },
+ {
+  "start": 1163.04,
+  "duration": 3.48,
+  "text": "to decide how to interact with the"
+ },
+ {
+  "start": 1164.44,
+  "duration": 4.08,
+  "text": "external system on its own. And there's"
+ },
+ {
+  "start": 1166.52,
+  "duration": 4.08,
+  "text": "always the option of direct API or"
+ },
+ {
+  "start": 1168.52,
+  "duration": 3.88,
+  "text": "scripting to get connected. You don't"
+ },
+ {
+  "start": 1170.6,
+  "duration": 4.56,
+  "text": "have to go deep on that to be able to"
+ },
+ {
+  "start": 1172.4,
+  "duration": 4.2,
+  "text": "connect your agent because we're already"
+ },
+ {
+  "start": 1175.16,
+  "duration": 3.2,
+  "text": "seeing that in many tools, whether it's"
+ },
+ {
+  "start": 1176.6,
+  "duration": 4.2,
+  "text": "Cloud Code Desktop or Cursor"
+ },
+ {
+  "start": 1178.36,
+  "duration": 4.6,
+  "text": "Marketplace, they are making connections"
+ },
+ {
+  "start": 1180.8,
+  "duration": 4.08,
+  "text": "progressively easier to set out of the"
+ },
+ {
+  "start": 1182.96,
+  "duration": 3.52,
+  "text": "box. And of course, we with Open Clo,"
+ },
+ {
+  "start": 1184.88,
+  "duration": 3.44,
+  "text": "there are many connections already"
+ },
+ {
+  "start": 1186.48,
+  "duration": 3.56,
+  "text": "enabled as well."
+ },
+ {
+  "start": 1188.32,
+  "duration": 3.56,
+  "text": "So, one thing that I want to say about"
+ },
+ {
+  "start": 1190.04,
+  "duration": 3.4,
+  "text": "connections is I want to encourage you"
+ },
+ {
+  "start": 1191.88,
+  "duration": 4.36,
+  "text": "to start as much as possible with a"
+ },
+ {
+  "start": 1193.44,
+  "duration": 5.96,
+  "text": "read-only access. Before you let your"
+ },
+ {
+  "start": 1196.24,
+  "duration": 6.64,
+  "text": "agents write back into systems, let the"
+ },
+ {
+  "start": 1199.4,
+  "duration": 5.68,
+  "text": "agents only read your calendar or only"
+ },
+ {
+  "start": 1202.88,
+  "duration": 5.6,
+  "text": "read your inbox, not let them send"
+ },
+ {
+  "start": 1205.08,
+  "duration": 5.56,
+  "text": "emails and add calendar and so on. Write"
+ },
+ {
+  "start": 1208.48,
+  "duration": 3.96,
+  "text": "access should be added after you watch"
+ },
+ {
+  "start": 1210.64,
+  "duration": 3.84,
+  "text": "the agent behave for a few weeks and"
+ },
+ {
+  "start": 1212.44,
+  "duration": 4.08,
+  "text": "you'll have enough trust. And it doesn't"
+ },
+ {
+  "start": 1214.48,
+  "duration": 3.68,
+  "text": "matter if it's Open Clo or one of the"
+ },
+ {
+  "start": 1216.52,
+  "duration": 3.4,
+  "text": "commercial tools."
+ },
+ {
+  "start": 1218.16,
+  "duration": 3.84,
+  "text": "The reason why I'm saying that is that"
+ },
+ {
+  "start": 1219.92,
+  "duration": 3.72,
+  "text": "the risk scales with the capability. So,"
+ },
+ {
+  "start": 1222.0,
+  "duration": 3.52,
+  "text": "the more your agents can do in real"
+ },
+ {
+  "start": 1223.64,
+  "duration": 4.28,
+  "text": "systems, the more you need to think"
+ },
+ {
+  "start": 1225.52,
+  "duration": 4.36,
+  "text": "about permissions and security. And this"
+ },
+ {
+  "start": 1227.92,
+  "duration": 4.4,
+  "text": "is real. We're already seeing incidents"
+ },
+ {
+  "start": 1229.88,
+  "duration": 4.92,
+  "text": "on a daily basis. It's not just data"
+ },
+ {
+  "start": 1232.32,
+  "duration": 4.48,
+  "text": "leaks in the traditional sense, but"
+ },
+ {
+  "start": 1234.8,
+  "duration": 4.36,
+  "text": "rather you can imagine an agent that has"
+ },
+ {
+  "start": 1236.8,
+  "duration": 4.64,
+  "text": "access to your company Slack and a very"
+ },
+ {
+  "start": 1239.16,
+  "duration": 4.16,
+  "text": "loose set of permissions. Someone on"
+ },
+ {
+  "start": 1241.44,
+  "duration": 3.88,
+  "text": "your team starts chatting with it and"
+ },
+ {
+  "start": 1243.32,
+  "duration": 3.84,
+  "text": "now the agent is happily sharing your"
+ },
+ {
+  "start": 1245.32,
+  "duration": 4.04,
+  "text": "private notes, your opinions about"
+ },
+ {
+  "start": 1247.16,
+  "duration": 4.52,
+  "text": "colleagues, your draft feedback. So,"
+ },
+ {
+  "start": 1249.36,
+  "duration": 4.88,
+  "text": "it's not a hypothetical risk. Incidents"
+ },
+ {
+  "start": 1251.68,
+  "duration": 4.68,
+  "text": "like that are already happening and the"
+ },
+ {
+  "start": 1254.24,
+  "duration": 4.72,
+  "text": "agents that are gossiping, while being"
+ },
+ {
+  "start": 1256.36,
+  "duration": 4.56,
+  "text": "very funny, they also pose very big risk"
+ },
+ {
+  "start": 1258.96,
+  "duration": 3.56,
+  "text": "for employee privacy."
+ },
+ {
+  "start": 1260.92,
+  "duration": 3.48,
+  "text": "So, use the least privileged"
+ },
+ {
+  "start": 1262.52,
+  "duration": 4.28,
+  "text": "connections. Talk to your IT team if"
+ },
+ {
+  "start": 1264.4,
+  "duration": 5.04,
+  "text": "you're connecting any work systems and"
+ },
+ {
+  "start": 1266.8,
+  "duration": 5.16,
+  "text": "don't be the one creating the cautionary"
+ },
+ {
+  "start": 1269.44,
+  "duration": 4.52,
+  "text": "tales for others in your company."
+ },
+ {
+  "start": 1271.96,
+  "duration": 4.24,
+  "text": "Specifically for your chief of staff, at"
+ },
+ {
+  "start": 1273.96,
+  "duration": 4.24,
+  "text": "the very minimum give it a read access"
+ },
+ {
+  "start": 1276.2,
+  "duration": 4.56,
+  "text": "to the calendar and inbox. And even"
+ },
+ {
+  "start": 1278.2,
+  "duration": 5.04,
+  "text": "better, you can give it a read and write"
+ },
+ {
+  "start": 1280.76,
+  "duration": 4.64,
+  "text": "access on personal task list."
+ },
+ {
+  "start": 1283.24,
+  "duration": 4.0,
+  "text": "If you want to be extra good, you can"
+ },
+ {
+  "start": 1285.4,
+  "duration": 4.08,
+  "text": "give it permission to post draft on"
+ },
+ {
+  "start": 1287.24,
+  "duration": 3.96,
+  "text": "Slack or DM to yourself for approval"
+ },
+ {
+  "start": 1289.48,
+  "duration": 3.52,
+  "text": "before sending."
+ },
+ {
+  "start": 1291.2,
+  "duration": 3.84,
+  "text": "Moving on to the next layer, the worst"
+ },
+ {
+  "start": 1293.0,
+  "duration": 3.96,
+  "text": "thing that happens with your agent OS"
+ },
+ {
+  "start": 1295.04,
+  "duration": 4.08,
+  "text": "isn't that it fails, it's that it works"
+ },
+ {
+  "start": 1296.96,
+  "duration": 4.36,
+  "text": "confidently and wrongly, and you ship"
+ },
+ {
+  "start": 1299.12,
+  "duration": 4.4,
+  "text": "the output before you noticed."
+ },
+ {
+  "start": 1301.32,
+  "duration": 4.56,
+  "text": "And verification is knowing what to"
+ },
+ {
+  "start": 1303.52,
+  "duration": 5.16,
+  "text": "check, and every agent job has its own"
+ },
+ {
+  "start": 1305.88,
+  "duration": 5.96,
+  "text": "very quick test. If you draft emails,"
+ },
+ {
+  "start": 1308.68,
+  "duration": 4.48,
+  "text": "you need to basically tone match or"
+ },
+ {
+  "start": 1311.84,
+  "duration": 4.0,
+  "text": "you need to check that the facts are"
+ },
+ {
+  "start": 1313.16,
+  "duration": 4.32,
+  "text": "correct and so on. If you're doing data"
+ },
+ {
+  "start": 1315.84,
+  "duration": 3.6,
+  "text": "analysis, you have to check the numbers."
+ },
+ {
+  "start": 1317.48,
+  "duration": 3.56,
+  "text": "So, it's very specific to the different"
+ },
+ {
+  "start": 1319.44,
+  "duration": 4.24,
+  "text": "tasks or skills that you give the"
+ },
+ {
+  "start": 1321.04,
+  "duration": 4.8,
+  "text": "agents. I encourage you to do at least"
+ },
+ {
+  "start": 1323.68,
+  "duration": 4.32,
+  "text": "three to five checks. In many cases,"
+ },
+ {
+  "start": 1325.84,
+  "duration": 4.36,
+  "text": "it's it's under a minute to run, and it"
+ },
+ {
+  "start": 1328.0,
+  "duration": 4.48,
+  "text": "will save you a lot of grief after. And"
+ },
+ {
+  "start": 1330.2,
+  "duration": 4.0,
+  "text": "they do get faster with practice. In the"
+ },
+ {
+  "start": 1332.48,
+  "duration": 3.68,
+  "text": "first week, it might be slow when it"
+ },
+ {
+  "start": 1334.2,
+  "duration": 4.04,
+  "text": "might get a little bit frustrating, but"
+ },
+ {
+  "start": 1336.16,
+  "duration": 5.12,
+  "text": "the more time goes by and the more you"
+ },
+ {
+  "start": 1338.24,
+  "duration": 5.48,
+  "text": "trust your agent on low stakes, you can"
+ },
+ {
+  "start": 1341.28,
+  "duration": 5.2,
+  "text": "verify just the high stakes one."
+ },
+ {
+  "start": 1343.72,
+  "duration": 4.84,
+  "text": "And verification is not just about the"
+ },
+ {
+  "start": 1346.48,
+  "duration": 4.24,
+  "text": "individual output. You also need to"
+ },
+ {
+  "start": 1348.56,
+  "duration": 3.48,
+  "text": "improve the system over time. So,"
+ },
+ {
+  "start": 1350.72,
+  "duration": 3.12,
+  "text": "periodically, I want you to do a"
+ },
+ {
+  "start": 1352.04,
+  "duration": 4.0,
+  "text": "retrospective with your agents. Audit"
+ },
+ {
+  "start": 1353.84,
+  "duration": 4.72,
+  "text": "the system and figure out which parts"
+ },
+ {
+  "start": 1356.04,
+  "duration": 4.48,
+  "text": "are under serving you. And maybe there"
+ },
+ {
+  "start": 1358.56,
+  "duration": 3.52,
+  "text": "are skills that are never being called,"
+ },
+ {
+  "start": 1360.52,
+  "duration": 4.16,
+  "text": "or maybe there are context files that"
+ },
+ {
+  "start": 1362.08,
+  "duration": 5.24,
+  "text": "become stale. Maybe some agents need"
+ },
+ {
+  "start": 1364.68,
+  "duration": 4.88,
+  "text": "updated instructions. So, I want you to,"
+ },
+ {
+  "start": 1367.32,
+  "duration": 3.8,
+  "text": "similarly to how you would re-evaluate"
+ },
+ {
+  "start": 1369.56,
+  "duration": 3.2,
+  "text": "your employees or your company"
+ },
+ {
+  "start": 1371.12,
+  "duration": 4.2,
+  "text": "periodically, you will do that also with"
+ },
+ {
+  "start": 1372.76,
+  "duration": 4.52,
+  "text": "your agentic systems. You can do that"
+ },
+ {
+  "start": 1375.32,
+  "duration": 3.56,
+  "text": "either indirectly by auditing your each"
+ },
+ {
+  "start": 1377.28,
+  "duration": 3.96,
+  "text": "and every agent that you build on top of"
+ },
+ {
+  "start": 1378.88,
+  "duration": 4.8,
+  "text": "the system, or you can go directly to"
+ },
+ {
+  "start": 1381.24,
+  "duration": 4.2,
+  "text": "audit the OS layers themselves. And the"
+ },
+ {
+  "start": 1383.68,
+  "duration": 3.8,
+  "text": "great thing about the tools is that they"
+ },
+ {
+  "start": 1385.44,
+  "duration": 3.92,
+  "text": "let you just do it that directly from"
+ },
+ {
+  "start": 1387.48,
+  "duration": 4.64,
+  "text": "the tool. You can literally ask them"
+ },
+ {
+  "start": 1389.36,
+  "duration": 4.24,
+  "text": "what is not being used and so on."
+ },
+ {
+  "start": 1392.12,
+  "duration": 3.64,
+  "text": "And the reason why I'm talking about"
+ },
+ {
+  "start": 1393.6,
+  "duration": 5.6,
+  "text": "this audit discipline in the agent OS"
+ },
+ {
+  "start": 1395.76,
+  "duration": 5.76,
+  "text": "program, it's because it's something"
+ },
+ {
+  "start": 1399.2,
+  "duration": 4.48,
+  "text": "that without it, your OS has a shelf"
+ },
+ {
+  "start": 1401.52,
+  "duration": 3.6,
+  "text": "life of maybe 8 weeks before everything"
+ },
+ {
+  "start": 1403.68,
+  "duration": 4.12,
+  "text": "goes stale."
+ },
+ {
+  "start": 1405.12,
+  "duration": 4.84,
+  "text": "And with it, your OS compounds even"
+ },
+ {
+  "start": 1407.8,
+  "duration": 4.24,
+  "text": "further and forever."
+ },
+ {
+  "start": 1409.96,
+  "duration": 4.08,
+  "text": "All right, top of the stack. And a great"
+ },
+ {
+  "start": 1412.04,
+  "duration": 3.96,
+  "text": "addition, not a mandatory one, is to add"
+ },
+ {
+  "start": 1414.04,
+  "duration": 4.08,
+  "text": "automations. Those are things that the"
+ },
+ {
+  "start": 1416.0,
+  "duration": 3.72,
+  "text": "agents can run when you're not watching."
+ },
+ {
+  "start": 1418.12,
+  "duration": 3.76,
+  "text": "Whether it's a daily summary every"
+ },
+ {
+  "start": 1419.72,
+  "duration": 4.56,
+  "text": "morning at 7:00 a.m., a monitoring task"
+ },
+ {
+  "start": 1421.88,
+  "duration": 3.96,
+  "text": "that's being slacked, or anything else"
+ },
+ {
+  "start": 1424.28,
+  "duration": 3.32,
+  "text": "that you can think of. They are very"
+ },
+ {
+  "start": 1425.84,
+  "duration": 4.4,
+  "text": "powerful, and of course with Open Core,"
+ },
+ {
+  "start": 1427.6,
+  "duration": 4.84,
+  "text": "we also have heartbeat and cron jobs for"
+ },
+ {
+  "start": 1430.24,
+  "duration": 4.96,
+  "text": "the ones who are involved with that."
+ },
+ {
+  "start": 1432.44,
+  "duration": 4.72,
+  "text": "However, this is the layer that creates"
+ },
+ {
+  "start": 1435.2,
+  "duration": 3.64,
+  "text": "a lot of risk if you're not careful,"
+ },
+ {
+  "start": 1437.16,
+  "duration": 3.52,
+  "text": "because an agent that is running at 3:00"
+ },
+ {
+  "start": 1438.84,
+  "duration": 4.04,
+  "text": "a.m. with a wrong answer"
+ },
+ {
+  "start": 1440.68,
+  "duration": 4.4,
+  "text": "can do damage before you wake up. So, a"
+ },
+ {
+  "start": 1442.88,
+  "duration": 4.44,
+  "text": "few rules with regards to automations."
+ },
+ {
+  "start": 1445.08,
+  "duration": 4.64,
+  "text": "Only automate workflows you have run"
+ },
+ {
+  "start": 1447.32,
+  "duration": 3.76,
+  "text": "manually enough times and trust. Second,"
+ },
+ {
+  "start": 1449.72,
+  "duration": 3.72,
+  "text": "I want you to start with automations"
+ },
+ {
+  "start": 1451.08,
+  "duration": 4.24,
+  "text": "that produce draft for you to review,"
+ },
+ {
+  "start": 1453.44,
+  "duration": 5.08,
+  "text": "not outputs that go directly to other"
+ },
+ {
+  "start": 1455.32,
+  "duration": 6.36,
+  "text": "people. And lastly, always add logs. You"
+ },
+ {
+  "start": 1458.52,
+  "duration": 4.84,
+  "text": "need to know what ran and what it did as"
+ },
+ {
+  "start": 1461.68,
+  "duration": 3.92,
+  "text": "it it was running."
+ },
+ {
+  "start": 1463.36,
+  "duration": 4.88,
+  "text": "And finally, here's where the whole"
+ },
+ {
+  "start": 1465.6,
+  "duration": 4.92,
+  "text": "thing clicks. Once you build your OS,"
+ },
+ {
+  "start": 1468.24,
+  "duration": 4.48,
+  "text": "agents become cheap. Because your first"
+ },
+ {
+  "start": 1470.52,
+  "duration": 4.56,
+  "text": "agent is hard as you're building the"
+ },
+ {
+  "start": 1472.72,
+  "duration": 4.6,
+  "text": "agent OS and the agent itself, probably"
+ },
+ {
+  "start": 1475.08,
+  "duration": 4.0,
+  "text": "at the same time. Your chief of staff"
+ },
+ {
+  "start": 1477.32,
+  "duration": 3.2,
+  "text": "maybe took you a weekend, but the second"
+ },
+ {
+  "start": 1479.08,
+  "duration": 4.08,
+  "text": "agent that is built on top of this"
+ },
+ {
+  "start": 1480.52,
+  "duration": 4.64,
+  "text": "system, maybe it's a research agent or a"
+ },
+ {
+  "start": 1483.16,
+  "duration": 4.0,
+  "text": "board prep agent, that takes you an"
+ },
+ {
+  "start": 1485.16,
+  "duration": 3.6,
+  "text": "afternoon, because it inherits"
+ },
+ {
+  "start": 1487.16,
+  "duration": 3.72,
+  "text": "everything that is relevant, and it"
+ },
+ {
+  "start": 1488.76,
+  "duration": 4.44,
+  "text": "already knows you, and it knows your"
+ },
+ {
+  "start": 1490.88,
+  "duration": 4.04,
+  "text": "context, it knows your voice. And you're"
+ },
+ {
+  "start": 1493.2,
+  "duration": 3.36,
+  "text": "only adding a job description and a few"
+ },
+ {
+  "start": 1494.92,
+  "duration": 3.16,
+  "text": "specific skills."
+ },
+ {
+  "start": 1496.56,
+  "duration": 3.6,
+  "text": "And from here on after, your third, your"
+ },
+ {
+  "start": 1498.08,
+  "duration": 4.2,
+  "text": "fifth, your and so on, they are each"
+ },
+ {
+  "start": 1500.16,
+  "duration": 3.8,
+  "text": "becoming faster and faster."
+ },
+ {
+  "start": 1502.28,
+  "duration": 3.68,
+  "text": "So, this is the compounding return and"
+ },
+ {
+  "start": 1503.96,
+  "duration": 4.36,
+  "text": "why I'm so bullish on the agentic"
+ },
+ {
+  "start": 1505.96,
+  "duration": 5.2,
+  "text": "operating system, and it matters more"
+ },
+ {
+  "start": 1508.32,
+  "duration": 4.6,
+  "text": "than the agents or the tools themselves."
+ },
+ {
+  "start": 1511.16,
+  "duration": 4.12,
+  "text": "So, this is my system. I mentioned"
+ },
+ {
+  "start": 1512.92,
+  "duration": 4.44,
+  "text": "Chloe, my chief of staff. She was one of"
+ },
+ {
+  "start": 1515.28,
+  "duration": 3.72,
+  "text": "the first that I built. After that, I"
+ },
+ {
+  "start": 1517.36,
+  "duration": 3.6,
+  "text": "also built specialist agents for"
+ },
+ {
+  "start": 1519.0,
+  "duration": 4.36,
+  "text": "content, for technical building, for"
+ },
+ {
+  "start": 1520.96,
+  "duration": 4.84,
+  "text": "platform work, and so on. They all share"
+ },
+ {
+  "start": 1523.36,
+  "duration": 4.12,
+  "text": "state to a central hub. They all share"
+ },
+ {
+  "start": 1525.8,
+  "duration": 4.44,
+  "text": "the same agentic operating system, and"
+ },
+ {
+  "start": 1527.48,
+  "duration": 4.72,
+  "text": "my chief of staff sees the specialist"
+ },
+ {
+  "start": 1530.24,
+  "duration": 4.44,
+  "text": "and what they're doing using the shared"
+ },
+ {
+  "start": 1532.2,
+  "duration": 5.64,
+  "text": "hub for a different episode, but just"
+ },
+ {
+  "start": 1534.68,
+  "duration": 7.48,
+  "text": "showing that I practice what I preach."
+ },
+ {
+  "start": 1537.84,
+  "duration": 7.0,
+  "text": "And this is exactly the sequence of what"
+ },
+ {
+  "start": 1542.16,
+  "duration": 3.52,
+  "text": "our agent OS free program walks you"
+ },
+ {
+  "start": 1544.84,
+  "duration": 3.44,
+  "text": "through."
+ },
+ {
+  "start": 1545.68,
+  "duration": 4.8,
+  "text": "10 build project, any agentic tool that"
+ },
+ {
+  "start": 1548.28,
+  "duration": 4.08,
+  "text": "you want, bring your own. It's totally"
+ },
+ {
+  "start": 1550.48,
+  "duration": 4.08,
+  "text": "free, and the link will be shared in the"
+ },
+ {
+  "start": 1552.36,
+  "duration": 5.32,
+  "text": "show notes and in the AIDB training"
+ },
+ {
+  "start": 1554.56,
+  "duration": 4.96,
+  "text": "website. And lastly, while the tools"
+ },
+ {
+  "start": 1557.68,
+  "duration": 3.88,
+  "text": "keep changing, they will keep"
+ },
+ {
+  "start": 1559.52,
+  "duration": 3.68,
+  "text": "converging, and the next one that we"
+ },
+ {
+  "start": 1561.56,
+  "duration": 3.0,
+  "text": "launch before you finish learning the"
+ },
+ {
+  "start": 1563.2,
+  "duration": 4.2,
+  "text": "current one,"
+ },
+ {
+  "start": 1564.56,
+  "duration": 6.12,
+  "text": "that doesn't matter. The part that does"
+ },
+ {
+  "start": 1567.4,
+  "duration": 5.08,
+  "text": "matter is that your OS travels with you."
+ },
+ {
+  "start": 1570.68,
+  "duration": 3.4,
+  "text": "And every tool swap, and every new"
+ },
+ {
+  "start": 1572.48,
+  "duration": 3.84,
+  "text": "agent, and every new capability that"
+ },
+ {
+  "start": 1574.08,
+  "duration": 4.84,
+  "text": "drops next month, it all lands on the"
+ },
+ {
+  "start": 1576.32,
+  "duration": 4.64,
+  "text": "same foundation. The people who build"
+ },
+ {
+  "start": 1578.92,
+  "duration": 4.28,
+  "text": "that foundation now will basically have"
+ },
+ {
+  "start": 1580.96,
+  "duration": 3.96,
+  "text": "it compound from here on after, and"
+ },
+ {
+  "start": 1583.2,
+  "duration": 4.68,
+  "text": "everyone else will keep starting over"
+ },
+ {
+  "start": 1584.92,
+  "duration": 4.96,
+  "text": "with new tools. So, if your question is"
+ },
+ {
+  "start": 1587.88,
+  "duration": 4.36,
+  "text": "how do I roll this out across an entire"
+ },
+ {
+  "start": 1589.88,
+  "duration": 5.16,
+  "text": "organization, that's what we do with"
+ },
+ {
+  "start": 1592.24,
+  "duration": 5.24,
+  "text": "enterprise claw, but today was personal"
+ },
+ {
+  "start": 1595.04,
+  "duration": 4.72,
+  "text": "and start with agent OS program."
+ },
+ {
+  "start": 1597.48,
+  "duration": 3.72,
+  "text": "And that's that. See you in the build"
+ },
+ {
+  "start": 1599.76,
+  "duration": 2.88,
+  "text": "log."
+ },
+ {
+  "start": 1601.2,
+  "duration": 2.84,
+  "text": "This is great. I you know, I I was"
+ },
+ {
+  "start": 1602.64,
+  "duration": 3.76,
+  "text": "thinking about this as you were as you"
+ },
+ {
+  "start": 1604.04,
+  "duration": 4.6,
+  "text": "were just closing this out. The three"
+ },
+ {
+  "start": 1606.4,
+  "duration": 4.92,
+  "text": "free programs that we've now released"
+ },
+ {
+  "start": 1608.64,
+  "duration": 6.32,
+  "text": "really show just how quickly things have"
+ },
+ {
+  "start": 1611.32,
+  "duration": 6.8,
+  "text": "evolved this year. AIDB New Year was 10"
+ },
+ {
+  "start": 1614.96,
+  "duration": 4.8,
+  "text": "fairly disconnected projects that"
+ },
+ {
+  "start": 1618.12,
+  "duration": 4.44,
+  "text": "represented all each kind of a"
+ },
+ {
+  "start": 1619.76,
+  "duration": 4.64,
+  "text": "foundational skill set for something"
+ },
+ {
+  "start": 1622.56,
+  "duration": 3.12,
+  "text": "with AI. But they're very disconnected."
+ },
+ {
+  "start": 1624.4,
+  "duration": 3.4,
+  "text": "It's like a little image generation over"
+ },
+ {
+  "start": 1625.68,
+  "duration": 4.24,
+  "text": "here, a little, you know, writing model"
+ },
+ {
+  "start": 1627.8,
+  "duration": 3.96,
+  "text": "selection over here. And the one thing"
+ },
+ {
+  "start": 1629.92,
+  "duration": 4.44,
+  "text": "that almost sort of presaged what would"
+ },
+ {
+  "start": 1631.76,
+  "duration": 5.24,
+  "text": "come next was the first project, project"
+ },
+ {
+  "start": 1634.36,
+  "duration": 3.96,
+  "text": "zero, was building yourself a companion"
+ },
+ {
+  "start": 1637.0,
+  "duration": 2.92,
+  "text": "tracker"
+ },
+ {
+  "start": 1638.32,
+  "duration": 3.0,
+  "text": "with lovable or replit or something like"
+ },
+ {
+  "start": 1639.92,
+  "duration": 2.92,
+  "text": "that, right? One of the very basic five"
+ },
+ {
+  "start": 1641.32,
+  "duration": 2.68,
+  "text": "coding tools. Some people used cloud"
+ },
+ {
+  "start": 1642.84,
+  "duration": 3.12,
+  "text": "code, but most people were using"
+ },
+ {
+  "start": 1644.0,
+  "duration": 3.44,
+  "text": "something even simpler than that. And"
+ },
+ {
+  "start": 1645.96,
+  "duration": 4.68,
+  "text": "then just a month and a half later or"
+ },
+ {
+  "start": 1647.44,
+  "duration": 5.76,
+  "text": "so, we were into the realm of open claw."
+ },
+ {
+  "start": 1650.64,
+  "duration": 4.76,
+  "text": "And the claw camp program was really it"
+ },
+ {
+  "start": 1653.2,
+  "duration": 3.56,
+  "text": "shared a lot of these pieces, but"
+ },
+ {
+  "start": 1655.4,
+  "duration": 4.24,
+  "text": "obviously it was designed very"
+ },
+ {
+  "start": 1656.76,
+  "duration": 4.92,
+  "text": "specifically around a particular tool"
+ },
+ {
+  "start": 1659.64,
+  "duration": 3.76,
+  "text": "that lots of people were using. And"
+ },
+ {
+  "start": 1661.68,
+  "duration": 3.88,
+  "text": "what's become clear now, and I think"
+ },
+ {
+  "start": 1663.4,
+  "duration": 3.44,
+  "text": "what this represents the next evolution"
+ },
+ {
+  "start": 1665.56,
+  "duration": 3.44,
+  "text": "of, is"
+ },
+ {
+  "start": 1666.84,
+  "duration": 3.36,
+  "text": "that it's not about the tool, it's not"
+ },
+ {
+  "start": 1669.0,
+  "duration": 3.4,
+  "text": "about the model, it's not about the"
+ },
+ {
+  "start": 1670.2,
+  "duration": 3.52,
+  "text": "harness. It is going to be about going"
+ },
+ {
+  "start": 1672.4,
+  "duration": 3.68,
+  "text": "forward these systems that sit"
+ },
+ {
+  "start": 1673.72,
+  "duration": 4.32,
+  "text": "underneath and that allow you to swap in"
+ },
+ {
+  "start": 1676.08,
+  "duration": 4.6,
+  "text": "harnesses, swap out harnesses, swap in"
+ },
+ {
+  "start": 1678.04,
+  "duration": 4.12,
+  "text": "models, swap out models. And you know,"
+ },
+ {
+  "start": 1680.68,
+  "duration": 3.36,
+  "text": "it'll be interesting to see how much in"
+ },
+ {
+  "start": 1682.16,
+  "duration": 3.96,
+  "text": "the future we keep layering on new"
+ },
+ {
+  "start": 1684.04,
+  "duration": 4.04,
+  "text": "programs versus expanding this one and"
+ },
+ {
+  "start": 1686.12,
+  "duration": 3.92,
+  "text": "others, but I think this is a great tool"
+ },
+ {
+  "start": 1688.08,
+  "duration": 3.68,
+  "text": "for people who are getting deeper into"
+ },
+ {
+  "start": 1690.04,
+  "duration": 3.56,
+  "text": "this space and who want to be able to be"
+ },
+ {
+  "start": 1691.76,
+  "duration": 4.08,
+  "text": "flexible and dynamic as the whole"
+ },
+ {
+  "start": 1693.6,
+  "duration": 4.2,
+  "text": "industry evolves. And get more value out"
+ },
+ {
+  "start": 1695.84,
+  "duration": 3.56,
+  "text": "of any harness and any tool and any"
+ },
+ {
+  "start": 1697.8,
+  "duration": 2.88,
+  "text": "model they choose."
+ },
+ {
+  "start": 1699.4,
+  "duration": 4.88,
+  "text": "Nofar, always great to have you on the"
+ },
+ {
+  "start": 1700.68,
+  "duration": 3.6,
+  "text": "show. Thanks so much for hanging out."
+ }
+]

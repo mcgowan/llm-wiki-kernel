@@ -1,0 +1,4287 @@
+[
+ {
+  "start": 0.48,
+  "duration": 4.88,
+  "text": "Today on the AI Daily Brief, a surprise"
+ },
+ {
+  "start": 2.84,
+  "duration": 5.16,
+  "text": "team-up between Elon and Anthropic could"
+ },
+ {
+  "start": 5.36,
+  "duration": 4.04,
+  "text": "totally reshape the AI race. And before"
+ },
+ {
+  "start": 8.0,
+  "duration": 3.2,
+  "text": "that, in the headlines, sort of, it's"
+ },
+ {
+  "start": 9.4,
+  "duration": 3.04,
+  "text": "kind of all one big episode today,"
+ },
+ {
+  "start": 11.2,
+  "duration": 3.16,
+  "text": "everything that was announced at the"
+ },
+ {
+  "start": 12.44,
+  "duration": 3.92,
+  "text": "Code with Claude Anthropic event"
+ },
+ {
+  "start": 14.36,
+  "duration": 3.52,
+  "text": "yesterday. The AI Daily Brief is a daily"
+ },
+ {
+  "start": 16.36,
+  "duration": 5.32,
+  "text": "podcast and video about the most"
+ },
+ {
+  "start": 17.88,
+  "duration": 5.84,
+  "text": "important news and discussions in AI."
+ },
+ {
+  "start": 21.68,
+  "duration": 5.52,
+  "text": "Welcome back to the AI Daily Brief, and"
+ },
+ {
+  "start": 23.72,
+  "duration": 5.6,
+  "text": "my goodness, do we have a big one today?"
+ },
+ {
+  "start": 27.2,
+  "duration": 4.0,
+  "text": "Yesterday was Anthropic's developer day,"
+ },
+ {
+  "start": 29.32,
+  "duration": 3.52,
+  "text": "and so I knew that today's episode was"
+ },
+ {
+  "start": 31.2,
+  "duration": 3.32,
+  "text": "going to be all about whatever it was"
+ },
+ {
+  "start": 32.84,
+  "duration": 3.84,
+  "text": "that they announced. Now, there were"
+ },
+ {
+  "start": 34.52,
+  "duration": 3.44,
+  "text": "some really interesting things, and in"
+ },
+ {
+  "start": 36.68,
+  "duration": 2.76,
+  "text": "many ways, I think you can view their"
+ },
+ {
+  "start": 37.96,
+  "duration": 3.36,
+  "text": "conference as a really interesting"
+ },
+ {
+  "start": 39.44,
+  "duration": 3.24,
+  "text": "indication of where companies are with"
+ },
+ {
+  "start": 41.32,
+  "duration": 2.8,
+  "text": "agents, the problems they're trying to"
+ },
+ {
+  "start": 42.68,
+  "duration": 3.72,
+  "text": "work on, and the significance of"
+ },
+ {
+  "start": 44.12,
+  "duration": 4.0,
+  "text": "harnesses in the AI race."
+ },
+ {
+  "start": 46.4,
+  "duration": 3.2,
+  "text": "But when it comes to the AI race,"
+ },
+ {
+  "start": 48.12,
+  "duration": 4.4,
+  "text": "everything that was announced at Dev Day"
+ },
+ {
+  "start": 49.6,
+  "duration": 5.16,
+  "text": "was absolutely drowned out by the"
+ },
+ {
+  "start": 52.52,
+  "duration": 4.72,
+  "text": "surprise announcement of an Elon Musk,"
+ },
+ {
+  "start": 54.76,
+  "duration": 3.56,
+  "text": "SpaceX, and Anthropic team-up. So, what"
+ },
+ {
+  "start": 57.24,
+  "duration": 2.56,
+  "text": "we're going to do today is we're not"
+ },
+ {
+  "start": 58.32,
+  "duration": 3.44,
+  "text": "going to strictly divide this into"
+ },
+ {
+  "start": 59.8,
+  "duration": 4.0,
+  "text": "headlines and main, but instead, the"
+ },
+ {
+  "start": 61.76,
+  "duration": 3.479,
+  "text": "practical tool and tech-related"
+ },
+ {
+  "start": 63.8,
+  "duration": 3.12,
+  "text": "announcements from Dev Day are"
+ },
+ {
+  "start": 65.239,
+  "duration": 3.201,
+  "text": "effectively the headlines, while the"
+ },
+ {
+  "start": 66.92,
+  "duration": 3.08,
+  "text": "Elon-Anthro story is going to be the"
+ },
+ {
+  "start": 68.44,
+  "duration": 3.36,
+  "text": "equivalent of the main."
+ },
+ {
+  "start": 70.0,
+  "duration": 3.56,
+  "text": "But let's talk about Dev Day, because I"
+ },
+ {
+  "start": 71.8,
+  "duration": 3.4,
+  "text": "don't want to undersell how interesting"
+ },
+ {
+  "start": 73.56,
+  "duration": 3.6,
+  "text": "it was, even though the other thing is"
+ },
+ {
+  "start": 75.2,
+  "duration": 3.12,
+  "text": "dominating the conversation."
+ },
+ {
+  "start": 77.16,
+  "duration": 2.48,
+  "text": "Right from the beginning, you could tell"
+ },
+ {
+  "start": 78.32,
+  "duration": 2.76,
+  "text": "where the emphasis was going to be in"
+ },
+ {
+  "start": 79.64,
+  "duration": 3.2,
+  "text": "this event, given that they called it"
+ },
+ {
+  "start": 81.08,
+  "duration": 3.88,
+  "text": "Code with Claude."
+ },
+ {
+  "start": 82.84,
+  "duration": 4.16,
+  "text": "Now, at last year's event, Anthropic"
+ },
+ {
+  "start": 84.96,
+  "duration": 4.84,
+  "text": "rolled out Sonnet 4 and Opus 4, which"
+ },
+ {
+  "start": 87.0,
+  "duration": 5.52,
+  "text": "was their response to OpenAI's 03. This"
+ },
+ {
+  "start": 89.8,
+  "duration": 4.48,
+  "text": "year, there was no big model release. We"
+ },
+ {
+  "start": 92.52,
+  "duration": 3.76,
+  "text": "didn't get a public rollout for Mythos,"
+ },
+ {
+  "start": 94.28,
+  "duration": 4.2,
+  "text": "or even a hint of when and how that"
+ },
+ {
+  "start": 96.28,
+  "duration": 4.92,
+  "text": "might happen. Nor did we get any hints"
+ },
+ {
+  "start": 98.48,
+  "duration": 3.8,
+  "text": "about Opus 4.8 or 4.9 or anything in the"
+ },
+ {
+  "start": 101.2,
+  "duration": 3.76,
+  "text": "line."
+ },
+ {
+  "start": 102.28,
+  "duration": 4.68,
+  "text": "Instead, the focus was squarely on"
+ },
+ {
+  "start": 104.96,
+  "duration": 3.84,
+  "text": "agents and the applications built around"
+ },
+ {
+  "start": 106.96,
+  "duration": 4.68,
+  "text": "Anthropic's models, which I think"
+ },
+ {
+  "start": 108.8,
+  "duration": 5.44,
+  "text": "reflects how competition has changed in"
+ },
+ {
+  "start": 111.64,
+  "duration": 4.32,
+  "text": "AI over the last 6 months."
+ },
+ {
+  "start": 114.24,
+  "duration": 3.92,
+  "text": "It would be insane to say that models"
+ },
+ {
+  "start": 115.96,
+  "duration": 3.8,
+  "text": "don't matter at this point. Most"
+ },
+ {
+  "start": 118.16,
+  "duration": 5.16,
+  "text": "high-value production use cases are of"
+ },
+ {
+  "start": 119.76,
+  "duration": 5.92,
+  "text": "course using either Opus 47 or GPT-55,"
+ },
+ {
+  "start": 123.32,
+  "duration": 4.56,
+  "text": "and the advances specifically of GPT-55"
+ },
+ {
+  "start": 125.68,
+  "duration": 4.4,
+  "text": "have helped OpenAI significantly reclaim"
+ },
+ {
+  "start": 127.88,
+  "duration": 3.68,
+  "text": "some narrative space. And yet, if you"
+ },
+ {
+  "start": 130.08,
+  "duration": 3.96,
+  "text": "had to put your finger on the important"
+ },
+ {
+  "start": 131.56,
+  "duration": 4.76,
+  "text": "competition of 2026, it's been way more"
+ },
+ {
+  "start": 134.04,
+  "duration": 4.76,
+  "text": "about Codex versus Claude Code than it"
+ },
+ {
+  "start": 136.32,
+  "duration": 3.68,
+  "text": "has been about Opus versus GPT."
+ },
+ {
+  "start": 138.8,
+  "duration": 3.64,
+  "text": "And I think what we're starting to see"
+ },
+ {
+  "start": 140.0,
+  "duration": 4.24,
+  "text": "is the next evolution in the process."
+ },
+ {
+  "start": 142.44,
+  "duration": 3.8,
+  "text": "Increasingly, you see Claude Code"
+ },
+ {
+  "start": 144.24,
+  "duration": 3.6,
+  "text": "evolving into an ecosystem of agent"
+ },
+ {
+  "start": 146.24,
+  "duration": 3.8,
+  "text": "harnesses that are tuned for particular"
+ },
+ {
+  "start": 147.84,
+  "duration": 3.96,
+  "text": "workflows. That process began with"
+ },
+ {
+  "start": 150.04,
+  "duration": 3.12,
+  "text": "Co-work, but has been refined into even"
+ },
+ {
+  "start": 151.8,
+  "duration": 3.32,
+  "text": "more specific workflows like Claude"
+ },
+ {
+  "start": 153.16,
+  "duration": 3.56,
+  "text": "Design. And while OpenAI is taking a"
+ },
+ {
+  "start": 155.12,
+  "duration": 3.6,
+  "text": "different approach with Codex, trying to"
+ },
+ {
+  "start": 156.72,
+  "duration": 3.76,
+  "text": "centralize all the activity in that one"
+ },
+ {
+  "start": 158.72,
+  "duration": 2.8,
+  "text": "app space, you are at least seeing"
+ },
+ {
+  "start": 160.48,
+  "duration": 3.08,
+  "text": "little hints of this harness"
+ },
+ {
+  "start": 161.52,
+  "duration": 3.68,
+  "text": "customization, for example, in the form"
+ },
+ {
+  "start": 163.56,
+  "duration": 3.56,
+  "text": "of Codex's quick-start profiles for"
+ },
+ {
+  "start": 165.2,
+  "duration": 3.8,
+  "text": "various different professions."
+ },
+ {
+  "start": 167.12,
+  "duration": 4.0,
+  "text": "But when it comes to what was announced"
+ },
+ {
+  "start": 169.0,
+  "duration": 4.48,
+  "text": "at Code with Claude this week, it reads"
+ },
+ {
+  "start": 171.12,
+  "duration": 3.64,
+  "text": "like a map of the key challenges of"
+ },
+ {
+  "start": 173.48,
+  "duration": 3.28,
+  "text": "agents."
+ },
+ {
+  "start": 174.76,
+  "duration": 4.12,
+  "text": "We have features focused on memory,"
+ },
+ {
+  "start": 176.76,
+  "duration": 3.4,
+  "text": "features focused on quality review, and"
+ },
+ {
+  "start": 178.88,
+  "duration": 3.52,
+  "text": "even some hints towards a future"
+ },
+ {
+  "start": 180.16,
+  "duration": 3.88,
+  "text": "question of continual learning."
+ },
+ {
+  "start": 182.4,
+  "duration": 3.52,
+  "text": "The centrally releases were all around"
+ },
+ {
+  "start": 184.04,
+  "duration": 2.76,
+  "text": "Claude managed agents."
+ },
+ {
+  "start": 185.92,
+  "duration": 2.599,
+  "text": "Now, for those who don't remember,"
+ },
+ {
+  "start": 186.8,
+  "duration": 3.68,
+  "text": "managed agents are Anthropic's way of"
+ },
+ {
+  "start": 188.519,
+  "duration": 3.881,
+  "text": "allowing users to piggyback on"
+ },
+ {
+  "start": 190.48,
+  "duration": 3.44,
+  "text": "Anthropic's infrastructure for all the"
+ },
+ {
+  "start": 192.4,
+  "duration": 2.559,
+  "text": "ancillary services that make an agent"
+ },
+ {
+  "start": 193.92,
+  "duration": 2.64,
+  "text": "work."
+ },
+ {
+  "start": 194.959,
+  "duration": 3.441,
+  "text": "The initial launch in April was about"
+ },
+ {
+  "start": 196.56,
+  "duration": 3.72,
+  "text": "providing agents with a sandbox, state"
+ },
+ {
+  "start": 198.4,
+  "duration": 2.92,
+  "text": "management, and error recovery, with one"
+ },
+ {
+  "start": 200.28,
+  "duration": 2.959,
+  "text": "of the big changes being that"
+ },
+ {
+  "start": 201.32,
+  "duration": 3.48,
+  "text": "user-created agents could access a cloud"
+ },
+ {
+  "start": 203.239,
+  "duration": 4.201,
+  "text": "computer rather than needing to operate"
+ },
+ {
+  "start": 204.8,
+  "duration": 4.159,
+  "text": "solely on a local desktop session. I.E.,"
+ },
+ {
+  "start": 207.44,
+  "duration": 2.76,
+  "text": "instead of giving your agent a Mac mini"
+ },
+ {
+  "start": 208.959,
+  "duration": 2.521,
+  "text": "to work from, you could just spin up a"
+ },
+ {
+  "start": 210.2,
+  "duration": 2.64,
+  "text": "cloud instance on Anthropic's"
+ },
+ {
+  "start": 211.48,
+  "duration": 2.96,
+  "text": "infrastructure."
+ },
+ {
+  "start": 212.84,
+  "duration": 3.32,
+  "text": "Now, very clearly, managed agents was"
+ },
+ {
+  "start": 214.44,
+  "duration": 3.2,
+  "text": "one indication of the harness as a"
+ },
+ {
+  "start": 216.16,
+  "duration": 3.0,
+  "text": "service moment that I called out in an"
+ },
+ {
+  "start": 217.64,
+  "duration": 3.44,
+  "text": "episode a couple of weeks ago, where the"
+ },
+ {
+  "start": 219.16,
+  "duration": 4.0,
+  "text": "big labs are effectively taking a lot of"
+ },
+ {
+  "start": 221.08,
+  "duration": 3.879,
+  "text": "the capability set of open, highly"
+ },
+ {
+  "start": 223.16,
+  "duration": 3.84,
+  "text": "configurable, but highly complex tools"
+ },
+ {
+  "start": 224.959,
+  "duration": 3.361,
+  "text": "like Open Claude or Hermes, and bringing"
+ },
+ {
+  "start": 227.0,
+  "duration": 2.68,
+  "text": "that more easily into their native"
+ },
+ {
+  "start": 228.32,
+  "duration": 2.639,
+  "text": "offerings."
+ },
+ {
+  "start": 229.68,
+  "duration": 3.16,
+  "text": "And interestingly, some of the features"
+ },
+ {
+  "start": 230.959,
+  "duration": 3.561,
+  "text": "that Anthropic announced yesterday"
+ },
+ {
+  "start": 232.84,
+  "duration": 3.16,
+  "text": "continue to take their cues from things"
+ },
+ {
+  "start": 234.52,
+  "duration": 2.92,
+  "text": "that have been experimented with in that"
+ },
+ {
+  "start": 236.0,
+  "duration": 2.76,
+  "text": "open space."
+ },
+ {
+  "start": 237.44,
+  "duration": 3.56,
+  "text": "The first big new feature is something"
+ },
+ {
+  "start": 238.76,
+  "duration": 4.24,
+  "text": "that Anthropic is calling dreaming, a"
+ },
+ {
+  "start": 241.0,
+  "duration": 3.92,
+  "text": "quote scheduled process that reviews"
+ },
+ {
+  "start": 243.0,
+  "duration": 4.04,
+  "text": "your agent sessions and memory stores,"
+ },
+ {
+  "start": 244.92,
+  "duration": 4.52,
+  "text": "extract patterns and curates memories so"
+ },
+ {
+  "start": 247.04,
+  "duration": 4.56,
+  "text": "your agents improve over time."
+ },
+ {
+  "start": 249.44,
+  "duration": 4.16,
+  "text": "Now, dreaming is essentially a memory"
+ },
+ {
+  "start": 251.6,
+  "duration": 3.64,
+  "text": "management system of a fashion. It's"
+ },
+ {
+  "start": 253.6,
+  "duration": 3.919,
+  "text": "effectively a scheduled memory review"
+ },
+ {
+  "start": 255.24,
+  "duration": 4.279,
+  "text": "that runs between sessions and which as"
+ },
+ {
+  "start": 257.519,
+  "duration": 3.481,
+  "text": "Anthropic puts it, surfaces patterns"
+ },
+ {
+  "start": 259.519,
+  "duration": 3.641,
+  "text": "that a single agent can't see on its"
+ },
+ {
+  "start": 261.0,
+  "duration": 4.12,
+  "text": "own, including recurring mistakes,"
+ },
+ {
+  "start": 263.16,
+  "duration": 4.24,
+  "text": "workflows that agents converge on, and"
+ },
+ {
+  "start": 265.12,
+  "duration": 4.48,
+  "text": "preferences shared across a team."
+ },
+ {
+  "start": 267.4,
+  "duration": 4.12,
+  "text": "They continue, it also restructures"
+ },
+ {
+  "start": 269.6,
+  "duration": 3.28,
+  "text": "memory so it stays high signal as it"
+ },
+ {
+  "start": 271.52,
+  "duration": 3.399,
+  "text": "evolves."
+ },
+ {
+  "start": 272.88,
+  "duration": 4.12,
+  "text": "The core idea is to allow agents to not"
+ },
+ {
+  "start": 274.919,
+  "duration": 3.521,
+  "text": "only deliver their completed task, but"
+ },
+ {
+  "start": 277.0,
+  "duration": 3.88,
+  "text": "also to report what they learned while"
+ },
+ {
+  "start": 278.44,
+  "duration": 3.92,
+  "text": "doing that task, allowing the system to"
+ },
+ {
+  "start": 280.88,
+  "duration": 3.72,
+  "text": "encode those learnings in the"
+ },
+ {
+  "start": 282.36,
+  "duration": 3.8,
+  "text": "orchestration memory to be preloaded the"
+ },
+ {
+  "start": 284.6,
+  "duration": 2.92,
+  "text": "next time that sub-agent or agent is"
+ },
+ {
+  "start": 286.16,
+  "duration": 3.16,
+  "text": "called upon."
+ },
+ {
+  "start": 287.52,
+  "duration": 3.36,
+  "text": "Memories persist between sessions and"
+ },
+ {
+  "start": 289.32,
+  "duration": 2.92,
+  "text": "should automatically improve agent"
+ },
+ {
+  "start": 290.88,
+  "duration": 2.8,
+  "text": "performance the longer the system is in"
+ },
+ {
+  "start": 292.24,
+  "duration": 3.44,
+  "text": "operation."
+ },
+ {
+  "start": 293.68,
+  "duration": 3.64,
+  "text": "Jan Kronberg wrote, \"Agents that learn"
+ },
+ {
+  "start": 295.68,
+  "duration": 3.32,
+  "text": "from past sessions and iterate until"
+ },
+ {
+  "start": 297.32,
+  "duration": 3.08,
+  "text": "they hit quality enough is the"
+ },
+ {
+  "start": 299.0,
+  "duration": 2.8,
+  "text": "architecture most teams have been trying"
+ },
+ {
+  "start": 300.4,
+  "duration": 2.76,
+  "text": "to build manually."
+ },
+ {
+  "start": 301.8,
+  "duration": 2.76,
+  "text": "Dreaming seems to be the missing piece"
+ },
+ {
+  "start": 303.16,
+  "duration": 2.96,
+  "text": "to that puzzle.\""
+ },
+ {
+  "start": 304.56,
+  "duration": 3.56,
+  "text": "VC intern writes, \"Think of it as the"
+ },
+ {
+  "start": 306.12,
+  "duration": 3.12,
+  "text": "agent equivalent of REM sleep.\""
+ },
+ {
+  "start": 308.12,
+  "duration": 2.36,
+  "text": "Shirish points out that this is"
+ },
+ {
+  "start": 309.24,
+  "duration": 3.679,
+  "text": "something that has attracted people to"
+ },
+ {
+  "start": 310.48,
+  "duration": 4.52,
+  "text": "Hermes. They write that the Hermes agent"
+ },
+ {
+  "start": 312.919,
+  "duration": 3.481,
+  "text": "reviews past conversations, build skills"
+ },
+ {
+  "start": 315.0,
+  "duration": 3.04,
+  "text": "from experience, has persistent"
+ },
+ {
+  "start": 316.4,
+  "duration": 3.32,
+  "text": "cross-session memory, and gets smarter"
+ },
+ {
+  "start": 318.04,
+  "duration": 4.12,
+  "text": "the longer it runs, which is very"
+ },
+ {
+  "start": 319.72,
+  "duration": 4.64,
+  "text": "similar to what Claude dreaming shipped."
+ },
+ {
+  "start": 322.16,
+  "duration": 4.44,
+  "text": "Jatin Garg writes, \"The underrated story"
+ },
+ {
+  "start": 324.36,
+  "duration": 4.64,
+  "text": "of 2026 is that the open-source agent"
+ },
+ {
+  "start": 326.6,
+  "duration": 4.56,
+  "text": "ecosystem is leading on primitives. News"
+ },
+ {
+  "start": 329.0,
+  "duration": 3.919,
+  "text": "research with Hermes for orchestration,"
+ },
+ {
+  "start": 331.16,
+  "duration": 3.08,
+  "text": "G brain for personal memory, and eval"
+ },
+ {
+  "start": 332.919,
+  "duration": 2.521,
+  "text": "substrates."
+ },
+ {
+  "start": 334.24,
+  "duration": 2.84,
+  "text": "These projects shipped working"
+ },
+ {
+  "start": 335.44,
+  "duration": 2.96,
+  "text": "production systems before Anthropic"
+ },
+ {
+  "start": 337.08,
+  "duration": 3.68,
+  "text": "shipped a research preview of similar"
+ },
+ {
+  "start": 338.4,
+  "duration": 4.08,
+  "text": "functionality. The closed labs have raw"
+ },
+ {
+  "start": 340.76,
+  "duration": 3.84,
+  "text": "model capability. The open-source"
+ },
+ {
+  "start": 342.48,
+  "duration": 3.76,
+  "text": "ecosystem has agent primitives. Those"
+ },
+ {
+  "start": 344.6,
+  "duration": 2.92,
+  "text": "are different layers. The open-source"
+ },
+ {
+  "start": 346.24,
+  "duration": 4.04,
+  "text": "side has been further ahead on the"
+ },
+ {
+  "start": 347.52,
+  "duration": 4.6,
+  "text": "second one for nearly a year now."
+ },
+ {
+  "start": 350.28,
+  "duration": 3.56,
+  "text": "Now, in addition to dreaming, i.e., in"
+ },
+ {
+  "start": 352.12,
+  "duration": 3.2,
+  "text": "addition to dealing with memory,"
+ },
+ {
+  "start": 353.84,
+  "duration": 3.0,
+  "text": "Anthropic has also improved the"
+ },
+ {
+  "start": 355.32,
+  "duration": 3.56,
+  "text": "oversight of managed agents with a"
+ },
+ {
+  "start": 356.84,
+  "duration": 3.48,
+  "text": "feature called outcomes."
+ },
+ {
+  "start": 358.88,
+  "duration": 3.4,
+  "text": "Outcomes allow the user to write a"
+ },
+ {
+  "start": 360.32,
+  "duration": 4.68,
+  "text": "rubric for what success looks like for a"
+ },
+ {
+  "start": 362.28,
+  "duration": 5.0,
+  "text": "particular task. Once an agent completes"
+ },
+ {
+  "start": 365.0,
+  "duration": 4.16,
+  "text": "a task, that output is scored by a"
+ },
+ {
+  "start": 367.28,
+  "duration": 4.04,
+  "text": "separate grading agent against the"
+ },
+ {
+  "start": 369.16,
+  "duration": 3.88,
+  "text": "rubric. The separation means that the"
+ },
+ {
+  "start": 371.32,
+  "duration": 3.52,
+  "text": "grading agent isn't influenced by the"
+ },
+ {
+  "start": 373.04,
+  "duration": 3.52,
+  "text": "reasoning of the task-based agent, but"
+ },
+ {
+  "start": 374.84,
+  "duration": 3.28,
+  "text": "instead looks purely at the output and"
+ },
+ {
+  "start": 376.56,
+  "duration": 3.64,
+  "text": "scores how closely it fits with the"
+ },
+ {
+  "start": 378.12,
+  "duration": 3.48,
+  "text": "provided rubric. If there's a problem,"
+ },
+ {
+  "start": 380.2,
+  "duration": 2.92,
+  "text": "the grading agent can highlight the"
+ },
+ {
+  "start": 381.6,
+  "duration": 3.8,
+  "text": "issues and kick the task back for"
+ },
+ {
+  "start": 383.12,
+  "duration": 3.96,
+  "text": "another run. Anthropic has also added"
+ },
+ {
+  "start": 385.4,
+  "duration": 3.88,
+  "text": "webhooks, so users will be automatically"
+ },
+ {
+  "start": 387.08,
+  "duration": 4.16,
+  "text": "notified when the task is complete."
+ },
+ {
+  "start": 389.28,
+  "duration": 4.08,
+  "text": "Anthropic said that in their testing,"
+ },
+ {
+  "start": 391.24,
+  "duration": 4.76,
+  "text": "using outcomes improved file generation"
+ },
+ {
+  "start": 393.36,
+  "duration": 5.16,
+  "text": "quality by 8.4% for word documents and"
+ },
+ {
+  "start": 396.0,
+  "duration": 4.52,
+  "text": "10.1% for PowerPoint slides scored on"
+ },
+ {
+  "start": 398.52,
+  "duration": 3.8,
+  "text": "their internal benchmarks."
+ },
+ {
+  "start": 400.52,
+  "duration": 4.44,
+  "text": "Now, once again, we are dealing with"
+ },
+ {
+  "start": 402.32,
+  "duration": 4.68,
+  "text": "pretty core challenges of agents."
+ },
+ {
+  "start": 404.96,
+  "duration": 4.64,
+  "text": "One of the big shifts is that because"
+ },
+ {
+  "start": 407.0,
+  "duration": 4.88,
+  "text": "agents can output so much now, human"
+ },
+ {
+  "start": 409.6,
+  "duration": 5.16,
+  "text": "review becomes a bottleneck. Because of"
+ },
+ {
+  "start": 411.88,
+  "duration": 4.8,
+  "text": "that, versions of external grading or"
+ },
+ {
+  "start": 414.76,
+  "duration": 4.08,
+  "text": "external grading agents have been a"
+ },
+ {
+  "start": 416.68,
+  "duration": 4.239,
+  "text": "fairly common part of multi-agent system"
+ },
+ {
+  "start": 418.84,
+  "duration": 3.92,
+  "text": "design for some time now."
+ },
+ {
+  "start": 420.919,
+  "duration": 3.801,
+  "text": "Most of these systems so far, however,"
+ },
+ {
+  "start": 422.76,
+  "duration": 3.6,
+  "text": "have been deployed against coding tasks"
+ },
+ {
+  "start": 424.72,
+  "duration": 3.84,
+  "text": "with the grading agent doing things like"
+ },
+ {
+  "start": 426.36,
+  "duration": 3.64,
+  "text": "automatically running unit tests."
+ },
+ {
+  "start": 428.56,
+  "duration": 3.32,
+  "text": "The benefit is that coding rubrics are"
+ },
+ {
+  "start": 430.0,
+  "duration": 3.96,
+  "text": "typically well-defined. A PR either"
+ },
+ {
+  "start": 431.88,
+  "duration": 4.36,
+  "text": "works or it doesn't. The idea of"
+ },
+ {
+  "start": 433.96,
+  "duration": 4.16,
+  "text": "subjective rubrics applied to non-code"
+ },
+ {
+  "start": 436.24,
+  "duration": 4.72,
+  "text": "knowledge work outputs is a lot less"
+ },
+ {
+  "start": 438.12,
+  "duration": 4.6,
+  "text": "well-developed. Like dreaming, one big"
+ },
+ {
+  "start": 440.96,
+  "duration": 3.88,
+  "text": "impact of the future will be to make the"
+ },
+ {
+  "start": 442.72,
+  "duration": 4.68,
+  "text": "use of an external grading agent part of"
+ },
+ {
+  "start": 444.84,
+  "duration": 4.44,
+  "text": "the default setup. Users won't need to"
+ },
+ {
+  "start": 447.4,
+  "duration": 3.48,
+  "text": "string together a grading agent. They"
+ },
+ {
+  "start": 449.28,
+  "duration": 4.0,
+  "text": "can just let Anthropic handle it behind"
+ },
+ {
+  "start": 450.88,
+  "duration": 4.12,
+  "text": "the scenes. If a non-technical user is"
+ },
+ {
+  "start": 453.28,
+  "duration": 3.36,
+  "text": "designing a report generation agent,"
+ },
+ {
+  "start": 455.0,
+  "duration": 3.16,
+  "text": "they'll use outcomes to automatically"
+ },
+ {
+  "start": 456.64,
+  "duration": 2.96,
+  "text": "check and iterate on the output before"
+ },
+ {
+  "start": 458.16,
+  "duration": 3.56,
+  "text": "delivery."
+ },
+ {
+  "start": 459.6,
+  "duration": 3.92,
+  "text": "A lot of the harness work right now is"
+ },
+ {
+  "start": 461.72,
+  "duration": 3.92,
+  "text": "around systems that don't just shut down"
+ },
+ {
+  "start": 463.52,
+  "duration": 4.16,
+  "text": "after first input, but through some"
+ },
+ {
+  "start": 465.64,
+  "duration": 4.2,
+  "text": "formalized process, whether it's loops"
+ },
+ {
+  "start": 467.68,
+  "duration": 4.2,
+  "text": "or now this outcome rubric-based system,"
+ },
+ {
+  "start": 469.84,
+  "duration": 3.72,
+  "text": "can continue to refine and improve the"
+ },
+ {
+  "start": 471.88,
+  "duration": 4.16,
+  "text": "work without the user having to sit"
+ },
+ {
+  "start": 473.56,
+  "duration": 4.12,
+  "text": "there and manage everything."
+ },
+ {
+  "start": 476.04,
+  "duration": 3.84,
+  "text": "Finally, the managed agents platform can"
+ },
+ {
+  "start": 477.68,
+  "duration": 3.56,
+  "text": "now handle multi-agent orchestration."
+ },
+ {
+  "start": 479.88,
+  "duration": 3.8,
+  "text": "Anthropic writes that multi-agent"
+ },
+ {
+  "start": 481.24,
+  "duration": 4.12,
+  "text": "orchestration, quote, lets a lead agent"
+ },
+ {
+  "start": 483.68,
+  "duration": 3.16,
+  "text": "break the job into pieces and delegate"
+ },
+ {
+  "start": 485.36,
+  "duration": 3.76,
+  "text": "each one to a specialist with its own"
+ },
+ {
+  "start": 486.84,
+  "duration": 4.16,
+  "text": "model, prompts, and tools. For example,"
+ },
+ {
+  "start": 489.12,
+  "duration": 3.44,
+  "text": "a lead agent can run an investigation"
+ },
+ {
+  "start": 491.0,
+  "duration": 3.08,
+  "text": "while sub-agents fan out through deploy"
+ },
+ {
+  "start": 492.56,
+  "duration": 3.52,
+  "text": "history, error logs, metrics, and"
+ },
+ {
+  "start": 494.08,
+  "duration": 3.56,
+  "text": "support tickets. The agents work in"
+ },
+ {
+  "start": 496.08,
+  "duration": 2.88,
+  "text": "parallel on a shared file system with"
+ },
+ {
+  "start": 497.64,
+  "duration": 3.2,
+  "text": "their work feeding back into the lead"
+ },
+ {
+  "start": 498.96,
+  "duration": 3.44,
+  "text": "agent's overall context, and the lead"
+ },
+ {
+  "start": 500.84,
+  "duration": 2.92,
+  "text": "agent can check in on the sub-agents"
+ },
+ {
+  "start": 502.4,
+  "duration": 3.4,
+  "text": "mid-workflow to ensure they're still on"
+ },
+ {
+  "start": 503.76,
+  "duration": 4.08,
+  "text": "track. The entire system can be tracked"
+ },
+ {
+  "start": 505.8,
+  "duration": 3.88,
+  "text": "into Claude console, allowing users to"
+ },
+ {
+  "start": 507.84,
+  "duration": 2.76,
+  "text": "see what each sub-agent did and in what"
+ },
+ {
+  "start": 509.68,
+  "duration": 2.28,
+  "text": "order."
+ },
+ {
+  "start": 510.6,
+  "duration": 3.2,
+  "text": "In addition, an explanation of the"
+ },
+ {
+  "start": 511.96,
+  "duration": 3.84,
+  "text": "reasoning behind the task execution is"
+ },
+ {
+  "start": 513.8,
+  "duration": 3.56,
+  "text": "auditable, giving users visibility into"
+ },
+ {
+  "start": 515.8,
+  "duration": 3.52,
+  "text": "the process."
+ },
+ {
+  "start": 517.36,
+  "duration": 3.96,
+  "text": "In short, writes Siff, Claude can now"
+ },
+ {
+  "start": 519.32,
+  "duration": 4.36,
+  "text": "act like an AI worker. It can take a"
+ },
+ {
+  "start": 521.32,
+  "duration": 4.56,
+  "text": "goal, run tasks on its own, use multiple"
+ },
+ {
+  "start": 523.68,
+  "duration": 4.08,
+  "text": "agents, connect with other tools."
+ },
+ {
+  "start": 525.88,
+  "duration": 3.48,
+  "text": "Anthropic included a few examples of the"
+ },
+ {
+  "start": 527.76,
+  "duration": 3.2,
+  "text": "agentic systems people have built using"
+ },
+ {
+  "start": 529.36,
+  "duration": 3.76,
+  "text": "managed agents. One of the more"
+ },
+ {
+  "start": 530.96,
+  "duration": 4.76,
+  "text": "interesting ones to me came from Every"
+ },
+ {
+  "start": 533.12,
+  "duration": 4.48,
+  "text": "with their spiral writing agent. Spiral"
+ },
+ {
+  "start": 535.72,
+  "duration": 3.88,
+  "text": "is a tool that's meant to, in short,"
+ },
+ {
+  "start": 537.6,
+  "duration": 3.88,
+  "text": "make AI writing not suck, which if"
+ },
+ {
+  "start": 539.6,
+  "duration": 3.76,
+  "text": "you've ever tried to use AI for writing"
+ },
+ {
+  "start": 541.48,
+  "duration": 4.76,
+  "text": "other than just generic business stuff,"
+ },
+ {
+  "start": 543.36,
+  "duration": 5.24,
+  "text": "you know is no small task. Every spiral"
+ },
+ {
+  "start": 546.24,
+  "duration": 3.76,
+  "text": "uses a multi-agent system, tapping into"
+ },
+ {
+  "start": 548.6,
+  "duration": 3.72,
+  "text": "a range of different Anthropic models"
+ },
+ {
+  "start": 550.0,
+  "duration": 4.16,
+  "text": "for cost optimization, and now they use"
+ },
+ {
+  "start": 552.32,
+  "duration": 4.0,
+  "text": "this new outcomes feature to enforce"
+ },
+ {
+  "start": 554.16,
+  "duration": 3.96,
+  "text": "writing quality. Every has defined their"
+ },
+ {
+  "start": 556.32,
+  "duration": 3.32,
+  "text": "own rubric based on editorial standards"
+ },
+ {
+  "start": 558.12,
+  "duration": 3.6,
+  "text": "and writer voice to ensure the agentic"
+ },
+ {
+  "start": 559.64,
+  "duration": 4.36,
+  "text": "drafting is up to par, which is kind of"
+ },
+ {
+  "start": 561.72,
+  "duration": 3.6,
+  "text": "the whole ball game for them."
+ },
+ {
+  "start": 564.0,
+  "duration": 3.24,
+  "text": "Now, it is also worth noting that prior"
+ },
+ {
+  "start": 565.32,
+  "duration": 3.36,
+  "text": "to their Dev Day kicking off, Anthropic"
+ },
+ {
+  "start": 567.24,
+  "duration": 3.68,
+  "text": "shipped a big suite of agents for"
+ },
+ {
+  "start": 568.68,
+  "duration": 3.64,
+  "text": "financial services. On Tuesday, the"
+ },
+ {
+  "start": 570.92,
+  "duration": 3.64,
+  "text": "company released a package of 10"
+ },
+ {
+  "start": 572.32,
+  "duration": 3.84,
+  "text": "predefined agents within Claude Finance."
+ },
+ {
+  "start": 574.56,
+  "duration": 3.4,
+  "text": "The agents can be used as plugins for"
+ },
+ {
+  "start": 576.16,
+  "duration": 3.68,
+  "text": "co-work, Claude Code, or deployed as"
+ },
+ {
+  "start": 577.96,
+  "duration": 3.44,
+  "text": "managed agents. The suite includes a"
+ },
+ {
+  "start": 579.84,
+  "duration": 3.48,
+  "text": "pitch builder, a meeting preparer, a"
+ },
+ {
+  "start": 581.4,
+  "duration": 3.36,
+  "text": "market researcher, evaluation reviewer,"
+ },
+ {
+  "start": 583.32,
+  "duration": 2.44,
+  "text": "and a month-end closer among many"
+ },
+ {
+  "start": 584.76,
+  "duration": 2.76,
+  "text": "others."
+ },
+ {
+  "start": 585.76,
+  "duration": 3.44,
+  "text": "The idea is to give financial services"
+ },
+ {
+  "start": 587.52,
+  "duration": 3.08,
+  "text": "firms the starter pack of basic agents"
+ },
+ {
+  "start": 589.2,
+  "duration": 3.52,
+  "text": "they need, rather than requiring a"
+ },
+ {
+  "start": 590.6,
+  "duration": 3.72,
+  "text": "custom build. Alongside the agents,"
+ },
+ {
+  "start": 592.72,
+  "duration": 3.28,
+  "text": "Anthropic released a full cookbook so"
+ },
+ {
+  "start": 594.32,
+  "duration": 3.12,
+  "text": "users can understand how the agents work"
+ },
+ {
+  "start": 596.0,
+  "duration": 3.2,
+  "text": "and go in and make modifications as"
+ },
+ {
+  "start": 597.44,
+  "duration": 3.44,
+  "text": "needed. As part of the release,"
+ },
+ {
+  "start": 599.2,
+  "duration": 3.16,
+  "text": "Anthropic highlighted a feature called"
+ },
+ {
+  "start": 600.88,
+  "duration": 3.76,
+  "text": "add-ins, which allows Claude to work"
+ },
+ {
+  "start": 602.36,
+  "duration": 3.64,
+  "text": "directly within productivity software."
+ },
+ {
+  "start": 604.64,
+  "duration": 3.44,
+  "text": "For example, instead of accessing"
+ },
+ {
+  "start": 606.0,
+  "duration": 4.32,
+  "text": "Microsoft Word via MCP or a connector,"
+ },
+ {
+  "start": 608.08,
+  "duration": 3.68,
+  "text": "Claude can work directly in the program."
+ },
+ {
+  "start": 610.32,
+  "duration": 3.32,
+  "text": "This means that it has the software"
+ },
+ {
+  "start": 611.76,
+  "duration": 3.48,
+  "text": "native context, such as your company's"
+ },
+ {
+  "start": 613.64,
+  "duration": 2.88,
+  "text": "template for drafting docs or linked"
+ },
+ {
+  "start": 615.24,
+  "duration": 2.32,
+  "text": "spreadsheets for building financial"
+ },
+ {
+  "start": 616.52,
+  "duration": 2.24,
+  "text": "models."
+ },
+ {
+  "start": 617.56,
+  "duration": 2.52,
+  "text": "In addition, Anthropic rolled out a"
+ },
+ {
+  "start": 618.76,
+  "duration": 2.88,
+  "text": "series of new connectors for"
+ },
+ {
+  "start": 620.08,
+  "duration": 3.44,
+  "text": "industry-specific platforms, including"
+ },
+ {
+  "start": 621.64,
+  "duration": 3.88,
+  "text": "Dun & Bradstreet for business identity,"
+ },
+ {
+  "start": 623.52,
+  "duration": 4.28,
+  "text": "FiscalNote AI for market analysis, and"
+ },
+ {
+  "start": 625.52,
+  "duration": 3.76,
+  "text": "Verisk for insurance underwriting."
+ },
+ {
+  "start": 627.8,
+  "duration": 2.84,
+  "text": "Most of the commentary on Twitter was"
+ },
+ {
+  "start": 629.28,
+  "duration": 3.32,
+  "text": "pretty much what you would expect from"
+ },
+ {
+  "start": 630.64,
+  "duration": 3.24,
+  "text": "people trying to win clicks, basically"
+ },
+ {
+  "start": 632.6,
+  "duration": 2.8,
+  "text": "claiming that with one fell swoop,"
+ },
+ {
+  "start": 633.88,
+  "duration": 3.56,
+  "text": "Anthropic had killed another wave of AI"
+ },
+ {
+  "start": 635.4,
+  "duration": 4.08,
+  "text": "startups. But in this case, these agents"
+ },
+ {
+  "start": 637.44,
+  "duration": 3.08,
+  "text": "are much more about replacing a bunch of"
+ },
+ {
+  "start": 639.48,
+  "duration": 2.359,
+  "text": "the grunt work that was already"
+ },
+ {
+  "start": 640.52,
+  "duration": 3.6,
+  "text": "semi-automated through traditional"
+ },
+ {
+  "start": 641.839,
+  "duration": 3.801,
+  "text": "software or outsourced. None of these"
+ },
+ {
+  "start": 644.12,
+  "duration": 3.44,
+  "text": "are really attacking the high-skill"
+ },
+ {
+  "start": 645.64,
+  "duration": 3.52,
+  "text": "knowledge work, instead going after"
+ },
+ {
+  "start": 647.56,
+  "duration": 3.36,
+  "text": "low-skill repetitive task type of"
+ },
+ {
+  "start": 649.16,
+  "duration": 3.52,
+  "text": "knowledge work."
+ },
+ {
+  "start": 650.92,
+  "duration": 3.68,
+  "text": "Returning to Dev Day, in addition to"
+ },
+ {
+  "start": 652.68,
+  "duration": 3.36,
+  "text": "things that were actually announced, we"
+ },
+ {
+  "start": 654.6,
+  "duration": 3.32,
+  "text": "also got a sneak peek at Anthropic's"
+ },
+ {
+  "start": 656.04,
+  "duration": 3.12,
+  "text": "model training roadmap. During the"
+ },
+ {
+  "start": 657.92,
+  "duration": 2.72,
+  "text": "opening keynote, research head of"
+ },
+ {
+  "start": 659.16,
+  "duration": 2.96,
+  "text": "product Diane Penn discussed what"
+ },
+ {
+  "start": 660.64,
+  "duration": 3.44,
+  "text": "Anthropic is working on, highlighting"
+ },
+ {
+  "start": 662.12,
+  "duration": 4.04,
+  "text": "three key features of future models:"
+ },
+ {
+  "start": 664.08,
+  "duration": 4.12,
+  "text": "higher judgment and code taste, {quote}"
+ },
+ {
+  "start": 666.16,
+  "duration": 3.84,
+  "text": "infinite context windows, and"
+ },
+ {
+  "start": 668.2,
+  "duration": 3.28,
+  "text": "multi-agent coordination."
+ },
+ {
+  "start": 670.0,
+  "duration": 3.24,
+  "text": "Going back to this theme that code with"
+ },
+ {
+  "start": 671.48,
+  "duration": 4.4,
+  "text": "Claude Day was all about Anthropic"
+ },
+ {
+  "start": 673.24,
+  "duration": 4.24,
+  "text": "addressing the big challenges of agents,"
+ },
+ {
+  "start": 675.88,
+  "duration": 3.36,
+  "text": "infinite context windows was the feature"
+ },
+ {
+  "start": 677.48,
+  "duration": 3.32,
+  "text": "that got the most attention."
+ },
+ {
+  "start": 679.24,
+  "duration": 3.12,
+  "text": "The discussion was largely about whether"
+ },
+ {
+  "start": 680.8,
+  "duration": 3.6,
+  "text": "this would just be an improved version"
+ },
+ {
+  "start": 682.36,
+  "duration": 4.4,
+  "text": "of compaction, i.e., the process by"
+ },
+ {
+  "start": 684.4,
+  "duration": 4.28,
+  "text": "which, as the context window fills up,"
+ },
+ {
+  "start": 686.76,
+  "duration": 3.84,
+  "text": "the harness compresses it, leaving only"
+ },
+ {
+  "start": 688.68,
+  "duration": 3.12,
+  "text": "the important details, and opening up"
+ },
+ {
+  "start": 690.6,
+  "duration": 3.36,
+  "text": "more space for the next part of the"
+ },
+ {
+  "start": 691.8,
+  "duration": 4.08,
+  "text": "conversation or whether it was some more"
+ },
+ {
+  "start": 693.96,
+  "duration": 3.52,
+  "text": "fundamental research breakthrough."
+ },
+ {
+  "start": 695.88,
+  "duration": 3.52,
+  "text": "Penn's precise wording to some felt"
+ },
+ {
+  "start": 697.48,
+  "duration": 3.88,
+  "text": "instructive given that the word infinite"
+ },
+ {
+  "start": 699.4,
+  "duration": 3.36,
+  "text": "was in quotation marks and that Penn"
+ },
+ {
+  "start": 701.36,
+  "duration": 3.88,
+  "text": "explained that Anthropic is working on"
+ },
+ {
+  "start": 702.76,
+  "duration": 5.0,
+  "text": "context windows that feel infinite. Some"
+ },
+ {
+  "start": 705.24,
+  "duration": 4.84,
+  "text": "remain skeptical. Peter Deneen writes,"
+ },
+ {
+  "start": 707.76,
+  "duration": 4.28,
+  "text": "\"Infinite context, that must be rag"
+ },
+ {
+  "start": 710.08,
+  "duration": 4.2,
+  "text": "wearing a trench coat, no?\" But Dan"
+ },
+ {
+  "start": 712.04,
+  "duration": 4.12,
+  "text": "McCarty speculated on the significance."
+ },
+ {
+  "start": 714.28,
+  "duration": 4.0,
+  "text": "He writes, \"Anthropic is hinting at"
+ },
+ {
+  "start": 716.16,
+  "duration": 4.56,
+  "text": "infinite context windows. That matters"
+ },
+ {
+  "start": 718.28,
+  "duration": 3.84,
+  "text": "because models already learn in context."
+ },
+ {
+  "start": 720.72,
+  "duration": 3.08,
+  "text": "If you can keep adding to the context"
+ },
+ {
+  "start": 722.12,
+  "duration": 3.76,
+  "text": "window forever, the model can keep"
+ },
+ {
+  "start": 723.8,
+  "duration": 3.44,
+  "text": "learning from experience forever. Some"
+ },
+ {
+  "start": 725.88,
+  "duration": 2.92,
+  "text": "people will say that's not real"
+ },
+ {
+  "start": 727.24,
+  "duration": 3.04,
+  "text": "continual learning, but that sounds a"
+ },
+ {
+  "start": 728.8,
+  "duration": 3.72,
+  "text": "lot like saying reasoning models don't"
+ },
+ {
+  "start": 730.28,
+  "duration": 4.08,
+  "text": "{quote} really reason. At some point the"
+ },
+ {
+  "start": 732.52,
+  "duration": 3.6,
+  "text": "functional distinction collapses."
+ },
+ {
+  "start": 734.36,
+  "duration": 3.68,
+  "text": "Infinite context means AI systems that"
+ },
+ {
+  "start": 736.12,
+  "duration": 3.32,
+  "text": "continually learn and when that arrives"
+ },
+ {
+  "start": 738.04,
+  "duration": 3.76,
+  "text": "it'll be much harder to deny that we"
+ },
+ {
+  "start": 739.44,
+  "duration": 3.68,
+  "text": "haven't arrived at AGI.\""
+ },
+ {
+  "start": 741.8,
+  "duration": 3.44,
+  "text": "The two other little things of note from"
+ },
+ {
+  "start": 743.12,
+  "duration": 4.4,
+  "text": "the actual event itself include Claude"
+ },
+ {
+  "start": 745.24,
+  "duration": 4.4,
+  "text": "code creator Boris Cherny disavowing the"
+ },
+ {
+  "start": 747.52,
+  "duration": 3.48,
+  "text": "term vibe coding. In a side interview"
+ },
+ {
+  "start": 749.64,
+  "duration": 3.12,
+  "text": "Cherny said that the term is starting to"
+ },
+ {
+  "start": 751.0,
+  "duration": 3.24,
+  "text": "annoy him as it no longer describes the"
+ },
+ {
+  "start": 752.76,
+  "duration": 3.72,
+  "text": "way that he and most other developers"
+ },
+ {
+  "start": 754.24,
+  "duration": 3.36,
+  "text": "use AI. In a panel discussion on"
+ },
+ {
+  "start": 756.48,
+  "duration": 2.64,
+  "text": "Wednesday's event, Cherny said that"
+ },
+ {
+  "start": 757.6,
+  "duration": 3.64,
+  "text": "there's literally no manually written"
+ },
+ {
+  "start": 759.12,
+  "duration": 3.68,
+  "text": "code anywhere in the company anymore."
+ },
+ {
+  "start": 761.24,
+  "duration": 3.0,
+  "text": "Instead, Claude's coordinate with each"
+ },
+ {
+  "start": 762.8,
+  "duration": 3.72,
+  "text": "other over Slack, code in loops, and"
+ },
+ {
+  "start": 764.24,
+  "duration": 4.28,
+  "text": "resolve issues across the code base. In"
+ },
+ {
+  "start": 766.52,
+  "duration": 3.88,
+  "text": "that context, Cherny thinks the term"
+ },
+ {
+  "start": 768.52,
+  "duration": 3.56,
+  "text": "vibe is significantly underselling the"
+ },
+ {
+  "start": 770.4,
+  "duration": 3.24,
+  "text": "system. Anthropic's workflows now"
+ },
+ {
+  "start": 772.08,
+  "duration": 3.08,
+  "text": "include copious automated testing and"
+ },
+ {
+  "start": 773.64,
+  "duration": 3.56,
+  "text": "verification to ensure that their code"
+ },
+ {
+  "start": 775.16,
+  "duration": 3.56,
+  "text": "is ready to ship. Still, one challenge"
+ },
+ {
+  "start": 777.2,
+  "duration": 3.8,
+  "text": "is that Boris doesn't have a replacement"
+ },
+ {
+  "start": 778.72,
+  "duration": 4.0,
+  "text": "term to attach to the new process. While"
+ },
+ {
+  "start": 781.0,
+  "duration": 3.52,
+  "text": "Andrej Karpathy, the coiner of the vibe"
+ },
+ {
+  "start": 782.72,
+  "duration": 3.68,
+  "text": "coding term, has suggested the term"
+ },
+ {
+  "start": 784.52,
+  "duration": 3.04,
+  "text": "agentic engineering, something about"
+ },
+ {
+  "start": 786.4,
+  "duration": 2.76,
+  "text": "that still isn't sitting right with"
+ },
+ {
+  "start": 787.56,
+  "duration": 3.0,
+  "text": "Boris. He says he's fielding"
+ },
+ {
+  "start": 789.16,
+  "duration": 2.92,
+  "text": "suggestions, so if you have a good term"
+ },
+ {
+  "start": 790.56,
+  "duration": 3.279,
+  "text": "for the way we use modern coding agents,"
+ },
+ {
+  "start": 792.08,
+  "duration": 3.04,
+  "text": "tweet it at him."
+ },
+ {
+  "start": 793.839,
+  "duration": 3.0,
+  "text": "The one other mic drop moment from the"
+ },
+ {
+  "start": 795.12,
+  "duration": 3.92,
+  "text": "event itself came when Anthropic CEO"
+ },
+ {
+  "start": 796.839,
+  "duration": 4.401,
+  "text": "Dario Amodei put some actual numbers"
+ },
+ {
+  "start": 799.04,
+  "duration": 4.52,
+  "text": "around Anthropic's insane growth."
+ },
+ {
+  "start": 801.24,
+  "duration": 4.96,
+  "text": "Discussing the challenges of compute,"
+ },
+ {
+  "start": 803.56,
+  "duration": 4.96,
+  "text": "Dario said, \"We planned for a world of"
+ },
+ {
+  "start": 806.2,
+  "duration": 5.44,
+  "text": "10x growth per year. In the first"
+ },
+ {
+  "start": 808.52,
+  "duration": 5.08,
+  "text": "quarter of this year, we saw 80x"
+ },
+ {
+  "start": 811.64,
+  "duration": 6.48,
+  "text": "annualized growth per year in revenue"
+ },
+ {
+  "start": 813.6,
+  "duration": 6.72,
+  "text": "and usage. 80x in a single quarter."
+ },
+ {
+  "start": 818.12,
+  "duration": 4.88,
+  "text": "Now, the context for those comments was"
+ },
+ {
+  "start": 820.32,
+  "duration": 4.68,
+  "text": "a new SpaceX compute deal, through which"
+ },
+ {
+  "start": 823.0,
+  "duration": 3.48,
+  "text": "Dario said, \"{quote} We're working as"
+ },
+ {
+  "start": 825.0,
+  "duration": 4.68,
+  "text": "quickly as possible to provide more"
+ },
+ {
+  "start": 826.48,
+  "duration": 5.6,
+  "text": "compute than we have in the past.\""
+ },
+ {
+  "start": 829.68,
+  "duration": 4.64,
+  "text": "Wait a second. What you're saying?"
+ },
+ {
+  "start": 832.08,
+  "duration": 4.08,
+  "text": "A SpaceX compute deal?"
+ },
+ {
+  "start": 834.32,
+  "duration": 3.68,
+  "text": "Yes, after all of those interesting"
+ },
+ {
+  "start": 836.16,
+  "duration": 4.0,
+  "text": "managed agents and memory and infinite"
+ },
+ {
+  "start": 838.0,
+  "duration": 3.56,
+  "text": "context-related announcements, after"
+ },
+ {
+  "start": 840.16,
+  "duration": 3.72,
+  "text": "about noon Eastern time yesterday,"
+ },
+ {
+  "start": 841.56,
+  "duration": 5.12,
+  "text": "basically no one was discussing anything"
+ },
+ {
+  "start": 843.88,
+  "duration": 4.24,
+  "text": "other than a new Anthropic-SpaceX"
+ },
+ {
+  "start": 846.68,
+  "duration": 3.44,
+  "text": "partnership."
+ },
+ {
+  "start": 848.12,
+  "duration": 3.68,
+  "text": "With a tweet sitting at a casual 20"
+ },
+ {
+  "start": 850.12,
+  "duration": 3.76,
+  "text": "million views at the moment, the Claude"
+ },
+ {
+  "start": 851.8,
+  "duration": 3.56,
+  "text": "AI account wrote, \"We've agreed to a"
+ },
+ {
+  "start": 853.88,
+  "duration": 3.0,
+  "text": "partnership with SpaceX that will"
+ },
+ {
+  "start": 855.36,
+  "duration": 2.76,
+  "text": "substantially increase our compute"
+ },
+ {
+  "start": 856.88,
+  "duration": 2.6,
+  "text": "capacity.\""
+ },
+ {
+  "start": 858.12,
+  "duration": 2.72,
+  "text": "They went on to specify how that would"
+ },
+ {
+  "start": 859.48,
+  "duration": 2.64,
+  "text": "allow them to increase immediate-term"
+ },
+ {
+  "start": 860.84,
+  "duration": 2.96,
+  "text": "usage limits,"
+ },
+ {
+  "start": 862.12,
+  "duration": 4.04,
+  "text": "but the TLDR of the deal is that"
+ },
+ {
+  "start": 863.8,
+  "duration": 4.4,
+  "text": "Anthropic now has full use of XAI's"
+ },
+ {
+  "start": 866.16,
+  "duration": 4.0,
+  "text": "Colossus 1 data center."
+ },
+ {
+  "start": 868.2,
+  "duration": 3.92,
+  "text": "Now, the XAI campus in Memphis consists"
+ },
+ {
+  "start": 870.16,
+  "duration": 3.36,
+  "text": "of two main data centers, Colossus 1 and"
+ },
+ {
+  "start": 872.12,
+  "duration": 2.84,
+  "text": "Colossus 2."
+ },
+ {
+  "start": 873.52,
+  "duration": 3.16,
+  "text": "Colossus 1, you might remember, was the"
+ },
+ {
+  "start": 874.96,
+  "duration": 3.36,
+  "text": "data center that was built at record"
+ },
+ {
+  "start": 876.68,
+  "duration": 3.12,
+  "text": "speed over a few months in mid-to-late"
+ },
+ {
+  "start": 878.32,
+  "duration": 2.88,
+  "text": "2024."
+ },
+ {
+  "start": 879.8,
+  "duration": 5.28,
+  "text": "It's since been scaled to contain"
+ },
+ {
+  "start": 881.2,
+  "duration": 6.52,
+  "text": "220,000 Nvidia GPUs, mostly H100s"
+ },
+ {
+  "start": 885.08,
+  "duration": 4.6,
+  "text": "operating at a 300-MW capacity."
+ },
+ {
+  "start": 887.72,
+  "duration": 5.52,
+  "text": "Colossus 2 is XAI's Blackwell-based"
+ },
+ {
+  "start": 889.68,
+  "duration": 4.76,
+  "text": "cluster, containing around 550,000 GPUs."
+ },
+ {
+  "start": 893.24,
+  "duration": 2.52,
+  "text": "The deal begins immediately with"
+ },
+ {
+  "start": 894.44,
+  "duration": 3.12,
+  "text": "Anthropic stating the inference will be"
+ },
+ {
+  "start": 895.76,
+  "duration": 4.12,
+  "text": "available within the month."
+ },
+ {
+  "start": 897.56,
+  "duration": 4.0,
+  "text": "Now, in terms of specifics, Anthropic is"
+ },
+ {
+  "start": 899.88,
+  "duration": 3.2,
+  "text": "making three changes to deliver this new"
+ },
+ {
+  "start": 901.56,
+  "duration": 3.279,
+  "text": "compute to users."
+ },
+ {
+  "start": 903.08,
+  "duration": 3.4,
+  "text": "First, Claude Code's 5-hour rate limit"
+ },
+ {
+  "start": 904.839,
+  "duration": 3.601,
+  "text": "has been doubled for Pro, Max, Team, and"
+ },
+ {
+  "start": 906.48,
+  "duration": 3.76,
+  "text": "seat-based enterprise plans."
+ },
+ {
+  "start": 908.44,
+  "duration": 3.32,
+  "text": "Second, peak-hour usage reductions for"
+ },
+ {
+  "start": 910.24,
+  "duration": 3.64,
+  "text": "Claude Code will be eliminated for Pro"
+ },
+ {
+  "start": 911.76,
+  "duration": 3.68,
+  "text": "and Max accounts. Third, Anthropic is"
+ },
+ {
+  "start": 913.88,
+  "duration": 3.12,
+  "text": "raising the API rate limit for Opus"
+ },
+ {
+  "start": 915.44,
+  "duration": 2.72,
+  "text": "model substantially."
+ },
+ {
+  "start": 917.0,
+  "duration": 2.96,
+  "text": "Output token throughput will be"
+ },
+ {
+  "start": 918.16,
+  "duration": 3.48,
+  "text": "increased between 2x and 10x, depending"
+ },
+ {
+  "start": 919.96,
+  "duration": 3.68,
+  "text": "on account tier."
+ },
+ {
+  "start": 921.64,
+  "duration": 3.68,
+  "text": "Anthropic head of growth Amol Deshpande"
+ },
+ {
+  "start": 923.64,
+  "duration": 3.72,
+  "text": "explained the reasoning for these as the"
+ },
+ {
+  "start": 925.32,
+  "duration": 3.28,
+  "text": "first moves and indicated that there was"
+ },
+ {
+  "start": 927.36,
+  "duration": 3.0,
+  "text": "more to come."
+ },
+ {
+  "start": 928.6,
+  "duration": 3.2,
+  "text": "Amol wrote, \"Only a very small"
+ },
+ {
+  "start": 930.36,
+  "duration": 2.96,
+  "text": "percentage hit weekly limits while a"
+ },
+ {
+  "start": 931.8,
+  "duration": 3.88,
+  "text": "much larger portion of users hit the"
+ },
+ {
+  "start": 933.32,
+  "duration": 3.88,
+  "text": "5-hour limit, so we fixed that first. As"
+ },
+ {
+  "start": 935.68,
+  "duration": 3.0,
+  "text": "the compute comes online, we will look"
+ },
+ {
+  "start": 937.2,
+  "duration": 3.28,
+  "text": "at weekly.\""
+ },
+ {
+  "start": 938.68,
+  "duration": 3.68,
+  "text": "Now, for most people, the first"
+ },
+ {
+  "start": 940.48,
+  "duration": 3.76,
+  "text": "speculation was all about how this could"
+ },
+ {
+  "start": 942.36,
+  "duration": 3.68,
+  "text": "have possibly come together."
+ },
+ {
+  "start": 944.24,
+  "duration": 4.44,
+  "text": "While of course his bigger ire is saved"
+ },
+ {
+  "start": 946.04,
+  "duration": 5.0,
+  "text": "for Sam Altman and OpenAI, Elon has not"
+ },
+ {
+  "start": 948.68,
+  "duration": 4.4,
+  "text": "been a big fan of Anthropic as well."
+ },
+ {
+  "start": 951.04,
+  "duration": 4.28,
+  "text": "He has frequently on Twitter referred to"
+ },
+ {
+  "start": 953.08,
+  "duration": 4.68,
+  "text": "them as misanthropic and said that"
+ },
+ {
+  "start": 955.32,
+  "duration": 4.52,
+  "text": "there's no scenario in which they win."
+ },
+ {
+  "start": 957.76,
+  "duration": 3.96,
+  "text": "So, how did things change?"
+ },
+ {
+  "start": 959.84,
+  "duration": 3.52,
+  "text": "In a tweet, Elon wrote, \"By way of"
+ },
+ {
+  "start": 961.72,
+  "duration": 3.08,
+  "text": "background for those who care, I spent a"
+ },
+ {
+  "start": 963.36,
+  "duration": 2.76,
+  "text": "lot of time last week with senior"
+ },
+ {
+  "start": 964.8,
+  "duration": 3.32,
+  "text": "members of the Anthropic team to"
+ },
+ {
+  "start": 966.12,
+  "duration": 4.48,
+  "text": "understand what they do to ensure Claude"
+ },
+ {
+  "start": 968.12,
+  "duration": 4.08,
+  "text": "is good for humanity and was impressed."
+ },
+ {
+  "start": 970.6,
+  "duration": 2.92,
+  "text": "Everyone I met was highly competent and"
+ },
+ {
+  "start": 972.2,
+  "duration": 2.4,
+  "text": "cared a great deal about doing the right"
+ },
+ {
+  "start": 973.52,
+  "duration": 3.32,
+  "text": "thing."
+ },
+ {
+  "start": 974.6,
+  "duration": 3.24,
+  "text": "No one set off my evil detector. So long"
+ },
+ {
+  "start": 976.84,
+  "duration": 2.96,
+  "text": "as they engage in critical"
+ },
+ {
+  "start": 977.84,
+  "duration": 4.48,
+  "text": "self-examination, Claude will probably"
+ },
+ {
+  "start": 979.8,
+  "duration": 4.92,
+  "text": "be good. After that, I was okay leasing"
+ },
+ {
+  "start": 982.32,
+  "duration": 4.96,
+  "text": "Colossus 1 to Anthropic as SpaceX AI had"
+ },
+ {
+  "start": 984.72,
+  "duration": 4.08,
+  "text": "already moved training to Colossus 2.\""
+ },
+ {
+  "start": 987.28,
+  "duration": 2.96,
+  "text": "Now, believe it or not, as unexpected as"
+ },
+ {
+  "start": 988.8,
+  "duration": 3.4,
+  "text": "this tie-up seems, if for no other"
+ },
+ {
+  "start": 990.24,
+  "duration": 4.2,
+  "text": "reason than the personalities involved,"
+ },
+ {
+  "start": 992.2,
+  "duration": 4.84,
+  "text": "some had recently been speculating that"
+ },
+ {
+  "start": 994.44,
+  "duration": 3.88,
+  "text": "it was in fact a perfect mashup."
+ },
+ {
+  "start": 997.04,
+  "duration": 3.68,
+  "text": "On the All-In podcast, Chamath"
+ },
+ {
+  "start": 998.32,
+  "duration": 4.12,
+  "text": "Palihapitiya recently explained how"
+ },
+ {
+  "start": 1000.72,
+  "duration": 4.0,
+  "text": "power constraints would give Elon"
+ },
+ {
+  "start": 1002.44,
+  "duration": 4.08,
+  "text": "leverage to make AI deals."
+ },
+ {
+  "start": 1004.72,
+  "duration": 3.68,
+  "text": "Referring to all of these massive data"
+ },
+ {
+  "start": 1006.52,
+  "duration": 3.76,
+  "text": "center projects, Chamath said, \"Less"
+ },
+ {
+  "start": 1008.4,
+  "duration": 3.48,
+  "text": "than half of it is actually being built."
+ },
+ {
+  "start": 1010.28,
+  "duration": 3.28,
+  "text": "Most of it is stuck in red tape. There's"
+ },
+ {
+  "start": 1011.88,
+  "duration": 2.959,
+  "text": "no credible strategy to turn any of this"
+ },
+ {
+  "start": 1013.56,
+  "duration": 2.88,
+  "text": "stuff on.\""
+ },
+ {
+  "start": 1014.839,
+  "duration": 4.0,
+  "text": "\"Who will this hurt?\" he asked. \"It will"
+ },
+ {
+  "start": 1016.44,
+  "duration": 3.8,
+  "text": "hurt Anthropic and OpenAI the most.\""
+ },
+ {
+  "start": 1018.839,
+  "duration": 3.201,
+  "text": "\"Who will this benefit?\" It'll benefit"
+ },
+ {
+  "start": 1020.24,
+  "duration": 3.959,
+  "text": "the hyperscalers, specifically Oracle,"
+ },
+ {
+  "start": 1022.04,
+  "duration": 3.36,
+  "text": "Amazon, Meta, Microsoft, and Google. And"
+ },
+ {
+  "start": 1024.199,
+  "duration": 2.64,
+  "text": "now, Chamath continued, \"What you're"
+ },
+ {
+  "start": 1025.4,
+  "duration": 3.64,
+  "text": "going to see is a negotiation and a"
+ },
+ {
+  "start": 1026.839,
+  "duration": 3.561,
+  "text": "trade back and forth. How much equity do"
+ },
+ {
+  "start": 1029.04,
+  "duration": 2.72,
+  "text": "I have to give up? How much control do I"
+ },
+ {
+  "start": 1030.4,
+  "duration": 3.24,
+  "text": "have to give to get access to the"
+ },
+ {
+  "start": 1031.76,
+  "duration": 4.04,
+  "text": "compute? How badly will I miss my growth"
+ },
+ {
+  "start": 1033.64,
+  "duration": 4.64,
+  "text": "forecast if I don't?\" And then the money"
+ },
+ {
+  "start": 1035.8,
+  "duration": 4.2,
+  "text": "shot. \"That's a huge lane, Chamath said,"
+ },
+ {
+  "start": 1038.28,
+  "duration": 2.799,
+  "text": "for Grok and SpaceX to run through"
+ },
+ {
+  "start": 1040.0,
+  "duration": 3.68,
+  "text": "because they have a ton of excess"
+ },
+ {
+  "start": 1041.079,
+  "duration": 4.201,
+  "text": "capacity. If I were Elon now, I'd be"
+ },
+ {
+  "start": 1043.68,
+  "duration": 3.56,
+  "text": "running all over this market because of"
+ },
+ {
+  "start": 1045.28,
+  "duration": 3.4,
+  "text": "the model sketchup and quality. I think"
+ },
+ {
+  "start": 1047.24,
+  "duration": 3.88,
+  "text": "he could also do something really crazy"
+ },
+ {
+  "start": 1048.68,
+  "duration": 4.28,
+  "text": "with Anthropic. He and Dario should do a"
+ },
+ {
+  "start": 1051.12,
+  "duration": 4.08,
+  "text": "deal tomorrow."
+ },
+ {
+  "start": 1052.96,
+  "duration": 4.36,
+  "text": "And from a business perspective, there's"
+ },
+ {
+  "start": 1055.2,
+  "duration": 4.6,
+  "text": "twin contexts that make Anthropic and"
+ },
+ {
+  "start": 1057.32,
+  "duration": 4.16,
+  "text": "xAI a pretty great match."
+ },
+ {
+  "start": 1059.8,
+  "duration": 3.24,
+  "text": "Anthropic has of course been straining"
+ },
+ {
+  "start": 1061.48,
+  "duration": 3.72,
+  "text": "under a compute crunch for all of this"
+ },
+ {
+  "start": 1063.04,
+  "duration": 3.52,
+  "text": "year, massively degrading the user"
+ },
+ {
+  "start": 1065.2,
+  "duration": 3.12,
+  "text": "experience."
+ },
+ {
+  "start": 1066.56,
+  "duration": 3.12,
+  "text": "I was literally complaining right before"
+ },
+ {
+  "start": 1068.32,
+  "duration": 2.76,
+  "text": "the announcement that there wasn't a day"
+ },
+ {
+  "start": 1069.68,
+  "duration": 3.36,
+  "text": "that went by that I could actually just"
+ },
+ {
+  "start": 1071.08,
+  "duration": 4.08,
+  "text": "use Claude without interruption."
+ },
+ {
+  "start": 1073.04,
+  "duration": 4.4,
+  "text": "Anthropic has an extremely compelling"
+ },
+ {
+  "start": 1075.16,
+  "duration": 3.84,
+  "text": "model and harness combination, but"
+ },
+ {
+  "start": 1077.44,
+  "duration": 3.84,
+  "text": "OpenAI has recently been taking"
+ },
+ {
+  "start": 1079.0,
+  "duration": 3.88,
+  "text": "advantage of Dario and Anthropic's under"
+ },
+ {
+  "start": 1081.28,
+  "duration": 2.72,
+  "text": "investment in compute to start"
+ },
+ {
+  "start": 1082.88,
+  "duration": 3.28,
+  "text": "reclaiming some of the space that"
+ },
+ {
+  "start": 1084.0,
+  "duration": 4.08,
+  "text": "Anthropic has opened up this year."
+ },
+ {
+  "start": 1086.16,
+  "duration": 4.52,
+  "text": "On the Elon side of the ledger,"
+ },
+ {
+  "start": 1088.08,
+  "duration": 4.8,
+  "text": "something had to give with xAI as well."
+ },
+ {
+  "start": 1090.68,
+  "duration": 4.36,
+  "text": "Even before the SpaceX merger, things"
+ },
+ {
+  "start": 1092.88,
+  "duration": 3.68,
+  "text": "were heading south. Model improvement"
+ },
+ {
+  "start": 1095.04,
+  "duration": 3.28,
+  "text": "had completely stalled out with the"
+ },
+ {
+  "start": 1096.56,
+  "duration": 4.28,
+  "text": "release of Grok 4.2 in February"
+ },
+ {
+  "start": 1098.32,
+  "duration": 4.24,
+  "text": "gathering effectively no real buzz."
+ },
+ {
+  "start": 1100.84,
+  "duration": 3.04,
+  "text": "The company has no meaningful agent to"
+ },
+ {
+  "start": 1102.56,
+  "duration": 3.24,
+  "text": "harness product to compete with Claude"
+ },
+ {
+  "start": 1103.88,
+  "duration": 3.52,
+  "text": "code and Codex, and people on X have"
+ },
+ {
+  "start": 1105.8,
+  "duration": 3.96,
+  "text": "even stopped asking Grok if this is"
+ },
+ {
+  "start": 1107.4,
+  "duration": 4.76,
+  "text": "true. The personnel story was also not"
+ },
+ {
+  "start": 1109.76,
+  "duration": 4.04,
+  "text": "optimistic. Each co-founder left one"
+ },
+ {
+  "start": 1112.16,
+  "duration": 3.48,
+  "text": "after another over the past year leaving"
+ },
+ {
+  "start": 1113.8,
+  "duration": 3.92,
+  "text": "Elon as the last man standing. And"
+ },
+ {
+  "start": 1115.64,
+  "duration": 3.6,
+  "text": "around rumors of huge staff turnover,"
+ },
+ {
+  "start": 1117.72,
+  "duration": 3.0,
+  "text": "Elon acknowledged the company was not"
+ },
+ {
+  "start": 1119.24,
+  "duration": 3.96,
+  "text": "built right the first time and needed a"
+ },
+ {
+  "start": 1120.72,
+  "duration": 4.44,
+  "text": "total rebuild. Even the reclamation"
+ },
+ {
+  "start": 1123.2,
+  "duration": 3.44,
+  "text": "projects didn't seem to be working out."
+ },
+ {
+  "start": 1125.16,
+  "duration": 3.48,
+  "text": "The cursor deal announced last month was"
+ },
+ {
+  "start": 1126.64,
+  "duration": 3.32,
+  "text": "heralded as the saving grace, but the"
+ },
+ {
+  "start": 1128.64,
+  "duration": 2.92,
+  "text": "information recently reported that"
+ },
+ {
+  "start": 1129.96,
+  "duration": 3.4,
+  "text": "there's no plans to co-develop a coding"
+ },
+ {
+  "start": 1131.56,
+  "duration": 4.48,
+  "text": "model in a piece that they framed as"
+ },
+ {
+  "start": 1133.36,
+  "duration": 5.0,
+  "text": "cursor keeping its distance from xAI."
+ },
+ {
+  "start": 1136.04,
+  "duration": 4.48,
+  "text": "And yet what xAI does have is a"
+ },
+ {
+  "start": 1138.36,
+  "duration": 3.24,
+  "text": "warehouse full of GPUs with too little"
+ },
+ {
+  "start": 1140.52,
+  "duration": 3.88,
+  "text": "to do."
+ },
+ {
+  "start": 1141.6,
+  "duration": 5.04,
+  "text": "So, as Derek Thompson put it, Musk has"
+ },
+ {
+  "start": 1144.4,
+  "duration": 3.84,
+  "text": "compute capacity but a meh model, and"
+ },
+ {
+  "start": 1146.64,
+  "duration": 4.04,
+  "text": "Anthropic has a fantastic model with"
+ },
+ {
+  "start": 1148.24,
+  "duration": 3.96,
+  "text": "weak capacity. And thus a new alliance"
+ },
+ {
+  "start": 1150.68,
+  "duration": 2.76,
+  "text": "is born."
+ },
+ {
+  "start": 1152.2,
+  "duration": 3.08,
+  "text": "Now, if you'll give me a minute to"
+ },
+ {
+  "start": 1153.44,
+  "duration": 2.92,
+  "text": "speculate a little bit farther, I think"
+ },
+ {
+  "start": 1155.28,
+  "duration": 2.8,
+  "text": "it's interesting to broaden out this"
+ },
+ {
+  "start": 1156.36,
+  "duration": 3.36,
+  "text": "conversation even beyond the very"
+ },
+ {
+  "start": 1158.08,
+  "duration": 3.88,
+  "text": "obvious and specific reasons for that"
+ },
+ {
+  "start": 1159.72,
+  "duration": 4.2,
+  "text": "tie-up. I think Elon has two things"
+ },
+ {
+  "start": 1161.96,
+  "duration": 4.64,
+  "text": "going on simultaneously."
+ },
+ {
+  "start": 1163.92,
+  "duration": 4.48,
+  "text": "First, in Elon world, it seems to me"
+ },
+ {
+  "start": 1166.6,
+  "duration": 3.2,
+  "text": "that he's long wanted the one company to"
+ },
+ {
+  "start": 1168.4,
+  "duration": 3.24,
+  "text": "rule them all."
+ },
+ {
+  "start": 1169.8,
+  "duration": 3.72,
+  "text": "It's always felt like over time there"
+ },
+ {
+  "start": 1171.64,
+  "duration": 3.32,
+  "text": "would be some inevitable realignment"
+ },
+ {
+  "start": 1173.52,
+  "duration": 3.6,
+  "text": "between all the pieces of the Elon"
+ },
+ {
+  "start": 1174.96,
+  "duration": 3.96,
+  "text": "empire. I mean, the man puts X in all"
+ },
+ {
+  "start": 1177.12,
+  "duration": 3.88,
+  "text": "the names, at least in part so they"
+ },
+ {
+  "start": 1178.92,
+  "duration": 4.32,
+  "text": "could be easily recombined."
+ },
+ {
+  "start": 1181.0,
+  "duration": 4.56,
+  "text": "Now, for a long time the obvious bet as"
+ },
+ {
+  "start": 1183.24,
+  "duration": 4.4,
+  "text": "the leading entity was Tesla,"
+ },
+ {
+  "start": 1185.56,
+  "duration": 4.04,
+  "text": "which is why I predicted last year that"
+ },
+ {
+  "start": 1187.64,
+  "duration": 4.16,
+  "text": "if XAI couldn't really break out of its"
+ },
+ {
+  "start": 1189.6,
+  "duration": 5.2,
+  "text": "very behind position, I thought Elon"
+ },
+ {
+  "start": 1191.8,
+  "duration": 4.48,
+  "text": "would end up folding XAI in with Tesla."
+ },
+ {
+  "start": 1194.8,
+  "duration": 3.68,
+  "text": "Now, there was this weird little X"
+ },
+ {
+  "start": 1196.28,
+  "duration": 4.92,
+  "text": "factor, see what I did there, for a"
+ },
+ {
+  "start": 1198.48,
+  "duration": 4.92,
+  "text": "while, of whether XAI itself could"
+ },
+ {
+  "start": 1201.2,
+  "duration": 3.36,
+  "text": "somehow surge and become the one to own"
+ },
+ {
+  "start": 1203.4,
+  "duration": 2.56,
+  "text": "them all."
+ },
+ {
+  "start": 1204.56,
+  "duration": 2.56,
+  "text": "The only reason that was even possible"
+ },
+ {
+  "start": 1205.96,
+  "duration": 2.96,
+  "text": "was the clear recognition of the"
+ },
+ {
+  "start": 1207.12,
+  "duration": 4.16,
+  "text": "significance of AI relative to all the"
+ },
+ {
+  "start": 1208.92,
+  "duration": 4.08,
+  "text": "other industries. And for a minute there"
+ },
+ {
+  "start": 1211.28,
+  "duration": 4.6,
+  "text": "was a hint that maybe that would be the"
+ },
+ {
+  "start": 1213.0,
+  "duration": 4.4,
+  "text": "direction as XAI folded in X, but"
+ },
+ {
+  "start": 1215.88,
+  "duration": 2.92,
+  "text": "obviously reality intervened and the one"
+ },
+ {
+  "start": 1217.4,
+  "duration": 2.48,
+  "text": "company to rule them all in the Elon"
+ },
+ {
+  "start": 1218.8,
+  "duration": 2.24,
+  "text": "empire was going to be something"
+ },
+ {
+  "start": 1219.88,
+  "duration": 3.68,
+  "text": "different."
+ },
+ {
+  "start": 1221.04,
+  "duration": 4.44,
+  "text": "Now, second, Elon has for a long time"
+ },
+ {
+  "start": 1223.56,
+  "duration": 3.92,
+  "text": "been determined to have an outsized hand"
+ },
+ {
+  "start": 1225.48,
+  "duration": 4.56,
+  "text": "in shaping AI, which to him is"
+ },
+ {
+  "start": 1227.48,
+  "duration": 4.0,
+  "text": "absolutely not about making more money"
+ },
+ {
+  "start": 1230.04,
+  "duration": 2.68,
+  "text": "and much more about him thinking he"
+ },
+ {
+  "start": 1231.48,
+  "duration": 2.56,
+  "text": "needs to be involved for the sake of"
+ },
+ {
+  "start": 1232.72,
+  "duration": 2.2,
+  "text": "humanity."
+ },
+ {
+  "start": 1234.04,
+  "duration": 3.12,
+  "text": "And there have kind of always been"
+ },
+ {
+  "start": 1234.92,
+  "duration": 3.92,
+  "text": "examples of these two goals potentially"
+ },
+ {
+  "start": 1237.16,
+  "duration": 3.72,
+  "text": "intersecting. I'm thinking especially of"
+ },
+ {
+  "start": 1238.84,
+  "duration": 3.4,
+  "text": "him wanting to fold OpenAI into Tesla"
+ },
+ {
+  "start": 1240.88,
+  "duration": 3.28,
+  "text": "early on."
+ },
+ {
+  "start": 1242.24,
+  "duration": 3.96,
+  "text": "So, how did we get to SpaceX being the"
+ },
+ {
+  "start": 1244.16,
+  "duration": 3.88,
+  "text": "absorber rather than Tesla? And what"
+ },
+ {
+  "start": 1246.2,
+  "duration": 3.72,
+  "text": "does it suggest about what SpaceX is"
+ },
+ {
+  "start": 1248.04,
+  "duration": 3.48,
+  "text": "actually going to become?"
+ },
+ {
+  "start": 1249.92,
+  "duration": 3.52,
+  "text": "Now, first note, I wouldn't go so far as"
+ },
+ {
+  "start": 1251.52,
+  "duration": 3.8,
+  "text": "to predict that Elon will absolutely"
+ },
+ {
+  "start": 1253.44,
+  "duration": 4.04,
+  "text": "continue to drive consolidation into one"
+ },
+ {
+  "start": 1255.32,
+  "duration": 3.88,
+  "text": "company. He may ultimately be fine with"
+ },
+ {
+  "start": 1257.48,
+  "duration": 3.24,
+  "text": "Tesla and SpaceX as being in separate"
+ },
+ {
+  "start": 1259.2,
+  "duration": 2.8,
+  "text": "with smaller things like Boring off on"
+ },
+ {
+  "start": 1260.72,
+  "duration": 3.56,
+  "text": "the side."
+ },
+ {
+  "start": 1262.0,
+  "duration": 4.0,
+  "text": "But there are some inside AI and outside"
+ },
+ {
+  "start": 1264.28,
+  "duration": 3.68,
+  "text": "AI reasons why I think SpaceX has"
+ },
+ {
+  "start": 1266.0,
+  "duration": 3.4,
+  "text": "started to make more sense as one of the"
+ },
+ {
+  "start": 1267.96,
+  "duration": 3.0,
+  "text": "crown jewels."
+ },
+ {
+  "start": 1269.4,
+  "duration": 3.56,
+  "text": "First, Tesla has stalled at least a"
+ },
+ {
+  "start": 1270.96,
+  "duration": 4.08,
+  "text": "little bit. Fully autonomous driving is"
+ },
+ {
+  "start": 1272.96,
+  "duration": 4.4,
+  "text": "really, really hard technologically, and"
+ },
+ {
+  "start": 1275.04,
+  "duration": 4.6,
+  "text": "it also has major barriers outside of"
+ },
+ {
+  "start": 1277.36,
+  "duration": 4.6,
+  "text": "technology in society and politics and"
+ },
+ {
+  "start": 1279.64,
+  "duration": 4.28,
+  "text": "consumers that no matter how good Elon"
+ },
+ {
+  "start": 1281.96,
+  "duration": 3.76,
+  "text": "is at building stuff, he can't just"
+ },
+ {
+  "start": 1283.92,
+  "duration": 3.16,
+  "text": "force his way through."
+ },
+ {
+  "start": 1285.72,
+  "duration": 4.12,
+  "text": "I also think the fact that Tesla has"
+ },
+ {
+  "start": 1287.08,
+  "duration": 4.92,
+  "text": "Optimus creates an easy path for future"
+ },
+ {
+  "start": 1289.84,
+  "duration": 3.92,
+  "text": "tie-ups, making it less essential to do"
+ },
+ {
+  "start": 1292.0,
+  "duration": 4.12,
+  "text": "the tying up now."
+ },
+ {
+  "start": 1293.76,
+  "duration": 4.52,
+  "text": "Now, in terms of SpaceX itself, it's"
+ },
+ {
+  "start": 1296.12,
+  "duration": 4.36,
+  "text": "kind of gotten clearer and clearer,"
+ },
+ {
+  "start": 1298.28,
+  "duration": 3.92,
+  "text": "especially as the demand for tokens has"
+ },
+ {
+  "start": 1300.48,
+  "duration": 2.92,
+  "text": "started to so dramatically outstrip the"
+ },
+ {
+  "start": 1302.2,
+  "duration": 3.48,
+  "text": "supply,"
+ },
+ {
+  "start": 1303.4,
+  "duration": 4.8,
+  "text": "that king-making in AI was in many cases"
+ },
+ {
+  "start": 1305.68,
+  "duration": 4.52,
+  "text": "going to be about compute."
+ },
+ {
+  "start": 1308.2,
+  "duration": 4.24,
+  "text": "When Elon announced the merger of SpaceX"
+ },
+ {
+  "start": 1310.2,
+  "duration": 4.12,
+  "text": "and xAI, one of the big things he talked"
+ },
+ {
+  "start": 1312.44,
+  "duration": 3.2,
+  "text": "about was his vision of future orbital"
+ },
+ {
+  "start": 1314.32,
+  "duration": 3.4,
+  "text": "data centers."
+ },
+ {
+  "start": 1315.64,
+  "duration": 4.24,
+  "text": "I think they are to him much more than a"
+ },
+ {
+  "start": 1317.72,
+  "duration": 4.12,
+  "text": "market narrative. I think he actually"
+ },
+ {
+  "start": 1319.88,
+  "duration": 3.84,
+  "text": "sees it as a key part of the future,"
+ },
+ {
+  "start": 1321.84,
+  "duration": 3.08,
+  "text": "both of the company SpaceX, but also of"
+ },
+ {
+  "start": 1323.72,
+  "duration": 3.84,
+  "text": "the world."
+ },
+ {
+  "start": 1324.92,
+  "duration": 4.48,
+  "text": "And in that light, the fold-in of xAI"
+ },
+ {
+  "start": 1327.56,
+  "duration": 4.6,
+  "text": "might have been less about giving SpaceX"
+ },
+ {
+  "start": 1329.4,
+  "duration": 5.12,
+  "text": "a model in Grok, and more about giving"
+ },
+ {
+  "start": 1332.16,
+  "duration": 4.2,
+  "text": "SpaceX a footprint in terrestrial"
+ },
+ {
+  "start": 1334.52,
+  "duration": 3.84,
+  "text": "compute and supercomputers that it could"
+ },
+ {
+  "start": 1336.36,
+  "duration": 3.56,
+  "text": "then build upon up from the Earth into"
+ },
+ {
+  "start": 1338.36,
+  "duration": 3.48,
+  "text": "the sky."
+ },
+ {
+  "start": 1339.92,
+  "duration": 4.48,
+  "text": "The point is, while everyone was talking"
+ },
+ {
+  "start": 1341.84,
+  "duration": 5.0,
+  "text": "about the SpaceX xAI tie-up in either"
+ },
+ {
+  "start": 1344.4,
+  "duration": 4.2,
+  "text": "very mechanical bailout type terms or"
+ },
+ {
+  "start": 1346.84,
+  "duration": 3.84,
+  "text": "seeing it as SpaceX somehow having a"
+ },
+ {
+  "start": 1348.6,
+  "duration": 3.68,
+  "text": "connection to a model like Grok,"
+ },
+ {
+  "start": 1350.68,
+  "duration": 3.16,
+  "text": "my argument is that maybe it actually"
+ },
+ {
+  "start": 1352.28,
+  "duration": 4.0,
+  "text": "had nothing to do with models and was"
+ },
+ {
+  "start": 1353.84,
+  "duration": 4.56,
+  "text": "always about compute positioning."
+ },
+ {
+  "start": 1356.28,
+  "duration": 4.08,
+  "text": "Basically, I think that Elon started to"
+ },
+ {
+  "start": 1358.4,
+  "duration": 3.6,
+  "text": "realize that his best path to"
+ },
+ {
+  "start": 1360.36,
+  "duration": 4.16,
+  "text": "influencing the shape of this most"
+ },
+ {
+  "start": 1362.0,
+  "duration": 4.56,
+  "text": "important industry was being akin to"
+ },
+ {
+  "start": 1364.52,
+  "duration": 3.56,
+  "text": "Jensen Huang as opposed to being akin to"
+ },
+ {
+  "start": 1366.56,
+  "duration": 3.36,
+  "text": "Sam and Dario."
+ },
+ {
+  "start": 1368.08,
+  "duration": 3.32,
+  "text": "And if I'm right, and that is the way he"
+ },
+ {
+  "start": 1369.92,
+  "duration": 2.96,
+  "text": "started to think about it, there was"
+ },
+ {
+  "start": 1371.4,
+  "duration": 3.04,
+  "text": "then literally no question of who he was"
+ },
+ {
+  "start": 1372.88,
+  "duration": 3.4,
+  "text": "going to work with."
+ },
+ {
+  "start": 1374.44,
+  "duration": 3.76,
+  "text": "It was Anthropic or bust."
+ },
+ {
+  "start": 1376.28,
+  "duration": 4.36,
+  "text": "Hold aside the leans right, leans left,"
+ },
+ {
+  "start": 1378.2,
+  "duration": 4.24,
+  "text": "woke, anti-woke politics, I I think that"
+ },
+ {
+  "start": 1380.64,
+  "duration": 3.84,
+  "text": "Anthropic's extremely disciplined and"
+ },
+ {
+  "start": 1382.44,
+  "duration": 3.44,
+  "text": "focused approach, you could argue is"
+ },
+ {
+  "start": 1384.48,
+  "duration": 2.68,
+  "text": "more aligned with how Elon builds"
+ },
+ {
+  "start": 1385.88,
+  "duration": 2.72,
+  "text": "things, at least within the context of"
+ },
+ {
+  "start": 1387.16,
+  "duration": 3.16,
+  "text": "specific companies."
+ },
+ {
+  "start": 1388.6,
+  "duration": 3.64,
+  "text": "And secondly, and more importantly,"
+ },
+ {
+  "start": 1390.32,
+  "duration": 4.32,
+  "text": "obviously the Sam Altman feud is so deep"
+ },
+ {
+  "start": 1392.24,
+  "duration": 4.28,
+  "text": "that Anthropic was the only option."
+ },
+ {
+  "start": 1394.64,
+  "duration": 4.08,
+  "text": "Now, I don't think that Elon is going to"
+ },
+ {
+  "start": 1396.52,
+  "duration": 4.64,
+  "text": "abandon Grok immediately. I think he's"
+ },
+ {
+  "start": 1398.72,
+  "duration": 4.72,
+  "text": "going to leave optionality around Grok."
+ },
+ {
+  "start": 1401.16,
+  "duration": 4.48,
+  "text": "Grok will remain an option because A,"
+ },
+ {
+  "start": 1403.44,
+  "duration": 3.52,
+  "text": "X/Twitter has to have something like"
+ },
+ {
+  "start": 1405.64,
+  "duration": 3.92,
+  "text": "this integrated and there are benefits"
+ },
+ {
+  "start": 1406.96,
+  "duration": 4.52,
+  "text": "to owning it. And B, it also gives them"
+ },
+ {
+  "start": 1409.56,
+  "duration": 3.88,
+  "text": "more options when it comes to Optimus as"
+ },
+ {
+  "start": 1411.48,
+  "duration": 3.72,
+  "text": "embodied robotics mature."
+ },
+ {
+  "start": 1413.44,
+  "duration": 4.96,
+  "text": "Still, I think that we are seeing a"
+ },
+ {
+  "start": 1415.2,
+  "duration": 4.84,
+  "text": "pretty clear and full pivot. As part of"
+ },
+ {
+  "start": 1418.4,
+  "duration": 3.28,
+  "text": "this, Elon even tweeted XAI will be"
+ },
+ {
+  "start": 1420.04,
+  "duration": 3.96,
+  "text": "dissolved as a separate company, so it"
+ },
+ {
+  "start": 1421.68,
+  "duration": 3.92,
+  "text": "will just be SpaceX AI, the AI products"
+ },
+ {
+  "start": 1424.0,
+  "duration": 3.44,
+  "text": "from SpaceX."
+ },
+ {
+  "start": 1425.6,
+  "duration": 6.12,
+  "text": "Effectively, I think we're seeing Elon's"
+ },
+ {
+  "start": 1427.44,
+  "duration": 7.68,
+  "text": "AI play 3.0. 1.0 was as OpenAI funder,"
+ },
+ {
+  "start": 1431.72,
+  "duration": 5.08,
+  "text": "2.0 was as model builder, 3.0 is as"
+ },
+ {
+  "start": 1435.12,
+  "duration": 3.36,
+  "text": "compute czar."
+ },
+ {
+  "start": 1436.8,
+  "duration": 4.48,
+  "text": "And a lot of people are really bullish"
+ },
+ {
+  "start": 1438.48,
+  "duration": 4.16,
+  "text": "on the shift. Rohit writes, \"Elon's"
+ },
+ {
+  "start": 1441.28,
+  "duration": 3.44,
+  "text": "extraordinary hardware genius shows up"
+ },
+ {
+  "start": 1442.64,
+  "duration": 3.68,
+  "text": "again. He fumbled the model, but built a"
+ },
+ {
+  "start": 1444.72,
+  "duration": 3.84,
+  "text": "neo cloud that's highly competitive and"
+ },
+ {
+  "start": 1446.32,
+  "duration": 3.8,
+  "text": "works great for Frontier Labs.\""
+ },
+ {
+  "start": 1448.56,
+  "duration": 3.12,
+  "text": "Rohit added, \"For what it's worth, I"
+ },
+ {
+  "start": 1450.12,
+  "duration": 3.36,
+  "text": "pointed this out 4 years ago, that"
+ },
+ {
+  "start": 1451.68,
+  "duration": 3.36,
+  "text": "Elon's unique talent is suited better to"
+ },
+ {
+  "start": 1453.48,
+  "duration": 3.24,
+  "text": "some things than others."
+ },
+ {
+  "start": 1455.04,
+  "duration": 3.68,
+  "text": "Getting a neo cloud up and running is a"
+ },
+ {
+  "start": 1456.72,
+  "duration": 3.08,
+  "text": "known but hard thing to do."
+ },
+ {
+  "start": 1458.72,
+  "duration": 3.08,
+  "text": "Getting a model to be as good as the"
+ },
+ {
+  "start": 1459.8,
+  "duration": 3.24,
+  "text": "Frontier Labs is an unknown and hard"
+ },
+ {
+  "start": 1461.8,
+  "duration": 3.16,
+  "text": "thing to do.\""
+ },
+ {
+  "start": 1463.04,
+  "duration": 2.84,
+  "text": "In that essay, Rohit had written, \"Elon"
+ },
+ {
+  "start": 1464.96,
+  "duration": 3.0,
+  "text": "looks at something he wants to"
+ },
+ {
+  "start": 1465.88,
+  "duration": 3.48,
+  "text": "accomplish, and as long as existing"
+ },
+ {
+  "start": 1467.96,
+  "duration": 3.24,
+  "text": "knowledge is able to create what he"
+ },
+ {
+  "start": 1469.36,
+  "duration": 3.52,
+  "text": "wants theoretically, acts as an"
+ },
+ {
+  "start": 1471.2,
+  "duration": 4.0,
+  "text": "individual shelling point to coalesce"
+ },
+ {
+  "start": 1472.88,
+  "duration": 4.0,
+  "text": "money and talent around to create them.\""
+ },
+ {
+  "start": 1475.2,
+  "duration": 3.48,
+  "text": "Rohit continued though, \"Things that he"
+ },
+ {
+  "start": 1476.88,
+  "duration": 3.64,
+  "text": "has not done for which he gets flak are"
+ },
+ {
+  "start": 1478.68,
+  "duration": 3.32,
+  "text": "areas which are not purely dependent on"
+ },
+ {
+  "start": 1480.52,
+  "duration": 2.96,
+  "text": "doer energy."
+ },
+ {
+  "start": 1482.0,
+  "duration": 2.92,
+  "text": "These are things that require thinkers"
+ },
+ {
+  "start": 1483.48,
+  "duration": 3.36,
+  "text": "and some sort of step change in our"
+ },
+ {
+  "start": 1484.92,
+  "duration": 3.4,
+  "text": "ability. Alas, we know of no way to"
+ },
+ {
+  "start": 1486.84,
+  "duration": 3.4,
+  "text": "throw resources at one end and get"
+ },
+ {
+  "start": 1488.32,
+  "duration": 3.24,
+  "text": "thinkers at the other end.\""
+ },
+ {
+  "start": 1490.24,
+  "duration": 2.64,
+  "text": "Derek Thompson wrote, \"I don't think"
+ },
+ {
+  "start": 1491.56,
+  "duration": 2.92,
+  "text": "I've seen this take before, but I like"
+ },
+ {
+  "start": 1492.88,
+  "duration": 3.24,
+  "text": "it. Musk has been world-leading at"
+ },
+ {
+  "start": 1494.48,
+  "duration": 3.8,
+  "text": "compressing money, resources, and time"
+ },
+ {
+  "start": 1496.12,
+  "duration": 3.32,
+  "text": "to make known but hard things at scale,"
+ },
+ {
+  "start": 1498.28,
+  "duration": 2.52,
+  "text": "but he's less than world-leading at"
+ },
+ {
+  "start": 1499.44,
+  "duration": 3.64,
+  "text": "cracking open breakthroughs in more"
+ },
+ {
+  "start": 1500.8,
+  "duration": 4.12,
+  "text": "unknown spaces. So, it would make sense"
+ },
+ {
+  "start": 1503.08,
+  "duration": 3.96,
+  "text": "that XAI is lagging the frontier labs on"
+ },
+ {
+  "start": 1504.92,
+  "duration": 3.64,
+  "text": "new AI agents, but also that he'd have"
+ },
+ {
+  "start": 1507.04,
+  "duration": 3.44,
+  "text": "built a Neocloud to power those models"
+ },
+ {
+  "start": 1508.56,
+  "duration": 3.64,
+  "text": "once they run short of compute."
+ },
+ {
+  "start": 1510.48,
+  "duration": 3.8,
+  "text": "Dean Ball writes, \"I would be very"
+ },
+ {
+  "start": 1512.2,
+  "duration": 3.64,
+  "text": "excited about an XAI SpaceX as an AI"
+ },
+ {
+  "start": 1514.28,
+  "duration": 3.32,
+  "text": "infrastructure firm."
+ },
+ {
+  "start": 1515.84,
+  "duration": 3.2,
+  "text": "Elon's great strength, where he is truly"
+ },
+ {
+  "start": 1517.6,
+  "duration": 2.48,
+  "text": "goated, is building things in the real"
+ },
+ {
+  "start": 1519.04,
+  "duration": 2.88,
+  "text": "world."
+ },
+ {
+  "start": 1520.08,
+  "duration": 4.92,
+  "text": "Colossus came online faster than anyone"
+ },
+ {
+  "start": 1521.92,
+  "duration": 5.24,
+  "text": "expected. Huge asset for America.\""
+ },
+ {
+  "start": 1525.0,
+  "duration": 3.56,
+  "text": "As Aaron Levie simply put it, \"SpaceX as"
+ },
+ {
+  "start": 1527.16,
+  "duration": 3.32,
+  "text": "a vertically integrated AI compute"
+ },
+ {
+  "start": 1528.56,
+  "duration": 3.2,
+  "text": "company makes an insane amount of"
+ },
+ {
+  "start": 1530.48,
+  "duration": 2.48,
+  "text": "sense.\""
+ },
+ {
+  "start": 1531.76,
+  "duration": 3.32,
+  "text": "Now, to the extent that anyone has"
+ },
+ {
+  "start": 1532.96,
+  "duration": 4.24,
+  "text": "concerns, it's that consolidation and"
+ },
+ {
+  "start": 1535.08,
+  "duration": 3.68,
+  "text": "fewer players in a market does have real"
+ },
+ {
+  "start": 1537.2,
+  "duration": 3.64,
+  "text": "consequences."
+ },
+ {
+  "start": 1538.76,
+  "duration": 4.0,
+  "text": "But by and large, the ghost of David"
+ },
+ {
+  "start": 1540.84,
+  "duration": 3.36,
+  "text": "Ricardo is celebrating as everyone"
+ },
+ {
+  "start": 1542.76,
+  "duration": 4.24,
+  "text": "remembers the incredible power of"
+ },
+ {
+  "start": 1544.2,
+  "duration": 4.12,
+  "text": "comparative advantage. Ken Varda writes,"
+ },
+ {
+  "start": 1547.0,
+  "duration": 3.08,
+  "text": "\"Good thing Elon won't be wasting"
+ },
+ {
+  "start": 1548.32,
+  "duration": 3.16,
+  "text": "compute on random dead ends anymore, and"
+ },
+ {
+  "start": 1550.08,
+  "duration": 2.68,
+  "text": "Anthropic won't be nerfing Claude like"
+ },
+ {
+  "start": 1551.48,
+  "duration": 2.56,
+  "text": "it's a hobby.\""
+ },
+ {
+  "start": 1552.76,
+  "duration": 2.84,
+  "text": "And I think maybe the best summary of"
+ },
+ {
+  "start": 1554.04,
+  "duration": 3.88,
+  "text": "how everyone feels comes from Chubby,"
+ },
+ {
+  "start": 1555.6,
+  "duration": 4.32,
+  "text": "who writes, \"Okay, Anthropic, show us"
+ },
+ {
+  "start": 1557.92,
+  "duration": 5.52,
+  "text": "what you could do with 220,000 Nvidia"
+ },
+ {
+  "start": 1559.92,
+  "duration": 5.24,
+  "text": "GPUs and 310 MW.\""
+ },
+ {
+  "start": 1563.44,
+  "duration": 3.36,
+  "text": "Sometimes everyone talks about things"
+ },
+ {
+  "start": 1565.16,
+  "duration": 3.84,
+  "text": "because they're interesting, juicy,"
+ },
+ {
+  "start": 1566.8,
+  "duration": 3.52,
+  "text": "tabloid-style things to talk about. And"
+ },
+ {
+  "start": 1569.0,
+  "duration": 3.04,
+  "text": "unfortunately, a lot of the discourse"
+ },
+ {
+  "start": 1570.32,
+  "duration": 3.0,
+  "text": "around Elon Musk can fall into that"
+ },
+ {
+  "start": 1572.04,
+  "duration": 3.88,
+  "text": "category."
+ },
+ {
+  "start": 1573.32,
+  "duration": 4.88,
+  "text": "This is not one of those. This is a"
+ },
+ {
+  "start": 1575.92,
+  "duration": 4.48,
+  "text": "massive deal that has the potential to"
+ },
+ {
+  "start": 1578.2,
+  "duration": 3.52,
+  "text": "significantly reshape the face of the AI"
+ },
+ {
+  "start": 1580.4,
+  "duration": 3.48,
+  "text": "battle."
+ },
+ {
+  "start": 1581.72,
+  "duration": 3.84,
+  "text": "So, what happens next? Will OpenAI"
+ },
+ {
+  "start": 1583.88,
+  "duration": 3.48,
+  "text": "respond with their own deal?"
+ },
+ {
+  "start": 1585.56,
+  "duration": 4.08,
+  "text": "Will Mark Zuckerberg swoop as another"
+ },
+ {
+  "start": 1587.36,
+  "duration": 3.72,
+  "text": "Elon-style compute capacity kingmaker?"
+ },
+ {
+  "start": 1589.64,
+  "duration": 3.8,
+  "text": "No one knows for sure, but boy, oh, boy,"
+ },
+ {
+  "start": 1591.08,
+  "duration": 3.64,
+  "text": "there is never a dull day in AI land."
+ },
+ {
+  "start": 1593.44,
+  "duration": 3.16,
+  "text": "For now, that is going to do it for the"
+ },
+ {
+  "start": 1594.72,
+  "duration": 3.6,
+  "text": "AI Daily Brief. Appreciate you listening"
+ },
+ {
+  "start": 1596.6,
+  "duration": 4.8,
+  "text": "or watching, as always, and until next"
+ },
+ {
+  "start": 1598.32,
+  "duration": 3.08,
+  "text": "time, peace."
+ }
+]

@@ -1,0 +1,4317 @@
+[
+ {
+  "start": 0.8,
+  "duration": 4.96,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 2.72,
+  "duration": 5.44,
+  "text": "Fable 5 is officially coming back."
+ },
+ {
+  "start": 5.76,
+  "duration": 4.8,
+  "text": "Before that in the headlines, the quest"
+ },
+ {
+  "start": 8.16,
+  "duration": 4.08,
+  "text": "to cut inference costs. The AI Daily"
+ },
+ {
+  "start": 10.56,
+  "duration": 3.2,
+  "text": "Brief is a daily podcast and video about"
+ },
+ {
+  "start": 12.24,
+  "duration": 4.24,
+  "text": "the most important news and discussions"
+ },
+ {
+  "start": 13.76,
+  "duration": 2.72,
+  "text": "in AI."
+ },
+ {
+  "start": 16.88,
+  "duration": 3.12,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 18.04,
+  "duration": 4.16,
+  "text": "headlines edition, all the daily AI news"
+ },
+ {
+  "start": 20.0,
+  "duration": 4.48,
+  "text": "you need in around 5 minutes. We kick"
+ },
+ {
+  "start": 22.2,
+  "duration": 3.84,
+  "text": "off today with a story that is very of"
+ },
+ {
+  "start": 24.48,
+  "duration": 3.64,
+  "text": "the zeitgeist that we are living in"
+ },
+ {
+  "start": 26.04,
+  "duration": 4.8,
+  "text": "right now. OpenAI has found a way to"
+ },
+ {
+  "start": 28.12,
+  "duration": 4.72,
+  "text": "slash their inference costs in half,"
+ },
+ {
+  "start": 30.84,
+  "duration": 3.68,
+  "text": "sort of. This headline from The"
+ },
+ {
+  "start": 32.84,
+  "duration": 3.64,
+  "text": "Information grabbed a lot of attention,"
+ },
+ {
+  "start": 34.52,
+  "duration": 3.72,
+  "text": "and understandably so. Everyone right"
+ },
+ {
+  "start": 36.48,
+  "duration": 3.6,
+  "text": "now is looking for new approaches to"
+ },
+ {
+  "start": 38.24,
+  "duration": 3.64,
+  "text": "token efficiency, and the implications"
+ },
+ {
+  "start": 40.08,
+  "duration": 3.2,
+  "text": "of these searches have huge impacts on"
+ },
+ {
+  "start": 41.88,
+  "duration": 2.8,
+  "text": "the business models and the companies"
+ },
+ {
+  "start": 43.28,
+  "duration": 3.64,
+  "text": "that are shaping AI and the larger"
+ },
+ {
+  "start": 44.68,
+  "duration": 3.48,
+  "text": "market structures they're operating in."
+ },
+ {
+  "start": 46.92,
+  "duration": 3.4,
+  "text": "Now, when it comes to this article"
+ },
+ {
+  "start": 48.16,
+  "duration": 4.04,
+  "text": "specifically, the details do suggest"
+ },
+ {
+  "start": 50.32,
+  "duration": 4.4,
+  "text": "that it might be a smaller breakthrough"
+ },
+ {
+  "start": 52.2,
+  "duration": 4.36,
+  "text": "than it appears at first. The claim is"
+ },
+ {
+  "start": 54.72,
+  "duration": 3.8,
+  "text": "that OpenAI researchers have discovered"
+ },
+ {
+  "start": 56.56,
+  "duration": 3.72,
+  "text": "a new optimization technique that cut"
+ },
+ {
+  "start": 58.52,
+  "duration": 3.88,
+  "text": "their inference requirements in half for"
+ },
+ {
+  "start": 60.28,
+  "duration": 4.0,
+  "text": "existing models. When the technique was"
+ },
+ {
+  "start": 62.4,
+  "duration": 3.96,
+  "text": "applied to ChatGPT users who weren't"
+ },
+ {
+  "start": 64.28,
+  "duration": 3.84,
+  "text": "signed into the service, OpenAI was able"
+ },
+ {
+  "start": 66.36,
+  "duration": 4.44,
+  "text": "to serve that entire user base segment"
+ },
+ {
+  "start": 68.12,
+  "duration": 4.88,
+  "text": "on just 100 GPUs. The OpenAI source"
+ },
+ {
+  "start": 70.8,
+  "duration": 3.92,
+  "text": "didn't disclose what the technique was."
+ },
+ {
+  "start": 73.0,
+  "duration": 3.76,
+  "text": "The Information speculated it could be"
+ },
+ {
+  "start": 74.72,
+  "duration": 3.8,
+  "text": "quantization, cache optimization,"
+ },
+ {
+  "start": 76.76,
+  "duration": 3.56,
+  "text": "batching queries, or routing queries to"
+ },
+ {
+  "start": 78.52,
+  "duration": 3.36,
+  "text": "a lower power would improve service for"
+ },
+ {
+  "start": 80.32,
+  "duration": 4.56,
+  "text": "OpenAI larger models without"
+ },
+ {
+  "start": 81.88,
+  "duration": 3.0,
+  "text": "compromises."
+ },
+ {
+  "start": 85.52,
+  "duration": 3.24,
+  "text": "The universal truth that there is no"
+ },
+ {
+  "start": 86.92,
+  "duration": 3.68,
+  "text": "free lunch remains, and most attempts at"
+ },
+ {
+  "start": 88.76,
+  "duration": 3.48,
+  "text": "optimizing inference come at the expense"
+ },
+ {
+  "start": 90.6,
+  "duration": 2.88,
+  "text": "of model quality."
+ },
+ {
+  "start": 92.24,
+  "duration": 3.12,
+  "text": "Now, there's also the question of what"
+ },
+ {
+  "start": 93.48,
+  "duration": 3.64,
+  "text": "it means that OpenAI is testing this"
+ },
+ {
+  "start": 95.36,
+  "duration": 4.12,
+  "text": "technique on a tiny batch of their least"
+ },
+ {
+  "start": 97.12,
+  "duration": 3.72,
+  "text": "engaged users. That might be a totally"
+ },
+ {
+  "start": 99.48,
+  "duration": 3.32,
+  "text": "reasonable starting point, just the"
+ },
+ {
+  "start": 100.84,
+  "duration": 3.56,
+  "text": "first test of many, or it could be a"
+ },
+ {
+  "start": 102.8,
+  "duration": 2.64,
+  "text": "cautionary approach that implies that"
+ },
+ {
+  "start": 104.4,
+  "duration": 3.32,
+  "text": "there's some risk of quality"
+ },
+ {
+  "start": 105.44,
+  "duration": 3.72,
+  "text": "degradation. The TLDR is that while"
+ },
+ {
+  "start": 107.72,
+  "duration": 3.12,
+  "text": "there seems to be something interesting"
+ },
+ {
+  "start": 109.16,
+  "duration": 3.28,
+  "text": "here, we probably shouldn't treat it"
+ },
+ {
+  "start": 110.84,
+  "duration": 3.6,
+  "text": "like some sort of silver bullet to"
+ },
+ {
+  "start": 112.44,
+  "duration": 3.68,
+  "text": "resolve the compute crunch. Still, The"
+ },
+ {
+  "start": 114.44,
+  "duration": 3.8,
+  "text": "Information's Stephanie Palazzolo is"
+ },
+ {
+  "start": 116.12,
+  "duration": 4.24,
+  "text": "convinced that OpenAI is onto something."
+ },
+ {
+  "start": 118.24,
+  "duration": 3.92,
+  "text": "In an accompanying video, she said,"
+ },
+ {
+  "start": 120.36,
+  "duration": 3.119,
+  "text": "\"This is a very important secret sauce"
+ },
+ {
+  "start": 122.16,
+  "duration": 3.36,
+  "text": "for them that they don't even want to"
+ },
+ {
+  "start": 123.479,
+  "duration": 3.601,
+  "text": "tell other OpenAI employees about"
+ },
+ {
+  "start": 125.52,
+  "duration": 3.32,
+  "text": "because if these things leak, it can"
+ },
+ {
+  "start": 127.08,
+  "duration": 3.28,
+  "text": "quickly be picked up by other labs,"
+ },
+ {
+  "start": 128.84,
+  "duration": 3.119,
+  "text": "which can also then use that to lower"
+ },
+ {
+  "start": 130.36,
+  "duration": 4.12,
+  "text": "their costs. This is something they're"
+ },
+ {
+  "start": 131.959,
+  "duration": 3.921,
+  "text": "holding very close to their chests.\""
+ },
+ {
+  "start": 134.48,
+  "duration": 3.52,
+  "text": "Now, many pointed to a new research"
+ },
+ {
+  "start": 135.88,
+  "duration": 3.84,
+  "text": "paper from DeepSeek, which open-sources"
+ },
+ {
+  "start": 138.0,
+  "duration": 3.4,
+  "text": "a speculative decoder system called"
+ },
+ {
+  "start": 139.72,
+  "duration": 4.2,
+  "text": "DeepSpark that can speed up inference by"
+ },
+ {
+  "start": 141.4,
+  "duration": 4.28,
+  "text": "85% during testing on small models. Now,"
+ },
+ {
+  "start": 143.92,
+  "duration": 4.32,
+  "text": "it's unclear how DeepSpark impacts"
+ },
+ {
+  "start": 145.68,
+  "duration": 4.8,
+  "text": "costs, but it is a reminder that"
+ },
+ {
+  "start": 148.24,
+  "duration": 4.0,
+  "text": "inference optimization is not even close"
+ },
+ {
+  "start": 150.48,
+  "duration": 4.08,
+  "text": "to a solved problem, meaning that"
+ },
+ {
+  "start": 152.24,
+  "duration": 4.64,
+  "text": "theoretically huge gains from some novel"
+ },
+ {
+  "start": 154.56,
+  "duration": 4.399,
+  "text": "technique are definitely plausible. And"
+ },
+ {
+  "start": 156.88,
+  "duration": 3.96,
+  "text": "of course, even if OpenAI hasn't found a"
+ },
+ {
+  "start": 158.959,
+  "duration": 4.0,
+  "text": "way to boost efficiency by 50% across"
+ },
+ {
+  "start": 160.84,
+  "duration": 4.84,
+  "text": "the board, any sort of gains here could"
+ },
+ {
+  "start": 162.959,
+  "duration": 4.881,
+  "text": "still be a very big deal. OpenAI's army"
+ },
+ {
+  "start": 165.68,
+  "duration": 4.16,
+  "text": "of free users are a significant drag on"
+ },
+ {
+  "start": 167.84,
+  "duration": 4.0,
+  "text": "profitability, so anything they can do"
+ },
+ {
+  "start": 169.84,
+  "duration": 3.8,
+  "text": "to cut inference costs to that user base"
+ },
+ {
+  "start": 171.84,
+  "duration": 3.4,
+  "text": "could really move the needle."
+ },
+ {
+  "start": 173.64,
+  "duration": 3.64,
+  "text": "And given the particular audience,"
+ },
+ {
+  "start": 175.24,
+  "duration": 3.68,
+  "text": "certain types of quality reductions may"
+ },
+ {
+  "start": 177.28,
+  "duration": 3.12,
+  "text": "be more tolerable."
+ },
+ {
+  "start": 178.92,
+  "duration": 3.0,
+  "text": "Everett Randall of Benchmark Ventures"
+ },
+ {
+  "start": 180.4,
+  "duration": 3.6,
+  "text": "has been talking about a phenomenon he's"
+ },
+ {
+  "start": 181.92,
+  "duration": 4.0,
+  "text": "calling the AI mom test. He recently"
+ },
+ {
+  "start": 184.0,
+  "duration": 3.72,
+  "text": "said, \"There's nothing my mom actually"
+ },
+ {
+  "start": 185.92,
+  "duration": 3.76,
+  "text": "asks of her AI products that needs to be"
+ },
+ {
+  "start": 187.72,
+  "duration": 3.72,
+  "text": "done by the frontier or even a near"
+ },
+ {
+  "start": 189.68,
+  "duration": 3.24,
+  "text": "frontier model. And it seems to be at"
+ },
+ {
+  "start": 191.44,
+  "duration": 2.56,
+  "text": "least initially, like that could be the"
+ },
+ {
+  "start": 192.92,
+  "duration": 2.52,
+  "text": "group that this new technique"
+ },
+ {
+  "start": 194.0,
+  "duration": 3.64,
+  "text": "addresses.\""
+ },
+ {
+  "start": 195.44,
+  "duration": 3.84,
+  "text": "Certainly, there is a lot of chatter out"
+ },
+ {
+  "start": 197.64,
+  "duration": 3.879,
+  "text": "there about innovations and new"
+ },
+ {
+  "start": 199.28,
+  "duration": 4.36,
+  "text": "approaches in this area. AI aggregator"
+ },
+ {
+  "start": 201.519,
+  "duration": 3.961,
+  "text": "Andrew Curran tweeted, \"I'm posting this"
+ },
+ {
+  "start": 203.64,
+  "duration": 3.0,
+  "text": "prediction now so I can quote it later."
+ },
+ {
+  "start": 205.48,
+  "duration": 2.36,
+  "text": "There has been a significant"
+ },
+ {
+  "start": 206.64,
+  "duration": 3.16,
+  "text": "breakthrough in architecture,"
+ },
+ {
+  "start": 207.84,
+  "duration": 3.36,
+  "text": "specifically around memory efficiency,"
+ },
+ {
+  "start": 209.8,
+  "duration": 3.28,
+  "text": "not by one of the big labs, but by a"
+ },
+ {
+  "start": 211.2,
+  "duration": 4.08,
+  "text": "team that was spun out of OpenAI. They"
+ },
+ {
+  "start": 213.08,
+  "duration": 3.84,
+  "text": "will probably announce it soon.\""
+ },
+ {
+  "start": 215.28,
+  "duration": 3.32,
+  "text": "Now, in addition to labs finding new"
+ },
+ {
+  "start": 216.92,
+  "duration": 2.96,
+  "text": "approaches, companies themselves are"
+ },
+ {
+  "start": 218.6,
+  "duration": 3.359,
+  "text": "also finding new more efficient"
+ },
+ {
+  "start": 219.88,
+  "duration": 4.04,
+  "text": "architectures. 20 Minute VC's Harry"
+ },
+ {
+  "start": 221.959,
+  "duration": 3.761,
+  "text": "Stebbings tweeted, \"In the last 24"
+ },
+ {
+  "start": 223.92,
+  "duration": 3.48,
+  "text": "hours, I have had five founders message"
+ },
+ {
+  "start": 225.72,
+  "duration": 3.44,
+  "text": "me of varying sized companies. Some"
+ },
+ {
+  "start": 227.4,
+  "duration": 3.72,
+  "text": "10-person startups and one $200 billion"
+ },
+ {
+  "start": 229.16,
+  "duration": 3.52,
+  "text": "public company. All of them stated they"
+ },
+ {
+  "start": 231.12,
+  "duration": 3.68,
+  "text": "have been able to cut inference spend by"
+ },
+ {
+  "start": 232.68,
+  "duration": 4.04,
+  "text": "75% or more with little effort, no"
+ },
+ {
+  "start": 234.8,
+  "duration": 4.4,
+  "text": "performance change, and better latency."
+ },
+ {
+  "start": 236.72,
+  "duration": 4.36,
+  "text": "The times they are a-changing."
+ },
+ {
+  "start": 239.2,
+  "duration": 3.6,
+  "text": "Now, speaking of innovations in this new"
+ },
+ {
+  "start": 241.08,
+  "duration": 3.88,
+  "text": "token efficiency era, Vibe coding"
+ },
+ {
+  "start": 242.8,
+  "duration": 3.8,
+  "text": "platform Base 44 has launched their own"
+ },
+ {
+  "start": 244.96,
+  "duration": 3.96,
+  "text": "AI model in an attempt to shore up the"
+ },
+ {
+  "start": 246.6,
+  "duration": 3.96,
+  "text": "business. The model is called Base 1 and"
+ },
+ {
+  "start": 248.92,
+  "duration": 4.16,
+  "text": "follows the same playbook as Cursor's"
+ },
+ {
+  "start": 250.56,
+  "duration": 4.36,
+  "text": "Composer. Namely, Base 44 has taken an"
+ },
+ {
+  "start": 253.08,
+  "duration": 3.76,
+  "text": "open-source base model and applied their"
+ },
+ {
+  "start": 254.92,
+  "duration": 2.879,
+  "text": "own fine-tuning using training data from"
+ },
+ {
+  "start": 256.84,
+  "duration": 3.0,
+  "text": "hundreds of millions of user"
+ },
+ {
+  "start": 257.799,
+  "duration": 4.041,
+  "text": "interactions on their platform. CEO"
+ },
+ {
+  "start": 259.84,
+  "duration": 3.6,
+  "text": "laid out the strategic thinking"
+ },
+ {
+  "start": 261.84,
+  "duration": 3.6,
+  "text": "in a few different ways."
+ },
+ {
+  "start": 263.44,
+  "duration": 3.479,
+  "text": "Firstly, Base 44 is making the bet that"
+ },
+ {
+  "start": 265.44,
+  "duration": 3.36,
+  "text": "narrowly trained models can be"
+ },
+ {
+  "start": 266.919,
+  "duration": 3.801,
+  "text": "competitive with the frontier. This bet"
+ },
+ {
+  "start": 268.8,
+  "duration": 3.96,
+  "text": "appears to be paying off for Cursor with"
+ },
+ {
+  "start": 270.72,
+  "duration": 4.72,
+  "text": "most viewing Composer 2.5 as good enough"
+ },
+ {
+  "start": 272.76,
+  "duration": 4.24,
+  "text": "for common tasks. Right, General"
+ },
+ {
+  "start": 275.44,
+  "duration": 3.0,
+  "text": "models need to be good at everything."
+ },
+ {
+  "start": 277.0,
+  "duration": 3.24,
+  "text": "They need to understand many programming"
+ },
+ {
+  "start": 278.44,
+  "duration": 3.8,
+  "text": "languages, many workflows, many domains,"
+ },
+ {
+  "start": 280.24,
+  "duration": 4.12,
+  "text": "and many kinds of reasoning. However,"
+ },
+ {
+  "start": 282.24,
+  "duration": 3.92,
+  "text": "Base 44 only needs their model to be"
+ },
+ {
+  "start": 284.36,
+  "duration": 3.72,
+  "text": "good at building web apps. Now, of"
+ },
+ {
+  "start": 286.16,
+  "duration": 4.4,
+  "text": "course, Base 44 also views the model as"
+ },
+ {
+  "start": 288.08,
+  "duration": 4.24,
+  "text": "a cost control measure. wrote,"
+ },
+ {
+  "start": 290.56,
+  "duration": 3.8,
+  "text": "\"It gives us more control over cost,"
+ },
+ {
+  "start": 292.32,
+  "duration": 3.52,
+  "text": "latency, reliability, and quality while"
+ },
+ {
+  "start": 294.36,
+  "duration": 3.28,
+  "text": "still letting us use the best external"
+ },
+ {
+  "start": 295.84,
+  "duration": 3.04,
+  "text": "models where they are the right fit.\""
+ },
+ {
+  "start": 297.64,
+  "duration": 3.279,
+  "text": "Finally, he writes, \"The model gives"
+ },
+ {
+  "start": 298.88,
+  "duration": 3.76,
+  "text": "Base 44 a way to utilize platform data"
+ },
+ {
+  "start": 300.919,
+  "duration": 3.281,
+  "text": "to improve the product.\" The idea is"
+ },
+ {
+  "start": 302.64,
+  "duration": 3.2,
+  "text": "similar to the harness model pairing"
+ },
+ {
+  "start": 304.2,
+  "duration": 3.92,
+  "text": "that OpenAI and Anthropic have pursued"
+ },
+ {
+  "start": 305.84,
+  "duration": 3.6,
+  "text": "with their own coding platforms. Base 44"
+ },
+ {
+  "start": 308.12,
+  "duration": 3.2,
+  "text": "believes they can develop the model and"
+ },
+ {
+  "start": 309.44,
+  "duration": 4.28,
+  "text": "harness in tandem to deliver strong"
+ },
+ {
+  "start": 311.32,
+  "duration": 3.84,
+  "text": "platform-specific results. As AI becomes"
+ },
+ {
+  "start": 313.72,
+  "duration": 3.28,
+  "text": "a bigger part of how software is"
+ },
+ {
+  "start": 315.16,
+  "duration": 3.32,
+  "text": "created, writes \"owning more of"
+ },
+ {
+  "start": 317.0,
+  "duration": 3.32,
+  "text": "that intelligence becomes just as"
+ },
+ {
+  "start": 318.48,
+  "duration": 3.32,
+  "text": "important as owning the infrastructure"
+ },
+ {
+  "start": 320.32,
+  "duration": 3.88,
+  "text": "around it.\""
+ },
+ {
+  "start": 321.8,
+  "duration": 4.56,
+  "text": "Now, speaking of strategic convergence,"
+ },
+ {
+  "start": 324.2,
+  "duration": 4.24,
+  "text": "AWS is launching a new division to join"
+ },
+ {
+  "start": 326.36,
+  "duration": 3.64,
+  "text": "the AI deployment race."
+ },
+ {
+  "start": 328.44,
+  "duration": 3.28,
+  "text": "AWS announced that they will invest a"
+ },
+ {
+  "start": 330.0,
+  "duration": 3.32,
+  "text": "billion dollars to create a new unit"
+ },
+ {
+  "start": 331.72,
+  "duration": 3.44,
+  "text": "staffed with forward-deployed engineers"
+ },
+ {
+  "start": 333.32,
+  "duration": 3.48,
+  "text": "to help customers set up and use AI"
+ },
+ {
+  "start": 335.16,
+  "duration": 3.24,
+  "text": "tools. Now, this follows, of course,"
+ },
+ {
+  "start": 336.8,
+  "duration": 3.0,
+  "text": "OpenAI and Anthropic both launching"
+ },
+ {
+  "start": 338.4,
+  "duration": 3.8,
+  "text": "private equity partnerships to house"
+ },
+ {
+  "start": 339.8,
+  "duration": 4.76,
+  "text": "their FTE divisions, with Google in May"
+ },
+ {
+  "start": 342.2,
+  "duration": 3.88,
+  "text": "expanding their existing FTE division,"
+ },
+ {
+  "start": 344.56,
+  "duration": 3.76,
+  "text": "and Microsoft announcing an FTE"
+ },
+ {
+  "start": 346.08,
+  "duration": 4.44,
+  "text": "partnership with EY in June. Francesca"
+ },
+ {
+  "start": 348.32,
+  "duration": 3.96,
+  "text": "Vasquez, VP of AWS's Frontier AI"
+ },
+ {
+  "start": 350.52,
+  "duration": 3.48,
+  "text": "engineering and services, said that the"
+ },
+ {
+  "start": 352.28,
+  "duration": 3.64,
+  "text": "company has been upskilling sales people"
+ },
+ {
+  "start": 354.0,
+  "duration": 3.88,
+  "text": "to be FTEs, giving them the title of"
+ },
+ {
+  "start": 355.92,
+  "duration": 3.64,
+  "text": "solution architects. Vasquez said the"
+ },
+ {
+  "start": 357.88,
+  "duration": 3.16,
+  "text": "effort is an expansion of AWS's"
+ },
+ {
+  "start": 359.56,
+  "duration": 4.2,
+  "text": "generative AI center, which was first"
+ },
+ {
+  "start": 361.04,
+  "duration": 3.88,
+  "text": "announced in 2023. She added that AWS"
+ },
+ {
+  "start": 363.76,
+  "duration": 2.96,
+  "text": "will focus on industries with the"
+ },
+ {
+  "start": 364.92,
+  "duration": 3.48,
+  "text": "strongest demand, including healthcare,"
+ },
+ {
+  "start": 366.72,
+  "duration": 2.96,
+  "text": "government, and financial services."
+ },
+ {
+  "start": 368.4,
+  "duration": 3.12,
+  "text": "Reinforcing the themes of the moment,"
+ },
+ {
+  "start": 369.68,
+  "duration": 3.64,
+  "text": "Vasquez also noted that the big shift"
+ },
+ {
+  "start": 371.52,
+  "duration": 2.96,
+  "text": "towards AI budget optimization, rather"
+ },
+ {
+  "start": 373.32,
+  "duration": 4.16,
+  "text": "than just the deployment of AI"
+ },
+ {
+  "start": 374.48,
+  "duration": 4.6,
+  "text": "capabilities. She said, \"Open source and"
+ },
+ {
+  "start": 377.48,
+  "duration": 2.88,
+  "text": "the use of open weight models is"
+ },
+ {
+  "start": 379.08,
+  "duration": 2.88,
+  "text": "definitely gaining traction for"
+ },
+ {
+  "start": 380.36,
+  "duration": 3.68,
+  "text": "customers for a variety of different"
+ },
+ {
+  "start": 381.96,
+  "duration": 4.0,
+  "text": "reasons. Price performance, but also"
+ },
+ {
+  "start": 384.04,
+  "duration": 3.16,
+  "text": "they service the task.\""
+ },
+ {
+  "start": 385.96,
+  "duration": 3.08,
+  "text": "In another indication of just how"
+ },
+ {
+  "start": 387.2,
+  "duration": 2.96,
+  "text": "significant this trend is, the AI"
+ },
+ {
+  "start": 389.04,
+  "duration": 3.08,
+  "text": "Engineer World's Fair, which is"
+ },
+ {
+  "start": 390.16,
+  "duration": 4.2,
+  "text": "happening this week in San Francisco, is"
+ },
+ {
+  "start": 392.12,
+  "duration": 4.28,
+  "text": "actually hosting an AI FTE mini"
+ },
+ {
+  "start": 394.36,
+  "duration": 3.76,
+  "text": "conference within the event."
+ },
+ {
+  "start": 396.4,
+  "duration": 3.88,
+  "text": "Now, following up on the Claude tag"
+ },
+ {
+  "start": 398.12,
+  "duration": 3.44,
+  "text": "story from last week, Anthropic seems to"
+ },
+ {
+  "start": 400.28,
+  "duration": 3.4,
+  "text": "be preparing to bring agents to"
+ },
+ {
+  "start": 401.56,
+  "duration": 3.68,
+  "text": "Microsoft Teams as well. The Information"
+ },
+ {
+  "start": 403.68,
+  "duration": 2.8,
+  "text": "reports that Anthropic recently told"
+ },
+ {
+  "start": 405.24,
+  "duration": 3.12,
+  "text": "Microsoft that they plan to bring a"
+ },
+ {
+  "start": 406.48,
+  "duration": 3.96,
+  "text": "version of Claude tag to Microsoft's"
+ },
+ {
+  "start": 408.36,
+  "duration": 3.6,
+  "text": "Slack equivalent Teams."
+ },
+ {
+  "start": 410.44,
+  "duration": 3.52,
+  "text": "Claude tag, you might remember, allows"
+ },
+ {
+  "start": 411.96,
+  "duration": 3.8,
+  "text": "users to summon Claude into a channel to"
+ },
+ {
+  "start": 413.96,
+  "duration": 3.32,
+  "text": "receive tasks or take instruction."
+ },
+ {
+  "start": 415.76,
+  "duration": 3.4,
+  "text": "Unlike previous Claude integrations,"
+ },
+ {
+  "start": 417.28,
+  "duration": 3.48,
+  "text": "Claude tag isn't tied to any particular"
+ },
+ {
+  "start": 419.16,
+  "duration": 3.04,
+  "text": "user. Instead, it functions as an"
+ },
+ {
+  "start": 420.76,
+  "duration": 3.0,
+  "text": "organization-centric agent with"
+ },
+ {
+  "start": 422.2,
+  "duration": 3.8,
+  "text": "persistent memory and tool access"
+ },
+ {
+  "start": 423.76,
+  "duration": 4.28,
+  "text": "independent of the user. In fact, it's"
+ },
+ {
+  "start": 426.0,
+  "duration": 3.08,
+  "text": "actually not calling Claude exactly,"
+ },
+ {
+  "start": 428.04,
+  "duration": 3.24,
+  "text": "it's calling the full suite that"
+ },
+ {
+  "start": 429.08,
+  "duration": 4.32,
+  "text": "comprises Claude code. Now, one"
+ },
+ {
+  "start": 431.28,
+  "duration": 3.88,
+  "text": "interesting sub-story behind all of this"
+ },
+ {
+  "start": 433.4,
+  "duration": 3.8,
+  "text": "is what it says about the relationship"
+ },
+ {
+  "start": 435.16,
+  "duration": 4.56,
+  "text": "between Anthropic and these platforms,"
+ },
+ {
+  "start": 437.2,
+  "duration": 4.2,
+  "text": "both Slack and in the future Microsoft."
+ },
+ {
+  "start": 439.72,
+  "duration": 3.28,
+  "text": "There has been some scuttlebutt that"
+ },
+ {
+  "start": 441.4,
+  "duration": 3.68,
+  "text": "behind the scenes, some Salesforce"
+ },
+ {
+  "start": 443.0,
+  "duration": 3.72,
+  "text": "employees were concerned about Anthropic"
+ },
+ {
+  "start": 445.08,
+  "duration": 3.36,
+  "text": "being allowed into the ecosystem on such"
+ },
+ {
+  "start": 446.72,
+  "duration": 3.28,
+  "text": "a fundamental level. Although I don't"
+ },
+ {
+  "start": 448.44,
+  "duration": 3.72,
+  "text": "think that that was universal, given the"
+ },
+ {
+  "start": 450.0,
+  "duration": 4.44,
+  "text": "amount of PR that I got from Salesforce"
+ },
+ {
+  "start": 452.16,
+  "duration": 4.8,
+  "text": "about this integration, but still,"
+ },
+ {
+  "start": 454.44,
+  "duration": 4.08,
+  "text": "introducing Claude tag to Microsoft does"
+ },
+ {
+  "start": 456.96,
+  "duration": 3.84,
+  "text": "add another level to this power"
+ },
+ {
+  "start": 458.52,
+  "duration": 4.28,
+  "text": "struggle. Currently, both Salesforce and"
+ },
+ {
+  "start": 460.8,
+  "duration": 4.12,
+  "text": "Microsoft allow third-party agents to"
+ },
+ {
+  "start": 462.8,
+  "duration": 4.24,
+  "text": "access their ecosystems free of charge."
+ },
+ {
+  "start": 464.92,
+  "duration": 3.68,
+  "text": "In fact, Microsoft CEO Satya Nadella"
+ },
+ {
+  "start": 467.04,
+  "duration": 3.32,
+  "text": "went one better during an investor call"
+ },
+ {
+  "start": 468.6,
+  "duration": 3.36,
+  "text": "in April. He claimed that Claude helped"
+ },
+ {
+  "start": 470.36,
+  "duration": 3.64,
+  "text": "reinforce Microsoft's ecosystem"
+ },
+ {
+  "start": 471.96,
+  "duration": 4.28,
+  "text": "commenting, \"It's fascinating that here"
+ },
+ {
+  "start": 474.0,
+  "duration": 3.88,
+  "text": "we are in 2026 and the most exciting"
+ },
+ {
+  "start": 476.24,
+  "duration": 3.52,
+  "text": "things in AI are plugins in Word or"
+ },
+ {
+  "start": 477.88,
+  "duration": 3.44,
+  "text": "Excel. When you see that, that means we"
+ },
+ {
+  "start": 479.76,
+  "duration": 4.24,
+  "text": "have a structural position in knowledge"
+ },
+ {
+  "start": 481.32,
+  "duration": 4.8,
+  "text": "work.\" That said, will the tune change"
+ },
+ {
+  "start": 484.0,
+  "duration": 3.92,
+  "text": "as Claude gets more endemic across the"
+ },
+ {
+  "start": 486.12,
+  "duration": 4.2,
+  "text": "knowledge work spectrum? It's certainly"
+ },
+ {
+  "start": 487.92,
+  "duration": 4.04,
+  "text": "something interesting to keep an eye on."
+ },
+ {
+  "start": 490.32,
+  "duration": 3.0,
+  "text": "Lastly today, one of the things that"
+ },
+ {
+  "start": 491.96,
+  "duration": 3.0,
+  "text": "we've been talking about when it comes"
+ },
+ {
+  "start": 493.32,
+  "duration": 3.44,
+  "text": "to the data center buildout is the"
+ },
+ {
+  "start": 494.96,
+  "duration": 3.959,
+  "text": "opportunity for the data center builders"
+ },
+ {
+  "start": 496.76,
+  "duration": 4.4,
+  "text": "and operators to, if I might be allowed"
+ },
+ {
+  "start": 498.919,
+  "duration": 3.601,
+  "text": "to put it crassly for a moment, buy off"
+ },
+ {
+  "start": 501.16,
+  "duration": 2.96,
+  "text": "the communities that they're operating"
+ },
+ {
+  "start": 502.52,
+  "duration": 3.6,
+  "text": "in. Or perhaps a better way to think"
+ },
+ {
+  "start": 504.12,
+  "duration": 3.52,
+  "text": "about it is to cut them into the"
+ },
+ {
+  "start": 506.12,
+  "duration": 2.84,
+  "text": "benefits that the data centers might"
+ },
+ {
+  "start": 507.64,
+  "duration": 3.56,
+  "text": "represent."
+ },
+ {
+  "start": 508.96,
+  "duration": 4.56,
+  "text": "One example of someone starting to nudge"
+ },
+ {
+  "start": 511.2,
+  "duration": 3.8,
+  "text": "down that path comes from SpaceX. The"
+ },
+ {
+  "start": 513.52,
+  "duration": 3.519,
+  "text": "company is discounting Starlink"
+ },
+ {
+  "start": 515.0,
+  "duration": 4.56,
+  "text": "subscriptions in Memphis in an attempt"
+ },
+ {
+  "start": 517.039,
+  "duration": 4.081,
+  "text": "to quell backlash. SpaceX's Colossus"
+ },
+ {
+  "start": 519.56,
+  "duration": 2.84,
+  "text": "data centers are located just south of"
+ },
+ {
+  "start": 521.12,
+  "duration": 3.28,
+  "text": "Memphis and have been the subject of"
+ },
+ {
+  "start": 522.4,
+  "duration": 4.2,
+  "text": "significant local controversy. The"
+ },
+ {
+  "start": 524.4,
+  "duration": 4.0,
+  "text": "campus operates on 46 gas turbines"
+ },
+ {
+  "start": 526.6,
+  "duration": 3.04,
+  "text": "providing off-the-grid power. Local"
+ },
+ {
+  "start": 528.4,
+  "duration": 2.72,
+  "text": "groups have complained about air"
+ },
+ {
+  "start": 529.64,
+  "duration": 2.88,
+  "text": "pollution and noted the turbines are"
+ },
+ {
+  "start": 531.12,
+  "duration": 3.28,
+  "text": "operated without a permit as they're"
+ },
+ {
+  "start": 532.52,
+  "duration": 3.76,
+  "text": "technically portable, which some see as"
+ },
+ {
+  "start": 534.4,
+  "duration": 3.52,
+  "text": "abusive legal loophole. The US"
+ },
+ {
+  "start": 536.28,
+  "duration": 3.76,
+  "text": "government in fact recently intervened"
+ },
+ {
+  "start": 537.92,
+  "duration": 3.68,
+  "text": "in a lawsuit to shut down the turbines"
+ },
+ {
+  "start": 540.04,
+  "duration": 4.28,
+  "text": "claiming that Colossus is a matter of"
+ },
+ {
+  "start": 541.6,
+  "duration": 4.04,
+  "text": "national security. On Tuesday, SpaceX"
+ },
+ {
+  "start": 544.32,
+  "duration": 2.96,
+  "text": "announced that residents in the greater"
+ },
+ {
+  "start": 545.64,
+  "duration": 3.24,
+  "text": "Memphis area will receive half-price"
+ },
+ {
+  "start": 547.28,
+  "duration": 3.6,
+  "text": "Starlink subscriptions and free hardware"
+ },
+ {
+  "start": 548.88,
+  "duration": 3.88,
+  "text": "for new sign-ups. In addition, the mayor"
+ },
+ {
+  "start": 550.88,
+  "duration": 3.2,
+  "text": "of recently announced that SpaceX has"
+ },
+ {
+  "start": 552.76,
+  "duration": 3.2,
+  "text": "recommitted to the construction of a"
+ },
+ {
+  "start": 554.08,
+  "duration": 3.52,
+  "text": "wastewater treatment plant. Those plans"
+ },
+ {
+  "start": 555.96,
+  "duration": 2.96,
+  "text": "had been halted in April with SpaceX"
+ },
+ {
+  "start": 557.6,
+  "duration": 2.8,
+  "text": "claiming they were prioritizing the"
+ },
+ {
+  "start": 558.92,
+  "duration": 3.12,
+  "text": "construction of the Colossus 2 data"
+ },
+ {
+  "start": 560.4,
+  "duration": 3.24,
+  "text": "center. However, the construction halt"
+ },
+ {
+  "start": 562.04,
+  "duration": 3.88,
+  "text": "came just days before the lawsuit was"
+ },
+ {
+  "start": 563.64,
+  "duration": 4.28,
+  "text": "filed. Announcing the discount, VP of"
+ },
+ {
+  "start": 565.92,
+  "duration": 3.6,
+  "text": "Starlink Michael Nicolls wrote, \"The"
+ },
+ {
+  "start": 567.92,
+  "duration": 3.0,
+  "text": "unique capabilities of the Colossus data"
+ },
+ {
+  "start": 569.52,
+  "duration": 2.6,
+  "text": "center could not be accomplished without"
+ },
+ {
+  "start": 570.92,
+  "duration": 3.08,
+  "text": "the partnership and support from the"
+ },
+ {
+  "start": 572.12,
+  "duration": 3.04,
+  "text": "local Memphis community. Happy to bring"
+ },
+ {
+  "start": 574.0,
+  "duration": 3.36,
+  "text": "affordable and great Starlink"
+ },
+ {
+  "start": 575.16,
+  "duration": 3.76,
+  "text": "connectivity to our neighbors.\""
+ },
+ {
+  "start": 577.36,
+  "duration": 3.6,
+  "text": "Look, directionally I'm glad that we're"
+ },
+ {
+  "start": 578.92,
+  "duration": 3.68,
+  "text": "starting to see this, but I have to say,"
+ },
+ {
+  "start": 580.96,
+  "duration": 3.16,
+  "text": "but for anyone from SpaceX who might be"
+ },
+ {
+  "start": 582.6,
+  "duration": 3.92,
+  "text": "listening, while I applaud this"
+ },
+ {
+  "start": 584.12,
+  "duration": 4.36,
+  "text": "direction, I would be going a lot harder"
+ },
+ {
+  "start": 586.52,
+  "duration": 3.44,
+  "text": "than a half-price discount for people"
+ },
+ {
+  "start": 588.48,
+  "duration": 3.32,
+  "text": "who have to become your customers to"
+ },
+ {
+  "start": 589.96,
+  "duration": 3.4,
+  "text": "even get that discount. Still some"
+ },
+ {
+  "start": 591.8,
+  "duration": 2.56,
+  "text": "encouraging signs that we're starting to"
+ },
+ {
+  "start": 593.36,
+  "duration": 2.64,
+  "text": "think differently about these"
+ },
+ {
+  "start": 594.36,
+  "duration": 3.72,
+  "text": "relationships. So, that's going to do it"
+ },
+ {
+  "start": 596.0,
+  "duration": 4.76,
+  "text": "for today's headlines. Next up, the main"
+ },
+ {
+  "start": 598.08,
+  "duration": 2.68,
+  "text": "episode."
+ },
+ {
+  "start": 601.28,
+  "duration": 4.32,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 602.8,
+  "duration": 5.96,
+  "text": "Well, friends, after something like 19"
+ },
+ {
+  "start": 605.6,
+  "duration": 5.52,
+  "text": "days offline, it should be that by the"
+ },
+ {
+  "start": 608.76,
+  "duration": 4.92,
+  "text": "time you're listening to this, Fable 5"
+ },
+ {
+  "start": 611.12,
+  "duration": 3.8,
+  "text": "has been turned back on. On Tuesday"
+ },
+ {
+  "start": 613.68,
+  "duration": 3.52,
+  "text": "night, Anthropic announced that the"
+ },
+ {
+  "start": 614.92,
+  "duration": 4.36,
+  "text": "government had lifted export controls"
+ },
+ {
+  "start": 617.2,
+  "duration": 4.92,
+  "text": "and cleared them to begin redeploying"
+ },
+ {
+  "start": 619.28,
+  "duration": 4.68,
+  "text": "Fable 5. At 7:52 p.m., this tweet"
+ },
+ {
+  "start": 622.12,
+  "duration": 3.16,
+  "text": "exploded onto the scene. We've received"
+ },
+ {
+  "start": 623.96,
+  "duration": 2.88,
+  "text": "notice that the Department of Commerce"
+ },
+ {
+  "start": 625.28,
+  "duration": 3.0,
+  "text": "has lifted export controls, will begin"
+ },
+ {
+  "start": 626.84,
+  "duration": 2.92,
+  "text": "restoring access tomorrow, and we'll"
+ },
+ {
+  "start": 628.28,
+  "duration": 3.08,
+  "text": "share an update soon. We're grateful to"
+ },
+ {
+  "start": 629.76,
+  "duration": 2.84,
+  "text": "our users for their patience and to"
+ },
+ {
+  "start": 631.36,
+  "duration": 3.0,
+  "text": "everyone who worked with us on"
+ },
+ {
+  "start": 632.6,
+  "duration": 3.08,
+  "text": "redeploying the models."
+ },
+ {
+  "start": 634.36,
+  "duration": 3.08,
+  "text": "A few hours later, they shared further"
+ },
+ {
+  "start": 635.68,
+  "duration": 4.36,
+  "text": "details on the rollout. Beginning today,"
+ },
+ {
+  "start": 637.44,
+  "duration": 5.32,
+  "text": "July 1st, Fable 5 will once again be"
+ },
+ {
+  "start": 640.04,
+  "duration": 4.36,
+  "text": "available to all global users across all"
+ },
+ {
+  "start": 642.76,
+  "duration": 3.64,
+  "text": "paid subscriptions."
+ },
+ {
+  "start": 644.4,
+  "duration": 3.64,
+  "text": "There will be a short extension of the"
+ },
+ {
+  "start": 646.4,
+  "duration": 3.48,
+  "text": "subsidy period that we were promised"
+ },
+ {
+  "start": 648.04,
+  "duration": 4.04,
+  "text": "when it first came out. Fable 5 will be"
+ },
+ {
+  "start": 649.88,
+  "duration": 4.32,
+  "text": "included for up to 50% of weekly usage"
+ },
+ {
+  "start": 652.08,
+  "duration": 3.88,
+  "text": "limits until next Tuesday, but after"
+ },
+ {
+  "start": 654.2,
+  "duration": 3.76,
+  "text": "that, access to the model will require"
+ },
+ {
+  "start": 655.96,
+  "duration": 3.6,
+  "text": "the purchase of usage credits. Mythos"
+ },
+ {
+  "start": 657.96,
+  "duration": 3.72,
+  "text": "restrictions remain as they were at the"
+ },
+ {
+  "start": 659.56,
+  "duration": 3.52,
+  "text": "end of last week, with approved US firms"
+ },
+ {
+  "start": 661.68,
+  "duration": 3.4,
+  "text": "able to access the model for both"
+ },
+ {
+  "start": 663.08,
+  "duration": 3.24,
+  "text": "domestic and foreign workers. Anthropic"
+ },
+ {
+  "start": 665.08,
+  "duration": 3.16,
+  "text": "said they will continue to work with the"
+ },
+ {
+  "start": 666.32,
+  "duration": 3.92,
+  "text": "government on an expanded rollout under"
+ },
+ {
+  "start": 668.24,
+  "duration": 4.36,
+  "text": "Project Glass Wing, including providing"
+ },
+ {
+  "start": 670.24,
+  "duration": 3.88,
+  "text": "the model to international firms."
+ },
+ {
+  "start": 672.6,
+  "duration": 3.32,
+  "text": "Several administration officials"
+ },
+ {
+  "start": 674.12,
+  "duration": 3.4,
+  "text": "commented on the resolution."
+ },
+ {
+  "start": 675.92,
+  "duration": 3.4,
+  "text": "White House Chief of Staff Susie Wiles,"
+ },
+ {
+  "start": 677.52,
+  "duration": 3.52,
+  "text": "who according to reports has been one of"
+ },
+ {
+  "start": 679.32,
+  "duration": 3.519,
+  "text": "the AI policy leads in recent months,"
+ },
+ {
+  "start": 681.04,
+  "duration": 3.24,
+  "text": "wrote, \"Under President Trump's"
+ },
+ {
+  "start": 682.839,
+  "duration": 3.361,
+  "text": "leadership, the United States is the"
+ },
+ {
+  "start": 684.28,
+  "duration": 3.76,
+  "text": "undisputed winner in the AI race. My"
+ },
+ {
+  "start": 686.2,
+  "duration": 3.32,
+  "text": "gratitude to companies across industries"
+ },
+ {
+  "start": 688.04,
+  "duration": 2.96,
+  "text": "who continue to work closely with the"
+ },
+ {
+  "start": 689.52,
+  "duration": 3.6,
+  "text": "White House to implement the president's"
+ },
+ {
+  "start": 691.0,
+  "duration": 4.04,
+  "text": "executive order promoting advanced AI"
+ },
+ {
+  "start": 693.12,
+  "duration": 3.56,
+  "text": "innovation and security. This includes"
+ },
+ {
+  "start": 695.04,
+  "duration": 3.0,
+  "text": "excellent work around advanced model"
+ },
+ {
+  "start": 696.68,
+  "duration": 2.88,
+  "text": "access and guardrail testing and"
+ },
+ {
+  "start": 698.04,
+  "duration": 2.96,
+  "text": "security. The government and private"
+ },
+ {
+  "start": 699.56,
+  "duration": 2.68,
+  "text": "sector have worked together in a way we"
+ },
+ {
+  "start": 701.0,
+  "duration": 2.68,
+  "text": "have never seen before, and this"
+ },
+ {
+  "start": 702.24,
+  "duration": 3.36,
+  "text": "foundation of America first is"
+ },
+ {
+  "start": 703.68,
+  "duration": 3.64,
+  "text": "unprecedented. Our shared priority"
+ },
+ {
+  "start": 705.6,
+  "duration": 4.0,
+  "text": "remains get the best tech deployed as"
+ },
+ {
+  "start": 707.32,
+  "duration": 3.8,
+  "text": "quickly and safely as possible."
+ },
+ {
+  "start": 709.6,
+  "duration": 2.76,
+  "text": "Commerce Secretary Howard Lutnick, who"
+ },
+ {
+  "start": 711.12,
+  "duration": 2.48,
+  "text": "has been in charge of applying the"
+ },
+ {
+  "start": 712.36,
+  "duration": 3.24,
+  "text": "export controls, added more"
+ },
+ {
+  "start": 713.6,
+  "duration": 3.6,
+  "text": "specifically, \"Over the past 2 weeks, we"
+ },
+ {
+  "start": 715.6,
+  "duration": 3.88,
+  "text": "have worked closely with Anthropic to"
+ },
+ {
+  "start": 717.2,
+  "duration": 4.08,
+  "text": "analyze and improve Fable 5 to ensure"
+ },
+ {
+  "start": 719.48,
+  "duration": 4.84,
+  "text": "alignment across the US government and"
+ },
+ {
+  "start": 721.28,
+  "duration": 4.44,
+  "text": "strengthen America's leadership in AI.\""
+ },
+ {
+  "start": 724.32,
+  "duration": 3.16,
+  "text": "Now, alongside the announcement,"
+ },
+ {
+  "start": 725.72,
+  "duration": 3.64,
+  "text": "Anthropic provided their own version of"
+ },
+ {
+  "start": 727.48,
+  "duration": 3.28,
+  "text": "the events of the past few weeks. They"
+ },
+ {
+  "start": 729.36,
+  "duration": 3.16,
+  "text": "discussed the jailbreak reported by"
+ },
+ {
+  "start": 730.76,
+  "duration": 3.72,
+  "text": "Amazon and their efforts to convince the"
+ },
+ {
+  "start": 732.52,
+  "duration": 3.88,
+  "text": "administration that nothing was amiss."
+ },
+ {
+  "start": 734.48,
+  "duration": 3.76,
+  "text": "As a refresher, the core claim was that"
+ },
+ {
+  "start": 736.4,
+  "duration": 3.8,
+  "text": "Fable was able to identify serious"
+ },
+ {
+  "start": 738.24,
+  "duration": 3.16,
+  "text": "vulnerabilities in a codebase, which the"
+ },
+ {
+  "start": 740.2,
+  "duration": 3.8,
+  "text": "administration believed was a"
+ },
+ {
+  "start": 741.4,
+  "duration": 4.8,
+  "text": "mythos-level capability. \"Our testing,\""
+ },
+ {
+  "start": 744.0,
+  "duration": 4.12,
+  "text": "wrote Anthropic, \"confirmed that many"
+ },
+ {
+  "start": 746.2,
+  "duration": 6.08,
+  "text": "less capable models, including Claude"
+ },
+ {
+  "start": 748.12,
+  "duration": 5.88,
+  "text": "Opus 4.8, GPT 5.5, and Kimmy K2.7, could"
+ },
+ {
+  "start": 752.28,
+  "duration": 3.84,
+  "text": "identify the same vulnerabilities as"
+ },
+ {
+  "start": 754.0,
+  "duration": 3.92,
+  "text": "Fable 5 did in the report. When it came"
+ },
+ {
+  "start": 756.12,
+  "duration": 3.84,
+  "text": "to the demonstration of how to exploit"
+ },
+ {
+  "start": 757.92,
+  "duration": 3.32,
+  "text": "the single vulnerability, every model we"
+ },
+ {
+  "start": 759.96,
+  "duration": 3.8,
+  "text": "tested could produce the same"
+ },
+ {
+  "start": 761.24,
+  "duration": 6.28,
+  "text": "demonstration as Fable 5, including"
+ },
+ {
+  "start": 763.76,
+  "duration": 6.52,
+  "text": "Claude Haiku 4.5, Sonnet 4.6, Opus 4.6,"
+ },
+ {
+  "start": 767.52,
+  "duration": 5.0,
+  "text": "Opus 4.7, Opus 4.8, GPT 5.4, GPT 5.5,"
+ },
+ {
+  "start": 770.28,
+  "duration": 4.16,
+  "text": "and Kimmy K2.7. Importantly,\" they"
+ },
+ {
+  "start": 772.52,
+  "duration": 4.08,
+  "text": "continued, \"the reported technique did"
+ },
+ {
+  "start": 774.44,
+  "duration": 4.16,
+  "text": "not expose any unique mythos-level cyber"
+ },
+ {
+  "start": 776.6,
+  "duration": 3.6,
+  "text": "capabilities. The behavior reflected a"
+ },
+ {
+  "start": 778.6,
+  "duration": 3.56,
+  "text": "borderline case for Fable 5's"
+ },
+ {
+  "start": 780.2,
+  "duration": 3.48,
+  "text": "safeguards. There are some tasks that"
+ },
+ {
+  "start": 782.16,
+  "duration": 2.96,
+  "text": "are unlikely to be dangerous, but are"
+ },
+ {
+  "start": 783.68,
+  "duration": 3.04,
+  "text": "nonetheless blocked by the safeguards"
+ },
+ {
+  "start": 785.12,
+  "duration": 3.48,
+  "text": "out of an abundance of caution. The"
+ },
+ {
+  "start": 786.72,
+  "duration": 3.84,
+  "text": "reported technique allowed access to one"
+ },
+ {
+  "start": 788.6,
+  "duration": 4.2,
+  "text": "such behavior, but it only involved"
+ },
+ {
+  "start": 790.56,
+  "duration": 3.8,
+  "text": "routine defensive cybersecurity work.\""
+ },
+ {
+  "start": 792.8,
+  "duration": 3.039,
+  "text": "Now, this has been Anthropic's position"
+ },
+ {
+  "start": 794.36,
+  "duration": 3.4,
+  "text": "from the beginning, that although this"
+ },
+ {
+  "start": 795.839,
+  "duration": 3.161,
+  "text": "was a genuine jailbreak, it didn't"
+ },
+ {
+  "start": 797.76,
+  "duration": 2.68,
+  "text": "unleash dangerous cyberattack"
+ },
+ {
+  "start": 799.0,
+  "duration": 3.0,
+  "text": "capabilities."
+ },
+ {
+  "start": 800.44,
+  "duration": 3.44,
+  "text": "Nevertheless, Anthropic has amped up the"
+ },
+ {
+  "start": 802.0,
+  "duration": 3.48,
+  "text": "guardrails for Fable's return. They have"
+ },
+ {
+  "start": 803.88,
+  "duration": 3.32,
+  "text": "trained a new classifier designed to"
+ },
+ {
+  "start": 805.48,
+  "duration": 3.24,
+  "text": "target and block the behavior described"
+ },
+ {
+  "start": 807.2,
+  "duration": 3.76,
+  "text": "in the Amazon report with a claimed"
+ },
+ {
+  "start": 808.72,
+  "duration": 4.16,
+  "text": "success rate of 99%. As with the"
+ },
+ {
+  "start": 810.96,
+  "duration": 3.24,
+  "text": "previous version, users will be informed"
+ },
+ {
+  "start": 812.88,
+  "duration": 4.04,
+  "text": "if they trip the guardrails and will be"
+ },
+ {
+  "start": 814.2,
+  "duration": 4.04,
+  "text": "reverted to Opus 48 for that request."
+ },
+ {
+  "start": 816.92,
+  "duration": 2.6,
+  "text": "Anthropic said that they have tested the"
+ },
+ {
+  "start": 818.24,
+  "duration": 2.84,
+  "text": "new classifier with the Commerce"
+ },
+ {
+  "start": 819.52,
+  "duration": 3.52,
+  "text": "Department Center for AI standards and"
+ },
+ {
+  "start": 821.08,
+  "duration": 3.88,
+  "text": "innovation, which agrees that Anthropic"
+ },
+ {
+  "start": 823.04,
+  "duration": 4.12,
+  "text": "safeguards are, quote, extraordinarily"
+ },
+ {
+  "start": 824.96,
+  "duration": 4.44,
+  "text": "strong. Anthropic noted, \"The new"
+ },
+ {
+  "start": 827.16,
+  "duration": 4.4,
+  "text": "classifier also comes at the cost of"
+ },
+ {
+  "start": 829.4,
+  "duration": 3.76,
+  "text": "flagging benign requests more often"
+ },
+ {
+  "start": 831.56,
+  "duration": 3.72,
+  "text": "during routine coding and debugging"
+ },
+ {
+  "start": 833.16,
+  "duration": 3.48,
+  "text": "tasks. As with all our safeguards, we'll"
+ },
+ {
+  "start": 835.28,
+  "duration": 3.08,
+  "text": "continue to refine this to better"
+ },
+ {
+  "start": 836.64,
+  "duration": 3.52,
+  "text": "distinguish genuine misuse from"
+ },
+ {
+  "start": 838.36,
+  "duration": 3.36,
+  "text": "legitimate requests and reduce false"
+ },
+ {
+  "start": 840.16,
+  "duration": 3.4,
+  "text": "positives.\""
+ },
+ {
+  "start": 841.72,
+  "duration": 3.72,
+  "text": "Now, one of the first responses was"
+ },
+ {
+  "start": 843.56,
+  "duration": 3.8,
+  "text": "effectively that while folks were glad"
+ },
+ {
+  "start": 845.44,
+  "duration": 4.12,
+  "text": "that people was coming back, it wasn't"
+ },
+ {
+  "start": 847.36,
+  "duration": 3.6,
+  "text": "exactly clear what had changed that"
+ },
+ {
+  "start": 849.56,
+  "duration": 3.64,
+  "text": "addressed the government's initial"
+ },
+ {
+  "start": 850.96,
+  "duration": 4.72,
+  "text": "concerns. Policy advisor Dean Ball"
+ },
+ {
+  "start": 853.2,
+  "duration": 3.84,
+  "text": "wrote, \"Great news, but we have no idea"
+ },
+ {
+  "start": 855.68,
+  "duration": 3.12,
+  "text": "what Anthropic did to make the model"
+ },
+ {
+  "start": 857.04,
+  "duration": 3.76,
+  "text": "safe, what commitments Anthropic is made"
+ },
+ {
+  "start": 858.8,
+  "duration": 3.6,
+  "text": "going forward, and whether or how any of"
+ },
+ {
+  "start": 860.8,
+  "duration": 3.16,
+  "text": "this applies to other frontier models in"
+ },
+ {
+  "start": 862.4,
+  "duration": 3.72,
+  "text": "the government's licensing queue. We"
+ },
+ {
+  "start": 863.96,
+  "duration": 3.44,
+  "text": "know that GPT-5.6 is in that queue, but"
+ },
+ {
+  "start": 866.12,
+  "duration": 2.84,
+  "text": "it's fair to assume that other model"
+ },
+ {
+  "start": 867.4,
+  "duration": 3.48,
+  "text": "developers are at least in early stages"
+ },
+ {
+  "start": 868.96,
+  "duration": 3.36,
+  "text": "of submitting their models.\" Reinforcing"
+ },
+ {
+  "start": 870.88,
+  "duration": 3.4,
+  "text": "the point that he has made over and over"
+ },
+ {
+  "start": 872.32,
+  "duration": 3.72,
+  "text": "again, Dean continued, \"This opacity"
+ },
+ {
+  "start": 874.28,
+  "duration": 3.36,
+  "text": "will not lend itself well to a stable,"
+ },
+ {
+  "start": 876.04,
+  "duration": 3.56,
+  "text": "investable, trustworthy industry over"
+ },
+ {
+  "start": 877.64,
+  "duration": 4.04,
+  "text": "time. But, and here Dean ends on a"
+ },
+ {
+  "start": 879.6,
+  "duration": 3.52,
+  "text": "positive note, the US government needn't"
+ },
+ {
+  "start": 881.68,
+  "duration": 3.159,
+  "text": "figure this all out in a day, and a"
+ },
+ {
+  "start": 883.12,
+  "duration": 3.12,
+  "text": "two-week review timeline is not insane"
+ },
+ {
+  "start": 884.839,
+  "duration": 3.321,
+  "text": "in the grand scheme of things. The"
+ },
+ {
+  "start": 886.24,
+  "duration": 3.72,
+  "text": "status quo is not tenable, but we made"
+ },
+ {
+  "start": 888.16,
+  "duration": 3.44,
+  "text": "progress today. That progress is just a"
+ },
+ {
+  "start": 889.96,
+  "duration": 2.96,
+  "text": "first step, but it is worthy of applause"
+ },
+ {
+  "start": 891.6,
+  "duration": 2.92,
+  "text": "nonetheless.\""
+ },
+ {
+  "start": 892.92,
+  "duration": 3.36,
+  "text": "Prinz also pointed out how many new"
+ },
+ {
+  "start": 894.52,
+  "duration": 3.4,
+  "text": "questions the letter about the export"
+ },
+ {
+  "start": 896.28,
+  "duration": 2.92,
+  "text": "controls being lifted brought up, with"
+ },
+ {
+  "start": 897.92,
+  "duration": 3.12,
+  "text": "Anthropic agreeing to, quote,"
+ },
+ {
+  "start": 899.2,
+  "duration": 3.76,
+  "text": "\"proactively detect and address security"
+ },
+ {
+  "start": 901.04,
+  "duration": 3.68,
+  "text": "risks associated with Fable 5 and Mythos"
+ },
+ {
+  "start": 902.96,
+  "duration": 3.36,
+  "text": "5.\" Prinz asks, \"How is Anthropic"
+ },
+ {
+  "start": 904.72,
+  "duration": 3.84,
+  "text": "required to proactively detect these"
+ },
+ {
+  "start": 906.32,
+  "duration": 4.04,
+  "text": "security risks?\" Not publicly disclosed."
+ },
+ {
+  "start": 908.56,
+  "duration": 3.32,
+  "text": "When Anthropic agrees to work diligently"
+ },
+ {
+  "start": 910.36,
+  "duration": 3.16,
+  "text": "with the US government on protocols and"
+ },
+ {
+  "start": 911.88,
+  "duration": 3.52,
+  "text": "standards and releases for Mythos,"
+ },
+ {
+  "start": 913.52,
+  "duration": 3.44,
+  "text": "Fable, and future models, Prinz notes"
+ },
+ {
+  "start": 915.4,
+  "duration": 3.32,
+  "text": "that this is extremely broad language"
+ },
+ {
+  "start": 916.96,
+  "duration": 3.28,
+  "text": "that appears to cover all future models"
+ },
+ {
+  "start": 918.72,
+  "duration": 2.68,
+  "text": "and is not limited to cybersecurity"
+ },
+ {
+  "start": 920.24,
+  "duration": 2.68,
+  "text": "risks."
+ },
+ {
+  "start": 921.4,
+  "duration": 3.2,
+  "text": "Still, I think Miles Brundage captured"
+ },
+ {
+  "start": 922.92,
+  "duration": 3.32,
+  "text": "the sentiment of many when he wrote,"
+ },
+ {
+  "start": 924.6,
+  "duration": 3.08,
+  "text": "\"The first rule of Fable Club is you do"
+ },
+ {
+  "start": 926.24,
+  "duration": 2.88,
+  "text": "not ask too many questions about what"
+ },
+ {
+  "start": 927.68,
+  "duration": 3.12,
+  "text": "exactly Anthropic agreed to that they"
+ },
+ {
+  "start": 929.12,
+  "duration": 3.8,
+  "text": "weren't doing before, and you enjoy your"
+ },
+ {
+  "start": 930.8,
+  "duration": 3.8,
+  "text": "access.\" And overall, from a policy"
+ },
+ {
+  "start": 932.92,
+  "duration": 2.88,
+  "text": "perspective, that seems to be the tone."
+ },
+ {
+  "start": 934.6,
+  "duration": 2.68,
+  "text": "Even though people have lots of"
+ },
+ {
+  "start": 935.8,
+  "duration": 3.36,
+  "text": "questions, the fact that we're getting"
+ },
+ {
+  "start": 937.28,
+  "duration": 3.12,
+  "text": "the model back in this version gives"
+ },
+ {
+  "start": 939.16,
+  "duration": 2.56,
+  "text": "people reason to be cautiously"
+ },
+ {
+  "start": 940.4,
+  "duration": 3.04,
+  "text": "optimistic."
+ },
+ {
+  "start": 941.72,
+  "duration": 3.64,
+  "text": "Writes Box's Aaron Levie, \"It's been a"
+ },
+ {
+  "start": 943.44,
+  "duration": 3.2,
+  "text": "messy process to get here, but at least"
+ },
+ {
+  "start": 945.36,
+  "duration": 2.72,
+  "text": "there's some semblance of a framework"
+ },
+ {
+  "start": 946.64,
+  "duration": 2.68,
+  "text": "that could be practical. The note of"
+ },
+ {
+  "start": 948.08,
+  "duration": 2.8,
+  "text": "caution here would be that there's a lot"
+ },
+ {
+  "start": 949.32,
+  "duration": 2.88,
+  "text": "of subjectivity that goes into various"
+ },
+ {
+  "start": 950.88,
+  "duration": 3.48,
+  "text": "risks and their actual levels of"
+ },
+ {
+  "start": 952.2,
+  "duration": 3.44,
+  "text": "exploitability in practice. We're likely"
+ },
+ {
+  "start": 954.36,
+  "duration": 2.8,
+  "text": "going to be living with a framework that"
+ },
+ {
+  "start": 955.64,
+  "duration": 2.88,
+  "text": "requires heavy judgment and back and"
+ },
+ {
+  "start": 957.16,
+  "duration": 3.32,
+  "text": "forth between labs and the government"
+ },
+ {
+  "start": 958.52,
+  "duration": 3.12,
+  "text": "for major releases. The best we can hope"
+ },
+ {
+  "start": 960.48,
+  "duration": 2.92,
+  "text": "for is that this is a relatively"
+ },
+ {
+  "start": 961.64,
+  "duration": 3.16,
+  "text": "efficient process, and hopefully has"
+ },
+ {
+  "start": 963.4,
+  "duration": 3.44,
+  "text": "ways of being sped up for incremental"
+ },
+ {
+  "start": 964.8,
+  "duration": 3.88,
+  "text": "version updates in models. It would be a"
+ },
+ {
+  "start": 966.84,
+  "duration": 3.12,
+  "text": "bad outcome if every release after this"
+ },
+ {
+  "start": 968.68,
+  "duration": 3.16,
+  "text": "level of threshold of capability"
+ },
+ {
+  "start": 969.96,
+  "duration": 3.12,
+  "text": "required the same review process, and we"
+ },
+ {
+  "start": 971.84,
+  "duration": 2.92,
+  "text": "don't get the same rate of breakthroughs"
+ },
+ {
+  "start": 973.08,
+  "duration": 2.92,
+  "text": "we've been seeing.\""
+ },
+ {
+  "start": 974.76,
+  "duration": 3.52,
+  "text": "Now, one of the reasons that I think"
+ },
+ {
+  "start": 976.0,
+  "duration": 3.8,
+  "text": "people were were willing to extend that"
+ },
+ {
+  "start": 978.28,
+  "duration": 3.0,
+  "text": "benefit of the doubt was that as"
+ },
+ {
+  "start": 979.8,
+  "duration": 3.56,
+  "text": "recently as yesterday, people were"
+ },
+ {
+  "start": 981.28,
+  "duration": 4.6,
+  "text": "speculating about Fable 5 coming back"
+ },
+ {
+  "start": 983.36,
+  "duration": 3.6,
+  "text": "only with things like a new KYC regime,"
+ },
+ {
+  "start": 985.88,
+  "duration": 2.68,
+  "text": "where people had to verify their"
+ },
+ {
+  "start": 986.96,
+  "duration": 3.28,
+  "text": "identities, and perhaps verify their"
+ },
+ {
+  "start": 988.56,
+  "duration": 4.04,
+  "text": "identities as American citizens before"
+ },
+ {
+  "start": 990.24,
+  "duration": 4.96,
+  "text": "they could get access. That appears not"
+ },
+ {
+  "start": 992.6,
+  "duration": 5.12,
+  "text": "to be the case. Fable 5 is not just"
+ },
+ {
+  "start": 995.2,
+  "duration": 4.16,
+  "text": "coming back for US users, but for all"
+ },
+ {
+  "start": 997.72,
+  "duration": 3.8,
+  "text": "users globally."
+ },
+ {
+  "start": 999.36,
+  "duration": 4.08,
+  "text": "And yet, there is a big question"
+ },
+ {
+  "start": 1001.52,
+  "duration": 3.6,
+  "text": "lurking. When I tweeted an image of"
+ },
+ {
+  "start": 1003.44,
+  "duration": 3.36,
+  "text": "Dario and Uncle Sam riding an eagle"
+ },
+ {
+  "start": 1005.12,
+  "duration": 3.8,
+  "text": "delivering Fable across America flanked"
+ },
+ {
+  "start": 1006.8,
+  "duration": 4.24,
+  "text": "by fighter jets, Aaron Schnider asked"
+ },
+ {
+  "start": 1008.92,
+  "duration": 3.96,
+  "text": "the key question, \"But will it be as"
+ },
+ {
+  "start": 1011.04,
+  "duration": 3.88,
+  "text": "good as we remember?\""
+ },
+ {
+  "start": 1012.88,
+  "duration": 3.72,
+  "text": "The specific concern comes around this"
+ },
+ {
+  "start": 1014.92,
+  "duration": 3.84,
+  "text": "line from the announcement, \"In the near"
+ },
+ {
+  "start": 1016.6,
+  "duration": 4.72,
+  "text": "term, some routine tasks like coding and"
+ },
+ {
+  "start": 1018.76,
+  "duration": 5.079,
+  "text": "debugging will fall back to Opus 4.8.\""
+ },
+ {
+  "start": 1021.32,
+  "duration": 5.08,
+  "text": "That led folks like Lex on X to write,"
+ },
+ {
+  "start": 1023.839,
+  "duration": 4.081,
+  "text": "\"The Fable 5 relaunch is kind of fake."
+ },
+ {
+  "start": 1026.4,
+  "duration": 3.76,
+  "text": "Some routine tasks like coding and"
+ },
+ {
+  "start": 1027.92,
+  "duration": 3.8,
+  "text": "debugging will fall back to Opus 4.8."
+ },
+ {
+  "start": 1030.16,
+  "duration": 3.0,
+  "text": "You can use that even more restricted"
+ },
+ {
+  "start": 1031.72,
+  "duration": 3.88,
+  "text": "Fable 5 version in your Anthropic"
+ },
+ {
+  "start": 1033.16,
+  "duration": 3.48,
+  "text": "subscriptions until July 7th.\" Lex on X"
+ },
+ {
+  "start": 1035.6,
+  "duration": 3.239,
+  "text": "wrote,"
+ },
+ {
+  "start": 1036.64,
+  "duration": 4.319,
+  "text": "\"LMFAO, this cannot be a real statement"
+ },
+ {
+  "start": 1038.839,
+  "duration": 4.281,
+  "text": "from Anthropic. Routine tasks like"
+ },
+ {
+  "start": 1040.959,
+  "duration": 3.761,
+  "text": "coding skull emoji. They've lost their"
+ },
+ {
+  "start": 1043.12,
+  "duration": 2.92,
+  "text": "minds. Do they think people are paying"
+ },
+ {
+  "start": 1044.72,
+  "duration": 2.52,
+  "text": "an absurdly high price just for the"
+ },
+ {
+  "start": 1046.04,
+  "duration": 3.16,
+  "text": "privilege?\""
+ },
+ {
+  "start": 1047.24,
+  "duration": 3.36,
+  "text": "Now, Turi from the Claude Code team came"
+ },
+ {
+  "start": 1049.2,
+  "duration": 4.04,
+  "text": "on to clarify that that tweet had"
+ },
+ {
+  "start": 1050.6,
+  "duration": 4.52,
+  "text": "particularly loose language. He wrote,"
+ },
+ {
+  "start": 1053.24,
+  "duration": 3.92,
+  "text": "\"As with the original classifiers, a"
+ },
+ {
+  "start": 1055.12,
+  "duration": 3.76,
+  "text": "small fraction of routine coding and"
+ },
+ {
+  "start": 1057.16,
+  "duration": 3.64,
+  "text": "debugging tasks will be flagged and fall"
+ },
+ {
+  "start": 1058.88,
+  "duration": 3.36,
+  "text": "back to Opus. In other words, while the"
+ },
+ {
+  "start": 1060.8,
+  "duration": 3.2,
+  "text": "tweet made it seem like coding and"
+ },
+ {
+  "start": 1062.24,
+  "duration": 3.8,
+  "text": "debugging were part of the routine tasks"
+ },
+ {
+  "start": 1064.0,
+  "duration": 3.48,
+  "text": "that would fall back to Opus in general,"
+ },
+ {
+  "start": 1066.04,
+  "duration": 3.4,
+  "text": "the Claude Code team is saying that no,"
+ },
+ {
+  "start": 1067.48,
+  "duration": 3.56,
+  "text": "in fact, it is just a small fraction of"
+ },
+ {
+  "start": 1069.44,
+  "duration": 3.24,
+  "text": "routine coding tasks that will be"
+ },
+ {
+  "start": 1071.04,
+  "duration": 3.16,
+  "text": "flagged in that way.\""
+ },
+ {
+  "start": 1072.68,
+  "duration": 3.2,
+  "text": "Now, given all this, I want to come back"
+ },
+ {
+  "start": 1074.2,
+  "duration": 3.24,
+  "text": "and talk about the ways that I think you"
+ },
+ {
+  "start": 1075.88,
+  "duration": 3.28,
+  "text": "should start to test Fable right away"
+ },
+ {
+  "start": 1077.44,
+  "duration": 3.28,
+  "text": "when it comes back. But, before that, we"
+ },
+ {
+  "start": 1079.16,
+  "duration": 3.16,
+  "text": "actually do have one more Anthropic"
+ },
+ {
+  "start": 1080.72,
+  "duration": 3.88,
+  "text": "model to talk about."
+ },
+ {
+  "start": 1082.32,
+  "duration": 4.12,
+  "text": "Earlier on Tuesday, Anthropic announced"
+ },
+ {
+  "start": 1084.6,
+  "duration": 3.96,
+  "text": "Claude Sonnet 5."
+ },
+ {
+  "start": 1086.44,
+  "duration": 3.92,
+  "text": "And if I had to guess, this suggests to"
+ },
+ {
+  "start": 1088.56,
+  "duration": 3.84,
+  "text": "me that they were not sure that Fable"
+ },
+ {
+  "start": 1090.36,
+  "duration": 3.32,
+  "text": "would be coming back as fast as it was,"
+ },
+ {
+  "start": 1092.4,
+  "duration": 2.88,
+  "text": "as I'm not sure that they would have"
+ },
+ {
+  "start": 1093.68,
+  "duration": 3.64,
+  "text": "announced this particular model when"
+ },
+ {
+  "start": 1095.28,
+  "duration": 3.36,
+  "text": "they did and the way that they did if"
+ },
+ {
+  "start": 1097.32,
+  "duration": 2.8,
+  "text": "they knew that later that night they'd"
+ },
+ {
+  "start": 1098.64,
+  "duration": 3.68,
+  "text": "get to announce that Fable 5 was coming"
+ },
+ {
+  "start": 1100.12,
+  "duration": 3.72,
+  "text": "back. Anthropic pitched the model as"
+ },
+ {
+  "start": 1102.32,
+  "duration": 3.88,
+  "text": "their most agentic version of Sonnet"
+ },
+ {
+  "start": 1103.84,
+  "duration": 4.0,
+  "text": "yet, writing, \"It can make plans, use"
+ },
+ {
+  "start": 1106.2,
+  "duration": 3.4,
+  "text": "tools like browsers and terminals, and"
+ },
+ {
+  "start": 1107.84,
+  "duration": 3.4,
+  "text": "run autonomously at a level that just a"
+ },
+ {
+  "start": 1109.6,
+  "duration": 3.36,
+  "text": "few months ago required larger and more"
+ },
+ {
+  "start": 1111.24,
+  "duration": 3.56,
+  "text": "expensive models.\""
+ },
+ {
+  "start": 1112.96,
+  "duration": 4.0,
+  "text": "Now, according to the benchmarks,"
+ },
+ {
+  "start": 1114.8,
+  "duration": 3.72,
+  "text": "Anthropic tried to pitch the model as"
+ },
+ {
+  "start": 1116.96,
+  "duration": 3.8,
+  "text": "almost as good as Opus 4.8 for a"
+ },
+ {
+  "start": 1118.52,
+  "duration": 3.92,
+  "text": "fraction of the cost. It's a few"
+ },
+ {
+  "start": 1120.76,
+  "duration": 3.44,
+  "text": "percentage points shy of Opus on the two"
+ },
+ {
+  "start": 1122.44,
+  "duration": 4.08,
+  "text": "major coding benchmarks, WeBench Pro and"
+ },
+ {
+  "start": 1124.2,
+  "duration": 3.84,
+  "text": "Terminal Bench 2.1, with the same gap"
+ },
+ {
+  "start": 1126.52,
+  "duration": 3.32,
+  "text": "existing for computer use and knowledge"
+ },
+ {
+  "start": 1128.04,
+  "duration": 3.76,
+  "text": "benchmarks. Maybe the most interesting"
+ },
+ {
+  "start": 1129.84,
+  "duration": 4.36,
+  "text": "result was GDP Eval, where Sonnet 5"
+ },
+ {
+  "start": 1131.8,
+  "duration": 5.16,
+  "text": "delivered a huge jump over Sonnet 4.6"
+ },
+ {
+  "start": 1134.2,
+  "duration": 4.04,
+  "text": "and even slightly outperformed Opus 4.8."
+ },
+ {
+  "start": 1136.96,
+  "duration": 2.6,
+  "text": "Now, this could be indicative of the"
+ },
+ {
+  "start": 1138.24,
+  "duration": 3.28,
+  "text": "strong agentic performance that"
+ },
+ {
+  "start": 1139.56,
+  "duration": 3.48,
+  "text": "Anthropic was touting. While GDP Eval"
+ },
+ {
+  "start": 1141.52,
+  "duration": 3.28,
+  "text": "aims to measure economically valuable"
+ },
+ {
+  "start": 1143.04,
+  "duration": 3.64,
+  "text": "work, in practice, the score largely"
+ },
+ {
+  "start": 1144.8,
+  "duration": 3.72,
+  "text": "comes down to successful tool calls."
+ },
+ {
+  "start": 1146.68,
+  "duration": 3.28,
+  "text": "Sonnet 5 score could indicate that it's"
+ },
+ {
+  "start": 1148.52,
+  "duration": 3.2,
+  "text": "much more capable of following through"
+ },
+ {
+  "start": 1149.96,
+  "duration": 3.68,
+  "text": "with end-to-end agentic work rather than"
+ },
+ {
+  "start": 1151.72,
+  "duration": 3.64,
+  "text": "getting stuck halfway through. While"
+ },
+ {
+  "start": 1153.64,
+  "duration": 3.64,
+  "text": "Sonnet 5 retains the same pricing as"
+ },
+ {
+  "start": 1155.36,
+  "duration": 4.2,
+  "text": "Sonnet 4.8, Anthropic is trying an"
+ },
+ {
+  "start": 1157.28,
+  "duration": 4.16,
+  "text": "introductory price for API use. Until"
+ },
+ {
+  "start": 1159.56,
+  "duration": 4.04,
+  "text": "the end of August, Sonnet 5 will cost $2"
+ },
+ {
+  "start": 1161.44,
+  "duration": 3.92,
+  "text": "per million input tokens, and $10 per"
+ },
+ {
+  "start": 1163.6,
+  "duration": 4.16,
+  "text": "million output tokens, and will revert"
+ },
+ {
+  "start": 1165.36,
+  "duration": 4.56,
+  "text": "to the standard $3 and $15 after that."
+ },
+ {
+  "start": 1167.76,
+  "duration": 4.72,
+  "text": "In contrast, the price for Opus is $5"
+ },
+ {
+  "start": 1169.92,
+  "duration": 4.08,
+  "text": "and $25, so Sonnet 5 could be a more"
+ },
+ {
+  "start": 1172.48,
+  "duration": 2.8,
+  "text": "cost-effective option for some use"
+ },
+ {
+  "start": 1174.0,
+  "duration": 3.64,
+  "text": "cases."
+ },
+ {
+  "start": 1175.28,
+  "duration": 4.92,
+  "text": "But, what about external benchmarks and"
+ },
+ {
+  "start": 1177.64,
+  "duration": 4.2,
+  "text": "actual user impressions? On Cursor's"
+ },
+ {
+  "start": 1180.2,
+  "duration": 4.56,
+  "text": "Cursor Bench, they wrote that it was a"
+ },
+ {
+  "start": 1181.84,
+  "duration": 4.92,
+  "text": "meaningful step up from Sonnet 4.6. It"
+ },
+ {
+  "start": 1184.76,
+  "duration": 4.08,
+  "text": "also saw a jump on the Artificial"
+ },
+ {
+  "start": 1186.76,
+  "duration": 5.92,
+  "text": "Analysis Intelligence Index from Claude"
+ },
+ {
+  "start": 1188.84,
+  "duration": 5.6,
+  "text": "Sonnet 4.6's 47 to a score of 53, which"
+ },
+ {
+  "start": 1192.68,
+  "duration": 4.32,
+  "text": "puts it just one point behind Claude"
+ },
+ {
+  "start": 1194.44,
+  "duration": 4.88,
+  "text": "Opus 4.7, and a couple points behind GPT"
+ },
+ {
+  "start": 1197.0,
+  "duration": 3.84,
+  "text": "5.5. But, they point out that without"
+ },
+ {
+  "start": 1199.32,
+  "duration": 3.92,
+  "text": "the promotional pricing, it will"
+ },
+ {
+  "start": 1200.84,
+  "duration": 5.44,
+  "text": "actually cost more per task than Opus"
+ },
+ {
+  "start": 1203.24,
+  "duration": 6.08,
+  "text": "4.8. On Max Effort, they write, \"Sonnet"
+ },
+ {
+  "start": 1206.28,
+  "duration": 5.76,
+  "text": "5 used around 40% more output tokens per"
+ },
+ {
+  "start": 1209.32,
+  "duration": 4.36,
+  "text": "intelligence task than Sonnet 4.6, and"
+ },
+ {
+  "start": 1212.04,
+  "duration": 2.68,
+  "text": "around three times the number of agentic"
+ },
+ {
+  "start": 1213.68,
+  "duration": 2.56,
+  "text": "turns for their knowledge work"
+ },
+ {
+  "start": 1214.72,
+  "duration": 4.2,
+  "text": "evaluations.\""
+ },
+ {
+  "start": 1216.24,
+  "duration": 5.28,
+  "text": "The overall run, in fact, cost more than"
+ },
+ {
+  "start": 1218.92,
+  "duration": 4.84,
+  "text": "Opus 4.8. This is because it generates"
+ },
+ {
+  "start": 1221.52,
+  "duration": 4.28,
+  "text": "almost twice as many tokens as Opus 4.8"
+ },
+ {
+  "start": 1223.76,
+  "duration": 4.36,
+  "text": "per task. And when it came to running"
+ },
+ {
+  "start": 1225.8,
+  "duration": 4.84,
+  "text": "the entire bench of tasks, Sonnet 5 was"
+ },
+ {
+  "start": 1228.12,
+  "duration": 4.0,
+  "text": "actually more expensive than Fable."
+ },
+ {
+  "start": 1230.64,
+  "duration": 3.76,
+  "text": "That led a lot of people to wonder what"
+ },
+ {
+  "start": 1232.12,
+  "duration": 5.4,
+  "text": "the heck this is actually for. Max Blade"
+ },
+ {
+  "start": 1234.4,
+  "duration": 5.24,
+  "text": "wrote, \"Composer 2.5 is faster, GLM 5.2"
+ },
+ {
+  "start": 1237.52,
+  "duration": 3.92,
+  "text": "is cheaper, Opus 4.8 output is 10 times"
+ },
+ {
+  "start": 1239.64,
+  "duration": 3.24,
+  "text": "better. It's an improvement, yes, but"
+ },
+ {
+  "start": 1241.44,
+  "duration": 3.04,
+  "text": "without a real use case, it is dead on"
+ },
+ {
+  "start": 1242.88,
+  "duration": 2.84,
+  "text": "arrival right now. Will you guys be"
+ },
+ {
+  "start": 1244.48,
+  "duration": 3.04,
+  "text": "running it?\""
+ },
+ {
+  "start": 1245.72,
+  "duration": 3.84,
+  "text": "Now, one important caveat with that is"
+ },
+ {
+  "start": 1247.52,
+  "duration": 4.08,
+  "text": "that the Artificial Analysis tests are"
+ },
+ {
+  "start": 1249.56,
+  "duration": 4.88,
+  "text": "run at max settings, and that might not"
+ },
+ {
+  "start": 1251.6,
+  "duration": 4.92,
+  "text": "be the optimal way to run Sonnet 5."
+ },
+ {
+  "start": 1254.44,
+  "duration": 3.08,
+  "text": "David Shapiro writes, \"Okay, I can't"
+ },
+ {
+  "start": 1256.52,
+  "duration": 3.08,
+  "text": "believe I'm going to say this, but"
+ },
+ {
+  "start": 1257.52,
+  "duration": 3.56,
+  "text": "Sonnet 5 Max is too high effort. It's"
+ },
+ {
+  "start": 1259.6,
+  "duration": 2.92,
+  "text": "like giving a box of squirrels a bunch"
+ },
+ {
+  "start": 1261.08,
+  "duration": 2.64,
+  "text": "of cocaine and saying, 'Go with God,'"
+ },
+ {
+  "start": 1262.52,
+  "duration": 3.16,
+  "text": "and just seeing what comes out the other"
+ },
+ {
+  "start": 1263.72,
+  "duration": 3.48,
+  "text": "side.\" Ben Davis, who works with"
+ },
+ {
+  "start": 1265.68,
+  "duration": 3.24,
+  "text": "YouTuber Theo, wrote, \"After doing"
+ },
+ {
+  "start": 1267.2,
+  "duration": 3.92,
+  "text": "around a billion of tokens on it today,"
+ },
+ {
+  "start": 1268.92,
+  "duration": 4.2,
+  "text": "you're all wrong. Sonnet 5 is good. Is"
+ },
+ {
+  "start": 1271.12,
+  "duration": 3.84,
+  "text": "it inefficient? Yes. Slow? Yes."
+ },
+ {
+  "start": 1273.12,
+  "duration": 4.2,
+  "text": "Expensive? Yes. But if you think it's"
+ },
+ {
+  "start": 1274.96,
+  "duration": 3.96,
+  "text": "the same as GLM 5.2, a model I really"
+ },
+ {
+  "start": 1277.32,
+  "duration": 3.32,
+  "text": "like and will continue to defend a ton,"
+ },
+ {
+  "start": 1278.92,
+  "duration": 2.96,
+  "text": "you're a fool. The thing with this model"
+ },
+ {
+  "start": 1280.64,
+  "duration": 3.16,
+  "text": "is you have to use it wildly"
+ },
+ {
+  "start": 1281.88,
+  "duration": 3.48,
+  "text": "differently. It's not the type of Sonnet"
+ },
+ {
+  "start": 1283.8,
+  "duration": 3.56,
+  "text": "model we're used to. Probably could have"
+ },
+ {
+  "start": 1285.36,
+  "duration": 3.96,
+  "text": "been Opus 5 if it was slightly bigger."
+ },
+ {
+  "start": 1287.36,
+  "duration": 3.6,
+  "text": "It's basically an automatic Ralph loop."
+ },
+ {
+  "start": 1289.32,
+  "duration": 3.24,
+  "text": "It's spawning tons of sub-agents, making"
+ },
+ {
+  "start": 1290.96,
+  "duration": 3.36,
+  "text": "mini stack PRs, reviewing itself"
+ },
+ {
+  "start": 1292.56,
+  "duration": 3.72,
+  "text": "adversarially, auto-testing its changes,"
+ },
+ {
+  "start": 1294.32,
+  "duration": 3.12,
+  "text": "and not drifting off task at all. If you"
+ },
+ {
+  "start": 1296.28,
+  "duration": 2.56,
+  "text": "use this thing the same way you've been"
+ },
+ {
+  "start": 1297.44,
+  "duration": 3.04,
+  "text": "using old models, you're going to have a"
+ },
+ {
+  "start": 1298.84,
+  "duration": 3.52,
+  "text": "bad time.\""
+ },
+ {
+  "start": 1300.48,
+  "duration": 4.04,
+  "text": "Indeed, some are wondering if the real"
+ },
+ {
+  "start": 1302.36,
+  "duration": 3.92,
+  "text": "way to look at Sonnet 5 is as the work"
+ },
+ {
+  "start": 1304.52,
+  "duration": 3.68,
+  "text": "model that would run the sub-agents that"
+ },
+ {
+  "start": 1306.28,
+  "duration": 3.68,
+  "text": "something like Fable 5 would spin up."
+ },
+ {
+  "start": 1308.2,
+  "duration": 3.16,
+  "text": "Dan McCarty writes,"
+ },
+ {
+  "start": 1309.96,
+  "duration": 3.36,
+  "text": "\"You'll use Fable 5 as the super"
+ },
+ {
+  "start": 1311.36,
+  "duration": 4.12,
+  "text": "intelligent advisor and Sonnet 5 as the"
+ },
+ {
+  "start": 1313.32,
+  "duration": 3.72,
+  "text": "fast and efficient implementer.\""
+ },
+ {
+  "start": 1315.48,
+  "duration": 2.92,
+  "text": "Still, when push comes to shove, the"
+ },
+ {
+  "start": 1317.04,
+  "duration": 3.48,
+  "text": "model that people are really excited"
+ },
+ {
+  "start": 1318.4,
+  "duration": 3.68,
+  "text": "about having back is Fable 5. And for"
+ },
+ {
+  "start": 1320.52,
+  "duration": 2.76,
+  "text": "anyone who used it in those first 3 days"
+ },
+ {
+  "start": 1322.08,
+  "duration": 2.8,
+  "text": "that it was actually available, you'll"
+ },
+ {
+  "start": 1323.28,
+  "duration": 4.36,
+  "text": "understand why. So, the question"
+ },
+ {
+  "start": 1324.88,
+  "duration": 4.4,
+  "text": "becomes, as Fable 5 comes back online"
+ },
+ {
+  "start": 1327.64,
+  "duration": 3.28,
+  "text": "and we have this 1 week where you can"
+ },
+ {
+  "start": 1329.28,
+  "duration": 3.88,
+  "text": "use it in your normal subscriptions,"
+ },
+ {
+  "start": 1330.92,
+  "duration": 4.12,
+  "text": "what should you be using it for?"
+ },
+ {
+  "start": 1333.16,
+  "duration": 3.64,
+  "text": "Aniket Panjwani writes,"
+ },
+ {
+  "start": 1335.04,
+  "duration": 3.32,
+  "text": "\"You have 1 week to use Fable 5 without"
+ },
+ {
+  "start": 1336.8,
+  "duration": 3.84,
+  "text": "going bankrupt. Here's how you should"
+ },
+ {
+  "start": 1338.36,
+  "duration": 3.92,
+  "text": "make the most of it. One, use Fable 5"
+ },
+ {
+  "start": 1340.64,
+  "duration": 3.32,
+  "text": "for planning, not for implementation."
+ },
+ {
+  "start": 1342.28,
+  "duration": 5.04,
+  "text": "Use the Codex plugin and Claude code to"
+ },
+ {
+  "start": 1343.96,
+  "duration": 5.32,
+  "text": "delegate implementation to GPT 5.5. Two,"
+ },
+ {
+  "start": 1347.32,
+  "duration": 3.4,
+  "text": "ask Fable for suggested improvements on"
+ },
+ {
+  "start": 1349.28,
+  "duration": 3.76,
+  "text": "your project, starting with your most"
+ },
+ {
+  "start": 1350.72,
+  "duration": 4.88,
+  "text": "important and valuable projects. Three,"
+ },
+ {
+  "start": 1353.04,
+  "duration": 4.0,
+  "text": "use Opus and GPT 5.5 to brainstorm what"
+ },
+ {
+  "start": 1355.6,
+  "duration": 3.4,
+  "text": "your hardest technical problems are"
+ },
+ {
+  "start": 1357.04,
+  "duration": 4.04,
+  "text": "across your projects and then ask Fable"
+ },
+ {
+  "start": 1359.0,
+  "duration": 3.96,
+  "text": "to propose solutions to them."
+ },
+ {
+  "start": 1361.08,
+  "duration": 4.12,
+  "text": "Four, use GPT Pro through Oracle to"
+ },
+ {
+  "start": 1362.96,
+  "duration": 4.0,
+  "text": "review Fable's output."
+ },
+ {
+  "start": 1365.2,
+  "duration": 3.84,
+  "text": "Now, this reflects a lot of the advice"
+ },
+ {
+  "start": 1366.96,
+  "duration": 4.04,
+  "text": "that was around when Fable 5 first came"
+ },
+ {
+  "start": 1369.04,
+  "duration": 3.68,
+  "text": "out. Basically, that what it was for was"
+ },
+ {
+  "start": 1371.0,
+  "duration": 3.76,
+  "text": "your hardest challenges and that it was"
+ },
+ {
+  "start": 1372.72,
+  "duration": 4.28,
+  "text": "almost too powerful for routine"
+ },
+ {
+  "start": 1374.76,
+  "duration": 4.6,
+  "text": "day-to-day things. Now, I agree with"
+ },
+ {
+  "start": 1377.0,
+  "duration": 3.96,
+  "text": "half of this. The half where Fable is"
+ },
+ {
+  "start": 1379.36,
+  "duration": 3.72,
+  "text": "very good at your most difficult,"
+ },
+ {
+  "start": 1380.96,
+  "duration": 3.88,
+  "text": "specifically technical problems. And to"
+ },
+ {
+  "start": 1383.08,
+  "duration": 3.0,
+  "text": "the extent you have some of those,"
+ },
+ {
+  "start": 1384.84,
+  "duration": 2.8,
+  "text": "whether you're technical or not, if"
+ },
+ {
+  "start": 1386.08,
+  "duration": 3.44,
+  "text": "you're working on some hard coding"
+ },
+ {
+  "start": 1387.64,
+  "duration": 4.12,
+  "text": "project, obviously spend as much time as"
+ },
+ {
+  "start": 1389.52,
+  "duration": 3.88,
+  "text": "you can using Fable 5 for that."
+ },
+ {
+  "start": 1391.76,
+  "duration": 3.32,
+  "text": "But one thing that already in the very"
+ },
+ {
+  "start": 1393.4,
+  "duration": 3.12,
+  "text": "first couple of days of using Fable 5"
+ },
+ {
+  "start": 1395.08,
+  "duration": 3.44,
+  "text": "that I disagreed with the common"
+ },
+ {
+  "start": 1396.52,
+  "duration": 4.12,
+  "text": "sentiment around was that you wouldn't"
+ },
+ {
+  "start": 1398.52,
+  "duration": 4.4,
+  "text": "necessarily notice the difference using"
+ },
+ {
+  "start": 1400.64,
+  "duration": 4.68,
+  "text": "Fable 5 on more routine, banal,"
+ },
+ {
+  "start": 1402.92,
+  "duration": 4.92,
+  "text": "non-technical tasks. In my experience,"
+ },
+ {
+  "start": 1405.32,
+  "duration": 4.28,
+  "text": "that was completely wrong. Likely the"
+ },
+ {
+  "start": 1407.84,
+  "duration": 3.32,
+  "text": "two most common categories of tasks that"
+ },
+ {
+  "start": 1409.6,
+  "duration": 3.92,
+  "text": "I have outside of coding, building, and"
+ },
+ {
+  "start": 1411.16,
+  "duration": 5.36,
+  "text": "prototyping things is strategic thinking"
+ },
+ {
+  "start": 1413.52,
+  "duration": 6.0,
+  "text": "and writing. Now, on strategy, Fable 5,"
+ },
+ {
+  "start": 1416.52,
+  "duration": 5.24,
+  "text": "in my limited experience, blew GPT-5.5"
+ },
+ {
+  "start": 1419.52,
+  "duration": 4.68,
+  "text": "and Opus-4.8 out of the water."
+ },
+ {
+  "start": 1421.76,
+  "duration": 4.32,
+  "text": "Both of those two models are extremely"
+ },
+ {
+  "start": 1424.2,
+  "duration": 3.8,
+  "text": "steerable. They are overly deferential"
+ },
+ {
+  "start": 1426.08,
+  "duration": 4.4,
+  "text": "to push back and tend to over interpret"
+ },
+ {
+  "start": 1428.0,
+  "duration": 4.36,
+  "text": "instructions. For example, if you ask"
+ },
+ {
+  "start": 1430.48,
+  "duration": 3.52,
+  "text": "them a strategic question and then try"
+ },
+ {
+  "start": 1432.36,
+  "duration": 3.6,
+  "text": "to say something to reduce sycophancy"
+ },
+ {
+  "start": 1434.0,
+  "duration": 3.84,
+  "text": "like, \"Don't just accept what I'm saying"
+ },
+ {
+  "start": 1435.96,
+  "duration": 3.64,
+  "text": "is true. Provide push back if it's"
+ },
+ {
+  "start": 1437.84,
+  "duration": 3.68,
+  "text": "warranted.\" Those models will assume"
+ },
+ {
+  "start": 1439.6,
+  "duration": 4.24,
+  "text": "100% that their response will only be"
+ },
+ {
+  "start": 1441.52,
+  "duration": 4.68,
+  "text": "successful if there is push back. Then,"
+ },
+ {
+  "start": 1443.84,
+  "duration": 4.28,
+  "text": "however, if you push back on them, they"
+ },
+ {
+  "start": 1446.2,
+  "duration": 3.64,
+  "text": "will cave almost immediately and go out"
+ },
+ {
+  "start": 1448.12,
+  "duration": 3.4,
+  "text": "of their way to justify whatever it has"
+ },
+ {
+  "start": 1449.84,
+  "duration": 2.96,
+  "text": "become clear they think you're trying to"
+ },
+ {
+  "start": 1451.52,
+  "duration": 3.12,
+  "text": "get them to say."
+ },
+ {
+  "start": 1452.8,
+  "duration": 3.96,
+  "text": "Fable 5 didn't do that. In my"
+ },
+ {
+  "start": 1454.64,
+  "duration": 3.64,
+  "text": "interactions with Fable 5, as I was"
+ },
+ {
+  "start": 1456.76,
+  "duration": 3.68,
+  "text": "debating with it, it would frequently"
+ },
+ {
+  "start": 1458.28,
+  "duration": 3.52,
+  "text": "accept part of my push back or ideas"
+ },
+ {
+  "start": 1460.44,
+  "duration": 3.08,
+  "text": "while sticking to its guns on other"
+ },
+ {
+  "start": 1461.8,
+  "duration": 3.36,
+  "text": "parts. That is behavior that I have"
+ },
+ {
+  "start": 1463.52,
+  "duration": 3.64,
+  "text": "never seen from any other model and"
+ },
+ {
+  "start": 1465.16,
+  "duration": 3.64,
+  "text": "instantly made it a thousand times more"
+ },
+ {
+  "start": 1467.16,
+  "duration": 3.8,
+  "text": "valuable when it came to any sort of"
+ },
+ {
+  "start": 1468.8,
+  "duration": 3.56,
+  "text": "strategic thinking or iteration. Given"
+ },
+ {
+  "start": 1470.96,
+  "duration": 3.28,
+  "text": "that every single one of you, I"
+ },
+ {
+  "start": 1472.36,
+  "duration": 3.0,
+  "text": "guarantee, has strategic questions that"
+ },
+ {
+  "start": 1474.24,
+  "duration": 2.64,
+  "text": "you're working through at any given"
+ },
+ {
+  "start": 1475.36,
+  "duration": 3.48,
+  "text": "time, this is something that I would"
+ },
+ {
+  "start": 1476.88,
+  "duration": 3.28,
+  "text": "immediately experiment with in Fable."
+ },
+ {
+  "start": 1478.84,
+  "duration": 2.92,
+  "text": "And by the way, it also has the benefit"
+ },
+ {
+  "start": 1480.16,
+  "duration": 3.28,
+  "text": "of not really consuming all that many"
+ },
+ {
+  "start": 1481.76,
+  "duration": 4.8,
+  "text": "tokens, so it's not going to use up that"
+ },
+ {
+  "start": 1483.44,
+  "duration": 4.64,
+  "text": "50% usage limit particularly quickly."
+ },
+ {
+  "start": 1486.56,
+  "duration": 4.16,
+  "text": "The second common sentiment that I want"
+ },
+ {
+  "start": 1488.08,
+  "duration": 4.52,
+  "text": "to push back on is around writing. Now,"
+ },
+ {
+  "start": 1490.72,
+  "duration": 3.48,
+  "text": "arguably, Every is the most thoughtful"
+ },
+ {
+  "start": 1492.6,
+  "duration": 3.16,
+  "text": "tester when it comes to new models in"
+ },
+ {
+  "start": 1494.2,
+  "duration": 3.44,
+  "text": "writing. And in their initial vibe"
+ },
+ {
+  "start": 1495.76,
+  "duration": 3.6,
+  "text": "check, it wasn't, in their estimation"
+ },
+ {
+  "start": 1497.64,
+  "duration": 3.24,
+  "text": "all that much better. They called it"
+ },
+ {
+  "start": 1499.36,
+  "duration": 3.32,
+  "text": "sharp judgment trapped in familiar"
+ },
+ {
+  "start": 1500.88,
+  "duration": 3.4,
+  "text": "prose. They wrote, \"Every's writing"
+ },
+ {
+  "start": 1502.68,
+  "duration": 3.32,
+  "text": "benchmark found that Fable's writing is"
+ },
+ {
+  "start": 1504.28,
+  "duration": 3.2,
+  "text": "clear, but still short of human judgment"
+ },
+ {
+  "start": 1506.0,
+  "duration": 3.32,
+  "text": "on what to include in a piece of writing"
+ },
+ {
+  "start": 1507.48,
+  "duration": 3.36,
+  "text": "and how to structure it. The benchmark"
+ },
+ {
+  "start": 1509.32,
+  "duration": 2.76,
+  "text": "asks the model to write an introduction"
+ },
+ {
+  "start": 1510.84,
+  "duration": 2.96,
+  "text": "from scratch, fill in a missing"
+ },
+ {
+  "start": 1512.08,
+  "duration": 3.32,
+  "text": "paragraph from context, and deliver a"
+ },
+ {
+  "start": 1513.8,
+  "duration": 3.68,
+  "text": "promotional email, a LinkedIn post, and"
+ },
+ {
+  "start": 1515.4,
+  "duration": 3.64,
+  "text": "an X post. On the editing side, it asks"
+ },
+ {
+  "start": 1517.48,
+  "duration": 3.52,
+  "text": "the model to replicate human edits and"
+ },
+ {
+  "start": 1519.04,
+  "duration": 4.28,
+  "text": "detect common AI-isms in a deliberately"
+ },
+ {
+  "start": 1521.0,
+  "duration": 4.2,
+  "text": "robotic draft.\" And set to extra high"
+ },
+ {
+  "start": 1523.32,
+  "duration": 4.76,
+  "text": "effort for this, it basically scored"
+ },
+ {
+  "start": 1525.2,
+  "duration": 4.36,
+  "text": "between Sonnet 4.6 and Opus 4.8."
+ },
+ {
+  "start": 1528.08,
+  "duration": 4.4,
+  "text": "Now, on a particular type of writing"
+ },
+ {
+  "start": 1529.56,
+  "duration": 5.2,
+  "text": "task, this is not what I found. In my"
+ },
+ {
+  "start": 1532.48,
+  "duration": 4.32,
+  "text": "not test, but real-world uses of Fable 5"
+ },
+ {
+  "start": 1534.76,
+  "duration": 4.08,
+  "text": "for writing, I found that it was way"
+ },
+ {
+  "start": 1536.8,
+  "duration": 3.72,
+  "text": "better at instruction following, and"
+ },
+ {
+  "start": 1538.84,
+  "duration": 3.84,
+  "text": "fell into far fewer of the common AI"
+ },
+ {
+  "start": 1540.52,
+  "duration": 4.08,
+  "text": "traps. It Its writing wasn't overly"
+ },
+ {
+  "start": 1542.68,
+  "duration": 3.72,
+  "text": "wrought and try-hard. It had fewer of"
+ },
+ {
+  "start": 1544.6,
+  "duration": 3.52,
+  "text": "the standout AI-isms, like it's not"
+ },
+ {
+  "start": 1546.4,
+  "duration": 3.88,
+  "text": "this, it's that. And while I would want"
+ },
+ {
+  "start": 1548.12,
+  "duration": 4.08,
+  "text": "more reps in to say definitively that"
+ },
+ {
+  "start": 1550.28,
+  "duration": 3.72,
+  "text": "it's better for all types of writing, my"
+ },
+ {
+  "start": 1552.2,
+  "duration": 4.48,
+  "text": "suspicion is that especially in"
+ },
+ {
+  "start": 1554.0,
+  "duration": 5.56,
+  "text": "situations where you have a fairly"
+ },
+ {
+  "start": 1556.68,
+  "duration": 4.48,
+  "text": "rubric of what a good example of writing"
+ },
+ {
+  "start": 1559.56,
+  "duration": 4.0,
+  "text": "looks like, I think it's going to be"
+ },
+ {
+  "start": 1561.16,
+  "duration": 4.56,
+  "text": "able to do a much better job at meeting"
+ },
+ {
+  "start": 1563.56,
+  "duration": 3.04,
+  "text": "that standard than those previous models"
+ },
+ {
+  "start": 1565.72,
+  "duration": 1.92,
+  "text": "were."
+ },
+ {
+  "start": 1566.6,
+  "duration": 3.24,
+  "text": "Now, that doesn't mean that it's any"
+ },
+ {
+  "start": 1567.64,
+  "duration": 3.92,
+  "text": "better at blank page writing, but given"
+ },
+ {
+  "start": 1569.84,
+  "duration": 3.76,
+  "text": "how many of people's writing use cases"
+ },
+ {
+  "start": 1571.56,
+  "duration": 3.48,
+  "text": "for AI are saying, \"Here's all the"
+ },
+ {
+  "start": 1573.6,
+  "duration": 3.16,
+  "text": "examples of what has been done in the"
+ },
+ {
+  "start": 1575.04,
+  "duration": 3.84,
+  "text": "past, do this type of thing in the"
+ },
+ {
+  "start": 1576.76,
+  "duration": 4.44,
+  "text": "future,\" my experience so far is that"
+ },
+ {
+  "start": 1578.88,
+  "duration": 3.84,
+  "text": "Fable 5 is much better at that."
+ },
+ {
+  "start": 1581.2,
+  "duration": 4.2,
+  "text": "Look, when all is said and done, it is"
+ },
+ {
+  "start": 1582.72,
+  "duration": 4.36,
+  "text": "extremely extremely welcome news that it"
+ },
+ {
+  "start": 1585.4,
+  "duration": 2.84,
+  "text": "is coming back to everyone. While I"
+ },
+ {
+  "start": 1587.08,
+  "duration": 3.44,
+  "text": "don't think that you should change your"
+ },
+ {
+  "start": 1588.24,
+  "duration": 4.12,
+  "text": "4th of July plans to stay inside hacking"
+ },
+ {
+  "start": 1590.52,
+  "duration": 3.32,
+  "text": "at some big project, I certainly"
+ },
+ {
+  "start": 1592.36,
+  "duration": 2.64,
+  "text": "wouldn't blame you if you did. For now,"
+ },
+ {
+  "start": 1593.84,
+  "duration": 2.36,
+  "text": "that's going to do it for the AI Daily"
+ },
+ {
+  "start": 1595.0,
+  "duration": 2.92,
+  "text": "Brief. Appreciate you listening or"
+ },
+ {
+  "start": 1596.2,
+  "duration": 4.68,
+  "text": "watching, as always, and until next"
+ },
+ {
+  "start": 1597.92,
+  "duration": 2.96,
+  "text": "time, peace."
+ }
+]

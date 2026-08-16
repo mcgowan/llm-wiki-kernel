@@ -1,0 +1,1427 @@
+[
+ {
+  "start": 0.16,
+  "duration": 3.44,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 1.52,
+  "duration": 4.64,
+  "text": "headlines edition. All the daily AI news"
+ },
+ {
+  "start": 3.6,
+  "duration": 4.64,
+  "text": "you need in around 5 minutes. Today's"
+ },
+ {
+  "start": 6.16,
+  "duration": 4.479,
+  "text": "most interesting story to me actually"
+ },
+ {
+  "start": 8.24,
+  "duration": 4.56,
+  "text": "isn't news. It's about Claude Code"
+ },
+ {
+  "start": 10.639,
+  "duration": 3.681,
+  "text": "creating Claude Code. But there was so"
+ },
+ {
+  "start": 12.8,
+  "duration": 3.039,
+  "text": "much news that's happened over the last"
+ },
+ {
+  "start": 14.32,
+  "duration": 3.28,
+  "text": "week or so as we've been in holiday"
+ },
+ {
+  "start": 15.839,
+  "duration": 3.28,
+  "text": "episodes that I got to rip through a"
+ },
+ {
+  "start": 17.6,
+  "duration": 4.16,
+  "text": "bunch of stories before we get into"
+ },
+ {
+  "start": 19.119,
+  "duration": 4.641,
+  "text": "that. Starting with XAI continuing to"
+ },
+ {
+  "start": 21.76,
+  "duration": 3.679,
+  "text": "double down on compute with the purchase"
+ },
+ {
+  "start": 23.76,
+  "duration": 3.599,
+  "text": "of a third building to expand their"
+ },
+ {
+  "start": 25.439,
+  "duration": 3.281,
+  "text": "facilities outside of Memphis. Now, if"
+ },
+ {
+  "start": 27.359,
+  "duration": 3.68,
+  "text": "you guys were listening closely when I"
+ },
+ {
+  "start": 28.72,
+  "duration": 4.16,
+  "text": "talked about Grock as part of my 2026"
+ },
+ {
+  "start": 31.039,
+  "duration": 3.68,
+  "text": "predictions, I said that basically they"
+ },
+ {
+  "start": 32.88,
+  "duration": 3.76,
+  "text": "were going to have to do something to"
+ },
+ {
+  "start": 34.719,
+  "duration": 3.52,
+  "text": "break out from the back of the pack. I"
+ },
+ {
+  "start": 36.64,
+  "duration": 3.599,
+  "text": "was not, however, pessimistic about"
+ },
+ {
+  "start": 38.239,
+  "duration": 3.681,
+  "text": "their ability to do so. And the thing I"
+ },
+ {
+  "start": 40.239,
+  "duration": 3.681,
+  "text": "pointed out as the most likely contender"
+ },
+ {
+  "start": 41.92,
+  "duration": 3.44,
+  "text": "for how they could start to do that is"
+ },
+ {
+  "start": 43.92,
+  "duration": 3.28,
+  "text": "basically taking advantage of more"
+ },
+ {
+  "start": 45.36,
+  "duration": 4.16,
+  "text": "access to compute through Elon's"
+ },
+ {
+  "start": 47.2,
+  "duration": 4.24,
+  "text": "fundraising and operational prowess. And"
+ },
+ {
+  "start": 49.52,
+  "duration": 3.76,
+  "text": "already we have a story that points in"
+ },
+ {
+  "start": 51.44,
+  "duration": 4.0,
+  "text": "that direction. The information reports"
+ },
+ {
+  "start": 53.28,
+  "duration": 4.08,
+  "text": "that XAI has purchased a large warehouse"
+ },
+ {
+  "start": 55.44,
+  "duration": 3.439,
+  "text": "in southern Mississippi, just over the"
+ },
+ {
+  "start": 57.36,
+  "duration": 3.679,
+  "text": "border and a few miles south of their"
+ },
+ {
+  "start": 58.879,
+  "duration": 4.48,
+  "text": "existing data centers. At the moment,"
+ },
+ {
+  "start": 61.039,
+  "duration": 3.921,
+  "text": "XAI has one data center operational."
+ },
+ {
+  "start": 63.359,
+  "duration": 4.241,
+  "text": "That is their Colossus Supercluster,"
+ },
+ {
+  "start": 64.96,
+  "duration": 4.4,
+  "text": "which was built rapidly in 2024. After"
+ },
+ {
+  "start": 67.6,
+  "duration": 4.4,
+  "text": "rolling expansions, it now has around"
+ },
+ {
+  "start": 69.36,
+  "duration": 4.56,
+  "text": "230,000 GPUs operational in a single"
+ },
+ {
+  "start": 72.0,
+  "duration": 4.24,
+  "text": "coherent training cluster, making it the"
+ },
+ {
+  "start": 73.92,
+  "duration": 3.839,
+  "text": "largest in the world. Alongside Colossus"
+ },
+ {
+  "start": 76.24,
+  "duration": 3.36,
+  "text": "in the same industrial park, the"
+ },
+ {
+  "start": 77.759,
+  "duration": 3.841,
+  "text": "Colossus 2 data center is still under"
+ },
+ {
+  "start": 79.6,
+  "duration": 4.8,
+  "text": "construction. In July, Elon Musk said"
+ },
+ {
+  "start": 81.6,
+  "duration": 4.879,
+  "text": "the goal is to install 550,000 Blackwell"
+ },
+ {
+  "start": 84.4,
+  "duration": 4.16,
+  "text": "GPUs and that the first deliveries were"
+ },
+ {
+  "start": 86.479,
+  "duration": 4.801,
+  "text": "underway. XAI now says that they have"
+ },
+ {
+  "start": 88.56,
+  "duration": 4.64,
+  "text": "450,000 GPUs operational across their"
+ },
+ {
+  "start": 91.28,
+  "duration": 4.08,
+  "text": "facilities. The third facility is still"
+ },
+ {
+  "start": 93.2,
+  "duration": 4.239,
+  "text": "at its earliest stages, but Elon Musk is"
+ },
+ {
+  "start": 95.36,
+  "duration": 3.84,
+  "text": "clearly setting his sights on dominating"
+ },
+ {
+  "start": 97.439,
+  "duration": 3.921,
+  "text": "training compute. Confirming the reports"
+ },
+ {
+  "start": 99.2,
+  "duration": 3.599,
+  "text": "earlier this week, he posted XAI has"
+ },
+ {
+  "start": 101.36,
+  "duration": 3.28,
+  "text": "bought a third building called Macro"
+ },
+ {
+  "start": 102.799,
+  "duration": 4.401,
+  "text": "harder. We'll take XAI's training"
+ },
+ {
+  "start": 104.64,
+  "duration": 4.08,
+  "text": "compute to almost 2 GW. Now Musk is"
+ },
+ {
+  "start": 107.2,
+  "duration": 3.279,
+  "text": "seemingly referring to plans to build an"
+ },
+ {
+  "start": 108.72,
+  "duration": 4.24,
+  "text": "AI first Microsoft replacement called"
+ },
+ {
+  "start": 110.479,
+  "duration": 4.081,
+  "text": "Macroh hard as opposed to Microsoft get"
+ },
+ {
+  "start": 112.96,
+  "duration": 3.839,
+  "text": "it? But he also might just really enjoy"
+ },
+ {
+  "start": 114.56,
+  "duration": 4.0,
+  "text": "the joke. So far none of the"
+ },
+ {
+  "start": 116.799,
+  "duration": 3.841,
+  "text": "hyperscalers have completed even a 1"
+ },
+ {
+  "start": 118.56,
+  "duration": 4.0,
+  "text": "gawatt data center. But many including"
+ },
+ {
+  "start": 120.64,
+  "duration": 4.56,
+  "text": "OpenAI are racing towards this milestone"
+ },
+ {
+  "start": 122.56,
+  "duration": 4.64,
+  "text": "in 2026. Alongside their third data"
+ },
+ {
+  "start": 125.2,
+  "duration": 3.839,
+  "text": "center, XAI is also making progress in"
+ },
+ {
+  "start": 127.2,
+  "duration": 3.6,
+  "text": "constructing their own natural gas power"
+ },
+ {
+  "start": 129.039,
+  "duration": 3.28,
+  "text": "plant in the surrounding area. This will"
+ },
+ {
+  "start": 130.8,
+  "duration": 4.56,
+  "text": "be one of the first power plants built"
+ },
+ {
+  "start": 132.319,
+  "duration": 5.601,
+  "text": "specifically to power AI infrastructure."
+ },
+ {
+  "start": 135.36,
+  "duration": 4.879,
+  "text": "Next up, some model news. OpenAI is"
+ },
+ {
+  "start": 137.92,
+  "duration": 3.84,
+  "text": "renewing their focus on audio models,"
+ },
+ {
+  "start": 140.239,
+  "duration": 3.441,
+  "text": "seemingly in preparation to release"
+ },
+ {
+  "start": 141.76,
+  "duration": 3.68,
+  "text": "their first consumer device. Once again,"
+ },
+ {
+  "start": 143.68,
+  "duration": 3.44,
+  "text": "according to the information, OpenAI has"
+ },
+ {
+  "start": 145.44,
+  "duration": 3.84,
+  "text": "consolidated engineering product and"
+ },
+ {
+  "start": 147.12,
+  "duration": 4.16,
+  "text": "research teams to overhaul their audio"
+ },
+ {
+  "start": 149.28,
+  "duration": 3.679,
+  "text": "models. The report stated a new audio"
+ },
+ {
+  "start": 151.28,
+  "duration": 3.12,
+  "text": "model to drive voice mode is expected to"
+ },
+ {
+  "start": 152.959,
+  "duration": 3.201,
+  "text": "be released in the first quarter of this"
+ },
+ {
+  "start": 154.4,
+  "duration": 3.119,
+  "text": "year. Citing sources with knowledge of"
+ },
+ {
+  "start": 156.16,
+  "duration": 3.04,
+  "text": "the project, the information wrote that"
+ },
+ {
+  "start": 157.519,
+  "duration": 3.281,
+  "text": "the model will quote sound more natural"
+ },
+ {
+  "start": 159.2,
+  "duration": 3.44,
+  "text": "and emotive and provide more accurate"
+ },
+ {
+  "start": 160.8,
+  "duration": 3.92,
+  "text": "in-depth answers. It will reportedly"
+ },
+ {
+  "start": 162.64,
+  "duration": 3.44,
+  "text": "handle interruption more easily and can"
+ },
+ {
+  "start": 164.72,
+  "duration": 2.72,
+  "text": "even speak over the user when"
+ },
+ {
+  "start": 166.08,
+  "duration": 3.28,
+  "text": "appropriate, something current"
+ },
+ {
+  "start": 167.44,
+  "duration": 3.28,
+  "text": "generation voice models can't do. Now,"
+ },
+ {
+  "start": 169.36,
+  "duration": 3.84,
+  "text": "the assumption is, of course, that the"
+ },
+ {
+  "start": 170.72,
+  "duration": 4.239,
+  "text": "model is a key part of OpenAI's Johnny"
+ },
+ {
+  "start": 173.2,
+  "duration": 3.92,
+  "text": "IV designed consumer device, which is"
+ },
+ {
+  "start": 174.959,
+  "duration": 3.761,
+  "text": "expected to arrive in about a year. And"
+ },
+ {
+  "start": 177.12,
+  "duration": 3.199,
+  "text": "even if the form factor is still a"
+ },
+ {
+  "start": 178.72,
+  "duration": 3.439,
+  "text": "little uncertain, it's pretty clear that"
+ },
+ {
+  "start": 180.319,
+  "duration": 4.161,
+  "text": "Sam Alman and Johnny IV believe a voice"
+ },
+ {
+  "start": 182.159,
+  "duration": 4.321,
+  "text": "only interface is the correct move. We"
+ },
+ {
+  "start": 184.48,
+  "duration": 3.839,
+  "text": "also continue to get reports at various"
+ },
+ {
+  "start": 186.48,
+  "duration": 4.24,
+  "text": "levels of verification around what"
+ },
+ {
+  "start": 188.319,
+  "duration": 4.241,
+  "text": "OpenAI has planned for their device. One"
+ },
+ {
+  "start": 190.72,
+  "duration": 3.599,
+  "text": "recent report suggested that it's a"
+ },
+ {
+  "start": 192.56,
+  "duration": 3.84,
+  "text": "pen-shaped device, although there also"
+ },
+ {
+  "start": 194.319,
+  "duration": 3.84,
+  "text": "might be multiple form factors. One"
+ },
+ {
+  "start": 196.4,
+  "duration": 4.0,
+  "text": "interesting subdetail is that according"
+ },
+ {
+  "start": 198.159,
+  "duration": 3.841,
+  "text": "to Catrini analyst Jukan. While the"
+ },
+ {
+  "start": 200.4,
+  "duration": 3.36,
+  "text": "device was originally expected to be"
+ },
+ {
+  "start": 202.0,
+  "duration": 3.44,
+  "text": "contract manufactured by China's Lux"
+ },
+ {
+  "start": 203.76,
+  "duration": 3.92,
+  "text": "share due to strategic considerations"
+ },
+ {
+  "start": 205.44,
+  "duration": 3.6,
+  "text": "around a non-China supply chain, OpenAI"
+ },
+ {
+  "start": 207.68,
+  "duration": 3.44,
+  "text": "has shifted course and is now looking"
+ },
+ {
+  "start": 209.04,
+  "duration": 4.72,
+  "text": "for ways to manufacture it outside of"
+ },
+ {
+  "start": 211.12,
+  "duration": 4.72,
+  "text": "China. Speaking of non-China AI supply"
+ },
+ {
+  "start": 213.76,
+  "duration": 4.479,
+  "text": "chains, Nvidia has closed their deal to"
+ },
+ {
+  "start": 215.84,
+  "duration": 4.16,
+  "text": "invest $5 billion into Intel. The deal"
+ },
+ {
+  "start": 218.239,
+  "duration": 4.401,
+  "text": "was struck back in September with Nvidia"
+ },
+ {
+  "start": 220.0,
+  "duration": 4.319,
+  "text": "securing a price of 2328 per share in a"
+ },
+ {
+  "start": 222.64,
+  "duration": 3.28,
+  "text": "private placement. At the time that was"
+ },
+ {
+  "start": 224.319,
+  "duration": 3.84,
+  "text": "a slight discount to the market price,"
+ },
+ {
+  "start": 225.92,
+  "duration": 3.76,
+  "text": "but Intel stock is now up 50% since the"
+ },
+ {
+  "start": 228.159,
+  "duration": 3.601,
+  "text": "deal was announced, making the deal even"
+ },
+ {
+  "start": 229.68,
+  "duration": 4.24,
+  "text": "better for Nvidia. Nvidia will now own a"
+ },
+ {
+  "start": 231.76,
+  "duration": 3.6,
+  "text": "roughly 4% stake in Intel and more"
+ },
+ {
+  "start": 233.92,
+  "duration": 3.28,
+  "text": "importantly will have a vested interest"
+ },
+ {
+  "start": 235.36,
+  "duration": 4.079,
+  "text": "in supporting a revival in their foundry"
+ },
+ {
+  "start": 237.2,
+  "duration": 3.599,
+  "text": "business. AI chipmaking is capacity"
+ },
+ {
+  "start": 239.439,
+  "duration": 3.041,
+  "text": "constrained at the moment. So the"
+ },
+ {
+  "start": 240.799,
+  "duration": 3.44,
+  "text": "ability to bring new fabs online in the"
+ },
+ {
+  "start": 242.48,
+  "duration": 3.52,
+  "text": "US is key to Nvidia expanding their"
+ },
+ {
+  "start": 244.239,
+  "duration": 3.521,
+  "text": "production. For Intel, the deal is"
+ },
+ {
+  "start": 246.0,
+  "duration": 3.2,
+  "text": "viewed as a major financial lifeline for"
+ },
+ {
+  "start": 247.76,
+  "duration": 3.119,
+  "text": "a company that's been facing a severe"
+ },
+ {
+  "start": 249.2,
+  "duration": 3.44,
+  "text": "capital restriction. Staying on"
+ },
+ {
+  "start": 250.879,
+  "duration": 3.36,
+  "text": "dealmaking for a moment, SoftBank is"
+ },
+ {
+  "start": 252.64,
+  "duration": 3.68,
+  "text": "stepping up their AI investments with a"
+ },
+ {
+  "start": 254.239,
+  "duration": 4.0,
+  "text": "new $4 billion deal to acquire Digital"
+ },
+ {
+  "start": 256.32,
+  "duration": 3.599,
+  "text": "Bridge. Digital Bridge is a private"
+ },
+ {
+  "start": 258.239,
+  "duration": 3.52,
+  "text": "equity firm heavily involved in data"
+ },
+ {
+  "start": 259.919,
+  "duration": 3.761,
+  "text": "center funding. The allcash deal will"
+ },
+ {
+  "start": 261.759,
+  "duration": 3.761,
+  "text": "see SoftBank acquire the entire firm,"
+ },
+ {
+  "start": 263.68,
+  "duration": 3.2,
+  "text": "paying a 15% premium to their public"
+ },
+ {
+  "start": 265.52,
+  "duration": 3.52,
+  "text": "market valuation from Monday's"
+ },
+ {
+  "start": 266.88,
+  "duration": 4.24,
+  "text": "announcement. SoftBank CEO Masayoshi Sun"
+ },
+ {
+  "start": 269.04,
+  "duration": 3.84,
+  "text": "said in a statement, \"As AI transforms"
+ },
+ {
+  "start": 271.12,
+  "duration": 3.359,
+  "text": "industries worldwide, we need more"
+ },
+ {
+  "start": 272.88,
+  "duration": 3.52,
+  "text": "compute, connectivity, power, and"
+ },
+ {
+  "start": 274.479,
+  "duration": 3.44,
+  "text": "scalable infrastructure. Digital bridge"
+ },
+ {
+  "start": 276.4,
+  "duration": 2.88,
+  "text": "is a leader in digital infrastructure,"
+ },
+ {
+  "start": 277.919,
+  "duration": 3.121,
+  "text": "and this acquisition will strengthen the"
+ },
+ {
+  "start": 279.28,
+  "duration": 3.6,
+  "text": "foundation for next generation AI data"
+ },
+ {
+  "start": 281.04,
+  "duration": 3.439,
+  "text": "centers.\" Now, the acquisition is"
+ },
+ {
+  "start": 282.88,
+  "duration": 3.28,
+  "text": "clearly part and parcel of SoftBank's"
+ },
+ {
+  "start": 284.479,
+  "duration": 3.361,
+  "text": "larger AI buildout. The firm partnered"
+ },
+ {
+  "start": 286.16,
+  "duration": 3.28,
+  "text": "on OpenAI's project Stargate at the"
+ },
+ {
+  "start": 287.84,
+  "duration": 2.96,
+  "text": "beginning of last year. Then over the"
+ },
+ {
+  "start": 289.44,
+  "duration": 3.52,
+  "text": "summer, a string of reports suggested"
+ },
+ {
+  "start": 290.8,
+  "duration": 3.44,
+  "text": "that funding was an issue. Now, SoftBank"
+ },
+ {
+  "start": 292.96,
+  "duration": 3.12,
+  "text": "will have an in-house private equity"
+ },
+ {
+  "start": 294.24,
+  "duration": 3.84,
+  "text": "partner to ensure a pipeline of funding"
+ },
+ {
+  "start": 296.08,
+  "duration": 3.52,
+  "text": "to their AI projects. Digital Bridge"
+ },
+ {
+  "start": 298.08,
+  "duration": 3.04,
+  "text": "currently has around 108 billion in"
+ },
+ {
+  "start": 299.6,
+  "duration": 3.2,
+  "text": "infrastructure deals on their books,"
+ },
+ {
+  "start": 301.12,
+  "duration": 3.28,
+  "text": "which include cellular towers and fiber"
+ },
+ {
+  "start": 302.8,
+  "duration": 3.6,
+  "text": "optic networks, as well as AI data"
+ },
+ {
+  "start": 304.4,
+  "duration": 3.519,
+  "text": "centers. Digital Bridge will still fund"
+ },
+ {
+  "start": 306.4,
+  "duration": 3.12,
+  "text": "their project through outside investors,"
+ },
+ {
+  "start": 307.919,
+  "duration": 3.681,
+  "text": "meaning that SoftBank could have greater"
+ },
+ {
+  "start": 309.52,
+  "duration": 3.36,
+  "text": "access to capital. Separately, SoftBank"
+ },
+ {
+  "start": 311.6,
+  "duration": 2.96,
+  "text": "confirmed on New Year's Eve that they'd"
+ },
+ {
+  "start": 312.88,
+  "duration": 4.4,
+  "text": "completed their $40 billion investment"
+ },
+ {
+  "start": 314.56,
+  "duration": 4.32,
+  "text": "in OpenAI. A final payment of$22.5"
+ },
+ {
+  "start": 317.28,
+  "duration": 3.359,
+  "text": "billion was due by the end of the year,"
+ },
+ {
+  "start": 318.88,
+  "duration": 4.319,
+  "text": "but reports suggested it was far from a"
+ },
+ {
+  "start": 320.639,
+  "duration": 4.721,
+  "text": "smooth process. SoftBank sold their $5.8"
+ },
+ {
+  "start": 323.199,
+  "duration": 4.481,
+  "text": "billion stake in Nvidia and 4.8 billion"
+ },
+ {
+  "start": 325.36,
+  "duration": 3.92,
+  "text": "in T-Mobile to fund the deal. On top of"
+ },
+ {
+  "start": 327.68,
+  "duration": 3.2,
+  "text": "that, in mid December, Reuters reported"
+ },
+ {
+  "start": 329.28,
+  "duration": 3.199,
+  "text": "that SoftBank was tapping margin loans"
+ },
+ {
+  "start": 330.88,
+  "duration": 3.599,
+  "text": "against their ARM stock in a lastminute"
+ },
+ {
+  "start": 332.479,
+  "duration": 3.521,
+  "text": "scramble to come up with the cash. Soft"
+ },
+ {
+  "start": 334.479,
+  "duration": 2.801,
+  "text": "Bank doesn't lack assets, but was"
+ },
+ {
+  "start": 336.0,
+  "duration": 2.88,
+  "text": "liquidity constrained after the"
+ },
+ {
+  "start": 337.28,
+  "duration": 3.52,
+  "text": "government shutdown delayed the IPO of a"
+ },
+ {
+  "start": 338.88,
+  "duration": 3.68,
+  "text": "portfolio company called Pay, which was"
+ },
+ {
+  "start": 340.8,
+  "duration": 3.6,
+  "text": "expected to net 20 billion for them."
+ },
+ {
+  "start": 342.56,
+  "duration": 4.24,
+  "text": "With the deal now closed, SoftBank owns"
+ },
+ {
+  "start": 344.4,
+  "duration": 5.2,
+  "text": "roughly 11% of Open AI and seems to be"
+ },
+ {
+  "start": 346.8,
+  "duration": 4.239,
+  "text": "eager for more AI dealmaking. Meanwhile,"
+ },
+ {
+  "start": 349.6,
+  "duration": 2.96,
+  "text": "Canadian asset management giant"
+ },
+ {
+  "start": 351.039,
+  "duration": 2.961,
+  "text": "Brookfield is spinning off their own"
+ },
+ {
+  "start": 352.56,
+  "duration": 3.359,
+  "text": "cloud business to take advantage of the"
+ },
+ {
+  "start": 354.0,
+  "duration": 3.36,
+  "text": "AI boom. The information reports the new"
+ },
+ {
+  "start": 355.919,
+  "duration": 2.72,
+  "text": "business will be tied to Brookfield's AI"
+ },
+ {
+  "start": 357.36,
+  "duration": 3.279,
+  "text": "infrastructure fund, which was launched"
+ },
+ {
+  "start": 358.639,
+  "duration": 3.761,
+  "text": "in November. The fund will have a cap of"
+ },
+ {
+  "start": 360.639,
+  "duration": 3.201,
+  "text": "hundred billion, but currently has 10"
+ },
+ {
+  "start": 362.4,
+  "duration": 2.88,
+  "text": "billion in commitments from investors,"
+ },
+ {
+  "start": 363.84,
+  "duration": 3.12,
+  "text": "including Nvidia, and the Kuwait"
+ },
+ {
+  "start": 365.28,
+  "duration": 3.039,
+  "text": "Investment Authority. The fund is"
+ },
+ {
+  "start": 366.96,
+  "duration": 3.6,
+  "text": "currently developing data centers in"
+ },
+ {
+  "start": 368.319,
+  "duration": 3.6,
+  "text": "France, Qatar, and Sweden. Overall, the"
+ },
+ {
+  "start": 370.56,
+  "duration": 2.4,
+  "text": "idea is to lower the cost of AI"
+ },
+ {
+  "start": 371.919,
+  "duration": 2.321,
+  "text": "infrastructure by leveraging"
+ },
+ {
+  "start": 372.96,
+  "duration": 2.959,
+  "text": "Brookfield's scale and vertical"
+ },
+ {
+  "start": 374.24,
+  "duration": 2.959,
+  "text": "integration. The firm has over a"
+ },
+ {
+  "start": 375.919,
+  "duration": 2.961,
+  "text": "trillion dollars in assets under"
+ },
+ {
+  "start": 377.199,
+  "duration": 3.601,
+  "text": "management, including a heavy emphasis"
+ },
+ {
+  "start": 378.88,
+  "duration": 3.599,
+  "text": "on energy and real estate, writes"
+ },
+ {
+  "start": 380.8,
+  "duration": 3.36,
+  "text": "Reuters. A cloud business would allow"
+ },
+ {
+  "start": 382.479,
+  "duration": 3.361,
+  "text": "the company to control inputs of the AI"
+ },
+ {
+  "start": 384.16,
+  "duration": 4.08,
+  "text": "value chain in a way inaccessible to"
+ },
+ {
+  "start": 385.84,
+  "duration": 3.76,
+  "text": "pure play cloud providers. Finally, what"
+ },
+ {
+  "start": 388.24,
+  "duration": 3.44,
+  "text": "I said was most interesting to me in"
+ },
+ {
+  "start": 389.6,
+  "duration": 5.039,
+  "text": "today's headlines is Claude Code writing"
+ },
+ {
+  "start": 391.68,
+  "duration": 4.72,
+  "text": "100% of Claude Code code. The rapid"
+ },
+ {
+  "start": 394.639,
+  "duration": 4.161,
+  "text": "growth of AI coding was of course one of"
+ },
+ {
+  "start": 396.4,
+  "duration": 3.76,
+  "text": "the key inflection points for 2025, and"
+ },
+ {
+  "start": 398.8,
+  "duration": 3.44,
+  "text": "some of the creators of the technology"
+ },
+ {
+  "start": 400.16,
+  "duration": 4.24,
+  "text": "are astounded at how far it's come."
+ },
+ {
+  "start": 402.24,
+  "duration": 4.16,
+  "text": "Claude Code creator Boris Charity posted"
+ },
+ {
+  "start": 404.4,
+  "duration": 3.519,
+  "text": "over the holiday break, \"A year ago,"
+ },
+ {
+  "start": 406.4,
+  "duration": 3.44,
+  "text": "Claude struggled to generate bash"
+ },
+ {
+  "start": 407.919,
+  "duration": 3.921,
+  "text": "commands without escaping issues. It"
+ },
+ {
+  "start": 409.84,
+  "duration": 4.24,
+  "text": "worked for seconds or minutes at a time."
+ },
+ {
+  "start": 411.84,
+  "duration": 6.0,
+  "text": "Fast forward to today. In the last 30"
+ },
+ {
+  "start": 414.08,
+  "duration": 6.16,
+  "text": "days, I landed 259 PRs, 497 commits,"
+ },
+ {
+  "start": 417.84,
+  "duration": 4.96,
+  "text": "40,000 lines added, 38,000 lines"
+ },
+ {
+  "start": 420.24,
+  "duration": 5.12,
+  "text": "removed. Every single line was written"
+ },
+ {
+  "start": 422.8,
+  "duration": 4.16,
+  "text": "by Claude code in Opus 4.5. Claude"
+ },
+ {
+  "start": 425.36,
+  "duration": 3.839,
+  "text": "consistently runs for minutes, hours,"
+ },
+ {
+  "start": 426.96,
+  "duration": 3.92,
+  "text": "and days at a time. Software engineering"
+ },
+ {
+  "start": 429.199,
+  "duration": 3.681,
+  "text": "is changing and we're entering a new"
+ },
+ {
+  "start": 430.88,
+  "duration": 4.159,
+  "text": "period in coding history and we're still"
+ },
+ {
+  "start": 432.88,
+  "duration": 3.84,
+  "text": "just getting started. Now, the comments"
+ },
+ {
+  "start": 435.039,
+  "duration": 3.121,
+  "text": "caused some to do a double take, asking"
+ },
+ {
+  "start": 436.72,
+  "duration": 3.28,
+  "text": "Churnney if he really meant that he"
+ },
+ {
+  "start": 438.16,
+  "duration": 4.319,
+  "text": "hadn't manually written code in the last"
+ },
+ {
+  "start": 440.0,
+  "duration": 4.88,
+  "text": "month. He responded, \"Correct. In the"
+ },
+ {
+  "start": 442.479,
+  "duration": 4.321,
+  "text": "last 30 days, 100% of my contributions"
+ },
+ {
+  "start": 444.88,
+  "duration": 3.84,
+  "text": "to Claude Code were written by Claude"
+ },
+ {
+  "start": 446.8,
+  "duration": 4.0,
+  "text": "Code.\" Ethan Malik wrote, \"In"
+ },
+ {
+  "start": 448.72,
+  "duration": 4.08,
+  "text": "retrospect, the articles mocking Daario"
+ },
+ {
+  "start": 450.8,
+  "duration": 4.16,
+  "text": "Amade's prediction of 90% of code being"
+ },
+ {
+  "start": 452.8,
+  "duration": 4.08,
+  "text": "written by AI by September seem to be"
+ },
+ {
+  "start": 454.96,
+  "duration": 3.76,
+  "text": "very misguided. He seems to have only"
+ },
+ {
+  "start": 456.88,
+  "duration": 3.68,
+  "text": "been off by a couple months, if that."
+ },
+ {
+  "start": 458.72,
+  "duration": 3.84,
+  "text": "And indeed, less than a year after Andre"
+ },
+ {
+  "start": 460.56,
+  "duration": 3.84,
+  "text": "Karpathy coined the term vibe coding,"
+ },
+ {
+  "start": 462.56,
+  "duration": 4.24,
+  "text": "Claude Code is now good enough to write"
+ },
+ {
+  "start": 464.4,
+  "duration": 4.239,
+  "text": "Claude code. Speaking of Carpathy, he"
+ },
+ {
+  "start": 466.8,
+  "duration": 4.32,
+  "text": "went viral over the holidays for a take"
+ },
+ {
+  "start": 468.639,
+  "duration": 4.161,
+  "text": "on the rapid advancement in AI coding."
+ },
+ {
+  "start": 471.12,
+  "duration": 3.28,
+  "text": "He wrote, \"I've never felt this much"
+ },
+ {
+  "start": 472.8,
+  "duration": 3.28,
+  "text": "behind as a programmer. The profession"
+ },
+ {
+  "start": 474.4,
+  "duration": 3.28,
+  "text": "is being dramatically refactored as the"
+ },
+ {
+  "start": 476.08,
+  "duration": 3.6,
+  "text": "bits contributed by the programmer are"
+ },
+ {
+  "start": 477.68,
+  "duration": 3.68,
+  "text": "increasingly sparse in between. I have a"
+ },
+ {
+  "start": 479.68,
+  "duration": 3.28,
+  "text": "sense that I could be 10x more powerful"
+ },
+ {
+  "start": 481.36,
+  "duration": 2.959,
+  "text": "if I just properly string together what"
+ },
+ {
+  "start": 482.96,
+  "duration": 3.12,
+  "text": "has become available over the last"
+ },
+ {
+  "start": 484.319,
+  "duration": 3.681,
+  "text": "year.\" and a failure to claim the boost"
+ },
+ {
+  "start": 486.08,
+  "duration": 3.36,
+  "text": "feels decidedly like skill issue."
+ },
+ {
+  "start": 488.0,
+  "duration": 3.36,
+  "text": "There's a new programmable layer of"
+ },
+ {
+  "start": 489.44,
+  "duration": 4.24,
+  "text": "abstraction to master in addition to the"
+ },
+ {
+  "start": 491.36,
+  "duration": 4.239,
+  "text": "usual layers below involving agents, sub"
+ },
+ {
+  "start": 493.68,
+  "duration": 3.28,
+  "text": "agents, their prompts, context, memory"
+ },
+ {
+  "start": 495.599,
+  "duration": 3.681,
+  "text": "modes, permissions, tools, plugins,"
+ },
+ {
+  "start": 496.96,
+  "duration": 4.4,
+  "text": "skills, hooks, MCP, LSP, SLC commands,"
+ },
+ {
+  "start": 499.28,
+  "duration": 3.44,
+  "text": "workflows, IDE integrations, and a need"
+ },
+ {
+  "start": 501.36,
+  "duration": 2.959,
+  "text": "to build an all-encompassing mental"
+ },
+ {
+  "start": 502.72,
+  "duration": 3.039,
+  "text": "model for strength and pitfalls. A"
+ },
+ {
+  "start": 504.319,
+  "duration": 3.121,
+  "text": "fundamentally stochastic, failable,"
+ },
+ {
+  "start": 505.759,
+  "duration": 3.041,
+  "text": "unintelligible, and changing entities"
+ },
+ {
+  "start": 507.44,
+  "duration": 2.96,
+  "text": "suddenly intermingled with what used to"
+ },
+ {
+  "start": 508.8,
+  "duration": 3.44,
+  "text": "be good old-fashioned engineering."
+ },
+ {
+  "start": 510.4,
+  "duration": 3.36,
+  "text": "Clearly, some powerful alien tool was"
+ },
+ {
+  "start": 512.24,
+  "duration": 3.2,
+  "text": "handed around, except it comes with no"
+ },
+ {
+  "start": 513.76,
+  "duration": 3.759,
+  "text": "manual. and everyone has to figure out"
+ },
+ {
+  "start": 515.44,
+  "duration": 3.92,
+  "text": "how to hold it and operate it while the"
+ },
+ {
+  "start": 517.519,
+  "duration": 4.241,
+  "text": "resulting magnitude 9 earthquake is"
+ },
+ {
+  "start": 519.36,
+  "duration": 4.64,
+  "text": "rocking the profession. Andre ends with"
+ },
+ {
+  "start": 521.76,
+  "duration": 5.199,
+  "text": "the most salient advice for the moment."
+ },
+ {
+  "start": 524.0,
+  "duration": 4.88,
+  "text": "Roll up your sleeves to not fall behind."
+ },
+ {
+  "start": 526.959,
+  "duration": 4.161,
+  "text": "That will of course be one of the key"
+ },
+ {
+  "start": 528.88,
+  "duration": 3.44,
+  "text": "themes of the AI daily brief this year."
+ },
+ {
+  "start": 531.12,
+  "duration": 3.44,
+  "text": "For now, that is going to do it for"
+ },
+ {
+  "start": 532.32,
+  "duration": 4.88,
+  "text": "today's headlines. Next up, the main"
+ },
+ {
+  "start": 534.56,
+  "duration": 2.64,
+  "text": "episode."
+ }
+]

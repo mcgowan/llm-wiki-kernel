@@ -1,0 +1,2062 @@
+[
+ {
+  "start": 0.4,
+  "duration": 3.52,
+  "text": "Today, we're discussing a new study from"
+ },
+ {
+  "start": 1.8,
+  "duration": 4.32,
+  "text": "Anthropic that, while nominally about"
+ },
+ {
+  "start": 3.92,
+  "duration": 4.84,
+  "text": "agent autonomy, is actually much more"
+ },
+ {
+  "start": 6.12,
+  "duration": 4.88,
+  "text": "about how people are using AI agents in"
+ },
+ {
+  "start": 8.76,
+  "duration": 4.28,
+  "text": "practice."
+ },
+ {
+  "start": 11.0,
+  "duration": 4.64,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 13.04,
+  "duration": 5.08,
+  "text": "Today, we are looking at a new Anthropic"
+ },
+ {
+  "start": 15.64,
+  "duration": 4.88,
+  "text": "study on agent autonomy. It's called"
+ },
+ {
+  "start": 18.12,
+  "duration": 3.8,
+  "text": "Measuring AI Agent Autonomy in Practice,"
+ },
+ {
+  "start": 20.52,
+  "duration": 3.64,
+  "text": "and in many ways it ends up actually"
+ },
+ {
+  "start": 21.92,
+  "duration": 3.84,
+  "text": "being a case study in how agent behavior"
+ },
+ {
+  "start": 24.16,
+  "duration": 2.96,
+  "text": "is changing. After reading it, I"
+ },
+ {
+  "start": 25.76,
+  "duration": 3.56,
+  "text": "couldn't help but feel like it was a"
+ },
+ {
+  "start": 27.12,
+  "duration": 3.72,
+  "text": "profile of a changing market where more"
+ },
+ {
+  "start": 29.32,
+  "duration": 3.119,
+  "text": "and more of the tasks are moving outside"
+ },
+ {
+  "start": 30.84,
+  "duration": 3.12,
+  "text": "of coding or engineering, and more and"
+ },
+ {
+  "start": 32.439,
+  "duration": 3.041,
+  "text": "more of the agentic work is being done"
+ },
+ {
+  "start": 33.96,
+  "duration": 3.84,
+  "text": "by people who are not themselves"
+ },
+ {
+  "start": 35.48,
+  "duration": 4.4,
+  "text": "engineers. Now, to set this up, I think"
+ },
+ {
+  "start": 37.8,
+  "duration": 4.68,
+  "text": "it's useful to have as a comparison the"
+ },
+ {
+  "start": 39.88,
+  "duration": 4.6,
+  "text": "most frequently discussed study on agent"
+ },
+ {
+  "start": 42.48,
+  "duration": 3.52,
+  "text": "autonomy. That is, of course, the METER"
+ },
+ {
+  "start": 44.48,
+  "duration": 3.64,
+  "text": "study, the chart of which I'm sure"
+ },
+ {
+  "start": 46.0,
+  "duration": 4.56,
+  "text": "you've seen before, that measures AI's"
+ },
+ {
+  "start": 48.12,
+  "duration": 3.92,
+  "text": "ability to complete long tasks. The"
+ },
+ {
+  "start": 50.56,
+  "duration": 3.08,
+  "text": "metric that they created is basically a"
+ },
+ {
+  "start": 52.04,
+  "duration": 3.76,
+  "text": "measurement of the duration of a task"
+ },
+ {
+  "start": 53.64,
+  "duration": 4.12,
+  "text": "that AI can complete at a certain level"
+ },
+ {
+  "start": 55.8,
+  "duration": 3.04,
+  "text": "of success. It is not, and this is"
+ },
+ {
+  "start": 57.76,
+  "duration": 3.2,
+  "text": "something that people frequently get"
+ },
+ {
+  "start": 58.84,
+  "duration": 4.28,
+  "text": "wrong, a direct measure of how long an"
+ },
+ {
+  "start": 60.96,
+  "duration": 3.919,
+  "text": "AI agent can work for. Instead, it is a"
+ },
+ {
+  "start": 63.12,
+  "duration": 3.4,
+  "text": "measure of the duration of task as it"
+ },
+ {
+  "start": 64.879,
+  "duration": 4.041,
+  "text": "would take a human. So, when, for"
+ },
+ {
+  "start": 66.52,
+  "duration": 5.48,
+  "text": "example, GPT-5.2 High comes in at 5"
+ },
+ {
+  "start": 68.92,
+  "duration": 5.24,
+  "text": "hours, that's not that GPT-5.2 High took"
+ },
+ {
+  "start": 72.0,
+  "duration": 4.28,
+  "text": "5 hours to complete a task, it's how"
+ },
+ {
+  "start": 74.16,
+  "duration": 4.12,
+  "text": "long that task would have taken a human."
+ },
+ {
+  "start": 76.28,
+  "duration": 4.92,
+  "text": "What's more, METER has two success"
+ },
+ {
+  "start": 78.28,
+  "duration": 4.12,
+  "text": "metrics, 50% success and 80% success,"
+ },
+ {
+  "start": 81.2,
+  "duration": 3.44,
+  "text": "neither of which would be sufficient"
+ },
+ {
+  "start": 82.4,
+  "duration": 3.16,
+  "text": "performance for a real-world context. In"
+ },
+ {
+  "start": 84.64,
+  "duration": 3.12,
+  "text": "other words, you're not going to keep an"
+ },
+ {
+  "start": 85.56,
+  "duration": 4.16,
+  "text": "employee around who completes tasks at a"
+ },
+ {
+  "start": 87.76,
+  "duration": 3.04,
+  "text": "50% success rate. Still, I've always"
+ },
+ {
+  "start": 89.72,
+  "duration": 2.88,
+  "text": "thought that this METER metric was"
+ },
+ {
+  "start": 90.8,
+  "duration": 3.72,
+  "text": "really valuable. In my estimation, it"
+ },
+ {
+  "start": 92.6,
+  "duration": 4.2,
+  "text": "doesn't matter so much whether 50% or"
+ },
+ {
+  "start": 94.52,
+  "duration": 3.52,
+  "text": "80% success is the core number, it's"
+ },
+ {
+  "start": 96.8,
+  "duration": 3.16,
+  "text": "that it's consistent and applied"
+ },
+ {
+  "start": 98.04,
+  "duration": 4.4,
+  "text": "consistently over time to different"
+ },
+ {
+  "start": 99.96,
+  "duration": 3.76,
+  "text": "models. So, ultimately, what is this"
+ },
+ {
+  "start": 102.44,
+  "duration": 3.6,
+  "text": "trying to get at? Well, it's trying to"
+ },
+ {
+  "start": 103.72,
+  "duration": 3.8,
+  "text": "measure agent autonomy. And so, why does"
+ },
+ {
+  "start": 106.04,
+  "duration": 3.4,
+  "text": "autonomy matter?"
+ },
+ {
+  "start": 107.52,
+  "duration": 3.92,
+  "text": "Autonomy matters as it shapes what"
+ },
+ {
+  "start": 109.44,
+  "duration": 3.84,
+  "text": "agents can do. The more autonomous an"
+ },
+ {
+  "start": 111.44,
+  "duration": 3.76,
+  "text": "agent is, the greater the capability it"
+ },
+ {
+  "start": 113.28,
+  "duration": 3.64,
+  "text": "has to complete long-duration tasks with"
+ },
+ {
+  "start": 115.2,
+  "duration": 3.28,
+  "text": "high success rates, the wider and more"
+ },
+ {
+  "start": 116.92,
+  "duration": 3.72,
+  "text": "complex the array of use cases that it"
+ },
+ {
+  "start": 118.48,
+  "duration": 3.76,
+  "text": "can be valuable for. That matters on an"
+ },
+ {
+  "start": 120.64,
+  "duration": 3.56,
+  "text": "individual level in terms of what work"
+ },
+ {
+  "start": 122.24,
+  "duration": 4.12,
+  "text": "you can outsource to an agent, on an org"
+ },
+ {
+  "start": 124.2,
+  "duration": 3.36,
+  "text": "level in terms of which sets of tasks or"
+ },
+ {
+  "start": 126.36,
+  "duration": 3.48,
+  "text": "which entire functions can be"
+ },
+ {
+  "start": 127.56,
+  "duration": 3.96,
+  "text": "agentified, and on a societal level as"
+ },
+ {
+  "start": 129.84,
+  "duration": 3.92,
+  "text": "it has big impact when it comes to the"
+ },
+ {
+  "start": 131.52,
+  "duration": 4.12,
+  "text": "job disruption conversation."
+ },
+ {
+  "start": 133.76,
+  "duration": 4.16,
+  "text": "Yet, despite METER being a very valuable"
+ },
+ {
+  "start": 135.64,
+  "duration": 3.88,
+  "text": "and oft-cited metric, indeed last year"
+ },
+ {
+  "start": 137.92,
+  "duration": 3.0,
+  "text": "during the height of the bubble times,"
+ },
+ {
+  "start": 139.52,
+  "duration": 3.2,
+  "text": "people joked that this chart was keeping"
+ },
+ {
+  "start": 140.92,
+  "duration": 3.08,
+  "text": "the entire industry on its back as it"
+ },
+ {
+  "start": 142.72,
+  "duration": 3.28,
+  "text": "was the one thing that suggested that"
+ },
+ {
+  "start": 144.0,
+  "duration": 3.72,
+  "text": "there was no plateau on progress, which"
+ },
+ {
+  "start": 146.0,
+  "duration": 3.76,
+  "text": "was maybe the chief piece of evidence"
+ },
+ {
+  "start": 147.72,
+  "duration": 3.84,
+  "text": "that the bubble-ists were looking for."
+ },
+ {
+  "start": 149.76,
+  "duration": 4.24,
+  "text": "And yet, there are of course limitations"
+ },
+ {
+  "start": 151.56,
+  "duration": 4.76,
+  "text": "of their methodology. As Anthropic puts"
+ },
+ {
+  "start": 154.0,
+  "duration": 4.2,
+  "text": "it, the METER evaluation captures what a"
+ },
+ {
+  "start": 156.32,
+  "duration": 4.16,
+  "text": "model is capable of in an idealized"
+ },
+ {
+  "start": 158.2,
+  "duration": 4.28,
+  "text": "setting with no human interaction and no"
+ },
+ {
+  "start": 160.48,
+  "duration": 3.56,
+  "text": "real-world consequences. And that of"
+ },
+ {
+  "start": 162.48,
+  "duration": 3.8,
+  "text": "course is not how people actually use"
+ },
+ {
+  "start": 164.04,
+  "duration": 4.16,
+  "text": "agents in practice. To understand how"
+ },
+ {
+  "start": 166.28,
+  "duration": 5.08,
+  "text": "people use agents in practice, one of"
+ },
+ {
+  "start": 168.2,
+  "duration": 4.56,
+  "text": "the best places to look is Claude Code."
+ },
+ {
+  "start": 171.36,
+  "duration": 2.96,
+  "text": "For all intents and purposes, I think"
+ },
+ {
+  "start": 172.76,
+  "duration": 3.88,
+  "text": "one can argue that Claude Code is the"
+ },
+ {
+  "start": 174.32,
+  "duration": 4.36,
+  "text": "first agent with product-market fit. In"
+ },
+ {
+  "start": 176.64,
+  "duration": 3.72,
+  "text": "fact, many people have noted that Claude"
+ },
+ {
+  "start": 178.68,
+  "duration": 4.0,
+  "text": "Code is better thought of not as a"
+ },
+ {
+  "start": 180.36,
+  "duration": 4.48,
+  "text": "coding tool per se, but instead as a"
+ },
+ {
+  "start": 182.68,
+  "duration": 3.839,
+  "text": "code-enabled general-purpose agent. And"
+ },
+ {
+  "start": 184.84,
+  "duration": 4.08,
+  "text": "that brings us to Anthropic's study,"
+ },
+ {
+  "start": 186.519,
+  "duration": 4.401,
+  "text": "Measuring AI Agent Autonomy in Practice."
+ },
+ {
+  "start": 188.92,
+  "duration": 3.56,
+  "text": "Now, although Anthropic has access to"
+ },
+ {
+  "start": 190.92,
+  "duration": 3.52,
+  "text": "pretty unique data in this regard, there"
+ },
+ {
+  "start": 192.48,
+  "duration": 3.0,
+  "text": "are still some challenges. First of all,"
+ },
+ {
+  "start": 194.44,
+  "duration": 3.48,
+  "text": "there's the question of what is the"
+ },
+ {
+  "start": 195.48,
+  "duration": 4.08,
+  "text": "definition of an agent? Since this is a"
+ },
+ {
+  "start": 197.92,
+  "duration": 3.48,
+  "text": "constant source of debate, Anthropic"
+ },
+ {
+  "start": 199.56,
+  "duration": 3.48,
+  "text": "decided to go with a definition that is,"
+ },
+ {
+  "start": 201.4,
+  "duration": 4.28,
+  "text": "as they put it, conceptually grounded"
+ },
+ {
+  "start": 203.04,
+  "duration": 4.44,
+  "text": "and operationalizable. An agent is an AI"
+ },
+ {
+  "start": 205.68,
+  "duration": 4.08,
+  "text": "system equipped with tools that allow it"
+ },
+ {
+  "start": 207.48,
+  "duration": 3.96,
+  "text": "to take actions. As they point out,"
+ },
+ {
+  "start": 209.76,
+  "duration": 2.8,
+  "text": "studying the tools that agents use tells"
+ },
+ {
+  "start": 211.44,
+  "duration": 3.24,
+  "text": "us a great deal about what they are"
+ },
+ {
+  "start": 212.56,
+  "duration": 3.959,
+  "text": "doing in the wild. In terms of sources,"
+ },
+ {
+  "start": 214.68,
+  "duration": 3.839,
+  "text": "they pulled from the public API as well"
+ },
+ {
+  "start": 216.519,
+  "duration": 3.881,
+  "text": "as Claude Code. And going back to this"
+ },
+ {
+  "start": 218.519,
+  "duration": 3.681,
+  "text": "idea of tools for the public API data,"
+ },
+ {
+  "start": 220.4,
+  "duration": 3.28,
+  "text": "they say, \"Rather than attempting to"
+ },
+ {
+  "start": 222.2,
+  "duration": 3.48,
+  "text": "infer our customers' agents'"
+ },
+ {
+  "start": 223.68,
+  "duration": 3.76,
+  "text": "architectures, we instead perform our"
+ },
+ {
+  "start": 225.68,
+  "duration": 3.48,
+  "text": "analysis at the level of individual tool"
+ },
+ {
+  "start": 227.44,
+  "duration": 3.32,
+  "text": "calls.\" They write, \"The simplifying"
+ },
+ {
+  "start": 229.16,
+  "duration": 3.44,
+  "text": "assumption allows us to make grounded"
+ },
+ {
+  "start": 230.76,
+  "duration": 3.52,
+  "text": "consistent observations about real-world"
+ },
+ {
+  "start": 232.6,
+  "duration": 2.92,
+  "text": "agents even as the context in which"
+ },
+ {
+  "start": 234.28,
+  "duration": 3.68,
+  "text": "those agents are deployed vary"
+ },
+ {
+  "start": 235.52,
+  "duration": 3.92,
+  "text": "significantly. The limitation they note"
+ },
+ {
+  "start": 237.96,
+  "duration": 3.8,
+  "text": "is that they have to analyze actions in"
+ },
+ {
+  "start": 239.44,
+  "duration": 4.04,
+  "text": "isolation rather than understand how"
+ },
+ {
+  "start": 241.76,
+  "duration": 3.8,
+  "text": "those individual actions combine into a"
+ },
+ {
+  "start": 243.48,
+  "duration": 4.08,
+  "text": "larger whole. The second source of data"
+ },
+ {
+  "start": 245.56,
+  "duration": 4.04,
+  "text": "is Claude Code. And what makes Claude"
+ },
+ {
+  "start": 247.56,
+  "duration": 3.88,
+  "text": "Code super valuable for this study is"
+ },
+ {
+  "start": 249.6,
+  "duration": 3.44,
+  "text": "that because it is their own product,"
+ },
+ {
+  "start": 251.44,
+  "duration": 3.36,
+  "text": "they can understand an entire agent"
+ },
+ {
+  "start": 253.04,
+  "duration": 2.919,
+  "text": "workflow from start to finish. The"
+ },
+ {
+  "start": 254.8,
+  "duration": 2.76,
+  "text": "challenge of course is that it doesn't"
+ },
+ {
+  "start": 255.959,
+  "duration": 4.241,
+  "text": "have the same diversity of use cases"
+ },
+ {
+  "start": 257.56,
+  "duration": 4.28,
+  "text": "necessarily as their API traffic."
+ },
+ {
+  "start": 260.2,
+  "duration": 3.24,
+  "text": "Now one last note on the methodology,"
+ },
+ {
+  "start": 261.84,
+  "duration": 3.16,
+  "text": "when trying to figure out how long"
+ },
+ {
+  "start": 263.44,
+  "duration": 3.12,
+  "text": "agents actually run for without human"
+ },
+ {
+  "start": 265.0,
+  "duration": 3.88,
+  "text": "involvement, in Claude Code they're"
+ },
+ {
+  "start": 266.56,
+  "duration": 4.2,
+  "text": "using turn duration. Basically, how much"
+ },
+ {
+  "start": 268.88,
+  "duration": 3.92,
+  "text": "time elapses between when Claude starts"
+ },
+ {
+  "start": 270.76,
+  "duration": 3.44,
+  "text": "working and when it stops. One note they"
+ },
+ {
+  "start": 272.8,
+  "duration": 3.72,
+  "text": "make is that when it comes to the"
+ },
+ {
+  "start": 274.2,
+  "duration": 4.88,
+  "text": "average, most Claude Code turns are very"
+ },
+ {
+  "start": 276.52,
+  "duration": 4.04,
+  "text": "short. The median turn lasts around 45"
+ },
+ {
+  "start": 279.08,
+  "duration": 3.52,
+  "text": "seconds, and that's been fairly"
+ },
+ {
+  "start": 280.56,
+  "duration": 4.0,
+  "text": "consistent over the past several months."
+ },
+ {
+  "start": 282.6,
+  "duration": 3.68,
+  "text": "Instead then, they look at the signal at"
+ },
+ {
+  "start": 284.56,
+  "duration": 4.28,
+  "text": "the very end of the long tail."
+ },
+ {
+  "start": 286.28,
+  "duration": 4.44,
+  "text": "Basically, the 99.9th percentile turn"
+ },
+ {
+  "start": 288.84,
+  "duration": 3.72,
+  "text": "duration. With the argument being that"
+ },
+ {
+  "start": 290.72,
+  "duration": 3.84,
+  "text": "these are the most advanced users, or at"
+ },
+ {
+  "start": 292.56,
+  "duration": 3.52,
+  "text": "least the most advanced use says, and in"
+ },
+ {
+  "start": 294.56,
+  "duration": 3.2,
+  "text": "that way are more likely to reveal what"
+ },
+ {
+  "start": 296.08,
+  "duration": 3.04,
+  "text": "the end duration of the capability set"
+ },
+ {
+  "start": 297.76,
+  "duration": 3.72,
+  "text": "really is."
+ },
+ {
+  "start": 299.12,
+  "duration": 4.28,
+  "text": "So looking at that 99.9th percentile"
+ },
+ {
+  "start": 301.48,
+  "duration": 3.64,
+  "text": "turn duration, there are two really"
+ },
+ {
+  "start": 303.4,
+  "duration": 2.84,
+  "text": "interesting phenomenon over the past few"
+ },
+ {
+  "start": 305.12,
+  "duration": 2.68,
+  "text": "months."
+ },
+ {
+  "start": 306.24,
+  "duration": 4.2,
+  "text": "In the period between October and"
+ },
+ {
+  "start": 307.8,
+  "duration": 4.88,
+  "text": "January, basically from when Sonnet 45"
+ },
+ {
+  "start": 310.44,
+  "duration": 4.2,
+  "text": "launched through when Opus 45 launched"
+ },
+ {
+  "start": 312.68,
+  "duration": 4.52,
+  "text": "in November, average turn duration at"
+ },
+ {
+  "start": 314.64,
+  "duration": 5.48,
+  "text": "that percentile jumped from 25 minutes"
+ },
+ {
+  "start": 317.2,
+  "duration": 4.92,
+  "text": "to 45 minutes. Interestingly they note"
+ },
+ {
+  "start": 320.12,
+  "duration": 4.2,
+  "text": "that the increase is smooth across model"
+ },
+ {
+  "start": 322.12,
+  "duration": 3.799,
+  "text": "releases, suggesting that autonomy is"
+ },
+ {
+  "start": 324.32,
+  "duration": 3.48,
+  "text": "not purely a function of model"
+ },
+ {
+  "start": 325.919,
+  "duration": 3.681,
+  "text": "capability. And indeed, I think that's"
+ },
+ {
+  "start": 327.8,
+  "duration": 3.44,
+  "text": "one of the big themes of this research"
+ },
+ {
+  "start": 329.6,
+  "duration": 3.36,
+  "text": "is that when we try to understand agent"
+ },
+ {
+  "start": 331.24,
+  "duration": 3.72,
+  "text": "autonomy, we have to think beyond just"
+ },
+ {
+  "start": 332.96,
+  "duration": 3.64,
+  "text": "model to the entire context in which a"
+ },
+ {
+  "start": 334.96,
+  "duration": 3.92,
+  "text": "model operates including the human"
+ },
+ {
+  "start": 336.6,
+  "duration": 4.0,
+  "text": "interactive context. The second really"
+ },
+ {
+  "start": 338.88,
+  "duration": 3.8,
+  "text": "interesting period in this chart is the"
+ },
+ {
+  "start": 340.6,
+  "duration": 3.12,
+  "text": "period over the last 6 weeks or so when"
+ },
+ {
+  "start": 342.68,
+  "duration": 3.04,
+  "text": "there is actually a bit of a dip"
+ },
+ {
+  "start": 343.72,
+  "duration": 3.64,
+  "text": "backwards from the peak of over 45"
+ },
+ {
+  "start": 345.72,
+  "duration": 4.24,
+  "text": "minutes down to something that's closer"
+ },
+ {
+  "start": 347.36,
+  "duration": 4.52,
+  "text": "to 40. They identify two theories for"
+ },
+ {
+  "start": 349.96,
+  "duration": 3.84,
+  "text": "why what was a previously pretty smooth"
+ },
+ {
+  "start": 351.88,
+  "duration": 3.76,
+  "text": "curve has now leveled out and in fact"
+ },
+ {
+  "start": 353.8,
+  "duration": 3.4,
+  "text": "gone down a little bit. The first is a"
+ },
+ {
+  "start": 355.64,
+  "duration": 3.4,
+  "text": "shift in what projects people were using"
+ },
+ {
+  "start": 357.2,
+  "duration": 3.76,
+  "text": "Claude Code for. The argument is"
+ },
+ {
+  "start": 359.04,
+  "duration": 3.6,
+  "text": "basically that over the holidays, people"
+ },
+ {
+  "start": 360.96,
+  "duration": 2.8,
+  "text": "had sort of broader range exploratory"
+ },
+ {
+  "start": 362.64,
+  "duration": 2.96,
+  "text": "things that they were doing for their"
+ },
+ {
+  "start": 363.76,
+  "duration": 3.4,
+  "text": "own gratification or hobbies, whereas"
+ },
+ {
+  "start": 365.6,
+  "duration": 3.08,
+  "text": "when they came back they had as they put"
+ },
+ {
+  "start": 367.16,
+  "duration": 3.8,
+  "text": "it more tightly circumscribed work"
+ },
+ {
+  "start": 368.68,
+  "duration": 4.28,
+  "text": "tasks. The second piece, however, is"
+ },
+ {
+  "start": 370.96,
+  "duration": 4.28,
+  "text": "that between January and mid-February"
+ },
+ {
+  "start": 372.96,
+  "duration": 3.4,
+  "text": "the Claude Code user base doubled, which"
+ },
+ {
+  "start": 375.24,
+  "duration": 3.08,
+  "text": "is obviously phenomenal that we've been"
+ },
+ {
+  "start": 376.36,
+  "duration": 3.68,
+  "text": "tracking closely here. A doubling like"
+ },
+ {
+  "start": 378.32,
+  "duration": 3.56,
+  "text": "that is naturally going to bring with it"
+ },
+ {
+  "start": 380.04,
+  "duration": 3.68,
+  "text": "a more diverse user base that's going to"
+ },
+ {
+  "start": 381.88,
+  "duration": 3.08,
+  "text": "reshape the distribution a little bit."
+ },
+ {
+  "start": 383.72,
+  "duration": 2.96,
+  "text": "And indeed, maybe the most interesting"
+ },
+ {
+  "start": 384.96,
+  "duration": 3.32,
+  "text": "thing about this study to me is not just"
+ },
+ {
+  "start": 386.68,
+  "duration": 3.84,
+  "text": "the raw measure of capability, but the"
+ },
+ {
+  "start": 388.28,
+  "duration": 4.04,
+  "text": "human interaction measures. A lot of"
+ },
+ {
+  "start": 390.52,
+  "duration": 4.0,
+  "text": "this story is the difference between new"
+ },
+ {
+  "start": 392.32,
+  "duration": 4.04,
+  "text": "users and power users."
+ },
+ {
+  "start": 394.52,
+  "duration": 3.2,
+  "text": "One of the interesting findings is that"
+ },
+ {
+  "start": 396.36,
+  "duration": 3.84,
+  "text": "users at the beginning of their Claude"
+ },
+ {
+  "start": 397.72,
+  "duration": 4.199,
+  "text": "Code journey use the full auto-approval"
+ },
+ {
+  "start": 400.2,
+  "duration": 4.16,
+  "text": "features less than more experienced"
+ },
+ {
+  "start": 401.919,
+  "duration": 4.441,
+  "text": "users. New users use full auto-approval"
+ },
+ {
+  "start": 404.36,
+  "duration": 4.0,
+  "text": "roughly 20% of the time, which roughly"
+ },
+ {
+  "start": 406.36,
+  "duration": 3.96,
+  "text": "doubles to 40% for more experienced"
+ },
+ {
+  "start": 408.36,
+  "duration": 3.76,
+  "text": "users. Claude Code's default settings"
+ },
+ {
+  "start": 410.32,
+  "duration": 4.16,
+  "text": "require users to manually approve each"
+ },
+ {
+  "start": 412.12,
+  "duration": 3.48,
+  "text": "action, and so Anthropic suspects that"
+ },
+ {
+  "start": 414.48,
+  "duration": 3.04,
+  "text": "what we're seeing is a steady"
+ },
+ {
+  "start": 415.6,
+  "duration": 3.64,
+  "text": "accumulation of trust. At the beginning"
+ },
+ {
+  "start": 417.52,
+  "duration": 2.92,
+  "text": "you approve things each time, and then"
+ },
+ {
+  "start": 419.24,
+  "duration": 2.92,
+  "text": "as you dial in your settings and you"
+ },
+ {
+  "start": 420.44,
+  "duration": 3.04,
+  "text": "start to learn to trust the model, you"
+ },
+ {
+  "start": 422.16,
+  "duration": 3.84,
+  "text": "give it that auto-approval more"
+ },
+ {
+  "start": 423.48,
+  "duration": 4.0,
+  "text": "frequently. At the same time, approving"
+ },
+ {
+  "start": 426.0,
+  "duration": 4.12,
+  "text": "actions isn't the only way that people"
+ },
+ {
+  "start": 427.48,
+  "duration": 4.52,
+  "text": "supervise Claude Code. Users can also"
+ },
+ {
+  "start": 430.12,
+  "duration": 3.88,
+  "text": "interrupt Claude while it's working to"
+ },
+ {
+  "start": 432.0,
+  "duration": 3.32,
+  "text": "reorient it or give it feedback, and"
+ },
+ {
+  "start": 434.0,
+  "duration": 2.4,
+  "text": "that kind of follows the opposite"
+ },
+ {
+  "start": 435.32,
+  "duration": 3.16,
+  "text": "pattern."
+ },
+ {
+  "start": 436.4,
+  "duration": 3.92,
+  "text": "Newer users interrupt Claude around 5%"
+ },
+ {
+  "start": 438.48,
+  "duration": 3.64,
+  "text": "of the time, while more experienced"
+ },
+ {
+  "start": 440.32,
+  "duration": 3.36,
+  "text": "users interrupt it around 9% of the"
+ },
+ {
+  "start": 442.12,
+  "duration": 3.16,
+  "text": "time, almost double."
+ },
+ {
+  "start": 443.68,
+  "duration": 3.04,
+  "text": "Now, one part of this might just be a"
+ },
+ {
+  "start": 445.28,
+  "duration": 3.36,
+  "text": "shift in where people put the burden of"
+ },
+ {
+  "start": 446.72,
+  "duration": 3.32,
+  "text": "oversight. If new users are approving"
+ },
+ {
+  "start": 448.64,
+  "duration": 2.88,
+  "text": "each action before it's taken, maybe"
+ },
+ {
+  "start": 450.04,
+  "duration": 3.2,
+  "text": "they don't need to interrupt Claude as"
+ },
+ {
+  "start": 451.52,
+  "duration": 4.08,
+  "text": "much, whereas when those experienced"
+ },
+ {
+  "start": 453.24,
+  "duration": 3.679,
+  "text": "users use auto-approval more liberally,"
+ },
+ {
+  "start": 455.6,
+  "duration": 3.4,
+  "text": "there's more of a context for them to"
+ },
+ {
+  "start": 456.919,
+  "duration": 4.281,
+  "text": "step in. However, there also might be a"
+ },
+ {
+  "start": 459.0,
+  "duration": 4.28,
+  "text": "sort of learned experience here as well."
+ },
+ {
+  "start": 461.2,
+  "duration": 4.24,
+  "text": "They write, \"The higher interrupt rate"
+ },
+ {
+  "start": 463.28,
+  "duration": 4.12,
+  "text": "may also reflect active monitoring by"
+ },
+ {
+  "start": 465.44,
+  "duration": 3.52,
+  "text": "users who have more honed instincts for"
+ },
+ {
+  "start": 467.4,
+  "duration": 3.36,
+  "text": "when their intervention is needed. With"
+ },
+ {
+  "start": 468.96,
+  "duration": 4.0,
+  "text": "the idea being that the new users simply"
+ },
+ {
+  "start": 470.76,
+  "duration": 3.68,
+  "text": "don't know when to intervene as much. I"
+ },
+ {
+  "start": 472.96,
+  "duration": 4.16,
+  "text": "think one comparison here is that if you"
+ },
+ {
+  "start": 474.44,
+  "duration": 4.88,
+  "text": "view AI as sort of a junior employee, it"
+ },
+ {
+  "start": 477.12,
+  "duration": 4.92,
+  "text": "earns trust over time. That's the shift"
+ },
+ {
+  "start": 479.32,
+  "duration": 4.0,
+  "text": "from the 20% to 40% auto approval rate."
+ },
+ {
+  "start": 482.04,
+  "duration": 3.28,
+  "text": "But as you get more comfortable with it,"
+ },
+ {
+  "start": 483.32,
+  "duration": 3.0,
+  "text": "you also intervene more, checking in on"
+ },
+ {
+  "start": 485.32,
+  "duration": 2.56,
+  "text": "the work as it's happening and"
+ },
+ {
+  "start": 486.32,
+  "duration": 2.72,
+  "text": "reorienting to make sure you get the"
+ },
+ {
+  "start": 487.88,
+  "duration": 3.04,
+  "text": "most out of things rather than just"
+ },
+ {
+  "start": 489.04,
+  "duration": 3.64,
+  "text": "waiting to see the end product to judge"
+ },
+ {
+  "start": 490.92,
+  "duration": 3.24,
+  "text": "its success in that way."
+ },
+ {
+  "start": 492.68,
+  "duration": 3.4,
+  "text": "Now, although these measures are about"
+ },
+ {
+  "start": 494.16,
+  "duration": 4.0,
+  "text": "the human intervention, this is not a"
+ },
+ {
+  "start": 496.08,
+  "duration": 3.6,
+  "text": "static number across models. In other"
+ },
+ {
+  "start": 498.16,
+  "duration": 3.68,
+  "text": "words, model capability does impact"
+ },
+ {
+  "start": 499.68,
+  "duration": 3.96,
+  "text": "this. Anthropic writes that from August"
+ },
+ {
+  "start": 501.84,
+  "duration": 3.84,
+  "text": "to December of last year, as Claude"
+ },
+ {
+  "start": 503.64,
+  "duration": 3.84,
+  "text": "Code's success rate on internal users'"
+ },
+ {
+  "start": 505.68,
+  "duration": 3.12,
+  "text": "most challenging tasks doubled, the"
+ },
+ {
+  "start": 507.48,
+  "duration": 4.48,
+  "text": "average number of human interventions"
+ },
+ {
+  "start": 508.8,
+  "duration": 4.44,
+  "text": "per session decreased from 5.4 to 3.3."
+ },
+ {
+  "start": 511.96,
+  "duration": 3.32,
+  "text": "Basically, as the models get better,"
+ },
+ {
+  "start": 513.24,
+  "duration": 3.52,
+  "text": "users grant Claude more autonomy and"
+ },
+ {
+  "start": 515.28,
+  "duration": 3.0,
+  "text": "achieve better outcomes while needing to"
+ },
+ {
+  "start": 516.76,
+  "duration": 3.12,
+  "text": "intervene less."
+ },
+ {
+  "start": 518.28,
+  "duration": 3.16,
+  "text": "Now, when it comes to autonomy, we're"
+ },
+ {
+  "start": 519.88,
+  "duration": 3.08,
+  "text": "talking about an interaction set in a"
+ },
+ {
+  "start": 521.44,
+  "duration": 3.56,
+  "text": "conversation between the model and"
+ },
+ {
+  "start": 522.96,
+  "duration": 4.04,
+  "text": "harness Claude Code and the humans using"
+ },
+ {
+  "start": 525.0,
+  "duration": 3.48,
+  "text": "that model. Human intervention is only"
+ },
+ {
+  "start": 527.0,
+  "duration": 3.72,
+  "text": "one of the directions in which autonomy"
+ },
+ {
+  "start": 528.48,
+  "duration": 3.92,
+  "text": "can unfold in practice. Claude, as they"
+ },
+ {
+  "start": 530.72,
+  "duration": 3.4,
+  "text": "write, is an active participant, too,"
+ },
+ {
+  "start": 532.4,
+  "duration": 3.64,
+  "text": "stopping to ask for clarification when"
+ },
+ {
+  "start": 534.12,
+  "duration": 4.36,
+  "text": "it's unsure how to proceed. Anthropic"
+ },
+ {
+  "start": 536.04,
+  "duration": 4.0,
+  "text": "found that as task complexity increased,"
+ },
+ {
+  "start": 538.48,
+  "duration": 3.2,
+  "text": "Claude Code would ask for clarification"
+ },
+ {
+  "start": 540.04,
+  "duration": 3.48,
+  "text": "more often and more frequently than"
+ },
+ {
+  "start": 541.68,
+  "duration": 3.32,
+  "text": "humans actually chose to interrupt it."
+ },
+ {
+  "start": 543.52,
+  "duration": 3.72,
+  "text": "For example, for turns where there was"
+ },
+ {
+  "start": 545.0,
+  "duration": 4.76,
+  "text": "high goal complexity, humans interrupted"
+ },
+ {
+  "start": 547.24,
+  "duration": 4.2,
+  "text": "Claude 7.1% of the time, while Claude"
+ },
+ {
+  "start": 549.76,
+  "duration": 4.52,
+  "text": "asked for clarification more than double"
+ },
+ {
+  "start": 551.44,
+  "duration": 4.96,
+  "text": "that, 16.4% of the time. That compares"
+ },
+ {
+  "start": 554.28,
+  "duration": 4.24,
+  "text": "to minimal goal complexity, where humans"
+ },
+ {
+  "start": 556.4,
+  "duration": 4.32,
+  "text": "interrupted 5.5% of the time, with"
+ },
+ {
+  "start": 558.52,
+  "duration": 3.76,
+  "text": "Claude asking for clarification 6.6% of"
+ },
+ {
+  "start": 560.72,
+  "duration": 3.48,
+  "text": "the time. In other words, the gap"
+ },
+ {
+  "start": 562.28,
+  "duration": 4.12,
+  "text": "between how much humans intervene and"
+ },
+ {
+  "start": 564.2,
+  "duration": 3.96,
+  "text": "how much Claude asks for clarification"
+ },
+ {
+  "start": 566.4,
+  "duration": 4.16,
+  "text": "increases alongside the complexity of"
+ },
+ {
+  "start": 568.16,
+  "duration": 4.36,
+  "text": "the task. However, these aren't exactly"
+ },
+ {
+  "start": 570.56,
+  "duration": 3.72,
+  "text": "direct measures, as humans interrupt"
+ },
+ {
+  "start": 572.52,
+  "duration": 3.68,
+  "text": "Claude and Claude interrupts itself for"
+ },
+ {
+  "start": 574.28,
+  "duration": 3.2,
+  "text": "different reasons. The number one reason"
+ },
+ {
+  "start": 576.2,
+  "duration": 3.32,
+  "text": "that humans interrupt Claude is to"
+ },
+ {
+  "start": 577.48,
+  "duration": 4.4,
+  "text": "provide missing context or corrections."
+ },
+ {
+  "start": 579.52,
+  "duration": 4.16,
+  "text": "That's 32% of the time, about a third."
+ },
+ {
+  "start": 581.88,
+  "duration": 3.64,
+  "text": "17% of the time it was because Claude"
+ },
+ {
+  "start": 583.68,
+  "duration": 3.44,
+  "text": "was slow or hanging, with every other"
+ },
+ {
+  "start": 585.52,
+  "duration": 3.52,
+  "text": "reason being much less frequent. In"
+ },
+ {
+  "start": 587.12,
+  "duration": 3.72,
+  "text": "terms of when Claude stops itself, the"
+ },
+ {
+  "start": 589.04,
+  "duration": 4.0,
+  "text": "most common reason, at a little above a"
+ },
+ {
+  "start": 590.84,
+  "duration": 3.24,
+  "text": "third at 35%, is to present the user"
+ },
+ {
+  "start": 593.04,
+  "duration": 3.16,
+  "text": "with a choice between different"
+ },
+ {
+  "start": 594.08,
+  "duration": 3.56,
+  "text": "approaches, which is interesting because"
+ },
+ {
+  "start": 596.2,
+  "duration": 3.04,
+  "text": "that's not really a knock on its own"
+ },
+ {
+  "start": 597.64,
+  "duration": 3.12,
+  "text": "autonomy in the sense that it doesn't"
+ },
+ {
+  "start": 599.24,
+  "duration": 3.36,
+  "text": "necessarily need that information to"
+ },
+ {
+  "start": 600.76,
+  "duration": 3.68,
+  "text": "proceed, as it could theoretically just"
+ },
+ {
+  "start": 602.6,
+  "duration": 3.2,
+  "text": "make the decision for itself, but a way"
+ },
+ {
+  "start": 604.44,
+  "duration": 3.36,
+  "text": "to better align with humans on the"
+ },
+ {
+  "start": 605.8,
+  "duration": 3.76,
+  "text": "upfront. Now, the one other really"
+ },
+ {
+  "start": 607.8,
+  "duration": 3.8,
+  "text": "interesting chart is the chart of which"
+ },
+ {
+  "start": 609.56,
+  "duration": 3.48,
+  "text": "domains agents are deployed in. As you"
+ },
+ {
+  "start": 611.6,
+  "duration": 3.72,
+  "text": "might expect, especially given that this"
+ },
+ {
+  "start": 613.04,
+  "duration": 3.84,
+  "text": "is anchored by Claude code, software"
+ },
+ {
+  "start": 615.32,
+  "duration": 3.64,
+  "text": "engineering represents around half of"
+ },
+ {
+  "start": 616.88,
+  "duration": 4.48,
+  "text": "the tool calls overall. And although the"
+ },
+ {
+  "start": 618.96,
+  "duration": 4.32,
+  "text": "other categories are all below 10%, they"
+ },
+ {
+  "start": 621.36,
+  "duration": 4.04,
+  "text": "kind of read like a map of where agentic"
+ },
+ {
+  "start": 623.28,
+  "duration": 3.68,
+  "text": "automation is likely to come next. Back"
+ },
+ {
+  "start": 625.4,
+  "duration": 3.76,
+  "text": "office automation is at number two at"
+ },
+ {
+  "start": 626.96,
+  "duration": 4.48,
+  "text": "9.1%, followed by marketing and"
+ },
+ {
+  "start": 629.16,
+  "duration": 5.04,
+  "text": "copywriting at 4.4, sales and CRM at"
+ },
+ {
+  "start": 631.44,
+  "duration": 4.24,
+  "text": "4.3, finance and accounting at 4.0. It"
+ },
+ {
+  "start": 634.2,
+  "duration": 3.72,
+  "text": "is notable that even at this early"
+ },
+ {
+  "start": 635.68,
+  "duration": 4.159,
+  "text": "stage, with coding and engineering tasks"
+ },
+ {
+  "start": 637.92,
+  "duration": 4.12,
+  "text": "being the clear breakout, you're still"
+ },
+ {
+  "start": 639.839,
+  "duration": 4.161,
+  "text": "already seeing more than 50% of tool"
+ },
+ {
+  "start": 642.04,
+  "duration": 3.88,
+  "text": "calls, in other words, more than 50% of"
+ },
+ {
+  "start": 644.0,
+  "duration": 4.16,
+  "text": "agentic use cases being outside of that"
+ },
+ {
+  "start": 645.92,
+  "duration": 4.32,
+  "text": "software engineering domain. This is a"
+ },
+ {
+  "start": 648.16,
+  "duration": 3.56,
+  "text": "pretty simple study overall, but a"
+ },
+ {
+  "start": 650.24,
+  "duration": 3.52,
+  "text": "really valuable complement in my"
+ },
+ {
+  "start": 651.72,
+  "duration": 3.24,
+  "text": "estimation to the meter study, as it"
+ },
+ {
+  "start": 653.76,
+  "duration": 2.96,
+  "text": "moves away from the realm of the"
+ },
+ {
+  "start": 654.96,
+  "duration": 3.52,
+  "text": "theoretical and into the realm of what"
+ },
+ {
+  "start": 656.72,
+  "duration": 2.96,
+  "text": "people are actually using agents for and"
+ },
+ {
+  "start": 658.48,
+  "duration": 3.2,
+  "text": "how they're actually interacting with"
+ },
+ {
+  "start": 659.68,
+  "duration": 3.84,
+  "text": "them. There are a few interesting"
+ },
+ {
+  "start": 661.68,
+  "duration": 3.68,
+  "text": "implications that people picked up on."
+ },
+ {
+  "start": 663.52,
+  "duration": 3.12,
+  "text": "David Hendrickson wrote, \"What's most"
+ },
+ {
+  "start": 665.36,
+  "duration": 3.4,
+  "text": "surprising from the paper is that"
+ },
+ {
+  "start": 666.64,
+  "duration": 3.48,
+  "text": "real-world AI agents are currently given"
+ },
+ {
+  "start": 668.76,
+  "duration": 3.0,
+  "text": "much less autonomy than they could"
+ },
+ {
+  "start": 670.12,
+  "duration": 4.4,
+  "text": "technically handle. In other words, we"
+ },
+ {
+  "start": 671.76,
+  "duration": 4.84,
+  "text": "had to go to the 99.9th percentile to"
+ },
+ {
+  "start": 674.52,
+  "duration": 3.64,
+  "text": "really see what Claude could do, despite"
+ },
+ {
+  "start": 676.6,
+  "duration": 3.64,
+  "text": "the fact that the average turn is just"
+ },
+ {
+  "start": 678.16,
+  "duration": 4.16,
+  "text": "45 seconds. We've talked a lot on the"
+ },
+ {
+  "start": 680.24,
+  "duration": 3.44,
+  "text": "show about a capability overhang, and it"
+ },
+ {
+  "start": 682.32,
+  "duration": 2.76,
+  "text": "looks like this is another example of"
+ },
+ {
+  "start": 683.68,
+  "duration": 3.28,
+  "text": "that in practice, even with some of the"
+ },
+ {
+  "start": 685.08,
+  "duration": 3.72,
+  "text": "most advanced tools in the space."
+ },
+ {
+  "start": 686.96,
+  "duration": 4.08,
+  "text": "Another interesting takeaway is about a"
+ },
+ {
+  "start": 688.8,
+  "duration": 4.68,
+  "text": "shift in our thinking of autonomy from"
+ },
+ {
+  "start": 691.04,
+  "duration": 4.8,
+  "text": "purely based on model capability to this"
+ },
+ {
+  "start": 693.48,
+  "duration": 4.56,
+  "text": "more complex view of model capability"
+ },
+ {
+  "start": 695.84,
+  "duration": 3.44,
+  "text": "plus human interactive state. Yang Rui"
+ },
+ {
+  "start": 698.04,
+  "duration": 3.0,
+  "text": "Su writes,"
+ },
+ {
+  "start": 699.28,
+  "duration": 3.28,
+  "text": "\"Autonomy is not just steps taken, it is"
+ },
+ {
+  "start": 701.04,
+  "duration": 3.16,
+  "text": "permission scope and ability to change"
+ },
+ {
+  "start": 702.56,
+  "duration": 3.76,
+  "text": "state.\" The other thing that people are"
+ },
+ {
+  "start": 704.2,
+  "duration": 3.8,
+  "text": "exploring is based on all this, what"
+ },
+ {
+  "start": 706.32,
+  "duration": 3.76,
+  "text": "they actually want the interactive mode"
+ },
+ {
+  "start": 708.0,
+  "duration": 3.6,
+  "text": "to look like in the future. Richie on X,"
+ },
+ {
+  "start": 710.08,
+  "duration": 2.88,
+  "text": "for example, writes,"
+ },
+ {
+  "start": 711.6,
+  "duration": 3.16,
+  "text": "\"Need a Claude code mode that isn't"
+ },
+ {
+  "start": 712.96,
+  "duration": 3.16,
+  "text": "exactly dangerously skip permissions,"
+ },
+ {
+  "start": 714.76,
+  "duration": 3.24,
+  "text": "but can skip pointless do you want to"
+ },
+ {
+  "start": 716.12,
+  "duration": 3.36,
+  "text": "proceed questions and at the same time"
+ },
+ {
+  "start": 718.0,
+  "duration": 3.48,
+  "text": "doesn't nuke my entire database and"
+ },
+ {
+  "start": 719.48,
+  "duration": 4.2,
+  "text": "family tree.\" Lorenzo responds, \"What"
+ },
+ {
+  "start": 721.48,
+  "duration": 3.44,
+  "text": "you want is competent autonomy. Claude"
+ },
+ {
+  "start": 723.68,
+  "duration": 2.84,
+  "text": "can skip pointless prompts while"
+ },
+ {
+  "start": 724.92,
+  "duration": 4.0,
+  "text": "respecting blast radius boundaries so"
+ },
+ {
+  "start": 726.52,
+  "duration": 4.12,
+  "text": "dev stay sane and prod stays intact.\""
+ },
+ {
+  "start": 728.92,
+  "duration": 2.84,
+  "text": "Now, one thing to watch for is how much"
+ },
+ {
+  "start": 730.64,
+  "duration": 2.52,
+  "text": "the emphasis in the next set of"
+ },
+ {
+  "start": 731.76,
+  "duration": 3.28,
+  "text": "developments is more improved"
+ },
+ {
+  "start": 733.16,
+  "duration": 4.2,
+  "text": "interactions or a totally different"
+ },
+ {
+  "start": 735.04,
+  "duration": 4.32,
+  "text": "paradigm of long duration autonomy. In a"
+ },
+ {
+  "start": 737.36,
+  "duration": 4.08,
+  "text": "recent podcast with Lenny, OpenAI's"
+ },
+ {
+  "start": 739.36,
+  "duration": 3.88,
+  "text": "Sherwin Wu argued, as the AI future"
+ },
+ {
+  "start": 741.44,
+  "duration": 3.2,
+  "text": "brief put it, that the next leap in AI"
+ },
+ {
+  "start": 743.24,
+  "duration": 3.48,
+  "text": "isn't just smarter models, but long"
+ },
+ {
+  "start": 744.64,
+  "duration": 3.76,
+  "text": "duration autonomy. While today's tools"
+ },
+ {
+  "start": 746.72,
+  "duration": 3.0,
+  "text": "are optimized for short bursts,"
+ },
+ {
+  "start": 748.4,
+  "duration": 3.04,
+  "text": "tomorrow's tools will be agents you"
+ },
+ {
+  "start": 749.72,
+  "duration": 3.92,
+  "text": "dispatch for 6+ hours of independent"
+ },
+ {
+  "start": 751.44,
+  "duration": 3.68,
+  "text": "work. Right now, as Anthropic shows,"
+ },
+ {
+  "start": 753.64,
+  "duration": 3.44,
+  "text": "that certainly isn't how people are"
+ },
+ {
+  "start": 755.12,
+  "duration": 4.28,
+  "text": "using these tools, but it does appear"
+ },
+ {
+  "start": 757.08,
+  "duration": 3.84,
+  "text": "that things are evolving fast. Overall,"
+ },
+ {
+  "start": 759.4,
+  "duration": 3.28,
+  "text": "a very valuable study and a great way to"
+ },
+ {
+  "start": 760.92,
+  "duration": 3.04,
+  "text": "see what's happening in practice. For"
+ },
+ {
+  "start": 762.68,
+  "duration": 3.04,
+  "text": "now, that is going to do it for today's"
+ },
+ {
+  "start": 763.96,
+  "duration": 3.4,
+  "text": "AI daily brief. Appreciate you listening"
+ },
+ {
+  "start": 765.72,
+  "duration": 4.72,
+  "text": "or watching, as always, and until next"
+ },
+ {
+  "start": 767.36,
+  "duration": 3.08,
+  "text": "time, peace."
+ }
+]

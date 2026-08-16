@@ -1,0 +1,1407 @@
+[
+ {
+  "start": 0.4,
+  "duration": 3.24,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 1.6,
+  "duration": 4.24,
+  "text": "Headlines Edition, all the daily AI news"
+ },
+ {
+  "start": 3.64,
+  "duration": 5.08,
+  "text": "you need in around 5 minutes."
+ },
+ {
+  "start": 5.84,
+  "duration": 4.72,
+  "text": "It is a big week for Nvidia as their GTC"
+ },
+ {
+  "start": 8.72,
+  "duration": 4.36,
+  "text": "developer conference kicks off in San"
+ },
+ {
+  "start": 10.56,
+  "duration": 4.4,
+  "text": "Jose. CEO Jensen Huang was scheduled to"
+ },
+ {
+  "start": 13.08,
+  "duration": 3.08,
+  "text": "deliver his keynote on Monday morning,"
+ },
+ {
+  "start": 14.96,
+  "duration": 2.96,
+  "text": "so we'll likely know more by the time"
+ },
+ {
+  "start": 16.16,
+  "duration": 3.56,
+  "text": "this episode goes out."
+ },
+ {
+  "start": 17.92,
+  "duration": 3.92,
+  "text": "In the lead-up to the event, much of the"
+ },
+ {
+  "start": 19.72,
+  "duration": 4.28,
+  "text": "speculation was around a new chip system"
+ },
+ {
+  "start": 21.84,
+  "duration": 5.56,
+  "text": "developed in collaboration with Groq,"
+ },
+ {
+  "start": 24.0,
+  "duration": 5.28,
+  "text": "that is g r o q not g r o k. Groq with a"
+ },
+ {
+  "start": 27.4,
+  "duration": 3.08,
+  "text": "q is the one that is not an Elon Musk"
+ },
+ {
+  "start": 29.28,
+  "duration": 2.999,
+  "text": "company."
+ },
+ {
+  "start": 30.48,
+  "duration": 3.96,
+  "text": "Nvidia acquired the chip-making startup"
+ },
+ {
+  "start": 32.279,
+  "duration": 3.601,
+  "text": "in December and are expected to announce"
+ },
+ {
+  "start": 34.44,
+  "duration": 2.44,
+  "text": "the first collaborative product this"
+ },
+ {
+  "start": 35.88,
+  "duration": 2.16,
+  "text": "week."
+ },
+ {
+  "start": 36.88,
+  "duration": 2.92,
+  "text": "The information described the new"
+ },
+ {
+  "start": 38.04,
+  "duration": 3.36,
+  "text": "product as integrating Groq's language"
+ },
+ {
+  "start": 39.8,
+  "duration": 3.96,
+  "text": "processing chips into Nvidia's"
+ },
+ {
+  "start": 41.4,
+  "duration": 3.92,
+  "text": "rack-scale servers. If that's the case,"
+ },
+ {
+  "start": 43.76,
+  "duration": 4.28,
+  "text": "this will be Nvidia's first attempt to"
+ },
+ {
+  "start": 45.32,
+  "duration": 4.16,
+  "text": "directly address inference demand."
+ },
+ {
+  "start": 48.04,
+  "duration": 3.12,
+  "text": "Until now, Nvidia's chips have been"
+ },
+ {
+  "start": 49.48,
+  "duration": 3.4,
+  "text": "world-leading in AI training, but"
+ },
+ {
+  "start": 51.16,
+  "duration": 3.72,
+  "text": "haven't been particularly focused on"
+ },
+ {
+  "start": 52.88,
+  "duration": 3.6,
+  "text": "efficient inference. That's where Groq"
+ },
+ {
+  "start": 54.88,
+  "duration": 3.84,
+  "text": "steps in, delivering a chip tailored"
+ },
+ {
+  "start": 56.48,
+  "duration": 4.32,
+  "text": "exclusively to inference workloads."
+ },
+ {
+  "start": 58.72,
+  "duration": 4.04,
+  "text": "Nvidia is expected to announce OpenAI as"
+ },
+ {
+  "start": 60.8,
+  "duration": 3.24,
+  "text": "a buyer of the new chip. Sources said"
+ },
+ {
+  "start": 62.76,
+  "duration": 2.759,
+  "text": "that production has been ramping up at"
+ },
+ {
+  "start": 64.04,
+  "duration": 2.92,
+  "text": "Samsung's chip foundry and mass"
+ },
+ {
+  "start": 65.519,
+  "duration": 3.201,
+  "text": "production is expected to begin in the"
+ },
+ {
+  "start": 66.96,
+  "duration": 2.96,
+  "text": "second half of the year."
+ },
+ {
+  "start": 68.72,
+  "duration": 3.0,
+  "text": "Notably, this will be the first time"
+ },
+ {
+  "start": 69.92,
+  "duration": 3.76,
+  "text": "Nvidia has manufactured an AI chip"
+ },
+ {
+  "start": 71.72,
+  "duration": 3.4,
+  "text": "outside of TSMC, potentially"
+ },
+ {
+  "start": 73.68,
+  "duration": 4.08,
+  "text": "diversifying supply chains out of"
+ },
+ {
+  "start": 75.12,
+  "duration": 4.8,
+  "text": "Taiwan. The new servers also use Intel"
+ },
+ {
+  "start": 77.76,
+  "duration": 4.4,
+  "text": "CPUs rather than Nvidia CPUs, according"
+ },
+ {
+  "start": 79.92,
+  "duration": 3.8,
+  "text": "to sources, which suggests that Nvidia's"
+ },
+ {
+  "start": 82.16,
+  "duration": 3.84,
+  "text": "chips don't integrate well with Groq"
+ },
+ {
+  "start": 83.72,
+  "duration": 3.64,
+  "text": "chips at this stage. The sources added"
+ },
+ {
+  "start": 86.0,
+  "duration": 3.08,
+  "text": "that multiple generations of hardware"
+ },
+ {
+  "start": 87.36,
+  "duration": 3.36,
+  "text": "are being planned with the potential to"
+ },
+ {
+  "start": 89.08,
+  "duration": 3.56,
+  "text": "build Groq's technology into Nvidia's"
+ },
+ {
+  "start": 90.72,
+  "duration": 3.4,
+  "text": "Fineman GPUs, which are the next"
+ },
+ {
+  "start": 92.64,
+  "duration": 3.28,
+  "text": "generation following Rubin later this"
+ },
+ {
+  "start": 94.12,
+  "duration": 3.56,
+  "text": "year. Outside of product releases,"
+ },
+ {
+  "start": 95.92,
+  "duration": 4.0,
+  "text": "Nvidia's neo cloud partners are stepping"
+ },
+ {
+  "start": 97.68,
+  "duration": 4.04,
+  "text": "up operations. The information reports"
+ },
+ {
+  "start": 99.92,
+  "duration": 3.6,
+  "text": "that nscale is in negotiations to"
+ },
+ {
+  "start": 101.72,
+  "duration": 3.56,
+  "text": "acquire a huge data center site in West"
+ },
+ {
+  "start": 103.52,
+  "duration": 3.84,
+  "text": "Virginia. The site has cleared"
+ },
+ {
+  "start": 105.28,
+  "duration": 4.8,
+  "text": "regulatory hurdles and is targeting 2"
+ },
+ {
+  "start": 107.36,
+  "duration": 4.24,
+  "text": "gigawatts of capacity by 2027."
+ },
+ {
+  "start": 110.08,
+  "duration": 3.36,
+  "text": "Now, the deal is a little unusual for a"
+ },
+ {
+  "start": 111.6,
+  "duration": 3.8,
+  "text": "neo cloud provider, which have typically"
+ },
+ {
+  "start": 113.44,
+  "duration": 3.88,
+  "text": "rented data centers in the past. It"
+ },
+ {
+  "start": 115.4,
+  "duration": 3.72,
+  "text": "would also immediately make UK-based"
+ },
+ {
+  "start": 117.32,
+  "duration": 3.6,
+  "text": "nscale a major player in the US market"
+ },
+ {
+  "start": 119.12,
+  "duration": 3.28,
+  "text": "as they move towards an IPO. New"
+ },
+ {
+  "start": 120.92,
+  "duration": 2.84,
+  "text": "documents surfaced by The Information"
+ },
+ {
+  "start": 122.4,
+  "duration": 2.96,
+  "text": "said that the acquisition would triple"
+ },
+ {
+  "start": 123.76,
+  "duration": 4.12,
+  "text": "Nscale's revenue projections to 30"
+ },
+ {
+  "start": 125.36,
+  "duration": 4.56,
+  "text": "billion for 2027. They are reportedly in"
+ },
+ {
+  "start": 127.88,
+  "duration": 3.4,
+  "text": "talks to rent the capacity to ByteDance,"
+ },
+ {
+  "start": 129.92,
+  "duration": 2.6,
+  "text": "but could also rent their servers back"
+ },
+ {
+  "start": 131.28,
+  "duration": 3.24,
+  "text": "to Nvidia."
+ },
+ {
+  "start": 132.52,
+  "duration": 4.04,
+  "text": "Writes Moor Insights & Strategy CEO and"
+ },
+ {
+  "start": 134.52,
+  "duration": 5.16,
+  "text": "Chief Analyst Patrick Moorhead, \"Nvidia"
+ },
+ {
+  "start": 136.56,
+  "duration": 5.0,
+  "text": "is no longer a chip company. As GTC 2026"
+ },
+ {
+  "start": 139.68,
+  "duration": 4.08,
+  "text": "opens, the company plans to present"
+ },
+ {
+  "start": 141.56,
+  "duration": 4.16,
+  "text": "itself as a full-stack heterogeneous AI"
+ },
+ {
+  "start": 143.76,
+  "duration": 3.88,
+  "text": "infrastructure platform spanning"
+ },
+ {
+  "start": 145.72,
+  "duration": 4.44,
+  "text": "training, pre-fill, decode, inference,"
+ },
+ {
+  "start": 147.64,
+  "duration": 4.6,
+  "text": "and agent orchestration.\""
+ },
+ {
+  "start": 150.16,
+  "duration": 4.24,
+  "text": "Next up, while many software CEOs have"
+ },
+ {
+  "start": 152.24,
+  "duration": 4.6,
+  "text": "been downplaying the AI disruption risks"
+ },
+ {
+  "start": 154.4,
+  "duration": 4.28,
+  "text": "to their company this year, SEC filings"
+ },
+ {
+  "start": 156.84,
+  "duration": 3.96,
+  "text": "are telling a different story."
+ },
+ {
+  "start": 158.68,
+  "duration": 3.96,
+  "text": "So far this year, 27 firms have listed"
+ },
+ {
+  "start": 160.8,
+  "duration": 3.88,
+  "text": "AI agents as a material risk to their"
+ },
+ {
+  "start": 162.64,
+  "duration": 4.12,
+  "text": "business model, up from just seven this"
+ },
+ {
+  "start": 164.68,
+  "duration": 3.72,
+  "text": "time last year. The list of companies"
+ },
+ {
+  "start": 166.76,
+  "duration": 3.72,
+  "text": "warning about agents includes Figma,"
+ },
+ {
+  "start": 168.4,
+  "duration": 4.32,
+  "text": "Workday, and HubSpot, whose CEOs have"
+ },
+ {
+  "start": 170.48,
+  "duration": 3.68,
+  "text": "all recently dismissed concerns. During"
+ },
+ {
+  "start": 172.72,
+  "duration": 3.64,
+  "text": "their most recent earnings call, Figma"
+ },
+ {
+  "start": 174.16,
+  "duration": 3.64,
+  "text": "CEO Dylan Field said, \"I think it is the"
+ },
+ {
+  "start": 176.36,
+  "duration": 3.2,
+  "text": "case that humans will continue to use"
+ },
+ {
+  "start": 177.8,
+  "duration": 3.88,
+  "text": "software, and increasingly agents will,"
+ },
+ {
+  "start": 179.56,
+  "duration": 4.16,
+  "text": "too. And I'm excited about that.\""
+ },
+ {
+  "start": 181.68,
+  "duration": 3.08,
+  "text": "However, he added, \"I think right now,"
+ },
+ {
+  "start": 183.72,
+  "duration": 3.0,
+  "text": "if you're willing to hand off"
+ },
+ {
+  "start": 184.76,
+  "duration": 3.6,
+  "text": "mission-critical work to agents and just"
+ },
+ {
+  "start": 186.72,
+  "duration": 3.48,
+  "text": "let them do it unsupervised, you're a"
+ },
+ {
+  "start": 188.36,
+  "duration": 3.76,
+  "text": "very brave person.\""
+ },
+ {
+  "start": 190.2,
+  "duration": 3.24,
+  "text": "Meanwhile, Figma's 10-K filing released"
+ },
+ {
+  "start": 192.12,
+  "duration": 3.36,
+  "text": "on the same day acknowledged that"
+ },
+ {
+  "start": 193.44,
+  "duration": 3.68,
+  "text": "agentic AI may, quote, \"change how"
+ },
+ {
+  "start": 195.48,
+  "duration": 3.72,
+  "text": "people access and interact with digital"
+ },
+ {
+  "start": 197.12,
+  "duration": 4.36,
+  "text": "products in ways that reduce reliance on"
+ },
+ {
+  "start": 199.2,
+  "duration": 3.8,
+  "text": "traditional software applications.\""
+ },
+ {
+  "start": 201.48,
+  "duration": 3.64,
+  "text": "Now, keep in mind, SEC filings should"
+ },
+ {
+  "start": 203.0,
+  "duration": 4.0,
+  "text": "not be taken too literally."
+ },
+ {
+  "start": 205.12,
+  "duration": 3.36,
+  "text": "Companies are required to discuss any"
+ },
+ {
+  "start": 207.0,
+  "duration": 3.48,
+  "text": "material risk to their business, which"
+ },
+ {
+  "start": 208.48,
+  "duration": 4.2,
+  "text": "often leads to disclosures of fanciful"
+ },
+ {
+  "start": 210.48,
+  "duration": 3.88,
+  "text": "or unlikely risks. Still, while"
+ },
+ {
+  "start": 212.68,
+  "duration": 3.72,
+  "text": "individual disclosures don't tell us all"
+ },
+ {
+  "start": 214.36,
+  "duration": 3.44,
+  "text": "that much, the volume is another signal"
+ },
+ {
+  "start": 216.4,
+  "duration": 3.52,
+  "text": "that we've moved past the tipping point"
+ },
+ {
+  "start": 217.8,
+  "duration": 3.64,
+  "text": "on agents. The idea that agents were"
+ },
+ {
+  "start": 219.92,
+  "duration": 3.0,
+  "text": "capable of disrupting SaaS barely"
+ },
+ {
+  "start": 221.44,
+  "duration": 3.6,
+  "text": "registered in the first half of last"
+ },
+ {
+  "start": 222.92,
+  "duration": 3.68,
+  "text": "year. And yet, disclosure volume rapidly"
+ },
+ {
+  "start": 225.04,
+  "duration": 3.04,
+  "text": "increased in the second half and in the"
+ },
+ {
+  "start": 226.6,
+  "duration": 3.12,
+  "text": "beginning of this year as the technology"
+ },
+ {
+  "start": 228.08,
+  "duration": 2.68,
+  "text": "became more viable."
+ },
+ {
+  "start": 229.72,
+  "duration": 2.28,
+  "text": "If nothing else, the shift means"
+ },
+ {
+  "start": 230.76,
+  "duration": 3.24,
+  "text": "software executives are taking the"
+ },
+ {
+  "start": 232.0,
+  "duration": 4.68,
+  "text": "threat of disruption more seriously, or"
+ },
+ {
+  "start": 234.0,
+  "duration": 4.56,
+  "text": "at least their legal departments are."
+ },
+ {
+  "start": 236.68,
+  "duration": 3.32,
+  "text": "Next up, ByteDance has paused the global"
+ },
+ {
+  "start": 238.56,
+  "duration": 3.16,
+  "text": "launch of their cutting-edge video model"
+ },
+ {
+  "start": 240.0,
+  "duration": 3.2,
+  "text": "due to copyright disputes. The"
+ },
+ {
+  "start": 241.72,
+  "duration": 3.64,
+  "text": "Information reports the global release"
+ },
+ {
+  "start": 243.2,
+  "duration": 3.64,
+  "text": "of SeeDance 2.0 has been mothballed due"
+ },
+ {
+  "start": 245.36,
+  "duration": 3.76,
+  "text": "to a series of copyright disputes with"
+ },
+ {
+  "start": 246.84,
+  "duration": 4.16,
+  "text": "Hollywood studios. SeeDance 2.0 was"
+ },
+ {
+  "start": 249.12,
+  "duration": 4.04,
+  "text": "released in China last month, gathering"
+ },
+ {
+  "start": 251.0,
+  "duration": 3.8,
+  "text": "a huge online reaction. You might recall"
+ },
+ {
+  "start": 253.16,
+  "duration": 3.44,
+  "text": "this viral clip with Tom Cruise and Brad"
+ },
+ {
+  "start": 254.8,
+  "duration": 3.48,
+  "text": "Pitt in a fistfight, which demonstrated"
+ },
+ {
+  "start": 256.6,
+  "duration": 3.16,
+  "text": "incredibly high-fidelity replication of"
+ },
+ {
+  "start": 258.28,
+  "duration": 2.799,
+  "text": "real-world actors."
+ },
+ {
+  "start": 259.76,
+  "duration": 2.6,
+  "text": "The new model led to outrage in"
+ },
+ {
+  "start": 261.079,
+  "duration": 3.041,
+  "text": "Hollywood with companies including"
+ },
+ {
+  "start": 262.36,
+  "duration": 3.72,
+  "text": "Disney, Warner Brothers, Paramount, and"
+ },
+ {
+  "start": 264.12,
+  "duration": 3.4,
+  "text": "Netflix sending cease and desist notices"
+ },
+ {
+  "start": 266.08,
+  "duration": 3.28,
+  "text": "to ByteDance."
+ },
+ {
+  "start": 267.52,
+  "duration": 4.0,
+  "text": "Motion Picture Association CEO Charles"
+ },
+ {
+  "start": 269.36,
+  "duration": 3.96,
+  "text": "Rivkin said in a statement at the time,"
+ },
+ {
+  "start": 271.52,
+  "duration": 3.68,
+  "text": "\"SeeDance 2.0 has engaged in"
+ },
+ {
+  "start": 273.32,
+  "duration": 3.599,
+  "text": "unauthorized use of US copyrighted works"
+ },
+ {
+  "start": 275.2,
+  "duration": 3.12,
+  "text": "on a massive scale.\""
+ },
+ {
+  "start": 276.919,
+  "duration": 3.321,
+  "text": "ByteDance had planned to make the model"
+ },
+ {
+  "start": 278.32,
+  "duration": 3.56,
+  "text": "available globally in mid-March. The"
+ },
+ {
+  "start": 280.24,
+  "duration": 3.48,
+  "text": "plan included API access through their"
+ },
+ {
+  "start": 281.88,
+  "duration": 3.48,
+  "text": "cloud platform BytePlus, as well as a"
+ },
+ {
+  "start": 283.72,
+  "duration": 2.76,
+  "text": "new consumer app designed for a foreign"
+ },
+ {
+  "start": 285.36,
+  "duration": 3.68,
+  "text": "audience."
+ },
+ {
+  "start": 286.48,
+  "duration": 4.04,
+  "text": "Those plans are now reportedly on hold."
+ },
+ {
+  "start": 289.04,
+  "duration": 2.92,
+  "text": "Chinese users, meanwhile, are reporting"
+ },
+ {
+  "start": 290.52,
+  "duration": 3.28,
+  "text": "the model is far more tightly controlled"
+ },
+ {
+  "start": 291.96,
+  "duration": 3.32,
+  "text": "than it was at launch, to the point of"
+ },
+ {
+  "start": 293.8,
+  "duration": 3.36,
+  "text": "rejecting prompts with no relation to"
+ },
+ {
+  "start": 295.28,
+  "duration": 3.24,
+  "text": "copyrighted content."
+ },
+ {
+  "start": 297.16,
+  "duration": 3.04,
+  "text": "Enterprise customers have complained"
+ },
+ {
+  "start": 298.52,
+  "duration": 3.0,
+  "text": "that model access is limited to Chinese"
+ },
+ {
+  "start": 300.2,
+  "duration": 3.32,
+  "text": "companies with no intention of"
+ },
+ {
+  "start": 301.52,
+  "duration": 3.36,
+  "text": "distributing content internationally."
+ },
+ {
+  "start": 303.52,
+  "duration": 2.84,
+  "text": "One source said they've been unable to"
+ },
+ {
+  "start": 304.88,
+  "duration": 3.28,
+  "text": "negotiate terms without committing to"
+ },
+ {
+  "start": 306.36,
+  "duration": 3.0,
+  "text": "spending around 1.5 million on the"
+ },
+ {
+  "start": 308.16,
+  "duration": 2.64,
+  "text": "model."
+ },
+ {
+  "start": 309.36,
+  "duration": 2.76,
+  "text": "Interestingly, it seems like the major"
+ },
+ {
+  "start": 310.8,
+  "duration": 3.44,
+  "text": "hold-up is not so much about"
+ },
+ {
+  "start": 312.12,
+  "duration": 3.68,
+  "text": "implementing guardrails, but instead"
+ },
+ {
+  "start": 314.24,
+  "duration": 4.04,
+  "text": "about refining them so that they don't"
+ },
+ {
+  "start": 315.8,
+  "duration": 4.2,
+  "text": "block too much unrelated content. We've"
+ },
+ {
+  "start": 318.28,
+  "duration": 3.76,
+  "text": "seen this with OpenAI's release of Sora"
+ },
+ {
+  "start": 320.0,
+  "duration": 3.68,
+  "text": "too, as well. While it is relatively"
+ },
+ {
+  "start": 322.04,
+  "duration": 3.48,
+  "text": "straightforward to block copyrighted"
+ },
+ {
+  "start": 323.68,
+  "duration": 3.44,
+  "text": "content, doing so without frustrating"
+ },
+ {
+  "start": 325.52,
+  "duration": 3.12,
+  "text": "the user with too many refused prompts"
+ },
+ {
+  "start": 327.12,
+  "duration": 3.52,
+  "text": "is a much more difficult engineering"
+ },
+ {
+  "start": 328.64,
+  "duration": 3.88,
+  "text": "problem."
+ },
+ {
+  "start": 330.64,
+  "duration": 4.279,
+  "text": "And speaking of difficult engineering"
+ },
+ {
+  "start": 332.52,
+  "duration": 4.16,
+  "text": "problems, a new AI startup led by former"
+ },
+ {
+  "start": 334.919,
+  "duration": 3.561,
+  "text": "Anthropic founders is raising money to"
+ },
+ {
+  "start": 336.68,
+  "duration": 4.0,
+  "text": "push the frontier of AI-enhanced"
+ },
+ {
+  "start": 338.48,
+  "duration": 3.88,
+  "text": "scientific research. The new company,"
+ },
+ {
+  "start": 340.68,
+  "duration": 3.68,
+  "text": "called Mirindal, is in talks to raise"
+ },
+ {
+  "start": 342.36,
+  "duration": 4.04,
+  "text": "$175 million at a billion-dollar"
+ },
+ {
+  "start": 344.36,
+  "duration": 3.32,
+  "text": "valuation. And if successful, the round"
+ },
+ {
+  "start": 346.4,
+  "duration": 3.08,
+  "text": "would make Mirindal the latest AI"
+ },
+ {
+  "start": 347.68,
+  "duration": 3.2,
+  "text": "startup to establish unicorn status in"
+ },
+ {
+  "start": 349.48,
+  "duration": 3.0,
+  "text": "their seed round."
+ },
+ {
+  "start": 350.88,
+  "duration": 4.04,
+  "text": "The company is led by former Anthropic"
+ },
+ {
+  "start": 352.48,
+  "duration": 3.64,
+  "text": "researchers Beth Nemesh and Harsh Mehta,"
+ },
+ {
+  "start": 354.92,
+  "duration": 2.8,
+  "text": "who spent their time at Anthropic"
+ },
+ {
+  "start": 356.12,
+  "duration": 3.56,
+  "text": "working on things like long horizon"
+ },
+ {
+  "start": 357.72,
+  "duration": 4.12,
+  "text": "scientific reasoning with AI agents and"
+ },
+ {
+  "start": 359.68,
+  "duration": 4.16,
+  "text": "automated AI research. Both founders"
+ },
+ {
+  "start": 361.84,
+  "duration": 3.56,
+  "text": "also have experience at Google. Now,"
+ },
+ {
+  "start": 363.84,
+  "duration": 3.36,
+  "text": "exactly what the company plans to do is"
+ },
+ {
+  "start": 365.4,
+  "duration": 3.56,
+  "text": "not known yet, but sources say the new"
+ },
+ {
+  "start": 367.2,
+  "duration": 3.32,
+  "text": "company aims to conduct AI enhanced"
+ },
+ {
+  "start": 368.96,
+  "duration": 4.0,
+  "text": "scientific research in fields including"
+ },
+ {
+  "start": 370.52,
+  "duration": 4.24,
+  "text": "biology and material science. This area"
+ },
+ {
+  "start": 372.96,
+  "duration": 3.44,
+  "text": "of AI research is quickly gathering"
+ },
+ {
+  "start": 374.76,
+  "duration": 3.4,
+  "text": "interest and investment dollars as"
+ },
+ {
+  "start": 376.4,
+  "duration": 3.519,
+  "text": "multiple neo labs focus on AI for"
+ },
+ {
+  "start": 378.16,
+  "duration": 3.28,
+  "text": "science. I would expect this to be a"
+ },
+ {
+  "start": 379.919,
+  "duration": 3.161,
+  "text": "trend that continues throughout the"
+ },
+ {
+  "start": 381.44,
+  "duration": 3.2,
+  "text": "year."
+ },
+ {
+  "start": 383.08,
+  "duration": 2.92,
+  "text": "Speaking of Google, Google Maps is"
+ },
+ {
+  "start": 384.64,
+  "duration": 3.2,
+  "text": "getting an AI twist with a new"
+ },
+ {
+  "start": 386.0,
+  "duration": 4.2,
+  "text": "conversational interface. The new"
+ },
+ {
+  "start": 387.84,
+  "duration": 4.079,
+  "text": "feature called Ask Maps allows users to"
+ },
+ {
+  "start": 390.2,
+  "duration": 3.32,
+  "text": "tap into a Gemini powered chatbot to"
+ },
+ {
+  "start": 391.919,
+  "duration": 3.041,
+  "text": "help them navigate the world. The"
+ },
+ {
+  "start": 393.52,
+  "duration": 2.8,
+  "text": "feature is designed to answer questions"
+ },
+ {
+  "start": 394.96,
+  "duration": 3.56,
+  "text": "about landmarks and help schedule"
+ },
+ {
+  "start": 396.32,
+  "duration": 3.72,
+  "text": "travel. Google gave small practical"
+ },
+ {
+  "start": 398.52,
+  "duration": 3.48,
+  "text": "examples like being able to ask for a"
+ },
+ {
+  "start": 400.04,
+  "duration": 3.28,
+  "text": "nearby location to charge a phone or"
+ },
+ {
+  "start": 402.0,
+  "duration": 3.08,
+  "text": "find a public tennis court with lights"
+ },
+ {
+  "start": 403.32,
+  "duration": 3.36,
+  "text": "for an evening match. The feature can"
+ },
+ {
+  "start": 405.08,
+  "duration": 2.92,
+  "text": "also help with trip planning with Google"
+ },
+ {
+  "start": 406.68,
+  "duration": 3.48,
+  "text": "offering the example of building a"
+ },
+ {
+  "start": 408.0,
+  "duration": 3.919,
+  "text": "multi-stop trip to the Grand Canyon."
+ },
+ {
+  "start": 410.16,
+  "duration": 3.24,
+  "text": "Writes Google, \"Previously finding this"
+ },
+ {
+  "start": 411.919,
+  "duration": 3.161,
+  "text": "information meant lots of research and"
+ },
+ {
+  "start": 413.4,
+  "duration": 3.32,
+  "text": "sifting through reviews, but now you can"
+ },
+ {
+  "start": 415.08,
+  "duration": 2.44,
+  "text": "just tap the Ask Maps button and get"
+ },
+ {
+  "start": 416.72,
+  "duration": 2.84,
+  "text": "your questions answered"
+ },
+ {
+  "start": 417.52,
+  "duration": 4.24,
+  "text": "conversationally. And with a customized"
+ },
+ {
+  "start": 419.56,
+  "duration": 3.56,
+  "text": "map to help you visualize your options.\""
+ },
+ {
+  "start": 421.76,
+  "duration": 2.92,
+  "text": "The feature integrates with Gemini's"
+ },
+ {
+  "start": 423.12,
+  "duration": 3.16,
+  "text": "memory, so if you ask Maps for a"
+ },
+ {
+  "start": 424.68,
+  "duration": 2.96,
+  "text": "restaurant recommendation, it can tap"
+ },
+ {
+  "start": 426.28,
+  "duration": 3.2,
+  "text": "into what Gemini already knows about"
+ },
+ {
+  "start": 427.64,
+  "duration": 3.2,
+  "text": "your preferences. Google is also"
+ },
+ {
+  "start": 429.48,
+  "duration": 2.96,
+  "text": "leveraging Gemini to launch a new"
+ },
+ {
+  "start": 430.84,
+  "duration": 3.76,
+  "text": "visualization mode for navigation in"
+ },
+ {
+  "start": 432.44,
+  "duration": 3.52,
+  "text": "Maps. The update adds a 3D view that"
+ },
+ {
+  "start": 434.6,
+  "duration": 3.48,
+  "text": "depicts buildings, overpasses, and"
+ },
+ {
+  "start": 435.96,
+  "duration": 3.8,
+  "text": "surrounding terrain. Once again, Google"
+ },
+ {
+  "start": 438.08,
+  "duration": 4.76,
+  "text": "flexing its multimodality and the"
+ },
+ {
+  "start": 439.76,
+  "duration": 4.64,
+  "text": "integration of its entire ecosystem."
+ },
+ {
+  "start": 442.84,
+  "duration": 2.96,
+  "text": "Lastly today, sort of a bridge topic to"
+ },
+ {
+  "start": 444.4,
+  "duration": 3.36,
+  "text": "our main episode,"
+ },
+ {
+  "start": 445.8,
+  "duration": 3.8,
+  "text": "ServiceNow CEO Bill McDermott has warned"
+ },
+ {
+  "start": 447.76,
+  "duration": 4.24,
+  "text": "that AI could send unemployment soaring"
+ },
+ {
+  "start": 449.6,
+  "duration": 4.04,
+  "text": "above 30% for young professionals."
+ },
+ {
+  "start": 452.0,
+  "duration": 2.76,
+  "text": "In an interview with CNBC, McDermott"
+ },
+ {
+  "start": 453.64,
+  "duration": 2.88,
+  "text": "said that unemployment for college"
+ },
+ {
+  "start": 454.76,
+  "duration": 4.04,
+  "text": "graduates could quote easily go into the"
+ },
+ {
+  "start": 456.52,
+  "duration": 3.52,
+  "text": "mid-30s in the next couple of years. \"So"
+ },
+ {
+  "start": 458.8,
+  "duration": 2.84,
+  "text": "much of the work is going to be done by"
+ },
+ {
+  "start": 460.04,
+  "duration": 2.8,
+  "text": "agents,\" he continued, \"so it's going to"
+ },
+ {
+  "start": 461.64,
+  "duration": 2.32,
+  "text": "be challenging for young people to"
+ },
+ {
+  "start": 462.84,
+  "duration": 2.6,
+  "text": "differentiate themselves in the"
+ },
+ {
+  "start": 463.96,
+  "duration": 2.76,
+  "text": "corporate environment."
+ },
+ {
+  "start": 465.44,
+  "duration": 2.96,
+  "text": "Now, according to data from the Federal"
+ },
+ {
+  "start": 466.72,
+  "duration": 4.28,
+  "text": "Reserve, unemployment for recent college"
+ },
+ {
+  "start": 468.4,
+  "duration": 4.56,
+  "text": "graduates currently stands at 5.6%,"
+ },
+ {
+  "start": 471.0,
+  "duration": 3.16,
+  "text": "which is far lower than the 7.8%"
+ },
+ {
+  "start": 472.96,
+  "duration": 4.56,
+  "text": "unemployment rate for young people"
+ },
+ {
+  "start": 474.16,
+  "duration": 4.96,
+  "text": "without a college degree. However, 42.5%"
+ },
+ {
+  "start": 477.52,
+  "duration": 3.24,
+  "text": "of college graduates are classified as"
+ },
+ {
+  "start": 479.12,
+  "duration": 3.12,
+  "text": "underemployed, meaning they don't have"
+ },
+ {
+  "start": 480.76,
+  "duration": 3.52,
+  "text": "enough work or are working in roles that"
+ },
+ {
+  "start": 482.24,
+  "duration": 3.56,
+  "text": "don't require a college degree. This is"
+ },
+ {
+  "start": 484.28,
+  "duration": 3.72,
+  "text": "the highest level of underemployment for"
+ },
+ {
+  "start": 485.8,
+  "duration": 3.72,
+  "text": "college grads since 2020. Computer"
+ },
+ {
+  "start": 488.0,
+  "duration": 4.04,
+  "text": "science majors have among the highest"
+ },
+ {
+  "start": 489.52,
+  "duration": 4.2,
+  "text": "unemployment rates at 7%, but their"
+ },
+ {
+  "start": 492.04,
+  "duration": 4.68,
+  "text": "underemployment rate is relatively low"
+ },
+ {
+  "start": 493.72,
+  "duration": 4.64,
+  "text": "at 19.1% compared to other majors."
+ },
+ {
+  "start": 496.72,
+  "duration": 3.88,
+  "text": "Now, just why this type of discourse is"
+ },
+ {
+  "start": 498.36,
+  "duration": 3.64,
+  "text": "so potent right now is in fact the topic"
+ },
+ {
+  "start": 500.6,
+  "duration": 2.92,
+  "text": "of our main episode. So, with that, we"
+ },
+ {
+  "start": 502.0,
+  "duration": 4.4,
+  "text": "will close the headlines and move on"
+ },
+ {
+  "start": 503.52,
+  "duration": 2.88,
+  "text": "over to the main."
+ }
+]

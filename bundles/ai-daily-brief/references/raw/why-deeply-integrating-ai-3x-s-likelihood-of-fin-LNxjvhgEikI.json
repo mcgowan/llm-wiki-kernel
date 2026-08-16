@@ -1,0 +1,1752 @@
+[
+ {
+  "start": 0.44,
+  "duration": 3.68,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 2.44,
+  "duration": 3.52,
+  "text": "Today, we are talking about a trio of"
+ },
+ {
+  "start": 4.12,
+  "duration": 4.56,
+  "text": "new surveys that help tell the"
+ },
+ {
+  "start": 5.96,
+  "duration": 5.16,
+  "text": "contemporary story of enterprise AI as"
+ },
+ {
+  "start": 8.68,
+  "duration": 6.12,
+  "text": "it is deployed. The surveys come from"
+ },
+ {
+  "start": 11.12,
+  "duration": 5.68,
+  "text": "PwC, Workday, and AI supporting training"
+ },
+ {
+  "start": 14.8,
+  "duration": 3.92,
+  "text": "consultancy Section. And part of the"
+ },
+ {
+  "start": 16.8,
+  "duration": 3.24,
+  "text": "reason that I wanted to do this episode"
+ },
+ {
+  "start": 18.72,
+  "duration": 3.04,
+  "text": "is not only that there is rich"
+ },
+ {
+  "start": 20.04,
+  "duration": 3.68,
+  "text": "interesting information in that data,"
+ },
+ {
+  "start": 21.76,
+  "duration": 4.36,
+  "text": "but that the initial reporting around it"
+ },
+ {
+  "start": 23.72,
+  "duration": 4.92,
+  "text": "has a very distinct slant, which while I"
+ },
+ {
+  "start": 26.12,
+  "duration": 4.0,
+  "text": "don't think is wrong, I do believe is"
+ },
+ {
+  "start": 28.64,
+  "duration": 3.959,
+  "text": "misleading in a way that could be"
+ },
+ {
+  "start": 30.12,
+  "duration": 4.44,
+  "text": "dangerous. In short, the mainstream"
+ },
+ {
+  "start": 32.599,
+  "duration": 4.681,
+  "text": "reporting around these surveys leads to"
+ },
+ {
+  "start": 34.56,
+  "duration": 5.24,
+  "text": "a suggestion of AI underperformance. It"
+ },
+ {
+  "start": 37.28,
+  "duration": 4.76,
+  "text": "contributes to a sensibility that AI is"
+ },
+ {
+  "start": 39.8,
+  "duration": 4.28,
+  "text": "overhyped. The story that I think the"
+ },
+ {
+  "start": 42.04,
+  "duration": 3.68,
+  "text": "data is actually telling is yet more"
+ },
+ {
+  "start": 44.08,
+  "duration": 3.56,
+  "text": "evidence of the widening gap between"
+ },
+ {
+  "start": 45.72,
+  "duration": 4.04,
+  "text": "leaders and laggards when it comes to AI"
+ },
+ {
+  "start": 47.64,
+  "duration": 4.72,
+  "text": "adoption. And implications of those two"
+ },
+ {
+  "start": 49.76,
+  "duration": 3.68,
+  "text": "stories are very, very different. So,"
+ },
+ {
+  "start": 52.36,
+  "duration": 2.28,
+  "text": "let's talk about how the media,"
+ },
+ {
+  "start": 53.44,
+  "duration": 3.44,
+  "text": "specifically the Wall Street Journal,"
+ },
+ {
+  "start": 54.64,
+  "duration": 4.12,
+  "text": "summed up this story with their piece,"
+ },
+ {
+  "start": 56.88,
+  "duration": 3.84,
+  "text": "\"CEOs Say AI Is Making Work More"
+ },
+ {
+  "start": 58.76,
+  "duration": 3.0,
+  "text": "Efficient, Employees Tell a Different"
+ },
+ {
+  "start": 60.72,
+  "duration": 3.04,
+  "text": "Story.\""
+ },
+ {
+  "start": 61.76,
+  "duration": 3.16,
+  "text": "And again, to be clear, none of the data"
+ },
+ {
+  "start": 63.76,
+  "duration": 3.2,
+  "text": "that the Wall Street Journal here is"
+ },
+ {
+  "start": 64.92,
+  "duration": 4.24,
+  "text": "focusing on is incorrect or even"
+ },
+ {
+  "start": 66.96,
+  "duration": 4.2,
+  "text": "insignificant. Their first graph shows a"
+ },
+ {
+  "start": 69.16,
+  "duration": 3.44,
+  "text": "statistic from the Section survey, who,"
+ },
+ {
+  "start": 71.16,
+  "duration": 3.32,
+  "text": "for full disclosure, are a sponsor of"
+ },
+ {
+  "start": 72.6,
+  "duration": 3.56,
+  "text": "this show right now, but who actually"
+ },
+ {
+  "start": 74.48,
+  "duration": 2.76,
+  "text": "didn't even share the survey with me. I"
+ },
+ {
+  "start": 76.16,
+  "duration": 2.92,
+  "text": "only found it when I saw this Wall"
+ },
+ {
+  "start": 77.24,
+  "duration": 3.52,
+  "text": "Street Journal article. In any case,"
+ },
+ {
+  "start": 79.08,
+  "duration": 4.76,
+  "text": "that survey was conducted around the"
+ },
+ {
+  "start": 80.76,
+  "duration": 5.16,
+  "text": "same time as our AI ROI survey for AIDB,"
+ },
+ {
+  "start": 83.84,
+  "duration": 3.8,
+  "text": "and surveyed 5,000 white-collar workers"
+ },
+ {
+  "start": 85.92,
+  "duration": 4.16,
+  "text": "from companies with 1,000 people or more"
+ },
+ {
+  "start": 87.64,
+  "duration": 4.72,
+  "text": "in the US, UK, and Canada, concentrated"
+ },
+ {
+  "start": 90.08,
+  "duration": 4.0,
+  "text": "around October of last year. When asked"
+ },
+ {
+  "start": 92.36,
+  "duration": 4.04,
+  "text": "how much time they think they personally"
+ },
+ {
+  "start": 94.08,
+  "duration": 5.2,
+  "text": "are saving each week by using AI, the"
+ },
+ {
+  "start": 96.4,
+  "duration": 4.96,
+  "text": "C-suite was saving a ton of time. 33%"
+ },
+ {
+  "start": 99.28,
+  "duration": 4.36,
+  "text": "were saving 4 to 8 hours, a quarter were"
+ },
+ {
+  "start": 101.36,
+  "duration": 4.24,
+  "text": "saving 8 to 12 hours, and almost a fifth"
+ },
+ {
+  "start": 103.64,
+  "duration": 4.48,
+  "text": "were saving more than 12 hours a week."
+ },
+ {
+  "start": 105.6,
+  "duration": 4.44,
+  "text": "Meanwhile, among workers, only 2% were"
+ },
+ {
+  "start": 108.12,
+  "duration": 3.36,
+  "text": "saving more than 12 hours per week, more"
+ },
+ {
+  "start": 110.04,
+  "duration": 3.84,
+  "text": "than a quarter were saving less than 2"
+ },
+ {
+  "start": 111.48,
+  "duration": 5.32,
+  "text": "hours, and the largest category by far,"
+ },
+ {
+  "start": 113.88,
+  "duration": 4.36,
+  "text": "40%, said they were saving no time."
+ },
+ {
+  "start": 116.8,
+  "duration": 3.44,
+  "text": "A representative quote comes from North"
+ },
+ {
+  "start": 118.24,
+  "duration": 3.92,
+  "text": "Carolina user experience designer Steve"
+ },
+ {
+  "start": 120.24,
+  "duration": 3.52,
+  "text": "McGarvey who said, \"Executives"
+ },
+ {
+  "start": 122.16,
+  "duration": 3.4,
+  "text": "automatically assume AI is going to be"
+ },
+ {
+  "start": 123.76,
+  "duration": 3.08,
+  "text": "the savior. I can't count the number of"
+ },
+ {
+  "start": 125.56,
+  "duration": 3.52,
+  "text": "times that I've sought a solution for a"
+ },
+ {
+  "start": 126.84,
+  "duration": 3.68,
+  "text": "problem, asked an LLM, and it gave me a"
+ },
+ {
+  "start": 129.08,
+  "duration": 3.28,
+  "text": "solution to an accessibility problem"
+ },
+ {
+  "start": 130.52,
+  "duration": 4.12,
+  "text": "that was completely wrong.\" Which brings"
+ },
+ {
+  "start": 132.36,
+  "duration": 4.12,
+  "text": "us to the Workday research."
+ },
+ {
+  "start": 134.64,
+  "duration": 4.4,
+  "text": "The headliner stat from that survey was"
+ },
+ {
+  "start": 136.48,
+  "duration": 4.68,
+  "text": "that 37% of the time saved through AI is"
+ },
+ {
+  "start": 139.04,
+  "duration": 4.08,
+  "text": "being set by rework. In the executive"
+ },
+ {
+  "start": 141.16,
+  "duration": 3.64,
+  "text": "summary, they write, \"Employees report"
+ },
+ {
+  "start": 143.12,
+  "duration": 3.56,
+  "text": "spending significant time correcting,"
+ },
+ {
+  "start": 144.8,
+  "duration": 3.84,
+  "text": "clarifying, or rewriting low-quality"
+ },
+ {
+  "start": 146.68,
+  "duration": 4.44,
+  "text": "AI-generated content, essentially"
+ },
+ {
+  "start": 148.64,
+  "duration": 4.04,
+  "text": "creating an AI tax on productivity. For"
+ },
+ {
+  "start": 151.12,
+  "duration": 3.72,
+  "text": "every 10 hours of efficiency gained"
+ },
+ {
+  "start": 152.68,
+  "duration": 4.04,
+  "text": "through AI, nearly 4 hours are lost to"
+ },
+ {
+  "start": 154.84,
+  "duration": 4.08,
+  "text": "fixing its output.\" In other words, they"
+ },
+ {
+  "start": 156.72,
+  "duration": 4.6,
+  "text": "say 1 and 1/2 weeks a year is being lost"
+ },
+ {
+  "start": 158.92,
+  "duration": 5.08,
+  "text": "to fixing AI outputs per highly engaged"
+ },
+ {
+  "start": 161.32,
+  "duration": 4.56,
+  "text": "employee. Another area of divergence"
+ },
+ {
+  "start": 164.0,
+  "duration": 4.44,
+  "text": "between workers and executives had to do"
+ },
+ {
+  "start": 165.88,
+  "duration": 4.28,
+  "text": "with anxiety around AI. For workers, the"
+ },
+ {
+  "start": 168.44,
+  "duration": 4.24,
+  "text": "percentage who said they were anxious or"
+ },
+ {
+  "start": 170.16,
+  "duration": 4.96,
+  "text": "overwhelmed versus excited was nearly a"
+ },
+ {
+  "start": 172.68,
+  "duration": 4.64,
+  "text": "70-30 split to the side of anxious. On"
+ },
+ {
+  "start": 175.12,
+  "duration": 4.399,
+  "text": "the C-suite, it went the other way with"
+ },
+ {
+  "start": 177.32,
+  "duration": 4.919,
+  "text": "more than 70% being excited while less"
+ },
+ {
+  "start": 179.519,
+  "duration": 4.241,
+  "text": "than 30% were anxious or overwhelmed."
+ },
+ {
+  "start": 182.239,
+  "duration": 3.201,
+  "text": "All of this leads to what can only be"
+ },
+ {
+  "start": 183.76,
+  "duration": 3.8,
+  "text": "described as underperformance in terms"
+ },
+ {
+  "start": 185.44,
+  "duration": 4.4,
+  "text": "of actual financial impact. They"
+ },
+ {
+  "start": 187.56,
+  "duration": 4.08,
+  "text": "highlighted that in a new PwC survey of"
+ },
+ {
+  "start": 189.84,
+  "duration": 4.76,
+  "text": "CEOs that was released to coincide with"
+ },
+ {
+  "start": 191.64,
+  "duration": 5.04,
+  "text": "the WEF in Davos this week, just 12% of"
+ },
+ {
+  "start": 194.6,
+  "duration": 4.56,
+  "text": "CEOs said AI had delivered both cost and"
+ },
+ {
+  "start": 196.68,
+  "duration": 4.72,
+  "text": "revenue while 56%"
+ },
+ {
+  "start": 199.16,
+  "duration": 4.28,
+  "text": "more than half of the nearly 4,500 CEOs"
+ },
+ {
+  "start": 201.4,
+  "duration": 4.8,
+  "text": "polled said they had seen no significant"
+ },
+ {
+  "start": 203.44,
+  "duration": 4.48,
+  "text": "financial benefit so far."
+ },
+ {
+  "start": 206.2,
+  "duration": 3.92,
+  "text": "So, like I said at the beginning, none"
+ },
+ {
+  "start": 207.92,
+  "duration": 3.84,
+  "text": "of this is incorrect information and all"
+ },
+ {
+  "start": 210.12,
+  "duration": 3.76,
+  "text": "of it is interesting and important"
+ },
+ {
+  "start": 211.76,
+  "duration": 4.08,
+  "text": "signal. My concern is that the way that"
+ },
+ {
+  "start": 213.88,
+  "duration": 4.079,
+  "text": "it's being presented contributes to a"
+ },
+ {
+  "start": 215.84,
+  "duration": 4.0,
+  "text": "sensibility that AI itself is"
+ },
+ {
+  "start": 217.959,
+  "duration": 4.28,
+  "text": "underperforming and that AI itself is"
+ },
+ {
+  "start": 219.84,
+  "duration": 3.679,
+  "text": "overhyped. The reason that matters is"
+ },
+ {
+  "start": 222.239,
+  "duration": 2.641,
+  "text": "that it has the potential of changing"
+ },
+ {
+  "start": 223.519,
+  "duration": 4.0,
+  "text": "the way that individuals and companies"
+ },
+ {
+  "start": 224.88,
+  "duration": 3.8,
+  "text": "think about AI adoption. Put simply,"
+ },
+ {
+  "start": 227.519,
+  "duration": 3.241,
+  "text": "some number of people are going to see"
+ },
+ {
+  "start": 228.68,
+  "duration": 4.04,
+  "text": "this and feel like it perhaps takes them"
+ },
+ {
+  "start": 230.76,
+  "duration": 3.64,
+  "text": "off the hook a bit. That in other words,"
+ },
+ {
+  "start": 232.72,
+  "duration": 2.92,
+  "text": "they were right to be skeptical and that"
+ },
+ {
+  "start": 234.4,
+  "duration": 2.92,
+  "text": "maybe they don't have to figure out"
+ },
+ {
+  "start": 235.64,
+  "duration": 3.28,
+  "text": "where to carve out the time to learn how"
+ },
+ {
+  "start": 237.32,
+  "duration": 3.4,
+  "text": "to use these new tools because they're"
+ },
+ {
+  "start": 238.92,
+  "duration": 3.24,
+  "text": "not all that good, anyway."
+ },
+ {
+  "start": 240.72,
+  "duration": 3.72,
+  "text": "On an individual, to say nothing of a"
+ },
+ {
+  "start": 242.16,
+  "duration": 4.32,
+  "text": "company level, this is not a winning"
+ },
+ {
+  "start": 244.44,
+  "duration": 4.56,
+  "text": "strategy for adapting to the new world"
+ },
+ {
+  "start": 246.48,
+  "duration": 3.96,
+  "text": "that has, in fact, already arrived. As I"
+ },
+ {
+  "start": 249.0,
+  "duration": 3.28,
+  "text": "said at the beginning, my interpretation"
+ },
+ {
+  "start": 250.44,
+  "duration": 3.2,
+  "text": "is a little bit different. I think that"
+ },
+ {
+  "start": 252.28,
+  "duration": 4.519,
+  "text": "all of these studies are actually adding"
+ },
+ {
+  "start": 253.64,
+  "duration": 5.04,
+  "text": "up to a story of a widening gap between"
+ },
+ {
+  "start": 256.799,
+  "duration": 3.801,
+  "text": "leaders and laggards."
+ },
+ {
+  "start": 258.68,
+  "duration": 3.32,
+  "text": "Let's hone in and focus on the vanguard"
+ },
+ {
+  "start": 260.6,
+  "duration": 3.2,
+  "text": "of companies."
+ },
+ {
+  "start": 262.0,
+  "duration": 3.6,
+  "text": "Those 12% right here who are seeing both"
+ },
+ {
+  "start": 263.8,
+  "duration": 3.84,
+  "text": "an increase in revenue and a decrease in"
+ },
+ {
+  "start": 265.6,
+  "duration": 4.88,
+  "text": "cost from AI, rather than focusing on"
+ },
+ {
+  "start": 267.64,
+  "duration": 5.16,
+  "text": "this 56% number of CEOs who haven't seen"
+ },
+ {
+  "start": 270.48,
+  "duration": 4.76,
+  "text": "a change in either revenue or cost, what"
+ },
+ {
+  "start": 272.8,
+  "duration": 4.92,
+  "text": "makes these 12% different? Are they"
+ },
+ {
+  "start": 275.24,
+  "duration": 5.36,
+  "text": "doing things that is different? And the"
+ },
+ {
+  "start": 277.72,
+  "duration": 5.36,
+  "text": "short answer is absolutely yes."
+ },
+ {
+  "start": 280.6,
+  "duration": 4.44,
+  "text": "Those vanguard companies, that top 12%"
+ },
+ {
+  "start": 283.08,
+  "duration": 3.76,
+  "text": "who are actually seeing double financial"
+ },
+ {
+  "start": 285.04,
+  "duration": 5.4,
+  "text": "gains in terms of increased revenue and"
+ },
+ {
+  "start": 286.84,
+  "duration": 5.32,
+  "text": "reduced cost, are 2.6 times more likely"
+ },
+ {
+  "start": 290.44,
+  "duration": 4.64,
+  "text": "to have embedded AI into their core"
+ },
+ {
+  "start": 292.16,
+  "duration": 4.6,
+  "text": "processes. 44% of those companies say"
+ },
+ {
+  "start": 295.08,
+  "duration": 5.36,
+  "text": "that they are deploying AI to a large"
+ },
+ {
+  "start": 296.76,
+  "duration": 5.84,
+  "text": "extent versus just 17%. PwC writes,"
+ },
+ {
+  "start": 300.44,
+  "duration": 3.6,
+  "text": "\"Foundations matter as much as scale."
+ },
+ {
+  "start": 302.6,
+  "duration": 3.8,
+  "text": "CEOs whose organizations have"
+ },
+ {
+  "start": 304.04,
+  "duration": 3.8,
+  "text": "established strong AI foundations, such"
+ },
+ {
+  "start": 306.4,
+  "duration": 2.96,
+  "text": "as responsible AI frameworks and"
+ },
+ {
+  "start": 307.84,
+  "duration": 3.4,
+  "text": "technology environments that enable"
+ },
+ {
+  "start": 309.36,
+  "duration": 3.6,
+  "text": "enterprise-wide integration, are three"
+ },
+ {
+  "start": 311.24,
+  "duration": 3.679,
+  "text": "times more likely to report meaningful"
+ },
+ {
+  "start": 312.96,
+  "duration": 3.959,
+  "text": "financial returns.\" In other words,"
+ },
+ {
+  "start": 314.919,
+  "duration": 4.081,
+  "text": "deeply integrating AI triples your"
+ },
+ {
+  "start": 316.919,
+  "duration": 3.761,
+  "text": "likelihood of positive outcomes. This"
+ },
+ {
+  "start": 319.0,
+  "duration": 3.4,
+  "text": "might be old hat for many of you who are"
+ },
+ {
+  "start": 320.68,
+  "duration": 3.68,
+  "text": "here, but the glaring point that stands"
+ },
+ {
+  "start": 322.4,
+  "duration": 4.12,
+  "text": "out from that is that this is a story of"
+ },
+ {
+  "start": 324.36,
+  "duration": 4.92,
+  "text": "enterprise environment more than a story"
+ },
+ {
+  "start": 326.52,
+  "duration": 3.88,
+  "text": "of AI capability."
+ },
+ {
+  "start": 329.28,
+  "duration": 3.36,
+  "text": "Now, let's take a look at the Section"
+ },
+ {
+  "start": 330.4,
+  "duration": 4.2,
+  "text": "report, which is explicitly about AI"
+ },
+ {
+  "start": 332.64,
+  "duration": 4.16,
+  "text": "proficiency. And once again, the"
+ },
+ {
+  "start": 334.6,
+  "duration": 5.28,
+  "text": "headline stat here is not encouraging."
+ },
+ {
+  "start": 336.8,
+  "duration": 5.36,
+  "text": "By Section's metrics, just 3% of"
+ },
+ {
+  "start": 339.88,
+  "duration": 5.0,
+  "text": "employees are using AI proficiently, as"
+ },
+ {
+  "start": 342.16,
+  "duration": 4.64,
+  "text": "opposed to 97% who are either AI novices"
+ },
+ {
+  "start": 344.88,
+  "duration": 3.8,
+  "text": "or AI experimenters."
+ },
+ {
+  "start": 346.8,
+  "duration": 4.28,
+  "text": "40% say that they'd be fine never using"
+ },
+ {
+  "start": 348.68,
+  "duration": 4.8,
+  "text": "AI again. But the story that actually"
+ },
+ {
+  "start": 351.08,
+  "duration": 5.6,
+  "text": "emerges is that employees aren't being"
+ },
+ {
+  "start": 353.48,
+  "duration": 5.36,
+  "text": "given the tools to succeed. 85% of the"
+ },
+ {
+  "start": 356.68,
+  "duration": 4.84,
+  "text": "knowledge workers from Section Survey"
+ },
+ {
+  "start": 358.84,
+  "duration": 5.56,
+  "text": "either had no work-related AI use cases"
+ },
+ {
+  "start": 361.52,
+  "duration": 5.88,
+  "text": "or beginner level. 59% of the reported"
+ },
+ {
+  "start": 364.4,
+  "duration": 5.44,
+  "text": "AI use cases were basic task assistance,"
+ },
+ {
+  "start": 367.4,
+  "duration": 4.04,
+  "text": "things like replacing Google search,"
+ },
+ {
+  "start": 369.84,
+  "duration": 3.88,
+  "text": "drafting, editing, and summarizing"
+ },
+ {
+  "start": 371.44,
+  "duration": 4.32,
+  "text": "documents. Only 2% of respondents have"
+ },
+ {
+  "start": 373.72,
+  "duration": 4.48,
+  "text": "built any sort of automation, and only"
+ },
+ {
+  "start": 375.76,
+  "duration": 4.56,
+  "text": "3% said their most valuable use case was"
+ },
+ {
+  "start": 378.2,
+  "duration": 4.36,
+  "text": "data analysis or code generation."
+ },
+ {
+  "start": 380.32,
+  "duration": 4.28,
+  "text": "Indeed, only 2% overall of use cases"
+ },
+ {
+  "start": 382.56,
+  "duration": 3.52,
+  "text": "were judged to be advanced. In short,"
+ },
+ {
+  "start": 384.6,
+  "duration": 3.16,
+  "text": "companies are not giving their employees"
+ },
+ {
+  "start": 386.08,
+  "duration": 4.0,
+  "text": "tools to go beyond the most basic of use"
+ },
+ {
+  "start": 387.76,
+  "duration": 4.4,
+  "text": "cases. They are instead dropping LLMs on"
+ },
+ {
+  "start": 390.08,
+  "duration": 3.72,
+  "text": "top of their heads, in many cases based"
+ },
+ {
+  "start": 392.16,
+  "duration": 3.68,
+  "text": "on enterprise deployments, LLMs that are"
+ },
+ {
+  "start": 393.8,
+  "duration": 4.04,
+  "text": "a generation or two behind, and telling"
+ },
+ {
+  "start": 395.84,
+  "duration": 3.6,
+  "text": "them to make it work. And we do see"
+ },
+ {
+  "start": 397.84,
+  "duration": 3.8,
+  "text": "organizations that are providing their"
+ },
+ {
+  "start": 399.44,
+  "duration": 3.84,
+  "text": "employees tools having more proficient"
+ },
+ {
+  "start": 401.64,
+  "duration": 3.6,
+  "text": "employees."
+ },
+ {
+  "start": 403.28,
+  "duration": 3.88,
+  "text": "Compared to a baseline employee across"
+ },
+ {
+  "start": 405.24,
+  "duration": 4.2,
+  "text": "the whole study, employees that have"
+ },
+ {
+  "start": 407.16,
+  "duration": 4.04,
+  "text": "access to tools have 1.5 times the"
+ },
+ {
+  "start": 409.44,
+  "duration": 3.52,
+  "text": "proficiency of the baseline, which is"
+ },
+ {
+  "start": 411.2,
+  "duration": 3.719,
+  "text": "the same as the multiplier for employees"
+ },
+ {
+  "start": 412.96,
+  "duration": 5.0,
+  "text": "who report having a coherent company AI"
+ },
+ {
+  "start": 414.919,
+  "duration": 4.721,
+  "text": "strategy. The multiplier is 1.6. And by"
+ },
+ {
+  "start": 417.96,
+  "duration": 3.6,
+  "text": "far the biggest multiplier comes from"
+ },
+ {
+  "start": 419.64,
+  "duration": 5.48,
+  "text": "employees whose managers explicitly"
+ },
+ {
+  "start": 421.56,
+  "duration": 5.64,
+  "text": "expect AI usage, who are 2.6 times more"
+ },
+ {
+  "start": 425.12,
+  "duration": 3.64,
+  "text": "AI proficient than the baseline employee"
+ },
+ {
+  "start": 427.2,
+  "duration": 3.8,
+  "text": "in the study."
+ },
+ {
+  "start": 428.76,
+  "duration": 4.52,
+  "text": "Leadership expectation is the strongest"
+ },
+ {
+  "start": 431.0,
+  "duration": 4.04,
+  "text": "catalyst. By signaling that AI is not"
+ },
+ {
+  "start": 433.28,
+  "duration": 3.36,
+  "text": "core work, and although it's not"
+ },
+ {
+  "start": 435.04,
+  "duration": 4.32,
+  "text": "captured in the study, my strong guess"
+ },
+ {
+  "start": 436.64,
+  "duration": 4.36,
+  "text": "is providing time for people to actually"
+ },
+ {
+  "start": 439.36,
+  "duration": 3.08,
+  "text": "learn and experiment with the tools"
+ },
+ {
+  "start": 441.0,
+  "duration": 3.52,
+  "text": "outside of the bounds of their normal"
+ },
+ {
+  "start": 442.44,
+  "duration": 3.04,
+  "text": "work, rather than expecting them to just"
+ },
+ {
+  "start": 444.52,
+  "duration": 2.8,
+  "text": "figure out when to go do that"
+ },
+ {
+  "start": 445.48,
+  "duration": 4.04,
+  "text": "exploration for themselves, leads to"
+ },
+ {
+  "start": 447.32,
+  "duration": 3.72,
+  "text": "nearly 3x more proficiency than the"
+ },
+ {
+  "start": 449.52,
+  "duration": 2.88,
+  "text": "baseline."
+ },
+ {
+  "start": 451.04,
+  "duration": 3.32,
+  "text": "Now, one of the things that shows up in"
+ },
+ {
+  "start": 452.4,
+  "duration": 3.44,
+  "text": "the Section report is also just this"
+ },
+ {
+  "start": 454.36,
+  "duration": 3.24,
+  "text": "catastrophic divergence in the"
+ },
+ {
+  "start": 455.84,
+  "duration": 4.12,
+  "text": "perception between the C-suite and"
+ },
+ {
+  "start": 457.6,
+  "duration": 4.16,
+  "text": "individual contributors. This reminds me"
+ },
+ {
+  "start": 459.96,
+  "duration": 4.12,
+  "text": "of a study from Writer back in December"
+ },
+ {
+  "start": 461.76,
+  "duration": 4.2,
+  "text": "of 2024 that found among other things a"
+ },
+ {
+  "start": 464.08,
+  "duration": 3.72,
+  "text": "30-point gap between the number of"
+ },
+ {
+  "start": 465.96,
+  "duration": 4.08,
+  "text": "C-suite executives who said that their"
+ },
+ {
+  "start": 467.8,
+  "duration": 3.64,
+  "text": "company had a coherent AI strategy and"
+ },
+ {
+  "start": 470.04,
+  "duration": 3.88,
+  "text": "the percentage of employees who thought"
+ },
+ {
+  "start": 471.44,
+  "duration": 3.64,
+  "text": "so. That gap is actually even larger in"
+ },
+ {
+  "start": 473.92,
+  "duration": 3.12,
+  "text": "this study."
+ },
+ {
+  "start": 475.08,
+  "duration": 3.64,
+  "text": "81% of C-suite officers surveyed said"
+ },
+ {
+  "start": 477.04,
+  "duration": 3.96,
+  "text": "that their company had clear AI policy"
+ },
+ {
+  "start": 478.72,
+  "duration": 4.92,
+  "text": "compared to just 28% of individual"
+ },
+ {
+  "start": 481.0,
+  "duration": 4.92,
+  "text": "contributors, a 53-point gap. The"
+ },
+ {
+  "start": 483.64,
+  "duration": 5.6,
+  "text": "encouragement to experiment was 51% for"
+ },
+ {
+  "start": 485.92,
+  "duration": 5.48,
+  "text": "C-suite versus just 20% for employees."
+ },
+ {
+  "start": 489.24,
+  "duration": 4.52,
+  "text": "Tool access was 80% for the C-suite"
+ },
+ {
+  "start": 491.4,
+  "duration": 4.32,
+  "text": "versus 32% for employees. Training"
+ },
+ {
+  "start": 493.76,
+  "duration": 3.6,
+  "text": "received was the widest divergence with"
+ },
+ {
+  "start": 495.72,
+  "duration": 4.04,
+  "text": "81% of the C-suite reporting that they"
+ },
+ {
+  "start": 497.36,
+  "duration": 4.64,
+  "text": "had been trained and only 27% of"
+ },
+ {
+  "start": 499.76,
+  "duration": 3.72,
+  "text": "individual contributors. What this means"
+ },
+ {
+  "start": 502.0,
+  "duration": 3.64,
+  "text": "is that these challenges will not"
+ },
+ {
+  "start": 503.48,
+  "duration": 3.64,
+  "text": "self-correct. The C-suite by and large,"
+ },
+ {
+  "start": 505.64,
+  "duration": 3.56,
+  "text": "at least from these studies, is not"
+ },
+ {
+  "start": 507.12,
+  "duration": 4.36,
+  "text": "recognizing the problem. And on the same"
+ },
+ {
+  "start": 509.2,
+  "duration": 4.08,
+  "text": "theme of the problem not fixing itself,"
+ },
+ {
+  "start": 511.48,
+  "duration": 3.84,
+  "text": "we see reinvestment failure becoming a"
+ },
+ {
+  "start": 513.28,
+  "duration": 4.08,
+  "text": "major bottleneck. This comes from that"
+ },
+ {
+  "start": 515.32,
+  "duration": 3.96,
+  "text": "Workday study, which found that nearly"
+ },
+ {
+  "start": 517.36,
+  "duration": 4.28,
+  "text": "40% of AI time savings are lost to"
+ },
+ {
+  "start": 519.28,
+  "duration": 4.28,
+  "text": "fixing AI output. When asked about how"
+ },
+ {
+  "start": 521.64,
+  "duration": 4.6,
+  "text": "they reinvest their savings from AI into"
+ },
+ {
+  "start": 523.56,
+  "duration": 4.64,
+  "text": "the organization, 39% goes into tech"
+ },
+ {
+  "start": 526.24,
+  "duration": 4.28,
+  "text": "infrastructure versus just 30% into"
+ },
+ {
+  "start": 528.2,
+  "duration": 3.72,
+  "text": "workforce development. And importantly,"
+ },
+ {
+  "start": 530.52,
+  "duration": 4.0,
+  "text": "the numbers are even more dramatic for"
+ },
+ {
+  "start": 531.92,
+  "duration": 4.52,
+  "text": "time savings allocation. 53% of"
+ },
+ {
+  "start": 534.52,
+  "duration": 4.319,
+  "text": "reinvestment of the time saved goes into"
+ },
+ {
+  "start": 536.44,
+  "duration": 4.64,
+  "text": "systems versus just 29% for people and"
+ },
+ {
+  "start": 538.839,
+  "duration": 3.801,
+  "text": "workforce development. And to be clear,"
+ },
+ {
+  "start": 541.08,
+  "duration": 3.32,
+  "text": "this doesn't appear to be a strategic"
+ },
+ {
+  "start": 542.64,
+  "duration": 3.12,
+  "text": "determination that investment into"
+ },
+ {
+  "start": 544.4,
+  "duration": 3.76,
+  "text": "systems is better than investment into"
+ },
+ {
+  "start": 545.76,
+  "duration": 4.24,
+  "text": "people. 59% of leaders say that skills"
+ },
+ {
+  "start": 548.16,
+  "duration": 4.2,
+  "text": "development is their priority while just"
+ },
+ {
+  "start": 550.0,
+  "duration": 4.64,
+  "text": "30% of employees are experiencing that,"
+ },
+ {
+  "start": 552.36,
+  "duration": 4.44,
+  "text": "a 29 percentage point gap."
+ },
+ {
+  "start": 554.64,
+  "duration": 4.44,
+  "text": "Zooming out, the Workday study starts to"
+ },
+ {
+  "start": 556.8,
+  "duration": 4.36,
+  "text": "dramatize the leader-laggard gap when it"
+ },
+ {
+  "start": 559.08,
+  "duration": 3.64,
+  "text": "comes to individual employees. They"
+ },
+ {
+  "start": 561.16,
+  "duration": 3.8,
+  "text": "divide employee personas into four"
+ },
+ {
+  "start": 562.72,
+  "duration": 4.4,
+  "text": "groups, the observers who stand on the"
+ },
+ {
+  "start": 564.96,
+  "duration": 4.0,
+  "text": "sidelines not wasting time fixing but"
+ },
+ {
+  "start": 567.12,
+  "duration": 3.719,
+  "text": "not generating value either, the"
+ },
+ {
+  "start": 568.96,
+  "duration": 3.76,
+  "text": "misaligned middle who are struggling to"
+ },
+ {
+  "start": 570.839,
+  "duration": 3.241,
+  "text": "make tools work and find that the effort"
+ },
+ {
+  "start": 572.72,
+  "duration": 4.04,
+  "text": "required to clean up output outweighs"
+ },
+ {
+  "start": 574.08,
+  "duration": 5.08,
+  "text": "the benefits, the low return optimists"
+ },
+ {
+  "start": 576.76,
+  "duration": 5.08,
+  "text": "who have high AI activity, but also high"
+ },
+ {
+  "start": 579.16,
+  "duration": 3.84,
+  "text": "rework, and the augmented strategists,"
+ },
+ {
+  "start": 581.84,
+  "duration": 3.8,
+  "text": "who are seeing the highest net"
+ },
+ {
+  "start": 583.0,
+  "duration": 5.12,
+  "text": "productivity gains. There are huge"
+ },
+ {
+  "start": 585.64,
+  "duration": 3.76,
+  "text": "differences in the profiles of the"
+ },
+ {
+  "start": 588.12,
+  "duration": 3.72,
+  "text": "augmented strategists compared to"
+ },
+ {
+  "start": 589.4,
+  "duration": 4.72,
+  "text": "everyone else. 93% of the augmented"
+ },
+ {
+  "start": 591.84,
+  "duration": 5.2,
+  "text": "strategists treat AI as a radar to spot"
+ },
+ {
+  "start": 594.12,
+  "duration": 6.52,
+  "text": "patterns, rather than a crutch. 71% are"
+ },
+ {
+  "start": 597.04,
+  "duration": 4.88,
+  "text": "experienced professionals 35 to 44. 57%"
+ },
+ {
+  "start": 600.64,
+  "duration": 2.92,
+  "text": "report that their organizations have"
+ },
+ {
+  "start": 601.92,
+  "duration": 2.8,
+  "text": "increased investment in team connection,"
+ },
+ {
+  "start": 603.56,
+  "duration": 2.8,
+  "text": "which is way higher than the other"
+ },
+ {
+  "start": 604.72,
+  "duration": 3.44,
+  "text": "categories. And the augmented"
+ },
+ {
+  "start": 606.36,
+  "duration": 3.48,
+  "text": "strategists are two times as likely to"
+ },
+ {
+  "start": 608.16,
+  "duration": 3.96,
+  "text": "have received substantial skills"
+ },
+ {
+  "start": 609.84,
+  "duration": 4.52,
+  "text": "training. By contrast, the low return"
+ },
+ {
+  "start": 612.12,
+  "duration": 4.48,
+  "text": "optimists, who have high enthusiasm, but"
+ },
+ {
+  "start": 614.36,
+  "duration": 4.76,
+  "text": "also a high rework burden, report only"
+ },
+ {
+  "start": 616.6,
+  "duration": 3.8,
+  "text": "37% increased access to skills training,"
+ },
+ {
+  "start": 619.12,
+  "duration": 2.36,
+  "text": "which is actually the lowest of any"
+ },
+ {
+  "start": 620.4,
+  "duration": 2.44,
+  "text": "group."
+ },
+ {
+  "start": 621.48,
+  "duration": 3.36,
+  "text": "All of this reflects things that we"
+ },
+ {
+  "start": 622.84,
+  "duration": 3.68,
+  "text": "found in our AI ROI benchmarking study"
+ },
+ {
+  "start": 624.84,
+  "duration": 3.84,
+  "text": "as well. Where we found there to be"
+ },
+ {
+  "start": 626.52,
+  "duration": 4.2,
+  "text": "statistically significant correlations"
+ },
+ {
+  "start": 628.68,
+  "duration": 3.72,
+  "text": "between the diversity of AI use cases"
+ },
+ {
+  "start": 630.72,
+  "duration": 3.8,
+  "text": "and how much ROI benefit companies were"
+ },
+ {
+  "start": 632.4,
+  "duration": 4.64,
+  "text": "reporting. In other words, when"
+ },
+ {
+  "start": 634.52,
+  "duration": 4.56,
+  "text": "companies had AI use cases that were not"
+ },
+ {
+  "start": 637.04,
+  "duration": 4.36,
+  "text": "only for time or cost savings, but also"
+ },
+ {
+  "start": 639.08,
+  "duration": 4.32,
+  "text": "for increasing output, increasing the"
+ },
+ {
+  "start": 641.4,
+  "duration": 4.04,
+  "text": "quality of strategic decision making,"
+ },
+ {
+  "start": 643.4,
+  "duration": 3.439,
+  "text": "unlocking new capabilities. Basically,"
+ },
+ {
+  "start": 645.44,
+  "duration": 3.48,
+  "text": "the larger the number of categories of"
+ },
+ {
+  "start": 646.839,
+  "duration": 3.801,
+  "text": "ROI that use cases led to, the more"
+ },
+ {
+  "start": 648.92,
+  "duration": 3.36,
+  "text": "overall benefit companies were seeing."
+ },
+ {
+  "start": 650.64,
+  "duration": 3.28,
+  "text": "We also saw that use cases that focused"
+ },
+ {
+  "start": 652.28,
+  "duration": 3.68,
+  "text": "on strategic outcomes, rather than just"
+ },
+ {
+  "start": 653.92,
+  "duration": 4.28,
+  "text": "efficiency outcomes, had higher net"
+ },
+ {
+  "start": 655.96,
+  "duration": 3.76,
+  "text": "reports of ROI benefit."
+ },
+ {
+  "start": 658.2,
+  "duration": 3.92,
+  "text": "Ultimately, the story that these surveys"
+ },
+ {
+  "start": 659.72,
+  "duration": 4.24,
+  "text": "tell is that companies who are investing"
+ },
+ {
+  "start": 662.12,
+  "duration": 3.96,
+  "text": "deeply and putting proper AI foundations"
+ },
+ {
+  "start": 663.96,
+  "duration": 4.36,
+  "text": "into place are two to three times the"
+ },
+ {
+  "start": 666.08,
+  "duration": 4.24,
+  "text": "benefit of everyone else. And because of"
+ },
+ {
+  "start": 668.32,
+  "duration": 3.96,
+  "text": "the nature of these tools, those"
+ },
+ {
+  "start": 670.32,
+  "duration": 3.96,
+  "text": "benefits are compounding. The more"
+ },
+ {
+  "start": 672.28,
+  "duration": 3.52,
+  "text": "proficient with AI you get, the more"
+ },
+ {
+  "start": 674.28,
+  "duration": 3.2,
+  "text": "likely to continue to get further ahead"
+ },
+ {
+  "start": 675.8,
+  "duration": 3.16,
+  "text": "you are."
+ },
+ {
+  "start": 677.48,
+  "duration": 5.04,
+  "text": "The lens then to read these studies"
+ },
+ {
+  "start": 678.96,
+  "duration": 5.96,
+  "text": "through is not AI overhyped, but instead"
+ },
+ {
+  "start": 682.52,
+  "duration": 4.56,
+  "text": "the very real burden of infrastructure"
+ },
+ {
+  "start": 684.92,
+  "duration": 3.919,
+  "text": "for AI adoption and the significant"
+ },
+ {
+  "start": 687.08,
+  "duration": 3.4,
+  "text": "gains that come from it."
+ },
+ {
+  "start": 688.839,
+  "duration": 3.161,
+  "text": "Now, I know that many of you listeners"
+ },
+ {
+  "start": 690.48,
+  "duration": 3.64,
+  "text": "are the folks inside your companies who"
+ },
+ {
+  "start": 692.0,
+  "duration": 4.04,
+  "text": "are responsible for AI strategy and who"
+ },
+ {
+  "start": 694.12,
+  "duration": 3.68,
+  "text": "are advocating for the sort of policies"
+ },
+ {
+  "start": 696.04,
+  "duration": 3.44,
+  "text": "that we're very clearly seeing lead to"
+ },
+ {
+  "start": 697.8,
+  "duration": 3.48,
+  "text": "better outcomes. Hopefully, some of"
+ },
+ {
+  "start": 699.48,
+  "duration": 4.16,
+  "text": "these studies then can provide fodder"
+ },
+ {
+  "start": 701.28,
+  "duration": 3.56,
+  "text": "for you to win more internal arguments."
+ },
+ {
+  "start": 703.64,
+  "duration": 3.0,
+  "text": "That is what I wish for you, but for"
+ },
+ {
+  "start": 704.84,
+  "duration": 3.76,
+  "text": "now, that's going to do it for today's"
+ },
+ {
+  "start": 706.64,
+  "duration": 3.76,
+  "text": "AI Daily Brief. Appreciate you listening"
+ },
+ {
+  "start": 708.6,
+  "duration": 4.84,
+  "text": "or watching, as always, and until next"
+ },
+ {
+  "start": 710.4,
+  "duration": 3.04,
+  "text": "time, peace."
+ }
+]

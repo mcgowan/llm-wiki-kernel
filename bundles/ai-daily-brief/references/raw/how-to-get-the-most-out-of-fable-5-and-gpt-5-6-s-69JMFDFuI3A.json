@@ -1,0 +1,3802 @@
+[
+ {
+  "start": 0.44,
+  "duration": 4.12,
+  "text": "Today on the AI Daily Brief, how to get"
+ },
+ {
+  "start": 2.16,
+  "duration": 4.16,
+  "text": "the most out of frontier models. The AI"
+ },
+ {
+  "start": 4.56,
+  "duration": 2.88,
+  "text": "Daily Brief is a daily podcast and video"
+ },
+ {
+  "start": 6.32,
+  "duration": 3.68,
+  "text": "about the most important news and"
+ },
+ {
+  "start": 7.44,
+  "duration": 4.48,
+  "text": "discussions in AI."
+ },
+ {
+  "start": 10.0,
+  "duration": 3.36,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 11.92,
+  "duration": 3.16,
+  "text": "Quick note about today's episode, this"
+ },
+ {
+  "start": 13.36,
+  "duration": 3.56,
+  "text": "was recorded in advance. In fact, I am"
+ },
+ {
+  "start": 15.08,
+  "duration": 4.56,
+  "text": "recording it on Thursday afternoon as"
+ },
+ {
+  "start": 16.92,
+  "duration": 4.24,
+  "text": "everyone freaks out about Kimmy K3. So,"
+ },
+ {
+  "start": 19.64,
+  "duration": 3.24,
+  "text": "in the meantime, you know, if Dario and"
+ },
+ {
+  "start": 21.16,
+  "duration": 3.24,
+  "text": "Sam have lost their minds and released"
+ },
+ {
+  "start": 22.88,
+  "duration": 3.04,
+  "text": "new versions of Fable and GPT in"
+ },
+ {
+  "start": 24.4,
+  "duration": 3.24,
+  "text": "response to the threat that's tearing"
+ },
+ {
+  "start": 25.92,
+  "duration": 3.8,
+  "text": "value off the NASDAQ, you'll know why I"
+ },
+ {
+  "start": 27.64,
+  "duration": 3.48,
+  "text": "am not talking about it right now. Just"
+ },
+ {
+  "start": 29.72,
+  "duration": 2.92,
+  "text": "a quick little bit of travel on Monday."
+ },
+ {
+  "start": 31.12,
+  "duration": 3.68,
+  "text": "I will be back on Tuesday with a normal"
+ },
+ {
+  "start": 32.64,
+  "duration": 3.64,
+  "text": "episode. But still, regardless of what"
+ },
+ {
+  "start": 34.8,
+  "duration": 3.48,
+  "text": "is going on in the wide world of models"
+ },
+ {
+  "start": 36.28,
+  "duration": 3.32,
+  "text": "out there, today's episode is all about"
+ },
+ {
+  "start": 38.28,
+  "duration": 3.28,
+  "text": "how to get the most out of the most"
+ },
+ {
+  "start": 39.6,
+  "duration": 4.36,
+  "text": "advanced and newest models. So, without"
+ },
+ {
+  "start": 41.56,
+  "duration": 4.68,
+  "text": "any further ado, let's dive in."
+ },
+ {
+  "start": 43.96,
+  "duration": 5.56,
+  "text": "It has now been a couple of weeks with"
+ },
+ {
+  "start": 46.24,
+  "duration": 5.36,
+  "text": "this new class of models in Fable 5 and"
+ },
+ {
+  "start": 49.52,
+  "duration": 4.24,
+  "text": "GPT 5.6."
+ },
+ {
+  "start": 51.6,
+  "duration": 3.64,
+  "text": "Now, weirdly, these models have actually"
+ },
+ {
+  "start": 53.76,
+  "duration": 3.0,
+  "text": "been around a little longer than a"
+ },
+ {
+  "start": 55.24,
+  "duration": 3.44,
+  "text": "couple of weeks. There was a"
+ },
+ {
+  "start": 56.76,
+  "duration": 4.76,
+  "text": "particularly long early access period"
+ },
+ {
+  "start": 58.68,
+  "duration": 4.96,
+  "text": "for GPT 5.6, and Fable 5 was here for a"
+ },
+ {
+  "start": 61.52,
+  "duration": 3.719,
+  "text": "couple days before going away. But at"
+ },
+ {
+  "start": 63.64,
+  "duration": 3.52,
+  "text": "this point now, pretty much everyone has"
+ },
+ {
+  "start": 65.239,
+  "duration": 3.401,
+  "text": "now had these models for some time. In"
+ },
+ {
+  "start": 67.16,
+  "duration": 4.04,
+  "text": "fact, our access to them keeps getting"
+ },
+ {
+  "start": 68.64,
+  "duration": 3.84,
+  "text": "extended and reset. And along with that,"
+ },
+ {
+  "start": 71.2,
+  "duration": 2.76,
+  "text": "people have started to publish their"
+ },
+ {
+  "start": 72.48,
+  "duration": 2.6,
+  "text": "tips and tricks for getting the most out"
+ },
+ {
+  "start": 73.96,
+  "duration": 2.64,
+  "text": "of them."
+ },
+ {
+  "start": 75.08,
+  "duration": 3.84,
+  "text": "Now, it is always the case that new"
+ },
+ {
+  "start": 76.6,
+  "duration": 3.68,
+  "text": "models demand new ways of interacting"
+ },
+ {
+  "start": 78.92,
+  "duration": 3.2,
+  "text": "with those models to get the most out of"
+ },
+ {
+  "start": 80.28,
+  "duration": 3.04,
+  "text": "them. But this is exactly the sort of"
+ },
+ {
+  "start": 82.12,
+  "duration": 3.24,
+  "text": "information that can't really be"
+ },
+ {
+  "start": 83.32,
+  "duration": 3.72,
+  "text": "captured in anything like benchmarks,"
+ },
+ {
+  "start": 85.36,
+  "duration": 3.28,
+  "text": "and just has to go be experienced"
+ },
+ {
+  "start": 87.04,
+  "duration": 3.12,
+  "text": "through trial and error."
+ },
+ {
+  "start": 88.64,
+  "duration": 4.12,
+  "text": "As you will see, there are a number of"
+ },
+ {
+  "start": 90.16,
+  "duration": 5.16,
+  "text": "common threads that cut across both 5.6"
+ },
+ {
+  "start": 92.76,
+  "duration": 4.08,
+  "text": "Soul and Fable 5 that suggest, I think,"
+ },
+ {
+  "start": 95.32,
+  "duration": 3.12,
+  "text": "not just some new ways to get the most"
+ },
+ {
+  "start": 96.84,
+  "duration": 3.0,
+  "text": "out of these models, but for some new"
+ },
+ {
+  "start": 98.44,
+  "duration": 3.0,
+  "text": "patterns of interaction that are going"
+ },
+ {
+  "start": 99.84,
+  "duration": 2.88,
+  "text": "to become increasingly common from here"
+ },
+ {
+  "start": 101.44,
+  "duration": 2.32,
+  "text": "on out."
+ },
+ {
+  "start": 102.72,
+  "duration": 3.28,
+  "text": "Now, we're going to start with some"
+ },
+ {
+  "start": 103.76,
+  "duration": 4.0,
+  "text": "official sources and commentary. Codex"
+ },
+ {
+  "start": 106.0,
+  "duration": 3.96,
+  "text": "team member Eric Provencal wrote, \"With"
+ },
+ {
+  "start": 107.76,
+  "duration": 4.0,
+  "text": "5.6 Soul, a lot of people are still"
+ },
+ {
+  "start": 109.96,
+  "duration": 4.6,
+  "text": "prompting the model exactly as they did"
+ },
+ {
+  "start": 111.76,
+  "duration": 4.88,
+  "text": "5.5. It's important to note that 5.6"
+ },
+ {
+  "start": 114.56,
+  "duration": 4.12,
+  "text": "Soul is a lot more tenacious and"
+ },
+ {
+  "start": 116.64,
+  "duration": 3.68,
+  "text": "thorough than previous models."
+ },
+ {
+  "start": 118.68,
+  "duration": 4.16,
+  "text": "Eric published a prompting guide on the"
+ },
+ {
+  "start": 120.32,
+  "duration": 4.6,
+  "text": "official learn.chat.openai.com site and"
+ },
+ {
+  "start": 122.84,
+  "duration": 4.36,
+  "text": "while in this case, it is not presented"
+ },
+ {
+  "start": 124.92,
+  "duration": 4.199,
+  "text": "as a way to get more out of 5.6 as"
+ },
+ {
+  "start": 127.2,
+  "duration": 4.0,
+  "text": "opposed to 5.5, there are a few things"
+ },
+ {
+  "start": 129.119,
+  "duration": 3.321,
+  "text": "that are specifically worth noting. One"
+ },
+ {
+  "start": 131.2,
+  "duration": 3.52,
+  "text": "piece of guidance that comes from that"
+ },
+ {
+  "start": 132.44,
+  "duration": 3.72,
+  "text": "tenacity is around setting boundaries."
+ },
+ {
+  "start": 134.72,
+  "duration": 3.84,
+  "text": "Boundaries, writes the guide, are the"
+ },
+ {
+  "start": 136.16,
+  "duration": 4.4,
+  "text": "few instructions ChatGPT needs to avoid"
+ },
+ {
+  "start": 138.56,
+  "duration": 4.6,
+  "text": "creating extra work or taking an action"
+ },
+ {
+  "start": 140.56,
+  "duration": 4.28,
+  "text": "you didn't intend. Add one when changing"
+ },
+ {
+  "start": 143.16,
+  "duration": 3.52,
+  "text": "the wrong detail would make the result"
+ },
+ {
+  "start": 144.84,
+  "duration": 2.96,
+  "text": "unusable or when you want to review"
+ },
+ {
+  "start": 146.68,
+  "duration": 2.24,
+  "text": "something before it affects other"
+ },
+ {
+  "start": 147.8,
+  "duration": 3.6,
+  "text": "people."
+ },
+ {
+  "start": 148.92,
+  "duration": 4.92,
+  "text": "Examples: Keep the approved dates and"
+ },
+ {
+  "start": 151.4,
+  "duration": 4.4,
+  "text": "budget figures unchanged. Use only the"
+ },
+ {
+  "start": 153.84,
+  "duration": 3.96,
+  "text": "supplied sources. Flag missing"
+ },
+ {
+  "start": 155.8,
+  "duration": 3.28,
+  "text": "information instead of guessing. Keep"
+ },
+ {
+  "start": 157.8,
+  "duration": 3.44,
+  "text": "recommendations within the stated"
+ },
+ {
+  "start": 159.08,
+  "duration": 4.56,
+  "text": "budget. Prepare the message as a draft,"
+ },
+ {
+  "start": 161.24,
+  "duration": 5.08,
+  "text": "don't send it. You can see how in each"
+ },
+ {
+  "start": 163.64,
+  "duration": 4.64,
+  "text": "of these cases, a more tenacious model,"
+ },
+ {
+  "start": 166.32,
+  "duration": 3.68,
+  "text": "to use Eric's word, might assert a"
+ },
+ {
+  "start": 168.28,
+  "duration": 3.44,
+  "text": "little bit more agency than the user"
+ },
+ {
+  "start": 170.0,
+  "duration": 3.32,
+  "text": "would be comfortable with and actually"
+ },
+ {
+  "start": 171.72,
+  "duration": 3.16,
+  "text": "go off and do something that ended up"
+ },
+ {
+  "start": 173.32,
+  "duration": 3.56,
+  "text": "not being optimal for whatever the"
+ },
+ {
+  "start": 174.88,
+  "duration": 3.72,
+  "text": "prompter was trying to achieve."
+ },
+ {
+  "start": 176.88,
+  "duration": 3.56,
+  "text": "One example of these boundaries was"
+ },
+ {
+  "start": 178.6,
+  "duration": 3.48,
+  "text": "being explicit about where you wanted it"
+ },
+ {
+  "start": 180.44,
+  "duration": 3.88,
+  "text": "to stop and actions you didn't want it"
+ },
+ {
+  "start": 182.08,
+  "duration": 4.28,
+  "text": "to take. I.e. don't send the message,"
+ },
+ {
+  "start": 184.32,
+  "duration": 3.639,
+  "text": "just prepare it as a draft. Another"
+ },
+ {
+  "start": 186.36,
+  "duration": 4.04,
+  "text": "example around the approved dates and"
+ },
+ {
+  "start": 187.959,
+  "duration": 4.041,
+  "text": "budget figures was to limit and focus"
+ },
+ {
+  "start": 190.4,
+  "duration": 3.48,
+  "text": "where the tenacious model was applying"
+ },
+ {
+  "start": 192.0,
+  "duration": 3.48,
+  "text": "its attention. When it comes to the"
+ },
+ {
+  "start": 193.88,
+  "duration": 3.56,
+  "text": "injunction to use only the supplied"
+ },
+ {
+  "start": 195.48,
+  "duration": 3.88,
+  "text": "sources, a tenacious model that has"
+ },
+ {
+  "start": 197.44,
+  "duration": 3.799,
+  "text": "access to the entire internet could go"
+ },
+ {
+  "start": 199.36,
+  "duration": 4.56,
+  "text": "off and get lost in some serious rabbit"
+ },
+ {
+  "start": 201.239,
+  "duration": 4.121,
+  "text": "holes if not told not to do that."
+ },
+ {
+  "start": 203.92,
+  "duration": 3.319,
+  "text": "Now, obviously setting boundaries is"
+ },
+ {
+  "start": 205.36,
+  "duration": 3.72,
+  "text": "nothing new, but the point here is that"
+ },
+ {
+  "start": 207.239,
+  "duration": 3.961,
+  "text": "the more powerful the model, the more"
+ },
+ {
+  "start": 209.08,
+  "duration": 3.72,
+  "text": "significant those boundaries become and"
+ },
+ {
+  "start": 211.2,
+  "duration": 4.039,
+  "text": "the more real-world consequences there"
+ },
+ {
+  "start": 212.8,
+  "duration": 3.6,
+  "text": "can be if those boundaries aren't set."
+ },
+ {
+  "start": 215.239,
+  "duration": 2.481,
+  "text": "On the lower end of the spectrum of"
+ },
+ {
+  "start": 216.4,
+  "duration": 2.52,
+  "text": "consequence, there's just burning"
+ },
+ {
+  "start": 217.72,
+  "duration": 2.96,
+  "text": "through way more tokens than you"
+ },
+ {
+  "start": 218.92,
+  "duration": 3.599,
+  "text": "actually needed to, which in an"
+ },
+ {
+  "start": 220.68,
+  "duration": 2.8,
+  "text": "increasingly cost-conscious era isn't"
+ },
+ {
+  "start": 222.519,
+  "duration": 2.081,
+  "text": "nothing."
+ },
+ {
+  "start": 223.48,
+  "duration": 3.12,
+  "text": "But then of course, there's much bigger"
+ },
+ {
+  "start": 224.6,
+  "duration": 3.919,
+  "text": "consequences like sending a message that"
+ },
+ {
+  "start": 226.6,
+  "duration": 4.08,
+  "text": "hasn't been approved yet to a critical"
+ },
+ {
+  "start": 228.519,
+  "duration": 3.961,
+  "text": "customer, partner or colleague."
+ },
+ {
+  "start": 230.68,
+  "duration": 3.4,
+  "text": "Another prompting tip from Eric, which"
+ },
+ {
+  "start": 232.48,
+  "duration": 4.28,
+  "text": "again isn't different, but certainly"
+ },
+ {
+  "start": 234.08,
+  "duration": 4.28,
+  "text": "comports with the idea of 5.6 Soul being"
+ },
+ {
+  "start": 236.76,
+  "duration": 3.32,
+  "text": "a model where you actually want to"
+ },
+ {
+  "start": 238.36,
+  "duration": 3.16,
+  "text": "interact with it as opposed to just give"
+ },
+ {
+  "start": 240.08,
+  "duration": 3.76,
+  "text": "it a task and let it go off and do its"
+ },
+ {
+  "start": 241.52,
+  "duration": 3.6,
+  "text": "thing, is to iterate with the model to"
+ },
+ {
+  "start": 243.84,
+  "duration": 3.24,
+  "text": "improve the results with follow-up"
+ },
+ {
+  "start": 245.12,
+  "duration": 3.44,
+  "text": "messages. Once you see the first"
+ },
+ {
+  "start": 247.08,
+  "duration": 3.2,
+  "text": "version, you can follow up with things"
+ },
+ {
+  "start": 248.56,
+  "duration": 3.2,
+  "text": "like keep the opening more direct, keep"
+ },
+ {
+  "start": 250.28,
+  "duration": 3.84,
+  "text": "the evidence, move this or that part"
+ },
+ {
+  "start": 251.76,
+  "duration": 3.96,
+  "text": "around. And interestingly, increasingly"
+ },
+ {
+  "start": 254.12,
+  "duration": 3.2,
+  "text": "iteration isn't going to happen in a"
+ },
+ {
+  "start": 255.72,
+  "duration": 3.04,
+  "text": "completely turn-based way where you have"
+ },
+ {
+  "start": 257.32,
+  "duration": 3.479,
+  "text": "to stop and wait for an output before"
+ },
+ {
+  "start": 258.76,
+  "duration": 4.8,
+  "text": "you can steer where the model goes next."
+ },
+ {
+  "start": 260.799,
+  "duration": 4.201,
+  "text": "As ChatGPT and Codex come together, some"
+ },
+ {
+  "start": 263.56,
+  "duration": 3.04,
+  "text": "of the sort of steering behaviors that"
+ },
+ {
+  "start": 265.0,
+  "duration": 3.76,
+  "text": "are normal in Codex can come to that"
+ },
+ {
+  "start": 266.6,
+  "duration": 4.12,
+  "text": "main app experience as well. The guide"
+ },
+ {
+  "start": 268.76,
+  "duration": 3.32,
+  "text": "writes, \"When Codex is already working,"
+ },
+ {
+  "start": 270.72,
+  "duration": 3.28,
+  "text": "you can send another message without"
+ },
+ {
+  "start": 272.08,
+  "duration": 3.64,
+  "text": "waiting for the current run to finish."
+ },
+ {
+  "start": 274.0,
+  "duration": 3.36,
+  "text": "Steer adds the message to the current"
+ },
+ {
+  "start": 275.72,
+  "duration": 2.76,
+  "text": "run, use it to change direction, add a"
+ },
+ {
+  "start": 277.36,
+  "duration": 3.08,
+  "text": "missing detail, or share new"
+ },
+ {
+  "start": 278.48,
+  "duration": 3.88,
+  "text": "information. Queue saves the message for"
+ },
+ {
+  "start": 280.44,
+  "duration": 3.12,
+  "text": "the next run, use it as a follow-up that"
+ },
+ {
+  "start": 282.36,
+  "duration": 3.559,
+  "text": "should wait until the current work"
+ },
+ {
+  "start": 283.56,
+  "duration": 4.2,
+  "text": "finishes.\" This sort of behavior reduces"
+ },
+ {
+  "start": 285.919,
+  "duration": 3.401,
+  "text": "the latency of collaborating with AI in"
+ },
+ {
+  "start": 287.76,
+  "duration": 3.44,
+  "text": "ways that become important the more"
+ },
+ {
+  "start": 289.32,
+  "duration": 3.36,
+  "text": "powerful the models get."
+ },
+ {
+  "start": 291.2,
+  "duration": 3.04,
+  "text": "Now, one of the things that follows from"
+ },
+ {
+  "start": 292.68,
+  "duration": 4.84,
+  "text": "the recent integration of Codex and"
+ },
+ {
+  "start": 294.24,
+  "duration": 5.12,
+  "text": "ChatGPT and the split of ChatGPT into"
+ },
+ {
+  "start": 297.52,
+  "duration": 3.96,
+  "text": "chat and work is different prompting"
+ },
+ {
+  "start": 299.36,
+  "duration": 3.52,
+  "text": "tips for different types of experiences."
+ },
+ {
+  "start": 301.48,
+  "duration": 3.68,
+  "text": "In this post, Eric and the team of"
+ },
+ {
+  "start": 302.88,
+  "duration": 4.24,
+  "text": "ChatGPT explicitly separate prompting"
+ },
+ {
+  "start": 305.16,
+  "duration": 3.6,
+  "text": "best practices and examples for chat as"
+ },
+ {
+  "start": 307.12,
+  "duration": 3.84,
+  "text": "opposed to for work."
+ },
+ {
+  "start": 308.76,
+  "duration": 3.84,
+  "text": "A lot of the tips around work have this"
+ },
+ {
+  "start": 310.96,
+  "duration": 4.12,
+  "text": "element of cost and efficiency"
+ },
+ {
+  "start": 312.6,
+  "duration": 4.24,
+  "text": "consciousness embedded within them. One"
+ },
+ {
+  "start": 315.08,
+  "duration": 3.52,
+  "text": "section is called use work efficiently"
+ },
+ {
+  "start": 316.84,
+  "duration": 3.72,
+  "text": "and says, \"Work is useful for"
+ },
+ {
+  "start": 318.6,
+  "duration": 4.08,
+  "text": "time-consuming or recurring tasks or for"
+ },
+ {
+  "start": 320.56,
+  "duration": 3.56,
+  "text": "finished files you can reuse. A task"
+ },
+ {
+  "start": 322.68,
+  "duration": 3.16,
+  "text": "that uses more credits can still be"
+ },
+ {
+  "start": 324.12,
+  "duration": 3.28,
+  "text": "worthwhile if it saves time, improves"
+ },
+ {
+  "start": 325.84,
+  "duration": 3.28,
+  "text": "quality, or helps you make an important"
+ },
+ {
+  "start": 327.4,
+  "duration": 3.96,
+  "text": "decision.\" And a lot of their"
+ },
+ {
+  "start": 329.12,
+  "duration": 3.72,
+  "text": "recommendations are again about managing"
+ },
+ {
+  "start": 331.36,
+  "duration": 3.48,
+  "text": "that tenacity that Eric was talking"
+ },
+ {
+  "start": 332.84,
+  "duration": 3.92,
+  "text": "about. They suggest starting with only"
+ },
+ {
+  "start": 334.84,
+  "duration": 3.4,
+  "text": "one result that you can review and doing"
+ },
+ {
+  "start": 336.76,
+  "duration": 2.96,
+  "text": "things like narrowing or stopping the"
+ },
+ {
+  "start": 338.24,
+  "duration": 3.4,
+  "text": "task if it starts doing work you no"
+ },
+ {
+  "start": 339.72,
+  "duration": 3.24,
+  "text": "longer need. Now, there is of course a"
+ },
+ {
+  "start": 341.64,
+  "duration": 2.88,
+  "text": "lot more in here, but the last one that"
+ },
+ {
+  "start": 342.96,
+  "duration": 3.6,
+  "text": "I wanted to note specifically was the"
+ },
+ {
+  "start": 344.52,
+  "duration": 4.2,
+  "text": "suggestion, which you'll hear a lot if"
+ },
+ {
+  "start": 346.56,
+  "duration": 4.36,
+  "text": "you stick around these parts to use"
+ },
+ {
+  "start": 348.72,
+  "duration": 4.4,
+  "text": "voice dictation. One thing that's great"
+ },
+ {
+  "start": 350.92,
+  "duration": 3.64,
+  "text": "about ChatGPT is that even if you don't"
+ },
+ {
+  "start": 353.12,
+  "duration": 4.16,
+  "text": "have something like WhisperFlow set up"
+ },
+ {
+  "start": 354.56,
+  "duration": 4.48,
+  "text": "on your computer, ChatGPT's dictation is"
+ },
+ {
+  "start": 357.28,
+  "duration": 3.12,
+  "text": "absolutely best in class, and so you can"
+ },
+ {
+  "start": 359.04,
+  "duration": 3.36,
+  "text": "use the native dictation tool that's"
+ },
+ {
+  "start": 360.4,
+  "duration": 3.64,
+  "text": "embedded right within the app. As I've"
+ },
+ {
+  "start": 362.4,
+  "duration": 3.68,
+  "text": "said before, one of the reasons that"
+ },
+ {
+  "start": 364.04,
+  "duration": 5.36,
+  "text": "voice dictation is so valuable in the"
+ },
+ {
+  "start": 366.08,
+  "duration": 5.44,
+  "text": "context of AI is, well, context. In a"
+ },
+ {
+  "start": 369.4,
+  "duration": 3.96,
+  "text": "world where AI needs more information to"
+ },
+ {
+  "start": 371.52,
+  "duration": 3.76,
+  "text": "do its job well, the ramblers shall"
+ },
+ {
+  "start": 373.36,
+  "duration": 3.44,
+  "text": "inherit the earth, and talking at your"
+ },
+ {
+  "start": 375.28,
+  "duration": 2.84,
+  "text": "computer for a bunch of minutes, even if"
+ },
+ {
+  "start": 376.8,
+  "duration": 3.4,
+  "text": "it's a totally unstructured stream of"
+ },
+ {
+  "start": 378.12,
+  "duration": 3.72,
+  "text": "consciousness, is often going to be more"
+ },
+ {
+  "start": 380.2,
+  "duration": 3.48,
+  "text": "effective in giving the AI what it needs"
+ },
+ {
+  "start": 381.84,
+  "duration": 3.96,
+  "text": "to do well than a hyper-precise and"
+ },
+ {
+  "start": 383.68,
+  "duration": 3.56,
+  "text": "clearly articulated set of typed notes"
+ },
+ {
+  "start": 385.8,
+  "duration": 3.0,
+  "text": "that don't necessarily include all of"
+ },
+ {
+  "start": 387.24,
+  "duration": 2.8,
+  "text": "that context."
+ },
+ {
+  "start": 388.8,
+  "duration": 3.76,
+  "text": "Now, this is not the only new model"
+ },
+ {
+  "start": 390.04,
+  "duration": 4.4,
+  "text": "guide that came out around 5.6. Over on"
+ },
+ {
+  "start": 392.56,
+  "duration": 3.12,
+  "text": "the OpenAI developer site, they also"
+ },
+ {
+  "start": 394.44,
+  "duration": 2.76,
+  "text": "have a set of best practices for"
+ },
+ {
+  "start": 395.68,
+  "duration": 2.8,
+  "text": "GPT-5.6,"
+ },
+ {
+  "start": 397.2,
+  "duration": 3.04,
+  "text": "and what's cool is you can actually"
+ },
+ {
+  "start": 398.48,
+  "duration": 3.439,
+  "text": "click back and see best practices for"
+ },
+ {
+  "start": 400.24,
+  "duration": 3.96,
+  "text": "previous models as well, going all the"
+ },
+ {
+  "start": 401.919,
+  "duration": 3.841,
+  "text": "way back to GPT-4.1."
+ },
+ {
+  "start": 404.2,
+  "duration": 3.4,
+  "text": "AI content creator Ollie Leeman found"
+ },
+ {
+  "start": 405.76,
+  "duration": 3.72,
+  "text": "the document really valuable and summed"
+ },
+ {
+  "start": 407.6,
+  "duration": 3.92,
+  "text": "up some of the best tricks he found."
+ },
+ {
+  "start": 409.48,
+  "duration": 4.52,
+  "text": "One, he writes, \"Delete instructions"
+ },
+ {
+  "start": 411.52,
+  "duration": 4.92,
+  "text": "from your old prompts. OpenAI's rule is"
+ },
+ {
+  "start": 414.0,
+  "duration": 3.88,
+  "text": "to state each instruction exactly once."
+ },
+ {
+  "start": 416.44,
+  "duration": 4.8,
+  "text": "They found that removing repeated"
+ },
+ {
+  "start": 417.88,
+  "duration": 6.12,
+  "text": "instructions raised scores by 10 to 15%"
+ },
+ {
+  "start": 421.24,
+  "duration": 4.72,
+  "text": "while cutting tokens by up to 66%.\""
+ },
+ {
+  "start": 424.0,
+  "duration": 4.919,
+  "text": "The giant rule lists you wrote for older"
+ },
+ {
+  "start": 425.96,
+  "duration": 4.56,
+  "text": "models now make GPT-5.6's answers worse"
+ },
+ {
+  "start": 428.919,
+  "duration": 4.041,
+  "text": "and cost you more."
+ },
+ {
+  "start": 430.52,
+  "duration": 4.52,
+  "text": "Two, match the compute to the job. There"
+ },
+ {
+  "start": 432.96,
+  "duration": 3.76,
+  "text": "are two separate dials now, which model"
+ },
+ {
+  "start": 435.04,
+  "duration": 3.2,
+  "text": "size, i.e. sole for the hardest"
+ },
+ {
+  "start": 436.72,
+  "duration": 3.84,
+  "text": "problems, terra for everyday business"
+ },
+ {
+  "start": 438.24,
+  "duration": 4.4,
+  "text": "work, and luna for cheap fast tasks, and"
+ },
+ {
+  "start": 440.56,
+  "duration": 4.52,
+  "text": "how hard it thinks. Six effort levels"
+ },
+ {
+  "start": 442.64,
+  "duration": 4.24,
+  "text": "from none to max. OpenAI's advice on the"
+ },
+ {
+  "start": 445.08,
+  "duration": 3.4,
+  "text": "thinking dial, \"Start at whatever"
+ },
+ {
+  "start": 446.88,
+  "duration": 3.92,
+  "text": "setting you used on the last model, then"
+ },
+ {
+  "start": 448.48,
+  "duration": 4.439,
+  "text": "test one level lower. The new generation"
+ },
+ {
+  "start": 450.8,
+  "duration": 4.119,
+  "text": "usually needs less. Save max for your"
+ },
+ {
+  "start": 452.919,
+  "duration": 3.361,
+  "text": "genuinely hardest problems.\""
+ },
+ {
+  "start": 454.919,
+  "duration": 3.361,
+  "text": "This is one of those pieces of advice"
+ },
+ {
+  "start": 456.28,
+  "duration": 4.639,
+  "text": "that sounds incredibly simple, but is"
+ },
+ {
+  "start": 458.28,
+  "duration": 4.6,
+  "text": "almost emotionally hard to do. For so"
+ },
+ {
+  "start": 460.919,
+  "duration": 3.641,
+  "text": "many of us, the temptation for just"
+ },
+ {
+  "start": 462.88,
+  "duration": 3.6,
+  "text": "about every problem is to dial up the"
+ },
+ {
+  "start": 464.56,
+  "duration": 3.52,
+  "text": "settings all the way to max because all"
+ },
+ {
+  "start": 466.48,
+  "duration": 2.92,
+  "text": "things held equal, wouldn't you want the"
+ },
+ {
+  "start": 468.08,
+  "duration": 2.4,
+  "text": "most intelligence on every single"
+ },
+ {
+  "start": 469.4,
+  "duration": 2.44,
+  "text": "problem?"
+ },
+ {
+  "start": 470.48,
+  "duration": 2.76,
+  "text": "Even outside of costs, it is"
+ },
+ {
+  "start": 471.84,
+  "duration": 3.44,
+  "text": "increasingly clear that that is not"
+ },
+ {
+  "start": 473.24,
+  "duration": 3.48,
+  "text": "necessarily the optimal behavior. And so"
+ },
+ {
+  "start": 475.28,
+  "duration": 2.84,
+  "text": "that's why OpenAI is trying to give some"
+ },
+ {
+  "start": 476.72,
+  "duration": 2.72,
+  "text": "discrete guidance around what you should"
+ },
+ {
+  "start": 478.12,
+  "duration": 3.0,
+  "text": "do instead."
+ },
+ {
+  "start": 479.44,
+  "duration": 3.72,
+  "text": "Another tip in the area of undoing"
+ },
+ {
+  "start": 481.12,
+  "duration": 3.88,
+  "text": "previous instructions is to check all"
+ },
+ {
+  "start": 483.16,
+  "duration": 4.32,
+  "text": "the rules you gave about brevity. Ali"
+ },
+ {
+  "start": 485.0,
+  "duration": 4.56,
+  "text": "writes, \"GPT-5.6 defaults to shorter"
+ },
+ {
+  "start": 487.48,
+  "duration": 3.76,
+  "text": "answers than 5.5, so brevity rules you"
+ },
+ {
+  "start": 489.56,
+  "duration": 3.88,
+  "text": "added for older models can now cut too"
+ },
+ {
+  "start": 491.24,
+  "duration": 3.6,
+  "text": "much.\" When you do want something short,"
+ },
+ {
+  "start": 493.44,
+  "duration": 2.88,
+  "text": "tell it which information to keep and"
+ },
+ {
+  "start": 494.84,
+  "duration": 4.52,
+  "text": "which detail it can drop instead of a"
+ },
+ {
+  "start": 496.32,
+  "duration": 5.68,
+  "text": "blanket keep it brief. On tone, concrete"
+ },
+ {
+  "start": 499.36,
+  "duration": 4.4,
+  "text": "instructions beat abstract instructions."
+ },
+ {
+  "start": 502.0,
+  "duration": 3.04,
+  "text": "For example, OpenAI suggests that terms"
+ },
+ {
+  "start": 503.76,
+  "duration": 3.24,
+  "text": "like friendly and empathetic are going"
+ },
+ {
+  "start": 505.04,
+  "duration": 3.76,
+  "text": "to be too abstract. And instead, Ali"
+ },
+ {
+  "start": 507.0,
+  "duration": 3.919,
+  "text": "writes, \"Spell out the actual writing"
+ },
+ {
+  "start": 508.8,
+  "duration": 3.919,
+  "text": "behavior you want.\" How direct to be,"
+ },
+ {
+  "start": 510.919,
+  "duration": 3.601,
+  "text": "what to open with, what to skip."
+ },
+ {
+  "start": 512.719,
+  "duration": 3.721,
+  "text": "Something like, \"Name the customer's"
+ },
+ {
+  "start": 514.52,
+  "duration": 3.6,
+  "text": "problem in your first line, give the fix"
+ },
+ {
+  "start": 516.44,
+  "duration": 3.479,
+  "text": "as numbered steps, skip the apology"
+ },
+ {
+  "start": 518.12,
+  "duration": 3.16,
+  "text": "paragraph, gets you the same tone every"
+ },
+ {
+  "start": 519.919,
+  "duration": 3.24,
+  "text": "single time.\""
+ },
+ {
+  "start": 521.28,
+  "duration": 3.64,
+  "text": "And yet, if these tips are all very"
+ },
+ {
+  "start": 523.159,
+  "duration": 3.68,
+  "text": "clear and practical, and stuff that you"
+ },
+ {
+  "start": 524.92,
+  "duration": 3.16,
+  "text": "can go use right away,"
+ },
+ {
+  "start": 526.839,
+  "duration": 3.041,
+  "text": "there is another theme that I'm starting"
+ },
+ {
+  "start": 528.08,
+  "duration": 3.28,
+  "text": "to see across a lot of the discourse,"
+ },
+ {
+  "start": 529.88,
+  "duration": 2.76,
+  "text": "which is about the level of ambition"
+ },
+ {
+  "start": 531.36,
+  "duration": 4.16,
+  "text": "we're bringing to these most advanced"
+ },
+ {
+  "start": 532.64,
+  "duration": 4.96,
+  "text": "models. Christine Zhu, an AI UX PM at"
+ },
+ {
+  "start": 535.52,
+  "duration": 4.52,
+  "text": "Intuit, wrote a post called \"You're Not"
+ },
+ {
+  "start": 537.6,
+  "duration": 4.32,
+  "text": "Ambitious Enough with Claude.\" Christine"
+ },
+ {
+  "start": 540.04,
+  "duration": 3.88,
+  "text": "writes, \"The biggest productivity and"
+ },
+ {
+  "start": 541.92,
+  "duration": 3.76,
+  "text": "capacity unlock in my daily work"
+ },
+ {
+  "start": 543.92,
+  "duration": 3.96,
+  "text": "happened when I went beyond automating"
+ },
+ {
+  "start": 545.68,
+  "duration": 4.2,
+  "text": "busy work to asking Claude to do more"
+ },
+ {
+  "start": 547.88,
+  "duration": 3.84,
+  "text": "high-leverage work.\" For months, she"
+ },
+ {
+  "start": 549.88,
+  "duration": 3.8,
+  "text": "wrote, \"I was using Claude to clear the"
+ },
+ {
+  "start": 551.72,
+  "duration": 3.8,
+  "text": "dopamine backlog, the queue of little"
+ },
+ {
+  "start": 553.68,
+  "duration": 4.0,
+  "text": "tasks that I respond to too eagerly"
+ },
+ {
+  "start": 555.52,
+  "duration": 4.12,
+  "text": "because completing gave a dopamine hit,"
+ },
+ {
+  "start": 557.68,
+  "duration": 4.2,
+  "text": "an illusion of progress. These"
+ },
+ {
+  "start": 559.64,
+  "duration": 4.36,
+  "text": "automations freed up a lot of my time."
+ },
+ {
+  "start": 561.88,
+  "duration": 3.68,
+  "text": "With that new found time and Fable, I"
+ },
+ {
+  "start": 564.0,
+  "duration": 3.64,
+  "text": "started pushing it for higher leverage"
+ },
+ {
+  "start": 565.56,
+  "duration": 4.08,
+  "text": "work, hard tasks I didn't trust Claude"
+ },
+ {
+  "start": 567.64,
+  "duration": 3.92,
+  "text": "with before. This made the biggest leap"
+ },
+ {
+  "start": 569.64,
+  "duration": 2.96,
+  "text": "in my productivity, capacity, and sense"
+ },
+ {
+  "start": 571.56,
+  "duration": 2.68,
+  "text": "of flow.\""
+ },
+ {
+  "start": 572.6,
+  "duration": 3.6,
+  "text": "Christine calls upon a concept from"
+ },
+ {
+  "start": 574.24,
+  "duration": 3.72,
+  "text": "Stripe product leader Shreyas Doshi, who"
+ },
+ {
+  "start": 576.2,
+  "duration": 4.56,
+  "text": "wrote there are three levels to product"
+ },
+ {
+  "start": 577.96,
+  "duration": 4.96,
+  "text": "work. One, the execution level. Two, the"
+ },
+ {
+  "start": 580.76,
+  "duration": 3.08,
+  "text": "impact level. And three, the optics"
+ },
+ {
+  "start": 582.92,
+  "duration": 2.8,
+  "text": "level."
+ },
+ {
+  "start": 583.84,
+  "duration": 3.4,
+  "text": "Christine notes that, quote, many of us"
+ },
+ {
+  "start": 585.72,
+  "duration": 3.0,
+  "text": "use Claude to automate busy work in"
+ },
+ {
+  "start": 587.24,
+  "duration": 3.56,
+  "text": "optics and execution and leave the"
+ },
+ {
+  "start": 588.72,
+  "duration": 3.68,
+  "text": "impact work to ourselves. We tell"
+ },
+ {
+  "start": 590.8,
+  "duration": 3.6,
+  "text": "ourselves the story that judgement is"
+ },
+ {
+  "start": 592.4,
+  "duration": 3.8,
+  "text": "the defensible human thing. But when"
+ },
+ {
+  "start": 594.4,
+  "duration": 3.28,
+  "text": "given the right context, Claude can do"
+ },
+ {
+  "start": 596.2,
+  "duration": 3.68,
+  "text": "the hard work better and faster than"
+ },
+ {
+  "start": 597.68,
+  "duration": 4.88,
+  "text": "you. Lowering the activation energy of"
+ },
+ {
+  "start": 599.88,
+  "duration": 4.92,
+  "text": "starting is a major unlock in itself. In"
+ },
+ {
+  "start": 602.56,
+  "duration": 3.52,
+  "text": "fact, Christine suggests using Fable 5"
+ },
+ {
+  "start": 604.8,
+  "duration": 3.56,
+  "text": "in different ways for each of these"
+ },
+ {
+  "start": 606.08,
+  "duration": 3.96,
+  "text": "three categories of work. Optics work,"
+ },
+ {
+  "start": 608.36,
+  "duration": 3.04,
+  "text": "for example, she says is about making"
+ },
+ {
+  "start": 610.04,
+  "duration": 3.32,
+  "text": "your team's progress visible to the"
+ },
+ {
+  "start": 611.4,
+  "duration": 4.24,
+  "text": "right people in the right forums. For"
+ },
+ {
+  "start": 613.36,
+  "duration": 3.96,
+  "text": "this, she suggests using Claude with"
+ },
+ {
+  "start": 615.64,
+  "duration": 4.28,
+  "text": "Fable as autopilot to replace"
+ },
+ {
+  "start": 617.32,
+  "duration": 4.2,
+  "text": "production. The example she gives, I"
+ },
+ {
+  "start": 619.92,
+  "duration": 3.92,
+  "text": "have a scheduled task on co-work that"
+ },
+ {
+  "start": 621.52,
+  "duration": 3.84,
+  "text": "runs twice a week. It pulls context from"
+ },
+ {
+  "start": 623.84,
+  "duration": 3.04,
+  "text": "key sources and writes the latest"
+ },
+ {
+  "start": 625.36,
+  "duration": 3.48,
+  "text": "updates for each work stream into a"
+ },
+ {
+  "start": 626.88,
+  "duration": 3.64,
+  "text": "Google sheet template. This G sheet"
+ },
+ {
+  "start": 628.84,
+  "duration": 3.04,
+  "text": "status board is visible for the teams to"
+ },
+ {
+  "start": 630.52,
+  "duration": 3.36,
+  "text": "get their questions answered without"
+ },
+ {
+  "start": 631.88,
+  "duration": 3.32,
+  "text": "asking me. I also have a skill that"
+ },
+ {
+  "start": 633.88,
+  "duration": 2.44,
+  "text": "packages these updates at different"
+ },
+ {
+  "start": 635.2,
+  "duration": 3.72,
+  "text": "levels for the right audience and"
+ },
+ {
+  "start": 636.32,
+  "duration": 5.08,
+  "text": "forums. Optics work, she continues, is"
+ },
+ {
+  "start": 638.92,
+  "duration": 4.2,
+  "text": "the layer to automate ruthlessly because"
+ },
+ {
+  "start": 641.4,
+  "duration": 3.32,
+  "text": "it takes care of the dopamine backlog so"
+ },
+ {
+  "start": 643.12,
+  "duration": 3.04,
+  "text": "you can stay in flow."
+ },
+ {
+  "start": 644.72,
+  "duration": 3.08,
+  "text": "In fact, she suggests, I wouldn't be"
+ },
+ {
+  "start": 646.16,
+  "duration": 3.52,
+  "text": "surprised if these flows are productized"
+ },
+ {
+  "start": 647.8,
+  "duration": 3.76,
+  "text": "soon in Claude itself."
+ },
+ {
+  "start": 649.68,
+  "duration": 3.32,
+  "text": "At the next level for execution work,"
+ },
+ {
+  "start": 651.56,
+  "duration": 3.36,
+  "text": "instead of Claude as automator, she"
+ },
+ {
+  "start": 653.0,
+  "duration": 3.6,
+  "text": "suggests Claude as co-pilot. Every"
+ },
+ {
+  "start": 654.92,
+  "duration": 3.76,
+  "text": "Monday, Christine continues, I run the"
+ },
+ {
+  "start": 656.6,
+  "duration": 3.76,
+  "text": "context dump skill, which reads my past"
+ },
+ {
+  "start": 658.68,
+  "duration": 3.96,
+  "text": "week across Slack, calendar notes, and"
+ },
+ {
+  "start": 660.36,
+  "duration": 4.08,
+  "text": "repo activity, gives me an analysis of"
+ },
+ {
+  "start": 662.64,
+  "duration": 3.28,
+  "text": "my efficiency and patterns to watch,"
+ },
+ {
+  "start": 664.44,
+  "duration": 2.76,
+  "text": "recommends what I should prioritize, and"
+ },
+ {
+  "start": 665.92,
+  "duration": 3.6,
+  "text": "offers specific work to help me get"
+ },
+ {
+  "start": 667.2,
+  "duration": 3.639,
+  "text": "started on. It reads less like a summary"
+ },
+ {
+  "start": 669.52,
+  "duration": 3.16,
+  "text": "and more like a coach who notices my"
+ },
+ {
+  "start": 670.839,
+  "duration": 2.841,
+  "text": "personal patterns and actually makes"
+ },
+ {
+  "start": 672.68,
+  "duration": 3.32,
+  "text": "helpful observations and"
+ },
+ {
+  "start": 673.68,
+  "duration": 3.88,
+  "text": "recommendations. I also run a planning"
+ },
+ {
+  "start": 676.0,
+  "duration": 2.96,
+  "text": "skill that checks Jira status and the"
+ },
+ {
+  "start": 677.56,
+  "duration": 3.44,
+  "text": "road map and shows me how the team is"
+ },
+ {
+  "start": 678.96,
+  "duration": 3.52,
+  "text": "tracking and what to line up next. For"
+ },
+ {
+  "start": 681.0,
+  "duration": 3.36,
+  "text": "staying close to the customer, I run a"
+ },
+ {
+  "start": 682.48,
+  "duration": 3.44,
+  "text": "scheduled task monthly that analyzes our"
+ },
+ {
+  "start": 684.36,
+  "duration": 3.12,
+  "text": "customer support channel to give me the"
+ },
+ {
+  "start": 685.92,
+  "duration": 2.88,
+  "text": "top themes, the trends, and recommends"
+ },
+ {
+  "start": 687.48,
+  "duration": 2.68,
+  "text": "the top requests or problems I can"
+ },
+ {
+  "start": 688.8,
+  "duration": 3.039,
+  "text": "prioritize."
+ },
+ {
+  "start": 690.16,
+  "duration": 3.76,
+  "text": "Overall, she says, get more ambitious"
+ },
+ {
+  "start": 691.839,
+  "duration": 3.681,
+  "text": "with the asks. Don't treat Claude as"
+ },
+ {
+  "start": 693.92,
+  "duration": 4.08,
+  "text": "just for distilling a summary, ask for"
+ },
+ {
+  "start": 695.52,
+  "duration": 4.0,
+  "text": "judgment.\" Lastly, for impact work, she"
+ },
+ {
+  "start": 698.0,
+  "duration": 3.52,
+  "text": "suggests using Claude as sparring"
+ },
+ {
+  "start": 699.52,
+  "duration": 3.28,
+  "text": "partner to get the hardest work started."
+ },
+ {
+  "start": 701.52,
+  "duration": 2.64,
+  "text": "This level, she says, is the"
+ },
+ {
+  "start": 702.8,
+  "duration": 3.32,
+  "text": "high-leverage work that is the hardest"
+ },
+ {
+  "start": 704.16,
+  "duration": 3.52,
+  "text": "to start. E.g., thinking through a new"
+ },
+ {
+  "start": 706.12,
+  "duration": 3.16,
+  "text": "product bet, preparing narrative for a"
+ },
+ {
+  "start": 707.68,
+  "duration": 2.92,
+  "text": "high-stakes presentation, testing"
+ },
+ {
+  "start": 709.28,
+  "duration": 3.56,
+  "text": "strategy against business unit"
+ },
+ {
+  "start": 710.6,
+  "duration": 3.84,
+  "text": "strategies, et cetera. Now, around this,"
+ },
+ {
+  "start": 712.84,
+  "duration": 3.12,
+  "text": "she suggests it's worthwhile to, quote"
+ },
+ {
+  "start": 714.44,
+  "duration": 3.4,
+  "text": "unquote, onboard Claude and set it up"
+ },
+ {
+  "start": 715.96,
+  "duration": 3.12,
+  "text": "with the right context. This is"
+ },
+ {
+  "start": 717.84,
+  "duration": 3.0,
+  "text": "something we've talked about a lot,"
+ },
+ {
+  "start": 719.08,
+  "duration": 3.24,
+  "text": "creating a personal context portfolio"
+ },
+ {
+  "start": 720.84,
+  "duration": 3.28,
+  "text": "that includes all the information that"
+ },
+ {
+  "start": 722.32,
+  "duration": 4.32,
+  "text": "any given AI or model needs to be able"
+ },
+ {
+  "start": 724.12,
+  "duration": 4.08,
+  "text": "to actually be a useful collaborator."
+ },
+ {
+  "start": 726.64,
+  "duration": 3.2,
+  "text": "And overall, the biggest thing is that"
+ },
+ {
+  "start": 728.2,
+  "duration": 3.4,
+  "text": "it feels to me like Christina is really"
+ },
+ {
+  "start": 729.84,
+  "duration": 3.8,
+  "text": "feeling like Fable unlocks this sort of"
+ },
+ {
+  "start": 731.6,
+  "duration": 4.16,
+  "text": "impact work for her for the first time."
+ },
+ {
+  "start": 733.64,
+  "duration": 4.52,
+  "text": "She writes, \"Fable is noticeably better"
+ },
+ {
+  "start": 735.76,
+  "duration": 4.12,
+  "text": "than previous models for impact work. I"
+ },
+ {
+  "start": 738.16,
+  "duration": 3.52,
+  "text": "especially enjoy its calmness. It sounds"
+ },
+ {
+  "start": 739.88,
+  "duration": 3.44,
+  "text": "more concise. It feels more like a"
+ },
+ {
+  "start": 741.68,
+  "duration": 3.24,
+  "text": "conversation with a smart colleague than"
+ },
+ {
+  "start": 743.32,
+  "duration": 3.52,
+  "text": "reading walls of text with unnecessary"
+ },
+ {
+  "start": 744.92,
+  "duration": 3.24,
+  "text": "dispositions. This makes a big"
+ },
+ {
+  "start": 746.84,
+  "duration": 4.0,
+  "text": "difference in keeping a train of thought"
+ },
+ {
+  "start": 748.16,
+  "duration": 5.2,
+  "text": "going.\" Now, along the idea of moving"
+ },
+ {
+  "start": 750.84,
+  "duration": 4.6,
+  "text": "Fable into more high-impact and"
+ },
+ {
+  "start": 753.36,
+  "duration": 3.6,
+  "text": "higher-order types of work, Tariq from"
+ },
+ {
+  "start": 755.44,
+  "duration": 3.72,
+  "text": "the Claude Code team recently wrote a"
+ },
+ {
+  "start": 756.96,
+  "duration": 5.04,
+  "text": "post called A Field Guide to Fable,"
+ },
+ {
+  "start": 759.16,
+  "duration": 4.84,
+  "text": "Finding Your Unknowns. Tariq writes,"
+ },
+ {
+  "start": 762.0,
+  "duration": 4.48,
+  "text": "\"Working with Claude Fable 5 keeps"
+ },
+ {
+  "start": 764.0,
+  "duration": 4.6,
+  "text": "reteaching me an old lesson. The map is"
+ },
+ {
+  "start": 766.48,
+  "duration": 4.2,
+  "text": "not the territory. The map, a"
+ },
+ {
+  "start": 768.6,
+  "duration": 4.4,
+  "text": "representation of the work to be done,"
+ },
+ {
+  "start": 770.68,
+  "duration": 4.76,
+  "text": "is my prompts and skills and context."
+ },
+ {
+  "start": 773.0,
+  "duration": 4.28,
+  "text": "It's what I give Claude. The territory"
+ },
+ {
+  "start": 775.44,
+  "duration": 3.68,
+  "text": "is where the work needs to happen, the"
+ },
+ {
+  "start": 777.28,
+  "duration": 3.76,
+  "text": "code base, the real world, its actual"
+ },
+ {
+  "start": 779.12,
+  "duration": 3.8,
+  "text": "constraints. The difference between the"
+ },
+ {
+  "start": 781.04,
+  "duration": 4.0,
+  "text": "map and the territory is what I call"
+ },
+ {
+  "start": 782.92,
+  "duration": 4.16,
+  "text": "unknowns. When Claude runs into an"
+ },
+ {
+  "start": 785.04,
+  "duration": 4.24,
+  "text": "unknown, it needs to make a decision"
+ },
+ {
+  "start": 787.08,
+  "duration": 3.6,
+  "text": "based on its best guess of what I want."
+ },
+ {
+  "start": 789.28,
+  "duration": 3.96,
+  "text": "The more work being done, the more"
+ },
+ {
+  "start": 790.68,
+  "duration": 4.44,
+  "text": "unknowns Claude might run into. Fable is"
+ },
+ {
+  "start": 793.24,
+  "duration": 3.36,
+  "text": "the first model where I find the quality"
+ },
+ {
+  "start": 795.12,
+  "duration": 4.16,
+  "text": "of the work is bottlenecked by my"
+ },
+ {
+  "start": 796.6,
+  "duration": 4.8,
+  "text": "ability to clarify its unknowns. And the"
+ },
+ {
+  "start": 799.28,
+  "duration": 3.8,
+  "text": "rest of the thrust of Tariq's post is to"
+ },
+ {
+  "start": 801.4,
+  "duration": 4.0,
+  "text": "point out that, in his words, planning"
+ },
+ {
+  "start": 803.08,
+  "duration": 4.28,
+  "text": "ahead isn't enough, and instead that, in"
+ },
+ {
+  "start": 805.4,
+  "duration": 3.72,
+  "text": "his words, working with Fable is an"
+ },
+ {
+  "start": 807.36,
+  "duration": 3.64,
+  "text": "iterative process of discovering my"
+ },
+ {
+  "start": 809.12,
+  "duration": 3.44,
+  "text": "unknowns before, during, and after"
+ },
+ {
+  "start": 811.0,
+  "duration": 3.44,
+  "text": "implementation.\""
+ },
+ {
+  "start": 812.56,
+  "duration": 3.2,
+  "text": "So, what are examples of this? Tariq"
+ },
+ {
+  "start": 814.44,
+  "duration": 3.88,
+  "text": "says that when he starts engaging with"
+ },
+ {
+  "start": 815.76,
+  "duration": 5.64,
+  "text": "Fable, he breaks it down in four ways."
+ },
+ {
+  "start": 818.32,
+  "duration": 5.32,
+  "text": "The four categories are known knowns, or"
+ },
+ {
+  "start": 821.4,
+  "duration": 4.44,
+  "text": "essentially what is in his prompt, i.e.,"
+ },
+ {
+  "start": 823.64,
+  "duration": 4.0,
+  "text": "what do I tell the agent that I want."
+ },
+ {
+  "start": 825.84,
+  "duration": 3.36,
+  "text": "The known unknowns are what he hasn't"
+ },
+ {
+  "start": 827.64,
+  "duration": 2.72,
+  "text": "figured out yet, but is aware that he"
+ },
+ {
+  "start": 829.2,
+  "duration": 2.8,
+  "text": "hasn't."
+ },
+ {
+  "start": 830.36,
+  "duration": 3.2,
+  "text": "The unknown knowns are what are so"
+ },
+ {
+  "start": 832.0,
+  "duration": 3.68,
+  "text": "obvious he'd never write it down, but"
+ },
+ {
+  "start": 833.56,
+  "duration": 3.52,
+  "text": "would recognize it if he saw it. And the"
+ },
+ {
+  "start": 835.68,
+  "duration": 3.68,
+  "text": "unknown unknowns are what hasn't he"
+ },
+ {
+  "start": 837.08,
+  "duration": 4.4,
+  "text": "considered at all. Tariq argues that"
+ },
+ {
+  "start": 839.36,
+  "duration": 4.24,
+  "text": "reducing and planning for unknowns is"
+ },
+ {
+  "start": 841.48,
+  "duration": 3.4,
+  "text": "the skill of agentic coding, and"
+ },
+ {
+  "start": 843.6,
+  "duration": 3.32,
+  "text": "suggests that there are ways to improve"
+ },
+ {
+  "start": 844.88,
+  "duration": 4.2,
+  "text": "upon it. And key to that is helping"
+ },
+ {
+  "start": 846.92,
+  "duration": 3.56,
+  "text": "Claude help you. Tariq writes,"
+ },
+ {
+  "start": 849.08,
+  "duration": 3.24,
+  "text": "\"Instructing Claude is a delicate"
+ },
+ {
+  "start": 850.48,
+  "duration": 3.36,
+  "text": "balance. If you're too specific, Claude"
+ },
+ {
+  "start": 852.32,
+  "duration": 3.44,
+  "text": "will follow your instructions even when"
+ },
+ {
+  "start": 853.84,
+  "duration": 3.44,
+  "text": "a pivot may be more appropriate. If"
+ },
+ {
+  "start": 855.76,
+  "duration": 2.84,
+  "text": "you're too vague, Claude will often make"
+ },
+ {
+  "start": 857.28,
+  "duration": 3.08,
+  "text": "choices and assumptions based on"
+ },
+ {
+  "start": 858.6,
+  "duration": 4.16,
+  "text": "industry best practices that may not be"
+ },
+ {
+  "start": 860.36,
+  "duration": 3.8,
+  "text": "a fit for your task. Importantly, when"
+ },
+ {
+  "start": 862.76,
+  "duration": 3.68,
+  "text": "you don't account for your unknowns, you"
+ },
+ {
+  "start": 864.16,
+  "duration": 3.88,
+  "text": "fail both ways. You don't know when the"
+ },
+ {
+  "start": 866.44,
+  "duration": 2.72,
+  "text": "path will be filled with obstacles, and"
+ },
+ {
+  "start": 868.04,
+  "duration": 2.64,
+  "text": "you don't know when the path will be"
+ },
+ {
+  "start": 869.16,
+  "duration": 3.52,
+  "text": "clear, but you still want Claude to"
+ },
+ {
+  "start": 870.68,
+  "duration": 4.04,
+  "text": "veer. Claude can help you discover your"
+ },
+ {
+  "start": 872.68,
+  "duration": 3.92,
+  "text": "unknowns faster. The most important"
+ },
+ {
+  "start": 874.72,
+  "duration": 4.0,
+  "text": "part, he says, is to give Claude context"
+ },
+ {
+  "start": 876.6,
+  "duration": 3.4,
+  "text": "about your starting point. For example,"
+ },
+ {
+  "start": 878.72,
+  "duration": 3.04,
+  "text": "tell it where you are in your thought"
+ },
+ {
+  "start": 880.0,
+  "duration": 3.48,
+  "text": "process, disclose your experience with"
+ },
+ {
+  "start": 881.76,
+  "duration": 3.52,
+  "text": "the problem, and let it work with you"
+ },
+ {
+  "start": 883.48,
+  "duration": 3.48,
+  "text": "like a thought partner. A couple of"
+ },
+ {
+  "start": 885.28,
+  "duration": 4.48,
+  "text": "specific ideas are things like a blind"
+ },
+ {
+  "start": 886.96,
+  "duration": 4.28,
+  "text": "spot pass. An example he gives, \"I don't"
+ },
+ {
+  "start": 889.76,
+  "duration": 3.36,
+  "text": "know what color grading is, but I need"
+ },
+ {
+  "start": 891.24,
+  "duration": 3.48,
+  "text": "to grade this video. Can you teach me to"
+ },
+ {
+  "start": 893.12,
+  "duration": 2.92,
+  "text": "understand my unknown unknowns about"
+ },
+ {
+  "start": 894.72,
+  "duration": 2.28,
+  "text": "color grading so that I can prompt"
+ },
+ {
+  "start": 896.04,
+  "duration": 2.52,
+  "text": "better?\""
+ },
+ {
+  "start": 897.0,
+  "duration": 3.64,
+  "text": "Another suggestion is to brainstorm and"
+ },
+ {
+  "start": 898.56,
+  "duration": 3.84,
+  "text": "prototype. Tariq writes, \"When I'm"
+ },
+ {
+  "start": 900.64,
+  "duration": 4.0,
+  "text": "working in an area with a lot of unknown"
+ },
+ {
+  "start": 902.4,
+  "duration": 4.28,
+  "text": "knowns, involving criteria I only know"
+ },
+ {
+  "start": 904.64,
+  "duration": 3.52,
+  "text": "to define when I see it, I like to ask"
+ },
+ {
+  "start": 906.68,
+  "duration": 3.28,
+  "text": "Claude to brainstorm and prototype with"
+ },
+ {
+  "start": 908.16,
+  "duration": 3.76,
+  "text": "me. It's extremely valuable,\" he"
+ },
+ {
+  "start": 909.96,
+  "duration": 4.16,
+  "text": "continues, \"to identify and verbalize"
+ },
+ {
+  "start": 911.92,
+  "duration": 3.24,
+  "text": "unknown knowns early during prototyping,"
+ },
+ {
+  "start": 914.12,
+  "duration": 2.4,
+  "text": "because finding them out during"
+ },
+ {
+  "start": 915.16,
+  "duration": 2.64,
+  "text": "implementation can be relatively"
+ },
+ {
+  "start": 916.52,
+  "duration": 3.0,
+  "text": "expensive."
+ },
+ {
+  "start": 917.8,
+  "duration": 2.8,
+  "text": "Small changes in a feature or spec can"
+ },
+ {
+  "start": 919.52,
+  "duration": 3.04,
+  "text": "cause drastically different"
+ },
+ {
+  "start": 920.6,
+  "duration": 3.28,
+  "text": "implementations in code, and can be more"
+ },
+ {
+  "start": 922.56,
+  "duration": 2.84,
+  "text": "difficult for your agent to revert"
+ },
+ {
+  "start": 923.88,
+  "duration": 2.68,
+  "text": "previous changes."
+ },
+ {
+  "start": 925.4,
+  "duration": 3.2,
+  "text": "Now, this is something I think a lot of"
+ },
+ {
+  "start": 926.56,
+  "duration": 4.2,
+  "text": "you guys are probably doing intuitively."
+ },
+ {
+  "start": 928.6,
+  "duration": 3.72,
+  "text": "An example prompt he gives is, \"I want a"
+ },
+ {
+  "start": 930.76,
+  "duration": 2.76,
+  "text": "dashboard for this data, but I have no"
+ },
+ {
+  "start": 932.32,
+  "duration": 3.8,
+  "text": "visual taste, and I don't know what's"
+ },
+ {
+  "start": 933.52,
+  "duration": 4.28,
+  "text": "possible. Make me an HTML page with four"
+ },
+ {
+  "start": 936.12,
+  "duration": 3.68,
+  "text": "wildly different design directions, so I"
+ },
+ {
+  "start": 937.8,
+  "duration": 3.6,
+  "text": "can react to them.\" Now, he gives a"
+ },
+ {
+  "start": 939.8,
+  "duration": 3.0,
+  "text": "bunch of other ideas about how to work"
+ },
+ {
+  "start": 941.4,
+  "duration": 3.64,
+  "text": "with unknowns, and a lot of it"
+ },
+ {
+  "start": 942.8,
+  "duration": 5.04,
+  "text": "ultimately comes to a meta process where"
+ },
+ {
+  "start": 945.04,
+  "duration": 4.4,
+  "text": "you invite Fable in as a co-creator of"
+ },
+ {
+  "start": 947.84,
+  "duration": 2.96,
+  "text": "the process to get the most out of what"
+ },
+ {
+  "start": 949.44,
+  "duration": 3.44,
+  "text": "it can do."
+ },
+ {
+  "start": 950.8,
+  "duration": 4.56,
+  "text": "Now, Daniel Meisler thinks that even"
+ },
+ {
+  "start": 952.88,
+  "duration": 4.88,
+  "text": "beyond a single model like Fable 5, that"
+ },
+ {
+  "start": 955.36,
+  "duration": 4.32,
+  "text": "there are a set of prompts to rerun"
+ },
+ {
+  "start": 957.76,
+  "duration": 4.36,
+  "text": "every time a new state-of-the-art model"
+ },
+ {
+  "start": 959.68,
+  "duration": 4.36,
+  "text": "drops that can help you reorient your"
+ },
+ {
+  "start": 962.12,
+  "duration": 4.48,
+  "text": "experience to take most advantage of"
+ },
+ {
+  "start": 964.04,
+  "duration": 4.4,
+  "text": "that new model. He calls these tactical"
+ },
+ {
+  "start": 966.6,
+  "duration": 2.88,
+  "text": "meta prompts worth rerunning every time"
+ },
+ {
+  "start": 968.44,
+  "duration": 2.4,
+  "text": "there's a significant jump in"
+ },
+ {
+  "start": 969.48,
+  "duration": 3.08,
+  "text": "intelligence."
+ },
+ {
+  "start": 970.84,
+  "duration": 3.88,
+  "text": "The first category is around harness"
+ },
+ {
+  "start": 972.56,
+  "duration": 4.44,
+  "text": "optimization, and are all related to"
+ },
+ {
+  "start": 974.72,
+  "duration": 4.04,
+  "text": "improving your AI harness, i.e., the set"
+ },
+ {
+  "start": 977.0,
+  "duration": 3.4,
+  "text": "of resources and information around your"
+ },
+ {
+  "start": 978.76,
+  "duration": 2.72,
+  "text": "model to get the most out of the newest"
+ },
+ {
+  "start": 980.4,
+  "duration": 3.0,
+  "text": "version."
+ },
+ {
+  "start": 981.48,
+  "duration": 4.359,
+  "text": "One example he provides is the"
+ },
+ {
+  "start": 983.4,
+  "duration": 4.52,
+  "text": "self-model audit. \"Read everything my"
+ },
+ {
+  "start": 985.839,
+  "duration": 4.241,
+  "text": "harness believes about me, identity,"
+ },
+ {
+  "start": 987.92,
+  "duration": 3.36,
+  "text": "goals, voice, and preferences, and find"
+ },
+ {
+  "start": 990.08,
+  "duration": 3.08,
+  "text": "where it's modeling a version of me"
+ },
+ {
+  "start": 991.28,
+  "duration": 4.28,
+  "text": "that's stale, aspirational, or just"
+ },
+ {
+  "start": 993.16,
+  "duration": 4.12,
+  "text": "wrong. Compare what my files say I am"
+ },
+ {
+  "start": 995.56,
+  "duration": 3.56,
+  "text": "against what my recent behavior and work"
+ },
+ {
+  "start": 997.28,
+  "duration": 3.48,
+  "text": "actually reveal. Flag every place the"
+ },
+ {
+  "start": 999.12,
+  "duration": 3.84,
+  "text": "system is optimizing for who I said I"
+ },
+ {
+  "start": 1000.76,
+  "duration": 4.52,
+  "text": "was instead of who I am now, and propose"
+ },
+ {
+  "start": 1002.96,
+  "duration": 4.08,
+  "text": "the specific edits that close the gap.\""
+ },
+ {
+  "start": 1005.28,
+  "duration": 4.12,
+  "text": "Now, to some extent, this is just"
+ },
+ {
+  "start": 1007.04,
+  "duration": 4.88,
+  "text": "context hygiene. And what Daniel is"
+ },
+ {
+  "start": 1009.4,
+  "duration": 4.72,
+  "text": "really doing here is using the moment of"
+ },
+ {
+  "start": 1011.92,
+  "duration": 3.88,
+  "text": "a new model release to engage in that"
+ },
+ {
+  "start": 1014.12,
+  "duration": 2.84,
+  "text": "sort of context hygiene and make sure"
+ },
+ {
+  "start": 1015.8,
+  "duration": 2.88,
+  "text": "all of the information that you've"
+ },
+ {
+  "start": 1016.96,
+  "duration": 3.879,
+  "text": "surrounded your model with, things like"
+ },
+ {
+  "start": 1018.68,
+  "duration": 4.04,
+  "text": "your agents.md file, are actually"
+ },
+ {
+  "start": 1020.839,
+  "duration": 4.161,
+  "text": "reflective of the person and projects"
+ },
+ {
+  "start": 1022.72,
+  "duration": 3.76,
+  "text": "that you're bringing to that new model."
+ },
+ {
+  "start": 1025.0,
+  "duration": 4.04,
+  "text": "Daniel's also a fan of testing new"
+ },
+ {
+  "start": 1026.48,
+  "duration": 3.959,
+  "text": "models by going really, really big. He"
+ },
+ {
+  "start": 1029.04,
+  "duration": 2.68,
+  "text": "has a whole category of prompts that he"
+ },
+ {
+  "start": 1030.439,
+  "duration": 3.4,
+  "text": "calls overall life and work"
+ },
+ {
+  "start": 1031.72,
+  "duration": 3.52,
+  "text": "optimization, i.e., massive scope"
+ },
+ {
+  "start": 1033.839,
+  "duration": 2.841,
+  "text": "prompts that basically help you sort out"
+ },
+ {
+  "start": 1035.24,
+  "duration": 3.12,
+  "text": "your priorities, your projects, and come"
+ },
+ {
+  "start": 1036.68,
+  "duration": 3.24,
+  "text": "up with a plan for maximizing the next"
+ },
+ {
+  "start": 1038.36,
+  "duration": 3.8,
+  "text": "crucial few years."
+ },
+ {
+  "start": 1039.92,
+  "duration": 4.039,
+  "text": "One, he calls big picture, is a prompt"
+ },
+ {
+  "start": 1042.16,
+  "duration": 3.24,
+  "text": "like, \"Take a look at all my various"
+ },
+ {
+  "start": 1043.959,
+  "duration": 2.521,
+  "text": "projects in writing online, all the"
+ },
+ {
+  "start": 1045.4,
+  "duration": 2.24,
+  "text": "activities we've been doing in the"
+ },
+ {
+  "start": 1046.48,
+  "duration": 2.44,
+  "text": "harness, and everything you know about"
+ },
+ {
+  "start": 1047.64,
+  "duration": 2.36,
+  "text": "me from web search, and analyze it"
+ },
+ {
+  "start": 1048.92,
+  "duration": 2.24,
+  "text": "deeply."
+ },
+ {
+  "start": 1050.0,
+  "duration": 3.08,
+  "text": "Then look at what's going on in my"
+ },
+ {
+  "start": 1051.16,
+  "duration": 3.6,
+  "text": "field, in AI, and in society, and in the"
+ },
+ {
+  "start": 1053.08,
+  "duration": 3.4,
+  "text": "future in general, and tell me what"
+ },
+ {
+  "start": 1054.76,
+  "duration": 2.8,
+  "text": "solves the Japanese concept of ikigai"
+ },
+ {
+  "start": 1056.48,
+  "duration": 2.2,
+  "text": "for me."
+ },
+ {
+  "start": 1057.56,
+  "duration": 2.68,
+  "text": "What should I be working on that gives"
+ },
+ {
+  "start": 1058.68,
+  "duration": 3.32,
+  "text": "me fulfillment, but is also lucrative?"
+ },
+ {
+  "start": 1060.24,
+  "duration": 3.64,
+  "text": "Doing it for myself, with collaborators,"
+ },
+ {
+  "start": 1062.0,
+  "duration": 3.28,
+  "text": "or working for a corporation? Make"
+ },
+ {
+  "start": 1063.88,
+  "duration": 2.64,
+  "text": "concrete recommendations if you have"
+ },
+ {
+  "start": 1065.28,
+  "duration": 2.52,
+  "text": "them, and feel free to interview me for"
+ },
+ {
+  "start": 1066.52,
+  "duration": 3.16,
+  "text": "more context before creating the"
+ },
+ {
+  "start": 1067.8,
+  "duration": 3.16,
+  "text": "output.\" Now, I don't think that this is"
+ },
+ {
+  "start": 1069.68,
+  "duration": 3.12,
+  "text": "necessarily going to be everyone's cup"
+ },
+ {
+  "start": 1070.96,
+  "duration": 4.0,
+  "text": "of tea, but I do think that this sort of"
+ },
+ {
+  "start": 1072.8,
+  "duration": 3.4,
+  "text": "prompt is a great way, even if it's just"
+ },
+ {
+  "start": 1074.96,
+  "duration": 3.12,
+  "text": "for the sake of taking the vibe"
+ },
+ {
+  "start": 1076.2,
+  "duration": 3.16,
+  "text": "temperature of a model, to understand"
+ },
+ {
+  "start": 1078.08,
+  "duration": 2.6,
+  "text": "how it engages with these sorts of"
+ },
+ {
+  "start": 1079.36,
+  "duration": 3.16,
+  "text": "questions."
+ },
+ {
+  "start": 1080.68,
+  "duration": 2.96,
+  "text": "Another suggestion from Daniel, which is"
+ },
+ {
+  "start": 1082.52,
+  "duration": 3.24,
+  "text": "starting to come up more and more"
+ },
+ {
+  "start": 1083.64,
+  "duration": 3.52,
+  "text": "frequently, is to once again think in"
+ },
+ {
+  "start": 1085.76,
+  "duration": 3.0,
+  "text": "terms of loops."
+ },
+ {
+  "start": 1087.16,
+  "duration": 3.4,
+  "text": "Matt Schumer actually included this in"
+ },
+ {
+  "start": 1088.76,
+  "duration": 3.64,
+  "text": "his Fable 5 tips as well, with a"
+ },
+ {
+  "start": 1090.56,
+  "duration": 3.6,
+  "text": "recommendation he called loop it until"
+ },
+ {
+  "start": 1092.4,
+  "duration": 2.92,
+  "text": "it hits the bar, especially for creative"
+ },
+ {
+  "start": 1094.16,
+  "duration": 2.36,
+  "text": "tasks."
+ },
+ {
+  "start": 1095.32,
+  "duration": 3.28,
+  "text": "Now, for this you have to go back to"
+ },
+ {
+  "start": 1096.52,
+  "duration": 4.92,
+  "text": "Matt's previous recommendation to give"
+ },
+ {
+  "start": 1098.6,
+  "duration": 4.2,
+  "text": "Fable a real bar for done. Matt writes,"
+ },
+ {
+  "start": 1101.44,
+  "duration": 3.28,
+  "text": "\"If you tell Fable to make something"
+ },
+ {
+  "start": 1102.8,
+  "duration": 3.48,
+  "text": "high quality, it stops at its own idea"
+ },
+ {
+  "start": 1104.72,
+  "duration": 2.68,
+  "text": "of good enough, which is usually lower"
+ },
+ {
+  "start": 1106.28,
+  "duration": 3.16,
+  "text": "than yours."
+ },
+ {
+  "start": 1107.4,
+  "duration": 3.6,
+  "text": "So, I don't use adjectives. I give it a"
+ },
+ {
+  "start": 1109.44,
+  "duration": 3.84,
+  "text": "bar it can check itself against, and I"
+ },
+ {
+  "start": 1111.0,
+  "duration": 4.56,
+  "text": "make that bar hard. Sometimes I write"
+ },
+ {
+  "start": 1113.28,
+  "duration": 3.8,
+  "text": "the test myself, something concrete like"
+ },
+ {
+  "start": 1115.56,
+  "duration": 3.56,
+  "text": "a stranger can't tell a render from the"
+ },
+ {
+  "start": 1117.08,
+  "duration": 3.52,
+  "text": "real photo. Other times I don't even"
+ },
+ {
+  "start": 1119.12,
+  "duration": 3.76,
+  "text": "know how to measure the thing I want, so"
+ },
+ {
+  "start": 1120.6,
+  "duration": 4.28,
+  "text": "I hand that problem to Fable, too.\" Now,"
+ },
+ {
+  "start": 1122.88,
+  "duration": 3.68,
+  "text": "Matt continues, \"Once there's a bar, I"
+ },
+ {
+  "start": 1124.88,
+  "duration": 4.12,
+  "text": "put Fable on a loop against it, and let"
+ },
+ {
+  "start": 1126.56,
+  "duration": 3.84,
+  "text": "it go. It builds, checks itself, finds"
+ },
+ {
+  "start": 1129.0,
+  "duration": 3.24,
+  "text": "the biggest gap, closes it, and goes"
+ },
+ {
+  "start": 1130.4,
+  "duration": 2.92,
+  "text": "again.\" Matt says that he uses the"
+ },
+ {
+  "start": 1132.24,
+  "duration": 3.16,
+  "text": "{slash} loop command for this"
+ },
+ {
+  "start": 1133.32,
+  "duration": 3.36,
+  "text": "constantly, especially on creative work,"
+ },
+ {
+  "start": 1135.4,
+  "duration": 2.76,
+  "text": "where there's always something concrete"
+ },
+ {
+  "start": 1136.68,
+  "duration": 3.28,
+  "text": "to keep measuring against until it's"
+ },
+ {
+  "start": 1138.16,
+  "duration": 3.4,
+  "text": "actually there. Importantly, Matt"
+ },
+ {
+  "start": 1139.96,
+  "duration": 3.12,
+  "text": "writes, \"The whole point of the loop is"
+ },
+ {
+  "start": 1141.56,
+  "duration": 4.08,
+  "text": "that Fable never gets to decide it's"
+ },
+ {
+  "start": 1143.08,
+  "duration": 4.32,
+  "text": "finished. There's always a next gap. It"
+ },
+ {
+  "start": 1145.64,
+  "duration": 3.56,
+  "text": "stops when I say it's done, or when it"
+ },
+ {
+  "start": 1147.4,
+  "duration": 3.4,
+  "text": "genuinely can't find anything left to"
+ },
+ {
+  "start": 1149.2,
+  "duration": 2.88,
+  "text": "fix, which is rare if you've set this up"
+ },
+ {
+  "start": 1150.8,
+  "duration": 2.48,
+  "text": "right.\""
+ },
+ {
+  "start": 1152.08,
+  "duration": 2.56,
+  "text": "Now, at some point we'll do a show"
+ },
+ {
+  "start": 1153.28,
+  "duration": 3.28,
+  "text": "entirely about some of these loop"
+ },
+ {
+  "start": 1154.64,
+  "duration": 3.68,
+  "text": "strategies, but I did want to share just"
+ },
+ {
+  "start": 1156.56,
+  "duration": 3.24,
+  "text": "a couple notes from a Claude Devs post"
+ },
+ {
+  "start": 1158.32,
+  "duration": 3.52,
+  "text": "recently about getting started with"
+ },
+ {
+  "start": 1159.8,
+  "duration": 3.88,
+  "text": "loops, where they break loops apart into"
+ },
+ {
+  "start": 1161.84,
+  "duration": 3.16,
+  "text": "a set of different categories that I"
+ },
+ {
+  "start": 1163.68,
+  "duration": 3.04,
+  "text": "think are useful in helping understand"
+ },
+ {
+  "start": 1165.0,
+  "duration": 3.48,
+  "text": "the concept at core."
+ },
+ {
+  "start": 1166.72,
+  "duration": 3.96,
+  "text": "Turn-based loops are the first type."
+ },
+ {
+  "start": 1168.48,
+  "duration": 4.04,
+  "text": "They are triggered by a user prompt, and"
+ },
+ {
+  "start": 1170.68,
+  "duration": 3.56,
+  "text": "they stop when Claude judges that it has"
+ },
+ {
+  "start": 1172.52,
+  "duration": 4.24,
+  "text": "completed the task or needs additional"
+ },
+ {
+  "start": 1174.24,
+  "duration": 4.0,
+  "text": "context. Turn-based loops are best for"
+ },
+ {
+  "start": 1176.76,
+  "duration": 3.48,
+  "text": "shorter tasks that are not part of a"
+ },
+ {
+  "start": 1178.24,
+  "duration": 3.4,
+  "text": "regular process or schedule. Every"
+ },
+ {
+  "start": 1180.24,
+  "duration": 2.96,
+  "text": "prompt you send, they write, starts a"
+ },
+ {
+  "start": 1181.64,
+  "duration": 3.6,
+  "text": "manual loop with you directing each"
+ },
+ {
+  "start": 1183.2,
+  "duration": 3.6,
+  "text": "turn. Claude gathers context, takes"
+ },
+ {
+  "start": 1185.24,
+  "duration": 3.2,
+  "text": "actions, checks its work, repeats if"
+ },
+ {
+  "start": 1186.8,
+  "duration": 3.48,
+  "text": "needed, and responds."
+ },
+ {
+  "start": 1188.44,
+  "duration": 3.52,
+  "text": "For example, they say, \"Ask Claude to"
+ },
+ {
+  "start": 1190.28,
+  "duration": 3.68,
+  "text": "create a like button.\" It reads your"
+ },
+ {
+  "start": 1191.96,
+  "duration": 3.48,
+  "text": "code, makes the edit, runs the tests,"
+ },
+ {
+  "start": 1193.96,
+  "duration": 3.6,
+  "text": "and hands back something it believes"
+ },
+ {
+  "start": 1195.44,
+  "duration": 3.8,
+  "text": "works. You then manually check the work"
+ },
+ {
+  "start": 1197.56,
+  "duration": 3.08,
+  "text": "and write the next prompt. You can"
+ },
+ {
+  "start": 1199.24,
+  "duration": 2.88,
+  "text": "improve the verification step by"
+ },
+ {
+  "start": 1200.64,
+  "duration": 3.4,
+  "text": "encoding your manual steps as a"
+ },
+ {
+  "start": 1202.12,
+  "duration": 3.8,
+  "text": "skill.md, so Claude can check more of"
+ },
+ {
+  "start": 1204.04,
+  "duration": 3.84,
+  "text": "its own work end-to-end."
+ },
+ {
+  "start": 1205.92,
+  "duration": 3.6,
+  "text": "Contrast that with a goal-based loop,"
+ },
+ {
+  "start": 1207.88,
+  "duration": 3.76,
+  "text": "which is triggered by a manual prompt in"
+ },
+ {
+  "start": 1209.52,
+  "duration": 4.0,
+  "text": "real time, where the stop criteria is"
+ },
+ {
+  "start": 1211.64,
+  "duration": 3.84,
+  "text": "the goal being achieved or the maximum"
+ },
+ {
+  "start": 1213.52,
+  "duration": 3.52,
+  "text": "number of turns being reached. This,"
+ },
+ {
+  "start": 1215.48,
+  "duration": 3.8,
+  "text": "they say, is best used for tasks that"
+ },
+ {
+  "start": 1217.04,
+  "duration": 4.64,
+  "text": "have verifiable exit criteria, and is"
+ },
+ {
+  "start": 1219.28,
+  "duration": 3.8,
+  "text": "useful when a single turn is not enough."
+ },
+ {
+  "start": 1221.68,
+  "duration": 3.04,
+  "text": "Agents do better, they write, when they"
+ },
+ {
+  "start": 1223.08,
+  "duration": 3.4,
+  "text": "can iterate, and when you define the"
+ },
+ {
+  "start": 1224.72,
+  "duration": 3.28,
+  "text": "success criteria, they say, Claude"
+ },
+ {
+  "start": 1226.48,
+  "duration": 2.72,
+  "text": "doesn't have to make a determination on"
+ },
+ {
+  "start": 1228.0,
+  "duration": 3.48,
+  "text": "what is good enough and end the loop"
+ },
+ {
+  "start": 1229.2,
+  "duration": 3.92,
+  "text": "early. Each time Claude tries to stop,"
+ },
+ {
+  "start": 1231.48,
+  "duration": 3.04,
+  "text": "an evaluator model checks your condition"
+ },
+ {
+  "start": 1233.12,
+  "duration": 3.32,
+  "text": "and sends it back to work until the goal"
+ },
+ {
+  "start": 1234.52,
+  "duration": 3.12,
+  "text": "is met or a number of turns you define"
+ },
+ {
+  "start": 1236.44,
+  "duration": 2.6,
+  "text": "is reached."
+ },
+ {
+  "start": 1237.64,
+  "duration": 2.96,
+  "text": "A time-based loop is triggered by a"
+ },
+ {
+  "start": 1239.04,
+  "duration": 3.2,
+  "text": "specific time interval that can be"
+ },
+ {
+  "start": 1240.6,
+  "duration": 3.44,
+  "text": "stopped when the user cancels it or when"
+ },
+ {
+  "start": 1242.24,
+  "duration": 3.12,
+  "text": "the work completes, and this is going to"
+ },
+ {
+  "start": 1244.04,
+  "duration": 2.28,
+  "text": "be useful for things like recurring"
+ },
+ {
+  "start": 1245.36,
+  "duration": 2.32,
+  "text": "work."
+ },
+ {
+  "start": 1246.32,
+  "duration": 2.84,
+  "text": "Proactive loops, on the other hand, are"
+ },
+ {
+  "start": 1247.68,
+  "duration": 3.44,
+  "text": "those that are triggered by an event or"
+ },
+ {
+  "start": 1249.16,
+  "duration": 4.0,
+  "text": "schedule, and don't require a human in"
+ },
+ {
+  "start": 1251.12,
+  "duration": 4.0,
+  "text": "real time to set them going. The stop"
+ },
+ {
+  "start": 1253.16,
+  "duration": 3.72,
+  "text": "criteria is, once again, when a specific"
+ },
+ {
+  "start": 1255.12,
+  "duration": 3.72,
+  "text": "goal is met, with the routine running"
+ },
+ {
+  "start": 1256.88,
+  "duration": 3.12,
+  "text": "itself until you turn it off."
+ },
+ {
+  "start": 1258.84,
+  "duration": 2.72,
+  "text": "Now, a lot of what we'll be exploring"
+ },
+ {
+  "start": 1260.0,
+  "duration": 3.28,
+  "text": "over the next few months is how to bring"
+ },
+ {
+  "start": 1261.56,
+  "duration": 3.36,
+  "text": "this sort of loop-based interaction"
+ },
+ {
+  "start": 1263.28,
+  "duration": 3.52,
+  "text": "outside of the realm of coding and into"
+ },
+ {
+  "start": 1264.92,
+  "duration": 3.04,
+  "text": "more creative and knowledge work."
+ },
+ {
+  "start": 1266.8,
+  "duration": 2.76,
+  "text": "Even though we're not getting deeper"
+ },
+ {
+  "start": 1267.96,
+  "duration": 2.96,
+  "text": "than that when it comes to loops, the"
+ },
+ {
+  "start": 1269.56,
+  "duration": 3.04,
+  "text": "reason it's worth mentioning them at the"
+ },
+ {
+  "start": 1270.92,
+  "duration": 3.52,
+  "text": "end of this particular episode is that"
+ },
+ {
+  "start": 1272.6,
+  "duration": 4.8,
+  "text": "the big theme and takeaway of all of"
+ },
+ {
+  "start": 1274.44,
+  "duration": 5.08,
+  "text": "these recommendations is two part. At a"
+ },
+ {
+  "start": 1277.4,
+  "duration": 3.72,
+  "text": "simplest level, they're all reminders"
+ },
+ {
+  "start": 1279.52,
+  "duration": 2.96,
+  "text": "that every time we get a new model,"
+ },
+ {
+  "start": 1281.12,
+  "duration": 3.92,
+  "text": "especially when those new models"
+ },
+ {
+  "start": 1282.48,
+  "duration": 4.08,
+  "text": "represent a big jump in intelligence, we"
+ },
+ {
+  "start": 1285.04,
+  "duration": 3.8,
+  "text": "need to do the hard, sometimes"
+ },
+ {
+  "start": 1286.56,
+  "duration": 4.4,
+  "text": "time-consuming work of going through and"
+ },
+ {
+  "start": 1288.84,
+  "duration": 3.68,
+  "text": "trying everything and figuring out where"
+ },
+ {
+  "start": 1290.96,
+  "duration": 3.56,
+  "text": "the ways that we prompted and interacted"
+ },
+ {
+  "start": 1292.52,
+  "duration": 3.28,
+  "text": "with the old models either no longer get"
+ },
+ {
+  "start": 1294.52,
+  "duration": 3.76,
+  "text": "the most out of the new models or"
+ },
+ {
+  "start": 1295.8,
+  "duration": 3.8,
+  "text": "actively harm them. But secondly, and"
+ },
+ {
+  "start": 1298.28,
+  "duration": 3.16,
+  "text": "perhaps in the long run even more"
+ },
+ {
+  "start": 1299.6,
+  "duration": 3.92,
+  "text": "importantly, we need to figure out the"
+ },
+ {
+  "start": 1301.44,
+  "duration": 4.0,
+  "text": "new techniques which actually unlock the"
+ },
+ {
+  "start": 1303.52,
+  "duration": 4.28,
+  "text": "differentiated capabilities of that jump"
+ },
+ {
+  "start": 1305.44,
+  "duration": 4.08,
+  "text": "in intelligence. And many times those"
+ },
+ {
+  "start": 1307.8,
+  "duration": 3.76,
+  "text": "things aren't just going to be prompting"
+ },
+ {
+  "start": 1309.52,
+  "duration": 4.6,
+  "text": "tips, but totally new interaction"
+ },
+ {
+  "start": 1311.56,
+  "duration": 4.08,
+  "text": "patterns like these loops represent."
+ },
+ {
+  "start": 1314.12,
+  "duration": 3.76,
+  "text": "If there is one takeaway from all of"
+ },
+ {
+  "start": 1315.64,
+  "duration": 5.04,
+  "text": "these pieces, it is to ratchet up one's"
+ },
+ {
+  "start": 1317.88,
+  "duration": 4.88,
+  "text": "ambition and almost to assume no limits"
+ },
+ {
+  "start": 1320.68,
+  "duration": 3.88,
+  "text": "on what the newest model can do, so that"
+ },
+ {
+  "start": 1322.76,
+  "duration": 3.48,
+  "text": "by trying the biggest, most challenging"
+ },
+ {
+  "start": 1324.56,
+  "duration": 3.36,
+  "text": "things you can think of, you can"
+ },
+ {
+  "start": 1326.24,
+  "duration": 3.08,
+  "text": "actually figure out what those limits"
+ },
+ {
+  "start": 1327.92,
+  "duration": 2.68,
+  "text": "are once they inevitably reveal"
+ },
+ {
+  "start": 1329.32,
+  "duration": 2.72,
+  "text": "themselves."
+ },
+ {
+  "start": 1330.6,
+  "duration": 3.4,
+  "text": "The first layer of this work is always"
+ },
+ {
+  "start": 1332.04,
+  "duration": 3.44,
+  "text": "going to happen on an individual level,"
+ },
+ {
+  "start": 1334.0,
+  "duration": 3.84,
+  "text": "but I think that there is an analogy for"
+ },
+ {
+  "start": 1335.48,
+  "duration": 4.4,
+  "text": "organizations here as well. It is so"
+ },
+ {
+  "start": 1337.84,
+  "duration": 5.0,
+  "text": "easy, especially in a business or work"
+ },
+ {
+  "start": 1339.88,
+  "duration": 5.16,
+  "text": "context, to default to using AI for the"
+ },
+ {
+  "start": 1342.84,
+  "duration": 3.56,
+  "text": "things that we're already using AI for,"
+ },
+ {
+  "start": 1345.04,
+  "duration": 3.0,
+  "text": "the places where we've already found"
+ },
+ {
+  "start": 1346.4,
+  "duration": 3.64,
+  "text": "value, the type of work that we already"
+ },
+ {
+  "start": 1348.04,
+  "duration": 3.52,
+  "text": "do, and to view AI as just a way to do"
+ },
+ {
+  "start": 1350.04,
+  "duration": 2.76,
+  "text": "it faster or cheaper or maybe a little"
+ },
+ {
+  "start": 1351.56,
+  "duration": 3.44,
+  "text": "bit better."
+ },
+ {
+  "start": 1352.8,
+  "duration": 3.8,
+  "text": "But ultimately to do that same work."
+ },
+ {
+  "start": 1355.0,
+  "duration": 3.48,
+  "text": "The unlock, of course, is a new"
+ },
+ {
+  "start": 1356.6,
+  "duration": 3.4,
+  "text": "relationship with work and even"
+ },
+ {
+  "start": 1358.48,
+  "duration": 3.2,
+  "text": "unlocking new categories of work that"
+ },
+ {
+  "start": 1360.0,
+  "duration": 3.32,
+  "text": "weren't possible before."
+ },
+ {
+  "start": 1361.68,
+  "duration": 3.28,
+  "text": "Figuring out how to do that is a lot"
+ },
+ {
+  "start": 1363.32,
+  "duration": 2.72,
+  "text": "less simple, but it's also really"
+ },
+ {
+  "start": 1364.96,
+  "duration": 2.16,
+  "text": "exciting."
+ },
+ {
+  "start": 1366.04,
+  "duration": 2.96,
+  "text": "Hopefully some of the tips you've heard"
+ },
+ {
+  "start": 1367.12,
+  "duration": 3.48,
+  "text": "today give you tools you can use across"
+ },
+ {
+  "start": 1369.0,
+  "duration": 3.0,
+  "text": "that full spectrum of work, and"
+ },
+ {
+  "start": 1370.6,
+  "duration": 2.8,
+  "text": "hopefully they're still useful about 5"
+ },
+ {
+  "start": 1372.0,
+  "duration": 3.12,
+  "text": "minutes from now when we get the next"
+ },
+ {
+  "start": 1373.4,
+  "duration": 3.12,
+  "text": "model leap. For now, that's going to do"
+ },
+ {
+  "start": 1375.12,
+  "duration": 2.92,
+  "text": "it for today's AI Daily Brief."
+ },
+ {
+  "start": 1376.52,
+  "duration": 5.68,
+  "text": "Appreciate you listening or watching, as"
+ },
+ {
+  "start": 1378.04,
+  "duration": 4.16,
+  "text": "always, and until next time, peace."
+ }
+]

@@ -1,0 +1,3767 @@
+[
+ {
+  "start": 0.0,
+  "duration": 3.56,
+  "text": "Today we are playing around with the"
+ },
+ {
+  "start": 1.6,
+  "duration": 3.84,
+  "text": "just released Claude design and talking"
+ },
+ {
+  "start": 3.56,
+  "duration": 3.52,
+  "text": "about the best use cases, tips and"
+ },
+ {
+  "start": 5.44,
+  "duration": 4.4,
+  "text": "tricks, what not to do, and where it"
+ },
+ {
+  "start": 7.08,
+  "duration": 4.84,
+  "text": "sits relative to other design tools."
+ },
+ {
+  "start": 9.84,
+  "duration": 3.72,
+  "text": "Welcome back to the AI Daily Brief. We"
+ },
+ {
+  "start": 11.92,
+  "duration": 5.12,
+  "text": "are officially at the point where there"
+ },
+ {
+  "start": 13.56,
+  "duration": 5.36,
+  "text": "is so much being released that a major"
+ },
+ {
+  "start": 17.04,
+  "duration": 3.96,
+  "text": "feature, the type of thing that as we"
+ },
+ {
+  "start": 18.92,
+  "duration": 4.92,
+  "text": "will see has the power to literally move"
+ },
+ {
+  "start": 21.0,
+  "duration": 4.6,
+  "text": "markets, was released on a Friday in the"
+ },
+ {
+  "start": 23.84,
+  "duration": 3.08,
+  "text": "middle of the day, not even first thing"
+ },
+ {
+  "start": 25.6,
+  "duration": 2.84,
+  "text": "in the morning."
+ },
+ {
+  "start": 26.92,
+  "duration": 3.68,
+  "text": "I'm talking of course about Claude"
+ },
+ {
+  "start": 28.44,
+  "duration": 5.36,
+  "text": "design, which comes just today after we"
+ },
+ {
+  "start": 30.6,
+  "duration": 4.4,
+  "text": "got Claude Opus 4.7. Now, design is"
+ },
+ {
+  "start": 33.8,
+  "duration": 3.24,
+  "text": "pretty much what you would imagine a"
+ },
+ {
+  "start": 35.0,
+  "duration": 3.72,
+  "text": "design tool from Claude to be. And it's"
+ },
+ {
+  "start": 37.04,
+  "duration": 4.4,
+  "text": "important to note that a lot of this is"
+ },
+ {
+  "start": 38.72,
+  "duration": 5.08,
+  "text": "not some entirely net new functionality,"
+ },
+ {
+  "start": 41.44,
+  "duration": 4.68,
+  "text": "it's a new wrapper around design with"
+ },
+ {
+  "start": 43.8,
+  "duration": 4.44,
+  "text": "some pretty significant UI upgrades for"
+ },
+ {
+  "start": 46.12,
+  "duration": 4.44,
+  "text": "the design experience."
+ },
+ {
+  "start": 48.24,
+  "duration": 4.6,
+  "text": "In sharing design, Anthropic points to a"
+ },
+ {
+  "start": 50.56,
+  "duration": 3.8,
+  "text": "few different use cases. First of all,"
+ },
+ {
+  "start": 52.84,
+  "duration": 3.92,
+  "text": "one of the big value propositions they"
+ },
+ {
+  "start": 54.36,
+  "duration": 4.24,
+  "text": "discuss is the ability to explore"
+ },
+ {
+  "start": 56.76,
+  "duration": 4.32,
+  "text": "concepts more broadly before committing"
+ },
+ {
+  "start": 58.6,
+  "duration": 4.6,
+  "text": "to a direction. They call it rationing"
+ },
+ {
+  "start": 61.08,
+  "duration": 3.52,
+  "text": "exploration and point out that basically"
+ },
+ {
+  "start": 63.2,
+  "duration": 2.8,
+  "text": "no one has the time to actually"
+ },
+ {
+  "start": 64.6,
+  "duration": 3.32,
+  "text": "prototype a variety of different"
+ },
+ {
+  "start": 66.0,
+  "duration": 3.28,
+  "text": "directions for exploration, so you"
+ },
+ {
+  "start": 67.92,
+  "duration": 3.04,
+  "text": "pretty much have to commit to a design"
+ },
+ {
+  "start": 69.28,
+  "duration": 3.96,
+  "text": "system from the beginning before you"
+ },
+ {
+  "start": 70.96,
+  "duration": 4.32,
+  "text": "actually dive all the way in. A gentic"
+ },
+ {
+  "start": 73.24,
+  "duration": 3.84,
+  "text": "design dispenses with that constraint."
+ },
+ {
+  "start": 75.28,
+  "duration": 3.0,
+  "text": "And the interaction that it proposes is"
+ },
+ {
+  "start": 77.08,
+  "duration": 3.32,
+  "text": "that you prompted to build a first"
+ },
+ {
+  "start": 78.28,
+  "duration": 3.76,
+  "text": "version or versions. As you'll see as we"
+ },
+ {
+  "start": 80.4,
+  "duration": 3.32,
+  "text": "walk through the process, you can get"
+ },
+ {
+  "start": 82.04,
+  "duration": 3.24,
+  "text": "specific with Claude design about how"
+ },
+ {
+  "start": 83.72,
+  "duration": 3.36,
+  "text": "wide a variety of options you want it to"
+ },
+ {
+  "start": 85.28,
+  "duration": 3.48,
+  "text": "explore, and then from there you refine"
+ },
+ {
+  "start": 87.08,
+  "duration": 3.72,
+  "text": "it. Now, what's interesting about the"
+ },
+ {
+  "start": 88.76,
+  "duration": 3.68,
+  "text": "user experience here is that pretty much"
+ },
+ {
+  "start": 90.8,
+  "duration": 3.04,
+  "text": "every way you could think of to refine"
+ },
+ {
+  "start": 92.44,
+  "duration": 3.64,
+  "text": "the design is available in this"
+ },
+ {
+  "start": 93.84,
+  "duration": 3.48,
+  "text": "interface. You can use natural language"
+ },
+ {
+  "start": 96.08,
+  "duration": 3.36,
+  "text": "inputs to describe what you want to"
+ },
+ {
+  "start": 97.32,
+  "duration": 4.44,
+  "text": "change. You can use inline comments. You"
+ },
+ {
+  "start": 99.44,
+  "duration": 3.36,
+  "text": "can direct edit on the canvas. And"
+ },
+ {
+  "start": 101.76,
+  "duration": 2.56,
+  "text": "there's a feature that a lot of people"
+ },
+ {
+  "start": 102.8,
+  "duration": 3.68,
+  "text": "are really excited about that are these"
+ },
+ {
+  "start": 104.32,
+  "duration": 3.52,
+  "text": "custom sliders that allow you to drag"
+ },
+ {
+  "start": 106.48,
+  "duration": 3.08,
+  "text": "from one end of the spectrum to another"
+ },
+ {
+  "start": 107.84,
+  "duration": 4.32,
+  "text": "for a particular design element such as"
+ },
+ {
+  "start": 109.56,
+  "duration": 4.4,
+  "text": "a font, a color, a shading, etc. Early"
+ },
+ {
+  "start": 112.16,
+  "duration": 3.36,
+  "text": "testers Anthropic said, \"We're using"
+ },
+ {
+  "start": 113.96,
+  "duration": 3.16,
+  "text": "Claude design for things like realistic"
+ },
+ {
+  "start": 115.52,
+  "duration": 3.8,
+  "text": "prototypes, product wireframes and"
+ },
+ {
+  "start": 117.12,
+  "duration": 3.76,
+  "text": "mockups, design explorations, pitch"
+ },
+ {
+  "start": 119.32,
+  "duration": 3.6,
+  "text": "decks and presentations, marketing"
+ },
+ {
+  "start": 120.88,
+  "duration": 3.84,
+  "text": "collateral, and frontier design."
+ },
+ {
+  "start": 122.92,
+  "duration": 3.16,
+  "text": "Basically future-oriented things that"
+ },
+ {
+  "start": 124.72,
+  "duration": 3.24,
+  "text": "don't necessarily have a reason for"
+ },
+ {
+  "start": 126.08,
+  "duration": 3.84,
+  "text": "being quite yet, but which could prompt"
+ },
+ {
+  "start": 127.96,
+  "duration": 4.52,
+  "text": "the next generation of building.\""
+ },
+ {
+  "start": 129.92,
+  "duration": 4.6,
+  "text": "So, two key subtexts in that set of"
+ },
+ {
+  "start": 132.48,
+  "duration": 3.56,
+  "text": "things that Anthropic says this is for"
+ },
+ {
+  "start": 134.52,
+  "duration": 3.4,
+  "text": "one, there's clearly a bunch of things"
+ },
+ {
+  "start": 136.04,
+  "duration": 3.8,
+  "text": "for non-design knowledge workers, pitch"
+ },
+ {
+  "start": 137.92,
+  "duration": 3.76,
+  "text": "decks and presentations, i.e. the core"
+ },
+ {
+  "start": 139.84,
+  "duration": 3.6,
+  "text": "default asset of most knowledge work,"
+ },
+ {
+  "start": 141.68,
+  "duration": 3.28,
+  "text": "and marketing collateral as a specific"
+ },
+ {
+  "start": 143.44,
+  "duration": 2.76,
+  "text": "group that has to interact with design a"
+ },
+ {
+  "start": 144.96,
+  "duration": 3.16,
+  "text": "lot, but who are not themselves"
+ },
+ {
+  "start": 146.2,
+  "duration": 4.04,
+  "text": "necessarily designers."
+ },
+ {
+  "start": 148.12,
+  "duration": 4.0,
+  "text": "Secondly, though, the other sub theme"
+ },
+ {
+  "start": 150.24,
+  "duration": 3.68,
+  "text": "that's clear is that at least right now"
+ },
+ {
+  "start": 152.12,
+  "duration": 4.44,
+  "text": "they are not trying to pitch this as the"
+ },
+ {
+  "start": 153.92,
+  "duration": 4.2,
+  "text": "full end product. That's in contrast to"
+ },
+ {
+  "start": 156.56,
+  "duration": 3.56,
+  "text": "something like Claude code, where"
+ },
+ {
+  "start": 158.12,
+  "duration": 3.2,
+  "text": "Anthropic is in no way at this point"
+ },
+ {
+  "start": 160.12,
+  "duration": 3.36,
+  "text": "saying just use this to build your"
+ },
+ {
+  "start": 161.32,
+  "duration": 3.4,
+  "text": "prototypes or your vibe coded tests, and"
+ },
+ {
+  "start": 163.48,
+  "duration": 3.76,
+  "text": "then you can go back to hand for the"
+ },
+ {
+  "start": 164.72,
+  "duration": 4.4,
+  "text": "final version. Claude code and Codex, by"
+ },
+ {
+  "start": 167.24,
+  "duration": 3.88,
+  "text": "the way, and every agentic coding tool"
+ },
+ {
+  "start": 169.12,
+  "duration": 3.32,
+  "text": "is pitching you on the full experience."
+ },
+ {
+  "start": 171.12,
+  "duration": 2.64,
+  "text": "And yet again, here when it comes to"
+ },
+ {
+  "start": 172.44,
+  "duration": 3.16,
+  "text": "Claude design, they're talking about"
+ },
+ {
+  "start": 173.76,
+  "duration": 4.2,
+  "text": "realistic prototypes, product wireframes"
+ },
+ {
+  "start": 175.6,
+  "duration": 4.52,
+  "text": "and mockups, and design explorations."
+ },
+ {
+  "start": 177.96,
+  "duration": 4.04,
+  "text": "I don't know to what extent that is one,"
+ },
+ {
+  "start": 180.12,
+  "duration": 3.64,
+  "text": "them not having as much confidence quite"
+ },
+ {
+  "start": 182.0,
+  "duration": 4.28,
+  "text": "yet in the design product as opposed to"
+ },
+ {
+  "start": 183.76,
+  "duration": 4.0,
+  "text": "the coding product, or two, a blow"
+ },
+ {
+  "start": 186.28,
+  "duration": 3.76,
+  "text": "softener to other design tools in the"
+ },
+ {
+  "start": 187.76,
+  "duration": 3.44,
+  "text": "field. One of the signals that we had in"
+ },
+ {
+  "start": 190.04,
+  "duration": 2.6,
+  "text": "advance of the announcement of Claude"
+ },
+ {
+  "start": 191.2,
+  "duration": 2.96,
+  "text": "design that something was coming was"
+ },
+ {
+  "start": 192.64,
+  "duration": 3.12,
+  "text": "that Anthropic's chief product officer,"
+ },
+ {
+  "start": 194.16,
+  "duration": 3.28,
+  "text": "Mike Krieger, had resigned from the"
+ },
+ {
+  "start": 195.76,
+  "duration": 3.08,
+  "text": "board of Figma earlier in the week,"
+ },
+ {
+  "start": 197.44,
+  "duration": 3.6,
+  "text": "presumably because they were going to"
+ },
+ {
+  "start": 198.84,
+  "duration": 3.68,
+  "text": "release something competing soon. That"
+ },
+ {
+  "start": 201.04,
+  "duration": 3.44,
+  "text": "also, by the way, might explain why they"
+ },
+ {
+  "start": 202.52,
+  "duration": 2.88,
+  "text": "chose to release this on Friday. It"
+ },
+ {
+  "start": 204.48,
+  "duration": 2.64,
+  "text": "could have been something of a"
+ },
+ {
+  "start": 205.4,
+  "duration": 3.48,
+  "text": "magnanimous act to try to soften the"
+ },
+ {
+  "start": 207.12,
+  "duration": 3.28,
+  "text": "blow. That might be overthinking it, but"
+ },
+ {
+  "start": 208.88,
+  "duration": 3.56,
+  "text": "it does feel like these companies have a"
+ },
+ {
+  "start": 210.4,
+  "duration": 4.0,
+  "text": "good relationship, and while the meme is"
+ },
+ {
+  "start": 212.44,
+  "duration": 3.88,
+  "text": "Anthropic trying to destroy everyone, it"
+ },
+ {
+  "start": 214.4,
+  "duration": 3.92,
+  "text": "feels less like an intentional effort to"
+ },
+ {
+  "start": 216.32,
+  "duration": 3.24,
+  "text": "disrupt existing players and more just a"
+ },
+ {
+  "start": 218.32,
+  "duration": 2.24,
+  "text": "matter of they're going to build what"
+ },
+ {
+  "start": 219.56,
+  "duration": 3.32,
+  "text": "they're going to build, and if you're in"
+ },
+ {
+  "start": 220.56,
+  "duration": 3.8,
+  "text": "the way, well, that's kind of on you."
+ },
+ {
+  "start": 222.88,
+  "duration": 2.68,
+  "text": "Now, going back to the announcement,"
+ },
+ {
+  "start": 224.36,
+  "duration": 2.72,
+  "text": "another thing that stands out is that"
+ },
+ {
+  "start": 225.56,
+  "duration": 3.56,
+  "text": "they very clearly want this to be"
+ },
+ {
+  "start": 227.08,
+  "duration": 4.04,
+  "text": "integrated into your overall company"
+ },
+ {
+  "start": 229.12,
+  "duration": 3.48,
+  "text": "experience. They spend a lot of time"
+ },
+ {
+  "start": 231.12,
+  "duration": 3.36,
+  "text": "emphasizing that it can ingest your"
+ },
+ {
+  "start": 232.6,
+  "duration": 3.2,
+  "text": "brand's design system. They highlight"
+ },
+ {
+  "start": 234.48,
+  "duration": 3.16,
+  "text": "that you don't just have to start with a"
+ },
+ {
+  "start": 235.8,
+  "duration": 3.56,
+  "text": "text prompt, you can also upload images"
+ },
+ {
+  "start": 237.64,
+  "duration": 3.52,
+  "text": "or documents or even point it at your"
+ },
+ {
+  "start": 239.36,
+  "duration": 3.28,
+  "text": "codebase. And then there are a bunch of"
+ },
+ {
+  "start": 241.16,
+  "duration": 3.4,
+  "text": "tools for making sure that whatever you"
+ },
+ {
+  "start": 242.64,
+  "duration": 3.4,
+  "text": "produce can get to where it needs to go"
+ },
+ {
+  "start": 244.56,
+  "duration": 3.36,
+  "text": "next, whether that's collaborating with"
+ },
+ {
+  "start": 246.04,
+  "duration": 3.84,
+  "text": "someone else on your team, exporting it"
+ },
+ {
+  "start": 247.92,
+  "duration": 4.24,
+  "text": "to a different type of artifact, or"
+ },
+ {
+  "start": 249.88,
+  "duration": 4.32,
+  "text": "handing it off to Claude code."
+ },
+ {
+  "start": 252.16,
+  "duration": 3.44,
+  "text": "Now, the launch of Claude design gives"
+ },
+ {
+  "start": 254.2,
+  "duration": 2.92,
+  "text": "more fodder for two broader"
+ },
+ {
+  "start": 255.6,
+  "duration": 4.04,
+  "text": "conversations surrounding Anthropic"
+ },
+ {
+  "start": 257.12,
+  "duration": 4.04,
+  "text": "right now. One is what is the full suite"
+ },
+ {
+  "start": 259.64,
+  "duration": 4.28,
+  "text": "of companies that is going to get in the"
+ },
+ {
+  "start": 261.16,
+  "duration": 4.6,
+  "text": "way and be disrupted by Claude, but then"
+ },
+ {
+  "start": 263.92,
+  "duration": 4.36,
+  "text": "secondly, zooming out and going even"
+ },
+ {
+  "start": 265.76,
+  "duration": 4.28,
+  "text": "more broad in terms of the impact of AI"
+ },
+ {
+  "start": 268.28,
+  "duration": 4.44,
+  "text": "on the broader job space, there is the"
+ },
+ {
+  "start": 270.04,
+  "duration": 4.52,
+  "text": "question of how much the experience of"
+ },
+ {
+  "start": 272.72,
+  "duration": 4.16,
+  "text": "AI's disruption and transformation of"
+ },
+ {
+  "start": 274.56,
+  "duration": 4.36,
+  "text": "coding is likely to set a pattern for"
+ },
+ {
+  "start": 276.88,
+  "duration": 2.96,
+  "text": "how AI disrupts other areas of knowledge"
+ },
+ {
+  "start": 278.92,
+  "duration": 2.64,
+  "text": "work."
+ },
+ {
+  "start": 279.84,
+  "duration": 3.28,
+  "text": "Basically, we've gone from vibe coding"
+ },
+ {
+  "start": 281.56,
+  "duration": 3.84,
+  "text": "being a thing just for weekend fun"
+ },
+ {
+  "start": 283.12,
+  "duration": 3.68,
+  "text": "projects to agentic coding being simply"
+ },
+ {
+  "start": 285.4,
+  "duration": 3.24,
+  "text": "the way that you code in just about a"
+ },
+ {
+  "start": 286.8,
+  "duration": 3.8,
+  "text": "year and a half. And so, if that is the"
+ },
+ {
+  "start": 288.64,
+  "duration": 3.0,
+  "text": "pattern for all other knowledge work,"
+ },
+ {
+  "start": 290.6,
+  "duration": 3.16,
+  "text": "obviously the disruption could be"
+ },
+ {
+  "start": 291.64,
+  "duration": 4.04,
+  "text": "immense. As some folks have pointed out,"
+ },
+ {
+  "start": 293.76,
+  "duration": 3.76,
+  "text": "though, coding has a lot of elements"
+ },
+ {
+  "start": 295.68,
+  "duration": 3.92,
+  "text": "that make AI particularly good at it."
+ },
+ {
+  "start": 297.52,
+  "duration": 3.28,
+  "text": "Clear rules, an objective way of knowing"
+ },
+ {
+  "start": 299.6,
+  "duration": 3.28,
+  "text": "whether something was done right or"
+ },
+ {
+  "start": 300.8,
+  "duration": 4.28,
+  "text": "wrong, and an easy ability to iterate to"
+ },
+ {
+  "start": 302.88,
+  "duration": 3.32,
+  "text": "fix mistakes. A lot of other types of"
+ },
+ {
+  "start": 305.08,
+  "duration": 2.88,
+  "text": "knowledge work, people point out, are"
+ },
+ {
+  "start": 306.2,
+  "duration": 3.04,
+  "text": "much more messy and much more human,"
+ },
+ {
+  "start": 307.96,
+  "duration": 2.64,
+  "text": "which may mean that the way that AI"
+ },
+ {
+  "start": 309.24,
+  "duration": 2.76,
+  "text": "interacts with them looks a little bit"
+ },
+ {
+  "start": 310.6,
+  "duration": 2.52,
+  "text": "different than its transformation of"
+ },
+ {
+  "start": 312.0,
+  "duration": 3.0,
+  "text": "coding."
+ },
+ {
+  "start": 313.12,
+  "duration": 4.08,
+  "text": "Now, on this question of what type of"
+ },
+ {
+  "start": 315.0,
+  "duration": 3.36,
+  "text": "companies is Claude killing, the places"
+ },
+ {
+  "start": 317.2,
+  "duration": 3.04,
+  "text": "where people naturally went were the"
+ },
+ {
+  "start": 318.36,
+  "duration": 4.4,
+  "text": "other design tools in the space. Think"
+ },
+ {
+  "start": 320.24,
+  "duration": 3.88,
+  "text": "Canva, Figma, tools like that. One thing"
+ },
+ {
+  "start": 322.76,
+  "duration": 3.68,
+  "text": "that's interesting to note is that"
+ },
+ {
+  "start": 324.12,
+  "duration": 3.76,
+  "text": "Canva's CEO, Melanie Perkins, is one of"
+ },
+ {
+  "start": 326.44,
+  "duration": 3.52,
+  "text": "the named quotes on the launch of the"
+ },
+ {
+  "start": 327.88,
+  "duration": 4.16,
+  "text": "Claude design page. And I don't think"
+ },
+ {
+  "start": 329.96,
+  "duration": 3.52,
+  "text": "that's just cope. I actually think that"
+ },
+ {
+  "start": 332.04,
+  "duration": 3.12,
+  "text": "while these tools both exist in the"
+ },
+ {
+  "start": 333.48,
+  "duration": 3.08,
+  "text": "design space, they are a little bit"
+ },
+ {
+  "start": 335.16,
+  "duration": 2.88,
+  "text": "different."
+ },
+ {
+  "start": 336.56,
+  "duration": 3.28,
+  "text": "So far in my experience with Claude"
+ },
+ {
+  "start": 338.04,
+  "duration": 3.92,
+  "text": "design, I think a good division is to"
+ },
+ {
+  "start": 339.84,
+  "duration": 4.52,
+  "text": "think about asset design versus systems"
+ },
+ {
+  "start": 341.96,
+  "duration": 4.92,
+  "text": "design. Asset design is something like"
+ },
+ {
+  "start": 344.36,
+  "duration": 4.08,
+  "text": "I'm making an image, I'm making a post."
+ },
+ {
+  "start": 346.88,
+  "duration": 3.28,
+  "text": "Systems design is something more like"
+ },
+ {
+  "start": 348.44,
+  "duration": 4.48,
+  "text": "I'm making a website, an application, a"
+ },
+ {
+  "start": 350.16,
+  "duration": 4.92,
+  "text": "front end. While Canva is certainly not"
+ },
+ {
+  "start": 352.92,
+  "duration": 3.48,
+  "text": "unable to do systems design, in fact a"
+ },
+ {
+  "start": 355.08,
+  "duration": 2.36,
+  "text": "lot of their developments over the last"
+ },
+ {
+  "start": 356.4,
+  "duration": 2.92,
+  "text": "couple of years have been more"
+ },
+ {
+  "start": 357.44,
+  "duration": 4.04,
+  "text": "robustness in that set of features such"
+ },
+ {
+  "start": 359.32,
+  "duration": 4.28,
+  "text": "as your brand guidelines and templates,"
+ },
+ {
+  "start": 361.48,
+  "duration": 3.68,
+  "text": "a lot of the use of Canva is much more"
+ },
+ {
+  "start": 363.6,
+  "duration": 3.48,
+  "text": "specific and discrete to an individual"
+ },
+ {
+  "start": 365.16,
+  "duration": 3.2,
+  "text": "asset, and that doesn't feel to me like"
+ },
+ {
+  "start": 367.08,
+  "duration": 3.32,
+  "text": "what the core experience that they're"
+ },
+ {
+  "start": 368.36,
+  "duration": 3.96,
+  "text": "going for with Claude design is."
+ },
+ {
+  "start": 370.4,
+  "duration": 3.6,
+  "text": "Now, this probably makes sense given the"
+ },
+ {
+  "start": 372.32,
+  "duration": 3.48,
+  "text": "tight integration with the things that"
+ },
+ {
+  "start": 374.0,
+  "duration": 3.8,
+  "text": "people build with Claude code, which"
+ },
+ {
+  "start": 375.8,
+  "duration": 3.92,
+  "text": "tend to be less individual point assets"
+ },
+ {
+  "start": 377.8,
+  "duration": 4.36,
+  "text": "and more systems like websites,"
+ },
+ {
+  "start": 379.72,
+  "duration": 4.52,
+  "text": "applications, front ends, etc. In terms"
+ },
+ {
+  "start": 382.16,
+  "duration": 5.32,
+  "text": "of who this is designed for, it doesn't"
+ },
+ {
+  "start": 384.24,
+  "duration": 5.04,
+  "text": "feel like designers per se to me. So far"
+ },
+ {
+  "start": 387.48,
+  "duration": 3.68,
+  "text": "at least, it's much closer to a vibe"
+ },
+ {
+  "start": 389.28,
+  "duration": 3.72,
+  "text": "design product in the way that we talked"
+ },
+ {
+  "start": 391.16,
+  "duration": 3.56,
+  "text": "about vibe coding about a year ago than"
+ },
+ {
+  "start": 393.0,
+  "duration": 4.0,
+  "text": "it is to some full-throated Figma"
+ },
+ {
+  "start": 394.72,
+  "duration": 4.68,
+  "text": "replacement. The two audiences that"
+ },
+ {
+  "start": 397.0,
+  "duration": 3.6,
+  "text": "stand out to me are one, Claude code"
+ },
+ {
+  "start": 399.4,
+  "duration": 3.28,
+  "text": "power users who aren't designers"
+ },
+ {
+  "start": 400.6,
+  "duration": 4.24,
+  "text": "themselves, which year embodies this"
+ },
+ {
+  "start": 402.68,
+  "duration": 3.4,
+  "text": "when they write, \"I live in Claude code."
+ },
+ {
+  "start": 404.84,
+  "duration": 3.04,
+  "text": "The visual half has always been the"
+ },
+ {
+  "start": 406.08,
+  "duration": 3.4,
+  "text": "break in my flow. Spec something in"
+ },
+ {
+  "start": 407.88,
+  "duration": 3.84,
+  "text": "words, lose context, re-explain it to"
+ },
+ {
+  "start": 409.48,
+  "duration": 4.44,
+  "text": "Figma, etc. Claude design is the missing"
+ },
+ {
+  "start": 411.72,
+  "duration": 4.64,
+  "text": "half. Draft UI inside Claude with Opus"
+ },
+ {
+  "start": 413.92,
+  "duration": 3.76,
+  "text": "4.7 vision, iterate by talking to it,"
+ },
+ {
+  "start": 416.36,
+  "duration": 2.68,
+  "text": "and the handoff to Claude code pulls"
+ },
+ {
+  "start": 417.68,
+  "duration": 3.76,
+  "text": "your design systems into context"
+ },
+ {
+  "start": 419.04,
+  "duration": 3.92,
+  "text": "automatically. Design to implementation"
+ },
+ {
+  "start": 421.44,
+  "duration": 2.96,
+  "text": "in one conversation instead of three"
+ },
+ {
+  "start": 422.96,
+  "duration": 3.64,
+  "text": "tools.\""
+ },
+ {
+  "start": 424.4,
+  "duration": 4.12,
+  "text": "I don't think it would be totally off to"
+ },
+ {
+  "start": 426.6,
+  "duration": 3.28,
+  "text": "view this as the primary intended use"
+ },
+ {
+  "start": 428.52,
+  "duration": 3.08,
+  "text": "case for Claude design, at least"
+ },
+ {
+  "start": 429.88,
+  "duration": 4.0,
+  "text": "initially, given how important and"
+ },
+ {
+  "start": 431.6,
+  "duration": 4.88,
+  "text": "central to the strategy Claude code is,"
+ },
+ {
+  "start": 433.88,
+  "duration": 5.32,
+  "text": "but as they found, a richer UI UX around"
+ },
+ {
+  "start": 436.48,
+  "duration": 4.84,
+  "text": "design has benefits for others as well."
+ },
+ {
+  "start": 439.2,
+  "duration": 4.24,
+  "text": "The most frequently named category of"
+ },
+ {
+  "start": 441.32,
+  "duration": 3.56,
+  "text": "person are marketers, which makes sense"
+ },
+ {
+  "start": 443.44,
+  "duration": 3.0,
+  "text": "as the knowledge workers who have to"
+ },
+ {
+  "start": 444.88,
+  "duration": 4.04,
+  "text": "interface with design and the visual"
+ },
+ {
+  "start": 446.44,
+  "duration": 4.36,
+  "text": "most often. Austin Lau from Anthropic"
+ },
+ {
+  "start": 448.92,
+  "duration": 4.08,
+  "text": "explicitly calls it one of the coolest"
+ },
+ {
+  "start": 450.8,
+  "duration": 3.48,
+  "text": "features for marketers today. Austin"
+ },
+ {
+  "start": 453.0,
+  "duration": 2.6,
+  "text": "writes, \"I've posted a lot about"
+ },
+ {
+  "start": 454.28,
+  "duration": 2.84,
+  "text": "building marketing tools without being"
+ },
+ {
+  "start": 455.6,
+  "duration": 3.28,
+  "text": "technical, and this is the visual side"
+ },
+ {
+  "start": 457.12,
+  "duration": 4.48,
+  "text": "of that. I described a landing page"
+ },
+ {
+  "start": 458.88,
+  "duration": 3.96,
+  "text": "editor and Claude built me one.\""
+ },
+ {
+  "start": 461.6,
+  "duration": 2.56,
+  "text": "So, what are some of the things that"
+ },
+ {
+  "start": 462.84,
+  "duration": 3.28,
+  "text": "people made in the first couple of days"
+ },
+ {
+  "start": 464.16,
+  "duration": 4.32,
+  "text": "with this tool? Marketing assets are"
+ },
+ {
+  "start": 466.12,
+  "duration": 4.64,
+  "text": "definitely one of the big themes. Salma,"
+ },
+ {
+  "start": 468.48,
+  "duration": 4.68,
+  "text": "who focuses on AI for brands, generated"
+ },
+ {
+  "start": 470.76,
+  "duration": 4.6,
+  "text": "an email marketing template. Victor Audi"
+ },
+ {
+  "start": 473.16,
+  "duration": 5.36,
+  "text": "and many others did some version of"
+ },
+ {
+  "start": 475.36,
+  "duration": 4.84,
+  "text": "animated social media posts. Many people"
+ },
+ {
+  "start": 478.52,
+  "duration": 4.24,
+  "text": "experimented with rich visual web"
+ },
+ {
+  "start": 480.2,
+  "duration": 4.76,
+  "text": "design. Mark Dalla Maria writes, \"Claude"
+ },
+ {
+  "start": 482.76,
+  "duration": 4.04,
+  "text": "design is insanely good. It one-shot"
+ },
+ {
+  "start": 484.96,
+  "duration": 3.0,
+  "text": "this Artemis 2 moon launch site in a few"
+ },
+ {
+  "start": 486.8,
+  "duration": 2.8,
+  "text": "minutes.\""
+ },
+ {
+  "start": 487.96,
+  "duration": 3.84,
+  "text": "And part of what I'd point out here is"
+ },
+ {
+  "start": 489.6,
+  "duration": 4.36,
+  "text": "that Claude design isn't using generated"
+ },
+ {
+  "start": 491.8,
+  "duration": 5.0,
+  "text": "images from a model like Nano Banana or"
+ },
+ {
+  "start": 493.96,
+  "duration": 4.6,
+  "text": "GPT image. It's using code and SVGs to"
+ },
+ {
+  "start": 496.8,
+  "duration": 3.2,
+  "text": "create the imagery, which as we'll hear"
+ },
+ {
+  "start": 498.56,
+  "duration": 3.36,
+  "text": "about in a minute is a challenge for"
+ },
+ {
+  "start": 500.0,
+  "duration": 3.4,
+  "text": "some, but also creates a lot of"
+ },
+ {
+  "start": 501.92,
+  "duration": 3.44,
+  "text": "interesting opportunity for more"
+ },
+ {
+  "start": 503.4,
+  "duration": 3.48,
+  "text": "interactive and more dynamic feeling web"
+ },
+ {
+  "start": 505.36,
+  "duration": 3.68,
+  "text": "experiences."
+ },
+ {
+  "start": 506.88,
+  "duration": 4.6,
+  "text": "Namyia at Superfast says she just"
+ },
+ {
+  "start": 509.04,
+  "duration": 4.6,
+  "text": "one-shotted her design agency homepage."
+ },
+ {
+  "start": 511.48,
+  "duration": 4.439,
+  "text": "And Justine Moore from A16Z built the"
+ },
+ {
+  "start": 513.64,
+  "duration": 4.32,
+  "text": "entire front end for an application. She"
+ },
+ {
+  "start": 515.919,
+  "duration": 4.281,
+  "text": "writes, \"Asked Claude design to make a"
+ },
+ {
+  "start": 517.96,
+  "duration": 4.32,
+  "text": "dating app for ex-posters. It issued the"
+ },
+ {
+  "start": 520.2,
+  "duration": 4.28,
+  "text": "swipe-based interface and chose a daily"
+ },
+ {
+  "start": 522.28,
+  "duration": 3.68,
+  "text": "digest with your best matches.\""
+ },
+ {
+  "start": 524.48,
+  "duration": 2.36,
+  "text": "Also pointing out something which as we"
+ },
+ {
+  "start": 525.96,
+  "duration": 2.48,
+  "text": "will see is one of the major"
+ },
+ {
+  "start": 526.84,
+  "duration": 3.96,
+  "text": "frustrations with Claude design, Justine"
+ },
+ {
+  "start": 528.44,
+  "duration": 4.24,
+  "text": "also writes, \"On another note, I hit"
+ },
+ {
+  "start": 530.8,
+  "duration": 3.16,
+  "text": "rate limits on my max plan in under 30"
+ },
+ {
+  "start": 532.68,
+  "duration": 3.0,
+  "text": "minutes.\""
+ },
+ {
+  "start": 533.96,
+  "duration": 3.64,
+  "text": "Another area of marketing where I saw a"
+ },
+ {
+  "start": 535.68,
+  "duration": 4.2,
+  "text": "ton of people experimenting was around"
+ },
+ {
+  "start": 537.6,
+  "duration": 4.12,
+  "text": "product websites. Now, you often see"
+ },
+ {
+  "start": 539.88,
+  "duration": 3.8,
+  "text": "this as a test of new image generation"
+ },
+ {
+  "start": 541.72,
+  "duration": 4.08,
+  "text": "models, where people will give the model"
+ },
+ {
+  "start": 543.68,
+  "duration": 3.72,
+  "text": "a specific package and ask it to put"
+ },
+ {
+  "start": 545.8,
+  "duration": 4.08,
+  "text": "that in various product photography"
+ },
+ {
+  "start": 547.4,
+  "duration": 3.8,
+  "text": "contexts, or ask the new image model to"
+ },
+ {
+  "start": 549.88,
+  "duration": 3.8,
+  "text": "generate packaging and product"
+ },
+ {
+  "start": 551.2,
+  "duration": 4.56,
+  "text": "photography from scratch. Now again,"
+ },
+ {
+  "start": 553.68,
+  "duration": 3.6,
+  "text": "Claude design is not doing that, but"
+ },
+ {
+  "start": 555.76,
+  "duration": 3.04,
+  "text": "what it can do is what Olivier here"
+ },
+ {
+  "start": 557.28,
+  "duration": 3.44,
+  "text": "experimented with are things [snorts]"
+ },
+ {
+  "start": 558.8,
+  "duration": 4.12,
+  "text": "surrounding that product photography"
+ },
+ {
+  "start": 560.72,
+  "duration": 3.36,
+  "text": "like design variations for your Shopify"
+ },
+ {
+  "start": 562.92,
+  "duration": 3.0,
+  "text": "page."
+ },
+ {
+  "start": 564.08,
+  "duration": 3.8,
+  "text": "Olivier used it here in the way that the"
+ },
+ {
+  "start": 565.92,
+  "duration": 3.96,
+  "text": "blog post discussed, not just trying to"
+ },
+ {
+  "start": 567.88,
+  "duration": 3.64,
+  "text": "create a good Shopify page for his"
+ },
+ {
+  "start": 569.88,
+  "duration": 3.08,
+  "text": "product, but designing a set of four"
+ },
+ {
+  "start": 571.52,
+  "duration": 2.64,
+  "text": "variations so they could figure out"
+ },
+ {
+  "start": 572.96,
+  "duration": 2.6,
+  "text": "which was the best direction for the"
+ },
+ {
+  "start": 574.16,
+  "duration": 4.08,
+  "text": "product."
+ },
+ {
+  "start": 575.56,
+  "duration": 5.08,
+  "text": "I also saw a ton of people experimenting"
+ },
+ {
+  "start": 578.24,
+  "duration": 4.68,
+  "text": "with the video generation capability."
+ },
+ {
+  "start": 580.64,
+  "duration": 4.48,
+  "text": "People are making some pretty impressive"
+ },
+ {
+  "start": 582.92,
+  "duration": 4.16,
+  "text": "launch and promo videos all generated"
+ },
+ {
+  "start": 585.12,
+  "duration": 4.36,
+  "text": "with Claude design without any separate"
+ },
+ {
+  "start": 587.08,
+  "duration": 4.2,
+  "text": "image generation tool."
+ },
+ {
+  "start": 589.48,
+  "duration": 3.04,
+  "text": "So, let's take a step back and talk"
+ },
+ {
+  "start": 591.28,
+  "duration": 3.84,
+  "text": "about what I think are some of the most"
+ },
+ {
+  "start": 592.52,
+  "duration": 3.88,
+  "text": "valuable features of Claude design."
+ },
+ {
+  "start": 595.12,
+  "duration": 4.2,
+  "text": "First of all is something that I would"
+ },
+ {
+  "start": 596.4,
+  "duration": 4.96,
+  "text": "call its robustness. If you are more of"
+ },
+ {
+  "start": 599.32,
+  "duration": 3.52,
+  "text": "a consumer or prosumer type user and"
+ },
+ {
+  "start": 601.36,
+  "duration": 3.28,
+  "text": "you've ever tried to create something"
+ },
+ {
+  "start": 602.84,
+  "duration": 3.76,
+  "text": "comprehensive with a consumer or"
+ },
+ {
+  "start": 604.64,
+  "duration": 3.4,
+  "text": "prosumer tool like Canva, you'll know"
+ },
+ {
+  "start": 606.6,
+  "duration": 3.12,
+  "text": "that as much as they are trying to move"
+ },
+ {
+  "start": 608.04,
+  "duration": 3.68,
+  "text": "into that space, creating something with"
+ },
+ {
+  "start": 609.72,
+  "duration": 3.92,
+  "text": "a full design system can be really"
+ },
+ {
+  "start": 611.72,
+  "duration": 4.32,
+  "text": "difficult. And that's exactly the type"
+ },
+ {
+  "start": 613.64,
+  "duration": 3.96,
+  "text": "of thing that Claude Design excels at."
+ },
+ {
+  "start": 616.04,
+  "duration": 4.52,
+  "text": "Another thing that I really like is the"
+ },
+ {
+  "start": 617.6,
+  "duration": 4.64,
+  "text": "Socratic design process. When you start"
+ },
+ {
+  "start": 620.56,
+  "duration": 4.12,
+  "text": "in Claude Design and give it your"
+ },
+ {
+  "start": 622.24,
+  "duration": 6.56,
+  "text": "initial prompt, for example, let's"
+ },
+ {
+  "start": 624.68,
+  "duration": 8.48,
+  "text": "design a mobile app companion to the"
+ },
+ {
+  "start": 628.8,
+  "duration": 6.68,
+  "text": "Context Portfolio Builder web app at a"
+ },
+ {
+  "start": 633.16,
+  "duration": 4.4,
+  "text": "screenshot. It's going to review what"
+ },
+ {
+  "start": 635.48,
+  "duration": 4.64,
+  "text": "you gave it and then come back with a"
+ },
+ {
+  "start": 637.56,
+  "duration": 4.12,
+  "text": "set of questions for refining it. Now,"
+ },
+ {
+  "start": 640.12,
+  "duration": 2.96,
+  "text": "anyone who's interacted with AI to build"
+ },
+ {
+  "start": 641.68,
+  "duration": 3.64,
+  "text": "something, especially Claude Coder or"
+ },
+ {
+  "start": 643.08,
+  "duration": 4.44,
+  "text": "Codex, will find this interactive"
+ },
+ {
+  "start": 645.32,
+  "duration": 3.96,
+  "text": "pattern familiar, but it's reskinned for"
+ },
+ {
+  "start": 647.52,
+  "duration": 4.16,
+  "text": "design and at least so far in my"
+ },
+ {
+  "start": 649.28,
+  "duration": 4.6,
+  "text": "experience, has done a good job of using"
+ },
+ {
+  "start": 651.68,
+  "duration": 4.48,
+  "text": "the questions themselves to actually"
+ },
+ {
+  "start": 653.88,
+  "duration": 3.88,
+  "text": "help you think through what you want. In"
+ },
+ {
+  "start": 656.16,
+  "duration": 3.679,
+  "text": "other words, when you look at a question"
+ },
+ {
+  "start": 657.76,
+  "duration": 3.68,
+  "text": "like what's the mobile app's main role,"
+ },
+ {
+  "start": 659.839,
+  "duration": 3.561,
+  "text": "it isn't just a blinking cursor that"
+ },
+ {
+  "start": 661.44,
+  "duration": 4.0,
+  "text": "asks you to input that. It gives you a"
+ },
+ {
+  "start": 663.4,
+  "duration": 4.32,
+  "text": "half dozen theses that it has, which can"
+ },
+ {
+  "start": 665.44,
+  "duration": 4.36,
+  "text": "actually help you refine your thinking."
+ },
+ {
+  "start": 667.72,
+  "duration": 3.6,
+  "text": "So, for the mobile companion, it asks"
+ },
+ {
+  "start": 669.8,
+  "duration": 2.88,
+  "text": "what the mobile app's main role is. Good"
+ },
+ {
+  "start": 671.32,
+  "duration": 3.4,
+  "text": "question. Why do you need a mobile app"
+ },
+ {
+  "start": 672.68,
+  "duration": 3.88,
+  "text": "for personal context building? The two"
+ },
+ {
+  "start": 674.72,
+  "duration": 3.24,
+  "text": "that stand out are either quick capture,"
+ },
+ {
+  "start": 676.56,
+  "duration": 3.56,
+  "text": "jot thoughts that feed into portfolio"
+ },
+ {
+  "start": 677.96,
+  "duration": 4.32,
+  "text": "files or notifications that are nudges"
+ },
+ {
+  "start": 680.12,
+  "duration": 3.44,
+  "text": "to keep context fresh over time."
+ },
+ {
+  "start": 682.28,
+  "duration": 3.0,
+  "text": "Let's do quick capture and select"
+ },
+ {
+  "start": 683.56,
+  "duration": 3.2,
+  "text": "notifications as well."
+ },
+ {
+  "start": 685.28,
+  "duration": 3.52,
+  "text": "Next up, it asks what's the number one"
+ },
+ {
+  "start": 686.76,
+  "duration": 3.56,
+  "text": "flow to nail? Daily micro prompt or"
+ },
+ {
+  "start": 688.8,
+  "duration": 3.52,
+  "text": "voice first capture? I think it's daily"
+ },
+ {
+  "start": 690.32,
+  "duration": 4.48,
+  "text": "micro prompt. From there, it's going to"
+ },
+ {
+  "start": 692.32,
+  "duration": 4.64,
+  "text": "ask you how many different iterations"
+ },
+ {
+  "start": 694.8,
+  "duration": 4.24,
+  "text": "you want. For some people will always"
+ },
+ {
+  "start": 696.96,
+  "duration": 3.92,
+  "text": "want the max. For our case, let's leave"
+ },
+ {
+  "start": 699.04,
+  "duration": 3.12,
+  "text": "it at its suggestive three."
+ },
+ {
+  "start": 700.88,
+  "duration": 2.88,
+  "text": "And for any question where you don't"
+ },
+ {
+  "start": 702.16,
+  "duration": 4.04,
+  "text": "have a strong feeling, you can simply"
+ },
+ {
+  "start": 703.76,
+  "duration": 4.8,
+  "text": "allow it to decide for you. You can also"
+ },
+ {
+  "start": 706.2,
+  "duration": 4.0,
+  "text": "see in this Socratic design process that"
+ },
+ {
+  "start": 708.56,
+  "duration": 3.76,
+  "text": "Claude Design definitely has a technical"
+ },
+ {
+  "start": 710.2,
+  "duration": 3.68,
+  "text": "bent. We're designing an app and it's"
+ },
+ {
+  "start": 712.32,
+  "duration": 3.8,
+  "text": "not just asking design questions, it's"
+ },
+ {
+  "start": 713.88,
+  "duration": 4.32,
+  "text": "also asking product questions. For"
+ },
+ {
+  "start": 716.12,
+  "duration": 3.56,
+  "text": "example, how important is voice input?"
+ },
+ {
+  "start": 718.2,
+  "duration": 3.04,
+  "text": "Let's call it central. This is a voice"
+ },
+ {
+  "start": 719.68,
+  "duration": 3.72,
+  "text": "first app. Yes, there should be"
+ },
+ {
+  "start": 721.24,
+  "duration": 4.84,
+  "text": "notifications. Mobile edit should live"
+ },
+ {
+  "start": 723.4,
+  "duration": 4.36,
+  "text": "sync and we'll let it decide what tweaks"
+ },
+ {
+  "start": 726.08,
+  "duration": 3.4,
+  "text": "to expose."
+ },
+ {
+  "start": 727.76,
+  "duration": 2.96,
+  "text": "Now, we'll let that work and keep"
+ },
+ {
+  "start": 729.48,
+  "duration": 3.12,
+  "text": "talking about some of the other valuable"
+ },
+ {
+  "start": 730.72,
+  "duration": 3.6,
+  "text": "features."
+ },
+ {
+  "start": 732.6,
+  "duration": 4.32,
+  "text": "As was highlighted in their announcement"
+ },
+ {
+  "start": 734.32,
+  "duration": 4.28,
+  "text": "post, there is a really strong emphasis"
+ },
+ {
+  "start": 736.92,
+  "duration": 4.08,
+  "text": "on the idea of being able to have"
+ },
+ {
+  "start": 738.6,
+  "duration": 3.56,
+  "text": "multiple variations to test things out."
+ },
+ {
+  "start": 741.0,
+  "duration": 2.2,
+  "text": "One of the things that I've got cooking"
+ },
+ {
+  "start": 742.16,
+  "duration": 3.12,
+  "text": "that I mentioned at the beginning of"
+ },
+ {
+  "start": 743.2,
+  "duration": 4.56,
+  "text": "this show is that I'm exploring some"
+ },
+ {
+  "start": 745.28,
+  "duration": 3.68,
+  "text": "approaches to AI credentialing to solve"
+ },
+ {
+  "start": 747.76,
+  "duration": 2.64,
+  "text": "a bunch of problems I see that are"
+ },
+ {
+  "start": 748.96,
+  "duration": 2.68,
+  "text": "stopping people from getting jobs and"
+ },
+ {
+  "start": 750.4,
+  "duration": 3.56,
+  "text": "stopping companies from finding the"
+ },
+ {
+  "start": 751.64,
+  "duration": 4.44,
+  "text": "right people to help them with AI. When"
+ },
+ {
+  "start": 753.96,
+  "duration": 4.0,
+  "text": "I asked for a teaser video for this, it"
+ },
+ {
+  "start": 756.08,
+  "duration": 3.4,
+  "text": "gave me three different directions that"
+ },
+ {
+  "start": 757.96,
+  "duration": 3.92,
+  "text": "were differences in both the editorial"
+ },
+ {
+  "start": 759.48,
+  "duration": 4.32,
+  "text": "content and narrative flow, as well as"
+ },
+ {
+  "start": 761.88,
+  "duration": 3.92,
+  "text": "some of the visual systems."
+ },
+ {
+  "start": 763.8,
+  "duration": 3.8,
+  "text": "Another really valuable feature is the"
+ },
+ {
+  "start": 765.8,
+  "duration": 3.48,
+  "text": "way that it does iterations. As I"
+ },
+ {
+  "start": 767.6,
+  "duration": 4.8,
+  "text": "mentioned, you can use the text input"
+ },
+ {
+  "start": 769.28,
+  "duration": 5.4,
+  "text": "panel to update the prompt. You can edit"
+ },
+ {
+  "start": 772.4,
+  "duration": 4.52,
+  "text": "certain parts directly. You can provide"
+ },
+ {
+  "start": 774.68,
+  "duration": 3.52,
+  "text": "in-line comments that the AI can read"
+ },
+ {
+  "start": 776.92,
+  "duration": 3.32,
+  "text": "or, and this is something I'm seeing"
+ },
+ {
+  "start": 778.2,
+  "duration": 5.28,
+  "text": "people really respond to, you can use"
+ },
+ {
+  "start": 780.24,
+  "duration": 4.8,
+  "text": "the individual slider style tweaks that"
+ },
+ {
+  "start": 783.48,
+  "duration": 3.0,
+  "text": "they provide on a design by design"
+ },
+ {
+  "start": 785.04,
+  "duration": 2.76,
+  "text": "basis."
+ },
+ {
+  "start": 786.48,
+  "duration": 2.92,
+  "text": "So, here's another project that I'm"
+ },
+ {
+  "start": 787.8,
+  "duration": 3.12,
+  "text": "working on. One of the things that"
+ },
+ {
+  "start": 789.4,
+  "duration": 3.24,
+  "text": "really bothers me about the AI jobs"
+ },
+ {
+  "start": 790.92,
+  "duration": 3.6,
+  "text": "discourse right now is that people are"
+ },
+ {
+  "start": 792.64,
+  "duration": 3.56,
+  "text": "so focused on the destructive side of"
+ },
+ {
+  "start": 794.52,
+  "duration": 3.76,
+  "text": "creative destruction that they're not"
+ },
+ {
+  "start": 796.2,
+  "duration": 4.32,
+  "text": "spending any time on thinking about what"
+ },
+ {
+  "start": 798.28,
+  "duration": 3.8,
+  "text": "new jobs get created because of things"
+ },
+ {
+  "start": 800.52,
+  "duration": 2.8,
+  "text": "that AI changes."
+ },
+ {
+  "start": 802.08,
+  "duration": 2.72,
+  "text": "I've been spending some time trying to"
+ },
+ {
+  "start": 803.32,
+  "duration": 2.64,
+  "text": "game out where I think some of those"
+ },
+ {
+  "start": 804.8,
+  "duration": 2.88,
+  "text": "jobs will exist and what their"
+ },
+ {
+  "start": 805.96,
+  "duration": 3.52,
+  "text": "characteristics are and how many of them"
+ },
+ {
+  "start": 807.68,
+  "duration": 4.44,
+  "text": "there might be and turn that into this"
+ },
+ {
+  "start": 809.48,
+  "duration": 4.72,
+  "text": "draft of a world's fair style expo for"
+ },
+ {
+  "start": 812.12,
+  "duration": 3.64,
+  "text": "the jobs of the future. Over in the"
+ },
+ {
+  "start": 814.2,
+  "duration": 4.28,
+  "text": "tweak section, you can see I can change"
+ },
+ {
+  "start": 815.76,
+  "duration": 5.0,
+  "text": "palette with just a single click. I can"
+ },
+ {
+  "start": 818.48,
+  "duration": 4.12,
+  "text": "iterate on the layout. I can modulate"
+ },
+ {
+  "start": 820.76,
+  "duration": 4.079,
+  "text": "how interactive it is and I can"
+ },
+ {
+  "start": 822.6,
+  "duration": 4.56,
+  "text": "automatically change the fonts."
+ },
+ {
+  "start": 824.839,
+  "duration": 3.961,
+  "text": "And people really love these sliders."
+ },
+ {
+  "start": 827.16,
+  "duration": 3.28,
+  "text": "The smart app on Twitter, in fact, calls"
+ },
+ {
+  "start": 828.8,
+  "duration": 3.08,
+  "text": "them the killer feature."
+ },
+ {
+  "start": 830.44,
+  "duration": 2.76,
+  "text": "They write, \"Everyone is talking about"
+ },
+ {
+  "start": 831.88,
+  "duration": 3.4,
+  "text": "prompting. Nobody talks about the"
+ },
+ {
+  "start": 833.2,
+  "duration": 4.24,
+  "text": "sliders, which are generated per design."
+ },
+ {
+  "start": 835.28,
+  "duration": 3.52,
+  "text": "Spacing, density, color warmth, layout"
+ },
+ {
+  "start": 837.44,
+  "duration": 3.44,
+  "text": "tightness, each one is built for your"
+ },
+ {
+  "start": 838.8,
+  "duration": 3.76,
+  "text": "specific artifact. It's what makes this"
+ },
+ {
+  "start": 840.88,
+  "duration": 3.84,
+  "text": "feel like a design tool and not a prompt"
+ },
+ {
+  "start": 842.56,
+  "duration": 4.44,
+  "text": "box with a preview pane.\""
+ },
+ {
+  "start": 844.72,
+  "duration": 4.88,
+  "text": "Now, there are some challenges, though."
+ },
+ {
+  "start": 847.0,
+  "duration": 4.6,
+  "text": "Frequent AIDB guest and AIDB Education"
+ },
+ {
+  "start": 849.6,
+  "duration": 3.12,
+  "text": "Collaborator Neufar Gaspar wrote that"
+ },
+ {
+  "start": 851.6,
+  "duration": 2.8,
+  "text": "the three things that impressed her"
+ },
+ {
+  "start": 852.72,
+  "duration": 3.8,
+  "text": "about Claude Design were these"
+ },
+ {
+  "start": 854.4,
+  "duration": 4.12,
+  "text": "auto-generated tweaks, saying that this"
+ },
+ {
+  "start": 856.52,
+  "duration": 4.48,
+  "text": "type of click to preview color swatch"
+ },
+ {
+  "start": 858.52,
+  "duration": 4.12,
+  "text": "changes and other UX elements make, in"
+ },
+ {
+  "start": 861.0,
+  "duration": 3.079,
+  "text": "her words, iteration feel radically"
+ },
+ {
+  "start": 862.64,
+  "duration": 3.84,
+  "text": "different from every other AI design"
+ },
+ {
+  "start": 864.079,
+  "duration": 3.841,
+  "text": "tool I've used. She also points out that"
+ },
+ {
+  "start": 866.48,
+  "duration": 3.599,
+  "text": "the design system translation from"
+ },
+ {
+  "start": 867.92,
+  "duration": 4.36,
+  "text": "examples is real. I.e., when you drop an"
+ },
+ {
+  "start": 870.079,
+  "duration": 4.681,
+  "text": "existing branded deck in, even without a"
+ },
+ {
+  "start": 872.28,
+  "duration": 4.28,
+  "text": "brand guide or a design.md file, Claude"
+ },
+ {
+  "start": 874.76,
+  "duration": 3.4,
+  "text": "Design successfully extracted the visual"
+ },
+ {
+  "start": 876.56,
+  "duration": 3.96,
+  "text": "language and stayed consistent across"
+ },
+ {
+  "start": 878.16,
+  "duration": 4.44,
+  "text": "the new artifact. And finally, she says"
+ },
+ {
+  "start": 880.52,
+  "duration": 3.439,
+  "text": "it keeps polishing on its own. After"
+ },
+ {
+  "start": 882.6,
+  "duration": 3.12,
+  "text": "generating, it continues to iterate"
+ },
+ {
+  "start": 883.959,
+  "duration": 3.761,
+  "text": "without being asked, fixing text"
+ },
+ {
+  "start": 885.72,
+  "duration": 3.88,
+  "text": "overflows, inconsistencies, things it"
+ },
+ {
+  "start": 887.72,
+  "duration": 3.52,
+  "text": "thinks it can improve. Feels like a"
+ },
+ {
+  "start": 889.6,
+  "duration": 3.2,
+  "text": "designer doing a second pass before"
+ },
+ {
+  "start": 891.24,
+  "duration": 3.32,
+  "text": "handing it over."
+ },
+ {
+  "start": 892.8,
+  "duration": 3.96,
+  "text": "However, Neufar points out that there"
+ },
+ {
+  "start": 894.56,
+  "duration": 4.08,
+  "text": "are some challenges, as well."
+ },
+ {
+  "start": 896.76,
+  "duration": 4.68,
+  "text": "One of the big ones for her was the"
+ },
+ {
+  "start": 898.64,
+  "duration": 4.52,
+  "text": "exports. She had a ton of problems"
+ },
+ {
+  "start": 901.44,
+  "duration": 3.639,
+  "text": "moving, particularly slides, into other"
+ },
+ {
+  "start": 903.16,
+  "duration": 3.32,
+  "text": "formats. PowerPoints that didn't have"
+ },
+ {
+  "start": 905.079,
+  "duration": 3.801,
+  "text": "the fonts that Claude used had"
+ },
+ {
+  "start": 906.48,
+  "duration": 3.8,
+  "text": "significant quality degradation. She got"
+ },
+ {
+  "start": 908.88,
+  "duration": 3.4,
+  "text": "error messages trying to move it over"
+ },
+ {
+  "start": 910.28,
+  "duration": 3.72,
+  "text": "into Canva. She could export things as"
+ },
+ {
+  "start": 912.28,
+  "duration": 3.88,
+  "text": "screenshots, but it was slow and not"
+ },
+ {
+  "start": 914.0,
+  "duration": 3.56,
+  "text": "editable. Basically, the only export"
+ },
+ {
+  "start": 916.16,
+  "duration": 3.04,
+  "text": "methodology that actually worked well"
+ },
+ {
+  "start": 917.56,
+  "duration": 3.6,
+  "text": "was HTML."
+ },
+ {
+  "start": 919.2,
+  "duration": 4.12,
+  "text": "Simon Smith also pointed out that the"
+ },
+ {
+  "start": 921.16,
+  "duration": 4.799,
+  "text": "lack of a native image generator does"
+ },
+ {
+  "start": 923.32,
+  "duration": 4.28,
+  "text": "have limits. He writes, \"It doesn't have"
+ },
+ {
+  "start": 925.959,
+  "duration": 3.12,
+  "text": "a native image generator as far as I can"
+ },
+ {
+  "start": 927.6,
+  "duration": 4.04,
+  "text": "tell, so when it needs images, it will"
+ },
+ {
+  "start": 929.079,
+  "duration": 3.801,
+  "text": "create SVGs. It's pretty good with SVGs,"
+ },
+ {
+  "start": 931.64,
+  "duration": 3.04,
+  "text": "but this, of course, limits the type of"
+ },
+ {
+  "start": 932.88,
+  "duration": 3.36,
+  "text": "images it can create.\""
+ },
+ {
+  "start": 934.68,
+  "duration": 3.399,
+  "text": "So, for most people, the biggest limiter"
+ },
+ {
+  "start": 936.24,
+  "duration": 2.92,
+  "text": "so far has certainly been the rate"
+ },
+ {
+  "start": 938.079,
+  "duration": 3.201,
+  "text": "limiting."
+ },
+ {
+  "start": 939.16,
+  "duration": 3.84,
+  "text": "Josh Gonzales says, \"Oh, so Claude"
+ },
+ {
+  "start": 941.28,
+  "duration": 3.36,
+  "text": "Design has its own usage limit outside"
+ },
+ {
+  "start": 943.0,
+  "duration": 3.36,
+  "text": "of everything else and, of course,"
+ },
+ {
+  "start": 944.64,
+  "duration": 4.96,
+  "text": "already hit it. So, now I can't use it"
+ },
+ {
+  "start": 946.36,
+  "duration": 4.84,
+  "text": "until next Friday? Okay.\""
+ },
+ {
+  "start": 949.6,
+  "duration": 3.52,
+  "text": "YouTuber Theo writes, \"Really liking"
+ },
+ {
+  "start": 951.2,
+  "duration": 3.4,
+  "text": "Claude Design so far, except for the"
+ },
+ {
+  "start": 953.12,
+  "duration": 3.959,
+  "text": "fact that it just wiped out my project"
+ },
+ {
+  "start": 954.6,
+  "duration": 4.08,
+  "text": "after burning 10% of my usage.\""
+ },
+ {
+  "start": 957.079,
+  "duration": 3.521,
+  "text": "Greg Eisenberg from the Startup Ideas"
+ },
+ {
+  "start": 958.68,
+  "duration": 4.04,
+  "text": "podcast found that for a lot of use"
+ },
+ {
+  "start": 960.6,
+  "duration": 4.0,
+  "text": "cases, it was really good. He gave"
+ },
+ {
+  "start": 962.72,
+  "duration": 4.239,
+  "text": "wireframing a 9 out of 10, mobile app"
+ },
+ {
+  "start": 964.6,
+  "duration": 4.56,
+  "text": "design an 8.5 out of 10, deck research"
+ },
+ {
+  "start": 966.959,
+  "duration": 5.601,
+  "text": "and design a very specific 8.7 out of"
+ },
+ {
+  "start": 969.16,
+  "duration": 5.32,
+  "text": "10, and video creation a 4.5 out of 10."
+ },
+ {
+  "start": 972.56,
+  "duration": 3.96,
+  "text": "Effectively, while the video creation"
+ },
+ {
+  "start": 974.48,
+  "duration": 3.72,
+  "text": "feature is novel and might be valuable"
+ },
+ {
+  "start": 976.52,
+  "duration": 3.04,
+  "text": "in some specific contexts, it's"
+ },
+ {
+  "start": 978.2,
+  "duration": 3.72,
+  "text": "certainly not replacing other video"
+ },
+ {
+  "start": 979.56,
+  "duration": 4.64,
+  "text": "creation tools just yet."
+ },
+ {
+  "start": 981.92,
+  "duration": 4.32,
+  "text": "Speaking of which, what are the right"
+ },
+ {
+  "start": 984.2,
+  "duration": 4.12,
+  "text": "comparisons for Claude Design? I"
+ },
+ {
+  "start": 986.24,
+  "duration": 3.12,
+  "text": "mentioned Canva before, basically saying"
+ },
+ {
+  "start": 988.32,
+  "duration": 2.92,
+  "text": "that I thought that they were slightly"
+ },
+ {
+  "start": 989.36,
+  "duration": 3.32,
+  "text": "different. I don't know if Canva would"
+ },
+ {
+  "start": 991.24,
+  "duration": 3.48,
+  "text": "agree with the characterization of them"
+ },
+ {
+  "start": 992.68,
+  "duration": 4.52,
+  "text": "as an asset first design tool as opposed"
+ },
+ {
+  "start": 994.72,
+  "duration": 3.68,
+  "text": "to Claude Design's systems first design,"
+ },
+ {
+  "start": 997.2,
+  "duration": 3.28,
+  "text": "but that certainly reflects at least my"
+ },
+ {
+  "start": 998.4,
+  "duration": 3.6,
+  "text": "usage. And what's more, Canva is just a"
+ },
+ {
+  "start": 1000.48,
+  "duration": 3.08,
+  "text": "much more full suite of tool at this"
+ },
+ {
+  "start": 1002.0,
+  "duration": 3.2,
+  "text": "point with a lot of things that I have a"
+ },
+ {
+  "start": 1003.56,
+  "duration": 3.6,
+  "text": "hard time imagining that Claude will"
+ },
+ {
+  "start": 1005.2,
+  "duration": 3.48,
+  "text": "ever want to build into this. The more"
+ },
+ {
+  "start": 1007.16,
+  "duration": 4.04,
+  "text": "proximate comparison and certainly the"
+ },
+ {
+  "start": 1008.68,
+  "duration": 3.68,
+  "text": "one that markets ran to was with Figma."
+ },
+ {
+  "start": 1011.2,
+  "duration": 2.8,
+  "text": "Now, part of that, of course, is because"
+ },
+ {
+  "start": 1012.36,
+  "duration": 3.04,
+  "text": "Mike Krieger left the board of Figma,"
+ },
+ {
+  "start": 1014.0,
+  "duration": 3.72,
+  "text": "but I still don't think it's exactly"
+ },
+ {
+  "start": 1015.4,
+  "duration": 4.48,
+  "text": "accurate. I think it's playing in some"
+ },
+ {
+  "start": 1017.72,
+  "duration": 5.76,
+  "text": "similar spaces, but for me, it feels"
+ },
+ {
+  "start": 1019.88,
+  "duration": 5.68,
+  "text": "closer to Figma for non-Figma users than"
+ },
+ {
+  "start": 1023.48,
+  "duration": 4.28,
+  "text": "a Figma replacement for existing Figma"
+ },
+ {
+  "start": 1025.56,
+  "duration": 4.72,
+  "text": "users. I kind of think that it brings a"
+ },
+ {
+  "start": 1027.76,
+  "duration": 4.679,
+  "text": "lot of what designers like about Figma"
+ },
+ {
+  "start": 1030.28,
+  "duration": 4.0,
+  "text": "into a package that's for people for"
+ },
+ {
+  "start": 1032.439,
+  "duration": 4.201,
+  "text": "whom Figma might be a little bit too"
+ },
+ {
+  "start": 1034.28,
+  "duration": 4.48,
+  "text": "much program. Now, maybe the market is"
+ },
+ {
+  "start": 1036.64,
+  "duration": 3.64,
+  "text": "right and that's just a temporary state"
+ },
+ {
+  "start": 1038.76,
+  "duration": 3.199,
+  "text": "and the immediate 7-point drop in"
+ },
+ {
+  "start": 1040.28,
+  "duration": 4.28,
+  "text": "Figma's share price reflects where"
+ },
+ {
+  "start": 1041.959,
+  "duration": 4.281,
+  "text": "things go, but for now, like I said, it"
+ },
+ {
+  "start": 1044.56,
+  "duration": 3.92,
+  "text": "feels to me like the two audiences that"
+ },
+ {
+  "start": 1046.24,
+  "duration": 4.16,
+  "text": "Anthropic is pushing this towards are"
+ },
+ {
+  "start": 1048.48,
+  "duration": 3.199,
+  "text": "one, Claude Coders, which will, of"
+ },
+ {
+  "start": 1050.4,
+  "duration": 3.04,
+  "text": "course, have some overlap with the"
+ },
+ {
+  "start": 1051.679,
+  "duration": 3.161,
+  "text": "people who currently use Figma to the"
+ },
+ {
+  "start": 1053.44,
+  "duration": 2.64,
+  "text": "extent that those Claude Coders don't"
+ },
+ {
+  "start": 1054.84,
+  "duration": 3.28,
+  "text": "have to collaborate with designers in"
+ },
+ {
+  "start": 1056.08,
+  "duration": 3.72,
+  "text": "the same way that they used to, and two,"
+ },
+ {
+  "start": 1058.12,
+  "duration": 4.04,
+  "text": "non-designer knowledge workers,"
+ },
+ {
+  "start": 1059.8,
+  "duration": 4.36,
+  "text": "particularly marketers. There is some"
+ },
+ {
+  "start": 1062.16,
+  "duration": 3.76,
+  "text": "overlap with Google Stitch, although I"
+ },
+ {
+  "start": 1064.16,
+  "duration": 3.72,
+  "text": "do think that Stitch is a lot closer to"
+ },
+ {
+  "start": 1065.92,
+  "duration": 3.96,
+  "text": "an AI-native Figma experience than is"
+ },
+ {
+  "start": 1067.88,
+  "duration": 3.6,
+  "text": "Claude Design. Where I really see the"
+ },
+ {
+  "start": 1069.88,
+  "duration": 4.08,
+  "text": "most comparison, at least in terms of"
+ },
+ {
+  "start": 1071.48,
+  "duration": 5.199,
+  "text": "direct challenges, are with the general"
+ },
+ {
+  "start": 1073.96,
+  "duration": 4.84,
+  "text": "agent tools GenSpark and Manas. Pretty"
+ },
+ {
+  "start": 1076.679,
+  "duration": 3.961,
+  "text": "much my main use case for these tools"
+ },
+ {
+  "start": 1078.8,
+  "duration": 4.12,
+  "text": "has been code-powered slide and visual"
+ },
+ {
+  "start": 1080.64,
+  "duration": 4.72,
+  "text": "design and that's pretty much exactly"
+ },
+ {
+  "start": 1082.92,
+  "duration": 3.56,
+  "text": "what you can do with Claude Design now."
+ },
+ {
+  "start": 1085.36,
+  "duration": 2.8,
+  "text": "Now, I certainly don't want to argue"
+ },
+ {
+  "start": 1086.48,
+  "duration": 3.28,
+  "text": "that just because my particular use case"
+ },
+ {
+  "start": 1088.16,
+  "duration": 4.08,
+  "text": "for GenSpark and Manas now has"
+ },
+ {
+  "start": 1089.76,
+  "duration": 5.32,
+  "text": "competition from Claude Design that A,"
+ },
+ {
+  "start": 1092.24,
+  "duration": 4.16,
+  "text": "everyone's use cases are disrupted or B,"
+ },
+ {
+  "start": 1095.08,
+  "duration": 3.24,
+  "text": "that those are even the most important"
+ },
+ {
+  "start": 1096.4,
+  "duration": 3.44,
+  "text": "use cases for GenSpark and Manas. It"
+ },
+ {
+  "start": 1098.32,
+  "duration": 3.4,
+  "text": "just does have enough overlap that it's"
+ },
+ {
+  "start": 1099.84,
+  "duration": 3.44,
+  "text": "worth calling out."
+ },
+ {
+  "start": 1101.72,
+  "duration": 3.12,
+  "text": "So, let's go back now and actually look"
+ },
+ {
+  "start": 1103.28,
+  "duration": 3.04,
+  "text": "at a few of the things that I designed"
+ },
+ {
+  "start": 1104.84,
+  "duration": 3.4,
+  "text": "to get a sense of what you can do."
+ },
+ {
+  "start": 1106.32,
+  "duration": 4.04,
+  "text": "Remember, we were designing a mobile app"
+ },
+ {
+  "start": 1108.24,
+  "duration": 4.48,
+  "text": "companion to the web builder Context"
+ },
+ {
+  "start": 1110.36,
+  "duration": 3.76,
+  "text": "Portfolio. Claude Design organized the"
+ },
+ {
+  "start": 1112.72,
+  "duration": 2.8,
+  "text": "mobile app wireframes into four"
+ },
+ {
+  "start": 1114.12,
+  "duration": 3.48,
+  "text": "categories."
+ },
+ {
+  "start": 1115.52,
+  "duration": 4.24,
+  "text": "The first was the daily prompt, which it"
+ },
+ {
+  "start": 1117.6,
+  "duration": 3.48,
+  "text": "compared to Duolingo for self-knowledge."
+ },
+ {
+  "start": 1119.76,
+  "duration": 2.8,
+  "text": "And you can see that in addition to"
+ },
+ {
+  "start": 1121.08,
+  "duration": 4.12,
+  "text": "showing the wireframe, it also has an"
+ },
+ {
+  "start": 1122.56,
+  "duration": 4.28,
+  "text": "annotation explaining what it was doing."
+ },
+ {
+  "start": 1125.2,
+  "duration": 3.16,
+  "text": "Although, in this bunched up view,"
+ },
+ {
+  "start": 1126.84,
+  "duration": 3.4,
+  "text": "that's a constraint of the video, it"
+ },
+ {
+  "start": 1128.36,
+  "duration": 3.48,
+  "text": "gets a little squeezed. You can still"
+ },
+ {
+  "start": 1130.24,
+  "duration": 3.72,
+  "text": "see that it's trying to provide you the"
+ },
+ {
+  "start": 1131.84,
+  "duration": 4.44,
+  "text": "the context you need to give it better"
+ },
+ {
+  "start": 1133.96,
+  "duration": 3.84,
+  "text": "feedback to do the next version better."
+ },
+ {
+  "start": 1136.28,
+  "duration": 3.96,
+  "text": "It also had three other sections of"
+ },
+ {
+  "start": 1137.8,
+  "duration": 3.359,
+  "text": "voice scratchpad, a portfolio glance,"
+ },
+ {
+  "start": 1140.24,
+  "duration": 2.56,
+  "text": "and the ambient things like"
+ },
+ {
+  "start": 1141.159,
+  "duration": 2.921,
+  "text": "notifications."
+ },
+ {
+  "start": 1142.8,
+  "duration": 3.08,
+  "text": "A couple other things that I built that"
+ },
+ {
+  "start": 1144.08,
+  "duration": 4.48,
+  "text": "I wanted to point out. The first is that"
+ },
+ {
+  "start": 1145.88,
+  "duration": 4.799,
+  "text": "I gave it GPT-5 4 and Opus 4.7's"
+ },
+ {
+  "start": 1148.56,
+  "duration": 3.88,
+  "text": "analysis of the most recent AI usage"
+ },
+ {
+  "start": 1150.679,
+  "duration": 3.161,
+  "text": "pulse survey and how to turn that into a"
+ },
+ {
+  "start": 1152.44,
+  "duration": 3.64,
+  "text": "slide presentation that could also be"
+ },
+ {
+  "start": 1153.84,
+  "duration": 3.88,
+  "text": "published as a website. It actually gave"
+ },
+ {
+  "start": 1156.08,
+  "duration": 3.92,
+  "text": "me three different visual versions and"
+ },
+ {
+  "start": 1157.72,
+  "duration": 3.52,
+  "text": "this is the one that I selected. I also"
+ },
+ {
+  "start": 1160.0,
+  "duration": 3.64,
+  "text": "felt like I might have overly"
+ },
+ {
+  "start": 1161.24,
+  "duration": 4.52,
+  "text": "constrained how it approached this one"
+ },
+ {
+  "start": 1163.64,
+  "duration": 4.08,
+  "text": "with the onboarding questions. And so,"
+ },
+ {
+  "start": 1165.76,
+  "duration": 4.84,
+  "text": "for a second version, I just gave it the"
+ },
+ {
+  "start": 1167.72,
+  "duration": 4.72,
+  "text": "1950s retrofuturism as a design brief"
+ },
+ {
+  "start": 1170.6,
+  "duration": 3.64,
+  "text": "and let it rip. And I think what this"
+ },
+ {
+  "start": 1172.44,
+  "duration": 3.6,
+  "text": "shows to me is that to the extent that"
+ },
+ {
+  "start": 1174.24,
+  "duration": 3.919,
+  "text": "your usage and rate limits allow for it,"
+ },
+ {
+  "start": 1176.04,
+  "duration": 3.8,
+  "text": "there is something valuable about being"
+ },
+ {
+  "start": 1178.159,
+  "duration": 3.881,
+  "text": "a little less prescriptive, especially"
+ },
+ {
+  "start": 1179.84,
+  "duration": 4.48,
+  "text": "if you are open to different directions."
+ },
+ {
+  "start": 1182.04,
+  "duration": 3.36,
+  "text": "As always with design, better or worse"
+ },
+ {
+  "start": 1184.32,
+  "duration": 2.68,
+  "text": "is going to be a little bit in the eye"
+ },
+ {
+  "start": 1185.4,
+  "duration": 2.96,
+  "text": "of the beholder, but there are certainly"
+ },
+ {
+  "start": 1187.0,
+  "duration": 3.36,
+  "text": "parts of the slides that it did"
+ },
+ {
+  "start": 1188.36,
+  "duration": 3.559,
+  "text": "unencumbered by my design prompts that I"
+ },
+ {
+  "start": 1190.36,
+  "duration": 3.2,
+  "text": "like and think are better."
+ },
+ {
+  "start": 1191.919,
+  "duration": 2.681,
+  "text": "For one, it has this little toggle up"
+ },
+ {
+  "start": 1193.56,
+  "duration": 2.6,
+  "text": "here where you can view the whole thing"
+ },
+ {
+  "start": 1194.6,
+  "duration": 2.96,
+  "text": "as a single webpage or you can view it"
+ },
+ {
+  "start": 1196.16,
+  "duration": 3.16,
+  "text": "as slides."
+ },
+ {
+  "start": 1197.56,
+  "duration": 3.4,
+  "text": "I already shared the AI credential"
+ },
+ {
+  "start": 1199.32,
+  "duration": 4.28,
+  "text": "overview video and you can see here"
+ },
+ {
+  "start": 1200.96,
+  "duration": 4.64,
+  "text": "again another great example of the UX"
+ },
+ {
+  "start": 1203.6,
+  "duration": 4.28,
+  "text": "that New Far was talking about where the"
+ },
+ {
+  "start": 1205.6,
+  "duration": 3.88,
+  "text": "tweak section allows you to very quickly"
+ },
+ {
+  "start": 1207.88,
+  "duration": 2.92,
+  "text": "change and view things in a way that"
+ },
+ {
+  "start": 1209.48,
+  "duration": 2.88,
+  "text": "feels very different than other AI"
+ },
+ {
+  "start": 1210.8,
+  "duration": 2.96,
+  "text": "design tools."
+ },
+ {
+  "start": 1212.36,
+  "duration": 3.52,
+  "text": "And lastly, going back to the Jobs of"
+ },
+ {
+  "start": 1213.76,
+  "duration": 3.64,
+  "text": "the Future World's Fair page, the thing"
+ },
+ {
+  "start": 1215.88,
+  "duration": 2.88,
+  "text": "that I would point out on this one is"
+ },
+ {
+  "start": 1217.4,
+  "duration": 3.12,
+  "text": "that I think one of the areas in which"
+ },
+ {
+  "start": 1218.76,
+  "duration": 4.48,
+  "text": "Claude design will shine is when you're"
+ },
+ {
+  "start": 1220.52,
+  "duration": 4.92,
+  "text": "trying non-standard things. Having a"
+ },
+ {
+  "start": 1223.24,
+  "duration": 3.84,
+  "text": "website as a World's Fair is not going"
+ },
+ {
+  "start": 1225.44,
+  "duration": 3.6,
+  "text": "to just draw on standard web best"
+ },
+ {
+  "start": 1227.08,
+  "duration": 3.68,
+  "text": "practices. It's going to take it getting"
+ },
+ {
+  "start": 1229.04,
+  "duration": 3.36,
+  "text": "creative and that's where the sort of"
+ },
+ {
+  "start": 1230.76,
+  "duration": 2.88,
+  "text": "iteration that you can do pretty quickly"
+ },
+ {
+  "start": 1232.4,
+  "duration": 3.04,
+  "text": "with Claude design is really going to"
+ },
+ {
+  "start": 1233.64,
+  "duration": 3.36,
+  "text": "shine."
+ },
+ {
+  "start": 1235.44,
+  "duration": 3.44,
+  "text": "So, if you want to go experiment with"
+ },
+ {
+  "start": 1237.0,
+  "duration": 3.64,
+  "text": "Claude design, here are seven things"
+ },
+ {
+  "start": 1238.88,
+  "duration": 3.08,
+  "text": "that I think you should try."
+ },
+ {
+  "start": 1240.64,
+  "duration": 2.44,
+  "text": "First of all, definitely do a set of"
+ },
+ {
+  "start": 1241.96,
+  "duration": 2.36,
+  "text": "slides."
+ },
+ {
+  "start": 1243.08,
+  "duration": 3.0,
+  "text": "And keep in mind that when it comes to"
+ },
+ {
+  "start": 1244.32,
+  "duration": 3.12,
+  "text": "doing slides, you don't necessarily need"
+ },
+ {
+  "start": 1246.08,
+  "duration": 2.92,
+  "text": "to hand it the entirety of the"
+ },
+ {
+  "start": 1247.44,
+  "duration": 2.72,
+  "text": "information there. You can take"
+ },
+ {
+  "start": 1249.0,
+  "duration": 2.96,
+  "text": "advantage of Claude's reasoning"
+ },
+ {
+  "start": 1250.16,
+  "duration": 4.12,
+  "text": "capability and hand it something that"
+ },
+ {
+  "start": 1251.96,
+  "duration": 4.28,
+  "text": "you want it to turn into slides as I did"
+ },
+ {
+  "start": 1254.28,
+  "duration": 3.72,
+  "text": "with Claude and ChatGPT's assessment of"
+ },
+ {
+  "start": 1256.24,
+  "duration": 3.48,
+  "text": "this monthly survey data."
+ },
+ {
+  "start": 1258.0,
+  "duration": 3.0,
+  "text": "I would also definitely try a web"
+ },
+ {
+  "start": 1259.72,
+  "duration": 3.28,
+  "text": "project. I think this is going to be one"
+ },
+ {
+  "start": 1261.0,
+  "duration": 4.0,
+  "text": "of the core use cases is basically"
+ },
+ {
+  "start": 1263.0,
+  "duration": 3.96,
+  "text": "Claude design complementing Claude code"
+ },
+ {
+  "start": 1265.0,
+  "duration": 3.84,
+  "text": "for the copious number of websites and"
+ },
+ {
+  "start": 1266.96,
+  "duration": 3.88,
+  "text": "web apps we all build now."
+ },
+ {
+  "start": 1268.84,
+  "duration": 4.0,
+  "text": "I think that you should try a simple"
+ },
+ {
+  "start": 1270.84,
+  "duration": 4.8,
+  "text": "launch video. I would think of something"
+ },
+ {
+  "start": 1272.84,
+  "duration": 4.84,
+  "text": "that's well suited to the SVG word-heavy"
+ },
+ {
+  "start": 1275.64,
+  "duration": 3.64,
+  "text": "kind of design that this is going to"
+ },
+ {
+  "start": 1277.68,
+  "duration": 3.24,
+  "text": "excel in as opposed to something that"
+ },
+ {
+  "start": 1279.28,
+  "duration": 3.6,
+  "text": "needs native image generation in a"
+ },
+ {
+  "start": 1280.92,
+  "duration": 4.08,
+  "text": "different way, but since this is a"
+ },
+ {
+  "start": 1282.88,
+  "duration": 3.4,
+  "text": "pretty new capability, it's one that I"
+ },
+ {
+  "start": 1285.0,
+  "duration": 2.96,
+  "text": "think that people might find themselves"
+ },
+ {
+  "start": 1286.28,
+  "duration": 3.12,
+  "text": "attracted to just cuz it's not replacing"
+ },
+ {
+  "start": 1287.96,
+  "duration": 2.64,
+  "text": "something. It's a net new opportunity"
+ },
+ {
+  "start": 1289.4,
+  "duration": 2.52,
+  "text": "for them."
+ },
+ {
+  "start": 1290.6,
+  "duration": 3.24,
+  "text": "I think that you should try to develop"
+ },
+ {
+  "start": 1291.92,
+  "duration": 3.52,
+  "text": "brand assets, although my guess is that"
+ },
+ {
+  "start": 1293.84,
+  "duration": 3.28,
+  "text": "this is going to be one area where"
+ },
+ {
+  "start": 1295.44,
+  "duration": 3.24,
+  "text": "Claude design might struggle in terms of"
+ },
+ {
+  "start": 1297.12,
+  "duration": 3.68,
+  "text": "getting you what you need, although I"
+ },
+ {
+  "start": 1298.68,
+  "duration": 3.48,
+  "text": "could be wrong about that. One area that"
+ },
+ {
+  "start": 1300.8,
+  "duration": 3.52,
+  "text": "I think it will do better is around an"
+ },
+ {
+  "start": 1302.16,
+  "duration": 4.12,
+  "text": "overall design system. For this, what I"
+ },
+ {
+  "start": 1304.32,
+  "duration": 4.0,
+  "text": "would suggest is take some slide deck or"
+ },
+ {
+  "start": 1306.28,
+  "duration": 4.32,
+  "text": "presentation of yours that you like or"
+ },
+ {
+  "start": 1308.32,
+  "duration": 4.56,
+  "text": "the best part of your company's website"
+ },
+ {
+  "start": 1310.6,
+  "duration": 3.88,
+  "text": "and then either ask it to improve that"
+ },
+ {
+  "start": 1312.88,
+  "duration": 4.0,
+  "text": "and turn it into a design system that's"
+ },
+ {
+  "start": 1314.48,
+  "duration": 3.52,
+  "text": "transportable or if you're not confident"
+ },
+ {
+  "start": 1316.88,
+  "duration": 3.28,
+  "text": "that it's exactly where you need it to"
+ },
+ {
+  "start": 1318.0,
+  "duration": 3.64,
+  "text": "be, ask it to build on what you like."
+ },
+ {
+  "start": 1320.16,
+  "duration": 3.24,
+  "text": "Maybe even give it some example of some"
+ },
+ {
+  "start": 1321.64,
+  "duration": 3.52,
+  "text": "other brand that you like and see how it"
+ },
+ {
+  "start": 1323.4,
+  "duration": 2.96,
+  "text": "integrates the two."
+ },
+ {
+  "start": 1325.16,
+  "duration": 3.88,
+  "text": "Finally, for some more advanced and"
+ },
+ {
+  "start": 1326.36,
+  "duration": 4.36,
+  "text": "bonus usage, try wireframing some mobile"
+ },
+ {
+  "start": 1329.04,
+  "duration": 3.56,
+  "text": "app, even if it's just one that you're"
+ },
+ {
+  "start": 1330.72,
+  "duration": 3.92,
+  "text": "thinking about just for demo purposes"
+ },
+ {
+  "start": 1332.6,
+  "duration": 3.96,
+  "text": "and from your personal life. The reason"
+ },
+ {
+  "start": 1334.64,
+  "duration": 4.32,
+  "text": "to do this is to see Claude design's"
+ },
+ {
+  "start": 1336.56,
+  "duration": 4.28,
+  "text": "product thinking in action. And finally,"
+ },
+ {
+  "start": 1338.96,
+  "duration": 3.28,
+  "text": "if you have any context for it, I"
+ },
+ {
+  "start": 1340.84,
+  "duration": 3.36,
+  "text": "certainly think that trying to build a"
+ },
+ {
+  "start": 1342.24,
+  "duration": 3.68,
+  "text": "Shopify product site could be really"
+ },
+ {
+  "start": 1344.2,
+  "duration": 3.12,
+  "text": "valuable as well."
+ },
+ {
+  "start": 1345.92,
+  "duration": 3.48,
+  "text": "Now, it's only been a few days since"
+ },
+ {
+  "start": 1347.32,
+  "duration": 4.32,
+  "text": "this has been live and so so far there"
+ },
+ {
+  "start": 1349.4,
+  "duration": 3.44,
+  "text": "aren't all that many tips and tricks."
+ },
+ {
+  "start": 1351.64,
+  "duration": 3.32,
+  "text": "Two that stood out to me as I was"
+ },
+ {
+  "start": 1352.84,
+  "duration": 3.64,
+  "text": "reviewing, Ryan Mather writes, \"Know"
+ },
+ {
+  "start": 1354.96,
+  "duration": 3.88,
+  "text": "when to slow down and do things by"
+ },
+ {
+  "start": 1356.48,
+  "duration": 4.4,
+  "text": "hand.\" He writes, \"New icons, spot"
+ },
+ {
+  "start": 1358.84,
+  "duration": 4.28,
+  "text": "illustrations, naming, some details will"
+ },
+ {
+  "start": 1360.88,
+  "duration": 3.76,
+  "text": "always make an outsize impact. It can be"
+ },
+ {
+  "start": 1363.12,
+  "duration": 3.48,
+  "text": "easy to get sucked into the hyper-speed"
+ },
+ {
+  "start": 1364.64,
+  "duration": 4.44,
+  "text": "of agentic design. Knowing when to slow"
+ },
+ {
+  "start": 1366.6,
+  "duration": 4.12,
+  "text": "down is an art form of its own.\""
+ },
+ {
+  "start": 1369.08,
+  "duration": 3.28,
+  "text": "I think this is a great point and one of"
+ },
+ {
+  "start": 1370.72,
+  "duration": 3.52,
+  "text": "the ways to invest the time that you are"
+ },
+ {
+  "start": 1372.36,
+  "duration": 3.64,
+  "text": "saving with Claude design is to be able"
+ },
+ {
+  "start": 1374.24,
+  "duration": 3.24,
+  "text": "to focus on those handful of details"
+ },
+ {
+  "start": 1376.0,
+  "duration": 3.28,
+  "text": "that really matter."
+ },
+ {
+  "start": 1377.48,
+  "duration": 3.24,
+  "text": "Another one again from the Smart Ape,"
+ },
+ {
+  "start": 1379.28,
+  "duration": 3.84,
+  "text": "they say the default aesthetic is"
+ },
+ {
+  "start": 1380.72,
+  "duration": 3.959,
+  "text": "generic SaaS, ban it explicitly. They"
+ },
+ {
+  "start": 1383.12,
+  "duration": 3.88,
+  "text": "write, \"Without constraints, Claude"
+ },
+ {
+  "start": 1384.679,
+  "duration": 4.161,
+  "text": "design defaults to enter, Roboto, Arial,"
+ },
+ {
+  "start": 1387.0,
+  "duration": 3.52,
+  "text": "and predictable gradients. It's the YC"
+ },
+ {
+  "start": 1388.84,
+  "duration": 3.12,
+  "text": "batch aesthetic. To get anything"
+ },
+ {
+  "start": 1390.52,
+  "duration": 3.6,
+  "text": "distinctive, you have to ban it in the"
+ },
+ {
+  "start": 1391.96,
+  "duration": 4.44,
+  "text": "prompt. No enter, no generic gradients,"
+ },
+ {
+  "start": 1394.12,
+  "duration": 4.2,
+  "text": "no stock blue to purple. This isn't in"
+ },
+ {
+  "start": 1396.4,
+  "duration": 4.4,
+  "text": "any documentation. It's the first tip"
+ },
+ {
+  "start": 1398.32,
+  "duration": 4.4,
+  "text": "every serious user discovers.\""
+ },
+ {
+  "start": 1400.8,
+  "duration": 3.96,
+  "text": "I will keep saving those tips and tricks"
+ },
+ {
+  "start": 1402.72,
+  "duration": 4.12,
+  "text": "and how-tos as they come along, but for"
+ },
+ {
+  "start": 1404.76,
+  "duration": 3.84,
+  "text": "now, that is Claude design. I am"
+ },
+ {
+  "start": 1406.84,
+  "duration": 3.48,
+  "text": "excited, of course, to see what you"
+ },
+ {
+  "start": 1408.6,
+  "duration": 2.96,
+  "text": "build with this, but for now, that is"
+ },
+ {
+  "start": 1410.32,
+  "duration": 3.0,
+  "text": "going to do it for today's AI Daily"
+ },
+ {
+  "start": 1411.56,
+  "duration": 6.08,
+  "text": "Brief. Thanks, as always, for listening"
+ },
+ {
+  "start": 1413.32,
+  "duration": 4.32,
+  "text": "or watching and until next time, peace."
+ }
+]

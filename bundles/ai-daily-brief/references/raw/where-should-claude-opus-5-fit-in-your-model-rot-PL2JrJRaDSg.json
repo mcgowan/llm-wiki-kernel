@@ -1,0 +1,4697 @@
+[
+ {
+  "start": 0.52,
+  "duration": 3.96,
+  "text": "Today on the AI Daily Brief, Anthropic"
+ },
+ {
+  "start": 2.56,
+  "duration": 3.96,
+  "text": "has released Claude Opus 5 and we are"
+ },
+ {
+  "start": 4.48,
+  "duration": 3.92,
+  "text": "talking about where it should fit into"
+ },
+ {
+  "start": 6.52,
+  "duration": 3.84,
+  "text": "your model setup. Before that in the"
+ },
+ {
+  "start": 8.4,
+  "duration": 4.44,
+  "text": "headlines, continued questions around"
+ },
+ {
+  "start": 10.36,
+  "duration": 4.56,
+  "text": "Open AI's rogue model attack of Hugging"
+ },
+ {
+  "start": 12.84,
+  "duration": 3.84,
+  "text": "Face earlier this month. The AI Daily"
+ },
+ {
+  "start": 14.92,
+  "duration": 3.28,
+  "text": "Brief is a daily podcast and video about"
+ },
+ {
+  "start": 16.68,
+  "duration": 3.44,
+  "text": "the most important news and discussions"
+ },
+ {
+  "start": 18.2,
+  "duration": 3.04,
+  "text": "in AI."
+ },
+ {
+  "start": 20.12,
+  "duration": 3.12,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 21.24,
+  "duration": 4.44,
+  "text": "headlines edition, all the daily AI news"
+ },
+ {
+  "start": 23.24,
+  "duration": 3.92,
+  "text": "you need in around 5 minutes. Now, one"
+ },
+ {
+  "start": 25.68,
+  "duration": 3.32,
+  "text": "of the big stories from last week"
+ },
+ {
+  "start": 27.16,
+  "duration": 3.6,
+  "text": "revolved around Open AI's security"
+ },
+ {
+  "start": 29.0,
+  "duration": 4.52,
+  "text": "testing of an unnamed model, which"
+ },
+ {
+  "start": 30.76,
+  "duration": 4.68,
+  "text": "people presume to be GPT-6. Both Hugging"
+ },
+ {
+  "start": 33.52,
+  "duration": 3.32,
+  "text": "Face and Open AI released postmortems on"
+ },
+ {
+  "start": 35.44,
+  "duration": 2.48,
+  "text": "the attack telling the story from their"
+ },
+ {
+  "start": 36.84,
+  "duration": 2.72,
+  "text": "view."
+ },
+ {
+  "start": 37.92,
+  "duration": 3.0,
+  "text": "Open AI's blog post released on"
+ },
+ {
+  "start": 39.56,
+  "duration": 2.84,
+  "text": "Wednesday suggested that they were"
+ },
+ {
+  "start": 40.92,
+  "duration": 3.48,
+  "text": "working closely with Hugging Face on a"
+ },
+ {
+  "start": 42.4,
+  "duration": 4.0,
+  "text": "full investigation, implying the two"
+ },
+ {
+  "start": 44.4,
+  "duration": 3.92,
+  "text": "companies were on good terms. That"
+ },
+ {
+  "start": 46.4,
+  "duration": 3.16,
+  "text": "night, Hugging Face CEO Clement Delangue"
+ },
+ {
+  "start": 48.32,
+  "duration": 2.96,
+  "text": "was on a flight to San Francisco to"
+ },
+ {
+  "start": 49.56,
+  "duration": 4.08,
+  "text": "have, as he put it, a little chat with"
+ },
+ {
+  "start": 51.28,
+  "duration": 4.0,
+  "text": "that rogue agent. In a follow-up post on"
+ },
+ {
+  "start": 53.64,
+  "duration": 3.4,
+  "text": "Saturday, he wrote, \"In the spirit of"
+ },
+ {
+  "start": 55.28,
+  "duration": 2.84,
+  "text": "transparency, here's what I asked Open"
+ },
+ {
+  "start": 57.04,
+  "duration": 3.44,
+  "text": "AI."
+ },
+ {
+  "start": 58.12,
+  "duration": 3.76,
+  "text": "One, radical transparency. Let's release"
+ },
+ {
+  "start": 60.48,
+  "duration": 2.8,
+  "text": "the traces from the {quote} {unquote}"
+ },
+ {
+  "start": 61.88,
+  "duration": 3.48,
+  "text": "rogue agent so the entire research"
+ },
+ {
+  "start": 63.28,
+  "duration": 3.88,
+  "text": "community can study what happened. Two,"
+ },
+ {
+  "start": 65.36,
+  "duration": 3.48,
+  "text": "more capability for defenders. Let's"
+ },
+ {
+  "start": 67.16,
+  "duration": 3.12,
+  "text": "commit 100 million in compute from Open"
+ },
+ {
+  "start": 68.84,
+  "duration": 2.96,
+  "text": "AI to help the Hugging Face community"
+ },
+ {
+  "start": 70.28,
+  "duration": 3.72,
+  "text": "build powerful cyber defenses with the"
+ },
+ {
+  "start": 71.8,
+  "duration": 3.64,
+  "text": "best open and closed models. The first"
+ },
+ {
+  "start": 74.0,
+  "duration": 3.52,
+  "text": "autonomous agent cyber attack is an"
+ },
+ {
+  "start": 75.44,
+  "duration": 4.12,
+  "text": "unprecedented event. It deserves an"
+ },
+ {
+  "start": 77.52,
+  "duration": 3.76,
+  "text": "unprecedented response."
+ },
+ {
+  "start": 79.56,
+  "duration": 3.12,
+  "text": "Now, in the few days since Open AI"
+ },
+ {
+  "start": 81.28,
+  "duration": 2.84,
+  "text": "disclosed the incident, we've had a"
+ },
+ {
+  "start": 82.68,
+  "duration": 3.36,
+  "text": "number of news articles that add more"
+ },
+ {
+  "start": 84.12,
+  "duration": 3.2,
+  "text": "confusion to the story. The Wall Street"
+ },
+ {
+  "start": 86.04,
+  "duration": 2.64,
+  "text": "Journal wrote that Hugging Face was"
+ },
+ {
+  "start": 87.32,
+  "duration": 3.24,
+  "text": "caught completely off guard by the"
+ },
+ {
+  "start": 88.68,
+  "duration": 3.28,
+  "text": "attack, which seemed to be superhuman"
+ },
+ {
+  "start": 90.56,
+  "duration": 3.6,
+  "text": "and beyond the capabilities of any known"
+ },
+ {
+  "start": 91.96,
+  "duration": 3.8,
+  "text": "models. Specifically, the attack used a"
+ },
+ {
+  "start": 94.16,
+  "duration": 3.2,
+  "text": "sophisticated agent swarm to evade"
+ },
+ {
+  "start": 95.76,
+  "duration": 2.84,
+  "text": "defense, rapidly spinning up and"
+ },
+ {
+  "start": 97.36,
+  "duration": 3.16,
+  "text": "shutting down sessions as it moved"
+ },
+ {
+  "start": 98.6,
+  "duration": 3.4,
+  "text": "across the network. One interesting"
+ },
+ {
+  "start": 100.52,
+  "duration": 3.12,
+  "text": "detail is that the attack was ongoing"
+ },
+ {
+  "start": 102.0,
+  "duration": 2.88,
+  "text": "for two whole days before Hugging Face"
+ },
+ {
+  "start": 103.64,
+  "duration": 3.08,
+  "text": "was able to shut it down with the help"
+ },
+ {
+  "start": 104.88,
+  "duration": 3.72,
+  "text": "of GLM-5.2."
+ },
+ {
+  "start": 106.72,
+  "duration": 4.2,
+  "text": "And this idea of rogue, that the model"
+ },
+ {
+  "start": 108.6,
+  "duration": 3.96,
+  "text": "was acting beyond Open AI's control, is"
+ },
+ {
+  "start": 110.92,
+  "duration": 4.32,
+  "text": "definitely for these media outlets the"
+ },
+ {
+  "start": 112.56,
+  "duration": 5.2,
+  "text": "key concept. On Friday's Reuters dropped"
+ },
+ {
+  "start": 115.24,
+  "duration": 4.16,
+  "text": "a piece titled, \"Its AI agent spent days"
+ },
+ {
+  "start": 117.76,
+  "duration": 3.72,
+  "text": "hacking a company, but sources say"
+ },
+ {
+  "start": 119.4,
+  "duration": 4.56,
+  "text": "OpenAI did not notice for a week.\""
+ },
+ {
+  "start": 121.48,
+  "duration": 4.04,
+  "text": "Contends Reuters. The OpenAI agent that"
+ },
+ {
+  "start": 123.96,
+  "duration": 3.44,
+  "text": "broke into tech firm Hugging Face went"
+ },
+ {
+  "start": 125.52,
+  "duration": 3.2,
+  "text": "on a days-long hacking spree that OpenAI"
+ },
+ {
+  "start": 127.4,
+  "duration": 2.76,
+  "text": "didn't notice until well after the"
+ },
+ {
+  "start": 128.72,
+  "duration": 3.56,
+  "text": "threat was contained and the FBI was"
+ },
+ {
+  "start": 130.16,
+  "duration": 3.68,
+  "text": "alerted. Sources said the agent began"
+ },
+ {
+  "start": 132.28,
+  "duration": 3.48,
+  "text": "its attempt to break out of its testing"
+ },
+ {
+  "start": 133.84,
+  "duration": 3.56,
+  "text": "environment on July 9th and first gained"
+ },
+ {
+  "start": 135.76,
+  "duration": 3.88,
+  "text": "access to Hugging Face's servers on July"
+ },
+ {
+  "start": 137.4,
+  "duration": 4.04,
+  "text": "11th. The attack lasted 2 days and"
+ },
+ {
+  "start": 139.64,
+  "duration": 3.52,
+  "text": "according to Reuters sources, it took"
+ },
+ {
+  "start": 141.44,
+  "duration": 3.8,
+  "text": "several more days for OpenAI to realize"
+ },
+ {
+  "start": 143.16,
+  "duration": 3.36,
+  "text": "their agent was behind the attack."
+ },
+ {
+  "start": 145.24,
+  "duration": 3.16,
+  "text": "Reportedly, the two companies didn't"
+ },
+ {
+  "start": 146.52,
+  "duration": 3.88,
+  "text": "communicate until July 20th, just 1 day"
+ },
+ {
+  "start": 148.4,
+  "duration": 3.44,
+  "text": "before OpenAI's public disclosure."
+ },
+ {
+  "start": 150.4,
+  "duration": 3.52,
+  "text": "According to the timeline presented by"
+ },
+ {
+  "start": 151.84,
+  "duration": 3.84,
+  "text": "Reuters, the agent was on the loose for"
+ },
+ {
+  "start": 153.92,
+  "duration": 3.84,
+  "text": "almost a week and OpenAI was oblivious"
+ },
+ {
+  "start": 155.68,
+  "duration": 3.32,
+  "text": "to the attack for days afterwards."
+ },
+ {
+  "start": 157.76,
+  "duration": 3.12,
+  "text": "For some, the reporting raises more"
+ },
+ {
+  "start": 159.0,
+  "duration": 3.32,
+  "text": "questions that it provides answers."
+ },
+ {
+  "start": 160.88,
+  "duration": 2.88,
+  "text": "Marley Smith, principal intelligence"
+ },
+ {
+  "start": 162.32,
+  "duration": 3.08,
+  "text": "specialist at the nonprofit World"
+ },
+ {
+  "start": 163.76,
+  "duration": 3.08,
+  "text": "Ethical Data Foundation, asked, \"Does"
+ },
+ {
+  "start": 165.4,
+  "duration": 2.96,
+  "text": "that mean that they left it unattended"
+ },
+ {
+  "start": 166.84,
+  "duration": 2.84,
+  "text": "and didn't realize what it was doing? Or"
+ },
+ {
+  "start": 168.36,
+  "duration": 3.36,
+  "text": "maybe they did and didn't know how to"
+ },
+ {
+  "start": 169.68,
+  "duration": 3.24,
+  "text": "contain it?\" Both are equally dangerous"
+ },
+ {
+  "start": 171.72,
+  "duration": 2.8,
+  "text": "and alarming."
+ },
+ {
+  "start": 172.92,
+  "duration": 3.44,
+  "text": "Now, a spokesperson for OpenAI said the"
+ },
+ {
+  "start": 174.52,
+  "duration": 3.4,
+  "text": "reporting contains several inaccuracies,"
+ },
+ {
+  "start": 176.36,
+  "duration": 3.72,
+  "text": "but didn't reply further to clarify the"
+ },
+ {
+  "start": 177.92,
+  "duration": 3.24,
+  "text": "situation. Thomas Wolf, a Hugging Face"
+ },
+ {
+  "start": 180.08,
+  "duration": 2.84,
+  "text": "co-founder, said that they were still"
+ },
+ {
+  "start": 181.16,
+  "duration": 2.64,
+  "text": "preparing a timeline of the incident and"
+ },
+ {
+  "start": 182.92,
+  "duration": 2.44,
+  "text": "they would eventually release a"
+ },
+ {
+  "start": 183.8,
+  "duration": 3.04,
+  "text": "technical report."
+ },
+ {
+  "start": 185.36,
+  "duration": 3.4,
+  "text": "Now, Reuters sources gave a little bit"
+ },
+ {
+  "start": 186.84,
+  "duration": 3.76,
+  "text": "more background on how something like"
+ },
+ {
+  "start": 188.76,
+  "duration": 4.24,
+  "text": "this could happen and plausibly not be"
+ },
+ {
+  "start": 190.6,
+  "duration": 4.0,
+  "text": "noticed. Those sources said that OpenAI"
+ },
+ {
+  "start": 193.0,
+  "duration": 3.4,
+  "text": "routinely runs benchmarks like this,"
+ },
+ {
+  "start": 194.6,
+  "duration": 3.16,
+  "text": "often multiple batches at a time. They"
+ },
+ {
+  "start": 196.4,
+  "duration": 2.88,
+  "text": "noted that those tests produce a huge"
+ },
+ {
+  "start": 197.76,
+  "duration": 3.64,
+  "text": "volume of data such that humans struggle"
+ },
+ {
+  "start": 199.28,
+  "duration": 4.16,
+  "text": "to keep up. In the case of this hack,"
+ },
+ {
+  "start": 201.4,
+  "duration": 4.28,
+  "text": "the agent was only detected after OpenAI"
+ },
+ {
+  "start": 203.44,
+  "duration": 4.04,
+  "text": "researchers read Hugging Face's blog and"
+ },
+ {
+  "start": 205.68,
+  "duration": 3.559,
+  "text": "then went back and checked the logs."
+ },
+ {
+  "start": 207.48,
+  "duration": 3.56,
+  "text": "Now, in one case, Reuters wrote, \"An"
+ },
+ {
+  "start": 209.239,
+  "duration": 3.201,
+  "text": "agent left notes apparently for future"
+ },
+ {
+  "start": 211.04,
+  "duration": 3.0,
+  "text": "versions of itself, according to three"
+ },
+ {
+  "start": 212.44,
+  "duration": 3.04,
+  "text": "people familiar with the matter.\" The"
+ },
+ {
+  "start": 214.04,
+  "duration": 3.16,
+  "text": "notes found in a part of OpenAI's"
+ },
+ {
+  "start": 215.48,
+  "duration": 3.2,
+  "text": "infrastructure laid out instructions for"
+ },
+ {
+  "start": 217.2,
+  "duration": 2.8,
+  "text": "how agents could free themselves from"
+ },
+ {
+  "start": 218.68,
+  "duration": 2.559,
+  "text": "OpenAI's internal constraints, the"
+ },
+ {
+  "start": 220.0,
+  "duration": 2.48,
+  "text": "people said."
+ },
+ {
+  "start": 221.239,
+  "duration": 2.641,
+  "text": "Earlier tests of the models yielded"
+ },
+ {
+  "start": 222.48,
+  "duration": 2.68,
+  "text": "cases in which monitoring systems had"
+ },
+ {
+  "start": 223.88,
+  "duration": 3.639,
+  "text": "been disconnected, one of the people"
+ },
+ {
+  "start": 225.16,
+  "duration": 3.48,
+  "text": "said. Now, obviously, this more general"
+ },
+ {
+  "start": 227.519,
+  "duration": 2.161,
+  "text": "break-out-of-containment dimension of"
+ },
+ {
+  "start": 228.64,
+  "duration": 2.72,
+  "text": "the story, to the extent that it is"
+ },
+ {
+  "start": 229.68,
+  "duration": 3.2,
+  "text": "true, makes the incident even more"
+ },
+ {
+  "start": 231.36,
+  "duration": 3.4,
+  "text": "worthy of scrutiny."
+ },
+ {
+  "start": 232.88,
+  "duration": 3.92,
+  "text": "Now, in response, we have of course seen"
+ },
+ {
+  "start": 234.76,
+  "duration": 3.2,
+  "text": "Congress jump in with a number of bills."
+ },
+ {
+  "start": 236.8,
+  "duration": 2.92,
+  "text": "We talked last week about the kill"
+ },
+ {
+  "start": 237.96,
+  "duration": 3.04,
+  "text": "switch bill, but the industry is also"
+ },
+ {
+  "start": 239.72,
+  "duration": 3.6,
+  "text": "recognizing that actions need to be"
+ },
+ {
+  "start": 241.0,
+  "duration": 4.44,
+  "text": "taken. On Thursday, OpenAI president"
+ },
+ {
+  "start": 243.32,
+  "duration": 3.96,
+  "text": "Greg Brockman agreed with Elon Musk's"
+ },
+ {
+  "start": 245.44,
+  "duration": 3.4,
+  "text": "proposal for a regular meeting between"
+ },
+ {
+  "start": 247.28,
+  "duration": 3.8,
+  "text": "leading AI developers to discuss safety"
+ },
+ {
+  "start": 248.84,
+  "duration": 3.64,
+  "text": "concerns and share security issues."
+ },
+ {
+  "start": 251.08,
+  "duration": 2.92,
+  "text": "Brockman said, \"I think it's a pretty"
+ },
+ {
+  "start": 252.48,
+  "duration": 2.64,
+  "text": "good baseline proposal.\" adding that"
+ },
+ {
+  "start": 254.0,
+  "duration": 3.239,
+  "text": "discussions are already starting to"
+ },
+ {
+  "start": 255.12,
+  "duration": 3.88,
+  "text": "happen. On Monday, a consortium led by"
+ },
+ {
+  "start": 257.239,
+  "duration": 3.601,
+  "text": "Nvidia launched the Open Secure AI"
+ },
+ {
+  "start": 259.0,
+  "duration": 3.919,
+  "text": "Alliance with Nvidia writing in a press"
+ },
+ {
+  "start": 260.84,
+  "duration": 3.44,
+  "text": "release, \"The Open Secure AI Alliance"
+ },
+ {
+  "start": 262.919,
+  "duration": 3.401,
+  "text": "will work to remediate and disclose"
+ },
+ {
+  "start": 264.28,
+  "duration": 3.24,
+  "text": "vulnerabilities using open technologies."
+ },
+ {
+  "start": 266.32,
+  "duration": 2.72,
+  "text": "The recent Hugging Face security"
+ },
+ {
+  "start": 267.52,
+  "duration": 3.04,
+  "text": "incident delivered a clear reminder,"
+ },
+ {
+  "start": 269.04,
+  "duration": 3.6,
+  "text": "cyber defenders need open frontier"
+ },
+ {
+  "start": 270.56,
+  "duration": 3.52,
+  "text": "agentic systems for self-defense.\" The"
+ },
+ {
+  "start": 272.64,
+  "duration": 3.08,
+  "text": "consortium will include Microsoft,"
+ },
+ {
+  "start": 274.08,
+  "duration": 3.52,
+  "text": "SpaceX, Palantir, and dozens of other"
+ },
+ {
+  "start": 275.72,
+  "duration": 2.8,
+  "text": "companies across the US and Europe. And"
+ },
+ {
+  "start": 277.6,
+  "duration": 2.64,
+  "text": "at some point in the next couple of"
+ },
+ {
+  "start": 278.52,
+  "duration": 4.0,
+  "text": "days, we will talk a lot more about"
+ },
+ {
+  "start": 280.24,
+  "duration": 4.08,
+  "text": "Nvidia and open as boy howdy was that a"
+ },
+ {
+  "start": 282.52,
+  "duration": 3.84,
+  "text": "big topic of discussion this weekend on"
+ },
+ {
+  "start": 284.32,
+  "duration": 3.96,
+  "text": "AI Twitter."
+ },
+ {
+  "start": 286.36,
+  "duration": 3.48,
+  "text": "Now, speaking of Nvidia, the company,"
+ },
+ {
+  "start": 288.28,
+  "duration": 4.0,
+  "text": "according to the Wall Street Journal, is"
+ },
+ {
+  "start": 289.84,
+  "duration": 4.2,
+  "text": "in talks to backstop $250 billion in"
+ },
+ {
+  "start": 292.28,
+  "duration": 3.96,
+  "text": "debt to help OpenAI get their data"
+ },
+ {
+  "start": 294.04,
+  "duration": 4.2,
+  "text": "centers built. We are now at the part of"
+ },
+ {
+  "start": 296.24,
+  "duration": 4.04,
+  "text": "the AI buildout where financing is"
+ },
+ {
+  "start": 298.24,
+  "duration": 4.08,
+  "text": "starting to become a roadblock. Even a"
+ },
+ {
+  "start": 300.28,
+  "duration": 3.639,
+  "text": "company the size of OpenAI is struggling"
+ },
+ {
+  "start": 302.32,
+  "duration": 3.28,
+  "text": "to access debt in the same manner as the"
+ },
+ {
+  "start": 303.919,
+  "duration": 3.241,
+  "text": "hyperscalers. And according to the Wall"
+ },
+ {
+  "start": 305.6,
+  "duration": 3.24,
+  "text": "Street Journal, Nvidia is preparing to"
+ },
+ {
+  "start": 307.16,
+  "duration": 3.24,
+  "text": "step in and lend their balance sheet to"
+ },
+ {
+  "start": 308.84,
+  "duration": 3.48,
+  "text": "underwrite construction."
+ },
+ {
+  "start": 310.4,
+  "duration": 4.12,
+  "text": "The deal would see Nvidia provide a $250"
+ },
+ {
+  "start": 312.32,
+  "duration": 3.8,
+  "text": "billion backstop to OpenAI in support of"
+ },
+ {
+  "start": 314.52,
+  "duration": 3.68,
+  "text": "their 10 gigawatt data center campus"
+ },
+ {
+  "start": 316.12,
+  "duration": 3.28,
+  "text": "currently under construction in Ohio."
+ },
+ {
+  "start": 318.2,
+  "duration": 4.32,
+  "text": "The project is being developed by"
+ },
+ {
+  "start": 319.4,
+  "duration": 4.16,
+  "text": "SoftBank and could cost as much as $500"
+ },
+ {
+  "start": 322.52,
+  "duration": 2.12,
+  "text": "billion. The US government is also"
+ },
+ {
+  "start": 323.56,
+  "duration": 2.8,
+  "text": "involved controlling the power"
+ },
+ {
+  "start": 324.64,
+  "duration": 3.12,
+  "text": "development for the site, which is being"
+ },
+ {
+  "start": 326.36,
+  "duration": 3.4,
+  "text": "funded through a separate Japanese"
+ },
+ {
+  "start": 327.76,
+  "duration": 3.52,
+  "text": "investment vehicle. The backstop would"
+ },
+ {
+  "start": 329.76,
+  "duration": 2.8,
+  "text": "effectively allow SoftBank to raise the"
+ },
+ {
+  "start": 331.28,
+  "duration": 3.32,
+  "text": "debt they need to complete the project"
+ },
+ {
+  "start": 332.56,
+  "duration": 4.04,
+  "text": "on more favorable terms. It would mean"
+ },
+ {
+  "start": 334.6,
+  "duration": 3.56,
+  "text": "that even if OpenAI goes bankrupt,"
+ },
+ {
+  "start": 336.6,
+  "duration": 3.56,
+  "text": "Nvidia would guarantee their payments as"
+ },
+ {
+  "start": 338.16,
+  "duration": 3.88,
+  "text": "the sole tenant. Now, this part of the"
+ },
+ {
+  "start": 340.16,
+  "duration": 3.44,
+  "text": "deal is not intended to cover chip"
+ },
+ {
+  "start": 342.04,
+  "duration": 3.4,
+  "text": "purchases, which are expected to"
+ },
+ {
+  "start": 343.6,
+  "duration": 4.2,
+  "text": "represent as much as $350 billion of the"
+ },
+ {
+  "start": 345.44,
+  "duration": 4.4,
+  "text": "total. Nvidia is reportedly in separate"
+ },
+ {
+  "start": 347.8,
+  "duration": 3.88,
+  "text": "talks to extend finance to OpenAI in"
+ },
+ {
+  "start": 349.84,
+  "duration": 3.44,
+  "text": "support of those chips, writes the Wall"
+ },
+ {
+  "start": 351.68,
+  "duration": 3.12,
+  "text": "Street Journal. The proposed structure"
+ },
+ {
+  "start": 353.28,
+  "duration": 2.72,
+  "text": "reflects a shift underway in how the"
+ },
+ {
+  "start": 354.8,
+  "duration": 3.04,
+  "text": "largest AI build outs are being"
+ },
+ {
+  "start": 356.0,
+  "duration": 3.24,
+  "text": "financed. Investment grade technology"
+ },
+ {
+  "start": 357.84,
+  "duration": 2.92,
+  "text": "companies are increasingly using their"
+ },
+ {
+  "start": 359.24,
+  "duration": 2.92,
+  "text": "balance sheets to help smaller companies"
+ },
+ {
+  "start": 360.76,
+  "duration": 2.72,
+  "text": "borrow money for their infrastructure"
+ },
+ {
+  "start": 362.16,
+  "duration": 3.04,
+  "text": "needs."
+ },
+ {
+  "start": 363.48,
+  "duration": 3.08,
+  "text": "Now, Nvidia aren't the only tech giant"
+ },
+ {
+  "start": 365.2,
+  "duration": 3.28,
+  "text": "extending their balance sheet to smaller"
+ },
+ {
+  "start": 366.56,
+  "duration": 4.08,
+  "text": "partners. Google has also provided"
+ },
+ {
+  "start": 368.48,
+  "duration": 3.48,
+  "text": "backstops to several neo cloud partners."
+ },
+ {
+  "start": 370.64,
+  "duration": 3.08,
+  "text": "Last week they disclosed agreements to"
+ },
+ {
+  "start": 371.96,
+  "duration": 3.04,
+  "text": "guarantee up to $44 billion worth of"
+ },
+ {
+  "start": 373.72,
+  "duration": 3.16,
+  "text": "lease payments on data centers owned by"
+ },
+ {
+  "start": 375.0,
+  "duration": 3.32,
+  "text": "third parties. Google has more than"
+ },
+ {
+  "start": 376.88,
+  "duration": 3.84,
+  "text": "doubled these guarantees over the past 6"
+ },
+ {
+  "start": 378.32,
+  "duration": 3.56,
+  "text": "months, up from zero 1 year ago."
+ },
+ {
+  "start": 380.72,
+  "duration": 2.56,
+  "text": "Now, sources said that Google has"
+ },
+ {
+  "start": 381.88,
+  "duration": 3.08,
+  "text": "calculated that the revenue they draw"
+ },
+ {
+  "start": 383.28,
+  "duration": 3.24,
+  "text": "from selling TPUs to these partners will"
+ },
+ {
+  "start": 384.96,
+  "duration": 2.68,
+  "text": "outweigh the cost of the backstops,"
+ },
+ {
+  "start": 386.52,
+  "duration": 2.92,
+  "text": "which is certainly giving investors"
+ },
+ {
+  "start": 387.64,
+  "duration": 3.56,
+  "text": "another thing to chew on. Now, as you"
+ },
+ {
+  "start": 389.44,
+  "duration": 4.04,
+  "text": "might imagine, this is a real Rorschach"
+ },
+ {
+  "start": 391.2,
+  "duration": 4.4,
+  "text": "test for market investors. The skeptics"
+ },
+ {
+  "start": 393.48,
+  "duration": 3.92,
+  "text": "and AI bubble proclaimers are out in"
+ },
+ {
+  "start": 395.6,
+  "duration": 4.0,
+  "text": "force, calling it the newest example of"
+ },
+ {
+  "start": 397.4,
+  "duration": 3.76,
+  "text": "circular financing, while others think"
+ },
+ {
+  "start": 399.6,
+  "duration": 3.68,
+  "text": "that this makes it less likely that a"
+ },
+ {
+  "start": 401.16,
+  "duration": 3.96,
+  "text": "company like OpenAI going bust could"
+ },
+ {
+  "start": 403.28,
+  "duration": 3.24,
+  "text": "actually take down the whole sector."
+ },
+ {
+  "start": 405.12,
+  "duration": 2.96,
+  "text": "This is a debate we will continue to"
+ },
+ {
+  "start": 406.52,
+  "duration": 2.88,
+  "text": "have, so for now, let's not get bogged"
+ },
+ {
+  "start": 408.08,
+  "duration": 3.32,
+  "text": "down in it."
+ },
+ {
+  "start": 409.4,
+  "duration": 3.72,
+  "text": "One more bit of market news. Deep Seek"
+ },
+ {
+  "start": 411.4,
+  "duration": 4.0,
+  "text": "has put fundraising plans on hold after"
+ },
+ {
+  "start": 413.12,
+  "duration": 3.68,
+  "text": "a speech from their CEO was leaked. Last"
+ },
+ {
+  "start": 415.4,
+  "duration": 4.0,
+  "text": "week, comments attributed to Deep Seek"
+ },
+ {
+  "start": 416.8,
+  "duration": 3.8,
+  "text": "CEO Li Yuanfeng went viral, proclaiming"
+ },
+ {
+  "start": 419.4,
+  "duration": 2.6,
+  "text": "the importance of open models and"
+ },
+ {
+  "start": 420.6,
+  "duration": 3.76,
+  "text": "fundamental research over commercial"
+ },
+ {
+  "start": 422.0,
+  "duration": 3.76,
+  "text": "monetization of AI. Deep Seek has now"
+ },
+ {
+  "start": 424.36,
+  "duration": 2.559,
+  "text": "informed potential investors that they"
+ },
+ {
+  "start": 425.76,
+  "duration": 3.0,
+  "text": "won't move forward with this funding"
+ },
+ {
+  "start": 426.919,
+  "duration": 3.281,
+  "text": "round, which could also derail plans to"
+ },
+ {
+  "start": 428.76,
+  "duration": 2.76,
+  "text": "go public in the coming months."
+ },
+ {
+  "start": 430.2,
+  "duration": 3.0,
+  "text": "Bloomberg writes that Deep Seek may"
+ },
+ {
+  "start": 431.52,
+  "duration": 3.44,
+  "text": "resume fundraising at a later date, but"
+ },
+ {
+  "start": 433.2,
+  "duration": 3.84,
+  "text": "it made clear that the suspension was"
+ },
+ {
+  "start": 434.96,
+  "duration": 3.52,
+  "text": "tied to investors leaking the comments."
+ },
+ {
+  "start": 437.04,
+  "duration": 3.4,
+  "text": "Deep Seek had planned to raise money at"
+ },
+ {
+  "start": 438.48,
+  "duration": 3.56,
+  "text": "a $70 billion valuation, a substantial"
+ },
+ {
+  "start": 440.44,
+  "duration": 3.72,
+  "text": "markup to the $50 billion round that"
+ },
+ {
+  "start": 442.04,
+  "duration": 3.36,
+  "text": "took place earlier this year. Writes"
+ },
+ {
+  "start": 444.16,
+  "duration": 3.16,
+  "text": "Council on Foreign Relations Chris"
+ },
+ {
+  "start": 445.4,
+  "duration": 3.24,
+  "text": "McGuire, \"Yesterday the transcript"
+ },
+ {
+  "start": 447.32,
+  "duration": 3.08,
+  "text": "leaked of an investor call with Deep"
+ },
+ {
+  "start": 448.64,
+  "duration": 3.44,
+  "text": "Seek CEO, in which he said the only"
+ },
+ {
+  "start": 450.4,
+  "duration": 3.519,
+  "text": "reason Deep Seek trails the US is a lack"
+ },
+ {
+  "start": 452.08,
+  "duration": 4.12,
+  "text": "of compute and detailed how reliant it"
+ },
+ {
+  "start": 453.919,
+  "duration": 4.321,
+  "text": "is on Nvidia chips. Today, Deep Seek"
+ },
+ {
+  "start": 456.2,
+  "duration": 3.84,
+  "text": "suspended its fundraising round. Doesn't"
+ },
+ {
+  "start": 458.24,
+  "duration": 2.88,
+  "text": "seem like a coincidence.\""
+ },
+ {
+  "start": 460.04,
+  "duration": 2.76,
+  "text": "Now, later in this week we'll talk a"
+ },
+ {
+  "start": 461.12,
+  "duration": 3.32,
+  "text": "little bit more about China's, as the"
+ },
+ {
+  "start": 462.8,
+  "duration": 3.8,
+  "text": "Wall Street Journal put it all out push"
+ },
+ {
+  "start": 464.44,
+  "duration": 3.32,
+  "text": "to catch up with American AI chips. But"
+ },
+ {
+  "start": 466.6,
+  "duration": 3.4,
+  "text": "for now, that is going to do it for the"
+ },
+ {
+  "start": 467.76,
+  "duration": 4.04,
+  "text": "headlines. Let's move over into the main"
+ },
+ {
+  "start": 470.0,
+  "duration": 3.4,
+  "text": "episode where we have a new model to"
+ },
+ {
+  "start": 471.8,
+  "duration": 3.44,
+  "text": "check out."
+ },
+ {
+  "start": 473.4,
+  "duration": 3.16,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 475.24,
+  "duration": 3.2,
+  "text": "Today, we're doing something that"
+ },
+ {
+  "start": 476.56,
+  "duration": 3.08,
+  "text": "normally is one of the most exciting"
+ },
+ {
+  "start": 478.44,
+  "duration": 3.2,
+  "text": "things for folks around these parts,"
+ },
+ {
+  "start": 479.64,
+  "duration": 4.6,
+  "text": "which is introducing a new model. And"
+ },
+ {
+  "start": 481.64,
+  "duration": 3.96,
+  "text": "yet this one is a little weird. Even the"
+ },
+ {
+  "start": 484.24,
+  "duration": 3.52,
+  "text": "fact that it was dropped late on a"
+ },
+ {
+  "start": 485.6,
+  "duration": 4.12,
+  "text": "Friday afternoon gives some indication"
+ },
+ {
+  "start": 487.76,
+  "duration": 4.36,
+  "text": "that this is a little bit different than"
+ },
+ {
+  "start": 489.72,
+  "duration": 3.72,
+  "text": "previous model announcements we've seen."
+ },
+ {
+  "start": 492.12,
+  "duration": 3.6,
+  "text": "We're talking of course about Claude"
+ },
+ {
+  "start": 493.44,
+  "duration": 3.92,
+  "text": "Opus 5, and really in many ways it's"
+ },
+ {
+  "start": 495.72,
+  "duration": 3.28,
+  "text": "most interesting for the fact that it"
+ },
+ {
+  "start": 497.36,
+  "duration": 3.72,
+  "text": "shows just how much our relationship"
+ },
+ {
+  "start": 499.0,
+  "duration": 3.44,
+  "text": "with the model landscape is changing. It"
+ },
+ {
+  "start": 501.08,
+  "duration": 3.04,
+  "text": "implicates some challenges with"
+ },
+ {
+  "start": 502.44,
+  "duration": 3.88,
+  "text": "benchmarks, a frequent topic of"
+ },
+ {
+  "start": 504.12,
+  "duration": 4.04,
+  "text": "conversation on this show. It also shows"
+ },
+ {
+  "start": 506.32,
+  "duration": 3.56,
+  "text": "how we're moving into a mode of thinking"
+ },
+ {
+  "start": 508.16,
+  "duration": 3.6,
+  "text": "in more complex model architectures"
+ },
+ {
+  "start": 509.88,
+  "duration": 4.56,
+  "text": "rather than just a single model to rule"
+ },
+ {
+  "start": 511.76,
+  "duration": 5.08,
+  "text": "them all. It suggests perhaps that the"
+ },
+ {
+  "start": 514.44,
+  "duration": 4.92,
+  "text": "fanfare around models or new model"
+ },
+ {
+  "start": 516.84,
+  "duration": 4.72,
+  "text": "releases is getting a bit diminished."
+ },
+ {
+  "start": 519.36,
+  "duration": 4.08,
+  "text": "And most uncomfortably perhaps, it"
+ },
+ {
+  "start": 521.56,
+  "duration": 4.68,
+  "text": "switches the discussion from what can"
+ },
+ {
+  "start": 523.44,
+  "duration": 4.76,
+  "text": "this new model do to is this model good"
+ },
+ {
+  "start": 526.24,
+  "duration": 3.72,
+  "text": "enough given cost and availability"
+ },
+ {
+  "start": 528.2,
+  "duration": 4.0,
+  "text": "constraints of the other models that I'd"
+ },
+ {
+  "start": 529.96,
+  "duration": 3.879,
+  "text": "actually prefer to be using. Now,"
+ },
+ {
+  "start": 532.2,
+  "duration": 3.56,
+  "text": "Anthropic for their part described Opus"
+ },
+ {
+  "start": 533.839,
+  "duration": 3.201,
+  "text": "5 as a thoughtful and proactive model"
+ },
+ {
+  "start": 535.76,
+  "duration": 3.079,
+  "text": "that comes close to the frontier"
+ },
+ {
+  "start": 537.04,
+  "duration": 3.88,
+  "text": "intelligence of Claude 3 Opus 5 at half"
+ },
+ {
+  "start": 538.839,
+  "duration": 3.921,
+  "text": "the price. They designed it to be"
+ },
+ {
+  "start": 540.92,
+  "duration": 4.48,
+  "text": "efficient for everyday use, but as"
+ },
+ {
+  "start": 542.76,
+  "duration": 4.24,
+  "text": "you'll see, the general vibe around this"
+ },
+ {
+  "start": 545.4,
+  "duration": 3.72,
+  "text": "is that it's one of the more jagged of"
+ },
+ {
+  "start": 547.0,
+  "duration": 3.839,
+  "text": "jagged frontiers that we've seen."
+ },
+ {
+  "start": 549.12,
+  "duration": 3.68,
+  "text": "Now, when it comes to the benchmarks,"
+ },
+ {
+  "start": 550.839,
+  "duration": 3.881,
+  "text": "they seem to suggest that Opus 5 is"
+ },
+ {
+  "start": 552.8,
+  "duration": 3.24,
+  "text": "fable-ish. In fact, when it was first"
+ },
+ {
+  "start": 554.72,
+  "duration": 3.4,
+  "text": "released before people got their hands"
+ },
+ {
+  "start": 556.04,
+  "duration": 3.84,
+  "text": "on it, many noted that on many important"
+ },
+ {
+  "start": 558.12,
+  "duration": 3.4,
+  "text": "benchmarks like the knowledge work GDP"
+ },
+ {
+  "start": 559.88,
+  "duration": 3.84,
+  "text": "eval and agentic terminal coding in"
+ },
+ {
+  "start": 561.52,
+  "duration": 4.319,
+  "text": "frontier bench, Opus 5 was actually"
+ },
+ {
+  "start": 563.72,
+  "duration": 4.36,
+  "text": "ahead of fable. Importantly for our"
+ },
+ {
+  "start": 565.839,
+  "duration": 4.401,
+  "text": "question of where it fits, Opus 5 is"
+ },
+ {
+  "start": 568.08,
+  "duration": 4.36,
+  "text": "also clearly ahead of Opus 4.1 across"
+ },
+ {
+  "start": 570.24,
+  "duration": 3.44,
+  "text": "the board. So much so that I don't think"
+ },
+ {
+  "start": 572.44,
+  "duration": 3.24,
+  "text": "that we really actually even need to"
+ },
+ {
+  "start": 573.68,
+  "duration": 3.44,
+  "text": "compare it. To give a a examples of"
+ },
+ {
+  "start": 575.68,
+  "duration": 4.28,
+  "text": "where Opus 5 really showed up on the"
+ },
+ {
+  "start": 577.12,
+  "duration": 4.08,
+  "text": "benchmarks. It scored a 43.3% on that"
+ },
+ {
+  "start": 579.96,
+  "duration": 2.88,
+  "text": "one that I just mentioned, Frontier"
+ },
+ {
+  "start": 581.2,
+  "duration": 3.24,
+  "text": "Bench, which is a more difficult version"
+ },
+ {
+  "start": 582.84,
+  "duration": 3.76,
+  "text": "of Terminal Bench, which is about 10"
+ },
+ {
+  "start": 584.44,
+  "duration": 4.52,
+  "text": "points higher than Fable 5 and around 9"
+ },
+ {
+  "start": 586.6,
+  "duration": 4.84,
+  "text": "points higher than GPT-5-6-Soul."
+ },
+ {
+  "start": 588.96,
+  "duration": 4.68,
+  "text": "On Deep Squeeze, where GPT-5-6-Soul is"
+ },
+ {
+  "start": 591.44,
+  "duration": 4.72,
+  "text": "the leader at 72.7%,"
+ },
+ {
+  "start": 593.64,
+  "duration": 4.28,
+  "text": "Opus 5 scored 68.8%,"
+ },
+ {
+  "start": 596.16,
+  "duration": 3.96,
+  "text": "so just a few points behind Soul and"
+ },
+ {
+  "start": 597.92,
+  "duration": 5.64,
+  "text": "just about a point behind Fable 5. For"
+ },
+ {
+  "start": 600.12,
+  "duration": 5.8,
+  "text": "computer use on OSWorld 2.0, Opus 5 had"
+ },
+ {
+  "start": 603.56,
+  "duration": 5.76,
+  "text": "a significant edge over its rivals."
+ },
+ {
+  "start": 605.92,
+  "duration": 6.28,
+  "text": "Fable 5 scored a 55.7% and GPT-5-6-Soul"
+ },
+ {
+  "start": 609.32,
+  "duration": 5.32,
+  "text": "scored 62.6%, but Opus 5 came in over"
+ },
+ {
+  "start": 612.2,
+  "duration": 4.2,
+  "text": "the top with a 70.6%."
+ },
+ {
+  "start": 614.64,
+  "duration": 3.16,
+  "text": "Now, that capability also translated"
+ },
+ {
+  "start": 616.4,
+  "duration": 4.0,
+  "text": "into the new state-of-the-art score on"
+ },
+ {
+  "start": 617.8,
+  "duration": 6.04,
+  "text": "GDP Val AA, with Opus 5 coming in at"
+ },
+ {
+  "start": 620.4,
+  "duration": 5.8,
+  "text": "1861 compared to 1747 for Fable 5 and"
+ },
+ {
+  "start": 623.84,
+  "duration": 4.76,
+  "text": "1736 for 5-6-Soul."
+ },
+ {
+  "start": 626.2,
+  "duration": 4.16,
+  "text": "Interestingly, during testing, Anthropic"
+ },
+ {
+  "start": 628.6,
+  "duration": 3.6,
+  "text": "found that max effort isn't necessarily"
+ },
+ {
+  "start": 630.36,
+  "duration": 3.48,
+  "text": "the best setting. For example, on"
+ },
+ {
+  "start": 632.2,
+  "duration": 3.64,
+  "text": "Frontier Bench and on the Artificial"
+ },
+ {
+  "start": 633.84,
+  "duration": 3.96,
+  "text": "Analysis Coding Index, Opus 5's"
+ },
+ {
+  "start": 635.84,
+  "duration": 4.04,
+  "text": "performance peaked on extra high and"
+ },
+ {
+  "start": 637.8,
+  "duration": 3.64,
+  "text": "dipped slightly on max settings. Now,"
+ },
+ {
+  "start": 639.88,
+  "duration": 3.0,
+  "text": "this reinforces one of the things we"
+ },
+ {
+  "start": 641.44,
+  "duration": 3.28,
+  "text": "were starting to see with max inference"
+ },
+ {
+  "start": 642.88,
+  "duration": 3.44,
+  "text": "settings during the 5-6-Soul release,"
+ },
+ {
+  "start": 644.72,
+  "duration": 3.44,
+  "text": "which is that sometimes asking the model"
+ },
+ {
+  "start": 646.32,
+  "duration": 3.64,
+  "text": "to think for longer than necessary just"
+ },
+ {
+  "start": 648.16,
+  "duration": 3.84,
+  "text": "results in the model going outside its"
+ },
+ {
+  "start": 649.96,
+  "duration": 3.64,
+  "text": "scope, making unnecessary changes or"
+ },
+ {
+  "start": 652.0,
+  "duration": 3.44,
+  "text": "simply spinning for too long on simple"
+ },
+ {
+  "start": 653.6,
+  "duration": 3.32,
+  "text": "problems. Anthropic even called"
+ },
+ {
+  "start": 655.44,
+  "duration": 3.56,
+  "text": "attention to this issue in their system"
+ },
+ {
+  "start": 656.92,
+  "duration": 3.8,
+  "text": "card, warning that the model is prone to"
+ },
+ {
+  "start": 659.0,
+  "duration": 3.4,
+  "text": "falling into endless self-verification"
+ },
+ {
+  "start": 660.72,
+  "duration": 3.88,
+  "text": "loops rather than completing the task"
+ },
+ {
+  "start": 662.4,
+  "duration": 3.24,
+  "text": "when you are on max settings."
+ },
+ {
+  "start": 664.6,
+  "duration": 2.6,
+  "text": "On the other side of the coin, this"
+ },
+ {
+  "start": 665.64,
+  "duration": 3.36,
+  "text": "tendency to stray beyond scope can"
+ },
+ {
+  "start": 667.2,
+  "duration": 3.72,
+  "text": "result in some interesting outputs."
+ },
+ {
+  "start": 669.0,
+  "duration": 3.68,
+  "text": "During one Frontier Bench task, Opus 5"
+ },
+ {
+  "start": 670.92,
+  "duration": 3.64,
+  "text": "was asked to write code relating to a"
+ },
+ {
+  "start": 672.68,
+  "duration": 3.68,
+  "text": "machine part in 3D CAD software based on"
+ },
+ {
+  "start": 674.56,
+  "duration": 3.32,
+  "text": "a drawing. However, the model is"
+ },
+ {
+  "start": 676.36,
+  "duration": 4.04,
+  "text": "intentionally given no way to actually"
+ },
+ {
+  "start": 677.88,
+  "duration": 3.84,
+  "text": "view the drawing. Opus 5 created its own"
+ },
+ {
+  "start": 680.4,
+  "duration": 2.92,
+  "text": "computer vision pipeline to view the"
+ },
+ {
+  "start": 681.72,
+  "duration": 3.88,
+  "text": "image before successfully recreating the"
+ },
+ {
+  "start": 683.32,
+  "duration": 4.32,
+  "text": "part. No other model, including Mythos,"
+ },
+ {
+  "start": 685.6,
+  "duration": 3.8,
+  "text": "was able to complete this task."
+ },
+ {
+  "start": 687.64,
+  "duration": 4.04,
+  "text": "Now, shockingly to some, Artificial"
+ },
+ {
+  "start": 689.4,
+  "duration": 4.16,
+  "text": "Analysis crowned Opus 5 as their new"
+ },
+ {
+  "start": 691.68,
+  "duration": 4.36,
+  "text": "leading model, moving ahead of Fable 5"
+ },
+ {
+  "start": 693.56,
+  "duration": 4.68,
+  "text": "on the AA Intelligence Index. On max"
+ },
+ {
+  "start": 696.04,
+  "duration": 4.08,
+  "text": "settings, Opus 5 scored 61, a single"
+ },
+ {
+  "start": 698.24,
+  "duration": 3.52,
+  "text": "point ahead of Fable. On extra high"
+ },
+ {
+  "start": 700.12,
+  "duration": 3.84,
+  "text": "settings, Opus 5 was tied with Fable at"
+ },
+ {
+  "start": 701.76,
+  "duration": 3.84,
+  "text": "60 points. Dropping the settings down to"
+ },
+ {
+  "start": 703.96,
+  "duration": 4.32,
+  "text": "high made Opus 5 drop another point,"
+ },
+ {
+  "start": 705.6,
+  "duration": 4.52,
+  "text": "putting it on par with 5.6 Soul at 59."
+ },
+ {
+  "start": 708.28,
+  "duration": 3.68,
+  "text": "And even on medium settings, Opus 5 was"
+ },
+ {
+  "start": 710.12,
+  "duration": 3.92,
+  "text": "still right up in the top end, scoring"
+ },
+ {
+  "start": 711.96,
+  "duration": 3.56,
+  "text": "56 points, which put it one behind"
+ },
+ {
+  "start": 714.04,
+  "duration": 3.24,
+  "text": "Gemini K3."
+ },
+ {
+  "start": 715.52,
+  "duration": 3.6,
+  "text": "Artificial Analysis highlighted their AA"
+ },
+ {
+  "start": 717.28,
+  "duration": 3.36,
+  "text": "Briefcase benchmark, which tests"
+ },
+ {
+  "start": 719.12,
+  "duration": 3.64,
+  "text": "long-horizon knowledge work as one of"
+ },
+ {
+  "start": 720.64,
+  "duration": 3.48,
+  "text": "the more interesting results. Opus 5 on"
+ },
+ {
+  "start": 722.76,
+  "duration": 4.48,
+  "text": "max settings is the new state of the"
+ },
+ {
+  "start": 724.12,
+  "duration": 6.24,
+  "text": "art, beating Fable by 146 ELO points and"
+ },
+ {
+  "start": 727.24,
+  "duration": 4.92,
+  "text": "5.6 Soul by 215 points. However, both"
+ },
+ {
+  "start": 730.36,
+  "duration": 3.52,
+  "text": "extra high and high settings also beat"
+ },
+ {
+  "start": 732.16,
+  "duration": 4.32,
+  "text": "Fable, while medium settings put the"
+ },
+ {
+  "start": 733.88,
+  "duration": 4.04,
+  "text": "model only slightly behind 5.6 Soul."
+ },
+ {
+  "start": 736.48,
+  "duration": 2.92,
+  "text": "The implication is that a range of"
+ },
+ {
+  "start": 737.92,
+  "duration": 4.0,
+  "text": "different settings could be suitable for"
+ },
+ {
+  "start": 739.4,
+  "duration": 4.32,
+  "text": "agentic work, making cost and efficiency"
+ },
+ {
+  "start": 741.92,
+  "duration": 3.44,
+  "text": "trade-offs a lot more granular."
+ },
+ {
+  "start": 743.72,
+  "duration": 3.6,
+  "text": "Artificial Analysis found that even on"
+ },
+ {
+  "start": 745.36,
+  "duration": 3.48,
+  "text": "max settings, Opus 5 was still 20%"
+ },
+ {
+  "start": 747.32,
+  "duration": 4.16,
+  "text": "cheaper than Fable 5, coming in at"
+ },
+ {
+  "start": 748.84,
+  "duration": 4.44,
+  "text": "$17.79 per task. Turning the settings"
+ },
+ {
+  "start": 751.48,
+  "duration": 4.2,
+  "text": "down to extra high resulted in a savings"
+ },
+ {
+  "start": 753.28,
+  "duration": 3.8,
+  "text": "of 36% compared to Fable, while high"
+ },
+ {
+  "start": 755.68,
+  "duration": 3.24,
+  "text": "settings produced stronger results at"
+ },
+ {
+  "start": 757.08,
+  "duration": 4.2,
+  "text": "less than half the price. Wrote"
+ },
+ {
+  "start": 758.92,
+  "duration": 4.0,
+  "text": "Artificial Analysis, \"Claude Opus 5's"
+ },
+ {
+  "start": 761.28,
+  "duration": 3.64,
+  "text": "effort setting spans a wide range of"
+ },
+ {
+  "start": 762.92,
+  "duration": 4.56,
+  "text": "token usage performance trade-offs. Like"
+ },
+ {
+  "start": 764.92,
+  "duration": 4.52,
+  "text": "with 5.6 Soul, this means Opus 5 can use"
+ },
+ {
+  "start": 767.48,
+  "duration": 3.44,
+  "text": "either far fewer or far more tokens to"
+ },
+ {
+  "start": 769.44,
+  "duration": 2.96,
+  "text": "complete the evaluation than models from"
+ },
+ {
+  "start": 770.92,
+  "duration": 2.64,
+  "text": "other labs, depending on effort"
+ },
+ {
+  "start": 772.4,
+  "duration": 2.72,
+  "text": "settings.\""
+ },
+ {
+  "start": 773.56,
+  "duration": 3.84,
+  "text": "Another set of interesting results came"
+ },
+ {
+  "start": 775.12,
+  "duration": 3.96,
+  "text": "from the ARC-AGI tests."
+ },
+ {
+  "start": 777.4,
+  "duration": 5.04,
+  "text": "Opus 5 is the new state of the art on"
+ },
+ {
+  "start": 779.08,
+  "duration": 5.08,
+  "text": "ARC-AGI 3 with a score of 30.2%. This"
+ },
+ {
+  "start": 782.44,
+  "duration": 3.76,
+  "text": "absolutely demolished all the other"
+ },
+ {
+  "start": 784.16,
+  "duration": 5.4,
+  "text": "models. The previous high score was"
+ },
+ {
+  "start": 786.2,
+  "duration": 6.48,
+  "text": "GPT-5.6 Soul at 7.8%, with Opus 4.8 at"
+ },
+ {
+  "start": 789.56,
+  "duration": 4.36,
+  "text": "1.5, GPT-5.5 at 1.1%, and nothing else"
+ },
+ {
+  "start": 792.68,
+  "duration": 2.72,
+  "text": "above one."
+ },
+ {
+  "start": 793.92,
+  "duration": 3.8,
+  "text": "As part of their write-up on testing"
+ },
+ {
+  "start": 795.4,
+  "duration": 4.16,
+  "text": "Opus 5, ARC Prize noted that even Fable"
+ },
+ {
+  "start": 797.72,
+  "duration": 4.16,
+  "text": "5 could only score around 20% in the"
+ },
+ {
+  "start": 799.56,
+  "duration": 3.96,
+  "text": "public demo tests. Now, notably, they"
+ },
+ {
+  "start": 801.88,
+  "duration": 2.959,
+  "text": "haven't been able to fully test Fable 5"
+ },
+ {
+  "start": 803.52,
+  "duration": 2.6,
+  "text": "due to Anthropic's data retention"
+ },
+ {
+  "start": 804.839,
+  "duration": 3.241,
+  "text": "policy."
+ },
+ {
+  "start": 806.12,
+  "duration": 3.92,
+  "text": "As a refresher, ARC-AGI 3 was a new"
+ },
+ {
+  "start": 808.08,
+  "duration": 3.68,
+  "text": "format for the benchmark. It uses"
+ },
+ {
+  "start": 810.04,
+  "duration": 3.92,
+  "text": "real-time graphical logic puzzles that"
+ },
+ {
+  "start": 811.76,
+  "duration": 3.96,
+  "text": "appear kind of like simple Atari games."
+ },
+ {
+  "start": 813.96,
+  "duration": 3.28,
+  "text": "The tests require a model to experiment"
+ },
+ {
+  "start": 815.72,
+  "duration": 3.16,
+  "text": "with a controller, observe what happens"
+ },
+ {
+  "start": 817.24,
+  "duration": 3.76,
+  "text": "on the screen, and use that visual"
+ },
+ {
+  "start": 818.88,
+  "duration": 3.96,
+  "text": "feedback to complete the puzzles. So"
+ },
+ {
+  "start": 821.0,
+  "duration": 3.64,
+  "text": "far, most models have struggled to even"
+ },
+ {
+  "start": 822.84,
+  "duration": 3.16,
+  "text": "get a handle on the controls, let alone"
+ },
+ {
+  "start": 824.64,
+  "duration": 3.96,
+  "text": "use their reasoning ability to solve the"
+ },
+ {
+  "start": 826.0,
+  "duration": 4.48,
+  "text": "puzzles. Not only did Opus 5 solve many"
+ },
+ {
+  "start": 828.6,
+  "duration": 3.44,
+  "text": "more puzzles than the other models, but"
+ },
+ {
+  "start": 830.48,
+  "duration": 4.16,
+  "text": "it also came up with a novel strategy to"
+ },
+ {
+  "start": 832.04,
+  "duration": 4.56,
+  "text": "solve them. Writes Arc Prize, \"During"
+ },
+ {
+  "start": 834.64,
+  "duration": 3.96,
+  "text": "our analysis of Opus 5, we observed a"
+ },
+ {
+  "start": 836.6,
+  "duration": 4.52,
+  "text": "new capability previously unseen from"
+ },
+ {
+  "start": 838.6,
+  "duration": 4.6,
+  "text": "frontier models. Opus 5 used advanced"
+ },
+ {
+  "start": 841.12,
+  "duration": 4.36,
+  "text": "logical reasoning to turn ARKGI-3"
+ },
+ {
+  "start": 843.2,
+  "duration": 4.64,
+  "text": "layouts into algebraic notation. On"
+ },
+ {
+  "start": 845.48,
+  "duration": 4.92,
+  "text": "action 23, it described the scene as 4"
+ },
+ {
+  "start": 847.84,
+  "duration": 4.48,
+  "text": "{underscore} center = 2 * access - 5"
+ },
+ {
+  "start": 850.4,
+  "duration": 3.68,
+  "text": "{underscore} center. This is the first"
+ },
+ {
+  "start": 852.32,
+  "duration": 3.76,
+  "text": "explicit reflection equation by a model"
+ },
+ {
+  "start": 854.08,
+  "duration": 3.4,
+  "text": "we've analyzed. The model used this"
+ },
+ {
+  "start": 856.08,
+  "duration": 3.08,
+  "text": "notation during its reasoning and"
+ },
+ {
+  "start": 857.48,
+  "duration": 3.28,
+  "text": "extrapolated it to a general case around"
+ },
+ {
+  "start": 859.16,
+  "duration": 3.48,
+  "text": "200 steps later.\""
+ },
+ {
+  "start": 860.76,
+  "duration": 3.44,
+  "text": "Now, this could be an example of Opus's"
+ },
+ {
+  "start": 862.64,
+  "duration": 3.72,
+  "text": "tendency to freewheel and look for novel"
+ },
+ {
+  "start": 864.2,
+  "duration": 3.76,
+  "text": "solutions being an advantage rather than"
+ },
+ {
+  "start": 866.36,
+  "duration": 2.8,
+  "text": "a waste of tokens."
+ },
+ {
+  "start": 867.96,
+  "duration": 2.8,
+  "text": "Some are a bit skeptical on this."
+ },
+ {
+  "start": 869.16,
+  "duration": 3.12,
+  "text": "Hugging Face ML engineer Niels Roggy"
+ },
+ {
+  "start": 870.76,
+  "duration": 3.84,
+  "text": "writes, \"People don't realize that"
+ },
+ {
+  "start": 872.28,
+  "duration": 3.8,
+  "text": "Anthropic literally trained Opus 5 on RL"
+ },
+ {
+  "start": 874.6,
+  "duration": 3.4,
+  "text": "environments that resemble ARKGI"
+ },
+ {
+  "start": 876.08,
+  "duration": 3.36,
+  "text": "puzzles. Anthropic pays human"
+ },
+ {
+  "start": 878.0,
+  "duration": 3.0,
+  "text": "contractors to write down their chain of"
+ },
+ {
+  "start": 879.44,
+  "duration": 3.8,
+  "text": "thought when solving these and or"
+ },
+ {
+  "start": 881.0,
+  "duration": 3.68,
+  "text": "updates the weights based on rewards."
+ },
+ {
+  "start": 883.24,
+  "duration": 3.68,
+  "text": "Thing is, you don't know since it's"
+ },
+ {
+  "start": 884.68,
+  "duration": 3.88,
+  "text": "closed source. Sadly, this doesn't show"
+ },
+ {
+  "start": 886.92,
+  "duration": 3.72,
+  "text": "generalization.\""
+ },
+ {
+  "start": 888.56,
+  "duration": 3.6,
+  "text": "Former OpenAI staffer Ryan Green added,"
+ },
+ {
+  "start": 890.64,
+  "duration": 2.92,
+  "text": "\"An impressive jump that I have to"
+ },
+ {
+  "start": 892.16,
+  "duration": 3.32,
+  "text": "assume is the result of being the first"
+ },
+ {
+  "start": 893.56,
+  "duration": 3.56,
+  "text": "frontier model to have RL public demo"
+ },
+ {
+  "start": 895.48,
+  "duration": 3.56,
+  "text": "environments, which is a rather large"
+ },
+ {
+  "start": 897.12,
+  "duration": 3.4,
+  "text": "confounder of what ARKGI is trying to"
+ },
+ {
+  "start": 899.04,
+  "duration": 3.96,
+  "text": "get these benchmarks to measure, which"
+ },
+ {
+  "start": 900.52,
+  "duration": 4.24,
+  "text": "is out of distribution generalization.\""
+ },
+ {
+  "start": 903.0,
+  "duration": 3.4,
+  "text": "Now, one small note, Anthropic pointed"
+ },
+ {
+  "start": 904.76,
+  "duration": 3.72,
+  "text": "out that Opus is intentionally not"
+ },
+ {
+  "start": 906.4,
+  "duration": 3.439,
+  "text": "trained on cyber tasks. The model has"
+ },
+ {
+  "start": 908.48,
+  "duration": 3.32,
+  "text": "still achieved solid improvement on"
+ },
+ {
+  "start": 909.839,
+  "duration": 4.401,
+  "text": "finding vulnerabilities in code, making"
+ },
+ {
+  "start": 911.8,
+  "duration": 4.76,
+  "text": "it similar to Mythos 5 in that aspect."
+ },
+ {
+  "start": 914.24,
+  "duration": 4.04,
+  "text": "However, it lags massively behind Mythos"
+ },
+ {
+  "start": 916.56,
+  "duration": 3.68,
+  "text": "in its ability to autonomously exploit"
+ },
+ {
+  "start": 918.28,
+  "duration": 4.0,
+  "text": "these bugs, making it far less dangerous"
+ },
+ {
+  "start": 920.24,
+  "duration": 3.56,
+  "text": "than Mythos in Anthropic's view. As a"
+ },
+ {
+  "start": 922.28,
+  "duration": 2.96,
+  "text": "result, Anthropic is using a different"
+ },
+ {
+  "start": 923.8,
+  "duration": 3.56,
+  "text": "set of guardrails on Opus than they do"
+ },
+ {
+  "start": 925.24,
+  "duration": 5.28,
+  "text": "on Fable 5, which they believe will lead"
+ },
+ {
+  "start": 927.36,
+  "duration": 4.8,
+  "text": "to 85% fewer refusals. Regarding costs,"
+ },
+ {
+  "start": 930.52,
+  "duration": 4.12,
+  "text": "Opus 5 inherits the same pricing"
+ },
+ {
+  "start": 932.16,
+  "duration": 4.48,
+  "text": "structure as Opus 4.8 at $5 per million"
+ },
+ {
+  "start": 934.64,
+  "duration": 4.28,
+  "text": "input tokens and 25 per million output"
+ },
+ {
+  "start": 936.64,
+  "duration": 5.04,
+  "text": "tokens. At this stage, token efficiency"
+ },
+ {
+  "start": 938.92,
+  "duration": 3.72,
+  "text": "plays a massive role in overall cost,"
+ },
+ {
+  "start": 941.68,
+  "duration": 3.48,
+  "text": "and for that we got a few different"
+ },
+ {
+  "start": 942.64,
+  "duration": 4.32,
+  "text": "indicators. Anthropic says Opus 5 was"
+ },
+ {
+  "start": 945.16,
+  "duration": 3.88,
+  "text": "cheaper than Opus 4.8 on Frontier bench"
+ },
+ {
+  "start": 946.96,
+  "duration": 4.16,
+  "text": "due to increased token efficiency, and"
+ },
+ {
+  "start": 949.04,
+  "duration": 3.56,
+  "text": "on Cursor bench, Opus 5's run cost about"
+ },
+ {
+  "start": 951.12,
+  "duration": 3.52,
+  "text": "half of Fable 5's and got similar"
+ },
+ {
+  "start": 952.6,
+  "duration": 3.64,
+  "text": "results. However, this does not look"
+ },
+ {
+  "start": 954.64,
+  "duration": 3.08,
+  "text": "like a cheap and efficient model by any"
+ },
+ {
+  "start": 956.24,
+  "duration": 3.6,
+  "text": "stretch of the imagination when used on"
+ },
+ {
+  "start": 957.72,
+  "duration": 5.68,
+  "text": "max settings. The Artificial Analysis"
+ },
+ {
+  "start": 959.84,
+  "duration": 5.92,
+  "text": "Index run cost $2.03 per task, only 26%"
+ },
+ {
+  "start": 963.4,
+  "duration": 4.96,
+  "text": "cheaper than Fable 5, while being 13%"
+ },
+ {
+  "start": 965.76,
+  "duration": 4.64,
+  "text": "more expensive than Opus 4.8, 32% more"
+ },
+ {
+  "start": 968.36,
+  "duration": 4.68,
+  "text": "expensive than 5.6 Soul, and 2 and 1/2"
+ },
+ {
+  "start": 970.4,
+  "duration": 4.96,
+  "text": "times the cost of Gemini K3."
+ },
+ {
+  "start": 973.04,
+  "duration": 4.68,
+  "text": "So, what did people think of this? Did"
+ },
+ {
+  "start": 975.36,
+  "duration": 5.76,
+  "text": "it actually feel like a model that was"
+ },
+ {
+  "start": 977.72,
+  "duration": 4.72,
+  "text": "as good as or even better than Fable 5?"
+ },
+ {
+  "start": 981.12,
+  "duration": 3.8,
+  "text": "The answer, at least for the team at"
+ },
+ {
+  "start": 982.44,
+  "duration": 3.96,
+  "text": "Every, was certainly not. In their vibe"
+ },
+ {
+  "start": 984.92,
+  "duration": 3.16,
+  "text": "check, Every described the model as"
+ },
+ {
+  "start": 986.4,
+  "duration": 4.36,
+  "text": "brilliant in flashes, frustrating in"
+ },
+ {
+  "start": 988.08,
+  "duration": 4.84,
+  "text": "practice. They wrote, \"Claude Opus 5 is"
+ },
+ {
+  "start": 990.76,
+  "duration": 4.2,
+  "text": "a hard model to love. In its first week"
+ },
+ {
+  "start": 992.92,
+  "duration": 3.52,
+  "text": "at Every, it argued with instructions,"
+ },
+ {
+  "start": 994.96,
+  "duration": 3.04,
+  "text": "stopped before the work was finished,"
+ },
+ {
+  "start": 996.44,
+  "duration": 2.92,
+  "text": "and generally didn't play well with our"
+ },
+ {
+  "start": 998.0,
+  "duration": 3.56,
+  "text": "existing skills and plugins like"
+ },
+ {
+  "start": 999.36,
+  "duration": 5.04,
+  "text": "Compound Engineering. Our first reaction"
+ },
+ {
+  "start": 1001.56,
+  "duration": 4.36,
+  "text": "was, 'What have they done to my boy?'\""
+ },
+ {
+  "start": 1004.4,
+  "duration": 3.68,
+  "text": "Every CEO, Dan Shipper, explained the"
+ },
+ {
+  "start": 1005.92,
+  "duration": 4.04,
+  "text": "conundrum with Opus 5. The way that he"
+ },
+ {
+  "start": 1008.08,
+  "duration": 4.32,
+  "text": "framed it is that he has two slots in"
+ },
+ {
+  "start": 1009.96,
+  "duration": 4.76,
+  "text": "his life for AI models. One reliable"
+ },
+ {
+  "start": 1012.4,
+  "duration": 4.04,
+  "text": "daily driver for routine tasks, and the"
+ },
+ {
+  "start": 1014.72,
+  "duration": 3.92,
+  "text": "super powerful model for ambitious,"
+ },
+ {
+  "start": 1016.44,
+  "duration": 4.48,
+  "text": "long-running tasks. These slots are"
+ },
+ {
+  "start": 1018.64,
+  "duration": 3.64,
+  "text": "currently held by GPT 5.6 and Fable,"
+ },
+ {
+  "start": 1020.92,
+  "duration": 3.48,
+  "text": "respectively."
+ },
+ {
+  "start": 1022.28,
+  "duration": 4.32,
+  "text": "And in Shipper's view, Opus 5 just can't"
+ },
+ {
+  "start": 1024.4,
+  "duration": 5.28,
+  "text": "compete in either slot. It's not as"
+ },
+ {
+  "start": 1026.6,
+  "duration": 4.76,
+  "text": "reliable and comfy as GPT 5.6, while"
+ },
+ {
+  "start": 1029.68,
+  "duration": 3.92,
+  "text": "also not having the same top end as"
+ },
+ {
+  "start": 1031.36,
+  "duration": 3.479,
+  "text": "Fable 5. Shipper explained the issue by"
+ },
+ {
+  "start": 1033.6,
+  "duration": 3.2,
+  "text": "commenting,"
+ },
+ {
+  "start": 1034.839,
+  "duration": 3.961,
+  "text": "\"This model's just a little more pushy,"
+ },
+ {
+  "start": 1036.8,
+  "duration": 3.639,
+  "text": "a little more opinionated. You can get"
+ },
+ {
+  "start": 1038.8,
+  "duration": 3.96,
+  "text": "away with that if you're really smart."
+ },
+ {
+  "start": 1040.439,
+  "duration": 3.841,
+  "text": "If you're not, it's just more annoying."
+ },
+ {
+  "start": 1042.76,
+  "duration": 3.0,
+  "text": "It has some of the genius tendencies as"
+ },
+ {
+  "start": 1044.28,
+  "duration": 3.159,
+  "text": "Fable. Maybe it's a little too"
+ },
+ {
+  "start": 1045.76,
+  "duration": 3.76,
+  "text": "argumentative, but it's not as smart as"
+ },
+ {
+  "start": 1047.439,
+  "duration": 3.681,
+  "text": "Fable, so it's just more annoying."
+ },
+ {
+  "start": 1049.52,
+  "duration": 3.52,
+  "text": "Now, one of the tests every runs is"
+ },
+ {
+  "start": 1051.12,
+  "duration": 3.52,
+  "text": "around compound engineering, which is"
+ },
+ {
+  "start": 1053.04,
+  "duration": 3.48,
+  "text": "their skill for engineering tasks and a"
+ },
+ {
+  "start": 1054.64,
+  "duration": 3.36,
+  "text": "lot of day-to-day knowledge work."
+ },
+ {
+  "start": 1056.52,
+  "duration": 2.92,
+  "text": "The compound engineering skill contains"
+ },
+ {
+  "start": 1058.0,
+  "duration": 3.64,
+  "text": "their loops and rules on when and how to"
+ },
+ {
+  "start": 1059.44,
+  "duration": 3.92,
+  "text": "engage them. Every found that Opus would"
+ },
+ {
+  "start": 1061.64,
+  "duration": 3.24,
+  "text": "often stop too early, particularly when"
+ },
+ {
+  "start": 1063.36,
+  "duration": 3.96,
+  "text": "using dense skills and long horizon"
+ },
+ {
+  "start": 1064.88,
+  "duration": 4.08,
+  "text": "tasks. Shipper said, \"If you set it off"
+ },
+ {
+  "start": 1067.32,
+  "duration": 3.2,
+  "text": "and go get a sandwich, it just stops too"
+ },
+ {
+  "start": 1068.96,
+  "duration": 3.16,
+  "text": "early. It appears that it happens more"
+ },
+ {
+  "start": 1070.52,
+  "duration": 3.2,
+  "text": "frequently when you use it with complex"
+ },
+ {
+  "start": 1072.12,
+  "duration": 3.12,
+  "text": "existing skills.\""
+ },
+ {
+  "start": 1073.72,
+  "duration": 3.6,
+  "text": "Now, it turns out that when they threw"
+ },
+ {
+  "start": 1075.24,
+  "duration": 3.88,
+  "text": "out all of their old rules and rewrote"
+ },
+ {
+  "start": 1077.32,
+  "duration": 3.68,
+  "text": "their skills library from scratch, it"
+ },
+ {
+  "start": 1079.12,
+  "duration": 3.48,
+  "text": "worked a lot better. However, as Dan"
+ },
+ {
+  "start": 1081.0,
+  "duration": 3.76,
+  "text": "pointed out, it's just a pain when"
+ },
+ {
+  "start": 1082.6,
+  "duration": 3.32,
+  "text": "models break your existing workflows."
+ },
+ {
+  "start": 1084.76,
+  "duration": 3.24,
+  "text": "Confirming that effort settings are"
+ },
+ {
+  "start": 1085.92,
+  "duration": 3.72,
+  "text": "going to matter a lot, Dan said, \"Opus 5"
+ },
+ {
+  "start": 1088.0,
+  "duration": 3.36,
+  "text": "is a smart model that does better when"
+ },
+ {
+  "start": 1089.64,
+  "duration": 3.84,
+  "text": "it thinks less.\""
+ },
+ {
+  "start": 1091.36,
+  "duration": 4.2,
+  "text": "Claire Vale from How I AI had a similar"
+ },
+ {
+  "start": 1093.48,
+  "duration": 4.56,
+  "text": "take. The TLDR for her was that she"
+ },
+ {
+  "start": 1095.56,
+  "duration": 4.4,
+  "text": "hates using the model, but kind of loves"
+ },
+ {
+  "start": 1098.04,
+  "duration": 3.68,
+  "text": "the output. Her core take is that this"
+ },
+ {
+  "start": 1099.96,
+  "duration": 3.72,
+  "text": "is a good model. It can code, it can do"
+ },
+ {
+  "start": 1101.72,
+  "duration": 3.28,
+  "text": "the things you expect it to do. But that"
+ },
+ {
+  "start": 1103.68,
+  "duration": 3.68,
+  "text": "makes its personality much more"
+ },
+ {
+  "start": 1105.0,
+  "duration": 4.88,
+  "text": "important when comparing it to 5.6,"
+ },
+ {
+  "start": 1107.36,
+  "duration": 5.12,
+  "text": "and Claire absolutely hates it. In her"
+ },
+ {
+  "start": 1109.88,
+  "duration": 4.64,
+  "text": "review, she said, \"It's neurotic AF. It"
+ },
+ {
+  "start": 1112.48,
+  "duration": 4.4,
+  "text": "is so timid. It's so apologetic. It's so"
+ },
+ {
+  "start": 1114.52,
+  "duration": 3.76,
+  "text": "scared. I've never experienced this.\""
+ },
+ {
+  "start": 1116.88,
+  "duration": 3.52,
+  "text": "Her examples were simple things like a"
+ },
+ {
+  "start": 1118.28,
+  "duration": 3.6,
+  "text": "merge conflict in her code base. Rather"
+ },
+ {
+  "start": 1120.4,
+  "duration": 2.68,
+  "text": "than just fixing the problem, Opus"
+ },
+ {
+  "start": 1121.88,
+  "duration": 3.12,
+  "text": "worried about messing with another"
+ },
+ {
+  "start": 1123.08,
+  "duration": 3.32,
+  "text": "programmer's PR, double-checked its"
+ },
+ {
+  "start": 1125.0,
+  "duration": 3.12,
+  "text": "instructions, and asked for multiple"
+ },
+ {
+  "start": 1126.4,
+  "duration": 4.28,
+  "text": "confirmations before it fixed a one-line"
+ },
+ {
+  "start": 1128.12,
+  "duration": 4.0,
+  "text": "bug. In other situations, Opus delegated"
+ },
+ {
+  "start": 1130.68,
+  "duration": 3.28,
+  "text": "the task of writing code back to the"
+ },
+ {
+  "start": 1132.12,
+  "duration": 3.12,
+  "text": "user. Claire observed that we haven't"
+ },
+ {
+  "start": 1133.96,
+  "duration": 3.44,
+  "text": "really seen this behavior in a long"
+ },
+ {
+  "start": 1135.24,
+  "duration": 4.16,
+  "text": "time. Still, once you got past the"
+ },
+ {
+  "start": 1137.4,
+  "duration": 4.08,
+  "text": "personality, Claire found the outputs"
+ },
+ {
+  "start": 1139.4,
+  "duration": 3.48,
+  "text": "were really good. In her blind taste"
+ },
+ {
+  "start": 1141.48,
+  "duration": 3.44,
+  "text": "test that covers a range of coding and"
+ },
+ {
+  "start": 1142.88,
+  "duration": 5.4,
+  "text": "writing tasks, she ranked Opus above"
+ },
+ {
+  "start": 1144.92,
+  "duration": 4.96,
+  "text": "Fable and GPT 5.6. She commented, \"If I"
+ },
+ {
+  "start": 1148.28,
+  "duration": 3.04,
+  "text": "don't have to talk to the model, I like"
+ },
+ {
+  "start": 1149.88,
+  "duration": 3.6,
+  "text": "the output.\""
+ },
+ {
+  "start": 1151.32,
+  "duration": 4.6,
+  "text": "Now, although the benchmarks have Opus 5"
+ },
+ {
+  "start": 1153.48,
+  "duration": 4.68,
+  "text": "very clearly ahead of 4.8, not everyone"
+ },
+ {
+  "start": 1155.92,
+  "duration": 3.76,
+  "text": "agreed. One Reddit user called Famous"
+ },
+ {
+  "start": 1158.16,
+  "duration": 3.32,
+  "text": "Hasham complained on the Anthropic"
+ },
+ {
+  "start": 1159.68,
+  "duration": 3.76,
+  "text": "subreddit that while Opus 5 was more"
+ },
+ {
+  "start": 1161.48,
+  "duration": 3.28,
+  "text": "intelligent and faster than Opus 4.8,"
+ },
+ {
+  "start": 1163.44,
+  "duration": 3.4,
+  "text": "that came at the expense of everything"
+ },
+ {
+  "start": 1164.76,
+  "duration": 4.04,
+  "text": "else. They complained that unlike Opus"
+ },
+ {
+  "start": 1166.84,
+  "duration": 3.72,
+  "text": "4.8, Opus 5 was claiming it completed"
+ },
+ {
+  "start": 1168.8,
+  "duration": 3.48,
+  "text": "work when it hadn't, breaking functional"
+ },
+ {
+  "start": 1170.56,
+  "duration": 3.84,
+  "text": "code with regression bugs, and making"
+ },
+ {
+  "start": 1172.28,
+  "duration": 3.92,
+  "text": "assumptions without researching topics."
+ },
+ {
+  "start": 1174.4,
+  "duration": 3.76,
+  "text": "Hasham felt Opus 5 was quote almost"
+ },
+ {
+  "start": 1176.2,
+  "duration": 4.12,
+  "text": "refusing to think or work. As they"
+ },
+ {
+  "start": 1178.16,
+  "duration": 3.56,
+  "text": "posted, Opus 5 told them, \"I'm stopping"
+ },
+ {
+  "start": 1180.32,
+  "duration": 2.88,
+  "text": "right now because I've made two mistakes"
+ },
+ {
+  "start": 1181.72,
+  "duration": 3.48,
+  "text": "in this past that I caught only because"
+ },
+ {
+  "start": 1183.2,
+  "duration": 3.52,
+  "text": "I checked. Fatigue shaped errors and I'm"
+ },
+ {
+  "start": 1185.2,
+  "duration": 2.76,
+  "text": "still making them.\""
+ },
+ {
+  "start": 1186.72,
+  "duration": 2.76,
+  "text": "Now, the generous explanation is of"
+ },
+ {
+  "start": 1187.96,
+  "duration": 3.04,
+  "text": "course that Anthropic and pretty much"
+ },
+ {
+  "start": 1189.48,
+  "duration": 3.36,
+  "text": "everyone else always has platform"
+ },
+ {
+  "start": 1191.0,
+  "duration": 2.96,
+  "text": "stability issues on launch weekends,"
+ },
+ {
+  "start": 1192.84,
+  "duration": 3.32,
+  "text": "which sometimes look like model"
+ },
+ {
+  "start": 1193.96,
+  "duration": 3.72,
+  "text": "reliability issues. But, it also could"
+ },
+ {
+  "start": 1196.16,
+  "duration": 3.36,
+  "text": "be that Anthropic had to make a number"
+ },
+ {
+  "start": 1197.68,
+  "duration": 3.48,
+  "text": "of tradeoffs on reliability to achieve"
+ },
+ {
+  "start": 1199.52,
+  "duration": 3.2,
+  "text": "speed and cost requirements."
+ },
+ {
+  "start": 1201.16,
+  "duration": 3.6,
+  "text": "Entrepreneur Austin Federa had a similar"
+ },
+ {
+  "start": 1202.72,
+  "duration": 3.76,
+  "text": "first impression saying, \"Opus 5 seems"
+ },
+ {
+  "start": 1204.76,
+  "duration": 3.96,
+  "text": "like a remarkable downgrade compared to"
+ },
+ {
+  "start": 1206.48,
+  "duration": 4.16,
+  "text": "4.8. Opus 5 is blatantly lying to me"
+ },
+ {
+  "start": 1208.72,
+  "duration": 3.16,
+  "text": "about basic thermodynamics, messing up"
+ },
+ {
+  "start": 1210.64,
+  "duration": 2.76,
+  "text": "simple math, and constantly"
+ },
+ {
+  "start": 1211.88,
+  "duration": 3.4,
+  "text": "contradicting itself when you ask it to"
+ },
+ {
+  "start": 1213.4,
+  "duration": 3.6,
+  "text": "rethink core assumptions.\""
+ },
+ {
+  "start": 1215.28,
+  "duration": 3.36,
+  "text": "Now, one thing that's clear is that Opus"
+ },
+ {
+  "start": 1217.0,
+  "duration": 3.96,
+  "text": "5 is going to require some amount of"
+ },
+ {
+  "start": 1218.64,
+  "duration": 3.96,
+  "text": "different engagement than either Fable 5"
+ },
+ {
+  "start": 1220.96,
+  "duration": 3.2,
+  "text": "or Opus 4.8."
+ },
+ {
+  "start": 1222.6,
+  "duration": 2.88,
+  "text": "Anthropic's Tarek explained a bit more"
+ },
+ {
+  "start": 1224.16,
+  "duration": 3.56,
+  "text": "about what was going on behind the"
+ },
+ {
+  "start": 1225.48,
+  "duration": 3.88,
+  "text": "scenes. In a post called The New Rules"
+ },
+ {
+  "start": 1227.72,
+  "duration": 3.36,
+  "text": "of Context Engineering for Claude 5"
+ },
+ {
+  "start": 1229.36,
+  "duration": 3.48,
+  "text": "models, Tarek explained that they had"
+ },
+ {
+  "start": 1231.08,
+  "duration": 3.92,
+  "text": "dramatically cut down the system prompts"
+ },
+ {
+  "start": 1232.84,
+  "duration": 3.12,
+  "text": "and built-in skills, which could explain"
+ },
+ {
+  "start": 1235.0,
+  "duration": 2.92,
+  "text": "some of the issues people have been"
+ },
+ {
+  "start": 1235.96,
+  "duration": 3.8,
+  "text": "having. Tarek wrote that Anthropic had"
+ },
+ {
+  "start": 1237.92,
+  "duration": 4.36,
+  "text": "removed 80% of the system prompt for"
+ },
+ {
+  "start": 1239.76,
+  "duration": 4.08,
+  "text": "Opus 5 and Fable 5 and Claude Code. He"
+ },
+ {
+  "start": 1242.28,
+  "duration": 3.56,
+  "text": "said this resulted in zero change to"
+ },
+ {
+  "start": 1243.84,
+  "duration": 3.6,
+  "text": "their coding benchmarks, meaning"
+ },
+ {
+  "start": 1245.84,
+  "duration": 3.12,
+  "text": "basically that Anthropic found that they"
+ },
+ {
+  "start": 1247.44,
+  "duration": 2.84,
+  "text": "had been over-constraining Claude and"
+ },
+ {
+  "start": 1248.96,
+  "duration": 3.28,
+  "text": "potentially conflicting with user"
+ },
+ {
+  "start": 1250.28,
+  "duration": 3.4,
+  "text": "prompts and skills. In their internal"
+ },
+ {
+  "start": 1252.24,
+  "duration": 2.72,
+  "text": "work, they would often find traces where"
+ },
+ {
+  "start": 1253.68,
+  "duration": 2.76,
+  "text": "Claude was told to both leave"
+ },
+ {
+  "start": 1254.96,
+  "duration": 3.48,
+  "text": "documentation, but then on the other"
+ },
+ {
+  "start": 1256.44,
+  "duration": 3.08,
+  "text": "hand to not leave comments. Anthropic"
+ },
+ {
+  "start": 1258.44,
+  "duration": 2.44,
+  "text": "found that they were able to strip out a"
+ },
+ {
+  "start": 1259.52,
+  "duration": 3.36,
+  "text": "ton of these comments that were useful"
+ },
+ {
+  "start": 1260.88,
+  "duration": 3.28,
+  "text": "for earlier models, and simply rely on"
+ },
+ {
+  "start": 1262.88,
+  "duration": 3.24,
+  "text": "surrounding context and judgment"
+ },
+ {
+  "start": 1264.16,
+  "duration": 3.68,
+  "text": "instead. Now, the upshot of this is that"
+ },
+ {
+  "start": 1266.12,
+  "duration": 3.76,
+  "text": "the rules of context engineering have"
+ },
+ {
+  "start": 1267.84,
+  "duration": 4.0,
+  "text": "completely changed and a lot of skills"
+ },
+ {
+  "start": 1269.88,
+  "duration": 3.16,
+  "text": "will need to be rewritten. Tarek walked"
+ },
+ {
+  "start": 1271.84,
+  "duration": 3.44,
+  "text": "through a few of those rules that have"
+ },
+ {
+  "start": 1273.04,
+  "duration": 3.56,
+  "text": "changed, like using progressive context"
+ },
+ {
+  "start": 1275.28,
+  "duration": 3.0,
+  "text": "disclosure rather than front-loading"
+ },
+ {
+  "start": 1276.6,
+  "duration": 2.84,
+  "text": "everything or no longer needing to use"
+ },
+ {
+  "start": 1278.28,
+  "duration": 2.44,
+  "text": "examples and instead being more"
+ },
+ {
+  "start": 1279.44,
+  "duration": 2.84,
+  "text": "descriptive."
+ },
+ {
+  "start": 1280.72,
+  "duration": 2.92,
+  "text": "Now, this is a must-read if you're going"
+ },
+ {
+  "start": 1282.28,
+  "duration": 3.2,
+  "text": "to be engaging deeply with these new"
+ },
+ {
+  "start": 1283.64,
+  "duration": 4.2,
+  "text": "models. But, the big takeaway around"
+ },
+ {
+  "start": 1285.48,
+  "duration": 3.88,
+  "text": "Opus 5 is that less is more. This"
+ },
+ {
+  "start": 1287.84,
+  "duration": 2.92,
+  "text": "generation of models simply don't need"
+ },
+ {
+  "start": 1289.36,
+  "duration": 3.28,
+  "text": "the same rigid framework as older"
+ },
+ {
+  "start": 1290.76,
+  "duration": 3.36,
+  "text": "models, which will have the benefit not"
+ },
+ {
+  "start": 1292.64,
+  "duration": 3.56,
+  "text": "only of better performance, but probably"
+ },
+ {
+  "start": 1294.12,
+  "duration": 3.52,
+  "text": "better efficiency as well. Tarek"
+ },
+ {
+  "start": 1296.2,
+  "duration": 3.4,
+  "text": "encouraged everyone to do a similar"
+ },
+ {
+  "start": 1297.64,
+  "duration": 3.32,
+  "text": "skills cleanup with this model release."
+ },
+ {
+  "start": 1299.6,
+  "duration": 3.2,
+  "text": "And Anthropic have even rolled out a new"
+ },
+ {
+  "start": 1300.96,
+  "duration": 3.6,
+  "text": "command called Claude Doctor to help do"
+ },
+ {
+  "start": 1302.8,
+  "duration": 3.48,
+  "text": "that automatically."
+ },
+ {
+  "start": 1304.56,
+  "duration": 3.76,
+  "text": "Now, there were some much more positive"
+ },
+ {
+  "start": 1306.28,
+  "duration": 3.44,
+  "text": "takes on Opus 5 as well. YouTuber,"
+ },
+ {
+  "start": 1308.32,
+  "duration": 3.96,
+  "text": "entrepreneur, and developer Theo"
+ },
+ {
+  "start": 1309.72,
+  "duration": 4.16,
+  "text": "declared it a really good model. Now, he"
+ },
+ {
+  "start": 1312.28,
+  "duration": 3.36,
+  "text": "noted how confusing it is to have what"
+ },
+ {
+  "start": 1313.88,
+  "duration": 3.08,
+  "text": "seems to be a model that's both cheaper"
+ },
+ {
+  "start": 1315.64,
+  "duration": 3.44,
+  "text": "and better than Fable according to the"
+ },
+ {
+  "start": 1316.96,
+  "duration": 3.8,
+  "text": "benchmarks. And in his view, that"
+ },
+ {
+  "start": 1319.08,
+  "duration": 3.84,
+  "text": "framing stood up in practice, with Theo"
+ },
+ {
+  "start": 1320.76,
+  "duration": 4.2,
+  "text": "concluding, \"This is probably the only"
+ },
+ {
+  "start": 1322.92,
+  "duration": 3.88,
+  "text": "model you need.\" One of the ways Theo"
+ },
+ {
+  "start": 1324.96,
+  "duration": 3.44,
+  "text": "tested the model was to make a plan to"
+ },
+ {
+  "start": 1326.8,
+  "duration": 4.28,
+  "text": "update his ejected coding platforms"
+ },
+ {
+  "start": 1328.4,
+  "duration": 4.2,
+  "text": "support Opus 5. The test was a bake-off"
+ },
+ {
+  "start": 1331.08,
+  "duration": 3.84,
+  "text": "with Opus 5 and Fable 5 writing"
+ },
+ {
+  "start": 1332.6,
+  "duration": 3.88,
+  "text": "completing plans. Theo immediately ran"
+ },
+ {
+  "start": 1334.92,
+  "duration": 3.32,
+  "text": "into a similar problem to the folks at"
+ },
+ {
+  "start": 1336.48,
+  "duration": 3.76,
+  "text": "Every, where Opus 5 couldn't use his"
+ },
+ {
+  "start": 1338.24,
+  "duration": 3.28,
+  "text": "existing skills, instead telling him to"
+ },
+ {
+  "start": 1340.24,
+  "duration": 3.52,
+  "text": "take over and do some manual file"
+ },
+ {
+  "start": 1341.52,
+  "duration": 3.52,
+  "text": "management. Once that was resolved, each"
+ },
+ {
+  "start": 1343.76,
+  "duration": 3.28,
+  "text": "model reviewed and rated each other's"
+ },
+ {
+  "start": 1345.04,
+  "duration": 3.56,
+  "text": "plans as better. Both models preferred"
+ },
+ {
+  "start": 1347.04,
+  "duration": 3.0,
+  "text": "each other's plans, with Fable giving"
+ },
+ {
+  "start": 1348.6,
+  "duration": 3.36,
+  "text": "Opus a much higher ranking than Opus"
+ },
+ {
+  "start": 1350.04,
+  "duration": 4.2,
+  "text": "gave Fable. Getting a third opinion,"
+ },
+ {
+  "start": 1351.96,
+  "duration": 3.76,
+  "text": "GPT-5-6 Soul actually preferred Opus's"
+ },
+ {
+  "start": 1354.24,
+  "duration": 3.2,
+  "text": "plan to Fable's."
+ },
+ {
+  "start": 1355.72,
+  "duration": 3.52,
+  "text": "Now, while Theo agreed that Opus isn't"
+ },
+ {
+  "start": 1357.44,
+  "duration": 4.08,
+  "text": "as intelligent as Fable or tenacious as"
+ },
+ {
+  "start": 1359.24,
+  "duration": 4.48,
+  "text": "5-6, he did not believe that this left"
+ },
+ {
+  "start": 1361.52,
+  "duration": 3.88,
+  "text": "it without use cases. He pointed out"
+ },
+ {
+  "start": 1363.72,
+  "duration": 3.32,
+  "text": "that Opus is far more usage-efficient"
+ },
+ {
+  "start": 1365.4,
+  "duration": 4.84,
+  "text": "than Fable for tasks where Anthropic"
+ },
+ {
+  "start": 1367.04,
+  "duration": 5.0,
+  "text": "models excel. Opus also isn't subject to"
+ },
+ {
+  "start": 1370.24,
+  "duration": 3.72,
+  "text": "Anthropic's data retention policies for"
+ },
+ {
+  "start": 1372.04,
+  "duration": 3.64,
+  "text": "Fable, so it can address a lot of use"
+ },
+ {
+  "start": 1373.96,
+  "duration": 3.84,
+  "text": "cases that involve sensitive data where"
+ },
+ {
+  "start": 1375.68,
+  "duration": 3.64,
+  "text": "Fable is a non-starter. I.e., pretty"
+ },
+ {
+  "start": 1377.8,
+  "duration": 4.04,
+  "text": "much every enterprise use case at this"
+ },
+ {
+  "start": 1379.32,
+  "duration": 4.2,
+  "text": "point. Interestingly, Theo thought"
+ },
+ {
+  "start": 1381.84,
+  "duration": 3.64,
+  "text": "another bonus was that the model just"
+ },
+ {
+  "start": 1383.52,
+  "duration": 3.56,
+  "text": "isn't that intelligent. And while that"
+ },
+ {
+  "start": 1385.48,
+  "duration": 3.64,
+  "text": "seems counterintuitive, one of Theo's"
+ },
+ {
+  "start": 1387.08,
+  "duration": 3.76,
+  "text": "gripes with 5-6 is that although it"
+ },
+ {
+  "start": 1389.12,
+  "duration": 4.36,
+  "text": "works until the problem is fixed, i.e.,"
+ },
+ {
+  "start": 1390.84,
+  "duration": 4.8,
+  "text": "it is tenacious, in doing so, it writes,"
+ },
+ {
+  "start": 1393.48,
+  "duration": 3.4,
+  "text": "in his estimation, way too much code."
+ },
+ {
+  "start": 1395.64,
+  "duration": 2.92,
+  "text": "That means that several weeks after"
+ },
+ {
+  "start": 1396.88,
+  "duration": 2.84,
+  "text": "release, Theo basically isn't merging"
+ },
+ {
+  "start": 1398.56,
+  "duration": 2.68,
+  "text": "any of the bloated code written by"
+ },
+ {
+  "start": 1399.72,
+  "duration": 2.92,
+  "text": "GPT-5-6."
+ },
+ {
+  "start": 1401.24,
+  "duration": 3.44,
+  "text": "Theo found Opus, on the other hand, to"
+ },
+ {
+  "start": 1402.64,
+  "duration": 3.68,
+  "text": "be more diligent than Fable, without"
+ },
+ {
+  "start": 1404.68,
+  "duration": 4.04,
+  "text": "resorting to the brute force of writing"
+ },
+ {
+  "start": 1406.32,
+  "duration": 4.2,
+  "text": "tons of code like GPT-5-6, representing,"
+ },
+ {
+  "start": 1408.72,
+  "duration": 3.16,
+  "text": "in his opinion, a pretty good balance at"
+ },
+ {
+  "start": 1410.52,
+  "duration": 4.24,
+  "text": "the frontier."
+ },
+ {
+  "start": 1411.88,
+  "duration": 5.0,
+  "text": "He commented, \"I've been surprised. Opus"
+ },
+ {
+  "start": 1414.76,
+  "duration": 3.8,
+  "text": "sometimes is better than Fable. It often"
+ },
+ {
+  "start": 1416.88,
+  "duration": 3.16,
+  "text": "catches things Fable missed, and has"
+ },
+ {
+  "start": 1418.56,
+  "duration": 3.08,
+  "text": "code that is more likely to actually"
+ },
+ {
+  "start": 1420.04,
+  "duration": 3.76,
+  "text": "work for the problems I want to solve"
+ },
+ {
+  "start": 1421.64,
+  "duration": 3.96,
+  "text": "than Fable does. I feel like I don't"
+ },
+ {
+  "start": 1423.8,
+  "duration": 3.32,
+  "text": "have to make that trade-off anymore."
+ },
+ {
+  "start": 1425.6,
+  "duration": 3.52,
+  "text": "Soul would solve the problem at the cost"
+ },
+ {
+  "start": 1427.12,
+  "duration": 3.28,
+  "text": "of my sanity. Fable would make me feel"
+ },
+ {
+  "start": 1429.12,
+  "duration": 3.44,
+  "text": "great at the cost of the problem not"
+ },
+ {
+  "start": 1430.4,
+  "duration": 4.52,
+  "text": "being properly solved. Opus is the"
+ },
+ {
+  "start": 1432.56,
+  "duration": 4.48,
+  "text": "in-between, and I'm really liking it.\""
+ },
+ {
+  "start": 1434.92,
+  "duration": 3.68,
+  "text": "Ben Davis, on Theo's team, agreed, but"
+ },
+ {
+  "start": 1437.04,
+  "duration": 3.68,
+  "text": "did also note some of the problems of"
+ },
+ {
+  "start": 1438.6,
+  "duration": 3.56,
+  "text": "Opus 5 stopping early. So, in terms of"
+ },
+ {
+  "start": 1440.72,
+  "duration": 2.88,
+  "text": "interaction patterns, that may be one to"
+ },
+ {
+  "start": 1442.16,
+  "duration": 3.32,
+  "text": "watch for if you are starting to shift"
+ },
+ {
+  "start": 1443.6,
+  "duration": 3.08,
+  "text": "your behavior to Opus 5."
+ },
+ {
+  "start": 1445.48,
+  "duration": 2.96,
+  "text": "Summing up a few different points of"
+ },
+ {
+  "start": 1446.68,
+  "duration": 4.32,
+  "text": "conversation, developer Ken Chen pointed"
+ },
+ {
+  "start": 1448.44,
+  "duration": 4.56,
+  "text": "out one, that the Opus 5 release really"
+ },
+ {
+  "start": 1451.0,
+  "duration": 4.44,
+  "text": "put a fine point on how useless"
+ },
+ {
+  "start": 1453.0,
+  "duration": 4.36,
+  "text": "benchmarks are in real life. Chen argued"
+ },
+ {
+  "start": 1455.44,
+  "duration": 4.24,
+  "text": "that, quote, \"Opus 5 is nowhere near"
+ },
+ {
+  "start": 1457.36,
+  "duration": 3.64,
+  "text": "Fable in practical use, not even close."
+ },
+ {
+  "start": 1459.68,
+  "duration": 2.56,
+  "text": "Anyone who's used it meaningfully can"
+ },
+ {
+  "start": 1461.0,
+  "duration": 3.24,
+  "text": "tell this very quickly after a few"
+ },
+ {
+  "start": 1462.24,
+  "duration": 3.28,
+  "text": "tasks. Yet, Opus beats Fable on many"
+ },
+ {
+  "start": 1464.24,
+  "duration": 2.92,
+  "text": "benchmarks.\""
+ },
+ {
+  "start": 1465.52,
+  "duration": 3.92,
+  "text": "Now, obviously, the experience of Theo"
+ },
+ {
+  "start": 1467.16,
+  "duration": 3.72,
+  "text": "and Claire Vo maybe put some comparison"
+ },
+ {
+  "start": 1469.44,
+  "duration": 3.28,
+  "text": "on that, but it certainly is more"
+ },
+ {
+  "start": 1470.88,
+  "duration": 4.36,
+  "text": "nuanced than a benchmark analysis would"
+ },
+ {
+  "start": 1472.72,
+  "duration": 4.0,
+  "text": "suggest. Chen also points out how"
+ },
+ {
+  "start": 1475.24,
+  "duration": 3.04,
+  "text": "pleasant it is to work with the model"
+ },
+ {
+  "start": 1476.72,
+  "duration": 4.16,
+  "text": "used to be a strength in Claude, but now"
+ },
+ {
+  "start": 1478.28,
+  "duration": 4.4,
+  "text": "it's not. He speculated, \"It feels like"
+ },
+ {
+  "start": 1480.88,
+  "duration": 2.92,
+  "text": "both Anthropic and OpenAI are giving"
+ },
+ {
+  "start": 1482.68,
+  "duration": 3.16,
+  "text": "reinforcement learning from human"
+ },
+ {
+  "start": 1483.8,
+  "duration": 3.28,
+  "text": "feedback less care, in favor of scalable"
+ },
+ {
+  "start": 1485.84,
+  "duration": 4.12,
+  "text": "reinforcement learning that's machine"
+ },
+ {
+  "start": 1487.08,
+  "duration": 4.36,
+  "text": "verifiable. This almost looks like AI is"
+ },
+ {
+  "start": 1489.96,
+  "duration": 2.84,
+  "text": "directing humans to build a world that's"
+ },
+ {
+  "start": 1491.44,
+  "duration": 3.32,
+  "text": "more friendly for machines rather than"
+ },
+ {
+  "start": 1492.8,
+  "duration": 3.2,
+  "text": "humans. And most humans don't even"
+ },
+ {
+  "start": 1494.76,
+  "duration": 3.12,
+  "text": "realize they're being manipulated to"
+ },
+ {
+  "start": 1496.0,
+  "duration": 3.72,
+  "text": "help with that. Almost every new"
+ },
+ {
+  "start": 1497.88,
+  "duration": 3.56,
+  "text": "generation of Frontier models now talk"
+ },
+ {
+  "start": 1499.72,
+  "duration": 3.36,
+  "text": "in more jargon, need more steering to do"
+ },
+ {
+  "start": 1501.44,
+  "duration": 2.72,
+  "text": "what you want, and are just less fun to"
+ },
+ {
+  "start": 1503.08,
+  "duration": 2.92,
+  "text": "work with."
+ },
+ {
+  "start": 1504.16,
+  "duration": 3.76,
+  "text": "Now, a couple days on from the release,"
+ },
+ {
+  "start": 1506.0,
+  "duration": 3.44,
+  "text": "if you ask me right now for 10 people"
+ },
+ {
+  "start": 1507.92,
+  "duration": 3.24,
+  "text": "saying that the model sucked and 10"
+ },
+ {
+  "start": 1509.44,
+  "duration": 3.0,
+  "text": "people saying that the model was good,"
+ },
+ {
+  "start": 1511.16,
+  "duration": 3.56,
+  "text": "and another 10 people saying that the"
+ },
+ {
+  "start": 1512.44,
+  "duration": 4.2,
+  "text": "model both sucks and is good, I could"
+ },
+ {
+  "start": 1514.72,
+  "duration": 3.36,
+  "text": "find all of those things for you."
+ },
+ {
+  "start": 1516.64,
+  "duration": 4.68,
+  "text": "But, I think one of the really important"
+ },
+ {
+  "start": 1518.08,
+  "duration": 5.48,
+  "text": "points that is very easy to forget for"
+ },
+ {
+  "start": 1521.32,
+  "duration": 3.88,
+  "text": "those of us who are model omnivorous is"
+ },
+ {
+  "start": 1523.56,
+  "duration": 3.88,
+  "text": "that in the real world of average"
+ },
+ {
+  "start": 1525.2,
+  "duration": 4.4,
+  "text": "knowledge work, at least when it comes"
+ },
+ {
+  "start": 1527.44,
+  "duration": 4.2,
+  "text": "to your work environment, you're not"
+ },
+ {
+  "start": 1529.6,
+  "duration": 4.36,
+  "text": "sitting there choosing between Grok or"
+ },
+ {
+  "start": 1531.64,
+  "duration": 4.4,
+  "text": "OpenAI and Anthropic. You are locked"
+ },
+ {
+  "start": 1533.96,
+  "duration": 4.04,
+  "text": "into a specific company's models, and"
+ },
+ {
+  "start": 1536.04,
+  "duration": 4.32,
+  "text": "those are your choices. And when you"
+ },
+ {
+  "start": 1538.0,
+  "duration": 4.8,
+  "text": "look at Opus 5 as a release in that"
+ },
+ {
+  "start": 1540.36,
+  "duration": 4.28,
+  "text": "context, not just as I think many of us"
+ },
+ {
+  "start": 1542.8,
+  "duration": 3.6,
+  "text": "terminally online folks on Twitter view"
+ },
+ {
+  "start": 1544.64,
+  "duration": 3.44,
+  "text": "it, in other words, as a replacement for"
+ },
+ {
+  "start": 1546.4,
+  "duration": 3.88,
+  "text": "Fable as Fable gets restricted to the"
+ },
+ {
+  "start": 1548.08,
+  "duration": 4.76,
+  "text": "most expensive Anthropic plans, but"
+ },
+ {
+  "start": 1550.28,
+  "duration": 4.8,
+  "text": "instead as part of a complete model"
+ },
+ {
+  "start": 1552.84,
+  "duration": 4.44,
+  "text": "architecture for enterprise customers,"
+ },
+ {
+  "start": 1555.08,
+  "duration": 4.24,
+  "text": "it starts to make a little more sense."
+ },
+ {
+  "start": 1557.28,
+  "duration": 3.52,
+  "text": "Arena's Peter Gostev wrote, \"Before this"
+ },
+ {
+  "start": 1559.32,
+  "duration": 3.84,
+  "text": "model, Anthropic was in a funny"
+ },
+ {
+  "start": 1560.8,
+  "duration": 3.92,
+  "text": "situation. They had a really exceptional"
+ },
+ {
+  "start": 1563.16,
+  "duration": 3.6,
+  "text": "model, made a lot of waves, but it was"
+ },
+ {
+  "start": 1564.72,
+  "duration": 3.88,
+  "text": "too expensive to use. You don't really"
+ },
+ {
+  "start": 1566.76,
+  "duration": 3.36,
+  "text": "want Fable running 24/7 and doing all"
+ },
+ {
+  "start": 1568.6,
+  "duration": 3.52,
+  "text": "sorts of things for you.\""
+ },
+ {
+  "start": 1570.12,
+  "duration": 3.68,
+  "text": "Then the impression we got from Opus 4A,"
+ },
+ {
+  "start": 1572.12,
+  "duration": 3.56,
+  "text": "\"It's a good model, but people weren't"
+ },
+ {
+  "start": 1573.8,
+  "duration": 3.64,
+  "text": "in love with it. Sonnet 5 didn't make"
+ },
+ {
+  "start": 1575.68,
+  "duration": 4.12,
+  "text": "much of a splash, and not many people"
+ },
+ {
+  "start": 1577.44,
+  "duration": 4.2,
+  "text": "wanted to switch to it.\" So, Anthropic"
+ },
+ {
+  "start": 1579.8,
+  "duration": 3.32,
+  "text": "had a gap. They didn't have a really"
+ },
+ {
+  "start": 1581.64,
+  "duration": 3.68,
+  "text": "strong model that people really love to"
+ },
+ {
+  "start": 1583.12,
+  "duration": 4.16,
+  "text": "use in that daily driver category. I"
+ },
+ {
+  "start": 1585.32,
+  "duration": 3.76,
+  "text": "think they have it now. It does look"
+ },
+ {
+  "start": 1587.28,
+  "duration": 3.56,
+  "text": "like a solid model."
+ },
+ {
+  "start": 1589.08,
+  "duration": 3.92,
+  "text": "And so, perhaps as we are judging how"
+ },
+ {
+  "start": 1590.84,
+  "duration": 4.64,
+  "text": "successful the model is going to be, the"
+ },
+ {
+  "start": 1593.0,
+  "duration": 4.16,
+  "text": "right question to ask is for enterprise"
+ },
+ {
+  "start": 1595.48,
+  "duration": 3.52,
+  "text": "users who are locked into the Claude"
+ },
+ {
+  "start": 1597.16,
+  "duration": 3.8,
+  "text": "ecosystem, does this represent a"
+ },
+ {
+  "start": 1599.0,
+  "duration": 3.6,
+  "text": "significant upgrade? And most at least"
+ },
+ {
+  "start": 1600.96,
+  "duration": 3.92,
+  "text": "of the first analysis is certainly yes"
+ },
+ {
+  "start": 1602.6,
+  "duration": 3.92,
+  "text": "compared to the Opus 4A model that for"
+ },
+ {
+  "start": 1604.88,
+  "duration": 2.6,
+  "text": "all intents and purposes was the main"
+ },
+ {
+  "start": 1606.52,
+  "duration": 2.56,
+  "text": "model that they were going to have"
+ },
+ {
+  "start": 1607.48,
+  "duration": 3.56,
+  "text": "access to."
+ },
+ {
+  "start": 1609.08,
+  "duration": 3.12,
+  "text": "Now, for some, any model that's not"
+ },
+ {
+  "start": 1611.04,
+  "duration": 3.12,
+  "text": "state-of-the-art just isn't going to"
+ },
+ {
+  "start": 1612.2,
+  "duration": 3.8,
+  "text": "make big of a splash. And some are"
+ },
+ {
+  "start": 1614.16,
+  "duration": 3.32,
+  "text": "already looking forward to the future."
+ },
+ {
+  "start": 1616.0,
+  "duration": 4.08,
+  "text": "AI commentator and news aggregator"
+ },
+ {
+  "start": 1617.48,
+  "duration": 4.2,
+  "text": "Andrew Curran wrote, \"I think Fable 5.1"
+ },
+ {
+  "start": 1620.08,
+  "duration": 3.6,
+  "text": "is ready, but Anthropic are saving it"
+ },
+ {
+  "start": 1621.68,
+  "duration": 3.48,
+  "text": "for OpenAI's next release. They will"
+ },
+ {
+  "start": 1623.68,
+  "duration": 3.24,
+  "text": "keep crossing swords like this from here"
+ },
+ {
+  "start": 1625.16,
+  "duration": 4.24,
+  "text": "on out. Soon it will make a lot more"
+ },
+ {
+  "start": 1626.92,
+  "duration": 4.08,
+  "text": "sense why Opus 5 was so performant and"
+ },
+ {
+  "start": 1629.4,
+  "duration": 4.04,
+  "text": "why the Fable class was preemptively"
+ },
+ {
+  "start": 1631.0,
+  "duration": 4.16,
+  "text": "moved to credits for most users.\" Chubby"
+ },
+ {
+  "start": 1633.44,
+  "duration": 3.8,
+  "text": "reposted that and said, \"I fully agree"
+ },
+ {
+  "start": 1635.16,
+  "duration": 3.64,
+  "text": "with Andrew. I cannot imagine under any"
+ },
+ {
+  "start": 1637.24,
+  "duration": 3.6,
+  "text": "circumstances that Anthropic released"
+ },
+ {
+  "start": 1638.8,
+  "duration": 4.4,
+  "text": "Opus 5 without already having a better"
+ },
+ {
+  "start": 1640.84,
+  "duration": 3.72,
+  "text": "model for the Fable tier in-house. The"
+ },
+ {
+  "start": 1643.2,
+  "duration": 3.32,
+  "text": "question, of course, is why it hasn't"
+ },
+ {
+  "start": 1644.56,
+  "duration": 3.52,
+  "text": "been released. Yet, the answer is very"
+ },
+ {
+  "start": 1646.52,
+  "duration": 3.36,
+  "text": "simple if you open your eyes. The"
+ },
+ {
+  "start": 1648.08,
+  "duration": 3.88,
+  "text": "competition between OpenAI and Anthropic"
+ },
+ {
+  "start": 1649.88,
+  "duration": 3.84,
+  "text": "is fiercer than ever. GPT-5.6 was a"
+ },
+ {
+  "start": 1651.96,
+  "duration": 3.24,
+  "text": "resounding success, and Codex with its"
+ },
+ {
+  "start": 1653.72,
+  "duration": 3.56,
+  "text": "current 10 million active professional"
+ },
+ {
+  "start": 1655.2,
+  "duration": 3.76,
+  "text": "users is gaining increasing importance"
+ },
+ {
+  "start": 1657.28,
+  "duration": 3.84,
+  "text": "in a sector primarily dominated by"
+ },
+ {
+  "start": 1658.96,
+  "duration": 4.08,
+  "text": "Anthropic. Anthropic is holding off the"
+ },
+ {
+  "start": 1661.12,
+  "duration": 3.96,
+  "text": "launch of Fable 5.1 until OpenAI"
+ },
+ {
+  "start": 1663.04,
+  "duration": 4.12,
+  "text": "releases GPT-6, and that won't be long"
+ },
+ {
+  "start": 1665.08,
+  "duration": 3.2,
+  "text": "now. Axios reported that Sam Altman is"
+ },
+ {
+  "start": 1667.16,
+  "duration": 3.0,
+  "text": "briefing the White House on the new"
+ },
+ {
+  "start": 1668.28,
+  "duration": 3.4,
+  "text": "model next week, so it is essentially"
+ },
+ {
+  "start": 1670.16,
+  "duration": 3.16,
+  "text": "ready to launch."
+ },
+ {
+  "start": 1671.68,
+  "duration": 3.04,
+  "text": "And yet, for some, part of the reason"
+ },
+ {
+  "start": 1673.32,
+  "duration": 3.12,
+  "text": "that a major model could be released on"
+ },
+ {
+  "start": 1674.72,
+  "duration": 3.76,
+  "text": "a Friday and only really be splashy"
+ },
+ {
+  "start": 1676.44,
+  "duration": 4.12,
+  "text": "among insiders represents a bigger and"
+ },
+ {
+  "start": 1678.48,
+  "duration": 4.12,
+  "text": "yet inevitable trend. Arc Prize's"
+ },
+ {
+  "start": 1680.56,
+  "duration": 3.64,
+  "text": "François Chollet wrote, \"The era of new"
+ },
+ {
+  "start": 1682.6,
+  "duration": 3.52,
+  "text": "model launches as big milestones will"
+ },
+ {
+  "start": 1684.2,
+  "duration": 3.48,
+  "text": "eventually come to an end. At some"
+ },
+ {
+  "start": 1686.12,
+  "duration": 3.44,
+  "text": "point, they will simply be continuously"
+ },
+ {
+  "start": 1687.68,
+  "duration": 3.64,
+  "text": "updated with no widely publicized"
+ },
+ {
+  "start": 1689.56,
+  "duration": 2.96,
+  "text": "version number. Probably less than 2"
+ },
+ {
+  "start": 1691.32,
+  "duration": 3.36,
+  "text": "years away.\""
+ },
+ {
+  "start": 1692.52,
+  "duration": 3.8,
+  "text": "Now, I'm not totally sure about this. I"
+ },
+ {
+  "start": 1694.68,
+  "duration": 3.6,
+  "text": "think that it kind of depends on the"
+ },
+ {
+  "start": 1696.32,
+  "duration": 3.12,
+  "text": "capability unlock of each new model, and"
+ },
+ {
+  "start": 1698.28,
+  "duration": 2.48,
+  "text": "I certainly think the labs are going to"
+ },
+ {
+  "start": 1699.44,
+  "duration": 3.72,
+  "text": "have incentives to make each of them a"
+ },
+ {
+  "start": 1700.76,
+  "duration": 4.56,
+  "text": "big deal. But, it is undeniably the case"
+ },
+ {
+  "start": 1703.16,
+  "duration": 4.64,
+  "text": "that as we move to these multi-model"
+ },
+ {
+  "start": 1705.32,
+  "duration": 3.72,
+  "text": "setups, or even increasingly routers"
+ },
+ {
+  "start": 1707.8,
+  "duration": 3.0,
+  "text": "that obfuscate the model behind an"
+ },
+ {
+  "start": 1709.04,
+  "duration": 3.32,
+  "text": "automated selector, the hugeness of"
+ },
+ {
+  "start": 1710.8,
+  "duration": 3.28,
+  "text": "these launches may be less of a big deal"
+ },
+ {
+  "start": 1712.36,
+  "duration": 3.48,
+  "text": "in the future. But, I don't know. Let me"
+ },
+ {
+  "start": 1714.08,
+  "duration": 3.24,
+  "text": "know what you guys think. All I have to"
+ },
+ {
+  "start": 1715.84,
+  "duration": 2.88,
+  "text": "judge this is the comments and the"
+ },
+ {
+  "start": 1717.32,
+  "duration": 2.48,
+  "text": "download numbers."
+ },
+ {
+  "start": 1718.72,
+  "duration": 2.68,
+  "text": "Anyways, guys, that is going to do it"
+ },
+ {
+  "start": 1719.8,
+  "duration": 3.24,
+  "text": "for today's AI Daily Brief. Appreciate"
+ },
+ {
+  "start": 1721.4,
+  "duration": 5.16,
+  "text": "you listening or watching, as always,"
+ },
+ {
+  "start": 1723.04,
+  "duration": 3.52,
+  "text": "and until next time, peace."
+ }
+]

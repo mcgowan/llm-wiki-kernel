@@ -1,0 +1,1512 @@
+[
+ {
+  "start": 0.0,
+  "duration": 3.64,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 1.6,
+  "duration": 4.68,
+  "text": "Headlines Edition, all the daily AI news"
+ },
+ {
+  "start": 3.64,
+  "duration": 3.96,
+  "text": "you need in around 5 minutes. We are so"
+ },
+ {
+  "start": 6.28,
+  "duration": 2.6,
+  "text": "jam-packed today because we had a couple"
+ },
+ {
+  "start": 7.6,
+  "duration": 2.48,
+  "text": "of episodes at the end of last week"
+ },
+ {
+  "start": 8.88,
+  "duration": 3.0,
+  "text": "while I was traveling without the"
+ },
+ {
+  "start": 10.08,
+  "duration": 2.76,
+  "text": "headlines. It's probably going to take"
+ },
+ {
+  "start": 11.88,
+  "duration": 2.32,
+  "text": "us a couple of days to get through"
+ },
+ {
+  "start": 12.84,
+  "duration": 2.92,
+  "text": "everything, but the place that I wanted"
+ },
+ {
+  "start": 14.2,
+  "duration": 2.96,
+  "text": "to start and the most important set of"
+ },
+ {
+  "start": 15.76,
+  "duration": 3.44,
+  "text": "updates that we didn't get access to is"
+ },
+ {
+  "start": 17.16,
+  "duration": 4.04,
+  "text": "that last week we got a number of new"
+ },
+ {
+  "start": 19.2,
+  "duration": 4.24,
+  "text": "models. Although we didn't get the"
+ },
+ {
+  "start": 21.2,
+  "duration": 4.84,
+  "text": "non-coding version of GPT-5.3 to end"
+ },
+ {
+  "start": 23.44,
+  "duration": 4.4,
+  "text": "last week, OpenAI's release of GPT-5.3"
+ },
+ {
+  "start": 26.04,
+  "duration": 4.28,
+  "text": "Codex Spark could still have a huge"
+ },
+ {
+  "start": 27.84,
+  "duration": 4.0,
+  "text": "impact when it comes to AI coding. This"
+ },
+ {
+  "start": 30.32,
+  "duration": 3.68,
+  "text": "model is all about speed, serving"
+ },
+ {
+  "start": 31.84,
+  "duration": 3.28,
+  "text": "inference at 1,000 tokens per second."
+ },
+ {
+  "start": 34.0,
+  "duration": 3.0,
+  "text": "For those keeping track at home, that's"
+ },
+ {
+  "start": 35.12,
+  "duration": 4.28,
+  "text": "roughly 15 times faster than the regular"
+ },
+ {
+  "start": 37.0,
+  "duration": 4.2,
+  "text": "version of GPT-5.3 Codex, which was"
+ },
+ {
+  "start": 39.4,
+  "duration": 4.04,
+  "text": "already noted for being much faster than"
+ },
+ {
+  "start": 41.2,
+  "duration": 4.0,
+  "text": "Anthropic's Opus 4.6."
+ },
+ {
+  "start": 43.44,
+  "duration": 4.64,
+  "text": "At the same time, the tradeoffs do show"
+ },
+ {
+  "start": 45.2,
+  "duration": 4.92,
+  "text": "up elsewhere. The model only has a 128K"
+ },
+ {
+  "start": 48.08,
+  "duration": 3.52,
+  "text": "context window, can't accept multimodal"
+ },
+ {
+  "start": 50.12,
+  "duration": 3.08,
+  "text": "inputs, and it can't complete long"
+ },
+ {
+  "start": 51.6,
+  "duration": 3.04,
+  "text": "horizon tasks."
+ },
+ {
+  "start": 53.2,
+  "duration": 2.88,
+  "text": "There's also a step down on the"
+ },
+ {
+  "start": 54.64,
+  "duration": 3.96,
+  "text": "benchmarks from the state-of-the-art,"
+ },
+ {
+  "start": 56.08,
+  "duration": 4.8,
+  "text": "but 5.3 Codex Spark is still much more"
+ },
+ {
+  "start": 58.6,
+  "duration": 3.76,
+  "text": "performant than 5.1 Codex Mini, which"
+ },
+ {
+  "start": 60.88,
+  "duration": 4.12,
+  "text": "was the last coding model from OpenAI"
+ },
+ {
+  "start": 62.36,
+  "duration": 4.2,
+  "text": "designed for speed. Dan Shipper of Every"
+ },
+ {
+  "start": 65.0,
+  "duration": 3.48,
+  "text": "noted that this speed boost means that"
+ },
+ {
+  "start": 66.56,
+  "duration": 4.28,
+  "text": "the model suits a different subset of"
+ },
+ {
+  "start": 68.48,
+  "duration": 4.2,
+  "text": "coding tasks. It keeps the developer in"
+ },
+ {
+  "start": 70.84,
+  "duration": 3.56,
+  "text": "the flow much more easily, so functions"
+ },
+ {
+  "start": 72.68,
+  "duration": 3.68,
+  "text": "well as a pair programmer. It"
+ },
+ {
+  "start": 74.4,
+  "duration": 3.72,
+  "text": "outperforms on non-production tasks and"
+ },
+ {
+  "start": 76.36,
+  "duration": 3.2,
+  "text": "tasks that are easy to validate."
+ },
+ {
+  "start": 78.12,
+  "duration": 3.36,
+  "text": "However, it can't engage with a large"
+ },
+ {
+  "start": 79.56,
+  "duration": 4.0,
+  "text": "code base as easily, and some tasks will"
+ },
+ {
+  "start": 81.48,
+  "duration": 3.88,
+  "text": "suffer from the quality downgrade."
+ },
+ {
+  "start": 83.56,
+  "duration": 3.76,
+  "text": "Shipper wrote, \"This kind of speed"
+ },
+ {
+  "start": 85.36,
+  "duration": 3.88,
+  "text": "introduces totally new bottlenecks into"
+ },
+ {
+  "start": 87.32,
+  "duration": 3.6,
+  "text": "your coding workflow. Suddenly, the"
+ },
+ {
+  "start": 89.24,
+  "duration": 3.64,
+  "text": "model can produce 10 pages of code and"
+ },
+ {
+  "start": 90.92,
+  "duration": 4.88,
+  "text": "summaries in just a few seconds. It"
+ },
+ {
+  "start": 92.88,
+  "duration": 4.96,
+  "text": "requires a totally new UX to manage.\""
+ },
+ {
+  "start": 95.8,
+  "duration": 4.28,
+  "text": "He added, \"The new OpenAI model Spark"
+ },
+ {
+  "start": 97.84,
+  "duration": 4.28,
+  "text": "produces code basically instantly. That"
+ },
+ {
+  "start": 100.08,
+  "duration": 3.28,
+  "text": "changes a lot. You should play with it"
+ },
+ {
+  "start": 102.12,
+  "duration": 2.72,
+  "text": "today.\""
+ },
+ {
+  "start": 103.36,
+  "duration": 3.24,
+  "text": "Now, it makes sense that we're at the"
+ },
+ {
+  "start": 104.84,
+  "duration": 3.72,
+  "text": "point now, whereas coding really cements"
+ },
+ {
+  "start": 106.6,
+  "duration": 3.56,
+  "text": "its role as the most important use case,"
+ },
+ {
+  "start": 108.56,
+  "duration": 3.4,
+  "text": "not just for engineers, but as we saw"
+ },
+ {
+  "start": 110.16,
+  "duration": 3.72,
+  "text": "from the January AI Usage Pulse Survey"
+ },
+ {
+  "start": 111.96,
+  "duration": 3.28,
+  "text": "for non-engineers as well, that we're"
+ },
+ {
+  "start": 113.88,
+  "duration": 3.04,
+  "text": "starting to get different models"
+ },
+ {
+  "start": 115.24,
+  "duration": 2.96,
+  "text": "optimized for different types of coding"
+ },
+ {
+  "start": 116.92,
+  "duration": 3.04,
+  "text": "tasks."
+ },
+ {
+  "start": 118.2,
+  "duration": 3.28,
+  "text": "Spark is also the first model from"
+ },
+ {
+  "start": 119.96,
+  "duration": 3.92,
+  "text": "OpenAI designed specifically for"
+ },
+ {
+  "start": 121.48,
+  "duration": 4.52,
+  "text": "non-Nvidia hardware. The model is being"
+ },
+ {
+  "start": 123.88,
+  "duration": 4.519,
+  "text": "served exclusively using Cerebras' Wafer"
+ },
+ {
+  "start": 126.0,
+  "duration": 4.6,
+  "text": "Scale Chips. Cerebras CEO Andrew Feldman"
+ },
+ {
+  "start": 128.399,
+  "duration": 4.801,
+  "text": "wrote, \"In coding, responsiveness is the"
+ },
+ {
+  "start": 130.6,
+  "duration": 4.2,
+  "text": "product. It's not a nice-to-have. Codex"
+ },
+ {
+  "start": 133.2,
+  "duration": 3.28,
+  "text": "Spark is optimized for targeted code"
+ },
+ {
+  "start": 134.8,
+  "duration": 3.56,
+  "text": "edits, logic revision, and front-end"
+ },
+ {
+  "start": 136.48,
+  "duration": 3.479,
+  "text": "iteration. It gives developers"
+ },
+ {
+  "start": 138.36,
+  "duration": 3.0,
+  "text": "near-instant feedback so they can stay"
+ },
+ {
+  "start": 139.959,
+  "duration": 3.361,
+  "text": "in flow.\""
+ },
+ {
+  "start": 141.36,
+  "duration": 3.64,
+  "text": "Summing up, OpenAI wrote, \"Codex Spark"
+ },
+ {
+  "start": 143.32,
+  "duration": 3.84,
+  "text": "is the first step towards a Codex with"
+ },
+ {
+  "start": 145.0,
+  "duration": 3.959,
+  "text": "two complementary modes, longer horizon"
+ },
+ {
+  "start": 147.16,
+  "duration": 4.0,
+  "text": "reasoning and execution, and real-time"
+ },
+ {
+  "start": 148.959,
+  "duration": 4.401,
+  "text": "collaboration and rapid iteration. Over"
+ },
+ {
+  "start": 151.16,
+  "duration": 3.64,
+  "text": "time, the models will blend. Codex can"
+ },
+ {
+  "start": 153.36,
+  "duration": 2.84,
+  "text": "keep you in a tight interactive loop"
+ },
+ {
+  "start": 154.8,
+  "duration": 3.44,
+  "text": "while delegating longer-running work to"
+ },
+ {
+  "start": 156.2,
+  "duration": 3.64,
+  "text": "sub-agents in the background or fanning"
+ },
+ {
+  "start": 158.24,
+  "duration": 3.48,
+  "text": "out tasks to many models in parallel"
+ },
+ {
+  "start": 159.84,
+  "duration": 3.6,
+  "text": "when you want breadth and speed. So, you"
+ },
+ {
+  "start": 161.72,
+  "duration": 3.36,
+  "text": "don't have to choose a single mode up"
+ },
+ {
+  "start": 163.44,
+  "duration": 3.32,
+  "text": "front.\""
+ },
+ {
+  "start": 165.08,
+  "duration": 3.6,
+  "text": "Google, meanwhile, was not content to"
+ },
+ {
+  "start": 166.76,
+  "duration": 3.56,
+  "text": "let OpenAI have all the fun. At the end"
+ },
+ {
+  "start": 168.68,
+  "duration": 3.96,
+  "text": "of the week, they released an upgrade in"
+ },
+ {
+  "start": 170.32,
+  "duration": 3.72,
+  "text": "deep think mode. Now, this is a version"
+ },
+ {
+  "start": 172.64,
+  "duration": 2.64,
+  "text": "of Gemini that achieved a gold medal"
+ },
+ {
+  "start": 174.04,
+  "duration": 2.76,
+  "text": "performance in the International"
+ },
+ {
+  "start": 175.28,
+  "duration": 2.84,
+  "text": "Mathematics Olympiad and the"
+ },
+ {
+  "start": 176.8,
+  "duration": 3.0,
+  "text": "International Collegiate Programming"
+ },
+ {
+  "start": 178.12,
+  "duration": 3.2,
+  "text": "Contest over the summer. It was then"
+ },
+ {
+  "start": 179.8,
+  "duration": 3.08,
+  "text": "released to the public in November, but"
+ },
+ {
+  "start": 181.32,
+  "duration": 2.919,
+  "text": "the initial release of deep think kind"
+ },
+ {
+  "start": 182.88,
+  "duration": 3.359,
+  "text": "of suffered from not having a clear use"
+ },
+ {
+  "start": 184.239,
+  "duration": 3.401,
+  "text": "case. It was locked behind the expensive"
+ },
+ {
+  "start": 186.239,
+  "duration": 2.841,
+  "text": "Ultra subscription, and it wasn't"
+ },
+ {
+  "start": 187.64,
+  "duration": 3.4,
+  "text": "obvious when a user should select it"
+ },
+ {
+  "start": 189.08,
+  "duration": 3.439,
+  "text": "over deep research. Basically, there"
+ },
+ {
+  "start": 191.04,
+  "duration": 3.4,
+  "text": "were just a really slim cross-section of"
+ },
+ {
+  "start": 192.519,
+  "duration": 3.121,
+  "text": "users that needed PhD-level scientific"
+ },
+ {
+  "start": 194.44,
+  "duration": 3.04,
+  "text": "reports."
+ },
+ {
+  "start": 195.64,
+  "duration": 3.36,
+  "text": "With this upgrade, DeepMind is keeping"
+ },
+ {
+  "start": 197.48,
+  "duration": 3.16,
+  "text": "their narrow focus, but they're adding"
+ },
+ {
+  "start": 199.0,
+  "duration": 3.84,
+  "text": "agentic scaffolds to make deep think"
+ },
+ {
+  "start": 200.64,
+  "duration": 4.0,
+  "text": "more useful in academic settings."
+ },
+ {
+  "start": 202.84,
+  "duration": 3.92,
+  "text": "The first agent is called Alethea, built"
+ },
+ {
+  "start": 204.64,
+  "duration": 4.0,
+  "text": "to handle math research. The agent is"
+ },
+ {
+  "start": 206.76,
+  "duration": 3.759,
+  "text": "designed to generate possible solutions,"
+ },
+ {
+  "start": 208.64,
+  "duration": 3.08,
+  "text": "verify them, and then feed insights back"
+ },
+ {
+  "start": 210.519,
+  "duration": 3.521,
+  "text": "into the start of the loop until a"
+ },
+ {
+  "start": 211.72,
+  "duration": 3.56,
+  "text": "correct solution is found. This is not"
+ },
+ {
+  "start": 214.04,
+  "duration": 2.68,
+  "text": "about helping your kid with math"
+ },
+ {
+  "start": 215.28,
+  "duration": 3.44,
+  "text": "homework or even getting you through a"
+ },
+ {
+  "start": 216.72,
+  "duration": 3.56,
+  "text": "post-grad quantum physics course."
+ },
+ {
+  "start": 218.72,
+  "duration": 3.2,
+  "text": "Instead, it's an attempt to build an"
+ },
+ {
+  "start": 220.28,
+  "duration": 4.32,
+  "text": "agent that can autonomously generate and"
+ },
+ {
+  "start": 221.92,
+  "duration": 4.16,
+  "text": "verify novel proofs in pure mathematics."
+ },
+ {
+  "start": 224.6,
+  "duration": 3.32,
+  "text": "The model has already contributed to"
+ },
+ {
+  "start": 226.08,
+  "duration": 3.24,
+  "text": "several academic papers this year, so"
+ },
+ {
+  "start": 227.92,
+  "duration": 3.48,
+  "text": "this is an attempt to formalize that"
+ },
+ {
+  "start": 229.32,
+  "duration": 3.52,
+  "text": "process into an agent. Google says that"
+ },
+ {
+  "start": 231.4,
+  "duration": 2.52,
+  "text": "they're also expanding this work into"
+ },
+ {
+  "start": 232.84,
+  "duration": 2.92,
+  "text": "the fields of physics and computer"
+ },
+ {
+  "start": 233.92,
+  "duration": 3.12,
+  "text": "science, so we can expect more from that"
+ },
+ {
+  "start": 235.76,
+  "duration": 2.92,
+  "text": "soon."
+ },
+ {
+  "start": 237.04,
+  "duration": 3.44,
+  "text": "Aside from the new agent, this upgraded"
+ },
+ {
+  "start": 238.68,
+  "duration": 5.32,
+  "text": "version of Deep Think is a beast on the"
+ },
+ {
+  "start": 240.48,
+  "duration": 6.28,
+  "text": "benchmarks. The model scores 84.6% on"
+ },
+ {
+  "start": 244.0,
+  "duration": 5.8,
+  "text": "ARKG I2, smashing the previous best from"
+ },
+ {
+  "start": 246.76,
+  "duration": 5.04,
+  "text": "Opus 4.6 at 68.8%."
+ },
+ {
+  "start": 249.8,
+  "duration": 4.56,
+  "text": "The cost per task is around $14, which"
+ },
+ {
+  "start": 251.8,
+  "duration": 3.92,
+  "text": "is roughly comparable to GPT 5.2 Pro,"
+ },
+ {
+  "start": 254.36,
+  "duration": 3.36,
+  "text": "meaning that this isn't an absurdly"
+ },
+ {
+  "start": 255.72,
+  "duration": 3.04,
+  "text": "expensive model to run."
+ },
+ {
+  "start": 257.72,
+  "duration": 2.88,
+  "text": "In addition, Deep Think is"
+ },
+ {
+  "start": 258.76,
+  "duration": 4.2,
+  "text": "state-of-the-art on Humanities Last Exam"
+ },
+ {
+  "start": 260.6,
+  "duration": 5.68,
+  "text": "with a score of 48.6%."
+ },
+ {
+  "start": 262.96,
+  "duration": 5.12,
+  "text": "Previous best was Opus 4.6 again at 40%."
+ },
+ {
+  "start": 266.28,
+  "duration": 3.52,
+  "text": "Ultimately, the vast majority of users"
+ },
+ {
+  "start": 268.08,
+  "duration": 3.52,
+  "text": "still won't have a use case that demands"
+ },
+ {
+  "start": 269.8,
+  "duration": 4.56,
+  "text": "Deep Think, but it's clearly a step"
+ },
+ {
+  "start": 271.6,
+  "duration": 4.72,
+  "text": "forward for raw model capability."
+ },
+ {
+  "start": 274.36,
+  "duration": 4.28,
+  "text": "Next up, we move from models that we got"
+ },
+ {
+  "start": 276.32,
+  "duration": 4.48,
+  "text": "to models that we might get soon. Deep"
+ },
+ {
+  "start": 278.64,
+  "duration": 3.8,
+  "text": "Seek rumors are in full swing as Chinese"
+ },
+ {
+  "start": 280.8,
+  "duration": 2.56,
+  "text": "New Year approaches."
+ },
+ {
+  "start": 282.44,
+  "duration": 2.88,
+  "text": "The weeks approaching the Spring"
+ },
+ {
+  "start": 283.36,
+  "duration": 4.24,
+  "text": "Festival have already seen a deluge of"
+ },
+ {
+  "start": 285.32,
+  "duration": 4.0,
+  "text": "new models out of China. Zhipu released"
+ },
+ {
+  "start": 287.6,
+  "duration": 4.2,
+  "text": "their new frontier model GLM-5 on"
+ },
+ {
+  "start": 289.32,
+  "duration": 4.08,
+  "text": "Thursday, and SeeDance from ByteDance"
+ },
+ {
+  "start": 291.8,
+  "duration": 3.0,
+  "text": "pushed data the art for video generation"
+ },
+ {
+  "start": 293.4,
+  "duration": 3.04,
+  "text": "earlier in the week."
+ },
+ {
+  "start": 294.8,
+  "duration": 3.16,
+  "text": "Meanwhile, Alibaba and Baidu are"
+ },
+ {
+  "start": 296.44,
+  "duration": 2.96,
+  "text": "aggressively pushing shopping agents in"
+ },
+ {
+  "start": 297.96,
+  "duration": 4.12,
+  "text": "a bid to capture market share in that"
+ },
+ {
+  "start": 299.4,
+  "duration": 4.4,
+  "text": "area. But, all eyes are on Deep Seek"
+ },
+ {
+  "start": 302.08,
+  "duration": 2.88,
+  "text": "with the release of V4 expected to"
+ },
+ {
+  "start": 303.8,
+  "duration": 3.16,
+  "text": "coincide with Lunar New Year"
+ },
+ {
+  "start": 304.96,
+  "duration": 4.36,
+  "text": "celebrations on Tuesday."
+ },
+ {
+  "start": 306.96,
+  "duration": 4.28,
+  "text": "Shawn Wang, aka Swyx, explained why this"
+ },
+ {
+  "start": 309.32,
+  "duration": 3.4,
+  "text": "release was such a big deal."
+ },
+ {
+  "start": 311.24,
+  "duration": 3.56,
+  "text": "He wrote, \"I've been cynical on"
+ },
+ {
+  "start": 312.72,
+  "duration": 4.04,
+  "text": "open-source AI for the last 3 years, and"
+ },
+ {
+  "start": 314.8,
+  "duration": 3.24,
+  "text": "it's not been a popular view. People"
+ },
+ {
+  "start": 316.76,
+  "duration": 3.24,
+  "text": "want to hear that open-source is"
+ },
+ {
+  "start": 318.04,
+  "duration": 3.52,
+  "text": "catching up. That some underdog team"
+ },
+ {
+  "start": 320.0,
+  "duration": 3.12,
+  "text": "found this one weird trick to outperform"
+ },
+ {
+  "start": 321.56,
+  "duration": 4.28,
+  "text": "GPT-5."
+ },
+ {
+  "start": 323.12,
+  "duration": 4.96,
+  "text": "Kimi Chat 2.5 didn't even beat GPT-5.2"
+ },
+ {
+  "start": 325.84,
+  "duration": 3.76,
+  "text": "in the end. Deep Seek version 4 next"
+ },
+ {
+  "start": 328.08,
+  "duration": 3.64,
+  "text": "week is probably the moment I really"
+ },
+ {
+  "start": 329.6,
+  "duration": 3.56,
+  "text": "change my stance for the first time."
+ },
+ {
+  "start": 331.72,
+  "duration": 3.36,
+  "text": "Hearing that the Chinese labs leak like"
+ },
+ {
+  "start": 333.16,
+  "duration": 3.52,
+  "text": "a sieve, and all the other tigers duly"
+ },
+ {
+  "start": 335.08,
+  "duration": 3.92,
+  "text": "lined up to have their 15 seconds this"
+ },
+ {
+  "start": 336.68,
+  "duration": 4.72,
+  "text": "week. Almost everything is out now, and"
+ },
+ {
+  "start": 339.0,
+  "duration": 3.52,
+  "text": "the stage is set for whale fall.\""
+ },
+ {
+  "start": 341.4,
+  "duration": 2.44,
+  "text": "Basically, what he's saying is that the"
+ },
+ {
+  "start": 342.52,
+  "duration": 3.399,
+  "text": "reason that we got a flurry of these"
+ },
+ {
+  "start": 343.84,
+  "duration": 3.28,
+  "text": "other models over the last week is that"
+ },
+ {
+  "start": 345.919,
+  "duration": 2.761,
+  "text": "they knew they couldn't compete with"
+ },
+ {
+  "start": 347.12,
+  "duration": 4.32,
+  "text": "what was coming out of Deep Seek, and so"
+ },
+ {
+  "start": 348.68,
+  "duration": 4.56,
+  "text": "they wanted to get in under that wire."
+ },
+ {
+  "start": 351.44,
+  "duration": 3.8,
+  "text": "In fundraising news, Anthropic has"
+ },
+ {
+  "start": 353.24,
+  "duration": 4.52,
+  "text": "officially closed their latest round,"
+ },
+ {
+  "start": 355.24,
+  "duration": 5.88,
+  "text": "and the ultimate numbers are $30 billion"
+ },
+ {
+  "start": 357.76,
+  "duration": 5.0,
+  "text": "at a $380 billion post-money valuation."
+ },
+ {
+  "start": 361.12,
+  "duration": 3.0,
+  "text": "As we expected, the round includes not"
+ },
+ {
+  "start": 362.76,
+  "duration": 2.92,
+  "text": "only the who's who of Silicon Valley"
+ },
+ {
+  "start": 364.12,
+  "duration": 3.16,
+  "text": "VCs, but a bunch of sovereign wealth"
+ },
+ {
+  "start": 365.68,
+  "duration": 3.76,
+  "text": "funds and major financial firms like"
+ },
+ {
+  "start": 367.28,
+  "duration": 4.64,
+  "text": "Fidelity, BlackRock, Blackstone, Goldman"
+ },
+ {
+  "start": 369.44,
+  "duration": 3.84,
+  "text": "Sachs, Morgan Stanley, and JP Morgan."
+ },
+ {
+  "start": 371.92,
+  "duration": 2.6,
+  "text": "Still, the thing that really hit people"
+ },
+ {
+  "start": 373.28,
+  "duration": 3.0,
+  "text": "over the head wasn't the number of"
+ },
+ {
+  "start": 374.52,
+  "duration": 3.12,
+  "text": "dollars raised or the valuation or even"
+ },
+ {
+  "start": 376.28,
+  "duration": 4.12,
+  "text": "the participants."
+ },
+ {
+  "start": 377.64,
+  "duration": 4.0,
+  "text": "It was the growth in their revenue."
+ },
+ {
+  "start": 380.4,
+  "duration": 2.92,
+  "text": "You probably saw this chart running"
+ },
+ {
+  "start": 381.64,
+  "duration": 5.24,
+  "text": "around where the company grew from a"
+ },
+ {
+  "start": 383.32,
+  "duration": 5.0,
+  "text": "billion-dollar ARR in January 2025 to 14"
+ },
+ {
+  "start": 386.88,
+  "duration": 3.44,
+  "text": "billion today."
+ },
+ {
+  "start": 388.32,
+  "duration": 4.2,
+  "text": "Revenue breadth was also impressive."
+ },
+ {
+  "start": 390.32,
+  "duration": 4.68,
+  "text": "Customers spending $100,000 annually had"
+ },
+ {
+  "start": 392.52,
+  "duration": 3.96,
+  "text": "grown 7x over the past year."
+ },
+ {
+  "start": 395.0,
+  "duration": 2.8,
+  "text": "Two years ago, Anthropic had just a"
+ },
+ {
+  "start": 396.48,
+  "duration": 3.08,
+  "text": "dozen customers spending more than a"
+ },
+ {
+  "start": 397.8,
+  "duration": 4.04,
+  "text": "million dollars with them annually, and"
+ },
+ {
+  "start": 399.56,
+  "duration": 3.48,
+  "text": "that figure is now north of 500 with"
+ },
+ {
+  "start": 401.84,
+  "duration": 2.92,
+  "text": "eight of the Fortune 10 using"
+ },
+ {
+  "start": 403.04,
+  "duration": 3.879,
+  "text": "Anthropic's tools."
+ },
+ {
+  "start": 404.76,
+  "duration": 3.52,
+  "text": "Claude alone is now generating 2.5"
+ },
+ {
+  "start": 406.919,
+  "duration": 2.561,
+  "text": "billion, more than doubling since the"
+ },
+ {
+  "start": 408.28,
+  "duration": 3.52,
+  "text": "beginning of this year, and creating a"
+ },
+ {
+  "start": 409.48,
+  "duration": 4.2,
+  "text": "major new revenue stream. Weekly users"
+ },
+ {
+  "start": 411.8,
+  "duration": 3.24,
+  "text": "for the feature have also doubled so far"
+ },
+ {
+  "start": 413.68,
+  "duration": 2.6,
+  "text": "this year."
+ },
+ {
+  "start": 415.04,
+  "duration": 3.48,
+  "text": "That growth is showing up in the"
+ },
+ {
+  "start": 416.28,
+  "duration": 4.16,
+  "text": "independent statistics as well. Ramp"
+ },
+ {
+  "start": 418.52,
+  "duration": 3.32,
+  "text": "economist Ara Khachaturian said that one"
+ },
+ {
+  "start": 420.44,
+  "duration": 3.8,
+  "text": "in five businesses on Ramp are now"
+ },
+ {
+  "start": 421.84,
+  "duration": 5.2,
+  "text": "paying for Anthropic, up from one in 25"
+ },
+ {
+  "start": 424.24,
+  "duration": 4.56,
+  "text": "a year ago. He commented, \"Latest Ramp"
+ },
+ {
+  "start": 427.04,
+  "duration": 5.32,
+  "text": "AI index shows Anthropic surge from"
+ },
+ {
+  "start": 428.8,
+  "duration": 6.72,
+  "text": "16.7% to 19.5% of businesses, while"
+ },
+ {
+  "start": 432.36,
+  "duration": 5.0,
+  "text": "OpenAI slipped to 35.9%.\""
+ },
+ {
+  "start": 435.52,
+  "duration": 3.96,
+  "text": "The natural question is Anthropic"
+ },
+ {
+  "start": 437.36,
+  "duration": 3.96,
+  "text": "winning at OpenAI's expense?"
+ },
+ {
+  "start": 439.48,
+  "duration": 4.24,
+  "text": "I think popular analysis lacks a key"
+ },
+ {
+  "start": 441.32,
+  "duration": 4.68,
+  "text": "data point. The overlap in Anthropic's"
+ },
+ {
+  "start": 443.72,
+  "duration": 4.72,
+  "text": "customer base with OpenAI."
+ },
+ {
+  "start": 446.0,
+  "duration": 4.44,
+  "text": "79% of Anthropic's customers are already"
+ },
+ {
+  "start": 448.44,
+  "duration": 4.84,
+  "text": "OpenAI customers. The churn rates are"
+ },
+ {
+  "start": 450.44,
+  "duration": 4.56,
+  "text": "nearly identical at 4%. So, most of"
+ },
+ {
+  "start": 453.28,
+  "duration": 4.639,
+  "text": "Anthropic's growth is coming from"
+ },
+ {
+  "start": 455.0,
+  "duration": 4.36,
+  "text": "existing OpenAI customers."
+ },
+ {
+  "start": 457.919,
+  "duration": 3.521,
+  "text": "Alongside their fundraising, Anthropic"
+ },
+ {
+  "start": 459.36,
+  "duration": 3.4,
+  "text": "also announced a a million donation to a"
+ },
+ {
+  "start": 461.44,
+  "duration": 3.8,
+  "text": "newly founded social welfare"
+ },
+ {
+  "start": 462.76,
+  "duration": 3.88,
+  "text": "organization called Public First Action."
+ },
+ {
+  "start": 465.24,
+  "duration": 3.28,
+  "text": "The organization's purpose will be to"
+ },
+ {
+  "start": 466.64,
+  "duration": 3.6,
+  "text": "support public education about AI,"
+ },
+ {
+  "start": 468.52,
+  "duration": 3.52,
+  "text": "promote safeguards, and ensure America"
+ },
+ {
+  "start": 470.24,
+  "duration": 3.52,
+  "text": "leads the AI race."
+ },
+ {
+  "start": 472.04,
+  "duration": 3.4,
+  "text": "Anthropic wrote, \"Recent polling finds"
+ },
+ {
+  "start": 473.76,
+  "duration": 2.92,
+  "text": "that 69% of Americans think the"
+ },
+ {
+  "start": 475.44,
+  "duration": 4.04,
+  "text": "government is not doing enough to"
+ },
+ {
+  "start": 476.68,
+  "duration": 4.56,
+  "text": "regulate the use of AI. We agree. AI is"
+ },
+ {
+  "start": 479.48,
+  "duration": 3.12,
+  "text": "being adopted faster than any technology"
+ },
+ {
+  "start": 481.24,
+  "duration": 3.6,
+  "text": "in history, and the window to get the"
+ },
+ {
+  "start": 482.6,
+  "duration": 3.72,
+  "text": "policy right is closing. If there are no"
+ },
+ {
+  "start": 484.84,
+  "duration": 4.12,
+  "text": "official guardrails in place, and there"
+ },
+ {
+  "start": 486.32,
+  "duration": 3.96,
+  "text": "is no federal framework on the horizon.\""
+ },
+ {
+  "start": 488.96,
+  "duration": 2.36,
+  "text": "Now, there is actually a lot more to"
+ },
+ {
+  "start": 490.28,
+  "duration": 2.76,
+  "text": "talk about when it comes to this"
+ },
+ {
+  "start": 491.32,
+  "duration": 2.76,
+  "text": "particular set of issues, things that"
+ },
+ {
+  "start": 493.04,
+  "duration": 2.6,
+  "text": "are getting booted for a little bit"
+ },
+ {
+  "start": 494.08,
+  "duration": 2.96,
+  "text": "later this week, including the White"
+ },
+ {
+  "start": 495.64,
+  "duration": 3.6,
+  "text": "House putting some pressure on state"
+ },
+ {
+  "start": 497.04,
+  "duration": 3.84,
+  "text": "lawmakers around AI, as well as the"
+ },
+ {
+  "start": 499.24,
+  "duration": 3.8,
+  "text": "White House being in quite a little tiff"
+ },
+ {
+  "start": 500.88,
+  "duration": 3.6,
+  "text": "with Anthropic itself."
+ },
+ {
+  "start": 503.04,
+  "duration": 3.04,
+  "text": "We will come back to that later, but one"
+ },
+ {
+  "start": 504.48,
+  "duration": 3.56,
+  "text": "more small thing I wanted to announce in"
+ },
+ {
+  "start": 506.08,
+  "duration": 3.28,
+  "text": "the Anthropic world."
+ },
+ {
+  "start": 508.04,
+  "duration": 2.72,
+  "text": "For those of you Windows users who have"
+ },
+ {
+  "start": 509.36,
+  "duration": 3.44,
+  "text": "been annoyed watching Mac users get"
+ },
+ {
+  "start": 510.76,
+  "duration": 3.839,
+  "text": "everything first, Claude Co-work is now"
+ },
+ {
+  "start": 512.8,
+  "duration": 3.08,
+  "text": "available on Windows."
+ },
+ {
+  "start": 514.599,
+  "duration": 2.361,
+  "text": "Now, if you've been watching the markets"
+ },
+ {
+  "start": 515.88,
+  "duration": 2.56,
+  "text": "and listening to this show, you'll know"
+ },
+ {
+  "start": 516.96,
+  "duration": 2.8,
+  "text": "that the launch of Co-work was treated"
+ },
+ {
+  "start": 518.44,
+  "duration": 2.96,
+  "text": "as an extinction-level event for"
+ },
+ {
+  "start": 519.76,
+  "duration": 3.08,
+  "text": "software firms on Wall Street, and"
+ },
+ {
+  "start": 521.4,
+  "duration": 2.8,
+  "text": "reports suggested that Microsoft was"
+ },
+ {
+  "start": 522.84,
+  "duration": 2.52,
+  "text": "taking notice."
+ },
+ {
+  "start": 524.2,
+  "duration": 2.8,
+  "text": "Sources told The Information that a"
+ },
+ {
+  "start": 525.36,
+  "duration": 3.24,
+  "text": "Slack channel or Teams channel, I'm not"
+ },
+ {
+  "start": 527.0,
+  "duration": 3.12,
+  "text": "really sure, had been set up to discuss"
+ },
+ {
+  "start": 528.6,
+  "duration": 3.44,
+  "text": "Co-work and rapidly develop rival"
+ },
+ {
+  "start": 530.12,
+  "duration": 3.64,
+  "text": "features for Copilot. The channel was"
+ },
+ {
+  "start": 532.04,
+  "duration": 3.36,
+  "text": "said to include CEO Satya Nadella"
+ },
+ {
+  "start": 533.76,
+  "duration": 4.079,
+  "text": "discussing his use of emerging tools,"
+ },
+ {
+  "start": 535.4,
+  "duration": 3.96,
+  "text": "which included testing out open claw."
+ },
+ {
+  "start": 537.839,
+  "duration": 3.281,
+  "text": "It seems Anthropic is now forcing the"
+ },
+ {
+  "start": 539.36,
+  "duration": 3.88,
+  "text": "issue with Co-work now fully available"
+ },
+ {
+  "start": 541.12,
+  "duration": 4.0,
+  "text": "on Windows. Anthropic said the feature"
+ },
+ {
+  "start": 543.24,
+  "duration": 4.2,
+  "text": "has full parity with macOS, including"
+ },
+ {
+  "start": 545.12,
+  "duration": 4.719,
+  "text": "file access, multi-step task execution,"
+ },
+ {
+  "start": 547.44,
+  "duration": 3.92,
+  "text": "plugins, and MCP connectors."
+ },
+ {
+  "start": 549.839,
+  "duration": 2.961,
+  "text": "There is a lot more to cover. This week"
+ },
+ {
+  "start": 551.36,
+  "duration": 3.52,
+  "text": "is going to be dense, but for now, that"
+ },
+ {
+  "start": 552.8,
+  "duration": 5.68,
+  "text": "is going to do it for today's headlines."
+ },
+ {
+  "start": 554.88,
+  "duration": 3.6,
+  "text": "Next up, the main episode."
+ }
+]

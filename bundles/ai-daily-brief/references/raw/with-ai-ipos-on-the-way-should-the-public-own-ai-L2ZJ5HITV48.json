@@ -1,0 +1,3157 @@
+[
+ {
+  "start": 1.0,
+  "duration": 4.04,
+  "text": "Today on the AI Daily Brief,"
+ },
+ {
+  "start": 3.0,
+  "duration": 6.08,
+  "text": "as OpenAI and Anthropic race towards"
+ },
+ {
+  "start": 5.04,
+  "duration": 6.0,
+  "text": "IPO, should AI be a public good?"
+ },
+ {
+  "start": 9.08,
+  "duration": 4.56,
+  "text": "Before that, in the headlines, a new"
+ },
+ {
+  "start": 11.04,
+  "duration": 4.2,
+  "text": "Nvidia chip means the Mac M series has"
+ },
+ {
+  "start": 13.64,
+  "duration": 3.44,
+  "text": "some competition."
+ },
+ {
+  "start": 15.24,
+  "duration": 3.4,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 17.08,
+  "duration": 4.92,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 18.64,
+  "duration": 3.36,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 22.52,
+  "duration": 3.68,
+  "text": "Welcome back to the AI Daily Brief"
+ },
+ {
+  "start": 23.76,
+  "duration": 5.28,
+  "text": "Headlines edition, all the daily AI news"
+ },
+ {
+  "start": 26.2,
+  "duration": 5.24,
+  "text": "you need in around 5 minutes."
+ },
+ {
+  "start": 29.04,
+  "duration": 4.6,
+  "text": "Today we kick off some news from Nvidia."
+ },
+ {
+  "start": 31.44,
+  "duration": 4.76,
+  "text": "And honestly, it's another reminder of"
+ },
+ {
+  "start": 33.64,
+  "duration": 4.0,
+  "text": "just how much the company is doing, even"
+ },
+ {
+  "start": 36.2,
+  "duration": 3.04,
+  "text": "though the context in which we talk"
+ },
+ {
+  "start": 37.64,
+  "duration": 3.48,
+  "text": "about them is mostly just their core"
+ },
+ {
+  "start": 39.24,
+  "duration": 3.76,
+  "text": "product of chips. On Monday, the company"
+ },
+ {
+  "start": 41.12,
+  "duration": 3.72,
+  "text": "held their GTC Taipei event, with the"
+ },
+ {
+  "start": 43.0,
+  "duration": 4.6,
+  "text": "headline reveal being a new chip called"
+ },
+ {
+  "start": 44.84,
+  "duration": 5.08,
+  "text": "the RTX Spark. While Nvidia billed it as"
+ },
+ {
+  "start": 47.6,
+  "duration": 5.0,
+  "text": "a superchip, the RTX Spark is the first"
+ },
+ {
+  "start": 49.92,
+  "duration": 4.56,
+  "text": "of their standalone prosumer grade CPUs."
+ },
+ {
+  "start": 52.6,
+  "duration": 3.96,
+  "text": "The chip will feature 20 CPU cores"
+ },
+ {
+  "start": 54.48,
+  "duration": 4.28,
+  "text": "married to over 6,000 integrated GPU"
+ },
+ {
+  "start": 56.56,
+  "duration": 4.0,
+  "text": "cores, supporting up to 128 GB of"
+ },
+ {
+  "start": 58.76,
+  "duration": 3.92,
+  "text": "unified memory. The chip is capable of"
+ },
+ {
+  "start": 60.56,
+  "duration": 4.84,
+  "text": "delivering one petaflop of AI compute,"
+ },
+ {
+  "start": 62.68,
+  "duration": 4.8,
+  "text": "which by comparison, an H100 outputs"
+ },
+ {
+  "start": 65.4,
+  "duration": 3.88,
+  "text": "around four petaflops. Nvidia said that"
+ },
+ {
+  "start": 67.48,
+  "duration": 4.6,
+  "text": "the chip will be available in Windows"
+ },
+ {
+  "start": 69.28,
+  "duration": 5.04,
+  "text": "PCs and laptops by the fall, with models"
+ },
+ {
+  "start": 72.08,
+  "duration": 4.88,
+  "text": "available from Asus, Dell, HP, Lenovo,"
+ },
+ {
+  "start": 74.32,
+  "duration": 4.16,
+  "text": "and Microsoft at launch. Pricing was not"
+ },
+ {
+  "start": 76.96,
+  "duration": 3.08,
+  "text": "announced, but these will be premium"
+ },
+ {
+  "start": 78.48,
+  "duration": 2.96,
+  "text": "devices designed to compete with"
+ },
+ {
+  "start": 80.04,
+  "duration": 2.76,
+  "text": "high-end Mac products and gaming"
+ },
+ {
+  "start": 81.44,
+  "duration": 3.52,
+  "text": "computers that pull double duty as"
+ },
+ {
+  "start": 82.8,
+  "duration": 3.44,
+  "text": "inference workhorses. I saw a lot of"
+ },
+ {
+  "start": 84.96,
+  "duration": 2.92,
+  "text": "people basically saying that this is"
+ },
+ {
+  "start": 86.24,
+  "duration": 3.76,
+  "text": "their competition to the M5 series of"
+ },
+ {
+  "start": 87.88,
+  "duration": 4.08,
+  "text": "Mac computers. Now, in some ways, this"
+ },
+ {
+  "start": 90.0,
+  "duration": 3.6,
+  "text": "is part of a trend and a shift in the"
+ },
+ {
+  "start": 91.96,
+  "duration": 3.52,
+  "text": "compute workload as we prioritize"
+ },
+ {
+  "start": 93.6,
+  "duration": 3.36,
+  "text": "inference. GPUs, of course, have been"
+ },
+ {
+  "start": 95.48,
+  "duration": 3.6,
+  "text": "the core piece of AI hardware for almost"
+ },
+ {
+  "start": 96.96,
+  "duration": 4.44,
+  "text": "a decade, but the CPU is now having a"
+ },
+ {
+  "start": 99.08,
+  "duration": 3.76,
+  "text": "resurgence. GPUs are increasingly seen"
+ },
+ {
+  "start": 101.4,
+  "duration": 3.48,
+  "text": "as hardware for AI training, while"
+ },
+ {
+  "start": 102.84,
+  "duration": 4.12,
+  "text": "powerful CPUs are better for executing"
+ },
+ {
+  "start": 104.88,
+  "duration": 4.24,
+  "text": "agentic tool calls. Kari Briski,"
+ },
+ {
+  "start": 106.96,
+  "duration": 4.32,
+  "text": "Nvidia's VP for GenAI software, said of"
+ },
+ {
+  "start": 109.12,
+  "duration": 4.04,
+  "text": "GPU-powered chatbots, \"That era is"
+ },
+ {
+  "start": 111.28,
+  "duration": 3.28,
+  "text": "ending. Agents are the new workload."
+ },
+ {
+  "start": 113.16,
+  "duration": 3.6,
+  "text": "They will run everywhere from the data"
+ },
+ {
+  "start": 114.56,
+  "duration": 4.28,
+  "text": "center to the edge.\" Now, in addition to"
+ },
+ {
+  "start": 116.76,
+  "duration": 3.84,
+  "text": "those new machines, NVIDIA CEO Jensen"
+ },
+ {
+  "start": 118.84,
+  "duration": 3.44,
+  "text": "Huang also announced that Vera Rubin had"
+ },
+ {
+  "start": 120.6,
+  "duration": 3.24,
+  "text": "entered full production. OpenAI and"
+ },
+ {
+  "start": 122.28,
+  "duration": 3.199,
+  "text": "Anthropic have already taken delivery of"
+ },
+ {
+  "start": 123.84,
+  "duration": 3.04,
+  "text": "their first units with plans to scale up"
+ },
+ {
+  "start": 125.479,
+  "duration": 2.321,
+  "text": "into full data center build-outs this"
+ },
+ {
+  "start": 126.88,
+  "duration": 2.72,
+  "text": "year."
+ },
+ {
+  "start": 127.8,
+  "duration": 4.36,
+  "text": "The Vera Rubin nomenclature refers to"
+ },
+ {
+  "start": 129.6,
+  "duration": 4.4,
+  "text": "the CPU-GPU pairing in the chip. Vera is"
+ },
+ {
+  "start": 132.16,
+  "duration": 3.799,
+  "text": "the CPU, while Rubin is the GPU"
+ },
+ {
+  "start": 134.0,
+  "duration": 3.959,
+  "text": "architecture. For the first time for an"
+ },
+ {
+  "start": 135.959,
+  "duration": 3.841,
+  "text": "NVIDIA data center chip, the focus is on"
+ },
+ {
+  "start": 137.959,
+  "duration": 3.361,
+  "text": "the CPU and its ability to supercharge"
+ },
+ {
+  "start": 139.8,
+  "duration": 3.68,
+  "text": "agentic AI."
+ },
+ {
+  "start": 141.32,
+  "duration": 4.52,
+  "text": "Said Huang, \"AI agents will be the"
+ },
+ {
+  "start": 143.48,
+  "duration": 4.36,
+  "text": "largest users of compute. Vera is the"
+ },
+ {
+  "start": 145.84,
+  "duration": 3.96,
+  "text": "first CPU designed for that future,"
+ },
+ {
+  "start": 147.84,
+  "duration": 3.2,
+  "text": "built to run agentic AI at hyperscale"
+ },
+ {
+  "start": 149.8,
+  "duration": 3.44,
+  "text": "with extraordinary performance,"
+ },
+ {
+  "start": 151.04,
+  "duration": 3.8,
+  "text": "efficiency, and programmability.\" Making"
+ },
+ {
+  "start": 153.24,
+  "duration": 3.28,
+  "text": "that comparison that I just mentioned,"
+ },
+ {
+  "start": 154.84,
+  "duration": 3.8,
+  "text": "The Verge argued that the RTX Spark"
+ },
+ {
+  "start": 156.52,
+  "duration": 4.52,
+  "text": "could be the M1 moment for Windows."
+ },
+ {
+  "start": 158.64,
+  "duration": 3.72,
+  "text": "I.e., until now, Apple's M-series chips"
+ },
+ {
+  "start": 161.04,
+  "duration": 2.919,
+  "text": "have been the go-to for running AI"
+ },
+ {
+  "start": 162.36,
+  "duration": 3.16,
+  "text": "models locally, and now in its fifth"
+ },
+ {
+  "start": 163.959,
+  "duration": 3.441,
+  "text": "generation, the M-series architecture"
+ },
+ {
+  "start": 165.52,
+  "duration": 3.24,
+  "text": "has been utterly dominant. Apple has"
+ },
+ {
+  "start": 167.4,
+  "duration": 3.08,
+  "text": "been the only choice for local"
+ },
+ {
+  "start": 168.76,
+  "duration": 3.56,
+  "text": "inference, and many of us have the Mac"
+ },
+ {
+  "start": 170.48,
+  "duration": 3.2,
+  "text": "minis to prove it. NVIDIA is looking to"
+ },
+ {
+  "start": 172.32,
+  "duration": 3.44,
+  "text": "replicate that breakout moment and"
+ },
+ {
+  "start": 173.68,
+  "duration": 3.52,
+  "text": "capture a new slice of the market, going"
+ },
+ {
+  "start": 175.76,
+  "duration": 4.28,
+  "text": "head-to-head with Apple for what Huang"
+ },
+ {
+  "start": 177.2,
+  "duration": 5.48,
+  "text": "is calling the personal AI computer."
+ },
+ {
+  "start": 180.04,
+  "duration": 4.12,
+  "text": "Now, this idea of personal AI computing"
+ },
+ {
+  "start": 182.68,
+  "duration": 2.88,
+  "text": "feels to me like it's very likely to be"
+ },
+ {
+  "start": 184.16,
+  "duration": 3.48,
+  "text": "on display throughout the week as"
+ },
+ {
+  "start": 185.56,
+  "duration": 4.52,
+  "text": "Microsoft Build kicks off."
+ },
+ {
+  "start": 187.64,
+  "duration": 3.879,
+  "text": "Microsoft CEO Satya Nadella used the RTX"
+ },
+ {
+  "start": 190.08,
+  "duration": 2.84,
+  "text": "Spark announcement as a kickoff,"
+ },
+ {
+  "start": 191.519,
+  "duration": 2.841,
+  "text": "tweeting that their goal at Microsoft"
+ },
+ {
+  "start": 192.92,
+  "duration": 3.2,
+  "text": "was to deliver, quote, \"unmetered"
+ },
+ {
+  "start": 194.36,
+  "duration": 3.879,
+  "text": "intelligence to every home and every"
+ },
+ {
+  "start": 196.12,
+  "duration": 3.72,
+  "text": "desk with Windows.\""
+ },
+ {
+  "start": 198.239,
+  "duration": 3.241,
+  "text": "Now, staying on hardware for a minute,"
+ },
+ {
+  "start": 199.84,
+  "duration": 3.8,
+  "text": "Meta is apparently joining the AI"
+ },
+ {
+  "start": 201.48,
+  "duration": 3.92,
+  "text": "hardware competition with a new pendant."
+ },
+ {
+  "start": 203.64,
+  "duration": 3.04,
+  "text": "The Information reports that Meta plans"
+ },
+ {
+  "start": 205.4,
+  "duration": 2.76,
+  "text": "to begin testing the pendant over the"
+ },
+ {
+  "start": 206.68,
+  "duration": 3.2,
+  "text": "next year as part of a broader AI"
+ },
+ {
+  "start": 208.16,
+  "duration": 3.4,
+  "text": "hardware strategy. A leaked memo"
+ },
+ {
+  "start": 209.88,
+  "duration": 2.96,
+  "text": "described a push into business-focused"
+ },
+ {
+  "start": 211.56,
+  "duration": 3.24,
+  "text": "devices, which they are calling"
+ },
+ {
+  "start": 212.84,
+  "duration": 3.92,
+  "text": "wearables for work. The core strategy,"
+ },
+ {
+  "start": 214.8,
+  "duration": 3.84,
+  "text": "however, is to use wearables as the hook"
+ },
+ {
+  "start": 216.76,
+  "duration": 4.32,
+  "text": "to increase use of Meta's AI models and"
+ },
+ {
+  "start": 218.64,
+  "duration": 3.92,
+  "text": "drive consumer agent subscriptions."
+ },
+ {
+  "start": 221.08,
+  "duration": 2.6,
+  "text": "Now, it is worth noting that Meta is"
+ },
+ {
+  "start": 222.56,
+  "duration": 2.6,
+  "text": "coming at this competition from a"
+ },
+ {
+  "start": 223.68,
+  "duration": 2.64,
+  "text": "slightly different place, considering"
+ },
+ {
+  "start": 225.16,
+  "duration": 3.32,
+  "text": "that the Meta Ray-Bans are the most"
+ },
+ {
+  "start": 226.32,
+  "duration": 4.36,
+  "text": "popular AI device on the market. At this"
+ },
+ {
+  "start": 228.48,
+  "duration": 4.08,
+  "text": "point, obviously, AI pendants are not a"
+ },
+ {
+  "start": 230.68,
+  "duration": 3.16,
+  "text": "going concern for most people, but it"
+ },
+ {
+  "start": 232.56,
+  "duration": 2.68,
+  "text": "appears that Meta wants to ensure that"
+ },
+ {
+  "start": 233.84,
+  "duration": 3.28,
+  "text": "they have a product available just in"
+ },
+ {
+  "start": 235.24,
+  "duration": 3.56,
+  "text": "case, preempting new devices from Google"
+ },
+ {
+  "start": 237.12,
+  "duration": 3.56,
+  "text": "and OpenAI, and forming something of a"
+ },
+ {
+  "start": 238.8,
+  "duration": 3.16,
+  "text": "natural conclusion of Meta acquiring AI"
+ },
+ {
+  "start": 240.68,
+  "duration": 2.44,
+  "text": "pendant startup Limitless at the end of"
+ },
+ {
+  "start": 241.96,
+  "duration": 2.48,
+  "text": "last year."
+ },
+ {
+  "start": 243.12,
+  "duration": 3.08,
+  "text": "This also could just mark a shift in"
+ },
+ {
+  "start": 244.44,
+  "duration": 3.72,
+  "text": "revenue strategy for Meta's beleaguered"
+ },
+ {
+  "start": 246.2,
+  "duration": 3.68,
+  "text": "Reality Labs division. The division"
+ },
+ {
+  "start": 248.16,
+  "duration": 3.52,
+  "text": "behind their metaverse efforts continues"
+ },
+ {
+  "start": 249.88,
+  "duration": 3.28,
+  "text": "to bleed money even with the success of"
+ },
+ {
+  "start": 251.68,
+  "duration": 3.08,
+  "text": "the Meta Ray-Bans."
+ },
+ {
+  "start": 253.16,
+  "duration": 3.199,
+  "text": "Last quarter, the division produced 4"
+ },
+ {
+  "start": 254.76,
+  "duration": 3.64,
+  "text": "billion in operating losses on revenue"
+ },
+ {
+  "start": 256.359,
+  "duration": 3.72,
+  "text": "of 402 million, but Meta hopes the"
+ },
+ {
+  "start": 258.4,
+  "duration": 3.32,
+  "text": "combination of useful consumer agents"
+ },
+ {
+  "start": 260.079,
+  "duration": 3.561,
+  "text": "and new devices will drive new AI"
+ },
+ {
+  "start": 261.72,
+  "duration": 3.84,
+  "text": "subscription revenue. In the memo, VP of"
+ },
+ {
+  "start": 263.64,
+  "duration": 3.36,
+  "text": "wearables Alex Himel wrote, \"To build a"
+ },
+ {
+  "start": 265.56,
+  "duration": 2.72,
+  "text": "sustainable business beyond hardware"
+ },
+ {
+  "start": 267.0,
+  "duration": 2.96,
+  "text": "margins, we need to monetize the"
+ },
+ {
+  "start": 268.28,
+  "duration": 3.96,
+  "text": "software experiences that differentiate"
+ },
+ {
+  "start": 269.96,
+  "duration": 4.2,
+  "text": "our devices.\" It has actually been some"
+ },
+ {
+  "start": 272.24,
+  "duration": 3.12,
+  "text": "time since we talked about AI wearables,"
+ },
+ {
+  "start": 274.16,
+  "duration": 2.64,
+  "text": "and one of the things that I'm watching"
+ },
+ {
+  "start": 275.36,
+  "duration": 2.84,
+  "text": "most closely for on that front is"
+ },
+ {
+  "start": 276.8,
+  "duration": 3.36,
+  "text": "whether all those efforts fall for"
+ },
+ {
+  "start": 278.2,
+  "duration": 3.32,
+  "text": "OpenAI, specifically in the category of"
+ },
+ {
+  "start": 280.16,
+  "duration": 3.2,
+  "text": "side quests that they are now trying to"
+ },
+ {
+  "start": 281.52,
+  "duration": 3.96,
+  "text": "avoid, or whether that's still an area"
+ },
+ {
+  "start": 283.36,
+  "duration": 3.559,
+  "text": "that they really plan on competing. Now,"
+ },
+ {
+  "start": 285.48,
+  "duration": 3.04,
+  "text": "one more story on the Meta front. The"
+ },
+ {
+  "start": 286.919,
+  "duration": 4.321,
+  "text": "company also just suffered a massive"
+ },
+ {
+  "start": 288.52,
+  "duration": 4.32,
+  "text": "exploit, which many are blaming on AI."
+ },
+ {
+  "start": 291.24,
+  "duration": 3.24,
+  "text": "On Monday, numerous Instagram accounts"
+ },
+ {
+  "start": 292.84,
+  "duration": 3.48,
+  "text": "were hijacked, including the Obama White"
+ },
+ {
+  "start": 294.48,
+  "duration": 3.0,
+  "text": "House and Sephora. Users who had their"
+ },
+ {
+  "start": 296.32,
+  "duration": 2.599,
+  "text": "accounts stolen said that they were"
+ },
+ {
+  "start": 297.48,
+  "duration": 3.2,
+  "text": "unable to reach a human tech support"
+ },
+ {
+  "start": 298.919,
+  "duration": 2.961,
+  "text": "worker. Back in March, Meta announced"
+ },
+ {
+  "start": 300.68,
+  "duration": 2.84,
+  "text": "that they would be rolling out AI"
+ },
+ {
+  "start": 301.88,
+  "duration": 3.32,
+  "text": "support to all accounts across Facebook"
+ },
+ {
+  "start": 303.52,
+  "duration": 3.399,
+  "text": "and Instagram to carry out routine tasks"
+ },
+ {
+  "start": 305.2,
+  "duration": 3.36,
+  "text": "like password requests. However, the"
+ },
+ {
+  "start": 306.919,
+  "duration": 3.681,
+  "text": "system appears to have some pretty"
+ },
+ {
+  "start": 308.56,
+  "duration": 3.6,
+  "text": "significant flaws, and over recent days,"
+ },
+ {
+  "start": 310.6,
+  "duration": 3.92,
+  "text": "videos have been circulating on Telegram"
+ },
+ {
+  "start": 312.16,
+  "duration": 4.28,
+  "text": "exploiting the exploit. An attacker can"
+ },
+ {
+  "start": 314.52,
+  "duration": 3.68,
+  "text": "simply ask Meta's AI to link any"
+ },
+ {
+  "start": 316.44,
+  "duration": 3.68,
+  "text": "arbitrary account to a new email address"
+ },
+ {
+  "start": 318.2,
+  "duration": 3.48,
+  "text": "when requesting a password reset. For"
+ },
+ {
+  "start": 320.12,
+  "duration": 2.84,
+  "text": "verified accounts, the AI bot will ask"
+ },
+ {
+  "start": 321.68,
+  "duration": 2.76,
+  "text": "for a video of the person to prove"
+ },
+ {
+  "start": 322.96,
+  "duration": 3.08,
+  "text": "liveliness, but hackers found that an"
+ },
+ {
+  "start": 324.44,
+  "duration": 3.44,
+  "text": "AI-generated video of the account owner"
+ },
+ {
+  "start": 326.04,
+  "duration": 3.68,
+  "text": "would pass the checks. Hackers also"
+ },
+ {
+  "start": 327.88,
+  "duration": 3.76,
+  "text": "needed to use a VPN to spoof the correct"
+ },
+ {
+  "start": 329.72,
+  "duration": 3.32,
+  "text": "location, which became trivial when Meta"
+ },
+ {
+  "start": 331.64,
+  "duration": 3.64,
+  "text": "added location data to Instagram"
+ },
+ {
+  "start": 333.04,
+  "duration": 3.68,
+  "text": "profiles. Two-factor authentication was"
+ },
+ {
+  "start": 335.28,
+  "duration": 2.68,
+  "text": "completely bypassed, and many didn't"
+ },
+ {
+  "start": 336.72,
+  "duration": 3.32,
+  "text": "notice anything was amiss until their"
+ },
+ {
+  "start": 337.96,
+  "duration": 3.84,
+  "text": "account was gone. Commentators are"
+ },
+ {
+  "start": 340.04,
+  "duration": 4.0,
+  "text": "fairly baffled by the misstep. In a"
+ },
+ {
+  "start": 341.8,
+  "duration": 4.32,
+  "text": "series of tweets, Greg Yarrow writes,"
+ },
+ {
+  "start": 344.04,
+  "duration": 4.32,
+  "text": "\"It's wild how Meta, a company going all"
+ },
+ {
+  "start": 346.12,
+  "duration": 3.96,
+  "text": "in on AI, somehow missed the memo on how"
+ },
+ {
+  "start": 348.36,
+  "duration": 3.32,
+  "text": "AI can generate images and videos that"
+ },
+ {
+  "start": 350.08,
+  "duration": 3.88,
+  "text": "renders take a selfie verifications"
+ },
+ {
+  "start": 351.68,
+  "duration": 3.96,
+  "text": "utterly useless. Seemingly confirming"
+ },
+ {
+  "start": 353.96,
+  "duration": 3.88,
+  "text": "everyone's fears about over-reliance on"
+ },
+ {
+  "start": 355.64,
+  "duration": 4.04,
+  "text": "AI and under-reliance on real humans, he"
+ },
+ {
+  "start": 357.84,
+  "duration": 3.56,
+  "text": "later added, \"I'm hearing Instagram's"
+ },
+ {
+  "start": 359.68,
+  "duration": 3.56,
+  "text": "trust and safety was absolutely gutted"
+ },
+ {
+  "start": 361.4,
+  "duration": 3.44,
+  "text": "over the last few weeks with 60% of the"
+ },
+ {
+  "start": 363.24,
+  "duration": 3.44,
+  "text": "org gone between layoffs and forced"
+ },
+ {
+  "start": 364.84,
+  "duration": 3.64,
+  "text": "reassignments to data labeling. All"
+ },
+ {
+  "start": 366.68,
+  "duration": 3.68,
+  "text": "while AI maxing pushed a bunch of bugs"
+ },
+ {
+  "start": 368.48,
+  "duration": 3.48,
+  "text": "to production.\" Apparently, this was not"
+ },
+ {
+  "start": 370.36,
+  "duration": 3.36,
+  "text": "a sophisticated hack, but engineers at"
+ },
+ {
+  "start": 371.96,
+  "duration": 3.24,
+  "text": "Instagram going overboard to use AI for"
+ },
+ {
+  "start": 373.72,
+  "duration": 3.44,
+  "text": "everything and having no incentives for"
+ },
+ {
+  "start": 375.2,
+  "duration": 4.12,
+  "text": "stuff like security. You get what you"
+ },
+ {
+  "start": 377.16,
+  "duration": 3.96,
+  "text": "incentivize. A warning for any company"
+ },
+ {
+  "start": 379.32,
+  "duration": 4.04,
+  "text": "wanting to copy Meta."
+ },
+ {
+  "start": 381.12,
+  "duration": 3.88,
+  "text": "Added Jeffrey Emmanuel, \"If Meta can't"
+ },
+ {
+  "start": 383.36,
+  "duration": 3.2,
+  "text": "manage agents in an acceptable way in"
+ },
+ {
+  "start": 385.0,
+  "duration": 3.28,
+  "text": "their own infrastructure, how can they"
+ },
+ {
+  "start": 386.56,
+  "duration": 3.88,
+  "text": "possibly expect anyone else to want to"
+ },
+ {
+  "start": 388.28,
+  "duration": 3.639,
+  "text": "use any of their stuff?\""
+ },
+ {
+  "start": 390.44,
+  "duration": 3.32,
+  "text": "Next up, we have the latest story in our"
+ },
+ {
+  "start": 391.919,
+  "duration": 3.481,
+  "text": "summer slowdown series. Management"
+ },
+ {
+  "start": 393.76,
+  "duration": 3.36,
+  "text": "consulting firm Bain & Company has"
+ },
+ {
+  "start": 395.4,
+  "duration": 3.72,
+  "text": "warned that a lack of AI ROI should be"
+ },
+ {
+  "start": 397.12,
+  "duration": 4.04,
+  "text": "making executives nervous. That's their"
+ },
+ {
+  "start": 399.12,
+  "duration": 3.96,
+  "text": "framing, by the way. In a new survey of"
+ },
+ {
+  "start": 401.16,
+  "duration": 3.28,
+  "text": "large companies conducted in April, Bain"
+ },
+ {
+  "start": 403.08,
+  "duration": 2.48,
+  "text": "found that cost savings from AI"
+ },
+ {
+  "start": 404.44,
+  "duration": 3.16,
+  "text": "automation are falling short of"
+ },
+ {
+  "start": 405.56,
+  "duration": 3.64,
+  "text": "projections. Almost 40% of companies"
+ },
+ {
+  "start": 407.6,
+  "duration": 3.52,
+  "text": "reported that measured AI cost savings"
+ },
+ {
+  "start": 409.2,
+  "duration": 3.92,
+  "text": "were below 10% despite targeting between"
+ },
+ {
+  "start": 411.12,
+  "duration": 3.36,
+  "text": "11 and 20%. The survey found a big"
+ },
+ {
+  "start": 413.12,
+  "duration": 2.44,
+  "text": "disconnect between the use cases"
+ },
+ {
+  "start": 414.48,
+  "duration": 2.68,
+  "text": "management were targeting and the"
+ },
+ {
+  "start": 415.56,
+  "duration": 3.44,
+  "text": "realities on the ground. And one of the"
+ },
+ {
+  "start": 417.16,
+  "duration": 4.0,
+  "text": "interesting wrinkles Bain found is that"
+ },
+ {
+  "start": 419.0,
+  "duration": 3.96,
+  "text": "44% of companies were cash flowing the"
+ },
+ {
+  "start": 421.16,
+  "duration": 3.8,
+  "text": "next leg of AI investment on the basis"
+ },
+ {
+  "start": 422.96,
+  "duration": 2.88,
+  "text": "of assumed cost savings, meaning that if"
+ },
+ {
+  "start": 424.96,
+  "duration": 2.36,
+  "text": "those cost savings weren't"
+ },
+ {
+  "start": 425.84,
+  "duration": 3.72,
+  "text": "materializing, that was going to create"
+ },
+ {
+  "start": 427.32,
+  "duration": 3.72,
+  "text": "problems downstream. They wrote,"
+ },
+ {
+  "start": 429.56,
+  "duration": 3.24,
+  "text": "\"Self-funding the next wave from past"
+ },
+ {
+  "start": 431.04,
+  "duration": 3.2,
+  "text": "returns sounds like discipline. In"
+ },
+ {
+  "start": 432.8,
+  "duration": 2.96,
+  "text": "reality, it's a circular bet with a"
+ },
+ {
+  "start": 434.24,
+  "duration": 2.92,
+  "text": "structural leak.\" Now, some of the big"
+ },
+ {
+  "start": 435.76,
+  "duration": 3.04,
+  "text": "issues that Bain found in terms of what"
+ },
+ {
+  "start": 437.16,
+  "duration": 3.52,
+  "text": "was going wrong for AI deployments"
+ },
+ {
+  "start": 438.8,
+  "duration": 3.44,
+  "text": "included 41% of companies saying that"
+ },
+ {
+  "start": 440.68,
+  "duration": 3.68,
+  "text": "there were issues around data access or"
+ },
+ {
+  "start": 442.24,
+  "duration": 3.64,
+  "text": "data integration with more than 25% of"
+ },
+ {
+  "start": 444.36,
+  "duration": 3.32,
+  "text": "respondents also flagging concerns"
+ },
+ {
+  "start": 445.88,
+  "duration": 4.48,
+  "text": "including compliance issues, competing"
+ },
+ {
+  "start": 447.68,
+  "duration": 4.36,
+  "text": "business priorities, and skills gaps."
+ },
+ {
+  "start": 450.36,
+  "duration": 3.36,
+  "text": "Meanwhile, over at Walmart, the company"
+ },
+ {
+  "start": 452.04,
+  "duration": 3.52,
+  "text": "is limiting their employees use of AI"
+ },
+ {
+  "start": 453.72,
+  "duration": 3.6,
+  "text": "tools after surging demand. In the"
+ },
+ {
+  "start": 455.56,
+  "duration": 3.72,
+  "text": "latest story showing the shift to the"
+ },
+ {
+  "start": 457.32,
+  "duration": 3.8,
+  "text": "token shortage era, excess demand from"
+ },
+ {
+  "start": 459.28,
+  "duration": 3.52,
+  "text": "employees has caused Walmart to end"
+ },
+ {
+  "start": 461.12,
+  "duration": 3.6,
+  "text": "their unlimited token policy for their"
+ },
+ {
+  "start": 462.8,
+  "duration": 3.64,
+  "text": "core agentic tool called Code Puppy."
+ },
+ {
+  "start": 464.72,
+  "duration": 3.68,
+  "text": "Code Puppy is a co-work style agent"
+ },
+ {
+  "start": 466.44,
+  "duration": 3.48,
+  "text": "useful for tasks beyond coding including"
+ },
+ {
+  "start": 468.4,
+  "duration": 3.24,
+  "text": "preparing presentations and working with"
+ },
+ {
+  "start": 469.92,
+  "duration": 3.24,
+  "text": "spreadsheets. Workers now have a token"
+ },
+ {
+  "start": 471.64,
+  "duration": 3.64,
+  "text": "budget although sources didn't indicate"
+ },
+ {
+  "start": 473.16,
+  "duration": 3.92,
+  "text": "what the new token limit is. Now, a"
+ },
+ {
+  "start": 475.28,
+  "duration": 3.44,
+  "text": "Walmart spokesperson told Bloomberg that"
+ },
+ {
+  "start": 477.08,
+  "duration": 3.6,
+  "text": "the company still wants its employees to"
+ },
+ {
+  "start": 478.72,
+  "duration": 3.28,
+  "text": "use AI but is now providing additional"
+ },
+ {
+  "start": 480.68,
+  "duration": 2.92,
+  "text": "training to help people be more"
+ },
+ {
+  "start": 482.0,
+  "duration": 3.6,
+  "text": "efficient in the way they use AI but"
+ },
+ {
+  "start": 483.6,
+  "duration": 4.32,
+  "text": "expect to see a lot more of this end of"
+ },
+ {
+  "start": 485.6,
+  "duration": 4.72,
+  "text": "unlimited token policy as agentic style"
+ },
+ {
+  "start": 487.92,
+  "duration": 3.6,
+  "text": "use cases come online."
+ },
+ {
+  "start": 490.32,
+  "duration": 2.56,
+  "text": "That's the story that we will continue"
+ },
+ {
+  "start": 491.52,
+  "duration": 3.28,
+  "text": "to watch. However, for now that's going"
+ },
+ {
+  "start": 492.88,
+  "duration": 4.039,
+  "text": "to do it for the headlines. Next up, the"
+ },
+ {
+  "start": 494.8,
+  "duration": 4.119,
+  "text": "main episode."
+ },
+ {
+  "start": 496.919,
+  "duration": 4.201,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 498.919,
+  "duration": 4.641,
+  "text": "The question we're exploring today is in"
+ },
+ {
+  "start": 501.12,
+  "duration": 4.64,
+  "text": "short the right way to cut the public"
+ },
+ {
+  "start": 503.56,
+  "duration": 4.52,
+  "text": "into the spoils of AI. Now, the broader"
+ },
+ {
+  "start": 505.76,
+  "duration": 4.4,
+  "text": "theme going on is the market stakes and"
+ },
+ {
+  "start": 508.08,
+  "duration": 4.079,
+  "text": "implications of AI going up and up and"
+ },
+ {
+  "start": 510.16,
+  "duration": 3.68,
+  "text": "up and the resulting jockeying for"
+ },
+ {
+  "start": 512.159,
+  "duration": 4.081,
+  "text": "opinion when it comes to the right"
+ },
+ {
+  "start": 513.84,
+  "duration": 5.28,
+  "text": "policy and discussions of how people can"
+ },
+ {
+  "start": 516.24,
+  "duration": 5.12,
+  "text": "participate. Now, of course AI's role in"
+ },
+ {
+  "start": 519.12,
+  "duration": 4.56,
+  "text": "the markets is not a new theme. In fact,"
+ },
+ {
+  "start": 521.36,
+  "duration": 4.64,
+  "text": "basically since the launch of ChatGPT,"
+ },
+ {
+  "start": 523.68,
+  "duration": 4.159,
+  "text": "AI has been the recurring theme that has"
+ },
+ {
+  "start": 526.0,
+  "duration": 3.72,
+  "text": "kept markets afloat throughout every"
+ },
+ {
+  "start": 527.839,
+  "duration": 4.521,
+  "text": "other chaotic thing that has happened."
+ },
+ {
+  "start": 529.72,
+  "duration": 4.88,
+  "text": "And now with a raft of very high-profile"
+ },
+ {
+  "start": 532.36,
+  "duration": 4.24,
+  "text": "IPOs coming up, the discussion of AI in"
+ },
+ {
+  "start": 534.6,
+  "duration": 3.0,
+  "text": "markets is reaching its loudest point"
+ },
+ {
+  "start": 536.6,
+  "duration": 2.32,
+  "text": "ever."
+ },
+ {
+  "start": 537.6,
+  "duration": 2.88,
+  "text": "To kick off this week, we got an"
+ },
+ {
+  "start": 538.92,
+  "duration": 3.72,
+  "text": "announcement that Anthropic had"
+ },
+ {
+  "start": 540.48,
+  "duration": 4.32,
+  "text": "officially joined the IPO race filing"
+ },
+ {
+  "start": 542.64,
+  "duration": 4.12,
+  "text": "their paperwork with the SEC on Monday."
+ },
+ {
+  "start": 544.8,
+  "duration": 3.64,
+  "text": "Like SpaceX before them, Anthropic filed"
+ },
+ {
+  "start": 546.76,
+  "duration": 2.8,
+  "text": "their draft prospectus confidentially"
+ },
+ {
+  "start": 548.44,
+  "duration": 3.2,
+  "text": "meaning we won't get a look at the"
+ },
+ {
+  "start": 549.56,
+  "duration": 3.8,
+  "text": "company's audited financials until later"
+ },
+ {
+  "start": 551.64,
+  "duration": 3.0,
+  "text": "in the process. Now, much was made about"
+ },
+ {
+  "start": 553.36,
+  "duration": 3.12,
+  "text": "the choice to keep the filing"
+ },
+ {
+  "start": 554.64,
+  "duration": 3.52,
+  "text": "confidential but this has at this point"
+ },
+ {
+  "start": 556.48,
+  "duration": 3.44,
+  "text": "been the standard playbook for IPOs for"
+ },
+ {
+  "start": 558.16,
+  "duration": 3.16,
+  "text": "over a decade. At this stage, we don't"
+ },
+ {
+  "start": 559.92,
+  "duration": 2.88,
+  "text": "know things like how the company will be"
+ },
+ {
+  "start": 561.32,
+  "duration": 3.16,
+  "text": "valued, how much stock they plan to"
+ },
+ {
+  "start": 562.8,
+  "duration": 3.92,
+  "text": "sell, and in terms of timeline the"
+ },
+ {
+  "start": 564.48,
+  "duration": 4.76,
+  "text": "SpaceX IPO is the only real comparison"
+ },
+ {
+  "start": 566.72,
+  "duration": 4.56,
+  "text": "for a company of this size. SpaceX is"
+ },
+ {
+  "start": 569.24,
+  "duration": 3.48,
+  "text": "expecting to list next Friday which is a"
+ },
+ {
+  "start": 571.28,
+  "duration": 3.2,
+  "text": "little over 10 weeks from their initial"
+ },
+ {
+  "start": 572.72,
+  "duration": 4.119,
+  "text": "filing and is quite fast for an IPO to"
+ },
+ {
+  "start": 574.48,
+  "duration": 4.44,
+  "text": "go off. Reports suggest that Anthropic"
+ },
+ {
+  "start": 576.839,
+  "duration": 3.361,
+  "text": "is seeking a similarly speedy launch,"
+ },
+ {
+  "start": 578.92,
+  "duration": 3.72,
+  "text": "with some even speculating that the"
+ },
+ {
+  "start": 580.2,
+  "duration": 4.16,
+  "text": "company might try to go out this summer."
+ },
+ {
+  "start": 582.64,
+  "duration": 3.96,
+  "text": "Axios business editor Dan Primack"
+ },
+ {
+  "start": 584.36,
+  "duration": 3.92,
+  "text": "writes, \"Anthropic filing confidentially"
+ },
+ {
+  "start": 586.6,
+  "duration": 3.2,
+  "text": "now seems to put it on a path to go"
+ },
+ {
+  "start": 588.28,
+  "duration": 3.4,
+  "text": "public well before Labor Day, or at"
+ },
+ {
+  "start": 589.8,
+  "duration": 3.32,
+  "text": "least gives it the optionality. Big"
+ },
+ {
+  "start": 591.68,
+  "duration": 3.12,
+  "text": "companies rarely price into summer"
+ },
+ {
+  "start": 593.12,
+  "duration": 4.36,
+  "text": "vacations, but this is already an"
+ },
+ {
+  "start": 594.8,
+  "duration": 4.44,
+  "text": "outlier for so many reasons.\""
+ },
+ {
+  "start": 597.48,
+  "duration": 3.44,
+  "text": "Now, for market commentators, the"
+ },
+ {
+  "start": 599.24,
+  "duration": 3.12,
+  "text": "specific date is less of a question than"
+ },
+ {
+  "start": 600.92,
+  "duration": 3.6,
+  "text": "whether Anthropic gets out ahead of"
+ },
+ {
+  "start": 602.36,
+  "duration": 3.6,
+  "text": "OpenAI, or whether Altman can go public"
+ },
+ {
+  "start": 604.52,
+  "duration": 3.44,
+  "text": "first. The Wall Street Journal"
+ },
+ {
+  "start": 605.96,
+  "duration": 3.8,
+  "text": "previously reported that OpenAI's filing"
+ },
+ {
+  "start": 607.96,
+  "duration": 3.2,
+  "text": "was expected within days, but that was 2"
+ },
+ {
+  "start": 609.76,
+  "duration": 3.68,
+  "text": "weeks ago and we haven't heard anything"
+ },
+ {
+  "start": 611.16,
+  "duration": 3.76,
+  "text": "since. During an interview on Monday,"
+ },
+ {
+  "start": 613.44,
+  "duration": 3.32,
+  "text": "Sam Altman didn't seem to be in any"
+ },
+ {
+  "start": 614.92,
+  "duration": 3.76,
+  "text": "particular rush. Asked if there was a"
+ },
+ {
+  "start": 616.76,
+  "duration": 3.68,
+  "text": "race to go public, he responded, \"I"
+ },
+ {
+  "start": 618.68,
+  "duration": 2.84,
+  "text": "don't think no, not for that. I think"
+ },
+ {
+  "start": 620.44,
+  "duration": 2.76,
+  "text": "there is a race to deliver the best"
+ },
+ {
+  "start": 621.52,
+  "duration": 3.32,
+  "text": "technology and build the best business."
+ },
+ {
+  "start": 623.2,
+  "duration": 3.08,
+  "text": "Going public is a financing event, and I"
+ },
+ {
+  "start": 624.84,
+  "duration": 3.04,
+  "text": "don't think that's one we're focused on"
+ },
+ {
+  "start": 626.28,
+  "duration": 3.52,
+  "text": "the timing of. We'll do it when we think"
+ },
+ {
+  "start": 627.88,
+  "duration": 3.28,
+  "text": "it makes sense.\" Now, that has not"
+ },
+ {
+  "start": 629.8,
+  "duration": 2.72,
+  "text": "stopped the financial press from"
+ },
+ {
+  "start": 631.16,
+  "duration": 3.52,
+  "text": "painting this as a high-stakes race"
+ },
+ {
+  "start": 632.52,
+  "duration": 3.68,
+  "text": "between the two companies. Senior IPO"
+ },
+ {
+  "start": 634.68,
+  "duration": 3.52,
+  "text": "strategist at Renaissance Capital,"
+ },
+ {
+  "start": 636.2,
+  "duration": 3.24,
+  "text": "Matthew said, \"The bankers are telling"
+ },
+ {
+  "start": 638.2,
+  "duration": 2.92,
+  "text": "them that the time is right. Whoever"
+ },
+ {
+  "start": 639.44,
+  "duration": 3.08,
+  "text": "goes first will be able to set the tone,"
+ },
+ {
+  "start": 641.12,
+  "duration": 3.32,
+  "text": "and whoever goes second could look like"
+ },
+ {
+  "start": 642.52,
+  "duration": 3.2,
+  "text": "an also-ran, and be ultimately forced to"
+ },
+ {
+  "start": 644.44,
+  "duration": 3.24,
+  "text": "compare itself with the other one in the"
+ },
+ {
+  "start": 645.72,
+  "duration": 3.36,
+  "text": "marketing discussions.\" Others had a"
+ },
+ {
+  "start": 647.68,
+  "duration": 3.32,
+  "text": "different view, however, with Harrison"
+ },
+ {
+  "start": 649.08,
+  "duration": 3.6,
+  "text": "Wolf of PitchBook commenting, \"For"
+ },
+ {
+  "start": 651.0,
+  "duration": 3.0,
+  "text": "OpenAI, the conventional read is that"
+ },
+ {
+  "start": 652.68,
+  "duration": 2.96,
+  "text": "Anthropic just sees the narrative"
+ },
+ {
+  "start": 654.0,
+  "duration": 3.44,
+  "text": "advantage by filing first. The"
+ },
+ {
+  "start": 655.64,
+  "duration": 3.48,
+  "text": "unconventional read is that OpenAI got"
+ },
+ {
+  "start": 657.44,
+  "duration": 3.24,
+  "text": "the better end of this. Anthropic just"
+ },
+ {
+  "start": 659.12,
+  "duration": 3.36,
+  "text": "volunteered to absorb all the disclosure"
+ },
+ {
+  "start": 660.68,
+  "duration": 3.159,
+  "text": "risk first, and OpenAI now has a free"
+ },
+ {
+  "start": 662.48,
+  "duration": 3.76,
+  "text": "option to watch how institutional"
+ },
+ {
+  "start": 663.839,
+  "duration": 4.321,
+  "text": "investors react to audited AI financials"
+ },
+ {
+  "start": 666.24,
+  "duration": 3.16,
+  "text": "before committing to its own price.\""
+ },
+ {
+  "start": 668.16,
+  "duration": 3.36,
+  "text": "Look, I've said this before and I will"
+ },
+ {
+  "start": 669.4,
+  "duration": 4.2,
+  "text": "continue to beat this drum. I think that"
+ },
+ {
+  "start": 671.52,
+  "duration": 3.68,
+  "text": "the IPO raciness of all of this is"
+ },
+ {
+  "start": 673.6,
+  "duration": 3.28,
+  "text": "largely for the sake of financial"
+ },
+ {
+  "start": 675.2,
+  "duration": 3.36,
+  "text": "headline writers. In pretty much the"
+ },
+ {
+  "start": 676.88,
+  "duration": 3.0,
+  "text": "same way that I think that every token"
+ },
+ {
+  "start": 678.56,
+  "duration": 3.08,
+  "text": "that either of these companies makes"
+ },
+ {
+  "start": 679.88,
+  "duration": 3.76,
+  "text": "available is going to be bought for the"
+ },
+ {
+  "start": 681.64,
+  "duration": 3.32,
+  "text": "foreseeable future, I also think that"
+ },
+ {
+  "start": 683.64,
+  "duration": 2.96,
+  "text": "every stock share that either of these"
+ },
+ {
+  "start": 684.96,
+  "duration": 3.84,
+  "text": "companies gives people access to will be"
+ },
+ {
+  "start": 686.6,
+  "duration": 3.92,
+  "text": "bought in just a short order. And while"
+ },
+ {
+  "start": 688.8,
+  "duration": 3.44,
+  "text": "there may be nominal narrative"
+ },
+ {
+  "start": 690.52,
+  "duration": 3.56,
+  "text": "advantages or disadvantages to going"
+ },
+ {
+  "start": 692.24,
+  "duration": 3.64,
+  "text": "first or second, I do not think that the"
+ },
+ {
+  "start": 694.08,
+  "duration": 2.92,
+  "text": "market is going to pick a winner here. I"
+ },
+ {
+  "start": 695.88,
+  "duration": 2.8,
+  "text": "think both of these companies are going"
+ },
+ {
+  "start": 697.0,
+  "duration": 4.08,
+  "text": "to see just absolutely staggering"
+ },
+ {
+  "start": 698.68,
+  "duration": 4.12,
+  "text": "demand. Dan Ives of Wedbush, by the way,"
+ },
+ {
+  "start": 701.08,
+  "duration": 3.56,
+  "text": "had a similar take writing in his Monday"
+ },
+ {
+  "start": 702.8,
+  "duration": 3.32,
+  "text": "note, \"We believe this represents an"
+ },
+ {
+  "start": 704.64,
+  "duration": 2.76,
+  "text": "opening of the floodgate for the IPO"
+ },
+ {
+  "start": 706.12,
+  "duration": 3.36,
+  "text": "market, which has been relatively"
+ },
+ {
+  "start": 707.4,
+  "duration": 4.4,
+  "text": "dormant for a few years.\""
+ },
+ {
+  "start": 709.48,
+  "duration": 4.56,
+  "text": "Now, also in the AI markets, Google has"
+ },
+ {
+  "start": 711.8,
+  "duration": 3.84,
+  "text": "announced plans to raise $80 billion in"
+ },
+ {
+  "start": 714.04,
+  "duration": 3.4,
+  "text": "equity to fund their continued AI"
+ },
+ {
+  "start": 715.64,
+  "duration": 3.52,
+  "text": "build-out. This will be the first time"
+ },
+ {
+  "start": 717.44,
+  "duration": 3.56,
+  "text": "that Google has issued new stock in more"
+ },
+ {
+  "start": 719.16,
+  "duration": 3.32,
+  "text": "than two decades, meaning that they will"
+ },
+ {
+  "start": 721.0,
+  "duration": 3.04,
+  "text": "be one of the first hyperscalers to"
+ },
+ {
+  "start": 722.48,
+  "duration": 2.96,
+  "text": "force investors to stomach stock"
+ },
+ {
+  "start": 724.04,
+  "duration": 3.08,
+  "text": "dilution in order to continue their"
+ },
+ {
+  "start": 725.44,
+  "duration": 3.12,
+  "text": "CapEx spend. In the press release,"
+ },
+ {
+  "start": 727.12,
+  "duration": 3.56,
+  "text": "Google confirmed that they plan to spend"
+ },
+ {
+  "start": 728.56,
+  "duration": 4.8,
+  "text": "190 billion this year and anticipate a"
+ },
+ {
+  "start": 730.68,
+  "duration": 4.44,
+  "text": "significant increase for 2027. Now, over"
+ },
+ {
+  "start": 733.36,
+  "duration": 3.68,
+  "text": "the past year, we've seen a transition"
+ },
+ {
+  "start": 735.12,
+  "duration": 3.92,
+  "text": "as hyperscalers move from spending cash"
+ },
+ {
+  "start": 737.04,
+  "duration": 3.12,
+  "text": "on hand, i.e. ending buybacks and"
+ },
+ {
+  "start": 739.04,
+  "duration": 2.52,
+  "text": "diverting profits into the"
+ },
+ {
+  "start": 740.16,
+  "duration": 3.32,
+  "text": "infrastructure build-out, to start to"
+ },
+ {
+  "start": 741.56,
+  "duration": 3.4,
+  "text": "begin to tap the debt markets, with both"
+ },
+ {
+  "start": 743.48,
+  "duration": 3.12,
+  "text": "Google and Meta issuing corporate bonds"
+ },
+ {
+  "start": 744.96,
+  "duration": 3.44,
+  "text": "in record numbers last year, to now"
+ },
+ {
+  "start": 746.6,
+  "duration": 3.32,
+  "text": "moving into this equity phase. Now, at"
+ },
+ {
+  "start": 748.4,
+  "duration": 3.2,
+  "text": "this point, Google still has plenty of"
+ },
+ {
+  "start": 749.92,
+  "duration": 2.92,
+  "text": "borrowing capacity, but they presumably"
+ },
+ {
+  "start": 751.6,
+  "duration": 2.96,
+  "text": "want to take advantage of recent"
+ },
+ {
+  "start": 752.84,
+  "duration": 3.68,
+  "text": "increases in their stock price. Their"
+ },
+ {
+  "start": 754.56,
+  "duration": 3.2,
+  "text": "stock is up 18% year-to-date, with most"
+ },
+ {
+  "start": 756.52,
+  "duration": 3.12,
+  "text": "of the gains coming in the past 2"
+ },
+ {
+  "start": 757.76,
+  "duration": 3.76,
+  "text": "months. Sources said that executives see"
+ },
+ {
+  "start": 759.64,
+  "duration": 3.44,
+  "text": "a protracted period of AI investment and"
+ },
+ {
+  "start": 761.52,
+  "duration": 3.56,
+  "text": "want to diversify funding sources while"
+ },
+ {
+  "start": 763.08,
+  "duration": 3.28,
+  "text": "keeping balance sheet flexibility."
+ },
+ {
+  "start": 765.08,
+  "duration": 2.88,
+  "text": "The market, for their part, seemed"
+ },
+ {
+  "start": 766.36,
+  "duration": 3.12,
+  "text": "pretty ambivalent about the news, with"
+ },
+ {
+  "start": 767.96,
+  "duration": 3.84,
+  "text": "Google falling then recovering to"
+ },
+ {
+  "start": 769.48,
+  "duration": 4.16,
+  "text": "basically flat in overnight markets. One"
+ },
+ {
+  "start": 771.8,
+  "duration": 3.48,
+  "text": "market participant that was enthusiastic"
+ },
+ {
+  "start": 773.64,
+  "duration": 2.72,
+  "text": "about the plans was Berkshire Hathaway,"
+ },
+ {
+  "start": 775.28,
+  "duration": 3.12,
+  "text": "who signed up for a $10 billion"
+ },
+ {
+  "start": 776.36,
+  "duration": 3.64,
+  "text": "allocation from the new issuance. Warren"
+ },
+ {
+  "start": 778.4,
+  "duration": 3.04,
+  "text": "Buffett has been notoriously slow on"
+ },
+ {
+  "start": 780.0,
+  "duration": 3.08,
+  "text": "tech, failing to make any meaningful"
+ },
+ {
+  "start": 781.44,
+  "duration": 3.64,
+  "text": "allocation until purchasing Apple stock"
+ },
+ {
+  "start": 783.08,
+  "duration": 3.6,
+  "text": "in 2016, but this tranche of Google"
+ },
+ {
+  "start": 785.08,
+  "duration": 3.72,
+  "text": "stock would take Berkshire's holdings to"
+ },
+ {
+  "start": 786.68,
+  "duration": 3.64,
+  "text": "32 billion. That would make Google a top"
+ },
+ {
+  "start": 788.8,
+  "duration": 3.16,
+  "text": "five holding, representing around a 10th"
+ },
+ {
+  "start": 790.32,
+  "duration": 3.44,
+  "text": "of their portfolio. Sources said that"
+ },
+ {
+  "start": 791.96,
+  "duration": 3.76,
+  "text": "the deal was hashed out over a 24-hour"
+ },
+ {
+  "start": 793.76,
+  "duration": 4.24,
+  "text": "period and will be the largest bet so"
+ },
+ {
+  "start": 795.72,
+  "duration": 4.24,
+  "text": "far from new CEO Greg Abel after he took"
+ },
+ {
+  "start": 798.0,
+  "duration": 4.04,
+  "text": "over from Buffett in January."
+ },
+ {
+  "start": 799.96,
+  "duration": 3.84,
+  "text": "Now, while most of the market may so far"
+ },
+ {
+  "start": 802.04,
+  "duration": 3.96,
+  "text": "be in wait-and-see mode when it comes to"
+ },
+ {
+  "start": 803.8,
+  "duration": 4.64,
+  "text": "this Google deal, the AI trade overall"
+ },
+ {
+  "start": 806.0,
+  "duration": 4.32,
+  "text": "is heading into overdrive. According to"
+ },
+ {
+  "start": 808.44,
+  "duration": 3.28,
+  "text": "the Wall Street Journal, the S&P 500 has"
+ },
+ {
+  "start": 810.32,
+  "duration": 3.44,
+  "text": "just delivered one of the strongest"
+ },
+ {
+  "start": 811.72,
+  "duration": 4.12,
+  "text": "two-month stretches in modern history."
+ },
+ {
+  "start": 813.76,
+  "duration": 3.88,
+  "text": "The index is up 16% since the beginning"
+ },
+ {
+  "start": 815.84,
+  "duration": 4.6,
+  "text": "of April, which is the fifth strongest"
+ },
+ {
+  "start": 817.64,
+  "duration": 4.48,
+  "text": "two-month run since the 1950s. Now, this"
+ },
+ {
+  "start": 820.44,
+  "duration": 3.24,
+  "text": "moment of strength is not like many of"
+ },
+ {
+  "start": 822.12,
+  "duration": 3.48,
+  "text": "the previous recoveries coming out of a"
+ },
+ {
+  "start": 823.68,
+  "duration": 4.08,
+  "text": "market crash, but instead is almost"
+ },
+ {
+  "start": 825.6,
+  "duration": 4.24,
+  "text": "entirely about semiconductors going on"
+ },
+ {
+  "start": 827.76,
+  "duration": 3.64,
+  "text": "an absolute tear. The US semiconductor"
+ },
+ {
+  "start": 829.84,
+  "duration": 3.88,
+  "text": "index is on pace for its strongest"
+ },
+ {
+  "start": 831.4,
+  "duration": 4.04,
+  "text": "quarter in history, gaining 69% over the"
+ },
+ {
+  "start": 833.72,
+  "duration": 3.28,
+  "text": "first two months of the quarter."
+ },
+ {
+  "start": 835.44,
+  "duration": 3.44,
+  "text": "Unsurprisingly, this has resurfaced the"
+ },
+ {
+  "start": 837.0,
+  "duration": 4.0,
+  "text": "bubble question. Sceptics point out that"
+ },
+ {
+  "start": 838.88,
+  "duration": 4.32,
+  "text": "semiconductors are notoriously cyclical,"
+ },
+ {
+  "start": 841.0,
+  "duration": 5.32,
+  "text": "but others like Satriani Research point"
+ },
+ {
+  "start": 843.2,
+  "duration": 5.24,
+  "text": "to structural shortages in the entire AI"
+ },
+ {
+  "start": 846.32,
+  "duration": 3.88,
+  "text": "supply chain as reasons for people to be"
+ },
+ {
+  "start": 848.44,
+  "duration": 3.76,
+  "text": "less skeptical of this rally than they"
+ },
+ {
+  "start": 850.2,
+  "duration": 3.56,
+  "text": "might otherwise be."
+ },
+ {
+  "start": 852.2,
+  "duration": 4.28,
+  "text": "What's clear from all of this is that"
+ },
+ {
+  "start": 853.76,
+  "duration": 4.96,
+  "text": "the financial stakes of AI are extremely"
+ },
+ {
+  "start": 856.48,
+  "duration": 4.12,
+  "text": "high. And that realization seems to be"
+ },
+ {
+  "start": 858.72,
+  "duration": 3.84,
+  "text": "finding its way into the policy"
+ },
+ {
+  "start": 860.6,
+  "duration": 3.64,
+  "text": "discourse as well. Last week we"
+ },
+ {
+  "start": 862.56,
+  "duration": 3.8,
+  "text": "discussed Elizabeth Warren's op-ed in"
+ },
+ {
+  "start": 864.24,
+  "duration": 4.2,
+  "text": "Time magazine about taxing AI, and I"
+ },
+ {
+  "start": 866.36,
+  "duration": 4.2,
+  "text": "specifically drew a contrast between the"
+ },
+ {
+  "start": 868.44,
+  "duration": 4.2,
+  "text": "data center moratorium shut it all down"
+ },
+ {
+  "start": 870.56,
+  "duration": 4.6,
+  "text": "type of policy and the cut everyone in"
+ },
+ {
+  "start": 872.64,
+  "duration": 4.36,
+  "text": "through taxation type of policy. Well,"
+ },
+ {
+  "start": 875.16,
+  "duration": 3.72,
+  "text": "apparently data center moratorium leader"
+ },
+ {
+  "start": 877.0,
+  "duration": 4.04,
+  "text": "Bernie Sanders has decided that if we"
+ },
+ {
+  "start": 878.88,
+  "duration": 3.68,
+  "text": "can't shut it down, he wants a stake or"
+ },
+ {
+  "start": 881.04,
+  "duration": 3.24,
+  "text": "more specifically, he wants the federal"
+ },
+ {
+  "start": 882.56,
+  "duration": 2.88,
+  "text": "government to have a stake."
+ },
+ {
+  "start": 884.28,
+  "duration": 3.04,
+  "text": "In an opinion piece for the New York"
+ },
+ {
+  "start": 885.44,
+  "duration": 3.92,
+  "text": "Times, Sanders has basically begun"
+ },
+ {
+  "start": 887.32,
+  "duration": 3.88,
+  "text": "advocating for partial nationalization"
+ },
+ {
+  "start": 889.36,
+  "duration": 4.16,
+  "text": "of the AI industry. In the piece he"
+ },
+ {
+  "start": 891.2,
+  "duration": 4.28,
+  "text": "writes, \"The question is not whether AI"
+ },
+ {
+  "start": 893.52,
+  "duration": 3.56,
+  "text": "will change the world. The question is"
+ },
+ {
+  "start": 895.48,
+  "duration": 2.96,
+  "text": "who will own and control that future."
+ },
+ {
+  "start": 897.08,
+  "duration": 3.6,
+  "text": "Who will benefit from it and who will be"
+ },
+ {
+  "start": 898.44,
+  "duration": 4.0,
+  "text": "hurt by it? Will AI be used to make life"
+ },
+ {
+  "start": 900.68,
+  "duration": 3.36,
+  "text": "better for working families, or will the"
+ },
+ {
+  "start": 902.44,
+  "duration": 2.68,
+  "text": "future of humanity be determined by a"
+ },
+ {
+  "start": 904.04,
+  "duration": 2.76,
+  "text": "handful of billionaires who have"
+ },
+ {
+  "start": 905.12,
+  "duration": 3.48,
+  "text": "promoted and developed AI with virtually"
+ },
+ {
+  "start": 906.8,
+  "duration": 3.039,
+  "text": "no democratic input, who stand to become"
+ },
+ {
+  "start": 908.6,
+  "duration": 3.239,
+  "text": "even richer and more powerful than they"
+ },
+ {
+  "start": 909.839,
+  "duration": 3.081,
+  "text": "are today? That is the choice before"
+ },
+ {
+  "start": 911.839,
+  "duration": 2.761,
+  "text": "us.\""
+ },
+ {
+  "start": 912.92,
+  "duration": 4.2,
+  "text": "Now, in advocating that the government"
+ },
+ {
+  "start": 914.6,
+  "duration": 4.2,
+  "text": "take a 50% stake in the foundation labs,"
+ },
+ {
+  "start": 917.12,
+  "duration": 3.4,
+  "text": "Sanders is basically arguing that AI"
+ },
+ {
+  "start": 918.8,
+  "duration": 2.76,
+  "text": "models are built on data theft. He"
+ },
+ {
+  "start": 920.52,
+  "duration": 2.4,
+  "text": "wrote,"
+ },
+ {
+  "start": 921.56,
+  "duration": 2.96,
+  "text": "\"The creative work of millions of people"
+ },
+ {
+  "start": 922.92,
+  "duration": 3.16,
+  "text": "has been stolen by some of the"
+ },
+ {
+  "start": 924.52,
+  "duration": 3.4,
+  "text": "wealthiest people in the world. It's"
+ },
+ {
+  "start": 926.08,
+  "duration": 3.0,
+  "text": "time for us to reclaim it. Since AI is"
+ },
+ {
+  "start": 927.92,
+  "duration": 2.72,
+  "text": "built on the collective knowledge of"
+ },
+ {
+  "start": 929.08,
+  "duration": 3.48,
+  "text": "humanity, the wealth it generates must"
+ },
+ {
+  "start": 930.64,
+  "duration": 3.24,
+  "text": "benefit humanity. Sanders said that he"
+ },
+ {
+  "start": 932.56,
+  "duration": 3.0,
+  "text": "will soon introduce the policy in"
+ },
+ {
+  "start": 933.88,
+  "duration": 3.4,
+  "text": "Congress through the AI sovereign wealth"
+ },
+ {
+  "start": 935.56,
+  "duration": 3.28,
+  "text": "fund act, which according to Sanders"
+ },
+ {
+  "start": 937.28,
+  "duration": 3.8,
+  "text": "will give the public a direct ownership"
+ },
+ {
+  "start": 938.84,
+  "duration": 3.56,
+  "text": "stake in major US companies. In fact, he"
+ },
+ {
+  "start": 941.08,
+  "duration": 3.8,
+  "text": "wrote, it would create a sovereign"
+ },
+ {
+  "start": 942.4,
+  "duration": 4.28,
+  "text": "wealth fund through a one-time 50% tax,"
+ },
+ {
+  "start": 944.88,
+  "duration": 3.64,
+  "text": "not on the profits of OpenAI, Anthropic,"
+ },
+ {
+  "start": 946.68,
+  "duration": 3.6,
+  "text": "XAI, and other companies, but paid with"
+ },
+ {
+  "start": 948.52,
+  "duration": 3.84,
+  "text": "something far more valuable than that,"
+ },
+ {
+  "start": 950.28,
+  "duration": 4.28,
+  "text": "the stock. Sanders argues the bill would"
+ },
+ {
+  "start": 952.36,
+  "duration": 3.6,
+  "text": "achieve two crucial things. One, giving"
+ },
+ {
+  "start": 954.56,
+  "duration": 3.16,
+  "text": "the public a direct role in determining"
+ },
+ {
+  "start": 955.96,
+  "duration": 3.4,
+  "text": "the future of AI via the government's"
+ },
+ {
+  "start": 957.72,
+  "duration": 4.44,
+  "text": "voting shares and 50% control of the"
+ },
+ {
+  "start": 959.36,
+  "duration": 3.76,
+  "text": "board, and also two, quote, guaranteeing"
+ },
+ {
+  "start": 962.16,
+  "duration": 3.0,
+  "text": "that the trillions of dollars"
+ },
+ {
+  "start": 963.12,
+  "duration": 3.52,
+  "text": "potentially generated by AI are used to"
+ },
+ {
+  "start": 965.16,
+  "duration": 2.64,
+  "text": "improve the lives of all of us, not"
+ },
+ {
+  "start": 966.64,
+  "duration": 2.92,
+  "text": "simply make the richest people in the"
+ },
+ {
+  "start": 967.8,
+  "duration": 3.8,
+  "text": "world even richer. Referencing the"
+ },
+ {
+  "start": 969.56,
+  "duration": 3.8,
+  "text": "Alaska oil fund, Sanders suggested that"
+ },
+ {
+  "start": 971.6,
+  "duration": 3.32,
+  "text": "the fund should begin by making direct"
+ },
+ {
+  "start": 973.36,
+  "duration": 3.24,
+  "text": "dividend payments to US citizens, and"
+ },
+ {
+  "start": 974.92,
+  "duration": 3.28,
+  "text": "then later be used to fund a quote,"
+ },
+ {
+  "start": 976.6,
+  "duration": 2.96,
+  "text": "decent and dignified standard of living,"
+ },
+ {
+  "start": 978.2,
+  "duration": 2.92,
+  "text": "including healthcare, education, and"
+ },
+ {
+  "start": 979.56,
+  "duration": 2.72,
+  "text": "housing."
+ },
+ {
+  "start": 981.12,
+  "duration": 2.96,
+  "text": "Now, I think when it comes to this type"
+ },
+ {
+  "start": 982.28,
+  "duration": 3.72,
+  "text": "of policy, you have to look at it in a"
+ },
+ {
+  "start": 984.08,
+  "duration": 3.24,
+  "text": "few ways. First of all, I don't think"
+ },
+ {
+  "start": 986.0,
+  "duration": 3.24,
+  "text": "that Bernie Sanders is particularly in"
+ },
+ {
+  "start": 987.32,
+  "duration": 3.4,
+  "text": "the business of the Trumpian art of the"
+ },
+ {
+  "start": 989.24,
+  "duration": 3.24,
+  "text": "deal, where he's just trying to start"
+ },
+ {
+  "start": 990.72,
+  "duration": 3.92,
+  "text": "the negotiations really high, so that he"
+ },
+ {
+  "start": 992.48,
+  "duration": 3.64,
+  "text": "can get a compromise at a lower part. In"
+ },
+ {
+  "start": 994.64,
+  "duration": 2.8,
+  "text": "other words, I think that this 50%"
+ },
+ {
+  "start": 996.12,
+  "duration": 2.76,
+  "text": "number is the number that he thinks is"
+ },
+ {
+  "start": 997.44,
+  "duration": 3.16,
+  "text": "fair. I also think that while the"
+ },
+ {
+  "start": 998.88,
+  "duration": 3.56,
+  "text": "government expropriating 50% of the"
+ },
+ {
+  "start": 1000.6,
+  "duration": 3.2,
+  "text": "stock of a set of extremely important"
+ },
+ {
+  "start": 1002.44,
+  "duration": 3.32,
+  "text": "private companies might have been"
+ },
+ {
+  "start": 1003.8,
+  "duration": 3.84,
+  "text": "anathema in previous periods, right now"
+ },
+ {
+  "start": 1005.76,
+  "duration": 3.64,
+  "text": "in our times, with discontent where it"
+ },
+ {
+  "start": 1007.64,
+  "duration": 3.84,
+  "text": "is, all bets are off on what the public"
+ },
+ {
+  "start": 1009.4,
+  "duration": 5.439,
+  "text": "will tolerate. Still, I think that"
+ },
+ {
+  "start": 1011.48,
+  "duration": 5.2,
+  "text": "practically, the idea of AI as a public"
+ },
+ {
+  "start": 1014.839,
+  "duration": 3.561,
+  "text": "good is one that might find some"
+ },
+ {
+  "start": 1016.68,
+  "duration": 2.96,
+  "text": "political resonance."
+ },
+ {
+  "start": 1018.4,
+  "duration": 3.24,
+  "text": "For one thing, this is part of the"
+ },
+ {
+  "start": 1019.64,
+  "duration": 4.12,
+  "text": "discourse coming out of the labs."
+ },
+ {
+  "start": 1021.64,
+  "duration": 4.439,
+  "text": "OpenAI's April white paper on industrial"
+ },
+ {
+  "start": 1023.76,
+  "duration": 3.84,
+  "text": "policy called for a quote, public wealth"
+ },
+ {
+  "start": 1026.079,
+  "duration": 4.0,
+  "text": "fund that provides every citizen with a"
+ },
+ {
+  "start": 1027.6,
+  "duration": 5.04,
+  "text": "stake in AI-driven economic growth. Last"
+ },
+ {
+  "start": 1030.079,
+  "duration": 3.961,
+  "text": "October, Anthropic wrote, sovereign"
+ },
+ {
+  "start": 1032.64,
+  "duration": 3.559,
+  "text": "wealth funds could enable states to"
+ },
+ {
+  "start": 1034.04,
+  "duration": 3.72,
+  "text": "acquire positions in AI-related assets"
+ },
+ {
+  "start": 1036.199,
+  "duration": 3.361,
+  "text": "in scenarios where the AI sector"
+ },
+ {
+  "start": 1037.76,
+  "duration": 3.28,
+  "text": "captures an outsize share of economic"
+ },
+ {
+  "start": 1039.56,
+  "duration": 2.96,
+  "text": "wealth, government investment could both"
+ },
+ {
+  "start": 1041.04,
+  "duration": 3.6,
+  "text": "shape the sector's behavior and AI"
+ },
+ {
+  "start": 1042.52,
+  "duration": 3.4,
+  "text": "derived wealth more equitably. I think"
+ },
+ {
+  "start": 1044.64,
+  "duration": 2.96,
+  "text": "there's also an emerging strand of the"
+ },
+ {
+  "start": 1045.92,
+  "duration": 3.64,
+  "text": "discourse that's going to be a lot more"
+ },
+ {
+  "start": 1047.6,
+  "duration": 4.28,
+  "text": "politically palatable for folks that's"
+ },
+ {
+  "start": 1049.56,
+  "duration": 4.4,
+  "text": "still exploring some similar themes."
+ },
+ {
+  "start": 1051.88,
+  "duration": 4.32,
+  "text": "That idea, as captured in a recent Ezra"
+ },
+ {
+  "start": 1053.96,
+  "duration": 4.08,
+  "text": "Klein op-ed, is about how to distribute"
+ },
+ {
+  "start": 1056.2,
+  "duration": 3.8,
+  "text": "AI itself, not just the financial"
+ },
+ {
+  "start": 1058.04,
+  "duration": 4.48,
+  "text": "benefits from AI, but AI itself as a"
+ },
+ {
+  "start": 1060.0,
+  "duration": 3.92,
+  "text": "public good. Klein writes,"
+ },
+ {
+  "start": 1062.52,
+  "duration": 3.0,
+  "text": "\"AI's benefits will not emerge"
+ },
+ {
+  "start": 1063.92,
+  "duration": 3.24,
+  "text": "automatically or inevitably. It will"
+ },
+ {
+  "start": 1065.52,
+  "duration": 3.24,
+  "text": "take work to identify the problems AI"
+ },
+ {
+  "start": 1067.16,
+  "duration": 3.56,
+  "text": "can help the public solve and create the"
+ },
+ {
+  "start": 1068.76,
+  "duration": 4.16,
+  "text": "data, financing, and compute needed to"
+ },
+ {
+  "start": 1070.72,
+  "duration": 3.56,
+  "text": "actually solve them. A public agenda for"
+ },
+ {
+  "start": 1072.92,
+  "duration": 3.6,
+  "text": "AI needs to be more than a vague"
+ },
+ {
+  "start": 1074.28,
+  "duration": 3.92,
+  "text": "intention to toss AI at public problems."
+ },
+ {
+  "start": 1076.52,
+  "duration": 4.44,
+  "text": "It starts with access, but it does not"
+ },
+ {
+  "start": 1078.2,
+  "duration": 4.48,
+  "text": "end there.\" He concludes, \"If we want an"
+ },
+ {
+  "start": 1080.96,
+  "duration": 3.36,
+  "text": "AI that serves the public good, we need"
+ },
+ {
+  "start": 1082.68,
+  "duration": 3.36,
+  "text": "to define the public goods that AI can"
+ },
+ {
+  "start": 1084.32,
+  "duration": 3.92,
+  "text": "serve and create the conditions under"
+ },
+ {
+  "start": 1086.04,
+  "duration": 3.84,
+  "text": "which AI can be useful. We know we fear"
+ },
+ {
+  "start": 1088.24,
+  "duration": 4.16,
+  "text": "what AI will do to us, but what do we"
+ },
+ {
+  "start": 1089.88,
+  "duration": 3.96,
+  "text": "hope it will do for us? I don't think"
+ },
+ {
+  "start": 1092.4,
+  "duration": 3.24,
+  "text": "it's an accident that the market"
+ },
+ {
+  "start": 1093.84,
+  "duration": 3.68,
+  "text": "discourse and IPO questions are"
+ },
+ {
+  "start": 1095.64,
+  "duration": 4.16,
+  "text": "happening at the same time as this"
+ },
+ {
+  "start": 1097.52,
+  "duration": 4.16,
+  "text": "growing public policy discourse. And"
+ },
+ {
+  "start": 1099.8,
+  "duration": 3.12,
+  "text": "frankly, while I'm not particularly keen"
+ },
+ {
+  "start": 1101.68,
+  "duration": 2.6,
+  "text": "on the specifics of any of these"
+ },
+ {
+  "start": 1102.92,
+  "duration": 3.12,
+  "text": "policies that have been put forward so"
+ },
+ {
+  "start": 1104.28,
+  "duration": 3.8,
+  "text": "far, I like the trajectory at least of"
+ },
+ {
+  "start": 1106.04,
+  "duration": 3.8,
+  "text": "the questions that Ezra is asking here"
+ },
+ {
+  "start": 1108.08,
+  "duration": 3.12,
+  "text": "about what type of positive benefits we"
+ },
+ {
+  "start": 1109.84,
+  "duration": 3.04,
+  "text": "want from AI and what's the best way to"
+ },
+ {
+  "start": 1111.2,
+  "duration": 3.48,
+  "text": "achieve that. I'm even seeing Bernie's"
+ },
+ {
+  "start": 1112.88,
+  "duration": 3.16,
+  "text": "extremely socialistic proposal"
+ },
+ {
+  "start": 1114.68,
+  "duration": 3.8,
+  "text": "generating some interesting counter"
+ },
+ {
+  "start": 1116.04,
+  "duration": 4.36,
+  "text": "responses that retain the principle of a"
+ },
+ {
+  "start": 1118.48,
+  "duration": 4.16,
+  "text": "broader cross-section of society having"
+ },
+ {
+  "start": 1120.4,
+  "duration": 3.44,
+  "text": "a financial upside in the success of AI"
+ },
+ {
+  "start": 1122.64,
+  "duration": 2.72,
+  "text": "without all of a sudden the government"
+ },
+ {
+  "start": 1123.84,
+  "duration": 2.52,
+  "text": "being in the business of administering"
+ },
+ {
+  "start": 1125.36,
+  "duration": 2.12,
+  "text": "the most important companies in the"
+ },
+ {
+  "start": 1126.36,
+  "duration": 2.84,
+  "text": "world."
+ },
+ {
+  "start": 1127.48,
+  "duration": 3.28,
+  "text": "Look, ultimately we are in uncharted"
+ },
+ {
+  "start": 1129.2,
+  "duration": 3.0,
+  "text": "territory and the discussion is going to"
+ },
+ {
+  "start": 1130.76,
+  "duration": 2.56,
+  "text": "do nothing but get weirder before it"
+ },
+ {
+  "start": 1132.2,
+  "duration": 2.44,
+  "text": "lands."
+ },
+ {
+  "start": 1133.32,
+  "duration": 3.12,
+  "text": "For now, however, that is going to do it"
+ },
+ {
+  "start": 1134.64,
+  "duration": 3.56,
+  "text": "for today's AI daily brief. Appreciate"
+ },
+ {
+  "start": 1136.44,
+  "duration": 5.28,
+  "text": "you listening or watching as always, and"
+ },
+ {
+  "start": 1138.2,
+  "duration": 3.52,
+  "text": "until next time, peace."
+ }
+]

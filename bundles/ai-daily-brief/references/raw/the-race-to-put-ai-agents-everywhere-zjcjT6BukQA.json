@@ -1,0 +1,2437 @@
+[
+ {
+  "start": 0.0,
+  "duration": 4.6,
+  "text": "Today, we're talking about the absolute"
+ },
+ {
+  "start": 1.76,
+  "duration": 4.68,
+  "text": "race to productize and get agents"
+ },
+ {
+  "start": 4.6,
+  "duration": 3.84,
+  "text": "enterprise-ready."
+ },
+ {
+  "start": 6.44,
+  "duration": 4.28,
+  "text": "Welcome back to the AI Daily Brief. We"
+ },
+ {
+  "start": 8.44,
+  "duration": 4.04,
+  "text": "are coming up on the end of Q1, and as"
+ },
+ {
+  "start": 10.72,
+  "duration": 4.16,
+  "text": "part of that, I've been working on a big"
+ },
+ {
+  "start": 12.48,
+  "duration": 6.08,
+  "text": "Q2 state of AI report. As you might"
+ },
+ {
+  "start": 14.88,
+  "duration": 6.12,
+  "text": "expect, maybe the key story of Q1 was"
+ },
+ {
+  "start": 18.56,
+  "duration": 3.92,
+  "text": "Open Claw, not even just because of Open"
+ },
+ {
+  "start": 21.0,
+  "duration": 3.2,
+  "text": "Claw itself, but because of what it"
+ },
+ {
+  "start": 22.48,
+  "duration": 3.88,
+  "text": "represented. I think you can look at"
+ },
+ {
+  "start": 24.2,
+  "duration": 4.36,
+  "text": "Open Claw as the instantiation of the"
+ },
+ {
+  "start": 26.36,
+  "duration": 4.12,
+  "text": "new capability set that shifted around"
+ },
+ {
+  "start": 28.56,
+  "duration": 3.92,
+  "text": "the end of last year, and which has"
+ },
+ {
+  "start": 30.48,
+  "duration": 3.6,
+  "text": "really come to the fore this year. It's"
+ },
+ {
+  "start": 32.48,
+  "duration": 3.6,
+  "text": "what I called on yesterday's episode"
+ },
+ {
+  "start": 34.08,
+  "duration": 4.28,
+  "text": "AI's second moment, and refers to this"
+ },
+ {
+  "start": 36.08,
+  "duration": 4.04,
+  "text": "idea that agents are actually at this"
+ },
+ {
+  "start": 38.36,
+  "duration": 3.6,
+  "text": "point viable, and that people are in the"
+ },
+ {
+  "start": 40.12,
+  "duration": 3.84,
+  "text": "midst of a million experiments right now"
+ },
+ {
+  "start": 41.96,
+  "duration": 3.52,
+  "text": "giving agent systems access, building"
+ },
+ {
+  "start": 43.96,
+  "duration": 3.2,
+  "text": "new types of systems to have agents"
+ },
+ {
+  "start": 45.48,
+  "duration": 3.68,
+  "text": "interact, and especially, and as we'll"
+ },
+ {
+  "start": 47.16,
+  "duration": 3.92,
+  "text": "talk about today, solving some of the"
+ },
+ {
+  "start": 49.16,
+  "duration": 4.12,
+  "text": "key challenges of agents to make sure"
+ },
+ {
+  "start": 51.08,
+  "duration": 4.32,
+  "text": "that they can diffuse across the entire"
+ },
+ {
+  "start": 53.28,
+  "duration": 4.6,
+  "text": "business world. Part of the specific"
+ },
+ {
+  "start": 55.4,
+  "duration": 4.64,
+  "text": "catalyst for today's show is Nvidia CEO"
+ },
+ {
+  "start": 57.88,
+  "duration": 4.6,
+  "text": "Jensen Huang's speech at their annual"
+ },
+ {
+  "start": 60.04,
+  "duration": 4.56,
+  "text": "GTC event yesterday, where Jensen said"
+ },
+ {
+  "start": 62.48,
+  "duration": 3.76,
+  "text": "explicitly, \"Every software company in"
+ },
+ {
+  "start": 64.6,
+  "duration": 3.48,
+  "text": "the world needs to have an Open Claw"
+ },
+ {
+  "start": 66.24,
+  "duration": 3.52,
+  "text": "strategy.\" And where he began to show"
+ },
+ {
+  "start": 68.08,
+  "duration": 4.12,
+  "text": "off their enterprise-grade version of"
+ },
+ {
+  "start": 69.76,
+  "duration": 4.56,
+  "text": "the software. Now, even before this, the"
+ },
+ {
+  "start": 72.2,
+  "duration": 4.52,
+  "text": "clawfication of the world was well"
+ },
+ {
+  "start": 74.32,
+  "duration": 4.36,
+  "text": "underway. Kevin Simback from Delphi Labs"
+ },
+ {
+  "start": 76.72,
+  "duration": 3.96,
+  "text": "recently wrote a post about all of the"
+ },
+ {
+  "start": 78.68,
+  "duration": 3.96,
+  "text": "different variations and competitors,"
+ },
+ {
+  "start": 80.68,
+  "duration": 4.28,
+  "text": "and started by claiming that Open Claw"
+ },
+ {
+  "start": 82.64,
+  "duration": 4.32,
+  "text": "opened the door. Kevin writes, \"Before"
+ },
+ {
+  "start": 84.96,
+  "duration": 3.36,
+  "text": "Open Claw, agents were mostly technical"
+ },
+ {
+  "start": 86.96,
+  "duration": 3.8,
+  "text": "experiments that produced nothing more"
+ },
+ {
+  "start": 88.32,
+  "duration": 4.64,
+  "text": "than Timeline Sla. After Open Claw and"
+ },
+ {
+  "start": 90.76,
+  "duration": 3.8,
+  "text": "with the advent of Opus 4.5 and 4.6,"
+ },
+ {
+  "start": 92.96,
+  "duration": 3.84,
+  "text": "agents became accessible, just a"
+ },
+ {
+  "start": 94.56,
+  "duration": 4.04,
+  "text": "Telegram message away, always on,"
+ },
+ {
+  "start": 96.8,
+  "duration": 3.36,
+  "text": "actually doing helpful things, and"
+ },
+ {
+  "start": 98.6,
+  "duration": 3.88,
+  "text": "kickstarting a new generation of digital"
+ },
+ {
+  "start": 100.16,
+  "duration": 4.6,
+  "text": "opportunities. Open Claw quickly proved"
+ },
+ {
+  "start": 102.48,
+  "duration": 4.2,
+  "text": "two things at once. People don't want AI"
+ },
+ {
+  "start": 104.76,
+  "duration": 3.4,
+  "text": "chat, they want to get work done, and"
+ },
+ {
+  "start": 106.68,
+  "duration": 3.8,
+  "text": "giving an LLM broad access to your"
+ },
+ {
+  "start": 108.16,
+  "duration": 4.92,
+  "text": "machine and our personal info is both"
+ },
+ {
+  "start": 110.48,
+  "duration": 4.28,
+  "text": "insanely useful and mildly terrifying."
+ },
+ {
+  "start": 113.08,
+  "duration": 3.24,
+  "text": "So, as he writes, the last month has"
+ },
+ {
+  "start": 114.76,
+  "duration": 3.08,
+  "text": "been a weird kind of Darwinism, with"
+ },
+ {
+  "start": 116.32,
+  "duration": 3.48,
+  "text": "builders shipping faster than slot"
+ },
+ {
+  "start": 117.84,
+  "duration": 3.84,
+  "text": "posters, security people screaming into"
+ },
+ {
+  "start": 119.8,
+  "duration": 3.48,
+  "text": "the void, and a growing cohort of people"
+ },
+ {
+  "start": 121.68,
+  "duration": 2.96,
+  "text": "saying, \"Oh crap, this is actually going"
+ },
+ {
+  "start": 123.28,
+  "duration": 3.16,
+  "text": "to rewrite how software and digital"
+ },
+ {
+  "start": 124.64,
+  "duration": 3.68,
+  "text": "businesses work.\" And yet, as Kevin"
+ },
+ {
+  "start": 126.44,
+  "duration": 3.36,
+  "text": "acknowledges, not everyone is sold on"
+ },
+ {
+  "start": 128.32,
+  "duration": 3.12,
+  "text": "open claw itself, and there has been a"
+ },
+ {
+  "start": 129.8,
+  "duration": 3.52,
+  "text": "mad race to build or update"
+ },
+ {
+  "start": 131.44,
+  "duration": 3.92,
+  "text": "alternatives. A bunch of them, like"
+ },
+ {
+  "start": 133.32,
+  "duration": 3.96,
+  "text": "Nanobot, Zero Claw, Pico Claw, or Nano"
+ },
+ {
+  "start": 135.36,
+  "duration": 3.96,
+  "text": "Claw, are all attempts to reduce the"
+ },
+ {
+  "start": 137.28,
+  "duration": 3.52,
+  "text": "overall complexity down to some specific"
+ },
+ {
+  "start": 139.32,
+  "duration": 3.16,
+  "text": "useful feature set. And then there's"
+ },
+ {
+  "start": 140.8,
+  "duration": 3.0,
+  "text": "others like Open Fang, Hermes, Multus,"
+ },
+ {
+  "start": 142.48,
+  "duration": 2.56,
+  "text": "and Iron Claw that are all trying to"
+ },
+ {
+  "start": 143.8,
+  "duration": 3.2,
+  "text": "bring security to it through"
+ },
+ {
+  "start": 145.04,
+  "duration": 3.16,
+  "text": "self-hosting. Yet, if that represents"
+ },
+ {
+  "start": 147.0,
+  "duration": 3.24,
+  "text": "one end of the spectrum of the"
+ },
+ {
+  "start": 148.2,
+  "duration": 3.6,
+  "text": "claw-fication of AI, on the other hand,"
+ },
+ {
+  "start": 150.24,
+  "duration": 2.92,
+  "text": "you have a huge number of companies,"
+ },
+ {
+  "start": 151.8,
+  "duration": 3.2,
+  "text": "some that were AI native, some that"
+ },
+ {
+  "start": 153.16,
+  "duration": 4.12,
+  "text": "weren't AI native, offering up what are"
+ },
+ {
+  "start": 155.0,
+  "duration": 4.08,
+  "text": "effectively their own versions of Open"
+ },
+ {
+  "start": 157.28,
+  "duration": 4.16,
+  "text": "Claw. In other words, agents that are"
+ },
+ {
+  "start": 159.08,
+  "duration": 4.24,
+  "text": "deeply integrated and integrative ball"
+ },
+ {
+  "start": 161.44,
+  "duration": 3.8,
+  "text": "with some key set of systems and"
+ },
+ {
+  "start": 163.32,
+  "duration": 3.76,
+  "text": "personal context. At the end of"
+ },
+ {
+  "start": 165.24,
+  "duration": 3.6,
+  "text": "February, Notion introduced custom"
+ },
+ {
+  "start": 167.08,
+  "duration": 3.64,
+  "text": "agents, which have a lot of features in"
+ },
+ {
+  "start": 168.84,
+  "duration": 3.64,
+  "text": "common with Open Claw, and also all of"
+ },
+ {
+  "start": 170.72,
+  "duration": 3.239,
+  "text": "the context that comes from integration"
+ },
+ {
+  "start": 172.48,
+  "duration": 3.12,
+  "text": "with Notion, where many companies are"
+ },
+ {
+  "start": 173.959,
+  "duration": 3.681,
+  "text": "running all of their information. And of"
+ },
+ {
+  "start": 175.6,
+  "duration": 3.639,
+  "text": "course, we also got Perplexity Computer."
+ },
+ {
+  "start": 177.64,
+  "duration": 3.84,
+  "text": "Perplexity Computer is a very"
+ },
+ {
+  "start": 179.239,
+  "duration": 4.041,
+  "text": "full-throated reimagining of Perplexity"
+ },
+ {
+  "start": 181.48,
+  "duration": 4.0,
+  "text": "from the ground up into a complete"
+ },
+ {
+  "start": 183.28,
+  "duration": 3.959,
+  "text": "problem-solution design system capable"
+ },
+ {
+  "start": 185.48,
+  "duration": 3.32,
+  "text": "of spinning up complex systems of agents"
+ },
+ {
+  "start": 187.239,
+  "duration": 3.201,
+  "text": "and sub-agents to get things done and"
+ },
+ {
+  "start": 188.8,
+  "duration": 3.36,
+  "text": "build things that people want. In the"
+ },
+ {
+  "start": 190.44,
+  "duration": 3.16,
+  "text": "couple weeks since Perplexity released"
+ },
+ {
+  "start": 192.16,
+  "duration": 3.4,
+  "text": "Computer, they've also released Computer"
+ },
+ {
+  "start": 193.6,
+  "duration": 3.6,
+  "text": "for Enterprise, which can operate from"
+ },
+ {
+  "start": 195.56,
+  "duration": 2.8,
+  "text": "within Slack, and which also has direct"
+ },
+ {
+  "start": 197.2,
+  "duration": 3.36,
+  "text": "connections, they claim, to more than"
+ },
+ {
+  "start": 198.36,
+  "duration": 3.84,
+  "text": "400 applications. And they also even got"
+ },
+ {
+  "start": 200.56,
+  "duration": 3.399,
+  "text": "on the Mac mini part of the theme with"
+ },
+ {
+  "start": 202.2,
+  "duration": 3.68,
+  "text": "their launch of Personal Computer, which"
+ },
+ {
+  "start": 203.959,
+  "duration": 3.28,
+  "text": "they call an always-on local merge with"
+ },
+ {
+  "start": 205.88,
+  "duration": 4.359,
+  "text": "Perplexity Computer that works for you"
+ },
+ {
+  "start": 207.239,
+  "duration": 5.481,
+  "text": "24/7. Getting philosophical, Perplexity"
+ },
+ {
+  "start": 210.239,
+  "duration": 5.201,
+  "text": "CEO Arvind Srinivas wrote a long post"
+ },
+ {
+  "start": 212.72,
+  "duration": 4.799,
+  "text": "about why the AI is the computer. In it,"
+ },
+ {
+  "start": 215.44,
+  "duration": 3.76,
+  "text": "he argues, \"AI models are becoming so"
+ },
+ {
+  "start": 217.519,
+  "duration": 3.0,
+  "text": "capable that the products built around"
+ },
+ {
+  "start": 219.2,
+  "duration": 3.12,
+  "text": "them have been bottlenecked for showing"
+ },
+ {
+  "start": 220.519,
+  "duration": 3.121,
+  "text": "their true potential. The chat UI is"
+ },
+ {
+  "start": 222.32,
+  "duration": 3.56,
+  "text": "good for answers, and agents are good"
+ },
+ {
+  "start": 223.64,
+  "duration": 4.0,
+  "text": "for individual tasks. Meanwhile, the UI"
+ },
+ {
+  "start": 225.88,
+  "duration": 3.639,
+  "text": "for entire workflows has always been the"
+ },
+ {
+  "start": 227.64,
+  "duration": 4.08,
+  "text": "computer.\" Effectively, what Arvind is"
+ },
+ {
+  "start": 229.519,
+  "duration": 4.201,
+  "text": "arguing is that the full potential of"
+ },
+ {
+  "start": 231.72,
+  "duration": 4.08,
+  "text": "agentic systems requires the complete"
+ },
+ {
+  "start": 233.72,
+  "duration": 4.24,
+  "text": "canvas of what your computer offers,"
+ },
+ {
+  "start": 235.8,
+  "duration": 3.96,
+  "text": "bridging from local files to cloud"
+ },
+ {
+  "start": 237.96,
+  "duration": 4.0,
+  "text": "systems and beyond, which brings us to"
+ },
+ {
+  "start": 239.76,
+  "duration": 3.96,
+  "text": "the not one, not two, not even really"
+ },
+ {
+  "start": 241.96,
+  "duration": 4.2,
+  "text": "three, but closer to three and a half"
+ },
+ {
+  "start": 243.72,
+  "duration": 4.76,
+  "text": "new entrants into this classification of"
+ },
+ {
+  "start": 246.16,
+  "duration": 4.28,
+  "text": "everything category that were announced"
+ },
+ {
+  "start": 248.48,
+  "duration": 3.76,
+  "text": "just yesterday."
+ },
+ {
+  "start": 250.44,
+  "duration": 3.56,
+  "text": "Manis, which was purchased by Meta in"
+ },
+ {
+  "start": 252.24,
+  "duration": 4.119,
+  "text": "December, was one of the early leaders"
+ },
+ {
+  "start": 254.0,
+  "duration": 4.68,
+  "text": "throughout 2025 in general-purpose"
+ },
+ {
+  "start": 256.359,
+  "duration": 4.641,
+  "text": "agents. This week they announced a new"
+ },
+ {
+  "start": 258.68,
+  "duration": 4.6,
+  "text": "Manis desktop app, the key feature of"
+ },
+ {
+  "start": 261.0,
+  "duration": 3.8,
+  "text": "which they called my computer. Very much"
+ },
+ {
+  "start": 263.28,
+  "duration": 3.8,
+  "text": "picking up on the new design pattern,"
+ },
+ {
+  "start": 264.8,
+  "duration": 4.36,
+  "text": "they write, \"It's your AI agent now on"
+ },
+ {
+  "start": 267.08,
+  "duration": 4.04,
+  "text": "your local machine.\" The use cases they"
+ },
+ {
+  "start": 269.16,
+  "duration": 3.759,
+  "text": "point to include organizing thousands of"
+ },
+ {
+  "start": 271.12,
+  "duration": 4.12,
+  "text": "unsorted photos, renaming hundreds of"
+ },
+ {
+  "start": 272.919,
+  "duration": 4.0,
+  "text": "invoices, building desktop apps in Swift"
+ },
+ {
+  "start": 275.24,
+  "duration": 3.2,
+  "text": "entirely on your computer with no code"
+ },
+ {
+  "start": 276.919,
+  "duration": 3.121,
+  "text": "written manually, combining with"
+ },
+ {
+  "start": 278.44,
+  "duration": 3.36,
+  "text": "existing connectors to create seamless"
+ },
+ {
+  "start": 280.04,
+  "duration": 3.48,
+  "text": "automated workflows, and creating local"
+ },
+ {
+  "start": 281.8,
+  "duration": 4.2,
+  "text": "routines with personal projects, agents,"
+ },
+ {
+  "start": 283.52,
+  "duration": 4.2,
+  "text": "and scheduled tasks. In the blog post,"
+ },
+ {
+  "start": 286.0,
+  "duration": 3.52,
+  "text": "without naming Open Claw, they"
+ },
+ {
+  "start": 287.72,
+  "duration": 4.12,
+  "text": "acknowledge the realization of the need"
+ },
+ {
+  "start": 289.52,
+  "duration": 4.24,
+  "text": "to be able from cloud to local. They"
+ },
+ {
+  "start": 291.84,
+  "duration": 4.12,
+  "text": "write, \"The cloud sandbox has served"
+ },
+ {
+  "start": 293.76,
+  "duration": 3.8,
+  "text": "Manis well. Inside an isolated secure"
+ },
+ {
+  "start": 295.96,
+  "duration": 4.0,
+  "text": "environment, it has everything an AI"
+ },
+ {
+  "start": 297.56,
+  "duration": 4.4,
+  "text": "agent needs: networking, a command line,"
+ },
+ {
+  "start": 299.96,
+  "duration": 3.52,
+  "text": "a file system, and a browser. This is"
+ },
+ {
+  "start": 301.96,
+  "duration": 3.32,
+  "text": "the foundation of Manis's power as a"
+ },
+ {
+  "start": 303.48,
+  "duration": 3.52,
+  "text": "general AI agent, always online and"
+ },
+ {
+  "start": 305.28,
+  "duration": 3.44,
+  "text": "always ready to work. However, there has"
+ },
+ {
+  "start": 307.0,
+  "duration": 3.2,
+  "text": "always been a fundamental limitation."
+ },
+ {
+  "start": 308.72,
+  "duration": 3.199,
+  "text": "Your most important work happens on your"
+ },
+ {
+  "start": 310.2,
+  "duration": 3.04,
+  "text": "own computer. Your project files,"
+ },
+ {
+  "start": 311.919,
+  "duration": 3.281,
+  "text": "development environments, and essential"
+ },
+ {
+  "start": 313.24,
+  "duration": 4.12,
+  "text": "applications all reside locally, not in"
+ },
+ {
+  "start": 315.2,
+  "duration": 4.32,
+  "text": "the cloud. My computer, then, is a way"
+ },
+ {
+  "start": 317.36,
+  "duration": 3.76,
+  "text": "to close that gap.\" Now, one interesting"
+ },
+ {
+  "start": 319.52,
+  "duration": 2.8,
+  "text": "thing about the Manis announcement is"
+ },
+ {
+  "start": 321.12,
+  "duration": 2.84,
+  "text": "that they're thinking a little bit ahead"
+ },
+ {
+  "start": 322.32,
+  "duration": 3.56,
+  "text": "in terms of the specific opportunities"
+ },
+ {
+  "start": 323.96,
+  "duration": 3.16,
+  "text": "that come with desktop. For example,"
+ },
+ {
+  "start": 325.88,
+  "duration": 2.96,
+  "text": "doing something that I haven't seen from"
+ },
+ {
+  "start": 327.12,
+  "duration": 3.48,
+  "text": "a lot of the other competitors, they're"
+ },
+ {
+  "start": 328.84,
+  "duration": 3.88,
+  "text": "actually pushing the idea of building"
+ },
+ {
+  "start": 330.6,
+  "duration": 3.52,
+  "text": "fully working Mac apps, not just"
+ },
+ {
+  "start": 332.72,
+  "duration": 3.6,
+  "text": "cloud-based applications that other"
+ },
+ {
+  "start": 334.12,
+  "duration": 4.28,
+  "text": "people would use. Cedric Chee writes,"
+ },
+ {
+  "start": 336.32,
+  "duration": 3.52,
+  "text": "\"Cloud Code, Co-work, Open Claw, Codex,"
+ },
+ {
+  "start": 338.4,
+  "duration": 3.4,
+  "text": "and Manis all seem to be converging on"
+ },
+ {
+  "start": 339.84,
+  "duration": 3.52,
+  "text": "the same idea. The agent lives on your"
+ },
+ {
+  "start": 341.8,
+  "duration": 2.92,
+  "text": "machine.\" The second related"
+ },
+ {
+  "start": 343.36,
+  "duration": 3.88,
+  "text": "announcement yesterday came from"
+ },
+ {
+  "start": 344.72,
+  "duration": 5.2,
+  "text": "Adaptive. They wrote, \"Introducing"
+ },
+ {
+  "start": 347.24,
+  "duration": 4.6,
+  "text": "Adaptive Computer. We put AI inside of"
+ },
+ {
+  "start": 349.92,
+  "duration": 4.2,
+  "text": "an always-on personal computer that it"
+ },
+ {
+  "start": 351.84,
+  "duration": 4.52,
+  "text": "uses to get work done, schedule agents,"
+ },
+ {
+  "start": 354.12,
+  "duration": 3.72,
+  "text": "create software, automate anything.\" By"
+ },
+ {
+  "start": 356.36,
+  "duration": 3.08,
+  "text": "the end of this year, they write, \"AI"
+ },
+ {
+  "start": 357.84,
+  "duration": 3.24,
+  "text": "agents will use more software than"
+ },
+ {
+  "start": 359.44,
+  "duration": 3.32,
+  "text": "humans do. You won't be the one clicking"
+ },
+ {
+  "start": 361.08,
+  "duration": 3.48,
+  "text": "the button or browsing the web page."
+ },
+ {
+  "start": 362.76,
+  "duration": 4.08,
+  "text": "Your agent will. That requires a new"
+ },
+ {
+  "start": 364.56,
+  "duration": 3.72,
+  "text": "kind of computer. We built one.\" Most"
+ },
+ {
+  "start": 366.84,
+  "duration": 3.12,
+  "text": "business software, they continue, \"has"
+ },
+ {
+  "start": 368.28,
+  "duration": 3.28,
+  "text": "the same problem. Someone has to sit"
+ },
+ {
+  "start": 369.96,
+  "duration": 3.44,
+  "text": "there and operate it, moving data,"
+ },
+ {
+  "start": 371.56,
+  "duration": 3.48,
+  "text": "updating records, filling out forms."
+ },
+ {
+  "start": 373.4,
+  "duration": 3.44,
+  "text": "That someone is usually you.\" The"
+ },
+ {
+  "start": 375.04,
+  "duration": 3.08,
+  "text": "example they gave, interestingly, is the"
+ },
+ {
+  "start": 376.84,
+  "duration": 3.4,
+  "text": "real-world business example of a"
+ },
+ {
+  "start": 378.12,
+  "duration": 3.48,
+  "text": "hardware store owner who has 47 new"
+ },
+ {
+  "start": 380.24,
+  "duration": 3.36,
+  "text": "products in a spreadsheet and needs them"
+ },
+ {
+  "start": 381.6,
+  "duration": 3.6,
+  "text": "to get added to Square. Adaptive says,"
+ },
+ {
+  "start": 383.6,
+  "duration": 3.72,
+  "text": "\"Drag the file into Adaptive, tell it"
+ },
+ {
+  "start": 385.2,
+  "duration": 3.68,
+  "text": "what you want, and it handles the rest.\""
+ },
+ {
+  "start": 387.32,
+  "duration": 2.84,
+  "text": "Out of scope of this particular show,"
+ },
+ {
+  "start": 388.88,
+  "duration": 2.6,
+  "text": "but I think it's super interesting that"
+ },
+ {
+  "start": 390.16,
+  "duration": 3.24,
+  "text": "you're seeing these very bleeding-edge"
+ },
+ {
+  "start": 391.48,
+  "duration": 4.04,
+  "text": "tech companies trying to appeal to the"
+ },
+ {
+  "start": 393.4,
+  "duration": 4.2,
+  "text": "hardware store owner use case. They then"
+ },
+ {
+  "start": 395.52,
+  "duration": 4.28,
+  "text": "go on to pitch their secret sauce, which"
+ },
+ {
+  "start": 397.6,
+  "duration": 3.56,
+  "text": "they call encoded memory. They write,"
+ },
+ {
+  "start": 399.8,
+  "duration": 3.119,
+  "text": "\"What makes Adaptive different is what"
+ },
+ {
+  "start": 401.16,
+  "duration": 3.28,
+  "text": "happens after. It encodes what it"
+ },
+ {
+  "start": 402.919,
+  "duration": 3.121,
+  "text": "learned, how Square works, how your"
+ },
+ {
+  "start": 404.44,
+  "duration": 3.2,
+  "text": "catalog is organized, and how you prefer"
+ },
+ {
+  "start": 406.04,
+  "duration": 3.0,
+  "text": "things to be done. So, the next week"
+ },
+ {
+  "start": 407.64,
+  "duration": 3.44,
+  "text": "when you ask for a daily sales report at"
+ },
+ {
+  "start": 409.04,
+  "duration": 3.36,
+  "text": "8:00 p.m., built the agent, schedules"
+ },
+ {
+  "start": 411.08,
+  "duration": 2.8,
+  "text": "it, pulls from Square data that it"
+ },
+ {
+  "start": 412.4,
+  "duration": 2.88,
+  "text": "already knows.\""
+ },
+ {
+  "start": 413.88,
+  "duration": 3.08,
+  "text": "Now, anytime there's a new launch, it"
+ },
+ {
+  "start": 415.28,
+  "duration": 2.96,
+  "text": "tends to be pretty hard to get good"
+ },
+ {
+  "start": 416.96,
+  "duration": 3.16,
+  "text": "signal from Twitter at this point"
+ },
+ {
+  "start": 418.24,
+  "duration": 4.2,
+  "text": "because so much of the discourse is"
+ },
+ {
+  "start": 420.12,
+  "duration": 4.32,
+  "text": "either AI bots or undisclosed paid"
+ },
+ {
+  "start": 422.44,
+  "duration": 3.56,
+  "text": "tweets, but Ola Lemon did write of a"
+ },
+ {
+  "start": 424.44,
+  "duration": 3.8,
+  "text": "good experience that he recently had"
+ },
+ {
+  "start": 426.0,
+  "duration": 4.64,
+  "text": "through Adaptive. The example he gave"
+ },
+ {
+  "start": 428.24,
+  "duration": 4.0,
+  "text": "was automating YouTube AI research."
+ },
+ {
+  "start": 430.64,
+  "duration": 3.76,
+  "text": "Basically, his argument is that YouTube"
+ },
+ {
+  "start": 432.24,
+  "duration": 3.76,
+  "text": "has a ton of really great videos on"
+ },
+ {
+  "start": 434.4,
+  "duration": 3.44,
+  "text": "in-depth AI systems that are extremely"
+ },
+ {
+  "start": 436.0,
+  "duration": 3.64,
+  "text": "up-to-date and current with the moment,"
+ },
+ {
+  "start": 437.84,
+  "duration": 3.32,
+  "text": "but there's a ton to filter through that"
+ },
+ {
+  "start": 439.64,
+  "duration": 3.16,
+  "text": "makes it hard to sit around and browse"
+ },
+ {
+  "start": 441.16,
+  "duration": 3.72,
+  "text": "to get the diamonds in the rough. The"
+ },
+ {
+  "start": 442.8,
+  "duration": 3.64,
+  "text": "prompt he gave Adaptive was, \"Analyze"
+ },
+ {
+  "start": 444.88,
+  "duration": 3.24,
+  "text": "YouTube videos about AI and cloud"
+ },
+ {
+  "start": 446.44,
+  "duration": 3.32,
+  "text": "workflows from the last 24 hours that"
+ },
+ {
+  "start": 448.12,
+  "duration": 3.24,
+  "text": "have at least 10,000 views, pull the"
+ },
+ {
+  "start": 449.76,
+  "duration": 3.28,
+  "text": "full transcripts, extract the top three"
+ },
+ {
+  "start": 451.36,
+  "duration": 3.16,
+  "text": "most tactical and actionable workflows,"
+ },
+ {
+  "start": 453.04,
+  "duration": 2.879,
+  "text": "and send me a daily email report every"
+ },
+ {
+  "start": 454.52,
+  "duration": 3.48,
+  "text": "morning.\""
+ },
+ {
+  "start": 455.919,
+  "duration": 3.361,
+  "text": "The third and maybe biggest open claw"
+ },
+ {
+  "start": 458.0,
+  "duration": 3.4,
+  "text": "and agent-related announcement"
+ },
+ {
+  "start": 459.28,
+  "duration": 3.64,
+  "text": "yesterday, however, came from Nvidia."
+ },
+ {
+  "start": 461.4,
+  "duration": 2.88,
+  "text": "The context for that quote we heard at"
+ },
+ {
+  "start": 462.92,
+  "duration": 3.4,
+  "text": "the beginning about every company"
+ },
+ {
+  "start": 464.28,
+  "duration": 4.6,
+  "text": "needing an open claw strategy was the"
+ },
+ {
+  "start": 466.32,
+  "duration": 4.52,
+  "text": "setup for Jensen introducing Nemo claw."
+ },
+ {
+  "start": 468.88,
+  "duration": 3.8,
+  "text": "Now, functionally, this is not actually"
+ },
+ {
+  "start": 470.84,
+  "duration": 4.16,
+  "text": "a standalone agent, but rather a"
+ },
+ {
+  "start": 472.68,
+  "duration": 4.6,
+  "text": "software toolkit built on top of the"
+ },
+ {
+  "start": 475.0,
+  "duration": 4.56,
+  "text": "open claw project. Open claw creator"
+ },
+ {
+  "start": 477.28,
+  "duration": 4.16,
+  "text": "Peter Steinberger wrote yesterday, \"Been"
+ },
+ {
+  "start": 479.56,
+  "duration": 3.88,
+  "text": "so much fun cooking open shell and Nemo"
+ },
+ {
+  "start": 481.44,
+  "duration": 4.28,
+  "text": "claw with the Nvidia folks. Huge step"
+ },
+ {
+  "start": 483.44,
+  "duration": 3.52,
+  "text": "towards secure agents you can trust.\""
+ },
+ {
+  "start": 485.72,
+  "duration": 3.36,
+  "text": "So, what this is is basically an"
+ },
+ {
+  "start": 486.96,
+  "duration": 4.24,
+  "text": "approach that adds privacy and security"
+ },
+ {
+  "start": 489.08,
+  "duration": 4.48,
+  "text": "to open claw instances by giving them an"
+ },
+ {
+  "start": 491.2,
+  "duration": 4.52,
+  "text": "isolated sandbox to work in. The agent"
+ },
+ {
+  "start": 493.56,
+  "duration": 4.04,
+  "text": "can still access resources as necessary,"
+ },
+ {
+  "start": 495.72,
+  "duration": 4.199,
+  "text": "but the Nemo claw stack formalizes"
+ },
+ {
+  "start": 497.6,
+  "duration": 4.12,
+  "text": "access control. Specifically, it"
+ },
+ {
+  "start": 499.919,
+  "duration": 3.281,
+  "text": "integrates into policy-based security"
+ },
+ {
+  "start": 501.72,
+  "duration": 2.84,
+  "text": "and other guardrails to theoretically"
+ },
+ {
+  "start": 503.2,
+  "duration": 3.64,
+  "text": "allow it to operate safely within"
+ },
+ {
+  "start": 504.56,
+  "duration": 4.24,
+  "text": "enterprises. Nemo claw is model and"
+ },
+ {
+  "start": 506.84,
+  "duration": 4.0,
+  "text": "hardware agnostic and allows users to"
+ },
+ {
+  "start": 508.8,
+  "duration": 3.88,
+  "text": "choose between cloud and local models."
+ },
+ {
+  "start": 510.84,
+  "duration": 4.079,
+  "text": "Encapsulating this whole shift, Jensen"
+ },
+ {
+  "start": 512.68,
+  "duration": 3.84,
+  "text": "Huang said, \"Open claw gave the industry"
+ },
+ {
+  "start": 514.919,
+  "duration": 3.56,
+  "text": "exactly what it needed at exactly the"
+ },
+ {
+  "start": 516.52,
+  "duration": 3.36,
+  "text": "time. Just as Linux gave the industry"
+ },
+ {
+  "start": 518.479,
+  "duration": 3.12,
+  "text": "exactly what it needed at exactly the"
+ },
+ {
+  "start": 519.88,
+  "duration": 3.52,
+  "text": "time. Just as Kubernetes showed up at"
+ },
+ {
+  "start": 521.599,
+  "duration": 3.401,
+  "text": "exactly the right time. Just as HTML"
+ },
+ {
+  "start": 523.4,
+  "duration": 3.52,
+  "text": "showed up. It made it possible for the"
+ },
+ {
+  "start": 525.0,
+  "duration": 4.0,
+  "text": "entire industry to grab onto this open"
+ },
+ {
+  "start": 526.92,
+  "duration": 2.919,
+  "text": "source stack and go do something with"
+ },
+ {
+  "start": 529.0,
+  "duration": 1.92,
+  "text": "it.\""
+ },
+ {
+  "start": 529.839,
+  "duration": 3.241,
+  "text": "Now, what's been interesting about the"
+ },
+ {
+  "start": 530.92,
+  "duration": 4.0,
+  "text": "response is that for most, although not"
+ },
+ {
+  "start": 533.08,
+  "duration": 3.92,
+  "text": "for all, this hasn't been a jump the"
+ },
+ {
+  "start": 534.92,
+  "duration": 3.32,
+  "text": "shark or jump the lobster moment."
+ },
+ {
+  "start": 537.0,
+  "duration": 3.16,
+  "text": "Instead, people have been pretty"
+ },
+ {
+  "start": 538.24,
+  "duration": 4.32,
+  "text": "enthusiastic about what Nvidia is trying"
+ },
+ {
+  "start": 540.16,
+  "duration": 4.4,
+  "text": "to do. Kevin Sinback again writes,"
+ },
+ {
+  "start": 542.56,
+  "duration": 3.24,
+  "text": "\"Excited to dig into Nemo claw. I've"
+ },
+ {
+  "start": 544.56,
+  "duration": 3.24,
+  "text": "spent a good bit of my career in"
+ },
+ {
+  "start": 545.8,
+  "duration": 3.84,
+  "text": "enterprise. I've been pretty vocal about"
+ },
+ {
+  "start": 547.8,
+  "duration": 3.52,
+  "text": "open claw not being enterprise ready."
+ },
+ {
+  "start": 549.64,
+  "duration": 3.28,
+  "text": "But, the concept of an agentic workforce"
+ },
+ {
+  "start": 551.32,
+  "duration": 3.0,
+  "text": "is a killer and enterprises are going to"
+ },
+ {
+  "start": 552.92,
+  "duration": 3.96,
+  "text": "want it, so this may be what really"
+ },
+ {
+  "start": 554.32,
+  "duration": 3.68,
+  "text": "kicks it off.\" Tristan Rhodes writes,"
+ },
+ {
+  "start": 556.88,
+  "duration": 2.6,
+  "text": "\"I've been avoiding open claw and"
+ },
+ {
+  "start": 558.0,
+  "duration": 3.0,
+  "text": "waiting for it to mature. There have"
+ },
+ {
+  "start": 559.48,
+  "duration": 3.24,
+  "text": "been countless variation and forks along"
+ },
+ {
+  "start": 561.0,
+  "duration": 3.2,
+  "text": "the way, but Nvidia is the most valuable"
+ },
+ {
+  "start": 562.72,
+  "duration": 2.84,
+  "text": "company in the history of the world."
+ },
+ {
+  "start": 564.2,
+  "duration": 3.56,
+  "text": "Does that mean Nemo claw becomes the"
+ },
+ {
+  "start": 565.56,
+  "duration": 3.92,
+  "text": "dominant variation of open claw?\" Eric"
+ },
+ {
+  "start": 567.76,
+  "duration": 3.24,
+  "text": "Seu wrote an entire X article called"
+ },
+ {
+  "start": 569.48,
+  "duration": 3.96,
+  "text": "Nvidia just solved the one problem"
+ },
+ {
+  "start": 571.0,
+  "duration": 4.28,
+  "text": "blocking AI agents. Of course, all about"
+ },
+ {
+  "start": 573.44,
+  "duration": 2.84,
+  "text": "the security concerns."
+ },
+ {
+  "start": 575.28,
+  "duration": 3.24,
+  "text": "Now, one thing I will say that's been"
+ },
+ {
+  "start": 576.28,
+  "duration": 3.72,
+  "text": "interesting from our own experience,"
+ },
+ {
+  "start": 578.52,
+  "duration": 3.2,
+  "text": "regular listeners know we have two"
+ },
+ {
+  "start": 580.0,
+  "duration": 4.36,
+  "text": "different open claw related things going"
+ },
+ {
+  "start": 581.72,
+  "duration": 4.64,
+  "text": "on right now. Claw camp is an open free"
+ },
+ {
+  "start": 584.36,
+  "duration": 3.24,
+  "text": "self-directed program that walks people"
+ },
+ {
+  "start": 586.36,
+  "duration": 3.08,
+  "text": "step-by-step through setting up their"
+ },
+ {
+  "start": 587.6,
+  "duration": 3.04,
+  "text": "own open claw and giving them access to"
+ },
+ {
+  "start": 589.44,
+  "duration": 2.84,
+  "text": "a community of other builders who can"
+ },
+ {
+  "start": 590.64,
+  "duration": 3.4,
+  "text": "help them along the way that at this"
+ },
+ {
+  "start": 592.28,
+  "duration": 3.68,
+  "text": "point more than 7,000 people have signed"
+ },
+ {
+  "start": 594.04,
+  "duration": 4.36,
+  "text": "up to participate in. Enterprise claw"
+ },
+ {
+  "start": 595.96,
+  "duration": 4.36,
+  "text": "meanwhile is a managed 6-week executive"
+ },
+ {
+  "start": 598.4,
+  "duration": 3.48,
+  "text": "sprint that's meant to help individual"
+ },
+ {
+  "start": 600.32,
+  "duration": 3.24,
+  "text": "enterprise leaders and teams from"
+ },
+ {
+  "start": 601.88,
+  "duration": 3.6,
+  "text": "enterprises get that same sort of"
+ },
+ {
+  "start": 603.56,
+  "duration": 3.68,
+  "text": "learning but in a much more in-depth and"
+ },
+ {
+  "start": 605.48,
+  "duration": 3.36,
+  "text": "supported way. Now, as part of"
+ },
+ {
+  "start": 607.24,
+  "duration": 4.04,
+  "text": "enterprise claw, we gave people the"
+ },
+ {
+  "start": 608.84,
+  "duration": 4.2,
+  "text": "choice to either use open claw or do a"
+ },
+ {
+  "start": 611.28,
+  "duration": 4.72,
+  "text": "generic version of agent team building"
+ },
+ {
+  "start": 613.04,
+  "duration": 4.64,
+  "text": "using cloud code, codex, cursor, etc."
+ },
+ {
+  "start": 616.0,
+  "duration": 3.56,
+  "text": "And interestingly, it's about half and"
+ },
+ {
+  "start": 617.68,
+  "duration": 3.56,
+  "text": "half in terms of who wanted to learn on"
+ },
+ {
+  "start": 619.56,
+  "duration": 4.04,
+  "text": "open claw versus who wanted to use other"
+ },
+ {
+  "start": 621.24,
+  "duration": 4.48,
+  "text": "systems. Meaning that even in the"
+ },
+ {
+  "start": 623.6,
+  "duration": 4.08,
+  "text": "pre-enterprise grade open claw world,"
+ },
+ {
+  "start": 625.72,
+  "duration": 3.72,
+  "text": "there is still demand for figuring out"
+ },
+ {
+  "start": 627.68,
+  "duration": 3.08,
+  "text": "how to use this platform, which I think"
+ },
+ {
+  "start": 629.44,
+  "duration": 3.16,
+  "text": "is certainly validation of everything"
+ },
+ {
+  "start": 630.76,
+  "duration": 3.36,
+  "text": "that Jensen is saying. Now, Robert"
+ },
+ {
+  "start": 632.6,
+  "duration": 3.84,
+  "text": "Scoble had an interesting note from the"
+ },
+ {
+  "start": 634.12,
+  "duration": 3.88,
+  "text": "Nvidia GTC expo hall that was actually"
+ },
+ {
+  "start": 636.44,
+  "duration": 3.48,
+  "text": "more about open AI than it was about"
+ },
+ {
+  "start": 638.0,
+  "duration": 3.88,
+  "text": "Nvidia. He writes, \"Visiting the expo"
+ },
+ {
+  "start": 639.92,
+  "duration": 3.919,
+  "text": "hall shows you why open AI is changing"
+ },
+ {
+  "start": 641.88,
+  "duration": 4.16,
+  "text": "strategy. All the big booths are"
+ },
+ {
+  "start": 643.839,
+  "duration": 4.321,
+  "text": "enterprise. The biggest news here is how"
+ },
+ {
+  "start": 646.04,
+  "duration": 4.36,
+  "text": "Nvidia is bringing open claw to the"
+ },
+ {
+  "start": 648.16,
+  "duration": 4.24,
+  "text": "enterprise.\" Which brings us to another"
+ },
+ {
+  "start": 650.4,
+  "duration": 4.04,
+  "text": "important story from yesterday. The Wall"
+ },
+ {
+  "start": 652.4,
+  "duration": 4.04,
+  "text": "Street Journal reports that open AI is"
+ },
+ {
+  "start": 654.44,
+  "duration": 3.72,
+  "text": "done with side quests and will refocus"
+ },
+ {
+  "start": 656.44,
+  "duration": 4.08,
+  "text": "on nailing a core business, which is now"
+ },
+ {
+  "start": 658.16,
+  "duration": 4.24,
+  "text": "more than ever refocused on enterprise"
+ },
+ {
+  "start": 660.52,
+  "duration": 4.04,
+  "text": "encoding. The Journal reporting states"
+ },
+ {
+  "start": 662.4,
+  "duration": 3.48,
+  "text": "that CEO of applications Fijisimo has"
+ },
+ {
+  "start": 664.56,
+  "duration": 2.68,
+  "text": "delivered a wake-up call within the"
+ },
+ {
+  "start": 665.88,
+  "duration": 3.12,
+  "text": "company, pointing out that their"
+ },
+ {
+  "start": 667.24,
+  "duration": 3.92,
+  "text": "do-everything strategy has reduced their"
+ },
+ {
+  "start": 669.0,
+  "duration": 4.08,
+  "text": "lead on the competition. Cimo told staff"
+ },
+ {
+  "start": 671.16,
+  "duration": 3.36,
+  "text": "last week, \"We cannot miss this moment"
+ },
+ {
+  "start": 673.08,
+  "duration": 2.96,
+  "text": "because we are distracted by side"
+ },
+ {
+  "start": 674.52,
+  "duration": 3.2,
+  "text": "quests. We really have to nail"
+ },
+ {
+  "start": 676.04,
+  "duration": 3.52,
+  "text": "productivity in general and particularly"
+ },
+ {
+  "start": 677.72,
+  "duration": 3.48,
+  "text": "productivity on the business front.\""
+ },
+ {
+  "start": 679.56,
+  "duration": 3.4,
+  "text": "Now, this is of course a big shift away"
+ },
+ {
+  "start": 681.2,
+  "duration": 3.639,
+  "text": "from Sam Altman's traditional management"
+ },
+ {
+  "start": 682.96,
+  "duration": 3.04,
+  "text": "approach, which he described as betting"
+ },
+ {
+  "start": 684.839,
+  "duration": 3.641,
+  "text": "on a series of startups within the"
+ },
+ {
+  "start": 686.0,
+  "duration": 4.16,
+  "text": "company. That led to a fairly dizzying"
+ },
+ {
+  "start": 688.48,
+  "duration": 3.44,
+  "text": "array of product bets, including the"
+ },
+ {
+  "start": 690.16,
+  "duration": 3.4,
+  "text": "Sora app, the Atlas browser, and the"
+ },
+ {
+  "start": 691.92,
+  "duration": 3.76,
+  "text": "yet-to-be-revealed Jony Ive device just"
+ },
+ {
+  "start": 693.56,
+  "duration": 3.68,
+  "text": "to name a few. As basically everyone on"
+ },
+ {
+  "start": 695.68,
+  "duration": 3.32,
+  "text": "AI Twitter has done, the Journal"
+ },
+ {
+  "start": 697.24,
+  "duration": 3.68,
+  "text": "compared that approach to Anthropic's"
+ },
+ {
+  "start": 699.0,
+  "duration": 3.32,
+  "text": "very narrow strategy built around agent"
+ },
+ {
+  "start": 700.92,
+  "duration": 2.8,
+  "text": "decoding and the way that that expands"
+ },
+ {
+  "start": 702.32,
+  "duration": 3.32,
+  "text": "into broader sets of knowledge work for"
+ },
+ {
+  "start": 703.72,
+  "duration": 4.28,
+  "text": "the enterprise. Now, it's not new that"
+ },
+ {
+  "start": 705.64,
+  "duration": 3.64,
+  "text": "OpenAI has decided to refocus efforts on"
+ },
+ {
+  "start": 708.0,
+  "duration": 3.52,
+  "text": "similar themes. That's been the big"
+ },
+ {
+  "start": 709.28,
+  "duration": 3.8,
+  "text": "story since GPT-5 was released and Codex"
+ },
+ {
+  "start": 711.52,
+  "duration": 3.76,
+  "text": "came out, but there clearly seems to be"
+ },
+ {
+  "start": 713.08,
+  "duration": 4.32,
+  "text": "a new urgency. Interestingly, according"
+ },
+ {
+  "start": 715.28,
+  "duration": 4.64,
+  "text": "to Seema, the code red from last year is"
+ },
+ {
+  "start": 717.4,
+  "duration": 4.32,
+  "text": "not over. Last week, she told staff, \"We"
+ },
+ {
+  "start": 719.92,
+  "duration": 3.6,
+  "text": "are very much acting as if it's a code"
+ },
+ {
+  "start": 721.72,
+  "duration": 3.36,
+  "text": "red.\" And while a lot of people are"
+ },
+ {
+  "start": 723.52,
+  "duration": 3.52,
+  "text": "speculating around what might get the"
+ },
+ {
+  "start": 725.08,
+  "duration": 4.12,
+  "text": "axe because of that, for example, the"
+ },
+ {
+  "start": 727.04,
+  "duration": 3.32,
+  "text": "much-maligned ads approach, every day it"
+ },
+ {
+  "start": 729.2,
+  "duration": 2.76,
+  "text": "seems we get some new announcement"
+ },
+ {
+  "start": 730.36,
+  "duration": 3.44,
+  "text": "around the Codex and their larger coding"
+ },
+ {
+  "start": 731.96,
+  "duration": 3.44,
+  "text": "suite. The most recent, and the one that"
+ },
+ {
+  "start": 733.8,
+  "duration": 2.68,
+  "text": "we got yesterday, and that I think is"
+ },
+ {
+  "start": 735.4,
+  "duration": 2.96,
+  "text": "coherent with all of these"
+ },
+ {
+  "start": 736.48,
+  "duration": 4.52,
+  "text": "classification themes, is the native"
+ },
+ {
+  "start": 738.36,
+  "duration": 4.44,
+  "text": "integration of sub-agents into Codex."
+ },
+ {
+  "start": 741.0,
+  "duration": 3.12,
+  "text": "The OpenAI developers account writes,"
+ },
+ {
+  "start": 742.8,
+  "duration": 3.2,
+  "text": "\"You can accelerate your workflow by"
+ },
+ {
+  "start": 744.12,
+  "duration": 3.64,
+  "text": "spinning up specialized agents to keep"
+ },
+ {
+  "start": 746.0,
+  "duration": 3.48,
+  "text": "your main context window clean, tackle"
+ },
+ {
+  "start": 747.76,
+  "duration": 2.96,
+  "text": "different parts of a task in parallel,"
+ },
+ {
+  "start": 749.48,
+  "duration": 3.6,
+  "text": "steer individual individual agents as"
+ },
+ {
+  "start": 750.72,
+  "duration": 4.16,
+  "text": "work unfolds.\" LLM Junky and Well"
+ },
+ {
+  "start": 753.08,
+  "duration": 2.96,
+  "text": "writes, \"In the next Codex update,"
+ },
+ {
+  "start": 754.88,
+  "duration": 3.36,
+  "text": "multi-agents will get a massive"
+ },
+ {
+  "start": 756.04,
+  "duration": 3.52,
+  "text": "flexibility upgrade. Hey Codex, when you"
+ },
+ {
+  "start": 758.24,
+  "duration": 2.76,
+  "text": "implement this plan, I want you to"
+ },
+ {
+  "start": 759.56,
+  "duration": 4.16,
+  "text": "delegate all of the lower complexity"
+ },
+ {
+  "start": 761.0,
+  "duration": 4.12,
+  "text": "tasks to GPT-5.3 Spark sub-agents."
+ },
+ {
+  "start": 763.72,
+  "duration": 2.52,
+  "text": "Instead of needing to create 100"
+ },
+ {
+  "start": 765.12,
+  "duration": 2.56,
+  "text": "different custom agent roles for"
+ },
+ {
+  "start": 766.24,
+  "duration": 2.68,
+  "text": "different situations, you can just"
+ },
+ {
+  "start": 767.68,
+  "duration": 2.76,
+  "text": "prompt your agent to spawn whatever"
+ },
+ {
+  "start": 768.92,
+  "duration": 3.32,
+  "text": "model or reasoning level you want with"
+ },
+ {
+  "start": 770.44,
+  "duration": 3.399,
+  "text": "only natural language.\" Emmanuel de"
+ },
+ {
+  "start": 772.24,
+  "duration": 3.36,
+  "text": "Puich went through some use cases for"
+ },
+ {
+  "start": 773.839,
+  "duration": 2.921,
+  "text": "the sub-agent system, things like code"
+ },
+ {
+  "start": 775.6,
+  "duration": 3.16,
+  "text": "review where he argues you could have"
+ },
+ {
+  "start": 776.76,
+  "duration": 3.4,
+  "text": "one agent per concern, test coverage"
+ },
+ {
+  "start": 778.76,
+  "duration": 2.88,
+  "text": "with one sub-agent writing tests,"
+ },
+ {
+  "start": 780.16,
+  "duration": 3.76,
+  "text": "another checking edge cases, and another"
+ },
+ {
+  "start": 781.64,
+  "duration": 3.44,
+  "text": "validating, etc., etc."
+ },
+ {
+  "start": 783.92,
+  "duration": 3.2,
+  "text": "And it's clear that even though the foot"
+ },
+ {
+  "start": 785.08,
+  "duration": 3.84,
+  "text": "is still firmly on the gas, the shift in"
+ },
+ {
+  "start": 787.12,
+  "duration": 3.68,
+  "text": "OpenAI's strategy seems to be bearing"
+ },
+ {
+  "start": 788.92,
+  "duration": 4.8,
+  "text": "some fruit. OpenAI president Greg"
+ },
+ {
+  "start": 790.8,
+  "duration": 4.56,
+  "text": "Brockman wrote yesterday, \"GPT-5.4 has"
+ },
+ {
+  "start": 793.72,
+  "duration": 3.52,
+  "text": "ramped faster than any other model we've"
+ },
+ {
+  "start": 795.36,
+  "duration": 3.56,
+  "text": "launched in the API. Within a week of"
+ },
+ {
+  "start": 797.24,
+  "duration": 3.44,
+  "text": "launch, 5 trillion tokens per day"
+ },
+ {
+  "start": 798.92,
+  "duration": 3.52,
+  "text": "handling more volume than our entire API"
+ },
+ {
+  "start": 800.68,
+  "duration": 3.0,
+  "text": "1 year ago, and reaching an annualized"
+ },
+ {
+  "start": 802.44,
+  "duration": 3.52,
+  "text": "run rate of 1 billion in net new"
+ },
+ {
+  "start": 803.68,
+  "duration": 4.52,
+  "text": "revenue.\" Sam Altman showed a chart of"
+ },
+ {
+  "start": 805.96,
+  "duration": 3.96,
+  "text": "Codex usage being very aggressively up"
+ },
+ {
+  "start": 808.2,
+  "duration": 2.96,
+  "text": "into the right, adding the Codex team"
+ },
+ {
+  "start": 809.92,
+  "duration": 2.76,
+  "text": "are hardcore builders and it really"
+ },
+ {
+  "start": 811.16,
+  "duration": 2.88,
+  "text": "comes through in what they create. No"
+ },
+ {
+  "start": 812.68,
+  "duration": 3.56,
+  "text": "surprise, all the hardcore builders I"
+ },
+ {
+  "start": 814.04,
+  "duration": 4.48,
+  "text": "know have switched to Codex. Responding"
+ },
+ {
+  "start": 816.24,
+  "duration": 4.36,
+  "text": "to the news about OpenAI shifting focus,"
+ },
+ {
+  "start": 818.52,
+  "duration": 3.8,
+  "text": "Dwayne Onyx writes, \"I actually thought"
+ },
+ {
+  "start": 820.6,
+  "duration": 3.8,
+  "text": "OpenAI were already doing a good job"
+ },
+ {
+  "start": 822.32,
+  "duration": 3.96,
+  "text": "focusing on coding. Codex is amazing for"
+ },
+ {
+  "start": 824.4,
+  "duration": 4.8,
+  "text": "coding. One area where they absolutely"
+ },
+ {
+  "start": 826.28,
+  "duration": 4.48,
+  "text": "fail is UI. GPT-5.4 can't design to save"
+ },
+ {
+  "start": 829.2,
+  "duration": 4.56,
+  "text": "its life even if you have super detailed"
+ },
+ {
+  "start": 830.76,
+  "duration": 4.24,
+  "text": "skill to guide it. It has zero taste.\""
+ },
+ {
+  "start": 833.76,
+  "duration": 3.4,
+  "text": "And for what it's worth, I talked about"
+ },
+ {
+  "start": 835.0,
+  "duration": 3.72,
+  "text": "this on my operator show. This is very"
+ },
+ {
+  "start": 837.16,
+  "duration": 2.72,
+  "text": "much been my experience to the point"
+ },
+ {
+  "start": 838.72,
+  "duration": 2.84,
+  "text": "where I can't just give Codex"
+ },
+ {
+  "start": 839.88,
+  "duration": 4.0,
+  "text": "guidelines. I literally have to give it"
+ },
+ {
+  "start": 841.56,
+  "duration": 3.96,
+  "text": "the actual design files from Claude for"
+ },
+ {
+  "start": 843.88,
+  "duration": 3.16,
+  "text": "it to copy exactly. Although my"
+ },
+ {
+  "start": 845.52,
+  "duration": 4.04,
+  "text": "experience with Codex when it comes to"
+ },
+ {
+  "start": 847.04,
+  "duration": 4.36,
+  "text": "actually building has been really good."
+ },
+ {
+  "start": 849.56,
+  "duration": 4.08,
+  "text": "Summing all this up, if Q1 was a"
+ },
+ {
+  "start": 851.4,
+  "duration": 4.84,
+  "text": "realization that agents are here and a"
+ },
+ {
+  "start": 853.64,
+  "duration": 4.16,
+  "text": "mass wide-scale experimentation with the"
+ },
+ {
+  "start": 856.24,
+  "duration": 3.92,
+  "text": "form factors and design patterns"
+ },
+ {
+  "start": 857.8,
+  "duration": 5.2,
+  "text": "introduced by Open Claw, Q2 is set up to"
+ },
+ {
+  "start": 860.16,
+  "duration": 4.4,
+  "text": "be an absolute sprint to productize"
+ },
+ {
+  "start": 863.0,
+  "duration": 3.16,
+  "text": "those agents and get them ready for"
+ },
+ {
+  "start": 864.56,
+  "duration": 3.76,
+  "text": "broader diffusion especially within the"
+ },
+ {
+  "start": 866.16,
+  "duration": 4.2,
+  "text": "enterprise. One thing that I will be"
+ },
+ {
+  "start": 868.32,
+  "duration": 3.76,
+  "text": "watching closely is how much old"
+ },
+ {
+  "start": 870.36,
+  "duration": 3.04,
+  "text": "patterns of productization where"
+ },
+ {
+  "start": 872.08,
+  "duration": 3.36,
+  "text": "conventional wisdom was all about"
+ },
+ {
+  "start": 873.4,
+  "duration": 4.0,
+  "text": "simplifying things for wider audiences"
+ },
+ {
+  "start": 875.44,
+  "duration": 3.68,
+  "text": "still hold given that the breakout was"
+ },
+ {
+  "start": 877.4,
+  "duration": 2.68,
+  "text": "this incredibly complex system in Open"
+ },
+ {
+  "start": 879.12,
+  "duration": 2.6,
+  "text": "Claw."
+ },
+ {
+  "start": 880.08,
+  "duration": 3.64,
+  "text": "I'm not sure I know where the right"
+ },
+ {
+  "start": 881.72,
+  "duration": 3.28,
+  "text": "complexity band is going to be or if"
+ },
+ {
+  "start": 883.72,
+  "duration": 3.2,
+  "text": "it's going to be a spectrum of different"
+ },
+ {
+  "start": 885.0,
+  "duration": 3.88,
+  "text": "types of complexity for different users,"
+ },
+ {
+  "start": 886.92,
+  "duration": 3.64,
+  "text": "but I can guarantee that just about"
+ },
+ {
+  "start": 888.88,
+  "duration": 3.84,
+  "text": "everything that can be tried will be"
+ },
+ {
+  "start": 890.56,
+  "duration": 3.44,
+  "text": "tried in the quarter to come. For now,"
+ },
+ {
+  "start": 892.72,
+  "duration": 3.08,
+  "text": "that is going to do it for today's AI"
+ },
+ {
+  "start": 894.0,
+  "duration": 4.56,
+  "text": "Daily Brief. Appreciate you listening or"
+ },
+ {
+  "start": 895.8,
+  "duration": 5.16,
+  "text": "watching as always and until next time,"
+ },
+ {
+  "start": 898.56,
+  "duration": 2.4,
+  "text": "peace."
+ }
+]

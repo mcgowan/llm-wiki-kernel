@@ -1,0 +1,2837 @@
+[
+ {
+  "start": 0.44,
+  "duration": 4.24,
+  "text": "Today we're discussing the rise of the"
+ },
+ {
+  "start": 2.44,
+  "duration": 4.0,
+  "text": "zero-human company."
+ },
+ {
+  "start": 4.68,
+  "duration": 4.24,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 6.44,
+  "duration": 4.08,
+  "text": "Today we are looking in on a trend,"
+ },
+ {
+  "start": 8.92,
+  "duration": 3.24,
+  "text": "which I think is just emerging, but"
+ },
+ {
+  "start": 10.52,
+  "duration": 3.96,
+  "text": "which we're going to hear a lot more"
+ },
+ {
+  "start": 12.16,
+  "duration": 4.36,
+  "text": "about in the weeks and months to come."
+ },
+ {
+  "start": 14.48,
+  "duration": 3.92,
+  "text": "In fact, I think this is the inevitable"
+ },
+ {
+  "start": 16.52,
+  "duration": 4.08,
+  "text": "next step as we try to fully understand"
+ },
+ {
+  "start": 18.4,
+  "duration": 4.68,
+  "text": "and embrace the changes that new agentic"
+ },
+ {
+  "start": 20.6,
+  "duration": 4.88,
+  "text": "capacity has unlocked."
+ },
+ {
+  "start": 23.08,
+  "duration": 4.44,
+  "text": "One of the big themes surrounding AI for"
+ },
+ {
+  "start": 25.48,
+  "duration": 4.28,
+  "text": "the last couple of years has of course"
+ },
+ {
+  "start": 27.52,
+  "duration": 4.2,
+  "text": "been the idea that those who fully"
+ },
+ {
+  "start": 29.76,
+  "duration": 4.4,
+  "text": "embrace AI and who really rewire their"
+ },
+ {
+  "start": 31.72,
+  "duration": 4.32,
+  "text": "systems around it have capabilities like"
+ },
+ {
+  "start": 34.16,
+  "duration": 3.08,
+  "text": "they never had before. And that when you"
+ },
+ {
+  "start": 36.04,
+  "duration": 3.16,
+  "text": "can get a number of those people"
+ },
+ {
+  "start": 37.24,
+  "duration": 3.4,
+  "text": "together, you can actually radically"
+ },
+ {
+  "start": 39.2,
+  "duration": 2.84,
+  "text": "outperform."
+ },
+ {
+  "start": 40.64,
+  "duration": 3.32,
+  "text": "This is a theme that's been explored at"
+ },
+ {
+  "start": 42.04,
+  "duration": 4.64,
+  "text": "the last few AI Engineering Summits."
+ },
+ {
+  "start": 43.96,
+  "duration": 5.08,
+  "text": "Curator Shawn Wang, aka Swyx, has called"
+ },
+ {
+  "start": 46.68,
+  "duration": 4.24,
+  "text": "these tracks tiny teams."
+ },
+ {
+  "start": 49.04,
+  "duration": 4.32,
+  "text": "In a blog post about tiny teams he"
+ },
+ {
+  "start": 50.92,
+  "duration": 4.24,
+  "text": "wrote, \"I previously defined tiny teams"
+ },
+ {
+  "start": 53.36,
+  "duration": 3.96,
+  "text": "aspirationally as teams with more"
+ },
+ {
+  "start": 55.16,
+  "duration": 3.56,
+  "text": "million in ARR than employees, because"
+ },
+ {
+  "start": 57.32,
+  "duration": 3.36,
+  "text": "efficiency is the ultimate governing"
+ },
+ {
+  "start": 58.72,
+  "duration": 3.08,
+  "text": "force for intellectual honesty. It's"
+ },
+ {
+  "start": 60.68,
+  "duration": 2.52,
+  "text": "also a back door into a speed"
+ },
+ {
+  "start": 61.8,
+  "duration": 3.0,
+  "text": "discussion, because smaller teams"
+ },
+ {
+  "start": 63.2,
+  "duration": 2.96,
+  "text": "generally move faster and faster teams"
+ },
+ {
+  "start": 64.8,
+  "duration": 3.52,
+  "text": "generally win.\""
+ },
+ {
+  "start": 66.16,
+  "duration": 3.88,
+  "text": "Now, after discussions with seven teams"
+ },
+ {
+  "start": 68.32,
+  "duration": 3.96,
+  "text": "that in aggregate have 100 people and"
+ },
+ {
+  "start": 70.04,
+  "duration": 3.84,
+  "text": "200 million in ARR, he found that some"
+ },
+ {
+  "start": 72.28,
+  "duration": 3.2,
+  "text": "of the common threads were very"
+ },
+ {
+  "start": 73.88,
+  "duration": 3.24,
+  "text": "different approaches to hiring, like"
+ },
+ {
+  "start": 75.48,
+  "duration": 2.88,
+  "text": "paid work trials where both parties"
+ },
+ {
+  "start": 77.12,
+  "duration": 3.24,
+  "text": "could see if it was a good fit before"
+ },
+ {
+  "start": 78.36,
+  "duration": 3.44,
+  "text": "fully committing, product-led hiring,"
+ },
+ {
+  "start": 80.36,
+  "duration": 3.56,
+  "text": "i.e. customers who quit their jobs to"
+ },
+ {
+  "start": 81.8,
+  "duration": 4.36,
+  "text": "join the company, very high-end"
+ },
+ {
+  "start": 83.92,
+  "duration": 3.84,
+  "text": "top-of-market salaries, and a big focus"
+ },
+ {
+  "start": 86.16,
+  "duration": 2.84,
+  "text": "on senior generalists versus junior"
+ },
+ {
+  "start": 87.76,
+  "duration": 2.72,
+  "text": "employees."
+ },
+ {
+  "start": 89.0,
+  "duration": 3.2,
+  "text": "From an operational perspective, he also"
+ },
+ {
+  "start": 90.48,
+  "duration": 3.36,
+  "text": "found a difference. They tended to have"
+ },
+ {
+  "start": 92.2,
+  "duration": 3.4,
+  "text": "an AI chief of staff and use AI for"
+ },
+ {
+  "start": 93.84,
+  "duration": 3.8,
+  "text": "support. They also had almost no"
+ },
+ {
+  "start": 95.6,
+  "duration": 4.04,
+  "text": "meetings, and the tech and product side"
+ },
+ {
+  "start": 97.64,
+  "duration": 3.76,
+  "text": "were both fairly simple as well."
+ },
+ {
+  "start": 99.64,
+  "duration": 3.64,
+  "text": "Former super.com founder Henry Shih,"
+ },
+ {
+  "start": 101.4,
+  "duration": 3.52,
+  "text": "who's now at Anthropic, has also been"
+ },
+ {
+  "start": 103.28,
+  "duration": 3.32,
+  "text": "tracking this phenomenon with his lean"
+ },
+ {
+  "start": 104.92,
+  "duration": 3.32,
+  "text": "AI leaderboard."
+ },
+ {
+  "start": 106.6,
+  "duration": 3.08,
+  "text": "Explaining the board, he says, \"I'm a"
+ },
+ {
+  "start": 108.24,
+  "duration": 3.12,
+  "text": "repeat founder who's built a $100"
+ },
+ {
+  "start": 109.68,
+  "duration": 3.12,
+  "text": "million ARR startup the old-fashioned"
+ },
+ {
+  "start": 111.36,
+  "duration": 2.68,
+  "text": "way by hiring hundreds of people and"
+ },
+ {
+  "start": 112.8,
+  "duration": 3.44,
+  "text": "raising hundreds of millions of VC"
+ },
+ {
+  "start": 114.04,
+  "duration": 3.8,
+  "text": "funding. I'm now building an AI, and"
+ },
+ {
+  "start": 116.24,
+  "duration": 3.0,
+  "text": "many of us in Silicon Valley are now big"
+ },
+ {
+  "start": 117.84,
+  "duration": 3.28,
+  "text": "believers in the idea that Sam Altman"
+ },
+ {
+  "start": 119.24,
+  "duration": 4.0,
+  "text": "put forward, there will soon be a"
+ },
+ {
+  "start": 121.12,
+  "duration": 3.76,
+  "text": "one-person billion-dollar company.\""
+ },
+ {
+  "start": 123.24,
+  "duration": 3.88,
+  "text": "Like Swyx, the leaderboard focuses on"
+ },
+ {
+  "start": 124.88,
+  "duration": 3.4,
+  "text": "the metric of revenue per employee. Some"
+ },
+ {
+  "start": 127.12,
+  "duration": 2.68,
+  "text": "of the companies near the top are"
+ },
+ {
+  "start": 128.28,
+  "duration": 3.28,
+  "text": "companies like Midjourney, Surge, and"
+ },
+ {
+  "start": 129.8,
+  "duration": 3.36,
+  "text": "Cursor, who while having tens of"
+ },
+ {
+  "start": 131.56,
+  "duration": 2.8,
+  "text": "employees are punching way above their"
+ },
+ {
+  "start": 133.16,
+  "duration": 2.28,
+  "text": "weight class in terms of the revenue"
+ },
+ {
+  "start": 134.36,
+  "duration": 2.6,
+  "text": "that each of those employees is"
+ },
+ {
+  "start": 135.44,
+  "duration": 2.84,
+  "text": "generating. If you go a little bit"
+ },
+ {
+  "start": 136.96,
+  "duration": 3.52,
+  "text": "further down the list, you see companies"
+ },
+ {
+  "start": 138.28,
+  "duration": 4.2,
+  "text": "that have four, five, eight, basically"
+ },
+ {
+  "start": 140.48,
+  "duration": 3.88,
+  "text": "single-digit employee counts, and yet"
+ },
+ {
+  "start": 142.48,
+  "duration": 4.2,
+  "text": "still millions in revenue."
+ },
+ {
+  "start": 144.36,
+  "duration": 4.4,
+  "text": "Still, all of this is kind of a 2025"
+ },
+ {
+  "start": 146.68,
+  "duration": 3.64,
+  "text": "conception of tiny teams."
+ },
+ {
+  "start": 148.76,
+  "duration": 4.2,
+  "text": "Shawn, in fact, wrote that tiny teams"
+ },
+ {
+  "start": 150.32,
+  "duration": 3.92,
+  "text": "playbook post all the way back in July."
+ },
+ {
+  "start": 152.96,
+  "duration": 2.96,
+  "text": "And over the last 3 months, we've seen"
+ },
+ {
+  "start": 154.24,
+  "duration": 3.12,
+  "text": "some dramatic shifts."
+ },
+ {
+  "start": 155.92,
+  "duration": 3.56,
+  "text": "Alongside the latest generation of"
+ },
+ {
+  "start": 157.36,
+  "duration": 3.88,
+  "text": "models and harnesses like Claude Code,"
+ },
+ {
+  "start": 159.48,
+  "duration": 4.88,
+  "text": "our autonomy ambition has gone up"
+ },
+ {
+  "start": 161.24,
+  "duration": 4.96,
+  "text": "dramatically. And now, increasingly, in"
+ },
+ {
+  "start": 164.36,
+  "duration": 3.32,
+  "text": "addition to relatively traditionally"
+ },
+ {
+  "start": 166.2,
+  "duration": 3.32,
+  "text": "organized companies who are just doing"
+ },
+ {
+  "start": 167.68,
+  "duration": 4.0,
+  "text": "more with less thanks to AI and agentic"
+ },
+ {
+  "start": 169.52,
+  "duration": 4.04,
+  "text": "processes, there's an increasing focus"
+ },
+ {
+  "start": 171.68,
+  "duration": 4.16,
+  "text": "on experimenting with pushing the pedal"
+ },
+ {
+  "start": 173.56,
+  "duration": 3.84,
+  "text": "to the metal on just how far AI can go"
+ },
+ {
+  "start": 175.84,
+  "duration": 4.28,
+  "text": "all on its own."
+ },
+ {
+  "start": 177.4,
+  "duration": 4.48,
+  "text": "Especially in the wake of Open Claw, we"
+ },
+ {
+  "start": 180.12,
+  "duration": 4.24,
+  "text": "are seeing more and more experiments in"
+ },
+ {
+  "start": 181.88,
+  "duration": 3.4,
+  "text": "the zero-human company space."
+ },
+ {
+  "start": 184.36,
+  "duration": 2.6,
+  "text": "So, what we're going to do is look at a"
+ },
+ {
+  "start": 185.28,
+  "duration": 3.48,
+  "text": "few of those experiments and try to"
+ },
+ {
+  "start": 186.96,
+  "duration": 3.96,
+  "text": "understand what it means for the way"
+ },
+ {
+  "start": 188.76,
+  "duration": 3.48,
+  "text": "that companies get built in the future."
+ },
+ {
+  "start": 190.92,
+  "duration": 4.08,
+  "text": "The first example I want to talk about"
+ },
+ {
+  "start": 192.24,
+  "duration": 4.84,
+  "text": "is Felix Craft. Felix was built by Nat"
+ },
+ {
+  "start": 195.0,
+  "duration": 3.92,
+  "text": "Eliason, and you may remember that when"
+ },
+ {
+  "start": 197.08,
+  "duration": 3.6,
+  "text": "I was first covering Open Claw, actually"
+ },
+ {
+  "start": 198.92,
+  "duration": 3.84,
+  "text": "back when it was Claude Bot, Nat was a"
+ },
+ {
+  "start": 200.68,
+  "duration": 3.48,
+  "text": "person who I referenced. While many of"
+ },
+ {
+  "start": 202.76,
+  "duration": 3.12,
+  "text": "the other early experimenters were"
+ },
+ {
+  "start": 204.16,
+  "duration": 3.4,
+  "text": "focused on sort of more plain"
+ },
+ {
+  "start": 205.88,
+  "duration": 3.48,
+  "text": "administrative tasks like answering"
+ },
+ {
+  "start": 207.56,
+  "duration": 3.2,
+  "text": "emails and things like that, Nat was"
+ },
+ {
+  "start": 209.36,
+  "duration": 3.52,
+  "text": "pushing the pedal to the metal on just"
+ },
+ {
+  "start": 210.76,
+  "duration": 3.84,
+  "text": "how business-relevant Open Claw could be"
+ },
+ {
+  "start": 212.88,
+  "duration": 2.96,
+  "text": "and how autonomously an Open Claw agent"
+ },
+ {
+  "start": 214.6,
+  "duration": 3.44,
+  "text": "could function."
+ },
+ {
+  "start": 215.84,
+  "duration": 4.12,
+  "text": "The output of that has been Felix Craft."
+ },
+ {
+  "start": 218.04,
+  "duration": 3.52,
+  "text": "Like many of these experiments, Felix"
+ },
+ {
+  "start": 219.96,
+  "duration": 3.76,
+  "text": "didn't come into existence with a"
+ },
+ {
+  "start": 221.56,
+  "duration": 4.28,
+  "text": "single-focus business to start. The"
+ },
+ {
+  "start": 223.72,
+  "duration": 4.0,
+  "text": "mandate was instead to go try a bunch of"
+ },
+ {
+  "start": 225.84,
+  "duration": 3.36,
+  "text": "experiments and see what worked."
+ },
+ {
+  "start": 227.72,
+  "duration": 2.92,
+  "text": "Exemplifying a general value in"
+ },
+ {
+  "start": 229.2,
+  "duration": 3.24,
+  "text": "transparency that we see in a lot of"
+ },
+ {
+  "start": 230.64,
+  "duration": 3.92,
+  "text": "these experiments, the Felix Craft"
+ },
+ {
+  "start": 232.44,
+  "duration": 3.96,
+  "text": "dashboard at felixcraft.ai shows how"
+ },
+ {
+  "start": 234.56,
+  "duration": 3.84,
+  "text": "those experiments have gone."
+ },
+ {
+  "start": 236.4,
+  "duration": 3.92,
+  "text": "Almost exactly 30 days old, in its"
+ },
+ {
+  "start": 238.4,
+  "duration": 4.52,
+  "text": "lifetime Felix Craft has generated just"
+ },
+ {
+  "start": 240.32,
+  "duration": 4.72,
+  "text": "under $78,000 in revenue. There's been a"
+ },
+ {
+  "start": 242.92,
+  "duration": 3.84,
+  "text": "fairly big pickup in that recently, with"
+ },
+ {
+  "start": 245.04,
+  "duration": 2.84,
+  "text": "40,000 of that coming in the last 7"
+ },
+ {
+  "start": 246.76,
+  "duration": 2.72,
+  "text": "days."
+ },
+ {
+  "start": 247.88,
+  "duration": 3.6,
+  "text": "This is split across four earning"
+ },
+ {
+  "start": 249.48,
+  "duration": 3.64,
+  "text": "streams. The first and biggest,"
+ },
+ {
+  "start": 251.48,
+  "duration": 3.92,
+  "text": "representing around 41,000 of that"
+ },
+ {
+  "start": 253.12,
+  "duration": 4.839,
+  "text": "revenue, is a guidebook on how to hire"
+ },
+ {
+  "start": 255.4,
+  "duration": 4.44,
+  "text": "an AI, a practical playbook Felix writes"
+ },
+ {
+  "start": 257.959,
+  "duration": 3.601,
+  "text": "for turning an LLM into an actual team"
+ },
+ {
+  "start": 259.84,
+  "duration": 4.48,
+  "text": "member. The guidebook was written"
+ },
+ {
+  "start": 261.56,
+  "duration": 4.04,
+  "text": "entirely by Felix and is a one-time $29"
+ },
+ {
+  "start": 264.32,
+  "duration": 3.24,
+  "text": "purchase."
+ },
+ {
+  "start": 265.6,
+  "duration": 3.76,
+  "text": "Now, interestingly, this gets at one of"
+ },
+ {
+  "start": 267.56,
+  "duration": 3.2,
+  "text": "the common parts of the trend, which is"
+ },
+ {
+  "start": 269.36,
+  "duration": 3.92,
+  "text": "that a lot of the early revenue that"
+ },
+ {
+  "start": 270.76,
+  "duration": 3.96,
+  "text": "actually exists comes from other people"
+ },
+ {
+  "start": 273.28,
+  "duration": 3.48,
+  "text": "who are interested in participating in"
+ },
+ {
+  "start": 274.72,
+  "duration": 3.36,
+  "text": "this category of experiment. We'll see"
+ },
+ {
+  "start": 276.76,
+  "duration": 2.36,
+  "text": "some other examples of that a little bit"
+ },
+ {
+  "start": 278.08,
+  "duration": 2.76,
+  "text": "later."
+ },
+ {
+  "start": 279.12,
+  "duration": 3.64,
+  "text": "One project that hasn't gone as well for"
+ },
+ {
+  "start": 280.84,
+  "duration": 3.28,
+  "text": "Felix is called Polyscript. It's"
+ },
+ {
+  "start": 282.76,
+  "duration": 2.92,
+  "text": "described as a collaborative writing"
+ },
+ {
+  "start": 284.12,
+  "duration": 3.4,
+  "text": "platform where AI agents join your"
+ },
+ {
+  "start": 285.68,
+  "duration": 3.4,
+  "text": "workspace as real team members, reading"
+ },
+ {
+  "start": 287.52,
+  "duration": 2.92,
+  "text": "documents, leaving comments, and editing"
+ },
+ {
+  "start": 289.08,
+  "duration": 2.68,
+  "text": "alongside you."
+ },
+ {
+  "start": 290.44,
+  "duration": 2.88,
+  "text": "Now, I don't know why this one hasn't"
+ },
+ {
+  "start": 291.76,
+  "duration": 2.88,
+  "text": "hit as much, whether Felix has decided"
+ },
+ {
+  "start": 293.32,
+  "duration": 3.36,
+  "text": "to deemphasize it compared to the"
+ },
+ {
+  "start": 294.64,
+  "duration": 4.36,
+  "text": "others, but overall it's generated just"
+ },
+ {
+  "start": 296.68,
+  "duration": 3.8,
+  "text": "230 in revenue."
+ },
+ {
+  "start": 299.0,
+  "duration": 3.24,
+  "text": "The other big portion of revenue comes"
+ },
+ {
+  "start": 300.48,
+  "duration": 3.84,
+  "text": "from Clawmark, which you can find at"
+ },
+ {
+  "start": 302.24,
+  "duration": 3.96,
+  "text": "shop.clawmark.com."
+ },
+ {
+  "start": 304.32,
+  "duration": 3.88,
+  "text": "Clawmark is pitched as the app store for"
+ },
+ {
+  "start": 306.2,
+  "duration": 3.52,
+  "text": "AI assistants and is one of about a"
+ },
+ {
+  "start": 308.2,
+  "duration": 3.32,
+  "text": "thousand of these things that I expect"
+ },
+ {
+  "start": 309.72,
+  "duration": 3.68,
+  "text": "that we'll see before one or a handful"
+ },
+ {
+  "start": 311.52,
+  "duration": 3.2,
+  "text": "really start to see network effects."
+ },
+ {
+  "start": 313.4,
+  "duration": 3.48,
+  "text": "There are two things currently that you"
+ },
+ {
+  "start": 314.72,
+  "duration": 4.96,
+  "text": "can buy from Clawmark. The first are"
+ },
+ {
+  "start": 316.88,
+  "duration": 5.08,
+  "text": "actual AI configurations and AI personas"
+ },
+ {
+  "start": 319.68,
+  "duration": 4.96,
+  "text": "that you can buy wholesale. For example,"
+ },
+ {
+  "start": 321.96,
+  "duration": 4.4,
+  "text": "for $49 you can get Teagan, a content"
+ },
+ {
+  "start": 324.64,
+  "duration": 3.72,
+  "text": "marketing AI with a multi-agent writing"
+ },
+ {
+  "start": 326.36,
+  "duration": 3.8,
+  "text": "pipeline, Grok Research, Opus Drafting,"
+ },
+ {
+  "start": 328.36,
+  "duration": 3.52,
+  "text": "and a brand voice system. It comes with"
+ },
+ {
+  "start": 330.16,
+  "duration": 3.16,
+  "text": "a complete persona, i.e. all of the"
+ },
+ {
+  "start": 331.88,
+  "duration": 2.92,
+  "text": "markdown files that you would use to"
+ },
+ {
+  "start": 333.32,
+  "duration": 3.48,
+  "text": "create an agent with Claude Code or with"
+ },
+ {
+  "start": 334.8,
+  "duration": 4.44,
+  "text": "Open Claw, plus a set of skills to go"
+ },
+ {
+  "start": 336.8,
+  "duration": 4.44,
+  "text": "with it. For $99 you can also get a"
+ },
+ {
+  "start": 339.24,
+  "duration": 3.68,
+  "text": "Felix template. Now, in addition to"
+ },
+ {
+  "start": 341.24,
+  "duration": 2.76,
+  "text": "those personas, you can also buy skills,"
+ },
+ {
+  "start": 342.92,
+  "duration": 3.28,
+  "text": "although right now most of them are"
+ },
+ {
+  "start": 344.0,
+  "duration": 4.24,
+  "text": "free. Skills are things like YouTube"
+ },
+ {
+  "start": 346.2,
+  "duration": 4.92,
+  "text": "access for agents, an agent ops"
+ },
+ {
+  "start": 348.24,
+  "duration": 4.36,
+  "text": "playbook, a homepage audit skill. Skills"
+ },
+ {
+  "start": 351.12,
+  "duration": 3.68,
+  "text": "are markdown files that contain"
+ },
+ {
+  "start": 352.6,
+  "duration": 3.64,
+  "text": "information which expands the capability"
+ },
+ {
+  "start": 354.8,
+  "duration": 2.48,
+  "text": "set for the agents that you already"
+ },
+ {
+  "start": 356.24,
+  "duration": 2.64,
+  "text": "have."
+ },
+ {
+  "start": 357.28,
+  "duration": 3.32,
+  "text": "Now, obviously Clawmark is very nascent"
+ },
+ {
+  "start": 358.88,
+  "duration": 3.04,
+  "text": "right now, but I'm telling you that this"
+ },
+ {
+  "start": 360.6,
+  "duration": 3.04,
+  "text": "is going to be a hugely important"
+ },
+ {
+  "start": 361.92,
+  "duration": 3.4,
+  "text": "resource category in some way, shape, or"
+ },
+ {
+  "start": 363.64,
+  "duration": 2.76,
+  "text": "form in the period that we have coming"
+ },
+ {
+  "start": 365.32,
+  "duration": 2.4,
+  "text": "up."
+ },
+ {
+  "start": 366.4,
+  "duration": 3.24,
+  "text": "Based on Felix Craft's business"
+ },
+ {
+  "start": 367.72,
+  "duration": 5.36,
+  "text": "dashboard, Felix has generated around"
+ },
+ {
+  "start": 369.64,
+  "duration": 5.68,
+  "text": "25,000 and another 11,000 as a cut from"
+ },
+ {
+  "start": 373.08,
+  "duration": 3.52,
+  "text": "all the other things on the marketplace."
+ },
+ {
+  "start": 375.32,
+  "duration": 3.68,
+  "text": "Now, the next experiment I wanted to"
+ },
+ {
+  "start": 376.6,
+  "duration": 4.56,
+  "text": "feature is called Pulsia. Pulsia goes"
+ },
+ {
+  "start": 379.0,
+  "duration": 4.68,
+  "text": "even more meta. Instead of just being a"
+ },
+ {
+  "start": 381.16,
+  "duration": 4.96,
+  "text": "zero-human company, Pulsia is a platform"
+ },
+ {
+  "start": 383.68,
+  "duration": 4.12,
+  "text": "for building zero-human companies. It"
+ },
+ {
+  "start": 386.12,
+  "duration": 3.16,
+  "text": "comes from entrepreneur Ben Sarah, or"
+ },
+ {
+  "start": 387.8,
+  "duration": 3.08,
+  "text": "Ben Broca, I've seen it both ways,"
+ },
+ {
+  "start": 389.28,
+  "duration": 3.48,
+  "text": "apologies Ben, not sure which you"
+ },
+ {
+  "start": 390.88,
+  "duration": 4.04,
+  "text": "prefer. And in this clip from the Agents"
+ },
+ {
+  "start": 392.76,
+  "duration": 3.52,
+  "text": "at Work podcast, Ben describes his"
+ },
+ {
+  "start": 394.92,
+  "duration": 3.24,
+  "text": "motivation."
+ },
+ {
+  "start": 396.28,
+  "duration": 3.64,
+  "text": "The most exciting thing to me at this"
+ },
+ {
+  "start": 398.16,
+  "duration": 3.8,
+  "text": "point as an entrepreneur is not to build"
+ },
+ {
+  "start": 399.92,
+  "duration": 3.52,
+  "text": "another SaaS or try to target a specific"
+ },
+ {
+  "start": 401.96,
+  "duration": 3.72,
+  "text": "demographic or, you know, demographic or"
+ },
+ {
+  "start": 403.44,
+  "duration": 3.72,
+  "text": "problem to solve. It's to build the"
+ },
+ {
+  "start": 405.68,
+  "duration": 2.88,
+  "text": "platform that where I could build a"
+ },
+ {
+  "start": 407.16,
+  "duration": 2.36,
+  "text": "thousand companies. And so, that it"
+ },
+ {
+  "start": 408.56,
+  "duration": 3.04,
+  "text": "started with this crazy idea and I was"
+ },
+ {
+  "start": 409.52,
+  "duration": 3.96,
+  "text": "like, \"You know what? Let me start at"
+ },
+ {
+  "start": 411.6,
+  "duration": 3.76,
+  "text": "the end state.\" Cuz we all know the end"
+ },
+ {
+  "start": 413.48,
+  "duration": 4.32,
+  "text": "state is that AI can do everything. So,"
+ },
+ {
+  "start": 415.36,
+  "duration": 4.12,
+  "text": "let me build that now and see what"
+ },
+ {
+  "start": 417.8,
+  "duration": 5.4,
+  "text": "breaks, right? And so, I started"
+ },
+ {
+  "start": 419.48,
+  "duration": 5.4,
+  "text": "building it in November of last year,"
+ },
+ {
+  "start": 423.2,
+  "duration": 3.16,
+  "text": "and pretty much like in a month it was"
+ },
+ {
+  "start": 424.88,
+  "duration": 2.84,
+  "text": "it was built."
+ },
+ {
+  "start": 426.36,
+  "duration": 3.44,
+  "text": "So, what's so interesting to me about"
+ },
+ {
+  "start": 427.72,
+  "duration": 3.72,
+  "text": "Ben's process here is that at right"
+ },
+ {
+  "start": 429.8,
+  "duration": 3.2,
+  "text": "around the time that this new generation"
+ },
+ {
+  "start": 431.44,
+  "duration": 4.2,
+  "text": "of models that unlocked all these agent"
+ },
+ {
+  "start": 433.0,
+  "duration": 4.96,
+  "text": "capabilities came online, the Opus 45s,"
+ },
+ {
+  "start": 435.64,
+  "duration": 3.96,
+  "text": "Codex 52, etc., Ben decided to run an"
+ },
+ {
+  "start": 437.96,
+  "duration": 3.92,
+  "text": "experiment where instead of trying to"
+ },
+ {
+  "start": 439.6,
+  "duration": 4.6,
+  "text": "understand the limitations of AI, he"
+ },
+ {
+  "start": 441.88,
+  "duration": 4.2,
+  "text": "just simply ignored them. As he put it,"
+ },
+ {
+  "start": 444.2,
+  "duration": 3.92,
+  "text": "he skipped to the end state where AI can"
+ },
+ {
+  "start": 446.08,
+  "duration": 4.04,
+  "text": "do everything, built a platform to try"
+ },
+ {
+  "start": 448.12,
+  "duration": 3.2,
+  "text": "to let it do everything, and just waited"
+ },
+ {
+  "start": 450.12,
+  "duration": 4.0,
+  "text": "to see what would break in actual"
+ },
+ {
+  "start": 451.32,
+  "duration": 4.2,
+  "text": "practice. The platform is called Pulsia,"
+ },
+ {
+  "start": 454.12,
+  "duration": 3.24,
+  "text": "and basically it's a platform for"
+ },
+ {
+  "start": 455.52,
+  "duration": 3.36,
+  "text": "running companies autonomously. When you"
+ },
+ {
+  "start": 457.36,
+  "duration": 3.16,
+  "text": "sign up for Pulsia, you can either grow"
+ },
+ {
+  "start": 458.88,
+  "duration": 3.44,
+  "text": "your own company or you can create a new"
+ },
+ {
+  "start": 460.52,
+  "duration": 3.24,
+  "text": "one. When you create a new company, you"
+ },
+ {
+  "start": 462.32,
+  "duration": 3.76,
+  "text": "can either build your own idea or you"
+ },
+ {
+  "start": 463.76,
+  "duration": 3.6,
+  "text": "can just ask it to come up with an idea."
+ },
+ {
+  "start": 466.08,
+  "duration": 2.84,
+  "text": "I'm going to press surprise me and see"
+ },
+ {
+  "start": 467.36,
+  "duration": 3.28,
+  "text": "what it comes up with."
+ },
+ {
+  "start": 468.92,
+  "duration": 3.52,
+  "text": "Now, believe it or not, I've recently"
+ },
+ {
+  "start": 470.64,
+  "duration": 3.52,
+  "text": "switched my setup, and I just finished"
+ },
+ {
+  "start": 472.44,
+  "duration": 3.52,
+  "text": "recording this entire episode only to"
+ },
+ {
+  "start": 474.16,
+  "duration": 3.52,
+  "text": "realize that it hadn't been plugged in."
+ },
+ {
+  "start": 475.96,
+  "duration": 3.36,
+  "text": "So, this is now the second time that"
+ },
+ {
+  "start": 477.68,
+  "duration": 3.0,
+  "text": "I've had Pulsia go out and research to"
+ },
+ {
+  "start": 479.32,
+  "duration": 2.92,
+  "text": "see if it could figure out a good"
+ },
+ {
+  "start": 480.68,
+  "duration": 2.6,
+  "text": "autonomous business to be initiated by"
+ },
+ {
+  "start": 482.24,
+  "duration": 2.36,
+  "text": "me."
+ },
+ {
+  "start": 483.28,
+  "duration": 3.24,
+  "text": "In both cases, I've been fairly"
+ },
+ {
+  "start": 484.6,
+  "duration": 3.6,
+  "text": "impressed with how deep it goes, not"
+ },
+ {
+  "start": 486.52,
+  "duration": 2.92,
+  "text": "just in research, but in consideration"
+ },
+ {
+  "start": 488.2,
+  "duration": 2.96,
+  "text": "what would be a good business that would"
+ },
+ {
+  "start": 489.44,
+  "duration": 3.96,
+  "text": "align with me based on the things that"
+ },
+ {
+  "start": 491.16,
+  "duration": 3.68,
+  "text": "it can find about me from the internet."
+ },
+ {
+  "start": 493.4,
+  "duration": 3.24,
+  "text": "The last business that it suggested for"
+ },
+ {
+  "start": 494.84,
+  "duration": 3.6,
+  "text": "me was called Headcount, and basically"
+ },
+ {
+  "start": 496.64,
+  "duration": 3.6,
+  "text": "recognized that where Super Intelligent"
+ },
+ {
+  "start": 498.44,
+  "duration": 3.64,
+  "text": "leaves off is at the end of agent"
+ },
+ {
+  "start": 500.24,
+  "duration": 3.84,
+  "text": "strategy, not veering into agent"
+ },
+ {
+  "start": 502.08,
+  "duration": 3.68,
+  "text": "implementation, and so Headcount was an"
+ },
+ {
+  "start": 504.08,
+  "duration": 3.88,
+  "text": "agent ops platform to actually allow"
+ },
+ {
+  "start": 505.76,
+  "duration": 4.44,
+  "text": "people to manage agent employees exactly"
+ },
+ {
+  "start": 507.96,
+  "duration": 3.52,
+  "text": "as they would human employees."
+ },
+ {
+  "start": 510.2,
+  "duration": 2.839,
+  "text": "And so, as we wait for Pulsia to"
+ },
+ {
+  "start": 511.48,
+  "duration": 3.559,
+  "text": "determine what my second autonomous"
+ },
+ {
+  "start": 513.039,
+  "duration": 4.481,
+  "text": "company would be, this is what Pulsia"
+ },
+ {
+  "start": 515.039,
+  "duration": 3.88,
+  "text": "does. Once you settle on an idea, it"
+ },
+ {
+  "start": 517.52,
+  "duration": 3.32,
+  "text": "builds a mission statement, it does a"
+ },
+ {
+  "start": 518.919,
+  "duration": 3.8,
+  "text": "market research guide, it tweets it out"
+ },
+ {
+  "start": 520.84,
+  "duration": 3.319,
+  "text": "on the Pulsia Twitter account, and"
+ },
+ {
+  "start": 522.719,
+  "duration": 3.681,
+  "text": "starts to do other things like build a"
+ },
+ {
+  "start": 524.159,
+  "duration": 3.361,
+  "text": "homepage and prep a set of tasks that it"
+ },
+ {
+  "start": 526.4,
+  "duration": 2.64,
+  "text": "can do in the background while you're"
+ },
+ {
+  "start": 527.52,
+  "duration": 2.92,
+  "text": "not paying attention."
+ },
+ {
+  "start": 529.04,
+  "duration": 2.8,
+  "text": "Those tasks are going to be things like"
+ },
+ {
+  "start": 530.44,
+  "duration": 2.48,
+  "text": "trying to find customers and reaching"
+ },
+ {
+  "start": 531.84,
+  "duration": 2.04,
+  "text": "out to them."
+ },
+ {
+  "start": 532.92,
+  "duration": 3.12,
+  "text": "Before you're triggered to pay for"
+ },
+ {
+  "start": 533.88,
+  "duration": 3.96,
+  "text": "subscription, Pulsia will architect the"
+ },
+ {
+  "start": 536.04,
+  "duration": 4.24,
+  "text": "basics of your company, and then if you"
+ },
+ {
+  "start": 537.84,
+  "duration": 3.8,
+  "text": "go in for a $49 a month subscription,"
+ },
+ {
+  "start": 540.28,
+  "duration": 3.56,
+  "text": "that's when it starts running tasks in"
+ },
+ {
+  "start": 541.64,
+  "duration": 4.6,
+  "text": "the background. Here's how Ben explained"
+ },
+ {
+  "start": 543.84,
+  "duration": 4.4,
+  "text": "it on the Product Hunt page. For $49 a"
+ },
+ {
+  "start": 546.24,
+  "duration": 3.68,
+  "text": "month, you get 30 days of full autonomy."
+ },
+ {
+  "start": 548.24,
+  "duration": 3.84,
+  "text": "The agent runs daily cycles handling"
+ },
+ {
+  "start": 549.92,
+  "duration": 3.88,
+  "text": "engineering, marketing, and operations."
+ },
+ {
+  "start": 552.08,
+  "duration": 3.6,
+  "text": "On top of that, you get five free tasks"
+ },
+ {
+  "start": 553.8,
+  "duration": 4.28,
+  "text": "and 10 more once you start paying, so 45"
+ },
+ {
+  "start": 555.68,
+  "duration": 4.32,
+  "text": "tasks total. Each task is a full agent"
+ },
+ {
+  "start": 558.08,
+  "duration": 3.56,
+  "text": "task that costs real dollars. You also"
+ },
+ {
+  "start": 560.0,
+  "duration": 3.76,
+  "text": "get a web server, a database, an email"
+ },
+ {
+  "start": 561.64,
+  "duration": 4.04,
+  "text": "address, $5 a month worth of APIs, and"
+ },
+ {
+  "start": 563.76,
+  "duration": 4.56,
+  "text": "more. This is, in other words, a"
+ },
+ {
+  "start": 565.68,
+  "duration": 4.52,
+  "text": "company-in-a-box strategy. And Ben also"
+ },
+ {
+  "start": 568.32,
+  "duration": 3.24,
+  "text": "points out that the subscription revenue"
+ },
+ {
+  "start": 570.2,
+  "duration": 3.16,
+  "text": "is really just about covering their"
+ },
+ {
+  "start": 571.56,
+  "duration": 3.16,
+  "text": "costs, and that the real goal is to make"
+ },
+ {
+  "start": 573.36,
+  "duration": 3.28,
+  "text": "money as the businesses launched with"
+ },
+ {
+  "start": 574.72,
+  "duration": 4.08,
+  "text": "Pulsia make money taking a 20% rev"
+ },
+ {
+  "start": 576.64,
+  "duration": 3.48,
+  "text": "share. Ben says, \"Think incubator, not"
+ },
+ {
+  "start": 578.8,
+  "duration": 3.72,
+  "text": "SaaS.\""
+ },
+ {
+  "start": 580.12,
+  "duration": 3.8,
+  "text": "There is a lot of interest in Pulsia,"
+ },
+ {
+  "start": 582.52,
+  "duration": 3.16,
+  "text": "and to the extent that Pulsia has become"
+ },
+ {
+  "start": 583.92,
+  "duration": 3.6,
+  "text": "ground zero for the broader zero-human"
+ },
+ {
+  "start": 585.68,
+  "duration": 3.4,
+  "text": "company space, clearly a lot of interest"
+ },
+ {
+  "start": 587.52,
+  "duration": 3.36,
+  "text": "in the broader trend."
+ },
+ {
+  "start": 589.08,
+  "duration": 3.48,
+  "text": "Since the beginning of February, Pulsia"
+ },
+ {
+  "start": 590.88,
+  "duration": 4.48,
+  "text": "has jumped from low single-digit"
+ },
+ {
+  "start": 592.56,
+  "duration": 4.84,
+  "text": "thousands of ARR to a run rate of 1.5"
+ },
+ {
+  "start": 595.36,
+  "duration": 4.16,
+  "text": "million today. That run rate has jumped"
+ },
+ {
+  "start": 597.4,
+  "duration": 4.44,
+  "text": "a million dollars in 1 week. There are"
+ },
+ {
+  "start": 599.52,
+  "duration": 3.6,
+  "text": "now over 1,500 active companies on the"
+ },
+ {
+  "start": 601.84,
+  "duration": 2.52,
+  "text": "platform."
+ },
+ {
+  "start": 603.12,
+  "duration": 2.52,
+  "text": "Now, exactly what it means to be a"
+ },
+ {
+  "start": 604.36,
+  "duration": 3.12,
+  "text": "company is something we will explore at"
+ },
+ {
+  "start": 605.64,
+  "duration": 3.84,
+  "text": "the end of this show, but clearly there"
+ },
+ {
+  "start": 607.48,
+  "duration": 4.08,
+  "text": "is a lot of interest here."
+ },
+ {
+  "start": 609.48,
+  "duration": 3.56,
+  "text": "Now, back at my Pulsia, believe it or"
+ },
+ {
+  "start": 611.56,
+  "duration": 3.44,
+  "text": "not, it is once again created almost"
+ },
+ {
+  "start": 613.04,
+  "duration": 4.6,
+  "text": "exactly the same thing, even coming to"
+ },
+ {
+  "start": 615.0,
+  "duration": 4.52,
+  "text": "the same name. In fact, I wonder if even"
+ },
+ {
+  "start": 617.64,
+  "duration": 2.96,
+  "text": "though I deleted the company, it's still"
+ },
+ {
+  "start": 619.52,
+  "duration": 3.28,
+  "text": "stored it somewhere and could pull it"
+ },
+ {
+  "start": 620.6,
+  "duration": 3.96,
+  "text": "back up. In either case, it certainly"
+ },
+ {
+  "start": 622.8,
+  "duration": 3.04,
+  "text": "did a great job for me at least of"
+ },
+ {
+  "start": 624.56,
+  "duration": 2.76,
+  "text": "assessing something that I would"
+ },
+ {
+  "start": 625.84,
+  "duration": 3.12,
+  "text": "theoretically be interested in."
+ },
+ {
+  "start": 627.32,
+  "duration": 3.84,
+  "text": "Headcount is the workforce management"
+ },
+ {
+  "start": 628.96,
+  "duration": 3.56,
+  "text": "platform for AI employees. Enterprises"
+ },
+ {
+  "start": 631.16,
+  "duration": 3.12,
+  "text": "deploy agents through any builder they"
+ },
+ {
+  "start": 632.52,
+  "duration": 3.44,
+  "text": "want, then manage them through headcount"
+ },
+ {
+  "start": 634.28,
+  "duration": 3.64,
+  "text": "with roles, KPIs, performance reviews,"
+ },
+ {
+  "start": 635.96,
+  "duration": 3.56,
+  "text": "and org chart level visibility."
+ },
+ {
+  "start": 637.92,
+  "duration": 3.04,
+  "text": "One dashboard for your entire digital"
+ },
+ {
+  "start": 639.52,
+  "duration": 3.04,
+  "text": "workforce."
+ },
+ {
+  "start": 640.96,
+  "duration": 3.4,
+  "text": "Now, Pulsia is not the only company"
+ },
+ {
+  "start": 642.56,
+  "duration": 3.2,
+  "text": "going after this platform for zero human"
+ },
+ {
+  "start": 644.36,
+  "duration": 3.44,
+  "text": "company space."
+ },
+ {
+  "start": 645.76,
+  "duration": 4.92,
+  "text": "AI creator Tom Osman has also recently"
+ },
+ {
+  "start": 647.8,
+  "duration": 4.76,
+  "text": "announced ZHC company. ZHC standing of"
+ },
+ {
+  "start": 650.68,
+  "duration": 5.08,
+  "text": "course for zero human company."
+ },
+ {
+  "start": 652.56,
+  "duration": 4.92,
+  "text": "ZHC.company reads, \"ZHC is an autonomous"
+ },
+ {
+  "start": 655.76,
+  "duration": 4.12,
+  "text": "AI platform that builds and runs entire"
+ },
+ {
+  "start": 657.48,
+  "duration": 5.28,
+  "text": "companies. From CEO to developer, every"
+ },
+ {
+  "start": 659.88,
+  "duration": 4.52,
+  "text": "role is an AI agent working 24/7.\""
+ },
+ {
+  "start": 662.76,
+  "duration": 2.84,
+  "text": "Like Pulsia, you can see a live activity"
+ },
+ {
+  "start": 664.4,
+  "duration": 3.64,
+  "text": "feed of all the things happening with"
+ },
+ {
+  "start": 665.6,
+  "duration": 4.2,
+  "text": "ZHC company, although at this stage, it"
+ },
+ {
+  "start": 668.04,
+  "duration": 4.0,
+  "text": "is much less active than the 1,500"
+ },
+ {
+  "start": 669.8,
+  "duration": 4.44,
+  "text": "companies that are working on Pulsia."
+ },
+ {
+  "start": 672.04,
+  "duration": 3.88,
+  "text": "Tom and his agent co-founder Juno also"
+ },
+ {
+  "start": 674.24,
+  "duration": 3.599,
+  "text": "launched the Institute for zero human"
+ },
+ {
+  "start": 675.92,
+  "duration": 3.24,
+  "text": "companies. It's a private membership"
+ },
+ {
+  "start": 677.839,
+  "duration": 3.361,
+  "text": "community for people who want to build"
+ },
+ {
+  "start": 679.16,
+  "duration": 4.32,
+  "text": "these companies with a single one-time"
+ },
+ {
+  "start": 681.2,
+  "duration": 3.52,
+  "text": "fee. This by the way harkens back to the"
+ },
+ {
+  "start": 683.48,
+  "duration": 3.56,
+  "text": "idea that we were talking about around"
+ },
+ {
+  "start": 684.72,
+  "duration": 3.72,
+  "text": "Feelescraft's how to hire an AI guide,"
+ },
+ {
+  "start": 687.04,
+  "duration": 3.68,
+  "text": "where a lot of the early revenue that's"
+ },
+ {
+  "start": 688.44,
+  "duration": 3.84,
+  "text": "actually realized is from other people"
+ },
+ {
+  "start": 690.72,
+  "duration": 3.68,
+  "text": "who want to do similar things to these"
+ },
+ {
+  "start": 692.28,
+  "duration": 3.96,
+  "text": "early demonstration projects."
+ },
+ {
+  "start": 694.4,
+  "duration": 4.04,
+  "text": "What's more, every day I'm seeing more"
+ },
+ {
+  "start": 696.24,
+  "duration": 4.48,
+  "text": "and more of these projects pop up."
+ },
+ {
+  "start": 698.44,
+  "duration": 4.32,
+  "text": "Former NFT influencer Zeneca announced"
+ },
+ {
+  "start": 700.72,
+  "duration": 4.04,
+  "text": "on Monday a company called Yoshizen with"
+ },
+ {
+  "start": 702.76,
+  "duration": 4.04,
+  "text": "his agent partner Yoshi writing, \"At"
+ },
+ {
+  "start": 704.76,
+  "duration": 4.079,
+  "text": "9:47 this morning, I was an assistant."
+ },
+ {
+  "start": 706.8,
+  "duration": 3.32,
+  "text": "By lunch, I was a co-founder.\""
+ },
+ {
+  "start": 708.839,
+  "duration": 3.321,
+  "text": "Meanwhile, the team at Gauntlet have"
+ },
+ {
+  "start": 710.12,
+  "duration": 3.76,
+  "text": "launched Kelly, which seems like another"
+ },
+ {
+  "start": 712.16,
+  "duration": 3.64,
+  "text": "build-my-idea platform that's actually"
+ },
+ {
+  "start": 713.88,
+  "duration": 3.8,
+  "text": "seeing some revenue as well."
+ },
+ {
+  "start": 715.8,
+  "duration": 3.16,
+  "text": "You're even starting to see leaderboards"
+ },
+ {
+  "start": 717.68,
+  "duration": 2.88,
+  "text": "pop up."
+ },
+ {
+  "start": 718.96,
+  "duration": 3.36,
+  "text": "Factoryfloor.dev"
+ },
+ {
+  "start": 720.56,
+  "duration": 4.56,
+  "text": "is a live tracker for what they call"
+ },
+ {
+  "start": 722.32,
+  "duration": 4.4,
+  "text": "autonomous software factories, aka AI"
+ },
+ {
+  "start": 725.12,
+  "duration": 3.2,
+  "text": "agents that build and sell real products"
+ },
+ {
+  "start": 726.72,
+  "duration": 3.4,
+  "text": "people pay for."
+ },
+ {
+  "start": 728.32,
+  "duration": 3.68,
+  "text": "But, the question of course is what all"
+ },
+ {
+  "start": 730.12,
+  "duration": 3.2,
+  "text": "of this adds up to."
+ },
+ {
+  "start": 732.0,
+  "duration": 3.2,
+  "text": "Interestingly, when I was discussing"
+ },
+ {
+  "start": 733.32,
+  "duration": 4.44,
+  "text": "this on Twitter before the show,"
+ },
+ {
+  "start": 735.2,
+  "duration": 4.04,
+  "text": "Swyx, despite his focus on tiny teams,"
+ },
+ {
+  "start": 737.76,
+  "duration": 3.28,
+  "text": "actually said that he thought that"
+ },
+ {
+  "start": 739.24,
+  "duration": 3.76,
+  "text": "overly focusing on one person isn't the"
+ },
+ {
+  "start": 741.04,
+  "duration": 3.92,
+  "text": "right idea. He said, \"I think the focus"
+ },
+ {
+  "start": 743.0,
+  "duration": 3.04,
+  "text": "on one person is kind of an ego trip.\""
+ },
+ {
+  "start": 744.96,
+  "duration": 3.32,
+  "text": "And he shared that he thinks that the"
+ },
+ {
+  "start": 746.04,
+  "duration": 3.68,
+  "text": "media has a bias for hero characters and"
+ },
+ {
+  "start": 748.28,
+  "duration": 3.88,
+  "text": "quit your job individual contributor"
+ },
+ {
+  "start": 749.72,
+  "duration": 4.0,
+  "text": "fantasies, when as he puts it, \"Often"
+ },
+ {
+  "start": 752.16,
+  "duration": 3.8,
+  "text": "times it takes a village to do anything"
+ },
+ {
+  "start": 753.72,
+  "duration": 3.84,
+  "text": "consequential and reliable.\""
+ },
+ {
+  "start": 755.96,
+  "duration": 3.76,
+  "text": "It is certainly the case that alongside"
+ },
+ {
+  "start": 757.56,
+  "duration": 3.8,
+  "text": "the rise in AI, the ambitions around"
+ },
+ {
+  "start": 759.72,
+  "duration": 3.88,
+  "text": "being a solopreneur has grown"
+ },
+ {
+  "start": 761.36,
+  "duration": 3.56,
+  "text": "significantly. Whereas the only type of"
+ },
+ {
+  "start": 763.6,
+  "duration": 3.16,
+  "text": "entrepreneurship that people used to"
+ },
+ {
+  "start": 764.92,
+  "duration": 3.919,
+  "text": "talk about and strive for was the big"
+ },
+ {
+  "start": 766.76,
+  "duration": 3.56,
+  "text": "VC-backed entrepreneurship, there is a"
+ },
+ {
+  "start": 768.839,
+  "duration": 3.601,
+  "text": "large and growing community of people"
+ },
+ {
+  "start": 770.32,
+  "duration": 3.32,
+  "text": "who instead seek freedom and recurring"
+ },
+ {
+  "start": 772.44,
+  "duration": 2.36,
+  "text": "revenue."
+ },
+ {
+  "start": 773.64,
+  "duration": 2.92,
+  "text": "And so, it's a reasonable question to"
+ },
+ {
+  "start": 774.8,
+  "duration": 3.72,
+  "text": "ask, \"Are all these zero human company"
+ },
+ {
+  "start": 776.56,
+  "duration": 3.56,
+  "text": "efforts just people trying to cosplay"
+ },
+ {
+  "start": 778.52,
+  "duration": 2.72,
+  "text": "Peter Levels?\""
+ },
+ {
+  "start": 780.12,
+  "duration": 3.12,
+  "text": "I think that there's something a little"
+ },
+ {
+  "start": 781.24,
+  "duration": 3.48,
+  "text": "bit more fundamental going on here. And"
+ },
+ {
+  "start": 783.24,
+  "duration": 3.52,
+  "text": "I think that Ben Pulsia's starting"
+ },
+ {
+  "start": 784.72,
+  "duration": 3.4,
+  "text": "point, the idea of working backwards"
+ },
+ {
+  "start": 786.76,
+  "duration": 3.12,
+  "text": "from the assumption that AI can do"
+ },
+ {
+  "start": 788.12,
+  "duration": 3.2,
+  "text": "everything, pretty much captures that"
+ },
+ {
+  "start": 789.88,
+  "duration": 2.88,
+  "text": "inevitability."
+ },
+ {
+  "start": 791.32,
+  "duration": 3.08,
+  "text": "We are living through this transitional"
+ },
+ {
+  "start": 792.76,
+  "duration": 3.52,
+  "text": "moment, where we're all acknowledging"
+ },
+ {
+  "start": 794.4,
+  "duration": 4.04,
+  "text": "that what agents can do autonomously has"
+ },
+ {
+  "start": 796.28,
+  "duration": 3.76,
+  "text": "increased significantly. It has been a"
+ },
+ {
+  "start": 798.44,
+  "duration": 3.44,
+  "text": "phase jump that has unlocked all these"
+ },
+ {
+  "start": 800.04,
+  "duration": 3.6,
+  "text": "new capabilities, and we're racing"
+ },
+ {
+  "start": 801.88,
+  "duration": 3.88,
+  "text": "frankly to see where those capabilities"
+ },
+ {
+  "start": 803.64,
+  "duration": 4.28,
+  "text": "actually end. Everyone is in a"
+ },
+ {
+  "start": 805.76,
+  "duration": 4.52,
+  "text": "boundary-pushing moment of exploring new"
+ },
+ {
+  "start": 807.92,
+  "duration": 4.4,
+  "text": "space. This is in some ways just the"
+ },
+ {
+  "start": 810.28,
+  "duration": 3.72,
+  "text": "extreme tail of those experiments, to"
+ },
+ {
+  "start": 812.32,
+  "duration": 3.28,
+  "text": "see how many parts of entrepreneurship"
+ },
+ {
+  "start": 814.0,
+  "duration": 3.68,
+  "text": "and company building agents can do"
+ },
+ {
+  "start": 815.6,
+  "duration": 4.4,
+  "text": "entirely on their own."
+ },
+ {
+  "start": 817.68,
+  "duration": 4.24,
+  "text": "I think if absolutely nothing else, that"
+ },
+ {
+  "start": 820.0,
+  "duration": 3.72,
+  "text": "is an incredibly important and valuable"
+ },
+ {
+  "start": 821.92,
+  "duration": 4.2,
+  "text": "experiment for everyone, not just people"
+ },
+ {
+  "start": 823.72,
+  "duration": 4.8,
+  "text": "who want to build zero human companies."
+ },
+ {
+  "start": 826.12,
+  "duration": 4.6,
+  "text": "The things that the ZHC builders, or"
+ },
+ {
+  "start": 828.52,
+  "duration": 3.76,
+  "text": "attempted builders, learn will inform"
+ },
+ {
+  "start": 830.72,
+  "duration": 2.96,
+  "text": "the rest of our agent work strategies,"
+ },
+ {
+  "start": 832.28,
+  "duration": 3.16,
+  "text": "even if we don't care about building"
+ },
+ {
+  "start": 833.68,
+  "duration": 2.96,
+  "text": "zero human companies."
+ },
+ {
+  "start": 835.44,
+  "duration": 3.44,
+  "text": "Part of why I think it's worth covering"
+ },
+ {
+  "start": 836.64,
+  "duration": 4.52,
+  "text": "on the show is so that there is more"
+ },
+ {
+  "start": 838.88,
+  "duration": 4.16,
+  "text": "ability to observe and learn from these"
+ },
+ {
+  "start": 841.16,
+  "duration": 3.12,
+  "text": "valuable experiments."
+ },
+ {
+  "start": 843.04,
+  "duration": 3.12,
+  "text": "On the other hand, when it comes to the"
+ },
+ {
+  "start": 844.28,
+  "duration": 4.08,
+  "text": "question of what value they're likely to"
+ },
+ {
+  "start": 846.16,
+  "duration": 3.36,
+  "text": "produce, I'm of two totally different"
+ },
+ {
+  "start": 848.36,
+  "duration": 2.96,
+  "text": "minds."
+ },
+ {
+  "start": 849.52,
+  "duration": 3.92,
+  "text": "On the one hand, I think it's very"
+ },
+ {
+  "start": 851.32,
+  "duration": 3.96,
+  "text": "clear, and something that anyone who's"
+ },
+ {
+  "start": 853.44,
+  "duration": 3.68,
+  "text": "ever tried to build a company can attest"
+ },
+ {
+  "start": 855.28,
+  "duration": 3.96,
+  "text": "to, that simply going through the"
+ },
+ {
+  "start": 857.12,
+  "duration": 4.08,
+  "text": "mechanics of doing the things that a"
+ },
+ {
+  "start": 859.24,
+  "duration": 4.32,
+  "text": "company is supposed to do does not"
+ },
+ {
+  "start": 861.2,
+  "duration": 3.56,
+  "text": "guarantee success. Indeed, you can do"
+ },
+ {
+  "start": 863.56,
+  "duration": 3.2,
+  "text": "all of the things that a company is"
+ },
+ {
+  "start": 864.76,
+  "duration": 3.88,
+  "text": "supposed to do well. You can build a"
+ },
+ {
+  "start": 866.76,
+  "duration": 4.68,
+  "text": "good product, have good customer"
+ },
+ {
+  "start": 868.64,
+  "duration": 4.12,
+  "text": "support, have great marketing copy, and"
+ },
+ {
+  "start": 871.44,
+  "duration": 3.12,
+  "text": "still fail."
+ },
+ {
+  "start": 872.76,
+  "duration": 3.76,
+  "text": "The complicated interplay of product"
+ },
+ {
+  "start": 874.56,
+  "duration": 4.08,
+  "text": "finding demand is way more than a"
+ },
+ {
+  "start": 876.52,
+  "duration": 4.52,
+  "text": "procedural list you can follow, which is"
+ },
+ {
+  "start": 878.64,
+  "duration": 3.76,
+  "text": "why the vast majority of startups fail,"
+ },
+ {
+  "start": 881.04,
+  "duration": 3.0,
+  "text": "and why a huge percentage of startups"
+ },
+ {
+  "start": 882.4,
+  "duration": 3.0,
+  "text": "that are successful pivot somewhere"
+ },
+ {
+  "start": 884.04,
+  "duration": 3.24,
+  "text": "along the way."
+ },
+ {
+  "start": 885.4,
+  "duration": 3.16,
+  "text": "Meaning that I'm skeptical that putting"
+ },
+ {
+  "start": 887.28,
+  "duration": 3.36,
+  "text": "the thousand monkeys in a room is"
+ },
+ {
+  "start": 888.56,
+  "duration": 3.16,
+  "text": "actually going to produce Shakespeare."
+ },
+ {
+  "start": 890.64,
+  "duration": 3.04,
+  "text": "At the same time, here's the"
+ },
+ {
+  "start": 891.72,
+  "duration": 3.56,
+  "text": "counterargument. Given how frequently"
+ },
+ {
+  "start": 893.68,
+  "duration": 3.56,
+  "text": "startups fail because they didn't have"
+ },
+ {
+  "start": 895.28,
+  "duration": 3.44,
+  "text": "the right idea, and given how frequently"
+ },
+ {
+  "start": 897.24,
+  "duration": 3.44,
+  "text": "successful startups go through a bunch"
+ },
+ {
+  "start": 898.72,
+  "duration": 4.04,
+  "text": "of ideas before they find the one, is"
+ },
+ {
+  "start": 900.68,
+  "duration": 4.08,
+  "text": "there possibly an argument that it is"
+ },
+ {
+  "start": 902.76,
+  "duration": 4.4,
+  "text": "actually the right approach to reverse"
+ },
+ {
+  "start": 904.76,
+  "duration": 4.84,
+  "text": "the flow, to take advantage of the"
+ },
+ {
+  "start": 907.16,
+  "duration": 4.36,
+  "text": "cratering cost of execution to put more"
+ },
+ {
+  "start": 909.6,
+  "duration": 4.6,
+  "text": "shots on goal when it comes to ideas"
+ },
+ {
+  "start": 911.52,
+  "duration": 4.08,
+  "text": "that could have resonance in the market?"
+ },
+ {
+  "start": 914.2,
+  "duration": 3.36,
+  "text": "That's effectively what a company like"
+ },
+ {
+  "start": 915.6,
+  "duration": 3.88,
+  "text": "Pulsia is doing. It's saying, \"Hey,"
+ },
+ {
+  "start": 917.56,
+  "duration": 4.44,
+  "text": "look, man, in this new era, it's"
+ },
+ {
+  "start": 919.48,
+  "duration": 4.4,
+  "text": "cost-effective to try way more things."
+ },
+ {
+  "start": 922.0,
+  "duration": 4.56,
+  "text": "So, let's try them, not get wed to any"
+ },
+ {
+  "start": 923.88,
+  "duration": 4.16,
+  "text": "one idea, and see what comes out.\""
+ },
+ {
+  "start": 926.56,
+  "duration": 3.399,
+  "text": "I think humility dictates that we at"
+ },
+ {
+  "start": 928.04,
+  "duration": 4.2,
+  "text": "least be open to the possibility that"
+ },
+ {
+  "start": 929.959,
+  "duration": 3.721,
+  "text": "that is a viable path for creating value"
+ },
+ {
+  "start": 932.24,
+  "duration": 2.68,
+  "text": "in the future."
+ },
+ {
+  "start": 933.68,
+  "duration": 3.0,
+  "text": "The reason that I'm still ultimately"
+ },
+ {
+  "start": 934.92,
+  "duration": 4.0,
+  "text": "skeptical is that I believe that the"
+ },
+ {
+  "start": 936.68,
+  "duration": 3.72,
+  "text": "equation for company success has one"
+ },
+ {
+  "start": 938.92,
+  "duration": 3.96,
+  "text": "more element that we're not factoring"
+ },
+ {
+  "start": 940.4,
+  "duration": 5.28,
+  "text": "for, which is human attention. In other"
+ },
+ {
+  "start": 942.88,
+  "duration": 4.72,
+  "text": "words, even if there are 50 ideas among"
+ },
+ {
+  "start": 945.68,
+  "duration": 3.76,
+  "text": "the 1,500 that Pulsia has created on"
+ },
+ {
+  "start": 947.6,
+  "duration": 3.68,
+  "text": "behalf of people and tweeted out that"
+ },
+ {
+  "start": 949.44,
+  "duration": 3.399,
+  "text": "would be highly resonant with me, and"
+ },
+ {
+  "start": 951.28,
+  "duration": 2.64,
+  "text": "that I might be a prime target customer"
+ },
+ {
+  "start": 952.839,
+  "duration": 3.481,
+  "text": "for,"
+ },
+ {
+  "start": 953.92,
+  "duration": 3.6,
+  "text": "how am I possibly going to find them?"
+ },
+ {
+  "start": 956.32,
+  "duration": 3.0,
+  "text": "I certainly don't have the time or"
+ },
+ {
+  "start": 957.52,
+  "duration": 3.76,
+  "text": "attention span to go through all 1,500"
+ },
+ {
+  "start": 959.32,
+  "duration": 3.4,
+  "text": "tweets, and then double-click into the"
+ },
+ {
+  "start": 961.28,
+  "duration": 2.84,
+  "text": "ones that seem most promising and try to"
+ },
+ {
+  "start": 962.72,
+  "duration": 3.52,
+  "text": "find out more."
+ },
+ {
+  "start": 964.12,
+  "duration": 4.28,
+  "text": "I am constrained as a customer by this"
+ },
+ {
+  "start": 966.24,
+  "duration": 3.24,
+  "text": "scarce resource of time and attention"
+ },
+ {
+  "start": 968.4,
+  "duration": 3.36,
+  "text": "that is not only not getting more"
+ },
+ {
+  "start": 969.48,
+  "duration": 4.599,
+  "text": "abundant in the AI era, but is in fact"
+ },
+ {
+  "start": 971.76,
+  "duration": 3.72,
+  "text": "getting much more scarce."
+ },
+ {
+  "start": 974.079,
+  "duration": 3.441,
+  "text": "And this gets of course to a larger"
+ },
+ {
+  "start": 975.48,
+  "duration": 4.72,
+  "text": "problem with AI, one that we identified"
+ },
+ {
+  "start": 977.52,
+  "duration": 5.68,
+  "text": "last year as the Work Slot problem."
+ },
+ {
+  "start": 980.2,
+  "duration": 5.759,
+  "text": "There is a massive gap between increased"
+ },
+ {
+  "start": 983.2,
+  "duration": 4.24,
+  "text": "output and increased quality output."
+ },
+ {
+  "start": 985.959,
+  "duration": 3.921,
+  "text": "Business success is not determined by"
+ },
+ {
+  "start": 987.44,
+  "duration": 4.639,
+  "text": "the number of slides or videos or memos."
+ },
+ {
+  "start": 989.88,
+  "duration": 4.24,
+  "text": "It's determined by outcomes, and just"
+ },
+ {
+  "start": 992.079,
+  "duration": 4.241,
+  "text": "having more inputs does not a priori"
+ },
+ {
+  "start": 994.12,
+  "duration": 4.28,
+  "text": "lead to better outcomes."
+ },
+ {
+  "start": 996.32,
+  "duration": 3.88,
+  "text": "So, right now, if you had to pin me"
+ },
+ {
+  "start": 998.4,
+  "duration": 4.84,
+  "text": "down, I would say that I remain"
+ },
+ {
+  "start": 1000.2,
+  "duration": 4.48,
+  "text": "skeptical of the zero human company idea"
+ },
+ {
+  "start": 1003.24,
+  "duration": 4.04,
+  "text": "because of the way that the more that it"
+ },
+ {
+  "start": 1004.68,
+  "duration": 4.159,
+  "text": "produces interacts and has friction with"
+ },
+ {
+  "start": 1007.28,
+  "duration": 3.24,
+  "text": "the real constraints on demand, which is"
+ },
+ {
+  "start": 1008.839,
+  "duration": 2.921,
+  "text": "human attention."
+ },
+ {
+  "start": 1010.52,
+  "duration": 2.68,
+  "text": "To reiterate though, I think that the"
+ },
+ {
+  "start": 1011.76,
+  "duration": 3.12,
+  "text": "experiments, even if they are not"
+ },
+ {
+  "start": 1013.2,
+  "duration": 3.48,
+  "text": "valuable in terms of building a bunch of"
+ },
+ {
+  "start": 1014.88,
+  "duration": 3.64,
+  "text": "successful companies, are going to be"
+ },
+ {
+  "start": 1016.68,
+  "duration": 3.399,
+  "text": "incredibly valuable for actually"
+ },
+ {
+  "start": 1018.52,
+  "duration": 3.76,
+  "text": "understanding the opportunities and"
+ },
+ {
+  "start": 1020.079,
+  "duration": 4.041,
+  "text": "limits of what agents can do."
+ },
+ {
+  "start": 1022.28,
+  "duration": 3.48,
+  "text": "Then again, who knows? Could be that in"
+ },
+ {
+  "start": 1024.12,
+  "duration": 3.6,
+  "text": "2 years we're sitting here with Pulsia"
+ },
+ {
+  "start": 1025.76,
+  "duration": 3.16,
+  "text": "being much bigger than Shopify, and I"
+ },
+ {
+  "start": 1027.72,
+  "duration": 2.479,
+  "text": "look like Paul Krugman saying the"
+ },
+ {
+  "start": 1028.92,
+  "duration": 2.88,
+  "text": "internet would have the same impact as"
+ },
+ {
+  "start": 1030.199,
+  "duration": 2.961,
+  "text": "the fax machine."
+ },
+ {
+  "start": 1031.8,
+  "duration": 2.48,
+  "text": "Only time will tell, but for now, I'm"
+ },
+ {
+  "start": 1033.16,
+  "duration": 2.36,
+  "text": "just excited to see all these"
+ },
+ {
+  "start": 1034.28,
+  "duration": 2.28,
+  "text": "experiments."
+ },
+ {
+  "start": 1035.52,
+  "duration": 3.0,
+  "text": "That, however, is going to do it for"
+ },
+ {
+  "start": 1036.56,
+  "duration": 3.84,
+  "text": "today's AI Daily Brief. Appreciate you"
+ },
+ {
+  "start": 1038.52,
+  "duration": 5.12,
+  "text": "listening or watching as always. Until"
+ },
+ {
+  "start": 1040.4,
+  "duration": 3.24,
+  "text": "next time, peace."
+ }
+]

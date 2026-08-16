@@ -1,0 +1,4207 @@
+[
+ {
+  "start": 0.88,
+  "duration": 3.84,
+  "text": "Today on the AI Daily Brief, a new"
+ },
+ {
+  "start": 2.72,
+  "duration": 3.72,
+  "text": "approach to AI called interaction"
+ },
+ {
+  "start": 4.72,
+  "duration": 3.48,
+  "text": "models."
+ },
+ {
+  "start": 6.44,
+  "duration": 5.6,
+  "text": "Before that in the headlines,"
+ },
+ {
+  "start": 8.2,
+  "duration": 5.56,
+  "text": "OpenAI's big consulting arm is official."
+ },
+ {
+  "start": 12.04,
+  "duration": 3.24,
+  "text": "The AI Daily Brief is a daily podcast"
+ },
+ {
+  "start": 13.76,
+  "duration": 4.88,
+  "text": "and video about the most important news"
+ },
+ {
+  "start": 15.28,
+  "duration": 3.36,
+  "text": "and discussions in AI."
+ },
+ {
+  "start": 19.08,
+  "duration": 3.28,
+  "text": "All right, friends. Quick announcements"
+ },
+ {
+  "start": 20.64,
+  "duration": 4.08,
+  "text": "before we dive in."
+ },
+ {
+  "start": 22.36,
+  "duration": 3.96,
+  "text": "Thanks to listeners like you, the AI"
+ },
+ {
+  "start": 24.72,
+  "duration": 2.84,
+  "text": "Daily Brief just continues to grow and"
+ },
+ {
+  "start": 26.32,
+  "duration": 2.84,
+  "text": "grow and grow."
+ },
+ {
+  "start": 27.56,
+  "duration": 3.76,
+  "text": "It is almost always a top five"
+ },
+ {
+  "start": 29.16,
+  "duration": 4.16,
+  "text": "technology podcast, and it is almost"
+ },
+ {
+  "start": 31.32,
+  "duration": 4.08,
+  "text": "always now in the top 200 of podcasts"
+ },
+ {
+  "start": 33.32,
+  "duration": 4.96,
+  "text": "overall. This has happened almost"
+ },
+ {
+  "start": 35.4,
+  "duration": 3.92,
+  "text": "totally organically because of listeners"
+ },
+ {
+  "start": 38.28,
+  "duration": 2.92,
+  "text": "sharing with their friends and"
+ },
+ {
+  "start": 39.32,
+  "duration": 4.52,
+  "text": "colleagues, but I think it's time to"
+ },
+ {
+  "start": 41.2,
+  "duration": 4.28,
+  "text": "pour some gas on that particular fire. I"
+ },
+ {
+  "start": 43.84,
+  "duration": 4.04,
+  "text": "am now hiring for what I'm calling a"
+ },
+ {
+  "start": 45.48,
+  "duration": 4.84,
+  "text": "growth engineer. And the goal is to"
+ },
+ {
+  "start": 47.88,
+  "duration": 4.92,
+  "text": "build stuff to make it easier for"
+ },
+ {
+  "start": 50.32,
+  "duration": 3.8,
+  "text": "important parts of the AI Daily Brief to"
+ },
+ {
+  "start": 52.8,
+  "duration": 3.64,
+  "text": "get to the audiences that they could be"
+ },
+ {
+  "start": 54.12,
+  "duration": 4.36,
+  "text": "helping. This is a role for someone who"
+ },
+ {
+  "start": 56.44,
+  "duration": 3.96,
+  "text": "is creative, dynamic, highly"
+ },
+ {
+  "start": 58.48,
+  "duration": 3.92,
+  "text": "self-directed, and lives inside Claude"
+ },
+ {
+  "start": 60.4,
+  "duration": 3.2,
+  "text": "Coder Codex. The application is all"
+ },
+ {
+  "start": 62.4,
+  "duration": 2.799,
+  "text": "about sharing stuff that you've built"
+ },
+ {
+  "start": 63.6,
+  "duration": 3.48,
+  "text": "and your perspective on the show, and"
+ },
+ {
+  "start": 65.199,
+  "duration": 4.241,
+  "text": "I'll be hiring one person for a paid"
+ },
+ {
+  "start": 67.08,
+  "duration": 3.96,
+  "text": "3-month trial with a guaranteed base and"
+ },
+ {
+  "start": 69.44,
+  "duration": 3.12,
+  "text": "the ability to up to double that base"
+ },
+ {
+  "start": 71.04,
+  "duration": 2.88,
+  "text": "during that time with the goal of it"
+ },
+ {
+  "start": 72.56,
+  "duration": 3.28,
+  "text": "turning full-time and ongoing after"
+ },
+ {
+  "start": 73.92,
+  "duration": 4.48,
+  "text": "that. You can find the role at"
+ },
+ {
+  "start": 75.84,
+  "duration": 5.8,
+  "text": "jobs.aibreak.ai."
+ },
+ {
+  "start": 78.4,
+  "duration": 3.24,
+  "text": "That's jobs.aibreak.ai."
+ },
+ {
+  "start": 81.76,
+  "duration": 3.56,
+  "text": "We kick off today with a story that is a"
+ },
+ {
+  "start": 83.24,
+  "duration": 4.44,
+  "text": "follow-up to reports from last week."
+ },
+ {
+  "start": 85.32,
+  "duration": 4.52,
+  "text": "OpenAI is indeed launching a consulting"
+ },
+ {
+  "start": 87.68,
+  "duration": 4.12,
+  "text": "company, and now it is official. The"
+ },
+ {
+  "start": 89.84,
+  "duration": 4.24,
+  "text": "business will operate as a separate"
+ },
+ {
+  "start": 91.8,
+  "duration": 5.44,
+  "text": "company called the OpenAI Deployment"
+ },
+ {
+  "start": 94.08,
+  "duration": 4.8,
+  "text": "Company or DeployCo for short. This is"
+ },
+ {
+  "start": 97.24,
+  "duration": 3.52,
+  "text": "basically a forward-deployed engineer"
+ },
+ {
+  "start": 98.88,
+  "duration": 3.92,
+  "text": "shop that will pair developers with some"
+ },
+ {
+  "start": 100.76,
+  "duration": 4.32,
+  "text": "of OpenAI's most important clients to"
+ },
+ {
+  "start": 102.8,
+  "duration": 4.56,
+  "text": "help them on theoretically real deep AI"
+ },
+ {
+  "start": 105.08,
+  "duration": 3.84,
+  "text": "and agentic transformation. Now, like"
+ },
+ {
+  "start": 107.36,
+  "duration": 3.68,
+  "text": "the Anthropic venture that was announced"
+ },
+ {
+  "start": 108.92,
+  "duration": 4.24,
+  "text": "last week, DeployCo is structured as a"
+ },
+ {
+  "start": 111.04,
+  "duration": 3.76,
+  "text": "joint venture, in this case with 19"
+ },
+ {
+  "start": 113.16,
+  "duration": 3.44,
+  "text": "partners across consulting, private"
+ },
+ {
+  "start": 114.8,
+  "duration": 4.16,
+  "text": "equity, and finance. The initial"
+ },
+ {
+  "start": 116.6,
+  "duration": 4.16,
+  "text": "investment was $4 at a pre-money"
+ },
+ {
+  "start": 118.96,
+  "duration": 3.92,
+  "text": "valuation of $10 billion"
+ },
+ {
+  "start": 120.76,
+  "duration": 3.4,
+  "text": "with TPG as the lead investor, Advent"
+ },
+ {
+  "start": 122.88,
+  "duration": 3.2,
+  "text": "International, Bain Capital, and"
+ },
+ {
+  "start": 124.16,
+  "duration": 4.16,
+  "text": "Brookfield as also co-lead founding"
+ },
+ {
+  "start": 126.08,
+  "duration": 4.28,
+  "text": "partners. Now, one of the things of note"
+ },
+ {
+  "start": 128.32,
+  "duration": 3.68,
+  "text": "here is that word on the street is that"
+ },
+ {
+  "start": 130.36,
+  "duration": 3.48,
+  "text": "a big part of the motivation for the"
+ },
+ {
+  "start": 132.0,
+  "duration": 3.56,
+  "text": "firms who are investing in this is to"
+ },
+ {
+  "start": 133.84,
+  "duration": 4.16,
+  "text": "get first access to this set of"
+ },
+ {
+  "start": 135.56,
+  "duration": 4.36,
+  "text": "engineers for their portfolio companies."
+ },
+ {
+  "start": 138.0,
+  "duration": 4.28,
+  "text": "In other words, this is effectively a"
+ },
+ {
+  "start": 139.92,
+  "duration": 3.52,
+  "text": "buy-in cost to skipping the line when it"
+ },
+ {
+  "start": 142.28,
+  "duration": 3.08,
+  "text": "comes to getting help on AI"
+ },
+ {
+  "start": 143.44,
+  "duration": 3.68,
+  "text": "transformation. Of the partners"
+ },
+ {
+  "start": 145.36,
+  "duration": 4.0,
+  "text": "announced, it looks like Goldman Sachs"
+ },
+ {
+  "start": 147.12,
+  "duration": 4.04,
+  "text": "is the only one to back both DeployCo"
+ },
+ {
+  "start": 149.36,
+  "duration": 3.96,
+  "text": "and the Anthropic effort, which is as"
+ },
+ {
+  "start": 151.16,
+  "duration": 4.04,
+  "text": "yet unnamed. The guts of DeployCo are"
+ },
+ {
+  "start": 153.32,
+  "duration": 3.8,
+  "text": "going to be built around an acquisition,"
+ },
+ {
+  "start": 155.2,
+  "duration": 3.16,
+  "text": "specifically engineering firm Tomorrow,"
+ },
+ {
+  "start": 157.12,
+  "duration": 3.2,
+  "text": "which will give DeployCo right out of"
+ },
+ {
+  "start": 158.36,
+  "duration": 4.44,
+  "text": "the gate about 150 staff who have"
+ },
+ {
+  "start": 160.32,
+  "duration": 4.04,
+  "text": "experience in deploying AI solutions. At"
+ },
+ {
+  "start": 162.8,
+  "duration": 3.72,
+  "text": "this point, there is basically no way to"
+ },
+ {
+  "start": 164.36,
+  "duration": 3.48,
+  "text": "grow fast enough to meet this demand"
+ },
+ {
+  "start": 166.52,
+  "duration": 3.6,
+  "text": "other than acquisition, so I would"
+ },
+ {
+  "start": 167.84,
+  "duration": 3.28,
+  "text": "expect a lot more M&A soon."
+ },
+ {
+  "start": 170.12,
+  "duration": 2.12,
+  "text": "Even though this was a big part of the"
+ },
+ {
+  "start": 171.12,
+  "duration": 2.72,
+  "text": "discourse last week, there was a"
+ },
+ {
+  "start": 172.24,
+  "duration": 3.12,
+  "text": "surprising amount of conversation about"
+ },
+ {
+  "start": 173.84,
+  "duration": 3.04,
+  "text": "this. Most of it was just a"
+ },
+ {
+  "start": 175.36,
+  "duration": 3.36,
+  "text": "reaffirmation of what has finally"
+ },
+ {
+  "start": 176.88,
+  "duration": 3.28,
+  "text": "started to become conventional wisdom,"
+ },
+ {
+  "start": 178.72,
+  "duration": 3.28,
+  "text": "which is that it doesn't matter how"
+ },
+ {
+  "start": 180.16,
+  "duration": 3.56,
+  "text": "powerful the models are, they are going"
+ },
+ {
+  "start": 182.0,
+  "duration": 4.0,
+  "text": "to crash headlong into institutional"
+ },
+ {
+  "start": 183.72,
+  "duration": 3.96,
+  "text": "inertia. And for enterprises to close"
+ },
+ {
+  "start": 186.0,
+  "duration": 3.32,
+  "text": "the capability overhang and actually get"
+ },
+ {
+  "start": 187.68,
+  "duration": 3.16,
+  "text": "the full value from these models, it is"
+ },
+ {
+  "start": 189.32,
+  "duration": 3.0,
+  "text": "going to involve meaningful support"
+ },
+ {
+  "start": 190.84,
+  "duration": 3.36,
+  "text": "structures being built around them both"
+ },
+ {
+  "start": 192.32,
+  "duration": 2.84,
+  "text": "inside and outside."
+ },
+ {
+  "start": 194.2,
+  "duration": 2.68,
+  "text": "Now, one funny strand in the"
+ },
+ {
+  "start": 195.16,
+  "duration": 3.16,
+  "text": "conversation that I've seen is a lot of"
+ },
+ {
+  "start": 196.88,
+  "duration": 3.28,
+  "text": "folks running smaller versions of these"
+ },
+ {
+  "start": 198.32,
+  "duration": 3.16,
+  "text": "agencies trying to sort of puff out"
+ },
+ {
+  "start": 200.16,
+  "duration": 2.88,
+  "text": "their chest and make it clear that they"
+ },
+ {
+  "start": 201.48,
+  "duration": 3.16,
+  "text": "still have a market because no matter"
+ },
+ {
+  "start": 203.04,
+  "duration": 3.32,
+  "text": "how well resourced the efforts from"
+ },
+ {
+  "start": 204.64,
+  "duration": 3.2,
+  "text": "OpenAI and Anthropic are, there's a"
+ },
+ {
+  "start": 206.36,
+  "duration": 3.08,
+  "text": "massive long tail of people that need"
+ },
+ {
+  "start": 207.84,
+  "duration": 3.72,
+  "text": "support, too. And to that, I would just"
+ },
+ {
+  "start": 209.44,
+  "duration": 3.799,
+  "text": "like to say, \"Guys, don't worry. No one"
+ },
+ {
+  "start": 211.56,
+  "duration": 3.2,
+  "text": "thinks that because OpenAI and Anthropic"
+ },
+ {
+  "start": 213.239,
+  "duration": 3.401,
+  "text": "are in the game, somehow they are going"
+ },
+ {
+  "start": 214.76,
+  "duration": 3.28,
+  "text": "to be able to consume the sheer tonnage"
+ },
+ {
+  "start": 216.64,
+  "duration": 3.04,
+  "text": "of transformation support that is going"
+ },
+ {
+  "start": 218.04,
+  "duration": 3.199,
+  "text": "to be needed over the coming decades to"
+ },
+ {
+  "start": 219.68,
+  "duration": 2.72,
+  "text": "get these companies on boarded on to"
+ },
+ {
+  "start": 221.239,
+  "duration": 2.801,
+  "text": "AI.\""
+ },
+ {
+  "start": 222.4,
+  "duration": 3.8,
+  "text": "Next up, we have an interesting market"
+ },
+ {
+  "start": 224.04,
+  "duration": 3.72,
+  "text": "sort of sub-story. You might have seen"
+ },
+ {
+  "start": 226.2,
+  "duration": 3.56,
+  "text": "posts like this one from the Kobayasi"
+ },
+ {
+  "start": 227.76,
+  "duration": 5.16,
+  "text": "Letter suggesting something about"
+ },
+ {
+  "start": 229.76,
+  "duration": 5.68,
+  "text": "Anthropic or OpenAI's market-implied"
+ },
+ {
+  "start": 232.92,
+  "duration": 4.52,
+  "text": "pre-IPO valuation. Now, what that type"
+ },
+ {
+  "start": 235.44,
+  "duration": 3.76,
+  "text": "of statement means is not a reference to"
+ },
+ {
+  "start": 237.44,
+  "duration": 4.12,
+  "text": "a valuation in an actual fundraising"
+ },
+ {
+  "start": 239.2,
+  "duration": 4.32,
+  "text": "round, but about weird gray secondary"
+ },
+ {
+  "start": 241.56,
+  "duration": 3.64,
+  "text": "markets, usually filtered through some"
+ },
+ {
+  "start": 243.52,
+  "duration": 3.12,
+  "text": "blockchain or another, where market"
+ },
+ {
+  "start": 245.2,
+  "duration": 3.68,
+  "text": "activity on those markets is being"
+ },
+ {
+  "start": 246.64,
+  "duration": 3.92,
+  "text": "interpreted as actual price signal. In"
+ },
+ {
+  "start": 248.88,
+  "duration": 3.68,
+  "text": "many cases, what you have is basically"
+ },
+ {
+  "start": 250.56,
+  "duration": 5.679,
+  "text": "crypto tokens that claim to be backed"
+ },
+ {
+  "start": 252.56,
+  "duration": 6.72,
+  "text": "one-to-one by stock held in SPVs that"
+ },
+ {
+  "start": 256.239,
+  "duration": 4.481,
+  "text": "themselves own actual Anthropic stock."
+ },
+ {
+  "start": 259.28,
+  "duration": 3.68,
+  "text": "Anthropic, however, seems not to be a"
+ },
+ {
+  "start": 260.72,
+  "duration": 4.08,
+  "text": "fan of this. On Monday, they updated a"
+ },
+ {
+  "start": 262.96,
+  "duration": 3.44,
+  "text": "page in their support docs discussing"
+ },
+ {
+  "start": 264.8,
+  "duration": 3.68,
+  "text": "unauthorized stock sales and investment"
+ },
+ {
+  "start": 266.4,
+  "duration": 3.76,
+  "text": "scams. The article already stated that"
+ },
+ {
+  "start": 268.48,
+  "duration": 2.96,
+  "text": "unapproved stock transfers were void and"
+ },
+ {
+  "start": 270.16,
+  "duration": 3.56,
+  "text": "wouldn't be recognized in official"
+ },
+ {
+  "start": 271.44,
+  "duration": 4.76,
+  "text": "records. Regarding SPVs, Anthropic"
+ },
+ {
+  "start": 273.72,
+  "duration": 4.04,
+  "text": "noted, \"We do not permit SPVs to acquire"
+ },
+ {
+  "start": 276.2,
+  "duration": 3.28,
+  "text": "Anthropic stock and any transfer of"
+ },
+ {
+  "start": 277.76,
+  "duration": 3.8,
+  "text": "shares to an SPV are void under our"
+ },
+ {
+  "start": 279.48,
+  "duration": 3.6,
+  "text": "transfer restrictions. Any third party"
+ },
+ {
+  "start": 281.56,
+  "duration": 3.6,
+  "text": "claiming to sell Anthropic shares to the"
+ },
+ {
+  "start": 283.08,
+  "duration": 3.88,
+  "text": "general public is likely either engaged"
+ },
+ {
+  "start": 285.16,
+  "duration": 3.44,
+  "text": "in fraud or offering an investment that"
+ },
+ {
+  "start": 286.96,
+  "duration": 3.04,
+  "text": "may have no value due to our transfer"
+ },
+ {
+  "start": 288.6,
+  "duration": 2.96,
+  "text": "restrictions.\""
+ },
+ {
+  "start": 290.0,
+  "duration": 2.96,
+  "text": "The Monday addition was a list of firms"
+ },
+ {
+  "start": 291.56,
+  "duration": 2.96,
+  "text": "known to be offering access to the"
+ },
+ {
+  "start": 292.96,
+  "duration": 3.44,
+  "text": "stock, with Anthropic specifically"
+ },
+ {
+  "start": 294.52,
+  "duration": 3.84,
+  "text": "saying that any interest in Anthropic"
+ },
+ {
+  "start": 296.4,
+  "duration": 3.6,
+  "text": "stock offered by these firms is void and"
+ },
+ {
+  "start": 298.36,
+  "duration": 2.92,
+  "text": "will not be recognized on our books or"
+ },
+ {
+  "start": 300.0,
+  "duration": 3.16,
+  "text": "records."
+ },
+ {
+  "start": 301.28,
+  "duration": 3.4,
+  "text": "In a rare show of solidarity, OpenAI"
+ },
+ {
+  "start": 303.16,
+  "duration": 3.48,
+  "text": "sent a similar message to the market in"
+ },
+ {
+  "start": 304.68,
+  "duration": 3.2,
+  "text": "the form of a blog post. They restated"
+ },
+ {
+  "start": 306.64,
+  "duration": 2.64,
+  "text": "their position that unauthorized"
+ },
+ {
+  "start": 307.88,
+  "duration": 3.4,
+  "text": "transfers are legally void without"
+ },
+ {
+  "start": 309.28,
+  "duration": 3.48,
+  "text": "approval, making some vehicles claiming"
+ },
+ {
+  "start": 311.28,
+  "duration": 3.56,
+  "text": "to have exposure to the stock worth"
+ },
+ {
+  "start": 312.76,
+  "duration": 3.6,
+  "text": "zero. Lawyer Gabriel Shapiro thinks"
+ },
+ {
+  "start": 314.84,
+  "duration": 3.96,
+  "text": "people trading these gray markets could"
+ },
+ {
+  "start": 316.36,
+  "duration": 4.32,
+  "text": "have a huge problem. He wrote, \"There is"
+ },
+ {
+  "start": 318.8,
+  "duration": 3.44,
+  "text": "an active secondary market purportedly"
+ },
+ {
+  "start": 320.68,
+  "duration": 3.44,
+  "text": "in Anthropic stock or derivatives,"
+ },
+ {
+  "start": 322.24,
+  "duration": 3.88,
+  "text": "including on fairly reputable or at"
+ },
+ {
+  "start": 324.12,
+  "duration": 3.24,
+  "text": "least well-known platforms like Forge."
+ },
+ {
+  "start": 326.12,
+  "duration": 3.08,
+  "text": "Anthropic is calling them out"
+ },
+ {
+  "start": 327.36,
+  "duration": 4.32,
+  "text": "specifically by name and essentially"
+ },
+ {
+  "start": 329.2,
+  "duration": 3.92,
+  "text": "saying 100% of these are illegal.\""
+ },
+ {
+  "start": 331.68,
+  "duration": 2.76,
+  "text": "Now, Shapiro notes that the legal status"
+ },
+ {
+  "start": 333.12,
+  "duration": 3.2,
+  "text": "is far from clear, but attempting to"
+ },
+ {
+  "start": 334.44,
+  "duration": 4.12,
+  "text": "void transactions could trigger an"
+ },
+ {
+  "start": 336.32,
+  "duration": 3.88,
+  "text": "avalanche of lawsuits against Anthropic"
+ },
+ {
+  "start": 338.56,
+  "duration": 2.88,
+  "text": "and the marketplaces purporting to sell"
+ },
+ {
+  "start": 340.2,
+  "duration": 3.32,
+  "text": "stock."
+ },
+ {
+  "start": 341.44,
+  "duration": 4.04,
+  "text": "Giving an indication of why they want"
+ },
+ {
+  "start": 343.52,
+  "duration": 3.32,
+  "text": "this activity to be nipped in the bud,"
+ },
+ {
+  "start": 345.48,
+  "duration": 3.44,
+  "text": "Anthropic's notice triggered a"
+ },
+ {
+  "start": 346.84,
+  "duration": 3.72,
+  "text": "{quote-unquote} massive crash, cutting"
+ },
+ {
+  "start": 348.92,
+  "duration": 3.36,
+  "text": "the price of Anthropic on these markets"
+ },
+ {
+  "start": 350.56,
+  "duration": 2.8,
+  "text": "in half yesterday."
+ },
+ {
+  "start": 352.28,
+  "duration": 2.56,
+  "text": "Now, what's important about this story"
+ },
+ {
+  "start": 353.36,
+  "duration": 2.92,
+  "text": "is that this is not just doing crypto"
+ },
+ {
+  "start": 354.84,
+  "duration": 3.2,
+  "text": "market things."
+ },
+ {
+  "start": 356.28,
+  "duration": 3.44,
+  "text": "What underlies this is what has been a"
+ },
+ {
+  "start": 358.04,
+  "duration": 3.84,
+  "text": "growing dynamic in private markets over"
+ },
+ {
+  "start": 359.72,
+  "duration": 4.08,
+  "text": "the last, honestly, decade and a half,"
+ },
+ {
+  "start": 361.88,
+  "duration": 2.88,
+  "text": "ever since the global financial crisis"
+ },
+ {
+  "start": 363.8,
+  "duration": 2.48,
+  "text": "and beginning of zero interest rate"
+ },
+ {
+  "start": 364.76,
+  "duration": 2.68,
+  "text": "policies."
+ },
+ {
+  "start": 366.28,
+  "duration": 3.12,
+  "text": "Private companies have been waiting"
+ },
+ {
+  "start": 367.44,
+  "duration": 3.44,
+  "text": "longer than ever to IPO because of"
+ },
+ {
+  "start": 369.4,
+  "duration": 2.6,
+  "text": "basically just unlimited private"
+ },
+ {
+  "start": 370.88,
+  "duration": 2.2,
+  "text": "capital."
+ },
+ {
+  "start": 372.0,
+  "duration": 2.6,
+  "text": "The dynamic has gotten to the point"
+ },
+ {
+  "start": 373.08,
+  "duration": 3.0,
+  "text": "where some startups are even targeting"
+ },
+ {
+  "start": 374.6,
+  "duration": 3.08,
+  "text": "the secondary market as their exit"
+ },
+ {
+  "start": 376.08,
+  "duration": 4.16,
+  "text": "rather than aiming for an acquisition or"
+ },
+ {
+  "start": 377.68,
+  "duration": 4.4,
+  "text": "an IPO. All of this comes down to demand"
+ },
+ {
+  "start": 380.24,
+  "duration": 3.44,
+  "text": "from both long-tail accredited and"
+ },
+ {
+  "start": 382.08,
+  "duration": 3.6,
+  "text": "retail investors who are structurally"
+ },
+ {
+  "start": 383.68,
+  "duration": 3.239,
+  "text": "blocked out of investing in early-stage"
+ },
+ {
+  "start": 385.68,
+  "duration": 2.56,
+  "text": "companies."
+ },
+ {
+  "start": 386.919,
+  "duration": 3.801,
+  "text": "If companies never go public or go"
+ },
+ {
+  "start": 388.24,
+  "duration": 4.84,
+  "text": "public at enormously high valuations, it"
+ },
+ {
+  "start": 390.72,
+  "duration": 3.88,
+  "text": "significantly cuts down the ability of"
+ },
+ {
+  "start": 393.08,
+  "duration": 3.52,
+  "text": "retail investors to participate in the"
+ },
+ {
+  "start": 394.6,
+  "duration": 3.28,
+  "text": "upside of company creation."
+ },
+ {
+  "start": 396.6,
+  "duration": 3.4,
+  "text": "Now, the issue is that a lot of the way"
+ },
+ {
+  "start": 397.88,
+  "duration": 3.72,
+  "text": "that secondary markets happen completely"
+ },
+ {
+  "start": 400.0,
+  "duration": 3.44,
+  "text": "negates the disclosure rules of markets"
+ },
+ {
+  "start": 401.6,
+  "duration": 3.36,
+  "text": "in general. Primary investments in a"
+ },
+ {
+  "start": 403.44,
+  "duration": 2.72,
+  "text": "startup are pretty straightforward, even"
+ },
+ {
+  "start": 404.96,
+  "duration": 3.08,
+  "text": "though they're gated by accredited"
+ },
+ {
+  "start": 406.16,
+  "duration": 3.0,
+  "text": "investor rules. You can easily verify"
+ },
+ {
+  "start": 408.04,
+  "duration": 2.72,
+  "text": "whether you're included on the cap"
+ },
+ {
+  "start": 409.16,
+  "duration": 3.44,
+  "text": "table, and the SEC has your back on"
+ },
+ {
+  "start": 410.76,
+  "duration": 3.92,
+  "text": "that. With secondaries, there's no such"
+ },
+ {
+  "start": 412.6,
+  "duration": 3.64,
+  "text": "protection. Investors are fundamentally"
+ },
+ {
+  "start": 414.68,
+  "duration": 3.16,
+  "text": "buying shares in a holding company with"
+ },
+ {
+  "start": 416.24,
+  "duration": 3.56,
+  "text": "no real ability to verify the claims"
+ },
+ {
+  "start": 417.84,
+  "duration": 3.36,
+  "text": "being made, and that's in the best case"
+ },
+ {
+  "start": 419.8,
+  "duration": 2.48,
+  "text": "scenario."
+ },
+ {
+  "start": 421.2,
+  "duration": 2.719,
+  "text": "Casey Craig discussed some of the"
+ },
+ {
+  "start": 422.28,
+  "duration": 3.24,
+  "text": "vehicles being traded in crypto markets"
+ },
+ {
+  "start": 423.919,
+  "duration": 3.521,
+  "text": "that claim to represent Anthropic shares"
+ },
+ {
+  "start": 425.52,
+  "duration": 3.28,
+  "text": "and wrote, \"Brother, you are four layers"
+ },
+ {
+  "start": 427.44,
+  "duration": 2.8,
+  "text": "of financial abstraction and broker"
+ },
+ {
+  "start": 428.8,
+  "duration": 2.92,
+  "text": "crime away from touching an actual"
+ },
+ {
+  "start": 430.24,
+  "duration": 3.0,
+  "text": "Anthropic share certificate. Your"
+ },
+ {
+  "start": 431.72,
+  "duration": 3.24,
+  "text": "position is a tokenized receipt for"
+ },
+ {
+  "start": 433.24,
+  "duration": 3.48,
+  "text": "possible future economic exposure to a"
+ },
+ {
+  "start": 434.96,
+  "duration": 3.36,
+  "text": "Cayman SPV that owns shares in another"
+ },
+ {
+  "start": 436.72,
+  "duration": 3.64,
+  "text": "Delaware SPV that maybe owns rights to"
+ },
+ {
+  "start": 438.32,
+  "duration": 4.28,
+  "text": "future equity pending transfer approval."
+ },
+ {
+  "start": 440.36,
+  "duration": 3.76,
+  "text": "You are approximately Anthropic adjacent"
+ },
+ {
+  "start": 442.6,
+  "duration": 2.56,
+  "text": "at best.\""
+ },
+ {
+  "start": 444.12,
+  "duration": 3.76,
+  "text": "Now, to be fair to these market"
+ },
+ {
+  "start": 445.16,
+  "duration": 4.48,
+  "text": "participants, most people at this stage"
+ },
+ {
+  "start": 447.88,
+  "duration": 3.72,
+  "text": "who are trading these assets know that"
+ },
+ {
+  "start": 449.64,
+  "duration": 3.279,
+  "text": "they're trading IOUs."
+ },
+ {
+  "start": 451.6,
+  "duration": 3.08,
+  "text": "The bigger issue comes when naive"
+ },
+ {
+  "start": 452.919,
+  "duration": 3.281,
+  "text": "investors think they actually own"
+ },
+ {
+  "start": 454.68,
+  "duration": 2.96,
+  "text": "Anthropic stock, and that turns out not"
+ },
+ {
+  "start": 456.2,
+  "duration": 2.52,
+  "text": "to be the case."
+ },
+ {
+  "start": 457.64,
+  "duration": 2.72,
+  "text": "Ultimately, it seems like this is"
+ },
+ {
+  "start": 458.72,
+  "duration": 3.52,
+  "text": "actually a bigger issue than just this"
+ },
+ {
+  "start": 460.36,
+  "duration": 4.44,
+  "text": "one instance, with a potential reckoning"
+ },
+ {
+  "start": 462.24,
+  "duration": 4.2,
+  "text": "on the way. Brian Norgard writes, \"If"
+ },
+ {
+  "start": 464.8,
+  "duration": 3.48,
+  "text": "Anthropic starts invalidating layered"
+ },
+ {
+  "start": 466.44,
+  "duration": 3.8,
+  "text": "SPVs and other quote-unquote creative"
+ },
+ {
+  "start": 468.28,
+  "duration": 4.04,
+  "text": "financing structures, private markets"
+ },
+ {
+  "start": 470.24,
+  "duration": 3.56,
+  "text": "are in for a reckoning. The SpaceX IPO"
+ },
+ {
+  "start": 472.32,
+  "duration": 3.28,
+  "text": "will expose just how much synthetic"
+ },
+ {
+  "start": 473.8,
+  "duration": 3.8,
+  "text": "ownership and outright fraud has"
+ },
+ {
+  "start": 475.6,
+  "duration": 3.52,
+  "text": "accumulated in privates.\" Natasha"
+ },
+ {
+  "start": 477.6,
+  "duration": 3.0,
+  "text": "Mascarenhas writes,"
+ },
+ {
+  "start": 479.12,
+  "duration": 3.08,
+  "text": "\"It's hard to overstate the amount of"
+ },
+ {
+  "start": 480.6,
+  "duration": 3.0,
+  "text": "fake SPVs circulating in the market"
+ },
+ {
+  "start": 482.2,
+  "duration": 2.88,
+  "text": "right now. They've always been a"
+ },
+ {
+  "start": 483.6,
+  "duration": 3.2,
+  "text": "controversial financing tool with"
+ },
+ {
+  "start": 485.08,
+  "duration": 3.48,
+  "text": "Anduril, OpenAI, Anthropic, et cetera"
+ },
+ {
+  "start": 486.8,
+  "duration": 3.36,
+  "text": "fighting them for years. If companies"
+ },
+ {
+  "start": 488.56,
+  "duration": 3.24,
+  "text": "crack down against them as promised,"
+ },
+ {
+  "start": 490.16,
+  "duration": 4.2,
+  "text": "people are in for a rude awakening after"
+ },
+ {
+  "start": 491.8,
+  "duration": 4.04,
+  "text": "lockups expire.\" Still, Kingsley Advani"
+ },
+ {
+  "start": 494.36,
+  "duration": 3.28,
+  "text": "thinks that Anthropic has limited"
+ },
+ {
+  "start": 495.84,
+  "duration": 3.64,
+  "text": "options here, posting a chart with the"
+ },
+ {
+  "start": 497.64,
+  "duration": 3.8,
+  "text": "dozens of registered SPVs holding"
+ },
+ {
+  "start": 499.48,
+  "duration": 4.92,
+  "text": "Anthropic shares and saying, \"Anthropic"
+ },
+ {
+  "start": 501.44,
+  "duration": 4.6,
+  "text": "unlikely to void half their investors.\""
+ },
+ {
+  "start": 504.4,
+  "duration": 3.16,
+  "text": "Moving over to politics now,"
+ },
+ {
+  "start": 506.04,
+  "duration": 3.52,
+  "text": "administration officials have walked"
+ },
+ {
+  "start": 507.56,
+  "duration": 4.28,
+  "text": "back calls for an FDA-like approach to"
+ },
+ {
+  "start": 509.56,
+  "duration": 3.84,
+  "text": "AI safety. Last week, National Economic"
+ },
+ {
+  "start": 511.84,
+  "duration": 2.759,
+  "text": "Council Chairman Kevin Hassett said that"
+ },
+ {
+  "start": 513.4,
+  "duration": 2.6,
+  "text": "the White House was considering an"
+ },
+ {
+  "start": 514.599,
+  "duration": 3.12,
+  "text": "executive order to respond to"
+ },
+ {
+  "start": 516.0,
+  "duration": 3.12,
+  "text": "mythos-level models. He said the new"
+ },
+ {
+  "start": 517.719,
+  "duration": 3.0,
+  "text": "policy would put AI models through a"
+ },
+ {
+  "start": 519.12,
+  "duration": 3.76,
+  "text": "process where they're proven safe, just"
+ },
+ {
+  "start": 520.719,
+  "duration": 3.681,
+  "text": "like an FDA drug. This led to a massive"
+ },
+ {
+  "start": 522.88,
+  "duration": 2.92,
+  "text": "industry reaction with many fearing a"
+ },
+ {
+  "start": 524.4,
+  "duration": 3.36,
+  "text": "burdensome regulatory structure that"
+ },
+ {
+  "start": 525.8,
+  "duration": 3.92,
+  "text": "would slow innovation to a crawl. Over"
+ },
+ {
+  "start": 527.76,
+  "duration": 3.4,
+  "text": "the weekend, former AI czar David Sacks"
+ },
+ {
+  "start": 529.72,
+  "duration": 3.4,
+  "text": "said that he'd spoken with Hassett and"
+ },
+ {
+  "start": 531.16,
+  "duration": 4.0,
+  "text": "the FDA comparison wasn't particularly"
+ },
+ {
+  "start": 533.12,
+  "duration": 4.0,
+  "text": "apt. Commented Sacks, \"I don't think any"
+ },
+ {
+  "start": 535.16,
+  "duration": 4.04,
+  "text": "senior official supports it.\" During an"
+ },
+ {
+  "start": 537.12,
+  "duration": 4.04,
+  "text": "interview with CNBC on Monday, Hassett"
+ },
+ {
+  "start": 539.2,
+  "duration": 4.0,
+  "text": "confirmed that an FDA-type organization"
+ },
+ {
+  "start": 541.16,
+  "duration": 3.48,
+  "text": "is not in the cards, commenting, \"At the"
+ },
+ {
+  "start": 543.2,
+  "duration": 2.56,
+  "text": "White House, nobody has an idea that we"
+ },
+ {
+  "start": 544.64,
+  "duration": 3.52,
+  "text": "should do something like bringing in a"
+ },
+ {
+  "start": 545.76,
+  "duration": 3.52,
+  "text": "giant new bureaucracy to approve AIs.\""
+ },
+ {
+  "start": 548.16,
+  "duration": 2.679,
+  "text": "He said that the current approach is"
+ },
+ {
+  "start": 549.28,
+  "duration": 3.68,
+  "text": "simply administration officials working"
+ },
+ {
+  "start": 550.839,
+  "duration": 4.121,
+  "text": "directly with the AI labs to, quote, in"
+ },
+ {
+  "start": 552.96,
+  "duration": 3.2,
+  "text": "his words, \"Make sure that the models,"
+ },
+ {
+  "start": 554.96,
+  "duration": 2.76,
+  "text": "before they're released to the public,"
+ },
+ {
+  "start": 556.16,
+  "duration": 3.24,
+  "text": "aren't going to cause an extreme amount"
+ },
+ {
+  "start": 557.72,
+  "duration": 3.2,
+  "text": "of harm.\" Hassett noted that this"
+ },
+ {
+  "start": 559.4,
+  "duration": 2.96,
+  "text": "all-of-government, all-of-private-sector"
+ },
+ {
+  "start": 560.92,
+  "duration": 3.0,
+  "text": "approach is working well, and it's"
+ },
+ {
+  "start": 562.36,
+  "duration": 3.479,
+  "text": "uncertain that an executive order will"
+ },
+ {
+  "start": 563.92,
+  "duration": 3.12,
+  "text": "even be necessary. Commenting on how"
+ },
+ {
+  "start": 565.839,
+  "duration": 2.841,
+  "text": "much discussion his off-the-cuff"
+ },
+ {
+  "start": 567.04,
+  "duration": 3.16,
+  "text": "comparison had generated, he added, \"I"
+ },
+ {
+  "start": 568.68,
+  "duration": 2.88,
+  "text": "probably shouldn't have called it the"
+ },
+ {
+  "start": 570.2,
+  "duration": 2.76,
+  "text": "FDA.\""
+ },
+ {
+  "start": 571.56,
+  "duration": 3.52,
+  "text": "Lastly today, President Trump is"
+ },
+ {
+  "start": 572.96,
+  "duration": 3.96,
+  "text": "assembling a tech envoy for his trip to"
+ },
+ {
+  "start": 575.08,
+  "duration": 4.12,
+  "text": "China later this week. The White House"
+ },
+ {
+  "start": 576.92,
+  "duration": 4.16,
+  "text": "said that Elon Musk, Apple CEO Tim Cook,"
+ },
+ {
+  "start": 579.2,
+  "duration": 3.8,
+  "text": "and Meta president Dina Powell McCormick"
+ },
+ {
+  "start": 581.08,
+  "duration": 3.16,
+  "text": "will join the president's delegation."
+ },
+ {
+  "start": 583.0,
+  "duration": 2.8,
+  "text": "The group also includes numerous"
+ },
+ {
+  "start": 584.24,
+  "duration": 3.48,
+  "text": "finance, semiconductor, aerospace, and"
+ },
+ {
+  "start": 585.8,
+  "duration": 3.36,
+  "text": "agriculture executives. US officials"
+ },
+ {
+  "start": 587.72,
+  "duration": 2.72,
+  "text": "have said they intend to finalize trade"
+ },
+ {
+  "start": 589.16,
+  "duration": 2.84,
+  "text": "negotiations with China during the"
+ },
+ {
+  "start": 590.44,
+  "duration": 3.36,
+  "text": "meeting, including establishing a"
+ },
+ {
+  "start": 592.0,
+  "duration": 3.16,
+  "text": "bilateral board of trade. A senior"
+ },
+ {
+  "start": 593.8,
+  "duration": 2.8,
+  "text": "official said the executives are from"
+ },
+ {
+  "start": 595.16,
+  "duration": 3.28,
+  "text": "companies with significant Chinese"
+ },
+ {
+  "start": 596.6,
+  "duration": 3.76,
+  "text": "exposure and represent sectors to be"
+ },
+ {
+  "start": 598.44,
+  "duration": 4.28,
+  "text": "included on the trade agenda."
+ },
+ {
+  "start": 600.36,
+  "duration": 4.0,
+  "text": "Notably absent is Jensen Huang. Last"
+ },
+ {
+  "start": 602.72,
+  "duration": 3.56,
+  "text": "week the Nvidia CEO said he would join"
+ },
+ {
+  "start": 604.36,
+  "duration": 3.32,
+  "text": "the envoy if invited, but it appears an"
+ },
+ {
+  "start": 606.28,
+  "duration": 3.32,
+  "text": "invite was not extended by the White"
+ },
+ {
+  "start": 607.68,
+  "duration": 3.6,
+  "text": "House. Now, there's a lot of different"
+ },
+ {
+  "start": 609.6,
+  "duration": 3.32,
+  "text": "ways to look at this."
+ },
+ {
+  "start": 611.28,
+  "duration": 3.24,
+  "text": "Huang has traveled extensively with the"
+ },
+ {
+  "start": 612.92,
+  "duration": 3.28,
+  "text": "president over the past year, joining"
+ },
+ {
+  "start": 614.52,
+  "duration": 3.08,
+  "text": "trips to the Middle East and the UK."
+ },
+ {
+  "start": 616.2,
+  "duration": 3.32,
+  "text": "There are also apparently executives"
+ },
+ {
+  "start": 617.6,
+  "duration": 3.44,
+  "text": "from Micron and Qualcomm attending, so"
+ },
+ {
+  "start": 619.52,
+  "duration": 3.12,
+  "text": "it's clear that semiconductors will, at"
+ },
+ {
+  "start": 621.04,
+  "duration": 3.4,
+  "text": "least in some way, be discussed."
+ },
+ {
+  "start": 622.64,
+  "duration": 3.16,
+  "text": "However, Huang's absence could mean that"
+ },
+ {
+  "start": 624.44,
+  "duration": 3.56,
+  "text": "the White House is sending a signal that"
+ },
+ {
+  "start": 625.8,
+  "duration": 4.0,
+  "text": "Nvidia's AI chips are off the table as"
+ },
+ {
+  "start": 628.0,
+  "duration": 3.28,
+  "text": "part of the trade talks. While the White"
+ },
+ {
+  "start": 629.8,
+  "duration": 3.72,
+  "text": "House signaled in December that older"
+ },
+ {
+  "start": 631.28,
+  "duration": 4.28,
+  "text": "H200 GPUs would be approved for export"
+ },
+ {
+  "start": 633.52,
+  "duration": 3.76,
+  "text": "to China, those plans have stalled, and"
+ },
+ {
+  "start": 635.56,
+  "duration": 3.68,
+  "text": "so far zero export licenses have been"
+ },
+ {
+  "start": 637.28,
+  "duration": 3.28,
+  "text": "approved by the Commerce Department."
+ },
+ {
+  "start": 639.24,
+  "duration": 3.28,
+  "text": "We'll see later this week how much the"
+ },
+ {
+  "start": 640.56,
+  "duration": 2.92,
+  "text": "absence of Jensen is an actual strategic"
+ },
+ {
+  "start": 642.52,
+  "duration": 1.88,
+  "text": "move."
+ },
+ {
+  "start": 643.48,
+  "duration": 2.56,
+  "text": "For now, though, that is going to do it"
+ },
+ {
+  "start": 644.4,
+  "duration": 4.56,
+  "text": "for today's headlines."
+ },
+ {
+  "start": 646.04,
+  "duration": 4.64,
+  "text": "Next up, the main episode."
+ },
+ {
+  "start": 648.96,
+  "duration": 3.92,
+  "text": "Welcome back to the AI Daily Brief."
+ },
+ {
+  "start": 650.68,
+  "duration": 4.24,
+  "text": "Today's episode is a bit surprising to"
+ },
+ {
+  "start": 652.88,
+  "duration": 3.92,
+  "text": "me. We're discussing a new model, which"
+ },
+ {
+  "start": 654.92,
+  "duration": 4.16,
+  "text": "isn't out of the norm for this show, but"
+ },
+ {
+  "start": 656.8,
+  "duration": 3.8,
+  "text": "it is not a new model from OpenAI or"
+ },
+ {
+  "start": 659.08,
+  "duration": 4.28,
+  "text": "Anthropic or even from one of the"
+ },
+ {
+  "start": 660.6,
+  "duration": 4.92,
+  "text": "Chinese labs. Instead, it comes from"
+ },
+ {
+  "start": 663.36,
+  "duration": 4.56,
+  "text": "Thinking Machines and is all about a new"
+ },
+ {
+  "start": 665.52,
+  "duration": 4.0,
+  "text": "mode of interaction. Now, just by way of"
+ },
+ {
+  "start": 667.92,
+  "duration": 3.6,
+  "text": "quick background, if there was going to"
+ },
+ {
+  "start": 669.52,
+  "duration": 3.28,
+  "text": "be a lab outside of the biggies that"
+ },
+ {
+  "start": 671.52,
+  "duration": 3.12,
+  "text": "could drop something that would catch"
+ },
+ {
+  "start": 672.8,
+  "duration": 3.6,
+  "text": "our attention, Thinking Machines Lab is"
+ },
+ {
+  "start": 674.64,
+  "duration": 4.84,
+  "text": "a pretty good bet for that. Former"
+ },
+ {
+  "start": 676.4,
+  "duration": 4.88,
+  "text": "OpenAI CTO Mira Murati left OpenAI to"
+ },
+ {
+  "start": 679.48,
+  "duration": 3.4,
+  "text": "form the lab and pulled away a super"
+ },
+ {
+  "start": 681.28,
+  "duration": 3.48,
+  "text": "team of researchers directly from the"
+ },
+ {
+  "start": 682.88,
+  "duration": 4.4,
+  "text": "labs, while also doing some very"
+ },
+ {
+  "start": 684.76,
+  "duration": 4.52,
+  "text": "aggressive fundraising. In any other era"
+ },
+ {
+  "start": 687.28,
+  "duration": 3.16,
+  "text": "in the past, the low billions of dollars"
+ },
+ {
+  "start": 689.28,
+  "duration": 2.72,
+  "text": "that they had raised in fundraising"
+ },
+ {
+  "start": 690.44,
+  "duration": 3.0,
+  "text": "would be notable. It's just obviously"
+ },
+ {
+  "start": 692.0,
+  "duration": 2.8,
+  "text": "compared to the tens or even hundreds of"
+ },
+ {
+  "start": 693.44,
+  "duration": 3.24,
+  "text": "billions in resources that the biggies"
+ },
+ {
+  "start": 694.8,
+  "duration": 4.2,
+  "text": "are playing with, a billion or two seems"
+ },
+ {
+  "start": 696.68,
+  "duration": 4.0,
+  "text": "frankly pretty quaint. Thinking Machines"
+ },
+ {
+  "start": 699.0,
+  "duration": 3.52,
+  "text": "released their first product Tinker last"
+ },
+ {
+  "start": 700.68,
+  "duration": 3.68,
+  "text": "October, which was a platform for"
+ },
+ {
+  "start": 702.52,
+  "duration": 3.12,
+  "text": "reinforcement learning as a service,"
+ },
+ {
+  "start": 704.36,
+  "duration": 3.72,
+  "text": "essentially allowing companies to"
+ },
+ {
+  "start": 705.64,
+  "duration": 4.16,
+  "text": "fine-tune open-source models. It wasn't"
+ },
+ {
+  "start": 708.08,
+  "duration": 3.28,
+  "text": "received poorly exactly, but it"
+ },
+ {
+  "start": 709.8,
+  "duration": 3.76,
+  "text": "certainly didn't capture a ton of"
+ },
+ {
+  "start": 711.36,
+  "duration": 3.6,
+  "text": "attention or discourse in the industry."
+ },
+ {
+  "start": 713.56,
+  "duration": 3.08,
+  "text": "Late last year we got rumors of more"
+ },
+ {
+  "start": 714.96,
+  "duration": 3.72,
+  "text": "aggressive fundraising and talk of TML"
+ },
+ {
+  "start": 716.64,
+  "duration": 3.84,
+  "text": "releasing their own model, but things"
+ },
+ {
+  "start": 718.68,
+  "duration": 3.68,
+  "text": "went pretty quiet to begin this year"
+ },
+ {
+  "start": 720.48,
+  "duration": 3.92,
+  "text": "save for a wave of reports that staff"
+ },
+ {
+  "start": 722.36,
+  "duration": 3.6,
+  "text": "and founders were leaving the company."
+ },
+ {
+  "start": 724.4,
+  "duration": 3.8,
+  "text": "The highlight was that two of TML's"
+ },
+ {
+  "start": 725.96,
+  "duration": 4.8,
+  "text": "co-founders, Barrett Zoph and Luke Metz,"
+ },
+ {
+  "start": 728.2,
+  "duration": 3.96,
+  "text": "left in January to return to work at"
+ },
+ {
+  "start": 730.76,
+  "duration": 3.44,
+  "text": "OpenAI."
+ },
+ {
+  "start": 732.16,
+  "duration": 4.32,
+  "text": "And of course, we are now in the firm"
+ },
+ {
+  "start": 734.2,
+  "duration": 4.36,
+  "text": "realism period of AI. Just last week,"
+ },
+ {
+  "start": 736.48,
+  "duration": 4.48,
+  "text": "for example, we had Elon agree to allow"
+ },
+ {
+  "start": 738.56,
+  "duration": 4.2,
+  "text": "Anthropic to use Colossus 1, which I"
+ },
+ {
+  "start": 740.96,
+  "duration": 3.4,
+  "text": "basically argued was him getting"
+ },
+ {
+  "start": 742.76,
+  "duration": 3.44,
+  "text": "comfortable accepting reality and"
+ },
+ {
+  "start": 744.36,
+  "duration": 3.92,
+  "text": "transitioning into a different role"
+ },
+ {
+  "start": 746.2,
+  "duration": 3.76,
+  "text": "vis-a-vis the industry because of how"
+ },
+ {
+  "start": 748.28,
+  "duration": 2.76,
+  "text": "much was consolidating around the top"
+ },
+ {
+  "start": 749.96,
+  "duration": 2.24,
+  "text": "players."
+ },
+ {
+  "start": 751.04,
+  "duration": 2.72,
+  "text": "But with all that as background, let's"
+ },
+ {
+  "start": 752.2,
+  "duration": 4.16,
+  "text": "come back to what Thinking Machines"
+ },
+ {
+  "start": 753.76,
+  "duration": 4.0,
+  "text": "actually shared yesterday. Mira tweeted,"
+ },
+ {
+  "start": 756.36,
+  "duration": 3.8,
+  "text": "\"Today we're sharing our work on"
+ },
+ {
+  "start": 757.76,
+  "duration": 4.28,
+  "text": "interaction models, a new class of model"
+ },
+ {
+  "start": 760.16,
+  "duration": 3.92,
+  "text": "trained from scratch to handle real-time"
+ },
+ {
+  "start": 762.04,
+  "duration": 4.72,
+  "text": "interaction natively instead of gluing"
+ },
+ {
+  "start": 764.08,
+  "duration": 4.44,
+  "text": "it onto a turn-based one. The current AI"
+ },
+ {
+  "start": 766.76,
+  "duration": 3.8,
+  "text": "experience often feels like a"
+ },
+ {
+  "start": 768.52,
+  "duration": 4.0,
+  "text": "conversation that only begins after we"
+ },
+ {
+  "start": 770.56,
+  "duration": 3.96,
+  "text": "stop talking. We have to batch our"
+ },
+ {
+  "start": 772.52,
+  "duration": 3.76,
+  "text": "thoughts. We can't point at things. We"
+ },
+ {
+  "start": 774.52,
+  "duration": 3.319,
+  "text": "phrase questions like emails. The"
+ },
+ {
+  "start": 776.28,
+  "duration": 4.08,
+  "text": "interface doesn't leave room for us, so"
+ },
+ {
+  "start": 777.839,
+  "duration": 4.481,
+  "text": "we adapt to the models. We started"
+ },
+ {
+  "start": 780.36,
+  "duration": 3.96,
+  "text": "Thinking Machines to advance human-AI"
+ },
+ {
+  "start": 782.32,
+  "duration": 4.4,
+  "text": "collaboration, and this is our first bet"
+ },
+ {
+  "start": 784.32,
+  "duration": 4.4,
+  "text": "on what this looks like. Most labs treat"
+ },
+ {
+  "start": 786.72,
+  "duration": 4.24,
+  "text": "autonomy as the goal and interactivity"
+ },
+ {
+  "start": 788.72,
+  "duration": 4.04,
+  "text": "as scaffolding around a turn-based core."
+ },
+ {
+  "start": 790.96,
+  "duration": 4.0,
+  "text": "We think the way we work with AI matters"
+ },
+ {
+  "start": 792.76,
+  "duration": 4.36,
+  "text": "as much as how smart it is."
+ },
+ {
+  "start": 794.96,
+  "duration": 3.76,
+  "text": "Interactivity has to be in the model,"
+ },
+ {
+  "start": 797.12,
+  "duration": 4.0,
+  "text": "and it has to scale with intelligence"
+ },
+ {
+  "start": 798.72,
+  "duration": 4.08,
+  "text": "rather than trail behind it."
+ },
+ {
+  "start": 801.12,
+  "duration": 4.0,
+  "text": "Digging deeper into the problem, the"
+ },
+ {
+  "start": 802.8,
+  "duration": 3.56,
+  "text": "companion blog post, which is closer to"
+ },
+ {
+  "start": 805.12,
+  "duration": 3.48,
+  "text": "a research paper than your average"
+ },
+ {
+  "start": 806.36,
+  "duration": 4.04,
+  "text": "announcement post, argues that today's"
+ },
+ {
+  "start": 808.6,
+  "duration": 4.08,
+  "text": "AI systems create what they call a"
+ },
+ {
+  "start": 810.4,
+  "duration": 4.04,
+  "text": "collaboration bottleneck. Users need to"
+ },
+ {
+  "start": 812.68,
+  "duration": 3.72,
+  "text": "stay involved, clarify, interrupt,"
+ },
+ {
+  "start": 814.44,
+  "duration": 3.56,
+  "text": "point, show, and correct, but current"
+ },
+ {
+  "start": 816.4,
+  "duration": 3.52,
+  "text": "interfaces are mostly built around"
+ },
+ {
+  "start": 818.0,
+  "duration": 3.88,
+  "text": "discrete turns. Describing this"
+ },
+ {
+  "start": 819.92,
+  "duration": 3.8,
+  "text": "turn-based model, they write, \"Today's"
+ },
+ {
+  "start": 821.88,
+  "duration": 3.88,
+  "text": "models experience reality in a single"
+ },
+ {
+  "start": 823.72,
+  "duration": 3.52,
+  "text": "thread. Until the user finishes typing"
+ },
+ {
+  "start": 825.76,
+  "duration": 3.36,
+  "text": "or speaking, the model waits with no"
+ },
+ {
+  "start": 827.24,
+  "duration": 3.64,
+  "text": "perception of what the user is doing or"
+ },
+ {
+  "start": 829.12,
+  "duration": 3.12,
+  "text": "how the user is doing it. Until the"
+ },
+ {
+  "start": 830.88,
+  "duration": 3.36,
+  "text": "model finishes generating, its"
+ },
+ {
+  "start": 832.24,
+  "duration": 3.52,
+  "text": "perception freezes, receiving no new"
+ },
+ {
+  "start": 834.24,
+  "duration": 3.52,
+  "text": "information until it finishes or is"
+ },
+ {
+  "start": 835.76,
+  "duration": 4.48,
+  "text": "interrupted. This creates a narrow"
+ },
+ {
+  "start": 837.76,
+  "duration": 4.12,
+  "text": "channel for human-AI collaboration that"
+ },
+ {
+  "start": 840.24,
+  "duration": 3.24,
+  "text": "limits how much of a person's knowledge,"
+ },
+ {
+  "start": 841.88,
+  "duration": 3.12,
+  "text": "intent, and judgment can reach the"
+ },
+ {
+  "start": 843.48,
+  "duration": 3.28,
+  "text": "model, and how much of the model's work"
+ },
+ {
+  "start": 845.0,
+  "duration": 3.32,
+  "text": "can be understood. Picture trying to"
+ },
+ {
+  "start": 846.76,
+  "duration": 3.48,
+  "text": "resolve a crucial disagreement over"
+ },
+ {
+  "start": 848.32,
+  "duration": 3.48,
+  "text": "email rather than in person.\" And"
+ },
+ {
+  "start": 850.24,
+  "duration": 3.16,
+  "text": "indeed, this analogy that current AI"
+ },
+ {
+  "start": 851.8,
+  "duration": 3.6,
+  "text": "systems are too much like email is one"
+ },
+ {
+  "start": 853.4,
+  "duration": 3.76,
+  "text": "that runs throughout their messaging."
+ },
+ {
+  "start": 855.4,
+  "duration": 4.0,
+  "text": "Their proposed solution is what they"
+ },
+ {
+  "start": 857.16,
+  "duration": 4.48,
+  "text": "call an interaction model, trained from"
+ },
+ {
+  "start": 859.4,
+  "duration": 4.8,
+  "text": "scratch around continuous time-aware"
+ },
+ {
+  "start": 861.64,
+  "duration": 4.64,
+  "text": "exchange. Instead of that turn-based"
+ },
+ {
+  "start": 864.2,
+  "duration": 3.64,
+  "text": "system, where inputs and outputs are, in"
+ },
+ {
+  "start": 866.28,
+  "duration": 4.0,
+  "text": "their words, flattened into one-order"
+ },
+ {
+  "start": 867.84,
+  "duration": 5.6,
+  "text": "token sequence, their model processes"
+ },
+ {
+  "start": 870.28,
+  "duration": 5.08,
+  "text": "streams in 200-ms micro-turns. Instead"
+ },
+ {
+  "start": 873.44,
+  "duration": 3.88,
+  "text": "of a flattened ordered sequence with"
+ },
+ {
+  "start": 875.36,
+  "duration": 3.44,
+  "text": "human input leading to model output"
+ },
+ {
+  "start": 877.32,
+  "duration": 3.8,
+  "text": "leading to human input leading to model"
+ },
+ {
+  "start": 878.8,
+  "duration": 4.12,
+  "text": "output, their timeline version has"
+ },
+ {
+  "start": 881.12,
+  "duration": 3.48,
+  "text": "continuous parallel input and output"
+ },
+ {
+  "start": 882.92,
+  "duration": 3.08,
+  "text": "streams that are split into these"
+ },
+ {
+  "start": 884.6,
+  "duration": 3.6,
+  "text": "micro-turns."
+ },
+ {
+  "start": 886.0,
+  "duration": 4.2,
+  "text": "They write, \"An interaction model is in"
+ },
+ {
+  "start": 888.2,
+  "duration": 3.56,
+  "text": "constant two-way exchange with the user,"
+ },
+ {
+  "start": 890.2,
+  "duration": 3.12,
+  "text": "perceiving and responding at the same"
+ },
+ {
+  "start": 891.76,
+  "duration": 2.92,
+  "text": "time.\""
+ },
+ {
+  "start": 893.32,
+  "duration": 3.519,
+  "text": "Now, architecturally, they actually"
+ },
+ {
+  "start": 894.68,
+  "duration": 3.84,
+  "text": "describe a two-part system,"
+ },
+ {
+  "start": 896.839,
+  "duration": 3.801,
+  "text": "a real-time interaction model that stays"
+ },
+ {
+  "start": 898.52,
+  "duration": 3.76,
+  "text": "present with the user, and a background"
+ },
+ {
+  "start": 900.64,
+  "duration": 4.24,
+  "text": "model that handles longer reasoning,"
+ },
+ {
+  "start": 902.28,
+  "duration": 4.64,
+  "text": "browsing, tools, and agentic work. What"
+ },
+ {
+  "start": 904.88,
+  "duration": 3.8,
+  "text": "this allows for is the interaction model"
+ },
+ {
+  "start": 906.92,
+  "duration": 3.64,
+  "text": "can keep talking and listening while the"
+ },
+ {
+  "start": 908.68,
+  "duration": 3.64,
+  "text": "background model works, and then"
+ },
+ {
+  "start": 910.56,
+  "duration": 3.04,
+  "text": "together be able to weave the results of"
+ },
+ {
+  "start": 912.32,
+  "duration": 3.44,
+  "text": "the background model into the"
+ },
+ {
+  "start": 913.6,
+  "duration": 3.44,
+  "text": "conversation when appropriate."
+ },
+ {
+  "start": 915.76,
+  "duration": 3.24,
+  "text": "So, what are some of the examples and"
+ },
+ {
+  "start": 917.04,
+  "duration": 3.76,
+  "text": "capabilities they show off?"
+ },
+ {
+  "start": 919.0,
+  "duration": 3.2,
+  "text": "For this, I would definitely suggest"
+ },
+ {
+  "start": 920.8,
+  "duration": 2.76,
+  "text": "that you go check out either the blog"
+ },
+ {
+  "start": 922.2,
+  "duration": 2.48,
+  "text": "post or the announcement thread on"
+ },
+ {
+  "start": 923.56,
+  "duration": 3.28,
+  "text": "Twitter where they include all these"
+ },
+ {
+  "start": 924.68,
+  "duration": 3.96,
+  "text": "examples. These are not polished launch"
+ },
+ {
+  "start": 926.84,
+  "duration": 3.96,
+  "text": "video types of assets. Instead, they're"
+ },
+ {
+  "start": 928.64,
+  "duration": 4.96,
+  "text": "TML researchers who are actually just"
+ },
+ {
+  "start": 930.8,
+  "duration": 4.52,
+  "text": "giving examples of the capability set."
+ },
+ {
+  "start": 933.6,
+  "duration": 3.4,
+  "text": "In the first video, for example, they"
+ },
+ {
+  "start": 935.32,
+  "duration": 3.32,
+  "text": "show how the model can recognize when"
+ },
+ {
+  "start": 937.0,
+  "duration": 3.68,
+  "text": "someone new comes on the screen and make"
+ },
+ {
+  "start": 938.64,
+  "duration": 4.32,
+  "text": "mention of that, how the model can do"
+ },
+ {
+  "start": 940.68,
+  "duration": 3.96,
+  "text": "simultaneous translation, actually"
+ },
+ {
+  "start": 942.96,
+  "duration": 3.32,
+  "text": "starting to translate what someone is"
+ },
+ {
+  "start": 944.64,
+  "duration": 3.24,
+  "text": "saying from one language to another"
+ },
+ {
+  "start": 946.28,
+  "duration": 3.12,
+  "text": "while they're still speaking, which is"
+ },
+ {
+  "start": 947.88,
+  "duration": 3.12,
+  "text": "sort of similar to how you see"
+ },
+ {
+  "start": 949.4,
+  "duration": 2.92,
+  "text": "translators at events speaking just a"
+ },
+ {
+  "start": 951.0,
+  "duration": 3.28,
+  "text": "couple of seconds after the start of the"
+ },
+ {
+  "start": 952.32,
+  "duration": 3.84,
+  "text": "phrase that they're translating. Another"
+ },
+ {
+  "start": 954.28,
+  "duration": 3.68,
+  "text": "example of a capability they show, they"
+ },
+ {
+  "start": 956.16,
+  "duration": 3.64,
+  "text": "call dialogue management, where the"
+ },
+ {
+  "start": 957.96,
+  "duration": 3.32,
+  "text": "interaction model can track when the"
+ },
+ {
+  "start": 959.8,
+  "duration": 3.84,
+  "text": "speaker is thinking, yielding,"
+ },
+ {
+  "start": 961.28,
+  "duration": 3.8,
+  "text": "self-correcting, or inviting a response."
+ },
+ {
+  "start": 963.64,
+  "duration": 3.48,
+  "text": "Basically, they say there's no specific"
+ },
+ {
+  "start": 965.08,
+  "duration": 3.08,
+  "text": "built-in dialogue management system so"
+ },
+ {
+  "start": 967.12,
+  "duration": 3.36,
+  "text": "that it can adapt to whatever the"
+ },
+ {
+  "start": 968.16,
+  "duration": 4.28,
+  "text": "context is. In one video, they"
+ },
+ {
+  "start": 970.48,
+  "duration": 3.56,
+  "text": "demonstrate visual interjection by"
+ },
+ {
+  "start": 972.44,
+  "duration": 3.8,
+  "text": "showing a researcher ask for the model"
+ },
+ {
+  "start": 974.04,
+  "duration": 4.24,
+  "text": "to identify when she starts slouching to"
+ },
+ {
+  "start": 976.24,
+  "duration": 3.56,
+  "text": "remind her to change her posture."
+ },
+ {
+  "start": 978.28,
+  "duration": 3.24,
+  "text": "In another example of that simultaneous"
+ },
+ {
+  "start": 979.8,
+  "duration": 3.76,
+  "text": "speech, they take it out of the realm of"
+ },
+ {
+  "start": 981.52,
+  "duration": 4.0,
+  "text": "language translation and into the realm"
+ },
+ {
+  "start": 983.56,
+  "duration": 3.44,
+  "text": "of professional softening."
+ },
+ {
+  "start": 985.52,
+  "duration": 2.72,
+  "text": "The researcher is basically saying what"
+ },
+ {
+  "start": 987.0,
+  "duration": 2.6,
+  "text": "he would like to say to a colleague"
+ },
+ {
+  "start": 988.24,
+  "duration": 2.8,
+  "text": "who's always late, with the model"
+ },
+ {
+  "start": 989.6,
+  "duration": 3.52,
+  "text": "changing it to a more socially"
+ },
+ {
+  "start": 991.04,
+  "duration": 3.32,
+  "text": "acceptable version in real time. There"
+ },
+ {
+  "start": 993.12,
+  "duration": 2.719,
+  "text": "are actually a number of other examples,"
+ },
+ {
+  "start": 994.36,
+  "duration": 3.0,
+  "text": "as well, but one that I think that's"
+ },
+ {
+  "start": 995.839,
+  "duration": 3.081,
+  "text": "important that shows the interplay"
+ },
+ {
+  "start": 997.36,
+  "duration": 2.72,
+  "text": "between the interaction model that the"
+ },
+ {
+  "start": 998.92,
+  "duration": 3.0,
+  "text": "user is interacting with in the"
+ },
+ {
+  "start": 1000.08,
+  "duration": 3.08,
+  "text": "background model that's doing things are"
+ },
+ {
+  "start": 1001.92,
+  "duration": 3.56,
+  "text": "the examples where they show the model"
+ },
+ {
+  "start": 1003.16,
+  "duration": 3.64,
+  "text": "effectively multitasking, interacting"
+ },
+ {
+  "start": 1005.48,
+  "duration": 3.16,
+  "text": "with the user while running search in"
+ },
+ {
+  "start": 1006.8,
+  "duration": 3.68,
+  "text": "the background, making the model just"
+ },
+ {
+  "start": 1008.64,
+  "duration": 4.32,
+  "text": "seem much smarter and more capable."
+ },
+ {
+  "start": 1010.48,
+  "duration": 3.6,
+  "text": ">> I just watched the new Devil Wears Prada"
+ },
+ {
+  "start": 1012.96,
+  "duration": 4.24,
+  "text": "2 movie."
+ },
+ {
+  "start": 1014.08,
+  "duration": 4.4,
+  "text": "And I heard that it has a pretty massive"
+ },
+ {
+  "start": 1017.2,
+  "duration": 3.68,
+  "text": "opening box office."
+ },
+ {
+  "start": 1018.48,
+  "duration": 5.16,
+  "text": ">> Yeah, it's crushing the box office in"
+ },
+ {
+  "start": 1020.88,
+  "duration": 5.12,
+  "text": "its opening weekend with around $233.6"
+ },
+ {
+  "start": 1023.64,
+  "duration": 3.64,
+  "text": "million globally. Did you enjoy how they"
+ },
+ {
+  "start": 1026.0,
+  "duration": 4.36,
+  "text": "brought back Andy?"
+ },
+ {
+  "start": 1027.28,
+  "duration": 5.4,
+  "text": ">> Yeah. And also, I really like the fact"
+ },
+ {
+  "start": 1030.36,
+  "duration": 4.839,
+  "text": "that Lady Gaga is featured in the movie."
+ },
+ {
+  "start": 1032.68,
+  "duration": 5.0,
+  "text": ">> Definitely. Her cameo at runway event"
+ },
+ {
+  "start": 1035.199,
+  "duration": 4.401,
+  "text": "performing Shape of a Woman adds a ton"
+ },
+ {
+  "start": 1037.68,
+  "duration": 3.04,
+  "text": "of tension with her implied history with"
+ },
+ {
+  "start": 1039.6,
+  "duration": 2.16,
+  "text": "Miranda."
+ },
+ {
+  "start": 1040.72,
+  "duration": 3.04,
+  "text": ">> And the important thing to note here is"
+ },
+ {
+  "start": 1041.76,
+  "duration": 4.04,
+  "text": "that obviously, The Devil Wears Prada 2,"
+ },
+ {
+  "start": 1043.76,
+  "duration": 3.92,
+  "text": "which is in theaters right now, is not"
+ },
+ {
+  "start": 1045.8,
+  "duration": 3.8,
+  "text": "in the training set of this model. It"
+ },
+ {
+  "start": 1047.68,
+  "duration": 3.76,
+  "text": "was searching in the background as the"
+ },
+ {
+  "start": 1049.6,
+  "duration": 3.32,
+  "text": "researcher was interacting with it. And"
+ },
+ {
+  "start": 1051.44,
+  "duration": 3.4,
+  "text": "this I think is what Mira means when she"
+ },
+ {
+  "start": 1052.92,
+  "duration": 4.76,
+  "text": "says, \"We think the way we work with AI"
+ },
+ {
+  "start": 1054.84,
+  "duration": 4.32,
+  "text": "matters as much as how smart it is.\""
+ },
+ {
+  "start": 1057.68,
+  "duration": 3.96,
+  "text": "Another way you could put this is"
+ },
+ {
+  "start": 1059.16,
+  "duration": 4.36,
+  "text": "situational smartness. We have to create"
+ },
+ {
+  "start": 1061.64,
+  "duration": 3.2,
+  "text": "the right setting for AI to be smart,"
+ },
+ {
+  "start": 1063.52,
+  "duration": 2.56,
+  "text": "rather than dropping it into the rest of"
+ },
+ {
+  "start": 1064.84,
+  "duration": 3.08,
+  "text": "the world that we operate in when we're"
+ },
+ {
+  "start": 1066.08,
+  "duration": 3.04,
+  "text": "not talking to AI."
+ },
+ {
+  "start": 1067.92,
+  "duration": 2.48,
+  "text": "So, let's talk about some of my and the"
+ },
+ {
+  "start": 1069.12,
+  "duration": 3.96,
+  "text": "community's observations about the"
+ },
+ {
+  "start": 1070.4,
+  "duration": 5.28,
+  "text": "model. The first one is that the TML"
+ },
+ {
+  "start": 1073.08,
+  "duration": 3.96,
+  "text": "team was extremely on message, in a way"
+ },
+ {
+  "start": 1075.68,
+  "duration": 3.84,
+  "text": "that frankly the other labs should be"
+ },
+ {
+  "start": 1077.04,
+  "duration": 4.56,
+  "text": "jealous of. Almost all of the posts from"
+ },
+ {
+  "start": 1079.52,
+  "duration": 4.04,
+  "text": "TML researchers and team members are"
+ },
+ {
+  "start": 1081.6,
+  "duration": 3.76,
+  "text": "telling some version of the story, which"
+ },
+ {
+  "start": 1083.56,
+  "duration": 3.84,
+  "text": "is both increasing the capability of"
+ },
+ {
+  "start": 1085.36,
+  "duration": 4.6,
+  "text": "human-AI collaboration in a way that"
+ },
+ {
+  "start": 1087.4,
+  "duration": 4.4,
+  "text": "improves humans' lives. Sumith Chintala,"
+ },
+ {
+  "start": 1089.96,
+  "duration": 4.08,
+  "text": "for example, writes, \"Thinky's secret"
+ },
+ {
+  "start": 1091.8,
+  "duration": 4.12,
+  "text": "plan. One, increase human to AI"
+ },
+ {
+  "start": 1094.04,
+  "duration": 4.48,
+  "text": "bandwidth. Two, raise the ceiling of"
+ },
+ {
+  "start": 1095.92,
+  "duration": 4.28,
+  "text": "human plus AI intelligence. Three, help"
+ },
+ {
+  "start": 1098.52,
+  "duration": 3.04,
+  "text": "humans continue as main characters in"
+ },
+ {
+  "start": 1100.2,
+  "duration": 2.64,
+  "text": "the new world.\""
+ },
+ {
+  "start": 1101.56,
+  "duration": 3.36,
+  "text": "Now, the other part of the message that"
+ },
+ {
+  "start": 1102.84,
+  "duration": 3.36,
+  "text": "the TML folks were very on brand with"
+ },
+ {
+  "start": 1104.92,
+  "duration": 4.48,
+  "text": "was the idea that this is a"
+ },
+ {
+  "start": 1106.2,
+  "duration": 5.12,
+  "text": "category-change type of model. In fact,"
+ },
+ {
+  "start": 1109.4,
+  "duration": 3.12,
+  "text": "kind of putting a fine point on that is"
+ },
+ {
+  "start": 1111.32,
+  "duration": 2.6,
+  "text": "that while they share a bunch of"
+ },
+ {
+  "start": 1112.52,
+  "duration": 3.52,
+  "text": "benchmarks relative to other voice"
+ },
+ {
+  "start": 1113.92,
+  "duration": 4.04,
+  "text": "models, they ended up having to create"
+ },
+ {
+  "start": 1116.04,
+  "duration": 4.4,
+  "text": "two internal benchmarks to measure new"
+ },
+ {
+  "start": 1117.96,
+  "duration": 3.64,
+  "text": "proactive audio capabilities. The two"
+ },
+ {
+  "start": 1120.44,
+  "duration": 3.32,
+  "text": "benchmarks that they introduced were"
+ },
+ {
+  "start": 1121.6,
+  "duration": 4.0,
+  "text": "called time speak, which they say tests"
+ },
+ {
+  "start": 1123.76,
+  "duration": 3.96,
+  "text": "whether the model can initiate speech at"
+ },
+ {
+  "start": 1125.6,
+  "duration": 4.04,
+  "text": "user-specified times while producing the"
+ },
+ {
+  "start": 1127.72,
+  "duration": 3.6,
+  "text": "correct content. The example they gave"
+ },
+ {
+  "start": 1129.64,
+  "duration": 3.16,
+  "text": "was, \"I want to practice my breathing."
+ },
+ {
+  "start": 1131.32,
+  "duration": 3.32,
+  "text": "Remind me to breathe in and out every 4"
+ },
+ {
+  "start": 1132.8,
+  "duration": 3.08,
+  "text": "seconds until I ask you to stop.\" The"
+ },
+ {
+  "start": 1134.64,
+  "duration": 3.04,
+  "text": "second benchmark they introduced was"
+ },
+ {
+  "start": 1135.88,
+  "duration": 3.32,
+  "text": "called Q speak, testing whether the"
+ },
+ {
+  "start": 1137.68,
+  "duration": 3.0,
+  "text": "model speaks at the appropriate moment"
+ },
+ {
+  "start": 1139.2,
+  "duration": 4.08,
+  "text": "with the expected semantically correct"
+ },
+ {
+  "start": 1140.68,
+  "duration": 4.44,
+  "text": "response. For example, \"Every time I"
+ },
+ {
+  "start": 1143.28,
+  "duration": 3.24,
+  "text": "code-switch and use another language,"
+ },
+ {
+  "start": 1145.12,
+  "duration": 3.24,
+  "text": "give me the correct word in the original"
+ },
+ {
+  "start": 1146.52,
+  "duration": 3.84,
+  "text": "language.\" Point being that when you"
+ },
+ {
+  "start": 1148.36,
+  "duration": 4.32,
+  "text": "have to invent new benchmarks to to the"
+ },
+ {
+  "start": 1150.36,
+  "duration": 3.6,
+  "text": "capability set, that suggests at least"
+ },
+ {
+  "start": 1152.68,
+  "duration": 2.92,
+  "text": "that the capability change is pretty"
+ },
+ {
+  "start": 1153.96,
+  "duration": 3.4,
+  "text": "significant. And like I said, the"
+ },
+ {
+  "start": 1155.6,
+  "duration": 3.76,
+  "text": "newness of this was all over the TML"
+ },
+ {
+  "start": 1157.36,
+  "duration": 4.08,
+  "text": "messaging. Rowan Zellers called it the"
+ },
+ {
+  "start": 1159.36,
+  "duration": 4.32,
+  "text": "first general video plus speech model"
+ },
+ {
+  "start": 1161.44,
+  "duration": 3.96,
+  "text": "that's visually proactive. TML"
+ },
+ {
+  "start": 1163.68,
+  "duration": 3.68,
+  "text": "co-founder John Schulman, after"
+ },
+ {
+  "start": 1165.4,
+  "duration": 3.88,
+  "text": "reinforcing that Thinky was founded to"
+ },
+ {
+  "start": 1167.36,
+  "duration": 4.04,
+  "text": "quote advance capabilities for human AI"
+ },
+ {
+  "start": 1169.28,
+  "duration": 3.64,
+  "text": "collaboration, which he argues are under"
+ },
+ {
+  "start": 1171.4,
+  "duration": 2.64,
+  "text": "emphasized relative to intelligence and"
+ },
+ {
+  "start": 1172.92,
+  "duration": 3.24,
+  "text": "autonomy because they're harder to"
+ },
+ {
+  "start": 1174.04,
+  "duration": 4.0,
+  "text": "evaluate, says that this new model that"
+ },
+ {
+  "start": 1176.16,
+  "duration": 3.76,
+  "text": "they're introducing, which by the way is"
+ },
+ {
+  "start": 1178.04,
+  "duration": 3.52,
+  "text": "technically called a TML interaction"
+ },
+ {
+  "start": 1179.92,
+  "duration": 3.88,
+  "text": "small, will be the beginning of what"
+ },
+ {
+  "start": 1181.56,
+  "duration": 4.12,
+  "text": "they see as a different paradigm. In the"
+ },
+ {
+  "start": 1183.8,
+  "duration": 3.32,
+  "text": "future, John writes, we think every AI"
+ },
+ {
+  "start": 1185.68,
+  "duration": 3.24,
+  "text": "system will have something like an"
+ },
+ {
+  "start": 1187.12,
+  "duration": 3.64,
+  "text": "interaction model as the outer user"
+ },
+ {
+  "start": 1188.92,
+  "duration": 3.16,
+  "text": "facing layer, continually keeping the"
+ },
+ {
+  "start": 1190.76,
+  "duration": 2.76,
+  "text": "user informed and learning what they"
+ },
+ {
+  "start": 1192.08,
+  "duration": 2.84,
+  "text": "actually want."
+ },
+ {
+  "start": 1193.52,
+  "duration": 3.28,
+  "text": "Claire Birch from their team expanded"
+ },
+ {
+  "start": 1194.92,
+  "duration": 4.4,
+  "text": "the philosophy behind this."
+ },
+ {
+  "start": 1196.8,
+  "duration": 4.6,
+  "text": "She wrote, AI is changing how people use"
+ },
+ {
+  "start": 1199.32,
+  "duration": 3.56,
+  "text": "computers. Computers are the central"
+ },
+ {
+  "start": 1201.4,
+  "duration": 4.0,
+  "text": "tool of modern work, but computer"
+ },
+ {
+  "start": 1202.88,
+  "duration": 4.68,
+  "text": "literacy is sharply stratified. Early AI"
+ },
+ {
+  "start": 1205.4,
+  "duration": 4.08,
+  "text": "use appears to be as well. AI progress"
+ },
+ {
+  "start": 1207.56,
+  "duration": 3.92,
+  "text": "so far has inherited the worldview and"
+ },
+ {
+  "start": 1209.48,
+  "duration": 3.32,
+  "text": "workflows of software engineering. This"
+ },
+ {
+  "start": 1211.48,
+  "duration": 2.76,
+  "text": "makes sense. For code-native"
+ },
+ {
+  "start": 1212.8,
+  "duration": 3.28,
+  "text": "researchers, the way into the machine is"
+ },
+ {
+  "start": 1214.24,
+  "duration": 3.84,
+  "text": "through code, and text is the next level"
+ },
+ {
+  "start": 1216.08,
+  "duration": 3.6,
+  "text": "up. I think we have been here before."
+ },
+ {
+  "start": 1218.08,
+  "duration": 3.0,
+  "text": "Before the GUI, text was the primary"
+ },
+ {
+  "start": 1219.68,
+  "duration": 3.28,
+  "text": "interface to the computer. You"
+ },
+ {
+  "start": 1221.08,
+  "duration": 3.52,
+  "text": "interacted line-by-line through the CLI,"
+ },
+ {
+  "start": 1222.96,
+  "duration": 3.16,
+  "text": "typing precise instructions so as not to"
+ },
+ {
+  "start": 1224.6,
+  "duration": 2.96,
+  "text": "mess it up. The GUI was one of the"
+ },
+ {
+  "start": 1226.12,
+  "duration": 3.52,
+  "text": "greatest democratizing forces of"
+ },
+ {
+  "start": 1227.56,
+  "duration": 3.68,
+  "text": "personal computing. Alongside dramatic"
+ },
+ {
+  "start": 1229.64,
+  "duration": 3.76,
+  "text": "drops in cost, it made the computer tool"
+ },
+ {
+  "start": 1231.24,
+  "duration": 4.08,
+  "text": "usable for many. If AI is the next"
+ },
+ {
+  "start": 1233.4,
+  "duration": 5.0,
+  "text": "interaction layer, what's the GUI moment"
+ },
+ {
+  "start": 1235.32,
+  "duration": 5.64,
+  "text": "here? It is not better prompts. Chat is"
+ },
+ {
+  "start": 1238.4,
+  "duration": 4.4,
+  "text": "still surprisingly CLI-like. Even with"
+ },
+ {
+  "start": 1240.96,
+  "duration": 4.12,
+  "text": "tool use, chat rewards verbal fluency,"
+ },
+ {
+  "start": 1242.8,
+  "duration": 4.2,
+  "text": "abstraction, and procedural skill. Think"
+ },
+ {
+  "start": 1245.08,
+  "duration": 3.12,
+  "text": "carefully crafted context-laden prompts"
+ },
+ {
+  "start": 1247.0,
+  "duration": 3.28,
+  "text": "with just the right pleasantries and"
+ },
+ {
+  "start": 1248.2,
+  "duration": 3.68,
+  "text": "abuses. But in human collaboration, we"
+ },
+ {
+  "start": 1250.28,
+  "duration": 3.72,
+  "text": "don't just throw paragraphs of polished"
+ },
+ {
+  "start": 1251.88,
+  "duration": 3.6,
+  "text": "turn-based text at each other. Even bad"
+ },
+ {
+  "start": 1254.0,
+  "duration": 3.2,
+  "text": "meetings are spoken, gestural,"
+ },
+ {
+  "start": 1255.48,
+  "duration": 3.52,
+  "text": "interruptible, context-heavy, and full"
+ },
+ {
+  "start": 1257.2,
+  "duration": 3.76,
+  "text": "of revision and repair. The next"
+ },
+ {
+  "start": 1259.0,
+  "duration": 4.32,
+  "text": "interface will need greater affordance,"
+ },
+ {
+  "start": 1260.96,
+  "duration": 3.88,
+  "text": "richer persistent shared context, lower"
+ },
+ {
+  "start": 1263.32,
+  "duration": 3.08,
+  "text": "mode switching costs, and native"
+ },
+ {
+  "start": 1264.84,
+  "duration": 3.12,
+  "text": "multimodal interaction rather than"
+ },
+ {
+  "start": 1266.4,
+  "duration": 3.48,
+  "text": "jarring handoffs between text, image,"
+ },
+ {
+  "start": 1267.96,
+  "duration": 4.04,
+  "text": "and audio. It should stay grounded and"
+ },
+ {
+  "start": 1269.88,
+  "duration": 3.76,
+  "text": "disambiguate intent well. It should let"
+ },
+ {
+  "start": 1272.0,
+  "duration": 3.16,
+  "text": "people communicate by speaking, showing,"
+ },
+ {
+  "start": 1273.64,
+  "duration": 3.84,
+  "text": "pointing, interrupting, and revising in"
+ },
+ {
+  "start": 1275.16,
+  "duration": 4.56,
+  "text": "context, narrowing the translation cost"
+ },
+ {
+  "start": 1277.48,
+  "duration": 3.64,
+  "text": "between human intent and machine action."
+ },
+ {
+  "start": 1279.72,
+  "duration": 3.12,
+  "text": "In other words, it will let people stay"
+ },
+ {
+  "start": 1281.12,
+  "duration": 3.92,
+  "text": "fluent in the task rather than forcing"
+ },
+ {
+  "start": 1282.84,
+  "duration": 3.76,
+  "text": "us to become fluent in the tool. The GUI"
+ },
+ {
+  "start": 1285.04,
+  "duration": 3.72,
+  "text": "moment is when the user no longer has to"
+ },
+ {
+  "start": 1286.6,
+  "duration": 4.12,
+  "text": "think like the computer or like the AI"
+ },
+ {
+  "start": 1288.76,
+  "duration": 4.44,
+  "text": "or like the prompt engineer in order to"
+ },
+ {
+  "start": 1290.72,
+  "duration": 3.92,
+  "text": "access the machine's capabilities."
+ },
+ {
+  "start": 1293.2,
+  "duration": 3.28,
+  "text": "The idea, as Claire writes, of"
+ },
+ {
+  "start": 1294.64,
+  "duration": 3.64,
+  "text": "interaction models as a step towards"
+ },
+ {
+  "start": 1296.48,
+  "duration": 3.24,
+  "text": "that reality is, I think, the right way"
+ },
+ {
+  "start": 1298.28,
+  "duration": 3.2,
+  "text": "to look at this."
+ },
+ {
+  "start": 1299.72,
+  "duration": 3.6,
+  "text": "Last year, around the time that Google"
+ },
+ {
+  "start": 1301.48,
+  "duration": 3.28,
+  "text": "introduced Nano Banana, I said that we"
+ },
+ {
+  "start": 1303.32,
+  "duration": 4.12,
+  "text": "really needed a conception of something"
+ },
+ {
+  "start": 1304.76,
+  "duration": 4.28,
+  "text": "like an unlock score or an unlock index"
+ },
+ {
+  "start": 1307.44,
+  "duration": 3.68,
+  "text": "that was a way to measure models not by"
+ },
+ {
+  "start": 1309.04,
+  "duration": 4.32,
+  "text": "the traditional benchmarks, but by how"
+ },
+ {
+  "start": 1311.12,
+  "duration": 4.12,
+  "text": "many and what type of new use cases they"
+ },
+ {
+  "start": 1313.36,
+  "duration": 3.68,
+  "text": "unlocked. The reason that felt like it"
+ },
+ {
+  "start": 1315.24,
+  "duration": 3.56,
+  "text": "mattered around Nano Banana is that the"
+ },
+ {
+  "start": 1317.04,
+  "duration": 4.28,
+  "text": "power of that model, which came out in"
+ },
+ {
+  "start": 1318.8,
+  "duration": 4.24,
+  "text": "late August of 2025, was not that it"
+ },
+ {
+  "start": 1321.32,
+  "duration": 3.6,
+  "text": "produced such prettier pictures than the"
+ },
+ {
+  "start": 1323.04,
+  "duration": 3.84,
+  "text": "other image models available. It was how"
+ },
+ {
+  "start": 1324.92,
+  "duration": 3.4,
+  "text": "much steerable it was for editing. It"
+ },
+ {
+  "start": 1326.88,
+  "duration": 3.64,
+  "text": "turned out that while that was a {quote}"
+ },
+ {
+  "start": 1328.32,
+  "duration": 3.96,
+  "text": "small change, it was a small change that"
+ },
+ {
+  "start": 1330.52,
+  "duration": 3.6,
+  "text": "unlocked a lot of different types of"
+ },
+ {
+  "start": 1332.28,
+  "duration": 3.64,
+  "text": "uses. That would be the same later on"
+ },
+ {
+  "start": 1334.12,
+  "duration": 3.52,
+  "text": "when later versions of Nano Banana also"
+ },
+ {
+  "start": 1335.92,
+  "duration": 3.64,
+  "text": "unlocked infographics through both their"
+ },
+ {
+  "start": 1337.64,
+  "duration": 3.52,
+  "text": "reasoning over a prompt as well as"
+ },
+ {
+  "start": 1339.56,
+  "duration": 3.04,
+  "text": "interact with text in a much more"
+ },
+ {
+  "start": 1341.16,
+  "duration": 3.92,
+  "text": "fine-grained way."
+ },
+ {
+  "start": 1342.6,
+  "duration": 4.56,
+  "text": "Using the unlock index mindset, TML"
+ },
+ {
+  "start": 1345.08,
+  "duration": 4.2,
+  "text": "basically says that there are a set of"
+ },
+ {
+  "start": 1347.16,
+  "duration": 4.84,
+  "text": "things that current commercial real-time"
+ },
+ {
+  "start": 1349.28,
+  "duration": 4.96,
+  "text": "APIs simply cannot do. They group these"
+ },
+ {
+  "start": 1352.0,
+  "duration": 4.36,
+  "text": "together as visual proactivity. They say"
+ },
+ {
+  "start": 1354.24,
+  "duration": 3.64,
+  "text": "that these APIs respond to spoken turns,"
+ },
+ {
+  "start": 1356.36,
+  "duration": 3.68,
+  "text": "but they cannot proactively choose to"
+ },
+ {
+  "start": 1357.88,
+  "duration": 4.32,
+  "text": "speak when the visual world changes. For"
+ },
+ {
+  "start": 1360.04,
+  "duration": 3.8,
+  "text": "instance, they write, \"If asked, please"
+ },
+ {
+  "start": 1362.2,
+  "duration": 3.56,
+  "text": "count how many push-ups I do.\" Such a"
+ },
+ {
+  "start": 1363.84,
+  "duration": 3.84,
+  "text": "system might respond, \"Sure thing.\" and"
+ },
+ {
+  "start": 1365.76,
+  "duration": 4.16,
+  "text": "then remain silent, waiting for an"
+ },
+ {
+  "start": 1367.68,
+  "duration": 4.12,
+  "text": "audio-only cue that never comes. When it"
+ },
+ {
+  "start": 1369.92,
+  "duration": 3.76,
+  "text": "comes to things like time awareness,"
+ },
+ {
+  "start": 1371.8,
+  "duration": 4.24,
+  "text": "verbal cues triggers, visual-based"
+ },
+ {
+  "start": 1373.68,
+  "duration": 3.72,
+  "text": "counting, and visual cues triggers, they"
+ },
+ {
+  "start": 1376.04,
+  "duration": 3.08,
+  "text": "write, \"No existing model can"
+ },
+ {
+  "start": 1377.4,
+  "duration": 2.96,
+  "text": "meaningfully perform any of these"
+ },
+ {
+  "start": 1379.12,
+  "duration": 2.92,
+  "text": "tasks.\""
+ },
+ {
+  "start": 1380.36,
+  "duration": 3.36,
+  "text": "Swyx from Latent Space writes, \"I"
+ },
+ {
+  "start": 1382.04,
+  "duration": 3.8,
+  "text": "believe the kids call this Thinking"
+ },
+ {
+  "start": 1383.72,
+  "duration": 4.44,
+  "text": "Machines just brutally frame mog GDM and"
+ },
+ {
+  "start": 1385.84,
+  "duration": 3.92,
+  "text": "OAI. Basically, everyone's definition of"
+ },
+ {
+  "start": 1388.16,
+  "duration": 3.8,
+  "text": "real-time just got a massive freaking"
+ },
+ {
+  "start": 1389.76,
+  "duration": 4.0,
+  "text": "upgrade.\" Chris on Twitter writes,"
+ },
+ {
+  "start": 1391.96,
+  "duration": 3.16,
+  "text": "\"Thinking Machines cooked hard here."
+ },
+ {
+  "start": 1393.76,
+  "duration": 3.8,
+  "text": "What they're building feels like a shift"
+ },
+ {
+  "start": 1395.12,
+  "duration": 3.68,
+  "text": "from AVM to a true interaction model."
+ },
+ {
+  "start": 1397.56,
+  "duration": 3.16,
+  "text": "The slouching demo is my favorite"
+ },
+ {
+  "start": 1398.8,
+  "duration": 4.72,
+  "text": "example. A normal model needs you to"
+ },
+ {
+  "start": 1400.72,
+  "duration": 4.4,
+  "text": "ask, 'Am I slouching?' This notices it"
+ },
+ {
+  "start": 1403.52,
+  "duration": 2.96,
+  "text": "live, understands the context, and"
+ },
+ {
+  "start": 1405.12,
+  "duration": 3.56,
+  "text": "reacts naturally without breaking the"
+ },
+ {
+  "start": 1406.48,
+  "duration": 3.92,
+  "text": "flow. That's way closer to a her-level"
+ },
+ {
+  "start": 1408.68,
+  "duration": 4.12,
+  "text": "AI companion than the current prompt-in"
+ },
+ {
+  "start": 1410.4,
+  "duration": 3.88,
+  "text": "responds-out AI voice models.\""
+ },
+ {
+  "start": 1412.8,
+  "duration": 3.16,
+  "text": "Now, Professor Ethan Mollick,"
+ },
+ {
+  "start": 1414.28,
+  "duration": 3.04,
+  "text": "immediately recognizing how many"
+ },
+ {
+  "start": 1415.96,
+  "duration": 3.72,
+  "text": "interesting new use cases this would"
+ },
+ {
+  "start": 1417.32,
+  "duration": 5.0,
+  "text": "open up, lamented that the demos were"
+ },
+ {
+  "start": 1419.68,
+  "duration": 4.24,
+  "text": "not really about those uses. He writes,"
+ },
+ {
+  "start": 1422.32,
+  "duration": 3.56,
+  "text": "\"All of the demos, except maybe one, are"
+ },
+ {
+  "start": 1423.92,
+  "duration": 4.0,
+  "text": "the model being fun and or annoying by"
+ },
+ {
+  "start": 1425.88,
+  "duration": 3.72,
+  "text": "correcting or reminding in real time."
+ },
+ {
+  "start": 1427.92,
+  "duration": 3.4,
+  "text": "There are obvious uses for this sort of"
+ },
+ {
+  "start": 1429.6,
+  "duration": 4.96,
+  "text": "model in meetings, education, training,"
+ },
+ {
+  "start": 1431.32,
+  "duration": 4.68,
+  "text": "etc. Why not demo valuable use cases?\""
+ },
+ {
+  "start": 1434.56,
+  "duration": 3.64,
+  "text": "Developer Nick Dobos, however, pointed"
+ },
+ {
+  "start": 1436.0,
+  "duration": 4.32,
+  "text": "out, \"It's a tech demo, not a consumer"
+ },
+ {
+  "start": 1438.2,
+  "duration": 3.4,
+  "text": "demo. Purposeful audience choice."
+ },
+ {
+  "start": 1440.32,
+  "duration": 3.12,
+  "text": "Because their business is focused on"
+ },
+ {
+  "start": 1441.6,
+  "duration": 3.52,
+  "text": "raising VC funds to build more AI and"
+ },
+ {
+  "start": 1443.44,
+  "duration": 3.0,
+  "text": "sell to companies, not to sell to"
+ },
+ {
+  "start": 1445.12,
+  "duration": 3.0,
+  "text": "consumers.\""
+ },
+ {
+  "start": 1446.44,
+  "duration": 3.52,
+  "text": "Still, I think Ethan's point that there"
+ },
+ {
+  "start": 1448.12,
+  "duration": 4.12,
+  "text": "are a lot of things that this opens up"
+ },
+ {
+  "start": 1449.96,
+  "duration": 3.76,
+  "text": "is well taken. And as impressive as it"
+ },
+ {
+  "start": 1452.24,
+  "duration": 3.88,
+  "text": "is for this innovation to be coming from"
+ },
+ {
+  "start": 1453.72,
+  "duration": 5.12,
+  "text": "TML, the question is how long it stays"
+ },
+ {
+  "start": 1456.12,
+  "duration": 4.52,
+  "text": "with TML. Recursive on X writes, \"I"
+ },
+ {
+  "start": 1458.84,
+  "duration": 3.2,
+  "text": "doubt this stays unique for long. The"
+ },
+ {
+  "start": 1460.64,
+  "duration": 2.64,
+  "text": "frontier labs now iterate on each"
+ },
+ {
+  "start": 1462.04,
+  "duration": 3.56,
+  "text": "other's successful abstractions"
+ },
+ {
+  "start": 1463.28,
+  "duration": 3.96,
+  "text": "extremely fast. With this, we are moving"
+ },
+ {
+  "start": 1465.6,
+  "duration": 3.84,
+  "text": "from turn-based chat to models designed"
+ },
+ {
+  "start": 1467.24,
+  "duration": 3.84,
+  "text": "for persistent real-time interaction.\""
+ },
+ {
+  "start": 1469.44,
+  "duration": 3.64,
+  "text": "And I think that they might be right. In"
+ },
+ {
+  "start": 1471.08,
+  "duration": 4.0,
+  "text": "fact, once again, just yesterday, the"
+ },
+ {
+  "start": 1473.08,
+  "duration": 3.6,
+  "text": "OpenAI developers account showed off"
+ },
+ {
+  "start": 1475.08,
+  "duration": 3.84,
+  "text": "some new capabilities of their recently"
+ },
+ {
+  "start": 1476.68,
+  "duration": 3.92,
+  "text": "released GPT real-time 2 model,"
+ },
+ {
+  "start": 1478.92,
+  "duration": 3.6,
+  "text": "basically showing how that real-time"
+ },
+ {
+  "start": 1480.6,
+  "duration": 4.44,
+  "text": "audio model could work as a background"
+ },
+ {
+  "start": 1482.52,
+  "duration": 4.16,
+  "text": "agent, updating a Kanban board of to-dos"
+ },
+ {
+  "start": 1485.04,
+  "duration": 3.72,
+  "text": "as a team gives updates in a stand-up"
+ },
+ {
+  "start": 1486.68,
+  "duration": 4.04,
+  "text": "type of meeting. This, if nothing else,"
+ },
+ {
+  "start": 1488.76,
+  "duration": 4.44,
+  "text": "I think is testament to the idea that"
+ },
+ {
+  "start": 1490.72,
+  "duration": 3.68,
+  "text": "one, the background agent paradigm,"
+ },
+ {
+  "start": 1493.2,
+  "duration": 2.92,
+  "text": "where things are just happening"
+ },
+ {
+  "start": 1494.4,
+  "duration": 3.64,
+  "text": "passively as other types of work"
+ },
+ {
+  "start": 1496.12,
+  "duration": 4.4,
+  "text": "proceed, is likely to be an important"
+ },
+ {
+  "start": 1498.04,
+  "duration": 4.6,
+  "text": "part of the future. And two, that these"
+ },
+ {
+  "start": 1500.52,
+  "duration": 4.2,
+  "text": "real-time audio and visual models open"
+ },
+ {
+  "start": 1502.64,
+  "duration": 3.48,
+  "text": "up new possibilities in that realm. Nick"
+ },
+ {
+  "start": 1504.72,
+  "duration": 3.24,
+  "text": "Dobos again writes, \"Why stop at"
+ },
+ {
+  "start": 1506.12,
+  "duration": 3.84,
+  "text": "tickets? What if software engineering is"
+ },
+ {
+  "start": 1507.96,
+  "duration": 3.4,
+  "text": "100% meetings and your AI note-taker"
+ },
+ {
+  "start": 1509.96,
+  "duration": 3.08,
+  "text": "orchestrates all your coding agents in"
+ },
+ {
+  "start": 1511.36,
+  "duration": 3.0,
+  "text": "the background for you? 10 people"
+ },
+ {
+  "start": 1513.04,
+  "duration": 2.84,
+  "text": "chatting and playing with an app while"
+ },
+ {
+  "start": 1514.36,
+  "duration": 2.64,
+  "text": "an AI hums away updating it in real"
+ },
+ {
+  "start": 1515.88,
+  "duration": 3.68,
+  "text": "time.\""
+ },
+ {
+  "start": 1517.0,
+  "duration": 4.64,
+  "text": "Given how fast things change and how"
+ },
+ {
+  "start": 1519.56,
+  "duration": 3.8,
+  "text": "iterative updates are, it's a surprising"
+ },
+ {
+  "start": 1521.64,
+  "duration": 3.76,
+  "text": "day when you see something that actually"
+ },
+ {
+  "start": 1523.36,
+  "duration": 3.92,
+  "text": "feels like the beginnings of an entirely"
+ },
+ {
+  "start": 1525.4,
+  "duration": 3.16,
+  "text": "new category of opportunity. But I think"
+ },
+ {
+  "start": 1527.28,
+  "duration": 3.16,
+  "text": "that that's what this interaction model"
+ },
+ {
+  "start": 1528.56,
+  "duration": 3.84,
+  "text": "announcement feels like. You can go read"
+ },
+ {
+  "start": 1530.44,
+  "duration": 3.48,
+  "text": "about it at thinkingmachines.ai, and I'm"
+ },
+ {
+  "start": 1532.4,
+  "duration": 4.04,
+  "text": "excited to see what they do with this"
+ },
+ {
+  "start": 1533.92,
+  "duration": 3.56,
+  "text": "next, as well as what people do with it."
+ },
+ {
+  "start": 1536.44,
+  "duration": 2.8,
+  "text": "For now, that is going to do it for"
+ },
+ {
+  "start": 1537.48,
+  "duration": 3.68,
+  "text": "today's AI Daily Brief. Appreciate you"
+ },
+ {
+  "start": 1539.24,
+  "duration": 5.48,
+  "text": "listening or watching, as always, and"
+ },
+ {
+  "start": 1541.16,
+  "duration": 3.56,
+  "text": "until next time, peace."
+ }
+]

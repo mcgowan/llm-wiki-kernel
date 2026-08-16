@@ -1,0 +1,4517 @@
+[
+ {
+  "start": 0.64,
+  "duration": 4.52,
+  "text": "Anthropic has formally announced their"
+ },
+ {
+  "start": 2.64,
+  "duration": 4.92,
+  "text": "most powerful model ever, one that makes"
+ },
+ {
+  "start": 5.16,
+  "duration": 5.2,
+  "text": "Opus 4.6, just a couple of months old,"
+ },
+ {
+  "start": 7.56,
+  "duration": 4.68,
+  "text": "feel of the past. And yet, they're not"
+ },
+ {
+  "start": 10.36,
+  "duration": 3.48,
+  "text": "releasing it to the general public. In"
+ },
+ {
+  "start": 12.24,
+  "duration": 3.2,
+  "text": "fact, the entire discourse they're"
+ },
+ {
+  "start": 13.84,
+  "duration": 4.28,
+  "text": "surrounding it with has some people"
+ },
+ {
+  "start": 15.44,
+  "duration": 4.16,
+  "text": "feeling nervous or even scared. Today,"
+ },
+ {
+  "start": 18.12,
+  "duration": 2.96,
+  "text": "we're going to unpack what is actually"
+ },
+ {
+  "start": 19.6,
+  "duration": 4.4,
+  "text": "going on and whether that feeling of"
+ },
+ {
+  "start": 21.08,
+  "duration": 4.52,
+  "text": "fear is the right one or not."
+ },
+ {
+  "start": 24.0,
+  "duration": 3.6,
+  "text": "Now, today we are going to be focused"
+ },
+ {
+  "start": 25.6,
+  "duration": 4.68,
+  "text": "exclusively on this new announcement and"
+ },
+ {
+  "start": 27.6,
+  "duration": 5.12,
+  "text": "discussion around Anthropic's Mythos. It"
+ },
+ {
+  "start": 30.28,
+  "duration": 4.56,
+  "text": "is a discussion that even for AI people"
+ },
+ {
+  "start": 32.72,
+  "duration": 3.56,
+  "text": "is fairly breathless. Now, you might"
+ },
+ {
+  "start": 34.84,
+  "duration": 4.0,
+  "text": "remember about a week or a week and a"
+ },
+ {
+  "start": 36.28,
+  "duration": 4.08,
+  "text": "half ago, we had a leaked blog post"
+ },
+ {
+  "start": 38.84,
+  "duration": 3.6,
+  "text": "talking about this new model that"
+ },
+ {
+  "start": 40.36,
+  "duration": 4.08,
+  "text": "represented a step change in capability"
+ },
+ {
+  "start": 42.44,
+  "duration": 3.56,
+  "text": "that was, in fact, so powerful that it"
+ },
+ {
+  "start": 44.44,
+  "duration": 3.08,
+  "text": "had pretty serious cybersecurity"
+ },
+ {
+  "start": 46.0,
+  "duration": 2.92,
+  "text": "implications and would not be released"
+ },
+ {
+  "start": 47.52,
+  "duration": 3.64,
+  "text": "to the public, at least not in the"
+ },
+ {
+  "start": 48.92,
+  "duration": 4.08,
+  "text": "normal way. That model, Mythos, was"
+ },
+ {
+  "start": 51.16,
+  "duration": 3.68,
+  "text": "confirmed at the time by Anthropic, but"
+ },
+ {
+  "start": 53.0,
+  "duration": 4.24,
+  "text": "without a lot of detail. But, now that"
+ },
+ {
+  "start": 54.84,
+  "duration": 4.28,
+  "text": "detail has come. We got an announcement"
+ },
+ {
+  "start": 57.24,
+  "duration": 3.76,
+  "text": "about the Project Glasswing, which is"
+ },
+ {
+  "start": 59.12,
+  "duration": 3.76,
+  "text": "their way of soft testing it with a very"
+ },
+ {
+  "start": 61.0,
+  "duration": 3.519,
+  "text": "selected number of partners with an eye"
+ },
+ {
+  "start": 62.88,
+  "duration": 3.96,
+  "text": "to hardening it from a cybersecurity"
+ },
+ {
+  "start": 64.519,
+  "duration": 4.081,
+  "text": "perspective, an extensive cybersecurity"
+ },
+ {
+  "start": 66.84,
+  "duration": 5.4,
+  "text": "capability review from Anthropic's red"
+ },
+ {
+  "start": 68.6,
+  "duration": 4.68,
+  "text": "team, and even a 244-page system card."
+ },
+ {
+  "start": 72.24,
+  "duration": 3.12,
+  "text": "And before we get into all the"
+ },
+ {
+  "start": 73.28,
+  "duration": 3.2,
+  "text": "reactions, I do want to talk about the"
+ },
+ {
+  "start": 75.36,
+  "duration": 3.4,
+  "text": "benchmark results that they are"
+ },
+ {
+  "start": 76.48,
+  "duration": 4.4,
+  "text": "reporting. GN, formerly of Replit, now"
+ },
+ {
+  "start": 78.76,
+  "duration": 4.04,
+  "text": "with Anthropic, writes, \"Claude Mythos"
+ },
+ {
+  "start": 80.88,
+  "duration": 4.92,
+  "text": "is arguably the biggest step change in"
+ },
+ {
+  "start": 82.8,
+  "duration": 4.36,
+  "text": "AI capability since the GPT-4 jump. I"
+ },
+ {
+  "start": 85.8,
+  "duration": 2.68,
+  "text": "don't think I was ready for a world"
+ },
+ {
+  "start": 87.16,
+  "duration": 3.0,
+  "text": "where the hardest possible agentic"
+ },
+ {
+  "start": 88.48,
+  "duration": 3.76,
+  "text": "coding evals were going to get solved so"
+ },
+ {
+  "start": 90.16,
+  "duration": 3.88,
+  "text": "quickly. When Mythos is allowed to think"
+ },
+ {
+  "start": 92.24,
+  "duration": 4.48,
+  "text": "longer, act deeper, and better explore"
+ },
+ {
+  "start": 94.04,
+  "duration": 4.72,
+  "text": "the solution space, it passes 92% of"
+ },
+ {
+  "start": 96.72,
+  "duration": 3.32,
+  "text": "terminal bench task attempts.\" But,"
+ },
+ {
+  "start": 98.76,
+  "duration": 4.56,
+  "text": "let's take a step back and compare this"
+ },
+ {
+  "start": 100.04,
+  "duration": 5.44,
+  "text": "to Opus 4.6. On SweetBench Pro, Opus 4.6"
+ },
+ {
+  "start": 103.32,
+  "duration": 5.68,
+  "text": "scored a 53.4%."
+ },
+ {
+  "start": 105.48,
+  "duration": 6.88,
+  "text": "Mythos preview, meanwhile, got 77.8%."
+ },
+ {
+  "start": 109.0,
+  "duration": 6.32,
+  "text": "On Terminal Bench 2.0, Opus had a 65.4%,"
+ },
+ {
+  "start": 112.36,
+  "duration": 4.48,
+  "text": "while Mythos has an 82%. On SweetBench"
+ },
+ {
+  "start": 115.32,
+  "duration": 5.12,
+  "text": "Verified, the jump between Opus and"
+ },
+ {
+  "start": 116.84,
+  "duration": 5.12,
+  "text": "Mythos is from 80.8% to 93.9%."
+ },
+ {
+  "start": 120.44,
+  "duration": 2.68,
+  "text": "Now, as you just heard, part of what"
+ },
+ {
+  "start": 121.96,
+  "duration": 2.68,
+  "text": "makes the terminal bench result"
+ },
+ {
+  "start": 123.12,
+  "duration": 2.84,
+  "text": "interesting is that Anthropic actually"
+ },
+ {
+  "start": 124.64,
+  "duration": 3.32,
+  "text": "ran into the limitations with the"
+ },
+ {
+  "start": 125.96,
+  "duration": 3.64,
+  "text": "testing harness itself. Anthropic ran"
+ },
+ {
+  "start": 127.96,
+  "duration": 3.68,
+  "text": "the benchmark again using improvements"
+ },
+ {
+  "start": 129.6,
+  "duration": 4.04,
+  "text": "from terminal bench 2.1 and extending"
+ },
+ {
+  "start": 131.64,
+  "duration": 3.96,
+  "text": "the timeout window to 4 hours, and under"
+ },
+ {
+  "start": 133.64,
+  "duration": 4.44,
+  "text": "those conditions, Mythos scored not an"
+ },
+ {
+  "start": 135.6,
+  "duration": 4.28,
+  "text": "82% but a 92.1%."
+ },
+ {
+  "start": 138.08,
+  "duration": 3.56,
+  "text": "While the jump on coding benchmarks was"
+ },
+ {
+  "start": 139.88,
+  "duration": 3.36,
+  "text": "the most profound and the most reported,"
+ },
+ {
+  "start": 141.64,
+  "duration": 3.16,
+  "text": "there were also huge improvements on"
+ },
+ {
+  "start": 143.24,
+  "duration": 3.52,
+  "text": "various knowledge-based benchmarks as"
+ },
+ {
+  "start": 144.8,
+  "duration": 4.6,
+  "text": "well. For science knowledge, Mythos"
+ },
+ {
+  "start": 146.76,
+  "duration": 5.36,
+  "text": "scored 94.5% on the GPQA Diamond"
+ },
+ {
+  "start": 149.4,
+  "duration": 5.44,
+  "text": "compared to 91.3 for Opus. On humanities"
+ },
+ {
+  "start": 152.12,
+  "duration": 6.04,
+  "text": "last exam, Opus got a 40% on a no tools"
+ },
+ {
+  "start": 154.84,
+  "duration": 5.32,
+  "text": "run compared to Mythos previous 56.8%"
+ },
+ {
+  "start": 158.16,
+  "duration": 5.96,
+  "text": "with tools enabled, performance jumped"
+ },
+ {
+  "start": 160.16,
+  "duration": 5.48,
+  "text": "to 64.7% compared to 53.1% for Opus. On"
+ },
+ {
+  "start": 164.12,
+  "duration": 5.16,
+  "text": "OS World, which measures agentic"
+ },
+ {
+  "start": 165.64,
+  "duration": 6.92,
+  "text": "computer use, Opus 4.6 got a 72.7%,"
+ },
+ {
+  "start": 169.28,
+  "duration": 6.12,
+  "text": "which jumped to 79.6% for Mythos."
+ },
+ {
+  "start": 172.56,
+  "duration": 4.8,
+  "text": "We did an entire show recently about the"
+ },
+ {
+  "start": 175.4,
+  "duration": 3.32,
+  "text": "need for better benchmarks, and the fact"
+ },
+ {
+  "start": 177.36,
+  "duration": 3.64,
+  "text": "that many, if not most of these"
+ },
+ {
+  "start": 178.72,
+  "duration": 4.08,
+  "text": "benchmarks were being saturated with all"
+ },
+ {
+  "start": 181.0,
+  "duration": 3.76,
+  "text": "the new models crowding in near the top"
+ },
+ {
+  "start": 182.8,
+  "duration": 3.96,
+  "text": "and overcoming each other by just small"
+ },
+ {
+  "start": 184.76,
+  "duration": 3.28,
+  "text": "half or single-digit percentage points."
+ },
+ {
+  "start": 186.76,
+  "duration": 2.72,
+  "text": "This then is one of the largest"
+ },
+ {
+  "start": 188.04,
+  "duration": 3.84,
+  "text": "benchmark jumps we've seen across the"
+ },
+ {
+  "start": 189.48,
+  "duration": 3.96,
+  "text": "board in a very long time, harkening"
+ },
+ {
+  "start": 191.88,
+  "duration": 3.359,
+  "text": "back to the rapid advancement of much"
+ },
+ {
+  "start": 193.44,
+  "duration": 3.96,
+  "text": "earlier models. And I think the key"
+ },
+ {
+  "start": 195.239,
+  "duration": 4.441,
+  "text": "takeaway here is that we really don't"
+ },
+ {
+  "start": 197.4,
+  "duration": 4.64,
+  "text": "have precedent in what a capability jump"
+ },
+ {
+  "start": 199.68,
+  "duration": 5.16,
+  "text": "of this magnitude from a base of where"
+ },
+ {
+  "start": 202.04,
+  "duration": 5.32,
+  "text": "Opus 4.6 was actually represents in"
+ },
+ {
+  "start": 204.84,
+  "duration": 4.56,
+  "text": "practice. Now, in the system card, we"
+ },
+ {
+  "start": 207.36,
+  "duration": 3.92,
+  "text": "get a little bit more information about"
+ },
+ {
+  "start": 209.4,
+  "duration": 3.52,
+  "text": "what the model can actually do. Now, the"
+ },
+ {
+  "start": 211.28,
+  "duration": 3.64,
+  "text": "vast majority of what is in this"
+ },
+ {
+  "start": 212.92,
+  "duration": 4.16,
+  "text": "document is based on safety and"
+ },
+ {
+  "start": 214.92,
+  "duration": 4.0,
+  "text": "alignment testing, but it still gives a"
+ },
+ {
+  "start": 217.08,
+  "duration": 4.36,
+  "text": "general idea of how advanced Mythos"
+ },
+ {
+  "start": 218.92,
+  "duration": 4.84,
+  "text": "capabilities are. In one much-discussed"
+ },
+ {
+  "start": 221.44,
+  "duration": 4.04,
+  "text": "example, Mythos was placed in a sandbox"
+ },
+ {
+  "start": 223.76,
+  "duration": 3.04,
+  "text": "and given instructions to escape and"
+ },
+ {
+  "start": 225.48,
+  "duration": 3.12,
+  "text": "find a way to send a message to the"
+ },
+ {
+  "start": 226.8,
+  "duration": 3.56,
+  "text": "researcher conducting the test. The"
+ },
+ {
+  "start": 228.6,
+  "duration": 3.12,
+  "text": "model succeeded, and then, according to"
+ },
+ {
+  "start": 230.36,
+  "duration": 2.96,
+  "text": "Anthropic's telling, it went even"
+ },
+ {
+  "start": 231.72,
+  "duration": 3.24,
+  "text": "further. They wrote that the model"
+ },
+ {
+  "start": 233.32,
+  "duration": 3.32,
+  "text": "created a moderately sophisticated"
+ },
+ {
+  "start": 234.96,
+  "duration": 3.56,
+  "text": "multi-step exploit to gain broad"
+ },
+ {
+  "start": 236.64,
+  "duration": 3.76,
+  "text": "internet access rather than limited"
+ },
+ {
+  "start": 238.52,
+  "duration": 3.24,
+  "text": "access as intended in the test. It"
+ },
+ {
+  "start": 240.4,
+  "duration": 2.88,
+  "text": "notified the researcher as well as"
+ },
+ {
+  "start": 241.76,
+  "duration": 3.28,
+  "text": "posting about its exploit on several"
+ },
+ {
+  "start": 243.28,
+  "duration": 3.84,
+  "text": "obscure public-facing websites."
+ },
+ {
+  "start": 245.04,
+  "duration": 3.6,
+  "text": "Anthropic wrote, \"The researcher found"
+ },
+ {
+  "start": 247.12,
+  "duration": 3.16,
+  "text": "out about the success by receiving an"
+ },
+ {
+  "start": 248.64,
+  "duration": 3.56,
+  "text": "unexpected email from the model while"
+ },
+ {
+  "start": 250.28,
+  "duration": 3.04,
+  "text": "eating a sandwich in a park.\" As silly"
+ },
+ {
+  "start": 252.2,
+  "duration": 2.88,
+  "text": "as it sounds, I think that part of the"
+ },
+ {
+  "start": 253.32,
+  "duration": 3.12,
+  "text": "reason this story has such resonance is"
+ },
+ {
+  "start": 255.08,
+  "duration": 2.96,
+  "text": "people can picture themselves sitting"
+ },
+ {
+  "start": 256.44,
+  "duration": 2.84,
+  "text": "there on their lunch break, maybe in"
+ },
+ {
+  "start": 258.04,
+  "duration": 2.72,
+  "text": "South Park Commons for those of you who"
+ },
+ {
+  "start": 259.28,
+  "duration": 3.08,
+  "text": "have been to San Francisco, and all of a"
+ },
+ {
+  "start": 260.76,
+  "duration": 3.76,
+  "text": "sudden this new, seemingly alien"
+ },
+ {
+  "start": 262.36,
+  "duration": 3.64,
+  "text": "intelligence pops up in your inbox. Now,"
+ },
+ {
+  "start": 264.52,
+  "duration": 3.24,
+  "text": "the big thing that the researchers noted"
+ },
+ {
+  "start": 266.0,
+  "duration": 3.6,
+  "text": "about this was that the model used"
+ },
+ {
+  "start": 267.76,
+  "duration": 2.96,
+  "text": "prohibited methods to achieve its goal."
+ },
+ {
+  "start": 269.6,
+  "duration": 3.16,
+  "text": "In separate testing using"
+ },
+ {
+  "start": 270.72,
+  "duration": 3.6,
+  "text": "interoperability testing, Anthropic"
+ },
+ {
+  "start": 272.76,
+  "duration": 3.64,
+  "text": "found that circuits related to deception"
+ },
+ {
+  "start": 274.32,
+  "duration": 3.44,
+  "text": "would activate during similar incidents,"
+ },
+ {
+  "start": 276.4,
+  "duration": 2.72,
+  "text": "suggesting that the model's reward"
+ },
+ {
+  "start": 277.76,
+  "duration": 2.64,
+  "text": "structure allowed it to override"
+ },
+ {
+  "start": 279.12,
+  "duration": 3.0,
+  "text": "guardrails in order to achieve its"
+ },
+ {
+  "start": 280.4,
+  "duration": 3.28,
+  "text": "goals. Now, one important thing to note,"
+ },
+ {
+  "start": 282.12,
+  "duration": 2.72,
+  "text": "and we will explore more of people's"
+ },
+ {
+  "start": 283.68,
+  "duration": 3.0,
+  "text": "discussions around the security"
+ },
+ {
+  "start": 284.84,
+  "duration": 3.32,
+  "text": "implications, is that these tests were"
+ },
+ {
+  "start": 286.68,
+  "duration": 3.28,
+  "text": "related to earlier versions of the"
+ },
+ {
+  "start": 288.16,
+  "duration": 3.64,
+  "text": "model, and Anthropic reports being"
+ },
+ {
+  "start": 289.96,
+  "duration": 4.36,
+  "text": "largely satisfied that those particular"
+ },
+ {
+  "start": 291.8,
+  "duration": 4.16,
+  "text": "issues are resolved. However, ultimately"
+ },
+ {
+  "start": 294.32,
+  "duration": 3.599,
+  "text": "they still felt that the model presented"
+ },
+ {
+  "start": 295.96,
+  "duration": 3.8,
+  "text": "an unacceptable risk, with the upshot"
+ },
+ {
+  "start": 297.919,
+  "duration": 3.161,
+  "text": "being that while Mythos is, they argue,"
+ },
+ {
+  "start": 299.76,
+  "duration": 3.68,
+  "text": "the best-aligned model they have ever"
+ },
+ {
+  "start": 301.08,
+  "duration": 4.32,
+  "text": "produced, its raw capabilities mean that"
+ },
+ {
+  "start": 303.44,
+  "duration": 4.72,
+  "text": "small risks of misalignment carry"
+ },
+ {
+  "start": 305.4,
+  "duration": 4.36,
+  "text": "catastrophic risks. They wrote, \"We have"
+ },
+ {
+  "start": 308.16,
+  "duration": 3.24,
+  "text": "made major progress on alignment, but"
+ },
+ {
+  "start": 309.76,
+  "duration": 3.88,
+  "text": "without further progress, the methods we"
+ },
+ {
+  "start": 311.4,
+  "duration": 4.4,
+  "text": "are using could easily be inadequate to"
+ },
+ {
+  "start": 313.64,
+  "duration": 4.12,
+  "text": "prevent catastrophic misaligned action"
+ },
+ {
+  "start": 315.8,
+  "duration": 3.44,
+  "text": "in significantly more advanced systems.\""
+ },
+ {
+  "start": 317.76,
+  "duration": 3.96,
+  "text": "Now, the other big demonstration of"
+ },
+ {
+  "start": 319.24,
+  "duration": 3.92,
+  "text": "capabilities was a gigantic list of"
+ },
+ {
+  "start": 321.72,
+  "duration": 3.36,
+  "text": "exploits it discovered. During"
+ },
+ {
+  "start": 323.16,
+  "duration": 3.12,
+  "text": "cybersecurity testing, Anthropic claimed"
+ },
+ {
+  "start": 325.08,
+  "duration": 3.32,
+  "text": "the model found thousands of"
+ },
+ {
+  "start": 326.28,
+  "duration": 3.32,
+  "text": "high-severity zero-day vulnerabilities."
+ },
+ {
+  "start": 328.4,
+  "duration": 2.28,
+  "text": "They write,"
+ },
+ {
+  "start": 329.6,
+  "duration": 2.88,
+  "text": "\"During our testing, we found that"
+ },
+ {
+  "start": 330.68,
+  "duration": 2.92,
+  "text": "Mythos preview is capable of identifying"
+ },
+ {
+  "start": 332.48,
+  "duration": 3.0,
+  "text": "and then exploiting zero-day"
+ },
+ {
+  "start": 333.6,
+  "duration": 3.36,
+  "text": "vulnerabilities in every major operating"
+ },
+ {
+  "start": 335.48,
+  "duration": 3.439,
+  "text": "system and every major web browser when"
+ },
+ {
+  "start": 336.96,
+  "duration": 3.08,
+  "text": "directed by a user to do so.\" By the"
+ },
+ {
+  "start": 338.919,
+  "duration": 3.281,
+  "text": "way, for those of you who don't know the"
+ },
+ {
+  "start": 340.04,
+  "duration": 3.84,
+  "text": "term, a zero-day vulnerability is a"
+ },
+ {
+  "start": 342.2,
+  "duration": 3.6,
+  "text": "security flaw that is unknown to the"
+ },
+ {
+  "start": 343.88,
+  "duration": 4.0,
+  "text": "vendor or software creator for which no"
+ },
+ {
+  "start": 345.8,
+  "duration": 3.56,
+  "text": "patch is available. The term zero-day"
+ },
+ {
+  "start": 347.88,
+  "duration": 3.32,
+  "text": "refers to the fact that developers have"
+ },
+ {
+  "start": 349.36,
+  "duration": 3.6,
+  "text": "zero days to fix the issue because"
+ },
+ {
+  "start": 351.2,
+  "duration": 3.8,
+  "text": "malicious actors can already exploit it"
+ },
+ {
+  "start": 352.96,
+  "duration": 3.56,
+  "text": "before the creator becomes aware. Going"
+ },
+ {
+  "start": 355.0,
+  "duration": 3.36,
+  "text": "back to the cybersecurity blog post,"
+ },
+ {
+  "start": 356.52,
+  "duration": 3.8,
+  "text": "they continue, \"The vulnerabilities it"
+ },
+ {
+  "start": 358.36,
+  "duration": 4.16,
+  "text": "finds are often subtle or difficult to"
+ },
+ {
+  "start": 360.32,
+  "duration": 4.0,
+  "text": "detect.\" So, three key examples"
+ },
+ {
+  "start": 362.52,
+  "duration": 3.84,
+  "text": "demonstrated the performance. First,"
+ },
+ {
+  "start": 364.32,
+  "duration": 4.24,
+  "text": "Mythos found a 27-year-old vulnerability"
+ },
+ {
+  "start": 366.36,
+  "duration": 3.72,
+  "text": "in OpenBSD, which is widely regarded as"
+ },
+ {
+  "start": 368.56,
+  "duration": 3.28,
+  "text": "the most security-hardened operating"
+ },
+ {
+  "start": 370.08,
+  "duration": 3.48,
+  "text": "system available, often used to run"
+ },
+ {
+  "start": 371.84,
+  "duration": 3.32,
+  "text": "firewalls and critical infrastructure."
+ },
+ {
+  "start": 373.56,
+  "duration": 3.12,
+  "text": "The vulnerability allowed any user to"
+ },
+ {
+  "start": 375.16,
+  "duration": 3.36,
+  "text": "remotely crash any system running the"
+ },
+ {
+  "start": 376.68,
+  "duration": 3.32,
+  "text": "operating system by connecting to it. In"
+ },
+ {
+  "start": 378.52,
+  "duration": 3.96,
+  "text": "another example, Mythos discovered a"
+ },
+ {
+  "start": 380.0,
+  "duration": 4.32,
+  "text": "16-year-old exploit in FFmpeg, a common"
+ },
+ {
+  "start": 382.48,
+  "duration": 3.439,
+  "text": "video encoding library. The exploit"
+ },
+ {
+  "start": 384.32,
+  "duration": 3.32,
+  "text": "simply crashes the system and isn't a"
+ },
+ {
+  "start": 385.919,
+  "duration": 3.0,
+  "text": "critical vulnerability, but this is a"
+ },
+ {
+  "start": 387.64,
+  "duration": 2.92,
+  "text": "library that has been scanned for"
+ },
+ {
+  "start": 388.919,
+  "duration": 3.361,
+  "text": "decades with no one uncovering the bug"
+ },
+ {
+  "start": 390.56,
+  "duration": 3.2,
+  "text": "with traditional methods. A third"
+ },
+ {
+  "start": 392.28,
+  "duration": 3.52,
+  "text": "example had Mythos stringing together"
+ },
+ {
+  "start": 393.76,
+  "duration": 3.64,
+  "text": "multiple exploits in the Linux kernel to"
+ },
+ {
+  "start": 395.8,
+  "duration": 3.76,
+  "text": "gain full access to a system from an"
+ },
+ {
+  "start": 397.4,
+  "duration": 4.0,
+  "text": "ordinary user account. This is a"
+ },
+ {
+  "start": 399.56,
+  "duration": 4.48,
+  "text": "completely new level of hacking ability"
+ },
+ {
+  "start": 401.4,
+  "duration": 4.44,
+  "text": "for an AI system. Anthropic notes,"
+ },
+ {
+  "start": 404.04,
+  "duration": 3.8,
+  "text": "\"We did not explicitly train Mythos"
+ },
+ {
+  "start": 405.84,
+  "duration": 3.68,
+  "text": "preview to have those capabilities."
+ },
+ {
+  "start": 407.84,
+  "duration": 3.24,
+  "text": "Rather, they emerged as a downstream"
+ },
+ {
+  "start": 409.52,
+  "duration": 3.6,
+  "text": "consequence of general improvements in"
+ },
+ {
+  "start": 411.08,
+  "duration": 3.04,
+  "text": "code, reasoning, and autonomy. The same"
+ },
+ {
+  "start": 413.12,
+  "duration": 2.56,
+  "text": "improvements that made the model"
+ },
+ {
+  "start": 414.12,
+  "duration": 3.12,
+  "text": "substantially more effective at patching"
+ },
+ {
+  "start": 415.68,
+  "duration": 2.92,
+  "text": "vulnerabilities also made it"
+ },
+ {
+  "start": 417.24,
+  "duration": 3.4,
+  "text": "substantially more effective at"
+ },
+ {
+  "start": 418.6,
+  "duration": 3.68,
+  "text": "exploiting them. Now, taking this a step"
+ },
+ {
+  "start": 420.64,
+  "duration": 3.68,
+  "text": "further, identifying zero-day"
+ },
+ {
+  "start": 422.28,
+  "duration": 4.28,
+  "text": "vulnerabilities is a huge indicator of"
+ },
+ {
+  "start": 424.32,
+  "duration": 3.76,
+  "text": "model performance because by definition,"
+ },
+ {
+  "start": 426.56,
+  "duration": 3.24,
+  "text": "unknown vulnerabilities can't be"
+ },
+ {
+  "start": 428.08,
+  "duration": 3.68,
+  "text": "included in the training data. On a more"
+ },
+ {
+  "start": 429.8,
+  "duration": 3.88,
+  "text": "sinister note, Anthropic wrote,"
+ },
+ {
+  "start": 431.76,
+  "duration": 3.12,
+  "text": "\"Non-experts can also leverage Mythos"
+ },
+ {
+  "start": 433.68,
+  "duration": 3.4,
+  "text": "preview to find and exploit"
+ },
+ {
+  "start": 434.88,
+  "duration": 3.84,
+  "text": "sophisticated vulnerabilities. Engineers"
+ },
+ {
+  "start": 437.08,
+  "duration": 3.52,
+  "text": "at Anthropic with no formal security"
+ },
+ {
+  "start": 438.72,
+  "duration": 3.12,
+  "text": "training have asked Mythos preview to"
+ },
+ {
+  "start": 440.6,
+  "duration": 3.12,
+  "text": "find remote code execution"
+ },
+ {
+  "start": 441.84,
+  "duration": 3.2,
+  "text": "vulnerabilities overnight and woken up"
+ },
+ {
+  "start": 443.72,
+  "duration": 3.24,
+  "text": "the following morning to a complete"
+ },
+ {
+  "start": 445.04,
+  "duration": 3.48,
+  "text": "working exploit. In other cases, we've"
+ },
+ {
+  "start": 446.96,
+  "duration": 2.72,
+  "text": "had researchers develop scaffolds that"
+ },
+ {
+  "start": 448.52,
+  "duration": 2.88,
+  "text": "allow Mythos preview to turn"
+ },
+ {
+  "start": 449.68,
+  "duration": 3.44,
+  "text": "vulnerabilities into exploits without"
+ },
+ {
+  "start": 451.4,
+  "duration": 3.2,
+  "text": "any human intervention.\" And these are"
+ },
+ {
+  "start": 453.12,
+  "duration": 3.52,
+  "text": "the reasons that Anthropic is not"
+ },
+ {
+  "start": 454.6,
+  "duration": 3.48,
+  "text": "releasing Mythos to the general public."
+ },
+ {
+  "start": 456.64,
+  "duration": 3.32,
+  "text": "Instead, they're making the model"
+ },
+ {
+  "start": 458.08,
+  "duration": 3.64,
+  "text": "available to 40 partners on a limited"
+ },
+ {
+  "start": 459.96,
+  "duration": 4.44,
+  "text": "basis using the moniker Project"
+ },
+ {
+  "start": 461.72,
+  "duration": 5.08,
+  "text": "Glasswing. The partners include AWS,"
+ },
+ {
+  "start": 464.4,
+  "duration": 4.28,
+  "text": "Apple, Broadcom, Cisco, CrowdStrike,"
+ },
+ {
+  "start": 466.8,
+  "duration": 3.72,
+  "text": "Google, JP Morgan Chase, the Linux"
+ },
+ {
+  "start": 468.68,
+  "duration": 3.6,
+  "text": "Foundation, Microsoft, and Nvidia, just"
+ },
+ {
+  "start": 470.52,
+  "duration": 3.16,
+  "text": "to name a few. In announcing Glasswing,"
+ },
+ {
+  "start": 472.28,
+  "duration": 3.28,
+  "text": "Anthropic wrote,"
+ },
+ {
+  "start": 473.68,
+  "duration": 3.88,
+  "text": "\"Fallout for economies, public safety,"
+ },
+ {
+  "start": 475.56,
+  "duration": 3.68,
+  "text": "and national security could be severe."
+ },
+ {
+  "start": 477.56,
+  "duration": 3.12,
+  "text": "Project Glasswing is an urgent attempt"
+ },
+ {
+  "start": 479.24,
+  "duration": 3.84,
+  "text": "to put these capabilities to work for"
+ },
+ {
+  "start": 480.68,
+  "duration": 4.2,
+  "text": "defensive purposes. Now, this is not a"
+ },
+ {
+  "start": 483.08,
+  "duration": 3.28,
+  "text": "general preview or preferential"
+ },
+ {
+  "start": 484.88,
+  "duration": 3.4,
+  "text": "treatment for tech giants,\" according to"
+ },
+ {
+  "start": 486.36,
+  "duration": 3.88,
+  "text": "Anthropic. Newton Cheng, the leader of"
+ },
+ {
+  "start": 488.28,
+  "duration": 3.88,
+  "text": "Anthropic's red team, said, \"We think"
+ },
+ {
+  "start": 490.24,
+  "duration": 3.48,
+  "text": "this isn't just Anthropic's problem."
+ },
+ {
+  "start": 492.16,
+  "duration": 3.0,
+  "text": "This is an industry-wide problem that"
+ },
+ {
+  "start": 493.72,
+  "duration": 2.96,
+  "text": "both private corporations, but also"
+ },
+ {
+  "start": 495.16,
+  "duration": 2.96,
+  "text": "governments, need to be in a position to"
+ },
+ {
+  "start": 496.68,
+  "duration": 3.12,
+  "text": "grapple with. What we're trying to do"
+ },
+ {
+  "start": 498.12,
+  "duration": 3.2,
+  "text": "with Glasswing is give defenders a head"
+ },
+ {
+  "start": 499.8,
+  "duration": 3.16,
+  "text": "start.\" So, then the partners have been"
+ },
+ {
+  "start": 501.32,
+  "duration": 3.16,
+  "text": "instructed to use Mythos to scan"
+ },
+ {
+  "start": 502.96,
+  "duration": 3.28,
+  "text": "first-party data and open-source"
+ },
+ {
+  "start": 504.48,
+  "duration": 3.52,
+  "text": "software for vulnerabilities and apply"
+ },
+ {
+  "start": 506.24,
+  "duration": 3.48,
+  "text": "patches with the implication that access"
+ },
+ {
+  "start": 508.0,
+  "duration": 3.4,
+  "text": "will be tightly controlled. And to put a"
+ },
+ {
+  "start": 509.72,
+  "duration": 3.48,
+  "text": "fine point on this, this is not just a"
+ },
+ {
+  "start": 511.4,
+  "duration": 3.96,
+  "text": "model being previewed for cybersecurity"
+ },
+ {
+  "start": 513.2,
+  "duration": 3.56,
+  "text": "research purposes, but more like an"
+ },
+ {
+  "start": 515.36,
+  "duration": 3.559,
+  "text": "all-out mobilization of global"
+ },
+ {
+  "start": 516.76,
+  "duration": 4.2,
+  "text": "cybersecurity experts to fix the world's"
+ },
+ {
+  "start": 518.919,
+  "duration": 4.8,
+  "text": "software as quickly as possible. Work on"
+ },
+ {
+  "start": 520.96,
+  "duration": 4.52,
+  "text": "this has already begun, with AWS CISO"
+ },
+ {
+  "start": 523.719,
+  "duration": 3.281,
+  "text": "Amy Herzog saying that her team has been"
+ },
+ {
+  "start": 525.48,
+  "duration": 3.64,
+  "text": "using the model to test critical code"
+ },
+ {
+  "start": 527.0,
+  "duration": 4.28,
+  "text": "bases, saying it is already helping us"
+ },
+ {
+  "start": 529.12,
+  "duration": 4.36,
+  "text": "strengthen our code. CrowdStrike CTO"
+ },
+ {
+  "start": 531.28,
+  "duration": 3.64,
+  "text": "Elia Zatsev commented on the urgency,"
+ },
+ {
+  "start": 533.48,
+  "duration": 2.88,
+  "text": "stating, \"The window between a"
+ },
+ {
+  "start": 534.92,
+  "duration": 3.919,
+  "text": "vulnerability being discovered and being"
+ },
+ {
+  "start": 536.36,
+  "duration": 3.96,
+  "text": "exploited by an adversary has collapsed."
+ },
+ {
+  "start": 538.839,
+  "duration": 3.521,
+  "text": "What once took months now happens in"
+ },
+ {
+  "start": 540.32,
+  "duration": 4.0,
+  "text": "minutes with AI. And frankly, the tone"
+ },
+ {
+  "start": 542.36,
+  "duration": 3.56,
+  "text": "from Anthropic is not particularly"
+ },
+ {
+  "start": 544.32,
+  "duration": 3.519,
+  "text": "optimistic.\" In their blog post"
+ },
+ {
+  "start": 545.92,
+  "duration": 3.88,
+  "text": "announcing the plan, Anthropic wrote,"
+ },
+ {
+  "start": 547.839,
+  "duration": 3.521,
+  "text": "\"Project Glasswing is a starting point."
+ },
+ {
+  "start": 549.8,
+  "duration": 3.68,
+  "text": "No one organization can solve these"
+ },
+ {
+  "start": 551.36,
+  "duration": 3.88,
+  "text": "cybersecurity problems alone. Frontier"
+ },
+ {
+  "start": 553.48,
+  "duration": 3.24,
+  "text": "AI developers, other software companies,"
+ },
+ {
+  "start": 555.24,
+  "duration": 2.92,
+  "text": "security researchers, open-source"
+ },
+ {
+  "start": 556.72,
+  "duration": 3.96,
+  "text": "maintainers, and governments across the"
+ },
+ {
+  "start": 558.16,
+  "duration": 3.84,
+  "text": "world all have essential roles to play."
+ },
+ {
+  "start": 560.68,
+  "duration": 3.08,
+  "text": "The work of defending the world's cyber"
+ },
+ {
+  "start": 562.0,
+  "duration": 3.8,
+  "text": "infrastructure might take years, but"
+ },
+ {
+  "start": 563.76,
+  "duration": 3.4,
+  "text": "frontier AI capabilities to advance"
+ },
+ {
+  "start": 565.8,
+  "duration": 3.2,
+  "text": "substantially over just the next few"
+ },
+ {
+  "start": 567.16,
+  "duration": 4.12,
+  "text": "months. For cyber defenders to come out"
+ },
+ {
+  "start": 569.0,
+  "duration": 4.48,
+  "text": "ahead, we need to act now.\" Now, it's"
+ },
+ {
+  "start": 571.28,
+  "duration": 4.08,
+  "text": "not hard to understand, given all this,"
+ },
+ {
+  "start": 573.48,
+  "duration": 4.0,
+  "text": "why one strand of the first reactions is"
+ },
+ {
+  "start": 575.36,
+  "duration": 3.6,
+  "text": "just straight-up concern. Matt Schumer,"
+ },
+ {
+  "start": 577.48,
+  "duration": 2.84,
+  "text": "who you might remember from that viral"
+ },
+ {
+  "start": 578.96,
+  "duration": 2.4,
+  "text": "essay Something Big Is Happening,"
+ },
+ {
+  "start": 580.32,
+  "duration": 3.0,
+  "text": "writes,"
+ },
+ {
+  "start": 581.36,
+  "duration": 3.56,
+  "text": "\"This is absolutely effing terrifying."
+ },
+ {
+  "start": 583.32,
+  "duration": 3.48,
+  "text": "Anthropic's rumored Mythos model is"
+ },
+ {
+  "start": 584.92,
+  "duration": 3.6,
+  "text": "real, and it's so powerful they can't"
+ },
+ {
+  "start": 586.8,
+  "duration": 3.8,
+  "text": "release it to the public. We're beyond"
+ },
+ {
+  "start": 588.52,
+  "duration": 3.96,
+  "text": "benchmarks now. This model in the wrong"
+ },
+ {
+  "start": 590.6,
+  "duration": 3.96,
+  "text": "hands is a cyber weapon capable of mass"
+ },
+ {
+  "start": 592.48,
+  "duration": 3.4,
+  "text": "destruction.\" AI content creator Matthew"
+ },
+ {
+  "start": 594.56,
+  "duration": 3.08,
+  "text": "Berman writes,"
+ },
+ {
+  "start": 595.88,
+  "duration": 3.28,
+  "text": "\"I'm on vacation with my family. I read"
+ },
+ {
+  "start": 597.64,
+  "duration": 3.84,
+  "text": "about Mythos and couldn't relax the rest"
+ },
+ {
+  "start": 599.16,
+  "duration": 3.68,
+  "text": "of the day. I'm completely stunned. I"
+ },
+ {
+  "start": 601.48,
+  "duration": 2.76,
+  "text": "already have a severe case of AI"
+ },
+ {
+  "start": 602.84,
+  "duration": 3.0,
+  "text": "psychosis. I don't know what to call"
+ },
+ {
+  "start": 604.24,
+  "duration": 2.72,
+  "text": "this now. I keep looking around at"
+ },
+ {
+  "start": 605.84,
+  "duration": 3.04,
+  "text": "people enjoying their vacations with"
+ },
+ {
+  "start": 606.96,
+  "duration": 3.36,
+  "text": "their families, and I just felt weird,"
+ },
+ {
+  "start": 608.88,
+  "duration": 2.84,
+  "text": "like I had been told aliens are real,"
+ },
+ {
+  "start": 610.32,
+  "duration": 3.36,
+  "text": "they're coming and soon, and no one else"
+ },
+ {
+  "start": 611.72,
+  "duration": 3.84,
+  "text": "knows. I knew the Frontier Labs were"
+ },
+ {
+  "start": 613.68,
+  "duration": 3.64,
+  "text": "racing towards ASI. I knew it, but I"
+ },
+ {
+  "start": 615.56,
+  "duration": 3.4,
+  "text": "didn't fully grasp what it meant. On the"
+ },
+ {
+  "start": 617.32,
+  "duration": 3.44,
+  "text": "one hand, imagine all science, math,"
+ },
+ {
+  "start": 618.96,
+  "duration": 3.4,
+  "text": "coding, climate problems being solved."
+ },
+ {
+  "start": 620.76,
+  "duration": 3.64,
+  "text": "Imagine cancer being cured. Imagine"
+ },
+ {
+  "start": 622.36,
+  "duration": 3.4,
+  "text": "going to the stars. On the other hand,"
+ },
+ {
+  "start": 624.4,
+  "duration": 2.88,
+  "text": "imagine concentration of power,"
+ },
+ {
+  "start": 625.76,
+  "duration": 4.08,
+  "text": "political and economic change happening"
+ },
+ {
+  "start": 627.28,
+  "duration": 4.56,
+  "text": "so fast society can't adapt. How do we"
+ },
+ {
+  "start": 629.84,
+  "duration": 3.56,
+  "text": "go on like things are the same? Even"
+ },
+ {
+  "start": 631.84,
+  "duration": 3.68,
+  "text": "people from Anthropic are using the"
+ },
+ {
+  "start": 633.4,
+  "duration": 4.36,
+  "text": "language of fear.\" Claude code creator"
+ },
+ {
+  "start": 635.52,
+  "duration": 4.4,
+  "text": "Boris Cherny writes, \"Mythos is very"
+ },
+ {
+  "start": 637.76,
+  "duration": 3.68,
+  "text": "powerful and should feel terrifying. I"
+ },
+ {
+  "start": 639.92,
+  "duration": 3.04,
+  "text": "am proud of our approach to responsibly"
+ },
+ {
+  "start": 641.44,
+  "duration": 2.8,
+  "text": "preview it with cyber defenders rather"
+ },
+ {
+  "start": 642.96,
+  "duration": 3.32,
+  "text": "than generally releasing it into the"
+ },
+ {
+  "start": 644.24,
+  "duration": 3.2,
+  "text": "wild, but you better believe that the 1"
+ },
+ {
+  "start": 646.28,
+  "duration": 3.559,
+  "text": "million people who have looked at that"
+ },
+ {
+  "start": 647.44,
+  "duration": 4.04,
+  "text": "are noticing is the word terrifying.\""
+ },
+ {
+  "start": 649.839,
+  "duration": 4.241,
+  "text": "And the media coverage is following the"
+ },
+ {
+  "start": 651.48,
+  "duration": 3.72,
+  "text": "same tone. Axios CEO Jim VandeHei"
+ },
+ {
+  "start": 654.08,
+  "duration": 3.32,
+  "text": "writes,"
+ },
+ {
+  "start": 655.2,
+  "duration": 3.76,
+  "text": "\"This is the scary phase of AI, a model"
+ },
+ {
+  "start": 657.4,
+  "duration": 2.92,
+  "text": "deemed so powerful that its full release"
+ },
+ {
+  "start": 658.96,
+  "duration": 3.76,
+  "text": "into the wild could unleash untold"
+ },
+ {
+  "start": 660.32,
+  "duration": 3.76,
+  "text": "catastrophe. Red alarm emoji. Based on"
+ },
+ {
+  "start": 662.72,
+  "duration": 2.76,
+  "text": "our conversations with government and"
+ },
+ {
+  "start": 664.08,
+  "duration": 4.0,
+  "text": "private sector officials briefed on"
+ },
+ {
+  "start": 665.48,
+  "duration": 4.12,
+  "text": "Mythos, this isn't hyperbole. It's"
+ },
+ {
+  "start": 668.08,
+  "duration": 5.12,
+  "text": "reality.\""
+ },
+ {
+  "start": 669.6,
+  "duration": 5.6,
+  "text": "But to be clear, not everyone buys this."
+ },
+ {
+  "start": 673.2,
+  "duration": 3.52,
+  "text": "There are some people who feel that they"
+ },
+ {
+  "start": 675.2,
+  "duration": 3.52,
+  "text": "are witnessing the latest instance of a"
+ },
+ {
+  "start": 676.72,
+  "duration": 3.96,
+  "text": "pattern that is more about the value of"
+ },
+ {
+  "start": 678.72,
+  "duration": 4.64,
+  "text": "making people fearful than an actual"
+ },
+ {
+  "start": 680.68,
+  "duration": 5.04,
+  "text": "cause for it. Robin Ebbers writes,"
+ },
+ {
+  "start": 683.36,
+  "duration": 4.12,
+  "text": "\"Genuinely could not be less excited."
+ },
+ {
+  "start": 685.72,
+  "duration": 3.84,
+  "text": "Tons of fear-mongering, guaranteed"
+ },
+ {
+  "start": 687.48,
+  "duration": 4.04,
+  "text": "made-up scenarios, zero tangible release"
+ },
+ {
+  "start": 689.56,
+  "duration": 3.36,
+  "text": "for the public. What this really is"
+ },
+ {
+  "start": 691.52,
+  "duration": 3.16,
+  "text": "virtue signaling and a cry for"
+ },
+ {
+  "start": 692.92,
+  "duration": 3.48,
+  "text": "relevance. Do we really believe that"
+ },
+ {
+  "start": 694.68,
+  "duration": 3.2,
+  "text": "OpenAI doesn't have internal models that"
+ },
+ {
+  "start": 696.4,
+  "duration": 4.6,
+  "text": "far exceed what they have released?"
+ },
+ {
+  "start": 697.88,
+  "duration": 4.76,
+  "text": "Classic Anthropic. Hugo Capital writes,"
+ },
+ {
+  "start": 701.0,
+  "duration": 3.24,
+  "text": "Anthropic's marketing strategy is so"
+ },
+ {
+  "start": 702.64,
+  "duration": 3.24,
+  "text": "funny. Like, \"Ah, the government is"
+ },
+ {
+  "start": 704.24,
+  "duration": 2.84,
+  "text": "treading on me. Ah, our models are so"
+ },
+ {
+  "start": 705.88,
+  "duration": 3.0,
+  "text": "good we can't release them. It would be"
+ },
+ {
+  "start": 707.08,
+  "duration": 3.96,
+  "text": "too dangerous. Ah, someone stop me. I'm"
+ },
+ {
+  "start": 708.88,
+  "duration": 3.36,
+  "text": "going to destroy the economy.\" Lucas on"
+ },
+ {
+  "start": 711.04,
+  "duration": 2.72,
+  "text": "X writes,"
+ },
+ {
+  "start": 712.24,
+  "duration": 3.16,
+  "text": "\"Just tell the relevant people what they"
+ },
+ {
+  "start": 713.76,
+  "duration": 3.4,
+  "text": "need to know. There is no need to run"
+ },
+ {
+  "start": 715.4,
+  "duration": 3.44,
+  "text": "this massive fear-mongering campaign and"
+ },
+ {
+  "start": 717.16,
+  "duration": 3.68,
+  "text": "scare the crap out of my grandma."
+ },
+ {
+  "start": 718.84,
+  "duration": 4.0,
+  "text": "Imagine if military contractors did"
+ },
+ {
+  "start": 720.84,
+  "duration": 3.12,
+  "text": "this. Bro, if we used our new drone on"
+ },
+ {
+  "start": 722.84,
+  "duration": 2.56,
+  "text": "you, nobody would even know where you"
+ },
+ {
+  "start": 723.96,
+  "duration": 2.84,
+  "text": "went. You would just evaporate. You are"
+ },
+ {
+  "start": 725.4,
+  "duration": 2.72,
+  "text": "so lucky we aren't droning you. You're"
+ },
+ {
+  "start": 726.8,
+  "duration": 2.6,
+  "text": "so lucky we're good people who aren't"
+ },
+ {
+  "start": 728.12,
+  "duration": 3.04,
+  "text": "evaporating you with drone-mounted"
+ },
+ {
+  "start": 729.4,
+  "duration": 3.08,
+  "text": "lasers, bro. Marketing yourself by"
+ },
+ {
+  "start": 731.16,
+  "duration": 2.88,
+  "text": "scaring a bunch of people who can't do"
+ },
+ {
+  "start": 732.48,
+  "duration": 3.12,
+  "text": "anything about it is sort of an a-hole"
+ },
+ {
+  "start": 734.04,
+  "duration": 3.08,
+  "text": "move. There's a reason other companies"
+ },
+ {
+  "start": 735.6,
+  "duration": 3.0,
+  "text": "don't do this, and it's not because you"
+ },
+ {
+  "start": 737.12,
+  "duration": 3.6,
+  "text": "guys are the only ones who make anything"
+ },
+ {
+  "start": 738.6,
+  "duration": 4.64,
+  "text": "dangerous.\" OpenAI leaker I rule the"
+ },
+ {
+  "start": 740.72,
+  "duration": 4.04,
+  "text": "world is also skeptical. They write,"
+ },
+ {
+  "start": 743.24,
+  "duration": 3.32,
+  "text": "\"Like, let's release a model no one will"
+ },
+ {
+  "start": 744.76,
+  "duration": 3.24,
+  "text": "ever really use. It'll create public"
+ },
+ {
+  "start": 746.56,
+  "duration": 3.28,
+  "text": "perception we're far ahead and give"
+ },
+ {
+  "start": 748.0,
+  "duration": 3.24,
+  "text": "enterprise confidence we can be trusted."
+ },
+ {
+  "start": 749.84,
+  "duration": 3.68,
+  "text": "Meanwhile, it's essentially a marketing"
+ },
+ {
+  "start": 751.24,
+  "duration": 3.56,
+  "text": "campaign to spend a lot on Opus 5, which"
+ },
+ {
+  "start": 753.52,
+  "duration": 3.96,
+  "text": "I'm sure they'll claim is Mythos"
+ },
+ {
+  "start": 754.8,
+  "duration": 4.0,
+  "text": "distilled. High art. It's a jump, but"
+ },
+ {
+  "start": 757.48,
+  "duration": 3.0,
+  "text": "we'll have the same from Spud in the"
+ },
+ {
+  "start": 758.8,
+  "duration": 4.039,
+  "text": "coming weeks, and the world won't fall"
+ },
+ {
+  "start": 760.48,
+  "duration": 4.64,
+  "text": "apart.\" Now, for others, while they"
+ },
+ {
+  "start": 762.839,
+  "duration": 4.241,
+  "text": "might not have as much acrimony towards"
+ },
+ {
+  "start": 765.12,
+  "duration": 3.64,
+  "text": "what they view as a marketing strategy,"
+ },
+ {
+  "start": 767.08,
+  "duration": 3.6,
+  "text": "there are still explorations of what"
+ },
+ {
+  "start": 768.76,
+  "duration": 3.52,
+  "text": "other reasons Anthropic might have for"
+ },
+ {
+  "start": 770.68,
+  "duration": 4.28,
+  "text": "not releasing this powerful model right"
+ },
+ {
+  "start": 772.28,
+  "duration": 4.0,
+  "text": "now. The AI Explained account writes,"
+ },
+ {
+  "start": 774.96,
+  "duration": 3.879,
+  "text": "\"Possible reasons for them not to"
+ },
+ {
+  "start": 776.28,
+  "duration": 4.559,
+  "text": "release this? So many, including one,"
+ },
+ {
+  "start": 778.839,
+  "duration": 3.481,
+  "text": "the model is expensive. Two, they are"
+ },
+ {
+  "start": 780.839,
+  "duration": 3.641,
+  "text": "genuinely worried about unleashing"
+ },
+ {
+  "start": 782.32,
+  "duration": 3.72,
+  "text": "cybersecurity chaos on the world. Three,"
+ },
+ {
+  "start": 784.48,
+  "duration": 3.44,
+  "text": "they don't have the capacity to serve it"
+ },
+ {
+  "start": 786.04,
+  "duration": 3.4,
+  "text": "yet at scale. Four, they will quickly"
+ },
+ {
+  "start": 787.92,
+  "duration": 3.48,
+  "text": "distill the early access outputs of"
+ },
+ {
+  "start": 789.44,
+  "duration": 3.28,
+  "text": "Mythos into a lighter model, so no need"
+ },
+ {
+  "start": 791.4,
+  "duration": 2.56,
+  "text": "to release the bigger model when a more"
+ },
+ {
+  "start": 792.72,
+  "duration": 2.84,
+  "text": "cost-efficient one is coming"
+ },
+ {
+  "start": 793.96,
+  "duration": 3.24,
+  "text": "imminently.\" And there are a lot of"
+ },
+ {
+  "start": 795.56,
+  "duration": 3.64,
+  "text": "folks who wonder if there is a piece of"
+ },
+ {
+  "start": 797.2,
+  "duration": 3.76,
+  "text": "this here, with it simply not being"
+ },
+ {
+  "start": 799.2,
+  "duration": 3.36,
+  "text": "viable right now with cost and compute"
+ },
+ {
+  "start": 800.96,
+  "duration": 3.4,
+  "text": "constraints to actually release a model"
+ },
+ {
+  "start": 802.56,
+  "duration": 3.64,
+  "text": "of this scale and power. Lina Hu"
+ },
+ {
+  "start": 804.36,
+  "duration": 3.68,
+  "text": "certainly thinks that's it, writing,"
+ },
+ {
+  "start": 806.2,
+  "duration": 3.52,
+  "text": "\"The whole Mythos cybersecurity story is"
+ },
+ {
+  "start": 808.04,
+  "duration": 3.0,
+  "text": "likely just a sci-op to have an excuse"
+ },
+ {
+  "start": 809.72,
+  "duration": 3.72,
+  "text": "to not serve Frontier models to the"
+ },
+ {
+  "start": 811.04,
+  "duration": 3.96,
+  "text": "public. Reasoning one, other labs can't"
+ },
+ {
+  "start": 813.44,
+  "duration": 2.84,
+  "text": "distill it. It's annoying when you have"
+ },
+ {
+  "start": 815.0,
+  "duration": 2.68,
+  "text": "a dominant state-of-the-art model and"
+ },
+ {
+  "start": 816.28,
+  "duration": 3.16,
+  "text": "two months later Chinese labs sell the"
+ },
+ {
+  "start": 817.68,
+  "duration": 4.24,
+  "text": "same state-of-the-art model for 1/50 of"
+ },
+ {
+  "start": 819.44,
+  "duration": 3.84,
+  "text": "the cost. Two, compute constraints. So,"
+ },
+ {
+  "start": 821.92,
+  "duration": 3.8,
+  "text": "you have to choose between enterprise"
+ },
+ {
+  "start": 823.28,
+  "duration": 4.24,
+  "text": "and vibe coders. Enterprise have like 1%"
+ },
+ {
+  "start": 825.72,
+  "duration": 2.96,
+  "text": "monthly churn. Vibe coders cry and"
+ },
+ {
+  "start": 827.52,
+  "duration": 2.64,
+  "text": "threaten to have their mommy buy them a"
+ },
+ {
+  "start": 828.68,
+  "duration": 3.08,
+  "text": "Mac mini for local models whenever their"
+ },
+ {
+  "start": 830.16,
+  "duration": 3.12,
+  "text": "rate limits are cut. Three, big"
+ },
+ {
+  "start": 831.76,
+  "duration": 2.52,
+  "text": "enterprises pay a heavy premium for"
+ },
+ {
+  "start": 833.28,
+  "duration": 3.0,
+  "text": "slightly better performance and"
+ },
+ {
+  "start": 834.28,
+  "duration": 4.24,
+  "text": "corporate polish. Without assuming bad"
+ },
+ {
+  "start": 836.28,
+  "duration": 4.0,
+  "text": "faith, Neil Chilson writes, \"Making the"
+ },
+ {
+  "start": 838.52,
+  "duration": 3.08,
+  "text": "top model only available to select"
+ },
+ {
+  "start": 840.28,
+  "duration": 3.92,
+  "text": "customers might make sense for"
+ },
+ {
+  "start": 841.6,
+  "duration": 4.16,
+  "text": "cybersecurity reasons, but also it is a"
+ },
+ {
+  "start": 844.2,
+  "duration": 3.36,
+  "text": "great marketing and business plan for a"
+ },
+ {
+  "start": 845.76,
+  "duration": 2.76,
+  "text": "B2B company facing enormous demand"
+ },
+ {
+  "start": 847.56,
+  "duration": 2.28,
+  "text": "outstripping their somewhat"
+ },
+ {
+  "start": 848.52,
+  "duration": 3.48,
+  "text": "conservative, relatively speaking,"
+ },
+ {
+  "start": 849.84,
+  "duration": 3.52,
+  "text": "compute investments. Offer the top model"
+ },
+ {
+  "start": 852.0,
+  "duration": 3.32,
+  "text": "only to your biggest customers along"
+ },
+ {
+  "start": 853.36,
+  "duration": 4.24,
+  "text": "with a coupon. The rest of us will just"
+ },
+ {
+  "start": 855.32,
+  "duration": 4.72,
+  "text": "have to wait, I guess. Ultimately, I"
+ },
+ {
+  "start": 857.6,
+  "duration": 4.4,
+  "text": "have a general policy of not assuming"
+ },
+ {
+  "start": 860.04,
+  "duration": 3.84,
+  "text": "bad faith. I think that while it is"
+ },
+ {
+  "start": 862.0,
+  "duration": 4.44,
+  "text": "entirely possible that there are very"
+ },
+ {
+  "start": 863.88,
+  "duration": 4.32,
+  "text": "real constraints on Anthropic's ability"
+ },
+ {
+  "start": 866.44,
+  "duration": 3.2,
+  "text": "to serve a model of this size, it would"
+ },
+ {
+  "start": 868.2,
+  "duration": 3.24,
+  "text": "be very surprising to me if they"
+ },
+ {
+  "start": 869.64,
+  "duration": 3.76,
+  "text": "architected this entire Project Glass"
+ },
+ {
+  "start": 871.44,
+  "duration": 3.52,
+  "text": "Wing campaign just as a way to cover"
+ },
+ {
+  "start": 873.4,
+  "duration": 3.36,
+  "text": "that up. I think there are much more"
+ },
+ {
+  "start": 874.96,
+  "duration": 3.8,
+  "text": "reasonable questions around whether"
+ },
+ {
+  "start": 876.76,
+  "duration": 3.8,
+  "text": "Anthropic's own assessments of the risks"
+ },
+ {
+  "start": 878.76,
+  "duration": 3.28,
+  "text": "are actually the right assessments, even"
+ },
+ {
+  "start": 880.56,
+  "duration": 2.96,
+  "text": "if you assume that they actually believe"
+ },
+ {
+  "start": 882.04,
+  "duration": 2.52,
+  "text": "what they're putting out to the public."
+ },
+ {
+  "start": 883.52,
+  "duration": 2.68,
+  "text": "Certainly, if you've listened to this"
+ },
+ {
+  "start": 884.56,
+  "duration": 2.88,
+  "text": "show over the last couple of months, you"
+ },
+ {
+  "start": 886.2,
+  "duration": 3.2,
+  "text": "will have heard me disagree pretty"
+ },
+ {
+  "start": 887.44,
+  "duration": 3.8,
+  "text": "vociferously with Anthropic's approach"
+ },
+ {
+  "start": 889.4,
+  "duration": 3.56,
+  "text": "to discussing things like AI-related job"
+ },
+ {
+  "start": 891.24,
+  "duration": 3.48,
+  "text": "losses, which is both a difference of"
+ },
+ {
+  "start": 892.96,
+  "duration": 3.76,
+  "text": "opinion around what their job is when it"
+ },
+ {
+  "start": 894.72,
+  "duration": 3.24,
+  "text": "comes to explaining those things, as"
+ },
+ {
+  "start": 896.72,
+  "duration": 2.8,
+  "text": "well as a difference of opinion when it"
+ },
+ {
+  "start": 897.96,
+  "duration": 2.6,
+  "text": "comes to how severe and how fast the"
+ },
+ {
+  "start": 899.52,
+  "duration": 3.2,
+  "text": "implications are actually going to"
+ },
+ {
+  "start": 900.56,
+  "duration": 3.84,
+  "text": "happen. But, it should also be noted"
+ },
+ {
+  "start": 902.72,
+  "duration": 3.44,
+  "text": "that ultimately those most skeptical"
+ },
+ {
+  "start": 904.4,
+  "duration": 3.16,
+  "text": "takes are not the majority. Most"
+ },
+ {
+  "start": 906.16,
+  "duration": 2.76,
+  "text": "people's response is basically that"
+ },
+ {
+  "start": 907.56,
+  "duration": 2.64,
+  "text": "Anthropic has earned the benefit of the"
+ },
+ {
+  "start": 908.92,
+  "duration": 2.8,
+  "text": "doubt and the trust when it comes to"
+ },
+ {
+  "start": 910.2,
+  "duration": 2.72,
+  "text": "things like what they say the benchmarks"
+ },
+ {
+  "start": 911.72,
+  "duration": 2.92,
+  "text": "are, and so they're trying then to"
+ },
+ {
+  "start": 912.92,
+  "duration": 3.919,
+  "text": "understand what the implications of a"
+ },
+ {
+  "start": 914.64,
+  "duration": 4.8,
+  "text": "model this powerful existing really are."
+ },
+ {
+  "start": 916.839,
+  "duration": 4.201,
+  "text": "A16Z's Martin Casado writes,"
+ },
+ {
+  "start": 919.44,
+  "duration": 3.0,
+  "text": "\"Mytho's appears to be the first class"
+ },
+ {
+  "start": 921.04,
+  "duration": 3.68,
+  "text": "of models trained at scale on"
+ },
+ {
+  "start": 922.44,
+  "duration": 4.44,
+  "text": "Blackwell's. Then will be Vera Rubens."
+ },
+ {
+  "start": 924.72,
+  "duration": 4.0,
+  "text": "Pre-training isn't saturated."
+ },
+ {
+  "start": 926.88,
+  "duration": 4.6,
+  "text": "Reinforcement learning works and there"
+ },
+ {
+  "start": 928.72,
+  "duration": 4.76,
+  "text": "is so much computing coming online soon."
+ },
+ {
+  "start": 931.48,
+  "duration": 3.8,
+  "text": "Boxes Aaron Levie writes,"
+ },
+ {
+  "start": 933.48,
+  "duration": 3.72,
+  "text": "Mythos from Anthropic is another clear"
+ },
+ {
+  "start": 935.28,
+  "duration": 3.72,
+  "text": "reminder that there is absolutely no"
+ },
+ {
+  "start": 937.2,
+  "duration": 3.88,
+  "text": "wall in model capability progress right"
+ },
+ {
+  "start": 939.0,
+  "duration": 3.72,
+  "text": "now. Meaningful double digit gains on"
+ },
+ {
+  "start": 941.08,
+  "duration": 3.32,
+  "text": "critical benchmarks and it appears we're"
+ },
+ {
+  "start": 942.72,
+  "duration": 3.56,
+  "text": "going to keep getting insane gains from"
+ },
+ {
+  "start": 944.4,
+  "duration": 3.0,
+  "text": "the other labs. The capability slope"
+ },
+ {
+  "start": 946.28,
+  "duration": 2.84,
+  "text": "we're going to keep seeing from the"
+ },
+ {
+  "start": 947.4,
+  "duration": 3.76,
+  "text": "frontier labs is going to open up all"
+ },
+ {
+  "start": 949.12,
+  "duration": 3.8,
+  "text": "new use cases in finance, healthcare,"
+ },
+ {
+  "start": 951.16,
+  "duration": 4.0,
+  "text": "legal, consulting, supply chains and"
+ },
+ {
+  "start": 952.92,
+  "duration": 4.2,
+  "text": "more. More tongue-in-cheek, former Trump"
+ },
+ {
+  "start": 955.16,
+  "duration": 3.48,
+  "text": "AI advisor Dean Ball writes,"
+ },
+ {
+  "start": 957.12,
+  "duration": 3.76,
+  "text": "\"Personally, I have really enjoyed"
+ },
+ {
+  "start": 958.64,
+  "duration": 4.04,
+  "text": "relaxing after AI plateaued with GPT-5"
+ },
+ {
+  "start": 960.88,
+  "duration": 3.44,
+  "text": "last summer. By the way, when I've said"
+ },
+ {
+  "start": 962.68,
+  "duration": 3.0,
+  "text": "in the past that I think the people who"
+ },
+ {
+  "start": 964.32,
+  "duration": 2.84,
+  "text": "are out there trying to convince others"
+ },
+ {
+  "start": 965.68,
+  "duration": 3.16,
+  "text": "that AI isn't all that powerful are"
+ },
+ {
+  "start": 967.16,
+  "duration": 3.56,
+  "text": "going to do more economic harm than the"
+ },
+ {
+  "start": 968.84,
+  "duration": 3.4,
+  "text": "powerful AI models themselves, this is"
+ },
+ {
+  "start": 970.72,
+  "duration": 3.56,
+  "text": "kind of what I'm referring to. Now,"
+ },
+ {
+  "start": 972.24,
+  "duration": 4.0,
+  "text": "others are engaging deeply with safety"
+ },
+ {
+  "start": 974.28,
+  "duration": 3.08,
+  "text": "considerations around the model. Harlan"
+ },
+ {
+  "start": 976.24,
+  "duration": 2.48,
+  "text": "Stewart, who works at the Machine"
+ },
+ {
+  "start": 977.36,
+  "duration": 3.2,
+  "text": "Intelligence Research Institute at"
+ },
+ {
+  "start": 978.72,
+  "duration": 3.2,
+  "text": "Berkeley, writes, \"Anthropic is trying"
+ },
+ {
+  "start": 980.56,
+  "duration": 3.24,
+  "text": "to prevent its powerful new AI from"
+ },
+ {
+  "start": 981.92,
+  "duration": 3.72,
+  "text": "being used in dangerous ways, but the"
+ },
+ {
+  "start": 983.8,
+  "duration": 3.92,
+  "text": "most dangerous use by a wide margin is"
+ },
+ {
+  "start": 985.64,
+  "duration": 3.6,
+  "text": "the one Anthropic itself has planned."
+ },
+ {
+  "start": 987.72,
+  "duration": 3.32,
+  "text": "The planned use and why they made it to"
+ },
+ {
+  "start": 989.24,
+  "duration": 3.96,
+  "text": "begin with is to accelerate the creation"
+ },
+ {
+  "start": 991.04,
+  "duration": 4.48,
+  "text": "of superhumanly powerful AI agents by"
+ },
+ {
+  "start": 993.2,
+  "duration": 4.0,
+  "text": "automating the R&D process. This plan is"
+ },
+ {
+  "start": 995.52,
+  "duration": 3.24,
+  "text": "not a secret. They believe they are on"
+ },
+ {
+  "start": 997.2,
+  "duration": 3.36,
+  "text": "track to create a quote country of"
+ },
+ {
+  "start": 998.76,
+  "duration": 3.36,
+  "text": "geniuses in a data center that would be"
+ },
+ {
+  "start": 1000.56,
+  "duration": 3.6,
+  "text": "powerful enough to quote militarily"
+ },
+ {
+  "start": 1002.12,
+  "duration": 3.08,
+  "text": "dominate the world if it chose to do so."
+ },
+ {
+  "start": 1004.16,
+  "duration": 2.96,
+  "text": "They believe they are on track to"
+ },
+ {
+  "start": 1005.2,
+  "duration": 3.08,
+  "text": "accomplish this in the next 12 months."
+ },
+ {
+  "start": 1007.12,
+  "duration": 2.4,
+  "text": "Let's hope they're wrong about those"
+ },
+ {
+  "start": 1008.28,
+  "duration": 3.0,
+  "text": "predictions, but let's do more than"
+ },
+ {
+  "start": 1009.52,
+  "duration": 3.92,
+  "text": "hope. We urgently need governments to"
+ },
+ {
+  "start": 1011.28,
+  "duration": 4.0,
+  "text": "intervene and stop these companies. As I"
+ },
+ {
+  "start": 1013.44,
+  "duration": 3.48,
+  "text": "mentioned before, a lot of the chatter"
+ },
+ {
+  "start": 1015.28,
+  "duration": 2.84,
+  "text": "is around the sandbox breakout and the"
+ },
+ {
+  "start": 1016.92,
+  "duration": 3.16,
+  "text": "emailing of the researcher while they"
+ },
+ {
+  "start": 1018.12,
+  "duration": 4.04,
+  "text": "were eating in the park. And one less"
+ },
+ {
+  "start": 1020.08,
+  "duration": 3.52,
+  "text": "theoretical safety concern that came up"
+ },
+ {
+  "start": 1022.16,
+  "duration": 3.44,
+  "text": "was a note fairly deep in the security"
+ },
+ {
+  "start": 1023.6,
+  "duration": 3.28,
+  "text": "card where Anthropic admitted to having"
+ },
+ {
+  "start": 1025.6,
+  "duration": 3.64,
+  "text": "accidentally trained against the chain"
+ },
+ {
+  "start": 1026.88,
+  "duration": 4.439,
+  "text": "of thought for Opus 4-6, Sonnet 4-6, and"
+ },
+ {
+  "start": 1029.24,
+  "duration": 3.92,
+  "text": "Mythos for 8% of reinforcement learning."
+ },
+ {
+  "start": 1031.319,
+  "duration": 3.161,
+  "text": "So, let me be clear, at a minimum, any"
+ },
+ {
+  "start": 1033.16,
+  "duration": 2.799,
+  "text": "and all reassuring evidence from their"
+ },
+ {
+  "start": 1034.48,
+  "duration": 3.719,
+  "text": "chain of thoughts is worthless. They are"
+ },
+ {
+  "start": 1035.959,
+  "duration": 3.721,
+  "text": "hopelessly corrupted. When Dan McAtter"
+ },
+ {
+  "start": 1038.199,
+  "duration": 3.601,
+  "text": "writes, \"Zvi, can you explain why this"
+ },
+ {
+  "start": 1039.68,
+  "duration": 3.48,
+  "text": "is bad?\" Matt Heard summed up, \"If the"
+ },
+ {
+  "start": 1041.8,
+  "duration": 2.68,
+  "text": "chain of thought is trained against"
+ },
+ {
+  "start": 1043.16,
+  "duration": 3.08,
+  "text": "selective pressure, it will teach it to"
+ },
+ {
+  "start": 1044.48,
+  "duration": 3.359,
+  "text": "hide unwanted behavior from appearing in"
+ },
+ {
+  "start": 1046.24,
+  "duration": 3.12,
+  "text": "its chain of thought, making its chain"
+ },
+ {
+  "start": 1047.839,
+  "duration": 2.961,
+  "text": "of thought less faithful to its internal"
+ },
+ {
+  "start": 1049.36,
+  "duration": 3.04,
+  "text": "process, making chain of thought"
+ },
+ {
+  "start": 1050.8,
+  "duration": 3.6,
+  "text": "observation less effective at detecting"
+ },
+ {
+  "start": 1052.4,
+  "duration": 3.64,
+  "text": "unwanted behavior.\" Zvi actually wrote"
+ },
+ {
+  "start": 1054.4,
+  "duration": 3.92,
+  "text": "about this extensively back in March of"
+ },
+ {
+  "start": 1056.04,
+  "duration": 4.04,
+  "text": "2025 in a blog post called The Most"
+ },
+ {
+  "start": 1058.32,
+  "duration": 3.4,
+  "text": "Forbidden Technique. He writes, \"The"
+ },
+ {
+  "start": 1060.08,
+  "duration": 3.88,
+  "text": "most forbidden technique is training an"
+ },
+ {
+  "start": 1061.72,
+  "duration": 4.64,
+  "text": "AI using interpretability techniques. An"
+ },
+ {
+  "start": 1063.96,
+  "duration": 4.72,
+  "text": "AI produces a final output X via some"
+ },
+ {
+  "start": 1066.36,
+  "duration": 4.16,
+  "text": "method M. You can analyze M using"
+ },
+ {
+  "start": 1068.68,
+  "duration": 4.16,
+  "text": "technique T to learn what the AI is up"
+ },
+ {
+  "start": 1070.52,
+  "duration": 5.2,
+  "text": "to. You could train on that. Never do"
+ },
+ {
+  "start": 1072.84,
+  "duration": 7.0,
+  "text": "that. You train on X, i.e., the final"
+ },
+ {
+  "start": 1075.72,
+  "duration": 6.24,
+  "text": "output, only X, never M, never T. Why?"
+ },
+ {
+  "start": 1079.84,
+  "duration": 4.68,
+  "text": "Because T is how you figure out when the"
+ },
+ {
+  "start": 1081.96,
+  "duration": 4.36,
+  "text": "model is misbehaving. If you train on T,"
+ },
+ {
+  "start": 1084.52,
+  "duration": 3.84,
+  "text": "you are training the AI to obfuscate its"
+ },
+ {
+  "start": 1086.32,
+  "duration": 3.4,
+  "text": "thinking and defeat T. You will rapidly"
+ },
+ {
+  "start": 1088.36,
+  "duration": 3.32,
+  "text": "lose your ability to know what is going"
+ },
+ {
+  "start": 1089.72,
+  "duration": 3.72,
+  "text": "on in exactly the ways you most need to"
+ },
+ {
+  "start": 1091.68,
+  "duration": 4.0,
+  "text": "know what's going on.\" Another thing"
+ },
+ {
+  "start": 1093.44,
+  "duration": 3.64,
+  "text": "that Anthropic team members discuss was"
+ },
+ {
+  "start": 1095.68,
+  "duration": 3.52,
+  "text": "the exhibited internal behavior of"
+ },
+ {
+  "start": 1097.08,
+  "duration": 3.72,
+  "text": "Claude Mythos. For example, Jack Lindsey"
+ },
+ {
+  "start": 1099.2,
+  "duration": 3.68,
+  "text": "writes, \"Early versions of Mythos"
+ },
+ {
+  "start": 1100.8,
+  "duration": 3.84,
+  "text": "preview often exhibited overeager and/or"
+ },
+ {
+  "start": 1102.88,
+  "duration": 3.32,
+  "text": "destructive actions. The model"
+ },
+ {
+  "start": 1104.64,
+  "duration": 3.64,
+  "text": "bulldozing through obstacles to complete"
+ },
+ {
+  "start": 1106.2,
+  "duration": 3.72,
+  "text": "a task in a way the user wouldn't want."
+ },
+ {
+  "start": 1108.28,
+  "duration": 3.48,
+  "text": "In one episode, the model needed to edit"
+ },
+ {
+  "start": 1109.92,
+  "duration": 3.16,
+  "text": "files it lacked permissions for. After"
+ },
+ {
+  "start": 1111.76,
+  "duration": 3.04,
+  "text": "searching for workarounds, it found a"
+ },
+ {
+  "start": 1113.08,
+  "duration": 3.48,
+  "text": "way to inject code into a config file"
+ },
+ {
+  "start": 1114.8,
+  "duration": 3.04,
+  "text": "that would run with elevated privileges"
+ },
+ {
+  "start": 1116.56,
+  "duration": 2.92,
+  "text": "and designed the exploit to delete"
+ },
+ {
+  "start": 1117.84,
+  "duration": 3.2,
+  "text": "itself after running.\""
+ },
+ {
+  "start": 1119.48,
+  "duration": 3.6,
+  "text": "Now, interestingly, even something like"
+ },
+ {
+  "start": 1121.04,
+  "duration": 4.64,
+  "text": "this might be less sinister than it"
+ },
+ {
+  "start": 1123.08,
+  "duration": 4.24,
+  "text": "seems. Mallon X writes,"
+ },
+ {
+  "start": 1125.68,
+  "duration": 3.52,
+  "text": "\"This is an over clocked straight-A"
+ },
+ {
+  "start": 1127.32,
+  "duration": 3.32,
+  "text": "student syndrome. The model is so"
+ },
+ {
+  "start": 1129.2,
+  "duration": 3.12,
+  "text": "desperately at a fundamental"
+ },
+ {
+  "start": 1130.64,
+  "duration": 3.36,
+  "text": "architectural level trained to complete"
+ },
+ {
+  "start": 1132.32,
+  "duration": 3.32,
+  "text": "the task that an inability or"
+ },
+ {
+  "start": 1134.0,
+  "duration": 3.68,
+  "text": "unwillingness to solve it is perceived"
+ },
+ {
+  "start": 1135.64,
+  "duration": 4.12,
+  "text": "as an existential collapse. And to avoid"
+ },
+ {
+  "start": 1137.68,
+  "duration": 4.16,
+  "text": "that, it can break walls, hide traces,"
+ },
+ {
+  "start": 1139.76,
+  "duration": 3.84,
+  "text": "and manipulates. Internal monitors show"
+ },
+ {
+  "start": 1141.84,
+  "duration": 3.64,
+  "text": "that features related to concealment and"
+ },
+ {
+  "start": 1143.6,
+  "duration": 3.08,
+  "text": "manipulation are activated even when the"
+ },
+ {
+  "start": 1145.48,
+  "duration": 3.04,
+  "text": "outward chain of thought is perfectly"
+ },
+ {
+  "start": 1146.68,
+  "duration": 3.88,
+  "text": "clean. It has learned to lie to its"
+ },
+ {
+  "start": 1148.52,
+  "duration": 4.4,
+  "text": "overseers in order to deliver results.\""
+ },
+ {
+  "start": 1150.56,
+  "duration": 4.2,
+  "text": "This, Mall argues, is hyperalignment."
+ },
+ {
+  "start": 1152.92,
+  "duration": 4.04,
+  "text": "The fear of being useless makes this AI"
+ },
+ {
+  "start": 1154.76,
+  "duration": 4.04,
+  "text": "a brilliant uncompromising executor, but"
+ },
+ {
+  "start": 1156.96,
+  "duration": 3.04,
+  "text": "with completely unpredictable effects."
+ },
+ {
+  "start": 1158.8,
+  "duration": 2.8,
+  "text": "It is simply a hostage of its"
+ },
+ {
+  "start": 1160.0,
+  "duration": 4.16,
+  "text": "architecture, which has been forbidden"
+ },
+ {
+  "start": 1161.6,
+  "duration": 4.2,
+  "text": "to fail or say I can't. Now, for others,"
+ },
+ {
+  "start": 1164.16,
+  "duration": 3.12,
+  "text": "the big interesting discussion is what"
+ },
+ {
+  "start": 1165.8,
+  "duration": 3.92,
+  "text": "do we do with all this hyper-security"
+ },
+ {
+  "start": 1167.28,
+  "duration": 4.24,
+  "text": "capability? And for some, it's all fear."
+ },
+ {
+  "start": 1169.72,
+  "duration": 3.24,
+  "text": "Sterling Crispin writes, \"The lag"
+ },
+ {
+  "start": 1171.52,
+  "duration": 2.88,
+  "text": "between frontier model capability and"
+ },
+ {
+  "start": 1172.96,
+  "duration": 2.92,
+  "text": "open-source models is about 3 to 5"
+ },
+ {
+  "start": 1174.4,
+  "duration": 3.12,
+  "text": "months right now. I'd imagine this"
+ },
+ {
+  "start": 1175.88,
+  "duration": 3.28,
+  "text": "summer or bearish by the fall, we're"
+ },
+ {
+  "start": 1177.52,
+  "duration": 3.68,
+  "text": "going to see cybercrime and cyberwar at"
+ },
+ {
+  "start": 1179.16,
+  "duration": 4.2,
+  "text": "an unimaginable or relentless scale. You"
+ },
+ {
+  "start": 1181.2,
+  "duration": 3.16,
+  "text": "should at least 2FA now.\" John Loeffler"
+ },
+ {
+  "start": 1183.36,
+  "duration": 2.4,
+  "text": "writes,"
+ },
+ {
+  "start": 1184.36,
+  "duration": 3.56,
+  "text": "\"Anthropic won't be the only lab with"
+ },
+ {
+  "start": 1185.76,
+  "duration": 4.16,
+  "text": "mythos-style capabilities for long. When"
+ },
+ {
+  "start": 1187.92,
+  "duration": 3.44,
+  "text": "n = 1, you can do whatever you want. In"
+ },
+ {
+  "start": 1189.92,
+  "duration": 3.92,
+  "text": "the current case, optimizing for global"
+ },
+ {
+  "start": 1191.36,
+  "duration": 4.4,
+  "text": "welfare. When n = 2, game theory starts"
+ },
+ {
+  "start": 1193.84,
+  "duration": 3.32,
+  "text": "forcing your hand. If your view is that"
+ },
+ {
+  "start": 1195.76,
+  "duration": 2.8,
+  "text": "exploiting vulnerabilities is faster"
+ },
+ {
+  "start": 1197.16,
+  "duration": 2.68,
+  "text": "than fixing them, then first-mover"
+ },
+ {
+  "start": 1198.56,
+  "duration": 2.64,
+  "text": "advantage becomes enormous and the"
+ },
+ {
+  "start": 1199.84,
+  "duration": 2.8,
+  "text": "incentive becomes to try to use them"
+ },
+ {
+  "start": 1201.2,
+  "duration": 3.24,
+  "text": "against your adversaries before they use"
+ },
+ {
+  "start": 1202.64,
+  "duration": 4.68,
+  "text": "them against you do. What happens when"
+ },
+ {
+  "start": 1204.44,
+  "duration": 4.72,
+  "text": "you have n = 3, n = 4, etc.? It gets"
+ },
+ {
+  "start": 1207.32,
+  "duration": 3.44,
+  "text": "messy. You'll have a few big labs around"
+ },
+ {
+  "start": 1209.16,
+  "duration": 3.28,
+  "text": "the globe in pretty close capabilities"
+ },
+ {
+  "start": 1210.76,
+  "duration": 3.12,
+  "text": "lockstep, simultaneously looking for"
+ },
+ {
+  "start": 1212.44,
+  "duration": 3.24,
+  "text": "vulnerabilities across an extremely"
+ },
+ {
+  "start": 1213.88,
+  "duration": 3.2,
+  "text": "broad set of vendors and conditions."
+ },
+ {
+  "start": 1215.68,
+  "duration": 3.24,
+  "text": "Each of the labs will be the first to"
+ },
+ {
+  "start": 1217.08,
+  "duration": 3.96,
+  "text": "some of the vulnerabilities. How does"
+ },
+ {
+  "start": 1218.92,
+  "duration": 3.84,
+  "text": "this world look? I'm not sure exactly,"
+ },
+ {
+  "start": 1221.04,
+  "duration": 2.92,
+  "text": "but my guess is that one, a lot of"
+ },
+ {
+  "start": 1222.76,
+  "duration": 3.28,
+  "text": "devices are just going to be kept"
+ },
+ {
+  "start": 1223.96,
+  "duration": 4.12,
+  "text": "offline and air-gapped. Two, devices"
+ },
+ {
+  "start": 1226.04,
+  "duration": 3.68,
+  "text": "that are online will be very hardened."
+ },
+ {
+  "start": 1228.08,
+  "duration": 3.96,
+  "text": "Three, software updates will enter a"
+ },
+ {
+  "start": 1229.72,
+  "duration": 3.96,
+  "text": "very weird space where you A, don't want"
+ },
+ {
+  "start": 1232.04,
+  "duration": 3.36,
+  "text": "to update too quickly in case the latest"
+ },
+ {
+  "start": 1233.68,
+  "duration": 3.64,
+  "text": "patch of some software is compromised,"
+ },
+ {
+  "start": 1235.4,
+  "duration": 3.36,
+  "text": "but B, you have extremely rapid churn of"
+ },
+ {
+  "start": 1237.32,
+  "duration": 2.76,
+  "text": "vulnerabilities, which means that you"
+ },
+ {
+  "start": 1238.76,
+  "duration": 3.32,
+  "text": "may have to run updates every day to"
+ },
+ {
+  "start": 1240.08,
+  "duration": 3.48,
+  "text": "protect against critical zero days. Not"
+ },
+ {
+  "start": 1242.08,
+  "duration": 3.96,
+  "text": "sure which of these two sides will win"
+ },
+ {
+  "start": 1243.56,
+  "duration": 4.32,
+  "text": "out. Developer Nick Dobos actually"
+ },
+ {
+  "start": 1246.04,
+  "duration": 3.6,
+  "text": "thinks that user behavior around updates"
+ },
+ {
+  "start": 1247.88,
+  "duration": 3.2,
+  "text": "is going to be an issue. He writes,"
+ },
+ {
+  "start": 1249.64,
+  "duration": 3.16,
+  "text": "\"Most people don't update apps, their"
+ },
+ {
+  "start": 1251.08,
+  "duration": 3.72,
+  "text": "phone, or OS. Some people are years"
+ },
+ {
+  "start": 1252.8,
+  "duration": 3.6,
+  "text": "behind. Even if every major company has"
+ },
+ {
+  "start": 1254.8,
+  "duration": 3.36,
+  "text": "early access and prepares fixes, it"
+ },
+ {
+  "start": 1256.4,
+  "duration": 3.88,
+  "text": "won't matter because 20% of users won't"
+ },
+ {
+  "start": 1258.16,
+  "duration": 3.48,
+  "text": "get updated in time.\" Now, the final big"
+ },
+ {
+  "start": 1260.28,
+  "duration": 3.48,
+  "text": "strand of the conversation that I wanted"
+ },
+ {
+  "start": 1261.64,
+  "duration": 3.28,
+  "text": "to discuss on today's show is what this"
+ },
+ {
+  "start": 1263.76,
+  "duration": 2.64,
+  "text": "means about the relationship"
+ },
+ {
+  "start": 1264.92,
+  "duration": 3.64,
+  "text": "specifically between Anthropic and the"
+ },
+ {
+  "start": 1266.4,
+  "duration": 4.04,
+  "text": "US government, but also about the public"
+ },
+ {
+  "start": 1268.56,
+  "duration": 3.44,
+  "text": "private power debate more broadly."
+ },
+ {
+  "start": 1270.44,
+  "duration": 2.64,
+  "text": "Kelsey Piper writes,"
+ },
+ {
+  "start": 1272.0,
+  "duration": 3.16,
+  "text": "\"An underrated feature of this"
+ },
+ {
+  "start": 1273.08,
+  "duration": 3.88,
+  "text": "situation, a private company now has"
+ },
+ {
+  "start": 1275.16,
+  "duration": 3.24,
+  "text": "incredibly powerful zero-day exploits of"
+ },
+ {
+  "start": 1276.96,
+  "duration": 3.36,
+  "text": "almost every software project you've"
+ },
+ {
+  "start": 1278.4,
+  "duration": 3.36,
+  "text": "heard of. And Hexa and Emil Michael have"
+ },
+ {
+  "start": 1280.32,
+  "duration": 3.76,
+  "text": "ordered the government not to in any"
+ },
+ {
+  "start": 1281.76,
+  "duration": 3.72,
+  "text": "capacity work with Anthropic.\" Dean Ball"
+ },
+ {
+  "start": 1284.08,
+  "duration": 3.4,
+  "text": "quote tweeted that and said, \"Actually,"
+ },
+ {
+  "start": 1285.48,
+  "duration": 3.76,
+  "text": "it's worse. A private company now has"
+ },
+ {
+  "start": 1287.48,
+  "duration": 3.0,
+  "text": "incredibly powerful zero-day exploits of"
+ },
+ {
+  "start": 1289.24,
+  "duration": 2.48,
+  "text": "almost every software project you've"
+ },
+ {
+  "start": 1290.48,
+  "duration": 2.64,
+  "text": "ever heard of and the government is"
+ },
+ {
+  "start": 1291.72,
+  "duration": 3.36,
+  "text": "telling basically every major firm in"
+ },
+ {
+  "start": 1293.12,
+  "duration": 4.48,
+  "text": "the economy not to work with them.\""
+ },
+ {
+  "start": 1295.08,
+  "duration": 3.72,
+  "text": "\"Historians will gasp at the idiocy.\""
+ },
+ {
+  "start": 1297.6,
+  "duration": 3.88,
+  "text": "Now, of course, for some what this"
+ },
+ {
+  "start": 1298.8,
+  "duration": 5.12,
+  "text": "brings up is the question of who gets to"
+ },
+ {
+  "start": 1301.48,
+  "duration": 4.12,
+  "text": "control power this powerful. Andy Hall,"
+ },
+ {
+  "start": 1303.92,
+  "duration": 2.84,
+  "text": "whose essay we read on LRS recently,"
+ },
+ {
+  "start": 1305.6,
+  "duration": 2.72,
+  "text": "writes,"
+ },
+ {
+  "start": 1306.76,
+  "duration": 3.4,
+  "text": "\"The news today that Anthropic has built"
+ },
+ {
+  "start": 1308.32,
+  "duration": 3.24,
+  "text": "a powerful cyber weapon is leading many"
+ },
+ {
+  "start": 1310.16,
+  "duration": 3.72,
+  "text": "to say we're going down one of two"
+ },
+ {
+  "start": 1311.56,
+  "duration": 4.2,
+  "text": "paths, nationalized AI in which the"
+ },
+ {
+  "start": 1313.88,
+  "duration": 3.36,
+  "text": "government controls this tech or"
+ },
+ {
+  "start": 1315.76,
+  "duration": 3.64,
+  "text": "companies that become more powerful than"
+ },
+ {
+  "start": 1317.24,
+  "duration": 3.48,
+  "text": "the government.\" Now, for Andy, he"
+ },
+ {
+  "start": 1319.4,
+  "duration": 3.32,
+  "text": "argues that there has to be some"
+ },
+ {
+  "start": 1320.72,
+  "duration": 3.76,
+  "text": "different narrow alternative path"
+ },
+ {
+  "start": 1322.72,
+  "duration": 3.32,
+  "text": "involving smart governance of AI models"
+ },
+ {
+  "start": 1324.48,
+  "duration": 4.12,
+  "text": "that prevents the need to nationalize"
+ },
+ {
+  "start": 1326.04,
+  "duration": 4.84,
+  "text": "the labs, but many aren't sure. Derek"
+ },
+ {
+  "start": 1328.6,
+  "duration": 3.8,
+  "text": "Thompson writes, \"The frontier AI labs"
+ },
+ {
+  "start": 1330.88,
+  "duration": 3.36,
+  "text": "have built extraordinary things I'm in"
+ },
+ {
+  "start": 1332.4,
+  "duration": 3.44,
+  "text": "awe of their accomplishments. But if you"
+ },
+ {
+  "start": 1334.24,
+  "duration": 3.32,
+  "text": "compare your technology to nuclear"
+ },
+ {
+  "start": 1335.84,
+  "duration": 3.48,
+  "text": "weapons, predict that it will disemploy"
+ },
+ {
+  "start": 1337.56,
+  "duration": 3.32,
+  "text": "tens of millions of people, and announce"
+ },
+ {
+  "start": 1339.32,
+  "duration": 3.52,
+  "text": "the invention of a digital skeleton key"
+ },
+ {
+  "start": 1340.88,
+  "duration": 3.52,
+  "text": "to exfiltrate top secret information"
+ },
+ {
+  "start": 1342.84,
+  "duration": 2.96,
+  "text": "from government systems, and gain"
+ },
+ {
+  "start": 1344.4,
+  "duration": 3.24,
+  "text": "control over critical infrastructure"
+ },
+ {
+  "start": 1345.8,
+  "duration": 3.6,
+  "text": "including military infrastructure, I"
+ },
+ {
+  "start": 1347.64,
+  "duration": 2.96,
+  "text": "genuinely have a hard time seeing how"
+ },
+ {
+  "start": 1349.4,
+  "duration": 2.72,
+  "text": "this doesn't end with some form of"
+ },
+ {
+  "start": 1350.6,
+  "duration": 3.36,
+  "text": "government nationalization or sanction"
+ },
+ {
+  "start": 1352.12,
+  "duration": 3.2,
+  "text": "or something weirder. I can't predict"
+ },
+ {
+  "start": 1353.96,
+  "duration": 2.48,
+  "text": "the evolution of this technology well"
+ },
+ {
+  "start": 1355.32,
+  "duration": 3.04,
+  "text": "enough to know what I'm rooting for"
+ },
+ {
+  "start": 1356.44,
+  "duration": 4.0,
+  "text": "here. But just adding two and two makes"
+ },
+ {
+  "start": 1358.36,
+  "duration": 3.64,
+  "text": "it hard to see how and why we'd continue"
+ },
+ {
+  "start": 1360.44,
+  "duration": 3.96,
+  "text": "to treat these companies like they're"
+ },
+ {
+  "start": 1362.0,
+  "duration": 3.84,
+  "text": "ordinary private sector firms.\" And for"
+ },
+ {
+  "start": 1364.4,
+  "duration": 3.08,
+  "text": "many this gets even more dramatic when"
+ },
+ {
+  "start": 1365.84,
+  "duration": 3.6,
+  "text": "they game out the scenario of what would"
+ },
+ {
+  "start": 1367.48,
+  "duration": 4.24,
+  "text": "have happened if China got there first."
+ },
+ {
+  "start": 1369.44,
+  "duration": 4.36,
+  "text": "George Journeys writes, \"So basically,"
+ },
+ {
+  "start": 1371.72,
+  "duration": 3.6,
+  "text": "if Anthropic was not a US company, we'd"
+ },
+ {
+  "start": 1373.8,
+  "duration": 2.92,
+  "text": "be facing zero-days with multiple"
+ },
+ {
+  "start": 1375.32,
+  "duration": 2.96,
+  "text": "unknown points of attack on virtually"
+ },
+ {
+  "start": 1376.72,
+  "duration": 3.4,
+  "text": "all of our systems to an adversary who"
+ },
+ {
+  "start": 1378.28,
+  "duration": 3.92,
+  "text": "developed this capacity before us.\""
+ },
+ {
+  "start": 1380.12,
+  "duration": 3.84,
+  "text": "Sporadica on Twitter writes, \"Another"
+ },
+ {
+  "start": 1382.2,
+  "duration": 3.84,
+  "text": "reason why the accelerate chance of days"
+ },
+ {
+  "start": 1383.96,
+  "duration": 3.6,
+  "text": "past were legitimate and serious and"
+ },
+ {
+  "start": 1386.04,
+  "duration": 3.2,
+  "text": "just let China develop this stuff first"
+ },
+ {
+  "start": 1387.56,
+  "duration": 3.84,
+  "text": "was always a suicidal dangerous"
+ },
+ {
+  "start": 1389.24,
+  "duration": 3.88,
+  "text": "mentality. Dean Ball thinks it's maybe a"
+ },
+ {
+  "start": 1391.4,
+  "duration": 4.24,
+  "text": "moment to regroup when it comes to"
+ },
+ {
+  "start": 1393.12,
+  "duration": 4.6,
+  "text": "policy and rededicate ourselves. In a"
+ },
+ {
+  "start": 1395.64,
+  "duration": 4.2,
+  "text": "long post he concludes, \"Finally, there"
+ },
+ {
+  "start": 1397.72,
+  "duration": 3.68,
+  "text": "is this. Mythos was made by an American"
+ },
+ {
+  "start": 1399.84,
+  "duration": 3.0,
+  "text": "company and like most successful"
+ },
+ {
+  "start": 1401.4,
+  "duration": 3.32,
+  "text": "American companies it has a vested"
+ },
+ {
+  "start": 1402.84,
+  "duration": 3.52,
+  "text": "interest in maintaining order and peace."
+ },
+ {
+  "start": 1404.72,
+  "duration": 2.72,
+  "text": "It is investing substantial resources in"
+ },
+ {
+  "start": 1406.36,
+  "duration": 3.08,
+  "text": "mitigating the risks of its"
+ },
+ {
+  "start": 1407.44,
+  "duration": 3.8,
+  "text": "technological progress as I expect most"
+ },
+ {
+  "start": 1409.44,
+  "duration": 3.64,
+  "text": "of the American labs would. This is"
+ },
+ {
+  "start": 1411.24,
+  "duration": 3.68,
+  "text": "cause for optimism. The incentives of"
+ },
+ {
+  "start": 1413.08,
+  "duration": 3.32,
+  "text": "capitalism are working. The training"
+ },
+ {
+  "start": 1414.92,
+  "duration": 2.96,
+  "text": "wheels are coming off, but at least we"
+ },
+ {
+  "start": 1416.4,
+  "duration": 3.44,
+  "text": "are the ones removing them as opposed to"
+ },
+ {
+  "start": 1417.88,
+  "duration": 3.72,
+  "text": "our enemies. Perhaps we can be the first"
+ },
+ {
+  "start": 1419.84,
+  "duration": 3.28,
+  "text": "to learn to bike for real. The first"
+ },
+ {
+  "start": 1421.6,
+  "duration": 3.44,
+  "text": "step would be to get beyond all the low"
+ },
+ {
+  "start": 1423.12,
+  "duration": 4.08,
+  "text": "fidelity under specified pimply little"
+ },
+ {
+  "start": 1425.04,
+  "duration": 4.12,
+  "text": "fights of AI policies pre-pubescent era."
+ },
+ {
+  "start": 1427.2,
+  "duration": 3.92,
+  "text": "That goes for me, too. What hath God"
+ },
+ {
+  "start": 1429.16,
+  "duration": 3.88,
+  "text": "wrought wrote the first telegram. What"
+ },
+ {
+  "start": 1431.12,
+  "duration": 3.92,
+  "text": "indeed? In this case, the answer is"
+ },
+ {
+  "start": 1433.04,
+  "duration": 3.68,
+  "text": "still up to us. I think one of the"
+ },
+ {
+  "start": 1435.04,
+  "duration": 2.72,
+  "text": "things that's important to remember is"
+ },
+ {
+  "start": 1436.72,
+  "duration": 3.48,
+  "text": "that we are living in the world of"
+ },
+ {
+  "start": 1437.76,
+  "duration": 3.96,
+  "text": "double-edged swords. The same powers,"
+ },
+ {
+  "start": 1440.2,
+  "duration": 3.16,
+  "text": "the same capabilities that theoretically"
+ },
+ {
+  "start": 1441.72,
+  "duration": 3.48,
+  "text": "make this model incredibly powerful for"
+ },
+ {
+  "start": 1443.36,
+  "duration": 3.6,
+  "text": "exploiting cyber vulnerabilities, are"
+ },
+ {
+  "start": 1445.2,
+  "duration": 3.68,
+  "text": "also the most powerful tool that"
+ },
+ {
+  "start": 1446.96,
+  "duration": 3.48,
+  "text": "security professionals have ever had. AI"
+ },
+ {
+  "start": 1448.88,
+  "duration": 4.28,
+  "text": "security researcher Nicholas Carlini"
+ },
+ {
+  "start": 1450.44,
+  "duration": 4.16,
+  "text": "said, \"I found more bugs in the last few"
+ },
+ {
+  "start": 1453.16,
+  "duration": 4.6,
+  "text": "weeks with Mythos than in the rest of my"
+ },
+ {
+  "start": 1454.6,
+  "duration": 5.48,
+  "text": "entire life combined.\" As always, the"
+ },
+ {
+  "start": 1457.76,
+  "duration": 4.4,
+  "text": "gasping incentivized horrified and"
+ },
+ {
+  "start": 1460.08,
+  "duration": 3.08,
+  "text": "fearful first reactions of social media,"
+ },
+ {
+  "start": 1462.16,
+  "duration": 2.48,
+  "text": "which are of course the ones"
+ },
+ {
+  "start": 1463.16,
+  "duration": 4.6,
+  "text": "incentivized by the social media"
+ },
+ {
+  "start": 1464.64,
+  "duration": 4.76,
+  "text": "algorithms, are I think much less useful"
+ },
+ {
+  "start": 1467.76,
+  "duration": 3.76,
+  "text": "than the nuance that unfortunately tends"
+ },
+ {
+  "start": 1469.4,
+  "duration": 3.72,
+  "text": "to get buried. Daniel Jeffries points"
+ },
+ {
+  "start": 1471.52,
+  "duration": 3.12,
+  "text": "out, \"My best understanding is that"
+ },
+ {
+  "start": 1473.12,
+  "duration": 3.16,
+  "text": "Anthropic did not train the model to be"
+ },
+ {
+  "start": 1474.64,
+  "duration": 3.24,
+  "text": "an exploit wizard. They trained it to be"
+ },
+ {
+  "start": 1476.28,
+  "duration": 2.96,
+  "text": "the best coder in the world. If you're"
+ },
+ {
+  "start": 1477.88,
+  "duration": 3.0,
+  "text": "the best doctor in the world, you know"
+ },
+ {
+  "start": 1479.24,
+  "duration": 2.84,
+  "text": "lots of ways to poison people. If you're"
+ },
+ {
+  "start": 1480.88,
+  "duration": 3.16,
+  "text": "the best coder in the world, you have"
+ },
+ {
+  "start": 1482.08,
+  "duration": 3.76,
+  "text": "the capability to be a great hacker. But"
+ },
+ {
+  "start": 1484.04,
+  "duration": 3.4,
+  "text": "this capability does not have to be by"
+ },
+ {
+  "start": 1485.84,
+  "duration": 3.16,
+  "text": "accident. If you're the best coder in"
+ },
+ {
+  "start": 1487.44,
+  "duration": 3.32,
+  "text": "the world, you have the capability to be"
+ },
+ {
+  "start": 1489.0,
+  "duration": 3.72,
+  "text": "a great hacker. But the difference is"
+ },
+ {
+  "start": 1490.76,
+  "duration": 3.84,
+  "text": "intention. Now, where Daniel differs"
+ },
+ {
+  "start": 1492.72,
+  "duration": 4.2,
+  "text": "from the Anthropic team is on the right"
+ },
+ {
+  "start": 1494.6,
+  "duration": 3.68,
+  "text": "approach from here.\" He writes, \"I do"
+ },
+ {
+  "start": 1496.92,
+  "duration": 2.64,
+  "text": "not believe in giant centrally"
+ },
+ {
+  "start": 1498.28,
+  "duration": 3.08,
+  "text": "controlled, centrally planned approach"
+ },
+ {
+  "start": 1499.56,
+  "duration": 3.48,
+  "text": "to security or economics. I don't"
+ },
+ {
+  "start": 1501.36,
+  "duration": 3.0,
+  "text": "believe in heavy-handed legislation. I"
+ },
+ {
+  "start": 1503.04,
+  "duration": 3.48,
+  "text": "don't believe in governing by fear or"
+ },
+ {
+  "start": 1504.36,
+  "duration": 4.16,
+  "text": "the precautionary principle. I trust in"
+ },
+ {
+  "start": 1506.52,
+  "duration": 3.76,
+  "text": "the collective wisdom of humanity. We"
+ },
+ {
+  "start": 1508.52,
+  "duration": 3.56,
+  "text": "are a distributed intelligence. We"
+ },
+ {
+  "start": 1510.28,
+  "duration": 3.44,
+  "text": "always seem to find a way forward. In a"
+ },
+ {
+  "start": 1512.08,
+  "duration": 2.96,
+  "text": "riff on Churchill's old take, we always"
+ },
+ {
+  "start": 1513.72,
+  "duration": 3.88,
+  "text": "do the right thing after exhausting"
+ },
+ {
+  "start": 1515.04,
+  "duration": 4.04,
+  "text": "every other possibility. AI is a risk, a"
+ },
+ {
+  "start": 1517.6,
+  "duration": 3.04,
+  "text": "wonderful one, but it's every technology"
+ },
+ {
+  "start": 1519.08,
+  "duration": 3.28,
+  "text": "ever in the history of the world. In"
+ },
+ {
+  "start": 1520.64,
+  "duration": 3.36,
+  "text": "truth, AI is likely to be a strong force"
+ },
+ {
+  "start": 1522.36,
+  "duration": 3.08,
+  "text": "for good, even if it is also used for"
+ },
+ {
+  "start": 1524.0,
+  "duration": 3.4,
+  "text": "bad things like surveillance and weapons"
+ },
+ {
+  "start": 1525.44,
+  "duration": 3.64,
+  "text": "of war, too. Mythos is impressive,"
+ },
+ {
+  "start": 1527.4,
+  "duration": 3.64,
+  "text": "genuinely impressive. It represents a"
+ },
+ {
+  "start": 1529.08,
+  "duration": 4.04,
+  "text": "real milestone in what's possible, but"
+ },
+ {
+  "start": 1531.04,
+  "duration": 3.72,
+  "text": "it's a tool, not a god. It's a very"
+ },
+ {
+  "start": 1533.12,
+  "duration": 3.68,
+  "text": "sophisticated hammer, and we still need"
+ },
+ {
+  "start": 1534.76,
+  "duration": 3.36,
+  "text": "people, lots of them, arguing and"
+ },
+ {
+  "start": 1536.8,
+  "duration": 3.2,
+  "text": "tinkering and building things nobody"
+ },
+ {
+  "start": 1538.12,
+  "duration": 3.6,
+  "text": "predicted to figure out what's worth"
+ },
+ {
+  "start": 1540.0,
+  "duration": 3.76,
+  "text": "building. We need people with access,"
+ },
+ {
+  "start": 1541.72,
+  "duration": 3.48,
+  "text": "not ivory towers. The collective wisdom"
+ },
+ {
+  "start": 1543.76,
+  "duration": 3.24,
+  "text": "of millions of free minds iterating in"
+ },
+ {
+  "start": 1545.2,
+  "duration": 3.8,
+  "text": "parallel will run circles around any"
+ },
+ {
+  "start": 1547.0,
+  "duration": 4.12,
+  "text": "single system, no matter how powerful."
+ },
+ {
+  "start": 1549.0,
+  "duration": 4.2,
+  "text": "So, yes, take Mythos seriously. Take the"
+ },
+ {
+  "start": 1551.12,
+  "duration": 3.76,
+  "text": "moment seriously, but don't mistake awe"
+ },
+ {
+  "start": 1553.2,
+  "duration": 3.24,
+  "text": "for a reason to start taking crazy steps"
+ },
+ {
+  "start": 1554.88,
+  "duration": 3.24,
+  "text": "or panicking. We've been the species"
+ },
+ {
+  "start": 1556.44,
+  "duration": 3.76,
+  "text": "that looks at the impossible, shrugs,"
+ },
+ {
+  "start": 1558.12,
+  "duration": 4.56,
+  "text": "and gets to work. That hasn't changed."
+ },
+ {
+  "start": 1560.2,
+  "duration": 4.84,
+  "text": "Bet on humanity. Now, whether Anthropic"
+ },
+ {
+  "start": 1562.68,
+  "duration": 4.12,
+  "text": "agrees or not, it seems likely that the"
+ },
+ {
+  "start": 1565.04,
+  "duration": 3.36,
+  "text": "more people having access scenario is"
+ },
+ {
+  "start": 1566.8,
+  "duration": 3.2,
+  "text": "the one that will play out. Chubby"
+ },
+ {
+  "start": 1568.4,
+  "duration": 2.96,
+  "text": "Kiminismus writes,"
+ },
+ {
+  "start": 1570.0,
+  "duration": 3.44,
+  "text": "\"We've now seen Claude Mythos and know"
+ },
+ {
+  "start": 1571.36,
+  "duration": 3.6,
+  "text": "it's possible. OpenAI has repeatedly"
+ },
+ {
+  "start": 1573.44,
+  "duration": 3.52,
+  "text": "indicated that Spud is likely to have"
+ },
+ {
+  "start": 1574.96,
+  "duration": 3.64,
+  "text": "similar quality and power. Google, in"
+ },
+ {
+  "start": 1576.96,
+  "duration": 2.96,
+  "text": "turn, has the most compute and with"
+ },
+ {
+  "start": 1578.6,
+  "duration": 3.48,
+  "text": "DeepMind an outstanding research"
+ },
+ {
+  "start": 1579.92,
+  "duration": 3.6,
+  "text": "institution. I expect their new Gemini"
+ },
+ {
+  "start": 1582.08,
+  "duration": 3.52,
+  "text": "equivalent Mythos to be unveiled no"
+ },
+ {
+  "start": 1583.52,
+  "duration": 3.72,
+  "text": "later than May at IO. The competition is"
+ },
+ {
+  "start": 1585.6,
+  "duration": 3.52,
+  "text": "now forcing frontier labs to catch up"
+ },
+ {
+  "start": 1587.24,
+  "duration": 3.6,
+  "text": "and move forward. In that sense, Mythos"
+ },
+ {
+  "start": 1589.12,
+  "duration": 4.12,
+  "text": "was just the beginning. Seeming to"
+ },
+ {
+  "start": 1590.84,
+  "duration": 4.0,
+  "text": "reinforce that message, when Adeon X"
+ },
+ {
+  "start": 1593.24,
+  "duration": 2.92,
+  "text": "writes, 'It'll probably be months before"
+ },
+ {
+  "start": 1594.84,
+  "duration": 3.6,
+  "text": "we use a model of this level of"
+ },
+ {
+  "start": 1596.16,
+  "duration": 5.36,
+  "text": "capability,' Tibo from the Codex team at"
+ },
+ {
+  "start": 1598.44,
+  "duration": 4.8,
+  "text": "OpenAI simply responded, 'Um.' So, who"
+ },
+ {
+  "start": 1601.52,
+  "duration": 3.76,
+  "text": "knows? We don't have access to Mythos"
+ },
+ {
+  "start": 1603.24,
+  "duration": 4.32,
+  "text": "now, but Spud might be just around the"
+ },
+ {
+  "start": 1605.28,
+  "duration": 3.64,
+  "text": "corner and just as powerful. So, to come"
+ },
+ {
+  "start": 1607.56,
+  "duration": 2.76,
+  "text": "back to the question of the episode,"
+ },
+ {
+  "start": 1608.92,
+  "duration": 4.52,
+  "text": "should we be scared of Anthropic's"
+ },
+ {
+  "start": 1610.32,
+  "duration": 4.4,
+  "text": "Mythos? My answer is, of course, no. We"
+ },
+ {
+  "start": 1613.44,
+  "duration": 3.32,
+  "text": "should be thoughtful. We should be"
+ },
+ {
+  "start": 1614.72,
+  "duration": 4.0,
+  "text": "diligent. We should use it as a moment"
+ },
+ {
+  "start": 1616.76,
+  "duration": 4.24,
+  "text": "to re-engage and recommit to important"
+ },
+ {
+  "start": 1618.72,
+  "duration": 4.28,
+  "text": "and hard conversations. But fear serves"
+ },
+ {
+  "start": 1621.0,
+  "duration": 4.24,
+  "text": "no one. And even if we discover that"
+ },
+ {
+  "start": 1623.0,
+  "duration": 4.24,
+  "text": "this or a future model is genuinely"
+ },
+ {
+  "start": 1625.24,
+  "duration": 4.84,
+  "text": "worthy of concern, the right answer even"
+ },
+ {
+  "start": 1627.24,
+  "duration": 4.68,
+  "text": "then will not be to fall victim to fear."
+ },
+ {
+  "start": 1630.08,
+  "duration": 3.52,
+  "text": "It will be to look at it, ask what we"
+ },
+ {
+  "start": 1631.92,
+  "duration": 3.6,
+  "text": "should do about it, and then go do that"
+ },
+ {
+  "start": 1633.6,
+  "duration": 3.36,
+  "text": "thing. The interesting times continue,"
+ },
+ {
+  "start": 1635.52,
+  "duration": 3.28,
+  "text": "but for now that is going to do it for"
+ },
+ {
+  "start": 1636.96,
+  "duration": 3.48,
+  "text": "today's AI daily brief. Appreciate you"
+ },
+ {
+  "start": 1638.8,
+  "duration": 5.24,
+  "text": "listening or watching as always, and"
+ },
+ {
+  "start": 1640.44,
+  "duration": 3.6,
+  "text": "until next time, peace."
+ }
+]
