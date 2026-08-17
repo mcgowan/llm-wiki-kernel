@@ -2,4 +2,9 @@ name: llm-wiki-kernel
 okf_version: '0.2'
 bundles_dir: bundles
 keep_raw: true
-bundles: {}
+bundles:
+  ai-daily-brief:
+    title: The AI Daily Brief
+    description: Transcripts and synthesized topics from The AI Daily Brief (@AIDailyBrief),
+      a daily news show covering AI industry developments, model releases, agents,
+      and AI business strategy.
